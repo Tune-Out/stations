@@ -27,6 +27,15 @@ lastchangetime: 2026-01-15 02:41:59
 clickcount: 1
 geo_lat: 54.56709837095587
 geo_long: 18.40003967285157
+curation: -0.05
+streams:
+  - url: 'https://stream.24dubstep.pl/radio/8000/mp3_normal'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream.24dubstep.pl/public/dubstep/playlist.pls'
+    url_resolved: 'https://stream.24dubstep.pl/listen/dubstep/mp3_best'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

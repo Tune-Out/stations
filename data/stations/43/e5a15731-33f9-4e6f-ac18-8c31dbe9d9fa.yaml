@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://usa4.fastcast4u.com:5006/stream'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://usa4.fastcast4u.com:5006/;'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

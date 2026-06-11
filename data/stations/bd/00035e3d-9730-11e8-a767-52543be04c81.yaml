@@ -21,6 +21,18 @@ lastchangetime: 2026-01-15 06:04:09
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: c92395ae-b0b3-4364-ace0-0d8224bf8776
+streams:
+  - url: 'https://dieneue1077.cast.addradio.de/dieneue1077/oldie/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://dieneue1077.cast.addradio.de/dieneue1077/oldie/high/stream.mp3?ar-purpose=web?ar-distributor=f0a5'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://dieneue1077.cast.addradio.de/dieneue1077/oldie/high/stream.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

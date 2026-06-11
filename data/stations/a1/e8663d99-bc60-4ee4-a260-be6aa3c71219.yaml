@@ -19,6 +19,19 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://radiowoking.radioca.st/wokinglow.m3u?rp_source=1&=&'
+    url_resolved: 'http://hyades.shoutca.st:8034/wokinglow'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://radiowoking.radioca.st/stream?rp_source=1&=&&___cb=821829812672569'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radiowoking.radioca.st/stream.m3u?rp_source=1&=&'
+    url_resolved: 'http://hyades.shoutca.st:8034/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

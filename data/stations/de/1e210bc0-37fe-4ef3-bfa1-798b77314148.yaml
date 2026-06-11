@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:23:51
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.05
+streams:
+  - url: 'https://www.ksgn.com/assets/audio/stream/aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://ksgn.com/assets/audio/stream/aac'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: religious

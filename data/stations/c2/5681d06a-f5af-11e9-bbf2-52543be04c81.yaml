@@ -24,6 +24,26 @@ lastchangetime: 2026-01-14 23:57:38
 clickcount: 37
 geo_lat: 40.785114
 geo_long: -124.183922
+curation: 0.85
+streams:
+  - url: 'https://stream.radioparadise.com/rock-flac'
+    codec: OGG
+    bitrate: 1441
+  - url: 'http://stream.radioparadise.com/rock-320'
+    codec: AAC
+    bitrate: 320
+  - url: 'http://stream.radioparadise.com/rock-128'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream.radioparadise.com/rock-64'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://stream.radioparadise.com/rock-32'
+    codec: AAC
+    bitrate: 32
+  - url: 'http://stream.radioparadise.com/rock-192'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 08:31:18
 clickcount: 1
 geo_lat: 41.358969816710534
 geo_long: 2.1050834655761723
+curation: 0.35
+streams:
+  - url: 'https://antares.dribbcast.com/proxy/onda80/stream'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://radiostreamingserver.com/listen/onda80bellvitge/radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

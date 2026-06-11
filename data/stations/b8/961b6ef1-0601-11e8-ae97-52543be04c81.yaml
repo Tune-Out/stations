@@ -3,7 +3,7 @@ name: Radio România Cultural
 url: http://stream2.srr.ro:8012/
 url_resolved: http://stream2.srr.ro:8012/
 homepage: http://www.radioromaniacultural.ro/
-favicon: ""
+favicon: https://www.radioromaniacultural.ro/templates/favicon/favicon-32x32.png
 tags:
   - culture
 country: Romania
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:22:03
 clickcount: 14
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://stream2.srr.ro:8016/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://stream2.srr.ro:8012/'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

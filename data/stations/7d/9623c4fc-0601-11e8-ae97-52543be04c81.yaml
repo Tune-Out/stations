@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 00:57:08
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://live-radio01.mediahubaustralia.com/2NEWW/aac/'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://live-radio01.mediahubaustralia.com/2NEWW/mp3/'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

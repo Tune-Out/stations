@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:39:08
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.radiogroup.de/antenne-koblenz/mp3-192/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radiogroup-stream32.radiohost.de//antenne-koblenz_mp3-192'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

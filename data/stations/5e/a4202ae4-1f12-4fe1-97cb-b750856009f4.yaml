@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 03:48:59
 clickcount: 1
 geo_lat: -6.160972485642176
 geo_long: 106.81852424169804
+curation: 0.35
+streams:
+  - url: 'https://i.klikhost.com/8266/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://i.klikhost.com:8266/stream/;'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://onair22.xdevel.com/proxy/xautocloud_6cqz_422?mp=/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

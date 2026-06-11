@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:07:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'https://stream-mp3aac.live24.gr/max925-her'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream-mp3aac.live24.gr/max925-her'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

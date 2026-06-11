@@ -22,6 +22,12 @@ lastchangetime: 2026-01-15 08:51:19
 clickcount: 1
 geo_lat: 51.2362
 geo_long: 12.7202
+curation: 0.65
+streams:
+  - url: 'https://streams.fluxfm.de/nyir-glob/mp3-320/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/nyir-glob/mp3-320'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community

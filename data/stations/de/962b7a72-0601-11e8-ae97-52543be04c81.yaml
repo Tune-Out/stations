@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 08:29:20
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://audio.streamshow.it:8006/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://audio.streamshow.it/proxy/radiocarina?mp=/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

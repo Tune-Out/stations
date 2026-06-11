@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 03:36:09
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://stream.gensokyoradio.net/2'
+    codec: OGG
+  - url: 'https://stream.gensokyoradio.net/3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://stream.gensokyoradio.net/1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

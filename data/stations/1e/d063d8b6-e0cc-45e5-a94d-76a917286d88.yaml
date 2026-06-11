@@ -22,6 +22,13 @@ lastchangetime: 2026-01-15 04:43:25
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://lhttp.qtfm.cn/live/1683/64k.mp3'
+    codec: MP3
+  - url: 'http://live.xmcdn.com/live/2716/64.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media

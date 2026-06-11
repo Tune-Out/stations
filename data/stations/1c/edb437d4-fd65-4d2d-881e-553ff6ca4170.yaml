@@ -24,6 +24,18 @@ lastchangetime: 2026-01-15 05:33:40
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8'
+    codec: AAC
+    bitrate: 200
+    hls: true
+  - url: 'https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dispatcher.rndfnk.com/hr/hr2/live/medium'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

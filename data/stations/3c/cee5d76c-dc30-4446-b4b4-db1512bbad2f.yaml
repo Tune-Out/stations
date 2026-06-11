@@ -21,6 +21,14 @@ lastchangetime: 2026-05-25 18:16:51
 clickcount: 0
 geo_lat: 33.88978324405087
 geo_long: 35.538534812524915
+curation: 0.35
+streams:
+  - url: 'https://vovan.s3ming.com/vovan.aac'
+    codec: MP3
+    bitrate: 32
+  - url: 'https://vovan.s3ming.com/vovan.mp3'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: community

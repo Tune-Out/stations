@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: 42.99463409329122
 geo_long: -71.46790041658907
+curation: 0.35
+streams:
+  - url: 'http://stream.abacast.net/direct/saga-wzidfmaac-ibc2'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://live.amperwave.net/direct/saga-wzidhd3mp3-ibc2'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

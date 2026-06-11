@@ -22,6 +22,17 @@ lastchangetime: 2026-01-14 23:51:52
 clickcount: 1
 geo_lat: 54.465
 geo_long: 17.029
+curation: 0.25
+streams:
+  - url: 'https://bcast.vigormultimedia.com:48888/sjcompl192aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://bcast.vigormultimedia.com:48888/sjcompl64aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://bcast.vigormultimedia.com:48888/sjcompl320mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 29
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'http://ouifm3.ice.infomaniak.ch/ouifm3.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://ouifm3.ice.infomaniak.ch/ouifm3.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

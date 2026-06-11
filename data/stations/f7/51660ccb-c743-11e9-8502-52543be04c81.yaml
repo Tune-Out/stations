@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 06:32:26
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://byblosnights.com:8000/byblosaac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://byblosnights.com:8360/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

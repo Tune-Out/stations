@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: 51.02838646868268
 geo_long: -114.06005859375
+curation: -0.10
+streams:
+  - url: 'https://stream.lynxradionetwork.com/hits/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://hits-lynxradio.radioca.st/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

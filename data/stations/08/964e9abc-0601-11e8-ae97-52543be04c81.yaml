@@ -23,6 +23,25 @@ lastchangetime: 2026-01-15 07:19:54
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://dreamsiteradiocp4.com:8016/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://cloudrad.io/radiomariacanadator/listen.m3u'
+    url_resolved: 'http://dreamsiteradiocp4.com:8016/'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://cloudrad.io/radiomariacanadaeng/listen.m3u'
+    url_resolved: 'http://dreamsiteradiocp.com:8016/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://dreamsiteradiocp.com:8016/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://rmcesp.radiomaria.ca:8050/;stream.mp3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

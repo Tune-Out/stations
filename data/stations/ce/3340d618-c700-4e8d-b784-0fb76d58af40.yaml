@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 23:24:33
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://stream.edmsessions.com/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://s2.radio.co/s30844a0f4/low'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

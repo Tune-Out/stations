@@ -24,6 +24,24 @@ lastchangetime: 2026-01-15 05:58:03
 clickcount: 10
 geo_lat: 59.33482591295532
 geo_long: 18.101949691772464
+curation: 0.75
+streams:
+  - url: 'https://sverigesradio.se/topsy/direkt/132-lo-aac.pls'
+    url_resolved: 'https://live1.sr.se/p1-aac-32'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u'
+    url_resolved: 'https://live1.sr.se/p1-mp3-96'
+    codec: MP3
+    bitrate: 228
+  - url: 'http://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u'
+    url_resolved: 'https://live1.sr.se/p1-mp3-96'
+    codec: MP3
+    bitrate: 228
+  - url: 'https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u'
+    url_resolved: 'https://live1.sr.se/p1-mp3-96'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

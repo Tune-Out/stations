@@ -65,8 +65,12 @@ export async function renderBrowse(_route: Route, mount: HTMLElement): Promise<v
     const cloud = el('div', { class: 'chip-cloud' });
     cloud.style.marginBlockStart = '0.75rem';
     for (const row of topTags(db, 100)) {
-      // Structured filter — tag picker will be pre-selected.
-      cloud.appendChild(tagChip(row.tag, { href: url('search', { tag: row.tag }) }));
+      // Structured filter — tag picker will be pre-selected. Count pill
+      // surfaces the station count so users can gauge breadth at a glance.
+      cloud.appendChild(tagChip(row.tag, {
+        href: url('search', { tag: row.tag }),
+        count: row.n.toLocaleString(l),
+      }));
     }
     sec.appendChild(cloud);
     root.appendChild(sec);

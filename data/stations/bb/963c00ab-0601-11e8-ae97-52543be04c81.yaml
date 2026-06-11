@@ -25,6 +25,16 @@ lastchangetime: 2026-01-15 03:23:20
 clickcount: 14
 geo_lat: 51.992489
 geo_long: 4.20763
+curation: 0.55
+streams:
+  - url: 'https://intenseradio.live-streams.nl:18000/main'
+    url_resolved: 'http://intenseradio.live-streams.nl:8000/main'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://intenseradio.live-streams.nl/main'
+    url_resolved: 'https://secure.live-streams.nl/main'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

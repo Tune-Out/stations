@@ -21,6 +21,13 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://stream.nrw1.de/nrw1/stream/mp3'
+    codec: MP3
+  - url: 'https://play.nrw1.de/nrw1.m3u'
+    url_resolved: 'http://audiotainment-sw.streamabc.net/atsw-bigfmnrw-mp3-128-1091112?sABC=6968442o%231%23492rq65866n72p29oq85p4n2546005n9%23z3hzc3&listenerid=492ed65866a72c29bd85c4a2546005a9&aw_0_1st.playerid=m3ump3&amsparams=playerid:m3ump3;skey:1768440875'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

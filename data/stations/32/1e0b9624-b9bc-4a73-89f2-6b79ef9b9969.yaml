@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://mkfmradioplayer2.radioca.st:2199/tunein/mkfmradioplayer2-stream.asx'
+    url_resolved: 'http://95.217.34.48:8850/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://mkfmradioplayer2.radioca.st/;stream.nsv?=&&___cb=838498533391580'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

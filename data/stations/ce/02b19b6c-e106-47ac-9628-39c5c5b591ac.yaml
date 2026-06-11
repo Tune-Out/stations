@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 12
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: 'https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listenerid=29d0a6a85b59cea2ca801b70d2a3ebaf&awparams=companionAds%3Atrue'
+    codec: AAC
+    bitrate: 128
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

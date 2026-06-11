@@ -3,7 +3,7 @@ name: RTHK radio 3
 url: https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8
 url_resolved: https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8
 homepage: http://www.rthk.org.hk/channel/radio3/
-favicon: ""
+favicon: https://www.rthk.hk/img/apple-icon-57x57.png
 tags:
   - news
   - public-radio
@@ -23,6 +23,7 @@ lastchangetime: 2026-01-14 23:17:02
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

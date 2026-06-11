@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://kk.fluidstream.eu/kk_history_lounge.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://kk.fluidstream.eu/kk_history_lounge.mp3?FLID=1?id=svK23kYW68&FLID=1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

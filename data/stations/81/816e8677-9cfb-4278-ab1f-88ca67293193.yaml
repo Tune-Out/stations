@@ -3,7 +3,7 @@ name: Oldie Antenne [aac]
 url: http://stream.oldie-antenne.de/oldie-antenne/stream/aacp
 url_resolved: http://stream.oldie-antenne.de/oldie-antenne/stream/aacp
 homepage: https://www.oldie-antenne.de/
-favicon: ""
+favicon: https://www.oldie-antenne.de/logos/station-oldie-antenne/apple-touch-icon.png
 tags:
   - oldies
 country: Germany
@@ -20,6 +20,8 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 87906f1e-5f82-4b86-9865-69e8eab8a69a
 research:
   reviewed_at: 2026-06-09
   nature: commercial

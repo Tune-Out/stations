@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:42:14
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://glzwizzlv.bynetcdn.com/glglz_mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media

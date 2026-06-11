@@ -23,6 +23,21 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 211
 geo_lat: null
 geo_long: null
+curation: 1.00
+streams:
+  - url: 'http://icecast.radiofrance.fr/franceculture-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://icecast.radiofrance.fr/franceculture-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBose'
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: 'http://direct.franceculture.fr/live/franceculture-lofi.mp3'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,30 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 0
 geo_lat: 41.99603231952971
 geo_long: 21.431708335876465
+curation: -0.05
+streams:
+  - url: 'https://radiostar.pro/stream/starplus.php'
+    codec: AAC+
+    bitrate: 384
+  - url: 'https://radiostar.pro/stream/exyuretro.php'
+    codec: AAC
+    bitrate: 384
+  - url: 'https://radiostar.pro/stream/boemi.php'
+    url_resolved: 'https://a2.asurahosting.com/listen/stil_radio/starboem'
+    codec: AAC
+    bitrate: 384
+  - url: 'https://radiostar.pro/stream/worldretro.php'
+    codec: AAC
+    bitrate: 384
+  - url: 'https://radiostar.pro/stream/mknarodna.php'
+    codec: AAC
+    bitrate: 384
+  - url: 'https://radiostar.pro/stream/starlive.php'
+    codec: AAC
+    bitrate: 320
+  - url: 'https://radiostar.pro/stream/narodna.php'
+    codec: AAC
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

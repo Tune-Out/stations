@@ -23,6 +23,20 @@ lastchangetime: 2026-02-06 16:02:40
 clickcount: 2
 geo_lat: -12.050870838529
 geo_long: -77.03231226132186
+curation: 0.55
+streams:
+  - url: 'https://conectperu.com:7000/stream?icy=http'
+    codec: AAC+
+    bitrate: 36
+  - url: 'https://conectperu.com:7001/stream?icy=http'
+    codec: AAC+
+    bitrate: 36
+  - url: 'https://conectperu.com:7002/stream?icy=http'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://conectperu.com:7003/stream?icy=http'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

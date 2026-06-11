@@ -21,6 +21,20 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 31
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://www.radioeins.de/live.m3u'
+    url_resolved: 'http://d141.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38Hl52ry0EQwsYap4expRRnPVMx&token=ChJeXoOjqD4FfxySS3dvb39KeOWWp1PIRKposBS4NDY&tvf=-8Qd0HTsihhkMTQxLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid'
+    url_resolved: 'https://d111.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38H2kjN0x4u1GdSZWctD38pEdGw&token=vJIAseH2O1wZCpYIAz9FicGoAdboZYGoVJXxJEhpjBQ&tvf=MeCo25DYihhkMTExLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.radioeins.de/live.pls'
+    url_resolved: 'http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38HVtgJbCWbZVQg4gQMAEKxT1vk&token=lMACgDElXi43CDDZOFzPPIHMN4gjPJ0OBa2FCU0ZDiU&tvf=ciRk1aTlihhmMTIxLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

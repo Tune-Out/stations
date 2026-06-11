@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 04:47:13
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://lhttp.qingting.fm/live/5072/64k.mp3'
+    codec: MP3
+  - url: 'https://lhttp.qtfm.cn/live/5072/64k.mp3'
+    codec: MP3
+  - url: 'http://ls.qingting.fm/live/5072.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media

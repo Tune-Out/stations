@@ -25,6 +25,27 @@ lastchangetime: 2026-01-14 23:45:01
 clickcount: 62
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_mv.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/mecklenburgvorpommern/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,24 @@ lastchangetime: 2026-01-15 05:53:55
 clickcount: 36
 geo_lat: 38.75880988912455
 geo_long: -9.117994196712973
+curation: 0.70
+streams:
+  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8'
+    codec: AAC
+    bitrate: 200
+    hls: true
+  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8'
+    codec: AAC
+    bitrate: 191
+    hls: true
+  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8'
+    codec: AAC
+    bitrate: 190
+    hls: true
+  - url: 'https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8'
+    codec: AAC
+    bitrate: 181
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

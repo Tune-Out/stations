@@ -3,7 +3,7 @@ name: M.Deep Radio
 url: https://deephousex.ru/live
 url_resolved: https://deephousex.ru/live
 homepage: https://mdeep.ru/
-favicon: ""
+favicon: https://mdeep.ru/img/icon.svg
 tags:
   - chillout
   - house
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 04:29:57
 clickcount: 0
 geo_lat: 55.625088432606645
 geo_long: 37.67211914062501
+curation: 0.00
+streams:
+  - url: 'https://deephousex.ru/live'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://deephousex.ru///live'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

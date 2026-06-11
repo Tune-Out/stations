@@ -3,7 +3,7 @@ name: Radio Espérance Parole de Dieu
 url: https://esperance.streamakaci.com/parole-de-dieu.mp3
 url_resolved: https://esperance.streamakaci.com/parole-de-dieu.mp3
 homepage: http://radio-esperance.fr/
-favicon: ""
+favicon: http://radio-esperance.fr/wp-content/themes/radio-esperance/fichiers/ico/apple-touch-icon-57x57.png
 tags:
   - religious
 country: France
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:28:02
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://esperance.streamakaci.com/parole-de-dieu.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://esperance.streamakaci.com/parole-de-dieu.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

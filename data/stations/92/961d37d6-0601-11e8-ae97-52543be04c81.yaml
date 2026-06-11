@@ -22,6 +22,12 @@ lastchangetime: 2026-01-15 03:39:23
 clickcount: 34
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067'
+    codec: AAC
+  - url: 'https://radios.rtbf.be/laprem1ere-64.aac'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

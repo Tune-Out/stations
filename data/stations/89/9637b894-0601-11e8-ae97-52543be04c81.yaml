@@ -24,6 +24,18 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://stream.laut.fm/nightclub'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.laut.fm/nightclub'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/shout_fm.m3u'
+    url_resolved: 'http://shoutfm.stream.laut.fm/shout_fm?pl=m3u&t302=2026-01-15_07-08-22&uuid=b188a501-b36b-47a4-a557-23933e12cfcf'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

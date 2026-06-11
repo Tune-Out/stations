@@ -3,7 +3,7 @@ name: Equinoxe Radio
 url: https://listen.radioking.com/radio/39218/stream/76118
 url_resolved: https://listen.radioking.com/radio/39218/stream/76118
 homepage: http://www.radioequinoxe.com/
-favicon: ""
+favicon: https://radioequinoxe.com/wp-content/uploads/2022/05/Logo-complet-192x192-1.png
 tags:
   - electronic
 country: Cameroon
@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://listen.radioking.com/radio/39218/stream/76118'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://listen.radioking.com/radio/39218/stream/76118'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

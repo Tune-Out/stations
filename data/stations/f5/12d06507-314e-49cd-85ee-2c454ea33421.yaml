@@ -23,6 +23,23 @@ lastchangetime: 2026-01-15 07:48:15
 clickcount: 1
 geo_lat: 51.50698844943851
 geo_long: -0.122700584356088
+curation: 0.50
+streams:
+  - url: 'https://streaming05.liveboxstream.uk/proxy/jondre03/stream'
+    codec: MP3
+    bitrate: 48
+  - url: 'http://streaming06.liveboxstream.uk:8256/stream'
+    codec: MP3
+    bitrate: 48
+  - url: 'https://streaming06.liveboxstream.uk/proxy/rokstar8/stream'
+    codec: MP3
+    bitrate: 48
+  - url: 'http://streaming04.liveboxstream.uk:8162/stream'
+    codec: MP3
+    bitrate: 48
+  - url: 'http://streaming05.liveboxstream.uk:8110/stream'
+    codec: MP3
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

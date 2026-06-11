@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 08:12:44
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: 75417a2c-216b-411d-b562-1b27f75e2bd9
+streams:
+  - url: 'http://stream.laut.fm/exogaming.m3u'
+    url_resolved: 'http://exogaming.stream.laut.fm/exogaming?pl=m3u&t302=2026-01-15_08-12-06&uuid=50ee49cb-4617-4494-857d-7b96f92641ef'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.laut.fm/exogaming.m3u'
+    url_resolved: 'https://exogaming.stream.laut.fm/exogaming?pl=m3u&t302=2026-01-15_04-32-19&uuid=26045880-323b-46fa-86ae-1edc8318dc7d'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 03:49:38
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'https://mediagw.e-tiger.net/stream/zc18?ver=975254'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://mediagw.e-tiger.net/stream/zc18'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

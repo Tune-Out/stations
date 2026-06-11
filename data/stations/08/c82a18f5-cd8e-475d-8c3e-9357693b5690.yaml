@@ -3,7 +3,7 @@ name: B4B CLUB DANCE Official
 url: https://www.b4bradio.com/flux/deep-house.m3u
 url_resolved: http://eu10.fastcast4u.com:8120/
 homepage: https://www.b4bradio.com/
-favicon: ""
+favicon: https://www.b4bradio.com/images/apple-touch-icon.png
 tags:
   - dance
   - house
@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 07:21:49
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://www.b4bradio.com/flux/deep-house.m3u'
+    url_resolved: 'http://eu10.fastcast4u.com:8120/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.b4bradio.com/flux/deep-house.m3u'
+    url_resolved: 'http://eu10.fastcast4u.com:8120/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

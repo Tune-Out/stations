@@ -22,6 +22,26 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://fr2.1mix.co.uk:9000/320hb'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://fr2.1mix.co.uk:9000/320h'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://fr2.1mix.co.uk:9000/192hb'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://fr2.1mix.co.uk:9000/192h'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://fr2.1mix.co.uk:9000/128h'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://fr2.1mix.co.uk:9000/128hb'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

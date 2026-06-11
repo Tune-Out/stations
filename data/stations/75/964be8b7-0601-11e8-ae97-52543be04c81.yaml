@@ -22,6 +22,22 @@ lastchangetime: 2026-01-15 02:10:00
 clickcount: 24
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://retro.dancewave.online/retrodance.ogg'
+    codec: OGG
+    bitrate: 160
+  - url: 'https://retro.dancewave.online/retrodance.opus'
+    codec: OGG
+    bitrate: 96
+  - url: 'https://retro.dancewave.online/retrodance.flac.ogg'
+    codec: OGG
+  - url: 'https://retro.dancewave.online/retrodance.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://retro.dancewave.online/retrodance.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

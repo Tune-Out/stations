@@ -22,6 +22,18 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 2
 geo_lat: 55.756629744446656
 geo_long: -4.288315773010255
+curation: 0.35
+streams:
+  - url: 'http://mscp3.live-streams.nl:8340/jazz-high.aac'
+    codec: AAC
+    bitrate: 320
+  - url: 'http://radio.linn.co.uk:8000/autodj'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://radio.linn.co.uk:8000/autodj.m3u'
+    url_resolved: 'http://radio.linn.co.uk:8000/autodj'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial

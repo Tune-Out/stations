@@ -24,6 +24,24 @@ lastchangetime: 2026-01-15 01:08:13
 clickcount: 22
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://listen.technobase.fm/tunein-aac-hd-pls'
+    codec: AAC
+    bitrate: 256
+  - url: 'https://aacl.stream.tb-group.fm/tb-low.aac'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://listen.technobase.fm/aacisdn.pls'
+    url_resolved: 'http://listen.technobase.fm/tunein-aacisdn-pls'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://lw2.mp3.tb-group.fm/tb.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://listen.technobase.fm/tunein-mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

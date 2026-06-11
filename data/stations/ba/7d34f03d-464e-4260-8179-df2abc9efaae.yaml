@@ -21,6 +21,15 @@ lastchangetime: 2026-03-08 02:04:18
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://95alive.net:8020/radio.mp3.m3u'
+    url_resolved: 'http://95alive.net:8020/radio.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://95alive.net:8040/radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

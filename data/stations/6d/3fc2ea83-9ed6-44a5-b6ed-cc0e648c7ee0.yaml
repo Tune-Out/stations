@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 03:00:03
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://rssand.se:4027/listen.pls?sid=1'
+    url_resolved: 'http://rssand.se:4027/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://shout.rs8990.com/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

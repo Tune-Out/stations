@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: -23.02807736189581
 geo_long: -45.562577591184066
+curation: -0.05
+streams:
+  - url: 'http://server02.ouvir.radio.br:8050/stream'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://server02.ouvir.radio.br:8050/stream?1609720768800'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial

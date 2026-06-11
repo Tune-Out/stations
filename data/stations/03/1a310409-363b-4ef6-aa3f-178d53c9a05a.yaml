@@ -22,6 +22,15 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 8
 geo_lat: 43.74965137617827
 geo_long: -79.35130000905654
+curation: 0.00
+streams:
+  - url: 'https://ice64.securenetsystems.net/CKFG.m3u'
+    url_resolved: 'https://ice64.securenetsystems.net:80/CKFG'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice64.securenetsystems.net:80/CKFG'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

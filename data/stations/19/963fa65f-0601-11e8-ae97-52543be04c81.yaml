@@ -3,7 +3,7 @@ name: Antena 1 São Paulo, SP (ZYD823 94,7 MHz FM) [aac]
 url: http://antena1.newradio.it/stream?ext=.mp3
 url_resolved: http://antena1.newradio.it/stream?ext=.mp3
 homepage: http://antena1.com.br/
-favicon: ""
+favicon: https://www.antena1.com.br/apple-touch-icon.png
 tags:
   - adult-contemporary
   - jazz
@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 08:31:17
 clickcount: 23
 geo_lat: null
 geo_long: null
+curation: 0.10
+streams:
+  - url: 'http://antena1.newradio.it/stream?ext=.mp3'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://antena1.newradio.it/stream'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

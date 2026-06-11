@@ -27,6 +27,13 @@ lastchangetime: 2026-03-31 20:36:15
 clickcount: 1
 geo_lat: 17.94940288341922
 geo_long: -94.91393566131592
+curation: -0.05
+streams:
+  - url: 'https://streaming.delsurnet.com:8116/stream/;'
+    codec: AAC+
+    bitrate: 80
+  - url: 'https://cast.tunzilla.com/http://streaming.delsurnet.com:8116/stream'
+    codec: AAC+
 research:
   reviewed_at: 2026-06-09
   nature: commercial

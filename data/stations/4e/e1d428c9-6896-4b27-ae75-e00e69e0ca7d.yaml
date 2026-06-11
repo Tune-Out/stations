@@ -27,6 +27,17 @@ lastchangetime: 2026-01-14 23:34:44
 clickcount: 61
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://listen.radioking.com/radio/467555/stream/523739'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://play.radioking.io/fm80funkymusic/523739'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://play.radioking.io/fm80funkymusic'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

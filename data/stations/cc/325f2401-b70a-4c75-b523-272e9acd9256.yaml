@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://216.245.210.78:2199/tunein/royrios.pls'
+    url_resolved: 'http://s1.reliastream.com:8122/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://216.245.210.78:2199/tunein/royrios.asx'
+    url_resolved: 'http://s1.reliastream.com:8122/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

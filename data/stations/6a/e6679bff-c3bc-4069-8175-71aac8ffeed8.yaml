@@ -3,7 +3,7 @@ name: AIR Kozhikode Real FM
 url: http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8
 url_resolved: http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8
 homepage: https://prasarbharati.gov.in/
-favicon: ""
+favicon: https://prasarbharati.gov.in/wp-content/uploads/2024/03/cropped-Logo-180x180.png
 tags: []
 country: India
 countrycode: IN
@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 00:25:41
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8'
+    codec: AAC
+    bitrate: 129
+    hls: true
+  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8'
+    codec: AAC
+    bitrate: 129
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

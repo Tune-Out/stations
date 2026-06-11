@@ -22,6 +22,14 @@ lastchangetime: 2026-01-26 08:45:06
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://stream.radiobergeijk.nl/listen/radio_bergeijk/mobiel'
+    codec: AAC
+    bitrate: 144
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

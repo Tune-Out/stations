@@ -3,7 +3,7 @@ name: Lakhanda
 url: https://cp12.serverse.com/proxy/itnfm?mp=/stream
 url_resolved: https://cp12.serverse.com/proxy/itnfm?mp=/stream
 homepage: https://www.lakhandaradio.lk/
-favicon: ""
+favicon: https://lakhandaradio.lk/wp-content/uploads/2023/05/Lakhanda-Radio.svg
 tags:
   - news
 country: Sri Lanka
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:54:30
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://cp12.serverse.com/proxy/itnfm?mp=/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://partylive.radionoise.ro:9160/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.sonicpanel.ro:9160/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

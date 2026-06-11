@@ -21,6 +21,18 @@ lastchangetime: 2026-01-15 06:39:51
 clickcount: 22
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://serpent0.duckdns.org:8088/mbcfm.pls'
+    url_resolved: 'https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6B711918733F3C646B42E5203D01A74935803FA53E0702B631C07Ea6E6583766A9a0B3773B329B4B80A73B0187b3918649E1F74973A02F7DE6058842C3C6BAAFDAE9B010932285575C9A45CFE1E89074DC035ADCF170D7CC9AF5D632E071D14AE7538A787F7F6CC0A7885E4A8D350644'
+    codec: AAC
+    bitrate: 66
+    hls: true
+  - url: 'http://serpent0.duckdns.org:8088/mbcfm.pls'
+    url_resolved: 'https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6771FE1F33573B64EF4495543311CD41455335B5530902E23830ADa3866237C692a2D3D230423C4320FB3F412Eb6F1CAB5CA3F60A6D346F940E5F7E472BD4AF7BADEF7C671688ECADF926481D28281FC394AA0177FC82381492F2C12716A2B1859437D450745731303D6E3D37F616847'
+    codec: AAC
+    bitrate: 65
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

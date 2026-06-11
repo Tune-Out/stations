@@ -22,6 +22,13 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://usa19.fastcast4u.com:4610/;'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://stream.zeno.fm/qvikbhhla39uv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

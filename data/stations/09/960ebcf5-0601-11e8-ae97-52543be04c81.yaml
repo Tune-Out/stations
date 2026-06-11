@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:53:11
 clickcount: 58
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

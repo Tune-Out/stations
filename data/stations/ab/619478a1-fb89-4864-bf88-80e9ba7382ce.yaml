@@ -3,7 +3,7 @@ name: Radio Mirchi Dubai
 url: https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1
 url_resolved: https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1
 homepage: https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1
-favicon: "null"
+favicon: https://eu8.fastcast4u.com/favicon.ico
 tags: []
 country: The United Arab Emirates
 countrycode: AE
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:31:59
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -3,7 +3,7 @@ name: FUNKY RADIO - Only Funk Music (60's 70's)
 url: https://funkyradio.streamingmedia.it/play.mp3
 url_resolved: https://funkyradio.streamingmedia.it/play.mp3
 homepage: https://funky.radio/
-favicon: ""
+favicon: https://funky.radio/wp-content/uploads/2020/10/funkyradio-LOGO512-300x300.jpg
 tags:
   - 60s
   - 70s
@@ -31,6 +31,14 @@ lastchangetime: 2026-01-15 01:44:13
 clickcount: 29
 geo_lat: null
 geo_long: null
+curation: 0.05
+streams:
+  - url: 'https://funkyradio.streamingmedia.it/audio.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://funkyradio.streamingmedia.it/play.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

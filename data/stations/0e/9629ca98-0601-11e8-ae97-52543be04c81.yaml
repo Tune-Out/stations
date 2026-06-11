@@ -3,7 +3,7 @@ name: WKCR 89.9 Columbia University - New York, NY
 url: http://wkcr.streamguys1.com/live
 url_resolved: http://wkcr.streamguys1.com/live
 homepage: https://www.cc-seas.columbia.edu/wkcr/
-favicon: ""
+favicon: https://www.cc-seas.columbia.edu/wkcr/sites/all/themes/wkcrd7/favicon.ico
 tags:
   - alternative
   - culture
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 03:47:10
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://wkcr.streamguys1.com/live'
+    codec: MP3
+    bitrate: 160
+  - url: 'https://wkcr.streamguys1.com/live'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

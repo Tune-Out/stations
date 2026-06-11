@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 22
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://jenny.torontocast.com:2000/stream/J1HITS?_=184325'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://jenny.torontocast.com:2000/stream/J1HITS?_=538100'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

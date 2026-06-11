@@ -21,6 +21,15 @@ lastchangetime: 2026-01-14 23:41:54
 clickcount: 0
 geo_lat: 51.61681079248574
 geo_long: 4.7275006771087655
+curation: 0.35
+streams:
+  - url: 'https://server-67.stream-server.nl:8758/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://server-67.stream-server.nl:2000/tunein/StationOneInternetRadio/stream/pls'
+    url_resolved: 'http://server-67.stream-server.nl:8758/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

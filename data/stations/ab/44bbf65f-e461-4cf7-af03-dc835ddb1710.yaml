@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 51.372101861068614
 geo_long: -0.4601812362670899
+curation: 0.35
+streams:
+  - url: 'https://stream4.hippynet.co.uk:8008/mobile?1732885887232'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://stream4.hippynet.co.uk/stream/brooklandsradio'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

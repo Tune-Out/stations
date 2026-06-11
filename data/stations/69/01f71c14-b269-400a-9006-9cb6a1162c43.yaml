@@ -19,6 +19,13 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 0
 geo_lat: 52.18468593774613
 geo_long: 5.363429117386507
+curation: 0.35
+streams:
+  - url: 'http://streaming.shoutcast.com/freakradio'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://streaming.shoutcast.com/freakradio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community

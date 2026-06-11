@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 03:14:10
 clickcount: 3
 geo_lat: 48.85385014026355
 geo_long: 2.346868515014649
+curation: -0.05
+streams:
+  - url: 'http://replaynews.ice.infomaniak.ch/replaynews-192.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://replaynewssport.ice.infomaniak.ch/replaynewssport-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://replaynewsstory.ice.infomaniak.ch/replaynewsstory-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://replaynewseco.ice.infomaniak.ch/replaynewseco-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

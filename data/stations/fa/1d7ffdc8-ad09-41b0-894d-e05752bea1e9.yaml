@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://tornagaleones.ddns.net:9000/Flac'
+    codec: OGG
+    bitrate: 320
+  - url: 'http://tornagaleones.ddns.net:9000/Flac.m3u'
+    url_resolved: 'http://tornagaleones.ddns.net:9000/Flac'
+    codec: OGG
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

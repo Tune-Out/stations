@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:47:20
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://i.streams.ovh:9521/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://i.streams.ovh/sc/palmospatras/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

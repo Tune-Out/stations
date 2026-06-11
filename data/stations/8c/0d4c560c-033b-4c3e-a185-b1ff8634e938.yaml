@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://178.159.3.22:8124/live'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://www.team-fm.com/listenhigh.pls'
+    url_resolved: 'http://s1.autopo.st:8124/live'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

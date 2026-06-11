@@ -3,7 +3,7 @@ name: Rock Antenne Österreich
 url: http://mp3channels.webradio.de/rockantenne-oesterreich
 url_resolved: http://s1-webradio.webradio.de/rockantenne-oesterreich
 homepage: https://www.rockantenne.at/
-favicon: ""
+favicon: https://www.rockantenne.at/logos/station-rock-antenne-at/apple-touch-icon.png
 tags:
   - classic-rock
   - rock
@@ -23,6 +23,16 @@ lastchangetime: 2026-01-14 23:22:35
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://mp3channels.webradio.de/rockantenne-oesterreich'
+    url_resolved: 'http://s1-webradio.webradio.de/rockantenne-oesterreich'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3'
+    url_resolved: 'https://s1-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

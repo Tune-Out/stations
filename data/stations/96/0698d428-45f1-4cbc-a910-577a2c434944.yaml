@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 05:06:28
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://streamer.radio.co/s0635c8b0d/listen'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

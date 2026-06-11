@@ -3,7 +3,7 @@ name: RTHK Radio 3
 url: https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
 url_resolved: https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
 homepage: http://www.rthk.org.hk/
-favicon: ""
+favicon: https://webstatic.rthk.hk/img/apple-icon-57x57.png
 tags:
   - news
 country: Hong Kong
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-14 23:16:26
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+duplicate_of: 6f1d1d19-40a5-4cd4-ad30-b3fd930c52de
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

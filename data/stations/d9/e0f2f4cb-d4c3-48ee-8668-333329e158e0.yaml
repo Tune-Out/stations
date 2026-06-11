@@ -22,6 +22,14 @@ lastchangetime: 2026-01-23 07:45:40
 clickcount: 65
 geo_lat: 35.44277092585766
 geo_long: 139.74609375000003
+curation: 0.35
+streams:
+  - url: 'http://quincy.torontocast.com:2020/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://quincy.torontocast.com:2020/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

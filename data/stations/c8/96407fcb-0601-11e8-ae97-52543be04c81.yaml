@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 06:51:37
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://s2.stationplaylist.com:9460/guerrilla'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s2.stationplaylist.com:9460/guerrilla'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

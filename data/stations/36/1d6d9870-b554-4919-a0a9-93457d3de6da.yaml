@@ -3,7 +3,7 @@ name: Virgin Radio Romania
 url: https://astreaming.edi.ro:8443/VirginRadio_aac
 url_resolved: https://astreaming.edi.ro:8443/VirginRadio_aac
 homepage: https://virginradio.ro/
-favicon: ""
+favicon: https://virginradio.ro/icons/apple-touch-icon.png
 tags:
   - hip-hop
   - pop
@@ -25,6 +25,15 @@ lastchangetime: 2026-01-15 05:33:41
 clickcount: 13
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://astreaming.edi.ro:8443/VirginRadio_aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://virginradio.ro/VirginRadioRomania-live.m3u'
+    url_resolved: 'http://astreaming.virginradio.ro:8000/virgin_aacp_64k'
+    codec: AAC
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

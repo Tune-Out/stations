@@ -25,6 +25,16 @@ lastchangetime: 2026-01-15 02:50:20
 clickcount: 0
 geo_lat: 51.487669166454
 geo_long: 11.970610320568086
+curation: 0.50
+streams:
+  - url: 'https://streaming.fueralle.org/corax_192.mp3'
+    codec: MP3
+  - url: 'http://streaming.fueralle.org/corax_128.mp3?_=1'
+    codec: MP3
+  - url: 'https://streaming.fueralle.org/corax_192.mp3?_=1'
+    codec: MP3
+  - url: 'http://streaming.fueralle.org:8000/corax.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

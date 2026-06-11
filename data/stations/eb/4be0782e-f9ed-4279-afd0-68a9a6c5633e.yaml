@@ -24,6 +24,14 @@ lastchangetime: 2026-02-24 09:04:02
 clickcount: 1
 geo_lat: 52.47708559506269
 geo_long: -1.899433135986328
+curation: 0.40
+streams:
+  - url: 'https://cast5.my-control-panel.com/proxy/grb/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://cast5.my-control-panel.com/proxy/grb/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -22,6 +22,18 @@ lastchangetime: 2026-01-15 07:54:52
 clickcount: 9
 geo_lat: 50.85325707417748
 geo_long: 4.402635790952025
+curation: 0.60
+streams:
+  - url: 'http://icecast.vrtcdn.be/stubru_tgs.aac'
+    codec: AAC
+  - url: 'http://icecast.vrtcdn.be/stubru.aac'
+    codec: AAC
+  - url: 'http://icecast.vrtcdn.be/stubru_tgs-high.mp3'
+    codec: MP3
+  - url: 'http://icecast.vrtcdn.be/stubru-mid.mp3'
+    codec: MP3
+  - url: 'http://icecast.vrtcdn.be/stubru-high.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

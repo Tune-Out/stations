@@ -3,7 +3,7 @@ name: Radio Slovensko
 url: https://icecast.stv.livebox.sk/slovensko_128.mp3
 url_resolved: https://icecast.stv.livebox.sk/slovensko_128.mp3
 homepage: https://slovensko.rtvs.sk/
-favicon: ""
+favicon: https://www.stvr.sk/media/images/stvr-og.jpg
 tags: []
 country: Slovakia
 countrycode: SK
@@ -19,6 +19,8 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 3
 geo_lat: 48.15403355097454
 geo_long: 17.11382389068604
+curation: 0.40
+duplicate_of: 800803bb-a650-4711-b1eb-d7bd33674aee
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

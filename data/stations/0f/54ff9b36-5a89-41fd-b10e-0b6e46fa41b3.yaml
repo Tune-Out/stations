@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:59:15
 clickcount: 0
 geo_lat: 52.23273164179463
 geo_long: 21.02366086095572
+curation: 0.40
+streams:
+  - url: 'http://stream12.hosterion.pl/stream/safira'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream12.hosterion.pl/stream/safira'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

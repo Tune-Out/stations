@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 03:49:38
 clickcount: 1
 geo_lat: 0.830076028170638
 geo_long: -77.63458428263682
+curation: 0.35
+streams:
+  - url: 'https://radiolatina.info/8170/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radiolatina.info/8172/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

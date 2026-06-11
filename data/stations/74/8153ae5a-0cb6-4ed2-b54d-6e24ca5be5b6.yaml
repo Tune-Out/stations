@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 16
 geo_lat: 1.295374248016841
 geo_long: 103.79224330186848
+curation: 0.35
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://28333.live.streamtheworld.com/LOVE972FM_PREM.aac'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: state media

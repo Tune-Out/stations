@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: 47.152836226396374
 geo_long: 19.885253906250004
+curation: -0.05
+streams:
+  - url: 'https://rockerradio.online/live.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://rockerradio.online/live.mp3.m3u'
+    url_resolved: 'http://rockerradio.online/live.mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

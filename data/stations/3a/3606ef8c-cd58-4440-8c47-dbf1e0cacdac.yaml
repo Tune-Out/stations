@@ -22,6 +22,21 @@ lastchangetime: 2026-01-15 08:47:20
 clickcount: 143
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_two.m3u8'
+    codec: AAC+
+    bitrate: 101
+    hls: true
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

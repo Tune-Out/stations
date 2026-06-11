@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://provisioning.streamtheworld.com/pls/WOGBFMAAC.pls'
+    url_resolved: 'http://18063.live.streamtheworld.com/WOGBFMAAC_SC'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://provisioning.streamtheworld.com/pls/wogbFM.pls'
+    url_resolved: 'http://26443.live.streamtheworld.com/WOGBFM_SC'
+    codec: MP3
+    bitrate: 80
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -19,6 +19,15 @@ lastchangetime: 2026-05-06 13:14:02
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://toxor.de:8000/listen.pls?sid=1'
+    url_resolved: 'http://toxor.de:8000/;'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://95.216.245.239:8000/stream/1/'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

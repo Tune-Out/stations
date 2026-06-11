@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 08:47:21
 clickcount: 0
 geo_lat: 50.08771247392901
 geo_long: 14.421046972274782
+curation: 0.35
+streams:
+  - url: 'https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8'
+    codec: AAC
+    bitrate: 140
+    hls: true
+  - url: 'https://stream.radiojar.com/wm9sntcpn3quv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

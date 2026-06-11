@@ -3,7 +3,7 @@ name: Radio Caprice - Progressive Metal
 url: http://79.120.77.11:8000/progmetal
 url_resolved: http://79.120.77.11:8000/progmetal
 homepage: http://radcap.ru/progmetal.html
-favicon: ""
+favicon: http://radcap.ru/apple-touch-icon.png
 tags:
   - metal
   - prog-rock
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 07:10:26
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://79.120.77.11:8000/progmetal'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.120.77.11:8002/progmetal'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:33:22
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://fusionfm.ice.infomaniak.ch/fusionfm-192.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://fusionfm.ice.infomaniak.ch:8000/fusionfm-192.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

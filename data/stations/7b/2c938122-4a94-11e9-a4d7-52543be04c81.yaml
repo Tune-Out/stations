@@ -3,7 +3,7 @@ name: Oude Piraten Hits
 url: http://server-67.stream-server.nl:8910/stream
 url_resolved: http://server-67.stream-server.nl:8910/stream
 homepage: http://www.oudepiratenhits.nl/
-favicon: ""
+favicon: https://oudepiratenhits.nl/wp-content/uploads/2020/09/logo-27.png
 tags: []
 country: The Netherlands
 countrycode: NL
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:46:02
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://server-67.stream-server.nl:8910/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://server-67.stream-server.nl:8910/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

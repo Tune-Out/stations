@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: -30.25709699919762
 geo_long: -54.91688042879105
+curation: 0.35
+streams:
+  - url: 'https://servidor28-1.brlogic.com:8028/live'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://servidor28-1.brlogic.com:8028/live?source=website'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community

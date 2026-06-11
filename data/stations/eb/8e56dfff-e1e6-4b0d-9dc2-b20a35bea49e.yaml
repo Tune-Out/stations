@@ -3,7 +3,7 @@ name: Mohobbat Radio
 url: https://stream.zeno.fm/t2ekq8zsgtzuv
 url_resolved: https://stream.zeno.fm/t2ekq8zsgtzuv
 homepage: https://stream.zeno.fm/t2ekq8zsgtzuv
-favicon: "null"
+favicon: https://stream-286.zeno.fm/favicon.ico
 tags: []
 country: India
 countrycode: IN
@@ -21,6 +21,12 @@ lastchangetime: 2026-01-15 04:07:09
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.zeno.fm/t2ekq8zsgtzuv'
+    codec: MP3
+  - url: 'http://stream.zeno.fm/t2ekq8zsgtzuv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community

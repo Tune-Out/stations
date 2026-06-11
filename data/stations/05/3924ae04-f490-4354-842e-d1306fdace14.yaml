@@ -22,6 +22,34 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://streaming.westradio.nl/WestRadio-aac-96'
+    codec: AAC
+    bitrate: 96
+  - url: 'http://streaming.westradio.nl/WestRadio-aac-64'
+    url_resolved: 'https://streaming.westradio.nl/WestRadio-aac-64'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://streaming.westradio.nl/WestRadio-mp3-320'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://streaming.westradio.nl/WestRadio-mp3-192'
+    url_resolved: 'https://streaming.westradio.nl/WestRadio-mp3-192'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://streaming.westradio.nl/WestRadio-mp3-128'
+    url_resolved: 'https://streaming.westradio.nl/WestRadio-mp3-128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streaming.westradio.nl/WestRadio-mp3-96'
+    url_resolved: 'https://streaming.westradio.nl/WestRadio-mp3-96'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://streaming.westradio.nl/WestRadio-mp3-64'
+    url_resolved: 'https://streaming.westradio.nl/WestRadio-mp3-64'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

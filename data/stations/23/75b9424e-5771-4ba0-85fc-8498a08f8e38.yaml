@@ -21,6 +21,17 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://79.120.77.11:8000/rap'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.120.77.11:8000/hiphop'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.14.76:8000/eastcoastrap'
+    codec: AAC+
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

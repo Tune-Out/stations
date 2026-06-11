@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 08:12:44
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://streamer.radio.co/sf662f27c0/listen'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://streamer.radio.co/sf662f27c0/low'
+    codec: AAC
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

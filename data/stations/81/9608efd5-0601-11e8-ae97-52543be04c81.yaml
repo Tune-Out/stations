@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:59:16
 clickcount: 34
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://stream.srg-ssr.ch/m/la-1ere/aacp_96'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://stream.srg-ssr.ch/m/la-1ere/mp3_128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

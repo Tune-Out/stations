@@ -19,6 +19,20 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://audio.opensky.radio:8082/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://audio.opensky.radio:8082/oise'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://audio.opensky.radio:8082/stream128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://audio.opensky.radio:8082/stream96'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

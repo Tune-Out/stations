@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 3
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.20
+streams:
+  - url: 'https://1a-classicrock.radionetz.de/1a-classicrock.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://1a-classicrock.radionetz.de/1a-classicrock.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

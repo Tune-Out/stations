@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://ice42.securenetsystems.net/WDUN'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://ice42.securenetsystems.net/WDUN?playSessionID=93D84410-B7F0-FF8C-0BA876AE142B1E36'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://stream.radios.rs:9006/;'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://53a7ed211fc32.streamlock.net/asmedia/gradski/playlist.m3u8'
+    codec: AAC
+    bitrate: 43
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

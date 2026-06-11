@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:05:55
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://mp3stream4.abradio.cz:8000/coop128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ice4.abradio.cz/coop128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

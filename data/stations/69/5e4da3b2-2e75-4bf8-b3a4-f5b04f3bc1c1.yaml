@@ -20,6 +20,15 @@ lastchangetime: 2026-01-14 22:54:08
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://www.spacetravelradio.de/listen_str.m3u'
+    url_resolved: 'https://spacetravelradio.de:2893/stream/2/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://spacetravelradio.de:1701/stream/1/'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

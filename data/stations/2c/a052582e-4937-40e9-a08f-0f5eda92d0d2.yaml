@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://ddreins.stream.laut.fm/ddr_eins?t302=2021-04-10_23-03-54&uuid=43c8d3cf-54c4-4ee1-b109-b667d8878cc4'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://laut.fm/ddr_eins'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

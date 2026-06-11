@@ -3,7 +3,7 @@ name: RRI Pro 1 Tanjungpinang
 url: https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3
 url_resolved: https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3
 homepage: https://rri.co.id/tanjungpinang
-favicon: ""
+favicon: https://rri.co.id/apple-touch-icon.png
 tags:
   - local-news
   - news
@@ -23,6 +23,8 @@ lastchangetime: 2026-01-15 00:20:51
 clickcount: 1
 geo_lat: 0.9087543914832968
 geo_long: 104.465389251709
+curation: 0.35
+duplicate_of: 4bfb3b4e-d5ff-4442-b815-86915245fbc4
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

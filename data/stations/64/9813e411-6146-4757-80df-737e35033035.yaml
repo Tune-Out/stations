@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 02:50:21
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream.laut.fm/germanyworship'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/germanyworship.pls'
+    url_resolved: 'http://germanyworship.stream.laut.fm/germanyworship?pl=pls&t302=2026-01-14_23-46-09&uuid=f944e57a-09c6-4685-9f5d-38ef991b9d68'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

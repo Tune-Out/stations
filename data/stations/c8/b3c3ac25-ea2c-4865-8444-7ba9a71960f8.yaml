@@ -3,7 +3,7 @@ name: Radio Record - Russian Mix
 url: https://radiorecord.hostingradio.ru/rus96.aacp
 url_resolved: https://radiorecord.hostingradio.ru/rus96.aacp
 homepage: https://www.radiorecord.ru/station/rus
-favicon: ""
+favicon: https://www.radiorecord.ru/icons/apple-touch-icon.png
 tags: []
 country: The Russian Federation
 countrycode: RU
@@ -19,6 +19,13 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: 0.40
+duplicate_of: 9e4f0920-a3bd-4884-9e98-fbd0051215ed
+streams:
+  - url: 'https://radiorecord.hostingradio.ru/rus96.aacp'
+    codec: AAC
+  - url: 'http://radiorecord.hostingradio.ru/rus96.aacp'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

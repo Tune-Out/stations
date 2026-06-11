@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 04:56:18
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: 'https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: educational public/university radio

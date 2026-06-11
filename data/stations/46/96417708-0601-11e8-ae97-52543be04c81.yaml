@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 00:00:55
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://streams.fluxfm.de/80er/aac-64/streams.fluxfm.de/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-80er-aacplus-64-7776977?sABC=69683236%230%23r30o443r1929r059s085628511796n57%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1768436278'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=69682r17%230%230r6n2r63589p0102nq2100136q803p71%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1768435223'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/80er/mp3-128/fluxfm.de_webplayer/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

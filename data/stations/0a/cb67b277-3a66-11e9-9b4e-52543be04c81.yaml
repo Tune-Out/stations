@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:57:28
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream.lohro.de:8000/lohro_opus.ogg.m3u'
+    url_resolved: 'http://stream.lohro.de:8000/lohro_opus.ogg'
+    codec: OGG
+  - url: 'http://stream.lohro.de:8000/lohro'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

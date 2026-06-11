@@ -19,6 +19,26 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.starfm.de/newmetal/mp3-192/iradio'
+    codec: MP3
+  - url: 'https://stream.starfm.de/newrock/mp3-192/iradio'
+    codec: MP3
+  - url: 'https://stream.starfm.de/90srock/mp3-192/iradio'
+    codec: MP3
+  - url: 'https://stream.starfm.de/blues/mp3-192/iradio'
+    codec: MP3
+  - url: 'https://stream.starfm.de/classic/mp3-192/iradio'
+    codec: MP3
+  - url: 'https://stream.starfm.de/ballads/mp3-192/iradio'
+    codec: MP3
+  - url: 'https://stream.starfm.de/festival/mp3-192/iradio'
+    codec: MP3
+  - url: 'https://stream.starfm.de/80srock/mp3-192/iradio'
+    codec: MP3
+  - url: 'https://stream.starfm.de/xmas/mp3-192/iradio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

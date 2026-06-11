@@ -3,7 +3,7 @@ name: One Dance
 url: https://ice04.fluidstream.net/rn1_2.aac
 url_resolved: https://ice04.fluidstream.net/rn1_2.aac
 homepage: https://onedance.fm/
-favicon: ""
+favicon: https://onedance.fm/img/favicon.ico
 tags:
   - dance
   - reggaeton
@@ -21,6 +21,15 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: cc40c5c2-d8a3-11e9-a861-52543be04c81
+streams:
+  - url: 'https://ice04.fluidstream.net/rn1_2.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://ice04.fluidstream.net/rn1_2.aac?FLID=1&type=.aac'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

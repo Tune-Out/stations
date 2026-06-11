@@ -3,7 +3,7 @@ name: Eldoradio
 url: http://81.92.238.33/
 url_resolved: http://81.92.238.33/
 homepage: http://radio.eldo.lu/
-favicon: ""
+favicon: https://www.eldo.lu/assets/icon/favicon.ico
 tags:
   - pop
 country: Luxembourg
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:51:20
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://81.92.238.33/'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://sc.bce.lu/eldochill'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

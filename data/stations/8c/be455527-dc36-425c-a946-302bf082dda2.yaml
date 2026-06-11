@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:08:05
 clickcount: 9
 geo_lat: 40.63994029129131
 geo_long: 22.933290854562077
+curation: -0.05
+streams:
+  - url: 'https://eu1.fastcast4u.com/proxy/nmarog01'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://eu1.fastcast4u.com/proxy/nmarog01?mp=/1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

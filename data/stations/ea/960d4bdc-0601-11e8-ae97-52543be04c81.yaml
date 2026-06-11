@@ -3,7 +3,7 @@ name: 181.FM - Kickin' Country
 url: http://www.181.fm/stream/pls/181-kickincountry.pls
 url_resolved: http://listen.181fm.com/181-kickincountry_128k.mp3
 homepage: http://www.181.fm/
-favicon: ""
+favicon: https://www.181.fm/favicon.ico
 tags:
   - country
   - pop
@@ -24,6 +24,15 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 15
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://www.181.fm/stream/pls/181-kickincountry.pls'
+    url_resolved: 'http://listen.181fm.com/181-kickincountry_128k.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://listen.livestreamingservice.com/181-kickincountry_128k.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

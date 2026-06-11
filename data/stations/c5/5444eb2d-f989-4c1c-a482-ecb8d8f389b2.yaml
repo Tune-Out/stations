@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 15
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'https://liveradio.swr.de/sw890cl/swr2/'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://f111.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&sid=28ew6Usq6cch83eglcsXwLlNRS3&token=Ip5bwQ_T81Lq_mqKc3HUjnxrk94ek2bDcfNyNHuqRGk&tvf=XFsRgyq06xZmMTExLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -3,7 +3,7 @@ name: ретро хит - Retro HIT
 url: http://retro.volna.top/Retro
 url_resolved: http://retro.volna.top/Retro
 homepage: https://retrohit.volna.top/
-favicon: ""
+favicon: https://ru.volna.top/favicon.ico
 tags:
   - pop
   - retro
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:28:27
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: -0.15
+streams:
+  - url: 'http://retro.volna.top/Retro'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://retro.volna.top/Retro'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

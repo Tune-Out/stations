@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:47:04
 clickcount: 1
 geo_lat: 53.43218704694054
 geo_long: 14.555734097957613
+curation: -0.05
+streams:
+  - url: 'https://stream.super.fm:8443/superfm.mp3?1703660705890'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.super.fm:8443/superfm.mp3?1697692156303'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

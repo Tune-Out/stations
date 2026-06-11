@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:54:13
 clickcount: 19
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://icecast.radiofrance.fr/fipelectro-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://icecast.radiofrance.fr/fipelectro-hifi.aac?id=radiofrance'
+    codec: AAC
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

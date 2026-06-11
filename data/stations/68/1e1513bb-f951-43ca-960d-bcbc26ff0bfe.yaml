@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 10
 geo_lat: 48.2980732
 geo_long: 14.3004329
+curation: 0.50
+streams:
+  - url: 'https://orf-live.ors-shoutcast.at/ooe-q2a'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://orf-live.ors-shoutcast.at/ooe-q1a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

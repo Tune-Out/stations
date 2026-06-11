@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 01:49:53
 clickcount: 1
 geo_lat: 37.97689654699306
 geo_long: 23.72446060180664
+curation: -0.05
+streams:
+  - url: 'http://derti.live24.gr/derty1000'
+    codec: AAC+
+    bitrate: 160
+  - url: 'https://derti.live24.gr/derty1000'
+    codec: AAC+
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial

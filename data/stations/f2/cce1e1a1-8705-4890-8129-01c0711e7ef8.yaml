@@ -20,6 +20,16 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8'
+    codec: UNKNOWN
+    bitrate: 64
+    hls: true
+  - url: 'https://streamradio.novotempo.com/CDN-RADIO-ES/smil:rntMontevideoUY.smil/playlist.m3u8'
+    codec: UNKNOWN
+    bitrate: 64
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: religious

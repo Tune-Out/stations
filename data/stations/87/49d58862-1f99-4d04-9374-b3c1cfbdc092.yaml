@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://79.120.39.202:8000/deephouse'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.120.39.202:8002/deephouse'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

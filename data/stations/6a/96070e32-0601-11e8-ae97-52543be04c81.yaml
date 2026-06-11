@@ -3,7 +3,7 @@ name: Maxi 80
 url: http://audio1.maxi80.com/
 url_resolved: http://audio1.maxi80.com/
 homepage: http://www.maxi80.com/
-favicon: ""
+favicon: https://www.maxi80.com/favicon.ico
 tags:
   - 80s
 country: France
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:06:33
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://audio1.maxi80.com/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://audio1.maxi80.com/;?1722579303309'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -3,7 +3,7 @@ name: Deep One
 url: https://stream.deep1.ru/deep1mp3
 url_resolved: https://stream.deep1.ru/deep1mp3
 homepage: https://deep1.ru/
-favicon: ""
+favicon: https://deep1.ru/wp-content/uploads/2020/06/cropped-deepone_mob_512_512-370x370.jpg
 tags:
   - house
 country: The Russian Federation
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:11:24
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.deep1.ru/deep1aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream.deep1.ru/deep1mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

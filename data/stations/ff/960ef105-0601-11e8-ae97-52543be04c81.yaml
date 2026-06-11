@@ -21,6 +21,12 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://redbeemedia.streamabc.net/redbm-vivaliege-aac-128-4751338'
+    codec: AAC
+  - url: 'https://radios.rtbf.be/vivaliege-64.aac'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

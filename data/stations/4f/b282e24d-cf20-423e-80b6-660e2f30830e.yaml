@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 07:38:17
 clickcount: 2
 geo_lat: 48.76632775137968
 geo_long: 9.168090820312502
+curation: 0.50
+streams:
+  - url: 'https://liveradio.swr.de/sw890cl/swraktuell/'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://f131.rndfnk.com/ard/swr/swraktuell/live/aac/96/stream.aac?aggregator=web&sid=20OWw66vyEtL4iSzQDIYZxmbtaP&token=417rfsSDin95gYTgQbYGQU68OrUVw5SFCaOKSsmI1OA&tvf=WYsdueUEtBZmMTMxLnJuZGZuay5jb20'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://liveradio.swr.de/sw282p3/swraktuell/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://liveradio.swr.de/sw282p3/swraktuell/play.aac'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

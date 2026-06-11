@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:19:54
 clickcount: 2
 geo_lat: 51.32458746125845
 geo_long: 12.337501645088198
+curation: 0.35
+streams:
+  - url: 'https://streams.detektor.fm/musik/aac-128/streams.detektor.fm/'
+    codec: AAC
+  - url: 'https://detektor.fm/stream/aac/musik/'
+    codec: AAC
+  - url: 'https://detektor.fm/stream/mp3/musik/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

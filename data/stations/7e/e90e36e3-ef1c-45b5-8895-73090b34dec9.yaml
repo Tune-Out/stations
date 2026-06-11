@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 03:39:23
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://radiodht.com/stream_main/'
+    codec: AAC+
+    bitrate: 192
+  - url: 'https://radiodht.com/stream_pepis/'
+    codec: AAC+
+    bitrate: 144
 research:
   reviewed_at: 2026-06-09
   nature: commercial

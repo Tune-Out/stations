@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 03:38:06
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://streaming.ticktock.radio/tt/2018/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/tt/2018/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.ticktock.radio/tt/2019/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/tt/2019/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.ticktock.radio/tt/2020/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/tt/2020/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.ticktock.radio/tt/2021/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/tt/2021/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

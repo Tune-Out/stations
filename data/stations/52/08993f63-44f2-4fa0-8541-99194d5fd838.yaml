@@ -22,6 +22,12 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 1
 geo_lat: 32.07896745965534
 geo_long: 34.78312062016064
+curation: -0.05
+streams:
+  - url: 'https://102.livecdn.biz/102fm_aac'
+    codec: AAC+
+  - url: 'http://102.livecdn.biz/102fm_aac'
+    codec: AAC+
 research:
   reviewed_at: 2026-06-09
   nature: commercial

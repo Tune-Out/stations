@@ -19,6 +19,20 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://waw.ic.smcdn.pl/2380-2.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://waw.ic.smcdn.pl/2380-1.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://waw.ic.smcdn.pl/2380-1.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.stream.smcdn.pl/timeradio-p/2980-1.aac/playlist.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

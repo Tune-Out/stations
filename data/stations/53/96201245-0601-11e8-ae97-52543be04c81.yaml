@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://46.28.49.164:7504/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.galaxywebsolutions.com/stream/retrosoul'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

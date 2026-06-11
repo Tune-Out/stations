@@ -3,7 +3,7 @@ name: Online Radio Kneginec
 url: http://stream.zeno.fm/yetzdv442k8uv
 url_resolved: http://stream.zeno.fm/yetzdv442k8uv
 homepage: http://stream.zeno.fm/yetzdv442k8uv
-favicon: ""
+favicon: http://stream-281.zeno.fm/favicon.ico
 tags:
   - folk
 country: Croatia
@@ -20,6 +20,12 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://stream.zeno.fm/yetzdv442k8uv'
+    codec: MP3
+  - url: 'https://stream.zeno.fm/yetzdv442k8uv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community

@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 04:06:37
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://stream.berliner-rundfunk.de/brf/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1738238675&cb=16689425&listenerid=null'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://topradio-de-hz-fal-stream10-cluster01.radiohost.de/brf-pure_mp3-128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.berliner-rundfunk.de/brf/mp3-128/?=&&___cb=339744594540955'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

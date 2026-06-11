@@ -3,7 +3,7 @@ name: Hiru FM
 url: https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden?1707015384
 url_resolved: https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden?1707015384
 homepage: https://onlineradiofm.in/stations/hiru-fm
-favicon: ""
+favicon: https://onlineradiofm.in/favicon.ico
 tags: []
 country: Sri Lanka
 countrycode: LK
@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden?1707015384'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

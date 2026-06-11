@@ -18,6 +18,14 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-04-07 08:33:37
 clickcount: 7
+curation: 0.30
+streams:
+  - url: 'https://mediaworks.streamguys1.com/george_net_icy'
+    codec: AAC
+    bitrate: 131
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

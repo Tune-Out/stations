@@ -37,6 +37,14 @@ lastchangetime: 2026-04-14 02:33:55
 clickcount: 1
 geo_lat: -32.92164229992177
 geo_long: -60.68340478310818
+curation: 0.00
+streams:
+  - url: 'https://streaming01.radiosenlinea.com.ar:10961/;'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://streaming01.radiosenlinea.com.ar:10961/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

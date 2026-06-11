@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:53:10
 clickcount: 34
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://icecast.radiofrance.fr/mouv-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.mouv.fr/live/mouv-lofi.mp3'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

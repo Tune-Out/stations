@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.90
+streams:
+  - url: 'https://kpbs.streamguys1.com/kpbs-mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://kpbs.streamguys1.com/kpbs-mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

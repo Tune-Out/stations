@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:12:37
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.20
+streams:
+  - url: 'https://1a-schlager.radionetz.de/1a-schlager.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://1a-schlager.radionetz.de/1a-schlager.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

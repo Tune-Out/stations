@@ -3,7 +3,7 @@ name: Вести FM
 url: http://icecast.vgtrk.cdnvideo.ru/vestifm
 url_resolved: http://icecast.vgtrk.cdnvideo.ru/vestifm
 homepage: http://radiovesti.ru/
-favicon: ""
+favicon: https://cdn.smotrim.ru/static/front/favicon/apple-touch-icon.png
 tags:
   - news
   - talk
@@ -23,6 +23,8 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 18
 geo_lat: null
 geo_long: null
+curation: 0.30
+duplicate_of: 29a68b7f-f573-4b19-b3ba-cdbb0979e348
 research:
   reviewed_at: 2026-06-09
   nature: state media

@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://ice10.securenetsystems.net/SUNRADIO'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice10.securenetsystems.net/SUNRADIO'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: community

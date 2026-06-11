@@ -19,6 +19,14 @@ lastchangetime: 2026-04-21 08:56:29
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.05
+streams:
+  - url: 'http://thaalam.out.airtime.pro/thaalam_b'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://thaalam.out.airtime.pro/thaalam_b'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: unknown

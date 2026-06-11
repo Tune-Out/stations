@@ -24,6 +24,12 @@ lastchangetime: 2026-03-18 20:28:50
 clickcount: 0
 geo_lat: 52.58565117766891
 geo_long: -1.9822149855659843
+curation: 0.35
+streams:
+  - url: 'https://api.synkradio.co.uk/listen.mp3?station=synk_radio_rap'
+    codec: MP3
+  - url: 'https://api.synkradio.co.uk/listen.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community

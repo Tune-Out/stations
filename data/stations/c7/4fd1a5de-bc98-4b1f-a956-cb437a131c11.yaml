@@ -3,7 +3,7 @@ name: Radio Gorenc
 url: http://stream.radiogorenc.si:8000/radiogorenc.mp3
 url_resolved: http://stream.radiogorenc.si:8000/radiogorenc.mp3
 homepage: https://www.radiogorenc.si/
-favicon: ""
+favicon: https://www.radiogorenc.si/wp-content/uploads/2018/10/favicon.ico
 tags: []
 country: Slovenia
 countrycode: SI
@@ -21,6 +21,8 @@ lastchangetime: 2026-01-15 07:49:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: d4e023b0-d966-477f-9d4f-c51e329c04de
 research:
   reviewed_at: 2026-06-09
   nature: commercial

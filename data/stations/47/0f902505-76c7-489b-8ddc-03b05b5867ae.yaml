@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 1
 geo_lat: 49.509605
 geo_long: 5.9415757
+curation: -0.05
+streams:
+  - url: 'http://generationdance.lu/radio/8030/mobile'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://generationdance.lu/radio/8030/hd'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

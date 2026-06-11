@@ -21,6 +21,14 @@ lastchangetime: 2026-02-23 17:39:23
 clickcount: 0
 geo_lat: 47.15000964527743
 geo_long: 24.516968311507156
+curation: 0.35
+streams:
+  - url: 'https://radio.mediacp.eu/stream/radiosomes'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://radio.mediacp.eu/stream/radiosomes'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

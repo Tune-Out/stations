@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:38:05
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8?'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media

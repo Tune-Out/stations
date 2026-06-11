@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 07:26:24
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'https://az10.yesstreaming.net:8210/radiokoko.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radiokoko.ro/live'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

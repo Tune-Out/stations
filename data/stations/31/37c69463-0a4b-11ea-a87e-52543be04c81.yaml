@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 01:17:31
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.35
+streams:
+  - url: 'https://1a-christmas.radionetz.de/1a-christmas.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://1a-christmas.radionetz.de/1a-christmas.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

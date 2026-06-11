@@ -21,6 +21,14 @@ lastchangetime: 2026-01-23 12:43:27
 clickcount: 30
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://radiofg.impek.com/fg'
+    codec: MP3
+  - url: 'https://stream.rcs.revma.com/wknqhm4yuchvv'
+    codec: MP3
+  - url: 'http://radiofg.impek.com/fg.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

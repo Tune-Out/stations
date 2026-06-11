@@ -3,7 +3,7 @@ name: Slon Radio Tuzla
 url: http://31.47.0.130:88/broadwavehigh.mp3?src=1;
 url_resolved: http://31.47.0.130:88/broadwavehigh.mp3?src=1;
 homepage: https://rtvslon.ba/
-favicon: ""
+favicon: https://www.rtvslon.ba/wp-content/uploads/2025/04/S-logo.png
 tags:
   - pop-rock
 country: Bosnia And Herzegovina
@@ -22,6 +22,12 @@ lastchangetime: 2026-01-15 06:17:50
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://31.47.0.130:88/broadwavehigh.mp3?src=1;'
+    codec: MP3
+  - url: 'http://31.47.0.130:88/broadwavehigh.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community

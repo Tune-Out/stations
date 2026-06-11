@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 08:31:18
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.10
+duplicate_of: 960c5763-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://live.gruen-weiss.at/rgw.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://live.gruen-weiss.at/rgw.aac'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

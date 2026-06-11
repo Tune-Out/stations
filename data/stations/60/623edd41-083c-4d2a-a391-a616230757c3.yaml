@@ -22,6 +22,12 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://stream.p-node.org/piano'
+    codec: OGG
+  - url: 'https://stream.p-node.org/piano'
+    codec: OGG
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

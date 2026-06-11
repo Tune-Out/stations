@@ -19,6 +19,13 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.tbmp.nl:8000/haarlemshuffle.flac'
+    codec: OGG
+  - url: 'https://stream.tbmp.nl:8000/haarlemshufflelow.aac'
+    codec: AAC
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community

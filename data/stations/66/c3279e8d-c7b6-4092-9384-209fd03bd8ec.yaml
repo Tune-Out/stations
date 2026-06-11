@@ -3,7 +3,7 @@ name: Antenne NRW
 url: http://stream.antenne.de/antenne-nrw/stream/aacp
 url_resolved: http://stream.antenne.de/antenne-nrw/stream/aacp
 homepage: https://www.antenne.nrw/
-favicon: ""
+favicon: https://antenne.nrw/wp-content/uploads/2025/07/cropped-ANRW-Favicon-180x180.png
 tags: []
 country: Germany
 countrycode: DE
@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: 51.22559287566293
 geo_long: 6.77410125732422
+curation: -0.05
+streams:
+  - url: 'http://stream.antenne.de/antenne-nrw/stream/aacp'
+    codec: AAC+
+    bitrate: 47
+  - url: 'https://stream.antenne.de/antenne-nrw/stream/aacp'
+    codec: AAC+
+    bitrate: 47
 research:
   reviewed_at: 2026-06-09
   nature: commercial

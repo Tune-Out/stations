@@ -25,6 +25,12 @@ lastchangetime: 2026-04-10 00:00:03
 clickcount: 0
 geo_lat: 18.65313860889904
 geo_long: -91.81544780731204
+curation: -0.05
+streams:
+  - url: 'https://s2.mexside.net:7162/;'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://s2.mexside.net:7162/;'
 research:
   reviewed_at: 2026-06-09
   nature: commercial

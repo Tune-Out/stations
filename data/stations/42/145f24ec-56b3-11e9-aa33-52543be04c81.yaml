@@ -3,7 +3,7 @@ name: Rádio Samson
 url: http://icecast8.play.cz/samsonfm128.mp3
 url_resolved: http://icecast8.play.cz/samsonfm128.mp3
 homepage: http://www.radiosamson.cz/content/text/cz/
-favicon: ""
+favicon: http://www.radiosamson.cz/content/templates/favicon.ico
 tags:
   - country
   - folk
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 05:37:33
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'https://icecast2.play.cz/samsonfm128aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://icecast8.play.cz/samsonfm128.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

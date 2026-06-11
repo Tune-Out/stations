@@ -3,7 +3,7 @@ name: Yes FM
 url: http://live.trusl.com:1150/
 url_resolved: http://live.trusl.com:1150/
 homepage: http://www.yesfmonline.com/
-favicon: ""
+favicon: https://yesfmonline.com/images/logos/yes-fm-logo-about.png
 tags: []
 country: Sri Lanka
 countrycode: LK
@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 01:39:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://live.trusl.com:1150/'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://live.trusl.com:1150/listen.pls?sid=1'
+    url_resolved: 'http://live.trusl.com:1150/;'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

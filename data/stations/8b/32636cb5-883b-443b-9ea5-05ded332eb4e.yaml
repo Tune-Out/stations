@@ -3,7 +3,7 @@ name: Радіо Relax 101.5
 url: http://online.radiorelax.ua/RadioRelax
 url_resolved: http://online.radiorelax.ua/RadioRelax
 homepage: https://www.radiorelax.ua/
-favicon: ""
+favicon: https://www.radiorelax.ua/static/img/Relax_favicon.ico
 tags: []
 country: Ukraine
 countrycode: UA
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:05:37
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://online.radiorelax.ua/RadioRelax'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://online.radiorelax.ua/RadioRelax'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

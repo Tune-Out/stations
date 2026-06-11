@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 07:54:20
 clickcount: 39
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://radioshamfm.grtvstream.com:2199/tunein/shamfm.pls'
+    url_resolved: 'http://66.248.205.220:8400/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://radioshamfm.grtvstream.com:8400/;'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

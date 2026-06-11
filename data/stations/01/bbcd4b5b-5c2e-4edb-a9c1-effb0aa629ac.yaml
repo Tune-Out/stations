@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://mediaserv68.live-streams.nl:8053/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://mediaserv68.live-streams.nl:18053/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

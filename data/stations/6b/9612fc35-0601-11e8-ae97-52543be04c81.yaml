@@ -3,7 +3,7 @@ name: France Bleu Armorique
 url: http://direct.francebleu.fr/live/fbarmorique-midfi.mp3
 url_resolved: http://direct.francebleu.fr/live/fbarmorique-midfi.mp3
 homepage: https://www.francebleu.fr/armorique
-favicon: ""
+favicon: https://www.ici.fr/images/apple-touch-icon.png
 tags: []
 country: France
 countrycode: FR
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 02:22:41
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://direct.francebleu.fr/live/fbarmorique-midfi.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://direct.francebleu.fr/live/fbarmorique-midfi.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

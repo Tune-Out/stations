@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 03:53:08
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://live-icy.gss.dr.dk/A/A02L.mp3.m3u'
+    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A02L.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://live-icy.gss.dr.dk/A/A02H.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

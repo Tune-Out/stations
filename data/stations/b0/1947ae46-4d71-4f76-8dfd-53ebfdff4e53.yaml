@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:02:06
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://s2.e-resellers.gr:8020/stream?type=http&nocache=103230'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://sh.onweb.gr:7060/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

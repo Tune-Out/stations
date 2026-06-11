@@ -27,6 +27,12 @@ lastchangetime: 2026-01-15 04:35:17
 clickcount: 11
 geo_lat: 48.77215018962352
 geo_long: 9.17461979951882
+curation: -0.10
+streams:
+  - url: 'https://stream.bigfm.de/deutschland/mp3-128/radio-browser'
+    codec: AAC
+  - url: 'https://streams.bigfm.de/bigfm-deutschland-128-mp3'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

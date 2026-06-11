@@ -3,7 +3,7 @@ name: Radio Mast Russian
 url: https://streams.radiomast.io/1f7e18dd-42dc-4869-9785-a9800456b9e3
 url_resolved: https://streams.radiomast.io/1f7e18dd-42dc-4869-9785-a9800456b9e3
 homepage: https://bbn1.bbnradio.org/russian/
-favicon: ""
+favicon: https://bbn1.bbnradio.org/russian/wp-content/uploads/sites/10/2017/01/bbnfavicon32x32.png
 tags:
   - religious
 country: The United States Of America
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:08:34
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://streams.radiomast.io/1f7e18dd-42dc-4869-9785-a9800456b9e3'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://streams.radiomast.io/1f7e18dd-42dc-4869-9785-a9800456b9e3'
+    codec: AAC
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

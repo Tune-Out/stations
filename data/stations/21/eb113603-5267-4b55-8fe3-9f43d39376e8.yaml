@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://stream85.polskieradio.pl/omniaaxe/k70.stream/chunklist_.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://stream85.polskieradio.pl/omniaaxe/k71.stream/chunklist_.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

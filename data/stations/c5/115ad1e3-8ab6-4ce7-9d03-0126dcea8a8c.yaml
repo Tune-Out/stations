@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://stream23.gal.io/GLXY_CF01'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.glxy.radio/GLXY'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

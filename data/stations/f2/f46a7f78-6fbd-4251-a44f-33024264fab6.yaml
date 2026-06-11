@@ -19,6 +19,14 @@ lastchangetime: 2026-04-08 14:35:49
 clickcount: 0
 geo_lat: 61.52898037186649
 geo_long: 23.631591796875004
+curation: -0.05
+streams:
+  - url: 'https://st.downtime.fi/sun.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://st.downtime.fi/sun.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

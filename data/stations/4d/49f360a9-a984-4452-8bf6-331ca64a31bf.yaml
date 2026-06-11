@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:10:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://ice66.securenetsystems.net/WZEB'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://ice66.securenetsystems.net/WZEB'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://cast.ner.gov.tw/9'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cast.ner.gov.tw/8'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

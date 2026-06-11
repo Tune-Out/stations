@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 00:20:51
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://deeperlink.com:8102/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://deeperlink.com:8100/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://deeperlink.com:8032/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

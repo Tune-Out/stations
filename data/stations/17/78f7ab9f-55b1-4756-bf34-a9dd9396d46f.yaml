@@ -21,6 +21,17 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://alternative-radio.stream.laut.fm/alternative-radio?'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://alternative-radio.stream.laut.fm/alternative-radio?t302=2018-03-11_09-41-59&uuid=053d192c-eee0-4d8c-9495-c9224bfa4eb3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://alternative-radio.stream.laut.fm/alternative-radio'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

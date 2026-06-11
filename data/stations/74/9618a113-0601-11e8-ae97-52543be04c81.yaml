@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 1.00
+streams:
+  - url: 'http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3?ID=f9fbk29m84'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

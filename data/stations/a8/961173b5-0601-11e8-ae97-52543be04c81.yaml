@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 05:19:36
 clickcount: 5
 geo_lat: 37.809784
 geo_long: -121.286316
+curation: 0.75
+streams:
+  - url: 'https://somafm.com/lush130.pls'
+    url_resolved: 'https://ice5.somafm.com/lush-128-aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://somafm.com/lush64.pls'
+    url_resolved: 'https://ice4.somafm.com/lush-64-aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://somafm.com/lush.pls'
+    url_resolved: 'https://ice2.somafm.com/lush-128-mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -23,6 +23,15 @@ lastchangetime: 2026-01-14 23:37:16
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'https://wgbh-hls.streamguys1.com/wcrb_hls/playlist.m3u8'
+    codec: AAC
+    bitrate: 256
+    hls: true
+  - url: 'https://wgbh-live.streamguys1.com/classical-hi'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,25 @@ lastchangetime: 2026-01-15 05:53:55
 clickcount: 14
 geo_lat: 48.85261332263444
 geo_long: 2.2782683372497563
+curation: 0.60
+streams:
+  - url: 'http://radio-metadata.fr:8000/fip'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.radiofrance.fr/fip/fip.m3u8'
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: 'https://stream.radiofrance.fr/fip/fip.m3u8?id=radiofrance'
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: 'https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://stream.radiofrance.fr/fip/fip_hifi.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

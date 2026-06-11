@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 2
 geo_lat: 49.194822572491674
 geo_long: 16.602083262822486
+curation: 0.35
+streams:
+  - url: 'https://api.play.cz/radio/radio7-32aac.m3u'
+    url_resolved: 'http://icecast8.play.cz/radio7-32aac'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://icecast8.play.cz/radio7-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

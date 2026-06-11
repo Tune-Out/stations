@@ -21,6 +21,12 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream01.3fach.ch:8001/live'
+    codec: MP3
+  - url: 'https://stream01.3fach.ch/live'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community

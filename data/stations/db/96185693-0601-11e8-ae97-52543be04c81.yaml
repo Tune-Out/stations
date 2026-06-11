@@ -3,7 +3,7 @@ name: Rai Radio 1
 url: http://icestreaming.rai.it/1.mp3
 url_resolved: http://icestreaming.rai.it/1.mp3
 homepage: http://www.radio1.rai.it/
-favicon: ""
+favicon: https://www.raiplaysound.it/assets/img/icons/apple/apple-touch-icon.png
 tags:
   - news
   - public-radio
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 05:21:40
 clickcount: 104
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://icestreaming.rai.it/1.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://icestreaming.rai.it/1.mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

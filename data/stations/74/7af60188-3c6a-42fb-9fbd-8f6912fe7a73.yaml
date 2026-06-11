@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://178.32.107.151:3711/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://eu9.fastcast4u.com/proxy/alfagodwin?mp=/1'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

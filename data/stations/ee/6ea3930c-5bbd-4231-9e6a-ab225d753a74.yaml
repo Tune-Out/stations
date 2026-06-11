@@ -27,6 +27,14 @@ lastchangetime: 2026-01-29 15:39:47
 clickcount: 12
 geo_lat: 52.22888206869453
 geo_long: 21.00017411076881
+curation: 0.25
+streams:
+  - url: 'https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.rcs.revma.com/1nnezw8qz7zuv.m3u'
+    url_resolved: 'http://n17a-eu.rcs.revma.com/1nnezw8qz7zuv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

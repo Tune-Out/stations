@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 04:44:02
 clickcount: 10
 geo_lat: 41.89664621211273
 geo_long: 12.512644529342651
+curation: 0.50
+streams:
+  - url: 'https://s.streampunk.cc/ondarossa.ogg'
+    codec: OGG
+  - url: 'http://s.streampunk.cc/ondarossa.ogg'
+    codec: OGG
+  - url: 'http://stream.auto.ondarossa.net/ondarossa.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

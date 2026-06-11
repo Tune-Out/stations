@@ -25,6 +25,20 @@ lastchangetime: 2026-01-15 05:36:39
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'http://icy.unitedradio.it/um1030.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icy.unitedradio.it/Virgin_05.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icy.unitedradio.it/um1027.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icy.unitedradio.it/um1028.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

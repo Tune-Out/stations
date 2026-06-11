@@ -20,6 +20,17 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 51.901918172561714
 geo_long: -8.473205566406252
+curation: 0.35
+streams:
+  - url: 'http://master.shoutcast.com:8000/dhr'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.shoutcast.com/dhr?1728967549574'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://deephouse-radio.com/api/stream/free'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -3,7 +3,7 @@ name: Radio Meuh
 url: http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 url_resolved: http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 homepage: http://www.radiomeuh.com/
-favicon: ""
+favicon: https://www.radiomeuh.com/apple-icon-57x57.png
 tags:
   - electronic
   - funk
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:25:16
 clickcount: 54
 geo_lat: null
 geo_long: null
+curation: 0.80
+streams:
+  - url: 'http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: 37.94504159962574
 geo_long: 23.67161571979523
+curation: -0.05
+streams:
+  - url: 'https://netradio.live24.gr/skai1003'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://netradio.live24.gr/skai1003'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

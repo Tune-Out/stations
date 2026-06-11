@@ -3,7 +3,7 @@ name: РАДИО ВАНЯ
 url: https://icecast-radiovanya.cdnvideo.ru/radiovanya
 url_resolved: https://icecast-radiovanya.cdnvideo.ru/radiovanya
 homepage: http://www.radiovanya.ru/
-favicon: ""
+favicon: https://radiovanya.ru/favicon.ico
 tags:
   - pop
 country: The Russian Federation
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:33:41
 clickcount: 45
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'https://icecast-radiovanya.cdnvideo.ru/radiovanya'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://icecast-radiovanya.cdnvideo.ru/radiovanya'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

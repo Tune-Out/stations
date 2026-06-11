@@ -22,6 +22,14 @@ lastchangetime: 2026-03-30 02:06:20
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://kidspublicradio2.got.net:8000/pipsqueaks'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://kidspublicradio2.got.net:8000/lullaby'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

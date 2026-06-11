@@ -23,6 +23,14 @@ lastchangetime: 2026-02-05 23:55:52
 clickcount: 0
 geo_lat: 51.52535220056094
 geo_long: -0.46152463657372694
+curation: 0.35
+streams:
+  - url: 'https://streaming.broadcast.radio/hrhillingdonaac?1699805800701='
+    codec: AAC
+    bitrate: 128
+  - url: 'https://uksoutha.streaming.broadcast.radio/hrhillingdonmp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

@@ -3,7 +3,7 @@ name: BR Klassik
 url: https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
 url_resolved: https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
 homepage: https://www.br-klassik.de/
-favicon: ""
+favicon: https://www.br-klassik.de/static/live/img/ios/touch-icons/60x60.png
 tags:
   - classical
 country: Germany
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 14
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

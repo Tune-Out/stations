@@ -25,6 +25,15 @@ lastchangetime: 2026-01-15 01:18:04
 clickcount: 4
 geo_lat: 34.04082541061045
 geo_long: -118.22799682617188
+curation: -0.10
+streams:
+  - url: 'https://www.bossbossradio.com/playlist.pls'
+    url_resolved: 'http://streaming.live365.com/b26873_128mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.live365.com/b26873_128mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

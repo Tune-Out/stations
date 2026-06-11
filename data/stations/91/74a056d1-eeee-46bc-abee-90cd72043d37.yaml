@@ -23,6 +23,14 @@ lastchangetime: 2026-03-28 11:39:53
 clickcount: 1
 geo_lat: 39.09947998309384
 geo_long: -76.73984527587892
+curation: 0.35
+streams:
+  - url: 'http://player-redirect.streamtheworld.com/api/livestream-redirect/AFN04_S01.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://player-redirect.streamtheworld.com/api/livestream-redirect/AFN02_S01.mp3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial

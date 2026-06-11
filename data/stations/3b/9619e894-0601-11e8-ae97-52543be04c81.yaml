@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 07:35:30
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'https://listen-msmn.sharp-stream.com/nme2high.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://listen-msmn.sharp-stream.com/nme2.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

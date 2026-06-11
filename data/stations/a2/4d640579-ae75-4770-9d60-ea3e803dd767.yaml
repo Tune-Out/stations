@@ -20,6 +20,14 @@ lastchangetime: 2026-05-02 10:29:26
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://listen-nation.sharp-stream.com/lovenation.aac'
+    codec: AAC+
+    bitrate: 47
+  - url: 'http://listen-nation.sharp-stream.com/lovenationdab.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial

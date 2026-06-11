@@ -3,7 +3,7 @@ name: Tuks FM
 url: http://edge.iono.fm/xice/tuksfm_live_medium.aac
 url_resolved: http://edge.iono.fm/xice/tuksfm_live_medium.aac
 homepage: http://www.tuksfm.co.za/
-favicon: ""
+favicon: https://www.tuksfm.co.za/wp-content/uploads/2025/04/Tuks-FM-logo.png
 tags:
   - alternative
   - rock
@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 07:45:36
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://edge.iono.fm/xice/tuksfm_live_medium.aac'
+    codec: AAC
+  - url: 'https://edge.iono.fm/xice/tuksfm_live_medium.aac?adToken=&pofToken='
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: community

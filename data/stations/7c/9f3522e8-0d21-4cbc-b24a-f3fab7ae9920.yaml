@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 08:10:11
 clickcount: 1
 geo_lat: -34.65223485371526
 geo_long: -58.67782294750214
+curation: -0.05
+streams:
+  - url: 'https://cdn.instream.audio/:9069/stream'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://cdn.instream.audio/:9069/stream?in_device_id=wp-0bd8ae0e-61bb-4c85-8d42-818ab95f0da2'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://cdn.instream.audio/:9069/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://cdn.instream.audio//:9069//stream'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

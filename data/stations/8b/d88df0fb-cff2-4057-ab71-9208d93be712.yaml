@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://mp3channels.webradio.antenne.de/hits-fuer-kids.aac'
+    url_resolved: 'http://s2-webradio.antenne.de/hits-fuer-kids.aac'
+    codec: AAC
+  - url: 'http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u'
+    url_resolved: 'http://s2-webradio.antenne.de/hits-fuer-kids'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

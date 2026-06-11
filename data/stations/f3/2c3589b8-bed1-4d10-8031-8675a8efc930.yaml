@@ -22,6 +22,12 @@ lastchangetime: 2026-01-14 23:34:44
 clickcount: 2
 geo_lat: -33.663353555128104
 geo_long: -70.66406250000001
+curation: 0.25
+streams:
+  - url: 'https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio'
+    codec: AAC+
+  - url: 'http://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio'
+    codec: AAC+
 research:
   reviewed_at: 2026-06-10
   nature: commercial

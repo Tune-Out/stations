@@ -3,7 +3,7 @@ name: bigFM Oldschool Rap & Hip-Hop
 url: http://streams.bigfm.de/bigfm-oldschool-128-mp3
 url_resolved: http://streams.bigfm.de/bigfm-oldschool-128-mp3
 homepage: https://www.bigfm.de/
-favicon: ""
+favicon: https://file.atsw.de/production/static/1776772400854/icons/icon_512.cWprpqopSeo.png
 tags: []
 country: ""
 countrycode: ""
@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://streams.bigfm.de/bigfm-oldschool-128-mp3'
+    codec: AAC
+  - url: 'https://streams.bigfm.de/bigfm-oldschool-128-mp3'
+    codec: AAC
+  - url: 'http://streams.bigfm.de/bigfm-oldschool-128-aac'
+    codec: AAC
+  - url: 'http://streams.bigfm.de/bigfm-oldschool-64-aac'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

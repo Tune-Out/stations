@@ -3,7 +3,7 @@ name: Polskie Radio - Czwórka (Program 4) (AAC+)
 url: http://stream3.polskieradio.pl:8956/;
 url_resolved: http://stream3.polskieradio.pl:8956/;
 homepage: https://www.polskieradio.pl/10,Czworka
-favicon: ""
+favicon: https://static.prsa.pl/images/6c810aca-4698-4d36-9370-8c651e7c0077.jpg
 tags:
   - alternative
 country: Poland
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:42:04
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://stream3.polskieradio.pl:8956/;'
+    codec: AAC+
+    bitrate: 192
+  - url: 'http://stream3.polskieradio.pl:8906/;stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

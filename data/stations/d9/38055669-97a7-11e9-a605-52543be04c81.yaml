@@ -3,7 +3,7 @@ name: Conyers Old Time Radio
 url: http://www.conyersradio.net/listen.m3u
 url_resolved: https://s8.yesstreaming.net:17011/stream
 homepage: http://www.conyersradio.net/
-favicon: ""
+favicon: https://www.conyersradio.net/favicon.ico
 tags:
   - oldies
 country: The United States Of America
@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 03:53:08
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://www.conyersradio.net/listen.m3u'
+    url_resolved: 'https://s8.yesstreaming.net:17011/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://www.conyersradio.net/listen.m3u'
+    url_resolved: 'https://s8.yesstreaming.net:17011/stream'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

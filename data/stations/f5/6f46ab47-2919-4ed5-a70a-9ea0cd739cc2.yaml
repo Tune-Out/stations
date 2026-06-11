@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 01:39:33
 clickcount: 10
 geo_lat: 24.874133877351746
 geo_long: 67.09899902343751
+curation: -0.05
+streams:
+  - url: 'http://162.244.80.118:3024/stream.mp3?ver=349829'
+    codec: MP3
+    bitrate: 32
+  - url: 'http://162.244.80.118:3024/stream.mp3?ver=517748'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

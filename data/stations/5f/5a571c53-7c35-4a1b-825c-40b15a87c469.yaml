@@ -3,7 +3,7 @@ name: Garage FM Online
 url: http://music.garagefm.ru:8005/Garagefm128
 url_resolved: http://music.garagefm.ru:8005/Garagefm128
 homepage: https://garagefm.ru/
-favicon: ""
+favicon: https://garagefm.ru/favicon2_16.png
 tags: []
 country: The Russian Federation
 countrycode: RU
@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'http://213.189.208.146:8005/Garagefm192'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://music.garagefm.ru:8005/Garagefm128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://garagefm.ru/streaming/Garagefm128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

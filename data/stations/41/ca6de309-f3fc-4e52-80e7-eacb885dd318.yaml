@@ -3,7 +3,7 @@ name: RTÉ Radio 1
 url: https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
 url_resolved: https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
 homepage: https://www.rte.ie/radio/
-favicon: ""
+favicon: https://www.rte.ie/favicon.ico
 tags:
   - news
   - sports
@@ -24,6 +24,8 @@ lastchangetime: 2026-01-15 02:01:25
 clickcount: 8
 geo_lat: 53.32220658378357
 geo_long: -6.236307621002197
+curation: 0.35
+duplicate_of: 02dd025e-d691-4310-bd2f-cf16007bdefb
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

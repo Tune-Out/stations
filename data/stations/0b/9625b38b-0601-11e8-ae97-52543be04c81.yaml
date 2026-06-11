@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://kunrstream.com:8443/live'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://kunrstream.com:8443/live?uuid=wmtj4mcb'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

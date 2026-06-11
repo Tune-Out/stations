@@ -25,6 +25,14 @@ lastchangetime: 2026-03-19 10:04:08
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://uk15freenew.listen2myradio.com:5003/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://uk7freenew.listen2myradio.com:8035/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

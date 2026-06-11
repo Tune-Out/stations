@@ -3,7 +3,7 @@ name: 101.ru ДДТ
 url: http://pub0302.101.ru:8000/stream/pro/aac/64/112?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijg4LjIyMy42OC44NCIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo5MS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTEuMCBXYXRlcmZveFwvOTEuNC4yIiwidWlkX2NoYW5uZWwiOiIxMTIiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjQxNjcxOTg3fQ.k_WsYHWH-yoxEogmsvirk_IcKDdHKpTLDj5rCoF0B2E
 url_resolved: http://pub0302.101.ru:8000/stream/pro/aac/64/112?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijg4LjIyMy42OC44NCIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo5MS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTEuMCBXYXRlcmZveFwvOTEuNC4yIiwidWlkX2NoYW5uZWwiOiIxMTIiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjQxNjcxOTg3fQ.k_WsYHWH-yoxEogmsvirk_IcKDdHKpTLDj5rCoF0B2E
 homepage: https://101.ru/radio/channel/112
-favicon: ""
+favicon: https://101.ru/apple-touch-icon-precomposed.png
 tags:
   - rock
 country: The Russian Federation
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:48:55
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://pub0302.101.ru:8000/stream/pro/aac/64/112?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijg4LjIyMy42OC44NCIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo5MS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTEuMCBXYXRlcmZveFwvOTEuNC4yIiwidWlkX2NoYW5uZWwiOiIxMTIiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjQxNjcxOTg3fQ.k_WsYHWH-yoxEogmsvirk_IcKDdHKpTLDj5rCoF0B2E'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://pub0101.101.ru/stream/pro/aac/64/112'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

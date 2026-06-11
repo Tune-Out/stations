@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://jenny.torontocast.com:2000/stream/the-oasis'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://jenny.torontocast.com:2000/stream/the-oasis/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

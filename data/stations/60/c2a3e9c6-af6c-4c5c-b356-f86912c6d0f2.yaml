@@ -23,6 +23,19 @@ lastchangetime: 2026-01-15 08:36:02
 clickcount: 0
 geo_lat: 34.08632682930146
 geo_long: -118.3693599700928
+curation: 0.25
+streams:
+  - url: 'http://media.luxuriamusic.com/files/streams/Mp3/luxuriamusic_64_acc.pls'
+    url_resolved: 'http://ice10.securenetsystems.net/LUXOTRON'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://ice10.securenetsystems.net/LUXOMP3'
+    codec: MP3
+    bitrate: 32
+  - url: 'http://media.luxuriamusic.com/files/streams/Mp3/winamp.pls'
+    url_resolved: 'http://ice10.securenetsystems.net/LUXOMP3'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

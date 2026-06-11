@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 06:40:25
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://souvenir2.hoamatwelle.de/'
+    url_resolved: 'https://souvenir2.spcast.eu:443/stream?time=1768459221'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://souvenir2.spcast.eu/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

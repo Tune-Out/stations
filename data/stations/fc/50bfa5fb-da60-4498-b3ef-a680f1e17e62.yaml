@@ -3,7 +3,7 @@ name: AIR Malayalam
 url: http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
 url_resolved: http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
 homepage: https://prasarbharati.gov.in/
-favicon: ""
+favicon: https://prasarbharati.gov.in/wp-content/uploads/2024/03/cropped-Logo-180x180.png
 tags: []
 country: India
 countrycode: IN
@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 03:17:37
 clickcount: 29
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8'
+    codec: AAC
+    bitrate: 93
+    hls: true
+  - url: 'http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8'
+    codec: AAC
+    bitrate: 92
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

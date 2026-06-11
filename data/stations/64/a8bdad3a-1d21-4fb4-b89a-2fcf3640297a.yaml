@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://easyrockboracay.radioca.st/listen.pls?sid=1'
+    url_resolved: 'http://easyrockboracay.radioca.st:8887/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://easyrockboracay.radioca.st:2199/tunein/easyrockboracay-stream.pls'
+    url_resolved: 'http://138.201.198.218:8887/stream'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

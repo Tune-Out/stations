@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 145f24ec-56b3-11e9-aa33-52543be04c81
+streams:
+  - url: 'https://icecast2.play.cz/samsonfm128aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://icecast2.play.cz/samsonfm128aac'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

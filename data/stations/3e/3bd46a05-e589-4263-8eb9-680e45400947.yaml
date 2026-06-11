@@ -24,6 +24,17 @@ lastchangetime: 2026-01-14 23:51:52
 clickcount: 5
 geo_lat: 37.997
 geo_long: 23.715
+curation: 0.65
+streams:
+  - url: 'https://blueswave.radio:8100/hifiblues'
+    codec: AAC
+    bitrate: 320
+  - url: 'https://blueswave.radio:8100/icyblues'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://blueswave.radio:8000/blueswave'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

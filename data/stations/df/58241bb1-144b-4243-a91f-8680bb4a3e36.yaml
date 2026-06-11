@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://ice.zradio.org/r/med.aac'
+    codec: AAC+
+    bitrate: 80
+  - url: 'http://ice.zradio.org/r/low.aac'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

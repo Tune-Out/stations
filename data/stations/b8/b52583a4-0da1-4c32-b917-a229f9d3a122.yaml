@@ -3,7 +3,7 @@ name: RTHK Radio 1
 url: https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 url_resolved: https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 homepage: http://www.rthk.org.hk/
-favicon: ""
+favicon: https://webstatic.rthk.hk/img/apple-icon-57x57.png
 tags:
   - news
   - public-radio
@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 05:06:28
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true
+  - url: 'https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

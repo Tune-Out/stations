@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8?'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media

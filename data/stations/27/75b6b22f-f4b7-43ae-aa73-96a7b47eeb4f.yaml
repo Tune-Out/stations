@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 8
 geo_lat: 48.85256672971922
 geo_long: 2.2783380746841435
+curation: 0.35
+streams:
+  - url: 'https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://icecast.radiofrance.fr/fipmetal-hifi.aac'
+    codec: AAC
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

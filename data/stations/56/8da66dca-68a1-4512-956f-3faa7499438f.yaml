@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:51:21
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://31.192.216.7/FITNESSF'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://195.150.20.7/rmf_fitness_f'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

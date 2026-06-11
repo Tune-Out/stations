@@ -22,6 +22,18 @@ lastchangetime: 2026-01-14 23:32:38
 clickcount: 24
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://kanbet.media.kan.org.il/hls/live/2024811/2024811/playlist.m3u8'
+    codec: MP3
+    bitrate: 146
+    hls: true
+  - url: 'https://28563.live.streamtheworld.com/KAN_BET.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect&1737047133'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

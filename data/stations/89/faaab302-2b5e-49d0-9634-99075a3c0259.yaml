@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://icecast-piterfm.cdnvideo.ru/piterfm'
+    codec: MP3
+    bitrate: 160
+  - url: 'http://icecast-piterfm.cdnvideo.ru/piterfm'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial

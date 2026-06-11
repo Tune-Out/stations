@@ -22,6 +22,46 @@ lastchangetime: 2026-01-15 06:46:57
 clickcount: 411
 geo_lat: 40.785114
 geo_long: -124.183922
+curation: 0.95
+streams:
+  - url: 'https://stream.radioparadise.com/flac'
+    codec: OGG
+    bitrate: 1441
+  - url: 'http://stream-uk1.radioparadise.com/aac-320'
+    codec: AAC
+    bitrate: 320
+  - url: 'http://stream.radioparadise.com/aac-320'
+    codec: AAC
+    bitrate: 320
+  - url: 'https://stream.radioparadise.com/ti-main-320'
+    codec: AAC
+    bitrate: 320
+  - url: 'http://stream-uk1.radioparadise.com/aac-128'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://stream-uk1.radioparadise.com/aac-64'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://stream.radioparadise.com/aac-64'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://www.radioparadise.com/m3u/aac-32.m3u'
+    url_resolved: 'http://stream.radioparadise.com/aac-32'
+    codec: AAC
+    bitrate: 32
+  - url: 'http://www.radioparadise.com/m3u/aac-24.m3u'
+    url_resolved: 'http://stream.radioparadise.com/aac-24'
+    codec: AAC
+    bitrate: 24
+  - url: 'http://stream-uk1.radioparadise.com/mp3-192'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.radioparadise.com/mp3-128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream-uk1.radioparadise.com/mp3-128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

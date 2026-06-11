@@ -3,7 +3,7 @@ name: Radio Leliwa
 url: http://streaming.g-news.pl:8050/leliwa.m3u
 url_resolved: http://streaming.g-news.pl:8050/leliwa
 homepage: https://leliwa.pl/
-favicon: ""
+favicon: https://leliwa.pl/wp-content/uploads/2024/11/Leliwa-logo-poziom-1-scaled-1-1024x517.jpg
 tags: []
 country: Poland
 countrycode: PL
@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://streaming.g-news.pl:8050/leliwa.m3u'
+    url_resolved: 'http://streaming.g-news.pl:8050/leliwa'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.g-news.pl:8050/leliwa?1605899747'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

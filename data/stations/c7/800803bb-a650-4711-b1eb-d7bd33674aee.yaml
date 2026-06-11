@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 9
 geo_lat: 48.15132697843394
 geo_long: 17.11000442504883
+curation: 0.50
+streams:
+  - url: 'https://icecast.stv.livebox.sk/slovensko_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.stv.livebox.sk/slovensko_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

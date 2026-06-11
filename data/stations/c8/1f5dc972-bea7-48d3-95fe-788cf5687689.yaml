@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:46
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://yesfmzamboanga.radioca.st/tunein/yesfmzamboanga-stream.pls'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://yesfmzamboanga.radioca.st:2199/tunein/yesfmzamboanga-stream.pls'
+    url_resolved: 'http://proxima.shoutca.st:8313/stream'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -27,6 +27,18 @@ lastchangetime: 2026-01-15 03:22:41
 clickcount: 0
 geo_lat: 53.07573319484636
 geo_long: 8.80707621574402
+curation: 0.40
+streams:
+  - url: 'https://stream.laut.fm/poploungecafe'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/poploungecafe'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/poploungecafe.pls'
+    url_resolved: 'http://poploungecafe.stream.laut.fm/poploungecafe?pl=pls&t302=2026-01-15_05-47-03&uuid=d6f497b6-bfa9-4e64-8466-f4560ff363c1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -3,7 +3,7 @@ name: Radio Nostalgia Liguria
 url: http://wma08.fluidstream.net:8000/listen.pls
 url_resolved: http://wma08.fluidstream.net:8000/listen.pls
 homepage: http://www.nostalgia.it/
-favicon: ""
+favicon: https://nostalgia.it/wp-content/uploads/2020/12/radio-nostalgia-slideoneok.jpg
 tags:
   - adult-contemporary
   - news
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 06:09:01
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://wma08.fluidstream.net:8000/listen.pls'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://rn1.fluidstream.eu/nostalgia_li.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,13 @@ lastchangetime: 2026-01-15 04:29:57
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://163.10.186.70:8002/stream'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

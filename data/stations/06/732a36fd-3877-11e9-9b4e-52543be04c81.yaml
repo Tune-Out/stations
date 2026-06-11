@@ -3,7 +3,7 @@ name: Energy (NRJ) Nürnberg
 url: http://nrj.de/nuernberg
 url_resolved: https://edge85.streamonkey.net/energy-nuernberg?aggregator=shorty
 homepage: https://www.energy.de/nuernberg
-favicon: ""
+favicon: https://www.energy.de/favicon.ico
 tags:
   - top-40
 country: Germany
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:52:11
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://nrj.de/nuernberg'
+    url_resolved: 'https://edge85.streamonkey.net/energy-nuernberg?aggregator=shorty'
+    codec: AAC
+  - url: 'http://frontend.streamonkey.net/energy-nuernberg/stream/aacp?aggregator=icecastdirectory'
+    url_resolved: 'http://edge12.streamonkey.net/energy-nuernberg/stream/aacp?aggregator=icecastdirectory'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

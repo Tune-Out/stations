@@ -30,6 +30,14 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 7
 geo_lat: 50.673835249921346
 geo_long: 8.203117847442629
+curation: 0.00
+streams:
+  - url: 'https://streams.rautemusik.fm/techno/mp3-192'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://streams.rautemusik.fm/techno/mp3-192/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

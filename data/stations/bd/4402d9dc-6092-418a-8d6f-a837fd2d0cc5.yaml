@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 15
 geo_lat: -0.206636934558138
 geo_long: -78.49868774414064
+curation: -0.05
+streams:
+  - url: 'https://canelaradio.makrodigital.com:9280/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ecuadorstreaming.net:9280/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

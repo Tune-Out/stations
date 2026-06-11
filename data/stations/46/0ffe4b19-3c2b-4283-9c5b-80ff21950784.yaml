@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3?ver=402073'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

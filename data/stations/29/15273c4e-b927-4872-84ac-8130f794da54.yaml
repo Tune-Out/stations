@@ -19,6 +19,14 @@ lastchangetime: 2026-06-06 16:54:20
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://s3.slotex.pl/shoutcast/7008/stream?sid=1'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://s3.slotex.pl:7008/stream/1/'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

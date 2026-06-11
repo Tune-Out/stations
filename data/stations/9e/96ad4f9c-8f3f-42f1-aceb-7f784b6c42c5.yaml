@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://www.radio-xmas.at:443/xmas?type=http'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.radio-xmas.at:443/xmas?1512905036085'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

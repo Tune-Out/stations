@@ -24,6 +24,17 @@ lastchangetime: 2026-01-14 23:16:26
 clickcount: 15
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://23603.live.streamtheworld.com/RFMAAC.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://22593.live.streamtheworld.com/RFMAAC.aac'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 08:48:40
 clickcount: 0
 geo_lat: 55.104285745648504
 geo_long: 38.75620901584626
+curation: 0.55
+streams:
+  - url: 'https://live.radioblago.ru/live-1.ogg'
+    codec: OGG
+    bitrate: 96
+  - url: 'https://live.radioblago.ru/live-2.ogg'
+    codec: OGG
+    bitrate: 48
+  - url: 'https://live.radioblago.ru/live-2.mp3'
+    codec: MP3
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

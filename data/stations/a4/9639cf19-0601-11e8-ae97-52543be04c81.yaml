@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 06:59:16
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://streaming01.sr-online.de/antennesaar_2.m3u'
+    url_resolved: 'http://liveradio.sr.de/sr/as/mp3/128/stream.mp3?aggregator=custom1'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sr.audiostream.io/sr/1013/mp3/56/as'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

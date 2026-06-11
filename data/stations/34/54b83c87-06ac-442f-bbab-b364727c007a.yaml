@@ -22,6 +22,14 @@ lastchangetime: 2026-01-25 09:14:23
 clickcount: 0
 geo_lat: 50.64927975453325
 geo_long: 6.882805645772657
+curation: -0.05
+streams:
+  - url: 'http://studio-odendorf.stream.laut.fm/studio-odendorf'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.laut.fm/retrowelle2'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

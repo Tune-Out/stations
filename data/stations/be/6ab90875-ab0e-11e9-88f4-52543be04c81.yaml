@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://streams.rpr1.de/rpr-rock-128-mp3?usid=0-0-H-A-D-30'
+    codec: AAC
+  - url: 'http://streams.rpr1.de/rpr-rock-128-aac?usid=0-0-H-A-D-30'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

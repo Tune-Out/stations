@@ -23,6 +23,16 @@ lastchangetime: 2026-02-07 12:00:10
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://somafm.com/nossl/synphaera130.pls'
+    url_resolved: 'http://ice3.somafm.com/synphaera-128-aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://somafm.com/synphaera256.pls'
+    url_resolved: 'https://ice1.somafm.com/synphaera-256-mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

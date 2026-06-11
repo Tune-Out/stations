@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://ngcdn001.cnr.cn/live/yyzs/index.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908117055114&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media

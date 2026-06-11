@@ -3,7 +3,7 @@ name: Cherry FM
 url: https://cherry.akiyaresearch.com:444/stream/89/
 url_resolved: https://cherry.akiyaresearch.com:444/stream/89/
 homepage: http://www.cherryfmmym.com/
-favicon: ""
+favicon: https://cherryfmmym.com/sites/default/files/favicon_0.png
 tags:
   - pop
 country: Myanmar
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 14
 geo_lat: 16.787058528243705
 geo_long: 96.14280354743028
+curation: -0.05
+streams:
+  - url: 'https://cherry.akiyaresearch.com:444/stream/89/'
+    codec: MP3
+    bitrate: 112
+  - url: 'https://cherry.akiyaresearch.com:444/stream/89/'
+    codec: MP3
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

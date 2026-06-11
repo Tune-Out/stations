@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 00:55:05
 clickcount: 1
 geo_lat: -19.90978582399411
 geo_long: -43.94672065973282
+curation: -0.10
+streams:
+  - url: 'https://8231.brasilstream.com.br/stream'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://8231.brasilstream.com.br/stream?1771879486925'
+    codec: AAC
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

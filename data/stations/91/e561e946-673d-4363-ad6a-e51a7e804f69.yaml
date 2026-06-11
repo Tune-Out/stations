@@ -20,6 +20,17 @@ lastchangetime: 2026-05-14 18:16:59
 clickcount: 1
 geo_lat: 45.65279626420626
 geo_long: 25.610890388488773
+curation: -0.05
+streams:
+  - url: 'https://live.superfm.ro/stream.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://live.superfm.ro/stream.mp3?time=1697692801'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://live.superfm.ro/stream.mp3?nocache=0.19023860954617056'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

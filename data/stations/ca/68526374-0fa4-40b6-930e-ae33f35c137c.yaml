@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:38:47
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://nr12.newradio.it:8744/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://nr12.newradio.it/stream/8744'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -3,7 +3,7 @@ name: 1.FM - Bossa Nova Hits
 url: http://strm112.1.fm/bossanova_mobile_mp3
 url_resolved: http://strm112.1.fm/bossanova_mobile_mp3
 homepage: http://www.1.fm/station/bossanova
-favicon: ""
+favicon: https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2
 tags:
   - latin
 country: Switzerland
@@ -22,6 +22,59 @@ lastchangetime: 2026-01-15 02:05:55
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://strm112.1.fm/mpb_mobile_mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://strm112.1.fm/spa_mobile_mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://strm112.1.fm/bossanova_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/club_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/magic80_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/christmas_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/sax4ever_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/slowjamz_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/dance_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/back280s_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/radiogaia_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/caferadio_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/jamz_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/highvoltage_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/kidsfm_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/costadelmarchillout_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/blues_mobile_mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

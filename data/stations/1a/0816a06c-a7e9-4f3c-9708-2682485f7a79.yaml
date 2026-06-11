@@ -22,6 +22,16 @@ lastchangetime: 2026-01-14 23:49:40
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg'
+    codec: OGG
+    bitrate: 320
+  - url: 'https://radio.lapfoxradio.com/radio/8000/stream-flac.flac'
+    codec: OGG
+  - url: 'https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

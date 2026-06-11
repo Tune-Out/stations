@@ -3,7 +3,7 @@ name: CKGY "Real Country 95.5" Red Deer, AB
 url: http://newcap.leanstream.co/CKGYFM-MP3
 url_resolved: http://newcap.leanstream.co/CKGYFM-MP3
 homepage: http://www.realcountryreddeer.ca/
-favicon: ""
+favicon: https://media-cdn.socastsrm.com/uploads/station/1208/home_screen_logo-65e5f30fb63d2.jpg
 tags:
   - country
 country: Canada
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://newcap.leanstream.co/CKGYFM-MP3'
+    codec: AAC
+    bitrate: 131
+  - url: 'http://newcap.leanstream.co/CKGYFM-MP3'
+    codec: AAC
+    bitrate: 130
 research:
   reviewed_at: 2026-06-09
   nature: commercial

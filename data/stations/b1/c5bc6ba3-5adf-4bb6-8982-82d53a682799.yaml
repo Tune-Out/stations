@@ -3,7 +3,7 @@ name: Jazzradio.fr Jazz & Classique
 url: https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
 url_resolved: https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
 homepage: https://www.jazzradio.fr/
-favicon: ""
+favicon: https://www.jazzradio.fr/apple-touch-icon.png
 tags:
   - jazz
 country: France
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:40:39
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

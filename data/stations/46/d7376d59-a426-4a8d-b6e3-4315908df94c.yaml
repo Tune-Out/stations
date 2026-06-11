@@ -3,7 +3,7 @@ name: Radio Felicidad (CDMX) - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de Méxic
 url: https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac
 url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac
 homepage: https://radiofelicidad.mx/
-favicon: ""
+favicon: https://radiofelicidad.mx/apple-touch-icon.png
 tags:
   - 60s
   - 70s
@@ -32,6 +32,8 @@ lastchangetime: 2026-01-14 23:33:22
 clickcount: 0
 geo_lat: 19.434505118290417
 geo_long: -99.13315773010255
+curation: -0.10
+duplicate_of: 177cc601-a536-41cc-bd67-7d10b1a5dee1
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 0
 geo_lat: 28.48607385454248
 geo_long: -81.40319824218751
+curation: 0.35
+streams:
+  - url: 'https://www.subsonicradio.com:8443/background.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://www.subsonicradio.com:8443/requests.mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

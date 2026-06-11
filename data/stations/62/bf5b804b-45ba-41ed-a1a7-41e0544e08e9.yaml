@@ -21,6 +21,13 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'https://stream.zeno.fm/3ac97ysh6f0uv.aac'
+    codec: MP3
+  - url: 'http://stream.zeno.fm/sfpqezsh6f0uv.m3u'
+    url_resolved: 'http://stream.zeno.fm/sfpqezsh6f0uv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community

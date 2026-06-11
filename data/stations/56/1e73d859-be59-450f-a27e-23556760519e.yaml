@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:56:09
 clickcount: 8
 geo_lat: 52.121230523652315
 geo_long: 10.303055141889606
+curation: -0.05
+streams:
+  - url: 'https://stream.antenne.com/antenne-nds/mp3-192'
+    codec: MP3
+  - url: 'https://stream.antenne.com/reg01/mp3-192/Web/'
+    codec: MP3
+  - url: 'http://stream.antenne.com/antenne-nds/mp3-192'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

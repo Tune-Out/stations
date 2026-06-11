@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://audio1.tustreaming.cl/9020/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://live.tustreaming.cl/playerhtml5-ts/?pl=vlc&c=miradio'
+    url_resolved: 'https://audio2.tustreaming.cl/9020/stream'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

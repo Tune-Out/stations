@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:58:19
 clickcount: 96
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.100p.nl/100pctnl.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://27903.live.streamtheworld.com/100PNL_MP3_SC'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

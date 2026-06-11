@@ -3,7 +3,7 @@ name: Pop Radio 101.5
 url: https://popradio.stweb.tv/popradio/live/playlist.m3u8
 url_resolved: https://popradio.stweb.tv/popradio/live/playlist.m3u8
 homepage: https://www.radiopop.fm/
-favicon: ""
+favicon: https://www.radiopop.fm/icons/Icon-192.png
 tags: []
 country: Argentina
 countrycode: AR
@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://popradio.stweb.tv/popradio/live/playlist.m3u8'
+    codec: AAC
+    bitrate: 98
+    hls: true
+  - url: 'https://popradio.stweb.tv/popradio/live/chunks.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

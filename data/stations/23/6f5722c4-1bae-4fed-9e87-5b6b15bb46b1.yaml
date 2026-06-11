@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:19:36
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://crista-kcis.streamguys1.com/kcisaacp?starttime=1708663517'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://crista-kcis.streamguys1.com/kcismp3'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: religious

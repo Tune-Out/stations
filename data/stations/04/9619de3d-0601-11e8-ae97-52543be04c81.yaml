@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 06:46:22
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://nostalgie48.streaming.rs:9270/listen.pls'
+    url_resolved: 'http://nostalgie48.streaming.rs:9270/'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://nostalgie128.streaming.rs:9250/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

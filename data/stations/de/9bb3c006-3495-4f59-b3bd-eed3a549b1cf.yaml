@@ -3,7 +3,7 @@ name: 哈尔滨古典音乐广播
 url: http://lhttp.qingting.fm/live/5022338/64k.mp3
 url_resolved: http://lhttp.qingting.fm/live/5022338/64k.mp3
 homepage: http://www.hrbtv.net/
-favicon: ""
+favicon: https://www.hrbtv.net/favicon.ico
 tags:
   - classical
 country: China
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:37:06
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://lhttp.qingting.fm/live/5022338/64k.mp3'
+    codec: MP3
+  - url: 'https://stream.hrbtv.net/gdpl/playlist.m3u8'
+    codec: UNKNOWN
+    bitrate: 48
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

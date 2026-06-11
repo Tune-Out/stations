@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 03:03:48
 clickcount: 0
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.20
+streams:
+  - url: 'https://1a-pop.radionetz.de/1a-pop.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://1a-pop.radionetz.de/1a-pop.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -20,6 +20,17 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://91.121.51.19:8040/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://91.121.51.19:8044/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://91.121.51.19:8042/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

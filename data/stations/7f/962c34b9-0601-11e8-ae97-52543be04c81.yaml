@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:58:19
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://icecast.stv.livebox.sk/regina-ke_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast.stv.livebox.sk/regina-ke_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 07:21:49
 clickcount: 1
 geo_lat: 54.20004627397012
 geo_long: 37.623710632324226
+curation: -0.05
+streams:
+  - url: 'http://s0.radioheart.ru:8000/RH23554'
+    codec: MP3
+  - url: 'https://s0.radioheart.ru:8000/RH23554'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

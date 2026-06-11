@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:22:35
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://ro3.reformatorischeomroep.nl:8072/live'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://ro3.reformatorischeomroep.nl:8072/live'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -19,6 +19,12 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://streams.regenbogen.de/rr-metal-128-mp3'
+    codec: MP3
+  - url: 'http://streams.regenbogen.de/rr-metal-128-mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

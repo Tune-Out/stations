@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://direct.fipradio.fr/live/fipelectro-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.radiofrance.fr/fipelectro/fipelectro.m3u8'
+    codec: AAC
+    bitrate: 107
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

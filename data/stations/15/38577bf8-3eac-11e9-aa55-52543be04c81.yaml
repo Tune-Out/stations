@@ -3,7 +3,7 @@ name: Ι.Μ. Σπάρτης 88.8
 url: http://s4.onweb.gr:8862/
 url_resolved: http://s4.onweb.gr:8862/
 homepage: http://www.immspartis.gr/
-favicon: ""
+favicon: https://immspartis.gr/wp-content/uploads/2024/02/cropped-IERA-MITROPOLIS-MONEMVASIAS-KAI-SPARTIS-Favicon-512x512px-180x180.png
 tags:
   - religious
 country: Greece
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:16:53
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://s4.onweb.gr:8862/'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://s4.onweb.gr:8862/;'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: community

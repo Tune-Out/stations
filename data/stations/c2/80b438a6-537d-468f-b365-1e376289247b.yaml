@@ -3,7 +3,7 @@ name: Prensa Latina
 url: https://cdn4.onstream.audio:9267/stream
 url_resolved: https://cdn4.onstream.audio:9267/stream
 homepage: https://radio.prensa-latina.cu/
-favicon: ""
+favicon: https://radio.prensa-latina.cu/wp-content/uploads/2021/10/cropped-isotipo-oficial-Prensa-Latina-180x180.png
 tags:
   - classical
 country: Cuba
@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://cdn4.onstream.audio:9267/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cdn4.onstream.audio:9267/stream?download=false'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: state media

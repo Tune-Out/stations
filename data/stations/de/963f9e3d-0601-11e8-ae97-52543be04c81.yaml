@@ -3,7 +3,7 @@ name: R.SH Live
 url: http://streams.rsh.de/rsh-live/mp3-192/mediaplayer
 url_resolved: http://streams.rsh.de/rsh-live/mp3-192/mediaplayer
 homepage: http://www.rsh.de/
-favicon: ""
+favicon: https://upload.rsh.de/production/static/1776772969613/icons/icon_512.dD0p0UCb1IP.png
 tags:
   - adult-contemporary
   - hits
@@ -26,6 +26,13 @@ lastchangetime: 2026-01-14 23:15:05
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'http://streams.rsh.de/rsh-live/mp3-192/mediaplayer'
+    codec: MP3
+  - url: 'http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de/play.m3u'
+    url_resolved: 'http://rsh.streamabc.net/regc-rshlive-mp3-128-7643923?sABC=6968417s%230%23r30o443r1929r059s085628511796n57%23fgernzf.efu.qr&aw_0_1st.playerid=streams.rsh.de&amsparams=playerid:streams.rsh.de;skey:1768440191'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

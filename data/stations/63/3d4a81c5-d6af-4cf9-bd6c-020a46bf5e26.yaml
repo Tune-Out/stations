@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

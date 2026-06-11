@@ -19,6 +19,17 @@ lastchangetime: 2026-02-07 10:00:54
 clickcount: 1
 geo_lat: 52.199295533305886
 geo_long: 6.7730712890625
+curation: 0.35
+streams:
+  - url: 'https://mscp2.live-streams.nl:8072/twentestad320'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://stream.twentestad.eu/twentestad.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.twentestad.eu/twentestad.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

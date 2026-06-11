@@ -3,7 +3,7 @@ name: 94.3 FM The Talker
 url: http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E4DCFE
 url_resolved: http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E4DCFE
 homepage: http://boldgoldradionepa.com/94-3-the-talker-nepa-conservative-talk-radio/
-favicon: ""
+favicon: https://boldgoldradionepa.com/favicon.ico
 tags:
   - news-talk
 country: The United States Of America
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:35:17
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E4DCFE'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

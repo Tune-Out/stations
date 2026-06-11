@@ -21,6 +21,20 @@ lastchangetime: 2026-01-15 01:16:53
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://ssl-1.radiohost.pl:9563/stream?ver=987766'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://ssl-1.radiohost.pl:7214/stream?ver=661798'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://ssl-1.radiohost.pl:9569/stream'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://s0.radiohost.pl:9569/;'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

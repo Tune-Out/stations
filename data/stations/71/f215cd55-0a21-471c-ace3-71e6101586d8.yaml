@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://yesfmcauayan.radioca.st:2199/tunein/yesfmcauayan-stream.pls'
+    url_resolved: 'http://142.132.158.102:9933/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://yesfmcauayan.radioca.st:2199/tunein/yesfmcauayan-stream.pls'
+    url_resolved: 'http://142.132.158.102:9933/stream'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

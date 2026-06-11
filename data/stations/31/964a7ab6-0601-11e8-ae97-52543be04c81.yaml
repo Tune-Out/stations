@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:55:32
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://149.13.0.80/novanews.mp4'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://stream.radioreklama.bg/novanews.aac'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

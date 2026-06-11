@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:36:25
 clickcount: 0
 geo_lat: 51.189562964727344
 geo_long: 10.05846530511994
+curation: 0.35
+streams:
+  - url: 'https://icecast.radiorfm.de/rfm.ogg'
+    codec: OGG
+    bitrate: 96
+  - url: 'https://server4.streamserver24.com:43524/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:49:38
 clickcount: 0
 geo_lat: 37.983932520819955
 geo_long: 23.728151321411136
+curation: -0.05
+streams:
+  - url: 'https://stream.radiomustathens.com/must-hero'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.radiomustathens.com/must-hero?app=true&refer='
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

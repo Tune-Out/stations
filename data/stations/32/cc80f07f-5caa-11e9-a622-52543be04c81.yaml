@@ -23,6 +23,15 @@ lastchangetime: 2026-01-14 23:34:44
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://streamingecuador.net:8135/radioelite.m3u'
+    url_resolved: 'https://streamingecuador.net:8135/radioelite'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://streamingecuador.net:8135/radioelite'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

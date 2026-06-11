@@ -3,7 +3,7 @@ name: TheRadio.CC [MP3]
 url: https://mp3.theradio.cc/
 url_resolved: https://mp3.theradio.cc/
 homepage: https://theradio.cc/
-favicon: ""
+favicon: https://theradio.cc/favicon.ico
 tags:
   - indie
   - community-radio
@@ -25,6 +25,20 @@ lastchangetime: 2026-01-15 00:05:08
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://opus.theradio.cc/'
+    codec: OGG
+  - url: 'http://lq.theradio.cc/'
+    codec: OGG
+  - url: 'https://ogg.theradio.cc/'
+    codec: OGG
+  - url: 'https://mp3.theradio.cc/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.theradio.cc/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

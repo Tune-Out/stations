@@ -22,6 +22,13 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://drive.uber.radio/uber/crherbertvonkarajan/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/uber/crherbertvonkarajan/icecast.audio'
+    codec: MP3
+  - url: 'http://drive.uber.radio/uber/crherbertvonkarajan/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

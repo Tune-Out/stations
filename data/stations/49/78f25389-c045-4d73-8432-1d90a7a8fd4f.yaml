@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://irw.tunefm.de:2020/tunein/irw4-rock/stream/pls'
+    url_resolved: 'http://irw.tunefm.de:8310/stream'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://irw.tunefm.de:8070/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

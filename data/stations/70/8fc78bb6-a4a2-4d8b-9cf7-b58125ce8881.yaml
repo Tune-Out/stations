@@ -21,6 +21,13 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: 26.068066402007144
 geo_long: 119.33229026906704
+curation: 0.50
+streams:
+  - url: 'http://lhttp.qingting.fm/live/3937/64k.mp3'
+    codec: MP3
+  - url: 'http://live.zohi.tv/audio/s10001-FM901/index.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media

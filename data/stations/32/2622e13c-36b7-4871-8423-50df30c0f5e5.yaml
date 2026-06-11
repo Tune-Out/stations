@@ -23,6 +23,14 @@ lastchangetime: 2026-04-13 23:23:22
 clickcount: 0
 geo_lat: 44.1058299067109
 geo_long: -70.20899891853334
+curation: 0.35
+streams:
+  - url: 'https://wrbc-stream.creek.org/stream?download=true'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://wrbc-stream.creek.org/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

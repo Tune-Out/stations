@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rrr.sz.xlcdn.com/?account=fmbrussel&file=fmb988.mp3&type=live&service=icecast&protocol=https&port=8000&output=pls'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,12 @@ lastchangetime: 2026-05-06 18:21:29
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.antenne1.de/a1gp/livestream1.aac'
+    codec: AAC
+  - url: 'http://stream.antenne1.de/a1gp/livestream1.aac'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

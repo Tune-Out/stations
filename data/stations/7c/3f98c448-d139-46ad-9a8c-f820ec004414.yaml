@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 04:15:53
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d48000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

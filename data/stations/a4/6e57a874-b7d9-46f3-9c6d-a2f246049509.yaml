@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://yayin.radiolight.net:8005/live'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://yayin.radiolight.net:8005/live'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

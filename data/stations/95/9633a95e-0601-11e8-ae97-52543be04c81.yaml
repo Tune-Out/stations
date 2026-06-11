@@ -3,7 +3,7 @@ name: NPO Radio 2 Soul & Jazz
 url: http://icecast.omroep.nl/radio6-bb-mp3
 url_resolved: http://icecast.omroep.nl/radio6-bb-mp3
 homepage: http://www.nposoulenjazz.nl/
-favicon: ""
+favicon: https://www.nporadio2.nl/soulenjazz/apple-touch-icon.png
 tags:
   - jazz
   - soul
@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 33
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://icecast.omroep.nl/radio6-bb-aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://icecast.omroep.nl/radio6-sb-aac'
+    codec: AAC
+    bitrate: 32
+  - url: 'http://icecast.omroep.nl/radio6-bb-mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://icecast.omroep.nl/radio6-bb-mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

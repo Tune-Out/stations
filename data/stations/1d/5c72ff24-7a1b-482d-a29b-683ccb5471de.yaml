@@ -3,7 +3,7 @@ name: Harman Radio Australia
 url: http://harmanradio.net:8000/main_48.mp3
 url_resolved: http://harmanradio.net:8000/main_48.mp3
 homepage: http://harmanradio.com/
-favicon: ""
+favicon: https://harmanradio.com/favicon.ico
 tags:
   - religious
 country: Australia
@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://harmanradio.net:8000/main_48.mp3'
+    codec: MP3
+    bitrate: 48
+  - url: 'https://radio.sanbroz.com/public/harman_radio_australia/playlist.pls'
+    url_resolved: 'https://radio.sanbroz.com/listen/harman_radio_australia/radio.mp3'
+    codec: MP3
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

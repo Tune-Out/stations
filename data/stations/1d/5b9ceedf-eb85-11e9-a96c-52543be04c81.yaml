@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 00:08:30
 clickcount: 43
 geo_lat: null
 geo_long: null
+curation: 0.80
+streams:
+  - url: 'http://icecast.radiofrance.fr/fipjazz-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://icecast.radiofrance.fr/fipjazz-hifi.aac'
+    codec: AAC
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

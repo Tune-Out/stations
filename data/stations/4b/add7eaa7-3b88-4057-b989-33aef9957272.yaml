@@ -21,6 +21,13 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: -24.16155165254509
 geo_long: -46.52545530832476
+curation: 0.35
+streams:
+  - url: 'https://radio.liv.fran.nom.br/radio'
+    codec: OGG
+  - url: 'https://radio.liv.fran.nom.br/radio'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

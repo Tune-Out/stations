@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://bigtunesradio.com:8003/trance.mp3?1712236520795'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://bigtunesradio.com:8003/house.mp3?1712236225331'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://bigtunesradio.com:8003/oldschool.mp3?1712236441774'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

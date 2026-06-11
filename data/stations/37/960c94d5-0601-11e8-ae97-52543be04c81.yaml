@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 01:37:59
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://mediagw.e-tiger.net/stream/cfmhq'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://mediagw.e-tiger.net/stream/xbeathq'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mediagw.e-tiger.net/stream/krehq'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

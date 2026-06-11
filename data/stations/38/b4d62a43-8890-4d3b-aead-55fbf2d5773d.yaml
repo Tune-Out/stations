@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 07:03:15
 clickcount: 0
 geo_lat: 49.58773775196351
 geo_long: 10.97275346517563
+curation: 0.35
+streams:
+  - url: 'https://streaming.funklust.de:8443/heaac'
+    codec: AAC+
+    bitrate: 96000
+  - url: 'https://streaming.funklust.de:8443/mp3'
+    codec: MP3
+    bitrate: 128000
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

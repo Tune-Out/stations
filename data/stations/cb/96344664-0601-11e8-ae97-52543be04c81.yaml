@@ -25,6 +25,12 @@ lastchangetime: 2026-01-15 06:50:59
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://streams.norawebstreams.de/nora-live/mp3-128/homepage/'
+    codec: MP3
+  - url: 'http://streams.norawebstreams.de/nora-live/mp3-192/streams.norawebstreams.de/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

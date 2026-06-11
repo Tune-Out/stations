@@ -22,6 +22,12 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://live.rockmaribor.si/RockMB'
+    codec: MP3
+  - url: 'https://live.radio.si/RockMB?t=1732114443550'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

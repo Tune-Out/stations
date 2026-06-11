@@ -24,6 +24,16 @@ lastchangetime: 2026-01-15 01:22:50
 clickcount: 0
 geo_lat: -19.34243936291482
 geo_long: 146.7813169776495
+curation: -0.05
+streams:
+  - url: 'https://wz4liw.scahw.com.au/live/4ram_128.stream/playlist.m3u8?'
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: 'https://wz4liw.scahw.com.au/live/4ram_128.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 130
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

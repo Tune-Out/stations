@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 01:36:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://streams.fluxfm.de/jazzschwarz/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-jazzradio-aacplus-64-1366806?sABC=69684431%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768440881'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/jazzschwarz/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-jazzradio-mp3-128-4986317?sABC=69683s11%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768439569'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/jazzschwarz/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342?sABC=69683rpp%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768439500'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

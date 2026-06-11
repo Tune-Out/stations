@@ -18,6 +18,14 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
+curation: 0.35
+streams:
+  - url: 'https://stream.afc.fm/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://live.afc.fm/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

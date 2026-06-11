@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 2
 geo_lat: 45.31739181570158
 geo_long: 13.842773437500002
+curation: 0.35
+streams:
+  - url: 'http://de4.streamingpulse.com:7117/listen.pls?sid=1'
+    url_resolved: 'http://de4.streamingpulse.com:7117/stream'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://uk1.streamingpulse.com:7117/stream'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

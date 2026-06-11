@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 04:09:15
 clickcount: 18
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://club-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://club-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 00:34:47
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://195.150.20.8/SPRZEBOJE'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://www.rmfon.pl/n/sloneczneprzeboje.pls'
+    url_resolved: 'https://rs201-krk-cyfronet.rmfstream.pl/rmf_sloneczne_przeboje'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

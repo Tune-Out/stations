@@ -21,6 +21,22 @@ lastchangetime: 2026-01-14 23:28:27
 clickcount: 19
 geo_lat: 48.1776994
 geo_long: 16.2877707
+curation: 0.70
+streams:
+  - url: 'https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8'
+    codec: AAC
+    bitrate: 300
+    hls: true
+  - url: 'https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8'
+    codec: AAC
+    bitrate: 134
+    hls: true
+  - url: 'http://orf-live.ors-shoutcast.at/wie-q2a'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://orf-live.ors-shoutcast.at/wie-q1a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

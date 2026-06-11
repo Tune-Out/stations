@@ -21,6 +21,18 @@ lastchangetime: 2026-01-15 08:27:56
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://s0.radiohost.pl:8018/Italo4you'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://ssl-1.radiohost.pl:8018/stream'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://radioitalo4you.net/listen_url/italo4you_s0_256.pls'
+    url_resolved: 'http://s0.radiohost.pl:8018/stream'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: commercial

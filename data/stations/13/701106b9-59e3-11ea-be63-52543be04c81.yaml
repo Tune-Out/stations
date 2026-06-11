@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 03:26:15
 clickcount: 31
 geo_lat: 37.809784
 geo_long: -121.286316
+curation: 0.65
+streams:
+  - url: 'https://somafm.com/reggae32.pls'
+    url_resolved: 'https://ice6.somafm.com/reggae-32-aac'
+    codec: AAC
+    bitrate: 32
+  - url: 'https://somafm.com/reggae256.pls'
+    url_resolved: 'https://ice6.somafm.com/reggae-256-mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://somafm.com/reggae.pls'
+    url_resolved: 'https://ice1.somafm.com/reggae-128-mp3'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

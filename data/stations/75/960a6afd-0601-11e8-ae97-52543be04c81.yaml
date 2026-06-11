@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://stream2.cprnetwork.org:8000/cpr3_aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://stream2.cprnetwork.org:8000/cpr3_lo'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

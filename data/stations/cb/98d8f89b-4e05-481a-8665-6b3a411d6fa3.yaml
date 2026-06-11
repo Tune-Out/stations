@@ -20,6 +20,15 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://radio.plaza.one/ogg_low'
+    codec: OGG
+    bitrate: 96
+  - url: 'http://radio.plaza.one/hls'
+    codec: AAC
+    bitrate: 70
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

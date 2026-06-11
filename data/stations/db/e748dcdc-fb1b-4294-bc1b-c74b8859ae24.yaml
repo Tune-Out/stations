@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 02:07:59
 clickcount: 3
 geo_lat: 51.04651978572599
 geo_long: -114.07344281673431
+curation: -0.05
+streams:
+  - url: 'https://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8'
+    codec: AAC+
+    bitrate: 48
+    hls: true
+  - url: 'https://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8'
+    codec: AAC+
+    bitrate: 47
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

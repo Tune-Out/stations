@@ -3,7 +3,7 @@ name: RPR1. 90er Dance
 url: https://streams.rpr1.de/rpr-90erdance-128-mp3?usid=0-0-H-M-D-60
 url_resolved: https://streams.rpr1.de/rpr-90erdance-128-mp3?usid=0-0-H-M-D-60
 homepage: https://www.rpr1.de/
-favicon: ""
+favicon: https://file.atsw.de/production/static/1776772464994/icons/icon_512.8O8cUwC83ch.png
 tags:
   - 90s
   - dance
@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://streams.rpr1.de/rpr-90erdance-128-mp3?usid=0-0-H-M-D-60'
+    codec: MP3
+  - url: 'https://stream.rpr1.de/90erdance/mp3-128/radiobrowser'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

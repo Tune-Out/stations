@@ -24,6 +24,15 @@ lastchangetime: 2026-01-15 06:00:00
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 9c69a400-cc27-4d7f-9c37-389e446b10f0
+streams:
+  - url: 'https://riphel02.radioca.st/stream'
+    codec: AAC+
+    bitrate: 80
+  - url: 'http://riphel02.radioca.st/stream'
+    codec: AAC+
+    bitrate: 80
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -3,7 +3,7 @@ name: Радио Шансон - Radio Shanson
 url: http://chanson.hostingradio.ru:8041/chanson256.mp3
 url_resolved: http://chanson.hostingradio.ru:8041/chanson256.mp3
 homepage: http://radioshanson.fm/
-favicon: ""
+favicon: https://radioshanson.fm/favicon.ico
 tags:
   - pop
 country: The Russian Federation
@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 08:34:02
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.05
+streams:
+  - url: 'http://chanson.hostingradio.ru:8041/chanson256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://chanson.hostingradio.ru:8041/chanson256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=RsBdyQmPwZBZdZRKVncpJw&e=1573674908'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=oVvCwE7WBb8Y7wl1S_2xCQ&e=1549278452'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

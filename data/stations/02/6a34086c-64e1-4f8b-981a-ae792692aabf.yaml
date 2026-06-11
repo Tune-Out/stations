@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 0
 geo_lat: -37.76749705168551
 geo_long: 144.9799150228501
+curation: 0.50
+streams:
+  - url: 'https://ondemand.rrr.org.au/getstream?id=wshq'
+    codec: AAC
+  - url: 'https://ondemand.rrr.org.au/getstream?id=web1'
+    codec: AAC
+  - url: 'http://ondemand.rrr.org.au/getstream'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community

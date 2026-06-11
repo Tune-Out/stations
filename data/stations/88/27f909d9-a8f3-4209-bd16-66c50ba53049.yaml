@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 08:25:40
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://liveradio.swr.de/sw331ch/raka10/play.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://liveradio.swr.de/sw890cl/dasding/'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://liveradio.swr.de/d245tgd/dasding/'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

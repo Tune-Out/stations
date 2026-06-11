@@ -20,6 +20,20 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 18
 geo_lat: null
 geo_long: null
+curation: 0.05
+streams:
+  - url: 'http://radio.talkradio.co.uk/stream'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://radio.talkradio.co.uk/stream'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://radio.talkradio.co.uk/stream'
+    codec: AAC
+    bitrate: 63
+  - url: 'https://radio.talkradio.co.uk/stream'
+    codec: AAC
+    bitrate: 63
 research:
   reviewed_at: 2026-06-09
   nature: commercial

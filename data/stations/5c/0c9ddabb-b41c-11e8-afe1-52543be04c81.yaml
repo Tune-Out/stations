@@ -3,7 +3,7 @@ name: 90s90s Techno HQ
 url: http://streams.90s90s.de/techno/mp3-192/radiode/
 url_resolved: http://streams.90s90s.de/techno/mp3-192/radiode/
 homepage: http://www.90s90s.de/
-favicon: ""
+favicon: https://upload.90s90s.de/production/static/1780918167754/icons/icon_512.cno7CdHz6$i.png
 tags:
   - 90s
   - techno
@@ -21,6 +21,12 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 22
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://streams.90s90s.de/techno/mp3-192/radiode/'
+    codec: MP3
+  - url: 'http://streams.90s90s.de/techno/mp3-128/radiode/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

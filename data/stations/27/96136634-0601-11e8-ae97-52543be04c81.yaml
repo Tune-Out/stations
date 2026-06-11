@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:49:53
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

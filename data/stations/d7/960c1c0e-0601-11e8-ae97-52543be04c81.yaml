@@ -25,6 +25,16 @@ lastchangetime: 2026-01-15 07:48:14
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://kulturradio.de/live.m3u'
+    url_resolved: 'http://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://www.kulturradio.de/live_s.m3u'
+    url_resolved: 'http://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/low'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

@@ -3,7 +3,7 @@ name: Radio Beograd 1
 url: https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8
 url_resolved: https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8
 homepage: https://www.rts.rs/page/radio/sr/live.html
-favicon: ""
+favicon: https://www.rts.rs/assets/front/img/favicon/favicon.ico
 tags: []
 country: Serbia
 countrycode: RS
@@ -21,6 +21,8 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.55
+duplicate_of: ec830183-c384-4f24-80c0-cd3d119e0081
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

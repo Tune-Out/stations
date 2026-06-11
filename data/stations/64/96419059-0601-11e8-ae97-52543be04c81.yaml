@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 06:54:30
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://nwmedia-ktisam.streamguys1.com/ktis-am'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://nwmedia-ktisam.streamguys1.com/ktis-am'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

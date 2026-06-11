@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 01:19:59
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://noasrv.caster.fm:10034/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://i1.echofm.online:8443/stream'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -3,7 +3,7 @@ name: France Musique Classique Easy
 url: http://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac
 url_resolved: http://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac
 homepage: https://www.francemusique.fr/webradio-classique-easy
-favicon: ""
+favicon: https://www.radiofrance.fr/external/favicons/francemusique/favicon.png
 tags:
   - classical
   - public-radio
@@ -23,6 +23,8 @@ lastchangetime: 2026-01-14 23:20:09
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.65
+duplicate_of: 96162e74-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

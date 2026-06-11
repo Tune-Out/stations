@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 00:08:30
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.05
+streams:
+  - url: 'https://vpmurugun.radioca.st/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://proxima.shoutca.st:8009/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: unknown

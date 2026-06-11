@@ -21,6 +21,14 @@ lastchangetime: 2026-05-21 10:25:09
 clickcount: 1
 geo_lat: 46.76953781017045
 geo_long: 23.589805662631992
+curation: 0.35
+streams:
+  - url: 'https://www.radiodomeldo.ro/movie'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://radiodomeldo.ro/movie'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: commercial

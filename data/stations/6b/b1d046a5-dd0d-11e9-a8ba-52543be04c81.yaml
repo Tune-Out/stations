@@ -19,6 +19,12 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://streams.deltaradio.de/delta-bbb/aac-64'
+    codec: AAC
+  - url: 'http://streams.deltaradio.de/delta-bbb/mp3-192'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

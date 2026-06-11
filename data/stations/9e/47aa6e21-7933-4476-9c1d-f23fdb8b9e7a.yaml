@@ -3,7 +3,7 @@ name: Наше Радіо 107.9
 url: http://online.nasheradio.ua/NasheRadio
 url_resolved: http://online.nasheradio.ua/NasheRadio
 homepage: https://www.nasheradio.ua/
-favicon: ""
+favicon: https://www.nasheradio.ua/favicon.ico?v=1781203197
 tags: []
 country: Ukraine
 countrycode: UA
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:39:47
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://online.nasheradio.ua/NasheRadio_HD'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://online.nasheradio.ua/NasheRadio'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

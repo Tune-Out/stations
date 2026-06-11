@@ -19,6 +19,14 @@ lastchangetime: 2026-05-08 15:50:55
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://live.hubu.fm:8222/osna-high'
+    codec: AAC+
+    bitrate: 320
+  - url: 'https://tune.osna.fm/high/index.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

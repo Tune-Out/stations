@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 3
 geo_lat: 40.73065802094262
 geo_long: -74.07755836595288
+curation: 0.00
+streams:
+  - url: 'https://stream.classics.friskyradio.com/classics_mp3_high'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://stream.classics.friskyradio.com/classics_mp3_high'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

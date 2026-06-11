@@ -30,6 +30,14 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'https://main-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://main-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

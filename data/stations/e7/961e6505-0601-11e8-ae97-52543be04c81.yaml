@@ -3,7 +3,7 @@ name: RauteMusik Solopiano
 url: http://solopiano-high.rautemusik.fm/
 url_resolved: http://solopiano-high.rautemusik.fm/
 homepage: http://www.rautemusik.fm/solopiano/
-favicon: ""
+favicon: https://www.rm.fm/favicon.ico
 tags:
   - classical
   - instrumental
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://solopiano-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://solopiano-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 08:06:32
 clickcount: 3
 geo_lat: 51.51017744729552
 geo_long: -0.12908935546875003
+curation: 0.25
+streams:
+  - url: 'http://media-ice.musicradio.com/RadioXChilledMP3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://media-ice.musicradio.com/RadioXChilledMP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

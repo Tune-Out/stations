@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:47:11
 clickcount: 0
 geo_lat: -19.57919959820753
 geo_long: -43.54980468750001
+curation: 0.35
+streams:
+  - url: 'http://euroticast5.euroti.com.br:8110/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://euroticast5.euroti.com.br:8110/stream?1771878954178'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

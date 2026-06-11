@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:08:04
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://streaming.jcu.edu:8000/wjcu-aac-hi'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://streaming.jcu.edu:8000/wjcu-mp3-hi'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

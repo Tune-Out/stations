@@ -20,6 +20,17 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://rod.frequence3.net/frequence3.flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'http://ice.stream.frequence3.net/frequence3-256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://frequence3.net-radio.fr/frequence3-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

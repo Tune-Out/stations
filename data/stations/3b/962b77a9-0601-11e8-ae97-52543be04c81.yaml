@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:39:08
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://streaming.radiostreamlive.com/radiorockon_devices'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streaming.radiostreamlive.com/radiorockon_devices'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

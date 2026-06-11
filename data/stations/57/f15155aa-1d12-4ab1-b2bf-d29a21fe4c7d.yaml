@@ -3,7 +3,7 @@ name: toronto global radio - euro
 url: https://london-dedicated.myautodj.com:3199/proxy/euro/stream
 url_resolved: https://london-dedicated.myautodj.com:3199/proxy/euro/stream
 homepage: http://www.torontoglobalradio.com/
-favicon: ""
+favicon: https://www.torontoglobalradio.com/wp-content/uploads/2025/12/cropped-TorontoGlobalRadioIcon-180x180.jpg
 tags:
   - dance
 country: Canada
@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 05:44:37
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://london-dedicated.myautodj.com:3199/proxy/euro/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://london-dedicated.myautodj.com:3199/proxy/trance/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://london-dedicated.myautodj.com:3199/proxy/freestyle/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

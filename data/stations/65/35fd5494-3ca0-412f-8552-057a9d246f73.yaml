@@ -23,6 +23,22 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://stream.regenbogen2.de/beatles/mp3-128/radiobrowser'
+    codec: AAC
+  - url: 'http://stream.dar.fm/145322'
+    codec: AAC
+  - url: 'https://stream.regenbogen2.de/country/mp3-128/radiobrowser'
+    codec: AAC
+  - url: 'http://stream.regenbogen2.de/beatles/mp3-128/radiobrowser'
+    codec: AAC
+  - url: 'http://stream.dar.fm/162916'
+    codec: AAC
+  - url: 'http://stream.regenbogen2.de/beatles/mp3-128/radiobrowser'
+    codec: MP3
+  - url: 'https://stream.regenbogen2.de/liedermacher/mp3-128/radiobrowser'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

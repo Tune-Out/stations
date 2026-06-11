@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://radio.afera.com.pl/afera128.ogg'
+    codec: OGG
+    bitrate: 128
+  - url: 'http://radio.afera.com.pl/afera128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.afera.com.pl/afera128.mp3?no_cache=0.982752767360271'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

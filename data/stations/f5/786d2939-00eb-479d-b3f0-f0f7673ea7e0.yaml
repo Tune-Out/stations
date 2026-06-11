@@ -24,6 +24,15 @@ lastchangetime: 2026-01-14 23:39:46
 clickcount: 12
 geo_lat: 40.785114
 geo_long: -124.183922
+curation: 0.55
+duplicate_of: 5681d06a-f5af-11e9-bbf2-52543be04c81
+streams:
+  - url: 'https://stream.radioparadise.com/rock-flac'
+    codec: OGG
+    bitrate: 1441
+  - url: 'http://stream.radioparadise.com/rock-flac'
+    codec: OGG
+    bitrate: 1441
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

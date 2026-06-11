@@ -22,6 +22,35 @@ lastchangetime: 2026-01-15 07:01:02
 clickcount: 3
 geo_lat: 37.31775185163688
 geo_long: -120.355224609375
+curation: 0.60
+streams:
+  - url: 'http://pureplay.cdnstream1.com/6056_64.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODAzMywiaXNzIjoidGlzcnYifQ.iRK4czQtolWgtNsj8Uy5lioP0EoZu1wCuvj2VwsCs3o'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://pureplay.cdnstream1.com/6036_64.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODMwOSwiaXNzIjoidGlzcnYifQ.8uFrLWMHqAB47XrnGAR6efpR1sAYafRsPfFz-EXglmQ'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://pureplay.cdnstream1.com/6043_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODUzMywiaXNzIjoidGlzcnYifQ.uR3Z5-tMJDskTZ3Rp6u3qmXtCUgZM_7DP0ged5SwRvU'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://206.217.213.235:8230/;stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://pureplay.cdnstream1.com/6042_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NzMwMSwiaXNzIjoidGlzcnYifQ.304XDmX1AZJCylkYdV5G8PlaYlNeCUPPYQBcPiVox7I'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://gr02.cdnstream.com:8300/;stream/1'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://pureplay.cdnstream1.com/6025_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NTI4MSwiaXNzIjoidGlzcnYifQ.cUMfsrk262BNjQXnfXkKBefQOqoRn2nweLrx5obNPhM'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://206.217.213.236:8360/;stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://pureplay.cdnstream1.com/6034_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

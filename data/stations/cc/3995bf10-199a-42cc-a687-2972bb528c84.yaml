@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 07:47:33
 clickcount: 1
 geo_lat: 37.96965983548304
 geo_long: -87.57538084639236
+curation: 0.70
+streams:
+  - url: 'https://wnin.streamguys1.com/live'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://wnin.streamguys1.com/live'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

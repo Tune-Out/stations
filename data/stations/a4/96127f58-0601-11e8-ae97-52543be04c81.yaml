@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 06:27:38
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://stream.srg-ssr.ch/retedue/aacp_32.m3u'
+    url_resolved: 'http://stream.srg-ssr.ch/srgssr/retedue/aac/48'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://stream.srg-ssr.ch/m/retedue/mp3_128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

@@ -20,6 +20,17 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: 41.02446333535115
 geo_long: -102.996826171875
+curation: 0.20
+streams:
+  - url: 'https://strm112.1.fm/moviesoundtracks_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://strm112.1.fm/moviesoundtracks_mobile_mp3?'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://strm112.1.fm/moviesoundtracks_mobile_mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 08:15:25
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://a2.asurahosting.com:6150/radio.mp3?ver=161797'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://nrf1.newradio.it:10346/stream'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://nrf1.newradio.it:10418/stream?ver=261657'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

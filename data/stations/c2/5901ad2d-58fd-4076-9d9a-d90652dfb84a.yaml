@@ -21,6 +21,29 @@ lastchangetime: 2026-01-15 01:14:34
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://www.radiogong.de/app/kids.m3u'
+    url_resolved: 'http://radiogong-channel09.cast.addradio.de/radiogong/channel09/mp3/high'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.radiogong963.c.nmdn.net/ps-radiogongchannel5/livestream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.radiogong963.c.nmdn.net/ps-radiogongevent/livestream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.radiogong.de/app/live.m3u'
+    url_resolved: 'http://radiogong-live.cast.addradio.de/radiogong/live/mp3/high'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.radiogong.de/app/covers.m3u'
+    url_resolved: 'http://radiogong-channel08.cast.addradio.de/radiogong/channel08/mp3/high'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.radiogong963.c.nmdn.net/ps-radiogongchannel4/livestream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

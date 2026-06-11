@@ -24,6 +24,15 @@ lastchangetime: 2026-01-15 05:27:18
 clickcount: 38
 geo_lat: 52.348556083081114
 geo_long: 4.917610287666321
+curation: 0.20
+duplicate_of: f31ae7e2-d5e6-4c88-9445-edf00f6cba40
+streams:
+  - url: 'https://stream.bnr.nl/bnr_mp3_128_20'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.bnr.nl/bnr_mp3_128_20'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

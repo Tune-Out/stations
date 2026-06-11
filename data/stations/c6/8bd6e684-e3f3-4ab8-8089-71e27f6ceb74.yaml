@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 07:07:34
 clickcount: 1
 geo_lat: -33.91970008169477
 geo_long: 18.430458605289463
+curation: 0.55
+streams:
+  - url: 'https://edge.iono.fm/xhls/fmr_live_high.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://edge.iono.fm/xhls/fmr_live_medium.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

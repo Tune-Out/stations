@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 02:17:46
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8?'
+    codec: UNKNOWN
+    bitrate: 142
+    hls: true
+  - url: 'http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8'
+    codec: UNKNOWN
+    bitrate: 142
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

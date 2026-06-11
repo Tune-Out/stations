@@ -3,7 +3,7 @@ name: Inselradio Mallorca
 url: http://addrad.io/445fxk9
 url_resolved: http://addrad.io/445fxk9
 homepage: https://www.inselradio.com/
-favicon: ""
+favicon: https://www.inselradio.com/fileadmin/favicon.ico
 tags:
   - pop
   - rock
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 12
 geo_lat: 39.58669354367372
 geo_long: 2.646331787109375
+curation: 0.35
+streams:
+  - url: 'http://addrad.io/445fxk9'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://addrad.io/445fxk9'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

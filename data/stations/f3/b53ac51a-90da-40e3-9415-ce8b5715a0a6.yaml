@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 0
 geo_lat: 45.156470554561615
 geo_long: 18.015346527099613
+curation: -0.05
+streams:
+  - url: 'http://s8.iqstreaming.com:8026/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s8.iqstreaming.com:8026/listen.pls'
+    url_resolved: 'http://s8.iqstreaming.com:8026/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

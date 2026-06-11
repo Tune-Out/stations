@@ -3,7 +3,7 @@ name: DeeGay Pop & Dance
 url: https://stream.deegay.fm/deegay1.mp3
 url_resolved: https://stream.deegay.fm/deegay1.mp3
 homepage: https://www.deegay.fm/
-favicon: ""
+favicon: https://deegay.fm/wp-content/uploads/2025/10/deegay-favicon-1-300x300.png
 tags:
   - dance
   - pop
@@ -23,6 +23,12 @@ lastchangetime: 2026-01-14 23:40:26
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.deegay.fm/deegay1.mp3'
+    codec: MP3
+  - url: 'https://stream.deegay.fm/deegay1.mp3?id=m7eirxqSZx&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

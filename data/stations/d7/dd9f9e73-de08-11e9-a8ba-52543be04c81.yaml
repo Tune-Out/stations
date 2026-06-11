@@ -3,7 +3,7 @@ name: RPR1.Oldies
 url: http://streams.rpr1.de/rpr-oldies-128-mp3
 url_resolved: http://streams.rpr1.de/rpr-oldies-128-mp3
 homepage: https://www.rpr1.de/
-favicon: ""
+favicon: https://file.atsw.de/production/static/1776772464994/icons/icon_512.8O8cUwC83ch.png
 tags: []
 country: ""
 countrycode: ""
@@ -19,6 +19,12 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://streams.rpr1.de/rpr-oldies-128-mp3'
+    codec: AAC
+  - url: 'http://streams.rpr1.de/rpr-oldies-64-aac'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

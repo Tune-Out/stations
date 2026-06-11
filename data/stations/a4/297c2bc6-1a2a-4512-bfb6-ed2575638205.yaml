@@ -19,6 +19,14 @@ lastchangetime: 2026-02-06 16:08:47
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://fra-pioneer08.dedicateware.com:1370/'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://fra-pioneer08.dedicateware.com:1370/;?type=http&nocache=1770150927'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

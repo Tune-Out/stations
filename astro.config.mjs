@@ -47,5 +47,22 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ['@sqlite.org/sqlite-wasm'],
     },
+    server: {
+      // The dev server only consumes pre-built artifacts under public/data/;
+      // it should NEVER try to watch the ~57,000 station YAMLs under
+      // data/stations/. Letting chokidar walk and tail those files makes the
+      // dev server peg a CPU core (>400% load) for minutes after any batch
+      // YAML rewrite (e.g. score-curation.py, apply-curation-deltas.py) and
+      // can wedge it entirely on macOS where fsevents queues a fd per shard.
+      watch: {
+        ignored: [
+          '**/data/stations/**',
+          '**/.git/**',
+          '**/node_modules/**',
+          '**/dist/**',
+          '**/public/data/**',
+        ],
+      },
+    },
   },
 });

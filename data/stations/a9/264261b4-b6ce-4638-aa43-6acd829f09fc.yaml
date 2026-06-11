@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://s1.autopo.st/proxy/stfkrnfr_s1?mp=/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s6.autopo.st/proxy/stfkrnfr?mp=/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

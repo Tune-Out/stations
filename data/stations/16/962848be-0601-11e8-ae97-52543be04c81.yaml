@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 01:30:19
 clickcount: 20
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://onair18.xdevel.com:8062/;'
+    codec: AAC+
+  - url: 'https://router.xdevel.com/audio4s975355-254/stream/icecast.audio'
+    codec: AAC+
+  - url: 'https://stream2.xdevel.com/audio1s975355-54/stream/icecast.audio'
+    codec: AAC+
+  - url: 'http://stream1.xdevel.com/audio7s975355-282/stream/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

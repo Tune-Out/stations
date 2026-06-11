@@ -3,7 +3,7 @@ name: Radio S Narodni
 url: https://stream.radios.rs:9016/;*.mp3
 url_resolved: https://stream.radios.rs:9016/;*.mp3
 homepage: https://www.radios.rs/digitalni-radio/18/narodni
-favicon: ""
+favicon: https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Narodni-500px.png
 tags: []
 country: Serbia
 countrycode: RS
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:46:57
 clickcount: 12
 geo_lat: 44.80074216531373
 geo_long: 20.452079772949222
+curation: 0.25
+streams:
+  - url: 'https://stream.radios.rs:9016/;*.mp3'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://stream.radios.rs:9016/stream'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

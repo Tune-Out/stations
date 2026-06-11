@@ -24,6 +24,25 @@ lastchangetime: 2026-01-15 07:38:18
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'http://stream.laut.fm/0-24_90er_pop_rock'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://0-24schlagervolksmusik.stream.laut.fm/0-24_schlager_volksmusik'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/0-24_charts_pop_rock'
+    url_resolved: 'http://0-24chartspoprock.stream.laut.fm/0-24_charts_pop_rock?t302=2026-01-15_02-55-46&uuid=225dd29d-c96b-4cab-9b6c-57c9ce505459'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/101fm'
+    url_resolved: 'http://101fm.stream.laut.fm/101fm?t302=2026-01-15_07-52-39&uuid=5b4135d5-b33a-453c-94e5-3c45ed07a218'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://0-24oldiespoprock.stream.laut.fm/0-24_oldies_pop_rock?t302=2018-02-08_09-30-33&uuid=3ac88db9-1764-4e5a-a776-f42c2a4ffe7a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

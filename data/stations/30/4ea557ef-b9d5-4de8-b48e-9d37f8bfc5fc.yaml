@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://s3.onweb.gr:8016/stream?type=http&nocache=14923'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s3.onweb.gr:8016/stream?type=http&nocache=906097'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

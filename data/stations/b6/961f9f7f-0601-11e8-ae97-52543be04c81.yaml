@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 19
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'https://radio.canstream.co.uk:8075/live.aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://radio.canstream.co.uk:8075/live.mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

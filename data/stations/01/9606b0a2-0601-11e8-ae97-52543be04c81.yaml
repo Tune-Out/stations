@@ -21,6 +21,19 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 19
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://avw.mdr.de/streams/284330-0_mp3_low.m3u'
+    url_resolved: 'http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://avw.mdr.de/streams/284330-0_aac_high.m3u'
+    url_resolved: 'http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

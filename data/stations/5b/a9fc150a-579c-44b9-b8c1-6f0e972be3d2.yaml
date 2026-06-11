@@ -3,7 +3,7 @@ name: Bandit Metal
 url: http://wr03-ice.stream.khz.se/wr03_mp3
 url_resolved: http://wr03-ice.stream.khz.se/wr03_mp3
 homepage: https://www.ilikeradio.se/banditmetal/
-favicon: ""
+favicon: https://www.viaplayradio.se/wp-content/themes/ilikeradio/assets/images/favicons/favicon-16x16.png
 tags:
   - metal
 country: Sweden
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:15:07
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://wr03-ice.stream.khz.se/wr03_mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://wr03-ice.stream.khz.se/wr03_mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

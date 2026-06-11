@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 03:14:10
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.85
+streams:
+  - url: 'http://radio-metadata.fr:8000/fipmonde'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.fipradio.fr/live/fipworld-hifi.aac'
+    codec: AAC
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

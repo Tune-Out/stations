@@ -3,7 +3,7 @@ name: 3FM
 url: http://icecast.omroep.nl/3fm-bb-mp3
 url_resolved: http://icecast.omroep.nl/3fm-bb-mp3
 homepage: https://www.npo3fm.nl/
-favicon: ""
+favicon: https://www.npo3fm.nl/apple-touch-icon.png
 tags:
   - pop
 country: The Netherlands
@@ -20,6 +20,8 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 58
 geo_lat: null
 geo_long: null
+curation: 0.35
+duplicate_of: 960e38b8-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

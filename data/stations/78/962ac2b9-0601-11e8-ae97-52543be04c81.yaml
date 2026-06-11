@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 08:44:04
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'http://178.32.138.88:8050/;stream.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://ssl3.azotosolutions.com:1050//STREAM?TYPE=HTTP&NOCACHE=8333'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

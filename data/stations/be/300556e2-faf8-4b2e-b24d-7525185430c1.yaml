@@ -3,7 +3,7 @@ name: AIR Delhi FM Gold
 url: https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
 url_resolved: https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
 homepage: https://prasarbharati.gov.in/
-favicon: ""
+favicon: https://prasarbharati.gov.in/wp-content/uploads/2024/03/cropped-Logo-180x180.png
 tags:
   - news
   - talk
@@ -25,6 +25,15 @@ lastchangetime: 2026-01-15 07:58:24
 clickcount: 33
 geo_lat: 28.609601288333085
 geo_long: 77.2119140625
+curation: 0.40
+streams:
+  - url: 'https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8'
+    codec: AAC+
+    bitrate: 32
+    hls: true
+  - url: 'https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00532kbps.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

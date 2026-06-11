@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 02:35:55
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://playground.stream.laut.fm/playground?t302=2019-08-15_17-45-19&uuid=74a24b34-418f-487d-872b-1377b197775b'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://playground.stream.laut.fm/playground'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

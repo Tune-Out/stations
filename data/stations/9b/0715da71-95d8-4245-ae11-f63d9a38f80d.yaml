@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:00:03
 clickcount: 1
 geo_lat: 45.76954364030904
 geo_long: 18.598592877388004
+curation: -0.05
+streams:
+  - url: 'http://s8.iqstreaming.com:8036/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://s8.iqstreaming.com:2020/stream/radio_baranja/stream'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

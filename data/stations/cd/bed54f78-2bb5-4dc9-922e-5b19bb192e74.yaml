@@ -19,6 +19,36 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://eilo.org/getm3u.php?m3u=drum'
+    url_resolved: 'http://eilo.org:8000/drum'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://eilo.org/getm3u.php?m3u=earthbeat'
+    url_resolved: 'http://eilo.org:8000/earthbeat'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://eilo.org/getm3u.php?m3u=dubstep'
+    url_resolved: 'http://eilo.org:8000/dubstep'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://eilo.org/getm3u.php?m3u=house'
+    url_resolved: 'http://eilo.org:8000/house'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://eilo.org/getm3u.php?m3u=jazzfunksoul'
+    url_resolved: 'http://eilo.org:8000/jazzfunksoul'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://eilo.org/getm3u.php?m3u=hard'
+    url_resolved: 'http://eilo.org:8000/hard'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://eilo.org/getm3u.php?m3u=ambient'
+    url_resolved: 'http://eilo.org:8000/ambient'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -3,7 +3,7 @@ name: Radio SWH+
 url: http://80.232.162.149:8000/plus96mp3.m3u
 url_resolved: http://80.232.162.149:8000/plus96mp3
 homepage: http://www.radioswhplus.lv/
-favicon: ""
+favicon: https://play.radioswh.lv/imgs/favicon.ico
 tags:
   - classic-rock
   - news
@@ -24,6 +24,15 @@ lastchangetime: 2026-01-15 01:47:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://80.232.162.149:8000/plus96mp3.m3u'
+    url_resolved: 'http://80.232.162.149:8000/plus96mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://live.radioswh.lv:8443/plusmp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

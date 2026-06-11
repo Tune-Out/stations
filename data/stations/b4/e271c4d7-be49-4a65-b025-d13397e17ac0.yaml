@@ -3,7 +3,7 @@ name: Radio Anime Nexus
 url: http://radio.animenexus.mx:8000/animenexus
 url_resolved: http://radio.animenexus.mx:8000/animenexus
 homepage: https://www.animenexusla.com/
-favicon: ""
+favicon: https://www.animenexus.net/wp-content/uploads/2021/05/399d79f91cba2b50039af95c873235f3.jpg
 tags:
   - anime
   - pop
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 07:22:39
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://radio.animenexus.mx:8000/animenexus'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cast.animenexusla.com/radio/8000/animenexus'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

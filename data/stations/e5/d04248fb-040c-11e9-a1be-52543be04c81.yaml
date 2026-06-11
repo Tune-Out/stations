@@ -3,7 +3,7 @@ name: Kohina
 url: https://kohina.duckdns.org/icecast/stream.ogg
 url_resolved: https://kohina.duckdns.org/icecast/stream.ogg
 homepage: http://www.kohina.com/
-favicon: ""
+favicon: https://www.kohina.com/favicon/favicon-57.png
 tags:
   - oldies
 country: France
@@ -20,6 +20,12 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://kohina.duckdns.org/icecast/stream.ogg'
+    codec: OGG
+  - url: 'https://player.kohina.com/icecast/stream.aac'
+    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: community

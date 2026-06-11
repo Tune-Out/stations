@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320'
+    codec: AAC+
+    bitrate: 320
+  - url: 'https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

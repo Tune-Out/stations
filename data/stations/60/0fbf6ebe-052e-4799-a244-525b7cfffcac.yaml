@@ -21,6 +21,13 @@ lastchangetime: 2026-01-15 08:06:32
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://icecast.live.yle.fi/radio/YleRS/icecast.audio'
+    codec: AAC+
+  - url: 'https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/256/variant.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

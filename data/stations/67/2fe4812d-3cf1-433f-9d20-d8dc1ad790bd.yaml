@@ -22,6 +22,19 @@ lastchangetime: 2026-01-15 03:54:34
 clickcount: 0
 geo_lat: 50.56401154715542
 geo_long: 8.471306852627809
+curation: 0.35
+streams:
+  - url: 'http://stream.erf.de/erfpop_s.m3u'
+    url_resolved: 'http://stream.erfjess.de/erf-1068/aac-64?ar-distributor=ffa5'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://stream.erf.de/erfjess.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.erf.de/erfpop.m3u'
+    url_resolved: 'http://stream.erfjess.de/erf-1068/mp3-128?ar-distributor=ffa5'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

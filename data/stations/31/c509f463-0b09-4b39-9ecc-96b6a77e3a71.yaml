@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 00:20:51
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://streams.egofm.de/egoFMRNB-lq'
+    url_resolved: 'https://cast.egofm.de/egofmrnb.aac?ar-distributor=ffa0&aw_0_req.gdpr=true'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://streams.egofm.de/egoFMRNB-hq'
+    url_resolved: 'https://cast.egofm.de/egofmrnb.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

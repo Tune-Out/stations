@@ -25,6 +25,14 @@ lastchangetime: 2026-01-14 23:39:47
 clickcount: 0
 geo_lat: 42.36057345238458
 geo_long: -71.06025695800783
+curation: 0.55
+streams:
+  - url: 'https://uncertain.fm/streams/direct'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ais-edge37-live365-dal02.cdnstream.com/a23389'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

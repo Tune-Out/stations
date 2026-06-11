@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 23:19:03
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'https://sc6.gergosnet.com:80/puls00AAC64.mp3'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://sc6.gergosnet.com/puls00HD.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-02-23 17:04:08
 clickcount: 1
 geo_lat: -22.400236757456067
 geo_long: -48.58154296875001
+curation: -0.05
+streams:
+  - url: 'https://server01.ouvir.radio.br:8018/stream?1771866095421'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://server01.ouvir.radio.br:8018/stream'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://kruljo.radiostudent.si:8000/hiq'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://kruljo.radiostudent.si:8001/hiq'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

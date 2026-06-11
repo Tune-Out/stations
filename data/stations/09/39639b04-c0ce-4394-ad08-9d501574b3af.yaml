@@ -25,6 +25,13 @@ lastchangetime: 2026-04-16 12:15:45
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://radiohd3.streaminghd.co:8090/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://stream.zeno.fm/zjufeg9fhgptv'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

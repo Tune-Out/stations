@@ -3,7 +3,7 @@ name: Top Radio
 url: http://c5.hostingcentar.com:8000/streams/topradio/
 url_resolved: http://c5.hostingcentar.com:8000/streams/topradio/
 homepage: https://topradio.hr/
-favicon: ""
+favicon: https://topradio.hr/favicon.ico
 tags:
   - classic-hits
   - classic-rock
@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 04:16:44
 clickcount: 0
 geo_lat: 45.76394543389568
 geo_long: 15.9819370508194
+curation: -0.10
+streams:
+  - url: 'http://c5.hostingcentar.com:8000/streams/topradio/'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://c5.hostingcentar.com/streams/topradio/'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

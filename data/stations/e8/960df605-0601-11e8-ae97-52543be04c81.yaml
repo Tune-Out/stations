@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 00:58:35
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://media.limfjordnetradio.dk/limfjord128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://media.limfjordnetradio.dk/limfjord128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

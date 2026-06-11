@@ -19,6 +19,14 @@ lastchangetime: 2026-02-01 10:39:49
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://listen.openstream.co/3119/audio'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://radio10.pro-fhi.net/live/SENSUELLERADIO'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 04:44:02
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://rtlberlin.streamabc.net/rtlb-wellness-aacplus-64-2835105?sABC=6752ns14%230%23724nsr480r9ps6r95pqn750064rp0o5r%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1733472020'
+    codec: AAC
+  - url: 'http://www.surfmusik.de/m3u/station/105-5-spreeradio,962.m3u'
+    url_resolved: 'https://stream.spreeradio.de/spree-live/mp3-128/surfmusikDE/'
+    codec: MP3
+  - url: 'http://stream.spreeradio.de/spree-live/mp3-192/radio-browser.info/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

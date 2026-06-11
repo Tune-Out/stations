@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:36:10
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream2.ruhit.fm:9000/19_ruhit_128_reg_1'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream2.n340.com/19_ruhit_24_reg_1?type=.aac&UID=CF32CF867382134A8C278C56C3CC282E'
+    codec: MP3
+    bitrate: 28
 research:
   reviewed_at: 2026-06-09
   nature: commercial

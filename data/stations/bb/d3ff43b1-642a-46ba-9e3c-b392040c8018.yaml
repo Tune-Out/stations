@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 04:26:23
 clickcount: 5
 geo_lat: 53.561802343734506
 geo_long: 9.97086524963379
+curation: 0.35
+streams:
+  - url: 'https://streaming.fueralle.org/fsk.ogg'
+    codec: OGG
+    bitrate: 320
+  - url: 'http://stream1.datenkollektiv.net/fsk.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

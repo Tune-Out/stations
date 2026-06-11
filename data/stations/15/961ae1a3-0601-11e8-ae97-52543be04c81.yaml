@@ -3,7 +3,7 @@ name: Radio Popolare Milano
 url: http://livex.radiopopolare.it/radiopop2
 url_resolved: http://livex.radiopopolare.it/radiopop2
 homepage: http://www.radiopopolare.it/
-favicon: ""
+favicon: https://www.radiopopolare.it/icon.png?icon.17tx84qo9kavk.png
 tags:
   - news
 country: Italy
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:20:02
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://livex.radiopopolare.it/radiopop2'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://livex.radiopopolare.it/radiopop2'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

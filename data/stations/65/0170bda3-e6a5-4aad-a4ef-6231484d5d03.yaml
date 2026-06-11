@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://streaming.antipode.be/antipode.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.antipode.be/antipode.mp3?rp_source=1&=&&___cb=389966099991420'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -22,6 +22,13 @@ lastchangetime: 2026-01-15 06:37:46
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://drive.uber.radio/uber/cressentialclassics/icecast.audio'
+    codec: MP3
+  - url: 'https://drive.uber.radio/uber/cressentialclassics/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/uber/cressentialclassics/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

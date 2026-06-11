@@ -23,6 +23,13 @@ lastchangetime: 2026-02-19 15:57:39
 clickcount: 1
 geo_lat: -22.55929515631137
 geo_long: -47.40275502204896
+curation: 0.35
+streams:
+  - url: 'https://radioamc.com.br/stream/amc'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://radioamc.com.br/stream/amcplus'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 04:45:19
 clickcount: 2
 geo_lat: 61.120930879735546
 geo_long: 10.462401226998631
+curation: 0.50
+streams:
+  - url: 'https://p11.p4groupaudio.com/P11_AH'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://p11.p4groupaudio.com/P11_MH'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://p11.p4groupaudio.com/P11_MM'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

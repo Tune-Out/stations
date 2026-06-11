@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:24:15
 clickcount: 0
 geo_lat: 50.10868962134672
 geo_long: 8.681945800781252
+curation: -0.05
+streams:
+  - url: 'https://radiogroup-stream32.radiohost.de/radio-frankfurt_mp3-192'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.radiogroup.de/radio-frankfurt/mp3-192/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

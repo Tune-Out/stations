@@ -3,7 +3,7 @@ name: Talksport Premier League
 url: https://radio.talksport.com/stream
 url_resolved: https://radio.talksport.com/stream
 homepage: https://talksport.com/
-favicon: ""
+favicon: https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvdGFsa3Nwb3J0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNlwvMDNcL3RhbGtTUE9SVC1GYXZpY29uLnBuZz9zdHJpcD1hbGwiLCJ0eHQiOiJ0YWxrU1BPUlQiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTQ3NjI1MzE2fQ.CLY3kPg0Vxl-oe4NQL9IwWPqKXTF4u9yFpyq7Txq6YIMQ
 tags:
   - sports
 country: Uganda
@@ -21,6 +21,20 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://radio.talksport.com/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://radio.talksport.com/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://radio.talksport.com/stream?aisGetOriginalStream=true'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

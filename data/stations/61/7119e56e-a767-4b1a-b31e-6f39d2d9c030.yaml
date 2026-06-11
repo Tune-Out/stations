@@ -22,6 +22,41 @@ lastchangetime: 2026-01-15 07:08:10
 clickcount: 2
 geo_lat: 38.70634742988112
 geo_long: -9.1377067565918
+curation: 0.25
+streams:
+  - url: 'https://stream-icy.bauermedia.pt/m80indie.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream-icy.bauermedia.pt/m80ballads.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream-icy.bauermedia.pt/m8080.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream-icy.bauermedia.pt/m80soul.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream-icy.bauermedia.pt/m8070.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream-icy.bauermedia.pt/m8090.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream-icy.bauermedia.pt/m8060.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream-icy.bauermedia.pt/m80.aac'
+    codec: AAC
+    bitrate: 127
+  - url: 'https://stream-icy.bauermedia.pt/m80pop.aac'
+    codec: AAC
+    bitrate: 127
+  - url: 'https://stream-icy.bauermedia.pt/m80nacional.aac'
+    codec: AAC
+    bitrate: 127
+  - url: 'https://stream-icy.bauermedia.pt/m80dance.aac'
+    codec: AAC
+    bitrate: 127
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -22,6 +22,18 @@ lastchangetime: 2026-01-15 04:32:05
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://s2.audiostream.hu/juventus_192k'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://s2.audiostream.hu/juventus_192k'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://youventusradio.hu/stream_96k'
+    url_resolved: 'http://s2.audiostream.hu/juventus_96k'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,26 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://pureplay.cdnstream1.com/6032_64.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://pureplay.cdnstream1.com/6039_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://pureplay.cdnstream1.com/6032_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://pureplay.cdnstream1.com/6057_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://pureplay.cdnstream1.com/6019_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://pureplay.cdnstream1.com/6024_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 08:29:20
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://radiobot.radioslibres.info/radio/8060/radio.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://radiobot.radioslibres.info/public/radio_topo/playlist.pls'
+    url_resolved: 'https://radiobot.radioslibres.info/listen/radio_topo/radio96.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

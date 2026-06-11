@@ -33,6 +33,14 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 10
 geo_lat: 39.979426195470275
 geo_long: -3.440608978271485
+curation: 0.35
+streams:
+  - url: 'https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_720.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

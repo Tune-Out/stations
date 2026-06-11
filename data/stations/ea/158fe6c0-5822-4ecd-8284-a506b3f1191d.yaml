@@ -21,6 +21,17 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://213.141.131.10:8004/balearichouse'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://213.141.131.10:8000/balearichouse'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://213.141.131.10:8002/balearichouse'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial

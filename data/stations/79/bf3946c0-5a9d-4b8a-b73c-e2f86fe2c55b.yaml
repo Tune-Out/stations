@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 07:23:51
 clickcount: 2
 geo_lat: 45.37463559502925
 geo_long: 20.06291270256043
+curation: -0.05
+streams:
+  - url: 'https://radio.dukahosting.com:7043/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.dukahosting.com:7043/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

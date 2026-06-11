@@ -19,6 +19,14 @@ lastchangetime: 2026-02-28 22:05:19
 clickcount: 4
 geo_lat: 51.510167431245534
 geo_long: -0.12863874435424807
+curation: -0.05
+streams:
+  - url: 'https://media-ice.musicradio.com/CapitalXTRAReloaded'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://media-ice.musicradio.com/CapitalXTRAReloadedMP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

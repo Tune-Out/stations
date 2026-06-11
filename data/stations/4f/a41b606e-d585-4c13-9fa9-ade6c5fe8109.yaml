@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 00:33:22
 clickcount: 0
 geo_lat: 46.87405459316043
 geo_long: -96.79504394531251
+curation: 0.35
+streams:
+  - url: 'https://ice.romanport.com/knds'
+    codec: AAC
+  - url: 'https://p.scdn.co/mp3-preview/632457e56dfcfd2537daf7031449c28aa2c25a90'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

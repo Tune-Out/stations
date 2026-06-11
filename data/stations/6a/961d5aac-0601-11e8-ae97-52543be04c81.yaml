@@ -3,7 +3,7 @@ name: Radio Norte Bahia
 url: http://icecast.hostingbahia.com.ar:8002/live?1475282235673
 url_resolved: http://icecast.hostingbahia.com.ar:8002/live?1475282235673
 homepage: http://www.radionortefm.com/
-favicon: ""
+favicon: https://radionorte.com.ar/wp-content/uploads/2021/07/cropped-04-1-180x180.png
 tags:
   - pop
 country: Argentina
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:03:36
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://icecast.hostingbahia.com.ar:8002/live?1475282235673'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://icecast.hostingbahia.com.ar:8002/live?90131'
+    codec: AAC
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

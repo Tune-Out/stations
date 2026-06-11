@@ -3,7 +3,7 @@ name: SRo1 Rádio Slovensko
 url: http://live.slovakradio.sk:8000/Slovensko_128.mp3
 url_resolved: http://live.slovakradio.sk:8000/Slovensko_128.mp3
 homepage: https://slovensko.rtvs.sk/
-favicon: ""
+favicon: https://www.stvr.sk/media/images/stvr-og.jpg
 tags:
   - news
   - public-radio
@@ -24,6 +24,8 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 13
 geo_lat: null
 geo_long: null
+curation: 0.45
+duplicate_of: b45002ed-3692-11e9-9b4e-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

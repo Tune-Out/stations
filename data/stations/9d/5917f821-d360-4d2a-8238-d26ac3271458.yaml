@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 02:18:30
 clickcount: 0
 geo_lat: 51.43084496926072
 geo_long: 6.787490844726563
+curation: 0.55
+streams:
+  - url: 'http://libretime.modul303.com:8000/highend'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://libretime.modul303.com:8000/normal'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

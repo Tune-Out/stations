@@ -25,6 +25,12 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 29
 geo_lat: 34.05256608587504
 geo_long: -118.28636169433597
+curation: -0.10
+streams:
+  - url: 'http://stream.revma.ihrhls.com/zc185'
+    codec: AAC
+  - url: 'https://stream.revma.ihrhls.com/zc185'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

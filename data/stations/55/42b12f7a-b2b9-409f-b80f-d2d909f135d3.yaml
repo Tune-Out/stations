@@ -23,6 +23,13 @@ lastchangetime: 2026-01-15 03:38:05
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.metacast.eu/radio1rock.ogg'
+    codec: OGG
+  - url: 'http://play.global.audio/radio1rockhi.aac'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://provisioning.streamtheworld.com/pls/CHKXFMAAC.pls'
+    url_resolved: 'http://16613.live.streamtheworld.com/CHKXFMAAC_SC'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://provisioning.streamtheworld.com/pls/CHKXFMAAC.pls'
+    url_resolved: 'http://14103.live.streamtheworld.com:3690/CHKXFMAAC_SC'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

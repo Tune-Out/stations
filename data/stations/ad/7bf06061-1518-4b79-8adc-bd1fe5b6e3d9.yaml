@@ -22,6 +22,13 @@ lastchangetime: 2026-05-02 10:18:39
 clickcount: 2
 geo_lat: 52.144276442706875
 geo_long: 5.306396484375001
+curation: 0.50
+streams:
+  - url: 'https://progressieverock.nl/flac'
+    codec: OGG
+  - url: 'http://progressieverock.nl/luisteren'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

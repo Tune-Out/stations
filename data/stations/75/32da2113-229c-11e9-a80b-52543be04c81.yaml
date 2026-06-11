@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 15
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://media-ice.musicradio.com/ClassicFMMP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

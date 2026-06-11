@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 07:52:50
 clickcount: 0
 geo_lat: 48.08088877008981
 geo_long: 0.0439453125
+curation: 0.35
+streams:
+  - url: 'https://rpstrm.pistache.org:9443/pistache.aac'
+    codec: AAC+
+    bitrate: 320
+  - url: 'https://rpstrm.pistache.org:9443/pistache.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

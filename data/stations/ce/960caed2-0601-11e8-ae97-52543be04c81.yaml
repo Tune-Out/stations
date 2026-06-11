@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://ecoutez.fajet.net:16700/;'
+    codec: AAC+
+    bitrate: 80
+  - url: 'http://ecoutez.fajet.net:16600/;'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

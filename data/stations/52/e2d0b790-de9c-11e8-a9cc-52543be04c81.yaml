@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://www.lmp.d2g.com:8020/listen.pls'
+    url_resolved: 'http://www.lmp.d2g.com:8020/;'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://www.lmp.d2g.com:8040/listen.pls'
+    url_resolved: 'http://www.lmp.d2g.com:8040/;'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: community

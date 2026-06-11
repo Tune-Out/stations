@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 0
 geo_lat: 45.539060482134495
 geo_long: 9.265594482421877
+curation: -0.05
+streams:
+  - url: 'http://nr2.newradio.it:8003/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://nr3.newradio.it:18303/stream?ver=777128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

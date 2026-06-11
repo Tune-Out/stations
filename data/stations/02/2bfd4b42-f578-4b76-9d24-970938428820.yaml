@@ -3,7 +3,7 @@ name: Exclusively Alice Cooper (Only Hits)
 url: https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio
 url_resolved: https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio
 homepage: https://exclusive.radio/
-favicon: ""
+favicon: https://you.radio/favicon.ico
 tags:
   - classic-rock
   - rock
@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 05:54:36
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.exclusive.radio/er/alicecooper/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true
+  - url: 'https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true
+  - url: 'https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

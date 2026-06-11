@@ -24,6 +24,21 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://listen.trancebase.fm/tunein-aac-hd-pls'
+    codec: AAC
+    bitrate: 256
+  - url: 'http://listen.trancebase.fm/tunein-aacplus-pls'
+    codec: AAC
+    bitrate: 96
+  - url: 'http://listen.trancebase.fm/tunein-aacisdn-pls'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://listen.trancebase.fm/dsl.asx'
+    url_resolved: 'http://listen.trancebase.fm/tunein-mp3-asx'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 05:34:17
 clickcount: 5
 geo_lat: 56.45458959111108
 geo_long: 10.038917369784032
+curation: -0.05
+streams:
+  - url: 'https://radioserver.dk/abc'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://radioserver.dk/abc'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://netradio.radioabc.dk/'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

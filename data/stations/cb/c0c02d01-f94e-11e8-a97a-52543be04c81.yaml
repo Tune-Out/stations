@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 00:06:32
 clickcount: 1
 geo_lat: 37.809784
 geo_long: -121.286316
+curation: 0.50
+streams:
+  - url: 'https://somafm.com/christmas64.pls'
+    url_resolved: 'https://ice5.somafm.com/christmas-64-aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://somafm.com/christmas256.pls'
+    url_resolved: 'https://ice2.somafm.com/christmas-256-mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

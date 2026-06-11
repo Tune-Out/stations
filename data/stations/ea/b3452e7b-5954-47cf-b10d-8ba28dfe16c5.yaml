@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://an05.cdn.eurozet.pl/ANTHAR.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://an01.cdn.eurozet.pl/ANTHAR.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

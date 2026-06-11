@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://79.111.119.111:8000/mintechhouse'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.119.111:8004/mintechhouse'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.119.111:8002/mintechhouse'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

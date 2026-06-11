@@ -24,6 +24,16 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.laut.fm/joy.m3u'
+    url_resolved: 'https://joy.stream.laut.fm/joy?pl=m3u&t302=2026-01-15_02-26-08&uuid=f580dbd4-9802-4176-97ff-eb049173bf1c'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/joy.m3u'
+    url_resolved: 'http://joy.stream.laut.fm/joy?pl=m3u&t302=2026-01-15_01-14-12&uuid=470899ab-f5a3-4cb5-add1-0a1e4e76ea01'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -3,7 +3,7 @@ name: Suara Muslim Surabaya
 url: http://pu.klikhost.com:8052/
 url_resolved: http://pu.klikhost.com:8052/
 homepage: http://suaramuslim.net/
-favicon: ""
+favicon: https://suaramuslim.net/wp-content/uploads/elementor/thumbs/suaramuslim-newsletter-p2fbquy1oxsx5bao59ugy75njw87564lw6mfayks2s.png
 tags: []
 country: Indonesia
 countrycode: ID
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 13
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'http://pu.klikhost.com:8052/'
+    codec: MP3
+    bitrate: 48
+  - url: 'http://pu.klikhost.com:8052/stream/1/'
+    codec: MP3
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

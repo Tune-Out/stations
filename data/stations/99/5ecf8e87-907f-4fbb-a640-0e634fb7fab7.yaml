@@ -3,7 +3,7 @@ name: REBEL 105.2
 url: http://netradio.live24.gr/rebel1052
 url_resolved: http://netradio.live24.gr/rebel1052
 homepage: https://www.rebelfm.gr/
-favicon: ""
+favicon: https://www.rebelfm.gr/wp-content/themes/whsk_rebelfm/common/icons/apple-icon-57x57.png
 tags:
   - classic-rock
   - rock
@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 01:10:51
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://netradio.live24.gr/rebel1052'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://netradio.live24.gr/rebel1052'
+    codec: AAC
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

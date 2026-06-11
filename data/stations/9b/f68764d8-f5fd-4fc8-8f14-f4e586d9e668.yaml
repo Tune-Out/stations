@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream.v2radio.co.uk/V2RadioHQAACP'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://stream.v2radio.co.uk/V2RadioHQAACP?rp_source=1&=&&___cb=41066802173293'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://stream.v2radio.co.uk/V2RadioHQAACP?rp_source=1&=&&___cb=553152958176960'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

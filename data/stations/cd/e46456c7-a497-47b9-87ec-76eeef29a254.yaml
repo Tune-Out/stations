@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 43.03786900531648
 geo_long: -87.90934681892395
+curation: 0.90
+streams:
+  - url: 'https://www.tundracast.stream:3040/mount1?uuid=y48h2oci9'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://www.tundracast.stream:3040/mount1?uuid=y566804m'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

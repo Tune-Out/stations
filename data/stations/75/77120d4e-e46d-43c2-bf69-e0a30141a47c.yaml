@@ -3,7 +3,7 @@ name: WDR 4
 url: http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
 url_resolved: http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
 homepage: https://www1.wdr.de/radio/wdr4/index.html
-favicon: ""
+favicon: https://www1.wdr.de/resources-v5.175.1/img/favicon/apple-touch-icon.png
 tags: []
 country: Germany
 countrycode: DE
@@ -19,6 +19,8 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: c7d36378-4637-11e9-aa55-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

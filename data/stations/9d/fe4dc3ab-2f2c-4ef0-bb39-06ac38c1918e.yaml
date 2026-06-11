@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://a6.asurahosting.com/public/bar_latina_radio/playlist.pls'
+    url_resolved: 'https://a6.asurahosting.com:7740/radio.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://s2.citrus3.com:2000/stream/barlatinaradio'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

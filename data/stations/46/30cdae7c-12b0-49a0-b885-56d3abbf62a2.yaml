@@ -21,6 +21,14 @@ lastchangetime: 2026-02-23 16:48:29
 clickcount: 1
 geo_lat: -19.965443113059585
 geo_long: -43.78601074218751
+curation: 0.35
+streams:
+  - url: 'https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream&1771865214032'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://charts.stream.laut.fm/charts'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://charts.stream.laut.fm/charts?t302=2018-03-11_09-44-21&uuid=2f21a568-84d6-459f-ac15-16ed46f1350e'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

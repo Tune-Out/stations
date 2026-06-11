@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 00:20:02
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://listen-nation.sharp-stream.com/breezyradiouk.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://listen-nation.sharp-stream.com/breezyradiouk.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

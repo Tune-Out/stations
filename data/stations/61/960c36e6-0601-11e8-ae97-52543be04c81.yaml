@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 06:42:26
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://streams.echoesofbluemars.org:8000/bluemars'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.echoesofbluemars.org:8000/cryosleep.m3u'
+    url_resolved: 'http://streams.echoesofbluemars.org:8000/cryosleep'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

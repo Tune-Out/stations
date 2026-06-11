@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 01:42:04
 clickcount: 1
 geo_lat: 42.655425080737515
 geo_long: 23.37346536712757
+curation: -0.10
+streams:
+  - url: 'http://31.13.223.148:8000/fresh.ogg'
+    codec: OGG
+  - url: 'http://193.108.24.21:8000/fresh.m3u'
+    url_resolved: 'http://193.108.24.21:8000/fresh'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

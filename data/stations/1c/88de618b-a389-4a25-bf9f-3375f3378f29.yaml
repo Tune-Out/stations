@@ -19,6 +19,14 @@ lastchangetime: 2026-04-23 19:01:24
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://mscp3.live-streams.nl:8092/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://mscp3.live-streams.nl:8090/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

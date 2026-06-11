@@ -21,6 +21,14 @@ lastchangetime: 2026-06-02 16:59:50
 clickcount: 1
 geo_lat: 50.46170054676676
 geo_long: 30.563964843750004
+curation: 0.50
+streams:
+  - url: 'http://radio.ukr.radio:8000/urkazka-aacplus'
+    codec: AAC
+    bitrate: 52
+  - url: 'http://radio.ukr.radio:8000/urkazka-mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

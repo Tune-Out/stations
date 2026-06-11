@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: 52.57901977710837
 geo_long: 13.183593750000002
+curation: -0.05
+streams:
+  - url: 'http://starsat-live.cast.addradio.de/starsat/live/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://starsat-live.cast.addradio.de/starsat/live/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

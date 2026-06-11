@@ -21,6 +21,14 @@ lastchangetime: 2026-04-22 15:18:41
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://188.40.109.114:8000/ices1'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://188.40.109.114:8000/ices'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

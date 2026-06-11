@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 07:12:24
 clickcount: 9
 geo_lat: 40.60526085001808
 geo_long: 22.959824502468113
+curation: 0.20
+streams:
+  - url: 'https://radio.1055rock.gr:31056/live'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radio.1055rock.gr:30000/1055'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

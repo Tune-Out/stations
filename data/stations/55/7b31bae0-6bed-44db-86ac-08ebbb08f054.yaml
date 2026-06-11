@@ -26,6 +26,14 @@ lastchangetime: 2026-05-04 13:58:54
 clickcount: 0
 geo_lat: 19.24434646955357
 geo_long: -103.72698783874512
+curation: -0.10
+streams:
+  - url: 'https://ss1.audiorama.com.mx:6670/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://ss1.audiorama.com.mx:6670/stream/'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

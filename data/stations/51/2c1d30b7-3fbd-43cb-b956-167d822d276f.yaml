@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:38:46
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20='
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://yayin.netradyom.com:7900/;'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -3,7 +3,7 @@ name: K Digital - 102.7 FM - XHPQUI-FM - Tequisquiapan, Querétaro
 url: https://stream3.mexiserver.com:10167/stream?type=http&nocache=842;
 url_resolved: https://stream3.mexiserver.com:10167/stream?type=http&nocache=842;
 homepage: https://kdigital.mx/
-favicon: ""
+favicon: https://kdigital.mx/images/Kdigital.jpg
 tags:
   - latin
   - pop
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 08:22:02
 clickcount: 0
 geo_lat: 20.522890336993736
 geo_long: -99.89187955856325
+curation: -0.05
+streams:
+  - url: 'https://stream3.mexiserver.com:10167/stream?type=http&nocache=842;'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream3.mexiserver.com:10167/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

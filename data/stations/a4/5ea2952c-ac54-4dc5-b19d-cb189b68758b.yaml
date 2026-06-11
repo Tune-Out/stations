@@ -25,6 +25,13 @@ lastchangetime: 2026-05-01 08:24:02
 clickcount: 1
 geo_lat: 48.84881222563043
 geo_long: 2.3510742187500004
+curation: -0.05
+streams:
+  - url: 'http://icy-zurich.mpbnl.nl/radiofuego'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://n12a-eu.rcs.revma.com/dapwbz2befcwv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

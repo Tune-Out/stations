@@ -22,6 +22,14 @@ lastchangetime: 2026-02-01 11:57:53
 clickcount: 1
 geo_lat: 53.336777397085555
 geo_long: -6.264953613281251
+curation: -0.05
+streams:
+  - url: 'https://live-bauerie.sharp-stream.com/98'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.audioxi.com/98'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

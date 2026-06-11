@@ -3,7 +3,7 @@ name: Hirschmilch Radio - Chilllout
 url: http://hirschmilch.de:7000/chillout.mp3
 url_resolved: http://hirschmilch.de:7000/chillout.mp3
 homepage: https://hirschmilch.de/channel/chillout
-favicon: ""
+favicon: https://hirschmilch.de/favicon-120.png
 tags: []
 country: Germany
 countrycode: DE
@@ -19,6 +19,29 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://hirschmilch.de:7000/chillout.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://hirschmilch.de:7501/electronic.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://hirschmilch.de:7001/chillout.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://hirschmilch.de:7501/progressive.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://hirschmilch.de:7000/progressive.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://hirschmilch.de:7501/chillout.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://hirschmilch.de:7501/hypnotic.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

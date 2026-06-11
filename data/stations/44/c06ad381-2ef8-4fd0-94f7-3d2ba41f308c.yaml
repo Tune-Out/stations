@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://primarystream.sleepbot.com:8218/seb'
+    codec: MP3
+    bitrate: 56
+  - url: 'https://sleepbot.com/ambience/cgi/listen.m3u'
+    url_resolved: 'http://backupstream.sleepbot.com:8096/seb'
+    codec: MP3
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

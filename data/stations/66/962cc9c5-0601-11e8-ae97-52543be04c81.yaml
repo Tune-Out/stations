@@ -23,6 +23,15 @@ lastchangetime: 2026-01-14 23:30:34
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8'
+    codec: AAC
+    bitrate: 192
+    hls: true
+  - url: 'http://lr3mp0.latvijasradio.lv:8004/;'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

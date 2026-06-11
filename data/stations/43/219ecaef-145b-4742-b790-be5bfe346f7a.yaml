@@ -3,7 +3,7 @@ name: Past Perfect Radio
 url: http://s2.xrad.io:8046/;
 url_resolved: http://s2.xrad.io:8046/;
 homepage: http://pastperfect.com/
-favicon: ""
+favicon: https://www.pastperfect.com/wp-content/uploads/2019/05/Artboard-1Header-Image.png
 tags: []
 country: The United Kingdom Of Great Britain And Northern Ireland
 countrycode: GB
@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 53.12732535916186
 geo_long: -1.7578125000000002
+curation: 0.20
+streams:
+  - url: 'http://s2.xrad.io:8046/;'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://s2.xrad.io:9646/;stream/1'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial

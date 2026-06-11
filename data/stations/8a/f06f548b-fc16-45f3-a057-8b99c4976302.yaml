@@ -22,6 +22,14 @@ lastchangetime: 2026-03-06 01:44:47
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.countryradio.ch/crs-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.countryradio.ch/crs-64.mp3'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

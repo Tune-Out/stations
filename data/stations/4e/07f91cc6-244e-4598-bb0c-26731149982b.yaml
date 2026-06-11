@@ -22,6 +22,14 @@ lastchangetime: 2026-05-05 07:00:16
 clickcount: 1
 geo_lat: 45.6637624694702
 geo_long: 25.611281991004947
+curation: 0.35
+streams:
+  - url: 'https://live.radiobrasov.ro/stream.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

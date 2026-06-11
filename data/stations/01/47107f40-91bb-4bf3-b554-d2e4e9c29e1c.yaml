@@ -19,6 +19,14 @@ lastchangetime: 2026-05-24 13:31:38
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://radio.ilyasmoerkens.nl/listen/radio_1/radio320.aac'
+    codec: AAC
+    bitrate: 264
+  - url: 'https://radio.ilyasmoerkens.nl/listen/radio_1/radio320.aac'
+    codec: AAC
+    bitrate: 144
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

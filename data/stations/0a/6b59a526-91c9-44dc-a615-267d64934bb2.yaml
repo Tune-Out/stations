@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 01:13:59
 clickcount: 2
 geo_lat: 47.16154704611024
 geo_long: 8.437001109123232
+curation: 0.05
+streams:
+  - url: 'https://jamesfm.ice.infomaniak.ch/jamesfm.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://jamesfm.ice.infomaniak.ch/jamesfm.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: independent internet radio

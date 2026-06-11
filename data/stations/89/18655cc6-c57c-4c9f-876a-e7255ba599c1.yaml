@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:52:28
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://wgbh-live.streamguys1.com/Bach-8108-aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://wgbh-live.streamguys1.com/BSOConcert-8106-aac'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

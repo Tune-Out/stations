@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:17:08
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://ice24.securenetsystems.net/WFDM'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://ice24.securenetsystems.net/WFDM'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

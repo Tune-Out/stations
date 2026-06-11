@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://audio.ury.org.uk/live-high'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://audio.ury.org.uk/live-mobile?rp_source=1&=&&___cb=1809942474326'
+    codec: MP3
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: community

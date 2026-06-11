@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://everest.streams.ovh:1145/stream?x=1741852250498'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://everest.streams.ovh:1145/stream?x=1740380034235'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.mixadance.fm/mixadancejazz'
+    codec: AAC+
+    bitrate: 80
+  - url: 'https://stream.mixadance.fm/mixadance'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

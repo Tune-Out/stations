@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 2
 geo_lat: 47.99483461877365
 geo_long: 7.849044799804688
+curation: 0.35
+streams:
+  - url: 'http://stream.laut.fm/dark-bites'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/dark-mythos'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

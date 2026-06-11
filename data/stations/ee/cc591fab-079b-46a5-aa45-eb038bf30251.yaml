@@ -3,7 +3,7 @@ name: ERR Raadio 2 - 320kbps
 url: http://icecast.err.ee/raadio2korge.mp3.m3u
 url_resolved: http://icecast.err.ee/raadio2korge.mp3
 homepage: https://r2.err.ee/
-favicon: ""
+favicon: https://s.err.ee/www/images/favicon/R2Favicon@2x.png?3003
 tags:
   - public-radio
 country: Estonia
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 05:56:44
 clickcount: 4
 geo_lat: 59.434364413534546
 geo_long: 24.7714576708358
+curation: 0.35
+duplicate_of: 962039d2-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

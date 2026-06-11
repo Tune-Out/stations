@@ -22,6 +22,18 @@ lastchangetime: 2026-01-15 03:25:25
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://radio-metadata.fr:8000/fiprock'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.radiofrance.fr/fiprock/fiprock.m3u8?id=radiofrance'
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: 'https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8?id=radiofrance'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,14 @@ lastchangetime: 2026-02-01 11:37:42
 clickcount: 1
 geo_lat: 53.33021684206216
 geo_long: -6.23748779296875
+curation: -0.05
+streams:
+  - url: 'https://live-bauerie.sharp-stream.com/TDAAC'
+    codec: AAC+
+    bitrate: 63
+  - url: 'https://stream.audioxi.com/TD'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

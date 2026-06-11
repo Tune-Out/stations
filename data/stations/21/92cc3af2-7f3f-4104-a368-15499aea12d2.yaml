@@ -3,7 +3,7 @@ name: ROCK Antenne BLUES ROCK
 url: https://stream.rockantenne.de/hair-metal/stream/mp3
 url_resolved: https://stream.rockantenne.de/hair-metal/stream/mp3
 homepage: https://www.rockantenne.de/
-favicon: ""
+favicon: https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png
 tags:
   - blues
 country: Germany
@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://stream.rockantenne.de/hair-metal/stream/mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.rockantenne.de/blues-rock/stream/mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

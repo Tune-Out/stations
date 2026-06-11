@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 04:19:22
 clickcount: 6
 geo_lat: 41.01572108971321
 geo_long: 29.022695487350553
+curation: 0.20
+streams:
+  - url: 'http://yayin.hemdemradyo.com/'
+    url_resolved: 'https://radyoserver3.okeylisans.com:8040/stream'
+    codec: AAC+
+    bitrate: 104
+  - url: 'https://yayin.hemdemradyo.com/'
+    url_resolved: 'https://radyoserver3.okeylisans.com:8040/stream'
+    codec: AAC+
+    bitrate: 104
 research:
   reviewed_at: 2026-06-10
   nature: commercial

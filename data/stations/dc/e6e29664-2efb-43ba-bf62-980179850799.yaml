@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 08:37:27
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://wz4liw.scahw.com.au/live/4cee_128.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: 'https://wz4liw.scahw.com.au/live/4cee_128.stream/playlist.m3u8?listeningSessionID=638606f8054f91d9_1333854_7lWU9m5A_MTAuNzAuMS4xOA!!_00000002Iz1&downloadSessionID=0&dist=listnr-web&aw_0_1st.playerId=LiSTNR_Web_native&cb=1e9fa6d0-7c0a-11ed-83ac-73171c862f0d'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

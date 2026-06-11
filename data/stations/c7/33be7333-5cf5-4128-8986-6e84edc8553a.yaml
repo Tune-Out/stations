@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 1
 geo_lat: 34.05362657320458
 geo_long: -118.2435805267652
+curation: 0.35
+streams:
+  - url: 'https://s4.voscast.com:8865/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s4.voscast.com:8864/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

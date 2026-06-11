@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 0
 geo_lat: 49.250369
 geo_long: 4.037195
+curation: 0.35
+streams:
+  - url: 'https://stream.rjrradio.fr/rjr.ogg'
+    codec: OGG
+  - url: 'https://stream.rjrradio.fr/rjr.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.rjrradio.fr/rjr.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

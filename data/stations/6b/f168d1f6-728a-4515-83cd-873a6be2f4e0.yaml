@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:16:44
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://streams.rsa-sachsen.de/disco/mp3-192/streams.rsa-sachsen.de/play.m3u'
+    url_resolved: 'http://rsa.streamabc.net/regc-rsasachsendisco8844938-mp3-192-6537057?sABC=69686n07%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768450567'
+    codec: MP3
+  - url: 'https://streams.rsa-sachsen.de/disco/mp3-192/streams.rsa-sachsen.de/play.m3u'
+    url_resolved: 'https://rsa.streamabc.net/regc-rsasachsendisco8844938-mp3-192-6537057?sABC=6968n49n%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768465562'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

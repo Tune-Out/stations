@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 06:00:57
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://audio.futrzak.fm/futrzakfm-320'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://audio.futrzak.fm/futrzakfm-128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

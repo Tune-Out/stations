@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:30:34
 clickcount: 1
 geo_lat: 6.248536803775956
 geo_long: -75.5856639146805
+curation: 0.20
+streams:
+  - url: 'http://tupanel.info:8018/stream/'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://tupanel.info:8018/stream'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

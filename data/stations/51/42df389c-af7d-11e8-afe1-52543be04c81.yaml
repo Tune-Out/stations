@@ -3,7 +3,7 @@ name: Brasil de Fato
 url: https://s09.hstbr.net:8238/live?1514038524061
 url_resolved: https://s09.hstbr.net:8238/live?1514038524061
 homepage: https://www.brasildefato.com.br/
-favicon: ""
+favicon: https://www.brasildefato.com.br/wp-content/uploads/2026/02/cropped-Brasil-de-Fato.webp
 tags:
   - news
 country: Brazil
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://s09.hstbr.net:8238/live?1514038524061'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://s09.hstbr.net:8238/live'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

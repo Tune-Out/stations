@@ -3,7 +3,7 @@ name: France Musique
 url: http://direct.francemusique.fr/live/francemusique-midfi.mp3
 url_resolved: http://direct.francemusique.fr/live/francemusique-midfi.mp3
 homepage: https://www.francemusique.fr/
-favicon: ""
+favicon: https://www.radiofrance.fr/external/favicons/francemusique/favicon.png
 tags:
   - classical
   - jazz
@@ -24,6 +24,17 @@ lastchangetime: 2026-01-14 23:26:37
 clickcount: 59
 geo_lat: null
 geo_long: null
+curation: 0.80
+streams:
+  - url: 'http://direct.francemusique.fr/live/francemusique-hifi.aac?ID=radiofrance'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://icecast.radiofrance.fr/francemusique-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.francemusique.fr/live/francemusique-midfi.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

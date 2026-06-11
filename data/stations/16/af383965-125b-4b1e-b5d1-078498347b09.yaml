@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: -45.86902300752219
 geo_long: -67.49176025390626
+curation: -0.05
+streams:
+  - url: 'https://cdn.instream.audio/:9061/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cdn.instream.audio/:9061/stream?in_device_id=wp-e80516ae-250e-4455-ac11-14ce5f370cc8'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

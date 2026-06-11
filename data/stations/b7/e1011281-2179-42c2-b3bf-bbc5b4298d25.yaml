@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 04:24:51
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mushroomfm.com/media/escape.pls'
+    url_resolved: 'http://65.108.124.70:8676/escape'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

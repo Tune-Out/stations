@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://sr15.inmystream.it/stream/lattemiele'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://sr15.inmystream.it:8000/stream'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

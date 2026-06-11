@@ -3,7 +3,7 @@ name: RADIO BOB! BOBs Alternative Rock
 url: http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
 url_resolved: http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
 homepage: http://www.radiobob.de/
-favicon: ""
+favicon: https://upload.radiobob.de/production/static/1780918690818/icons/icon_512.8WpccMNcjjc.png
 tags:
   - alternative
   - rock
@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 08:42:10
 clickcount: 30
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/'
+    codec: MP3
+  - url: 'https://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

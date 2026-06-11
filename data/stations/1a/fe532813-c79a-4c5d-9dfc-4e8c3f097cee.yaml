@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://whmsonic.radio.gov.pk:7005/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media

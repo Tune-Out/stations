@@ -20,6 +20,18 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8'
+    codec: AAC
+    bitrate: 64
+    hls: true
+  - url: 'http://icecast.rtl.fr/rtl-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast.rtl.fr/rtl-1-44-128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

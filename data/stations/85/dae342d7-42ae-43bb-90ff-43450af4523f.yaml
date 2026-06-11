@@ -3,7 +3,7 @@ name: Kalman Radio
 url: http://188.40.62.20:8004/stream
 url_resolved: http://188.40.62.20:8004/stream
 homepage: https://kalmanradio.ba/
-favicon: ""
+favicon: https://kalmanradio.ba/wp-content/uploads/2018/03/Program.jpg
 tags: []
 country: Bosnia And Herzegovina
 countrycode: BA
@@ -21,6 +21,13 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 4
 geo_lat: 43.84479423061377
 geo_long: 18.381881117820743
+curation: -0.05
+streams:
+  - url: 'http://188.40.62.20:8004/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ssl.surfmusic.de/s.php?s=http://188.40.62.20:8004/stream?1707015516'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

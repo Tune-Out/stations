@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://hestia.cdnstream.com/1543_128?cb=618512.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://hestia.cdnstream.com/1543_128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-04-30 23:36:45
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://stream.animu.moe/320'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://stream.animu.moe/192'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

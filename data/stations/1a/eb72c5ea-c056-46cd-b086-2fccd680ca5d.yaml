@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 01:10:16
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://radiodueindie-live.akamaized.net/hls/live/2032593/radiodueindie/radiodueindie/playlist.m3u8?auth=daEbicJbwaQa5aZalc_d3boaydTd0cMbya1-bMl8rY-c0-IlwvtEp&aifp=V001'
+    codec: AAC
+    bitrate: 320
+    hls: true
+  - url: 'https://radiodueindie-live.akamaized.net/hls/live/2032593/radiodueindie/radiodueindie/playlist.m3u8?auth=daEchcLcmcgctdAajcwaZd5dRb9akcFcQas-bPBmtI-c0-HlywtGt&aifp=V001'
+    codec: AAC
+    bitrate: 320
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 07:22:39
 clickcount: 4
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.20
+streams:
+  - url: 'https://1a-80er.radionetz.de/1a-80er.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://1a-80er.radionetz.de/1a-80er.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

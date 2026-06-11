@@ -20,6 +20,18 @@ lastchangetime: 2026-02-19 20:16:16
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://www.uturnradio.com/media/drum_and_bass.m3u'
+    url_resolved: 'http://listen.uturnradio.com/drum_and_bass'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://listen.uturnradio.com/drum_and_bass'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://listen.uturnradio.com/electro_house'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

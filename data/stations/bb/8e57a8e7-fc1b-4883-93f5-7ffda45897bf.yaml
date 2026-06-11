@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://oxygenmusic.hu:8000/xmas_320'
+    codec: AAC+
+    bitrate: 160
+  - url: 'http://oxygenmusic.hu:8000/xmas_320.m3u'
+    url_resolved: 'http://oxygenmusic.hu:8000/xmas_320'
+    codec: AAC+
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial

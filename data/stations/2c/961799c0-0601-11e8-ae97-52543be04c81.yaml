@@ -25,6 +25,16 @@ lastchangetime: 2026-01-15 01:18:42
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://listen1.myradio24.com/6262'
+    url_resolved: 'https://listen9.myradio24.com/6262'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://listen1.myradio24.com/6262'
+    url_resolved: 'http://listen9.myradio24.com/6262'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: online-only

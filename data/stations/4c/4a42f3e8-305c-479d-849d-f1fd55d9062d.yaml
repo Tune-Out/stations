@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://25273.live.streamtheworld.com/Q_DANCE.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 2
 geo_lat: 48.1776994
 geo_long: 16.2877707
+curation: 0.55
+streams:
+  - url: 'https://orf-live.ors-shoutcast.at/campus-q2a'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://orf-live.ors-shoutcast.at/campus-q1a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

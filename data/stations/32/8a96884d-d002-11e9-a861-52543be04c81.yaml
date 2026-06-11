@@ -3,7 +3,7 @@ name: NDR 90,3
 url: http://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u
 url_resolved: http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
 homepage: http://www.ndr903.de/
-favicon: ""
+favicon: https://www.ndr.de:443/resources/assets/resources/images/favicon/favicon.ico
 tags: []
 country: Germany
 countrycode: DE
@@ -21,6 +21,7 @@ lastchangetime: 2026-01-15 03:40:06
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: 0.55
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 02:22:41
 clickcount: 1
 geo_lat: 48.206764
 geo_long: 16.393611
+curation: 0.55
+streams:
+  - url: 'https://air.jazz.w3.at/jazzw3.ogg'
+    codec: OGG
+    bitrate: 128
+  - url: 'http://jazz.w3.at:8000/w3jazz.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://air.jazz.w3.at/jazzw3.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

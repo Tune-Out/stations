@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 07:23:17
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: 27f58a93-e751-46dd-9e40-5f9037ec7f60
+streams:
+  - url: 'http://c22.radioboss.fm:8100/stream'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://c22.radioboss.fm:8100/stream'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

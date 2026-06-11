@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://kasu.streamguys1.com/live?uuid=j2cw92p6i'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://kasu.streamguys1.com/live'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

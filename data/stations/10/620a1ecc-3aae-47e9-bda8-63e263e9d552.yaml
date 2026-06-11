@@ -24,6 +24,13 @@ lastchangetime: 2026-02-03 00:05:35
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'https://stream.aiir.com/ubrzdpuap28vv'
+    codec: AAC
+  - url: 'https://stream-15.aiir.com/hls/8dprqqdsdskuv/hECfmBMzRuSWhDs1v_Fmzw/live.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 47
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://streaming.slam.nl/slam_aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://stream.slam.nl/slam'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

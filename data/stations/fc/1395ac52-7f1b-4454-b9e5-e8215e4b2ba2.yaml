@@ -21,6 +21,16 @@ hls: true
 lastcheckok: true
 lastchangetime: 2026-01-15 07:52:50
 clickcount: 0
+curation: 0.35
+streams:
+  - url: 'https://live.accessmedia.nz/PlanetFM.stream_aac/playlist.m3u8'
+    codec: AAC
+    bitrate: 150
+    hls: true
+  - url: 'https://live.accessmedia.nz/PlanetFM.stream/playlist.m3u8'
+    codec: MP3
+    bitrate: 134
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: community

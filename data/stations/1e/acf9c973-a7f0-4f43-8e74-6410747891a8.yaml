@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:52:51
 clickcount: 0
 geo_lat: -27.366607001162617
 geo_long: -70.33214449882509
+curation: -0.05
+streams:
+  - url: 'https://unlimited11-cl.dps.live/nostalgica/aac/icecast.audio'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://unlimited5-us.dps.live/nostalgica/aac/icecast.audio'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

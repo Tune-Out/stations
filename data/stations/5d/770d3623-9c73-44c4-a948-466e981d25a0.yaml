@@ -23,6 +23,14 @@ lastchangetime: 2026-03-19 11:32:02
 clickcount: 1
 geo_lat: 57.91191974334646
 geo_long: 59.988278614924525
+curation: -0.05
+streams:
+  - url: 'http://online.ekoradio.ru/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://online.ekoradio.ru/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

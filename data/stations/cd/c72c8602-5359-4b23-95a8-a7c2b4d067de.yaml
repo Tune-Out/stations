@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:16:50
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

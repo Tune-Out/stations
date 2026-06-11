@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:28:27
 clickcount: 33
 geo_lat: 59.32715197400692
 geo_long: 18.015351891517643
+curation: -0.05
+streams:
+  - url: 'https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp'
+    codec: AAC+
+    bitrate: 56
+  - url: 'https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

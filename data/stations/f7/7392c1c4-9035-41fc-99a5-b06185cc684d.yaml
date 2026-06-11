@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 00:38:37
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://79.111.14.76:8000/dreampop.m3u'
+    url_resolved: 'http://79.111.14.76:8000/dreampop'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.14.76:8002/dreampop'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

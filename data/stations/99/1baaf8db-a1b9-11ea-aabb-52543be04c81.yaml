@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://pool.anison.fm:9000/AniSonFM(320)'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://pool.anison.fm:9000/AniSonFM(320)?'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

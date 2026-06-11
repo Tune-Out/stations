@@ -23,6 +23,16 @@ lastchangetime: 2026-05-23 13:37:43
 clickcount: 0
 geo_lat: 40.96965934987048
 geo_long: 28.965454101562504
+curation: -0.05
+streams:
+  - url: 'https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8'
+    codec: AAC
+    bitrate: 278
+    hls: true
+  - url: 'https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8'
+    codec: AAC
+    bitrate: 277
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

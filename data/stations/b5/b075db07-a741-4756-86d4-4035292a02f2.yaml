@@ -25,6 +25,17 @@ lastchangetime: 2026-01-15 01:46:18
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?aw_0_1st.playerId=redirect'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.joe.nl/joe/mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

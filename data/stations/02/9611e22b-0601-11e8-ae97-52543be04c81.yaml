@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 06:50:59
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.trendyradio.pl:8000/h'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://trendyradio.pl/actions/get_stream/h.pls'
+    url_resolved: 'http://stream.trendyradio.pl:8000/h'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: commercial

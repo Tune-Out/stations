@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://91.121.104.139:9280/;stream.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://nr7.newradio.it:19350/stream'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

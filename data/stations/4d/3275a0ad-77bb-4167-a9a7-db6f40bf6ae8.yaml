@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 06:50:58
 clickcount: 1
 geo_lat: 51.596181403886305
 geo_long: 0.087890625
+curation: 0.20
+streams:
+  - url: 'http://ads-direct.sharp-stream.com/1458.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://ads-direct.sharp-stream.com/1458.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

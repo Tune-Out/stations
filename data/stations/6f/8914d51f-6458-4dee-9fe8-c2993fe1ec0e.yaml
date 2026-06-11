@@ -22,6 +22,14 @@ lastchangetime: 2026-02-24 12:04:34
 clickcount: 0
 geo_lat: -29.673437122428915
 geo_long: -53.14086914062501
+curation: 0.20
+streams:
+  - url: 'https://grenal.audiostream.com.br:20000/aac?1771934582309'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://grenal.audiostream.com.br:20000/aac'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

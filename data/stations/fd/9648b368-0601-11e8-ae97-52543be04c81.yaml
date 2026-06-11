@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://streams.deltaradio.de/hiphop/aac-64/radiosure/'
+    codec: AAC
+  - url: 'http://streams.deltaradio.de/hiphop/mp3-192/radiosure/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

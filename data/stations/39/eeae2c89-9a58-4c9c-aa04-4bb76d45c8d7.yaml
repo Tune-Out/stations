@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 02:58:06
 clickcount: 0
 geo_lat: 43.93819950049859
 geo_long: 15.443944931030275
+curation: 0.60
+streams:
+  - url: 'https://c2.hostingcentar.com/streams/bnm-rock/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://c2.hostingcentar.com/streams/bnm-off-air/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://c2.hostingcentar.com/streams/bnm-chill/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://c2.hostingcentar.com/streams/bnm-pop/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

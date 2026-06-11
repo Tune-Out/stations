@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 07:59:11
 clickcount: 6
 geo_lat: 63.45111535916165
 geo_long: 10.382981300354006
+curation: 0.75
+streams:
+  - url: 'https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h'
+    codec: AAC+
+    bitrate: 159
+  - url: 'https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h'
+    codec: AAC+
+    bitrate: 158
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

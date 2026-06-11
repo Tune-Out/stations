@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://cast1.my-control-panel.com/proxy/radiomattoli/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cast1.my-control-panel.com/proxy/radiomattoli/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

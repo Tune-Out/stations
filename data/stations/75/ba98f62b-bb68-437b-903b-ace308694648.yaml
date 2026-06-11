@@ -20,6 +20,14 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 02:41:59
 clickcount: 0
+curation: 0.30
+streams:
+  - url: 'https://ice10.securenetsystems.net/WCON'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://ice10.securenetsystems.net/WCON'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

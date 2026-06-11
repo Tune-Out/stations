@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 06:40:25
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://alphaboys-live.streamguys1.com/alphaboys.aac'
+    codec: AAC
+    bitrate: 56
+  - url: 'http://alphaboys-live.streamguys1.com/alphaboys.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

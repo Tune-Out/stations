@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://styrialounge.out.airtime.pro/styrialounge_a'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://styrialounge.out.airtime.pro:8000/styrialounge_a'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

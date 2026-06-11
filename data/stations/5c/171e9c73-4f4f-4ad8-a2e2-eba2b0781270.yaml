@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 06:17:50
 clickcount: 1
 geo_lat: 51.468351943372085
 geo_long: 6.810150146484375
+curation: 0.65
+streams:
+  - url: 'http://noxx-simulcast.cast.addradio.de/noxx/simulcast/mp3/high'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.lokalradio.nrw/4459jmc'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

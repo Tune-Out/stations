@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 16
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://streams.fluxfm.de/technoug/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-technounderground-aacplus-64-7295680?sABC=69689prn%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768463594'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/technoug/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=69687sp6%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768456134'
+    codec: MP3
+  - url: 'https://fluxmusic.api.radiosphere.io/channels/techno-underground/stream.mp3?quality=1'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

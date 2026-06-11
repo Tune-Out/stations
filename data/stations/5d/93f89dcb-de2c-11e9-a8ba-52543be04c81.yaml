@@ -19,6 +19,13 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.rtlradio.de/rtl-de-national/aac-64'
+    codec: AAC
+  - url: 'http://www.surfmusik.de/m3u/station/rtl-deutschlands-hit-radio,18339.m3u'
+    url_resolved: 'https://stream.rtlradio.de/rtl-de-national/mp3-128/surfmusikDE/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

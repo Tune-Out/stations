@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 05:32:00
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://79.120.39.202:8004/gangstarap'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://213.141.131.10:8004/frenchrap'
+    codec: AAC+
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial

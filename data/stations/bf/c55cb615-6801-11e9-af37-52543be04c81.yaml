@@ -24,6 +24,17 @@ lastchangetime: 2026-01-15 01:05:28
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://dreamsiteradiocp2.com:8042/stream'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://dreamsiteradiocp4.com:8054/stream'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://dreamsiteradiocp4.com:8052/stream'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

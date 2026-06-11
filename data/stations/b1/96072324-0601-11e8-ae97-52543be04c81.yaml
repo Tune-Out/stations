@@ -3,7 +3,7 @@ name: Raadio Tallinn
 url: http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
 url_resolved: http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
 homepage: http://raadiotallinn.err.ee/
-favicon: ""
+favicon: https://s.err.ee/www/images/favicon/R-TLN_Favicon@2x.png?3003
 tags: []
 country: Estonia
 countrycode: EE
@@ -21,6 +21,12 @@ lastchangetime: 2026-01-15 01:18:04
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3'
+    codec: MP3
+  - url: 'http://icecast.err.ee/raadiotallinn.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

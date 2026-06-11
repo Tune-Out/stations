@@ -3,7 +3,7 @@ name: Venice Classic Radio
 url: https://uk2.streamingpulse.com/ssl/vcr1
 url_resolved: https://uk2.streamingpulse.com/ssl/vcr1
 homepage: https://www.veniceclassicradio.eu/
-favicon: ""
+favicon: https://veniceclassicradio.eu/wp-content/uploads/2026/05/cropped-logo_VCR-MAIN-_square-white-1-180x180.png
 tags:
   - classical
 country: Italy
@@ -24,6 +24,17 @@ lastchangetime: 2026-01-15 02:07:59
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://uk2.streamingpulse.com/ssl/vcr1'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://116.202.241.212:8020/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://116.202.241.212:8020/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

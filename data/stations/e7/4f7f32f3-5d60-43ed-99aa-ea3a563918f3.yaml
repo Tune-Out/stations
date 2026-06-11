@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://bonneville.cdnstream1.com/2699_48.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://bonneville.cdnstream1.com/2699_48.aac?aw_0_1st.playerid=Tuner&newListeningSessionID=658c86850078d62d_39374685_ogA0dE7B_MjE2LjIzNS44MC43Njo4MA%21%21_000000CVqR9'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

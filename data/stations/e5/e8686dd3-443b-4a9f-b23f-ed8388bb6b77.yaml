@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://uksouth.streaming.broadcast.radio:10290/wrs?_=443217'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://uksouth.streaming.broadcast.radio:10290/wrs'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://uksouth.streaming.broadcast.radio:10290/wrs?_=540910'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

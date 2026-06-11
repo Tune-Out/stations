@@ -25,6 +25,15 @@ lastchangetime: 2026-01-15 08:02:56
 clickcount: 0
 geo_lat: 53.57646503859918
 geo_long: 9.991121292114258
+curation: 0.50
+duplicate_of: 9639c07d-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3?1728425407515&aggregator=web'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

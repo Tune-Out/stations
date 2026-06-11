@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 03:34:17
 clickcount: 30
 geo_lat: 47.22567909950305
 geo_long: 8.816989660263063
+curation: -0.10
+streams:
+  - url: 'https://mp3.radio.ch/radiozuerisee256k'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://mp3.radio.ch/radiozuerisee256k'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

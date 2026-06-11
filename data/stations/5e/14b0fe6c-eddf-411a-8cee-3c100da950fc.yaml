@@ -3,7 +3,7 @@ name: Radio Caprice - Drum 'n' Bass [2]
 url: http://79.111.14.76:8000/drumbass
 url_resolved: http://79.111.14.76:8000/drumbass
 homepage: http://radcap.ru/drumbass.html
-favicon: ""
+favicon: http://radcap.ru/apple-touch-icon.png
 tags:
   - drum-and-bass
   - electronic
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://79.111.14.76:8000/drumbass'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.14.76:8002/drumbass'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial

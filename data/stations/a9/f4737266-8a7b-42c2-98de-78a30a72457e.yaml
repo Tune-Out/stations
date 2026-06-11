@@ -3,7 +3,7 @@ name: Otvoreni Radio - Chill
 url: https://stream.otvoreni.hr/chill
 url_resolved: https://stream.otvoreni.hr/chill
 homepage: https://www.otvoreni.hr/
-favicon: ""
+favicon: https://www.otvoreni.hr/favicon.svg
 tags:
   - chillout
 country: Croatia
@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 01:02:30
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.otvoreni.hr/chill'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://stream.otvoreni.hr/love'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://stream.otvoreni.hr/fitness'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://stream.otvoreni.hr/chill'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://uk7.internet-radio.com/proxy/242radio?mp=/stream&1740815149872'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://uk7.internet-radio.com/proxy/242radio?mp=/stream&1705137844878'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://uk7.internet-radio.com:8168/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

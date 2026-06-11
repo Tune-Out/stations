@@ -23,6 +23,15 @@ lastchangetime: 2026-02-12 18:39:42
 clickcount: 1
 geo_lat: 44.59833728136361
 geo_long: 10.815610885620115
+curation: -0.05
+streams:
+  - url: 'http://108.59.9.147:8584/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://us5new.listen2myradio.com:2199/tunein/xemvzdoa.pls'
+    url_resolved: 'http://108.59.9.147:8584/stream'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

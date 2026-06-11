@@ -22,6 +22,28 @@ lastchangetime: 2026-01-15 00:51:12
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://master.letio.com/io/?gs=9156&type=master.m3u8'
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true
+  - url: 'https://master.letio.com/io/?gs=9102&type=live.mp3'
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true
+  - url: 'https://master.letio.com/io/?gs=5048'
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true
+  - url: 'https://master.letio.com/io/?gs=9104&type=live.m3u8'
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true
+  - url: 'https://master.letio.com/io/?gs=9100&type=master.m3u8'
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

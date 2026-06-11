@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 07:56:58
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

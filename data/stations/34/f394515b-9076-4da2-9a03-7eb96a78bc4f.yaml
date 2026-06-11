@@ -23,6 +23,18 @@ lastchangetime: 2026-01-15 04:06:00
 clickcount: 2
 geo_lat: 47.26550246447786
 geo_long: 11.401091516017916
+curation: -0.05
+streams:
+  - url: 'http://stream.liferadio.tirol/live/aac-256/SHQ'
+    codec: AAC
+  - url: 'https://stream.liferadio.tirol/live/mp3-192/link'
+    codec: MP3
+  - url: 'https://stream.liferadio.tirol/malle/mp3-192/link'
+    codec: MP3
+  - url: 'https://stream.liferadio.tirol/MUONLY/mp3-192/link'
+    codec: MP3
+  - url: 'https://stream.liferadio.tirol/schlager/mp3-192/link'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

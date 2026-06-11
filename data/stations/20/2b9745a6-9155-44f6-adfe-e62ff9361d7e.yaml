@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 23:54:34
 clickcount: 2
 geo_lat: 57.14637512806643
 geo_long: -2.0956420898437504
+curation: -0.05
+streams:
+  - url: 'https://listen-original.sharp-stream.com/original106.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://listen-original.sharp-stream.com/original106.mp3?midroll=true&_=666031'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

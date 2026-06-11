@@ -3,7 +3,7 @@ name: my105 - Ritmo Latino
 url: http://stream01.my105.ch/my105ritmolatino.mp3
 url_resolved: http://stream01.my105.ch/my105ritmolatino.mp3
 homepage: http://www.my105.ch/ritmolatino
-favicon: ""
+favicon: http://www.my105.ch/typo3conf/ext/ep_template_my105/Resources/Public/Images/Favicons/apple-touch-icon.png
 tags:
   - latin
 country: Switzerland
@@ -22,6 +22,56 @@ lastchangetime: 2026-01-15 07:01:02
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://stream01.my105.ch/my105ritmolatino.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105mashup.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105deep.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105chill.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105dance.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105party.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105rock.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105love.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105allthehits.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105dreist.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105djnights.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105original.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105thebattle.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105deluxe.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105fresh.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.my105.ch/my105charts.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

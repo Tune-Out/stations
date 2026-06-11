@@ -3,7 +3,7 @@ name: Superfly FM
 url: http://stream01.superfly.fm:8080/live128
 url_resolved: http://stream01.superfly.fm:8080/live128
 homepage: http://www.superfly.fm/
-favicon: ""
+favicon: http://superfly.fm/templates/superfly/favicon.ico
 tags: []
 country: Austria
 countrycode: AT
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 04:12:35
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream01.superfly.fm:8080/live128'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream01.superfly.fm:8080/live128?.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

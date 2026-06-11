@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 04:21:20
 clickcount: 0
 geo_lat: 51.88258752618721
 geo_long: 0.9074020385742188
+curation: 0.40
+streams:
+  - url: 'https://yellowtealpurple.net/radio/stream'
+    codec: OGG
+    bitrate: 80000
+  - url: 'http://yellowtealpurple.net:8000/stream'
+    codec: OGG
+    bitrate: 80000
 research:
   reviewed_at: 2026-06-10
   nature: community

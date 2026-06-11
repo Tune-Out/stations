@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://www.rockantenne.de/webradio/channels/coversongs.aac.pls'
+    url_resolved: 'http://stream.rockantenne.de/coversongs.aac'
+    codec: AAC
+  - url: 'https://stream.rockantenne.de/coversongs/stream/aacp'
+    codec: AAC
+  - url: 'http://www.rockantenne.de/webradio/channels/coversongs.m3u'
+    url_resolved: 'http://stream.rockantenne.de/coversongs'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

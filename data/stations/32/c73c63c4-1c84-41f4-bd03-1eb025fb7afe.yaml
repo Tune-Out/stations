@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:36:02
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://dieneuewelle-90er.cast.addradio.de/dieneuewelle/90er/mp3/high'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://dieneuewelle.cast.addradio.de/dieneuewelle/simulcast/high/stream.mp3?ar-distributor=f0b7'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

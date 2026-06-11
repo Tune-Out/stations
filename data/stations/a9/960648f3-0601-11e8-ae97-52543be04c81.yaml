@@ -3,7 +3,7 @@ name: IP music slow (128 kbps AAC)
 url: http://live7.avf.ch:8000/ipmusicslowaacp128
 url_resolved: http://live7.avf.ch:8000/ipmusicslowaacp128
 homepage: http://www.ipmusicslow.ch/
-favicon: ""
+favicon: https://www.ipmusicslow.ch/images/ipmusicslow-icon-57px.png
 tags:
   - pop
 country: Switzerland
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:50:58
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://live7.avf.ch:8000/ipmusicslowaacp128'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://live7.avf.ch:8000/ipmusicslowaacp96'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

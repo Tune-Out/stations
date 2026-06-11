@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 15
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://streams.radiomast.io/radioblues-flac'
+    codec: OGG
+    bitrate: 1500
+  - url: 'https://streams.radiomast.io/radioblues-flac'
+    codec: OGG
+    bitrate: 1500
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

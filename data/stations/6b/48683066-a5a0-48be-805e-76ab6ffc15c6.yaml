@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 00:40:59
 clickcount: 1
 geo_lat: 53.687911696522576
 geo_long: -1.5767741203308108
+curation: 0.35
+streams:
+  - url: 'https://securestreams2.autopo.st:1234/stream#.mp3?1702339792481'
+    codec: MP3
+    bitrate: 160
+  - url: 'https://securestreams2.autopo.st:1234/stream#.mp3'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: community

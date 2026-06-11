@@ -23,6 +23,51 @@ lastchangetime: 2026-01-14 23:51:16
 clickcount: 69
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://mp3.ffh.de/radioffh/hqlivestream.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://mp3.ffh.de/radioffh/hqlivestream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.ffh.de/ffhchannels/hqspezial1.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.ffh.de/ffhchannels/hqvoting.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.ffh.de/ffhchannels/mp3/hqlounge.m3u'
+    url_resolved: 'http://mp3.ffh.de/ffhchannels/hqlounge.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.ffh.de/ffhchannels/hqrock.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://mp3.ffh.de/radioffh/hqlivestream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.ffh.de/ffhchannels/hqspezial.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.ffh.de/ffhchannels/mp3/hqschlager.m3u'
+    url_resolved: 'http://mp3.ffh.de/ffhchannels/hqschlager.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.ffh.de/ffhchannels/hqtop40.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3.ffh.de/ffhchannels/hq80er.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.ffh.de/ffhchannels/mp3/hqeurodance.m3u'
+    url_resolved: 'http://mp3.ffh.de/ffhchannels/hqeurodance.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.ffh.de/ffhchannels/mp3/hqdeutsch.m3u'
+    url_resolved: 'http://mp3.ffh.de/ffhchannels/hqdeutsch.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

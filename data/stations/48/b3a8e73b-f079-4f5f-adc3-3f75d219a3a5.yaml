@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://eu1.reliastream.com/proxy/mdr?mp=/MDR'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.jump.bg/proxy/predp?mp=/MDR'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

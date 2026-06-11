@@ -21,6 +21,14 @@ lastchangetime: 2026-05-26 09:00:34
 clickcount: 1
 geo_lat: 27.93163074083401
 geo_long: -82.32055664062501
+curation: -0.05
+streams:
+  - url: 'https://server7.servistreaming.com/proxy/radiohoy?mp=/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://server7.servistreaming.com:10006/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

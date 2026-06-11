@@ -21,6 +21,23 @@ lastchangetime: 2026-01-15 00:00:55
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://mp3.planetradio.de/planetradio/livestream.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://streams.planetradio.de/plrchannels/mp3/hqnightwax.m3u'
+    url_resolved: 'http://mp3.planetradio.de/plrchannels/hqnightwax.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.planetradio.de/plrchannels/mp3/hqblackbeats.m3u'
+    url_resolved: 'http://mp3.planetradio.de/plrchannels/hqblackbeats.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.planetradio.de/planetradio/mp3/livestream.m3u'
+    url_resolved: 'http://mp3.planetradio.de/planetradio/livestream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -54,33 +54,59 @@ export async function renderStation(route: Route, mount: HTMLElement): Promise<v
   if (sum) text.appendChild(el('p', { class: 'lede', text: sum }));
 
   const actions = el('div', { class: 'station-actions' });
-  const playBtn = el('button', { class: 'btn btn-primary station-play' });
-  const playLabel = el('span', { class: 'station-play-label', text: t('station.play') });
-  const playSpinner = el('span', { class: 'btn-spinner', attrs: { 'aria-hidden': 'true' } });
-  playSpinner.style.display = 'none';
-  playBtn.appendChild(playSpinner);
-  playBtn.appendChild(playLabel);
-  playBtn.addEventListener('click', () => {
-    if (playBtn.hasAttribute('disabled')) return;
-    play(refFromRow(row, l));
+  // One Play button per stream variant. Single-stream stations get just
+  // "Play"; multi-stream stations get "Play 320k MP3 / 128k AAC / HLS"-style
+  // labels so users can pick a codec/bitrate that suits their connection
+  // or device. The first stream is the preferred one (sorted in build-data
+  // by codec rank + bitrate DESC) and gets btn-primary styling; alternatives
+  // are btn-ghost.
+  const streams = row.streams && row.streams.length
+    ? row.streams
+    : [{ url: row.url ?? '', codec: row.codec ?? undefined, bitrate: row.bitrate ?? undefined, hls: !!row.hls }];
+
+  /** "Play 320k MP3" / "Play HLS AAC" / "Play" depending on what we know. */
+  function buildLabel(s: { codec?: string; bitrate?: number; hls?: boolean; label?: string }): string {
+    if (s.label) return `${t('station.play')} ${s.label}`;
+    const parts: string[] = [];
+    if (s.hls) parts.push('HLS');
+    if (s.bitrate && s.bitrate > 0) parts.push(`${s.bitrate}k`);
+    if (s.codec) parts.push(s.codec);
+    return parts.length ? `${t('station.play')} ${parts.join(' ')}` : t('station.play');
+  }
+
+  streams.forEach((stream, i) => {
+    if (!stream.url) return;
+    const isPrimary = i === 0;
+    const btn = el('button', {
+      class: `btn ${isPrimary ? 'btn-primary' : 'btn-ghost'} station-play`,
+    });
+    const playLabel = el('span', { class: 'station-play-label', text: buildLabel(stream) });
+    const playSpinner = el('span', { class: 'btn-spinner', attrs: { 'aria-hidden': 'true' } });
+    playSpinner.style.display = 'none';
+    btn.appendChild(playSpinner);
+    btn.appendChild(playLabel);
+    btn.addEventListener('click', () => {
+      if (btn.hasAttribute('disabled')) return;
+      // Override the ref's URL with the chosen stream variant.
+      const ref = refFromRow(row, l);
+      play({ ...ref, url: stream.url });
+    });
+    // React to global player status — but only mark *this* button as active
+    // when both the station AND this exact stream URL match.
+    effect(() => {
+      const s = playerStatus.get();
+      const cur = current.get();
+      const isCurrent = cur?.uuid === row.uuid && cur?.url === stream.url;
+      const connecting = isCurrent && s === 'connecting';
+      playSpinner.style.display = connecting ? 'inline-block' : 'none';
+      btn.toggleAttribute('disabled', connecting);
+      btn.setAttribute('aria-busy', String(connecting));
+      if (isCurrent && s === 'playing') playLabel.textContent = t('station.pause');
+      else if (connecting)              playLabel.textContent = t('player.connecting');
+      else                              playLabel.textContent = buildLabel(stream);
+    });
+    actions.appendChild(btn);
   });
-  // React to the global player status — show spinner + disable while
-  // connecting, but only when *this* row is the currently-active station.
-  // Otherwise the spinner would show on every station page whenever any
-  // other station is connecting.
-  effect(() => {
-    const s = playerStatus.get();
-    const cur = current.get();
-    const isCurrent = cur?.uuid === row.uuid;
-    const connecting = isCurrent && s === 'connecting';
-    playSpinner.style.display = connecting ? 'inline-block' : 'none';
-    playBtn.toggleAttribute('disabled', connecting);
-    playBtn.setAttribute('aria-busy', String(connecting));
-    if (isCurrent && s === 'playing') playLabel.textContent = t('station.pause');
-    else if (connecting)              playLabel.textContent = t('player.connecting');
-    else                              playLabel.textContent = t('station.play');
-  });
-  actions.appendChild(playBtn);
 
   // Error message lives next to the actions row — but only for *this* row.
   const errBox = el('p', { class: 'station-error', attrs: { role: 'status' } });

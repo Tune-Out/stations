@@ -25,6 +25,31 @@ lastchangetime: 2026-01-15 08:10:11
 clickcount: 11
 geo_lat: 52.270868647379494
 geo_long: 10.530069055853795
+curation: 0.50
+streams:
+  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_bs.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndr1niedersachsen/braunschweig/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_lg.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndr1niedersachsen/lueneburg/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3?1728424471708&aggregator=web'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr1niedersachsen_ol.m3u'
+    url_resolved: 'https://icecast.ndr.de/ndr/ndr1niedersachsen/oldenburg/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_ol.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndr1niedersachsen/oldenburg/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

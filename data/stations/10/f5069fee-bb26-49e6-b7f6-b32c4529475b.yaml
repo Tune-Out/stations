@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 1
 geo_lat: 43.3101903843356
 geo_long: 21.882019042968754
+curation: -0.05
+streams:
+  - url: 'https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radioinnis-naxinacional.streaming.rs:8622/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

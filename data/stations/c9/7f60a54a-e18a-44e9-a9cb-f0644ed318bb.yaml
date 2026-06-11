@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:30:19
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://mediacp.32bit.gr:8002/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://sp1.32bit.gr/8002/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

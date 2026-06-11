@@ -3,7 +3,7 @@ name: Radio Jackie (HiEnd)
 url: http://media.radiojackie.com:5873/
 url_resolved: http://media.radiojackie.com:5873/
 homepage: http://www.radiojackie.com/
-favicon: ""
+favicon: https://radiojackie.com/wp-content/uploads/2021/12/cropped-favicon-1-180x180.jpg
 tags:
   - oldies
   - pop
@@ -24,6 +24,23 @@ lastchangetime: 2026-01-15 06:11:46
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://media.radiojackie.com:5873/'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://media.radiojackie.com:11278/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://media.radiojackie.com:11289/'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://media.radiojackie.com:11209/'
+    codec: AAC+
+    bitrate: 12
+  - url: 'http://media.radiojackie.com:12614/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,14 @@ lastchangetime: 2026-05-01 10:07:49
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.hostbee.nl:7029/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://83.87.109.251:8012/listen'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community

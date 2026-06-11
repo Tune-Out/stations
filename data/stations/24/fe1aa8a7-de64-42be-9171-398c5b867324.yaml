@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 0
 geo_lat: 43.8376026681663
 geo_long: 4.360105013092489
+curation: 0.35
+streams:
+  - url: 'http://stream.rtsfm.com/rts-nimes'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://str0.creacast.com/rts-nimes'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

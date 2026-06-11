@@ -22,6 +22,14 @@ lastchangetime: 2026-01-20 20:44:56
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://stm7.xradios.com.br:6888/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stm7.xradios.com.br:6888/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

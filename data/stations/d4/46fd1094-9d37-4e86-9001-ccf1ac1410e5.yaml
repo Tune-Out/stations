@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 02:01:25
 clickcount: 0
 geo_lat: 16.868659774369785
 geo_long: -99.89387887676168
+curation: -0.05
+streams:
+  - url: 'https://ss1.audiorama.com.mx:6608/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ss1.audiorama.com.mx:6608/super'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

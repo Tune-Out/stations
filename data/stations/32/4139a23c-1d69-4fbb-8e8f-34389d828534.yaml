@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:01:43
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'http://185.119.89.63:8000/;'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://live.radioskay.com/;*.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

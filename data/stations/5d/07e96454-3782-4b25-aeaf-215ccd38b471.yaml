@@ -22,6 +22,22 @@ lastchangetime: 2026-01-15 02:01:25
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.srg-ssr.ch/m/drs4news/aacp_96'
+    codec: AAC
+    bitrate: 88
+  - url: 'http://stream.srg-ssr.ch/drs3/aacp_96.ram'
+    url_resolved: 'http://stream.srg-ssr.ch/srgssr/srf3/aac/96'
+    codec: AAC
+    bitrate: 88
+  - url: 'https://stream.srg-ssr.ch/m/drs4news/aacp_32'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://stream.srg-ssr.ch/drs4news/aacp_32.m3u'
+    url_resolved: 'http://stream.srg-ssr.ch/srgssr/srf4news/aac/48'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

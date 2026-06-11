@@ -21,6 +21,17 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://hydra.cdnstream.com/1535_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://hydra.cdnstream.com/1532_backup'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://hydra.cdnstream.com/1525_128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

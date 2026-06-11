@@ -24,6 +24,16 @@ lastchangetime: 2026-01-20 19:43:44
 clickcount: 0
 geo_lat: 26.095080623367004
 geo_long: -98.2711172103882
+curation: -0.05
+streams:
+  - url: 'https://live.amperwave.net/manifest/rcomm-xhavofmaac-hlsc4.m3u8?source=v7player'
+    codec: AAC+
+    bitrate: 64
+    hls: true
+  - url: 'https://live.amperwave.net/manifest/rcomm-xhavofmaac-hlsc4.m3u8?source=v7player&user-id=ecee90d54151'
+    codec: AAC+
+    bitrate: 64
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

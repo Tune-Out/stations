@@ -3,7 +3,7 @@ name: JOY 94.9 Out Loud Proud
 url: http://audio.joy.org.au/stream/joy949.pls?mp=/live
 url_resolved: http://audio.joy.org.au/proxy/joy949/live
 homepage: http://www.joy.org.au/
-favicon: ""
+favicon: https://joy.org.au/wp-content/uploads/2023/04/faviconBlackSqJOY.png
 tags:
   - community-radio
 country: Australia
@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 00:29:52
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://audio.joy.org.au/stream/joy949.pls?mp=/live'
+    url_resolved: 'http://audio.joy.org.au/proxy/joy949/live'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://stream.joy.org.au/proxy/joy949?mp=/live'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 01:41:29
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream12.iloveradio.de/iloveradio12-aac.mp3'
+    url_resolved: 'http://ilm.stream35.radiohost.de/ilm_ilovehitshistory_aac-48?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQ4Mzc1JmQ9MzhjYjk4N2RhZDZlYmE4NmNjNzQ'
+    codec: AAC+
+    bitrate: 95
+  - url: 'http://stream01.iloveradio.de/iloveradio12.mp3'
+    url_resolved: 'http://ilm.stream18.radiohost.de/ilm_ilovehitshistory_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQxNDg1JmQ9NTBjYWEzMzM5YWJiYzAxNDI3YmY'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

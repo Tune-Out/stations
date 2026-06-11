@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 08:16:49
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://mediagw.e-tiger.net/stream/zc06?ver=887687'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://mediagw.e-tiger.net/stream/zc06'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 5
 geo_lat: -27.593281336439976
 geo_long: -48.55693101882935
+curation: 0.20
+streams:
+  - url: 'http://199.233.234.34:25373/stream2'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://centova.svdns.com.br:19373/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

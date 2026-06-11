@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://wdr-1live-planb.icecast.wdr.de/wdr/1live/planb/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://wdr-1live-specials.icecast.wdr.de/wdr/1live/specials/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

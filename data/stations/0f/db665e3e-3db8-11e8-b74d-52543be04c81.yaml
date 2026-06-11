@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://193.33.170.218:8000/RoyalLounge'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://193.33.170.218:8000/RoyalLounge'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

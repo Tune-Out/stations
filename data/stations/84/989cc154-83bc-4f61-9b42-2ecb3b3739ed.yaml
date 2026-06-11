@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://edge1.radyotvonline.net/shoutcast/play/radyoviva'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

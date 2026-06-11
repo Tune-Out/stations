@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:39:33
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.lokalradio.nrw/444z6tb'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radioberg--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/radioberg/live/mp3/high?ar-distributor=ffa0&_art=dj0yJmlwPTIxMi4xODcuMjQ0LjgmaWQ9aWNzY3hsLWlxaGZhc2ltYiZ0PTE3MTA5NDMyNzQmcz03ODY2ZjI5YyNiODQwNGVlMjlkMDhmMGM4MDMzYTM0ZjM1YWZlZTFjOA'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

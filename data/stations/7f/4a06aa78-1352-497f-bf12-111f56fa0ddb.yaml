@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://eco.onestreaming.com:8316/stream?type=http&nocache=22964'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://eco.onestreaming.com:8316/stream?type=http&nocache=55775'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

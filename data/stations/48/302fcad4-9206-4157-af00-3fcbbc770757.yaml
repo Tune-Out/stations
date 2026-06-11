@@ -3,7 +3,7 @@ name: BBN Spanish
 url: https://streams.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 url_resolved: https://streams.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 homepage: https://bbn1.bbnradio.org/spanish/escuche-bbn/
-favicon: ""
+favicon: https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2017/01/bbnfavicon32x32.png
 tags:
   - religious
 country: The United States Of America
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:45:49
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://streams.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://streams.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f'
+    codec: AAC
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: religious

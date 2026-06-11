@@ -3,7 +3,7 @@ name: Maxi France
 url: http://stream.maxifrance.fr:8358/stream
 url_resolved: http://stream.maxifrance.fr:8358/stream
 homepage: https://www.maxifrance.radio/
-favicon: ""
+favicon: https://www.maxifrance.radio/favicon.ico
 tags: []
 country: France
 countrycode: FR
@@ -21,6 +21,17 @@ lastchangetime: 2026-01-14 23:52:39
 clickcount: 2
 geo_lat: 45.53405545455976
 geo_long: 4.746093750000001
+curation: -0.05
+streams:
+  - url: 'https://stream.maxifrance.radio/stream2'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://stream.maxifrance.fr:8358/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://sr3.publicssl.net/srv/8358/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

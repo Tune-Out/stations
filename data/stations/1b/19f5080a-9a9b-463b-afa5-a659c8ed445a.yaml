@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 42.83380727170145
 geo_long: 25.307006835937504
+curation: -0.05
+streams:
+  - url: 'http://185.20.88.1:8010/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.bumerangfm.net/BumerangFM.m3u'
+    url_resolved: 'http://185.20.88.1:8010/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

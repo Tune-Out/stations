@@ -3,7 +3,7 @@ name: Original Stereo 90.7 FM
 url: http://rosetta.shoutca.st:8931/;
 url_resolved: http://rosetta.shoutca.st:8931/;
 homepage: https://originalstereo.net/
-favicon: ""
+favicon: https://www.originalstereo.net/wp-content/uploads/2024/06/cropped-original_512-180x180.png
 tags:
   - cumbia
   - latin
@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 06:17:50
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://rosetta.shoutca.st:8931/;'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://original.radioca.st/;'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

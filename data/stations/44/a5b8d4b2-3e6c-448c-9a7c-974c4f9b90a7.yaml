@@ -28,6 +28,14 @@ lastchangetime: 2026-01-14 23:20:09
 clickcount: 0
 geo_lat: 51.37998104730557
 geo_long: 12.420448958873749
+curation: 0.35
+streams:
+  - url: 'http://stream0.datenkollektiv.net/rfk'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://streaming.fueralle.org/rfk'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community

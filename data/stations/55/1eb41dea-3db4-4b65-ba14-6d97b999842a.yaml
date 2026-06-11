@@ -3,7 +3,7 @@ name: WeHouseRadio
 url: https://stream.wehouseradio.com/stream/1/
 url_resolved: https://icecast9.play.cz/zun192.mp3
 homepage: https://www.wehouseradio.com/
-favicon: ""
+favicon: https://zunradio.cz/media/templates/site/website/images/apple-touch-icon.png
 tags:
   - house
   - disco
@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 04:36:25
 clickcount: 23
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://stream.wehouseradio.com/stream/3/'
+    url_resolved: 'https://icecast9.play.cz/zun48.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://stream.wehouseradio.com/stream/1/'
+    url_resolved: 'https://icecast9.play.cz/zun192.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

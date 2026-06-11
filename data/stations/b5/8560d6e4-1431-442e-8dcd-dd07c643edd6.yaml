@@ -21,6 +21,16 @@ lastchangetime: 2026-01-14 23:57:38
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://orf-live-oe1.mdn.ors.at/out/u/oe1/q4a/manifest.m3u8'
+    codec: AAC
+    bitrate: 323
+    hls: true
+  - url: 'https://orf-live-oe1.mdn.ors.at/out/u/oe1/q3a/manifest.m3u8'
+    codec: AAC
+    bitrate: 145
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

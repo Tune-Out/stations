@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 07:28:39
 clickcount: 0
 geo_lat: 38.858871188491314
 geo_long: -104.96131896972658
+curation: -0.05
+streams:
+  - url: 'http://ice6.securenetsystems.net/KRDO'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice6.securenetsystems.net/KRDO'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

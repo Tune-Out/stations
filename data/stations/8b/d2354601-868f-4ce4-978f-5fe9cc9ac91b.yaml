@@ -19,6 +19,14 @@ lastchangetime: 2026-04-25 13:54:24
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://live.cityradio.id/cr-mandarin.ogg'
+    codec: OGG
+    bitrate: 96
+  - url: 'https://digital.cityradio.id/;'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial

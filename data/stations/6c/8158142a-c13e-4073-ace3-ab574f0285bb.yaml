@@ -3,7 +3,7 @@ name: Radio România Actualități
 url: https://stream4.srr.ro:8443/romania-actualitati
 url_resolved: https://stream4.srr.ro:8443/romania-actualitati
 homepage: https://www.romania-actualitati.ro/
-favicon: ""
+favicon: https://www.romania-actualitati.ro/templates/favicon/apple-touch-icon.png
 tags:
   - news
   - pop
@@ -23,6 +23,8 @@ lastchangetime: 2026-01-15 07:51:28
 clickcount: 5
 geo_lat: 44.4411952555077
 geo_long: 26.08449093508433
+curation: 0.55
+duplicate_of: a11eaf83-9f07-4fad-9b1f-d7b6ee57ab85
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

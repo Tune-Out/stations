@@ -23,6 +23,15 @@ lastchangetime: 2026-02-02 03:43:16
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://sa46.scastream.com.au/live/chill-electronic.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 63
+    hls: true
+  - url: 'http://wz0liw.scahw.com.au/live/chill-electronic.stream/playlist.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

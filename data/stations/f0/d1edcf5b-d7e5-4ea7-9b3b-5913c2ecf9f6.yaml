@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 10
 geo_lat: 49.23696885978908
 geo_long: 6.976318359375001
+curation: 0.50
+streams:
+  - url: 'https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3?aggregator=custom1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

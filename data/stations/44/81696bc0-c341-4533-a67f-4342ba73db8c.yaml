@@ -19,6 +19,14 @@ lastchangetime: 2026-02-05 05:09:04
 clickcount: 1
 geo_lat: 47.60315376826435
 geo_long: -122.3280419626876
+curation: 0.65
+streams:
+  - url: 'https://knkx-live-a.edge.audiocdn.com/6285_128k?aw_0_1st.playerid=knkx.org'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://knkx-live-a.edge.audiocdn.com/6285_128k?aw_0_1st.playerid=jazz24.org&uuid=2kjxxims'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

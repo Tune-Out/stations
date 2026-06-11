@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:01:25
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

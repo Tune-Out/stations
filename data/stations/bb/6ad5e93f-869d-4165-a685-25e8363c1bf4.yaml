@@ -3,7 +3,7 @@ name: Radio Planeta Costa del Sol
 url: https://radioplaneta.emitironline.com/radio
 url_resolved: https://radioplaneta.emitironline.com/radio
 homepage: https://www.radioplaneta.com/
-favicon: ""
+favicon: https://www.radioplaneta.com/icons/Icon-192.png
 tags:
   - dance
   - house
@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 02:12:25
 clickcount: 15
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://radioplaneta.emitironline.com/radio'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://radioplaneta.emitironline.com/radio'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

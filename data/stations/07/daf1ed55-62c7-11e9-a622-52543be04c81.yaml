@@ -3,7 +3,7 @@ name: France Musique
 url: http://direct.francemusique.fr/live/francemusique-hifi.aac?ID=radiofrance
 url_resolved: http://direct.francemusique.fr/live/francemusique-hifi.aac?ID=radiofrance
 homepage: http://www.francemusique.fr/
-favicon: ""
+favicon: https://www.radiofrance.fr/external/favicons/francemusique/favicon.png
 tags:
   - classical
   - jazz
@@ -24,6 +24,8 @@ lastchangetime: 2026-01-14 23:41:04
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.55
+duplicate_of: 81440088-0a76-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

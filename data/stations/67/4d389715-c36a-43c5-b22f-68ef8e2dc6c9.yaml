@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: -34.98320291340548
 geo_long: -71.23535156250001
+curation: -0.05
+streams:
+  - url: 'http://radio.mediadev.cl:8090/rtl_curico'
+    codec: AAC+
+    bitrate: 56
+  - url: 'https://radio.mediadev.cl/radio/8070/rtlcurico'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

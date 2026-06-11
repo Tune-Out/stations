@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 07:31:29
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.laut.fm/antenne-ingolstadt.asx'
+    url_resolved: 'https://antenne-ingolstadt.stream.laut.fm/antenne-ingolstadt?pl=asx&t302=2026-01-15_07-29-38&uuid=5fb6bb5d-9a64-4909-b375-5d0d341fc746'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.laut.fm/antenne-ingolstadt.pls'
+    url_resolved: 'https://antenne-ingolstadt.stream.laut.fm/antenne-ingolstadt?pl=pls&t302=2026-01-15_04-48-08&uuid=ad4eb176-30bf-471c-90dc-38fc9088c2c5'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

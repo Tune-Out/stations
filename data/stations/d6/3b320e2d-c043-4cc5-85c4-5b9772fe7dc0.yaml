@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://live.stream.maxfive.com/max5-joelive'
+    url_resolved: 'https://edge85.stream.maxfive.com/max5-joelive'
+    codec: AAC
+  - url: 'https://live.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage'
+    url_resolved: 'https://edge80.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage'
+    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial

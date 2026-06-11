@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 1
 geo_lat: 38.01292650154897
 geo_long: 23.825925617493343
+curation: 0.55
+streams:
+  - url: 'http://radiostreaming.ert.gr/ert-trito'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://radiostreaming.ert.gr/ert-trito'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 07:04:47
 clickcount: 0
 geo_lat: 19.701244806421247
 geo_long: -103.46421718597414
+curation: -0.05
+streams:
+  - url: 'https://cast.zuperdns.net/9510/stream'
+    codec: MP3
+    bitrate: 80
+  - url: 'https://cast.zuperdns.net/9510/stream/'
+    codec: MP3
+    bitrate: 40
 research:
   reviewed_at: 2026-06-09
   nature: commercial

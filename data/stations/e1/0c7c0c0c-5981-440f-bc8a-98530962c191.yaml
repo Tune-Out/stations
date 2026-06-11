@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 05:11:51
 clickcount: 8
 geo_lat: 50.46100111599232
 geo_long: 7.910156250000001
+curation: 0.25
+streams:
+  - url: 'https://stream.0nlineradio.com/vivaldi'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.0nlineradio.com/vivaldi'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

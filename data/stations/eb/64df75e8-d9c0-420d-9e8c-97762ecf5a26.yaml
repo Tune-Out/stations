@@ -3,7 +3,7 @@ name: metalrock.fm
 url: http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
 url_resolved: http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
 homepage: http://www.metalrock.fm/
-favicon: ""
+favicon: http://www.metalrock.fm/favicon.ico
 tags:
   - classical
   - hard-rock
@@ -25,6 +25,15 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'https://kathy.torontocast.com:2790/blrxiuzl/2/wmp.asx'
+    url_resolved: 'https://kathy.torontocast.com:1485/stream'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

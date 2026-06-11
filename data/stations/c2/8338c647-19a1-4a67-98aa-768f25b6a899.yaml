@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 03:08:34
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+duplicate_of: 603a1f71-33b4-4c0d-93b3-d53a793dc3fa
+streams:
+  - url: 'https://stream1.cprnetwork.org/cpr3_lo'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://stream1.cprnetwork.org/cpr3_lo'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

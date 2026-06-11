@@ -23,6 +23,16 @@ lastchangetime: 2026-01-14 23:49:40
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://playerservices.streamtheworld.com/m3u/ROCK_AND_POPAAC.m3u'
+    url_resolved: 'http://14073.live.streamtheworld.com/ROCK_AND_POPAAC_SC'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://provisioning.streamtheworld.com/pls/ROCK_AND_POP.pls'
+    url_resolved: 'http://24443.live.streamtheworld.com:3690/ROCK_AND_POP_SC'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

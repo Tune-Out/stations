@@ -19,6 +19,12 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/'
+    codec: MP3
+  - url: 'https://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

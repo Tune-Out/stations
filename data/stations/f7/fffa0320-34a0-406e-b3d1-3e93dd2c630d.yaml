@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:49:44
 clickcount: 1
 geo_lat: 37.983733365212416
 geo_long: 23.72833748609992
+curation: -0.05
+streams:
+  - url: 'https://netradio.live24.gr/athensdeejay'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://netradio.live24.gr/athensdeejay'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

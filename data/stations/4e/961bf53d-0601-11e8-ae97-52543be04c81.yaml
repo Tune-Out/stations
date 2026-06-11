@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://www.abc.net.au/res/streaming/audio/mp3/local_goldcoast.pls'
+    url_resolved: 'http://abc.streamguys1.com/live/localgoldcoast/icecast.audio'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://live-radio01.mediahubaustralia.com/4GLDW/aac/'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

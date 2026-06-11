@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:39:23
 clickcount: 0
 geo_lat: 43.35393980452141
 geo_long: -4.048413634300233
+curation: 0.35
+streams:
+  - url: 'https://radiobot.radioslibres.info/radio/8030/radio.ogg'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://radiobot.radioslibres.info/radio/8030/radio.ogg?_=1'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community

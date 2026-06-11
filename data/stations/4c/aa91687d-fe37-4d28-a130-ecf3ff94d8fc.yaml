@@ -19,6 +19,12 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://streams.80s80s.de/wave/aac-64'
+    codec: AAC
+  - url: 'https://regiocast.streamabc.net/regc-80s80swave1065742-mp3-192-3582815?sABC=650ss5q2%231%236q8n52711s704so491o30387q873oo7q%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1695544786&cb=805383115&listenerid=6d8a52711f704fb491b30387d873bb7d&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1695544786'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

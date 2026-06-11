@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:44:14
 clickcount: 0
 geo_lat: 25.535626369555185
 geo_long: -103.46666336059572
+curation: 0.20
+streams:
+  - url: 'http://s22.myradiostream.com:9504/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://s22.myradiostream.com:9504/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

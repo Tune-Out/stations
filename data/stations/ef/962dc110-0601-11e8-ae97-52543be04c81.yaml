@@ -3,7 +3,7 @@ name: 80s80s
 url: http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/
 url_resolved: http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/
 homepage: http://80s80s.de/
-favicon: ""
+favicon: https://upload.80s80s.de/production/static/1780918105584/icons/icon_512.ewwAEi8A30w.png
 tags:
   - 80s
 country: Germany
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:42:14
 clickcount: 73
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/'
+    codec: MP3
+  - url: 'http://streams.80s80s.de/livemusic/mp3-192/streams.80s80s.de/'
+    codec: MP3
+  - url: 'http://regiocast.streamabc.net/regc-80s80slivemusic6529239-mp3-192-4931649?sABC=6548sop2%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699281858'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

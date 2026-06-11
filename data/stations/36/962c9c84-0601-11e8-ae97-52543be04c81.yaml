@@ -3,7 +3,7 @@ name: 24/7 Polka Heaven
 url: http://192.99.83.149:8046/
 url_resolved: http://192.99.83.149:8046/
 homepage: http://www.247polkaheaven.com/
-favicon: ""
+favicon: https://247polkaheaven.com/wp-content/uploads/2026/05/Music-Note-2.png
 tags: []
 country: The United States Of America
 countrycode: US
@@ -21,6 +21,21 @@ lastchangetime: 2026-01-15 01:09:32
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://192.99.83.149:8046/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://192.99.83.149:8046/stream?type=http&nocache=80369'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://192.99.83.149:8046/stream/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s3.nexuscast.com/tunein.php/rayzalokar/playlist.pls'
+    url_resolved: 'http://192.99.83.149:8046/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

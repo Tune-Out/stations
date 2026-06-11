@@ -3,7 +3,7 @@ name: La Grosse Radio Métal
 url: http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
 url_resolved: http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
 homepage: http://www.lagrosseradio.com/
-favicon: ""
+favicon: https://cdn1.lagrosseradio.com/wp-content/uploads/2025/03/LGR-carre-1.png
 tags:
   - metal
 country: France
@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 07:04:00
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3?'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -3,7 +3,7 @@ name: ABC Classic 2 Stream (AAC)
 url: http://live-radio01.mediahubaustralia.com/FM2W/aac/
 url_resolved: http://live-radio01.mediahubaustralia.com/FM2W/aac/
 homepage: https://radio.abc.net.au/stations/classic2/live
-favicon: ""
+favicon: https://www.abc.net.au/core-assets/classic/touchicon-classic.png
 tags:
   - classical
   - public-radio
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 00:00:55
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://live-radio01.mediahubaustralia.com/FM2W/aac/'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://live-radio01.mediahubaustralia.com/FM2W/mp3/'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

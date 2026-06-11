@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 00:29:53
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://5.9.2.139:8000/any-anime.ru'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://radionami.com/play_radio.m3u?11822'
+    url_resolved: 'http://5.9.2.139:8000/any-anime.ru'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: community

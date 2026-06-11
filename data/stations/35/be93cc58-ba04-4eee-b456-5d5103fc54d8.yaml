@@ -22,6 +22,34 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://airtime.dclm.org/radio/8070/hausa'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://studio.dclm.org/radio/8145/efik'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://airtime.dclm.org/radio/8110/portuguese'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://studio.dclm.org/radio/8125/ebira'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://studio.dclm.org/radio/8135/twi'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://airtime.dclm.org/radio/8000/live'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://airtime.dclm.org/radio/8140/ewe'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://airtime.dclm.org/radio/8060/yoruba'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://studio.dclm.org/listen/urhobo/urhobo'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: religious

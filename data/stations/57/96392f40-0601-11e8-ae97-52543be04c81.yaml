@@ -3,7 +3,7 @@ name: talkSPORT 2
 url: http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;
 url_resolved: http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;
 homepage: http://talksport.com/
-favicon: ""
+favicon: https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvdGFsa3Nwb3J0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNlwvMDNcL3RhbGtTUE9SVC1GYXZpY29uLnBuZz9zdHJpcD1hbGwiLCJ0eHQiOiJ0YWxrU1BPUlQiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTQ3NjI1MzE2fQ.CLY3kPg0Vxl-oe4NQL9IwWPqKXTF4u9yFpyq7Txq6YIMQ
 tags:
   - sports
 country: The United Kingdom Of Great Britain And Northern Ireland
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:58:18
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radio.talksport.com/stream2'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

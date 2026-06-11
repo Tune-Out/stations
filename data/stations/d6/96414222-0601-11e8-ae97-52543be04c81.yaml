@@ -3,7 +3,7 @@ name: NRJ Sweden
 url: http://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3
 url_resolved: http://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3
 homepage: http://www.nrj.se/
-favicon: ""
+favicon: https://radioplay.se/tesla/static/favicons/radioplay-se/apple-touch-icon.png
 tags:
   - top-40
 country: Sweden
@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 01:58:28
 clickcount: 19
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tx-bauerse.sharp-stream.com/http_live.php?i=mixmegapolgbg_instream_se_mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=mixmegapol_instream_se_mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

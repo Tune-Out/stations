@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 200
 geo_lat: 48.85273757048368
 geo_long: 2.2784185409545903
+curation: 0.50
+streams:
+  - url: 'https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8?id=radiofrance'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

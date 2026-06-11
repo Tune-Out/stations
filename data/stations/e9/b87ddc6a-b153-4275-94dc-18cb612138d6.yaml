@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 07:25:32
 clickcount: 13
 geo_lat: 51.51017744729552
 geo_long: -0.12907326221466067
+curation: 0.25
+streams:
+  - url: 'http://media-ice.musicradio.com/RadioX90sMP3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://media-ice.musicradio.com/RadioX90sMP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

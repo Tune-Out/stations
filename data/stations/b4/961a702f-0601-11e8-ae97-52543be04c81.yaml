@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 08:24:53
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://ice03.fluidstream.net/mjr.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://ice03.fluidstream.net/mjr.aac?FLID=1'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://ice16.fluidstream.net/mjr.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

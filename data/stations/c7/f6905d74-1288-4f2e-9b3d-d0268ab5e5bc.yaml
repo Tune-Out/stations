@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:25:53
 clickcount: 1
 geo_lat: -37.05315902987156
 geo_long: 146.0890587625724
+curation: 0.50
+streams:
+  - url: 'https://c7.radioboss.fm:18291/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://c7.radioboss.fm:18291/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

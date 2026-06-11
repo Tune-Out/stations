@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:18:30
 clickcount: 0
 geo_lat: 55.7912747079624
 geo_long: 37.48793452978135
+curation: 0.55
+streams:
+  - url: 'https://nashe1.hostingradio.ru/jazz-256'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://nashe1.hostingradio.ru/jazz-256'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

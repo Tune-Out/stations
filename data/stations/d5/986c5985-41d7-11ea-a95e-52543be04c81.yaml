@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:02:42
 clickcount: 217
 geo_lat: null
 geo_long: null
+curation: 0.10
+streams:
+  - url: 'http://shoutcast.radio24.it:8000/'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://shoutcast2.radio24.it:8000/;'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

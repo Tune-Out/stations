@@ -3,7 +3,7 @@ name: Big B Radio亚洲音乐台
 url: https://antares.dribbcast.com/proxy/apop?mp=/s
 url_resolved: https://antares.dribbcast.com/proxy/apop?mp=/s
 homepage: https://bigbradio.net/
-favicon: ""
+favicon: https://bigbradio.net/sites/default/files/favicon.ico
 tags:
   - pop
   - rock
@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://antares.dribbcast.com/proxy/apop?mp=/s'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://antares.dribbcast.com/proxy/apop?mp=/s?'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

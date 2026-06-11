@@ -3,7 +3,7 @@ name: Emisoras Unidas 91.1 FM
 url: https://stream.zeno.fm/0zashcvc9zquv
 url_resolved: https://stream.zeno.fm/0zashcvc9zquv
 homepage: https://emisorasunidas.com/
-favicon: ""
+favicon: https://emisorasunidas.com/apple-touch-icon.png
 tags:
   - sports
   - news
@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 03:38:05
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.zeno.fm/0zashcvc9zquv'
+    codec: MP3
+  - url: 'https://stream.zeno.fm/3tfg0vng9ueuv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

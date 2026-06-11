@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://streaming.klcbsofficial.com/public/klcbs/playlist.pls'
+    url_resolved: 'https://streaming.klcbs.id/listen/klcbs/klcbsfm-hd'
+    codec: AAC
+    bitrate: 80
+  - url: 'https://streaming.klcbsofficial.com/listen/klcbs/klcbs'
+    codec: AAC
+    bitrate: 80
 research:
   reviewed_at: 2026-06-10
   nature: commercial

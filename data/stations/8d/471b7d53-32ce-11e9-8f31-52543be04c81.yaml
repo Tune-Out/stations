@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:18:44
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/moscowfm128?v=1550419566950'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/moscowfm128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: state media

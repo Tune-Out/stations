@@ -3,7 +3,7 @@ name: Radio Študent
 url: http://kruljo.radiostudent.si:8000/hiq.m3u
 url_resolved: http://kruljo.radiostudent.si:8000/hiq
 homepage: http://radiostudent.si/
-favicon: ""
+favicon: https://radiostudent.si/sites/default/files/favicon_3.ico
 tags:
   - culture
 country: Slovenia
@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 02:18:30
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://kruljo.radiostudent.si:8000/hiq.m3u'
+    url_resolved: 'http://kruljo.radiostudent.si:8000/hiq'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://kruljo.radiostudent.si:8000/loq.m3u'
+    url_resolved: 'http://kruljo.radiostudent.si:8000/loq'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

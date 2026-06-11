@@ -21,6 +21,15 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: 40.785114
 geo_long: -124.183922
+curation: 0.60
+duplicate_of: 9617a958-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'https://stream.radioparadise.com/aac-64'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://stream.radioparadise.com/aac-64'
+    codec: AAC
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

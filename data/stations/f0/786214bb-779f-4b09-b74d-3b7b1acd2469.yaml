@@ -23,6 +23,18 @@ lastchangetime: 2026-05-24 16:32:40
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://relay1.swissgroove.ch/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://swissgroove.ch/listen.php'
+    url_resolved: 'http://relay2.swissgroove.ch/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://158.69.74.203/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:39:51
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.u2radio.com:9998/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://eu2.fastcast4u.com/proxy/exitinte?mp=/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

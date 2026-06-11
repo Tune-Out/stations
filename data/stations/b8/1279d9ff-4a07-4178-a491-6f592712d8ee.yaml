@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 01:42:49
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://213.141.131.10:8004/electrotechno'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://213.141.131.10:8000/electrotechno'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://213.141.131.10:8002/electrotechno'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial

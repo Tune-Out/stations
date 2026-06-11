@@ -3,7 +3,7 @@ name: 60 North Radio - FLAC
 url: http://r5.zetcast.net/flac
 url_resolved: http://r5.zetcast.net/flac
 homepage: https://60north.radio/
-favicon: ""
+favicon: https://60north.radio/wp-content/uploads/2025/06/cropped-60n-radio-app-icon-600x600-1-1-180x180.png
 tags: []
 country: The United Kingdom Of Great Britain And Northern Ireland
 countrycode: GB
@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://r5.zetcast.net/flac'
+    codec: OGG
+    bitrate: 1411
+  - url: 'https://cdn1.zetcast.net/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community

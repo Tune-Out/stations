@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://server7.streamserver24.com:61454/stream'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://rockliveradio.de/sendeplan/player/play.php?p=4&dl=c2VydmVyNy5zdHJlYW1zZXJ2ZXIyNC5jb206Mjg4MTMvP3NpZD0='
+    url_resolved: 'http://server7.streamserver24.com:28813/?sid='
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: commercial

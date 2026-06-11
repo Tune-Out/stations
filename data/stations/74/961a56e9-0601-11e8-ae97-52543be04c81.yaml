@@ -3,7 +3,7 @@ name: Polskie Radio 24
 url: http://stream3.polskieradio.pl:8080/;.mp3
 url_resolved: http://stream3.polskieradio.pl:8080/;.mp3
 homepage: http://www.polskieradio.pl/130,PR24
-favicon: ""
+favicon: https://polskieradio24.pl/favicon.ico
 tags:
   - news
   - public-radio
@@ -23,6 +23,7 @@ lastchangetime: 2026-01-15 05:36:39
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.60
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

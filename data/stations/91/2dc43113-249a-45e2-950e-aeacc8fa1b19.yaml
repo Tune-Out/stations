@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 2
 geo_lat: 48.977738299859816
 geo_long: 2.3291015625000004
+curation: 0.20
+streams:
+  - url: 'https://radio2.vip-radios.fm:18084/stream-AAC-BlackCorvette'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://radio2.vip-radios.fm:18084/stream-mp3-BlackCorvette'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

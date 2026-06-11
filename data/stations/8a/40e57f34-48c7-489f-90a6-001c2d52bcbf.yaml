@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 05:14:22
 clickcount: 5
 geo_lat: 25.543954002065476
 geo_long: -103.4099292755127
+curation: -0.10
+streams:
+  - url: 'https://cento02.mipanelradio.com/proxy/adomin02?mp=/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://cento02.mipanelradio.com/proxy/adomin02'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

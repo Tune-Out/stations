@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 06:11:46
 clickcount: 1
 geo_lat: 59.33307271491387
 geo_long: 18.072509765625004
+curation: 0.40
+streams:
+  - url: 'https://s2.radio.co/sfbf5f5b85/listen'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://s2.radio.co/sfbf5f5b85/listen'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 5
 geo_lat: -33.9171527400826
 geo_long: 151.22680596970193
+curation: 0.35
+streams:
+  - url: 'https://live-radio01.mediahubaustralia.com/2RNW/mp3/'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://live-radio01.mediahubaustralia.com/2RNW/mp3/'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

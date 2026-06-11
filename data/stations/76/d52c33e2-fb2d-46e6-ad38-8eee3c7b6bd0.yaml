@@ -24,6 +24,15 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 3
 geo_lat: 65.01121065330118
 geo_long: 25.47135399771738
+curation: -0.05
+streams:
+  - url: 'https://s3.myradiostream.com/4976/listen.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://s3.myradiostream.com:4976/listen.pls'
+    url_resolved: 'http://s3.myradiostream.com:4976/;'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

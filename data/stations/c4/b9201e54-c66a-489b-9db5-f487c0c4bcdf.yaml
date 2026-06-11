@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 00:18:06
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://stream.realhardstyle.nl/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://realhardstyle.nl/data/streams/realhardstyleradio.pls'
+    url_resolved: 'http://server-23.stream-server.nl:8326/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

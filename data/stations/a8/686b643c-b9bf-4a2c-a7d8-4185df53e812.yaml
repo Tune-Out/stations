@@ -31,6 +31,14 @@ lastchangetime: 2026-01-15 04:06:37
 clickcount: 1
 geo_lat: 55.00944136897088
 geo_long: 82.94332992344634
+curation: 0.25
+streams:
+  - url: 'https://stream.rtfm.fm/aac256'
+    codec: AAC
+    bitrate: 256
+  - url: 'http://stream.rtfm.fm/aac256'
+    codec: AAC
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: commercial

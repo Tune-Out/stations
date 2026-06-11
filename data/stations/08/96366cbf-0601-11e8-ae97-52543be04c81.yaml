@@ -3,7 +3,7 @@ name: NDR 1 Niedersachsen (OS)
 url: http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_os.m3u
 url_resolved: http://icecast.ndr.de/ndr/ndr1niedersachsen/osnabrueck/mp3/128/stream.mp3
 homepage: http://www.ndr1niedersachsen.de/
-favicon: ""
+favicon: https://www.ndr.de:443/resources/assets/resources/images/favicon/favicon.ico
 tags:
   - oldies
 country: Germany
@@ -22,6 +22,7 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.50
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

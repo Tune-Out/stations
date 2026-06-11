@@ -3,7 +3,7 @@ name: Русское Радио Moscow
 url: https://rusradio.hostingradio.ru/rusradio96.aacp
 url_resolved: https://rusradio.hostingradio.ru/rusradio96.aacp
 homepage: https://rusradio.ru/
-favicon: ""
+favicon: https://rusradio.ru/apple-icon.png?cdc4099e9b48f995
 tags:
   - pop
 country: The Russian Federation
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:43:13
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://rusradio.hostingradio.ru/rusradio96.aacp'
+    codec: AAC
+  - url: 'http://rusradio.hostingradio.ru/rusradio96.aacp'
+    codec: AAC
+  - url: 'https://rusradio.hostingradio.ru/rusradio96.aacp?0.11717062738654982'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

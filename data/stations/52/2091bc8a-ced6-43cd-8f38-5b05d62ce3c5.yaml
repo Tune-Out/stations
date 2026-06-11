@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://play-radio0.jump.bg:7049/live'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://streams.badrockradio.net/hard-heavy'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

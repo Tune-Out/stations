@@ -3,7 +3,7 @@ name: Retro-Radio Millennium
 url: http://tx-2.retro-radio.dk/TX-2
 url_resolved: http://tx-2.retro-radio.dk/TX-2
 homepage: https://www.retro-radio.dk/
-favicon: ""
+favicon: https://retro-radio.dk/wp-content/uploads/2023/03/favicon-retroradio.png
 tags:
   - retro
 country: Denmark
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://tx-2.retro-radio.dk/TX-2'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://tx-2.retro-radio.dk/TX-2'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

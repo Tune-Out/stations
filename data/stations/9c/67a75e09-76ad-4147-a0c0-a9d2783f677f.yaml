@@ -20,6 +20,15 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+duplicate_of: e906b683-06cf-42bd-b765-55d950af29c0
+streams:
+  - url: 'http://stream.techno.fm/radio1-320k.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://stream.techno.fm/radio1-320k.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

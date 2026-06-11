@@ -3,7 +3,7 @@ name: Rai Radio 2
 url: http://icestreaming.rai.it/2.mp3
 url_resolved: http://icestreaming.rai.it/2.mp3
 homepage: http://www.radio2.rai.it/
-favicon: ""
+favicon: https://www.raiplaysound.it/assets/img/icons/apple/apple-touch-icon.png
 tags:
   - public-radio
 country: Italy
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:15:03
 clickcount: 68
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://icestreaming.rai.it/2.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://icestreaming.rai.it/2.mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

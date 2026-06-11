@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:45:49
 clickcount: 1
 geo_lat: 51.48394120334771
 geo_long: 11.970049738883974
+curation: -0.05
+streams:
+  - url: 'https://stream.89.0rtl.de/live/mp3-256/'
+    codec: MP3
+  - url: 'https://stream.89.0rtl.de/live/mp3-256'
+    codec: MP3
+  - url: 'http://stream.89.0rtl.de/live/mp3-256/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

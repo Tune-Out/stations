@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 03:00:48
 clickcount: 18
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://radionz-ice.streamguys.com/National_aac128'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://radionz-ice.streamguys.com/national.mp3'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

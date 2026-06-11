@@ -19,6 +19,12 @@ lastchangetime: 2026-05-06 11:58:47
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://stream05.pcradio.ru/blue_system-med'
+    codec: AAC
+  - url: 'https://stream05.pcradio.ru/Modern_Talking-hi'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

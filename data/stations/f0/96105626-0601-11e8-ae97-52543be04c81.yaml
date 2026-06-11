@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://centova.radio.com.pt:8499/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://centova.radios.pt/proxy/499?mp=/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

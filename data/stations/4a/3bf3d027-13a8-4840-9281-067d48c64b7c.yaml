@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: -5.818862220069892
 geo_long: -35.20980834960938
+curation: 0.35
+streams:
+  - url: 'https://cidadedosolaac.jmvstream.com/stream?1732978147095'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cidadedosolaac.jmvstream.com/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

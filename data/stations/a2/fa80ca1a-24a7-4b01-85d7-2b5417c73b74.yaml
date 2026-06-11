@@ -3,7 +3,7 @@ name: Giornale Radio Ultima Ora
 url: https://gr.fluidstream.eu/gr2.mp3
 url_resolved: https://gr.fluidstream.eu/gr2.mp3
 homepage: https://giornaleradio.fm/radio-tematiche/giornale-radio-ultima-ora.html
-favicon: ""
+favicon: https://giornaleradio.fm/wp-content/uploads/2023/03/cropped-giornale-radio-logo-2-180x180.png
 tags:
   - news
 country: Italy
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:22:41
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://gr.fluidstream.eu/gr2.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://gr.fluidstream.eu/gr2.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

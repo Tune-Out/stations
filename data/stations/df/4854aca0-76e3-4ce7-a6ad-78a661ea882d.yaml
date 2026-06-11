@@ -19,6 +19,15 @@ lastchangetime: 2026-06-05 21:22:08
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://foundtreasures.online/FoundTreasuresRadio.pls'
+    url_resolved: 'https://radio.foundtreasures.online/listen/found_treasures/radio.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://radio.foundtreasures.online/listen/found_treasures/radio.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: independent online radio

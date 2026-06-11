@@ -20,6 +20,15 @@ lastcheckok: true
 lastchangetime: 2026-03-18 14:49:34
 clickcount: 1
 geo_lat: null
+curation: 0.60
+streams:
+  - url: 'https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8?adap=audio&aco=aac'
+    codec: AAC
+    bitrate: 64
+    hls: true
+  - url: 'https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h?_hdr=0'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

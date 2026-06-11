@@ -3,7 +3,7 @@ name: Radio Stereocittà - HQ
 url: http://79.8.227.117:8008/1
 url_resolved: http://79.8.227.117:8008/1
 homepage: http://www.stereocitta.it/
-favicon: ""
+favicon: https://stereocitta.it/assets/uploads/2025/08/cropped-Logo-Stereocitta-favicon-180x180.jpg
 tags:
   - dance
 country: Italy
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:49:44
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://79.8.227.117:8008/1'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://onair11.xdevel.com:8134/;stream.mp3'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

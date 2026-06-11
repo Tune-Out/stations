@@ -23,6 +23,27 @@ lastchangetime: 2026-01-22 01:14:17
 clickcount: 2
 geo_lat: 51.48122258996969
 geo_long: 11.96425884962082
+curation: 0.55
+streams:
+  - url: 'https://radio-hls.mdr.de/hls/live/2112903/mdr-284310-0-hls/index.m3u8'
+    codec: AAC
+    bitrate: 102
+    hls: true
+  - url: 'https://mdr-284311-0.sslcast.mdr.de/mdr/284311/0/mp3/max/stream.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://avw.mdr.de/streams/284310-0_mp3_low.m3u'
+    url_resolved: 'http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://avw.mdr.de/streams/284310-0_mp3_high.m3u'
+    url_resolved: 'http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://avw.mdr.de/streams/284310-0_aac_high.m3u'
+    url_resolved: 'http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

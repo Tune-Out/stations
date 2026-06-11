@@ -26,6 +26,14 @@ lastchangetime: 2026-05-29 13:48:36
 clickcount: 1
 geo_lat: 47.724844782635685
 geo_long: 18.26103551264667
+curation: -0.05
+streams:
+  - url: 'https://radio.freestream.hu:8340/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://eu4.fastcast4u.com:1546/mp3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

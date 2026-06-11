@@ -22,6 +22,18 @@ lastchangetime: 2026-01-14 23:17:40
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 97ec5cf7-5423-4b76-952c-62e9e0c82762
+streams:
+  - url: 'http://radio.1055rock.gr:30000/1055'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radio.1055rock.gr:30000/1055?ver=324406'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radio.1055rock.gr:30000/1055?ver=334672'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

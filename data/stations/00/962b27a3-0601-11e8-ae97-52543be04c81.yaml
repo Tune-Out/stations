@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 01:59:15
 clickcount: 100
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://media-the.musicradio.com/SmoothEastMids'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://media-ssl.musicradio.com/SmoothSuffolk'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://media-the.musicradio.com/SmoothLondon'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

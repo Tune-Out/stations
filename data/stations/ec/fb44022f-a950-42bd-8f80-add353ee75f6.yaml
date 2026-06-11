@@ -27,6 +27,32 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://player.ffn.de/ffn.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://stream.ffn.de/peppermintfm/mp3-192/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://player.ffn.de/radioffn.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.ffn.de/ffn-gold/mp3-192'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.ffn.de/ffn-80er/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.ffn.de/neunziger/mp3-192/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.ffn.de/radiobollerwagen/mp3-192'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://ffn-stream20.radiohost.de/ffn-dance_only_mp3-192'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

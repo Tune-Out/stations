@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 02:41:59
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://neandertal-live.cast.addradio.de/neandertal/live/mp3/high?ar-distributor=ffa3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.lokalradio.nrw/444z66t'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

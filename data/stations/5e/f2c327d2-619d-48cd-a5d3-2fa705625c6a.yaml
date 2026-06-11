@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 03:48:14
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: 0.80
+streams:
+  - url: 'http://icecast.radiofrance.fr/franceinfo-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.franceinfo.fr/live/franceinfo-midfi.aac'
+    codec: AAC
+    bitrate: 96
+  - url: 'http://direct.franceinfo.fr/live/franceinfo-midfi.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

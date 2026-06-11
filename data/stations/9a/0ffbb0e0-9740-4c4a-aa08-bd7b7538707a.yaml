@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 0
 geo_lat: 33.99547913766732
 geo_long: -78.77073884010315
+curation: -0.05
+streams:
+  - url: 'https://ice24.securenetsystems.net/WVCO'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice24.securenetsystems.net/WVCO?playSessionID=1E009D1C-91CC-364D-ED1C527217927522'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

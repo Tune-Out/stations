@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1711892652042l1lq6akqk'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

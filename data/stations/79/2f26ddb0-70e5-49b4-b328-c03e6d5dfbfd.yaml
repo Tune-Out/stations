@@ -29,6 +29,14 @@ lastchangetime: 2026-02-06 09:56:48
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://s1.free-shoutcast.com/stream/18150'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s1.free-shoutcast.com:18150/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

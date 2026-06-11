@@ -24,6 +24,23 @@ lastchangetime: 2026-01-15 01:08:13
 clickcount: 15
 geo_lat: 39.61245772699915
 geo_long: -3.69140625
+curation: -0.05
+streams:
+  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3'
+    codec: MP3
+    bitrate: 56
+  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3&gdpr=0&gdpr_consent=false'
+    codec: MP3
+    bitrate: 56
+  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3'
+    codec: MP3
+    bitrate: 56
+  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es&gdpr=0&gdpr_consent=null'
+    codec: MP3
+    bitrate: 56
+  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es'
+    codec: MP3
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: commercial

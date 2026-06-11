@@ -23,6 +23,15 @@ lastchangetime: 2026-05-17 09:53:09
 clickcount: 6
 geo_lat: 50.1109
 geo_long: 8.6821
+curation: 0.50
+streams:
+  - url: 'https://hlshrinfo.akamaized.net/hls/live/2016539/hrinfo/master.m3u8'
+    codec: AAC
+    bitrate: 200
+    hls: true
+  - url: 'https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

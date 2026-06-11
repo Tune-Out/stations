@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:31:23
 clickcount: 3
 geo_lat: 44.949172385920654
 geo_long: -93.09560984373094
+curation: 0.65
+streams:
+  - url: 'https://current.stream.publicradio.org/current.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://current.stream.publicradio.org/current.aac'
+    codec: AAC+
+    bitrate: 47
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

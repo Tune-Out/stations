@@ -3,7 +3,7 @@ name: esRadio
 url: http://livestreaming.esradio.fm/stream64.mp3
 url_resolved: http://livestreaming.esradio.fm/stream64.mp3
 homepage: http://esradio.libertaddigital.com/
-favicon: ""
+favicon: https://s.libertaddigital.com/logos/esradio/256.png
 tags:
   - news
   - talk
@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 01:20:44
 clickcount: 295
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://livestreaming.esradio.fm/stream64.mp3'
+    codec: MP3
+    bitrate: 56
+  - url: 'https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3'
+    codec: MP3
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,14 @@ lastchangetime: 2026-04-20 15:27:07
 clickcount: 0
 geo_lat: 45.14460026914964
 geo_long: 24.674305915832523
+curation: -0.05
+streams:
+  - url: 'https://stream.expres.sk/128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.expres.sk/128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

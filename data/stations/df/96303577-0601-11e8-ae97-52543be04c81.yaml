@@ -23,6 +23,13 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: b8127292-018f-4a3a-a570-1ecee5d4753c
+streams:
+  - url: 'http://streams.bigfm.de/bigfm-rlp-128-aac?usid=0-0-H-A-D-01'
+    codec: AAC
+  - url: 'http://streams.bigfm.de/bigfm-rlp-128-aac'
+    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial

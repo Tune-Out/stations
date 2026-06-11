@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 04:47:12
 clickcount: 241
 geo_lat: 40.75166
 geo_long: -73.97538
+curation: 0.90
+streams:
+  - url: 'https://icecast.walmradio.com:8443/jazz_opus'
+    codec: OGG
+    bitrate: 192
+  - url: 'https://icecast.walmradio.com:8443/jazz'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

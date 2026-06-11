@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 04:24:51
 clickcount: 16
 geo_lat: 48.852627441743344
 geo_long: 2.2782683372497563
+curation: 0.65
+streams:
+  - url: 'https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

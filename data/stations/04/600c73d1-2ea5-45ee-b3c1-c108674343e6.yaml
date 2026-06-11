@@ -22,6 +22,19 @@ lastchangetime: 2026-01-15 02:44:43
 clickcount: 39
 geo_lat: 50.10366919906325
 geo_long: 8.646240234375002
+curation: 0.70
+streams:
+  - url: 'https://hlshr1.akamaized.net/hls/live/2016533/hr1/master.m3u8'
+    codec: AAC+
+    bitrate: 96
+    hls: true
+  - url: 'http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u'
+    url_resolved: 'http://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dispatcher.rndfnk.com/hr/hr1/live/mp3/high'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -3,7 +3,7 @@ name: Radio Viva Metropol
 url: http://stream.sepia.sk:8000/viva128.mp3
 url_resolved: http://stream.sepia.sk:8000/viva128.mp3
 homepage: http://www.radioviva.sk/
-favicon: ""
+favicon: https://radioviva.zoznam.sk/wp-content/themes/invelity/favicon.ico
 tags:
   - local-news
   - pop
@@ -23,6 +23,8 @@ lastchangetime: 2026-01-15 06:32:25
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 9fdb8374-aba2-4ecf-91e8-460c4761af7c
 research:
   reviewed_at: 2026-06-09
   nature: commercial

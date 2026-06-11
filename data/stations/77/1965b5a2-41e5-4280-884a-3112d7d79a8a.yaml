@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://a2.asurahosting.com:6350/radio.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://a2.asurahosting.com:6350/radio.aac'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

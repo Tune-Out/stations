@@ -20,6 +20,16 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 12
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: 'https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 96
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

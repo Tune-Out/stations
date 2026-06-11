@@ -21,6 +21,20 @@ lastchangetime: 2026-01-14 23:44:14
 clickcount: 6
 geo_lat: 45.82114340079471
 geo_long: 15.977947690679043
+curation: 0.35
+streams:
+  - url: 'https://stream.otvoreni.hr/otvoreni'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://stream2.otvoreni.hr/otvoreni'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://stream.otvoreni.hr/otvoreni'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://stream.otvoreni.hr/stream48'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: community

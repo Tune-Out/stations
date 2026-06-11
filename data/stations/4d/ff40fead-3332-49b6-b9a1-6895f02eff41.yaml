@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 1
 geo_lat: 51.77275951371717
 geo_long: 5.098857879638672
+curation: 0.35
+streams:
+  - url: 'https://server-67.stream-server.nl:8738/'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://server-67.stream-server.nl:8734/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

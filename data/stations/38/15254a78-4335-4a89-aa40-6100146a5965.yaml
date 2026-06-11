@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:51:21
 clickcount: 0
 geo_lat: 51.5422
 geo_long: 12.2608
+curation: 0.90
+streams:
+  - url: 'https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus'
+    codec: OGG
+    bitrate: 64
+  - url: 'https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus?aggregator=web'
+    codec: OGG
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

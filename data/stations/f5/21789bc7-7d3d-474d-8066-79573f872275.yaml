@@ -21,6 +21,14 @@ lastchangetime: 2026-05-24 15:18:49
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://usa10.fastcast4u.com:2690/;?type=http&nocache=1779635702'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://usa10.fastcast4u.com:2690/;?type=http&nocache=1779636223'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

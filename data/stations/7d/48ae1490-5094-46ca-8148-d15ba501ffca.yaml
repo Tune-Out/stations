@@ -23,6 +23,13 @@ lastchangetime: 2026-03-20 21:21:59
 clickcount: 2
 geo_lat: 25.22494880672017
 geo_long: 55.28995432881628
+curation: -0.05
+streams:
+  - url: 'https://drive.uber.radio/uber/starboxmotown/icecast.audio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://drive.uber.radio/uber/starboxmotown/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

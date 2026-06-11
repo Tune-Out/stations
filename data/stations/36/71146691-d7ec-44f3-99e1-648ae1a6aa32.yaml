@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:54:34
 clickcount: 1
 geo_lat: 52.102518302146024
 geo_long: 6.065901517868042
+curation: 0.35
+streams:
+  - url: 'https://server-28.stream-server.nl:8806/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://loa.beheerstream.nl:8110/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: community

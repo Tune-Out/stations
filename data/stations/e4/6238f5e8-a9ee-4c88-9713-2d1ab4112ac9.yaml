@@ -21,6 +21,18 @@ lastchangetime: 2026-01-14 23:33:22
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'https://streams.kcrw.com/e24_aac'
+    codec: AAC
+    bitrate: 256
+  - url: 'https://streams.kcrw.com/e24_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://media.kcrw.com/pls/kcrwmusic.pls'
+    url_resolved: 'https://streams.kcrw.com/e24_mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

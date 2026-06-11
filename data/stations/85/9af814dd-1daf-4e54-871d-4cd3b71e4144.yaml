@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 03:51:41
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://streams.barbaradio.de/gong-ihsport/aac-64/streams.barbaradio.de/play.m3u'
+    url_resolved: 'https://regiocast.streamabc.net/regc-barbaradioihsport6144808-aacplus-64-5747983?sABC=69689426%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.oneonenqvb.qr&aw_0_1st.playerid=streams.barbaradio.de&amsparams=playerid:streams.barbaradio.de;skey:1768461350'
+    codec: AAC
+  - url: 'https://streams.barbaradio.de/gong-ihsport/mp3-192/streams.barbaradio.de/play.pls'
+    url_resolved: 'https://regiocast.streamabc.net/regc-barbaradioihsport6144808-mp3-192-1670017?sABC=696863r1%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.oneonenqvb.qr&aw_0_1st.playerid=streams.barbaradio.de&amsparams=playerid:streams.barbaradio.de;skey:1768448993'
+    codec: MP3
+  - url: 'https://streams.barbaradio.de/gong-ihsport/mp3-192/streams.barbaradio.de/play.m3u'
+    url_resolved: 'https://regiocast.streamabc.net/regc-barbaradioihsport6144808-mp3-192-1670017?sABC=69683233%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.oneonenqvb.qr&aw_0_1st.playerid=streams.barbaradio.de&amsparams=playerid:streams.barbaradio.de;skey:1768436275'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

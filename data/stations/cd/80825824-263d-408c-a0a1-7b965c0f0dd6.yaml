@@ -29,6 +29,13 @@ lastchangetime: 2026-01-15 06:23:58
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://s4.yesstreaming.net:7011//stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.zeno.fm/kc1f62191d0uv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

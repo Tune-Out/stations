@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 03:04:28
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://listen-gbnews.sharp-stream.com/gbnews.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://listen-gbnews.sharp-stream.com/gbnews.aac'
+    codec: AAC+
+    bitrate: 127
 research:
   reviewed_at: 2026-06-09
   nature: commercial

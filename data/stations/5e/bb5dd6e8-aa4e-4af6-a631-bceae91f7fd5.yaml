@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:29:44
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream.mjm-webhosting.com.au:8040/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.tripleafm.com.au//'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

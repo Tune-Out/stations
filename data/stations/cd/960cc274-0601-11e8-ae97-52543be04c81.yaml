@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 01:44:13
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://christmas-high.rautemusik.fm/listen.pls'
+    url_resolved: 'http://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQxNzM5JmQ9NTQxYTFkYjQ2N2FmN2UxOTI2OWU'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://christmas-high.rautemusik.fm/listen.pls'
+    url_resolved: 'https://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=https&_art=dD0xNzY4NDY1NjQ0JmQ9MDBhY2Y0Mjg2ZDM2MmJjMWNmZDE'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

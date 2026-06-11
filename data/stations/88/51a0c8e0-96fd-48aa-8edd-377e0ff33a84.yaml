@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://manager7.streamradio.fr:2320/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://www.radioking.fr/play/radio-elyon'
+    url_resolved: 'http://listen.radioking.com/radio/4243/stream/12164'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

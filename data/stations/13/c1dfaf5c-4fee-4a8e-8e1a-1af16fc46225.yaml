@@ -24,6 +24,12 @@ lastchangetime: 2026-01-15 08:29:20
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.thewaveradio.de/wave-live/aac-64/'
+    codec: AAC
+  - url: 'http://stream.thewaveradio.de/wave-live/aac-64'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

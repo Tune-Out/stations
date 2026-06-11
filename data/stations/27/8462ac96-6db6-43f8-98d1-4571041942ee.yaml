@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:13:18
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://lhttp.qingting.fm/live/5022397/64k.mp3'
+    codec: MP3
+  - url: 'http://hplayer1.juyun.tv/tv/29379189.m3u8'
+    codec: UNKNOWN
+    bitrate: 2560
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media

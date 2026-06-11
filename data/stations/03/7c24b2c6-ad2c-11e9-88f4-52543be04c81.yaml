@@ -21,6 +21,18 @@ lastchangetime: 2026-01-15 04:56:18
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://streams.radioleipzig.de/slp/90er/leipzig/aac/web/playlist.m3u'
+    codec: AAC
+  - url: 'https://streams.radioleipzig.de/slp/tophits/leipzig/aac/web/playlist.m3u'
+    codec: AAC
+  - url: 'https://streams.radioleipzig.de/slp/80er/leipzig/aac/web/playlist.m3u'
+    codec: AAC
+  - url: 'http://streams.bcs-systems.de/slp/live/leipzig/mp3/web/playlist.m3u'
+    url_resolved: 'https://edge24.radio.radioleipzig.de/radioleipzig-live/stream/mp3?aggregator=smk-m3u-mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 04:59:24
 clickcount: 1
 geo_lat: 51.34247824632143
 geo_long: 5.108546018600465
+curation: -0.05
+streams:
+  - url: 'http://antares.dribbcast.com:4438/xstream?type=http&nocache=874'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://antares.dribbcast.com:2199/tunein/puurtren.pls'
+    url_resolved: 'http://centova1.dribbcast.com:4438/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

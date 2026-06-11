@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 03:27:42
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://91.121.65.189:8000/zinzine-AAC'
+    codec: AAC+
+    bitrate: 88
+  - url: 'http://91.121.65.189:8000/3'
+    codec: MP3
+    bitrate: 170
+  - url: 'http://91.121.65.189:8000/3?1731295895805'
+    codec: MP3
+    bitrate: 170
 research:
   reviewed_at: 2026-06-09
   nature: community

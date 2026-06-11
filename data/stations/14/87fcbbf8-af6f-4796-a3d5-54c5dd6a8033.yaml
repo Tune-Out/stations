@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://c13.radioboss.fm:18053/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://c13.radioboss.fm:18053/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

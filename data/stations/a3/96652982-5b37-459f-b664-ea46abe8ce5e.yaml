@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 05:54:35
 clickcount: 1
 geo_lat: 30.289448359897246
 geo_long: -97.74119049310686
+curation: 0.65
+streams:
+  - url: 'https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-web'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-free'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-free'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

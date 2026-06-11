@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 08:08:05
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://streams.egofm.de/egoFMKavka-lq'
+    url_resolved: 'https://cast.egofm.de/egofmkavka.aac?ar-distributor=ffa0&aw_0_req.gdpr=true'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://streams.egofm.de/egoFMKavka-hq'
+    url_resolved: 'https://cast.egofm.de/egofmkavka.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

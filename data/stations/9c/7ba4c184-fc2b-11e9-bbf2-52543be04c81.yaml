@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 49
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://npr-ice.streamguys1.com/live.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://npr-ice.streamguys1.com/live.mp3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

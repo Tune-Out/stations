@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 03:56:47
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://79.120.39.202:8000/mintechno'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.120.39.202:8002/mintechno'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

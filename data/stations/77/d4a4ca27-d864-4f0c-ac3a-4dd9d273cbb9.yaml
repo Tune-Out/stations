@@ -3,7 +3,7 @@ name: AXR Hong Kong
 url: http://hongkongstream.axr.online/
 url_resolved: http://hongkongstream.axr.online/
 homepage: http://axr.co/
-favicon: ""
+favicon: https://mmo.aiircdn.com/1859/6777522bbae8c.jpg
 tags:
   - news
   - sports
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 03:48:14
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://hongkongstream.axr.online/'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://hongkongstream.axr.online/'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

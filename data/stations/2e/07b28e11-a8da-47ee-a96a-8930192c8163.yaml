@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 08:05:50
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://african1paris.ice.infomaniak.ch/african1paris-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://african1paris.ice.infomaniak.ch/african1paris-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

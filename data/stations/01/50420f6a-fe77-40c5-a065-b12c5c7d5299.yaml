@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 06:37:46
 clickcount: 8
 geo_lat: 48.85259073218122
 geo_long: 2.2781905531883244
+curation: 0.65
+streams:
+  - url: 'http://icecast.radiofrance.fr/fipsacrefrancais-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.radiofrance.fr/fipsacrefrancais/fipsacrefrancais.m3u8?id=radiofrance'
+    codec: AAC
+    bitrate: 107
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

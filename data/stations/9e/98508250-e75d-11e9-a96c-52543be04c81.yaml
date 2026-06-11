@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 01:18:42
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://rs5.stream24.net/charivari-hitmix.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rs5.stream24.net/charivari-hitmix.mp3?aw_0_1st.playerid=radioplayer.de'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://rs24.stream24.net/italohits'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

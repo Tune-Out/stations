@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 05:31:14
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://5.135.183.124:8243/'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://5.135.183.124:8243/;stream/1'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

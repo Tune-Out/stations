@@ -22,6 +22,13 @@ lastchangetime: 2026-01-15 07:22:38
 clickcount: 0
 geo_lat: 50.853950428578614
 geo_long: 12.948473989963531
+curation: 0.35
+streams:
+  - url: 'http://stream0.datenkollektiv.net/radiot_256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://stream0.datenkollektiv.net/radiot_192.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community

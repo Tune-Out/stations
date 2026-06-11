@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 02:15:15
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://ice.greekstream.net/focusfm'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ice.greekstream.net/focusfm'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ice.greekstream.net/focusfm?listenerid=ec33c4dfc99a6f71e6dc23583cbc91f2&awparams=companionAds:true'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

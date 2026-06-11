@@ -3,7 +3,7 @@ name: RPR1 Best 80s
 url: https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-0
 url_resolved: https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-0
 homepage: https://www.rpr1.de/webradio/best-80s
-favicon: ""
+favicon: https://file.atsw.de/production/static/1776772464994/icons/icon_512.8O8cUwC83ch.png
 tags:
   - 80s
 country: Germany
@@ -22,6 +22,12 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-0'
+    codec: MP3
+  - url: 'https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-01'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

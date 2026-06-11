@@ -21,6 +21,23 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: 36.599542913631645
 geo_long: -121.87511960811835
+curation: 0.35
+streams:
+  - url: 'https://smoothjazz.cdnstream1.com/2586_64.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://smoothjazz.cdnstream1.com/2586_320.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://smoothjazz.cdnstream1.com/2586_256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://smoothjazz.cdnstream1.com/2586_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://smoothjazz.cdnstream1.com/2586_32.mp3'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

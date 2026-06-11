@@ -3,7 +3,7 @@ name: France Musique Classique Plus
 url: http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
 url_resolved: http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
 homepage: https://www.francemusique.fr/webradio-classique-plus
-favicon: ""
+favicon: https://www.radiofrance.fr/external/favicons/francemusique/favicon.png
 tags:
   - classical
   - public-radio
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 05:11:51
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

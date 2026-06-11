@@ -3,7 +3,7 @@ name: Ancient Faith Radio
 url: https://ancientfaith.streamguys1.com/music
 url_resolved: https://ancientfaith.streamguys1.com/music
 homepage: http://www.ancientfaith.com/
-favicon: ""
+favicon: https://www.ancientfaith.com/favicon.ico
 tags:
   - classical
   - religious
@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 00:05:50
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://ancientfaith.streamguys1.com/music'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://ancientfaith.streamguys1.com/talk'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://ancientfaith.streamguys1.com/ancientfaith3-source'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

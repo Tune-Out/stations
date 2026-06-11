@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 00:27:30
 clickcount: 1
 geo_lat: 40.785114
 geo_long: -124.183922
+curation: 0.50
+streams:
+  - url: 'http://stream.radioparadise.com/eclectic-320'
+    codec: AAC
+    bitrate: 320
+  - url: 'http://stream.radioparadise.com/eclectic-128'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://stream.radioparadise.com/eclectic-192'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

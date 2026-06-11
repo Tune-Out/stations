@@ -21,6 +21,15 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 30
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://whsh4u-panel.com/proxy/yfryujzw/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://whsh4u-panel.com/stream/yfryujzw/stream.pls'
+    url_resolved: 'https://whsh4u-panel.com/proxy/yfryujzw/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

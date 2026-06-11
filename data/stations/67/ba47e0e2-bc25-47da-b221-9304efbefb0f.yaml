@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 1
 geo_lat: 53.218574114526696
 geo_long: 5.485267639160157
+curation: 0.35
+streams:
+  - url: 'https://loa.beheerstream.nl:8092/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://radion31.beheerstream.nl:8092/'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

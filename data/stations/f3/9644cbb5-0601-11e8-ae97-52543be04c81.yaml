@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:20:51
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://79.111.119.111:9011/;'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.119.111:8002/dsbm'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

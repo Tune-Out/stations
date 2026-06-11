@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:31:29
 clickcount: 2
 geo_lat: 47.141537996380144
 geo_long: 8.420638048618187
+curation: -0.05
+streams:
+  - url: 'https://stream.streambase.ch/rcentral/mp3-192/direct/'
+    codec: MP3
+  - url: 'https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762'
+    codec: MP3
+  - url: 'https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

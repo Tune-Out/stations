@@ -28,6 +28,17 @@ lastchangetime: 2026-02-05 19:41:21
 clickcount: 1
 geo_lat: 54.419621
 geo_long: 86.30352
+curation: 0.60
+streams:
+  - url: 'https://channel_1.waveani.fun/stream'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://channel_2.waveani.fun/stream'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://channel_3.waveani.fun/stream'
+    codec: AAC
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

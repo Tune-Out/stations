@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 04:21:20
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'http://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac'
+    codec: AAC
+    bitrate: 256
+  - url: 'https://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac'
+    codec: AAC
+    bitrate: 256
+  - url: 'https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 01:53:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://178.32.111.41:8048/stream-128kmp3-TimeToRelax'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://178.32.111.41:8045/stream-128kmp3-RelaxZone'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://178.32.111.41:8039/stream-128kmp3-HealingMusic'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

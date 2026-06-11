@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'http://icecast.thisisdax.com/CapitalNottinghamshire'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://icecast.thisisdax.com/CapitalNottinghamshireMP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -20,6 +20,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: 50.73923636584491
 geo_long: 9.11245463802597
+curation: -0.05
+streams:
+  - url: 'http://mp3.harmonyfm.de/harmonyfm/livestream.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://streams.harmonyfm.de/harmonyfm/mp3/hqlivestream.m3u'
+    url_resolved: 'http://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

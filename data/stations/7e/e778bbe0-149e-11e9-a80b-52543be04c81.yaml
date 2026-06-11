@@ -23,6 +23,13 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://lhttp.qingting.fm/live/5025/64k.mp3'
+    codec: MP3
+  - url: 'http://live.zohi.tv/audio/s10001-FM944/index.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

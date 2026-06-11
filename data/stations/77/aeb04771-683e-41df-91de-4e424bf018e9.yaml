@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 00:02:06
 clickcount: 1
 geo_lat: 38.63898767457586
 geo_long: -90.23361504077911
+curation: 0.70
+streams:
+  - url: 'https://kwmu.streamguys1.com/jazz-128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://kwmu1-ice.streamguys1.com/kwmu3.m3u'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://kwmu1-ice.streamguys1.com/kwmu1.m3u'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

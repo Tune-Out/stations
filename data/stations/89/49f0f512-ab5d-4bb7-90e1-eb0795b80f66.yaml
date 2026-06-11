@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:41:04
 clickcount: 0
 geo_lat: 44.30821471913102
 geo_long: 8.479127883911135
+curation: -0.10
+streams:
+  - url: 'http://video2.azotosolutions.com:8034/source'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://94.23.67.20:8034/stream'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

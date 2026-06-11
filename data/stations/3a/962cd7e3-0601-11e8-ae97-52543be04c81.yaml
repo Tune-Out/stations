@@ -3,7 +3,7 @@ name: European Hit Radio - Dance
 url: http://stream.europeanhitradio.com:8000/Stream_24.aac
 url_resolved: http://stream.europeanhitradio.com:8000/Stream_24.aac
 homepage: http://www.ehrhiti.lv/
-favicon: ""
+favicon: https://www.ehr.fm/build/favicons/favicon.png
 tags:
   - dance
   - electronic
@@ -23,6 +23,32 @@ lastchangetime: 2026-01-15 05:51:15
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'http://stream.europeanhitradio.com:8000/Stream_24.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://stream.europeanhitradio.com:8000/Stream_12.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://stream.europeanhitradio.com:8000/Stream_23.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://stream.europeanhitradio.com:8000/Stream_21.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://stream.europeanhitradio.com:8000/ehr.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://stream.europeanhitradio.com:8000/Stream_31.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://stream.europeanhitradio.com:8000/Stream_27.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://stream.europeanhitradio.com:8000/Stream_25.aac'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

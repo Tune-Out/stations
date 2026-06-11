@@ -22,6 +22,18 @@ lastchangetime: 2026-01-15 06:04:09
 clickcount: 7
 geo_lat: 38.6786483711544
 geo_long: -9.228515625000002
+curation: 0.65
+streams:
+  - url: 'https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR'
+    codec: AAC
+    bitrate: 262
+    hls: true
+  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8'
+    codec: AAC
+    bitrate: 259
+    hls: true
+  - url: 'https://radiocast.rtp.pt/antena280a.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

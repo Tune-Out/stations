@@ -3,7 +3,7 @@ name: RMF Classic
 url: http://31.192.216.8/RMFCLASSIC48
 url_resolved: http://31.192.216.8/RMFCLASSIC48
 homepage: http://www.rmfclassic.pl/
-favicon: ""
+favicon: https://www.rmfclassic.pl/favicon.ico
 tags:
   - classical
 country: Poland
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:12:26
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://31.192.216.8/RMFCLASSIC48'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://rs9-krk2.rmfstream.pl/rmf_classic'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

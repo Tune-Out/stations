@@ -25,6 +25,14 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 134
 geo_lat: null
 geo_long: null
+curation: 0.10
+streams:
+  - url: 'https://edge.iono.fm/xice/jacarandafm_live_medium.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://edge.iono.fm/xice/jacarandafm_live_medium.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,17 @@ lastchangetime: 2026-03-24 12:42:26
 clickcount: 1
 geo_lat: 39.89175627163775
 geo_long: -4.149362730148182
+curation: 0.30
+streams:
+  - url: 'http://edge4.peta.live365.net/b05055_128mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://edge4.peta.live365.net/b05055_128mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streaming.live365.com/b05055_128mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

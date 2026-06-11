@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 00:29:52
 clickcount: 0
 geo_lat: 52.322686330320565
 geo_long: 4.897939711967508
+curation: -0.05
+streams:
+  - url: 'https://stream.radiocontinu.nl/radio-continu'
+    codec: AAC
+    bitrate: 96
+  - url: 'http://stream.radiocontinu.nl/radiocontinu'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'https://stream.n340.com/14_dacha_64?type=aac&UID=AF2C3AB947218127F59F62740712F61D'
+    codec: MP3
+    bitrate: 28
+  - url: 'https://stream2.n340.com/12_dacha_64_reg_1093?type=aac&UID=DA2EDB5FED377CC42C40E3649A0C8085'
+    codec: MP3
+    bitrate: 28
 research:
   reviewed_at: 2026-06-09
   nature: commercial

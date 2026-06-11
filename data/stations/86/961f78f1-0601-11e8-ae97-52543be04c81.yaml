@@ -3,7 +3,7 @@ name: KQED 88.5 San Francisco, CA
 url: http://streams.kqed.org/kqedradio.m3u
 url_resolved: http://streams.kqed.org/kqedradio.m3u
 homepage: http://www.kqed.org/
-favicon: ""
+favicon: https://www.kqed.org:443/favicon.ico
 tags:
   - public-radio
 country: The United States Of America
@@ -22,6 +22,7 @@ lastchangetime: 2026-01-15 02:39:23
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.70
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

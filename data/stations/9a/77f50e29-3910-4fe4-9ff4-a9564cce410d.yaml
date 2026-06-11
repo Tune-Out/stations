@@ -27,6 +27,14 @@ lastchangetime: 2026-02-23 20:03:47
 clickcount: 0
 geo_lat: 39.62343803127247
 geo_long: 19.92518663406372
+curation: -0.05
+streams:
+  - url: 'https://s3.unlimitedradiohosting.com/stream/two-thousand-on-fm'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.wt5.net/radio/8000/radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

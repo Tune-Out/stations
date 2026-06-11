@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:44:04
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://air-tunein.radioart.com/fPiano_and_guitar.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://air.radioart.com/fPiano_and_guitar.mp3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

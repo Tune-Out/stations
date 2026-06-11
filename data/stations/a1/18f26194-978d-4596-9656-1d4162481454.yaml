@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://nwm.streamguys1.com/WBGL-AAC-3'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://nwm.streamguys1.com/WBGL-AAC-1'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

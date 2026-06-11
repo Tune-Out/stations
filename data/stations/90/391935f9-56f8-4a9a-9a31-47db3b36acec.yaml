@@ -23,6 +23,14 @@ lastchangetime: 2026-03-06 18:37:25
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.audioxi.com/NOVA'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.audioxi.com/NOVA?aw_0_1st.playerid=liveradio.ie'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

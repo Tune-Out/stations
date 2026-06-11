@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 05:41:36
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://www.segenswelle.de:8000/plautdietsch-aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://www.segenswelle.de:8000/plautdietsch'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

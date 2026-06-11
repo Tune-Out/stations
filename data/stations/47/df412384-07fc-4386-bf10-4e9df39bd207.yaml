@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 04:59:24
 clickcount: 0
 geo_lat: 49.47815951818742
 geo_long: 8.422179783318253
+curation: -0.05
+streams:
+  - url: 'https://stream.rpr1.de/rock/mp3-128/radiobrowser'
+    codec: AAC
+  - url: 'http://streams.rpr1.de/rock-128-mp3'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

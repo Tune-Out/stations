@@ -3,7 +3,7 @@ name: MDR Sputnik Club
 url: http://avw.mdr.de/streams/284331-2_mp3_high.m3u
 url_resolved: http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
 homepage: http://sputnik.de/musik
-favicon: ""
+favicon: https://www.mdr.de/resources/assets/resources/images/favicon/apple-touch-icon.png
 tags:
   - dance
 country: Germany
@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 03:56:00
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://avw.mdr.de/streams/284331-2_mp3_high.m3u'
+    url_resolved: 'http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://avw.mdr.de/streams/284331-2_aac_high.m3u'
+    url_resolved: 'http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://avw.mdr.de/streams/284331-2_mp3_low.m3u'
+    url_resolved: 'http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media

@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 01:08:13
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'http://nova-nouvo.ice.infomaniak.ch/nova-nouvo-256.aac'
+    codec: AAC
+    bitrate: 256
+  - url: 'https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-256.aac'
+    codec: AAC
+    bitrate: 256
+  - url: 'https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-256.aac'
+    codec: AAC
+    bitrate: 255
+  - url: 'http://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

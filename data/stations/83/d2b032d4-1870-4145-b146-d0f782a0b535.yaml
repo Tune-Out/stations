@@ -24,6 +24,15 @@ lastchangetime: 2026-03-16 07:29:48
 clickcount: 2
 geo_lat: 37.25847889430797
 geo_long: -6.946105957031251
+curation: -0.05
+streams:
+  - url: 'https://atres-live.ondacero.es/live/delegaciones/oc/huelva/master.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: 'https://25593.live.streamtheworld.com/OC_HUELVAAAC.aac'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

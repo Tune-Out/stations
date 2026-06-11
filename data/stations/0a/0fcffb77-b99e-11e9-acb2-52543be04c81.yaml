@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 00:00:55
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://kanliveicy.media.kan.org.il/icy/749625_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://kanliveicy01.bynetcdn.com/icy/kangimmel_mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

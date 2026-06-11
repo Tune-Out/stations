@@ -22,6 +22,15 @@ lastchangetime: 2026-01-14 23:52:39
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://provisioning.streamtheworld.com/pls/KDFCFM5.pls'
+    url_resolved: 'http://18243.live.streamtheworld.com:3690/KDFCFM5_SC'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

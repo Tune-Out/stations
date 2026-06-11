@@ -3,7 +3,7 @@ name: 1.FM - Gorilla FM Radio
 url: http://strm112.1.fm/gorillafm_mobile_mp3
 url_resolved: http://strm112.1.fm/gorillafm_mobile_mp3
 homepage: http://www.1.fm/
-favicon: ""
+favicon: https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2
 tags:
   - alternative
   - indie
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 02:38:10
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://strm112.1.fm/gorillafm_mobile_mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://strm112.1.fm/gorillafm_mobile_mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

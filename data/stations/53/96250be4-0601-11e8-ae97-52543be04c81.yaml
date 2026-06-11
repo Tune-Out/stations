@@ -22,6 +22,74 @@ lastchangetime: 2026-01-15 01:52:51
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://streams.calmradio.com:7328/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:6828/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com/api/103/128/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:4528/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:16928/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:8728/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.calmradio.com:6528/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:13028/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:10228/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:4828/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:7528/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:8228/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:4628/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:21928/stream/;.m3u'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:19328/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:25028/stream/1/Calm%20Radio'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:11428/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:1028/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com/api/287/128/stream/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:14028/stream/1/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:1228/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.calmradio.com:8928/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

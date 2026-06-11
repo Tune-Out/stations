@@ -21,6 +21,12 @@ lastchangetime: 2026-01-15 06:35:43
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://streaming.exclusive.radio/uber/easyandreabocelli/icecast.audio'
+    codec: MP3
+  - url: 'http://streaming.exclusive.radio/uber/easyandreabocelli/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

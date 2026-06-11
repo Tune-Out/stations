@@ -21,6 +21,13 @@ lastchangetime: 2026-01-15 05:15:03
 clickcount: 0
 geo_lat: 44.42635631220195
 geo_long: 26.10263586044312
+curation: 0.35
+streams:
+  - url: 'https://radio-romantic.ro/stream'
+    codec: AAC
+    bitrate: 320
+  - url: 'http://stream.zeno.fm/72k4a597rs8uv'
+    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

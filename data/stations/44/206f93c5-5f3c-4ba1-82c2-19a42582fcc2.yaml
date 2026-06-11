@@ -28,6 +28,14 @@ lastchangetime: 2026-01-15 07:47:33
 clickcount: 17
 geo_lat: 48.1776994
 geo_long: 16.2877707
+curation: 1.00
+streams:
+  - url: 'https://orf-live.ors-shoutcast.at/fm4-q2a'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://orf-live.ors-shoutcast.at/fm4-q1a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

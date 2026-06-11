@@ -26,6 +26,17 @@ lastchangetime: 2026-05-17 11:46:46
 clickcount: 0
 geo_lat: 55.8708
 geo_long: 12.8302
+curation: 0.30
+streams:
+  - url: 'https://sc.dansbandsradio.se/dbr128.aac'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://sc.dansbandsradio.se/dbr64.aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://sc.dansbandsradio.se/dbr128.mp3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -3,7 +3,7 @@ name: Radio Monique 963 Gold
 url: http://www.rmgoldserver.eu:8963/
 url_resolved: http://www.rmgoldserver.eu:8963/
 homepage: http://www.radiomonique.nl/
-favicon: ""
+favicon: https://www.radiomonique.nl/apple-touch-icon.png
 tags:
   - 60s
   - 70s
@@ -24,6 +24,15 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://www.rmgoldserver.eu:8963/'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://www.radiomonique.nl/winamp_RM_192.pls'
+    url_resolved: 'https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

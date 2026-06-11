@@ -23,6 +23,14 @@ lastchangetime: 2026-04-30 15:59:00
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://meraklis.ddns.net:8545/live'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://meraklis.ddns.net:8546/live'
+    codec: OGG
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

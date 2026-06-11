@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://easyrockcebu.radioca.st/listen.pls?sid=1'
+    url_resolved: 'http://easyrockcebu.radioca.st:8219/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://easyrockcebu.radioca.st:2199/tunein/easyrockcebu-stream.pls'
+    url_resolved: 'http://proxima.shoutca.st:8219/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

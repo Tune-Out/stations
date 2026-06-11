@@ -25,6 +25,14 @@ lastchangetime: 2026-02-07 10:35:59
 clickcount: 0
 geo_lat: 44.435079143614885
 geo_long: 26.102807551626867
+curation: 0.00
+streams:
+  - url: 'http://live2.x-fm.ro:7480/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://radio1.ip4.ro:7480/'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

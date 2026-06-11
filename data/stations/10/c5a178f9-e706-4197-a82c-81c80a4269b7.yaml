@@ -19,6 +19,15 @@ lastchangetime: 2026-02-19 22:44:21
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+duplicate_of: de23e719-22a0-4f40-a47f-a943ba2d3808
+streams:
+  - url: 'https://centova.radio.com.pt/proxy/426?mp=/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://centova.radio.com.pt/proxy/426?mp=/stream;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

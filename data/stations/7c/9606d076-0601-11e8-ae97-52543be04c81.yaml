@@ -3,7 +3,7 @@ name: Радио России (Radio Russia)
 url: http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
 url_resolved: http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
 homepage: http://www.radiorus.ru/
-favicon: ""
+favicon: https://cdn.smotrim.ru/static/front/favicon/apple-touch-icon.png
 tags:
   - news
   - talk
@@ -23,6 +23,8 @@ lastchangetime: 2026-01-15 01:17:31
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.45
+duplicate_of: 3424963f-24f5-44d4-91cd-31af33c48da5
 research:
   reviewed_at: 2026-06-09
   nature: state media

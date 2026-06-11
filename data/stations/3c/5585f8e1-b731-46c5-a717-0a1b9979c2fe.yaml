@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 03:56:01
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'https://streaming01.shockmedia.com.ar:10891/;'
+    codec: AAC+
+    bitrate: 80
+  - url: 'https://streaming01.shockmedia.com.ar:10891/;?hash=1659583597942'
+    codec: AAC+
+    bitrate: 80
 research:
   reviewed_at: 2026-06-09
   nature: commercial

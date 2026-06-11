@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 06:05:37
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'http://10321.cloudrad.io:9054/hd'
+    codec: OGG
+    bitrate: 2328
+  - url: 'http://streaming.starterfm.com:8010/starter320'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

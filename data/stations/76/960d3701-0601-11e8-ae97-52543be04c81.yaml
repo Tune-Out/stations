@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 08:20:38
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://radio.bigblueswing.com:8002/;64bit.mp3'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://radio.bigblueswing.com:8004/;32bit.mp3'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: community

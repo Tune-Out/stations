@@ -19,6 +19,13 @@ lastchangetime: 2026-02-26 13:39:49
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://web.stream.superfly.fm/superfly-live?aggregator=Website'
+    codec: AAC
+  - url: 'https://stream01.superfly.fm/live'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

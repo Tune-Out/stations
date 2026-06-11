@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 06:01:29
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://klassik-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://klassik-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

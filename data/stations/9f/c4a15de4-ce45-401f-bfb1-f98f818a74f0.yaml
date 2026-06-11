@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:54:30
 clickcount: 18
 geo_lat: 48.199239
 geo_long: 15.6295597
+curation: 0.55
+streams:
+  - url: 'http://orf-live.ors-shoutcast.at/noe-q2a'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://orf-live.ors-shoutcast.at/noe-q1a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -3,7 +3,7 @@ name: PAL Nostalji
 url: https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
 url_resolved: https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
 homepage: https://www.palnostalji.com.tr/
-favicon: ""
+favicon: https://ik.imagekit.io/eywz9hvpg/pal/media/site_settings/favicon.ico
 tags: []
 country: Türkiye
 countrycode: TR
@@ -21,6 +21,20 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 29
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8'
+    codec: AAC+
+    bitrate: 128
+    hls: true
+  - url: 'https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8'
+    codec: AAC+
+    bitrate: 127
+    hls: true
+  - url: 'https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8'
+    codec: AAC+
+    bitrate: 95
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

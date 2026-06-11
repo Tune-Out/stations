@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:05:15
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://streamosw.ir-media-tec.com/oldies/mp3-128'
+    codec: MP3
+  - url: 'http://streamosw.ir-media-tec.com/2000er/mp3-128'
+    codec: MP3
+  - url: 'http://streamosw.ir-media-tec.com/2010er/mp3-128'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

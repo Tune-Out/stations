@@ -21,6 +21,14 @@ lastchangetime: 2026-01-18 18:02:10
 clickcount: 2
 geo_lat: 53.80665984981951
 geo_long: -1.556416153907776
+curation: 0.35
+streams:
+  - url: 'https://streamer.radio.co/s986435880/listen'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://s2.radio.co/seb5cdba5b/listen'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

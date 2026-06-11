@@ -22,6 +22,14 @@ lastchangetime: 2026-03-14 20:14:27
 clickcount: 2
 geo_lat: 51.4751117971003
 geo_long: 0.10343340128713407
+curation: 0.30
+streams:
+  - url: 'https://stream-ar.hellorayo.co.uk/absolute80shigh.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://stream-ar.planetradio.co.uk/absolute80shigh.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true'
+    codec: AAC
+    bitrate: 127
 research:
   reviewed_at: 2026-06-09
   nature: commercial

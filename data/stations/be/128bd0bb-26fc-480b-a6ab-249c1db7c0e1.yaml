@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:17:33
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rs6-krk2.rmfstream.pl/rmf_maxxx_kie'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

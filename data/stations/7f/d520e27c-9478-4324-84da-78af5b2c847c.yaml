@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 02:23:21
 clickcount: 1
 geo_lat: 49.89543530912912
 geo_long: 9.622636735439302
+curation: 0.40
+streams:
+  - url: 'https://stream.laut.fm/blasmusikradio_mit_bernd.m3u'
+    url_resolved: 'https://blasmusikradiomitbernd.stream.laut.fm/blasmusikradio_mit_bernd?pl=m3u&t302=2026-01-15_02-23-12&uuid=f0f3a6f1-d05c-4e68-aeec-839f08cd9cb0'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.laut.fm/blasmusikradio_mit_bernd'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 07:27:50
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://dc1.serverse.com/proxy/ywycfrxn/live'
+    codec: AAC+
+    bitrate: 320
+  - url: 'https://eu2-centova.serverse.com/proxy/ywycfrxn/stream'
+    codec: AAC+
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: community

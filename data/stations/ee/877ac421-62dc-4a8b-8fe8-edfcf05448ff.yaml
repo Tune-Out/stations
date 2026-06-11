@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:58:24
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.revma.ihrhls.com/zc53/hls.m3u8'
+    codec: AAC
+    bitrate: 24
+    hls: true
+  - url: 'https://stream.revma.ihrhls.com/zc53'
+    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial

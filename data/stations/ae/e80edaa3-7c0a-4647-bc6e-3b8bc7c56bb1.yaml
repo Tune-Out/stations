@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:18:26
 clickcount: 0
 geo_lat: 49.111649044398234
 geo_long: 9.735911786556246
+curation: 0.35
+streams:
+  - url: 'http://stream.sthoerfunk.de:7000/sthoerfunk.ogg.m3u'
+    url_resolved: 'http://stream.sthoerfunk.de:7000/sthoerfunk.ogg'
+    codec: OGG
+  - url: 'http://stream.sthoerfunk.de:7000/sthoerfunk.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community

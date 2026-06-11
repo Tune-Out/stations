@@ -19,6 +19,19 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 9
 geo_lat: 52.50649780974137
 geo_long: 13.400402069091797
+curation: 0.35
+streams:
+  - url: 'https://absolutradio.de/playlist/absolut-bella.m3u'
+    url_resolved: 'https://absolut-bella.live-sm.absolutradio.de/absolut-bella'
+    codec: AAC
+  - url: 'https://edge03.live-sm.absolutradio.de/absolut-bella'
+    codec: AAC
+  - url: 'https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://edge68.live-sm.absolutradio.de/absolut-bella/stream/mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

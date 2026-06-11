@@ -3,7 +3,7 @@ name: Play Radio Serbia
 url: https://stream.playradio.rs:8443/play.mp3
 url_resolved: https://stream.playradio.rs:8443/play.mp3
 homepage: https://www.playradio.rs/
-favicon: ""
+favicon: https://www.playradio.rs/webmanifest/apple-touch-icon.png
 tags: []
 country: Serbia
 countrycode: RS
@@ -19,6 +19,8 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 29748ff1-77b8-4de2-bf6a-d27c5fad4600
 research:
   reviewed_at: 2026-06-09
   nature: commercial

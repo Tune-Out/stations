@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 06:14:42
 clickcount: 19
 geo_lat: 50.48296656203639
 geo_long: 30.4828816652298
+curation: 0.20
+streams:
+  - url: 'https://online.radioroks.ua/RadioROKS_HD'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://online.radioroks.ua/RadioROKS_HD'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

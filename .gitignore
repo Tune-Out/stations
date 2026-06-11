@@ -18,3 +18,30 @@ public/data/top.json
 # Logs
 *.log
 npm-debug.log*
+
+# Python (scripts/*.py emit bytecode caches next to source)
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Playwright (npm run test:mobile)
+test-results/
+playwright-report/
+blob-report/
+.last-run.json
+
+# Editor scratch
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Atomic-write strays — scripts/score-curation.py writes <file>.yaml.tmp
+# then renames; a crash mid-write could leave one behind.
+*.yaml.tmp

@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 0
 geo_lat: 48.58979706205218
 geo_long: 17.831161916255954
+curation: 0.00
+streams:
+  - url: 'https://stream.subfm.sk/subfm'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.subfm.sk/subfm'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

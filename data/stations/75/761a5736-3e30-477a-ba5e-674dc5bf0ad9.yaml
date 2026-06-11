@@ -22,6 +22,14 @@ lastchangetime: 2026-05-21 10:23:14
 clickcount: 0
 geo_lat: 46.769523113066874
 geo_long: 23.589805662631992
+curation: 0.40
+streams:
+  - url: 'https://www.radiodomeldo.ro/live'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://radiodomeldo.ro/live'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

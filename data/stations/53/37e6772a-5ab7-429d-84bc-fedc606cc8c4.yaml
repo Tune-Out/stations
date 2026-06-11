@@ -24,6 +24,16 @@ lastchangetime: 2026-01-15 07:23:17
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://systrum.net/SSR1.m3u'
+    url_resolved: 'https://systrum.net:8443/SSR1'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://systrum.net/SSR2.m3u'
+    url_resolved: 'https://systrum.net:8443/SSR2'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

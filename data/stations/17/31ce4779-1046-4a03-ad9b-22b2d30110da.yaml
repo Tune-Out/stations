@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://audio.bild-und-ton.stream:16162/radiosantec-en'
+    codec: AAC+
+    bitrate: 127
+  - url: 'https://audio.bild-und-ton.stream:16162/radiosantec-de'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

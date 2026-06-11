@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 01:09:32
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://mayotte.ice.infomaniak.ch/mayotte-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mayotte.ice.infomaniak.ch/mayotte-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

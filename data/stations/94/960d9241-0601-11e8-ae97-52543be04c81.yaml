@@ -22,6 +22,26 @@ lastchangetime: 2026-01-15 03:13:35
 clickcount: 37
 geo_lat: null
 geo_long: null
+curation: 0.05
+streams:
+  - url: 'http://195.150.20.9/RMFFM48'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://rs101-krk.rmfstream.pl/RMFFM48'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://31.192.216.8/rmf_fm'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rs101-krk.rmfstream.pl/rmf_fm'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://195.150.20.242:8000/rmf_fm'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -3,7 +3,7 @@ name: Jazz Sakura (asia dream radio)
 url: http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
 url_resolved: http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
 homepage: https://asiadreamradio.torontocast.stream/stations/en/index.html
-favicon: ""
+favicon: https://asiadreamradio.torontocast.stream/favicon.ico
 tags:
   - jazz
 country: Japan
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:00:48
 clickcount: 40
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://kathy.torontocast.com:3330/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

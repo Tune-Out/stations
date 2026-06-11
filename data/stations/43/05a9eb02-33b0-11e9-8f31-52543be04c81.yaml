@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 05:48:31
 clickcount: 9
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.25
+streams:
+  - url: 'https://1a-oldies.radionetz.de/1a-oldies.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://1a-oldies.radionetz.de/1a-oldies.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

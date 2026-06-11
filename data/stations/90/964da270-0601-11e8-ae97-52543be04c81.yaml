@@ -3,7 +3,7 @@ name: Радио Русские Песни
 url: http://listen.rusongs.ru/ru-mp3-128
 url_resolved: http://listen.rusongs.ru/ru-mp3-128
 homepage: http://rusongs.ru/
-favicon: ""
+favicon: https://rusongs.ru/images/favicon_rusongs.ico
 tags:
   - pop
 country: The Russian Federation
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:14:02
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'http://listen.rusongs.ru/ru-mp3-128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://listen.rusongs.ru/ru-mp3-128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,14 @@ lastchangetime: 2026-02-19 11:54:34
 clickcount: 0
 geo_lat: 50.91680315100494
 geo_long: 13.318068981170656
+curation: -0.05
+streams:
+  - url: 'https://radioinpulz.sp.radio.fm/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://radioinpulz.spcast.eu/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

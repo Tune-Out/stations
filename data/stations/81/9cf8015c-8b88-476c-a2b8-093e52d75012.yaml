@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 4
 geo_lat: 37.91443291304677
 geo_long: 28.32841678330349
+curation: -0.05
+streams:
+  - url: 'https://radyo.yayin.com.tr:4010/'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://radyo.yayin.com.tr:4010/'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial

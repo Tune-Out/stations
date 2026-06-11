@@ -29,6 +29,14 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://ais-edge104-live365-dal02.cdnstream.com/a89824'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ais-edge07-live365-dal02.cdnstream.com/a89824'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

@@ -3,7 +3,7 @@ name: WNYC-FM 93.9 New York Public Radio
 url: http://www.wnyc.org/stream/wnyc-fm939/mp3.pls
 url_resolved: https://fm939.wnyc.org/wnycfm
 homepage: http://www.wnyc.org/
-favicon: ""
+favicon: https://wnyc.org/favicon.ico
 tags:
   - news
   - public-radio
@@ -23,6 +23,7 @@ lastchangetime: 2026-01-15 05:45:24
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: 0.75
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

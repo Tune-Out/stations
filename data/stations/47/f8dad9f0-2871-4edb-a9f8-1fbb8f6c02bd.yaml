@@ -22,6 +22,17 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: -5.829791833588059
 geo_long: -35.21255493164063
+curation: -0.05
+streams:
+  - url: 'https://radios.braviahost.com.br:8000/radio.mp3?1732983388728'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radios.braviahost.com.br:8000/radio.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radios.braviahost.com.br:8000/radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

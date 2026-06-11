@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 3
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.35
+streams:
+  - url: 'https://1a-chillout.radionetz.de/1a-chillout.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://1a-chillout.radionetz.de/1a-chillout.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

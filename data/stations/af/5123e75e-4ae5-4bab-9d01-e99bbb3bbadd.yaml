@@ -25,6 +25,14 @@ lastchangetime: 2026-02-18 14:12:08
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://stream.radioparadise.com/beyond-320'
+    codec: AAC
+    bitrate: 320
+  - url: 'http://stream.radioparadise.com/beyond-128'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

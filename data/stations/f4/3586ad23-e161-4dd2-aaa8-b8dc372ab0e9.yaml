@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 11
 geo_lat: 59.42677908959534
 geo_long: 24.77897644042969
+curation: -0.05
+streams:
+  - url: 'https://stream.skymedia.ee/live/RETRO_AAC'
+    codec: AAC+
+    bitrate: 88
+  - url: 'https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

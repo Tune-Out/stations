@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:42:10
 clickcount: 0
 geo_lat: 28.65148613297423
 geo_long: -106.08159032922876
+curation: -0.05
+streams:
+  - url: 'https://ss1.audiorama.com.mx:6646/'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://ss1.audiorama.com.mx:6646/stream'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

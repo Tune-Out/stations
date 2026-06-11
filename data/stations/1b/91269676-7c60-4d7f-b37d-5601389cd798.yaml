@@ -33,6 +33,17 @@ lastchangetime: 2026-01-15 05:45:24
 clickcount: 4
 geo_lat: 55.7874232839614
 geo_long: 37.499363422393806
+curation: 0.25
+streams:
+  - url: 'https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8'
+    codec: AAC
+    bitrate: 100
+    hls: true
+  - url: 'http://montecarlo.hostingradio.ru/mcsweet96.aacp'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://montecarlo.hostingradio.ru/montecarlo96.aacp'
+    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial

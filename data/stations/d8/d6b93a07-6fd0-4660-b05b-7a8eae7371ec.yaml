@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: 38.01124886217512
 geo_long: 23.691158294677734
+curation: 0.35
+streams:
+  - url: 'http://108.59.11.81:10073/stream.m3u'
+    url_resolved: 'http://108.59.11.81:10073/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://108.59.11.81:10073/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

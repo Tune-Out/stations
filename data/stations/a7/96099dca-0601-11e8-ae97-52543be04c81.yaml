@@ -23,6 +23,18 @@ lastchangetime: 2026-01-15 08:22:40
 clickcount: 30
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8'
+    codec: AAC
+    bitrate: 238
+    hls: true
+  - url: 'http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://live-radio01.mediahubaustralia.com/2FMW/aac/'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

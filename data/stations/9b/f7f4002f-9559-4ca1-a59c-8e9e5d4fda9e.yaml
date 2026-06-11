@@ -3,7 +3,7 @@ name: Hand Of Jesus - HINDI
 url: https://dc1.serverse.com/proxy/hojhindi/stream
 url_resolved: https://dc1.serverse.com/proxy/hojhindi/stream
 homepage: https://handofjesus.in/radio/christian-radio-hindi.php
-favicon: ""
+favicon: https://handofjesus.in/radio/assets/img/logo/favicon.png
 tags:
   - religious
 country: India
@@ -20,6 +20,89 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 05:47:23
 clickcount: 2
+curation: 0.35
+streams:
+  - url: 'https://dc1.serverse.com/proxy/hoj2/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dc1.serverse.com/proxy/hojafrican/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://dc1.serverse.com/proxy/hojurdu/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://dc1.serverse.com/proxy/hojhindi/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojgujarati/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojmanipuri/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojmarathi/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojhebrew/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojfrenc/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojbengali/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojmizo/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojkids/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojtelugu/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hoj3/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojmalayalam/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojnepali/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojchinese/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojkonkani/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojendtime/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojenglish/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojpunjabi/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojtamil/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojbible/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hoj4/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hoj1/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojoriya/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://dc1.serverse.com/proxy/hojkannada/stream'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

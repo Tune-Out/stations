@@ -3,7 +3,7 @@ name: MCF Radio - Kampala - 98.7 FM (MP3)
 url: http://streams.radio.co/s79fbbb432/listen
 url_resolved: http://streams.radio.co/s79fbbb432/listen
 homepage: https://mcfradio.co.ug/
-favicon: ""
+favicon: https://mcfradio.co.ug/wp-content/uploads/2019/05/cropped-MCF-Radio-180x180.jpg
 tags:
   - religious
   - education
@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'http://streams.radio.co/s79fbbb432/listen'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.radio.co/s79fbbb432/listen'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

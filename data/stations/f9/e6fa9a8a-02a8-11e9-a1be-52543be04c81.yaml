@@ -23,6 +23,16 @@ lastchangetime: 2026-01-14 23:18:26
 clickcount: 6
 geo_lat: 37.809784
 geo_long: -121.286316
+curation: 0.70
+streams:
+  - url: 'https://somafm.com/gsclassic64.pls'
+    url_resolved: 'https://ice2.somafm.com/gsclassic-64-aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://somafm.com/gsclassic.pls'
+    url_resolved: 'https://ice2.somafm.com/gsclassic-128-mp3'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

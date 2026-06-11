@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: -23.543992672080904
 geo_long: -46.63318634033203
+curation: -0.05
+streams:
+  - url: 'https://26593.live.streamtheworld.com/RADIO_KISSFM_ADP.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://26673.live.streamtheworld.com/RADIO_KISSFMAAC.aac?1655609055880'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

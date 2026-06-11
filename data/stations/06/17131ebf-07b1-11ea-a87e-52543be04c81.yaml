@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:42:26
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://wvtf-ice.streamguys1.com/radioiq-aac-128'
+    codec: AAC
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

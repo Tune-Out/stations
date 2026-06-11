@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 07:15:00
 clickcount: 1
 geo_lat: -34.061036086516964
 geo_long: 150.8156772292743
+curation: 0.35
+streams:
+  - url: 'https://ice9.securenetsystems.net/C913'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://ice9.securenetsystems.net/C913'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

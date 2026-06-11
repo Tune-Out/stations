@@ -3,7 +3,7 @@ name: Radio Gold @net
 url: http://radiogold.live24.gr/radiogold
 url_resolved: http://radiogold.live24.gr/radiogold
 homepage: http://www.radiogold.com/
-favicon: ""
+favicon: http://www.radiogold.com/favicon.ico
 tags:
   - oldies
   - rock
@@ -25,6 +25,17 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://radiogold.live24.gr/radiogold'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radiogold.live24.gr/radiogold'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://radiogold.live24.gr/radiogold?'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

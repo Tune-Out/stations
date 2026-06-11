@@ -24,6 +24,15 @@ lastchangetime: 2026-01-14 23:41:04
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://uk2.internet-radio.com:8024/listen.pls'
+    url_resolved: 'http://uk2.internet-radio.com:8024/stream'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://dancestream.danceradiouk.com/stream/1/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

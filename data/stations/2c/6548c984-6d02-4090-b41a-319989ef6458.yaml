@@ -23,6 +23,17 @@ lastchangetime: 2026-02-23 16:38:16
 clickcount: 0
 geo_lat: 44.435538792823635
 geo_long: 26.10247959047563
+curation: -0.05
+streams:
+  - url: 'https://spacefm.live/listen/spacefm_deluxe/space-deluxe192'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://spacefm.live/listen/spacefm_romania/spacefm192'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://retro.spacefm.live/listen/spacefm_retro/retro128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

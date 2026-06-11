@@ -22,6 +22,34 @@ import { dbStatus } from './store.js';
 import type { Locale, StationRow } from './types.js';
 import { SUPPORTED_LOCALES } from './types.js';
 
+// ─── UUID ↔ BLOB conversion ───────────────────────────────────────────
+// The DB stores uuid as a 16-byte BLOB (the binary form of the standard
+// 8-4-4-4-12 hex layout). We translate at the SPA boundary so application
+// code keeps using the familiar string form everywhere.
+
+const HEX = '0123456789abcdef';
+
+function uuidToBlob(uuid: string): Uint8Array {
+  const hex = uuid.replace(/-/g, '');
+  if (hex.length !== 32) throw new Error(`invalid uuid: ${uuid}`);
+  const out = new Uint8Array(16);
+  for (let i = 0; i < 16; i++) {
+    out[i] = parseInt(hex.substring(i * 2, i * 2 + 2), 16);
+  }
+  return out;
+}
+
+function blobToUuid(blob: Uint8Array): string {
+  if (blob.length !== 16) return '';
+  let s = '';
+  for (let i = 0; i < 16; i++) {
+    const b = blob[i]!;
+    s += HEX[b >>> 4] + HEX[b & 0x0f];
+    if (i === 3 || i === 5 || i === 7 || i === 9) s += '-';
+  }
+  return s;
+}
+
 let dbRef: Database | null = null;
 let opening: Promise<Database> | null = null;
 
@@ -169,7 +197,41 @@ function rows<T = StationRow>(
   binds: SqlValue[] = [],
 ): T[] {
   logSql(label, sql, binds);
-  return db.exec({ sql, bind: binds, rowMode: 'object', returnValue: 'resultRows' }) as T[];
+  const out = db.exec({ sql, bind: binds, rowMode: 'object', returnValue: 'resultRows' }) as T[];
+  // Hydrate two things on every station row, once at the boundary:
+  //   (1) uuid (stored as a 16-byte BLOB on disk) → the canonical
+  //       8-4-4-4-12 hex string that the rest of the SPA expects.
+  //   (2) streams_json (a string from json_group_array(…)) → a parsed
+  //       streams[] array so views can iterate without re-parsing.
+  for (const r of out as unknown as StationRow[]) {
+    if (typeof r !== 'object' || r === null) continue;
+    const rawUuid = (r as { uuid?: unknown }).uuid;
+    if (rawUuid instanceof Uint8Array) {
+      r.uuid = blobToUuid(rawUuid);
+    }
+    const raw = (r as { streams_json?: string | null }).streams_json;
+    if (typeof raw === 'string' && raw.length) {
+      try { r.streams = JSON.parse(raw) as StationRow['streams']; } catch { r.streams = []; }
+    } else if (!r.streams) {
+      // Synthesise a single-stream array from the top-level fields so the
+      // UI can iterate uniformly. station_streams populates this for all
+      // canonical stations, but a station_streams-less DB (e.g. tests with
+      // a hand-built db) still works.
+      if (r.url) {
+        r.streams = [{
+          url:          r.url,
+          url_resolved: r.url_resolved ?? undefined,
+          codec:        r.codec ?? undefined,
+          bitrate:      r.bitrate ?? undefined,
+          hls:          !!r.hls,
+        }];
+      } else {
+        r.streams = [];
+      }
+    }
+    delete (r as { streams_json?: string | null }).streams_json;
+  }
+  return out;
 }
 
 // ─── Selection sub-query: station row + joined tags_text + langs_text ──
@@ -179,11 +241,28 @@ function rows<T = StationRow>(
 const STATION_TAGS_SUBQUERY = `
   (SELECT GROUP_CONCAT(t.slug, ',')
      FROM station_tags st JOIN tags t ON t.id = st.tag_id
-     WHERE st.station_rowid = s.rowid) AS tags_text`;
+     WHERE st.station_uuid = s.uuid) AS tags_text`;
 const STATION_LANGS_SUBQUERY = `
   (SELECT GROUP_CONCAT(l.slug, ',')
      FROM station_languages sl JOIN languages l ON l.id = sl.language_id
-     WHERE sl.station_rowid = s.rowid) AS langs_text`;
+     WHERE sl.station_uuid = s.uuid) AS langs_text`;
+// Streams come back as a single JSON string; the SPA parses it in
+// hydrateStreams(). We use a stream-stable separator so unparseable URLs
+// (which can contain almost anything) survive intact.
+const STATION_STREAMS_SUBQUERY = `
+  (SELECT json_group_array(
+            json_object(
+              'url',          ss.url,
+              'url_resolved', ss.url_resolved,
+              'codec',        ss.codec,
+              'bitrate',      ss.bitrate,
+              'hls',          ss.hls,
+              'label',        ss.label
+            )
+          )
+     FROM station_streams ss
+     WHERE ss.station_uuid = s.uuid
+     ORDER BY ss.sort_order) AS streams_json`;
 
 // "s.*" minus the columns no longer on stations:
 // stations now has the relevant scalar fields directly; tags/lang text come
@@ -201,12 +280,13 @@ const SELECT_STATION_FULL = `
     s.country, s.countrycode, s.state, s.languagecodes,
     s.votes, s.codec, s.bitrate, s.hls, s.lastcheckok,
     s.lastchangetime, s.clickcount,
-    s.geo_lat, s.geo_long, s.shard, s.yaml_path,
+    s.geo_lat, s.geo_long, s.curation, s.shard, s.yaml_path,
     s.r_reviewed_at, s.r_nature, s.r_operator, s.r_affiliations,
     s.r_audience, s.r_format, s.r_notes, s.r_sources,
     ${LOCALE_COLS},
     ${STATION_TAGS_SUBQUERY},
-    ${STATION_LANGS_SUBQUERY}
+    ${STATION_LANGS_SUBQUERY},
+    ${STATION_STREAMS_SUBQUERY}
 `;
 
 // ─── Query helpers ─────────────────────────────────────────────────────
@@ -229,19 +309,20 @@ export function getStation(db: Database, uuid: string): StationRow | undefined {
     db,
     'getStation',
     `${SELECT_STATION_FULL} FROM stations s WHERE s.uuid = ? LIMIT 1`,
-    [uuid],
+    [uuidToBlob(uuid)],
   );
   return r[0];
 }
 
 export type SortKey =
-  | 'relevance'   // FTS rank when there's a query, else votes
-  | 'popular'    // votes DESC, clickcount DESC
-  | 'trending'   // clickcount DESC
-  | 'name'       // alphabetical
-  | 'bitrate'    // bitrate DESC (audio quality)
-  | 'fresh'      // lastchangetime DESC
-  | 'shuffle';   // random — caller passes a `seed` so paging is stable
+  | 'relevance'  // FTS rank when there's a query, else votes
+  | 'popular'   // votes DESC, clickcount DESC
+  | 'trending'  // clickcount DESC
+  | 'curated'   // editorial curation DESC then votes — drives the Home rails
+  | 'name'      // alphabetical
+  | 'bitrate'   // bitrate DESC (audio quality)
+  | 'fresh'     // lastchangetime DESC
+  | 'shuffle';  // random — caller passes a `seed` so paging is stable
 
 export interface SearchFilters {
   /** ISO 3166-1 alpha-2 country code (e.g. "CA"). */
@@ -294,14 +375,14 @@ function buildClauses(query: string, filters: SearchFilters): BuiltClauses {
   for (const tag of filters.tags ?? []) {
     if (!tag) continue;
     const alias = `_t${binds.length}`;
-    joins.push(`JOIN station_tags ${alias} ON ${alias}.station_rowid = s.rowid
+    joins.push(`JOIN station_tags ${alias} ON ${alias}.station_uuid = s.uuid
                 JOIN tags ${alias}t ON ${alias}t.id = ${alias}.tag_id AND ${alias}t.slug = ?`);
     binds.push(tag.toLowerCase());
   }
   for (const lang of filters.languages ?? []) {
     if (!lang) continue;
     const alias = `_l${binds.length}`;
-    joins.push(`JOIN station_languages ${alias} ON ${alias}.station_rowid = s.rowid
+    joins.push(`JOIN station_languages ${alias} ON ${alias}.station_uuid = s.uuid
                 JOIN languages ${alias}l ON ${alias}l.id = ${alias}.language_id AND ${alias}l.slug = ?`);
     binds.push(lang.toLowerCase());
   }
@@ -314,6 +395,14 @@ function orderByFor(sort: SortKey | undefined, hasFts: boolean, shuffleSeed?: nu
   switch (sort) {
     case 'popular':  return 's.votes DESC, s.clickcount DESC';
     case 'trending': return 's.clickcount DESC, s.votes DESC';
+    case 'curated':
+      // Editorial quality first (unscored rows treated as 0 = neutral so
+      // they fall between positive and negative), then popularity as the
+      // tiebreaker within each curation band. This is what the Home rails
+      // use — it surfaces public broadcasters, classical/jazz, and
+      // commercial-free stations ahead of generic hit-rotation streams
+      // even when the latter have higher vote counts.
+      return 'COALESCE(s.curation, 0) DESC, s.votes DESC, s.clickcount DESC';
     case 'name':     return 's.name COLLATE NOCASE ASC';
     case 'bitrate':  return 's.bitrate DESC, s.votes DESC';
     case 'fresh':    return 's.lastchangetime DESC, s.votes DESC';
@@ -385,7 +474,7 @@ export function byTag(db: Database, tag: string, limit = 100, offset = 0): Stati
     'byTag',
     `${SELECT_STATION_FULL}
      FROM stations s
-     JOIN station_tags st ON st.station_rowid = s.rowid
+     JOIN station_tags st ON st.station_uuid = s.uuid
      JOIN tags t ON t.id = st.tag_id
      WHERE t.slug = ? AND s.url <> ''
      ORDER BY s.votes DESC, s.clickcount DESC
@@ -473,7 +562,7 @@ export function byLanguage(db: Database, lang: string, limit = 100, offset = 0):
     'byLanguage',
     `${SELECT_STATION_FULL}
      FROM stations s
-     JOIN station_languages sl ON sl.station_rowid = s.rowid
+     JOIN station_languages sl ON sl.station_uuid = s.uuid
      JOIN languages l ON l.id = sl.language_id
      WHERE l.slug = ? AND s.url <> ''
      ORDER BY s.votes DESC, s.clickcount DESC

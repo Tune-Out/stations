@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 12
 geo_lat: 41.03057575479761
 geo_long: 28.973693847656257
+curation: -0.05
+streams:
+  - url: 'https://haberturkradyo.radyotvonline.net/haberturkradyo'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://haberturkradyo.radyotvonline.net/haberturkradyo'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

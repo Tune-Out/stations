@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: 33.77702710790661
 geo_long: -84.38694256814432
+curation: 0.50
+streams:
+  - url: 'http://ice64.securenetsystems.net/BILTMORE'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice3.securenetsystems.net/BILTMORE?clientType=web&host=webapp.US&modTime=1722555913800&profileid=8976948983&terminalid=159&territory=US&us_privacy=1-N-&callLetters=BILTMORE-FL&devicename=web-desktop&stationid=8433&dist=iheart&subscription_type=free&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fbiltmore-radio-8433%2F'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

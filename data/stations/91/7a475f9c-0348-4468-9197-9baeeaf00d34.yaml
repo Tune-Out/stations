@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 03:14:10
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://streamwriter.org/en/streamdb/getplaylist/list.m3u?id=6874832'
+    url_resolved: 'http://radio.krawallradio.com/listen/krawallradio/radio.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://streamwriter.org/en/streamdb/getplaylist/list.m3u?id=1277168'
+    url_resolved: 'http://wel105point5.stream.laut.fm/wel105point5'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

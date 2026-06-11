@@ -3,7 +3,7 @@ name: Вечная молодость
 url: http://misato.ru-hoster.com:8037/stream
 url_resolved: http://misato.ru-hoster.com:8037/stream
 homepage: http://www.nes-rock.ru/vechnaya-molodost/
-favicon: ""
+favicon: http://www.nes-rock.ru/favicon.ico?1781091755
 tags:
   - pop
   - retro
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 08:11:44
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://misato.ru-hoster.com:8037/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://misato.ru-hoster.com:8037/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

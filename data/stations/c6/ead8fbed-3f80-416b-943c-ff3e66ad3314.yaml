@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://dwizmanila.radioca.st:2199/tunein/dwizmanila-stream.pls'
+    url_resolved: 'http://142.44.212.114:9079/stream'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://dwizmanila.radioca.st:2199/tunein/dwizmanila-stream.pls'
+    url_resolved: 'http://142.44.212.114:9079/stream'
+    codec: AAC+
+    bitrate: 52
 research:
   reviewed_at: 2026-06-09
   nature: commercial

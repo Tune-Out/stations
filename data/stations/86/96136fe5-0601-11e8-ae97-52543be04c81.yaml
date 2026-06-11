@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:25:56
 clickcount: 109
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

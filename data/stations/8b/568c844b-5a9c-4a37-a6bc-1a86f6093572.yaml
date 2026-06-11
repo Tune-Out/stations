@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://uk7.internet-radio.com/proxy/movedahouse?mp=//stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://uk7.internet-radio.com:8000/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

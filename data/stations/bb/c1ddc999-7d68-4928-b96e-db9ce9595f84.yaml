@@ -21,6 +21,14 @@ lastchangetime: 2026-03-14 11:42:12
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://server5.mediasector.es:8090/cinemaradio'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.tunerplay.com/listen/hit24radio/cinemaradio'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

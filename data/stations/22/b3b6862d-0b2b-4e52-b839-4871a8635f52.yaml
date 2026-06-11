@@ -3,7 +3,7 @@ name: Hit FM (Best)
 url: http://online.hitfm.ua/HitFM_Best
 url_resolved: http://online.hitfm.ua/HitFM_Best
 homepage: http://www.hitfm.ua/
-favicon: ""
+favicon: https://www.hitfm.ua/static/img/HitFM_App_avatar_300x300.webp
 tags: []
 country: Ukraine
 countrycode: UA
@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'http://online.hitfm.ua/HitFM_Best'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://online.hitfm.ua/HitFM_Top'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://195.95.206.17/HitFM'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

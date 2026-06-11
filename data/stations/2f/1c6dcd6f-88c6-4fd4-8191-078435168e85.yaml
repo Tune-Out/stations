@@ -40,6 +40,17 @@ lastchangetime: 2026-01-15 06:05:37
 clickcount: 76
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

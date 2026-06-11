@@ -19,6 +19,17 @@ lastchangetime: 2026-02-28 21:09:10
 clickcount: 2
 geo_lat: 52.13275548787693
 geo_long: 21.051494479179382
+curation: 0.50
+streams:
+  - url: 'http://radiostream.pl/tuba10-1.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://radiostream.pl/tuba10-1.mp3#TOK_FM'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radiostream.pl/tuba10-2.mp3'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

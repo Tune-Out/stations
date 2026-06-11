@@ -3,7 +3,7 @@ name: Bylgjan 98.9 Reykjavik
 url: http://icecast.365net.is:8000/orbbylgjan.aac
 url_resolved: http://icecast.365net.is:8000/orbbylgjan.aac
 homepage: http://bylgjan.visir.is/
-favicon: ""
+favicon: https://bylgjan.visir.is/favIcons/bylgjan/apple-touch-icon.png
 tags:
   - news
   - sports
@@ -24,6 +24,8 @@ lastchangetime: 2026-01-15 08:44:04
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 4cbc4571-b652-448b-b70d-35be49841d3e
 research:
   reviewed_at: 2026-06-09
   nature: commercial

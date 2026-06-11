@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 04:42:48
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.lokalradio.nrw/44542bb'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://radiomk--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiomk/live/mp3/high?ar-distributor=ffa0&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1icW1xNGF0cDcmdD0xNjkzMjMyMTQ5JnM9Nzg2NmYyOWMjYmRmZDAwMTllZTFiZWI4Yjk0YTc5ZDIzOTVhODA2Y2U'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

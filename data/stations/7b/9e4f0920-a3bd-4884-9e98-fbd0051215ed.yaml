@@ -22,6 +22,31 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'https://radiorecord.hostingradio.ru/rr_main96.aacp'
+    codec: AAC
+  - url: 'https://radiopotok1.ru/record-trancehouse'
+    codec: AAC
+  - url: 'https://radiopotok1.ru/record-hardstyle'
+    codec: AAC
+  - url: 'https://radiorecord.hostingradio.ru/nudance96.aacp'
+    codec: AAC
+  - url: 'https://radiorecord.hostingradio.ru/dreampop96.aacp'
+    codec: AAC
+  - url: 'https://radiorecord.hostingradio.ru/rus96.aacp'
+    codec: AAC
+  - url: 'https://radiorecord.hostingradio.ru/workout96.aacp'
+    codec: AAC
+  - url: 'http://radiorecord.hostingradio.ru/rr_main96.aacp'
+    codec: AAC
+  - url: 'http://radiorecord.hostingradio.ru/reggae96.aacp'
+    codec: AAC
+  - url: 'https://radiopotok1.ru/radio-record-trancemission'
+    codec: AAC
+  - url: 'https://air.unmixed.ru/record320'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

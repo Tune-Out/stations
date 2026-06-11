@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://scenestream.io/necta48.aac'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://nectarine.shakeme.info:8000/nectarine'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -24,6 +24,15 @@ lastchangetime: 2026-01-15 03:06:34
 clickcount: 0
 geo_lat: 57.15314098163238
 geo_long: 24.85566079616547
+curation: -0.05
+streams:
+  - url: 'https://listen.radio7.lv:2053/Radio7'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.radio7.lv:8024/Radio7.m3u'
+    url_resolved: 'http://stream.radio7.lv:8024/Radio7'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

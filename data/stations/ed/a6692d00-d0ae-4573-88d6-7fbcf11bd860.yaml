@@ -20,6 +20,15 @@ lastchangetime: 2026-05-24 14:14:16
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://dancewave.online/retrodance.opus'
+    url_resolved: 'https://stream1.dancewave.online:8082/retrodance.opus'
+    codec: OGG
+    bitrate: 96
+  - url: 'https://dancewave.online/retrodance.flac.ogg'
+    url_resolved: 'https://dancewave.online/station/dance-wave-retro-flac/'
+    codec: OGG
 research:
   reviewed_at: 2026-06-09
   nature: commercial

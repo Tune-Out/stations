@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 0
 geo_lat: 35.1059786410736
 geo_long: -106.62506103515626
+curation: 0.25
+streams:
+  - url: 'https://ice42.securenetsystems.net/KOAZAM'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ice42.securenetsystems.net/KOAZAM?playSessionID=EE67F132-DB59-0E2B-D5F260EC5335C908'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

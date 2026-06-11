@@ -19,6 +19,17 @@ lastchangetime: 2026-01-24 07:00:50
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: b294bf46-7c1d-45ba-b852-71c5b26298ac
+streams:
+  - url: 'https://www.shoutdrive.com/ShoutDRIVE.m3u'
+    url_resolved: 'http://geostream.cdn.shoutdrive.com/sd-aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://www.shoutdrive.com/ShoutDRIVE.m3u'
+    url_resolved: 'http://live-audio.cdn.shoutdrive.com/sd-mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

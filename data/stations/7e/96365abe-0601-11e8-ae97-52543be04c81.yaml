@@ -3,7 +3,7 @@ name: Christmas Radio
 url: http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
 url_resolved: http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
 homepage: http://www.christmasradio.fm/
-favicon: ""
+favicon: http://christmasradio.fm/favicon.ico
 tags:
   - christian-music
   - classical
@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 01:12:03
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

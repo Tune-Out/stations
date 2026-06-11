@@ -3,7 +3,7 @@ name: Radio România Muzical
 url: http://stream2.srr.ro:8022/
 url_resolved: http://stream2.srr.ro:8022/
 homepage: http://www.romania-muzical.ro/
-favicon: ""
+favicon: https://static.srr.ro/images/stations/station-icon-3-rrm-icon.svg
 tags:
   - classical
 country: Romania
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 04:09:15
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.60
+duplicate_of: 3ab00dd1-e787-4664-b557-08c085e55eec
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

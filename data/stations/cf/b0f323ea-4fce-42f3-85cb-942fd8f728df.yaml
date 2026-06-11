@@ -21,6 +21,14 @@ lastchangetime: 2026-02-26 16:25:15
 clickcount: 3
 geo_lat: -20.88146560373321
 geo_long: 55.44842720031739
+curation: -0.05
+streams:
+  - url: 'https://hitfm.ice.infomaniak.ch/hitfm-192.mp3'
+    codec: MP3
+    bitrate: 160
+  - url: 'http://hitfm.ice.infomaniak.ch/hitfm-192.mp3'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial

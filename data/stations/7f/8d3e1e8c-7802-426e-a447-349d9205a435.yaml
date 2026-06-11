@@ -31,6 +31,14 @@ lastchangetime: 2026-01-15 06:53:43
 clickcount: 2
 geo_lat: 54.01348202834595
 geo_long: 10.573643445968628
+curation: 0.65
+streams:
+  - url: 'https://a11.asurahosting.com:8350/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://a11.asurahosting.com:8350/radio.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

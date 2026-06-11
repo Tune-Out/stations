@@ -3,7 +3,7 @@ name: Radio Canut
 url: http://live.francra.org:8000/radiocanut
 url_resolved: http://live.francra.org:8000/radiocanut
 homepage: http://www.radiocanut.org/
-favicon: ""
+favicon: https://radiocanut.org/squelettes/favicon.ico
 tags:
   - rock
 country: France
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://live.francra.org:8000/radiocanut'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://live.aurafm.org/radiocanut'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

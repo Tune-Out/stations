@@ -22,6 +22,22 @@ lastchangetime: 2026-01-15 08:08:04
 clickcount: 60
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://provisioning.streamtheworld.com/pls/VIRGIN_RADIOAAC.pls'
+    url_resolved: 'http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls'
+    url_resolved: 'http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

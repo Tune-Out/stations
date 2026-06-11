@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:39:47
 clickcount: 0
 geo_lat: -12.995063022762048
 geo_long: -38.494119644165046
+curation: 0.35
+streams:
+  - url: 'https://cast.radiu.live:9300/stream'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://cast.radiu.live:9300/stream'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

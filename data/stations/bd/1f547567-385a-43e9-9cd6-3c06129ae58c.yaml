@@ -18,6 +18,19 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-03-07 13:21:10
 clickcount: 3
+curation: -0.05
+streams:
+  - url: 'https://clubdance.online/stream.ogg'
+    url_resolved: 'https://stream.clubdance.online:8002/live.ogg'
+    codec: OGG
+    bitrate: 160
+  - url: 'http://stream.clubdance.online:8000/retro'
+    codec: MP3
+    bitrate: 160
+  - url: 'https://clubdance.online/stream.mp3'
+    url_resolved: 'https://stream.clubdance.online:8002/live.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

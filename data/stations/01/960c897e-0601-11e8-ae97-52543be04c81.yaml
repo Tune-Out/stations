@@ -3,7 +3,7 @@ name: NDR Info Spezial
 url: http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_spezial.m3u
 url_resolved: http://icecast.ndr.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
 homepage: http://www.ndrinfo.de/
-favicon: ""
+favicon: https://www.ndr.de:443/resources/assets/resources/images/favicon/favicon.ico
 tags:
   - culture
   - news
@@ -25,6 +25,7 @@ lastchangetime: 2026-01-15 05:05:52
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.50
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

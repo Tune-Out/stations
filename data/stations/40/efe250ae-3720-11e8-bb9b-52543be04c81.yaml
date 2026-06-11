@@ -3,7 +3,7 @@ name: RPR1. Yoga Sounds
 url: http://streams.rpr1.de/rpr-entspannung-128-aac?usid=0-0-H-A-D-20
 url_resolved: http://streams.rpr1.de/rpr-entspannung-128-aac?usid=0-0-H-A-D-20
 homepage: http://www.rpr1.de/
-favicon: ""
+favicon: https://file.atsw.de/production/static/1776772464994/icons/icon_512.8O8cUwC83ch.png
 tags:
   - ambient
   - chillout
@@ -22,6 +22,12 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://streams.rpr1.de/rpr-entspannung-128-aac?usid=0-0-H-A-D-20'
+    codec: AAC
+  - url: 'https://stream.rpr1.de/yogasounds/mp3-128/radiobrowser'
+    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial

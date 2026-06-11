@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 1
 geo_lat: 37.92652485475728
 geo_long: 23.732724487781528
+curation: 0.35
+streams:
+  - url: 'https://drs953.live24.gr/drs953'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://drs953.live24.gr/drs953'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

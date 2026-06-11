@@ -19,6 +19,15 @@ lastchangetime: 2026-03-24 06:17:57
 clickcount: 12
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 9610c454-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'https://stream.antenne.de/antenne/stream/mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.antenne.de/antenne/stream/mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

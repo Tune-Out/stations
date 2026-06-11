@@ -22,6 +22,17 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: 50.083329945408934
 geo_long: 20.041629374027256
+curation: 0.55
+streams:
+  - url: 'http://s1.slotex.pl:7074/stream/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s1.slotex.pl:7074/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s1.slotex.pl:7074/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

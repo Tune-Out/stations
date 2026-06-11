@@ -3,7 +3,7 @@ name: Радио России (AAC)
 url: http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_32kbps
 url_resolved: http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_32kbps
 homepage: https://radiorus.ru/
-favicon: ""
+favicon: https://cdn.smotrim.ru/static/front/favicon/apple-touch-icon.png
 tags:
   - news
   - talk
@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 00:22:19
 clickcount: 0
 geo_lat: 55.787652516267606
 geo_long: 37.578799724578865
+curation: 0.35
+streams:
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_32kbps'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: state media

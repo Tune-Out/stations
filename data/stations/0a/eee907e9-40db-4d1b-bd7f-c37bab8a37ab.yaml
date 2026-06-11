@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: 40.58866663610191
 geo_long: 22.965100407600403
+curation: 0.00
+streams:
+  - url: 'http://ice.greekstream.net/superfm'
+    codec: MP3
+    bitrate: 160
+  - url: 'https://ice.greekstream.net/superfm'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial

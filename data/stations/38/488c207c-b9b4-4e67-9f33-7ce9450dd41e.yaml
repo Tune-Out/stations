@@ -3,7 +3,7 @@ name: Loca Progressive House
 url: https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146
 url_resolved: https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146
 homepage: http://www.locafm.com/
-favicon: ""
+favicon: https://www.locafm.com/assets/img/favicon/apple-icon-57x57.png
 tags: []
 country: Spain
 countrycode: ES
@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s02.fjperezdj.com:8056/live'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

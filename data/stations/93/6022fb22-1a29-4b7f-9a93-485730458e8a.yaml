@@ -3,7 +3,7 @@ name: NPO Radio4
 url: http://icecast.omroep.nl/radio4-bb-mp3
 url_resolved: http://icecast.omroep.nl/radio4-bb-mp3
 homepage: http://www.radio4.nl/
-favicon: ""
+favicon: https://www.npoklassiek.nl/apple-touch-icon.png
 tags:
   - classical
 country: The Netherlands
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 04:47:54
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.55
+duplicate_of: 428fecbf-d5e2-4c30-bcde-6dd98b125434
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

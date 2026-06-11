@@ -23,6 +23,31 @@ lastchangetime: 2026-01-15 04:47:54
 clickcount: 448
 geo_lat: null
 geo_long: null
+curation: 0.90
+streams:
+  - url: 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8'
+    codec: AAC+
+    bitrate: 101
+    hls: true
+  - url: 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8'
+    codec: AAC+
+    bitrate: 50
+    hls: true
+  - url: 'http://stream.live.vc.bbcmedia.co.uk/bbc_world_service'
+    codec: MP3
+    bitrate: 56
+  - url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service'
+    codec: MP3
+    bitrate: 56
+  - url: 'http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660&h=f8bc47f18c4b24de16cf2efa7951f91d'
+    codec: MP3
+    bitrate: 56
+  - url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia'
+    codec: MP3
+    bitrate: 56
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d128000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

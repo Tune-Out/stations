@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 00:18:06
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://www.dandelionradio.com/DandelionRadio.pls'
+    url_resolved: 'https://solid41.streamupsolutions.com/proxy/bqbyzdhi?mp=/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.dandelionradio.com:9414/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

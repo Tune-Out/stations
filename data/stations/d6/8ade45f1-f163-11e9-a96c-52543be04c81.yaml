@@ -3,7 +3,7 @@ name: Pure Hits Australian Made
 url: http://stream10.as.amplifystreaming.com/radio/8000/amm_128.mp3
 url_resolved: http://stream10.as.amplifystreaming.com/radio/8000/amm_128.mp3
 homepage: http://www.ozmademusic.online/
-favicon: ""
+favicon: https://www.australianmademusic.com/branding/customer/www.australianmademusic.com/station/Pure-Hits-Australian-Made-400x400-logo-01.png
 tags:
   - pop
   - rock
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream10.as.amplifystreaming.com/radio/8000/amm_128.mp3'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://stream10.as.amplifystreaming.com/radio/8000/amm_128.aac'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:39:47
 clickcount: 3
 geo_lat: 50.07854160442121
 geo_long: 14.43460285663605
+curation: 0.50
+streams:
+  - url: 'https://rozhlas.stream/wave_mp3_256.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://rozhlas.stream/wave_mp3_256.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

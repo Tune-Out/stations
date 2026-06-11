@@ -22,6 +22,15 @@ lastchangetime: 2026-01-14 23:51:16
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+duplicate_of: 3b232427-05ab-4193-af6e-b19bf8e78963
+streams:
+  - url: 'http://icecast.omroep.nl/radio4-sb-aac'
+    codec: AAC
+    bitrate: 32
+  - url: 'https://icecast.omroep.nl/radio4-sb-aac'
+    codec: AAC
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

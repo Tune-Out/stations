@@ -3,7 +3,7 @@ name: Whisperings Solo Piano Radio
 url: https://pianosolo.streamguys1.com/live
 url_resolved: https://pianosolo.streamguys1.com/live
 homepage: http://www.solopianoradio.com/
-favicon: ""
+favicon: https://www.solopianoradio.com/favwspr.ico
 tags:
   - classical
   - instrumental
@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 05:51:16
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://pianosolo.streamguys1.com/pianosolo48.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://pianosolo.streamguys1.com/live'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://pianosolo.streamguys1.com/live?listenerid=2e8dc4ec7778e05786515354a88844fa&awparams=companionAds:true&us_privacy=1YNN&aw_0_req.gdpr=true&us_privacy=1YNN'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

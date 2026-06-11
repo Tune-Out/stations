@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 05:17:04
 clickcount: 0
 geo_lat: 47.41697205390062
 geo_long: 8.561208844184877
+curation: 0.60
+duplicate_of: fdca915e-1dc9-4332-be61-e8e76c4b9590
+streams:
+  - url: 'https://stream.srg-ssr.ch/rsc_de/aacp_96.m3u'
+    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://stream.srg-ssr.ch/rsc_de/aacp_96.m3u'
+    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96'
+    codec: AAC
+    bitrate: 88
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

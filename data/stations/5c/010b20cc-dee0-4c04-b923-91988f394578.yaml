@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://strm112.1.fm/praise_mobile_mp3?aw_0_req.gdpr=true'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://strm112.1.fm/praise_mobile_mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

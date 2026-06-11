@@ -21,6 +21,17 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://79.111.119.111:8000/electro'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.119.111:8004/electro'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.119.111:8002/electro'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 04:42:48
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://stream.londonmusicradio.com:8005/mobile'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://radiobossrelay.radioca.st/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://stream.londonmusicradio.com:8005/128k'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

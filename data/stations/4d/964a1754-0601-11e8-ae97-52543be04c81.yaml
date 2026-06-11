@@ -3,7 +3,7 @@ name: Radio Swiss Classic French
 url: http://www.radioswissclassic.ch/fr/live/aacp32.m3u
 url_resolved: http://stream.srg-ssr.ch/srgssr/rsc_fr/aac/48
 homepage: http://www.radioswissclassic.ch/
-favicon: ""
+favicon: https://www.radioswissclassic.ch/favicon.ico
 tags:
   - classical
 country: Switzerland
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 04:04:00
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.55
+duplicate_of: 9645be61-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

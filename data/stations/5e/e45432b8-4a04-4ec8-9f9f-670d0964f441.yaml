@@ -3,7 +3,7 @@ name: 101 Jak FM Streaming Online – Jakarta
 url: https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
 url_resolved: https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
 homepage: https://jak101fm.com/
-favicon: ""
+favicon: https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png
 tags: []
 country: Indonesia
 countrycode: ID
@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8'
+    codec: AAC
+    bitrate: 42
+    hls: true
+  - url: 'https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8'
+    codec: AAC
+    bitrate: 41
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

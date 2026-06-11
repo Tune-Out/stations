@@ -21,6 +21,15 @@ lastchangetime: 2026-03-17 07:25:55
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8'
+    codec: AAC
+    bitrate: 192
+    hls: true
+  - url: 'https://streamingv2.shoutcast.com/rtl-1025-best'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

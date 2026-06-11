@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 03:40:39
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'http://abm22.com.au:8000/CONTAINER134'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.radiosydney.com.au/ownplayer2016/AFFILIATES/Radio%20Darwin.m3u'
+    url_resolved: 'http://abm22.com.au:8000/CONTAINER134'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 0
 geo_lat: 45.81372579098662
 geo_long: 15.978240966796877
+curation: -0.05
+streams:
+  - url: 'http://s8.iqstreaming.com:8050/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://s8.iqstreaming.com:8050/listen.m3u'
+    url_resolved: 'http://s8.iqstreaming.com:8050/stream'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

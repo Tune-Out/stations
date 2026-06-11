@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:38:46
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://streaming.brf.be/brf1-high.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.brf.be/brf1-high.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

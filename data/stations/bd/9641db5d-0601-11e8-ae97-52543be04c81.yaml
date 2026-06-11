@@ -3,7 +3,7 @@ name: Greek Otaku Radio
 url: http://usa2.fastcast4u.com:3684/;
 url_resolved: http://usa2.fastcast4u.com:3684/;
 homepage: http://goradio.gr/
-favicon: ""
+favicon: https://goradio.gr/wp-content/uploads/2025/02/cropped-6_icon_main-180x180.png
 tags:
   - anime
 country: Greece
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:53:32
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://usa2.fastcast4u.com:3684/;'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://usa2.fastcast4u.com/proxy/greekota?mp=/1?ver=501737'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community

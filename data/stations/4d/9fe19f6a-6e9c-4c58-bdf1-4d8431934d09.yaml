@@ -22,6 +22,15 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 15
 geo_lat: 40.785114
 geo_long: -124.183922
+curation: 0.55
+duplicate_of: 9617a958-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'https://stream.radioparadise.com/flac'
+    codec: OGG
+    bitrate: 1441
+  - url: 'http://stream.radioparadise.com/flac'
+    codec: OGG
+    bitrate: 1441
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

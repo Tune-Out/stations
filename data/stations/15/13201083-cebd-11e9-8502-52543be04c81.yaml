@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 04:14:02
 clickcount: 3
 geo_lat: 61.120930879735546
 geo_long: 10.462401226998631
+curation: -0.10
+streams:
+  - url: 'https://nrj.p4groupaudio.com/NRJ_AH'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://nrj.p4groupaudio.com/NRJ_MM'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

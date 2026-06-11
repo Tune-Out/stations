@@ -21,6 +21,14 @@ lastchangetime: 2026-03-14 20:39:00
 clickcount: 1
 geo_lat: 52.04365765595455
 geo_long: -2.0635832685338977
+curation: 0.35
+streams:
+  - url: 'https://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/dash/bbc_radio_bristol-audio%3d96000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

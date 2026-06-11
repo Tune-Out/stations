@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:49:44
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'http://media-the.musicradio.com/RadioXLondon'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://media-the.musicradio.com/RadioXLondonMP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

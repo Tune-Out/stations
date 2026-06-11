@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 04:21:20
 clickcount: 1
 geo_lat: 46.084772031353296
 geo_long: 14.485806226730348
+curation: -0.05
+duplicate_of: 51db6f1f-9f5c-4c5e-b85e-15f939d1a78a
+streams:
+  - url: 'https://live.radio1.si/Radio1'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://live.radio1.si/Radio1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

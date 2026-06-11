@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://bokanews.me:8000/source'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://bokanews.me:8000/source?1734500086794'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

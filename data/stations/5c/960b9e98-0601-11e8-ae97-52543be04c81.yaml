@@ -3,7 +3,7 @@ name: Вести ФМ (Vesti FM)
 url: http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 url_resolved: http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 homepage: http://radiovesti.ru/
-favicon: ""
+favicon: https://cdn.smotrim.ru/static/front/favicon/apple-touch-icon.png
 tags:
   - news
 country: The Russian Federation
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:35:18
 clickcount: 63
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: state media

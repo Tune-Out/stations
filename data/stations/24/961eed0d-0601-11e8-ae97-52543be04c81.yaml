@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:31:18
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://netradio.ziniur.lt:8000/ziniur.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://netradio.ziniur.lt/ziniur_64.mp3'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

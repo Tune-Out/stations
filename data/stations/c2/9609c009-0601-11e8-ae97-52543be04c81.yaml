@@ -3,7 +3,7 @@ name: HardRadio [MP3]
 url: http://www.hardradio.com/streaming/hardmp3.pls
 url_resolved: http://144.217.29.205/
 homepage: http://www.hardradio.com/
-favicon: ""
+favicon: https://www.hardradio.com/favicon.ico
 tags:
   - metal
   - rock
@@ -23,6 +23,15 @@ lastchangetime: 2026-01-14 23:56:58
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://3634.cloudrad.io/stream/3//hardradio4.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://www.hardradio.com/streaming/hardmp3.pls'
+    url_resolved: 'http://144.217.29.205/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,14 @@ lastchangetime: 2026-01-19 14:17:50
 clickcount: 0
 geo_lat: -10.45052736554322
 geo_long: -50.78686338398253
+curation: 0.35
+streams:
+  - url: 'https://stm6.xcast.com.br:9328/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://stm6.xcast.com.br:9328/;?1685284162874'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

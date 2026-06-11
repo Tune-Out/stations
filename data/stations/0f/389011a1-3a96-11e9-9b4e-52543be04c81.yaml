@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 04:25:41
 clickcount: 17
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.45
+streams:
+  - url: 'https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

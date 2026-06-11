@@ -3,7 +3,7 @@ name: __80s HITS
 url: http://stream.laut.fm/80sexitos
 url_resolved: http://stream.laut.fm/80sexitos
 homepage: https://musica80.radioclub.es/
-favicon: ""
+favicon: https://musica80.radioclub.es/wp-content/uploads/2018/12/cropped-80EXITS512-180x180.jpg
 tags:
   - 70s
   - 80s
@@ -28,6 +28,14 @@ lastchangetime: 2026-01-15 00:33:22
 clickcount: 14
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://stream.laut.fm/80sexitos'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.laut.fm/80sexitos'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

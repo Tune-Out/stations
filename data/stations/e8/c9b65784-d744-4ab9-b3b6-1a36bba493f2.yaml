@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 06:46:57
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://www.181.fm/stream/pls/181-beatles.pls'
+    url_resolved: 'http://listen.181fm.com/181-beatles_128k.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://listen.181fm.com/181-beatles_128k.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

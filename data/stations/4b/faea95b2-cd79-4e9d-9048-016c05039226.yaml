@@ -30,6 +30,14 @@ lastchangetime: 2026-01-15 01:10:52
 clickcount: 1
 geo_lat: 21.309385361977068
 geo_long: -157.8588715195656
+curation: -0.10
+streams:
+  - url: 'https://pacificmedia.cdnstream1.com/2783_64.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://pacificmedia.cdnstream1.com/2783_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

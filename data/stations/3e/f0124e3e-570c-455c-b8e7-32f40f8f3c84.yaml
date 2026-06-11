@@ -3,7 +3,7 @@ name: Bible Radio
 url: https://stream.radio.co/se9de95c10/listen
 url_resolved: https://stream.radio.co/se9de95c10/listen
 homepage: https://bible.radio/
-favicon: ""
+favicon: https://bible.radio/wp-content/plugins/pwa-for-wp/images/logo-512x512.png
 tags:
   - religious
 country: The Philippines
@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream.radio.co/se9de95c10/low'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://stream.radio.co/se9de95c10/listen'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

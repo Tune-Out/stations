@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 07:41:42
 clickcount: 0
 geo_lat: 47.00940166351215
 geo_long: 7.006219625473023
+curation: 0.35
+streams:
+  - url: 'http://stream.taradio.ch/dab'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://stream.taradio.ch/dab'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community

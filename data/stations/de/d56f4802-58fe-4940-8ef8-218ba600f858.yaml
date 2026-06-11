@@ -3,7 +3,7 @@ name: DNB FM
 url: https://air.dnbfm.ru/listen/player/play
 url_resolved: https://air.dnbfm.ru/listen/player/play
 homepage: https://dnbfm.ru/
-favicon: ""
+favicon: https://dnbfm.ru/static/icons/production/apple-touch-icon.png
 tags:
   - drum-and-bass
 country: The Russian Federation
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 04:15:07
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://air.dnbfm.ru/listen/player/qplay'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://air.dnbfm.ru/listen/player/play'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

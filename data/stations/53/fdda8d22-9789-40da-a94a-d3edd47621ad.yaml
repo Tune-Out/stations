@@ -19,6 +19,15 @@ lastchangetime: 2026-01-23 22:16:35
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://stream.radiofrance.fr/fbazur/fbazur.m3u8?id=radiofrance'
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: 'http://direct.francebleu.fr/live/fbazur-midfi.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

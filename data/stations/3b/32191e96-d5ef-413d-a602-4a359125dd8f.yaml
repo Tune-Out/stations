@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:34:44
 clickcount: 1
 geo_lat: 60.17083826356364
 geo_long: 24.94149684906006
+curation: -0.05
+streams:
+  - url: 'https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein'
+    codec: AAC
+    bitrate: 63
+  - url: 'https://stream-redirect.bauermedia.fi/ysari/ysari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:46:22
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://stream.fr.morow.com:8080/morow_hi.aacp'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://stream.fr.morow.com:8080/morow_med.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

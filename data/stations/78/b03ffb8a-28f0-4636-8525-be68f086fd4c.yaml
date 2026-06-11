@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 00:35:25
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8'
+    codec: AAC
+    bitrate: 238
+    hls: true
+  - url: 'https://live-radio01.mediahubaustralia.com/4FMW/aac/'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

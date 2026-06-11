@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 04:22:03
 clickcount: 7
 geo_lat: 51.483271518473224
 geo_long: 7.218933091498912
+curation: 0.50
+streams:
+  - url: 'https://stream.punkrockers-radio.de:8443/ogg?1727422503'
+    codec: OGG
+    bitrate: 192
+  - url: 'http://stream.punkrockers-radio.de:8000/mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

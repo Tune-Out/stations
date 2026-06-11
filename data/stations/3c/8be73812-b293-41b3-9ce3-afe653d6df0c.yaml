@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 23:37:16
 clickcount: 0
 geo_lat: -19.928295437713363
 geo_long: -43.945304453372955
+curation: -0.05
+streams:
+  - url: 'https://servidor28-2.brlogic.com:8424/live'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://servidor28-2.brlogic.com:8424/live?source=website'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

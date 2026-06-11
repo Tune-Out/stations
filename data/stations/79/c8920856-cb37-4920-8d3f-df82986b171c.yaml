@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://de3.amfmph.com:2199/tunein/retrocebu-stream.pls'
+    url_resolved: 'http://62.138.18.102:8128/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://de3.amfmph.com:2199/tunein/-stream/retrocebu.pls'
+    url_resolved: 'http://62.138.18.102:8128/stream'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

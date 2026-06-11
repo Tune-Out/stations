@@ -21,6 +21,14 @@ lastchangetime: 2026-05-24 13:37:48
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://mega-public-relay.deathsmack-a51.workers.dev/hifi.aac'
+    codec: AAC
+    bitrate: 320
+  - url: 'https://mega-public-relay.deathsmack-a51.workers.dev/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

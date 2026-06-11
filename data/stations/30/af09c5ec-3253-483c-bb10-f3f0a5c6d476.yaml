@@ -25,6 +25,14 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 0
 geo_lat: 41.91317113775803
 geo_long: -91.64905645192503
+curation: 0.55
+streams:
+  - url: 'http://stream.kcck.org/jazz883kcck'
+    codec: MP3
+    bitrate: 160
+  - url: 'https://stream.kcck.org/jazz883kcck'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

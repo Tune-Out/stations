@@ -19,6 +19,15 @@ lastchangetime: 2026-01-24 18:40:23
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://worship.lobpreisradio.de:8000/intern89486648977sdzuzigkztzi0plo9i8t7wm6f5mynwjiturwnwjgtu'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://worship.lobpreisradio.de:8000/anbetung-lobpreis-radio-32k-mp3-mono.m3u'
+    url_resolved: 'http://worship.lobpreisradio.de:8000/anbetung-lobpreis-radio-32k-mp3-mono'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

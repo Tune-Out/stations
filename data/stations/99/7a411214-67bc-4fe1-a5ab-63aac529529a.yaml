@@ -21,6 +21,12 @@ lastchangetime: 2026-01-15 01:22:50
 clickcount: 0
 geo_lat: 49.49857195736861
 geo_long: 8.502216116636971
+curation: -0.05
+streams:
+  - url: 'http://stream.regenbogen2.de/90errock/mp3-128/radiobrowser'
+    codec: AAC
+  - url: 'https://stream.regenbogen2.de/90errock/mp3-128/radiobrowser'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

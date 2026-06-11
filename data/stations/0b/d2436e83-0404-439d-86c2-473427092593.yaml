@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 00:23:35
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://195.91.237.50:8000/ices128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://195.91.237.50:8000/ices64'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://195.91.237.50:8000/ices32'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

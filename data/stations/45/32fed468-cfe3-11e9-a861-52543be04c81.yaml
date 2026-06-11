@@ -28,6 +28,14 @@ lastchangetime: 2026-01-15 08:47:21
 clickcount: 13
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://premium.shoutcastsolutions.com/radio/8050/256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://azuracast.ssl-stream.com/radio/8050/256.mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: online-only

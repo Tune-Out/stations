@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:17:03
 clickcount: 25
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://cast.magicstreams.gr:9125/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cast.magicstreams.gr/sc/psychill/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

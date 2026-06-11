@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 04:30:45
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://generations-njs.ice.infomaniak.ch/generations-njs.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://generations-njs.ice.infomaniak.ch/generations-njs.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 04:06:00
 clickcount: 4
 geo_lat: -6.204725253991695
 geo_long: 106.82556152343751
+curation: -0.05
+streams:
+  - url: 'http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

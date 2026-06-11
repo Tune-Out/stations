@@ -24,6 +24,17 @@ lastchangetime: 2026-01-15 00:50:24
 clickcount: 382
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'https://liveradio.swr.de/sw331ch/swr3/play.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://liveradio.swr.de/sw890cl/swr3/'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://liveradio.swr.de/sw282p3/swr3/play.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

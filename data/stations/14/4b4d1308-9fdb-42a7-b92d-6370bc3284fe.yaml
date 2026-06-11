@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 12
 geo_lat: null
 geo_long: null
+curation: 0.60
+duplicate_of: 961fa288-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://radio.stereoscenic.com/asp-s'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.stereoscenic.com/asp-s'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

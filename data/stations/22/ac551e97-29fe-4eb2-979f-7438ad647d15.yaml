@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 11
 geo_lat: 59.345771564641424
 geo_long: 18.095956390161508
+curation: 0.50
+streams:
+  - url: 'https://edge1.sr.se/p4sth-aac-320'
+    codec: AAC
+    bitrate: 288
+  - url: 'https://http-live.sr.se/p4stockholm-mp3-192'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

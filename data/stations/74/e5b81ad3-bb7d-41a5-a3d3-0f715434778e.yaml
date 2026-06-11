@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 00:36:24
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream3.megarockradio.net:80/'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://stream.megarockradio.net:8000/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,12 @@ lastchangetime: 2026-01-15 03:17:37
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://ic4.101.ru:8000/stream/air/aac/64/200'
+    codec: AAC
+  - url: 'http://ic4.101.ru:8000/stream/air/aac/64/200'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

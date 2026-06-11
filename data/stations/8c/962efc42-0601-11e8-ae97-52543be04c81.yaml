@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 01:13:18
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://91.121.38.216:8028/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.shoutcastitalia.com/proxy/domusnovas?mp=/stream?ext=.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

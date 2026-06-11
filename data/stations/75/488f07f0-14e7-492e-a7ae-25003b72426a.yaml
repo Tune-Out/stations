@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 06:05:37
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://radio.shadowfr69.eu/ogg'
+    codec: OGG
+    bitrate: 192
+  - url: 'https://radio.shadowfr69.eu/mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

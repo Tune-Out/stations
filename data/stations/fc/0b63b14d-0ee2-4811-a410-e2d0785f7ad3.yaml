@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:22:11
 clickcount: 1
 geo_lat: 43.259173894475225
 geo_long: -79.90097880363466
+curation: -0.05
+streams:
+  - url: 'http://live.leanstream.co/CINGFM'
+    codec: AAC+
+    bitrate: 57
+  - url: 'http://live.leanstream.co/CINGFM-MP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

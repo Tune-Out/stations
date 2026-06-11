@@ -25,6 +25,23 @@ lastchangetime: 2026-01-15 08:22:03
 clickcount: 1
 geo_lat: 44.825285717808896
 geo_long: 20.455470085144047
+curation: 0.35
+streams:
+  - url: 'https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media

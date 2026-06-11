@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://yesfmboracay.radioca.st:2199/tunein/yesfmboracay-stream.pls'
+    url_resolved: 'http://95.217.34.48:8253/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://yesfmboracay.radioca.st:2199/tunein/yesfmboracay-stream.pls'
+    url_resolved: 'http://95.217.34.48:8253/stream'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial

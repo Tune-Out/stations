@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://dieneue1077.cast.addradio.de/dieneue1077/modernrock/low/stream.aac'
+    codec: AAC+
+    bitrate: 63
+  - url: 'http://dieneue1077.cast.addradio.de/dieneue1077/modernrock/high/stream.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

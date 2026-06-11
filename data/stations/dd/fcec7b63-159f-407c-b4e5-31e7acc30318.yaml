@@ -22,6 +22,14 @@ lastchangetime: 2026-05-30 21:04:39
 clickcount: 0
 geo_lat: 4.707828375218317
 geo_long: -74.066162109375
+curation: 0.55
+streams:
+  - url: 'https://radio06.cehis.net/proxy/javerian?mp=%2Fstream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio06.cehis.net/proxy/javerian?mp=%2Fstream'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

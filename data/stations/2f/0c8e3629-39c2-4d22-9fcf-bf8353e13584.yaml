@@ -3,7 +3,7 @@ name: Ottawa Hot 89.9 (CIHTFM)
 url: https://newcap.leanstream.co/CIHTFM?args=web_01
 url_resolved: https://newcap.leanstream.co/CIHTFM?args=web_01
 homepage: https://www.hot899.com/
-favicon: ""
+favicon: https://media-cdn.socastsrm.com/uploads/station/837/squareIcon.png?r=33536
 tags: []
 country: Canada
 countrycode: CA
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:45:24
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://newcap.leanstream.co/CIHTFM?args=web_01'
+    codec: AAC
+    bitrate: 133
+  - url: 'http://newcap.leanstream.co/CIHTFM'
+    codec: AAC
+    bitrate: 132
 research:
   reviewed_at: 2026-06-09
   nature: commercial

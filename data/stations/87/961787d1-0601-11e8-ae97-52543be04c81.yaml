@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 07:07:34
 clickcount: 69
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://stream2.friskyradio.com/frisky_mp3_hi'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://stream.frisky.friskyradio.com/frisky_mp3_high'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

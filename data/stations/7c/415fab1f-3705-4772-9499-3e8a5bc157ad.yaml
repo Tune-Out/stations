@@ -20,6 +20,14 @@ lastchangetime: 2026-05-03 17:41:19
 clickcount: 1
 geo_lat: 40.7671803317545
 geo_long: -111.90830469131473
+curation: 0.35
+streams:
+  - url: 'https://stream.xmission.com/kuaa'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.xmission.com/kuaa'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:31:59
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://streaming.live365.com/a29903'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ais-edge101-live365-dal02.cdnstream.com/a29903'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

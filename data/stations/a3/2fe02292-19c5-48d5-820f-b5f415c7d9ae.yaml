@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:04:47
 clickcount: 1
 geo_lat: 44.43086704853801
 geo_long: -81.39358520507814
+curation: 0.35
+streams:
+  - url: 'http://bayshore-ais.leanstream.co/CFPSFM'
+    codec: AAC
+    bitrate: 63
+  - url: 'http://bayshore-ais.leanstream.co/CFPSFM-MP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

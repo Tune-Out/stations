@@ -23,6 +23,23 @@ lastchangetime: 2026-01-15 03:31:41
 clickcount: 82
 geo_lat: null
 geo_long: null
+curation: 0.90
+streams:
+  - url: 'http://relax.stream.publicradio.org/relax.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://favorites.stream.publicradio.org/favorites.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ycradio.stream.publicradio.org/ycradio.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://lullabies.stream.publicradio.org/lullabies.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://holiday.stream.publicradio.org/holiday_yc.mp3?cb=8282040137'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

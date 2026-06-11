@@ -3,7 +3,7 @@ name: Radio TEV
 url: http://stream.radiotev.lv:8002/radiov
 url_resolved: http://stream.radiotev.lv:8002/radiov
 homepage: https://www.radiotev.lv/
-favicon: ""
+favicon: https://radiotev.lv/uploads/LOGO/Saraksta%20skata%20kart%C4%ABte/saraksta%20skata%20kartite_250x250_SMG.png
 tags: []
 country: Latvia
 countrycode: LV
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.radiotev.lv:8002/radiov'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://stream.radiotev.lv:8443/radiov'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

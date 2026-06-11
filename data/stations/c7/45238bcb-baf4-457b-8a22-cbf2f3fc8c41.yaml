@@ -19,6 +19,14 @@ lastchangetime: 2026-05-15 20:23:47
 clickcount: 0
 geo_lat: 53.41759436497691
 geo_long: -3.046774864196778
+curation: -0.05
+streams:
+  - url: 'http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/2AHQ'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/2A'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

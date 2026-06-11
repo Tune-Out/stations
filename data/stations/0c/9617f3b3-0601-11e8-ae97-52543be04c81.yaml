@@ -3,7 +3,7 @@ name: The 1920s Radio Network (MP3)
 url: http://tess.fast-serv.com:8570/
 url_resolved: http://tess.fast-serv.com:8570/
 homepage: http://www.the1920snetwork.com/
-favicon: ""
+favicon: https://assets.zyrosite.com/y7FC5CJLt7n6tUCg/ai-logo-QMy1kbYXl3W6GpVc.svg
 tags:
   - jazz
   - blues
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 04:36:26
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://tess.fast-serv.com:8570/'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://tess.fast-serv.com:8570/;'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

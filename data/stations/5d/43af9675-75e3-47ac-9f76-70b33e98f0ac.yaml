@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 03:53:54
 clickcount: 0
 geo_lat: 62.954411289704325
 geo_long: -155.5973052978516
+curation: 0.65
+streams:
+  - url: 'https://ksko.streamguys1.com/live-aac'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://ksko.streamguys1.com/live'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

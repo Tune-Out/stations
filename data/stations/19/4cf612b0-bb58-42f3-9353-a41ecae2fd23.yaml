@@ -3,7 +3,7 @@ name: FIP Metal
 url: https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8?id=radiofrance
 url_resolved: https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8?id=radiofrance
 homepage: https://www.radiofrance.fr/fip/radio-metal
-favicon: ""
+favicon: https://www.radiofrance.fr/external/favicons/fip/favicon.png
 tags:
   - metal
 country: France
@@ -20,6 +20,8 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: 49.14147079252711
 geo_long: 1.8896484375
+curation: 0.50
+duplicate_of: 05232733-7804-47c4-b9d8-b570739900c7
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

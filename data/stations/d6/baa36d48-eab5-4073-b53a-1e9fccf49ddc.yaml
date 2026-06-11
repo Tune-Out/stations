@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 01:08:14
 clickcount: 0
 geo_lat: 51.04553840498824
 geo_long: -1.7954137340867795
+curation: 0.35
+streams:
+  - url: 'http://mscp3.live-streams.nl:8250/class-flac.flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://mscp3.live-streams.nl:8252/class-flac.flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'http://mscp3.live-streams.nl:8250/class-high.aac'
+    codec: AAC
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial

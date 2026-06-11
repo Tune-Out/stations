@@ -21,6 +21,14 @@ lastchangetime: 2026-02-28 18:12:51
 clickcount: 0
 geo_lat: 45.41285505960175
 geo_long: 12.372432053089144
+curation: 0.50
+streams:
+  - url: 'https://uk2.streamingpulse.com/ssl/bzr'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://uk2.streamingpulse.com/ssl/bzr?v=20200621'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

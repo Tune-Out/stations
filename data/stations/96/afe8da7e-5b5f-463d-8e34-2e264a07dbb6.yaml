@@ -20,6 +20,29 @@ lastchangetime: 2026-05-26 16:41:18
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://radio6.dixi.md/listen/indie_rock/indie_rock.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://radio6.dixi.md/listen/new_rock/new_rock128.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://radio6.dixi.md/listen/workout_rock/workout.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://radio6.dixi.md/listen/pop_rock/pop_rock.acc'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://radio6.dixi.md/listen/rock_ballads/rockballads128.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

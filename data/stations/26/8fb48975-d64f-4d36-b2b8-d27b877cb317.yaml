@@ -22,6 +22,14 @@ lastchangetime: 2026-01-30 03:42:23
 clickcount: 1
 geo_lat: -37.68903678658054
 geo_long: 176.1404101388368
+curation: 0.25
+streams:
+  - url: 'https://s2.stationplaylist.com:9000/gaiafm.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://s2.stationplaylist.com:9000/gaiafm.aac'
+    codec: AAC+
+    bitrate: 80
 research:
   reviewed_at: 2026-06-09
   nature: commercial

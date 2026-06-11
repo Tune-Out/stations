@@ -3,7 +3,7 @@ name: NIA Radio Lo-Fi
 url: https://radio.nia.nc/radio/8020/lofi-hq-stream.aac
 url_resolved: https://radio.nia.nc/radio/8020/lofi-hq-stream.aac
 homepage: https://nia.nc/
-favicon: ""
+favicon: https://nia.nc/static/icons/apple-touch-icon.png
 tags:
   - chillout
   - lofi
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 08:38:09
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://radio.nia.nc/radio/8020/lofi-hq-stream.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://radio.nia.nc/radio/8020/lofi-hq-stream.aac?1734100301'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

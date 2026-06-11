@@ -3,7 +3,7 @@ name: my105 - Deep
 url: http://stream01.my105.ch/my105deep.mp3
 url_resolved: http://stream01.my105.ch/my105deep.mp3
 homepage: http://www.my105.ch/deep
-favicon: ""
+favicon: http://www.my105.ch/typo3conf/ext/ep_template_my105/Resources/Public/Images/Favicons/apple-touch-icon.png
 tags:
   - house
 country: Switzerland
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 00:07:55
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 96410337-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial

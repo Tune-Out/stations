@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 06:12:34
 clickcount: 3
 geo_lat: 48.85379743616544
 geo_long: 2.344550636958598
+curation: 0.75
+duplicate_of: 6a1440b2-e6f0-11e9-a96c-52543be04c81
+streams:
+  - url: 'https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBose'
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: 'https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance'
+    codec: AAC
+    bitrate: 107
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

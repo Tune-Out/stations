@@ -24,6 +24,18 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.95
+streams:
+  - url: 'https://wgbh-hls.streamguys1.com/wgbh_hls/playlist.m3u8'
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: 'https://wgbh-live.streamguys1.com/wgbh-aac'
+    codec: AAC
+    bitrate: 52
+  - url: 'https://wgbh-live.streamguys1.com/wgbh-noads'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

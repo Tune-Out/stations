@@ -21,6 +21,14 @@ lastchangetime: 2026-04-06 06:39:53
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://s11.citrus3.com:8238/stream'
+    codec: AAC
+    bitrate: 256
+  - url: 'https://s11.citrus3.com:2020/stream/activo199fm'
+    codec: AAC
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

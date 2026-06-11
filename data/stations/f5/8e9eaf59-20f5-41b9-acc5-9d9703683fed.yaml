@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 01:37:58
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://streams.egofm.de/egoFMHK-lq'
+    url_resolved: 'https://cast.egofm.de/egofmhk.aac?ar-distributor=ffa0&aw_0_req.gdpr=true'
+    codec: AAC+
+    bitrate: 63
+  - url: 'https://streams.egofm.de/egoFMHK-hq'
+    url_resolved: 'https://cast.egofm.de/egofmhk.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,18 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://direct.fipradio.fr/live/fipgroove-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://radio-metadata.fr:8000/fipgroove'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.radiofrance.fr/fipgroove/fipgroove.m3u8'
+    codec: AAC
+    bitrate: 107
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

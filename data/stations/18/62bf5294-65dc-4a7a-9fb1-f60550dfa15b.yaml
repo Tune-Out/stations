@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 2
 geo_lat: 41.37632552251485
 geo_long: 2.1492004394531254
+curation: -0.05
+streams:
+  - url: 'http://streaming2.elitecomunicacion.es:8134/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://streaming2.elitecomunicacion.es:8134/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

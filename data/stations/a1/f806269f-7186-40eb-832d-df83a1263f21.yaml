@@ -3,7 +3,7 @@ name: Radio Schlagerparadies
 url: http://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 url_resolved: http://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 homepage: https://schlagerparadies.de/
-favicon: ""
+favicon: https://cdn.schlagerparadies.de/images/rsp_setup/apple-icon-180x180.png
 tags: []
 country: Germany
 countrycode: DE
@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://webstream.schlagerparadies.de/schlagerparadies128k.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://webstream.schlagerparadies.de/schlagerparadies128k.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://webstream.schlagerparadies.de/schlagerparadies128.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

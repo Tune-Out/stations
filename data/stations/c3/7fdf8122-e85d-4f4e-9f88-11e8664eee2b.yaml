@@ -23,6 +23,19 @@ lastchangetime: 2026-01-14 23:32:04
 clickcount: 3
 geo_lat: 48.86783140807123
 geo_long: 2.3006057739257817
+curation: 0.65
+streams:
+  - url: 'http://radio-metadata.fr:8000/francemusique'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance'
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: 'https://stream.radiofrance.fr/francemusique/francemusique.m3u8'
+    codec: AAC
+    bitrate: 107
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

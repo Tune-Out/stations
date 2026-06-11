@@ -3,7 +3,7 @@ name: Republic Radio
 url: http://netradio.live24.gr/republicthess
 url_resolved: http://netradio.live24.gr/republicthess
 homepage: http://www.republicradio.gr/
-favicon: ""
+favicon: https://republicradio.gr/wp-content/uploads/elementor/thumbs/Asset-9@4x-8-pqop3o40fvm12u5gzylsje71yh33zj2jflepp5boew.png
 tags: []
 country: Greece
 countrycode: GR
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 07:52:50
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://netradio.live24.gr/republicthess'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://netradio.live24.gr/republicthess'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

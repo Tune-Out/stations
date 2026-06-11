@@ -30,6 +30,16 @@ lastchangetime: 2026-05-19 01:25:18
 clickcount: 4
 geo_lat: 19.434181356903075
 geo_long: -99.13315773010255
+curation: 0.25
+streams:
+  - url: 'https://mdstrm.com/audio/69373baa6d5fd824ec8440c5/live.m3u8'
+    codec: AAC
+    bitrate: 194
+    hls: true
+  - url: 'https://mdstrm.com/audio/69373baa6d5fd824ec8440c5/live.m3u8'
+    codec: AAC
+    bitrate: 130
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

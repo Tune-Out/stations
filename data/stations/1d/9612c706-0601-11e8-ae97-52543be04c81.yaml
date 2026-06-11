@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:59:14
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://radio.m-1.fm/m1plius/aacp64'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://radio.m-1.fm/m1plius/mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

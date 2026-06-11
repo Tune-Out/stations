@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 03:57:28
 clickcount: 1
 geo_lat: 53.53932806463955
 geo_long: -113.48190307617188
+curation: -0.05
+streams:
+  - url: 'https://corus.leanstream.co/CKNGFM'
+    codec: AAC+
+    bitrate: 57
+  - url: 'https://corus.leanstream.co/CKNGFM-MP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

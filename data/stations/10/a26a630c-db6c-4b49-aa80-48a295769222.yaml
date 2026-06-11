@@ -22,6 +22,17 @@ lastchangetime: 2026-01-14 23:17:40
 clickcount: 0
 geo_lat: 47.05282307276872
 geo_long: -67.73989231478923
+curation: 0.35
+streams:
+  - url: 'http://shout.radiocountryacadienne.com:8004/index.html?sid=1'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://shout.radiocountryacadienne.com:8004/index.html?sid=1'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://shout.radiocountryacadienne.com:8004/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

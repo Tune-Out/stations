@@ -24,6 +24,17 @@ lastchangetime: 2026-01-15 03:39:23
 clickcount: 83
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://ep256.hostingradio.ru:8052/europaplus256.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ep128.streamr.ru/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://europaplus.hostingradio.ru:8014/europaplus320f.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

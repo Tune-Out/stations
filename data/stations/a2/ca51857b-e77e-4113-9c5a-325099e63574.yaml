@@ -19,6 +19,12 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-04-14 10:04:19
 clickcount: 0
+curation: 0.35
+streams:
+  - url: 'https://stream1.wappuradio.fi/wappuradio.opus'
+    codec: OGG
+  - url: 'http://stream1.wappuradio.fi/wappuradio.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community

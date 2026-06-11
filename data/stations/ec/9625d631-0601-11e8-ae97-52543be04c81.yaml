@@ -3,7 +3,7 @@ name: Radio Swiss Jazz
 url: http://www.radioswissjazz.ch/live/aacp32.m3u
 url_resolved: http://stream.srg-ssr.ch/srgssr/rsj/aac/48
 homepage: http://www.radioswissjazz.ch/
-favicon: ""
+favicon: https://www.radioswissjazz.ch/favicon.ico
 tags:
   - jazz
   - public-radio
@@ -21,6 +21,8 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.60
+duplicate_of: 961ac56b-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

@@ -25,6 +25,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 50.65812980108474
 geo_long: 3.0540068973990357
+curation: 0.40
+streams:
+  - url: 'http://82.64.164.43:8000/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://here4ears.ddns.net/'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

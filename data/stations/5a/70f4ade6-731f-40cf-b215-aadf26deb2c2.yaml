@@ -21,6 +21,16 @@ lastchangetime: 2026-02-11 15:15:20
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://nigga.pt/ambient.ogg'
+    codec: OGG
+  - url: 'https://nigga.pt/chill.ogg'
+    codec: OGG
+  - url: 'http://nigga.pt:8000/hood.ogg'
+    codec: OGG
+  - url: 'https://nigga.pt/party.ogg'
+    codec: OGG
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

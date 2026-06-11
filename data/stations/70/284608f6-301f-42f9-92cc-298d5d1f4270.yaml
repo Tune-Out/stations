@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:00:57
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://ice42.securenetsystems.net/KUTC?playSessionID=E3096491-9777-984E-766F5F20F6CFC992'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice42.securenetsystems.net/KUTC'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

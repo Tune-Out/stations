@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 00:40:59
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://provisioning.streamtheworld.com/pls/KWQWFMAAC.pls'
+    url_resolved: 'http://18433.live.streamtheworld.com:3690/KWQWFMAAC_SC'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

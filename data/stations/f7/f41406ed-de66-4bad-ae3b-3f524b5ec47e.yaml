@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 44.63720190331109
 geo_long: 0.7432079315185547
+curation: -0.05
+streams:
+  - url: 'http://direct.radio4.fr:8000/radio4.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://direct.radio4.fr/radio4.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -22,6 +22,12 @@ lastchangetime: 2026-01-15 00:34:09
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://st1.urbanrevolution.es:8443/zonaelectronica'
+    codec: OGG
+  - url: 'https://st1.urbanrevolution.es:8443/hispano'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

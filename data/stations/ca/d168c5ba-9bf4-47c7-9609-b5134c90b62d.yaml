@@ -3,7 +3,7 @@ name: Bar Legend Radio
 url: https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream
 url_resolved: https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream
 homepage: https://www.barlegendradio.net/
-favicon: ""
+favicon: https://www.barlegendradio.net/favicon.ico
 tags:
   - blues
   - jazz
@@ -26,6 +26,14 @@ lastchangetime: 2026-01-14 23:27:13
 clickcount: 0
 geo_lat: 39.638544182137466
 geo_long: 22.416298985481266
+curation: 0.25
+streams:
+  - url: 'https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://solid24.streamupsolutions.com:8010/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -31,6 +31,14 @@ lastchangetime: 2026-01-15 04:34:41
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://193.111.125.15:8010/soothingradio'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://5.180.81.227:8020/soothingradio'
+    codec: MP3
+    bitrate: 112
 research:
   reviewed_at: 2026-06-09
   nature: commercial

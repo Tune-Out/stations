@@ -3,7 +3,7 @@ name: I.M. Καστοριάς 97.9
 url: http://eco.onestreaming.com:8498/
 url_resolved: http://eco.onestreaming.com:8498/
 homepage: http://www.imkastorias.gr/
-favicon: ""
+favicon: https://www.imkastorias.gr/wp-content/uploads/2020/03/favicon-1.ico
 tags:
   - religious
 country: Greece
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://eco.onestreaming.com:8498/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://eco.onestreaming.com:8498/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

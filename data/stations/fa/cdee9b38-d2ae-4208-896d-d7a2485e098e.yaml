@@ -19,6 +19,12 @@ lastchangetime: 2026-05-07 14:26:33
 clickcount: 4
 geo_lat: 49.74622500084091
 geo_long: 8.854980468750002
+curation: 0.50
+streams:
+  - url: 'http://ondemand-mp3.dradio.de/file/dradio/nachrichten/nachrichten.mp3'
+    codec: MP3
+  - url: 'https://ondemand-mp3.dradio.de/file/dradio/nachrichten/nachrichten.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

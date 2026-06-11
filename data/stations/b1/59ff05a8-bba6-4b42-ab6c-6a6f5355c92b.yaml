@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 00:57:53
 clickcount: 20
 geo_lat: 53.079067535458144
 geo_long: 8.805541992187502
+curation: 0.65
+streams:
+  - url: 'https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

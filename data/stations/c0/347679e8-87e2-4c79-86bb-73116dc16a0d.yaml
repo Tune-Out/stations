@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:31:23
 clickcount: 1
 geo_lat: 51.07642128980125
 geo_long: -114.1277414560318
+curation: 0.50
+streams:
+  - url: 'https://cjsw.leanstream.co/CJSWFM'
+    codec: AAC
+    bitrate: 96
+  - url: 'http://stream.cjsw.com/cjsw.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

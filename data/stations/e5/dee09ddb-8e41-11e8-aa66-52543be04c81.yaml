@@ -21,6 +21,23 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 7
 geo_lat: 30.76
 geo_long: -86.57
+curation: 0.55
+streams:
+  - url: 'https://streams.abidingradio.com:7800/1'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.abidingradio.com:7840/1'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.abidingradio.com:7830/1'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.abidingradio.com:7810/1'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.abidingradio.com:7820/1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -19,6 +19,12 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.antenne1.de/a1rt/livestream1.aac'
+    codec: AAC
+  - url: 'http://stream.antenne1.de/a1rt/livestream2.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

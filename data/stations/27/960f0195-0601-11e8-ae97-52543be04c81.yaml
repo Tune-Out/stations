@@ -21,6 +21,13 @@ lastchangetime: 2026-01-14 23:31:23
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://webstream.galaxy-oberfranken.de/galaxy-oberfranken.aac'
+    codec: AAC
+  - url: 'http://webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

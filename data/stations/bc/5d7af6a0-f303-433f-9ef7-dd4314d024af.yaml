@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:40:44
 clickcount: 0
 geo_lat: 44.78183504339988
 geo_long: 5.097656250000001
+curation: 0.20
+streams:
+  - url: 'https://radio3.pro-fhi.net/listen/pzjdzjjq/stream.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://radio3.pro-fhi.net/listen/pzjdzjjq/stream.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial

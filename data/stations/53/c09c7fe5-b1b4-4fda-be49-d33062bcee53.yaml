@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:29:43
 clickcount: 0
 geo_lat: 52.51339539526479
 geo_long: 13.396439005738031
+curation: 0.50
+streams:
+  - url: 'http://ice.rosebud-media.de:8000/88vier'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://ice.rosebud-media.de:8000/88vier-low'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

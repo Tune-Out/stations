@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 02:22:41
 clickcount: 1
 geo_lat: 42.6977
 geo_long: 23.3219
+curation: 0.20
+streams:
+  - url: 'https://play.global.audio/citylatinhi.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://play.global.audio/citylatin.aac'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

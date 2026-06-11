@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 06:12:34
 clickcount: 0
 geo_lat: 18.89585449449637
 geo_long: -96.93589210510255
+curation: -0.10
+streams:
+  - url: 'https://streaming.sistemasmvsradio.com/proxy/afixhag/stream'
+    codec: MP3
+    bitrate: 160
+  - url: 'http://hd.digitalradio.mx:5906/;stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

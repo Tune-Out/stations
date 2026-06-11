@@ -23,6 +23,13 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://lhttp-hw.qtfm.cn/live/20211668/64k.mp3'
+    codec: MP3
+  - url: 'http://live.ximalaya.com/radio-first-page-app/live/2572/64.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: community

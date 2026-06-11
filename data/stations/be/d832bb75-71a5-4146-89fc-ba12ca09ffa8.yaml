@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 08:06:32
 clickcount: 0
 geo_lat: 49.87349933920801
 geo_long: 8.641909246311618
+curation: 0.50
+streams:
+  - url: 'https://stream.radiodarmstadt.de/radar_uhd.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://stream.radiodarmstadt.de/radar_hd.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.radiodarmstadt.de/radar.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -22,6 +22,15 @@ lastchangetime: 2026-01-14 23:55:28
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.80
+streams:
+  - url: 'https://livestream.cprnetwork.org/pls/live_indie_aac.pls'
+    url_resolved: 'https://stream1.cprnetwork.org/cpr3_aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://stream1.cprnetwork.org/cpr3_lo'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

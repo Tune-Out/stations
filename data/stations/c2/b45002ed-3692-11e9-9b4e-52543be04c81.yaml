@@ -3,7 +3,7 @@ name: SRo1 Rádio Slovensko (256k)
 url: http://live.slovakradio.sk:8000/Slovensko_256.mp3
 url_resolved: http://live.slovakradio.sk:8000/Slovensko_256.mp3
 homepage: http://slovensko.rtvs.sk/
-favicon: ""
+favicon: https://www.stvr.sk/media/images/stvr-og.jpg
 tags: []
 country: Slovakia
 countrycode: SK
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 04:29:57
 clickcount: 33
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://live.slovakradio.sk:8000/Slovensko_256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://live.slovakradio.sk:8000/Slovensko_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

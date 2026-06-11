@@ -3,7 +3,7 @@ name: RauteMusik Lounge
 url: http://lounge-high.rautemusik.fm/
 url_resolved: http://lounge-high.rautemusik.fm/
 homepage: http://www.rautemusik.fm/lounge/
-favicon: ""
+favicon: https://www.rm.fm/favicon.ico
 tags:
   - ambient
   - chillout
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 01:44:13
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.90
+streams:
+  - url: 'http://lounge-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://lounge-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

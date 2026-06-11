@@ -21,6 +21,16 @@ lastchangetime: 2026-03-10 01:57:45
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://radio.intchoson.com/kcbs/index.m3u8'
+    codec: AAC
+    bitrate: 186
+    hls: true
+  - url: 'https://radio.intchoson.com/kcbs/index.m3u8'
+    codec: AAC
+    bitrate: 183
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media

@@ -24,6 +24,14 @@ lastchangetime: 2026-03-05 15:48:24
 clickcount: 0
 geo_lat: 25.543489354283913
 geo_long: -103.41044425964355
+curation: -0.05
+streams:
+  - url: 'https://streaming.servicioswebmx.com/8204/stream'
+    codec: AAC+
+    bitrate: 192
+  - url: 'https://streaming.servicioswebmx.com/8204/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

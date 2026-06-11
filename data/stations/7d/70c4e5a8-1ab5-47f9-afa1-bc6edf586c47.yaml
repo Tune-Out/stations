@@ -3,7 +3,7 @@ name: Christian Talk FM
 url: https://n07.radiojar.com/cm4by4kt2ceuv?rj-ttl=5&rj-tok=AAABel9L5qIAT_t_lI31ovcv0A
 url_resolved: https://n07.radiojar.com/cm4by4kt2ceuv?rj-ttl=5&rj-tok=AAABel9L5qIAT_t_lI31ovcv0A
 homepage: https://www.christiantalkfm.com/
-favicon: ""
+favicon: https://www.christiantalkfm.com/apple-touch-icon.png
 tags:
   - religious
   - talk
@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 02:28:27
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://n07.radiojar.com/cm4by4kt2ceuv?rj-ttl=5&rj-tok=AAABel9L5qIAT_t_lI31ovcv0A'
+    codec: MP3
+  - url: 'http://ample.radiojar.com/cm4by4kt2ceuv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: religious

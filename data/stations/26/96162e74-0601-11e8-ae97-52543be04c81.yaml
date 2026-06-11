@@ -3,7 +3,7 @@ name: France Musique | Classique Easy
 url: http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3
 url_resolved: http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3
 homepage: https://www.francemusique.fr/webradio-classique-easy/
-favicon: ""
+favicon: https://www.radiofrance.fr/external/favicons/francemusique/favicon.png
 tags:
   - classical
 country: France
@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 03:43:13
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'http://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3?ID=76zqey582k'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

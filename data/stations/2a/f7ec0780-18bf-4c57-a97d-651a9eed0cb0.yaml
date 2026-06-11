@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 2
 geo_lat: 48.80107430303868
 geo_long: 2.4169921875000004
+curation: 0.50
+streams:
+  - url: 'https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

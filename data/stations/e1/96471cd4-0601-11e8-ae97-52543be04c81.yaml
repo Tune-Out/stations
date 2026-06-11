@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:11:09
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://sr3.inmystream.info:8002/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://sr7.inmystream.it/proxy/vanessa?mp=/stream&1769754430506'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -21,6 +21,15 @@ lastchangetime: 2026-02-08 23:19:09
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+duplicate_of: e83cf1e1-2406-4878-a9f7-06339002bd3b
+streams:
+  - url: 'https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

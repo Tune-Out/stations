@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 08:06:32
 clickcount: 2
 geo_lat: 60.09759340250411
 geo_long: 24.960843649656628
+curation: -0.05
+streams:
+  - url: 'https://rollfm.online/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.rollfm.fi/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -19,6 +19,26 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://cmr-hosting.com:7005/;stream/1'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://cmr-hosting.com:7004/;stream/1'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://cmr-hosting.com:7007/;stream/1'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://cmr-hosting.com:7001/;stream/1'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://cmr-hosting.com:7006/;stream/1'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://cmr-hosting.com:7002/;stream/1'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial

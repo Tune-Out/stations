@@ -23,6 +23,18 @@ lastchangetime: 2026-01-15 00:26:30
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8'
+    codec: AAC
+    bitrate: 177
+    hls: true
+  - url: 'https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR'
+    codec: AAC
+    bitrate: 167
+    hls: true
+  - url: 'https://radiocast.rtp.pt/rdpint80a.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

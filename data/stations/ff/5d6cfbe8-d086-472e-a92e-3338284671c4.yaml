@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 07:28:38
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://us2.internet-radio.com:8443/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://us2.internet-radio.com:8443/stream?type=http&nocache=32285'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

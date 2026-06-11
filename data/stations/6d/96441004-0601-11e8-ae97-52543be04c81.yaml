@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:54:35
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://streams.wkdu.org/listen.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://streams.wkdu.org/listen.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

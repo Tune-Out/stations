@@ -3,7 +3,7 @@ name: Δρομοσ 89,8 | Dromos 89,8
 url: http://netradio.live24.gr/dromos2
 url_resolved: http://netradio.live24.gr/dromos2
 homepage: https://www.dromosfm.gr/
-favicon: ""
+favicon: https://www.dromosfm.gr/wp-content/uploads/2016/09/favicon.ico
 tags:
   - pop
 country: Greece
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 22
 geo_lat: 38.07901368632015
 geo_long: 23.787590414831907
+curation: -0.05
+streams:
+  - url: 'http://netradio.live24.gr/dromos2'
+    codec: AAC+
+    bitrate: 160
+  - url: 'http://netradio.live24.gr/dromos2'
+    codec: AAC+
+    bitrate: 159
 research:
   reviewed_at: 2026-06-10
   nature: commercial

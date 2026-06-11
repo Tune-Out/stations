@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://str4uice.streamakaci.com/4uclassicrock.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://str4uice.streamakaci.com/4uclassicrock.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

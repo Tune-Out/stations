@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 02:44:03
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.25
+duplicate_of: 5558805d-e399-4869-9af8-926d0c100cef
+streams:
+  - url: 'http://pub0302.101.ru:8000/stream/air/aac/64/200'
+    codec: AAC
+  - url: 'http://pub0302.101.ru:8000/stream/air/aac/64/200?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI1ZDMwYmY4YzI2N2JjYjBiMzEwYmVjZTk4MzA3MmY5OCIsIklQIjoiOTMuMTAwLjI1Mi4yMjUiLCJVQSI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMDEuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzEwMS4wIiwidWlkX2NoYW5uZWwiOiIyMDAiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkZpcmVmb3giLCJCcm93c2VyVmVyc2lvbiI6IjEwMS4wIiwiU3lzdGVtIjoiV2luZG93cyAxMCIsImV4cCI6MTY1NTU5NDk4NX0.imcW43-YQ1BAypT_V-TqchGgYnXaGdSy05Ra22u28rk'
+    codec: AAC
+  - url: 'https://pub0302.101.ru:8000/stream/air/aac/64/200'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

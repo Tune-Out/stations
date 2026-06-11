@@ -3,7 +3,7 @@ name: ESKA - Do Pracy
 url: https://waw.ic.smcdn.pl/6140-1.mp3
 url_resolved: https://waw.ic.smcdn.pl/6140-1.mp3
 homepage: https://www.eska.tv/
-favicon: ""
+favicon: https://www.eska.tv/apple-touch-icon.png
 tags:
   - dance
   - pop
@@ -24,6 +24,17 @@ lastchangetime: 2026-01-15 06:57:09
 clickcount: 16
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://waw.ic.smcdn.pl/6140-1.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://waw.ic.smcdn.pl/6030-1.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://waw.ic.smcdn.pl/6120-1.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

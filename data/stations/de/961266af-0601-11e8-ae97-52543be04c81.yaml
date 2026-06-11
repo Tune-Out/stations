@@ -21,6 +21,28 @@ lastchangetime: 2026-01-15 07:38:17
 clickcount: 20
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'https://mdr-radio-hls.akamaized.net/hls/live/2112899/mdr-284300-1-hls/index.m3u8'
+    codec: AAC
+    bitrate: 102
+    hls: true
+  - url: 'http://avw.mdr.de/streams/284300-0_mp3_high.m3u'
+    url_resolved: 'http://d141.rndfnk.com/ard/mdr/284300/0/mp3/128/stream.mp3?cid=01FBQ0VVNFY9PE18EJE73MJAYC&sid=38HhqOQUs7SDJscW1s9PM8tHqfQ&token=tlzuRoBCKPkxprEeqkmM9Juh8WYmrkr5KVTZQL9oXXo&tvf=_CoGHwHrihhkMTQxLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3'
+    url_resolved: 'http://d141.rndfnk.com/ard/mdr/284300/0/mp3/128/stream.mp3?cid=01FBQ0VVNFY9PE18EJE73MJAYC&sid=38HnUMP2k7DRx0tqtiV7Mhpjjqa&token=axSLXoYbrvEKav9FHswOfrnu5gyUYqJYhw-12i6C_44&tvf=nyrwaIntihhkMTQxLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://avw.mdr.de/streams/284300-0_mp3_low.m3u'
+    url_resolved: 'http://d111.rndfnk.com/ard/mdr/284300/0/mp3/128/stream.mp3?cid=01FBQ0VVNFY9PE18EJE73MJAYC&sid=38GkQmLsjYsnC9pk5uKGBiepDDR&token=5XPkZTgGRKViAVLjoW3iCAqjTecaGTa55C2AlmLPJHQ&tvf=7cDpWFjQihhkMTExLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://avw.mdr.de/streams/284300-0_aac_high.m3u'
+    url_resolved: 'http://d141.rndfnk.com/ard/mdr/284300/0/mp3/128/stream.mp3?cid=01FBQ0VVNFY9PE18EJE73MJAYC&sid=38H0lW1CfZxnwRSYIp3F6QyRhO3&token=QEqG8w_T7Vh6NjxwS-Ma-9ylZvt0pizs6iXip6tA3SY&tvf=xSDUaazXihhkMTQxLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

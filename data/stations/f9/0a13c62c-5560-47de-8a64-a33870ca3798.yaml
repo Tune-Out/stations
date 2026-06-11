@@ -3,7 +3,7 @@ name: Polskie Radio Kierowców
 url: http://stream3.polskieradio.pl:8918/;
 url_resolved: http://stream3.polskieradio.pl:8918/;
 homepage: https://radiokierowcow.pl/
-favicon: ""
+favicon: https://radiokierowcow.pl/images/favicon.png
 tags:
   - classic-rock
   - rock
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://stream3.polskieradio.pl:8918/;'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream3.polskieradio.pl:8918/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

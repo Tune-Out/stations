@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:37:46
 clickcount: 4
 geo_lat: 52.50911076097552
 geo_long: 13.275582790374758
+curation: 0.60
+streams:
+  - url: 'http://www.rbbkultur.de/livemp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://www.rbbkultur.de/livemp3_s'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

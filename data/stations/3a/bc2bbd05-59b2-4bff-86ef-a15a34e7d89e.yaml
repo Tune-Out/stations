@@ -3,7 +3,7 @@ name: Deutsche Welle Radio
 url: https://dw.audiostream.io/dw/1027/mp3/64/dw08
 url_resolved: https://dw.audiostream.io/dw/1027/mp3/64/dw08
 homepage: https://dw.com/
-favicon: ""
+favicon: https://www.dw.com/images/icons/favicon-120x120.png
 tags:
   - news
 country: Germany
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 00:29:13
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.40
+duplicate_of: c04fdda3-b0f5-477b-a7a0-316ffe670524
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 0
 geo_lat: 52.400250855454345
 geo_long: 13.058972954750065
+curation: -0.05
+streams:
+  - url: 'https://stream.radiogroup.de/radio-potsdam/mp3-192/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://www.radio-potsdam.de/webradio/listen.pls'
+    url_resolved: 'https://stream.radiogroup.de/radio-potsdam/mp3-192/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

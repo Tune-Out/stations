@@ -18,6 +18,14 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
+curation: -0.10
+streams:
+  - url: 'http://rn1.fluidstream.eu/nostalgia_pv.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://rn1.fluidstream.eu/nostalgia_pv.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,22 @@ lastchangetime: 2026-01-15 01:36:04
 clickcount: 0
 geo_lat: 47.379373218513365
 geo_long: 8.540630936622621
+curation: 0.60
+streams:
+  - url: 'https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.pls'
+    url_resolved: 'https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://rundfunkfm.broadcast.brandsarelive.com:8020/radio.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.m3u'
+    url_resolved: 'https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3'
+    codec: MP3
+    bitrate: 170
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

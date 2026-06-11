@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 02:32:41
 clickcount: 1
 geo_lat: 43.73290248118248
 geo_long: 15.889663696289064
+curation: 0.35
+streams:
+  - url: 'http://144.76.219.22:8215/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://144.76.219.22:8215/stream.mp3?ver=421911'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

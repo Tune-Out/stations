@@ -29,6 +29,12 @@ lastchangetime: 2026-02-09 09:23:14
 clickcount: 0
 geo_lat: 55.874282203799176
 geo_long: 12.831585657847306
+curation: 0.35
+streams:
+  - url: 'https://stream.hitcity.se/live.mp3'
+    codec: MP3
+  - url: 'https://stream.hitcity.se/live'
+    codec: UNKNOWN
 research:
   reviewed_at: 2026-06-09
   nature: community

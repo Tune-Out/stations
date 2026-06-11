@@ -3,7 +3,7 @@ name: MBC FM
 url: http://serpent0.duckdns.org:8088/mbcsfm.pls
 url_resolved: https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6A115617F38D3554574DA5113B51CB4B856F3DB5250942A4363024a6B6DD3D96E5aB937C3C42E74E900637B102b4F139DC1360E1E70CBAE0DABEB23C0B01C78042CA551BDD30D8559BA4418B5C469A1DD0609723936DED72870177C9662827DFCD0D560AECF58C3E1DE9022BE53737C0
 homepage: http://www.imbc.com/
-favicon: ""
+favicon: https://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png
 tags: []
 country: The Republic Of Korea
 countrycode: KR
@@ -21,6 +21,7 @@ lastchangetime: 2026-01-15 03:00:03
 clickcount: 12
 geo_lat: null
 geo_long: null
+curation: 0.40
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

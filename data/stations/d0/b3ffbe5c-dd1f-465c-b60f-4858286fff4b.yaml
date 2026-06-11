@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 40.38311575089747
 geo_long: -75.23211658000947
+curation: 0.35
+streams:
+  - url: 'http://69.30.218.190:31608/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://69.30.218.190:31608/;'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

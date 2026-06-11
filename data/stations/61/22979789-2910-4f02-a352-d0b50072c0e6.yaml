@@ -25,6 +25,15 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-29 19:11:19
 clickcount: 3
+curation: 0.60
+streams:
+  - url: 'http://radio.shirayuki.org:9200/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://yggdrasilradio.com/yggdrasilradio_mp3_128kbps.pls'
+    url_resolved: 'http://radio.shirayuki.org:9200/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

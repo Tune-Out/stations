@@ -29,6 +29,14 @@ lastchangetime: 2026-01-15 03:39:23
 clickcount: 9
 geo_lat: 45.75292700196324
 geo_long: -0.6351470947265626
+curation: -0.05
+streams:
+  - url: 'https://hits1-audiomediaradio.radioca.st/hits1'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://radio12.pro-fhi.net/live/Hits%201%20radio'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

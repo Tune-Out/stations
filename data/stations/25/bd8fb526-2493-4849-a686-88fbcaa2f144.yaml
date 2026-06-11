@@ -20,6 +20,50 @@ lastchangetime: 2026-02-02 04:49:20
 clickcount: 6
 geo_lat: 37.52485424893256
 geo_long: 126.916760802269
+curation: 0.50
+streams:
+  - url: 'https://radio.bsod.kr/stream/?stn=sbs&ch=powerfm'
+    codec: AAC
+    bitrate: 146
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=cbs&ch=sfm'
+    codec: AAC
+    bitrate: 98
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=cbs&ch=mfmc'
+    codec: AAC
+    bitrate: 97
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=cbs&ch=joy4u'
+    codec: AAC
+    bitrate: 96
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=mbc&ch=chm'
+    codec: AAC
+    bitrate: 67
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=kbs&ch=1fm'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://zstream.win/pls/kbs_1fm.pls'
+    url_resolved: 'https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njk2NTYyNDd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=GC3o6d0UC6nNpCSTCFX1ikpp0ZNXiDDFtt~tBhOOaOtjRd-m-vxUa-hZzRra87pFmouze24OaWTFD0xXiK2O-apY~wtrqjEPZdd5re0ZA540Zi0mquHHUikyplvCtPyd2rNZrlAqwtzJFkEH3bmcUr6gb9uYrb7RGa2tJBpdF42ZmYvzbs0AQbrbuAGQg~fAU1UHqYvCI9y6u1-CwjRvNta5pCf-We7tFf94rt-LLIPk9Jp~JWuzRcb9nFoW03Mp2HMqON--zzJXQvtq5n9boSOG7usjGi8ddRuFENS3fBGB9TdoGXOWIzFx0ZwHQH5Q3iFjONgPaZNrdnSa7amliw__'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=kbs&ch=3radio'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=kbs&ch=1radio'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=kbs'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=kbs&ch=2fm'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=kbs&ch=2radio&bora=true'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

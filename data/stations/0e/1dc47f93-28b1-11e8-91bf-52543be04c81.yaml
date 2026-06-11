@@ -3,7 +3,7 @@ name: Best 92.6
 url: http://best.live24.gr/best1222
 url_resolved: http://best.live24.gr/best1222
 homepage: http://best926.gr/
-favicon: ""
+favicon: https://www.atticaradios.gr/content/favicons/apple-touch-icon.png
 tags: []
 country: Greece
 countrycode: GR
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 04:56:19
 clickcount: 13
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://best.live24.gr/best1222'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://best.live24.gr/best1222'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -3,7 +3,7 @@ name: RTÉ Gold
 url: https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8
 url_resolved: https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8
 homepage: https://www.rte.ie/radio/
-favicon: ""
+favicon: https://www.rte.ie/favicon.ico
 tags:
   - classic-hits
 country: Ireland
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 06:36:23
 clickcount: 2
 geo_lat: 53.323057101791456
 geo_long: -6.237144470214845
+curation: 0.35
+duplicate_of: e2a68842-b99a-4175-a139-4c842bd0268b
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

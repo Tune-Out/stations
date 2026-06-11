@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 05:58:03
 clickcount: 22
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://radiorecord.hostingradio.ru/sd9096.aacp'
+    codec: AAC
+  - url: 'http://radiorecord.hostingradio.ru/sd9096.aacp'
+    codec: AAC
+  - url: 'https://radiorecord.hostingradio.ru/sd9096.aacp?0968d4a7'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

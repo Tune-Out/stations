@@ -3,7 +3,7 @@ name: SWR Aktuell | 48k aac
 url: https://liveradio.swr.de/sw890cl/swraktuell/
 url_resolved: https://liveradio.swr.de/sw890cl/swraktuell/
 homepage: https://www.swr.de/swraktuell/index.html
-favicon: ""
+favicon: https://www.swr.de/assets/swr/swraktuell/apple-touch-icon.png
 tags:
   - news
 country: Germany
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-14 23:22:01
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: b282e24d-cf20-423e-80b6-660e2f30830e
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

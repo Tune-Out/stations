@@ -29,6 +29,14 @@ lastchangetime: 2026-05-09 17:22:19
 clickcount: 0
 geo_lat: 50.94817157363569
 geo_long: 6.972564459961644
+curation: -0.10
+streams:
+  - url: 'http://stream.epic-lounge.com/shisha-lounge'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.epic-lounge.com/shisha-lounge'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

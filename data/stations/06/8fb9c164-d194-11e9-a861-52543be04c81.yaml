@@ -3,7 +3,7 @@ name: Martinique 1ère
 url: http://martinique.ice.infomaniak.ch/martinique-128.mp3
 url_resolved: http://martinique.ice.infomaniak.ch/martinique-128.mp3
 homepage: https://la1ere.francetvinfo.fr/martinique/
-favicon: ""
+favicon: https://la1ere.franceinfo.fr/favicon.png
 tags: []
 country: Martinique
 countrycode: MQ
@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://martinique.ice.infomaniak.ch/martinique-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://martinique.ice.infomaniak.ch/martinique-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

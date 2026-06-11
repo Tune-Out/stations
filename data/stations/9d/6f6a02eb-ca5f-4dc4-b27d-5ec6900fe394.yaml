@@ -21,6 +21,14 @@ lastchangetime: 2026-01-23 18:42:54
 clickcount: 3
 geo_lat: 52.509081267393704
 geo_long: 13.27554523944855
+curation: 0.50
+streams:
+  - url: 'https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://f121.rndfnk.com/ard/rbb/inforadio/live/mp3/128/stream.mp3?cid=01FC1WYDPN76K6HSCD8QCR9D3S&sid=2QcLzffN32wHfW1lVCzlxHze7qi&token=pGWtFx8DdsdTygJQfppoygwrmQAJ9neXn-Oapylzh_E&tvf=RIPifb2zZBdmMTIxLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

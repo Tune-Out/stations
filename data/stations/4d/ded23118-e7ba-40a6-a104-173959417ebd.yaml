@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 05:53:10
 clickcount: 0
 geo_lat: 50.08831915420747
 geo_long: 14.40533278575496
+curation: 0.35
+streams:
+  - url: 'https://rozhlas.stream/radio_prague_int_high.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://rozhlas.stream/cro7_mp3_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -3,7 +3,7 @@ name: European Hit Radio
 url: http://stream.europeanhitradio.com:8000/ehr.aac
 url_resolved: http://stream.europeanhitradio.com:8000/ehr.aac
 homepage: http://www.ehrhiti.lv/
-favicon: ""
+favicon: https://www.ehr.fm/build/favicons/favicon.png
 tags:
   - pop
 country: Latvia
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 00:07:07
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 962cd7e3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial

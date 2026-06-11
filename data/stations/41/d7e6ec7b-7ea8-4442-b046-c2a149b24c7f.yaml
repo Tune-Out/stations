@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 03:14:59
 clickcount: 5
 geo_lat: 36.79630000662077
 geo_long: 34.63285446166993
+curation: 0.35
+streams:
+  - url: 'http://baserorg.duckdns.org:8000/'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://82.145.41.8:19175/'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

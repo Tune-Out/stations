@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 01:16:54
 clickcount: 2
 geo_lat: 52.117300332152375
 geo_long: 5.77880859375
+curation: 0.35
+streams:
+  - url: 'http://mediaserv68.live-streams.nl:8012/OldMenRock'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://443-1.autopo.st/79/OldMenRock'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

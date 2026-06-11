@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 0
 geo_lat: 59.33320618515925
 geo_long: 18.100490570068363
+curation: 0.55
+streams:
+  - url: 'https://edge1.sr.se/p2-flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://live1.sr.se/p2-flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://http-live.sr.se/p2musik-aac-320'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

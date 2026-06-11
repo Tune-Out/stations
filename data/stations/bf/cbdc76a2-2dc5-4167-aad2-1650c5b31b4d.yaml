@@ -24,6 +24,15 @@ lastchangetime: 2026-01-15 04:13:13
 clickcount: 0
 geo_lat: 51.546548553515585
 geo_long: 5.174560546875001
+curation: 0.35
+streams:
+  - url: 'https://server-67.stream-server.nl:2000/tunein/wonderjarenstreamingradio/stream/asx'
+    url_resolved: 'http://server-67.stream-server.nl:8748/stream'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://server-67.stream-server.nl:8748/stream'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

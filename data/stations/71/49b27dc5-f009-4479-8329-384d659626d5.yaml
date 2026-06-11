@@ -22,6 +22,24 @@ lastchangetime: 2026-01-26 20:59:02
 clickcount: 0
 geo_lat: 5.031031385190716
 geo_long: 7.927321744769641
+curation: 0.35
+streams:
+  - url: 'https://a10.asurahosting.com:7540/radio.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://eu4.fastcast4u.com:3768/stream?type=http&nocache=11'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://eu4.fastcast4u.com:3768/stream?type=http&nocache=1'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://eu4.fastcast4u.com/proxy/softlife?mp=/1'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://eu4.fastcast4u.com/stream/softlife/stream.pls'
+    url_resolved: 'https://eu4.fastcast4u.com/proxy/softlife/stream'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community

@@ -3,7 +3,7 @@ name: "101.ru: Виктор Цой и группа «КИНО»"
 url: http://pub0302.101.ru:8000/stream/pro/aac/64/103?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc4LjEwMi4yMzEuMTYiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgNi4zOyBXaW42NDsgeDY0OyBydjo5NS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTUuMCIsInVpZF9jaGFubmVsIjoiMTAzIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTY0MDY4NTcwNH0.lnoDlTGctdMYI221sL4xM2B60tGLcLY5nYiv8bu1vNs
 url_resolved: http://pub0302.101.ru:8000/stream/pro/aac/64/103?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc4LjEwMi4yMzEuMTYiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgNi4zOyBXaW42NDsgeDY0OyBydjo5NS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTUuMCIsInVpZF9jaGFubmVsIjoiMTAzIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTY0MDY4NTcwNH0.lnoDlTGctdMYI221sL4xM2B60tGLcLY5nYiv8bu1vNs
 homepage: https://101.ru/radio/channel/103
-favicon: ""
+favicon: https://101.ru/apple-touch-icon-precomposed.png
 tags:
   - rock
 country: The Russian Federation
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://pub0302.101.ru:8000/stream/pro/aac/64/103?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc4LjEwMi4yMzEuMTYiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgNi4zOyBXaW42NDsgeDY0OyBydjo5NS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTUuMCIsInVpZF9jaGFubmVsIjoiMTAzIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTY0MDY4NTcwNH0.lnoDlTGctdMYI221sL4xM2B60tGLcLY5nYiv8bu1vNs'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://pub0302.101.ru:8000/stream/pro/aac/64/103'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 134
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'http://media-the.musicradio.com/ClassicFM'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://ice-the.musicradio.com/ClassicFMMP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 2
 geo_lat: 50.210542953958814
 geo_long: 15.834263205561005
+curation: -0.05
+streams:
+  - url: 'http://ice.abradio.cz/cernahora128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ice.abradio.cz/cernahora64.mp3'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

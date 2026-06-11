@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://radio912--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radio912/live/mp3/high'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.lokalradio.nrw/4453z6t'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

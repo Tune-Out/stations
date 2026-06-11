@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 43.69139500966138
 geo_long: 7.240724026484756
+curation: 0.35
+streams:
+  - url: 'http://radio12.pro-fhi.net/listen-itqtlpyj-stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radiosouvenir.com/radio.m3u'
+    url_resolved: 'http://radio12.pro-fhi.net/radio/9136/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

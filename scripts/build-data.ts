@@ -110,6 +110,18 @@ function normalizeTag(s: string): string {
   return s.trim().toLowerCase();
 }
 
+/** Parse a `78012206-1aa1-11e9-a80b-52543be04c81` UUID string into the 16
+ *  raw bytes that get stored as a BLOB. */
+function uuidToBlob(uuid: string): Uint8Array {
+  const hex = uuid.replace(/-/g, '');
+  if (hex.length !== 32) throw new Error(`invalid uuid: ${uuid}`);
+  const out = new Uint8Array(16);
+  for (let i = 0; i < 16; i++) {
+    out[i] = parseInt(hex.substring(i * 2, i * 2 + 2), 16);
+  }
+  return out;
+}
+
 function buildSqlite(stations: Station[], dbPath: string) {
   if (existsSync(dbPath)) {
     try { unlinkSync(dbPath); } catch {}
@@ -136,10 +148,16 @@ function buildSqlite(stations: Station[], dbPath: string) {
   // Tags and languages are normalized into junction tables. The stations
   // table holds the per-station scalar fields only. The FTS5 virtual table
   // is contentless — we feed it joined text strings on every rebuild.
+  //
+  // The stations table's only declared PK is the BLOB uuid (16 binary
+  // bytes, vs 36 ASCII bytes for the old TEXT form). SQLite keeps an
+  // implicit integer rowid alongside it, which FTS5 uses as its docid —
+  // so queries still JOIN stations_fts on `f.rowid = s.rowid` exactly as
+  // before. Junction tables continue to reference station_rowid for
+  // compact integer joins; the wire-level only change is uuid type.
   db.exec(`
     CREATE TABLE stations (
-      rowid         INTEGER PRIMARY KEY AUTOINCREMENT,
-      uuid          TEXT UNIQUE NOT NULL,
+      uuid          BLOB NOT NULL PRIMARY KEY,
       name          TEXT NOT NULL,
       url           TEXT,
       url_resolved  TEXT,
@@ -158,6 +176,8 @@ function buildSqlite(stations: Station[], dbPath: string) {
       clickcount    INTEGER,
       geo_lat       REAL,
       geo_long      REAL,
+      -- Editorial quality score in [-1.0, 1.0]. See score-curation.ts.
+      curation      REAL,
       shard         TEXT,
       yaml_path     TEXT,
       -- ── Editorial research (migrated from YAML comments) ──
@@ -176,12 +196,16 @@ function buildSqlite(stations: Station[], dbPath: string) {
       id    INTEGER PRIMARY KEY AUTOINCREMENT,
       slug  TEXT UNIQUE NOT NULL
     );
+    -- Junction tables now FK directly to the BLOB uuid PK. The old
+    -- station_rowid surrogate would be more compact but it isn't a valid
+    -- FK target since the implicit rowid is no longer an alias of any
+    -- declared column.
     CREATE TABLE station_tags (
-      station_rowid INTEGER NOT NULL,
-      tag_id        INTEGER NOT NULL,
-      PRIMARY KEY (station_rowid, tag_id),
-      FOREIGN KEY (station_rowid) REFERENCES stations(rowid) ON DELETE CASCADE,
-      FOREIGN KEY (tag_id)        REFERENCES tags(id)        ON DELETE CASCADE
+      station_uuid BLOB    NOT NULL,
+      tag_id       INTEGER NOT NULL,
+      PRIMARY KEY (station_uuid, tag_id),
+      FOREIGN KEY (station_uuid) REFERENCES stations(uuid) ON DELETE CASCADE,
+      FOREIGN KEY (tag_id)       REFERENCES tags(id)       ON DELETE CASCADE
     ) WITHOUT ROWID;
 
     CREATE TABLE languages (
@@ -189,15 +213,33 @@ function buildSqlite(stations: Station[], dbPath: string) {
       slug  TEXT UNIQUE NOT NULL
     );
     CREATE TABLE station_languages (
-      station_rowid INTEGER NOT NULL,
-      language_id   INTEGER NOT NULL,
-      PRIMARY KEY (station_rowid, language_id),
-      FOREIGN KEY (station_rowid) REFERENCES stations(rowid) ON DELETE CASCADE,
-      FOREIGN KEY (language_id)   REFERENCES languages(id)   ON DELETE CASCADE
+      station_uuid BLOB    NOT NULL,
+      language_id  INTEGER NOT NULL,
+      PRIMARY KEY (station_uuid, language_id),
+      FOREIGN KEY (station_uuid) REFERENCES stations(uuid)    ON DELETE CASCADE,
+      FOREIGN KEY (language_id)  REFERENCES languages(id)     ON DELETE CASCADE
+    ) WITHOUT ROWID;
+
+    -- One row per (station × stream variant). The station row's url/codec/
+    -- bitrate fields still hold the PREFERRED stream (sort_order = 0); this
+    -- table carries the full set so the UI can render a Play button per
+    -- variant ("Play 320k MP3", "Play 128k AAC", …).
+    CREATE TABLE station_streams (
+      station_uuid BLOB    NOT NULL,
+      sort_order   INTEGER NOT NULL,
+      url          TEXT    NOT NULL,
+      url_resolved TEXT,
+      codec        TEXT,
+      bitrate      INTEGER,
+      hls          INTEGER,
+      label        TEXT,
+      PRIMARY KEY (station_uuid, sort_order),
+      FOREIGN KEY (station_uuid) REFERENCES stations(uuid) ON DELETE CASCADE
     ) WITHOUT ROWID;
 
     CREATE INDEX idx_st_tag      ON station_tags(tag_id);
     CREATE INDEX idx_sl_language ON station_languages(language_id);
+    CREATE INDEX idx_streams_st  ON station_streams(station_uuid);
 
     CREATE INDEX idx_countrycode ON stations(countrycode);
     CREATE INDEX idx_votes       ON stations(votes DESC);
@@ -205,6 +247,9 @@ function buildSqlite(stations: Station[], dbPath: string) {
     CREATE INDEX idx_clickcount  ON stations(clickcount DESC);
     CREATE INDEX idx_lastcheckok ON stations(lastcheckok);
     CREATE INDEX idx_nature      ON stations(r_nature);
+    -- Curation score is used by the recommender; partial index skips
+    -- unscored rows so the index stays compact.
+    CREATE INDEX idx_curation    ON stations(curation DESC) WHERE curation IS NOT NULL;
 
     -- Contentless FTS5: stores only the search index, not the text itself.
     -- Smallest on-disk footprint. We always JOIN back to stations for the
@@ -261,7 +306,7 @@ function buildSqlite(stations: Station[], dbPath: string) {
   const baseCols = [
     'uuid','name','url','url_resolved','homepage','favicon','country','countrycode',
     'state','languagecodes','votes','codec','bitrate','hls','lastcheckok',
-    'lastchangetime','clickcount','geo_lat','geo_long','shard','yaml_path',
+    'lastchangetime','clickcount','geo_lat','geo_long','curation','shard','yaml_path',
     'r_reviewed_at','r_nature','r_operator','r_affiliations','r_audience','r_format','r_notes','r_sources',
   ];
   const localeColsList = SUPPORTED_LOCALES.flatMap((l) => [`name_${l}`, `desc_${l}`, `kw_${l}`]);
@@ -271,8 +316,11 @@ function buildSqlite(stations: Station[], dbPath: string) {
   const insertStation = db.prepare(
     `INSERT INTO stations (${allCols.join(',')}) VALUES (${placeholders})`,
   );
-  const insertStationTag  = db.prepare('INSERT OR IGNORE INTO station_tags (station_rowid, tag_id) VALUES (?, ?)');
-  const insertStationLang = db.prepare('INSERT OR IGNORE INTO station_languages (station_rowid, language_id) VALUES (?, ?)');
+  const insertStationTag  = db.prepare('INSERT OR IGNORE INTO station_tags (station_uuid, tag_id) VALUES (?, ?)');
+  const insertStationLang = db.prepare('INSERT OR IGNORE INTO station_languages (station_uuid, language_id) VALUES (?, ?)');
+  const insertStream      = db.prepare(
+    'INSERT INTO station_streams (station_uuid, sort_order, url, url_resolved, codec, bitrate, hls, label) VALUES (?, ?, ?, ?, ?, ?, ?, ?)',
+  );
 
   const ftsCols = ['rowid','name','tags_text','languages_text','research_text', ...localeColsList];
   const ftsPlaceholders = ftsCols.map(() => '?').join(',');
@@ -292,7 +340,7 @@ function buildSqlite(stations: Station[], dbPath: string) {
       }
       const r = s.research ?? {};
       const info = insertStation.run(
-        s.stationuuid,
+        uuidToBlob(s.stationuuid),
         s.name,
         s.url,
         s.url_resolved ?? '',
@@ -311,6 +359,7 @@ function buildSqlite(stations: Station[], dbPath: string) {
         s.clickcount ?? 0,
         s.geo_lat,
         s.geo_long,
+        s.curation,
         shard,
         `data/stations/${shard}/${s.stationuuid}.yaml`,
         r.reviewed_at ?? '',
@@ -323,7 +372,11 @@ function buildSqlite(stations: Station[], dbPath: string) {
         r.sources ?? '',
         ...localeValues,
       );
+      // FTS5 still uses the implicit rowid as its docid — and the rowid is
+      // assigned automatically by SQLite on INSERT, so we read it back for
+      // the FTS row insert below. Junction tables key off the uuid BLOB.
       const stationRowid = Number(info.lastInsertRowid);
+      const uuidBlob = uuidToBlob(s.stationuuid);
 
       const stationTagSlugs: string[] = [];
       for (const t of s.tags) {
@@ -331,7 +384,7 @@ function buildSqlite(stations: Station[], dbPath: string) {
         if (!slug) continue;
         const id = tagId.get(slug);
         if (id == null) continue;
-        insertStationTag.run(stationRowid, id);
+        insertStationTag.run(uuidBlob, id);
         stationTagSlugs.push(slug);
       }
       const stationLangSlugs: string[] = [];
@@ -340,9 +393,39 @@ function buildSqlite(stations: Station[], dbPath: string) {
         if (!slug) continue;
         const id = langId.get(slug);
         if (id == null) continue;
-        insertStationLang.run(stationRowid, id);
+        insertStationLang.run(uuidBlob, id);
         stationLangSlugs.push(slug);
       }
+
+      // station_streams: at least one row per station. If `streams:` is
+      // populated on the YAML we use that list verbatim (sort_order
+      // preserved); otherwise we synthesise a single-row entry from the
+      // top-level url/codec/bitrate fields so every station has at least
+      // one playable stream in the join table.
+      const streamEntries =
+        s.streams && s.streams.length
+          ? s.streams
+          : [{
+              url:          s.url,
+              url_resolved: s.url_resolved ?? '',
+              codec:        s.codec,
+              bitrate:      s.bitrate,
+              hls:          s.hls,
+              label:        '',
+            }];
+      streamEntries.forEach((stream, idx) => {
+        if (!stream.url) return;
+        insertStream.run(
+          uuidBlob,
+          idx,
+          stream.url,
+          stream.url_resolved ?? '',
+          stream.codec ?? '',
+          stream.bitrate ?? 0,
+          stream.hls ? 1 : 0,
+          stream.label ?? '',
+        );
+      });
 
       // FTS5 row — joined text gives full-text matching across tags/languages
       // while the canonical relational data lives in the junction tables.
@@ -434,8 +517,17 @@ async function main() {
   }
 
   console.log(`[build-data] parsing ${yamlPaths.length} YAMLs`);
-  const stations = await parseAll(yamlPaths);
-  console.log(`[build-data] parsed ${stations.length} stations in ${fmt(Date.now() - t0)}`);
+  const allStations = await parseAll(yamlPaths);
+  // Filter out duplicate redirects — YAMLs marked `duplicate_of: <uuid>`
+  // exist as breadcrumbs for older links but should NOT enter the catalog.
+  // The redirect targets resolve to the canonical station's UUID; the SPA
+  // never sees the duplicate row.
+  const stations = allStations.filter((s) => !s.duplicate_of);
+  const skipped = allStations.length - stations.length;
+  console.log(`[build-data] parsed ${allStations.length} stations in ${fmt(Date.now() - t0)}`);
+  if (skipped > 0) {
+    console.log(`[build-data] skipped ${skipped} stations marked duplicate_of`);
+  }
 
   console.log('[build-data] writing sqlite');
   buildSqlite(stations, dbPath);

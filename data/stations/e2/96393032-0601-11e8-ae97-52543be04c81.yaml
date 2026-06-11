@@ -3,7 +3,7 @@ name: Concertzender
 url: http://streams.greenhost.nl:8080/live
 url_resolved: http://streams.greenhost.nl:8080/live
 homepage: https://www.concertzender.nl/
-favicon: ""
+favicon: https://www.concertzender.nl/wp-content/uploads/2016/11/C-favicon-203x203.png
 tags: []
 country: The Netherlands
 countrycode: NL
@@ -23,6 +23,8 @@ lastchangetime: 2026-01-15 07:47:33
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: c1e4fc53-e191-11e9-a8ba-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

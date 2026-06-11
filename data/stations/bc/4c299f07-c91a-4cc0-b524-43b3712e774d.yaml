@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 02:07:14
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://centova.ipstream.it/proxy/megamix80/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://centova.ipstream.it/proxy/megamix80/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

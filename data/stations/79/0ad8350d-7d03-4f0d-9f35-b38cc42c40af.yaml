@@ -3,7 +3,7 @@ name: Asan Radio
 url: http://94.20.74.206:4448/stream1
 url_resolved: http://94.20.74.206:4448/stream1
 homepage: http://www.asanradio.az/
-favicon: ""
+favicon: http://www.asanradio.az/radio/images/logo.png
 tags: []
 country: Azerbaijan
 countrycode: AZ
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://94.20.74.206:4448/stream1'
+    codec: MP3
+    bitrate: 112
+  - url: 'https://play.asanradio.az/'
+    codec: MP3
+    bitrate: 112
 research:
   reviewed_at: 2026-06-09
   nature: commercial

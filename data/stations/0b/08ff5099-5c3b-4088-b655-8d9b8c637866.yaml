@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:12:24
 clickcount: 1
 geo_lat: 47.25108488245543
 geo_long: 11.40106201171875
+curation: 0.00
+streams:
+  - url: 'https://radiovm1.fluidstream.eu/radiovm1.mp3'
+    codec: MP3
+  - url: 'https://radiovm1.fluidstream.eu/radiovm1_a1.mp3'
+    codec: MP3
+  - url: 'https://radiovm1.fluidstream.eu/radiovm1_a2.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

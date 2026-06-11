@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 03:00:03
 clickcount: 0
 geo_lat: 40.76494141246851
 geo_long: -74.04785156250001
+curation: 0.35
+streams:
+  - url: 'http://hfc.streamguys1.com/wqom'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://hfc.streamguys1.com/wqom'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

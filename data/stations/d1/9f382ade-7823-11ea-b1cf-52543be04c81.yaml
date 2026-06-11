@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:27:42
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

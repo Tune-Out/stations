@@ -23,6 +23,17 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 0
 geo_lat: 55.732668130927415
 geo_long: 37.627508640289314
+curation: -0.10
+streams:
+  - url: 'http://62.183.34.109:8000/radio107.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://62.183.34.109:8000/radio107.mp3?1708780492299'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://62.183.34.109:8000/radio107.mp3?1702219488275'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -24,6 +24,35 @@ lastchangetime: 2026-06-01 10:07:09
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://radio.mixstream.nl/soul.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio.mixstream.nl/disco.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio.mixstream.nl/country.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio.mixstream.nl/dance.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio.mixstream.nl/classics.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio.mixstream.nl/hardstyle.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio.mixstream.nl/rock.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio.mixstream.nl/hiphop.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio.mixstream.nl/nl.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

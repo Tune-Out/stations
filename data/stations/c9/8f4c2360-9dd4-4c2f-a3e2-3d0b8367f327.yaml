@@ -23,6 +23,17 @@ lastchangetime: 2026-01-14 23:51:52
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+duplicate_of: e96086c0-ae22-4e98-8f54-38c8680cdd40
+streams:
+  - url: 'https://wz7liw.scahw.com.au/live/7goodvibes_128.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: 'https://wz7liw.scahw.com.au/live/7goodvibes_128.stream/playlist.m3u8?'
+    codec: AAC
+    bitrate: 130
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

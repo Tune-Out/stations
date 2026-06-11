@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 23:56:58
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://live.guerrillaradio.ro:8010/guerrilla.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://live.guerrillaradio.ro:8443/guerrilla.aac'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 08:34:02
 clickcount: 2
 geo_lat: 37.809784
 geo_long: -121.286316
+curation: 0.60
+streams:
+  - url: 'https://somafm.com/bootliquor130.pls'
+    url_resolved: 'https://ice1.somafm.com/bootliquor-128-aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://somafm.com/bootliquor320.pls'
+    url_resolved: 'https://ice4.somafm.com/bootliquor-320-mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

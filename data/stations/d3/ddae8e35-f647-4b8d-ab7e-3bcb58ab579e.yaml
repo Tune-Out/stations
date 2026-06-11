@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 29.721074210180983
 geo_long: -95.34329236551172
+curation: 0.65
+streams:
+  - url: 'http://stream.houstonpublicmedia.org/news-mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.houstonpublicmedia.org/news-mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

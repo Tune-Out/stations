@@ -3,7 +3,7 @@ name: Radio Tambrin 92.7 - Scarborough
 url: http://ice42.securenetsystems.net/TAMBRIN
 url_resolved: http://ice42.securenetsystems.net/TAMBRIN
 homepage: http://tambrintobago.com/
-favicon: ""
+favicon: https://tambrintobago.com/wp-content/uploads/2022/05/cropped-tambrinlogo-180x180.png
 tags:
   - tropical
   - local-news
@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 04:30:45
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://ice42.securenetsystems.net/TAMBRIN'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice42.securenetsystems.net/TAMBRIN'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://quincy.torontocast.com:3115/stream?x=1733618321799'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://quincy.torontocast.com:3115/stream?x=1703514162706'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

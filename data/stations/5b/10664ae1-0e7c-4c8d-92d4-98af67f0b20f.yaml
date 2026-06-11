@@ -20,6 +20,16 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8'
+    codec: MP3
+    bitrate: 126
+    hls: true
+  - url: 'http://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8'
+    codec: MP3
+    bitrate: 126
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -19,6 +19,17 @@ lastchangetime: 2026-05-10 02:38:58
 clickcount: 3
 geo_lat: 37.921518877949914
 geo_long: 23.744201660156257
+curation: 0.35
+streams:
+  - url: 'https://stream.newageradio.gr/listen/hq/radio.flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://stream.newageradio.gr/listen/hq/radio.aac'
+    codec: AAC
+    bitrate: 320
+  - url: 'https://stream.newageradio.gr/listen/hq/radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

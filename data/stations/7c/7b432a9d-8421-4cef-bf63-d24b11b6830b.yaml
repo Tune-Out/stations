@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:39:47
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'http://play.global.audio/veronikahi.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://play.global.audio/veronika64'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://stream.bayerwaldradio.com/allesoberkrain'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://bayerwaldradio.deg.net:8000/allesoberkrain'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

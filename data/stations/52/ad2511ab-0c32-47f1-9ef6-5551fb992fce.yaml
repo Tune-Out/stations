@@ -19,6 +19,14 @@ lastchangetime: 2026-05-10 12:34:15
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'http://naxos.cdnstream.com/1255_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ithaca.cdnstream.com/1255_128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -23,6 +23,20 @@ lastchangetime: 2026-01-14 23:31:23
 clickcount: 18
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://an02.cdn.eurozet.pl/ant-web.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://an01.cdn.eurozet.pl/ant-kat.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

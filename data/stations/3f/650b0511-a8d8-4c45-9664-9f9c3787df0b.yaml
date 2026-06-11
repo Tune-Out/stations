@@ -19,6 +19,16 @@ lastchangetime: 2026-05-08 14:00:13
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://rewoundradio.com/rewound5001.pls'
+    url_resolved: 'http://71.125.37.66:5001/rewound'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://rewoundradio.com:8000/listen.pls'
+    url_resolved: 'http://71.125.37.66:8000/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

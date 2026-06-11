@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:48:55
 clickcount: 0
 geo_lat: 48.921596674226
 geo_long: 2.335919962469393
+curation: 0.35
+streams:
+  - url: 'http://radiosurle.net:8765/starsystemfm'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://radiosurle.net:8765/starsystemfm'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 07:08:10
 clickcount: 2
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.30
+streams:
+  - url: 'https://0n-deutschrock.radionetz.de/0n-deutschrock.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

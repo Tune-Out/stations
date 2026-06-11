@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 01:14:34
 clickcount: 1
 geo_lat: 19.704619702148708
 geo_long: -101.19223594665527
+curation: 0.35
+streams:
+  - url: 'https://www.radiohosting.online/stream/?puerto=8534'
+    codec: MP3
+  - url: 'https://www.radiohosting.online/stream/?puerto=9884'
+    codec: MP3
+  - url: 'http://www.radiohosting.online/stream/?puerto=9884'
+    codec: MP3
+  - url: 'https://www.radiohosting.online/stream/?puerto=9738'
+    codec: MP3
+  - url: 'https://www.radiohosting.online/stream/?puerto=9774'
+    codec: MP3
+  - url: 'https://www.radiohosting.online/stream/?puerto=9776'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -28,6 +28,12 @@ lastchangetime: 2026-01-15 00:09:17
 clickcount: 9
 geo_lat: 54.31804520270421
 geo_long: 10.13317108154297
+curation: -0.05
+streams:
+  - url: 'https://streams.rsh.de/rsh-live/aac-64/streams.rsh.de/'
+    codec: AAC
+  - url: 'https://streams.rsh.de/deutsch/mp3-192/streams.rsh.de/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

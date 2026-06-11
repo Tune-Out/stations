@@ -3,7 +3,7 @@ name: 1.FM - America's Best Ballads Radio
 url: http://strm112.1.fm/onelive_mobile_mp3
 url_resolved: http://strm112.1.fm/onelive_mobile_mp3
 homepage: https://www.1.fm/
-favicon: ""
+favicon: https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2
 tags: []
 country: Switzerland
 countrycode: CH
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 07:41:42
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://strm112.1.fm/onelive_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://strm112.1.fm/onelive_mobile_mp3?'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

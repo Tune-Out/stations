@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:08:10
 clickcount: 15
 geo_lat: 48.73735299270952
 geo_long: 2.5927734375000004
+curation: 0.65
+streams:
+  - url: 'http://direct.franceinter.fr/live/franceinter-midfi.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.radiofrance.fr/franceinter-midfi.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 04:18:43
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://www.addictradio.net/files/winamp_lounge.m3u'
+    url_resolved: 'http://stream2.addictradio.net/addictlounge.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream1.addictradio.net/addictlounge'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

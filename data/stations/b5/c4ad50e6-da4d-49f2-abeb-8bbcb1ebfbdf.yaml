@@ -3,7 +3,7 @@ name: Radio Caprice Industrial/Dark/Ritual Ambient
 url: http://79.120.39.202:9095/
 url_resolved: http://79.120.39.202:9095/
 homepage: http://radcap.ru/darkambient.html
-favicon: ""
+favicon: http://radcap.ru/apple-touch-icon.png
 tags:
   - ambient
 country: The Russian Federation
@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://79.120.39.202:9095/'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.120.39.202:8002/darkambient'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -23,6 +23,14 @@ lastchangetime: 2026-04-16 21:43:13
 clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
+curation: 0.60
+streams:
+  - url: 'https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=10'
+    codec: AAC
+  - url: 'https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=1'
+    codec: AAC
+  - url: 'https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=10'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

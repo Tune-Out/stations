@@ -20,6 +20,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 15
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://myradio24.org/5129_320.m3u'
+    url_resolved: 'http://myradio24.org/5129_320'
+    codec: AAC
+    bitrate: 320
+  - url: 'https://myradio24.org/5129'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

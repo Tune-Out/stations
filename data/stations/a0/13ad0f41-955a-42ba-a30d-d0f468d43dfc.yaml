@@ -23,6 +23,12 @@ lastchangetime: 2026-01-20 00:34:10
 clickcount: 0
 geo_lat: 42.63682308425335
 geo_long: -74.00100141763689
+curation: 0.35
+streams:
+  - url: 'https://stream.revma.ihrhls.com/zc6306'
+    codec: AAC
+  - url: 'http://stream.revma.ihrhls.com/zc6306'
+    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: community

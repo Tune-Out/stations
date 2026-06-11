@@ -19,6 +19,12 @@ lastchangetime: 2026-05-17 10:51:20
 clickcount: 1
 geo_lat: 51.04707625341115
 geo_long: 3.711745177190005
+curation: 0.50
+streams:
+  - url: 'http://icecast.vrtcdn.be/ra2ovl.aac'
+    codec: AAC
+  - url: 'http://icecast.vrtcdn.be/ra2ovl-high.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 23:18:25
 clickcount: 0
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.60
+streams:
+  - url: 'https://0n-deutschrap.radionetz.de/0n-deutschrap.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

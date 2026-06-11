@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://cast6.my-control-panel.com/proxy/swampradiomiami/stream'
+    codec: AAC+
+    bitrate: 256
+  - url: 'https://cast6.my-control-panel.com/proxy/swampradiomiami/stream'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -3,7 +3,7 @@ name: Radio Swiss Jazz
 url: http://stream.srg-ssr.ch/m/rsj/mp3_128
 url_resolved: http://stream.srg-ssr.ch/m/rsj/mp3_128
 homepage: http://www.radioswissjazz.ch/
-favicon: ""
+favicon: https://www.radioswissjazz.ch/favicon.ico
 tags:
   - jazz
   - public-radio
@@ -21,6 +21,28 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 58
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'https://stream.srg-ssr.ch/rsj/aacp_96.m3u'
+    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsj/aac/96'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://stream.srg-ssr.ch/m/rsj/aacp_96'
+    codec: AAC
+    bitrate: 96
+  - url: 'http://www.radioswissjazz.ch/live/aacp32.m3u'
+    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsj/aac/48'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://stream.srg-ssr.ch/m/rsj/aacp_32'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://stream.srg-ssr.ch/m/rsj/mp3_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.srg-ssr.ch/m/rsj/mp3_128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

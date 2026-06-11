@@ -3,7 +3,7 @@ name: Best Radio FM. 89.0 MHz
 url: https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;
 url_resolved: https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;
 homepage: https://bestradio89.com/
-favicon: ""
+favicon: https://bestradio89.com/wp-content/uploads/2019/08/cropped-logo-120x120-180x180.png
 tags: []
 country: Thailand
 countrycode: TH
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -3,7 +3,7 @@ name: Soundportal (MP3, 128 kBit)
 url: http://rs8.stream24.net/radio-soundportal.mp3
 url_resolved: http://rs8.stream24.net/radio-soundportal.mp3
 homepage: http://soundportal.at/
-favicon: ""
+favicon: https://soundportal.at/fileadmin/favicon.ico
 tags: []
 country: Austria
 countrycode: AT
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://rs8.stream24.net/radio-soundportal.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rs8.stream24.net/radio-soundportal.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

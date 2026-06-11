@@ -19,6 +19,21 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://patmos.cdnstream.com/proxy/sanctua1?mp=/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://thassos.cdnstream.com/proxy/rob?mp=/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://patmos.cdnstream.com/proxy/sanctua1?mp=/stream2'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://www.sanctuaryradio.com/site/80schannel.pls'
+    url_resolved: 'https://patmos.cdnstream.com/proxy/sanctua1?mp=/stream2'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community

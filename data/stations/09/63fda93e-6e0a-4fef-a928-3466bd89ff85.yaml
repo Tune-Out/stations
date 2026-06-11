@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 1
 geo_lat: 20.674349443390476
 geo_long: -103.3400630950928
+curation: -0.05
+streams:
+  - url: 'https://s2.yesstreaming.net:9088/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://s2.yesstreaming.net:9088/stream?1730862902633'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial

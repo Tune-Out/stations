@@ -3,7 +3,7 @@ name: Play
 url: http://stream.playradio.rs:8001/play.aac.m3u
 url_resolved: http://stream.playradio.rs:8001/play.aac
 homepage: http://www.playradio.rs/
-favicon: ""
+favicon: http://www.playradio.rs/favicon.ico
 tags: []
 country: Serbia
 countrycode: RS
@@ -21,6 +21,7 @@ lastchangetime: 2026-01-15 05:25:41
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
 research:
   reviewed_at: 2026-06-10
   nature: commercial

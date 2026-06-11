@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://denge-cudi.stream.laut.fm/denge-cudi'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

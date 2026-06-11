@@ -23,6 +23,14 @@ lastchangetime: 2026-01-19 01:49:42
 clickcount: 0
 geo_lat: 42.62528195699001
 geo_long: -74.0100806951523
+curation: 0.70
+streams:
+  - url: 'https://wmht.streamguys1.com/wmht1'
+    codec: AAC
+    bitrate: 96
+  - url: 'http://wmht.streamguys1.com/wmht1'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

@@ -22,6 +22,23 @@ lastchangetime: 2026-01-15 05:17:35
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://s3.slotex.pl:7222/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://s3.slotex.pl:7204/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://s3.slotex.pl:7276/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://s3.slotex.pl:7072/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://panel.radiombox.pl/radio/8000/RadioMbox128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

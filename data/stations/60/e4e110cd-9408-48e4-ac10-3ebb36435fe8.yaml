@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:25:41
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://s7.viastreaming.net:8880/;'
+    codec: AAC
+    bitrate: 96
+  - url: 'http://s7.viastreaming.net:8880/;?_=0.0037967189374782384'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community

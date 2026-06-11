@@ -3,7 +3,7 @@ name: Radio Helsinki 98,5 Mhz
 url: http://opml.radiotime.com/Tune.ashx?id=s97243&formats=aac,ogg,mp3&partnerId=16&serial=afe4c1a95cc7f3a92c47dbad1b283293
 url_resolved: https://stream.radiohelsinki.fi/stream
 homepage: https://www.radiohelsinki.fi/
-favicon: ""
+favicon: https://www.radiohelsinki.fi/favicon.ico?v3
 tags: []
 country: Finland
 countrycode: FI
@@ -21,6 +21,8 @@ lastchangetime: 2026-01-15 03:22:41
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.35
+duplicate_of: 23a4e727-bfcc-42ae-901e-53b003ccf66f
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

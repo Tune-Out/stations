@@ -3,7 +3,7 @@ name: I-Radio Jakarta
 url: http://stream.radiojar.com/4ywdgup3bnzuv
 url_resolved: http://stream.radiojar.com/4ywdgup3bnzuv
 homepage: http://iradiofm.com/
-favicon: ""
+favicon: https://assets-static.iswaranetwork.com/2025/02/ISWARA-LOGO-MAIN-01.png
 tags:
   - pop
 country: Indonesia
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 00:42:52
 clickcount: 68
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'http://stream.radiojar.com/4ywdgup3bnzuv'
+    codec: AAC
+  - url: 'https://stream.radiojar.com/4ywdgup3bnzuv?1739561339'
+    codec: AAC
+  - url: 'https://stream.radiojar.com/4ywdgup3bnzuv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

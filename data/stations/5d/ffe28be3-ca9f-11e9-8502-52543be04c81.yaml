@@ -19,6 +19,20 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://hermes.bcs-systems.de/hitradio-rtl_simulcast__dresden_192k_mp3'
+    codec: AAC
+  - url: 'http://streams.bcs-systems.de/hrrtl/90er/sachsen/mp3/web'
+    codec: AAC
+  - url: 'http://streams.bcs-systems.de/hrrtl/oldies/sachsen/mp3/web'
+    codec: AAC
+  - url: 'http://streams.bcs-systems.de/hrrtl/2000er/sachsen/mp3/web'
+    codec: AAC
+  - url: 'http://streams.bcs-systems.de/hrrtl/80er/sachsen/mp3/web'
+    codec: AAC
+  - url: 'https://hermes.bcs-systems.de/hitradio-rtl_XMAS_192k_mp3'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

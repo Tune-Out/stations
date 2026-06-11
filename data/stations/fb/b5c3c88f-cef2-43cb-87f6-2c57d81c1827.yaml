@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 03:27:42
 clickcount: 4
 geo_lat: 48.856538279011986
 geo_long: 2.3472976684570317
+curation: -0.05
+streams:
+  - url: 'https://frequence3.net-radio.fr/frequence3urban.flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://frequence3.net-radio.fr/frequence3urban-128.mp3'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:51:37
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://redirect.jpbgdigital.com/CJJR'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://redirect.jpbgdigital.com/CJJR?player_type=mytuner'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial

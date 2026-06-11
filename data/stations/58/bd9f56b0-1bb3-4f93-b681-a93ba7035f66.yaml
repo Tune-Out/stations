@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 01:03:21
 clickcount: 1
 geo_lat: 55.73875690759414
 geo_long: 37.59246826171876
+curation: -0.05
+streams:
+  - url: 'https://icecast-mirtv.cdnvideo.ru/radio_mir4_256'
+    codec: AAC+
+    bitrate: 330
+  - url: 'https://icecast-mirtv.cdnvideo.ru/radio_mir_256'
+    codec: AAC+
+    bitrate: 328
 research:
   reviewed_at: 2026-06-10
   nature: commercial

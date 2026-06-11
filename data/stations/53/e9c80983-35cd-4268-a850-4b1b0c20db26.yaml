@@ -21,6 +21,14 @@ lastchangetime: 2026-02-23 18:32:30
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://stream.laut.fm/swingtime'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://15113.live.streamtheworld.com/SAM04AAC169.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

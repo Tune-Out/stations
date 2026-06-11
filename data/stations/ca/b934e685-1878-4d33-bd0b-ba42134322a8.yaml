@@ -27,6 +27,15 @@ lastchangetime: 2026-04-25 23:53:00
 clickcount: 1
 geo_lat: 55.859538294628
 geo_long: 12.874603271484377
+curation: 0.35
+streams:
+  - url: 'https://retrohits.se/retrohits.m3u'
+    url_resolved: 'https://sc.retrohits.se/retrohits64.aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://sc.retrohits.se/radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

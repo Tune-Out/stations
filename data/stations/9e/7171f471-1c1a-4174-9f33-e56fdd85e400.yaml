@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:20:38
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://s2.radio.co/sae3372059/listen'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://s2.radio.co/sae3372059/listen'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community

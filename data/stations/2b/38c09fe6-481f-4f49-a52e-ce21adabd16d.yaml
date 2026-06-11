@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 08:16:49
 clickcount: 56
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

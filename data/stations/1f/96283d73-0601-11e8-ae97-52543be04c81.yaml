@@ -23,6 +23,35 @@ lastchangetime: 2026-01-15 01:58:28
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'http://icy.unitedradio.it/105RapItalia.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icy.unitedradio.it/105Dance90.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.unitedradio.it/105Trap.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icy.unitedradio.it/105Miami.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icy.unitedradio.it/105Hits.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icy.unitedradio.it/105Story.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icy.unitedradio.it/105InDaKlubb.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icy.unitedradio.it/105Classics.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icy.unitedradio.it/105Zoo.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -24,6 +24,12 @@ lastchangetime: 2026-01-15 08:27:56
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://stream.klassikradio.de/friendshome/aac-64/stream.klassikradio.de?aggregator=hoererdirekt'
+    codec: AAC
+  - url: 'http://stream.klassikradio.de/friendshome/mp3-128/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

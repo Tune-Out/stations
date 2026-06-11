@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:36:02
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://ice42.securenetsystems.net/CR90'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice42.securenetsystems.net/CR90?type=.mp3'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

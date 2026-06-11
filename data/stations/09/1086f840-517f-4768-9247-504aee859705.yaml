@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 02:32:41
 clickcount: 0
 geo_lat: 43.15362126088714
 geo_long: -79.53496588635684
+curation: -0.05
+streams:
+  - url: 'https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8'
+    codec: AAC+
+    bitrate: 47
+    hls: true
+  - url: 'https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8'
+    codec: AAC+
+    bitrate: 47
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

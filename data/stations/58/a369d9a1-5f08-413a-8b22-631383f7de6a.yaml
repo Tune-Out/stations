@@ -22,6 +22,14 @@ lastchangetime: 2026-06-07 15:41:54
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://stream.rcast.net/73479'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://a1.asurahosting.com:8650/radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

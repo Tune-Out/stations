@@ -22,6 +22,18 @@ lastchangetime: 2026-01-14 23:51:17
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://65.109.81.84:9851/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cast4.asurahosting.com:2199/tunein/sleeprad.pls'
+    url_resolved: 'http://65.109.81.84:9851/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -24,6 +24,20 @@ lastchangetime: 2026-01-15 00:02:06
 clickcount: 2
 geo_lat: 52.505522585040254
 geo_long: 13.373107910156252
+curation: -0.05
+streams:
+  - url: 'http://stream.megaradiomix.de:5050/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream3.radiodienst.de/proxy/megaberlin/berlin'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://play.megaradiomix.de/megaradiomix-hamburg/mp3-192/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://play.megaradiomix.de/megaradiomix-berlin/mp3-192/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

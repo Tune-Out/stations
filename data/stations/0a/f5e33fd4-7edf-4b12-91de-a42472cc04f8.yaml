@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://31.192.216.10/DANCEF'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://195.150.20.7/rmf_dance_f'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

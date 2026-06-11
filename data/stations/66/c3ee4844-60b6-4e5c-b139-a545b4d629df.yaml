@@ -19,6 +19,13 @@ lastchangetime: 2026-02-28 08:02:16
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://ssl.radyoph.com:8010/onefm_legazpi'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://prox.radyoph.com/s/efe2c021eb62b7d37978156cc6baac77'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://audio1.meway.tv:8108/listen.pls'
+    url_resolved: 'http://audio1.meway.tv:8108/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ssl.audio1.meway.tv/proxy/radiopuglia?mp=/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.goldfm.lt/goldfm.aac.xspf'
+    url_resolved: 'http://stream.goldfm.lt/goldfm.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.goldfm.lt/goldfm.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

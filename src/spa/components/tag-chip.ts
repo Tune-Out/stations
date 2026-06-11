@@ -23,6 +23,9 @@ export interface TagChipOpts {
   className?: string;
   /** Localized label override (defaults to tTag(slug)). */
   label?: string;
+  /** Optional station count, rendered as a small pill after the label.
+   *  Pass already-localised text (e.g. `n.toLocaleString(locale)`). */
+  count?: string | number;
 }
 
 export function tagChip(slug: string, opts: TagChipOpts = {}): HTMLElement {
@@ -50,6 +53,16 @@ export function tagChip(slug: string, opts: TagChipOpts = {}): HTMLElement {
 
   const label = el('span', { class: 'tag-chip-label', text: opts.label ?? tTag(slug) });
   root.appendChild(label);
+
+  // Count pill — only on non-compact chips so station-card / search-active
+  // rows stay tight.
+  if (opts.count != null && opts.count !== '' && !opts.compact) {
+    root.appendChild(el('span', {
+      class: 'tag-chip-count',
+      text: String(opts.count),
+      attrs: { 'aria-label': `${opts.count} stations` },
+    }));
+  }
   return root;
 }
 

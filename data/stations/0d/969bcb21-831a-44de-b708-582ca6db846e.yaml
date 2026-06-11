@@ -25,6 +25,14 @@ lastchangetime: 2026-01-19 15:39:07
 clickcount: 0
 geo_lat: 19.434467177536227
 geo_long: -99.13461685180664
+curation: -0.05
+streams:
+  - url: 'https://sg.centrocibernetico.com/audiorama-xevoz'
+    codec: AAC+
+    bitrate: 24
+  - url: 'http://s1.audiorama.mx:6648/stream'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

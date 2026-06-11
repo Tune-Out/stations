@@ -29,6 +29,16 @@ lastchangetime: 2026-01-14 23:19:04
 clickcount: 0
 geo_lat: 51.483307152097154
 geo_long: 11.972866058349611
+curation: 0.35
+streams:
+  - url: 'http://stream.laut.fm/radioohnenamen.m3u'
+    url_resolved: 'http://radioohnenamen.stream.laut.fm/radioohnenamen?pl=m3u&t302=2026-01-14_23-18-50&uuid=7625f7d1-04e1-4455-a429-bf9cdd4a7bf0'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/radioohnenamen.pls'
+    url_resolved: 'http://radioohnenamen.stream.laut.fm/radioohnenamen?pl=pls&t302=2026-01-15_06-09-18&uuid=f2449d30-9611-4175-8d16-4f8f7f34f228'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -21,6 +21,15 @@ lastchangetime: 2026-01-14 23:51:16
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 9613ea32-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://gene-wr08.ice.infomaniak.ch/gene-wr08.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://gene-wr08.ice.infomaniak.ch/gene-wr08.aac'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

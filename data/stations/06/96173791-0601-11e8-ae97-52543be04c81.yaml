@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 02:50:21
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://espace100.ice.infomaniak.ch/espace100-high.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://espace100.ice.infomaniak.ch/espace100-high.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 05:24:15
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://195.150.20.7/FRANCAIS'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://www.rmfon.pl/n/francais.pls'
+    url_resolved: 'https://rs101-krk.rmfstream.pl/rmf_francais'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

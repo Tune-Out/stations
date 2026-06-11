@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 03:23:20
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream.radiobest.eu:8000/64'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://stream.radiobest.eu:8000/28'
+    codec: AAC+
+    bitrate: 28
+  - url: 'http://stream.radiobest.eu:8000/192'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.radiobest.eu:8000/128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

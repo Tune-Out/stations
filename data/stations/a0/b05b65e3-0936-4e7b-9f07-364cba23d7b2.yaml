@@ -20,6 +20,16 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 18
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8'
+    codec: AAC
+    bitrate: 140
+    hls: true
+  - url: 'http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8'
+    codec: AAC
+    bitrate: 140
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media

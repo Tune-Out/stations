@@ -22,6 +22,12 @@ lastchangetime: 2026-01-15 03:22:41
 clickcount: 0
 geo_lat: 48.132000791145884
 geo_long: 11.586456298828123
+curation: 0.65
+streams:
+  - url: 'https://streams.br.de/puls_2.m3u'
+    codec: UNKNOWN
+  - url: 'http://streams.br.de/puls_1.m3u'
+    codec: UNKNOWN
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -21,6 +21,16 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: 27.95013217159467
 geo_long: -82.4571990966797
+curation: -0.05
+streams:
+  - url: 'http://s9.viastreaming.net:8100/listen.pls'
+    url_resolved: 'http://192.96.201.2:8100/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s7.viastreaming.net:8100/listen.pls'
+    url_resolved: 'http://192.96.201.2:8100/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

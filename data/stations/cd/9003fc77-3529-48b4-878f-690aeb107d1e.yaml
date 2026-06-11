@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 00:08:30
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+duplicate_of: 39c8120e-021e-4ae3-95f3-be0afb190629
+streams:
+  - url: 'http://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

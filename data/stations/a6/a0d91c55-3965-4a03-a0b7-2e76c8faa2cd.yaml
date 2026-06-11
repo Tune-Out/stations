@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 14
 geo_lat: 1.2953635219226556
 geo_long: 103.79224330186848
+curation: 0.35
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://28393.live.streamtheworld.com/YES933_PREM.aac'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

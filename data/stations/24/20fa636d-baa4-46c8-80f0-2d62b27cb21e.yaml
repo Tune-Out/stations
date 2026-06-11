@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 00:20:51
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://pub0302.101.ru:8000/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ij'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://pub0202.101.ru:8443/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijg4LjIyMy42OC44NCIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo5MS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTEuMCBXYXRlcmZveFwvOTEuNC4yIiwidWlkX2NoYW5uZWwiOiIxNTgiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjQxNDk1ODAyfQ.2YgDCLuIC__-n8AY73kSBt8QOOhNqcfO5RQ6Snikehc'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://pub0101.101.ru/stream/pro/aac/64/158'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

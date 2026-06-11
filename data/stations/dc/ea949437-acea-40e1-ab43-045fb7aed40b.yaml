@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 56.460113112636535
 geo_long: 9.992065429687502
+curation: 0.60
+streams:
+  - url: 'https://radioserver.dk/alwayselvisradio'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://radioserver.dk/alwayselvisradio'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

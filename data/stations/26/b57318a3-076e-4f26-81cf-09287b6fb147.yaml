@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://9595.brasilstream.com.br/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://9595.brasilstream.com.br/stream?identifica=6604881056089703000'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

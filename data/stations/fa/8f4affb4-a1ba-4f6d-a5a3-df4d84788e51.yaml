@@ -3,7 +3,7 @@ name: RTV - Radio Novi Sad 1
 url: http://212.200.230.50:1935/rns1/prviprogram/livestream/stream.m3u8
 url_resolved: http://212.200.230.50:1935/rns1/prviprogram/livestream/stream.m3u8
 homepage: https://www.rtv.rs/sr_ci/program/program-na-srpskom-jeziku
-favicon: ""
+favicon: https://static.rtv.rs/assets/repository/2012/img/favicon/rtv.ico
 tags:
   - public-radio
 country: Serbia
@@ -22,6 +22,7 @@ lastchangetime: 2026-01-15 04:41:12
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.50
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

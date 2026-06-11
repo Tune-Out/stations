@@ -22,6 +22,16 @@ lastchangetime: 2026-01-31 08:22:49
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://sa47.scastream.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: 'https://wz7liw.scahw.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 130
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

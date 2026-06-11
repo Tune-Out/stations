@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:19:54
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream2.radiohbr.de:8080/stream.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://stream1.radiohbr.de/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

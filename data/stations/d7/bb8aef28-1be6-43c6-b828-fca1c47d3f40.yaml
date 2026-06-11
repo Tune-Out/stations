@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://s1.gntr.net/listen/mgtradio/mgtradio'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://sukmben.radiogentara.com/listen/mgtradio/mgtradio'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

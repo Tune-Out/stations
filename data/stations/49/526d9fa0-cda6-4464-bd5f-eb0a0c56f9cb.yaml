@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:31:18
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.05
+streams:
+  - url: 'https://s2.radio.co/se5e166e2f/listen#.mp3'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://s2.radio.co/se5e166e2f/listen'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: online-only

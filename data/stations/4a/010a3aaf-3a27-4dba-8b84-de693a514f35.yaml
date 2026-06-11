@@ -26,6 +26,14 @@ lastchangetime: 2026-01-14 23:42:14
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://streaming.novaentertainment.com.au/fiveaa'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://streaming.novaentertainment.com.au/fiveaa?type=.mp3'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

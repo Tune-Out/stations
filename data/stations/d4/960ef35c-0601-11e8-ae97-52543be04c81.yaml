@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 03:53:54
 clickcount: 77
 geo_lat: 50.85325707417748
 geo_long: 4.402635790952025
+curation: 0.55
+streams:
+  - url: 'http://icecast.vrtcdn.be/radio1.aac'
+    codec: AAC
+  - url: 'http://icecast.vrtcdn.be/radio1-high.mp3'
+    codec: MP3
+  - url: 'http://icecast.vrtcdn.be/radio1-mid.mp3'
+    codec: MP3
+  - url: 'https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

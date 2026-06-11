@@ -27,6 +27,12 @@ lastchangetime: 2026-01-15 08:31:59
 clickcount: 2
 geo_lat: 49.47817533209903
 geo_long: 8.422199730637647
+curation: -0.05
+streams:
+  - url: 'https://stream.rpr1.de/trier/mp3-128/radiobrowser'
+    codec: MP3
+  - url: 'http://streams.rpr1.de/rpr-trier-128-mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

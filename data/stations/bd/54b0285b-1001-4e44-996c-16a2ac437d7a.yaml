@@ -22,6 +22,18 @@ lastchangetime: 2026-04-29 06:01:30
 clickcount: 0
 geo_lat: 45.27154095628928
 geo_long: 27.97428667545319
+curation: -0.05
+streams:
+  - url: 'http://live.playradio.org:8443/90HD'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://live.playradio.org:8443/90HD'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://www.radio-extrem.com/asculta'
+    url_resolved: 'http://radiolive.radio-extrem.com:8004/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream1.themediasite.co.uk:8026/;?_=215164'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream1.themediasite.co.uk:8026/;?_=54350'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

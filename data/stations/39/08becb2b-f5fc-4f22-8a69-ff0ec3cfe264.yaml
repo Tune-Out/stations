@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 01:18:04
 clickcount: 16
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://stream.nsp.se:8000/pop'
+    codec: OGG
+    bitrate: 1200
+  - url: 'https://stream.madmenmedia.se/popfm'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://stream.nsp.se:8000/popfm_high'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

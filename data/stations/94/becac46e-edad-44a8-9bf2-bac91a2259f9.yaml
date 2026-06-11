@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 02:45:26
 clickcount: 3
 geo_lat: 43.31713326222797
 geo_long: 21.89551323652268
+curation: 0.55
+streams:
+  - url: 'https://radio.nisville.com/public/live/playlist.pls'
+    url_resolved: 'https://radio.nisville.com/listen/live/live'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.nisville.com/listen/live/live'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

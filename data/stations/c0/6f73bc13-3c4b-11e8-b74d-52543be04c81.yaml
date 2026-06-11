@@ -23,6 +23,24 @@ lastchangetime: 2026-01-15 04:38:30
 clickcount: 3
 geo_lat: 37.809784
 geo_long: -121.286316
+curation: 0.60
+streams:
+  - url: 'https://somafm.com/deepspaceone130.pls'
+    url_resolved: 'https://ice3.somafm.com/deepspaceone-128-aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://somafm.com/deepspaceone64.pls'
+    url_resolved: 'https://ice2.somafm.com/deepspaceone-64-aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://somafm.com/deepspaceone32.pls'
+    url_resolved: 'https://ice2.somafm.com/deepspaceone-32-aac'
+    codec: AAC
+    bitrate: 32
+  - url: 'https://somafm.com/deepspaceone.pls'
+    url_resolved: 'https://ice6.somafm.com/deepspaceone-128-mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

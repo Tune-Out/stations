@@ -3,7 +3,7 @@ name: Radio Alex
 url: https://proxima.shoutca.st/tunein/frradioq.pls
 url_resolved: http://proxima.shoutca.st:9045/stream
 homepage: https://radioalex.pl/
-favicon: ""
+favicon: https://radioalex.pl/alex-wp/wp-content/uploads/2022/06/cropped-Project-1-Przezroczysty-1-180x180.png
 tags:
   - folk
   - local-news
@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 03:57:28
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://proxima.shoutca.st/tunein/frradioq.pls'
+    url_resolved: 'http://proxima.shoutca.st:9045/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://frradioq.radioca.st/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

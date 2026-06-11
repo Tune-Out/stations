@@ -22,6 +22,179 @@ lastchangetime: 2026-01-15 01:49:53
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://streams.fluxfm.de/live/aac-64/audio/'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/forward/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635?sABC=6968866s%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768457839'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/clubsandwich/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-clubsandwich-aacplus-64-7964468?sABC=69682rs6%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768435446'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/kinder1/aac-64/streams.fluxfm.de/'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/xjazz/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824?sABC=69683rq2%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768439506'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/neofm/aac-64/radiode/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-neofm-aacplus-64-5150487?sABC=69685nrn%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1768446698'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/elektro/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-elektroflux-aacplus-64-7576981?sABC=696845sp%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768441340'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/fluxkompensator/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxkompensator-aacplus-64-6283953?sABC=69682sp9%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768435657'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/kinder2/aac-64/streams.fluxfm.de/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635?sABC=6968720s%230%23r30o443r1929r059s085628511796n57%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1768452623'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/boomfm/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635?sABC=6968673p%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768449852'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/klubradio/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-klubradio-aacplus-64-8993546?sABC=69688066%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768456294'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/lounge/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxlounge-aacplus-64-3246257?sABC=69683ps0%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768439024'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/metalfm/aac-64/radiode/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=69686qq3%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1768451539'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/ohrspiel/aac-64/audio/'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/john-reed/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-johnreedradio-aacplus-64-5245546?sABC=696856pr%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768445646'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/soundofberlin/aac-64'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/boomfmclassics/aac-64/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-boomfmclassics-aacplus-64-9071050?sABC=696835po%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768437195'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/hardrock/aac-64/streams.fluxfm.de/'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/popradio/aac-64/streams.fluxfm.de/'
+    codec: AAC
+  - url: 'http://streams.fluxfm.de/lounge/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851?sABC=6968476q%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768441709'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/ohrspiel/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=69683942%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768438082'
+    codec: MP3
+  - url: 'https://streams.fluxfm.de/indiedisco/mp3-320/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/dubradio/mp3-320/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/lounge/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxlounge-mp3-128-8660249?sABC=6968n20r%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768464910'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/boomfm/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=696838ps%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768437967'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/event04/mp3-128/audio/play.m3'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/neofm/mp3-320/radiode/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-neofm-mp3-320-1670254?sABC=69688p70%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1768459376'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/klubradio/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-klubradio-mp3-128-6339004?sABC=6968592n%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768446250'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/boomfm/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035?sABC=69682nop%230%230r6n2r63589p0102nq2100136q803p71%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768434364'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/metalfm/mp3-320/radiode/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=69682r4r%230%230r6n2r63589p0102nq2100136q803p71%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1768435278'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/hardrock/mp3-128/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/elektro/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-elektroflux-mp3-128-4689447?sABC=6968658q%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768449421'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/boomfmclassics/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180?sABC=69686qo6%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768451510'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/kinder1/mp3-320/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/john-reed/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-johnreedradio-mp3-128-5108296?sABC=6968638q%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768448909'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/hardrock/mp3-320/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/ohrspiel/mp3-128/audio/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/popradio/mp3-128/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/kinder2/mp3-128/streams.fluxfm.de/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035?sABC=69688r85%230%23r30o443r1929r059s085628511796n57%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1768459909'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/clubsandwich/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-clubsandwich-mp3-320-3801354?sABC=6968942p%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768461356'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/studio56/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=69689550%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768461648'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/forward/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035?sABC=69687n94%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768454804'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/xjazz/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412?sABC=6968826s%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768456815'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/live/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035?sABC=6968n2s4%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768465140'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/fluxkompensator/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxkompensator-mp3-128-2993622?sABC=6968n3qr%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768465374'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/neofm/mp3-128/radiode/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467?sABC=696861n6%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1768448422'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/clubsandwich/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-clubsandwich-mp3-128-6001945?sABC=6968294s%230%230r6n2r63589p0102nq2100136q803p71%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768433999'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/soundofberlin/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-soundofberlin-mp3-128-4733149?sABC=696890np%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768460460'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/live/mp3-320/audio/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/kinder2/mp3-320/streams.fluxfm.de/play.pls'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=69685491%230%23r30o443r1929r059s085628511796n57%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1768445073'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/john-reed/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-johnreedradio-mp3-320-7051829?sABC=69689746%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768462150'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/boomfmclassics/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-128-9062018?sABC=696832pq%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768436429'
+    codec: MP3
+  - url: 'https://streams.fluxfm.de/event04/mp3-128/audio/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/studio56/mp3-128/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035?sABC=69689sp2%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768464322'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/forward/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=69684543%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768441155'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/popradio/mp3-320/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/chillout/mp3-320/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/klubradio/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-klubradio-mp3-320-6997579?sABC=696832s5%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768436469'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/elektro/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-elektroflux-mp3-320-1359322?sABC=69687086%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768452230'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/kinder1/mp3-128/streams.fluxfm.de/'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/soundofberlin/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-soundofberlin-mp3-320-9689589?sABC=6968401p%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768439836'
+    codec: MP3
+  - url: 'http://streams.fluxfm.de/xjazz/mp3-320/audio/play.m3u'
+    url_resolved: 'http://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663?sABC=69686882%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768450178'
+    codec: MP3
+  - url: 'https://channels.fluxfm.de/FluxFM/stream.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -3,7 +3,7 @@ name: ABC Jazz (AAC)
 url: http://live-radio01.mediahubaustralia.com/JAZW/aac/
 url_resolved: http://live-radio01.mediahubaustralia.com/JAZW/aac/
 homepage: http://abcjazz.net.au/
-favicon: ""
+favicon: https://www.abc.net.au:443/core-assets/jazz/touchicon-jazz.png
 tags:
   - jazz
   - public-radio
@@ -23,6 +23,8 @@ lastchangetime: 2026-01-14 23:25:56
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.60
+duplicate_of: 9623b33d-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

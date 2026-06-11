@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 5
 geo_lat: 40.76465537633541
 geo_long: -73.98596763610841
+curation: -0.05
+streams:
+  - url: 'https://liveaudio.lamusica.com/NY_WSKQ_icy?source=TuneIn&bundle=tunein.com&lat=36.3933&long=-97.9158'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://liveaudio.lamusica.com/NY_WSKQ_icy?listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.12%3Ahtml5&aw_0_1st.playerid=lamusica.web.mobile&aw_0_1st.skey=1690194521&sw_bp=1'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

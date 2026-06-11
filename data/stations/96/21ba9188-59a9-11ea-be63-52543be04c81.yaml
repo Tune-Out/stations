@@ -22,6 +22,18 @@ lastchangetime: 2026-01-15 08:25:40
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'http://31.192.216.10/DANCE'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://rmfstream1.interia.pl:8000/rmf_dance'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.rmfon.pl/n/dance.pls'
+    url_resolved: 'https://rs103-krk.rmfstream.pl/rmf_dance'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

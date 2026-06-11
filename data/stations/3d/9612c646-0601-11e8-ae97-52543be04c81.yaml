@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 00:18:06
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'http://radio.rockserwis.fm/live.aac'
+    url_resolved: 'http://stream9.nadaje.com:8002/live.aac'
+    codec: AAC+
+  - url: 'http://radio.rockserwis.fm/live'
+    url_resolved: 'http://stream9.nadaje.com:8002/live'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

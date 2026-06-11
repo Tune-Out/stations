@@ -3,7 +3,7 @@ name: Ultra Split
 url: http://c5.hostingcentar.com:8061/;stream/1
 url_resolved: http://c5.hostingcentar.com:8061/;stream/1
 homepage: https://ultrasplit.hr/
-favicon: ""
+favicon: https://ultrasplit.hr/wp-content/uploads/2023/09/cropped-favicon-180x180.jpg
 tags: []
 country: Croatia
 countrycode: HR
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 01:58:28
 clickcount: 1
 geo_lat: 43.50594769284607
 geo_long: 16.44772074143793
+curation: -0.05
+streams:
+  - url: 'http://c5.hostingcentar.com:8061/;stream/1'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://c5.hostingcentar.com:8061/stream'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

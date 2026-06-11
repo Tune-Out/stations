@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://213.230.109.7:9000/alo_low'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://live.qalbimnavosi.uz/qalbimnavosi'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial

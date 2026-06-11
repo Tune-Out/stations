@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 00:09:17
 clickcount: 10
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://megastar.cope.stream.flumotion.com/cope/megastar.mp3.m3u'
+    url_resolved: 'http://flucast-bl05.flumotion.com/cope/megastar.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://megastar-cope.flumotion.com/chunks.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

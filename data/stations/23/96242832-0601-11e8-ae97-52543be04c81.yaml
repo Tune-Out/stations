@@ -3,7 +3,7 @@ name: Radio Radicale
 url: http://live.radioradicale.it/live.mp3
 url_resolved: http://live.radioradicale.it/live.mp3
 homepage: http://www.radioradicale.it/
-favicon: ""
+favicon: https://www.radioradicale.it/sites/www.radioradicale.it/files/favicon_0.ico
 tags:
   - politics
   - talk
@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 25
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'http://live.radioradicale.it/live.mp3'
+    codec: MP3
+  - url: 'https://live.radioradicale.it/live.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

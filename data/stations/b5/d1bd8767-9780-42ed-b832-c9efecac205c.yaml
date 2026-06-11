@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: 55.07207755373826
 geo_long: 14.875488281250002
+curation: 0.50
+streams:
+  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p5bornholm/masterab.m3u8'
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: 'https://live-icy.dr.dk/A/A30H.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

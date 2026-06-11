@@ -3,7 +3,7 @@ name: Kiss Radio
 url: http://icecast4.play.cz/kiss128.mp3
 url_resolved: http://icecast4.play.cz/kiss128.mp3
 homepage: https://www.kiss.cz/
-favicon: ""
+favicon: https://www.kiss.cz/assets/favicon/apple-touch-icon.png
 tags:
   - dance
 country: Czechia
@@ -22,6 +22,12 @@ lastchangetime: 2026-01-15 06:46:57
 clickcount: 16
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://icecast4.play.cz/kiss128.mp3'
+    codec: MP3
+  - url: 'https://icecast1.play.cz/kissdelta128.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,13 @@ lastchangetime: 2026-01-15 08:16:49
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://lizeradio.com:8080/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://lizeradio.com/webplayer/actions.php'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

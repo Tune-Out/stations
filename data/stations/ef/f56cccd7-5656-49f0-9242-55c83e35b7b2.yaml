@@ -3,7 +3,7 @@ name: N Joy
 url: http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3?aggregator=airable
 url_resolved: http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3?aggregator=airable
 homepage: https://n-joy.de/
-favicon: ""
+favicon: https://www.ndr.de/resources/assets/resources/images/favicon/favicon.ico
 tags:
   - pop
 country: Germany
@@ -20,6 +20,8 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: eac50ec2-a5ec-4600-a863-3116f40bcc41
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

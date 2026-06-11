@@ -25,6 +25,15 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 2
 geo_lat: -26.90732677192531
 geo_long: -49.06795132027803
+curation: -0.05
+streams:
+  - url: 'https://radio.saopaulo01.com.br:10937/aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://ice.fabricahost.com.br/jpblumenau'
+    url_resolved: 'https://f108.fabricahost.com.br/jpblumenau?f=1768464027N01KF0AQ438AT4MFMBHEV2NP5QH&tid=01KF0AQ438FRZFWMDPREG5YT3S'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

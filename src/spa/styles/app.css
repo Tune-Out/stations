@@ -942,6 +942,25 @@ img { display: block; max-width: 100%; height: auto; }
 }
 .tag-chip-icon svg { display: block; }
 .tag-chip-label { display: inline-block; }
+/* Count pill — small monospace bubble after the label, slightly dimmer
+   so the chip's own colour still leads. Padding is asymmetric to visually
+   tighten against the trailing edge of the chip. */
+.tag-chip-count {
+  display: inline-flex; align-items: center; justify-content: center;
+  margin-inline-start: 0.1rem;
+  margin-inline-end: -0.15rem;
+  padding: 0.08rem 0.45rem;
+  border-radius: 999px;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: color-mix(in oklab, var(--tag-color) 26%, transparent);
+  color: color-mix(in oklab, var(--tag-color) 60%, var(--fg));
+}
+:root[data-theme="dark"] .tag-chip-count {
+  background: color-mix(in oklab, var(--tag-color) 32%, transparent);
+  color: color-mix(in oklab, var(--tag-color) 55%, white);
+}
 .tag-chip-link {
   text-decoration: none;
   cursor: pointer;

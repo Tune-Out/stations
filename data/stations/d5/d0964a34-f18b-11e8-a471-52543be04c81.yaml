@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:07:10
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media

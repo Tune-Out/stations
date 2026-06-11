@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 962c9c84-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'https://s3.nexuscast.com/tunein.php/rayzalokar/playlist.pls'
+    url_resolved: 'http://192.99.83.149:8046/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s3.nexuscast.com/tunein.php/rayzalokar/playlist.pls'
+    url_resolved: 'http://192.99.83.149:8046/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

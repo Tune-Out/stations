@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 07:49:33
 clickcount: 1
 geo_lat: 50.737031787347576
 geo_long: -1.950529217720032
+curation: 0.40
+streams:
+  - url: 'https://stream1.hippynet.co.uk/stream/xtrahot/live'
+    codec: MP3
+    bitrate: 160
+  - url: 'https://stream1.hippynet.co.uk/stream/xtrahot/live?_=441643'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-10
   nature: community

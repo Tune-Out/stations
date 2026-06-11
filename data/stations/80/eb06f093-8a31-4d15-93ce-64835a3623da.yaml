@@ -22,6 +22,14 @@ lastchangetime: 2026-03-12 23:34:38
 clickcount: 0
 geo_lat: 19.434019475967336
 geo_long: -99.13023948669436
+curation: -0.05
+streams:
+  - url: 'https://server2.sit-mexico.com:2199/proxy/acustik?mp=/stream&1769272990469'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://server2.sit-mexico.com:2199/proxy/acustik'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

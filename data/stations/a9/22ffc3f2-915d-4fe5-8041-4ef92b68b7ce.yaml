@@ -29,6 +29,14 @@ lastchangetime: 2026-03-10 17:21:23
 clickcount: 0
 geo_lat: 53.15052090398257
 geo_long: 16.73888593912125
+curation: -0.05
+streams:
+  - url: 'https://s3.slotex.pl:7278/stream/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://s3.slotex.pl:7278/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

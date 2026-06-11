@@ -3,7 +3,7 @@ name: Brava Radio 103.8 FM Jakarta
 url: http://stream.radiojar.com/5k7t0rq3bnzuv
 url_resolved: http://stream.radiojar.com/5k7t0rq3bnzuv
 homepage: https://bravaradio.com/
-favicon: ""
+favicon: https://bravaradio.com/wp-content/uploads/2014/12/favicon.png
 tags: []
 country: Indonesia
 countrycode: ID
@@ -21,6 +21,12 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.radiojar.com/5k7t0rq3bnzuv'
+    codec: MP3
+  - url: 'https://stream.radiojar.com/5k7t0rq3bnzuv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

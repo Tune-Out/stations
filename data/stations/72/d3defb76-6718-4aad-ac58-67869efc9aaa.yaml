@@ -24,6 +24,15 @@ lastchangetime: 2026-03-25 10:29:26
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'https://stream.radios.rs:9076/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://53be5ef2d13aa.streamlock.net/asmedia/s_jazz/playlist.m3u8'
+    codec: AAC
+    bitrate: 43
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

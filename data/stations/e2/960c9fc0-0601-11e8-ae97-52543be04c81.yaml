@@ -3,7 +3,7 @@ name: Radio FFN
 url: http://player.ffn.de/ffn.aac
 url_resolved: http://player.ffn.de/ffn.aac
 homepage: http://www.ffn.de/
-favicon: ""
+favicon: https://www.ffn.de/typo3conf/ext/ffn_site/Resources/Public/Icons/Favicons/apple-touch-icon.png
 tags: []
 country: Germany
 countrycode: DE
@@ -21,6 +21,8 @@ lastchangetime: 2026-01-15 00:18:06
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: fb44022f-a950-42bd-8f80-add353ee75f6
 research:
   reviewed_at: 2026-06-10
   nature: commercial

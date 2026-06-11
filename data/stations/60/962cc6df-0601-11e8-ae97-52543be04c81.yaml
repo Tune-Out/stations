@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 08:31:18
 clickcount: 213
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'https://dancewave.online/dance.ogg'
+    codec: OGG
+    bitrate: 160
+  - url: 'https://dancewave.online/dance.opus'
+    codec: OGG
+    bitrate: 96
+  - url: 'https://dancewave.online/dance.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

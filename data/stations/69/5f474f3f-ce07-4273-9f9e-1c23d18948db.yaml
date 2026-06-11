@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://a11.asurahosting.com:7470/spirit_online'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://radio.spirittoc.com:8060/spirit_online'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

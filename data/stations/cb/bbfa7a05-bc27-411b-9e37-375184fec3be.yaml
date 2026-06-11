@@ -20,6 +20,14 @@ lastchangetime: 2026-02-08 09:42:44
 clickcount: 0
 geo_lat: 44.435566371811966
 geo_long: 26.10247536929375
+curation: -0.05
+streams:
+  - url: 'https://ssl.omegahost.ro/8000/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://live.radiovaloare.ro:7777/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

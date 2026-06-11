@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 08:46:38
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://graj.radiokolobrzeg.pl:8000/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://graj.radiokolobrzeg.pl:8000/listen.pls'
+    url_resolved: 'http://graj.radiokolobrzeg.pl:8000/;'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

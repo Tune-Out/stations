@@ -25,6 +25,15 @@ lastchangetime: 2026-01-14 23:37:16
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://live-radio01.mediahubaustralia.com/4TJW/mp3/'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://www.abc.net.au/res/streaming/audio/aac/triplej.pls'
+    url_resolved: 'http://abc.streamguys1.com/live/triplejnsw/icecast.audio'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 08:15:25
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://wz3liw.scahw.com.au/live/3ne_128.stream/playlist.m3u8'
+    codec: AAC+
+    bitrate: 129
+    hls: true
+  - url: 'https://wz3liw.scahw.com.au/live/3ne_128.stream/playlist.m3u8'
+    codec: AAC+
+    bitrate: 129
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

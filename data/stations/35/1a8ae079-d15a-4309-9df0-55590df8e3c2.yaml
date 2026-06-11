@@ -3,7 +3,7 @@ name: Radio Caroline Flashback
 url: http://sc2.radiocaroline.net:10558/listen.pls
 url_resolved: http://sc2.radiocaroline.net:10558/;
 homepage: http://www.carolineflashback.co.uk/#home.html
-favicon: ""
+favicon: http://www.carolineflashback.co.uk/favicon.ico
 tags:
   - 60s
   - 70s
@@ -25,6 +25,15 @@ lastchangetime: 2026-01-15 08:18:44
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://sc2.radiocaroline.net:10558/listen.pls'
+    url_resolved: 'http://sc2.radiocaroline.net:10558/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sc2.radiocaroline.net:10558/;stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

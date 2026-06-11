@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:12:26
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.ellada943.gr:10308/live.ogg'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://stream.ellada943.gr:10308/live.ogg'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

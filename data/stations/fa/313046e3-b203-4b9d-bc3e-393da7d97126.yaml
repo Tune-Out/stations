@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:13:13
 clickcount: 214
 geo_lat: 40.75166
 geo_long: -73.97538
+curation: 0.85
+streams:
+  - url: 'https://icecast.walmradio.com:8443/walm'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://icecast.walmradio.com:8443/otr'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

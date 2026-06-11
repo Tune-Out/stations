@@ -3,7 +3,7 @@ name: Top20Radio
 url: http://server8.blitz-stream.de:9100/
 url_resolved: http://server8.blitz-stream.de:9100/
 homepage: http://top20radio.tv/
-favicon: ""
+favicon: https://top20radio.tv/wp-content/uploads/favRot-1.ico
 tags:
   - 80s
   - 90s
@@ -25,6 +25,18 @@ lastchangetime: 2026-01-14 23:58:18
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://server8.blitz-stream.de:9100/'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://top20radio.spcast.eu/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://server8.blitz-stream.de:9100/listen.pls'
+    url_resolved: 'http://top20radio.spcast.eu/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

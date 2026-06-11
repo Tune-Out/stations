@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://www.radioenergy.lv:9000/listen.pls'
+    url_resolved: 'http://www.radioenergy.lv:9000/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.radioenergy.lv:8000/listen.pls'
+    url_resolved: 'http://www.radioenergy.lv:8000/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,12 @@ lastchangetime: 2026-04-16 21:42:44
 clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
+curation: 0.65
+streams:
+  - url: 'https://fluxmusic.api.radiosphere.io/channels/fluxfm-finest/stream.aac?quality=1'
+    codec: AAC
+  - url: 'https://fluxmusic.api.radiosphere.io/channels/fluxfm-finest/stream.mp3?quality=1'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

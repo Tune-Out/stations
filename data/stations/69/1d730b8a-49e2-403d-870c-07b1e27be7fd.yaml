@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 23:25:46
 clickcount: 14
 geo_lat: 47.238405793529864
 geo_long: -122.46498531404131
+curation: 0.75
+streams:
+  - url: 'https://knkx-live-a.edge.audiocdn.com/6285_256k'
+    codec: AAC
+    bitrate: 256
+  - url: 'https://knkx-live-a.edge.audiocdn.com/6285_64k'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

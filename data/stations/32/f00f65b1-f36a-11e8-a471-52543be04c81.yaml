@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 23:55:28
 clickcount: 4
 geo_lat: 50.3115
 geo_long: 11.923
+curation: 0.40
+streams:
+  - url: 'https://0n-electro.radionetz.de/0n-electro.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://0n-electro.radionetz.de/0n-electro.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

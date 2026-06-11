@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://onair7.xdevel.com/proxy/xautocloud_xsgp_1092?mp=/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://onair7.xdevel.com/proxy/xautocloud_xsgp_1092?mp=/;stream/;'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial

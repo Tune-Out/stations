@@ -3,7 +3,7 @@ name: Otvoreni Radio - Fitness
 url: https://stream.otvoreni.hr/fitness
 url_resolved: https://stream.otvoreni.hr/fitness
 homepage: https://www.otvoreni.hr/
-favicon: ""
+favicon: https://www.otvoreni.hr/favicon.svg
 tags:
   - lifestyle
 country: Croatia
@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 01:06:06
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: f4737266-8a7b-42c2-98de-78a30a72457e
+streams:
+  - url: 'https://stream.otvoreni.hr/fitness'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://stream.otvoreni.hr/fitness'
+    codec: AAC
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

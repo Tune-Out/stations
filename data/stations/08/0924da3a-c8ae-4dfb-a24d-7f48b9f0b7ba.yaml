@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 7
 geo_lat: 47.49761131636839
 geo_long: 19.03278350830078
+curation: -0.05
+streams:
+  - url: 'https://icast.connectmedia.hu/5301/live.mp3/'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://icast.connectmedia.hu/5301/live.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

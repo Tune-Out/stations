@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 05:24:52
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'http://boxstream.danceradiouk.com/stream/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://boxstream.danceradiouk.com/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

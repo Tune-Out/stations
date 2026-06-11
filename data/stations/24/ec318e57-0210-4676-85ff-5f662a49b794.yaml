@@ -20,6 +20,14 @@ lastchangetime: 2026-06-07 09:52:09
 clickcount: 0
 geo_lat: 47.47266286861342
 geo_long: 19.060808759126637
+curation: -0.05
+streams:
+  - url: 'https://a7.asurahosting.com/listen/radio_comedy/radio.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://a7.asurahosting.com:8430/radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

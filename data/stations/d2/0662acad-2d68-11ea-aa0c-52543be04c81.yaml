@@ -3,7 +3,7 @@ name: Magic radio
 url: http://mp3.magic-radio.net/flac.m3u
 url_resolved: http://mp3.magic-radio.net/flac
 homepage: https://magic-radio.net/
-favicon: ""
+favicon: https://magic-radio.net/fichier_000_1.png
 tags:
   - 80s
 country: France
@@ -22,6 +22,21 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://mp3.magic-radio.net/flac.m3u'
+    url_resolved: 'http://mp3.magic-radio.net/flac'
+    codec: OGG
+    bitrate: 1500
+  - url: 'http://mp3.magic-radio.net/320'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://mp3.magic-radio.net/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://mp3.magic-radio.net/prox192'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

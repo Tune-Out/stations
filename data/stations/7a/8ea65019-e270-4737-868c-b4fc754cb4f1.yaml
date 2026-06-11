@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 43
 geo_lat: 61.120930879735546
 geo_long: 10.462401226998631
+curation: -0.10
+streams:
+  - url: 'https://p4.p4groupaudio.com/P04_AH'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://p4.p4groupaudio.com/P04_MM'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

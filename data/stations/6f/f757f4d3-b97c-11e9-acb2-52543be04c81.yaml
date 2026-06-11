@@ -23,6 +23,13 @@ lastchangetime: 2026-01-15 04:09:15
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 97d43565-b97d-11e9-acb2-52543be04c81
+streams:
+  - url: 'https://stream.radio-nordseewelle.de/live/mp3-192/'
+    codec: MP3
+  - url: 'http://stream.radio-nordseewelle.de/live/mp3-192'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

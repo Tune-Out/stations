@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 01:08:13
 clickcount: 65
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://br-radio.ard-mcdn.de/br/radio/b1obb/hls/192/seglist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://br-radio.ard-mcdn.de/br/radio/b1obb/hls/96/seglist.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

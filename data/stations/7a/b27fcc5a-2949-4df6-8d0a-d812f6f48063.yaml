@@ -21,6 +21,14 @@ lastchangetime: 2026-02-02 09:24:54
 clickcount: 1
 geo_lat: 52.25713220944509
 geo_long: -7.112274169921876
+curation: -0.05
+streams:
+  - url: 'http://stream.audioxi.com/BEATAAC'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://live-bauerie.sharp-stream.com/BEAT'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -24,6 +24,13 @@ lastchangetime: 2026-01-20 07:49:09
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://lhttp.qingting.fm/live/4595/64k.mp3'
+    codec: MP3
+  - url: 'http://ls.qingting.fm/live/4595.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

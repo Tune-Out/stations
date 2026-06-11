@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 07:33:28
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://uk2.streamingpulse.com:8042/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://us7.streamingpulse.com/1962/?pl=winamp&c=HospitalRadio.ie'
+    url_resolved: 'https://de2.streamingpulse.com/ssl/8042'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

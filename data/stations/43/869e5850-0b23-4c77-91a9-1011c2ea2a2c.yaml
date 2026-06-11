@@ -20,6 +20,14 @@ lastchangetime: 2026-05-29 22:10:59
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://proxy.rctiplus.com/?name=http://8.215.206.157:8002/;'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://proxy.rctiplus.com/?name=http://8.215.206.157:8010/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

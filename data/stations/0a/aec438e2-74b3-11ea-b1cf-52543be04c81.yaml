@@ -3,7 +3,7 @@ name: Radyo ODTU - Rock
 url: http://stream.radyoodtu.com.tr/rock
 url_resolved: http://stream.radyoodtu.com.tr/rock
 homepage: https://www.radyoodtu.com.tr/
-favicon: ""
+favicon: https://www.radyoodtu.com.tr/favicon.ico
 tags:
   - classic-rock
   - hard-rock
@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 08:40:44
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream.radyoodtu.com.tr/;'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://stream.radyoodtu.com.tr/rock'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

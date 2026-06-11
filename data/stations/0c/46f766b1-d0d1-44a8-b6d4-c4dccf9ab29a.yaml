@@ -28,6 +28,16 @@ lastchangetime: 2026-05-11 12:14:28
 clickcount: 0
 geo_lat: 50.633
 geo_long: 3.066
+curation: 0.40
+streams:
+  - url: 'https://public.isekoi-radio.com/listen/isekoi/radio.flac'
+    url_resolved: 'https://public.isekoi-radio.com/listen/isekoi/radio.flac?cb=1778501600484'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://public.isekoi-radio.com/listen/isekoi/radio.flac'
+    codec: OGG
+  - url: 'https://public.isekoi-radio.com/listen/isekoi/radio.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

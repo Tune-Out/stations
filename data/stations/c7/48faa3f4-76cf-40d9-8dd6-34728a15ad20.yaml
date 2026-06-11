@@ -3,7 +3,7 @@ name: Fly 104
 url: https://imagine2.radioca.st/;stream.nsv
 url_resolved: https://imagine2.radioca.st/;stream.nsv
 homepage: https://fly104.gr/en/
-favicon: ""
+favicon: https://fly104.gr/templates/yoo_sun/apple_touch_icon.png
 tags:
   - house
 country: Greece
@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: 40.636761002335504
 geo_long: 22.95146942138672
+curation: -0.05
+streams:
+  - url: 'https://imagine2.radioca.st/;stream.nsv'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://imagine2.radioca.st/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

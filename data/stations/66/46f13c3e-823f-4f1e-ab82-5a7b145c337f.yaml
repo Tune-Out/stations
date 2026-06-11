@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 5
 geo_lat: 51.5306179528736
 geo_long: -0.02197265625
+curation: -0.05
+streams:
+  - url: 'https://media-ssl.musicradio.com/SmoothCountry'
+    codec: AAC
+    bitrate: 48
+  - url: 'https://media-ice.musicradio.com/SmoothCountryMP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

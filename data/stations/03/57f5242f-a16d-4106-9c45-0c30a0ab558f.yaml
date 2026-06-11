@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 04:45:19
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://live.str3am.com:2010/'
+    codec: MP3
+    bitrate: 56
+  - url: 'http://auralmoon.com/playlinks/auralmoon56kmp3.pls'
+    url_resolved: 'http://live.streamguys1.com:2010/'
+    codec: MP3
+    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

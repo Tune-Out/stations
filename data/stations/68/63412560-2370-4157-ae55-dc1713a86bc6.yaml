@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://ice8.securenetsystems.net/EASY96'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice8.securenetsystems.net/EASY96?type=.mp3'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -3,7 +3,7 @@ name: Radio Silesia FM
 url: https://s1.slotex.pl/shoutcast/7926/stream?sid=1
 url_resolved: https://s1.slotex.pl/shoutcast/7926/stream?sid=1
 homepage: https://silesia.fm/
-favicon: ""
+favicon: https://silesia.fm/favicon.ico
 tags: []
 country: Poland
 countrycode: PL
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 0
 geo_lat: 50.31395664851715
 geo_long: 18.78704380093054
+curation: -0.05
+streams:
+  - url: 'https://s1.slotex.pl/shoutcast/7926/stream?sid=1'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streaming.tvs.pl:8010/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

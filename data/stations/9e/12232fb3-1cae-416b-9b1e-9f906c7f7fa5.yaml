@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 00:29:13
 clickcount: 5
 geo_lat: 50.00509116466678
 geo_long: 8.294677734375002
+curation: 0.35
+streams:
+  - url: 'https://liveradio.swr.de/sw331ch/swr1rp/'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://liveradio.swr.de/sw282p3/swr1rp/play.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

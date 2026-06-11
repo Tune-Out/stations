@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://livestream.cprnetwork.org/pls/live_newsinfo_aac.pls'
+    url_resolved: 'http://stream1.cprnetwork.org/cpr1_aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://livestream.cprnetwork.org/pls/live_newsinfo_mp3.pls'
+    url_resolved: 'http://stream1.cprnetwork.org/cpr1_lo'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

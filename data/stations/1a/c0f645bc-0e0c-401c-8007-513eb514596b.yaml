@@ -19,6 +19,14 @@ lastchangetime: 2026-05-15 16:07:06
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://us4new.listen2myradio.com:12373/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://us5new.listen2myradio.com:2199/proxy/ekidthig/stream'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: community

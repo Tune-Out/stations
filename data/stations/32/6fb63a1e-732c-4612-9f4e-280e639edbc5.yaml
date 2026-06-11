@@ -3,7 +3,7 @@ name: Cavo Paradiso
 url: http://s5.onweb.gr:8488/
 url_resolved: http://s5.onweb.gr:8488/
 homepage: https://www.cavoparadiso.gr/
-favicon: ""
+favicon: https://www.cavoparadiso.gr/favicon.ico
 tags:
   - house
   - edm
@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'http://s5.onweb.gr:8488/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s5.onweb.gr:8488/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

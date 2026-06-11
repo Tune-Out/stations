@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:36:04
 clickcount: 9
 geo_lat: 47.2757573
 geo_long: 11.3963689
+curation: 0.65
+streams:
+  - url: 'http://orf-live.ors-shoutcast.at/tir-q2a'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://orf-live.ors-shoutcast.at/tir-q1a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

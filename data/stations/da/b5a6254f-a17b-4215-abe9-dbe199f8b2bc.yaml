@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 04:06:36
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://cupcake.citrus3.com:2020/tunein/radioracine/stream/pls'
+    url_resolved: 'http://cupcake.citrus3.com:8186/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cupcake.citrus3.com:8186/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

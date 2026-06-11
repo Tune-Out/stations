@@ -22,6 +22,18 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://s2.xrad.io:8522/listen.pls?sid=1'
+    url_resolved: 'http://s2.xrad.io:8522/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://edge.clrmedia.co.uk/angel_hb'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://s2.xrad.io:8522/stream'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:51:27
 clickcount: 2
 geo_lat: 42.35631134102071
 geo_long: -83.05938720703126
+curation: 0.60
+streams:
+  - url: 'https://das-edge15-live365-dal02.cdnstream.com/a71161'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ais-edge102-live365-dal02.cdnstream.com/a71161'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

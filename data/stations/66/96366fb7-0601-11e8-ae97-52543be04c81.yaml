@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://segenswelle.de:8000/hcjb-aac'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://segenswelle.de:8000/hcjb'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

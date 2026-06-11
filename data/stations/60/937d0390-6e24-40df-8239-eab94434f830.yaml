@@ -3,7 +3,7 @@ name: Radio Sonora 104.5 FM
 url: http://190.5.147.67:8000/radiosonora
 url_resolved: http://190.5.147.67:8000/radiosonora
 homepage: http://www.radiosonora.com.sv/
-favicon: ""
+favicon: https://www.radiosonora.com.sv/ico.ico
 tags:
   - 2000s
   - 80s
@@ -26,6 +26,15 @@ lastchangetime: 2026-01-15 00:29:53
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://190.5.147.67:8000/radiosonora'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://190.5.147.67:8000/radiosonora.m3u'
+    url_resolved: 'http://190.5.147.67:8000/radiosonora'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

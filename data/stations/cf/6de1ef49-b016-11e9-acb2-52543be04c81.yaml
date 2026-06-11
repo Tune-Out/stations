@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 03:53:54
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: e0419c41-b016-11e9-acb2-52543be04c81
+streams:
+  - url: 'https://rs24.stream24.net/live-hits?aw_0_1st.playerid=radioplayer.de'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://rs24.stream24.net/live-hits?1388180670217.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

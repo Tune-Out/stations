@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://stream.89.0rtl.de/club-edm/mp3-256'
+    codec: MP3
+  - url: 'http://www.surfmusik.de/m3u/station/89-0-rtl,1013.m3u'
+    url_resolved: 'https://stream.89.0rtl.de/live/mp3-128/surfmusik/'
+    codec: MP3
+  - url: 'https://stream.89.0rtl.de/club-edm/mp3-256'
+    codec: MP3
+  - url: 'http://stream.89.0rtl.de/2000er/mp3-256'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

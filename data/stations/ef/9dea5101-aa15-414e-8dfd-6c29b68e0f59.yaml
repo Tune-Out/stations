@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: -23.549477112780856
 geo_long: -46.63302809000016
+curation: -0.05
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/ALPHAMPBAAC.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://27393.live.streamtheworld.com/ALPHAMPBAAC.aac'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

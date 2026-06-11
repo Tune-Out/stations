@@ -22,6 +22,20 @@ lastchangetime: 2026-01-14 23:45:48
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Cross%20Country%20Christmas'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://cbnradio.streamguys1.com/country-christmas-128K?app=cbnplayer'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Christmas'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.cbnradio.com/christmas-128K?app=cbnplayer'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

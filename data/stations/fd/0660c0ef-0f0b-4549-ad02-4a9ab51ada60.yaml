@@ -20,6 +20,16 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'http://listen.vedaradio.fm:8000/veryhigh.m3u'
+    url_resolved: 'http://listen.vedaradio.fm:8000/veryhigh'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://listen.vedaradio.fm:8000/high.m3u'
+    url_resolved: 'http://listen.vedaradio.fm:8000/high'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:34:00
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.00
+streams:
+  - url: 'http://79.111.14.76:8000/tradelectronic'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.14.76:8002/tradelectronic'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial

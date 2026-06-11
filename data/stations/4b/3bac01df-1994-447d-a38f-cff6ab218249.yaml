@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://dreamsiteradiocp5.com:2199/tunein/rmkenyanai-stream.pls'
+    url_resolved: 'http://dreamsiteradiocp5.com:8069/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://dreamsiteradiocp2.com:2199/tunein/rmkenya2-stream.pls'
+    url_resolved: 'http://57.129.49.167:8092/stream'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 03:08:33
 clickcount: 1
 geo_lat: 48.13721918556799
 geo_long: 11.574804782867432
+curation: -0.05
+streams:
+  - url: 'http://rs24.stream24.net/lounge'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://rs24.stream24.net/lounge?1388180908497.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

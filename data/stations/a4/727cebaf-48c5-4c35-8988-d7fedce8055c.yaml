@@ -24,6 +24,16 @@ lastchangetime: 2026-01-15 00:22:18
 clickcount: 1
 geo_lat: 43.41701888881106
 geo_long: 24.61967468261719
+curation: -0.10
+streams:
+  - url: 'http://icecast.luxnet.ua/lux'
+    url_resolved: 'http://lux.radio.tvstitch.com/kyiv/lux_adv_sd'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

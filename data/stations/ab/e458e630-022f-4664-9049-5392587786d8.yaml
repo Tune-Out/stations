@@ -29,6 +29,17 @@ lastchangetime: 2026-02-08 09:39:00
 clickcount: 1
 geo_lat: 46.77166150239375
 geo_long: 23.596404178389825
+curation: 0.25
+streams:
+  - url: 'https://securestreams6.autopo.st:2250/stream?ver=184457'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://securestreams6.autopo.st:2250/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://securestreams6.autopo.st:2250/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

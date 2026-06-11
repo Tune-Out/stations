@@ -21,6 +21,14 @@ lastchangetime: 2026-03-06 15:50:53
 clickcount: 0
 geo_lat: 25.418780206946284
 geo_long: -100.986328125
+curation: -0.05
+streams:
+  - url: 'https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio?property=mmradio'
+    codec: AAC
+    bitrate: 93
+  - url: 'https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio'
+    codec: AAC
+    bitrate: 93
 research:
   reviewed_at: 2026-06-09
   nature: commercial

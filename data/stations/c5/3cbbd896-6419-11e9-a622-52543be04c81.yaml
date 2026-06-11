@@ -21,6 +21,20 @@ lastchangetime: 2026-01-15 04:56:19
 clickcount: 1
 geo_lat: 37.809784
 geo_long: -121.286316
+curation: 0.60
+streams:
+  - url: 'https://somafm.com/cliqhop130.pls'
+    url_resolved: 'https://ice4.somafm.com/cliqhop-128-aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://somafm.com/cliqhop256.pls'
+    url_resolved: 'https://ice6.somafm.com/cliqhop-256-mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://somafm.com/cliqhop.pls'
+    url_resolved: 'https://ice2.somafm.com/cliqhop-128-mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

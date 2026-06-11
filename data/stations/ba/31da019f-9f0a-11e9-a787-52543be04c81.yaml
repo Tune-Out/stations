@@ -3,7 +3,7 @@ name: ALTIN Sarkilar
 url: http://37.247.98.8/listen.pls?sid=25
 url_resolved: http://37.247.98.8/stream/25/;
 homepage: http://www.radyohome.com/#altinsarkilar
-favicon: ""
+favicon: https://ik.fskit.net/radyohome/media/site_settings/favicon.ico?v=090523030000
 tags:
   - oldies
   - retro
@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 03:20:40
 clickcount: 13
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://37.247.98.8/listen.pls?sid=25'
+    url_resolved: 'http://37.247.98.8/stream/25/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://37.247.98.8/listen.pls?sid=22'
+    url_resolved: 'http://37.247.98.8/stream/22/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://37.247.98.8/listen.pls?sid=30'
+    url_resolved: 'http://37.247.98.8/stream/30/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

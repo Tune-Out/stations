@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://79.120.77.11:8000/clubru'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.120.77.11:8004/clubru'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.120.77.11:8002/clubru'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

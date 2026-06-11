@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 00:12:47
 clickcount: 0
 geo_lat: 49.49836012899348
 geo_long: 8.457302749156954
+curation: 0.00
+streams:
+  - url: 'http://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/'
+    codec: MP3
+  - url: 'https://stream.sunshine-live.de/2000er/mp3-192/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

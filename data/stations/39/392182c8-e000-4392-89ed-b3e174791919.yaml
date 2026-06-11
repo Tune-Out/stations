@@ -25,6 +25,14 @@ lastchangetime: 2026-03-27 05:13:53
 clickcount: 1
 geo_lat: 19.541958161863032
 geo_long: -96.91529273986818
+curation: -0.05
+streams:
+  - url: 'http://sss.cnwks.ws:8322/stream?type=http&nocache=11558'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://sss.cnwks.ws:8322/stream'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

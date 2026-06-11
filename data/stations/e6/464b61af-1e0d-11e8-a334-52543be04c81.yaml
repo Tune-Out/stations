@@ -3,7 +3,7 @@ name: Uturn Radio - Dubstep
 url: http://listen.uturnradio.com/dubstep_32
 url_resolved: http://listen.uturnradio.com/dubstep_32
 homepage: http://www.uturnradio.com/
-favicon: ""
+favicon: http://www.uturnradio.com/favicon.ico
 tags:
   - dubstep
 country: ""
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:06:33
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://listen.uturnradio.com/dubstep_32'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://listen.uturnradio.com/classic_rock'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

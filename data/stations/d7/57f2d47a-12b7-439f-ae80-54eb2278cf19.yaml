@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://livestreaming3.esradio.fm/stream64.mp3'
+    codec: MP3
+    bitrate: 56
+  - url: 'http://livestreaming3.esradio.fm/stream64.mp3'
+    codec: MP3
+    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: commercial

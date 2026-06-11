@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://provisioning.streamtheworld.com/pls/CSPANRADIO.pls'
+    url_resolved: 'http://26283.live.streamtheworld.com:3690/CSPANRADIO_SC'
+    codec: MP3
+    bitrate: 40
+  - url: 'https://provisioning.streamtheworld.com/pls/CSPANRADIO.pls'
+    url_resolved: 'http://26733.live.streamtheworld.com:3690/CSPANRADIO_SC'
+    codec: MP3
+    bitrate: 40
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

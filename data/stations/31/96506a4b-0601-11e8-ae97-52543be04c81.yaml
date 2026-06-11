@@ -3,7 +3,7 @@ name: Radio Ognjišče - mp3 stream
 url: http://radio.ognjisce.si/ognjisce/iradio/ognjiscemp3.m3u
 url_resolved: http://live.ognjisce.si/ognjisce.mp3
 homepage: http://radio.ognjisce.si/
-favicon: ""
+favicon: https://radio.ognjisce.si/themes/publication_3/theme_1/_img/favicon.ico
 tags:
   - public-radio
 country: Slovenia
@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 00:29:53
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://radio.ognjisce.si/ognjisce/iradio/ognjiscemp3.m3u'
+    url_resolved: 'http://live.ognjisce.si/ognjisce.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://live.radio.si/ognjisce.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

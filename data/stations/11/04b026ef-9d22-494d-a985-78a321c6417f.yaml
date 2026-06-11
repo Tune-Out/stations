@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://ais-sa2.cdnstream1.com/2188_64.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://ais-sa2.cdnstream1.com/2188_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

@@ -21,6 +21,13 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 0
 geo_lat: -34.626286656752846
 geo_long: -58.40332031250001
+curation: 0.50
+streams:
+  - url: 'https://media.radios.ar:9270/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://storage.googleapis.com/m-infra.appspot.com/public/webchat/sent.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

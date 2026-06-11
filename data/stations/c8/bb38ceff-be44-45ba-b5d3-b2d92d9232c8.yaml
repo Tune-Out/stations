@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 04:42:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAMAAC.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://provisioning.streamtheworld.com/pls/KFRUAM.pls'
+    url_resolved: 'http://14943.live.streamtheworld.com/KFRUAM_SC'
+    codec: MP3
+    bitrate: 80
 research:
   reviewed_at: 2026-06-09
   nature: commercial

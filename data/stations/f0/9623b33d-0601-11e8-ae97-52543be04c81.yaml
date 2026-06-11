@@ -3,7 +3,7 @@ name: ABC Jazz (MP3)
 url: http://live-radio01.mediahubaustralia.com/JAZW/mp3/
 url_resolved: http://live-radio01.mediahubaustralia.com/JAZW/mp3/
 homepage: http://abcjazz.net.au/
-favicon: ""
+favicon: https://www.abc.net.au:443/core-assets/jazz/touchicon-jazz.png
 tags:
   - jazz
   - public-radio
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.70
+streams:
+  - url: 'http://live-radio01.mediahubaustralia.com/JAZW/mp3/'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://live-radio01.mediahubaustralia.com/JAZW/aac/'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8'
+    codec: AAC
+    bitrate: 99
+    hls: true
+  - url: 'https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8'
+    codec: AAC
+    bitrate: 99
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media

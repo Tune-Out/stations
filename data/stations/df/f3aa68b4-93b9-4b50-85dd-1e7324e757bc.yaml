@@ -24,6 +24,16 @@ lastchangetime: 2026-01-15 01:20:44
 clickcount: 6
 geo_lat: 42.666689
 geo_long: 23.296918
+curation: -0.05
+streams:
+  - url: 'http://play.global.audio/energy-90s.ogg'
+    codec: OGG
+  - url: 'http://play.global.audio/energy-90s.aac'
+    codec: AAC
+    bitrate: 48
+  - url: 'http://play.global.audio/energy-90s'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

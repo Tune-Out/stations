@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 08:50:49
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://195.150.20.9/80SDISCO'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://www.rmfon.pl/n/80sdisco.pls'
+    url_resolved: 'https://rs202-krk.rmfstream.pl/rmf_80s_disco'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

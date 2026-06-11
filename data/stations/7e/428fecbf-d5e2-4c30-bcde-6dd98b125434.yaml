@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 00:23:35
 clickcount: 17
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://icecast.omroep.nl/radio4-bb-mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://icecast.omroep.nl/radio4-bb-mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://icecast.omroep.nl/radio4-eigentijdsfb-mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

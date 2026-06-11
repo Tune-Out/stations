@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 05:44:37
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8'
+    codec: AAC
+    bitrate: 43
+    hls: true
+  - url: 'http://103.246.184.62:1935/noice_hotfm/hotfm/chunklist_w167204702.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

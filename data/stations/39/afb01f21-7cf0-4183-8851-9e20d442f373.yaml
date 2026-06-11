@@ -21,6 +21,15 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24'
+    codec: AAC
+    bitrate: 125
+  - url: 'http://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8'
+    codec: AAC+
+    bitrate: 33
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

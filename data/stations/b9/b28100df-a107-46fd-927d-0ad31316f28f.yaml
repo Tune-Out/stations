@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 06:46:22
 clickcount: 16
 geo_lat: 28.824050167785987
 geo_long: 77.57046102769698
+curation: 0.30
+streams:
+  - url: 'http://162.241.114.203:7000/listen.pls?sid=1'
+    url_resolved: 'http://162.241.114.203:7000/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://162.241.114.203:7000/;'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: online-only

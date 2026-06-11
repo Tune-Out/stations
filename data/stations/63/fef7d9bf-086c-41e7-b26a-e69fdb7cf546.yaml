@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 07:58:24
 clickcount: 8
 geo_lat: 49.47742518313847
 geo_long: 8.426127433776857
+curation: -0.10
+streams:
+  - url: 'http://streams.bigfm.de/bigfm-bw-128-aac?usid=0-0-H-A-D-30'
+    codec: AAC
+  - url: 'https://stream.bigfm.de/bw/mp3-128/radio-browser'
+    codec: AAC
+  - url: 'http://streams.bigfm.de/dnb-64-aac'
+    codec: AAC
+  - url: 'http://streams.bigfm.de/bigfm-bw-128-aac'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

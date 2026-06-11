@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:19:54
 clickcount: 1
 geo_lat: 42.98001208841074
 geo_long: -82.35045790672304
+curation: -0.05
+streams:
+  - url: 'http://live.leanstream.co/CHOKAM'
+    codec: AAC+
+    bitrate: 47
+  - url: 'http://live.leanstream.co/CHOKAM-MP3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial

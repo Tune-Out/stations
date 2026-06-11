@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:30:35
 clickcount: 12
 geo_lat: null
 geo_long: null
+curation: 0.80
+streams:
+  - url: 'http://direct.fipradio.fr/live/fipjazz-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

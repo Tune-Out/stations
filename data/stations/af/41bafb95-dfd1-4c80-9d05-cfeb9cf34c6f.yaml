@@ -22,6 +22,29 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://spoonradio.ice.infomaniak.ch/spoonradio-hd'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://spoonradio.ice.infomaniak.ch/spoonradio-hd.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

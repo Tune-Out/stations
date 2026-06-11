@@ -3,7 +3,7 @@ name: WDR2
 url: https://wdr-wdr2-rheinruhr.icecastssl.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
 url_resolved: https://wdr-wdr2-rheinruhr.icecastssl.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
 homepage: http://wdr2.de/
-favicon: ""
+favicon: https://www1.wdr.de/resources-v5.175.1/img/favicon/apple-touch-icon.png
 tags: []
 country: Germany
 countrycode: DE
@@ -20,6 +20,8 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 12
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: feb978ba-8e34-4993-9082-ae4af186ecda
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

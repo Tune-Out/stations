@@ -3,7 +3,7 @@ name: Classic FM France
 url: https://classicfm.ice.infomaniak.ch/classic-fm.mp3
 url_resolved: https://classicfm.ice.infomaniak.ch/classic-fm.mp3
 homepage: https://www.classicfm.fr/
-favicon: ""
+favicon: https://www.classicfm.fr/favicon.ico
 tags: []
 country: France
 countrycode: FR
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:39:51
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://classicfm.ice.infomaniak.ch/classic-fm.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://classicfm.ice.infomaniak.ch/classic-fm.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

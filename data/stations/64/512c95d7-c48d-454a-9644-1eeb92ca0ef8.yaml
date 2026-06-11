@@ -20,6 +20,15 @@ lastchangetime: 2026-01-14 22:54:44
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://lrn.fm/files/lrn.m3u'
+    url_resolved: 'http://s2.voscast.com:7392/'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://streams.lrn.fm:8004/lrn32'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

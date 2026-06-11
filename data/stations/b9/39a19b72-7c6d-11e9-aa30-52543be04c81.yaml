@@ -25,6 +25,16 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 5
 geo_lat: 37.809784
 geo_long: -121.286316
+curation: 0.65
+streams:
+  - url: 'https://somafm.com/beatblender130.pls'
+    url_resolved: 'https://ice6.somafm.com/beatblender-128-aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://somafm.com/beatblender.pls'
+    url_resolved: 'https://ice6.somafm.com/beatblender-128-mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

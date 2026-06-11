@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 02:40:05
 clickcount: 4
 geo_lat: 48.910947882670555
 geo_long: 2.1972656250000004
+curation: -0.05
+streams:
+  - url: 'https://streaming.hotmixradio.com/hotmix-lounge-en-mp3?'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.hotmixradio.com/hotmix-lounge-en-mp3?provider=radiobrowser'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.hotmixradio.com/hotmix-lounge-en-mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

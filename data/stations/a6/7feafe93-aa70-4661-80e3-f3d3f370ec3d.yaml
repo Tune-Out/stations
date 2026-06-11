@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 6
 geo_lat: 55.32758195350942
 geo_long: 10.3436279296875
+curation: 0.20
+streams:
+  - url: 'https://netradio.classicfm.dk/cla12a'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://netradio.classicfm.dk/cla8d'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://webradio.classicfm.dk/classichorsens'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

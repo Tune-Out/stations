@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://www.maxradio.ca/UHD/MaxRadioSurround/512k/Max.m3u8'
+    codec: MP4
+    bitrate: 512000
+    hls: true
+  - url: 'https://www.maxradio.ca/UHD/xMaxRadio/128k/Max.m3u8'
+    codec: MP4
+    bitrate: 128000
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

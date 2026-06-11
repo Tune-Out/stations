@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 07:07:34
 clickcount: 1
 geo_lat: 43.41025603952426
 geo_long: -3.41425895690918
+curation: 0.35
+streams:
+  - url: 'https://radio.radiolaredo.com/8002/strem'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.radiolaredo.com/8002/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

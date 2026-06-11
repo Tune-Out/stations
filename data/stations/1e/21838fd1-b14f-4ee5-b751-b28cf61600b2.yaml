@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:56:00
 clickcount: 14
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://ath10400fm-radioplayer.live24.gr/ath10400fm'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://ath10400fm.live24.gr/ath10400fm'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

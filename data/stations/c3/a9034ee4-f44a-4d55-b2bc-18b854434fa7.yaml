@@ -21,6 +21,14 @@ lastchangetime: 2026-05-28 14:11:30
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://radicrojapan.out.airtime.pro/radicrojapan_a'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radicrojapan.out.airtime.pro/radicrojapan_b'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

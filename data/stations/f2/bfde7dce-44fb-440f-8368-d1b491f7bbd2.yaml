@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:25:40
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://jfm1.hostingradio.ru:14536/rock00.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://jfm1.hostingradio.ru:14536/rock00.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

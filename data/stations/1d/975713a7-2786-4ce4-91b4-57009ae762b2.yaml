@@ -23,6 +23,14 @@ lastchangetime: 2026-02-24 11:58:01
 clickcount: 1
 geo_lat: -23.82429504217794
 geo_long: -47.94433593750001
+curation: 0.35
+streams:
+  - url: 'https://aparecida.jmvstream.com/stream?1771934151722'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://aparecida.jmvstream.com/stream'
+    codec: AAC+
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

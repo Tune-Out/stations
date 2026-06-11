@@ -3,7 +3,7 @@ name: Dancegroove Radio
 url: http://server7.streamserver24.com:31435/
 url_resolved: http://server7.streamserver24.com:31435/
 homepage: https://dancegrooveradio.com/
-favicon: ""
+favicon: https://dancegrooveradio.com/favicon.ico
 tags:
   - disco
   - funk
@@ -23,6 +23,18 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://server7.streamserver24.com:31435/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://server7.streamserver24.com:2199/tunein/marasalf.pls'
+    url_resolved: 'http://94.130.140.213:31435/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s13.streamingcloud.online/stream/dancegrooveradio'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

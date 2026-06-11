@@ -21,6 +21,29 @@ lastchangetime: 2026-02-24 06:05:40
 clickcount: 0
 geo_lat: 44.4355479858212
 geo_long: 26.1024855177288
+curation: 0.30
+streams:
+  - url: 'https://web.smartradio.ro:8443/smartmove'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://web.smartradio.ro:8443/smartchampselysees'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://web.smartradio.ro:8443/smartstreet'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://web.smartradio.ro:8443/smartontrend'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://web.smartradio.ro:8443/smartrave'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://web.smartradio.ro:8443/smartlounge'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://web.smartradio.ro:8443/smartaltro'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -3,7 +3,7 @@ name: Vikerraadio
 url: http://icecast.err.ee/vikerraadiokorge.mp3
 url_resolved: http://icecast.err.ee/vikerraadiokorge.mp3
 homepage: https://vikerraadio.ee/
-favicon: ""
+favicon: https://s.err.ee/www/images/favicon/Vikr_favicon@2x.png?3003
 tags:
   - country
 country: Estonia
@@ -18,6 +18,8 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
+curation: 0.35
+duplicate_of: 27d1c68e-fe17-4709-8182-37b0de3737c9
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

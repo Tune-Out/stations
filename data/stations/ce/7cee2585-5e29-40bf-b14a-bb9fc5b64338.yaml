@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 03:34:17
 clickcount: 0
 geo_lat: 45.257619969449465
 geo_long: 19.847678840160373
+curation: 0.35
+streams:
+  - url: 'http://radio.eparhijabacka.info:8000/RadioBlagovesnik'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radio.eparhijabacka.info:8000/listen.pls?sid=4'
+    url_resolved: 'http://radio.eparhijabacka.info:8000/RadioBlagovesnik'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

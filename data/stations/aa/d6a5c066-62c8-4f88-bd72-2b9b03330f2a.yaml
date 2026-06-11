@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 07:38:17
 clickcount: 18
 geo_lat: 52.24168008083347
 geo_long: 21.015550570691666
+curation: 0.35
+streams:
+  - url: 'http://waw.ic.smcdn.pl/4990-1.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,14 @@ lastchangetime: 2026-05-24 03:26:49
 clickcount: 0
 geo_lat: 48.56933786413499
 geo_long: 13.431930527798077
+curation: -0.05
+streams:
+  - url: 'http://rs4.stream24.net/unser-radio.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rs4.stream24.net/unser-radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

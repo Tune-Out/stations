@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 1
 geo_lat: 20.67415119429287
 geo_long: -103.34306716918948
+curation: -0.05
+streams:
+  - url: 'https://strcdn.klm99.com:8130/stream/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://stream.promomedios.com:8002/stream'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: commercial

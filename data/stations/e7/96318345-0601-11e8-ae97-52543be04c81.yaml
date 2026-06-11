@@ -3,7 +3,7 @@ name: harmony.fm
 url: http://mp3.harmonyfm.de/harmonyfm/livestream.aac
 url_resolved: http://mp3.harmonyfm.de/harmonyfm/livestream.aac
 homepage: https://www.harmonyfm.de/
-favicon: ""
+favicon: https://www.harmonyfm.de/apple-touch-icon.png
 tags: []
 country: Germany
 countrycode: DE
@@ -21,6 +21,15 @@ lastchangetime: 2026-01-14 23:42:51
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 5a2281f3-4297-4936-ad66-96dcf25c67bc
+streams:
+  - url: 'http://mp3.harmonyfm.de/harmonyfm/livestream.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://mp3.harmonyfm.de/harmonyfm/livestream.aac'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

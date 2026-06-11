@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 07:10:26
 clickcount: 5
 geo_lat: 47.4122943
 geo_long: 9.7258041
+curation: 0.50
+streams:
+  - url: 'https://orf-live.ors-shoutcast.at/vbg-q2a'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://orf-live.ors-shoutcast.at/vbg-q1a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

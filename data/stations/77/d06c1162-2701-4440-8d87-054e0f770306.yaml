@@ -24,6 +24,16 @@ lastchangetime: 2026-01-15 01:18:04
 clickcount: 1
 geo_lat: 43.599668912807765
 geo_long: 39.73966409896094
+curation: -0.05
+streams:
+  - url: 'http://stream.laut.fm/animklatu'
+    url_resolved: 'http://animklatu.stream.laut.fm/animklatu?t302=2026-01-15_01-17-49&uuid=a0537ef2-3c79-4122-a8bc-70c2eb06601c'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.laut.fm/animklatu'
+    url_resolved: 'https://animklatu.stream.laut.fm/animklatu?t302=2026-01-15_03-06-18&uuid=83763dab-adb7-4922-8071-74e8c595673b'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

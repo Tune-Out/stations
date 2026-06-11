@@ -25,6 +25,15 @@ lastchangetime: 2026-01-15 01:37:59
 clickcount: 2
 geo_lat: 46.48175176788423
 geo_long: 30.7328597372855
+curation: 0.35
+streams:
+  - url: 'https://radio.social.net.ua/live.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.social.net.ua/static/live.mp3.m3u'
+    url_resolved: 'http://radio.social.net.ua/live.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

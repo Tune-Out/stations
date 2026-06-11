@@ -21,6 +21,23 @@ lastchangetime: 2026-02-20 13:54:37
 clickcount: 0
 geo_lat: 44.43549665839368
 geo_long: 26.102499287568193
+curation: -0.05
+streams:
+  - url: 'https://dance.radiotequila.ro/7000/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://petrecere.radiotequila.ro/7000/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://asculta.radiotequila.ro:7000/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://necenzurat.radiotequila.ro:7000/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.radiotequila.ro/tmp_hls/stream/index.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

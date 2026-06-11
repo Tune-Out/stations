@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 04:38:30
 clickcount: 12
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://stream.drugradio.ru:8020/stream128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.drugradio.ru/listen/deepinspace/stream128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

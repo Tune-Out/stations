@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 00:29:13
 clickcount: 2
 geo_lat: 52.29189255277232
 geo_long: 5.504150390625001
+curation: 0.05
+streams:
+  - url: 'https://stream02.itego.nl/kbc-high'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://stream01.itego.nl/kbc-low?1728143490'
+    codec: AAC
+    bitrate: 80
 research:
   reviewed_at: 2026-06-10
   nature: independent internet radio

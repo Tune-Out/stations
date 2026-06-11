@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 48.14767153667088
 geo_long: 17.10433959960938
+curation: 0.40
+streams:
+  - url: 'https://stream.rusyn.fm/rusyny.mp3'
+    codec: MP3
+    bitrate: 160
+  - url: 'http://stream.rusyn.fm/rusyny.mp3'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: community

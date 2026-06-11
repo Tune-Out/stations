@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: 52.37798486482021
 geo_long: 6.887826919555665
+curation: 0.35
+streams:
+  - url: 'https://www.piratentwente.com/luisteren/piratentwente192kbps.pls'
+    url_resolved: 'http://stream.piratentwente.com:8020/live'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.piratentwente.com:8020/live'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

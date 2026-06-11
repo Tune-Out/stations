@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 1
 geo_lat: 34.0565825
 geo_long: -118.2555661
+curation: 0.55
+streams:
+  - url: 'https://kathy.torontocast.com:2695/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://kathy.torontocast.com:2690/stream'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

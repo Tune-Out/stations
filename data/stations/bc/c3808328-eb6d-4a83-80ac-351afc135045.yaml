@@ -22,6 +22,15 @@ lastchangetime: 2026-04-28 17:30:32
 clickcount: 0
 geo_lat: 47.074504646060575
 geo_long: 21.90752148628235
+curation: 0.35
+streams:
+  - url: 'http://stream.mariaradio.ro:8000/MRE'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.mariaradio.ro:8000/MRE.m3u'
+    url_resolved: 'http://stream.mariaradio.ro:8000/MRE'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

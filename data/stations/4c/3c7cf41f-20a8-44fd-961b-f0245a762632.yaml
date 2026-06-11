@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://79.111.119.111:8000/darkpsytrance'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.120.39.202:8002/darkdubstep'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

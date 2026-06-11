@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 03:29:48
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://185.11.164.106:35022/stream?type=mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://185.11.164.106:35022/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

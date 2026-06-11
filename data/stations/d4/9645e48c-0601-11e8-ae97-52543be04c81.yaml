@@ -22,6 +22,38 @@ lastchangetime: 2026-01-15 05:53:10
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://tuner.m1.fm/rock.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tuner.m1.fm/clubmix.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tuner.m1.fm/chillout.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tuner.m1.fm/80er.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tuner.m1.fm/hits.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tuner.m1.fm/schlagerparty.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tuner.m1.fm/oldies.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tuner.m1.fm/90er.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://tuner.m1.fm/kuschelschlager.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://tuner.m1.fm/softpop.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -17,6 +17,15 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-03-10 04:34:45
 clickcount: 0
+curation: 0.35
+streams:
+  - url: 'https://ssl-1.radiohost.pl:13790/mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s7.radiohost.pl:2199/tunein/redakcja3.pls'
+    url_resolved: 'http://51.255.8.139:13790/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

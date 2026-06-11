@@ -3,7 +3,7 @@ name: COPE + Sevilla
 url: http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3
 url_resolved: http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3
 homepage: https://www.cope.es/directos/cope-mas-sevilla
-favicon: ""
+favicon: https://www.cope.es/favicon/cope/apple-touch-icon-57x57.png
 tags:
   - local-news
 country: Spain
@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 07:43:38
 clickcount: 158
 geo_lat: 37.39296391002509
 geo_long: -5.995470719346408
+curation: -0.05
+streams:
+  - url: 'http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://sevilla.copesedes.stream.flumotion.com/copesedes/sevilla.mp3.m3u'
+    url_resolved: 'http://wecast-bl02.flumotion.com/copesedes/sevilla.mp3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

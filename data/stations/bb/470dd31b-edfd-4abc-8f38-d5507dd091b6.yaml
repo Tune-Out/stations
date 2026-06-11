@@ -3,7 +3,7 @@ name: radio rai 3
 url: http://icestreaming.rai.it/3.mp3
 url_resolved: http://icestreaming.rai.it/3.mp3
 homepage: https://www.raiplaysound.it/radio3
-favicon: ""
+favicon: https://www.raiplaysound.it/assets/img/icons/apple/apple-touch-icon.png
 tags:
   - culture
 country: Italy
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 00:09:17
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: 9608eb3e-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

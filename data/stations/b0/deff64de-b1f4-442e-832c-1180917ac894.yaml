@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://streaming.radio.co/se4a8e6a93/listen'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.radio.co/se4a8e6a93/listen'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

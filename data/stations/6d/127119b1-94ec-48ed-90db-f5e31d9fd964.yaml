@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 07:25:31
 clickcount: 1
 geo_lat: 32.533031479981695
 geo_long: -117.02027320861818
+curation: 0.40
+streams:
+  - url: 'http://zionmultimedia.live/radio/8010/radio.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://zionmultimedia.live/radio/8010/radio.mp3'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

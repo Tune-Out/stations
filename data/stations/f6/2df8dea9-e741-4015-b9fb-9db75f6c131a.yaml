@@ -24,6 +24,16 @@ lastchangetime: 2026-01-15 05:26:25
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://wz0liw.scahw.com.au/live/festivalbangers_128.stream/playlist.m3u8'
+    codec: AAC+
+    bitrate: 65
+    hls: true
+  - url: 'http://sa46.scastream.com.au/live/festivalbangers.stream/playlist.m3u8'
+    codec: AAC+
+    bitrate: 65
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

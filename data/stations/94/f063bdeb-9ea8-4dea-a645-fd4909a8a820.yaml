@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:24:52
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://frequence3.net-radio.fr/frequence3world.flac'
+    codec: OGG
+    bitrate: 1536
+  - url: 'https://frequence3.net-radio.fr/frequence3world.mp3'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial

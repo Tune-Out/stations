@@ -35,8 +35,19 @@ interface StationRowBase {
   clickcount: number;
   geo_lat: number | null;
   geo_long: number | null;
+  /** Editorial quality score in [-1.0, 1.0]; null when unscored. */
+  curation: number | null;
   shard: string;
   yaml_path: string;
+  /**
+   * All playable stream variants for this station, sorted by preference
+   * (FLAC/Opus → AAC → MP3, higher bitrate first). Always has at least
+   * one entry; multi-variant stations have several. Populated by
+   * `hydrateStreams()` from the `streams_json` column.
+   */
+  streams?: Stream[];
+  /** Raw JSON from station_streams; consumers should read `streams` instead. */
+  streams_json?: string | null;
   /** Comma-separated tag slugs in canonical order. Joined at query time. */
   tags_text: string | null;
   /** Comma-separated language slugs (long names: english, french). */
@@ -72,6 +83,17 @@ export interface NowPlaying {
   title?: string;
   artworkUrl?: string;
   raw?: string;
+}
+
+/** One playable audio stream variant attached to a station. */
+export interface Stream {
+  url: string;
+  url_resolved?: string;
+  codec?: string;
+  bitrate?: number;
+  hls?: boolean;
+  /** Optional human label override; falls back to `<bitrate>k <codec>`. */
+  label?: string;
 }
 
 function pickLocaleString(

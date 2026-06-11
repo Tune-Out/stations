@@ -21,6 +21,13 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: 51.45015584466137
 geo_long: 5.478744506835938
+curation: 0.35
+streams:
+  - url: 'https://stream.glowfm.nl/glowfm.mp3'
+    codec: MP3
+    bitrate: 160
+  - url: 'https://nlpo.stream.vip/glowfm/mp3-192/nlpo.stream.vip/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

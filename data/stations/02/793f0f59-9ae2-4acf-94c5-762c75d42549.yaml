@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:27:48
 clickcount: 1
 geo_lat: 43.86338328148847
 geo_long: 21.09262347221375
+curation: 0.35
+streams:
+  - url: 'http://213.239.205.210:8046/index.html/'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://213.239.205.210:8046/'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://whmsonic.radio.gov.pk:8088/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

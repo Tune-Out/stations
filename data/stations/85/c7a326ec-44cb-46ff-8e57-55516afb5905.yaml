@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 1
 geo_lat: 52.439936462230214
 geo_long: 9.140625000000002
+curation: 0.35
+streams:
+  - url: 'http://nerdsandgeeks.de:2808/stream/2/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://nerdsandgeeks.de:2808/stream/1/;'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community

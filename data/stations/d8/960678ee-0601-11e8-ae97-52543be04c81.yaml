@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 05:09:56
 clickcount: 9
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'http://mfm.ice.infomaniak.ch/mfm-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://mradio-au-travail.ice.infomaniak.ch/mradio-au-travail.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

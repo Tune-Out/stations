@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 3
 geo_lat: 55.63012799973265
 geo_long: 12.574710845947267
+curation: 0.50
+streams:
+  - url: 'https://drliveradio.akamaized.net/hls/live/2022411/p5syd/masterab.m3u8'
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8'
+    codec: AAC
+    bitrate: 324
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

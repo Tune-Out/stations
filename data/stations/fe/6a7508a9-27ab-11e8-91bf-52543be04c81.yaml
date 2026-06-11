@@ -24,6 +24,17 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 22
 geo_lat: null
 geo_long: null
+curation: 0.75
+streams:
+  - url: 'https://kexp.streamguys1.com/kexp160.aac'
+    codec: AAC
+    bitrate: 162
+  - url: 'http://live-aacplus-64.kexp.org/kexp64.aac'
+    codec: AAC+
+    bitrate: 65
+  - url: 'http://live-mp3-128.kexp.org/kexp128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

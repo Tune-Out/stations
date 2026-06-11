@@ -3,7 +3,7 @@ name: Nova News
 url: http://stream.radioreklama.bg/novanews.aac
 url_resolved: http://stream.radioreklama.bg/novanews.aac
 homepage: https://nova.bg/radio
-favicon: ""
+favicon: https://nstatic.nova.bg/files/nova/images/apple-touch-icon.png?v=2026
 tags: []
 country: Bulgaria
 countrycode: BG
@@ -21,6 +21,8 @@ lastchangetime: 2026-01-15 01:52:51
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: 964a7ab6-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial

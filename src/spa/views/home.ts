@@ -24,20 +24,22 @@ export async function renderHome(_route: Route, mount: HTMLElement): Promise<voi
 
   const root = el('div', { class: 'container' });
 
-  // ── Top Stations Worldwide ── (no hero — the rail leads the page)
+  // ── Top Stations Worldwide ── (curation-led; popularity is the tiebreaker)
+  // Sort 'curated' = COALESCE(curation, 0) DESC, votes DESC. This pushes
+  // public broadcasters / non-commercial / classical-jazz curators to the
+  // top of the rail ahead of generic hit-rotation streams.
+  const worldFilters = { onlineOnly: true, sort: 'curated' as const };
   root.appendChild(
     rail({
       title: t('section.top_stations_worldwide'),
       load: (offset, limit) =>
-        searchStations(db, '', l, { onlineOnly: true, limit, offset }),
+        searchStations(db, '', l, { ...worldFilters, limit, offset }),
       pageSize: 30,
     }),
   );
 
-  // ── Top Stations in <current locale's language> ── (filtered by the
-  // language column whose slug matches the active locale code; only rendered
-  // if there's at least one station so empty locales don't show an empty rail).
-  const langFilters = { languages: [l], onlineOnly: true, sort: 'popular' as const };
+  // ── Top Stations in <current locale's language> ── (also curation-led)
+  const langFilters = { languages: [l], onlineOnly: true, sort: 'curated' as const };
   const langStationCount = countSearch(db, '', langFilters);
   if (langStationCount > 0) {
     const langName = LOCALES[l].nativeName;

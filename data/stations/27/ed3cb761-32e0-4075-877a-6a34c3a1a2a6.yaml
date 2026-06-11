@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 2
 geo_lat: -34.58935412391507
 geo_long: -58.42391967773438
+curation: -0.05
+streams:
+  - url: 'https://27603.live.streamtheworld.com/POP_PYTAAC.aac?'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://27573.live.streamtheworld.com/ENAMORADOS_PYTAAC.aac?'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

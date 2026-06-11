@@ -19,6 +19,14 @@ lastchangetime: 2026-03-29 19:36:34
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://streaming.exclusive.radio/er/acdc/icecast.audio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.exclusive.radio/er/acdc/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/er/acdc/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

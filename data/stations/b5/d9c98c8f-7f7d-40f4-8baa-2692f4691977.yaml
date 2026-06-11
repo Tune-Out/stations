@@ -25,6 +25,17 @@ lastchangetime: 2026-01-15 00:01:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.25
+duplicate_of: b151c8cb-b919-4c8d-860e-56a641cedc0b
+streams:
+  - url: 'https://wz7liw.scahw.com.au/live/7indieandalternative_128.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: 'https://wz7liw.scahw.com.au/live/7indieandalternative_128.stream/playlist.m3u8?'
+    codec: AAC
+    bitrate: 130
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

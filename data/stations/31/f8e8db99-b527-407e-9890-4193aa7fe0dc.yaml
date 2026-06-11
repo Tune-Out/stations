@@ -25,6 +25,12 @@ lastchangetime: 2026-04-22 10:23:38
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://maximum.hostingradio.ru/maximum96.aacp'
+    codec: AAC
+  - url: 'http://maximum.hostingradio.ru/maximum96.aacp'
+    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial

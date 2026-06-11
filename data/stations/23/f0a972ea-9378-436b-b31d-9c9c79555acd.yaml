@@ -25,6 +25,13 @@ lastchangetime: 2026-01-15 05:05:13
 clickcount: 1
 geo_lat: 51.66219928277666
 geo_long: -0.40566868128393946
+curation: 0.35
+streams:
+  - url: 'http://91.232.4.33:9454/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.zeno.fm/z5artz4g2wzuv'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

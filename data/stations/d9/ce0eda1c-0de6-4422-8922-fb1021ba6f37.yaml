@@ -23,6 +23,14 @@ lastchangetime: 2026-02-23 22:09:36
 clickcount: 3
 geo_lat: -19.998837847460752
 geo_long: -44.21997070312501
+curation: 0.40
+streams:
+  - url: 'https://servidor36.brlogic.com:8176/live?1771884476397'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://servidor36.brlogic.com:8176/live'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

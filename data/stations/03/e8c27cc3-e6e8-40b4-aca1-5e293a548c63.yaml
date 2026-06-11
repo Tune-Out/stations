@@ -23,6 +23,20 @@ lastchangetime: 2026-01-14 23:46:56
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://s3.slotex.pl/shoutcast/7046/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://s1.slotex.pl/shoutcast/7432/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s3.slotex.pl/shoutcast/7354/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s1.slotex.pl/shoutcast/7432/stream?sid=1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

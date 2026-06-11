@@ -3,7 +3,7 @@ name: WDR COSMO - Live
 url: http://wdr-cosmo-coslive.icecast.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
 url_resolved: http://wdr-cosmo-coslive.icecast.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
 homepage: https://www1.wdr.de/radio/cosmo/programm/sendungen/live/
-favicon: ""
+favicon: https://www1.wdr.de/radio/cosmo/resources-v5.175.1/img/favicon/apple-touch-icon.png
 tags:
   - pop
 country: Germany
@@ -20,6 +20,8 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+duplicate_of: 11ca14a9-f6a2-49cf-befb-2d0cc84c730a
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 08:48:01
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://dreamsiteradiocp.com:8114/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://rs16.stream24.org:8100/horeb.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://rs16.stream24.org/horeb.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://rs16.stream24.org:8000/horeb.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

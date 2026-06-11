@@ -27,6 +27,16 @@ lastchangetime: 2026-01-15 07:33:27
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://stream.laut.fm/dance-wave-radio'
+    url_resolved: 'http://dance-wave-radio.stream.laut.fm/dance-wave-radio?t302=2026-01-15_07-31-55&uuid=6ad0e967-da12-4bcc-a2dd-8d371453d795'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.laut.fm/dance-wave-radio'
+    url_resolved: 'https://dance-wave-radio.stream.laut.fm/dance-wave-radio?t302=2026-01-15_08-33-45&uuid=aa3ae436-1525-4e4d-9fd5-a785d1b084d3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 53
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://netradio.live24.gr/sportfm7712'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sportfm.live24.gr/sportfm7712?344b685e2518b0370f0d731432f51438'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

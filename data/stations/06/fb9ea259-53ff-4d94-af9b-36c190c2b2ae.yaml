@@ -3,7 +3,7 @@ name: Totally Radio - 60s (MP3)
 url: http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_60S_S01.mp3
 url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_60S_S01.mp3
 homepage: https://totallyradio.com.au/60S/
-favicon: ""
+favicon: https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/ac4a2f7c8_totallylogoVERT157x108.png
 tags:
   - 60s
 country: Australia
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 03:38:47
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: c51511eb-f84d-47aa-ad64-450c18c0855d
 research:
   reviewed_at: 2026-06-10
   nature: commercial

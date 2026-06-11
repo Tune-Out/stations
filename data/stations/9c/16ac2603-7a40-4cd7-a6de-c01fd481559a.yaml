@@ -24,6 +24,16 @@ lastchangetime: 2026-01-14 23:27:13
 clickcount: 4
 geo_lat: -7.275075579346632
 geo_long: 112.69454008901576
+curation: 0.35
+streams:
+  - url: 'http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 42
+    hls: true
+  - url: 'http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 41
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

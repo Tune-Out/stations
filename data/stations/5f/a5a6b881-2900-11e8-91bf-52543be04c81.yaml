@@ -3,7 +3,7 @@ name: RTL2
 url: http://streaming.radio.rtl2.fr/rtl2-1-44-128
 url_resolved: http://streaming.radio.rtl2.fr/rtl2-1-44-128
 homepage: http://www.rtl2.fr/
-favicon: ""
+favicon: https://www.rtl2.fr/apple-touch-icon.png
 tags:
   - pop
   - rock
@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 05:05:13
 clickcount: 52
 geo_lat: null
 geo_long: null
+curation: 0.10
+streams:
+  - url: 'http://streaming.radio.rtl2.fr/rtl2-1-44-128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streamer-02.rtl.fr/rtl2-1-44-128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

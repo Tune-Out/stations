@@ -22,6 +22,16 @@ lastchangetime: 2026-03-13 02:28:20
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'https://somafm.com/insound130.pls'
+    url_resolved: 'https://ice5.somafm.com/insound-128-aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://somafm.com/insound256.pls'
+    url_resolved: 'https://ice4.somafm.com/insound-256-mp3'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -3,7 +3,7 @@ name: XEU (Veracruz) - 98.1 FM - XHU-FM - Grupo Pazos Radio - Veracruz, VE
 url: http://sgaudio.centrocibernetico.com/xeu
 url_resolved: http://sgaudio.centrocibernetico.com/xeu
 homepage: http://xeu.mx/
-favicon: ""
+favicon: https://xeu.mx/favicon.jpg
 tags:
   - sports
   - news
@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 00:40:59
 clickcount: 5
 geo_lat: 19.196925599034554
 geo_long: -96.1360976099968
+curation: -0.05
+streams:
+  - url: 'http://sgaudio.centrocibernetico.com/xeu'
+    codec: MP3
+    bitrate: 48
+  - url: 'https://sgaudio.centrocibernetico.com/xeu'
+    codec: MP3
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

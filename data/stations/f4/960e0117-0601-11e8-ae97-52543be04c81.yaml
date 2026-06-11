@@ -23,6 +23,20 @@ lastchangetime: 2026-01-15 05:32:55
 clickcount: 18
 geo_lat: 37.809784
 geo_long: -121.286316
+curation: 0.75
+streams:
+  - url: 'https://somafm.com/poptron130.pls'
+    url_resolved: 'https://ice5.somafm.com/poptron-128-aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://somafm.com/poptron32.pls'
+    url_resolved: 'https://ice2.somafm.com/poptron-32-aac'
+    codec: AAC
+    bitrate: 32
+  - url: 'https://somafm.com/poptron.pls'
+    url_resolved: 'https://ice2.somafm.com/poptron-128-mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

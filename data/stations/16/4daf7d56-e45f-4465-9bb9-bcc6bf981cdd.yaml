@@ -25,6 +25,13 @@ lastchangetime: 2026-02-07 22:50:48
 clickcount: 0
 geo_lat: 51.45245315127971
 geo_long: 6.053955257980923
+curation: 0.35
+streams:
+  - url: 'https://a7.asurahosting.com:7550/radio.mp3'
+    codec: AAC
+    bitrate: 320
+  - url: 'https://mscp2.live-streams.nl:8172/nuradio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

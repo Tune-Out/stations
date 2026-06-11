@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 02:06:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://stream.wfmt.com/main-mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://wowza.wfmt.com/live/smil:wfmt.smil/playlist.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

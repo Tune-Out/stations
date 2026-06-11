@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 2
 geo_lat: 50.06215654048124
 geo_long: 19.9372673034668
+curation: 0.30
+streams:
+  - url: 'https://rs6-krk2.rmfstream.pl/rmf_4'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.rmfon.pl/n/rmf4.pls'
+    url_resolved: 'https://rs102-krk.rmfstream.pl/rmf_4'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

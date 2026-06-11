@@ -23,6 +23,18 @@ lastchangetime: 2026-01-15 01:48:00
 clickcount: 9
 geo_lat: 45.76396788771733
 geo_long: 15.981829762458805
+curation: 0.30
+streams:
+  - url: 'http://c5.hostingcentar.com:8059/;'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://c5.hostingcentar.com:8059/stream?4960'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://c5.hostingcentar.com:8059/listen.pls'
+    url_resolved: 'http://c5.hostingcentar.com:8059/stream'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

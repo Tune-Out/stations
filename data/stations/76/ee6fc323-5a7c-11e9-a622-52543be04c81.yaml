@@ -21,6 +21,16 @@ lastchangetime: 2026-01-14 23:45:01
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://stream.laut.fm/biggetal.pls'
+    url_resolved: 'http://biggetal.stream.laut.fm/biggetal?pl=pls&t302=2026-01-14_23-44-31&uuid=ad5e7650-c60a-4f79-a786-50a702f55430'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/biggetal.asx'
+    url_resolved: 'http://biggetal.stream.laut.fm/biggetal?pl=asx&t302=2026-01-15_04-45-03&uuid=81894466-e9e9-4f34-a157-1d26278d4999'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

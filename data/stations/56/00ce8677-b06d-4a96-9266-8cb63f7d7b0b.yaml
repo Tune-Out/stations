@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'https://itsliveradio.apple.com/streams/live/1498157166/master_web.m3u8'
+    codec: AAC+
+    bitrate: 64
+    hls: true
+  - url: 'https://itsliveradiobackup.apple.com/streams/1498157166/hub04/session06/256k/prog.m3u8'
+    codec: MP4
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

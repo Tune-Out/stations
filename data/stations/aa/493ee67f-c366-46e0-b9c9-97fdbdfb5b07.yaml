@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 03:05:15
 clickcount: 2
 geo_lat: 44.09839132370862
 geo_long: 3.080935478210449
+curation: 0.35
+streams:
+  - url: 'http://stream.radiolarzac.org:8000/radiolarzac'
+    codec: MP3
+  - url: 'https://stream.radiolarzac.org/hls/master.m3u8'
+    codec: UNKNOWN
+    bitrate: 320
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

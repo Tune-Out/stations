@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 4
 geo_lat: 50.61366433600913
 geo_long: -6.637204785136424
+curation: 0.35
+streams:
+  - url: 'https://az11.yesstreaming.net:8020/radio.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://a1.asurahosting.com:10000/radio.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

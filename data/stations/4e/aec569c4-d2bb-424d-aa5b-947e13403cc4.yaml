@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://79.120.77.11:8004/suomisaundi'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.120.77.11:8000/suomisaundi'
+    codec: AAC+
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

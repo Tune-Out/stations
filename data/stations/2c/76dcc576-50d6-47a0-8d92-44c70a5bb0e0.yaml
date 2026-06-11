@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: 40.44170574333558
 geo_long: -80.01274108886719
+curation: 0.65
+streams:
+  - url: 'https://pubmusic.streamguys1.com/wzum-aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://pubmusic.streamguys1.com/wzum-mp3'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: community

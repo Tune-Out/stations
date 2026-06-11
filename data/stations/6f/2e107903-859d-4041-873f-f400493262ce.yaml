@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 5
 geo_lat: 48.85269803464278
 geo_long: 2.34884262084961
+curation: -0.05
+streams:
+  - url: 'https://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

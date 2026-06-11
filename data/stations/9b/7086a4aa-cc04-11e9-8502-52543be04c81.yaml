@@ -3,7 +3,7 @@ name: Radio Subasio
 url: http://icy.unitedradio.it/Subasio.mp3
 url_resolved: http://icy.unitedradio.it/Subasio.mp3
 homepage: http://www.radiosubasio.it/
-favicon: ""
+favicon: https://www.radiosubasio.it/wp-content/uploads/2020/07/placehoder-news.jpg
 tags: []
 country: Italy
 countrycode: IT
@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 06:09:45
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://icy.unitedradio.it/Subasio.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icy.unitedradio.it/Subasio.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icy.unitedradio.it/SubasioPiu.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 07:45:36
 clickcount: 0
 geo_lat: 49.47815092067678
 geo_long: 8.422201672826219
+curation: 0.35
+streams:
+  - url: 'https://stream.rpr1.de/70errock/mp3-128/radiobrowser'
+    codec: MP3
+  - url: 'https://streams.rpr1.de/rpr-70errock-128-mp3?usid=0-0-H-M-D-60'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

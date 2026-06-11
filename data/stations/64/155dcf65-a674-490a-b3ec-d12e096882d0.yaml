@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 02:29:06
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://dard.out.airtime.pro/dard_a'
+    codec: MP3
+    bitrate: 48
+  - url: 'https://dard.out.airtime.pro/dard_a?_ga=2.178816160.548091236.1582029213-%201175002648.1580299245'
+    codec: MP3
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

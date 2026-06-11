@@ -22,6 +22,28 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://streams.ffh.de/ffhchannels/aac/90er.m3u'
+    url_resolved: 'http://mp3.ffh.de/ffhchannels/90er.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://streams.ffh.de/ffhchannels/aac/schlager.m3u'
+    url_resolved: 'http://mp3.ffh.de/ffhchannels/schlager.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://streams.ffh.de/ffhchannels/aac/soundtrack.m3u'
+    url_resolved: 'http://mp3.ffh.de/ffhchannels/soundtrack.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://streams.ffh.de/ffhchannels/aac/80er.m3u'
+    url_resolved: 'http://mp3.ffh.de/ffhchannels/80er.aac'
+    codec: AAC+
+    bitrate: 47
+  - url: 'http://streams.ffh.de/ffhchannels/mp3/hqparty.m3u'
+    url_resolved: 'http://mp3.ffh.de/ffhchannels/hqparty.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

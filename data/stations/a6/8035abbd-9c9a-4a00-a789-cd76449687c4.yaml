@@ -21,6 +21,14 @@ lastchangetime: 2026-04-04 23:25:41
 clickcount: 2
 geo_lat: 42.66665845482401
 geo_long: 23.296927213668827
+curation: -0.05
+streams:
+  - url: 'https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://25453.live.streamtheworld.com/RADIO_NOVAAAC_L.aac'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial

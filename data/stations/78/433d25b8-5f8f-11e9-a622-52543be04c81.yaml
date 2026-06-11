@@ -22,6 +22,15 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 64
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://dreamsiteradiocp2.com:2199/tunein/rmburundi2-stream.pls'
+    url_resolved: 'http://57.129.49.167:8082/stream'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://dreamsiteradiocp.com:8058/stream'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: religious

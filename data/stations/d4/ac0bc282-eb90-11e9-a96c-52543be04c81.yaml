@@ -3,7 +3,7 @@ name: France Musique Concerts Radio France
 url: http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac
 url_resolved: http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac
 homepage: https://www.francemusique.fr/webradio-concerts-radio-france
-favicon: ""
+favicon: https://www.radiofrance.fr/external/favicons/francemusique/favicon.png
 tags:
   - public-radio
 country: France
@@ -22,6 +22,8 @@ lastchangetime: 2026-01-15 05:25:40
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.65
+duplicate_of: 961c8b8a-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

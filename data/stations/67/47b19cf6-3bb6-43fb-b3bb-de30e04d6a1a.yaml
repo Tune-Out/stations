@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://zas5.ndx.co.za:9618/stream?1722433923032'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://zas5.ndx.co.za:9618/stream?1702476652972'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

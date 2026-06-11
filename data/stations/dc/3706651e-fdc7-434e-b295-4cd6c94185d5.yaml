@@ -24,6 +24,16 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 1
 geo_lat: 55.77039358162006
 geo_long: 37.59832719762187
+curation: 0.40
+streams:
+  - url: 'https://myradio24.org/cityeden.m3u'
+    url_resolved: 'http://listen7.myradio24.com/cityeden'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://myradio24.org/cityeden'
+    url_resolved: 'https://listen7.myradio24.com/cityeden'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -27,6 +27,14 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://jazzcrusader.stream.laut.fm/jazzcrusader'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.laut.fm/jazzcrusader'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

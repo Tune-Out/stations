@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 66
 geo_lat: null
 geo_long: null
+curation: 0.45
+streams:
+  - url: 'http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -24,6 +24,14 @@ lastchangetime: 2026-01-23 01:46:57
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://radio.ltg.network/listen/radyongsira/radio.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://a7.asurahosting.com:9110/radio.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

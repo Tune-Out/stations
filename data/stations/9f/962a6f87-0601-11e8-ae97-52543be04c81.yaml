@@ -3,7 +3,7 @@ name: 1.FM - Love Classics Radio
 url: http://strm112.1.fm/loveclassics_mobile_mp3
 url_resolved: http://strm112.1.fm/loveclassics_mobile_mp3
 homepage: http://www.1.fm/
-favicon: ""
+favicon: https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2
 tags:
   - romantic
 country: Switzerland
@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 00:42:51
 clickcount: 12
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'http://strm112.1.fm/loveclassics_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://strm112.1.fm/loveclassics_mobile_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://strmreg.1.fm/loveclassics_mobile_mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

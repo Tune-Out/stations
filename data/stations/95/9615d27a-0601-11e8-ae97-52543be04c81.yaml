@@ -23,6 +23,16 @@ lastchangetime: 2026-01-15 00:09:17
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.85
+streams:
+  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8'
+    codec: AAC
+    bitrate: 88
+    hls: true
+  - url: 'http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls'
+    url_resolved: 'http://abc.streamguys1.com/live/newsradio/icecast.audio'
+    codec: AAC+
+    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

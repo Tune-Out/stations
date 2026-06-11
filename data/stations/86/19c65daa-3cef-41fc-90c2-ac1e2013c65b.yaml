@@ -21,6 +21,17 @@ lastchangetime: 2026-02-07 00:21:28
 clickcount: 2
 geo_lat: 52.50686029292552
 geo_long: 13.40224754136412
+curation: -0.05
+streams:
+  - url: 'https://stream.silvacast.com/RPLive/mp3-128/RadioPaloma_Homepage'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icepool.silvacast.com/RADIOPALOMA.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://pool.radiopaloma.de/RP-Partyschlager.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

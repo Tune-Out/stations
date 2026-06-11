@@ -24,6 +24,14 @@ lastchangetime: 2026-01-15 03:34:17
 clickcount: 0
 geo_lat: 51.883743162410646
 geo_long: 4.664028882980348
+curation: 0.50
+streams:
+  - url: 'http://cloud-faro.beheerstream.com:8320/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://cloud-faro.beheerstream.com:8320//stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

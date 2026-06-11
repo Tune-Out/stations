@@ -19,6 +19,15 @@ lastchangetime: 2026-01-21 18:16:14
 clickcount: 13
 geo_lat: 60.19724784293818
 geo_long: 24.9334716796875
+curation: 0.35
+streams:
+  - url: 'https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8'
+    codec: AAC
+    bitrate: 262
+    hls: true
+  - url: 'https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8'
+    codec: UNKNOWN
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

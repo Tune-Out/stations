@@ -22,6 +22,17 @@ lastchangetime: 2026-01-15 02:30:35
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://streaming.exclusive.radio/er/jpop/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.exclusive.radio/er/afrobeats/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.exclusive.radio/er/italy/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/er/italy/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.exclusive.radio/er/kpop/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

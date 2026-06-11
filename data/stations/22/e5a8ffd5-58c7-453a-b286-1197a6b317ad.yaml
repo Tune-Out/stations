@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://azuracast.novi-net.net/radio/8010/radiomax.aac'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://azuracast.novi-net.net/public/radiomax/playlist.pls'
+    url_resolved: 'https://azuracast.novi-net.net/listen/radiomax/radiomax.aac'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8'
+    codec: AAC+
+    bitrate: 48
+    hls: true
+  - url: 'https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8'
+    codec: AAC+
+    bitrate: 47
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial

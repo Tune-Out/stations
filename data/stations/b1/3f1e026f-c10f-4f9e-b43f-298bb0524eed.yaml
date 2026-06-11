@@ -21,6 +21,14 @@ lastchangetime: 2026-05-25 21:38:50
 clickcount: 0
 geo_lat: 48.79037152263606
 geo_long: 2.4240788044949024
+curation: 0.35
+streams:
+  - url: 'https://stric6.streamakaci.com/radioayp.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stric6.streamakaci.com/radioayp.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 06:39:51
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://hemnos.cdnstream.com/1469_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://hemnos.cdnstream.com/1487_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://hemnos.cdnstream.com/1485_128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -3,7 +3,7 @@ name: Radio RMF24.pl
 url: https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
 url_resolved: https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
 homepage: https://radio.rmf24.pl/
-favicon: ""
+favicon: https://www.rmf24.pl/i/2022/favicon/apple-icon-180x180.png
 tags:
   - classic-rock
   - news
@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 08:06:32
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://rs201-krk.rmfstream.pl/RMF24'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

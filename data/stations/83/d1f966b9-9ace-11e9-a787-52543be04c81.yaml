@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 04:06:00
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://193.47.151.4:8060/1'
+    codec: AAC
+    bitrate: 96
+  - url: 'http://193.47.151.4:8045/1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

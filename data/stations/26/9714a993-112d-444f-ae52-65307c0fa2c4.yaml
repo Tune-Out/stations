@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 00:36:25
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686969300'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686796930'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

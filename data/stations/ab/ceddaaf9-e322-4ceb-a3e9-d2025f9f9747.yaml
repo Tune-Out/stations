@@ -21,6 +21,19 @@ lastchangetime: 2026-01-15 00:05:50
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://live.itsybitsy.ro:8000/itsybitsy'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://www.itsybitsy.ro/listen.pls'
+    url_resolved: 'http://live.itsybitsy.ro:8000/itsybitsy'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://itsybitsy.ro/listen.pls'
+    url_resolved: 'http://live.itsybitsy.ro:8000/itsybitsy'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

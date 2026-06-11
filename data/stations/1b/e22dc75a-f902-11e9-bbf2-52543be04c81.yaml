@@ -20,6 +20,15 @@ lastcheckok: true
 lastchangetime: 2026-01-15 06:26:48
 clickcount: 0
 geo_lat: null
+curation: -0.05
+streams:
+  - url: 'https://stream4.srr.ro:8443/radio-resita'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://89.238.227.6:8344/listen.pls'
+    url_resolved: 'http://89.238.227.6:8344/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

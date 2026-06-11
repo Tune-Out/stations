@@ -22,6 +22,15 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 11
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://usa17.fastcast4u.com:5508/listen.pls'
+    url_resolved: 'http://usa17.fastcast4u.com:5508/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://usa17.fastcast4u.com:5508/'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial

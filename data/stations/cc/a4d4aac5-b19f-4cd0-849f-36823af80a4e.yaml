@@ -21,6 +21,18 @@ lastchangetime: 2026-05-09 15:58:42
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://philipiptv.freeddns.org:8082/fire-wind-lake'
+    codec: MP3
+    bitrate: 16
+  - url: 'http://philipiptv.freeddns.org:8082/fire'
+    codec: MP3
+    bitrate: 16
+  - url: 'http://philipiptv.freeddns.org:8082/fire-wind-lake.m3u'
+    url_resolved: 'http://philipiptv.freeddns.org:8082/fire-wind-lake'
+    codec: MP3
+    bitrate: 16
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

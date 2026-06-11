@@ -19,6 +19,17 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: 54.30244906411759
 geo_long: 10.134887695312502
+curation: 0.35
+streams:
+  - url: 'http://parlacast.ltsh.de:8000/plenarsaal.mp3'
+    codec: MP3
+    bitrate: 48
+  - url: 'http://parlacast.ltsh.de:8000/internet-audio-a.mp3'
+    codec: MP3
+    bitrate: 48
+  - url: 'http://parlacast.ltsh.de:8000/internet-audio-b.mp3'
+    codec: MP3
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

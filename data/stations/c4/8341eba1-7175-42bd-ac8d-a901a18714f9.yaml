@@ -24,6 +24,17 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://listen.radioking.com/radio/10713/stream/224413'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://listen.radioking.com/radio/10713/stream/21674'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.radioking.com/play/gritty-rock'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

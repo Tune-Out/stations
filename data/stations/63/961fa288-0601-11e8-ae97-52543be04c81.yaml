@@ -3,7 +3,7 @@ name: Ambient Sleeping Pill
 url: http://radio.stereoscenic.com/asp-h
 url_resolved: http://radio.stereoscenic.com/asp-h
 homepage: http://ambientsleepingpill.com/
-favicon: ""
+favicon: https://ambientsleepingpill.com/wp-content/uploads/cropped-asp-small-logo-512-trans-180x180.png
 tags:
   - ambient
   - sleep
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 04:35:17
 clickcount: 131
 geo_lat: null
 geo_long: null
+curation: 0.80
+streams:
+  - url: 'http://radio.stereoscenic.com/asp-h'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://radio.stereoscenic.com/asp-s'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

@@ -21,6 +21,17 @@ lastchangetime: 2026-01-15 00:00:02
 clickcount: 1
 geo_lat: 43.91900341335564
 geo_long: -80.09732723236085
+curation: -0.05
+streams:
+  - url: 'https://evanov.leanstream.co/CIDCFM'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://evanov.leanstream.co/CIDCFM'
+    codec: AAC+
+    bitrate: 47
+  - url: 'https://evanov.leanstream.co/CIDCFM?args=web_01'
+    codec: AAC+
+    bitrate: 47
 research:
   reviewed_at: 2026-06-10
   nature: commercial

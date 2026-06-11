@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 00:51:12
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://s5.radio.co/s6140c7241/low'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://s5.radio.co/s6140c7241/listen'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

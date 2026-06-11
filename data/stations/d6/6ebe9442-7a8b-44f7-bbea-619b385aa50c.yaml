@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 07:58:24
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://79.111.119.111:8004/instrumentalmetal'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.111.119.111:8002/instrumentalmetal'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

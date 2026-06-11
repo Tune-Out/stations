@@ -19,6 +19,17 @@ lastchangetime: 2026-05-08 13:54:11
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://s13.streamingcloud.online/stream/arberlandradio/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://server3.streamserver-unlimited.de:8209/live'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://server3.streamserver-unlimited.de:8200/live'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

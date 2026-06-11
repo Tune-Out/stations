@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:08:04
 clickcount: 6
 geo_lat: 48.73637440232712
 geo_long: 19.16040853607124
+curation: 0.35
+streams:
+  - url: 'http://159.69.219.5:8010/mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://vysielanie.online/radio/8020/SV128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

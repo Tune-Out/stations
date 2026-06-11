@@ -3,7 +3,7 @@ name: Radio Globo
 url: http://178.33.72.12/globorm64
 url_resolved: http://178.33.72.12/globorm64
 homepage: http://www.radioglobo.it/
-favicon: ""
+favicon: https://radioglobo.it/wp-content/uploads/2023/05/radio_globo_player_512x512-370x370.png
 tags:
   - hits
   - pop
@@ -24,6 +24,14 @@ lastchangetime: 2026-01-14 23:22:35
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'http://178.33.72.12/globorm64'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://globo.newradio.it/globorm128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

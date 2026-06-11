@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 05:28:02
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'http://bigrradio.cdnstream1.com/5183_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://bigrradio.cdnstream1.com/5183_128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

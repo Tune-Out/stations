@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 5
 geo_lat: 49.155028432458984
 geo_long: -122.86869049072268
+curation: 0.35
+streams:
+  - url: 'https://ice24.securenetsystems.net/CKYE'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://ice24.securenetsystems.net/CKYE?playSessionID=FEC6C3A5-AAAF-839F-F4F9CC684849AEA6'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

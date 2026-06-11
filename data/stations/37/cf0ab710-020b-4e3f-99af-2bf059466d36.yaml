@@ -20,6 +20,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: -0.05
+duplicate_of: f72771a3-cf3a-4cc5-af91-2493ca31c54d
+streams:
+  - url: 'https://kathy.torontocast.com:3560/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://kathy.torontocast.com:3560/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -26,6 +26,14 @@ lastchangetime: 2026-01-15 01:02:30
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://radiocentar.hr:8282/stream.aac'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://radiocentar.hr:8282/mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

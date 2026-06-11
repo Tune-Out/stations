@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 5
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.escradio.com:8030/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.escradio.com/listen.pls'
+    url_resolved: 'http://icepool.silvacast.com/ESCRADIO.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

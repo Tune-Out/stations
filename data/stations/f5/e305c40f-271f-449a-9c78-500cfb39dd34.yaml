@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 07:08:10
 clickcount: 2
 geo_lat: 51.32454723404781
 geo_long: 12.337480187416077
+curation: 0.35
+streams:
+  - url: 'https://streams.detektor.fm/wort/aac-128/streams.detektor.fm/'
+    codec: AAC
+  - url: 'https://detektor.fm/stream/aac/wort/'
+    codec: AAC
+  - url: 'https://detektor.fm/stream/mp3/wort/'
+    codec: MP3
+  - url: 'https://detektorfm.streamabc.net/detek-detektorfmwort-mp3-256-1425600'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

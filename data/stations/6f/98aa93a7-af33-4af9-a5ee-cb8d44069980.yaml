@@ -22,6 +22,24 @@ lastchangetime: 2026-04-11 15:21:24
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://philipiptv.freeddns.org:8082/ZTVGM-Radio.m3u'
+    url_resolved: 'http://philipiptv.freeddns.org:8082/ZTVGM-Radio'
+    codec: OGG
+    bitrate: 320
+  - url: 'http://server.philipiptv.cloudns.ph:8082/ZTVGM-Radio.m3u'
+    url_resolved: 'http://server.philipiptv.cloudns.ph:8082/ZTVGM-Radio'
+    codec: OGG
+    bitrate: 320
+  - url: 'http://philipdunn.cloudns.ph:8082/ZTVGM-Radio.m3u'
+    url_resolved: 'http://philipdunn.cloudns.ph:8082/ZTVGM-Radio'
+    codec: OGG
+    bitrate: 320
+  - url: 'http://philipiptv.cloudns.ph:8082/ZTVGM-Radio.m3u'
+    url_resolved: 'http://philipiptv.cloudns.ph:8082/ZTVGM-Radio'
+    codec: OGG
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

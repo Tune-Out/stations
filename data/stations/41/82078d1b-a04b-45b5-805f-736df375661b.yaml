@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 03:00:48
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://www.radiosidewinder.com/radiosidewinder.m3u'
+    url_resolved: 'http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.radiosidewinder.com/radiosidewinder.m3u'
+    url_resolved: 'http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

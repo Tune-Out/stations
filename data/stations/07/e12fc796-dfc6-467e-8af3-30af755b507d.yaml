@@ -21,6 +21,16 @@ lastchangetime: 2026-01-15 06:48:55
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.20
+streams:
+  - url: 'https://streams.egofm.de/egoFMBW-hq'
+    url_resolved: 'https://cast.egofm.de/egofmbw.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streams.egofm.de/egoFMBW-hq'
+    url_resolved: 'http://cast.egofm.de/egofmbw.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

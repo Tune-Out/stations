@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 4
 geo_lat: 51.22623789457001
 geo_long: 2.916183471679688
+curation: -0.05
+streams:
+  - url: 'http://stream.noordzee105.be:8000/noordzee_48'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://stream.noordzee105.be:8000/noordzee_192'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

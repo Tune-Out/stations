@@ -24,6 +24,14 @@ lastchangetime: 2026-04-11 09:48:31
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://radios.poolwebwork.com.br/8010/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radios.poolwebwork.com.br/8020/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

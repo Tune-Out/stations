@@ -21,6 +21,17 @@ lastchangetime: 2026-05-13 00:08:53
 clickcount: 1
 geo_lat: 32.6491352786635
 geo_long: -16.905496716499332
+curation: 0.35
+streams:
+  - url: 'https://centova.radio.com.pt/proxy/422?mp=/stream;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://centova.radio.com.pt:9422/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://centova.radio.com.pt/proxy/426?mp=/stream.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

@@ -27,6 +27,14 @@ lastchangetime: 2026-01-14 23:22:02
 clickcount: 0
 geo_lat: -19.260538578805495
 geo_long: 146.81396194873952
+curation: 0.35
+streams:
+  - url: 'https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://usa4.fastcast4u.com/proxy/4k1g?mp=/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

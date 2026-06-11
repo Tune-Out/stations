@@ -19,6 +19,21 @@ lastchangetime: 2026-03-01 17:08:30
 clickcount: 0
 geo_lat: 41.499578190237344
 geo_long: -81.69313430786134
+curation: 0.35
+streams:
+  - url: 'https://xcsb.live:8000/xcsb.ogg'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://xcsb.live:8000/xcsb64.ogg'
+    codec: OGG
+    bitrate: 64
+  - url: 'https://xcsb.live:8000/xcsb.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://xcsb.live/hls/xcsb-cleveland/live.m3u8'
+    codec: AAC
+    bitrate: 52
+    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: community

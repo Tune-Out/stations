@@ -19,6 +19,14 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://live7.avf.ch/lux_main'
+    codec: OGG
+    bitrate: 1200
+  - url: 'https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac'
+    codec: AAC+
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

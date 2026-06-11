@@ -24,6 +24,14 @@ lastchangetime: 2026-05-07 12:52:10
 clickcount: 4
 geo_lat: 38.40818074319704
 geo_long: 27.150910992824382
+curation: -0.05
+streams:
+  - url: 'https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://usa4.fastcast4u.com/proxy/radyoizmirfm/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

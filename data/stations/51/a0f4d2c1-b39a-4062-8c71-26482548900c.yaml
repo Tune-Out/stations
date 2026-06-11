@@ -3,7 +3,7 @@ name: Jurnal FM
 url: https://ssl.radios.show:7009/stream
 url_resolved: https://ssl.radios.show:7009/stream
 homepage: https://jurnalfm.ro/
-favicon: ""
+favicon: https://jurnalfm.ro/wp-content/uploads/2021/04/cropped-favicon1.jpg
 tags:
   - culture
 country: Romania
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 04:56:18
 clickcount: 0
 geo_lat: 46.93289309273663
 geo_long: 26.361608505249027
+curation: -0.05
+streams:
+  - url: 'https://ssl.radios.show:7009/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ssl.radios.show:7009/stream/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

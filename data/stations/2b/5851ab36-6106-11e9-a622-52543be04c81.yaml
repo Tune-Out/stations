@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:26:37
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://studentenfunk.out.airtime.pro:8000/studentenfunk_a'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://studentenfunk.out.airtime.pro/studentenfunk_a#'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

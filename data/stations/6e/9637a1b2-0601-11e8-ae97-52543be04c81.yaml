@@ -3,7 +3,7 @@ name: 90s90s Hits
 url: http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
 url_resolved: http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
 homepage: http://www.90s90s.de/
-favicon: ""
+favicon: https://upload.90s90s.de/production/static/1780918167754/icons/icon_512.cno7CdHz6$i.png
 tags:
   - 90s
   - hits
@@ -24,6 +24,12 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 61
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://streams.90s90s.de/pop/aac-64/streams.90s90s.de/'
+    codec: AAC
+  - url: 'http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

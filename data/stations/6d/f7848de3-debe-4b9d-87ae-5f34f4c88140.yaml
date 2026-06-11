@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:26:25
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://nr8.newradio.it/proxy/apselett?mp=/stream'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://nr8.newradio.it:9562/stream'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

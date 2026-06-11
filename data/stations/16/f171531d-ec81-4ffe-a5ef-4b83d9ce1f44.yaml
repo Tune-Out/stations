@@ -22,6 +22,20 @@ lastchangetime: 2026-01-15 05:32:00
 clickcount: 0
 geo_lat: 48.36832131271233
 geo_long: 10.893896520137789
+curation: 0.55
+streams:
+  - url: 'https://stream.klassikradio.de/purebach/aac-64/stream.klassikradio.de?aggregator=hoererdirekt'
+    codec: AAC
+  - url: 'http://klassikr.streamabc.net/klr-krdnational-aacplus-64-8291420?aggregator=hoererdirekt'
+    codec: AAC
+  - url: 'http://stream.klassikradio.de/newclassics/mp3-192/www.klassikradio.de/'
+    codec: MP3
+  - url: 'http://stream.klassikradio.de/chor/mp3-192/www.klassikradio.de/'
+    codec: MP3
+  - url: 'http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/'
+    codec: MP3
+  - url: 'http://stream.klassikradio.de/barock/mp3-192/www.klassikradio.de/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

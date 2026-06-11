@@ -23,6 +23,15 @@ lastchangetime: 2026-03-04 14:06:22
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://cast4.servcast.net/proxy/v81radioworldwide/live'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://stream-161.zeno.fm/7neg6f1hbm0uv?zs=uHSY7gmTTQOoLq1o0YC7VQ&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmVnNmYxaGJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsImp0aSI6InVIU1k3Z21UVFFPb0xxMW8wWUM3VlEiLCJpYXQiOjE3MTI5MjEyMTIsImV4cCI6MTcxMjkyMTI3Mn0.4s2gDD67FdWyVPO9UquxsO-D47TlKQQ8YsWuvda09x0&zttl=5'
+    codec: MP3
+  - url: 'https://stream-159.zeno.fm/7neg6f1hbm0uv?zs=RHmhUhEpS6-utF-DsvVQUQ&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmVnNmYxaGJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsImp0aSI6IlJIbWhVaEVwUzYtdXRGLURzdlZRVVEiLCJpYXQiOjE3MTI4MTMwMjQsImV4cCI6MTcxMjgxMzA4NH0.7ZKhsErDvNbE9o6O0FUvA5lJtpzbMKj5VbqvAdIh9Mk&zttl=5'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

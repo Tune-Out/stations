@@ -25,6 +25,14 @@ lastchangetime: 2026-01-14 23:46:56
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'https://lovehits-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://lovehits-high.rautemusik.fm/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

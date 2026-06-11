@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 02:35:55
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.10
+streams:
+  - url: 'http://stream01.iloveradio.de/iloveradio9.mp3'
+    url_resolved: 'http://ilm.stream12.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQ0NzkzJmQ9MTNlYjg2N2I3YjJmNzdjNzk3OWM'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://www.iloveradio.de/iloveradio.m3u'
+    url_resolved: 'https://play.ilovemusic.de/ilm_iloveradio/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://diffusion.lafrap.fr/sun-jazz.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://diffusion.lafrap.fr/sun-jazz.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

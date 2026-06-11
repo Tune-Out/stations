@@ -3,7 +3,7 @@ name: Capital FM - Manele
 url: http://manele.capitalfm.ro:8020/;
 url_resolved: http://manele.capitalfm.ro:8020/;
 homepage: https://capitalfm.ro/
-favicon: ""
+favicon: https://www.capitalfm.ro/wp-content/uploads/2025/03/Logo-300x213.png
 tags: []
 country: Romania
 countrycode: RO
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:34:17
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://manele.capitalfm.ro:8020/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ssl.omegahost.ro:8020/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

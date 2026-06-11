@@ -3,7 +3,7 @@ name: FM 103.1 DirecTV Sports Radio - Argentina
 url: https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac
 url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac
 homepage: https://www.dsportsradio.com/
-favicon: ""
+favicon: https://dsportsradio-app.tadevel-cdn.com/hostname/www.dsportsradio.com/api/v1/resizer?asset=62ae18c55104019949f98846&format=png&width=144&height=144&v=3513fdfc7fc51348718171c1ae9efe89&s=3b9a0927e8a24f33634af44798beeb76
 tags:
   - sports
   - news
@@ -23,6 +23,7 @@ lastchangetime: 2026-01-15 03:25:25
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
 research:
   reviewed_at: 2026-06-10
   nature: commercial

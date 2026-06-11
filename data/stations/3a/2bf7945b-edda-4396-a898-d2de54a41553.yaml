@@ -19,6 +19,14 @@ lastchangetime: 2026-05-06 06:38:42
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://stream.studiomusicstation.nl/radio/8010/radio.mp3?hash=1778049395270'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://stream.studiomusicstation.nl/radio/8010/radio.mp3'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

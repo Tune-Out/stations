@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 64
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://eu1.fastcast4u.com/proxy/prontofm'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://fastcast4u.com/player/prontofm/?pl=vlc&c=0'
+    url_resolved: 'https://eu1.fastcast4u.com/proxy/prontofm?mp=/1'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

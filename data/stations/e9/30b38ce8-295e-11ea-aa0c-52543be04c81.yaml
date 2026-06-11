@@ -3,7 +3,7 @@ name: russian radio golden gramophone
 url: http://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp
 url_resolved: http://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp
 homepage: https://rusradio.ru/
-favicon: ""
+favicon: https://rusradio.ru/apple-icon.png?cdc4099e9b48f995
 tags: []
 country: The Russian Federation
 countrycode: RU
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:17:35
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial

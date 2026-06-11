@@ -35,6 +35,14 @@ lastchangetime: 2026-05-07 20:35:41
 clickcount: 4
 geo_lat: 42.25293670595561
 geo_long: -88.28562051057817
+curation: 0.55
+streams:
+  - url: 'http://seahorse.juststreamwith.us:8000/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://seahorse.juststreamwith.us:8000/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

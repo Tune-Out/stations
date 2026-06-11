@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:14:34
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://icecast.italosound.com/italosound'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.italosound.com:8000/italosound'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

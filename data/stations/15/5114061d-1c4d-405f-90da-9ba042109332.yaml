@@ -23,6 +23,17 @@ lastchangetime: 2026-01-15 08:27:56
 clickcount: 0
 geo_lat: 47.147885597481675
 geo_long: 19.204101562500004
+curation: 0.35
+streams:
+  - url: 'https://stream1.virtualisan.net/prx/7000/live.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://188.165.11.30:7000/live.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://188.165.11.30:7000/'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

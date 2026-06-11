@@ -25,6 +25,14 @@ lastchangetime: 2026-01-14 23:44:14
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://sphera.fluidstream.eu/r80_afro.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://sphera.fluidstream.eu/r80_afro.mp3?FLID=1&aw_0_req.gdpr=true'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

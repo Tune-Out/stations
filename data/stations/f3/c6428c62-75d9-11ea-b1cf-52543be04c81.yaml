@@ -3,7 +3,7 @@ name: Al-quran Bangla
 url: http://66.45.232.131:9994/;stream/1/;
 url_resolved: http://66.45.232.131:9994/;stream/1/;
 homepage: https://www.liveonlineradio.net/bangla/bangla-al-quran.htm
-favicon: ""
+favicon: https://liveonlineradio.net/img/favicon_96.png
 tags: []
 country: Bangladesh
 countrycode: BD
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 01:17:31
 clickcount: 14
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://66.45.232.131:9994/;stream/1/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://66.45.232.131:9994/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

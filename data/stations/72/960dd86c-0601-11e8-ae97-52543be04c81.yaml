@@ -23,6 +23,15 @@ lastchangetime: 2026-01-15 00:42:51
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://streaming.wrek.org:8000/main/128kb.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://streaming.wrek.org:8000/wrek_live-24kb-mono.m3u'
+    url_resolved: 'http://streaming.wrek.org:8000/wrek_live-24kb-mono'
+    codec: MP3
+    bitrate: 24
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

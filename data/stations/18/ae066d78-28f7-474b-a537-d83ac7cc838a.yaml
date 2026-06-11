@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://live7.avf.ch:8000/globalfm'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://live7.avf.ch:8000/globalfm.m3u'
+    url_resolved: 'http://live7.avf.ch:8000/globalfm'
+    codec: AAC+
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

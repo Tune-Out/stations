@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:06:28
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://v4.tustreaming.cl:18156/stream'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://v4.tustreaming.cl:8134/stream'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

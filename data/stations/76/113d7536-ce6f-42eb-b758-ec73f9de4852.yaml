@@ -3,7 +3,7 @@ name: HPR1 Traditional Classic Country
 url: http://us2.streamingpulse.com:2199/tunein/-stream/hpr1hi.pls
 url_resolved: http://207.244.126.86:7713/stream
 homepage: https://www.hpr.org/
-favicon: ""
+favicon: https://hpr.org/wp-content/uploads/2020/06/cropped-site-icon-1-180x180.png
 tags:
   - country
 country: The United States Of America
@@ -21,6 +21,19 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: 36.63773537747697
 geo_long: -93.2208824157715
+curation: 0.50
+streams:
+  - url: 'http://us2.streamingpulse.com:2199/tunein/-stream/hpr1lo.pls'
+    url_resolved: 'http://207.244.126.86:7733/stream'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://us2.streamingpulse.com:2199/tunein/-stream/hpr1hi.pls'
+    url_resolved: 'http://207.244.126.86:7713/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://us2.maindigitalstream.com/ssl/7713'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

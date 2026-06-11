@@ -19,6 +19,14 @@ lastchangetime: 2026-05-17 23:08:25
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://listen.f-group.fr/listen/fhitsclassics/fhits_classics_96.aac'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://listen.fhits.fr:8014/fhits_classics_96.aac'
+    codec: AAC
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

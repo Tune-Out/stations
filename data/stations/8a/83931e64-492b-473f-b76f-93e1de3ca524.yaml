@@ -21,6 +21,12 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.25
+streams:
+  - url: 'http://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio'
+    codec: MP3
+  - url: 'https://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,85 @@ lastchangetime: 2026-01-14 23:30:35
 clickcount: 1
 geo_lat: 56.67282942172565
 geo_long: 12.85606384277344
+curation: 0.75
+streams:
+  - url: 'http://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http'
+    codec: AAC
+    bitrate: 336
+  - url: 'http://sverigesradio.se/topsy/direkt/2562-hi-aac.pls'
+    url_resolved: 'https://live1.sr.se/p2-aac-320'
+    codec: AAC
+    bitrate: 328
+  - url: 'http://sverigesradio.se/topsy/direkt/164-hi-aac.pls'
+    url_resolved: 'https://live1.sr.se/p3-aac-320'
+    codec: AAC
+    bitrate: 312
+  - url: 'http://sverigesradio.se/topsy/direkt/132-hi-aac.pls'
+    url_resolved: 'https://live1.sr.se/p1-aac-320'
+    codec: AAC
+    bitrate: 312
+  - url: 'http://sverigesradio.se/topsy/direkt/166-hi-aac.pls'
+    url_resolved: 'https://live1.sr.se/p6-aac-320'
+    codec: AAC
+    bitrate: 304
+  - url: 'http://sverigesradio.se/topsy/direkt/2576-hi-aac.pls'
+    url_resolved: 'https://live1.sr.se/dingata-aac-320'
+    codec: AAC
+    bitrate: 280
+  - url: 'http://sverigesradio.se/topsy/direkt/4951-hi-aac.pls'
+    url_resolved: 'https://live1.sr.se/p4plus-aac-320'
+    codec: AAC
+    bitrate: 272
+  - url: 'https://sverigesradio.se/topsy/direkt/164-hi-mp3.m3u'
+    url_resolved: 'https://live1.sr.se/p3-mp3-96'
+    codec: MP3
+    bitrate: 168
+  - url: 'https://sverigesradio.se/topsy/direkt/213-lo-mp3.m3u'
+    url_resolved: 'https://live1.sr.se/p4blek-mp3-96'
+    codec: MP3
+    bitrate: 152
+  - url: 'http://sverigesradio.se/topsy/direkt/2385-hi-aac.pls'
+    url_resolved: 'https://http-live.sr.se/srextra03-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sverigesradio.se/topsy/direkt/2383-hi-aac.pls'
+    url_resolved: 'https://http-live.sr.se/srextra01-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sverigesradio.se/topsy/direkt/2384-hi-aac.pls'
+    url_resolved: 'http://http-live.sr.se/srextra02-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sverigesradio.se/topsy/direkt/3268-hi-aac.pls'
+    url_resolved: 'http://http-live.sr.se/srextra09-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sverigesradio.se/topsy/direkt/2389-hi-aac.pls'
+    url_resolved: 'https://http-live.sr.se/srextra07-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sverigesradio.se/topsy/direkt/3269-hi-aac.pls'
+    url_resolved: 'https://http-live.sr.se/srextra10-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sverigesradio.se/topsy/direkt/2386-hi-aac.pls'
+    url_resolved: 'https://http-live.sr.se/srextra04-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sverigesradio.se/topsy/direkt/2388-hi-aac.pls'
+    url_resolved: 'https://http-live.sr.se/srextra06-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sverigesradio.se/topsy/direkt/2387-hi-aac.pls'
+    url_resolved: 'https://http-live.sr.se/srextra05-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sverigesradio.se/topsy/direkt/2390-hi-aac.pls'
+    url_resolved: 'https://http-live.sr.se/srextra08-aac-192'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3'
+    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 08:11:43
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://icecast-studio21.cdnvideo.ru/KalynaK_1a'
+    codec: MP3
+    bitrate: 160
+  - url: 'https://icecast-studio21.cdnvideo.ru/KalynaK_1a'
+    codec: MP3
+    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -25,6 +25,12 @@ lastchangetime: 2026-01-15 07:52:50
 clickcount: 2
 geo_lat: 46.55297294258766
 geo_long: 15.647277832031252
+curation: -0.05
+streams:
+  - url: 'https://live.radio.si/Toti'
+    codec: MP3
+  - url: 'https://live.radio.si/Toti?t=1722581297315'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 07:06:43
 clickcount: 0
 geo_lat: 53.2782688697501
 geo_long: -9.058010280132295
+curation: 0.35
+streams:
+  - url: 'http://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community

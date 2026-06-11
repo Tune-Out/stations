@@ -23,6 +23,19 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 46
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8'
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: 'http://live-icy.gss.dr.dk/A/A05H.mp3.m3u'
+    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A05H.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://live-icy.gss.dr.dk:8000/A/A05H.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

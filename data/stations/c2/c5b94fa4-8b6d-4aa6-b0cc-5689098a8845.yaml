@@ -22,6 +22,17 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'https://radio.nia.nc/radio/8000/pacific-hq-stream.aac'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://radio.nia.nc/radio/8000/pacific-hq-stream.aac?1772351904'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://radio.nia.nc/radio/8000/pacific-hq-stream.aac?1734100041'
+    codec: AAC
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community

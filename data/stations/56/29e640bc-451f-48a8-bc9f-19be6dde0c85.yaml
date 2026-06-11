@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:57:38
 clickcount: 1
 geo_lat: 47.71932477758553
 geo_long: -1.3763809204101562
+curation: 0.35
+streams:
+  - url: 'https://srv.webradiomanager.fr:1285/stream?x=1745084131773'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://srv.webradiomanager.fr:1285/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial

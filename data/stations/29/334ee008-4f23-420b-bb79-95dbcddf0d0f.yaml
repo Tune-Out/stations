@@ -22,6 +22,14 @@ lastchangetime: 2026-01-14 23:40:26
 clickcount: 4
 geo_lat: 43.73132796056818
 geo_long: -81.69464707374574
+curation: 0.35
+streams:
+  - url: 'http://bayshore-ais.leanstream.co/CHWCFM'
+    codec: AAC
+    bitrate: 63
+  - url: 'http://bayshore-ais.leanstream.co/CHWCFM-MP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

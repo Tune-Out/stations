@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:09:14
 clickcount: 0
 geo_lat: 22.77507356902285
 geo_long: -102.56814479827882
+curation: 0.35
+streams:
+  - url: 'https://radioforte.com/8010/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radioforte.com/8010/sonidoestrella'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

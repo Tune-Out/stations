@@ -24,6 +24,17 @@ lastchangetime: 2026-01-15 04:42:48
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://213.141.131.10:8000/experimentaltechno'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://213.141.131.10:8004/experimentaltechno'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://213.141.131.10:8002/experimentaltechno'
+    codec: AAC+
+    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

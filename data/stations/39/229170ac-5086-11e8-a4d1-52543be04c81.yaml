@@ -3,7 +3,7 @@ name: Radio SRF 2 Kultur
 url: http://stream.srg-ssr.ch/drs2/aacp_32.m3u
 url_resolved: http://stream.srg-ssr.ch/srgssr/srf2/aac/48
 homepage: https://www.srf.ch/radio-srf-2-kultur
-favicon: ""
+favicon: https://www.srf.ch/build/assets/srf-apple-touch-icon-BRxTgjQQ.png
 tags: []
 country: Switzerland
 countrycode: CH
@@ -19,6 +19,8 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: 2a1b8168-ec14-4ad4-aeb9-ac14d0d54080
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

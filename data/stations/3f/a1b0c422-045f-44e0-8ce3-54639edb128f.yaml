@@ -18,6 +18,14 @@ lastcheckok: true
 lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: 53.22
+curation: 0.35
+streams:
+  - url: 'https://stream.grunn.fm/grunnfm'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.grunnfm.nl/grunnfm'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

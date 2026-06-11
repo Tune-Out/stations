@@ -3,7 +3,7 @@ name: 8Radio
 url: https://stream.rcast.net/66127
 url_resolved: https://stream.rcast.net/66127
 homepage: https://8radio.com/listen/8radio320k/
-favicon: ""
+favicon: https://8radio.com/wp-content/uploads/2016/06/cropped-8RadioLogoUpdateJune2016-2-e1467023293153-180x180.jpg
 tags:
   - alternative
   - indie
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 6
 geo_lat: 53.34410084363813
 geo_long: -6.266986721846733
+curation: 0.65
+streams:
+  - url: 'https://stream.rcast.net/66127'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://edge4.audioxi.com/8RADIO'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

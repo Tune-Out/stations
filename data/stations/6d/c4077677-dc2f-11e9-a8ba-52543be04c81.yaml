@@ -24,6 +24,15 @@ lastchangetime: 2026-01-15 04:45:19
 clickcount: 170
 geo_lat: null
 geo_long: null
+curation: 0.65
+streams:
+  - url: 'https://media-ssl.musicradio.com/Heart80sMP3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://media-ice.musicradio.com/Heart80sMP3.m3u'
+    url_resolved: 'http://media-ice.musicradio.com/Heart80sMP3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

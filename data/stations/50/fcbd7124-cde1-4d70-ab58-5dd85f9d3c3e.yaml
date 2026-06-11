@@ -19,6 +19,35 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://streams.radiomast.io/ref-lossless-ogg-flac-stereo'
+    codec: OGG
+    bitrate: 1500
+  - url: 'https://streams.radiomast.io/ref-64k-ogg-opus-stereo'
+    codec: OGG
+    bitrate: 64
+  - url: 'https://streams.radiomast.io/ref-64k-ogg-vorbis-stereo'
+    codec: OGG
+    bitrate: 64
+  - url: 'https://streams.radiomast.io/ref-128k-aaclc-stereo'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://streams.radiomast.io/ref-64k-heaacv2-stereo'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://streams.radiomast.io/ref-64k-heaacv1-stereo'
+    codec: AAC
+    bitrate: 56
+  - url: 'https://streams.radiomast.io/ref-24k-heaacv1-mono'
+    codec: AAC
+    bitrate: 24
+  - url: 'https://streams.radiomast.io/ref-128k-mp3-stereo'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streams.radiomast.io/ref-32k-mp3-mono'
+    codec: MP3
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial

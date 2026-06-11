@@ -19,6 +19,16 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8?auth=daEa4cQd5bWc2dXcZdLdgcKaga2a_c9b5cI-bITV25-c0-GltxyFv&aifp=V001'
+    codec: AAC
+    bitrate: 1985
+    hls: true
+  - url: 'https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8'
+    codec: AAC
+    bitrate: 1868
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

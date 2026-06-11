@@ -3,7 +3,7 @@ name: Blackbeats.fm
 url: http://stream3.blackbeats.fm/;
 url_resolved: http://stream3.blackbeats.fm/;
 homepage: http://blackbeats.fm/
-favicon: ""
+favicon: https://blackbeats.fm/favicon.png
 tags:
   - hip-hop
 country: Germany
@@ -22,6 +22,15 @@ lastchangetime: 2026-01-15 05:54:35
 clickcount: 2
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream3.blackbeats.fm/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://blackbeats.fm/listen.m3u'
+    url_resolved: 'https://stream3.blackbeats.fm/'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

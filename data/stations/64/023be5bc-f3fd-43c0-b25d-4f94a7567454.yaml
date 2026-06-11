@@ -21,6 +21,35 @@ lastchangetime: 2026-01-15 00:32:39
 clickcount: 7
 geo_lat: 45.7176863579072
 geo_long: 16.060883122115094
+curation: -0.05
+streams:
+  - url: 'http://c5.hostingcentar.com:8384/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://c5.hostingcentar.com:8372/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://c5.hostingcentar.com:8378/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://c5.hostingcentar.com:8396/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://c5.hostingcentar.com:8390/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://c5.hostingcentar.com:9543/stream?4923'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://c5.hostingcentar.com:9543/'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://c5.hostingcentar.com:9543/stream?1820'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://c5.hostingcentar.com:8072/'
+    codec: MP3
+    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial

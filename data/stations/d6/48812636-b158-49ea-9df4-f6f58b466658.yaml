@@ -22,6 +22,16 @@ lastchangetime: 2026-01-15 03:00:48
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://notafm.hu/media/notafm.m3u'
+    url_resolved: 'http://live.notafm.hu:8000/notafm'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://notafm.hu/media/notafm_mp3.m3u'
+    url_resolved: 'http://live.notafm.hu:8000/notafm.mp3'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

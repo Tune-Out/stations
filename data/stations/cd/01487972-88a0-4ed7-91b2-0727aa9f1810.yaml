@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:40:24
 clickcount: 4
 geo_lat: 46.752301599321775
 geo_long: 18.39995384216309
+curation: 0.35
+streams:
+  - url: 'https://chill.out.airtime.pro/chill_a'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://chill.out.airtime.pro:8000/chill_a'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

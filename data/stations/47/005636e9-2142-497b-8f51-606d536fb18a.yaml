@@ -19,6 +19,15 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 73
 geo_lat: null
 geo_long: null
+curation: 0.50
+duplicate_of: 96126e82-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'https://icecast.omroep.nl/radio2-bb-aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://icecast.omroep.nl/radio2-bb-aac'
+    codec: AAC
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

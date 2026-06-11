@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: 41.11129184674602
 geo_long: -80.33876895904542
+curation: 0.35
+streams:
+  - url: 'https://ice64.securenetsystems.net/WWNW'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://ice64.securenetsystems.net/WWNW'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

@@ -23,6 +23,12 @@ lastchangetime: 2026-01-15 00:57:08
 clickcount: 8
 geo_lat: 41.88711271372448
 geo_long: -87.6241356603896
+curation: -0.05
+streams:
+  - url: 'https://stream.revma.ihrhls.com/zc849'
+    codec: AAC
+  - url: 'http://stream.revma.ihrhls.com/zc849'
+    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial

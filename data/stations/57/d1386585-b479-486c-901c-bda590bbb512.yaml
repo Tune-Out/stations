@@ -21,6 +21,24 @@ lastchangetime: 2026-02-24 22:15:53
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'https://dparkradio.com/ch3.pls'
+    url_resolved: 'https://listen.openstream.co/4287/audio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dparkradio.com/ch1.pls'
+    url_resolved: 'https://listen.openstream.co/7420/audio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dparkradio.com/ch4.pls'
+    url_resolved: 'https://listen.openstream.co/4661/audio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dparkradio.com/ch2.pls'
+    url_resolved: 'https://listen.openstream.co/7421/audio'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial

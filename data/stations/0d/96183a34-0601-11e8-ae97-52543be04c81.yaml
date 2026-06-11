@@ -3,7 +3,7 @@ name: RTHK Radio-4
 url: http://stm.rthk.hk/radio4
 url_resolved: http://stm.rthk.hk/radio4
 homepage: http://www.rthk.hk/
-favicon: ""
+favicon: https://webstatic.rthk.hk/img/apple-icon-57x57.png
 tags: []
 country: China
 countrycode: CN
@@ -23,6 +23,18 @@ lastchangetime: 2026-01-15 04:06:37
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://stm.rthk.hk/radio4'
+    codec: MP3
+  - url: 'http://stm.rthk.hk/radio3'
+    codec: MP3
+  - url: 'http://stm1.rthk.hk/radio5'
+    codec: MP3
+  - url: 'http://stm.rthk.hk/radio2'
+    codec: MP3
+  - url: 'http://stm.rthk.hk/radio1'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster

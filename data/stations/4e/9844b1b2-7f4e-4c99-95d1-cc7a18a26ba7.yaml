@@ -3,7 +3,7 @@ name: Fun Radio
 url: https://icecast.funradio.fr/fun-1-44-128
 url_resolved: https://icecast.funradio.fr/fun-1-44-128
 homepage: https://funradio.fr/
-favicon: ""
+favicon: https://www.funradio.fr/apple-touch-icon.png
 tags:
   - electronic
 country: France
@@ -22,6 +22,18 @@ lastchangetime: 2026-01-15 05:09:56
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.00
+duplicate_of: 38cb1dcb-5753-11e8-b0ce-52543be04c81
+streams:
+  - url: 'https://icecast.funradio.fr/fun-1-44-128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.funradio.fr/fun-1-44-128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

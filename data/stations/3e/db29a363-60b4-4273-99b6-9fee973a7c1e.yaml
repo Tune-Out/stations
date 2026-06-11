@@ -23,6 +23,16 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://dx85eyfuo1x2i.cloudfront.net/index.m3u8'
+    codec: AAC
+    bitrate: 1842
+    hls: true
+  - url: 'http://rds3.desdeparaguay.net/transrqp/transrqp/playlist.m3u'
+    codec: AAC+
+    bitrate: 33
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial

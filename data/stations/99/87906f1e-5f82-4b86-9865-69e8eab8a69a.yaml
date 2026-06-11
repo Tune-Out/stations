@@ -25,6 +25,22 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 108
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream.oldie-antenne.de/oldie-antenne/stream/aacp'
+    codec: AAC
+  - url: 'https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s7-webradio.oldie-antenne.de/oldie-antenne/stream/mp3?aw_0_1st.playerid=OldieAntenneWebPlayer'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s7-webradio.oldie-antenne.de/oldie-antenne-80er-hits/stream/mp3?aw_0_1st.playerid=OldieAntenneWebPlayer&aw_0_1st.skey=1706378427399&aw_0_req.userConsentV2=CP5CssAP5CssAAFADBDEAlEgAAAAAAAAAAYgAAAAAAEhIAMAAQL2DQAYAAgXsIgAwABAvYVABgACBewyADAAEC9h0AGAAIF7EIAMAAQL2JQAYAAgXsUgAwABAvYA.YAAAAAAAAAAA&companionAds=false&companion_zone_alias=41%2C42%2C40%2C731%2C752%2C756%2C768'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.oldie-antenne.de/oldie-antenne-60er-hits/stream/mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,22 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 141
 geo_lat: 48.1776994
 geo_long: 16.2877707
+curation: 0.55
+streams:
+  - url: 'https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8'
+    codec: AAC
+    bitrate: 300
+    hls: true
+  - url: 'https://orf-live-oe3.mdn.ors.at/out/u/oe3/q3a/manifest.m3u8'
+    codec: AAC
+    bitrate: 134
+    hls: true
+  - url: 'https://orf-live.ors-shoutcast.at/oe3-q2a'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://ors-sn03.ors-shoutcast.at/oe3-q1a'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

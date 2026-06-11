@@ -27,6 +27,14 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 11
 geo_lat: 49.97315102212736
 geo_long: 14.424973726272585
+curation: -0.05
+streams:
+  - url: 'http://sc.ipip.cz:8206/;stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://icecast8.play.cz/color128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

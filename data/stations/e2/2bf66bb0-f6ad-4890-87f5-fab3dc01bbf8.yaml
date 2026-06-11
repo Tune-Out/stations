@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:19:59
 clickcount: 0
 geo_lat: 51.05935060955763
 geo_long: -1.8176927195030328
+curation: 0.35
+streams:
+  - url: 'http://mscp3.live-streams.nl:8340/jazz-flac.flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://mscp3.live-streams.nl:8342/jazz-flac.flac'
+    codec: OGG
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -23,6 +23,23 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 7
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://stream.cdm-smoothsax.com:8024/stream-mp3-Smooth'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://stream.cdm-chillout.com:8012/stream-mp3-Deep'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://stream.cdm-chillout.com:8020/stream-mp3-Chill'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://stream.cdm-funky.com:8008/stream-mp3-Funk'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://stream.cdm-zen.com:8004/stream-mp3-Zen'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

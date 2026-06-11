@@ -22,6 +22,29 @@ lastchangetime: 2026-01-14 23:17:02
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.40
+streams:
+  - url: 'http://listen.radiogora.ru:8000/rednoise128'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://listen.radiogora.ru:8000/oldies128'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://listen.radiogora.ru:8000/hitmix128'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://listen.radiogora.ru:8000/groovecafe320'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://listen.radiogora.ru:8000/etc128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://listen.radiogora.ru:8000/electro128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://listen.radiogora.ru:8000/atd128'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

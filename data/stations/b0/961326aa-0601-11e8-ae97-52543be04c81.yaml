@@ -3,7 +3,7 @@ name: Radio Trinitas
 url: http://81.196.25.70:8000/
 url_resolved: http://81.196.25.70:8000/
 homepage: http://www.radiotrinitas.ro/
-favicon: ""
+favicon: https://radiotrinitas.ro/wp-content/uploads/2026/05/emisiuni-radio-trinitas-shows@2x.png
 tags:
   - classical
   - religious
@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 04:54:13
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.30
+streams:
+  - url: 'http://81.196.25.70:8000/'
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://live.radiotrinitas.ro:8000/'
+    codec: AAC+
+    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: religious

@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 05:40:20
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'https://stream.laut.fm/kuschelrock'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/kuschelrock'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:08:23
 clickcount: 3
 geo_lat: null
 geo_long: null
+curation: 0.55
+streams:
+  - url: 'http://stream3.radiocenter.si:8000/center'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream2.radiocenter.si:8058/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

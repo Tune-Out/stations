@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 02:12:24
 clickcount: 0
 geo_lat: 48.36626468296298
 geo_long: 10.887161493301392
+curation: -0.05
+streams:
+  - url: 'https://frontend.streamonkey.net/rt1-ch01/stream/mp3?aggregator=rt1_web&aw_0_1st.playerid=rt1_web&aw_0_1st.source=imsuden_web'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://frontend.streamonkey.net/rt1-ch01/stream/mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

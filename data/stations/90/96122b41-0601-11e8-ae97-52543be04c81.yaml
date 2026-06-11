@@ -3,7 +3,7 @@ name: SRo9 Rádio Junior
 url: http://live.slovakradio.sk:8000/Junior_128.mp3
 url_resolved: http://live.slovakradio.sk:8000/Junior_128.mp3
 homepage: https://junior.rtvs.sk/
-favicon: ""
+favicon: https://www.stvr.sk/media/images/stvr-og.jpg
 tags:
   - public-radio
 country: Slovakia
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 05:26:25
 clickcount: 6
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://live.slovakradio.sk:8000/Junior_256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://live.slovakradio.sk:8000/Junior_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -3,7 +3,7 @@ name: Sky Plus
 url: https://stream.skymedia.ee/live/SKYPLUS
 url_resolved: https://stream.skymedia.ee/live/SKYPLUS
 homepage: https://sky.ee/
-favicon: ""
+favicon: https://sky.ee/apple-touch-icon.png
 tags: []
 country: Estonia
 countrycode: EE
@@ -21,6 +21,14 @@ lastchangetime: 2026-01-15 06:27:38
 clickcount: 1
 geo_lat: 59.43045480454073
 geo_long: 24.72747802734375
+curation: -0.05
+streams:
+  - url: 'https://stream.skymedia.ee/live/SKYPLUS'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://skymedia-live.bitflip.ee/SKYPLUS'
+    codec: MP3
+    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial

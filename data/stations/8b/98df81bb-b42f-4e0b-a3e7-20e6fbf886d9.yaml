@@ -23,6 +23,14 @@ lastchangetime: 2026-04-12 00:50:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.35
+streams:
+  - url: 'http://148.72.153.65:9201/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://de3.amfmph.com:8715/live'
+    codec: AAC+
+    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial

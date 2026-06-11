@@ -31,6 +31,21 @@ lastchangetime: 2026-01-15 04:11:16
 clickcount: 2
 geo_lat: 41.507859423451514
 geo_long: -5.745500922203064
+curation: -0.05
+streams:
+  - url: 'https://27953.live.streamtheworld.com/CADENASER_ALT1AAC.aac'
+    codec: AAC+
+    bitrate: 56
+  - url: 'https://25483.live.streamtheworld.com/SER_ASO_MIRANDA_EBROAAC_SC'
+    codec: AAC+
+    bitrate: 56
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://provisioning.streamtheworld.com/pls/SER_VALENCIA.pls'
+    url_resolved: 'http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC'
+    codec: MP3
+    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial

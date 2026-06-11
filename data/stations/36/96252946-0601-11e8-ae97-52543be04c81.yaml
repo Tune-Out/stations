@@ -3,7 +3,7 @@ name: "SRo3: Rádio Devín"
 url: http://icecast.stv.livebox.sk/devin_128.mp3
 url_resolved: http://icecast.stv.livebox.sk/devin_128.mp3
 homepage: http://devin.rtvs.sk/
-favicon: ""
+favicon: https://www.stvr.sk/media/images/stvr-og.jpg
 tags:
   - alternative
   - culture
@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 08:12:44
 clickcount: 8
 geo_lat: null
 geo_long: null
+curation: 0.60
+streams:
+  - url: 'http://icecast.stv.livebox.sk/devin_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast.stv.livebox.sk/devin_128.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

@@ -3,7 +3,7 @@ name: France Musique | Concerts Radio France
 url: http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
 url_resolved: http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
 homepage: https://www.francemusique.fr/webradio-concerts-radio-france/
-favicon: ""
+favicon: https://www.radiofrance.fr/external/favicons/francemusique/favicon.png
 tags:
   - classical
 country: France
@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 06:09:01
 clickcount: 4
 geo_lat: null
 geo_long: null
+curation: 1.00
+streams:
+  - url: 'http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

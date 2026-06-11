@@ -35,6 +35,14 @@ lastchangetime: 2026-01-15 08:34:02
 clickcount: 2
 geo_lat: 50.15390156923213
 geo_long: -5.08495330810547
+curation: 0.40
+streams:
+  - url: 'http://live.canstream.co.uk:8000/sourcefm.mp3'
+    codec: MP3
+    bitrate: 110
+  - url: 'http://live.canstream.co.uk:8000/sourcefm.mp3?.mp3'
+    codec: MP3
+    bitrate: 110
 research:
   reviewed_at: 2026-06-10
   nature: community

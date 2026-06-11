@@ -24,6 +24,16 @@ lastchangetime: 2026-01-15 03:11:25
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: -0.05
+streams:
+  - url: 'http://stream02.iloveradio.de/iloveradio2.mp3'
+    url_resolved: 'http://ilm.stream12.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQ2ODc5JmQ9ZGM1ZTE2YjM0ZmYxN2I1MGQyZDg'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream02.iloveradio.de/iloveradio2.mp3?hadpreroll'
+    url_resolved: 'http://ilm.stream35.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDU0MTM2JmQ9OTM5ZTRhYzE5ZDE2Njc5MTU5NTU'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial

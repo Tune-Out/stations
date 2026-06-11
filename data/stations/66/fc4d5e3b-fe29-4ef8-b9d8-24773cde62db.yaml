@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 06:51:37
 clickcount: 5
 geo_lat: -6.175853157987424
 geo_long: 106.82642088428476
+curation: -0.05
+streams:
+  - url: 'https://cast1.my-control-panel.com/proxy/radioso1/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://sonora-radio.arenastreaming.com/8130/stream'
+    codec: MP3
+    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial

@@ -21,6 +21,14 @@ lastchangetime: 2026-01-14 23:24:33
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'https://lhttp-hw.qtfm.cn/live/3985/64k.mp3'
+    codec: MP3
+  - url: 'https://zjtv-wshls.homecdn.com/live/6451e.m3u8'
+    codec: UNKNOWN
+    bitrate: 178
+    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

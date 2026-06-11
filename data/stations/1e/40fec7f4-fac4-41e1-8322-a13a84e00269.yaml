@@ -21,6 +21,18 @@ lastchangetime: 2026-02-20 13:58:45
 clickcount: 1
 geo_lat: 53.335409029639415
 geo_long: -6.252593994140626
+curation: 0.55
+streams:
+  - url: 'http://cast5.magicstreams.gr:8010/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://cast5.magicstreams.gr:8010/'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://cast5.magicstreams.gr:2199/tunein/heartbeat.pls'
+    url_resolved: 'http://cast5.magicstreams.gr:8010/stream'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial

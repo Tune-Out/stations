@@ -23,6 +23,14 @@ lastchangetime: 2026-01-15 00:13:27
 clickcount: 1
 geo_lat: 51.686748251515425
 geo_long: 5.782665610313416
+curation: 0.35
+streams:
+  - url: 'https://loa.beheerstream.nl:8048/listen.pls?sid=1'
+    url_resolved: 'http://loa.beheerstream.nl:8048/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://nlpo.stream.vip/cuijkrad/mp3-192/nlpo/'
+    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community

@@ -20,6 +20,14 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: 46.02442760712411
 geo_long: 28.828125000000004
+curation: -0.05
+streams:
+  - url: 'http://ais-sa2.cdnstream1.com/1369_128'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://ais-sa2.cdnstream1.com/1369_128'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial

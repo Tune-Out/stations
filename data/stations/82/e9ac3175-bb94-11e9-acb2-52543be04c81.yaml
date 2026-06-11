@@ -22,6 +22,14 @@ lastchangetime: 2026-01-15 01:12:36
 clickcount: 1
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://media.rtvnoord.nl/icecast/rtvnoord/radio'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://media.rtvnoord.nl/icecast/rtvnoord/radio?.pls'
+    codec: MP3
+    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster

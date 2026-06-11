@@ -25,6 +25,14 @@ lastchangetime: 2026-01-15 04:51:21
 clickcount: 0
 geo_lat: 28.193014289371305
 geo_long: -105.47269821166992
+curation: -0.05
+streams:
+  - url: 'https://ssl.sigmaradio.stream:9004/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://ssl.sigmaradio.stream:9004/stream'
+    codec: MP3
+    bitrate: 75
 research:
   reviewed_at: 2026-06-10
   nature: commercial

@@ -21,6 +21,15 @@ lastchangetime: 2026-01-15 04:13:13
 clickcount: 0
 geo_lat: null
 geo_long: null
+curation: 0.50
+streams:
+  - url: 'http://live.kboo.fm:8000/high.m3u'
+    url_resolved: 'http://live.kboo.fm:8000/high'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://listen.kboo.fm:8000/mobile'
+    codec: MP3
+    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
