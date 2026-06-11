@@ -1,7 +1,8 @@
 ---
 // Root redirector: picks a locale and forwards via location.replace.
 // Kept dependency-free so it's <2 KB even with the inline script.
-const SUPPORTED = ['en','fr','ar','de','it','es','pt','hi','ja','zh','ko','id','ru'];
+import { SUPPORTED_LOCALES } from '~/locales.js';
+const SUPPORTED = [...SUPPORTED_LOCALES];
 ---
 
 <!doctype html>

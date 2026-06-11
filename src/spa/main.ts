@@ -1,7 +1,7 @@
 import './styles/app.css';
 import { el } from './dom.js';
 import { configureRouter, dispatch, initRouter, parseLocation } from './router.js';
-import { detectInitialLocale, setLocale, t } from './i18n.js';
+import { detectInitialLocale, isSupportedLocale, setLocale, t } from './i18n.js';
 import { bindTheme } from './theme.js';
 import { setupPwa } from './pwa.js';
 import { dbStatus, effect, locale, signal } from './store.js';
@@ -37,10 +37,12 @@ async function bootstrap() {
   const detected = r0.locale || detectInitialLocale();
 
   // Normalize URL so the rest of the boot sees a /[locale]/... path.
+  // Uses isSupportedLocale so adding a locale to src/locales.ts is enough —
+  // no per-place edits.
   const parts = location.pathname.split('/').filter(Boolean);
   if (parts.length === 0) {
     history.replaceState(null, '', `/${detected}/${location.search}`);
-  } else if (!['en', 'fr', 'ar'].includes(parts[0]!)) {
+  } else if (!isSupportedLocale(parts[0]!)) {
     history.replaceState(null, '', `/${detected}/${parts.join('/')}${location.search}`);
   }
 

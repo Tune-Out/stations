@@ -4,6 +4,7 @@
 // schema in scripts/lib/schema.ts.
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { SUPPORTED_LOCALES } from './locales.js';
 
 const LocalizedEntry = z.object({
   name: z.string().optional(),
@@ -40,7 +41,10 @@ const stationSchema = z.object({
   geo_lat: z.number().nullable().default(null),
   geo_long: z.number().nullable().default(null),
   localized: z.record(
-    z.enum(['en','fr','ar','de','it','es','pt','hi','ja','zh','ko','id','ru']),
+    // Cast through `as unknown` because Zod's `z.enum` insists on a
+    // string-literal-mutable-array, while SUPPORTED_LOCALES is a readonly
+    // const tuple. The runtime value is the same.
+    z.enum(SUPPORTED_LOCALES as unknown as [string, ...string[]]),
     LocalizedEntry,
   ).optional(),
 });

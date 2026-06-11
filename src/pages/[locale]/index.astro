@@ -1,47 +1,16 @@
 ---
-const LOCALE_LIST = ['en','fr','ar','de','it','es','pt','hi','ja','zh','ko','id','ru'] as const;
-type LocaleId = typeof LOCALE_LIST[number];
+// All locale metadata (codes, native names, page titles, descriptions,
+// script direction) lives in a single file. Adding a new locale = adding
+// one entry to src/locales.ts and a corresponding strings JSON.
+import { SUPPORTED_LOCALES, LOCALES, type Locale } from '~/locales.js';
 
 export function getStaticPaths() {
-  return [
-    'en','fr','ar','de','it','es','pt','hi','ja','zh','ko','id','ru',
-  ].map((locale) => ({ params: { locale } }));
+  return SUPPORTED_LOCALES.map((locale) => ({ params: { locale } }));
 }
 
-const { locale } = Astro.params as { locale: LocaleId };
-const dir = locale === 'ar' ? 'rtl' : 'ltr';
-
-const titles: Record<LocaleId, string> = {
-  en: 'Tune Out — Stream internet radio.',
-  fr: 'Tune Out — Écoutez la radio en ligne.',
-  ar: 'تيون أوت — استمع إلى الراديو عبر الإنترنت.',
-  de: 'Tune Out — Internetradio hören.',
-  it: 'Tune Out — Ascolta la radio su Internet.',
-  es: 'Tune Out — Escucha radio por Internet.',
-  pt: 'Tune Out — Ouça rádio pela Internet.',
-  hi: 'ट्यून आउट — इंटरनेट रेडियो सुनें।',
-  ja: 'チューンアウト — インターネットラジオを聴く。',
-  zh: '调出 — 收听互联网广播。',
-  ko: '튠 아웃 — 인터넷 라디오를 들어보세요.',
-  id: 'Tune Out — Dengarkan radio Internet.',
-  ru: 'Tune Out — Слушайте интернет-радио.',
-};
-
-const descs: Record<LocaleId, string> = {
-  en: 'A public-domain catalog of ~60,000 internet radio stations — browse, search, and listen.',
-  fr: 'Un catalogue public d’environ 60 000 radios en ligne — parcourez, cherchez et écoutez.',
-  ar: 'كتالوج مجاني لحوالي 60٬000 محطة راديو عبر الإنترنت — تصفّح وابحث واستمع.',
-  de: 'Ein gemeinfreier Katalog von rund 60 000 Internetradiosendern — stöbern, suchen, hören.',
-  it: 'Un catalogo di pubblico dominio di circa 60 000 web radio — sfoglia, cerca e ascolta.',
-  es: 'Un catálogo de dominio público con unas 60 000 radios por internet — explora, busca y escucha.',
-  pt: 'Um catálogo de domínio público com cerca de 60 000 rádios online — navegue, pesquise e ouça.',
-  hi: 'लगभग 60,000 इंटरनेट रेडियो स्टेशनों का सार्वजनिक डोमेन कैटलॉग — ब्राउज़ करें, खोजें और सुनें।',
-  ja: '約60,000のインターネットラジオ局を集めたパブリックドメインのカタログ — 見て、探して、聴く。',
-  zh: '约 6 万家互联网广播电台的公共领域目录——浏览、搜索并收听。',
-  ko: '약 60,000개의 인터넷 라디오 방송국이 담긴 퍼블릭 도메인 카탈로그 — 둘러보고, 검색하고, 들어보세요.',
-  id: 'Katalog domain publik berisi sekitar 60.000 stasiun radio Internet — jelajahi, cari, dan dengarkan.',
-  ru: 'Каталог в общественном достоянии примерно 60 000 интернет-радиостанций — просматривайте, ищите и слушайте.',
-};
+const { locale } = Astro.params as { locale: Locale };
+const meta = LOCALES[locale];
+const dir = meta.dir;
 ---
 
 <!doctype html>
@@ -79,8 +48,8 @@ const descs: Record<LocaleId, string> = {
     {/* Two color-scheme aware theme-color meta tags; replaced by JS at runtime for explicit overrides. */}
     <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fbfbfd" />
     <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0a0d14" />
-    <title>{titles[locale]}</title>
-    <meta name="description" content={descs[locale]} />
+    <title>{meta.title}</title>
+    <meta name="description" content={meta.description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -89,8 +58,8 @@ const descs: Record<LocaleId, string> = {
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="Tune Out" />
     <meta name="application-name" content="Tune Out" />
-    <meta property="og:title" content={titles[locale]} />
-    <meta property="og:description" content={descs[locale]} />
+    <meta property="og:title" content={meta.title} />
+    <meta property="og:description" content={meta.description} />
     <meta property="og:type" content="website" />
   </head>
   <body>

@@ -42,11 +42,11 @@ if (IS_DEV_HOST) {
 const SHELL_CACHE = `${VERSION}-shell`;
 const ASSET_CACHE = `${VERSION}-assets`;
 
-const PRECACHE_URLS = [
+// Static assets we always want pre-cached. Locale shells get appended at
+// install time from /data/locales.json (which build-data.ts emits from
+// src/locales.ts — the single source of truth for the supported set).
+const STATIC_PRECACHE = [
   '/',
-  '/en/',
-  '/fr/',
-  '/ar/',
   '/404.html',
   '/manifest.webmanifest',
   '/favicon.svg',
@@ -56,11 +56,32 @@ const PRECACHE_URLS = [
   '/icon-maskable.png',
 ];
 
+/** Loaded once at install, then memoized for the navigation handler. */
+let supportedLocales = null;
+
+async function loadLocales() {
+  if (supportedLocales) return supportedLocales;
+  try {
+    const r = await fetch('/data/locales.json', { cache: 'no-store' });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const data = await r.json();
+    if (Array.isArray(data?.locales)) {
+      supportedLocales = data.locales.filter((s) => /^[a-z]{2}$/.test(s));
+      return supportedLocales;
+    }
+  } catch (_) { /* fall through to safe default */ }
+  // Conservative fallback if the manifest can't be reached at install time.
+  supportedLocales = ['en'];
+  return supportedLocales;
+}
+
 self.addEventListener('install', (event) => {
   event.waitUntil(
     (async () => {
+      const locales = await loadLocales();
+      const shellUrls = locales.map((l) => `/${l}/`);
       const cache = await caches.open(SHELL_CACHE);
-      await Promise.allSettled(PRECACHE_URLS.map((u) => cache.add(u)));
+      await Promise.allSettled([...STATIC_PRECACHE, ...shellUrls].map((u) => cache.add(u)));
       await self.skipWaiting();
     })(),
   );
@@ -100,9 +121,13 @@ self.addEventListener('fetch', (event) => {
   if (isHtmlRequest(req)) {
     event.respondWith(
       (async () => {
-        // Prefer locale-specific cached shell when available.
-        const locMatch = url.pathname.match(/^\/(en|fr|ar)\//);
-        const fallback = locMatch ? `/${locMatch[1]}/` : '/en/';
+        // Prefer locale-specific cached shell when available. The locale list
+        // is whatever build-data.ts wrote to /data/locales.json; fall back to
+        // /en/ if we somehow couldn't load it yet.
+        const locales = await loadLocales();
+        const seg = url.pathname.split('/').filter(Boolean)[0];
+        const locale = locales.includes(seg) ? seg : null;
+        const fallback = locale ? `/${locale}/` : '/en/';
         try {
           // network first for HTML so updates propagate
           const net = await fetch(req);

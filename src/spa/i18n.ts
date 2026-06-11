@@ -1,6 +1,9 @@
 import type { Locale } from './types.js';
-import { LOCALES, SUPPORTED_LOCALES } from './types.js';
+import { LOCALES, isSupportedLocale as _isSupportedLocale } from './types.js';
 import { locale } from './store.js';
+
+// Re-export so main.ts can keep importing from ./i18n.js
+export const isSupportedLocale = _isSupportedLocale;
 
 let strings: Record<string, string> = {};
 let tags: Record<string, string> = {};
@@ -34,10 +37,6 @@ export function t(key: string, vars?: Record<string, string | number>): string {
 
 export function tTag(tag: string): string {
   return tags[tag.toLowerCase()] ?? tag;
-}
-
-export function isSupportedLocale(s: string | null | undefined): s is Locale {
-  return !!s && (SUPPORTED_LOCALES as string[]).includes(s);
 }
 
 export function detectInitialLocale(): Locale {

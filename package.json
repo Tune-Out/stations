@@ -6,7 +6,7 @@
   "description": "A beautiful single-page browser for ~60,000 internet radio stations, powered by SQLite-WASM.",
   "license": "CC0-1.0",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "scripts": {
     "seed": "tsx scripts/seed-from-radio-browser.ts",

@@ -16,7 +16,11 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  NODE_VERSION: '20'
+  # scripts/build-data.ts imports `node:sqlite`, which is built in to Node
+  # ≥22.5 (experimental, enabled by --experimental-sqlite) and unflagged in
+  # current LTS. Node 20 doesn't have it, so CI bombed there.
+  NODE_VERSION: '22'
+  NODE_OPTIONS: '--experimental-sqlite'
   SITE_URL: ${{ vars.SITE_URL || 'https://tune-out.app' }}
 
 jobs:

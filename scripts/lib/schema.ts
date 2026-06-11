@@ -37,12 +37,10 @@ const stringList = z.preprocess((v) => {
   return [];
 }, z.array(z.string()));
 
-export const SUPPORTED_LOCALES = [
-  'en', 'fr', 'ar',
-  'de', 'it', 'es', 'pt',
-  'hi', 'ja', 'zh', 'ko', 'id', 'ru',
-] as const;
-export type Locale = (typeof SUPPORTED_LOCALES)[number];
+// Single source of truth for the locale list lives in src/locales.ts. We
+// re-export so the build scripts and the linter keep using the same name.
+export { SUPPORTED_LOCALES, type Locale } from '../../src/locales.js';
+import { SUPPORTED_LOCALES, type Locale } from '../../src/locales.js';
 
 const LocalizedEntry = z.object({
   name: z.string().optional(),

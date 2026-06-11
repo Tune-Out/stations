@@ -1,36 +1,14 @@
-export type Locale =
-  | 'en' | 'fr' | 'ar'
-  | 'de' | 'it' | 'es' | 'pt'
-  | 'hi' | 'ja' | 'zh' | 'ko' | 'id' | 'ru';
-
-export const SUPPORTED_LOCALES: Locale[] = [
-  'en', 'fr', 'ar',
-  'de', 'it', 'es', 'pt',
-  'hi', 'ja', 'zh', 'ko', 'id', 'ru',
-];
-
-export interface LocaleMeta {
-  code: Locale;
-  name: string;
-  nativeName: string;
-  dir: 'ltr' | 'rtl';
-}
-
-export const LOCALES: Record<Locale, LocaleMeta> = {
-  en: { code: 'en', name: 'English',     nativeName: 'English',           dir: 'ltr' },
-  fr: { code: 'fr', name: 'French',      nativeName: 'Français',          dir: 'ltr' },
-  ar: { code: 'ar', name: 'Arabic',      nativeName: 'العربية',           dir: 'rtl' },
-  de: { code: 'de', name: 'German',      nativeName: 'Deutsch',           dir: 'ltr' },
-  it: { code: 'it', name: 'Italian',     nativeName: 'Italiano',          dir: 'ltr' },
-  es: { code: 'es', name: 'Spanish',     nativeName: 'Español',           dir: 'ltr' },
-  pt: { code: 'pt', name: 'Portuguese',  nativeName: 'Português (BR)',    dir: 'ltr' },
-  hi: { code: 'hi', name: 'Hindi',       nativeName: 'हिन्दी',             dir: 'ltr' },
-  ja: { code: 'ja', name: 'Japanese',    nativeName: '日本語',             dir: 'ltr' },
-  zh: { code: 'zh', name: 'Chinese',     nativeName: '简体中文',           dir: 'ltr' },
-  ko: { code: 'ko', name: 'Korean',      nativeName: '한국어',             dir: 'ltr' },
-  id: { code: 'id', name: 'Indonesian',  nativeName: 'Bahasa Indonesia',  dir: 'ltr' },
-  ru: { code: 'ru', name: 'Russian',     nativeName: 'Русский',           dir: 'ltr' },
-};
+// Locale config moved to src/locales.ts (the single source of truth used by
+// the Astro shell, the SPA, the build scripts, and the linter). We re-export
+// here so the SPA's "import from '../types.js'" calls keep working.
+export {
+  SUPPORTED_LOCALES,
+  LOCALES,
+  isSupportedLocale,
+  type Locale,
+  type LocaleMeta,
+} from '../locales.js';
+import type { Locale } from '../locales.js';
 
 /**
  * Base station-row shape. Localized columns are added via the mapped type

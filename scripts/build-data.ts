@@ -28,6 +28,7 @@ import { DatabaseSync } from 'node:sqlite';
 import { parse } from 'yaml';
 
 import { StationSchema, SUPPORTED_LOCALES, type Station, type Locale } from './lib/schema.js';
+import { LOCALES } from '../src/locales.js';
 import { shardForUuid } from './lib/shard.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -476,6 +477,22 @@ async function main() {
   }
 
   await writeFile(manifestPath, JSON.stringify(manifest, null, 2));
+
+  // Locales index — consumed by the service worker at install time so it can
+  // pre-cache exactly the shells that exist. Tiny file, ~1 KB.
+  await writeFile(
+    join(OUT_DIR, 'locales.json'),
+    JSON.stringify({
+      locales: SUPPORTED_LOCALES,
+      meta: Object.fromEntries(
+        SUPPORTED_LOCALES.map((l) => [l, {
+          name: LOCALES[l].name,
+          nativeName: LOCALES[l].nativeName,
+          dir: LOCALES[l].dir,
+        }]),
+      ),
+    }, null, 2),
+  );
 
   console.log(`[build-data] done in ${fmt(Date.now() - t0)}`);
   console.log(`             sqlite: ${(dbSize / 1e6).toFixed(1)} MB`);
