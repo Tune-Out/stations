@@ -1,13 +1,13 @@
-=======
-# Tune Out Catalog
+# Tune Out Radio Station Catalog
 
-A beautiful, searchable browser for ~60,000 internet radio stations.
+A repository of community-maintained public domain internet radio
+station metadata, available as a downloadable sqlite database.
 
-- Per-station page generated from a YAML source-of-truth (one file per station, sharded by UUID prefix).
-- Full-text site search via Pagefind.
+- ~60,000 internet radio stations catalogued.
+- Per-station page generated from YAML metadata.
 - Downloadable artifacts: SQLite (with FTS5), zipped YAML, gzipped JSON.
-- Built-in `/player/` with Recents, Favorites, Collections (localStorage), plus best-effort now-playing metadata and album art.
-- Static. Free. Public domain (CC0-1.0).
+- Built-in `/player/` with Recents, Favorites, Collections (localStorage).
+- Free and in the Public domain (CC0-1.0).
 
 ## Local development
 

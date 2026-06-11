@@ -96,7 +96,17 @@
 
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
-html { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  /* Defense-in-depth: even if a future rule introduces a too-wide element
+     somewhere, the page can never scroll horizontally on mobile. `clip`
+     (rather than `hidden`) avoids creating an extra scroll container,
+     so `position: sticky` keeps working. Verified the Playwright mobile
+     suite still catches *intrinsic* overflow regardless of this guard. */
+  overflow-x: clip;
+}
+body { overflow-x: clip; }
 body {
   background: var(--bg);
   color: var(--fg);
@@ -153,6 +163,12 @@ img { display: block; max-width: 100%; height: auto; }
   display: grid;
   grid-template-columns: var(--sidebar-w) minmax(0, 1fr);
   grid-template-rows: var(--topbar-h) minmax(0, 1fr) auto;
+  /* Belt-and-suspenders: keep the shell from ever poking past the viewport.
+     The intrinsic-overflow guard on `html`/`body` (the page-level `overflow-x:
+     clip` near the top of this file) is the visual safety net; this is what
+     makes the layout actually fit. */
+  max-width: 100vw;
+  min-width: 0;
   grid-template-areas:
     "topbar topbar"
     "sidebar main"
@@ -160,14 +176,22 @@ img { display: block; max-width: 100%; height: auto; }
   min-height: 100dvh;
 }
 
-.topbar  { grid-area: topbar; }
-.sidebar { grid-area: sidebar; }
-.main    { grid-area: main; overflow-y: auto; padding: 1.5rem clamp(1rem, 3vw, 2.5rem) 2rem; }
-.player  { grid-area: player; }
+/* `min-width: 0` is the load-bearing line — without it, the grid track
+   sizes to the cell's `min-content`, and `.main` contains horizontal-scroll
+   rails (`overflow-x: auto` with 280px cards) whose min-content is unbounded.
+   The track then grows past the viewport and pushes the whole shell wider.
+   The Playwright mobile suite catches this. */
+.topbar  { grid-area: topbar; min-width: 0; }
+.sidebar { grid-area: sidebar; min-width: 0; }
+.main    { grid-area: main;   min-width: 0; overflow-y: auto; padding: 1.5rem clamp(1rem, 3vw, 2.5rem) 2rem; }
+.player  { grid-area: player; min-width: 0; }
 
 @media (max-width: 720px) {
   .shell {
-    grid-template-columns: 1fr;
+    /* `minmax(0, 1fr)` — not bare `1fr` — caps the column at the available
+       inline size regardless of cell min-content. Belt-and-suspenders with
+       the `min-width: 0` on each cell above. */
+    grid-template-columns: minmax(0, 1fr);
     grid-template-areas:
       "topbar"
       "main"
@@ -211,7 +235,8 @@ img { display: block; max-width: 100%; height: auto; }
   font-weight: 400;
 }
 .topbar-search {
-  flex: 1 1 auto;
+  flex: 1 1 0;
+  min-width: 0;
   max-width: 540px;
   display: flex;
   align-items: center;
@@ -450,6 +475,14 @@ img { display: block; max-width: 100%; height: auto; }
   .topbar-search { max-width: none; }
   .theme-picker { display: none; }
   .lmenu-trigger-label { display: none; }
+}
+/* At phone widths the brand wordmark + search input + locale + github icons
+   intrinsically want ~410px; below that, drop the brand text and tighten the
+   gap so the search field still has room to be usable. */
+@media (max-width: 480px) {
+  .topbar { gap: 0.5rem; padding-inline: 0.6rem; }
+  .topbar-brand-text { display: none; }
+  .topbar-right { gap: 0.25rem; }
 }
 
 /* ─── Sidebar ────────────────────────────────────────── */
@@ -1267,16 +1300,13 @@ img { display: block; max-width: 100%; height: auto; }
   gap: 1rem;
   z-index: 20;
 }
-@media (max-width: 720px) {
-  .player {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto;
-    height: auto;
-    padding-block: 0.55rem;
-  }
-  .player-controls { justify-content: center; }
-  .player-meta-right { display: none; }
-}
+/* NOTE: the mobile override for .player and .player-meta-right used to live
+   here, but the base `.player-meta-right { display: flex; }` rule below
+   came AFTER it in source order. Equal specificity → last rule wins → the
+   `display: none` override silently lost and the right column rendered on
+   mobile, pushing the whole shell ~70px past the viewport. The override is
+   now collected at the END of this section so the cascade resolves the way
+   we mean it. See the @media block below `.player-fav`. */
 .player-now {
   display: grid;
   grid-template-columns: 52px minmax(0, 1fr);
@@ -1344,6 +1374,22 @@ img { display: block; max-width: 100%; height: auto; }
 }
 .player-fav:hover { background: color-mix(in oklab, var(--fg) 12%, transparent); color: var(--fg); }
 .player-fav[aria-pressed="true"] { color: var(--accent); }
+
+/* Mobile overrides — placed AFTER every base .player-* rule so the cascade
+   resolves in their favour. Hiding `.player-meta-right` is the load-bearing
+   line here: at desktop the player is a three-column grid (now / controls /
+   meta-right), and without this rule the right column forces the shell
+   wider than the viewport on a 375px screen. */
+@media (max-width: 720px) {
+  .player {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    height: auto;
+    padding-block: 0.55rem;
+  }
+  .player-controls { justify-content: center; }
+  .player-meta-right { display: none; }
+}
 
 /* ─── Spinners + error states ──────────────────────── */
 
