@@ -5,7 +5,8 @@ import { current, effect, locale, playerError, playerStatus } from '../store.js'
 import { openDb, getStation } from '../db.js';
 import { localizedDesc, localizedName, refFromRow } from '../types.js';
 import { editOnGithubUrl, prTemplateUrl } from '../shard.js';
-import { play } from '../audio.js';
+import { play, togglePlay } from '../audio.js';
+import { iconEl } from '../icons.js';
 import { url } from '../router.js';
 import type { Route } from '../router.js';
 
@@ -54,24 +55,24 @@ export async function renderStation(route: Route, mount: HTMLElement): Promise<v
   if (sum) text.appendChild(el('p', { class: 'lede', text: sum }));
 
   const actions = el('div', { class: 'station-actions' });
-  // One Play button per stream variant. Single-stream stations get just
-  // "Play"; multi-stream stations get "Play 320k MP3 / 128k AAC / HLS"-style
-  // labels so users can pick a codec/bitrate that suits their connection
-  // or device. The first stream is the preferred one (sorted in build-data
-  // by codec rank + bitrate DESC) and gets btn-primary styling; alternatives
-  // are btn-ghost.
+  // One button per stream variant. Single-stream stations get a plain
+  // "Play" button; multi-stream stations get one button per codec/bitrate
+  // (e.g. "320k MP3", "128k AAC", "HLS AAC"). Buttons are FIXED-WIDTH —
+  // we never mutate label text on state change. Instead, a leading
+  // icon (▶ / spinner / ⏸) plus an `is-active` class indicate which
+  // stream is currently playing.
   const streams = row.streams && row.streams.length
     ? row.streams
     : [{ url: row.url ?? '', codec: row.codec ?? undefined, bitrate: row.bitrate ?? undefined, hls: !!row.hls }];
 
-  /** "Play 320k MP3" / "Play HLS AAC" / "Play" depending on what we know. */
+  /** Format-only label: "320k MP3", "HLS AAC", or fall back to t('station.play'). */
   function buildLabel(s: { codec?: string; bitrate?: number; hls?: boolean; label?: string }): string {
-    if (s.label) return `${t('station.play')} ${s.label}`;
+    if (s.label) return s.label;
     const parts: string[] = [];
     if (s.hls) parts.push('HLS');
     if (s.bitrate && s.bitrate > 0) parts.push(`${s.bitrate}k`);
     if (s.codec) parts.push(s.codec);
-    return parts.length ? `${t('station.play')} ${parts.join(' ')}` : t('station.play');
+    return parts.length ? parts.join(' ') : t('station.play');
   }
 
   streams.forEach((stream, i) => {
@@ -80,30 +81,53 @@ export async function renderStation(route: Route, mount: HTMLElement): Promise<v
     const btn = el('button', {
       class: `btn ${isPrimary ? 'btn-primary' : 'btn-ghost'} station-play`,
     });
+    // Icon slot — swaps between play_arrow, pause, and a CSS-only spinner.
+    // It's a wrapper so we can replace innerHTML without re-laying-out the
+    // button (the slot keeps a stable 18×18 footprint).
+    const iconSlot = el('span', { class: 'station-play-icon', attrs: { 'aria-hidden': 'true' } });
+    iconSlot.appendChild(iconEl('play_arrow', 18));
     const playLabel = el('span', { class: 'station-play-label', text: buildLabel(stream) });
-    const playSpinner = el('span', { class: 'btn-spinner', attrs: { 'aria-hidden': 'true' } });
-    playSpinner.style.display = 'none';
-    btn.appendChild(playSpinner);
+    btn.appendChild(iconSlot);
     btn.appendChild(playLabel);
+
     btn.addEventListener('click', () => {
       if (btn.hasAttribute('disabled')) return;
-      // Override the ref's URL with the chosen stream variant.
-      const ref = refFromRow(row, l);
-      play({ ...ref, url: stream.url });
+      const cur = current.get();
+      const isCurrent = cur?.uuid === row.uuid && cur?.url === stream.url;
+      if (isCurrent) {
+        // Already this exact stream — toggle pause/resume so the icon swap
+        // is reversible without retriggering the connect handshake.
+        togglePlay();
+      } else {
+        const ref = refFromRow(row, l);
+        play({ ...ref, url: stream.url });
+      }
     });
-    // React to global player status — but only mark *this* button as active
-    // when both the station AND this exact stream URL match.
+
+    // React to global player status — but only mark *this* button as
+    // active when both the station AND this exact stream URL match.
+    // We swap the iconSlot's children rather than mutating any text node,
+    // so the button's width stays constant across every state transition.
     effect(() => {
       const s = playerStatus.get();
       const cur = current.get();
       const isCurrent = cur?.uuid === row.uuid && cur?.url === stream.url;
       const connecting = isCurrent && s === 'connecting';
-      playSpinner.style.display = connecting ? 'inline-block' : 'none';
-      btn.toggleAttribute('disabled', connecting);
+      const playing    = isCurrent && s === 'playing';
+      btn.classList.toggle('is-active', isCurrent && (connecting || playing));
+      btn.classList.toggle('is-playing', playing);
+      btn.classList.toggle('is-connecting', connecting);
+      btn.setAttribute('aria-pressed', String(playing));
       btn.setAttribute('aria-busy', String(connecting));
-      if (isCurrent && s === 'playing') playLabel.textContent = t('station.pause');
-      else if (connecting)              playLabel.textContent = t('player.connecting');
-      else                              playLabel.textContent = buildLabel(stream);
+      // Note: NOT toggling `disabled` — keeping the button clickable lets
+      // users mash to retry/cancel without the geometry shifting.
+      iconSlot.replaceChildren(
+        connecting
+          ? el('span', { class: 'btn-spinner station-play-spinner' })
+          : playing
+          ? iconEl('pause', 18)
+          : iconEl('play_arrow', 18),
+      );
     });
     actions.appendChild(btn);
   });

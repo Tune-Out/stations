@@ -1232,6 +1232,49 @@ img { display: block; max-width: 100%; height: auto; }
 .station-name { font-family: var(--font-display); font-size: clamp(1.75rem, 5vw, 3rem); line-height: 1.05; margin: 0.3rem 0 1rem; }
 .station-actions { display: flex; gap: 0.5rem; flex-wrap: wrap; }
 
+/* ─── Station Play buttons ──────────────────────────────────────────
+   Fixed-geometry buttons: text never changes, only the leading icon
+   and the button's appearance. .is-active is the "this is the currently
+   playing or connecting stream" marker; .is-playing flips the icon to
+   a pause glyph. The icon slot is a stable 18×18 box so the spinner
+   doesn't pull surrounding content around when it appears. */
+.station-play {
+  gap: 0.45rem;
+  /* Tabular numerals keep "128k" and "320k" the same width across buttons. */
+  font-variant-numeric: tabular-nums;
+}
+.station-play-icon {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 18px; height: 18px; flex: 0 0 18px;
+  /* Subpixel-stable transition so the icon swap doesn't shift the label. */
+  transition: transform 120ms ease;
+}
+.station-play-icon svg { display: block; }
+.station-play-spinner {
+  width: 16px; height: 16px;
+  border-radius: 999px;
+  border: 2px solid color-mix(in oklab, currentColor 28%, transparent);
+  border-top-color: currentColor;
+  animation: spinner-rotate 0.85s linear infinite;
+  box-sizing: border-box;
+}
+/* Active = this stream is connecting or playing. Pull the border in to
+   accent colour for ghost variants; primary variants stay primary but
+   get a subtle outer ring so they read as "selected" against siblings. */
+.station-play.is-active.btn-ghost {
+  border-color: color-mix(in oklab, var(--accent) 55%, var(--line));
+  background: color-mix(in oklab, var(--accent) 12%, var(--bg-elev));
+  color: var(--fg);
+}
+.station-play.is-active.btn-primary {
+  box-shadow:
+    0 0 0 2px color-mix(in oklab, var(--accent) 70%, transparent),
+    0 12px 26px -10px color-mix(in oklab, var(--accent) 60%, transparent);
+}
+.station-play.is-playing .station-play-icon { color: var(--accent); }
+.station-play.is-playing.btn-primary .station-play-icon { color: var(--accent-fg); }
+.station-play.is-connecting { cursor: progress; }
+
 .station-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
