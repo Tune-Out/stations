@@ -1,0 +1,103 @@
+name: Build & deploy catalog
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  NODE_VERSION: '20'
+  SITE_URL: ${{ vars.SITE_URL || 'https://tune-out.app' }}
+
+jobs:
+  # Fast feedback for PRs: unit tests + YAML linter.
+  # Runs on push and PR; no Pages permissions required.
+  tests:
+    name: Tests & YAML lint
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Unit tests (vitest)
+        run: npm test
+
+      - name: Lint station YAMLs
+        # --github emits ::error file=… ::message annotations so failures
+        # show up inline on the PR diff view.
+        run: npm run lint:yaml:ci
+
+  build:
+    name: Build site
+    needs: tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Cache build artifacts
+        uses: actions/cache@v4
+        with:
+          path: |
+            .astro
+            node_modules/.cache
+            public/data
+          key: catalog-${{ runner.os }}-${{ hashFiles('data/stations/**/*.yaml', 'package-lock.json') }}
+          restore-keys: |
+            catalog-${{ runner.os }}-
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build data artifacts (sqlite + zip + json.gz)
+        run: npm run build:data
+
+      - name: Build site
+        uses: withastro/action@v6
+        with:
+          path: .
+          node-version: ${{ env.NODE_VERSION }}
+          package-manager: npm@latest
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-README
 =======
 # Tune Out Catalog
 
@@ -43,4 +41,3 @@ public/data/                          # generated artifacts (gitignored)
 [CC0-1.0](./LICENSE) — public domain.
 The radio-browser data we redistribute is itself public-domain.
 # stations
->>>>>>> 6bd21a1 (first commit)

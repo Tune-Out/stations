@@ -1,0 +1,118 @@
+---
+const LOCALE_LIST = ['en','fr','ar','de','it','es','pt','hi','ja','zh','ko','id','ru'] as const;
+type LocaleId = typeof LOCALE_LIST[number];
+
+export function getStaticPaths() {
+  return [
+    'en','fr','ar','de','it','es','pt','hi','ja','zh','ko','id','ru',
+  ].map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleId };
+const dir = locale === 'ar' ? 'rtl' : 'ltr';
+
+const titles: Record<LocaleId, string> = {
+  en: 'Tune Out — Stream internet radio.',
+  fr: 'Tune Out — Écoutez la radio en ligne.',
+  ar: 'تيون أوت — استمع إلى الراديو عبر الإنترنت.',
+  de: 'Tune Out — Internetradio hören.',
+  it: 'Tune Out — Ascolta la radio su Internet.',
+  es: 'Tune Out — Escucha radio por Internet.',
+  pt: 'Tune Out — Ouça rádio pela Internet.',
+  hi: 'ट्यून आउट — इंटरनेट रेडियो सुनें।',
+  ja: 'チューンアウト — インターネットラジオを聴く。',
+  zh: '调出 — 收听互联网广播。',
+  ko: '튠 아웃 — 인터넷 라디오를 들어보세요.',
+  id: 'Tune Out — Dengarkan radio Internet.',
+  ru: 'Tune Out — Слушайте интернет-радио.',
+};
+
+const descs: Record<LocaleId, string> = {
+  en: 'A public-domain catalog of ~60,000 internet radio stations — browse, search, and listen.',
+  fr: 'Un catalogue public d’environ 60 000 radios en ligne — parcourez, cherchez et écoutez.',
+  ar: 'كتالوج مجاني لحوالي 60٬000 محطة راديو عبر الإنترنت — تصفّح وابحث واستمع.',
+  de: 'Ein gemeinfreier Katalog von rund 60 000 Internetradiosendern — stöbern, suchen, hören.',
+  it: 'Un catalogo di pubblico dominio di circa 60 000 web radio — sfoglia, cerca e ascolta.',
+  es: 'Un catálogo de dominio público con unas 60 000 radios por internet — explora, busca y escucha.',
+  pt: 'Um catálogo de domínio público com cerca de 60 000 rádios online — navegue, pesquise e ouça.',
+  hi: 'लगभग 60,000 इंटरनेट रेडियो स्टेशनों का सार्वजनिक डोमेन कैटलॉग — ब्राउज़ करें, खोजें और सुनें।',
+  ja: '約60,000のインターネットラジオ局を集めたパブリックドメインのカタログ — 見て、探して、聴く。',
+  zh: '约 6 万家互联网广播电台的公共领域目录——浏览、搜索并收听。',
+  ko: '약 60,000개의 인터넷 라디오 방송국이 담긴 퍼블릭 도메인 카탈로그 — 둘러보고, 검색하고, 들어보세요.',
+  id: 'Katalog domain publik berisi sekitar 60.000 stasiun radio Internet — jelajahi, cari, dan dengarkan.',
+  ru: 'Каталог в общественном достоянии примерно 60 000 интернет-радиостанций — просматривайте, ищите и слушайте.',
+};
+---
+
+<!doctype html>
+<html lang={locale} dir={dir}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    {/* Pre-paint theme + skin application — avoids a light/dark/skin flash.
+        Must run before any CSS link is inserted. */}
+    <script is:inline>
+      (function () {
+        try {
+          var rawT = localStorage.getItem('tuneout.theme');
+          if (rawT) {
+            var t = JSON.parse(rawT);
+            if (t === 'light' || t === 'dark') {
+              document.documentElement.setAttribute('data-theme', t);
+            }
+          }
+          var rawS = localStorage.getItem('tuneout.skin');
+          if (rawS) {
+            var s = JSON.parse(rawS);
+            if (typeof s === 'string' && /^[a-z0-9][a-z0-9_-]*$/.test(s) && s !== 'classic') {
+              document.documentElement.setAttribute('data-theme-skin', s);
+              var link = document.createElement('link');
+              link.rel = 'stylesheet';
+              link.id = 'theme-skin';
+              link.href = '/themes/' + s + '/theme.css';
+              document.head.appendChild(link);
+            }
+          }
+        } catch (e) {}
+      })();
+    </script>
+    {/* Two color-scheme aware theme-color meta tags; replaced by JS at runtime for explicit overrides. */}
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fbfbfd" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0a0d14" />
+    <title>{titles[locale]}</title>
+    <meta name="description" content={descs[locale]} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Tune Out" />
+    <meta name="application-name" content="Tune Out" />
+    <meta property="og:title" content={titles[locale]} />
+    <meta property="og:description" content={descs[locale]} />
+    <meta property="og:type" content="website" />
+  </head>
+  <body>
+    <div id="app">
+      <div class="boot">
+        <div class="boot-logo" aria-hidden="true">
+          <svg viewBox="0 0 32 32" width="44" height="44">
+            <defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#0ea5e9"/>
+              <stop offset="0.55" stop-color="#2563eb"/>
+              <stop offset="1" stop-color="#1e3a8a"/>
+            </linearGradient></defs>
+            <rect width="32" height="32" rx="7" fill="url(#lg)"/>
+            <g fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round"><path d="M 14.5 6.5 A 9.5 9.5 0 1 0 17.5 6.5"/></g>
+            <circle cx="16" cy="16" r="2.4" fill="#ffffff"/>
+          </svg>
+        </div>
+        <p class="boot-text">Tune Out</p>
+      </div>
+    </div>
+    <script>
+      import '~/spa/main.ts';
+    </script>
+  </body>
+</html>

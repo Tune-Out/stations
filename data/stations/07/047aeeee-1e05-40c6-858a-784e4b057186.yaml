@@ -1,0 +1,33 @@
+stationuuid: 047aeeee-1e05-40c6-858a-784e4b057186
+name: Talkradio
+url: https://radio.talkradio.co.uk/stream
+url_resolved: https://radio.talkradio.co.uk/stream
+homepage: https://www.nrm.ug/
+favicon: ""
+tags:
+  - news
+country: Uganda
+countrycode: UG
+state: ""
+language:
+  - en
+languagecodes:
+  - en
+votes: 45
+codec: AAC
+bitrate: 63
+hls: false
+lastcheckok: true
+lastchangetime: 2026-01-15 05:39:41
+clickcount: 11
+geo_lat: null
+geo_long: null
+research:
+  reviewed_at: 2026-06-09
+  nature: unknown
+  operator: Unknown - catalog entry has mismatched metadata; homepage points to Uganda's NRM political party, but stream URL resolves to UK-based talkRADIO (News UK / Wireless Group)
+  affiliations: Listed homepage (nrm.ug) is the National Resistance Movement, Uganda's ruling party led by President Yoweri Museveni; stream itself appears to be the unrelated UK commercial talk station owned by News Corp's Wireless Group
+  audience: Unclear - if Ugandan English-language news listeners or UK-based talk-radio audiences depending on which source the entry actually represents
+  format: News and talk (per tags)
+  notes: "This catalog entry shows clear data inconsistency: the homepage URL https://www.nrm.ug/ is the official site of Uganda's ruling National Resistance Movement (NRM), which the website confirms is a political party and not a broadcaster (\"there is no mention of a radio station called TALKRADIO\" on the NRM site); meanwhile the stream URL https://radio.talkradio.co.uk/stream serves the UK commercial speech station talkRADIO, owned by News Corp's Wireless Group; either the catalog conflates two stations or this is a mislabeled rebroadcast."
+  sources: https://www.nrm.ug/, internal knowledge of UK talkRADIO

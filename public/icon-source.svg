@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Tune Out">
+  <title>Tune Out</title>
+  <defs>
+    <!-- ── Plate ──────────────────────────────────────────────────────── -->
+    <linearGradient id="to-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0"    stop-color="#0ea5e9"/>
+      <stop offset="0.55" stop-color="#2563eb"/>
+      <stop offset="1"    stop-color="#1e3a8a"/>
+    </linearGradient>
+    <radialGradient id="to-shine" cx="0.22" cy="0.18" r="0.75">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="to-shade" cx="0.78" cy="0.82" r="0.85">
+      <stop offset="0.7" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1"   stop-color="#000000" stop-opacity="0.22"/>
+    </radialGradient>
+
+    <!-- ── Dial face: subtly darker disc, edge slightly darker for depth -->
+    <radialGradient id="dial-face" cx="0.5" cy="0.5" r="0.78">
+      <stop offset="0"    stop-color="#0a1428" stop-opacity="0.18"/>
+      <stop offset="0.85" stop-color="#0a1428" stop-opacity="0.46"/>
+      <stop offset="1"    stop-color="#0a1428" stop-opacity="0.62"/>
+    </radialGradient>
+
+    <!-- ── Bezel: brushed metal feel via vertical light → shadow -->
+    <linearGradient id="bezel-grad" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0"    stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#f1f5f9"/>
+      <stop offset="1"    stop-color="#94a3b8"/>
+    </linearGradient>
+
+    <!-- ── Knob shadow: soft offset ellipse drawn behind the skirt -->
+    <radialGradient id="knob-shadow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0"   stop-color="#000000" stop-opacity="0.5"/>
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0.25"/>
+      <stop offset="1"   stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- ── Knob skirt: heavy metal — bright top-left → deep bottom-right -->
+    <radialGradient id="knob-skirt" cx="0.3" cy="0.22" r="1.05">
+      <stop offset="0"    stop-color="#cbd5e1"/>
+      <stop offset="0.18" stop-color="#94a3b8"/>
+      <stop offset="0.42" stop-color="#475569"/>
+      <stop offset="0.78" stop-color="#1e293b"/>
+      <stop offset="1"    stop-color="#020617"/>
+    </radialGradient>
+
+    <!-- ── Knob cap: lighter machined metal — brighter highlight -->
+    <radialGradient id="knob-cap" cx="0.33" cy="0.25" r="0.95">
+      <stop offset="0"    stop-color="#ffffff"/>
+      <stop offset="0.35" stop-color="#e2e8f0"/>
+      <stop offset="0.8"  stop-color="#94a3b8"/>
+      <stop offset="1"    stop-color="#475569"/>
+    </radialGradient>
+
+    <!-- ── Tuning needle gradient: enameled amber with a soft highlight -->
+    <linearGradient id="needle-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#b45309"/>
+      <stop offset="0.25" stop-color="#f59e0b"/>
+      <stop offset="0.5"  stop-color="#fde047"/>
+      <stop offset="0.75" stop-color="#f59e0b"/>
+      <stop offset="1"    stop-color="#b45309"/>
+    </linearGradient>
+
+    <!-- ── Pivot gradient (small dark metal pin in the cap centre) -->
+    <radialGradient id="pivot" cx="0.35" cy="0.35" r="0.8">
+      <stop offset="0"   stop-color="#475569"/>
+      <stop offset="0.7" stop-color="#0f172a"/>
+      <stop offset="1"   stop-color="#020617"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <!--                              PLATE                                 -->
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <rect width="512" height="512" rx="112" fill="url(#to-bg)"/>
+  <rect width="512" height="512" rx="112" fill="url(#to-shine)"/>
+
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <!--                              DIAL                                  -->
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <circle cx="256" cy="256" r="180" fill="url(#dial-face)"/>
+  <circle cx="256" cy="256" r="190" fill="none" stroke="url(#bezel-grad)" stroke-width="16"/>
+  <!-- Inner hairline on the bezel for a beveled look -->
+  <circle cx="256" cy="256" r="182" fill="none" stroke="#020617" stroke-width="1.5" opacity="0.35"/>
+
+  <!-- ── Tick marks: 12 major (every 30°) + 12 minor (offsets) ───────── -->
+  <g fill="#ffffff" opacity="0.62">
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(15  256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(45  256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(75  256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(105 256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(135 256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(165 256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(195 256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(225 256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(255 256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(285 256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(315 256 256)"/>
+    <rect x="254.5" y="80" width="3" height="14" rx="1.2" transform="rotate(345 256 256)"/>
+  </g>
+  <g fill="#ffffff">
+    <!-- All 12 majors present now — the indicator is on the knob, not on the bezel -->
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(0   256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(30  256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(60  256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(90  256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(120 256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(150 256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(180 256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(210 256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(240 256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(270 256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(300 256 256)"/>
+    <rect x="253" y="76" width="6" height="22" rx="2" transform="rotate(330 256 256)"/>
+  </g>
+  <!-- Highlight the 12 o'clock major (where the needle points) in amber -->
+  <rect x="251" y="74" width="10" height="26" rx="3" fill="#fbbf24" transform="rotate(0 256 256)"/>
+
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <!--                            TUNING KNOB                             -->
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <!-- Soft drop-shadow disc behind the knob (faked with a slightly offset
+       radial-gradient ellipse so resvg + every browser renders it cleanly). -->
+  <ellipse cx="256" cy="266" rx="124" ry="124" fill="url(#knob-shadow)"/>
+
+  <!-- ── Chonky outer skirt ─────────────────────────────────────────── -->
+  <circle cx="256" cy="256" r="120" fill="url(#knob-skirt)"/>
+  <!-- Crisp dark line at the very edge — makes the knob feel "carved" -->
+  <circle cx="256" cy="256" r="120" fill="none" stroke="#020617" stroke-width="1.5" opacity="0.7"/>
+  <!-- Top-side specular highlight (catches the light from above) -->
+  <path d="M 156 230 A 110 110 0 0 1 356 230" fill="none" stroke="#ffffff" stroke-width="3" opacity="0.35" stroke-linecap="round"/>
+
+  <!-- ── Knurling: 24 fine grip ridges around the skirt's outer band ── -->
+  <g stroke="#020617" stroke-width="2.5" stroke-linecap="round" opacity="0.55">
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(0   256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(15  256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(30  256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(45  256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(60  256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(75  256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(90  256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(105 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(120 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(135 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(150 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(165 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(180 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(195 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(210 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(225 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(240 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(255 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(270 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(285 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(300 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(315 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(330 256 256)"/>
+    <line x1="256" y1="144" x2="256" y2="162" transform="rotate(345 256 256)"/>
+  </g>
+
+  <!-- Inner skirt-to-cap groove (the seam between two-part knob) -->
+  <circle cx="256" cy="256" r="82" fill="none" stroke="#020617" stroke-width="2" opacity="0.6"/>
+
+  <!-- ── Cap: lighter, brighter machined metal ─────────────────────── -->
+  <circle cx="256" cy="256" r="80" fill="url(#knob-cap)"/>
+  <!-- Cap top highlight ring -->
+  <circle cx="256" cy="256" r="80" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.5"/>
+  <!-- Cap top-arc shine -->
+  <path d="M 192 232 A 72 72 0 0 1 320 232" fill="none" stroke="#ffffff" stroke-width="3" opacity="0.55" stroke-linecap="round"/>
+
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <!--           STATION NEEDLE — physically attached to the knob         -->
+  <!-- The arrow's BASE sits on the cap, anchored through a pivot pin     -->
+  <!-- The tip extends out to the bezel, just touching the amber tick     -->
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+
+  <!-- Subtle drop shadow of the needle, offset down a hair so it floats above the dial -->
+  <path d="M 248 258 L 250 117 L 244 110 L 256 88 L 268 110 L 262 117 L 264 258 Z"
+        fill="#000000" opacity="0.35"
+        transform="translate(2 4)"/>
+
+  <!-- The needle body itself: a clean arrow-shape with arrowhead at the tip
+       and a tapered shaft pinned at the centre. -->
+  <path d="M 248 258 L 250 117 L 244 110 L 256 88 L 268 110 L 262 117 L 264 258 Z"
+        fill="url(#needle-grad)"
+        stroke="#7c2d12" stroke-width="1.3" stroke-linejoin="round"/>
+
+  <!-- Bright specular streak down the centre of the needle -->
+  <path d="M 256 92 L 256 256"
+        stroke="#fffbeb" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Pivot pin: small dark disc on the cap, with a tiny highlight, where
+       the needle is bolted to the knob. Gives the arrow a believable anchor. -->
+  <circle cx="256" cy="256" r="14" fill="url(#pivot)"/>
+  <circle cx="256" cy="256" r="14" fill="none" stroke="#020617" stroke-width="1" opacity="0.7"/>
+  <circle cx="252" cy="252" r="3.5" fill="#94a3b8" opacity="0.85"/>
+
+  <!-- ── Final ambient shade ──────────────────────────────────────── -->
+  <rect width="512" height="512" rx="112" fill="url(#to-shade)"/>
+</svg>

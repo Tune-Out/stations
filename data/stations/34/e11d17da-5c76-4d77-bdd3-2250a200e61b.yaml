@@ -1,0 +1,30 @@
+stationuuid: e11d17da-5c76-4d77-bdd3-2250a200e61b
+name: DPCloudev
+url: http://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.mp3
+url_resolved: http://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.mp3
+homepage: http://azuracast.saber.proxy.damp11113.xyz/public/systest
+favicon: ""
+tags: []
+country: Thailand
+countrycode: TH
+state: ""
+language: []
+languagecodes: []
+votes: 19
+codec: MP3
+bitrate: 192
+hls: false
+lastcheckok: true
+lastchangetime: 2026-01-31 11:59:00
+clickcount: 2
+geo_lat: null
+geo_long: null
+research:
+  reviewed_at: 2026-06-10
+  nature: test/development system (not operational radio)
+  operator: DPCloudev (development environment)
+  affiliations: none known
+  audience: internal testing only
+  format: test/system check stream
+  notes: Appears to be Azuracast test instance used for development and system verification. Not a public operational broadcast station. Tagged as "test" in catalog. Development infrastructure operated at proxy subdomain.
+  sources: internal knowledge only

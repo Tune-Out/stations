@@ -1,0 +1,12 @@
+id: winamp
+name_key: theme.skin.winamp.name
+description_key: theme.skin.winamp.description
+preview_color: "#1ec01e"
+order: 5
+fonts:
+  - family: "Press Start 2P"
+    src: fonts/PressStart2P-Regular.woff2
+    weight: 400
+    style: normal
+# Future: this theme's CSS variables can be auto-overridden by
+# scripts/winamp-import.ts when you feed it a classic Winamp .wsz skin.

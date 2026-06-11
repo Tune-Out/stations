@@ -1,0 +1,32 @@
+stationuuid: 90820569-1212-4a17-a61c-71280abd15a2
+name: Althania TV
+url: https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8
+url_resolved: https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8
+homepage: https://www.althania.tv/images/logo2.png
+favicon: https://www.althania.tv/images/logo2.png
+tags: []
+country: Syrian Arab Republic
+countrycode: SY
+state: ""
+language:
+  - ar
+languagecodes:
+  - ar
+votes: 352
+codec: AAC
+bitrate: 194
+hls: true
+lastcheckok: true
+lastchangetime: 2026-01-14 23:40:27
+clickcount: 12
+geo_lat: null
+geo_long: null
+research:
+  reviewed_at: 2026-06-09
+  nature: state media
+  operator: "Unknown precise operator; \"Althania\" (Arabic: الثانية, \"the second\") is associated with Syria's second state TV channel; the resolved audio stream URL contains \"syriatvlive/syriatv_audio\" indicating an audio feed of the General Organization of Radio and TV (GORT / ORTAS) Syrian state TV"
+  affiliations: Government of Syria; historically part of the Syrian state broadcasting apparatus (Al-Ikhbariya Syria / Syria TV family) controlled by the Ministry of Information; following the December 2024 collapse of the Assad government and the takeover by HTS-led transitional authorities, control of state broadcasting has been in transition
+  audience: Arabic-speaking Syrian and pan-Arab viewers / listeners
+  format: News, talk and general-entertainment audio simulcast of a Syrian TV channel
+  notes: The homepage URL stored in the database points directly to a logo image (logo2.png) rather than a content page, and the althania.tv domain returned HTTP 403 on fetch — research is therefore inconclusive; the station is most likely the audio simulcast of "Al-Thaniya" (Syrian TV Channel 2) or a related state-broadcasting outlet; Syrian state media has faced US, EU and UK sanctions historically for serving as a propaganda arm of the former Assad regime, and the ownership and editorial line of Syrian state broadcasters has been in flux since late 2024.
+  sources: https://www.althania.tv/ (HTTP 403, no content retrieved), internal knowledge of Syrian state broadcasting

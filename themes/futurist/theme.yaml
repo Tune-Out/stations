@@ -1,0 +1,14 @@
+id: futurist
+name_key: theme.skin.futurist.name
+description_key: theme.skin.futurist.description
+preview_color: "#d946ef"
+order: 3
+fonts:
+  - family: "Orbitron"
+    src: fonts/Orbitron-Regular.woff2
+    weight: 400
+    style: normal
+  - family: "Orbitron"
+    src: fonts/Orbitron-Bold.woff2
+    weight: 700
+    style: normal

@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+.env
+.env.local
+
+# Generated build artifacts (rebuilt from data/)
+public/data/stations.sqlite
+public/data/stations.zip
+public/data/stations.json.gz
+public/data/manifest.json
+# Legacy artifacts no longer emitted by build-data.ts — refuse to track them
+# if a stale copy lands here from an old branch.
+public/data/index.json
+public/data/top.json
+
+# Logs
+*.log
+npm-debug.log*

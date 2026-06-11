@@ -1,0 +1,87 @@
+{
+  "generated_at": "1970-01-01",
+  "count": 6,
+  "themes": [
+    {
+      "id": "classic",
+      "name_key": "theme.skin.classic.name",
+      "description_key": "theme.skin.classic.description",
+      "preview_color": "#3b82f6",
+      "order": 0,
+      "css": "themes/classic/theme.css",
+      "fonts": []
+    },
+    {
+      "id": "minimal",
+      "name_key": "theme.skin.minimal.name",
+      "description_key": "theme.skin.minimal.description",
+      "preview_color": "#6b7280",
+      "order": 1,
+      "css": "themes/minimal/theme.css",
+      "fonts": []
+    },
+    {
+      "id": "solarpunk",
+      "name_key": "theme.skin.solarpunk.name",
+      "description_key": "theme.skin.solarpunk.description",
+      "preview_color": "#22c55e",
+      "order": 2,
+      "css": "themes/solarpunk/theme.css",
+      "fonts": [
+        {
+          "family": "Cormorant Garamond",
+          "src": "fonts/CormorantGaramond-Regular.woff2",
+          "weight": 400,
+          "style": "normal"
+        }
+      ]
+    },
+    {
+      "id": "futurist",
+      "name_key": "theme.skin.futurist.name",
+      "description_key": "theme.skin.futurist.description",
+      "preview_color": "#d946ef",
+      "order": 3,
+      "css": "themes/futurist/theme.css",
+      "fonts": [
+        {
+          "family": "Orbitron",
+          "src": "fonts/Orbitron-Regular.woff2",
+          "weight": 400,
+          "style": "normal"
+        },
+        {
+          "family": "Orbitron",
+          "src": "fonts/Orbitron-Bold.woff2",
+          "weight": 700,
+          "style": "normal"
+        }
+      ]
+    },
+    {
+      "id": "applish",
+      "name_key": "theme.skin.applish.name",
+      "description_key": "theme.skin.applish.description",
+      "preview_color": "#0a84ff",
+      "order": 4,
+      "css": "themes/applish/theme.css",
+      "fonts": []
+    },
+    {
+      "id": "winamp",
+      "name_key": "theme.skin.winamp.name",
+      "description_key": "theme.skin.winamp.description",
+      "preview_color": "#1ec01e",
+      "order": 5,
+      "css": "themes/winamp/theme.css",
+      "fonts": [
+        {
+          "family": "Press Start 2P",
+          "src": "fonts/PressStart2P-Regular.woff2",
+          "weight": 400,
+          "style": "normal"
+        }
+      ]
+    }
+  ]
+}

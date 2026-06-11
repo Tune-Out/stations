@@ -1,0 +1,35 @@
+---
+// Root redirector: picks a locale and forwards via location.replace.
+// Kept dependency-free so it's <2 KB even with the inline script.
+const SUPPORTED = ['en','fr','ar','de','it','es','pt','hi','ja','zh','ko','id','ru'];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#3b82f6" />
+    <title>Tune Out</title>
+    <meta name="description" content="A public-domain catalog of internet radio stations." />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta http-equiv="refresh" content="0; url=/en/" />
+    <style>body{margin:0;background:#0a0d14;color:#e7ecf3;font-family:system-ui,-apple-system,sans-serif;display:grid;place-items:center;min-height:100dvh}p{opacity:.7}</style>
+  </head>
+  <body>
+    <p>Loading the catalog…</p>
+    <script is:inline define:vars={{ SUPPORTED }}>
+      try {
+        const saved = localStorage.getItem('tuneout.locale');
+        const fromNav = (navigator.languages || [navigator.language || 'en'])
+          .map((l) => String(l).slice(0, 2).toLowerCase())
+          .find((l) => SUPPORTED.includes(l));
+        const pick = SUPPORTED.includes(saved ?? '') ? saved : fromNav || 'en';
+        const target = '/' + pick + '/' + location.search + location.hash;
+        location.replace(target);
+      } catch (_) {
+        location.replace('/en/');
+      }
+    </script>
+  </body>
+</html>

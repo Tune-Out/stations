@@ -1,0 +1,9 @@
+# Treat seeded station YAML as generated so it doesn't dominate language stats
+data/stations/**/*.yaml linguist-generated=true
+data/stations/**/*.yaml linguist-detectable=false
+
+# Ensure consistent EOLs across platforms
+* text=auto eol=lf
+*.yaml text eol=lf
+*.ts text eol=lf
+*.astro text eol=lf

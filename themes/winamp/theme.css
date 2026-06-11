@@ -1,0 +1,80 @@
+/*
+ * WinAmp — classic mid-90s media-player chrome: dark panel grey body, neon
+ * green LED text, sharp pixel corners, pixel-font display.
+ *
+ * To replace these colours with those of a particular Winamp .wsz skin,
+ * run:
+ *     npm run winamp:import -- path/to/Skin.wsz themes/winamp-custom
+ * That populates a new themes/winamp-custom/ folder using this CSS as a
+ * template and rewriting the four anchor colours to the sniffed values.
+ */
+
+@font-face {
+  font-family: "Press Start 2P";
+  src: url("fonts/PressStart2P-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --bg: #1d2227;
+  --bg-elev: #2a3038;
+  --bg-elev-2: #353d47;
+  --fg: #1ec01e;        /* Winamp's iconic green LED */
+  --muted: #6abf6a;
+  --line: #00b8ff;      /* electric-blue chrome edge */
+  --line-strong: #00d6ff;
+  --accent: #f3ff00;    /* hot yellow play / volume indicators */
+  --accent-fg: #1d2227;
+  --font-display: "Press Start 2P", ui-monospace, monospace;
+  --font-mono: "Press Start 2P", ui-monospace, monospace;
+  --radius-sm: 0;
+  --radius-md: 0;
+  --radius-lg: 2px;
+  --radius-xl: 2px;
+}
+
+:root[data-theme="light"] {
+  --bg: #c0c0c0;        /* the classic Windows 95 grey */
+  --bg-elev: #d0d0d0;
+  --bg-elev-2: #e0e0e0;
+  --fg: #000080;        /* Windows-95 navy */
+  --muted: #404060;
+  --line: #808080;
+  --line-strong: #606060;
+  --accent: #000080;
+  --accent-fg: #ffffff;
+}
+
+body { background-image: none !important; }
+
+/* Display type uses the pixel font; keep it small to stay readable */
+.h-display {
+  font-size: clamp(1.5rem, 3.5vw, 2.25rem);
+  line-height: 1.2;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+.h-section {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Boxy chrome */
+.card,
+.scard,
+.panel,
+.btn,
+.chip,
+.country-card,
+.player,
+.topbar,
+.sidebar { border-radius: 0 !important; }
+
+/* Beveled-ish 1px borders */
+.scard,
+.panel,
+.country-card { border-color: var(--line); }

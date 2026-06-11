@@ -1,0 +1,49 @@
+{
+  "name": "tune-out-catalog",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "A beautiful single-page browser for ~60,000 internet radio stations, powered by SQLite-WASM.",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "seed": "tsx scripts/seed-from-radio-browser.ts",
+    "build:data": "tsx scripts/build-data.ts",
+    "build:data:release": "tsx scripts/build-data.ts --release",
+    "build:icons": "tsx scripts/build-icons.ts",
+    "build:themes": "tsx scripts/build-themes.ts",
+    "build:tag-icons": "tsx scripts/download-tag-icons.ts",
+    "build:tag-i18n": "tsx scripts/build-tag-i18n.ts",
+    "migrate:yaml": "tsx scripts/migrate-station-yamls.ts",
+    "lint:yaml": "tsx scripts/lint-station-yamls.ts",
+    "lint:yaml:ci": "tsx scripts/lint-station-yamls.ts --github",
+    "winamp:import": "tsx scripts/winamp-import.ts",
+    "prebuild": "npm run build:data && npm run build:themes",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@sqlite.org/sqlite-wasm": "^3.51.2-build9",
+    "astro": "^5.1.0",
+    "typescript": "^5.6.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@resvg/resvg-wasm": "^2.6.2",
+    "@types/archiver": "^6.0.3",
+    "@types/node": "^22.10.0",
+    "@vitest/coverage-v8": "^4.1.8",
+    "archiver": "^7.0.1",
+    "fast-glob": "^3.3.2",
+    "p-limit": "^6.1.0",
+    "stream-json": "^1.9.1",
+    "tsx": "^4.19.2",
+    "vitest": "^4.1.8",
+    "yaml": "^2.6.1"
+  }
+}

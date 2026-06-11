@@ -1,0 +1,68 @@
+@layer base, theme;
+@font-face {
+  font-family: "Orbitron";
+  src: url("fonts/Orbitron-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Orbitron";
+  src: url("fonts/Orbitron-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@layer theme {
+/*
+ * Futurist — neon magenta + electric cyan on near-black, geometric
+ * Orbitron headlines, low-radius corners.
+ */
+
+
+
+
+
+:root {
+  --bg: #0a0014;
+  --bg-elev: #1a0a2e;
+  --bg-elev-2: #251245;
+  --fg: #f5e9ff;
+  --muted: #b89aff;
+  --line: #311a4e;
+  --line-strong: #4a2a72;
+  --accent: #d946ef;
+  --accent-fg: #ffffff;
+  --font-display: "Orbitron", ui-sans-serif, system-ui, sans-serif;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 6px;
+  --radius-xl: 8px;
+}
+
+:root[data-theme="light"] {
+  --bg: #fdf4ff;
+  --bg-elev: #ffffff;
+  --bg-elev-2: #f5e6ff;
+  --fg: #1e0a3c;
+  --muted: #6b4799;
+  --line: #f0d9ff;
+  --line-strong: #d4a8ff;
+  --accent: #a21caf;
+  --accent-fg: #ffffff;
+}
+
+/* Subtle scanline / glow background */
+body {
+  background-image:
+    radial-gradient(800px 600px at 110% -10%, color-mix(in oklab, #06b6d4 22%, transparent), transparent 55%),
+    radial-gradient(900px 700px at -10% 110%, color-mix(in oklab, var(--accent) 22%, transparent), transparent 50%) !important;
+}
+
+.h-display {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+}

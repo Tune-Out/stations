@@ -1,0 +1,50 @@
+/*
+ * Applish — Think Different. Heavy reliance on the SF system font
+ * stack, near-black/near-white surfaces, the iconic iOS blue.
+ *
+ * We don't ship the SF Pro fonts (they're proprietary); we use the platform
+ * SF fallback chain that renders natively on macOS/iOS and falls back to
+ * Inter or the system UI font on other OSes.
+ */
+
+:root {
+  --bg: #000000;
+  --bg-elev: #1c1c1e;
+  --bg-elev-2: #2c2c2e;
+  --fg: #f5f5f7;
+  --muted: #a1a1a6;
+  --line: #2c2c2e;
+  --line-strong: #3a3a3c;
+  --accent: #0a84ff;
+  --accent-fg: #ffffff;
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display",
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display",
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --radius-sm: 0.45rem;
+  --radius-md: 0.65rem;
+  --radius-lg: 0.9rem;
+  --radius-xl: 1.25rem;
+}
+
+:root[data-theme="light"] {
+  --bg: #ffffff;
+  --bg-elev: #fbfbfd;
+  --bg-elev-2: #f5f5f7;
+  --fg: #1d1d1f;
+  --muted: #6e6e73;
+  --line: #d2d2d7;
+  --line-strong: #b0b0b5;
+  --accent: #0071e3;
+  --accent-fg: #ffffff;
+}
+
+/* Very subtle background — Apple keeps it almost flat */
+body { background-image: none !important; }
+
+/* Tighter typography — Apple loves -0.022em letter-spacing on headlines */
+.h-display { letter-spacing: -0.022em; font-weight: 600; }
+.h-section { letter-spacing: -0.015em; font-weight: 600; }
+
+/* Apple-style button radii */
+.btn { border-radius: 980px; }

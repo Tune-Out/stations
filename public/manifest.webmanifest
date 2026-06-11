@@ -1,0 +1,58 @@
+{
+  "id": "/?source=pwa",
+  "name": "Tune Out — Internet Radio",
+  "short_name": "Tune Out",
+  "description": "A public-domain catalog of ~60,000 internet radio stations. Browse, search, and listen — no account, no tracking.",
+  "categories": ["music", "entertainment", "utilities"],
+  "start_url": "/en/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "any",
+  "background_color": "#0a0d14",
+  "theme_color": "#3b82f6",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search",
+      "short_name": "Search",
+      "url": "/en/search",
+      "description": "Search the catalog",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "Browse",
+      "short_name": "Browse",
+      "url": "/en/browse",
+      "description": "Browse by country and tag"
+    }
+  ],
+  "prefer_related_applications": false
+}

@@ -1,0 +1,44 @@
+@layer base, theme;
+
+@layer theme {
+/*
+ * Classic — the default Tune Out look. Token values match the baked-in
+ * defaults in app.css; this file exists so the build pipeline always finds
+ * a CSS stylesheet for every theme, and so authors can use it as a starting
+ * template when customising a new theme.
+ *
+ * Every theme MUST:
+ *  - Override BOTH the dark default ( `:root` ) and the explicit light
+ *    block ( `:root[data-theme="light"]` ) so the user's choice in the
+ *    light/system/dark picker always reads as designed.
+ *  - Use logical CSS properties (margin-inline, padding-inline, etc.) and
+ *    rem-based sizes so the layout survives RTL and large-text settings.
+ *  - Only reference user-facing strings via i18n keys declared in
+ *    `src/spa/i18n/strings/<locale>.json`; this CSS file is text-free.
+ */
+
+:root {
+  --bg: #0a0d14;
+  --bg-elev: #11151f;
+  --bg-elev-2: #161b27;
+  --fg: #e7ecf3;
+  --muted: #94a0b5;
+  --line: #1f2636;
+  --line-strong: #2a3346;
+  --accent: var(--brand-400);
+  --accent-fg: #0a0d14;
+}
+
+:root[data-theme="light"] {
+  --bg: #fbfbfd;
+  --bg-elev: #ffffff;
+  --bg-elev-2: #f4f6fa;
+  --fg: #0b1220;
+  --muted: #5a657a;
+  --line: #e6e8ee;
+  --line-strong: #cbd0db;
+  --accent: var(--brand-600);
+  --accent-fg: #ffffff;
+}
+
+}

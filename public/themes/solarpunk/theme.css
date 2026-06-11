@@ -1,0 +1,52 @@
+@layer base, theme;
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("fonts/CormorantGaramond-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@layer theme {
+/*
+ * Solarpunk — warm sunlit greens, leaf textures, optimism.
+ * Pairs serif headlines with the system body font.
+ */
+
+
+
+:root {
+  --bg: #0e1814;
+  --bg-elev: #122a1e;
+  --bg-elev-2: #1a3526;
+  --fg: #ecf5e2;
+  --muted: #9bb89a;
+  --line: #1f3a2b;
+  --line-strong: #2c4f3c;
+  --accent: #66d97f;
+  --accent-fg: #0e1814;
+  --font-display: "Cormorant Garamond", ui-serif, Georgia, serif;
+}
+
+:root[data-theme="light"] {
+  --bg: #f4f6ea;
+  --bg-elev: #faf8e8;
+  --bg-elev-2: #ecebd6;
+  --fg: #0e1b16;
+  --muted: #4a5d4d;
+  --line: #d3d6c6;
+  --line-strong: #aab2a0;
+  --accent: #15803d;
+  --accent-fg: #faf8e8;
+}
+
+/* Sunlit gradient through the page */
+body {
+  background-image:
+    radial-gradient(900px 700px at 95% -5%, color-mix(in oklab, #fbbf24 16%, transparent), transparent 60%),
+    radial-gradient(900px 700px at 5% 105%, color-mix(in oklab, var(--accent) 18%, transparent), transparent 55%) !important;
+}
+
+/* Display headers a touch larger and looser-tracked */
+.h-display { letter-spacing: 0; }
+
+}

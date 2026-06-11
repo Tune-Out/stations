@@ -1,0 +1,32 @@
+stationuuid: 6494c2db-51b0-4ef8-8669-011c1610a8de
+name: LBC Radio
+url: http://media-ice.musicradio.com/LBCUK
+url_resolved: http://media-ice.musicradio.com/LBCUK
+homepage: https://www.livescore.cz/
+favicon: "null"
+tags: []
+country: Uganda
+countrycode: UG
+state: ""
+language:
+  - en
+languagecodes:
+  - en
+votes: 432
+codec: AAC
+bitrate: 48
+hls: false
+lastcheckok: true
+lastchangetime: 2026-01-15 07:48:14
+clickcount: 0
+geo_lat: null
+geo_long: null
+research:
+  reviewed_at: 2026-06-09
+  nature: commercial
+  operator: LBC (Licensed by Ofcom, UK)
+  affiliations: none known
+  audience: English-speaking listeners; UK focus despite Uganda metadata error
+  format: Talk radio with news, current affairs, phone-in shows
+  notes: Metadata shows Uganda (UG) country code but actual LBC Radio is London-based 97.3 FM UK station. Homepage URL references Czech sports site (livescore.cz), suggesting data corruption. Stream URL is UK-based musicradio.com. Likely database entry error or misclassified station.
+  sources: https://www.globalplayer.com/live/lbc/uk/, https://radioplayer.musicradio.com/radio/lbc/uk/

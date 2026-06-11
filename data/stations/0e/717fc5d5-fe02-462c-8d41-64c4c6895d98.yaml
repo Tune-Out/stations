@@ -1,0 +1,32 @@
+stationuuid: 717fc5d5-fe02-462c-8d41-64c4c6895d98
+name: France Info
+url: http://icecast.radiofrance.fr/franceinfo-hifi.aac
+url_resolved: http://icecast.radiofrance.fr/franceinfo-hifi.aac
+homepage: http://icecast.radiofrance.fr/franceinfo-hifi.aac
+favicon: ""
+tags: []
+country: France
+countrycode: FR
+state: ""
+language:
+  - fr
+languagecodes:
+  - fr
+votes: 104
+codec: AAC
+bitrate: 192
+hls: false
+lastcheckok: true
+lastchangetime: 2026-01-15 02:15:15
+clickcount: 10
+geo_lat: null
+geo_long: null
+research:
+  reviewed_at: 2026-06-09
+  nature: public broadcaster
+  operator: Radio France (France's public radio company), funded by the French state via the contribution à l'audiovisuel public (formerly the redevance)
+  affiliations: French government via Radio France's licence-fee/public-funding model; editorially independent under CSA/Arcom oversight
+  audience: French-speaking listeners nationwide and worldwide via stream
+  format: 24/7 rolling news and current affairs — France's flagship all-news radio network
+  notes: franceinfo (lowercase, as branded) launched in 1987 as the first French all-news station and is part of the broader franceinfo cross-media brand (joint with France Télévisions, France Médias Monde, and INA, established 2016); it broadcasts on FM nationwide plus DAB+ and online; this URL is the direct AAC Icecast stream rather than a homepage.
+  sources: internal knowledge (homepage URL points directly to the audio stream)
