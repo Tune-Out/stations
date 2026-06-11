@@ -4,7 +4,7 @@ import { tagChip } from '../components/tag-chip.js';
 import { current, effect, locale, playerError, playerStatus } from '../store.js';
 import { openDb, getStation } from '../db.js';
 import { localizedDesc, localizedName, refFromRow } from '../types.js';
-import { editOnGithubUrl } from '../shard.js';
+import { editOnGithubUrl, prTemplateUrl } from '../shard.js';
 import { play } from '../audio.js';
 import { url } from '../router.js';
 import type { Route } from '../router.js';
@@ -176,9 +176,17 @@ export async function renderStation(route: Route, mount: HTMLElement): Promise<v
     grid.appendChild(p);
   }
 
-  // Background panel — surfaces the editorial research block. Each field is
-  // optional; we skip empties. nature is rendered as a search-link chip so
-  // users can pivot to "all public broadcasters" or similar.
+  // Background panel — surfaces the editorial research block.
+  //
+  // Layout: full-width (.panel-wide spans the whole station-grid) and split
+  // internally into two columns at wider viewports:
+  //   • Left — short metadata (Nature, Operator, Affiliations, Audience,
+  //     Format) as a label/value list.
+  //   • Right — long-form prose (Notes, Sources) where the line length is
+  //     capped at ~65ch for readability.
+  //
+  // At narrow widths the two columns stack. URL-bearing values get
+  // `overflow-wrap: anywhere` via CSS so long source URLs can't overflow.
   const r = {
     nature:       row.r_nature,
     operator:     row.r_operator,
@@ -189,9 +197,13 @@ export async function renderStation(route: Route, mount: HTMLElement): Promise<v
     sources:      row.r_sources,
   };
   if (Object.values(r).some((v) => v && String(v).trim())) {
-    const p = el('article', { class: 'panel panel-wide' });
+    const p = el('article', { class: 'panel panel-wide background-panel' });
     p.appendChild(el('h2', { text: t('station.background') }));
-    const dl = el('dl', { class: 'kv' });
+
+    const bg = el('div', { class: 'bg-grid' });
+
+    // ── Left column: short metadata as a key/value list ──
+    const dl = el('dl', { class: 'kv bg-kv' });
     function addKv(key: string, node: Node | string): void {
       dl.appendChild(el('dt', { text: key }));
       const dd = el('dd');
@@ -211,38 +223,66 @@ export async function renderStation(route: Route, mount: HTMLElement): Promise<v
     if (r.affiliations) addKv(t('station.affiliations'), r.affiliations);
     if (r.audience)     addKv(t('station.audience'),     r.audience);
     if (r.format)       addKv(t('station.format'),       r.format);
-    if (r.notes)        addKv(t('station.notes'),        r.notes);
+    if (dl.children.length) bg.appendChild(dl);
+
+    // ── Right column: long-form prose ──
+    const prose = el('div', { class: 'bg-prose' });
+    function addProseHeading(key: string): HTMLElement {
+      const h = el('h3', { class: 'bg-prose-label', text: key });
+      prose.appendChild(h);
+      return h;
+    }
+    if (r.notes) {
+      addProseHeading(t('station.notes'));
+      prose.appendChild(el('p', { class: 'bg-prose-body', text: r.notes }));
+    }
     if (r.sources) {
-      // Comma-separated source list; linkify any URL-shaped sources.
-      const wrap = el('span');
+      addProseHeading(t('station.sources'));
+      // Comma-separated source list; linkify URL-shaped entries. Each entry
+      // is its own pill so wrapping is clean and a long URL never pushes
+      // anything offscreen.
+      const list = el('ul', { class: 'bg-sources' });
       const parts = String(r.sources).split(/,\s*/).filter(Boolean);
-      parts.forEach((src, i) => {
-        if (i > 0) wrap.appendChild(document.createTextNode(', '));
+      for (const src of parts) {
+        const li = el('li');
         const isUrl = /^https?:\/\//.test(src);
         if (isUrl) {
-          wrap.appendChild(el('a', {
-            attrs: { href: src, rel: 'external', target: '_blank', 'data-external': 'true' },
+          li.appendChild(el('a', {
+            class: 'bg-source-link',
+            attrs: { href: src, rel: 'external noreferrer', target: '_blank', 'data-external': 'true' },
             text: src,
           }));
         } else {
-          wrap.appendChild(document.createTextNode(src));
+          li.textContent = src;
         }
-      });
-      addKv(t('station.sources'), wrap);
+        list.appendChild(li);
+      }
+      prose.appendChild(list);
     }
-    p.appendChild(dl);
+    if (prose.children.length) bg.appendChild(prose);
+
+    p.appendChild(bg);
     grid.appendChild(p);
   }
 
   root.appendChild(grid);
 
-  // Edit on GitHub
+  // Suggest an update. Two affordances:
+  //   • "Edit on GitHub" — opens the YAML in the web editor. After commit,
+  //     GitHub auto-loads .github/pull_request_template.md into the PR.
+  //   • "Update template" — opens the template directly so contributors can
+  //     read the questions BEFORE editing (authorization, sources, etc.).
   const tools = el('div', { class: 'station-actions' });
   tools.style.marginBlockStart = '1.75rem';
   tools.appendChild(el('a', {
     class: 'btn btn-ghost',
-    attrs: { href: editOnGithubUrl(row.uuid, row.shard), rel: 'external', target: '_blank', 'data-external': 'true' },
+    attrs: { href: editOnGithubUrl(row.uuid, row.shard), rel: 'external noreferrer', target: '_blank', 'data-external': 'true' },
     text: t('station.edit_on_github') + ' ↗',
+  }));
+  tools.appendChild(el('a', {
+    class: 'btn btn-ghost',
+    attrs: { href: prTemplateUrl(), rel: 'external noreferrer', target: '_blank', 'data-external': 'true' },
+    text: t('station.update_template') + ' ↗',
   }));
   root.appendChild(tools);
 

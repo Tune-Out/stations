@@ -29,15 +29,35 @@ export function stationUrl(uuid: string, shard: string, locale: Locale): string 
   return `/${locale}/station/${uuid}`;
 }
 
+// Defaults match the station-data repo (Tune-Out/stations). Override via the
+// build env (PUBLIC_GH_OWNER / PUBLIC_GH_REPO / PUBLIC_GH_BRANCH) if you fork.
+const DEFAULT_OWNER  = 'Tune-Out';
+const DEFAULT_REPO   = 'stations';
+const DEFAULT_BRANCH = 'main';
+
+function ghOwner():  string { return (import.meta.env.PUBLIC_GH_OWNER  as string | undefined) ?? DEFAULT_OWNER; }
+function ghRepo():   string { return (import.meta.env.PUBLIC_GH_REPO   as string | undefined) ?? DEFAULT_REPO; }
+function ghBranch(): string { return (import.meta.env.PUBLIC_GH_BRANCH as string | undefined) ?? DEFAULT_BRANCH; }
+
 export function editOnGithubUrl(uuid: string, shard: string): string {
-  const owner = (import.meta.env.PUBLIC_GH_OWNER as string | undefined) ?? 'tune-out';
-  const repo = (import.meta.env.PUBLIC_GH_REPO as string | undefined) ?? 'catalog';
-  const branch = (import.meta.env.PUBLIC_GH_BRANCH as string | undefined) ?? 'main';
-  return `https://github.com/${owner}/${repo}/edit/${branch}/data/stations/${shard}/${uuid}.yaml`;
+  // GitHub's web editor flow: opening this URL drops the user into an edit
+  // view on the file. When they commit, GitHub redirects them to a "compare
+  // & create pull request" page where the repo's
+  // .github/pull_request_template.md is auto-loaded into the body.
+  return `https://github.com/${ghOwner()}/${ghRepo()}/edit/${ghBranch()}/data/stations/${shard}/${uuid}.yaml`;
+}
+
+/** Read-only "View source" link for a station YAML (used by sourcing tools). */
+export function viewOnGithubUrl(uuid: string, shard: string): string {
+  return `https://github.com/${ghOwner()}/${ghRepo()}/blob/${ghBranch()}/data/stations/${shard}/${uuid}.yaml`;
+}
+
+/** Public URL of the PR template — links from the UI take the user here so
+ *  they can read the questions before clicking through to "Edit". */
+export function prTemplateUrl(): string {
+  return `https://github.com/${ghOwner()}/${ghRepo()}/blob/${ghBranch()}/.github/pull_request_template.md`;
 }
 
 export function repoUrl(): string {
-  const owner = (import.meta.env.PUBLIC_GH_OWNER as string | undefined) ?? 'tune-out';
-  const repo = (import.meta.env.PUBLIC_GH_REPO as string | undefined) ?? 'catalog';
-  return `https://github.com/${owner}/${repo}`;
+  return `https://github.com/${ghOwner()}/${ghRepo()}`;
 }
