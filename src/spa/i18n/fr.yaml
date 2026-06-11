@@ -1,0 +1,791 @@
+# ─────────────────────────────────────────────────────────────────────────
+# Tune Out — UI translations for: Français — French (fr)
+# ─────────────────────────────────────────────────────────────────────────
+
+# This file has two sections:
+
+#   • `strings:` — UI text used throughout the catalog. Translate the
+#     values; leave the keys untouched. Tokens like `{name}` and `{n}`
+#     are placeholders the runtime substitutes — preserve them verbatim,
+#     and keep any inline HTML (`<code>`, `<a>` …) intact.
+
+#   • `tags:` — labels for the genre/tag chips. The values here are
+#     regenerated from `scripts/build-tag-i18n.ts` whenever someone runs
+#     `npm run build:tag-i18n`, so permanent edits should go in that
+#     script's `TAG_TRANSLATIONS` table. The keys are slugs and never
+#     change.
+
+# To contribute a translation:
+#   1. Click the pencil (✎) in GitHub's top-right to edit this file.
+#   2. Change values, not keys, and keep `{placeholders}` intact.
+#   3. Commit; GitHub will offer to open a pull request automatically.
+
+# GitHub's pull-request walkthrough: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests
+# ─────────────────────────────────────────────────────────────────────────
+
+strings:
+  # UI strings. Translate the values; keep the keys and any {placeholders}.
+  # Page <title> + OpenGraph title used by the static shells.
+  # English: Tune Out
+  app.title: Tune Out
+  # OpenGraph description / fallback tagline.
+  # English: Stream internet radio.
+  app.tagline: Écoutez la radio en ligne.
+  # Sidebar nav — Home link label.
+  # English: Home
+  nav.home: Accueil
+  # Sidebar nav — Browse link label.
+  # English: Browse
+  nav.browse: Parcourir
+  # Sidebar nav — Search link label.
+  # English: Search
+  nav.search: Rechercher
+  # Sidebar nav — Downloads link label.
+  # English: Downloads
+  nav.downloads: Téléchargements
+  # Sidebar nav — About link label.
+  # English: About
+  nav.about: À propos
+  # Sidebar section heading: recently played stations.
+  # English: Recents
+  section.recents: Récents
+  # Sidebar section heading: favorited stations.
+  # English: Favorites
+  section.favorites: Favoris
+  # Home section heading: most popular stations (legacy — replaced by worldwide / in_language).
+  # English: Top stations
+  section.top_stations: Stations populaires
+  # Home view: heading for the global Top Stations rail.
+  # English: Top Stations Worldwide
+  section.top_stations_worldwide: Stations populaires dans le monde
+  # Home view: heading for the per-locale Top Stations rail. `{language}` is the locale's native name.
+  # English: Top Stations in {language}
+  section.top_stations_in_language: Stations populaires en {language}
+  # Home/Browse heading: popular-countries grid.
+  # English: Browse by country
+  section.popular_countries: Parcourir par pays
+  # Home/Browse heading: popular-tags chip row.
+  # English: Browse by tag
+  section.popular_tags: Parcourir par tag
+  # Home/Browse heading: popular-languages chip row.
+  # English: Browse by language
+  section.popular_languages: Parcourir par langue
+  # Search-results section heading.
+  # English: Results
+  section.results: Résultats
+  # Empty-state heading when no results match.
+  # English: No results.
+  section.no_results: Aucun résultat.
+  # Home heading: pick-up-where-you-left-off rail.
+  # English: Continue listening
+  section.continue_listening: Continuer l’écoute
+  # Home hero headline.
+  # English: Every station,
+  #in one quiet catalog.
+  home.hero.title: |-
+    Toutes les stations,
+    dans un seul catalogue.
+  # Home hero subtitle (under the headline).
+  # English: Search, listen, share — no account, no tracking. {count} stations and counting.
+  home.hero.lede: Cherchez, écoutez, partagez — sans compte, sans suivi. {count} stations et plus encore.
+  # Search input placeholder — compact top-bar input.
+  # English: Search stations…
+  search.placeholder: Rechercher une station…
+  # Search input placeholder — full Search view input.
+  # English: Search by name, tag, country, language…
+  search.placeholder.global: Cherchez par nom, tag, pays, langue…
+  # Search filter label: country.
+  # English: Country
+  search.filter.country: Pays
+  # Search filter label: codec (mp3 / aac / ogg …).
+  # English: Codec
+  search.filter.codec: Codec
+  # Search filter label: spoken language.
+  # English: Language
+  search.filter.language: Langue
+  # Search filter label: editorial nature (public / community …).
+  # English: Station type
+  search.filter.nature: Type de station
+  # Search filter label: only show stations the last health check says are up.
+  # English: Online only
+  search.filter.online_only: En ligne uniquement
+  # Search filters: "Clear filters" button label.
+  # English: Clear
+  search.clear: Effacer
+  # Search sort dropdown label.
+  # English: Sort by
+  search.sort.label: Trier par
+  # Search sort option — relevance (FTS5 rank).
+  # English: Most relevant
+  search.sort.relevance: Plus pertinents
+  # Search sort option — most clicks.
+  # English: Most popular
+  search.sort.popular: Plus populaires
+  # Search sort option — recent vote velocity.
+  # English: Trending
+  search.sort.trending: Tendance
+  # Search sort option — alphabetical.
+  # English: Name (A-Z)
+  search.sort.name: Nom (A-Z)
+  # Search sort option — bitrate descending.
+  # English: Highest bitrate
+  search.sort.bitrate: Débit le plus élevé
+  # Search sort option — last-changed timestamp.
+  # English: Recently updated
+  search.sort.fresh: Récemment mis à jour
+  # Search sort option — randomised.
+  # English: Shuffle
+  search.sort.shuffle: Aléatoire
+  # Search view empty state (no query yet).
+  # English: Try a name, a country, a tag, or a language.
+  search.empty: Essayez un nom, un pays, un tag ou une langue.
+  # One-liner under the search box explaining supported syntax.
+  # English: Tip
+  search.syntax_hint: Astuce
+  # Result count, plural. Uses `{n}` (e.g. "{n} stations").
+  # English: {count} results
+  search.count: "{count} résultats"
+  # Result count, singular form.
+  # English: 1 result
+  search.count_one: 1 résultat
+  # Station detail: Play button label.
+  # English: Play
+  station.play: Écouter
+  # Station detail: Pause button label.
+  # English: Pause
+  station.pause: Pause
+  # Station detail: Add-to-favorites button label.
+  # English: Favorite
+  station.favorite: Ajouter aux favoris
+  # Station detail: Remove-from-favorites button label.
+  # English: Remove favorite
+  station.unfavorite: Retirer des favoris
+  # Station detail: link to the station's own homepage.
+  # English: Visit homepage
+  station.visit_homepage: Site officiel
+  # Station detail: opens the YAML in GitHub's web editor.
+  # English: Edit on GitHub
+  station.edit_on_github: Modifier sur GitHub
+  # Station detail: link to the PR template for update requests.
+  # English: View update template
+  station.update_template: Voir le modèle de mise à jour
+  # Station detail: status badge — last health check OK.
+  # English: Online
+  station.online: En ligne
+  # Station detail: status badge — last health check failed.
+  # English: Offline
+  station.offline: Hors ligne
+  # Station detail: label for the raw audio stream URL row.
+  # English: Stream URL
+  station.stream_url: URL du flux
+  # Station detail: heading for the tag-chip row.
+  # English: Tags
+  station.tags: Tags
+  # Station detail: codec metadata label.
+  # English: Codec
+  station.codec: Codec
+  # Station detail: bitrate metadata label.
+  # English: Bitrate
+  station.bitrate: Débit
+  # Station detail: bitrate unit suffix (kbps).
+  # English: {n} kbps
+  station.bitrate_kbps: "{n} kbps"
+  # Station detail: country metadata label.
+  # English: Country
+  station.country: Pays
+  # Station detail: language metadata label.
+  # English: Language
+  station.language: Langue
+  # Station detail: upstream vote count label.
+  # English: Votes
+  station.votes: Votes
+  # Station detail: city/region row label.
+  # English: Location
+  station.location: Emplacement
+  # Station detail: editorial background / history heading.
+  # English: Background
+  station.background: Contexte
+  # Station detail: nature (public / community / commercial …) label.
+  # English: Station type
+  station.nature: Type de station
+  # Station detail: operator / parent-org row label.
+  # English: Operator
+  station.operator: Opérateur
+  # Station detail: network/affiliation chips row label.
+  # English: Affiliations
+  station.affiliations: Affiliations
+  # Station detail: target audience row label.
+  # English: Audience
+  station.audience: Public
+  # Station detail: programming format row label.
+  # English: Format
+  station.format: Format
+  # Station detail: editorial notes row label.
+  # English: Notes
+  station.notes: Notes
+  # Station detail: citation/source list heading.
+  # English: Sources
+  station.sources: Sources
+  # Station detail: toggle to reveal the raw stream URL.
+  # English: Show URL
+  station.show_url: Afficher l’URL
+  # Station detail: open the station's lat/lon in a map app.
+  # English: Open in OpenStreetMap
+  station.open_in_map: Ouvrir dans OpenStreetMap
+  # Browse view: page title.
+  # English: Browse the catalog.
+  browse.title: Explorez le catalogue.
+  # Browse view: countries facet section heading.
+  # English: Countries
+  browse.countries: Pays
+  # Browse view: tags facet section heading.
+  # English: Tags
+  browse.tags: Tags
+  # Browse view: languages facet section heading.
+  # English: Languages
+  browse.languages: Langues
+  # Sticky player bar: "Now playing" preamble.
+  # English: Now playing
+  player.now_playing: En cours de lecture
+  # Sticky player bar: empty state (no station selected).
+  # English: No station selected.
+  player.no_station: Aucune station sélectionnée.
+  # Sticky player bar: status while a stream is loading.
+  # English: Connecting…
+  player.connecting: Connexion…
+  # Sticky player bar: stream error state.
+  # English: Stream error
+  player.error: Erreur de flux
+  # Sticky player bar: previous-track button label.
+  # English: Previous
+  player.previous: Précédent
+  # Sticky player bar: next-track button label.
+  # English: Next
+  player.next: Suivant
+  # Sticky player bar: volume slider aria-label.
+  # English: Volume
+  player.volume: Volume
+  # Sticky player bar: open the current station's detail page.
+  # English: Open station page
+  player.open_station: Ouvrir la page de la station
+  # Sticky player bar: collapse on mobile.
+  # English: Minimize
+  player.minimize: Réduire
+  # Sticky player bar: expand from the minimised peek.
+  # English: Expand
+  player.expand: Agrandir
+  # Downloads view: page title.
+  # English: Take the catalog with you.
+  downloads.title: Emportez le catalogue partout.
+  # Downloads view: page subtitle.
+  # English: Open data — public-domain (CC0). Pick the format you need.
+  downloads.subtitle: Données ouvertes — domaine public (CC0). Choisissez votre format.
+  # Downloads view: column label for artifact size.
+  # English: Size
+  downloads.size: Taille
+  # Downloads view: column label for SHA-256 hash.
+  # English: SHA-256
+  downloads.sha256: SHA-256
+  # Downloads card title — full SQLite database.
+  # English: SQLite database
+  downloads.sqlite.title: Base SQLite
+  # Downloads card subtitle — SQLite.
+  # English: stations.sqlite — full schema with FTS5 and locale columns
+  downloads.sqlite.subtitle: stations.sqlite — schéma complet avec FTS5 et colonnes localisées
+  # Downloads card description — SQLite.
+  # English: A queryable database of every station with a full-text search virtual table that includes localized fields.
+  downloads.sqlite.desc: Base interrogeable de chaque station avec une table virtuelle FTS5 incluant les champs localisés.
+  # Downloads card title — YAML tarball.
+  # English: Zipped YAML
+  downloads.zip.title: YAML compressés (zip)
+  # Downloads card subtitle — YAML tarball.
+  # English: stations.zip — every per-station YAML in the sharded layout
+  downloads.zip.subtitle: stations.zip — un fichier YAML par station, agencé en shards
+  # Downloads card description — YAML tarball.
+  # English: The raw source-of-truth. One file per station; edit and submit a pull request.
+  downloads.zip.desc: La source de vérité brute. Un fichier par station ; modifiez et soumettez une pull request.
+  # Downloads card title — compact JSON dump.
+  # English: Compact JSON
+  downloads.jsongz.title: JSON compact
+  # Downloads card subtitle — compact JSON dump.
+  # English: stations.json.gz — single gzipped array of all stations
+  downloads.jsongz.subtitle: stations.json.gz — tableau JSON unique, compressé
+  # Downloads card description — compact JSON dump.
+  # English: A single concatenated JSON of every record, gzipped. Useful for piping into jq.
+  downloads.jsongz.desc: Un JSON concaténé de toutes les stations, gzippé. Idéal pour jq.
+  # Placeholder when an artifact has not been built yet.
+  # English: Available after the next data build.
+  downloads.available_after_build: Disponible après le prochain build.
+  # Footnote: artifacts attached to GitHub Releases, not Pages.
+  # English: Hosted as a GitHub Release asset:
+  downloads.released_separately: "Hébergé en tant qu’asset de GitHub Release :"
+  # About view: page title (also reused as kicker).
+  # English: About
+  about.title: À propos
+  # About view: lead paragraph.
+  # English: Tune Out is a small, non-commercial, open-source community project. It makes the world's internet radio stations easy to browse, search, and share — and publishes that catalog as fully open data.
+  about.lede: Tune Out est un petit projet open-source non commercial. Il rend les radios internet du monde faciles à parcourir, rechercher et partager — et publie ce catalogue en données entièrement ouvertes.
+  # About section heading — where the data comes from.
+  # English: Where the data comes from
+  about.data.title: D’où viennent les données
+  # About body — where the data comes from.
+  # English: Station metadata comes from a variety of public domain and free data sources, such as wikipedia.org and radio-browser.info.
+  about.data.body: Les métadonnées des stations proviennent de diverses sources libres et du domaine public, comme wikipedia.org et radio-browser.info.
+  # About section heading — license.
+  # English: License
+  about.license.title: Licence
+  # About body — license.
+  # English: Code and data are dedicated to the public domain under CC0 1.0 — the most permissive Creative Commons option.
+  about.license.body: Code et données placés dans le domaine public sous CC0 1.0 — l’option la plus permissive de Creative Commons.
+  # About section heading — privacy.
+  # English: Privacy
+  about.privacy.title: Confidentialité
+  # About body — privacy.
+  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
+  about.privacy.body: Aucun compte, aucun suivi. Récents, favoris et collections vivent dans votre navigateur. Les recherches de pochettes interrogent l’API publique iTunes d’Apple uniquement avec le titre de la chanson — aucun identifiant n’est envoyé.
+  # About section heading — contributing.
+  # English: Contributing translations
+  about.contributing.title: Contribuer aux traductions
+  # About body — contributing.
+  # English: Every station page has an "Edit on GitHub" link. Add per-language description, summary, or keywords in the YAML's `localized:` block — your translation goes live on the next build.
+  about.contributing.body: Chaque station propose un lien « Modifier sur GitHub ». Ajoutez description, résumé ou mots-clés par langue dans le bloc `localized:` du YAML — votre traduction est publiée au prochain build.
+  # Loading screen heading shown during first SQLite download.
+  # English: Loading catalog…
+  loading.title: Chargement du catalogue…
+  # Loading screen subtitle / one-time-download note.
+  # English: Downloading the database — this only happens once.
+  loading.subtitle: Téléchargement de la base — cela ne se produit qu’une fois.
+  # Loading screen text on the warm path (DB from OPFS cache).
+  # English: Loading from cache…
+  loading.cached: Chargement depuis le cache…
+  # Generic error heading when a view fails to render.
+  # English: Something went wrong.
+  error.title: Une erreur s’est produite.
+  # Generic Retry button label on error states.
+  # English: Reload
+  error.retry: Recharger
+  # Footer: non-commercial / no-tracking statement.
+  # English: A non-commercial open-source community project.
+  footer.non_commercial: Un projet communautaire open-source non commercial.
+  # Footer: public-domain license notice.
+  # English: All metadata in this catalog is in the public domain.
+  footer.public_domain: Toutes les métadonnées de ce catalogue sont dans le domaine public.
+  # Footer: anchor label pointing at the source repo.
+  # English: Source on GitHub
+  footer.source: Code source sur GitHub
+  # Footer: credit to radio-browser.info upstream.
+  # English: Data: radio-browser.info
+  footer.upstream: "Données : radio-browser.info"
+  # Theme picker: aria/tooltip label for the picker button.
+  # English: Theme
+  theme.label: Thème
+  # Theme picker option — light.
+  # English: Light
+  theme.light: Clair
+  # Theme picker option — follow OS preference.
+  # English: System
+  theme.system: Système
+  # Theme picker option — dark.
+  # English: Dark
+  theme.dark: Sombre
+  # Theme picker: heading for the visual-skin sub-section.
+  # English: Theme style
+  theme.skin.label: Style de thème
+  # Theme picker: alternate heading for the skin chooser.
+  # English: Choose a style
+  theme.skin.title: Choisissez un style
+  # Skin "Classic" — display name.
+  # English: Classic
+  theme.skin.classic.name: Classique
+  # Skin "Classic" — short description shown beneath the name.
+  # English: The default Tune Out look.
+  theme.skin.classic.description: L'apparence par défaut de Tune Out.
+  # Skin "Minimal" — display name.
+  # English: Minimal
+  theme.skin.minimal.name: Minimal
+  # Skin "Minimal" — short description.
+  # English: Neutral greys, easy on the eyes.
+  theme.skin.minimal.description: Gris neutres, doux pour les yeux.
+  # Skin "Solarpunk" — display name.
+  # English: Solarpunk
+  theme.skin.solarpunk.name: Solarpunk
+  # Skin "Solarpunk" — short description.
+  # English: Sunlit greens and elegant serif headlines.
+  theme.skin.solarpunk.description: Verts solaires et titres serifs élégants.
+  # Skin "Futurist" — display name.
+  # English: Futurist
+  theme.skin.futurist.name: Futuriste
+  # Skin "Futurist" — short description.
+  # English: Neon magenta on near-black, geometric type.
+  theme.skin.futurist.description: Magenta néon sur quasi-noir, typographie géométrique.
+  # Skin "Applish" — display name.
+  # English: Applish
+  theme.skin.applish.name: Applien
+  # Skin "Applish" — short description.
+  # English: Think Different with clean type.
+  theme.skin.applish.description: Inspiré d'apple.com — typo nette, bleu iOS.
+  # Skin "Winamp" — display name.
+  # English: WinAmp
+  theme.skin.winamp.name: WinAmp
+  # Skin "Winamp" — short description.
+  # English: Mid-90s neon-green LED on industrial grey.
+  theme.skin.winamp.description: LED vert néon années 90 sur gris industriel.
+  # Aria/tooltip label for the locale picker button.
+  # English: Language
+  locale.label: Langue
+  # "Other languages…" menu entry — routes to the About page.
+  # English: Other languages…
+  locale.other_languages: Autres langues…
+  # Heading: per-station localized text.
+  # English: Localizing individual stations
+  faq.station_text.title: Localiser une station individuellement
+  # Body paragraph for per-station localization.
+  # English: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  faq.station_text.body: Le YAML de chaque station accepte un bloc optionnel <code>localized:</code> indexé par code de langue. Pour chaque locale, vous pouvez fournir un nom alternatif, une description, un résumé d'une ligne et des mots-clés supplémentaires. Tout champ non rempli retombe sur la donnée canonique en anglais.
+  # Heading: how to get in touch.
+  # English: Where to ask
+  faq.contact.title: Où poser des questions
+  # Body paragraph; the `{repo}` placeholder is replaced with the repo URL.
+  # English: Issues and proposals live on GitHub at {repo}. The repository's README has the maintainer roster.
+  faq.contact.body: Les tickets et propositions se déposent sur GitHub à {repo}. Le README du dépôt liste les mainteneurs.
+  # About section heading — invite to improve this locale.
+  # English: Improve this language
+  about.improve_translation.title: Améliorer cette langue
+  # About paragraph explaining where translations live.
+  # English: Translations are stored in a single YAML file per locale. Open the current language file on GitHub, edit the values under the `strings` section, and submit a pull request.
+  about.improve_translation.body: Les traductions sont stockées dans un seul fichier YAML par locale. Ouvrez le fichier de la langue actuelle sur GitHub, modifiez les valeurs sous la section `strings`, puis soumettez une pull request.
+  # Label inside the GitHub-edit CTA button on About (file path is appended in code).
+  # English: Edit on GitHub
+  about.improve_translation.edit: Modifier sur GitHub
+  # Anchor label for the GitHub PR-walkthrough docs link.
+  # English: GitHub: proposing changes with pull requests
+  about.improve_translation.pr_docs: "GitHub : proposer des modifications via une pull request"
+  # About view: sub-heading for the "Adding a new language" blurb.
+  # English: Adding a new language
+  about.add_language.title: Ajouter une nouvelle langue
+  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
+  # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  about.add_language.body: Pour ajouter une nouvelle langue, ouvrez une pull request qui copie <code>src/spa/i18n/en.yaml</code> vers un fichier nommé avec le code BCP-47 de la langue cible &mdash; par exemple, renommez-le <code>uk.yaml</code> pour ajouter l'ukrainien &mdash; puis traduisez les valeurs sous <code>strings:</code>. Conservez les clés, les commentaires et les <code>{placeholders}</code> intacts. Le catalogue détecte la nouvelle locale automatiquement une fois le fichier fusionné.
+  # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
+  # English: Add to Home Screen
+  install.button.label: Ajouter à l'écran d'accueil
+  # Install modal: heading.
+  # English: Add Tune Out to your Home Screen
+  install.title: Ajouter Tune Out à l'écran d'accueil
+  # Install modal: explanatory body (no placeholders).
+  # English: Install the catalog as an app for full-screen playback and one-tap access from your Home Screen. No App Store account needed.
+  install.body: Installez le catalogue comme une application pour une lecture plein écran et un accès en un toucher depuis votre écran d'accueil. Aucun compte App Store requis.
+  # Install modal — iOS step 1. `{shareIcon}` is replaced with an inline share-icon SVG.
+  # English: Tap the Share button {shareIcon} in Safari's toolbar.
+  install.ios.step1: Appuyez sur le bouton Partager {shareIcon} dans la barre de Safari.
+  # Install modal — iOS step 2 (HTML allowed; uses <strong> for the menu item name).
+  # English: Scroll down and choose <strong>Add to Home Screen</strong>.
+  install.ios.step2: Faites défiler et choisissez <strong>Sur l'écran d'accueil</strong>.
+  # Install modal — iOS step 3 (HTML allowed).
+  # English: Tap <strong>Add</strong> in the top-right corner. Tune Out will appear on your Home Screen.
+  install.ios.step3: Appuyez sur <strong>Ajouter</strong> en haut à droite. Tune Out apparaîtra sur votre écran d'accueil.
+  # Install modal — Android-non-Chromium step 1. `{shareIcon}` becomes the browser menu icon.
+  # English: Open your browser's menu {shareIcon}.
+  install.android.step1: Ouvrez le menu de votre navigateur {shareIcon}.
+  # Install modal — Android-non-Chromium step 2 (HTML allowed).
+  # English: Tap <strong>Install app</strong> (or <strong>Add to Home screen</strong>).
+  install.android.step2: Appuyez sur <strong>Installer l'application</strong> (ou <strong>Ajouter à l'écran d'accueil</strong>).
+  # Install modal — Android-non-Chromium step 3 (HTML allowed).
+  # English: Confirm; Tune Out will appear in your app drawer.
+  install.android.step3: Confirmez ; Tune Out apparaîtra dans votre tiroir d'applications.
+  # Install modal: Close / Done button label (also the close-icon aria-label).
+  # English: Close
+  install.close: Fermer
+tags:
+  # Genre / tag labels — shown on chips, filters, and station detail.
+  # These values are owned by scripts/build-tag-i18n.ts; edits here will
+  # be overwritten the next time `npm run build:tag-i18n` runs. Make
+  # permanent edits in TAG_TRANSLATIONS inside that script.
+  # Label for the "pop" tag.
+  # English: Pop
+  pop: Pop
+  # Label for the "rock" tag.
+  # English: Rock
+  rock: Rock
+  # Label for the "jazz" tag.
+  # English: Jazz
+  jazz: Jazz
+  # Label for the "classical" tag.
+  # English: Classical
+  classical: Classique
+  # Label for the "blues" tag.
+  # English: Blues
+  blues: Blues
+  # Label for the "folk" tag.
+  # English: Folk
+  folk: Folk
+  # Label for the "country" tag.
+  # English: Country
+  country: Country
+  # Label for the "electronic" tag.
+  # English: Electronic
+  electronic: Électronique
+  # Label for the "dance" tag.
+  # English: Dance
+  dance: Dance
+  # Label for the "house" tag.
+  # English: House
+  house: House
+  # Label for the "techno" tag.
+  # English: Techno
+  techno: Techno
+  # Label for the "trance" tag.
+  # English: Trance
+  trance: Trance
+  # Label for the "edm" tag.
+  # English: EDM
+  edm: EDM
+  # Label for the "ambient" tag.
+  # English: Ambient
+  ambient: Ambient
+  # Label for the "lounge" tag.
+  # English: Lounge
+  lounge: Lounge
+  # Label for the "chillout" tag.
+  # English: Chillout
+  chillout: Chillout
+  # Label for the "downtempo" tag.
+  # English: Downtempo
+  downtempo: Downtempo
+  # Label for the "drum-and-bass" tag.
+  # English: Drum & Bass
+  drum-and-bass: Drum & Bass
+  # Label for the "dubstep" tag.
+  # English: Dubstep
+  dubstep: Dubstep
+  # Label for the "hip-hop" tag.
+  # English: Hip-Hop
+  hip-hop: Hip-Hop
+  # Label for the "rap" tag.
+  # English: Rap
+  rap: Rap
+  # Label for the "r-and-b" tag.
+  # English: R&B
+  r-and-b: R&B
+  # Label for the "soul" tag.
+  # English: Soul
+  soul: Soul
+  # Label for the "funk" tag.
+  # English: Funk
+  funk: Funk
+  # Label for the "disco" tag.
+  # English: Disco
+  disco: Disco
+  # Label for the "reggae" tag.
+  # English: Reggae
+  reggae: Reggae
+  # Label for the "reggaeton" tag.
+  # English: Reggaeton
+  reggaeton: Reggaeton
+  # Label for the "ska" tag.
+  # English: Ska
+  ska: Ska
+  # Label for the "metal" tag.
+  # English: Metal
+  metal: Metal
+  # Label for the "hardcore" tag.
+  # English: Hardcore
+  hardcore: Hardcore
+  # Label for the "punk" tag.
+  # English: Punk
+  punk: Punk
+  # Label for the "indie" tag.
+  # English: Indie
+  indie: Indé
+  # Label for the "alternative" tag.
+  # English: Alternative
+  alternative: Alternatif
+  # Label for the "classic-rock" tag.
+  # English: Classic Rock
+  classic-rock: Rock classique
+  # Label for the "soft-rock" tag.
+  # English: Soft Rock
+  soft-rock: Soft rock
+  # Label for the "hard-rock" tag.
+  # English: Hard Rock
+  hard-rock: Hard rock
+  # Label for the "prog-rock" tag.
+  # English: Prog Rock
+  prog-rock: Rock progressif
+  # Label for the "pop-rock" tag.
+  # English: Pop Rock
+  pop-rock: Pop rock
+  # Label for the "gospel" tag.
+  # English: Gospel
+  gospel: Gospel
+  # Label for the "christian-music" tag.
+  # English: Christian
+  christian-music: Chrétien
+  # Label for the "opera" tag.
+  # English: Opera
+  opera: Opéra
+  # Label for the "instrumental" tag.
+  # English: Instrumental
+  instrumental: Instrumental
+  # Label for the "soundtrack" tag.
+  # English: Soundtrack
+  soundtrack: Bande originale
+  # Label for the "smooth-jazz" tag.
+  # English: Smooth Jazz
+  smooth-jazz: Smooth Jazz
+  # Label for the "synthpop" tag.
+  # English: Synthpop
+  synthpop: Synthpop
+  # Label for the "new-wave" tag.
+  # English: New Wave
+  new-wave: New Wave
+  # Label for the "oldies" tag.
+  # English: Oldies
+  oldies: Vieux tubes
+  # Label for the "hits" tag.
+  # English: Hits
+  hits: Tubes
+  # Label for the "top-40" tag.
+  # English: Top 40
+  top-40: Top 40
+  # Label for the "classic-hits" tag.
+  # English: Classic Hits
+  classic-hits: Tubes classiques
+  # Label for the "adult-contemporary" tag.
+  # English: Adult Contemporary
+  adult-contemporary: Adulte contemporain
+  # Label for the "ballad" tag.
+  # English: Ballads
+  ballad: Ballades
+  # Label for the "romantic" tag.
+  # English: Romantic
+  romantic: Romantique
+  # Label for the "retro" tag.
+  # English: Retro
+  retro: Rétro
+  # Label for the "experimental" tag.
+  # English: Experimental
+  experimental: Expérimental
+  # Label for the "lofi" tag.
+  # English: Lo-Fi
+  lofi: Lo-Fi
+  # Label for the "latin" tag.
+  # English: Latin
+  latin: Latino
+  # Label for the "salsa" tag.
+  # English: Salsa
+  salsa: Salsa
+  # Label for the "cumbia" tag.
+  # English: Cumbia
+  cumbia: Cumbia
+  # Label for the "merengue" tag.
+  # English: Merengue
+  merengue: Merengue
+  # Label for the "tropical" tag.
+  # English: Tropical
+  tropical: Tropical
+  # Label for the "regional-mexican" tag.
+  # English: Regional Mexican
+  regional-mexican: Régional mexicain
+  # Label for the "bollywood" tag.
+  # English: Bollywood
+  bollywood: Bollywood
+  # Label for the "k-pop" tag.
+  # English: K-Pop
+  k-pop: K-Pop
+  # Label for the "j-pop" tag.
+  # English: J-Pop
+  j-pop: J-Pop
+  # Label for the "anime" tag.
+  # English: Anime
+  anime: Anime
+  # Label for the "arabic-music" tag.
+  # English: Arabic
+  arabic-music: Arabe
+  # Label for the "world" tag.
+  # English: World
+  world: Musique du monde
+  # Label for the "50s" tag.
+  # English: 50s
+  50s: Années 50
+  # Label for the "60s" tag.
+  # English: 60s
+  60s: Années 60
+  # Label for the "70s" tag.
+  # English: 70s
+  70s: Années 70
+  # Label for the "80s" tag.
+  # English: 80s
+  80s: Années 80
+  # Label for the "90s" tag.
+  # English: 90s
+  90s: Années 90
+  # Label for the "2000s" tag.
+  # English: 2000s
+  2000s: Années 2000
+  # Label for the "2010s" tag.
+  # English: 2010s
+  2010s: Années 2010
+  # Label for the "news" tag.
+  # English: News
+  news: Actualités
+  # Label for the "news-talk" tag.
+  # English: News & Talk
+  news-talk: Actu et débats
+  # Label for the "talk" tag.
+  # English: Talk
+  talk: Parlé
+  # Label for the "sports" tag.
+  # English: Sports
+  sports: Sports
+  # Label for the "sports-talk" tag.
+  # English: Sports Talk
+  sports-talk: Débats sportifs
+  # Label for the "comedy" tag.
+  # English: Comedy
+  comedy: Humour
+  # Label for the "public-radio" tag.
+  # English: Public Radio
+  public-radio: Radio publique
+  # Label for the "community-radio" tag.
+  # English: Community Radio
+  community-radio: Radio communautaire
+  # Label for the "local-news" tag.
+  # English: Local News
+  local-news: Actualités locales
+  # Label for the "religious" tag.
+  # English: Religious
+  religious: Religieux
+  # Label for the "catholic" tag.
+  # English: Catholic
+  catholic: Catholique
+  # Label for the "islamic" tag.
+  # English: Islamic
+  islamic: Islamique
+  # Label for the "culture" tag.
+  # English: Culture
+  culture: Culture
+  # Label for the "education" tag.
+  # English: Education
+  education: Éducation
+  # Label for the "politics" tag.
+  # English: Politics
+  politics: Politique
+  # Label for the "business" tag.
+  # English: Business
+  business: Affaires
+  # Label for the "lifestyle" tag.
+  # English: Lifestyle
+  lifestyle: Art de vivre
+  # Label for the "kids" tag.
+  # English: Kids
+  kids: Enfants
+  # Label for the "podcast" tag.
+  # English: Podcast
+  podcast: Podcast
+  # Label for the "party" tag.
+  # English: Party
+  party: Soirée
+  # Label for the "sleep" tag.
+  # English: Sleep
+  sleep: Sommeil

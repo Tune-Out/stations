@@ -52,6 +52,12 @@ export function viewOnGithubUrl(uuid: string, shard: string): string {
   return `https://github.com/${ghOwner()}/${ghRepo()}/blob/${ghBranch()}/data/stations/${shard}/${uuid}.yaml`;
 }
 
+/** "Edit on GitHub" link for an arbitrary repo-relative file. Used by the
+ *  About page to deep-link contributors to the current locale's bundle. */
+export function editRepoFileUrl(repoRelativePath: string): string {
+  return `https://github.com/${ghOwner()}/${ghRepo()}/edit/${ghBranch()}/${repoRelativePath}`;
+}
+
 /** Public URL of the PR template — links from the UI take the user here so
  *  they can read the questions before clicking through to "Edit". */
 export function prTemplateUrl(): string {

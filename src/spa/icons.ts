@@ -22,6 +22,8 @@ import favoriteBorder from './icons/svg/favorite_border.svg?raw';
 import help from './icons/svg/help.svg?raw';
 import home from './icons/svg/home.svg?raw';
 import info from './icons/svg/info.svg?raw';
+import installMobile from './icons/svg/install_mobile.svg?raw';
+import iosShare from './icons/svg/ios_share.svg?raw';
 import language from './icons/svg/language.svg?raw';
 import lightMode from './icons/svg/light_mode.svg?raw';
 import moreVert from './icons/svg/more_vert.svg?raw';
@@ -43,14 +45,17 @@ const GITHUB_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" 
 export type IconName =
   | 'check' | 'close' | 'contrast' | 'dark_mode' | 'download' | 'edit'
   | 'expand_more' | 'explore' | 'favorite' | 'favorite_border' | 'github'
-  | 'help' | 'home' | 'info' | 'language' | 'light_mode' | 'more_vert'
-  | 'open_in_new' | 'pause' | 'place' | 'play_arrow' | 'radio' | 'search'
-  | 'shuffle' | 'skip_next' | 'skip_previous' | 'sort' | 'tag' | 'volume_up';
+  | 'help' | 'home' | 'info' | 'install_mobile' | 'ios_share' | 'language'
+  | 'light_mode' | 'more_vert' | 'open_in_new' | 'pause' | 'place'
+  | 'play_arrow' | 'radio' | 'search' | 'shuffle' | 'skip_next'
+  | 'skip_previous' | 'sort' | 'tag' | 'volume_up';
 
 const SVGS: Record<IconName, string> = {
   check, close, contrast, dark_mode: darkMode, download, edit,
   expand_more: expandMore, explore, favorite, favorite_border: favoriteBorder,
-  github: GITHUB_SVG, help, home, info, language, light_mode: lightMode,
+  github: GITHUB_SVG, help, home, info,
+  install_mobile: installMobile, ios_share: iosShare,
+  language, light_mode: lightMode,
   more_vert: moreVert, open_in_new: openInNew, pause, place,
   play_arrow: playArrow, radio, search, shuffle, skip_next: skipNext,
   skip_previous: skipPrevious, sort, tag, volume_up: volumeUp,

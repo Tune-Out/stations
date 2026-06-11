@@ -1,0 +1,791 @@
+# ─────────────────────────────────────────────────────────────────────────
+# Tune Out — UI translations for: Русский — Russian (ru)
+# ─────────────────────────────────────────────────────────────────────────
+
+# This file has two sections:
+
+#   • `strings:` — UI text used throughout the catalog. Translate the
+#     values; leave the keys untouched. Tokens like `{name}` and `{n}`
+#     are placeholders the runtime substitutes — preserve them verbatim,
+#     and keep any inline HTML (`<code>`, `<a>` …) intact.
+
+#   • `tags:` — labels for the genre/tag chips. The values here are
+#     regenerated from `scripts/build-tag-i18n.ts` whenever someone runs
+#     `npm run build:tag-i18n`, so permanent edits should go in that
+#     script's `TAG_TRANSLATIONS` table. The keys are slugs and never
+#     change.
+
+# To contribute a translation:
+#   1. Click the pencil (✎) in GitHub's top-right to edit this file.
+#   2. Change values, not keys, and keep `{placeholders}` intact.
+#   3. Commit; GitHub will offer to open a pull request automatically.
+
+# GitHub's pull-request walkthrough: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests
+# ─────────────────────────────────────────────────────────────────────────
+
+strings:
+  # UI strings. Translate the values; keep the keys and any {placeholders}.
+  # Page <title> + OpenGraph title used by the static shells.
+  # English: Tune Out
+  app.title: Tune Out
+  # OpenGraph description / fallback tagline.
+  # English: Stream internet radio.
+  app.tagline: Слушайте интернет-радио.
+  # Sidebar nav — Home link label.
+  # English: Home
+  nav.home: Главная
+  # Sidebar nav — Browse link label.
+  # English: Browse
+  nav.browse: Обзор
+  # Sidebar nav — Search link label.
+  # English: Search
+  nav.search: Поиск
+  # Sidebar nav — Downloads link label.
+  # English: Downloads
+  nav.downloads: Загрузки
+  # Sidebar nav — About link label.
+  # English: About
+  nav.about: О проекте
+  # Sidebar section heading: recently played stations.
+  # English: Recents
+  section.recents: Недавнее
+  # Sidebar section heading: favorited stations.
+  # English: Favorites
+  section.favorites: Избранное
+  # Home section heading: most popular stations (legacy — replaced by worldwide / in_language).
+  # English: Top stations
+  section.top_stations: Популярные станции
+  # Home view: heading for the global Top Stations rail.
+  # English: Top Stations Worldwide
+  section.top_stations_worldwide: Популярные станции по всему миру
+  # Home view: heading for the per-locale Top Stations rail. `{language}` is the locale's native name.
+  # English: Top Stations in {language}
+  section.top_stations_in_language: Популярные станции на {language}
+  # Home/Browse heading: popular-countries grid.
+  # English: Browse by country
+  section.popular_countries: По странам
+  # Home/Browse heading: popular-tags chip row.
+  # English: Browse by tag
+  section.popular_tags: По тегам
+  # Home/Browse heading: popular-languages chip row.
+  # English: Browse by language
+  section.popular_languages: По языкам
+  # Search-results section heading.
+  # English: Results
+  section.results: Результаты
+  # Empty-state heading when no results match.
+  # English: No results.
+  section.no_results: Ничего не найдено.
+  # Home heading: pick-up-where-you-left-off rail.
+  # English: Continue listening
+  section.continue_listening: Продолжить прослушивание
+  # Home hero headline.
+  # English: Every station,
+  #in one quiet catalog.
+  home.hero.title: |-
+    Каждая станция,
+    в одном тихом каталоге.
+  # Home hero subtitle (under the headline).
+  # English: Search, listen, share — no account, no tracking. {count} stations and counting.
+  home.hero.lede: Ищите, слушайте, делитесь — без аккаунта, без трекинга. {count} станций и продолжаем.
+  # Search input placeholder — compact top-bar input.
+  # English: Search stations…
+  search.placeholder: Поиск станций…
+  # Search input placeholder — full Search view input.
+  # English: Search by name, tag, country, language…
+  search.placeholder.global: Поиск по названию, тегу, стране, языку…
+  # Search filter label: country.
+  # English: Country
+  search.filter.country: Страна
+  # Search filter label: codec (mp3 / aac / ogg …).
+  # English: Codec
+  search.filter.codec: Кодек
+  # Search filter label: spoken language.
+  # English: Language
+  search.filter.language: Язык
+  # Search filter label: editorial nature (public / community …).
+  # English: Station type
+  search.filter.nature: Тип станции
+  # Search filter label: only show stations the last health check says are up.
+  # English: Online only
+  search.filter.online_only: Только онлайн
+  # Search filters: "Clear filters" button label.
+  # English: Clear
+  search.clear: Очистить
+  # Search sort dropdown label.
+  # English: Sort by
+  search.sort.label: Сортировка
+  # Search sort option — relevance (FTS5 rank).
+  # English: Most relevant
+  search.sort.relevance: По релевантности
+  # Search sort option — most clicks.
+  # English: Most popular
+  search.sort.popular: По популярности
+  # Search sort option — recent vote velocity.
+  # English: Trending
+  search.sort.trending: В тренде
+  # Search sort option — alphabetical.
+  # English: Name (A-Z)
+  search.sort.name: По имени (A-Я)
+  # Search sort option — bitrate descending.
+  # English: Highest bitrate
+  search.sort.bitrate: По битрейту
+  # Search sort option — last-changed timestamp.
+  # English: Recently updated
+  search.sort.fresh: Недавно обновлённые
+  # Search sort option — randomised.
+  # English: Shuffle
+  search.sort.shuffle: В случайном порядке
+  # Search view empty state (no query yet).
+  # English: Try a name, a country, a tag, or a language.
+  search.empty: Попробуйте название, страну, тег или язык.
+  # One-liner under the search box explaining supported syntax.
+  # English: Tip
+  search.syntax_hint: Подсказка
+  # Result count, plural. Uses `{n}` (e.g. "{n} stations").
+  # English: {count} results
+  search.count: "{count} результатов"
+  # Result count, singular form.
+  # English: 1 result
+  search.count_one: 1 результат
+  # Station detail: Play button label.
+  # English: Play
+  station.play: Воспроизвести
+  # Station detail: Pause button label.
+  # English: Pause
+  station.pause: Пауза
+  # Station detail: Add-to-favorites button label.
+  # English: Favorite
+  station.favorite: В избранное
+  # Station detail: Remove-from-favorites button label.
+  # English: Remove favorite
+  station.unfavorite: Убрать из избранного
+  # Station detail: link to the station's own homepage.
+  # English: Visit homepage
+  station.visit_homepage: Открыть сайт
+  # Station detail: opens the YAML in GitHub's web editor.
+  # English: Edit on GitHub
+  station.edit_on_github: Редактировать на GitHub
+  # Station detail: link to the PR template for update requests.
+  # English: View update template
+  station.update_template: Открыть шаблон правки
+  # Station detail: status badge — last health check OK.
+  # English: Online
+  station.online: В эфире
+  # Station detail: status badge — last health check failed.
+  # English: Offline
+  station.offline: Не в эфире
+  # Station detail: label for the raw audio stream URL row.
+  # English: Stream URL
+  station.stream_url: URL потока
+  # Station detail: heading for the tag-chip row.
+  # English: Tags
+  station.tags: Теги
+  # Station detail: codec metadata label.
+  # English: Codec
+  station.codec: Кодек
+  # Station detail: bitrate metadata label.
+  # English: Bitrate
+  station.bitrate: Битрейт
+  # Station detail: bitrate unit suffix (kbps).
+  # English: {n} kbps
+  station.bitrate_kbps: "{n} кбит/с"
+  # Station detail: country metadata label.
+  # English: Country
+  station.country: Страна
+  # Station detail: language metadata label.
+  # English: Language
+  station.language: Язык
+  # Station detail: upstream vote count label.
+  # English: Votes
+  station.votes: Голоса
+  # Station detail: city/region row label.
+  # English: Location
+  station.location: Местоположение
+  # Station detail: editorial background / history heading.
+  # English: Background
+  station.background: Контекст
+  # Station detail: nature (public / community / commercial …) label.
+  # English: Station type
+  station.nature: Тип станции
+  # Station detail: operator / parent-org row label.
+  # English: Operator
+  station.operator: Оператор
+  # Station detail: network/affiliation chips row label.
+  # English: Affiliations
+  station.affiliations: Связи
+  # Station detail: target audience row label.
+  # English: Audience
+  station.audience: Аудитория
+  # Station detail: programming format row label.
+  # English: Format
+  station.format: Формат
+  # Station detail: editorial notes row label.
+  # English: Notes
+  station.notes: Заметки
+  # Station detail: citation/source list heading.
+  # English: Sources
+  station.sources: Источники
+  # Station detail: toggle to reveal the raw stream URL.
+  # English: Show URL
+  station.show_url: Показать URL
+  # Station detail: open the station's lat/lon in a map app.
+  # English: Open in OpenStreetMap
+  station.open_in_map: Открыть в OpenStreetMap
+  # Browse view: page title.
+  # English: Browse the catalog.
+  browse.title: Просмотр каталога.
+  # Browse view: countries facet section heading.
+  # English: Countries
+  browse.countries: Страны
+  # Browse view: tags facet section heading.
+  # English: Tags
+  browse.tags: Теги
+  # Browse view: languages facet section heading.
+  # English: Languages
+  browse.languages: Языки
+  # Sticky player bar: "Now playing" preamble.
+  # English: Now playing
+  player.now_playing: Сейчас играет
+  # Sticky player bar: empty state (no station selected).
+  # English: No station selected.
+  player.no_station: Станция не выбрана.
+  # Sticky player bar: status while a stream is loading.
+  # English: Connecting…
+  player.connecting: Подключение…
+  # Sticky player bar: stream error state.
+  # English: Stream error
+  player.error: Ошибка потока
+  # Sticky player bar: previous-track button label.
+  # English: Previous
+  player.previous: Предыдущая
+  # Sticky player bar: next-track button label.
+  # English: Next
+  player.next: Следующая
+  # Sticky player bar: volume slider aria-label.
+  # English: Volume
+  player.volume: Громкость
+  # Sticky player bar: open the current station's detail page.
+  # English: Open station page
+  player.open_station: Открыть страницу станции
+  # Sticky player bar: collapse on mobile.
+  # English: Minimize
+  player.minimize: Свернуть
+  # Sticky player bar: expand from the minimised peek.
+  # English: Expand
+  player.expand: Развернуть
+  # Downloads view: page title.
+  # English: Take the catalog with you.
+  downloads.title: Забери каталог с собой.
+  # Downloads view: page subtitle.
+  # English: Open data — public-domain (CC0). Pick the format you need.
+  downloads.subtitle: Открытые данные — общественное достояние (CC0). Выбирайте нужный формат.
+  # Downloads view: column label for artifact size.
+  # English: Size
+  downloads.size: Размер
+  # Downloads view: column label for SHA-256 hash.
+  # English: SHA-256
+  downloads.sha256: SHA-256
+  # Downloads card title — full SQLite database.
+  # English: SQLite database
+  downloads.sqlite.title: База SQLite
+  # Downloads card subtitle — SQLite.
+  # English: stations.sqlite — full schema with FTS5 and locale columns
+  downloads.sqlite.subtitle: stations.sqlite — полная схема с FTS5 и колонками локалей
+  # Downloads card description — SQLite.
+  # English: A queryable database of every station with a full-text search virtual table that includes localized fields.
+  downloads.sqlite.desc: Запрашиваемая база каждой станции с виртуальной таблицей FTS5, включающей локализованные поля.
+  # Downloads card title — YAML tarball.
+  # English: Zipped YAML
+  downloads.zip.title: Архив YAML
+  # Downloads card subtitle — YAML tarball.
+  # English: stations.zip — every per-station YAML in the sharded layout
+  downloads.zip.subtitle: stations.zip — по одному YAML на станцию в шардированной раскладке
+  # Downloads card description — YAML tarball.
+  # English: The raw source-of-truth. One file per station; edit and submit a pull request.
+  downloads.zip.desc: Исходный источник. По одному файлу на станцию; отредактируйте и отправьте pull request.
+  # Downloads card title — compact JSON dump.
+  # English: Compact JSON
+  downloads.jsongz.title: Компактный JSON
+  # Downloads card subtitle — compact JSON dump.
+  # English: stations.json.gz — single gzipped array of all stations
+  downloads.jsongz.subtitle: stations.json.gz — один gzip-массив JSON со всеми станциями
+  # Downloads card description — compact JSON dump.
+  # English: A single concatenated JSON of every record, gzipped. Useful for piping into jq.
+  downloads.jsongz.desc: Сцепленный JSON всех записей, сжатый gzip. Удобно работать с jq.
+  # Placeholder when an artifact has not been built yet.
+  # English: Available after the next data build.
+  downloads.available_after_build: Появится после следующей сборки данных.
+  # Footnote: artifacts attached to GitHub Releases, not Pages.
+  # English: Hosted as a GitHub Release asset:
+  downloads.released_separately: "Размещено как ассет GitHub Release:"
+  # About view: page title (also reused as kicker).
+  # English: About
+  about.title: О проекте
+  # About view: lead paragraph.
+  # English: Tune Out is a small, non-commercial, open-source community project. It makes the world's internet radio stations easy to browse, search, and share — and publishes that catalog as fully open data.
+  about.lede: Tune Out — небольшой некоммерческий открытый проект сообщества. Он делает интернет-радио со всего мира удобным для обзора, поиска и обмена — и публикует этот каталог как полностью открытые данные.
+  # About section heading — where the data comes from.
+  # English: Where the data comes from
+  about.data.title: Откуда берутся данные
+  # About body — where the data comes from.
+  # English: Station metadata comes from a variety of public domain and free data sources, such as wikipedia.org and radio-browser.info.
+  about.data.body: Метаданные станций берутся из различных источников в общественном достоянии и свободных источников, таких как wikipedia.org и radio-browser.info.
+  # About section heading — license.
+  # English: License
+  about.license.title: Лицензия
+  # About body — license.
+  # English: Code and data are dedicated to the public domain under CC0 1.0 — the most permissive Creative Commons option.
+  about.license.body: Код и данные посвящены общественному достоянию по CC0 1.0 — самой свободной из опций Creative Commons.
+  # About section heading — privacy.
+  # English: Privacy
+  about.privacy.title: Конфиденциальность
+  # About body — privacy.
+  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
+  about.privacy.body: Никаких аккаунтов и трекинга. Недавнее, избранное и подборки живут у вас в браузере. Поиск обложек обращается к публичному API iTunes Search Apple только по названию песни — никаких идентификаторов не отправляется.
+  # About section heading — contributing.
+  # English: Contributing translations
+  about.contributing.title: Помочь с переводами
+  # About body — contributing.
+  # English: Every station page has an "Edit on GitHub" link. Add per-language description, summary, or keywords in the YAML's `localized:` block — your translation goes live on the next build.
+  about.contributing.body: У каждой страницы станции есть ссылка «Редактировать на GitHub». Добавляйте описания, аннотации и ключевые слова для нужного языка в блок YAML `localized:` — ваш перевод заработает в следующей сборке.
+  # Loading screen heading shown during first SQLite download.
+  # English: Loading catalog…
+  loading.title: Загрузка каталога…
+  # Loading screen subtitle / one-time-download note.
+  # English: Downloading the database — this only happens once.
+  loading.subtitle: Скачиваем базу — это произойдёт лишь один раз.
+  # Loading screen text on the warm path (DB from OPFS cache).
+  # English: Loading from cache…
+  loading.cached: Загрузка из кэша…
+  # Generic error heading when a view fails to render.
+  # English: Something went wrong.
+  error.title: Что-то пошло не так.
+  # Generic Retry button label on error states.
+  # English: Reload
+  error.retry: Перезагрузить
+  # Footer: non-commercial / no-tracking statement.
+  # English: A non-commercial open-source community project.
+  footer.non_commercial: Некоммерческий открытый проект сообщества.
+  # Footer: public-domain license notice.
+  # English: All metadata in this catalog is in the public domain.
+  footer.public_domain: Все метаданные этого каталога находятся в общественном достоянии.
+  # Footer: anchor label pointing at the source repo.
+  # English: Source on GitHub
+  footer.source: Исходники на GitHub
+  # Footer: credit to radio-browser.info upstream.
+  # English: Data: radio-browser.info
+  footer.upstream: "Данные: radio-browser.info"
+  # Theme picker: aria/tooltip label for the picker button.
+  # English: Theme
+  theme.label: Тема
+  # Theme picker option — light.
+  # English: Light
+  theme.light: Светлая
+  # Theme picker option — follow OS preference.
+  # English: System
+  theme.system: Системная
+  # Theme picker option — dark.
+  # English: Dark
+  theme.dark: Тёмная
+  # Theme picker: heading for the visual-skin sub-section.
+  # English: Theme style
+  theme.skin.label: Стиль темы
+  # Theme picker: alternate heading for the skin chooser.
+  # English: Choose a style
+  theme.skin.title: Выберите стиль
+  # Skin "Classic" — display name.
+  # English: Classic
+  theme.skin.classic.name: Классика
+  # Skin "Classic" — short description shown beneath the name.
+  # English: The default Tune Out look.
+  theme.skin.classic.description: Стандартный вид Tune Out.
+  # Skin "Minimal" — display name.
+  # English: Minimal
+  theme.skin.minimal.name: Минимал
+  # Skin "Minimal" — short description.
+  # English: Neutral greys, easy on the eyes.
+  theme.skin.minimal.description: Нейтральные серые тона, мягко для глаз.
+  # Skin "Solarpunk" — display name.
+  # English: Solarpunk
+  theme.skin.solarpunk.name: Солнечный панк
+  # Skin "Solarpunk" — short description.
+  # English: Sunlit greens and elegant serif headlines.
+  theme.skin.solarpunk.description: Солнечная зелень и изящные засечки в заголовках.
+  # Skin "Futurist" — display name.
+  # English: Futurist
+  theme.skin.futurist.name: Футурист
+  # Skin "Futurist" — short description.
+  # English: Neon magenta on near-black, geometric type.
+  theme.skin.futurist.description: Неоновая фуксия на почти чёрном фоне, геометрическая типографика.
+  # Skin "Applish" — display name.
+  # English: Applish
+  theme.skin.applish.name: Applish
+  # Skin "Applish" — short description.
+  # English: Think Different with clean type.
+  theme.skin.applish.description: Вдохновлено apple.com — аккуратная типографика и iOS-синий.
+  # Skin "Winamp" — display name.
+  # English: WinAmp
+  theme.skin.winamp.name: WinAmp
+  # Skin "Winamp" — short description.
+  # English: Mid-90s neon-green LED on industrial grey.
+  theme.skin.winamp.description: Неоново-зелёный LED 90-х на индустриальном сером.
+  # Aria/tooltip label for the locale picker button.
+  # English: Language
+  locale.label: Язык
+  # "Other languages…" menu entry — routes to the About page.
+  # English: Other languages…
+  locale.other_languages: Другие языки…
+  # Heading: per-station localized text.
+  # English: Localizing individual stations
+  faq.station_text.title: Локализация отдельных станций
+  # Body paragraph for per-station localization.
+  # English: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  faq.station_text.body: YAML каждой станции принимает необязательный блок <code>localized:</code>, индексированный по коду языка. Для каждой локали можно переопределить название станции и задать описание, однострочную аннотацию и дополнительные поисковые ключевые слова. Всё, что не задано, откатывается к каноническим английским данным.
+  # Heading: how to get in touch.
+  # English: Where to ask
+  faq.contact.title: Куда обращаться
+  # Body paragraph; the `{repo}` placeholder is replaced with the repo URL.
+  # English: Issues and proposals live on GitHub at {repo}. The repository's README has the maintainer roster.
+  faq.contact.body: "Issues и предложения живут на GitHub: {repo}. В README репозитория указан список майнтейнеров."
+  # About section heading — invite to improve this locale.
+  # English: Improve this language
+  about.improve_translation.title: Улучшить этот язык
+  # About paragraph explaining where translations live.
+  # English: Translations are stored in a single YAML file per locale. Open the current language file on GitHub, edit the values under the `strings` section, and submit a pull request.
+  about.improve_translation.body: Переводы хранятся в одном YAML-файле для каждой локали. Откройте файл текущего языка на GitHub, отредактируйте значения в секции `strings` и отправьте pull request.
+  # Label inside the GitHub-edit CTA button on About (file path is appended in code).
+  # English: Edit on GitHub
+  about.improve_translation.edit: Редактировать на GitHub
+  # Anchor label for the GitHub PR-walkthrough docs link.
+  # English: GitHub: proposing changes with pull requests
+  about.improve_translation.pr_docs: "GitHub: предложение изменений через pull request"
+  # About view: sub-heading for the "Adding a new language" blurb.
+  # English: Adding a new language
+  about.add_language.title: Добавление нового языка
+  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
+  # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  about.add_language.body: Чтобы добавить новый язык, откройте pull request, который скопирует <code>src/spa/i18n/en.yaml</code> в файл с именем, соответствующим коду BCP-47 целевого языка &mdash; например, переименуйте его в <code>uk.yaml</code>, чтобы добавить украинский &mdash; и переведите значения в секции <code>strings:</code>. Сохраните ключи, комментарии и <code>{placeholders}</code> в неизменном виде. После того как файл будет влит, каталог автоматически подхватит новую локаль.
+  # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
+  # English: Add to Home Screen
+  install.button.label: Добавить на главный экран
+  # Install modal: heading.
+  # English: Add Tune Out to your Home Screen
+  install.title: Добавьте Tune Out на главный экран
+  # Install modal: explanatory body (no placeholders).
+  # English: Install the catalog as an app for full-screen playback and one-tap access from your Home Screen. No App Store account needed.
+  install.body: Установите каталог как приложение — полноэкранное воспроизведение и запуск в одно касание с главного экрана. Учётная запись App Store не требуется.
+  # Install modal — iOS step 1. `{shareIcon}` is replaced with an inline share-icon SVG.
+  # English: Tap the Share button {shareIcon} in Safari's toolbar.
+  install.ios.step1: Нажмите кнопку «Поделиться» {shareIcon} на панели Safari.
+  # Install modal — iOS step 2 (HTML allowed; uses <strong> for the menu item name).
+  # English: Scroll down and choose <strong>Add to Home Screen</strong>.
+  install.ios.step2: Прокрутите вниз и выберите <strong>На экран «Домой»</strong>.
+  # Install modal — iOS step 3 (HTML allowed).
+  # English: Tap <strong>Add</strong> in the top-right corner. Tune Out will appear on your Home Screen.
+  install.ios.step3: Нажмите <strong>Добавить</strong> в правом верхнем углу. Tune Out появится на главном экране.
+  # Install modal — Android-non-Chromium step 1. `{shareIcon}` becomes the browser menu icon.
+  # English: Open your browser's menu {shareIcon}.
+  install.android.step1: Откройте меню браузера {shareIcon}.
+  # Install modal — Android-non-Chromium step 2 (HTML allowed).
+  # English: Tap <strong>Install app</strong> (or <strong>Add to Home screen</strong>).
+  install.android.step2: Нажмите <strong>Установить приложение</strong> (или <strong>Добавить на главный экран</strong>).
+  # Install modal — Android-non-Chromium step 3 (HTML allowed).
+  # English: Confirm; Tune Out will appear in your app drawer.
+  install.android.step3: Подтвердите; Tune Out появится в списке приложений.
+  # Install modal: Close / Done button label (also the close-icon aria-label).
+  # English: Close
+  install.close: Закрыть
+tags:
+  # Genre / tag labels — shown on chips, filters, and station detail.
+  # These values are owned by scripts/build-tag-i18n.ts; edits here will
+  # be overwritten the next time `npm run build:tag-i18n` runs. Make
+  # permanent edits in TAG_TRANSLATIONS inside that script.
+  # Label for the "pop" tag.
+  # English: Pop
+  pop: Поп
+  # Label for the "rock" tag.
+  # English: Rock
+  rock: Рок
+  # Label for the "jazz" tag.
+  # English: Jazz
+  jazz: Джаз
+  # Label for the "classical" tag.
+  # English: Classical
+  classical: Классика
+  # Label for the "blues" tag.
+  # English: Blues
+  blues: Блюз
+  # Label for the "folk" tag.
+  # English: Folk
+  folk: Фолк
+  # Label for the "country" tag.
+  # English: Country
+  country: Кантри
+  # Label for the "electronic" tag.
+  # English: Electronic
+  electronic: Электронная
+  # Label for the "dance" tag.
+  # English: Dance
+  dance: Танцевальная
+  # Label for the "house" tag.
+  # English: House
+  house: Хаус
+  # Label for the "techno" tag.
+  # English: Techno
+  techno: Техно
+  # Label for the "trance" tag.
+  # English: Trance
+  trance: Транс
+  # Label for the "edm" tag.
+  # English: EDM
+  edm: EDM
+  # Label for the "ambient" tag.
+  # English: Ambient
+  ambient: Эмбиент
+  # Label for the "lounge" tag.
+  # English: Lounge
+  lounge: Лаунж
+  # Label for the "chillout" tag.
+  # English: Chillout
+  chillout: Чилаут
+  # Label for the "downtempo" tag.
+  # English: Downtempo
+  downtempo: Даунтемпо
+  # Label for the "drum-and-bass" tag.
+  # English: Drum & Bass
+  drum-and-bass: Драм-н-бейс
+  # Label for the "dubstep" tag.
+  # English: Dubstep
+  dubstep: Дабстеп
+  # Label for the "hip-hop" tag.
+  # English: Hip-Hop
+  hip-hop: Хип-хоп
+  # Label for the "rap" tag.
+  # English: Rap
+  rap: Рэп
+  # Label for the "r-and-b" tag.
+  # English: R&B
+  r-and-b: R&B
+  # Label for the "soul" tag.
+  # English: Soul
+  soul: Соул
+  # Label for the "funk" tag.
+  # English: Funk
+  funk: Фанк
+  # Label for the "disco" tag.
+  # English: Disco
+  disco: Диско
+  # Label for the "reggae" tag.
+  # English: Reggae
+  reggae: Регги
+  # Label for the "reggaeton" tag.
+  # English: Reggaeton
+  reggaeton: Реггетон
+  # Label for the "ska" tag.
+  # English: Ska
+  ska: Ска
+  # Label for the "metal" tag.
+  # English: Metal
+  metal: Метал
+  # Label for the "hardcore" tag.
+  # English: Hardcore
+  hardcore: Хардкор
+  # Label for the "punk" tag.
+  # English: Punk
+  punk: Панк
+  # Label for the "indie" tag.
+  # English: Indie
+  indie: Инди
+  # Label for the "alternative" tag.
+  # English: Alternative
+  alternative: Альтернатива
+  # Label for the "classic-rock" tag.
+  # English: Classic Rock
+  classic-rock: Классический рок
+  # Label for the "soft-rock" tag.
+  # English: Soft Rock
+  soft-rock: Софт-рок
+  # Label for the "hard-rock" tag.
+  # English: Hard Rock
+  hard-rock: Хард-рок
+  # Label for the "prog-rock" tag.
+  # English: Prog Rock
+  prog-rock: Прог-рок
+  # Label for the "pop-rock" tag.
+  # English: Pop Rock
+  pop-rock: Поп-рок
+  # Label for the "gospel" tag.
+  # English: Gospel
+  gospel: Госпел
+  # Label for the "christian-music" tag.
+  # English: Christian
+  christian-music: Христианская
+  # Label for the "opera" tag.
+  # English: Opera
+  opera: Опера
+  # Label for the "instrumental" tag.
+  # English: Instrumental
+  instrumental: Инструментальная
+  # Label for the "soundtrack" tag.
+  # English: Soundtrack
+  soundtrack: Саундтрек
+  # Label for the "smooth-jazz" tag.
+  # English: Smooth Jazz
+  smooth-jazz: Смуз-джаз
+  # Label for the "synthpop" tag.
+  # English: Synthpop
+  synthpop: Синти-поп
+  # Label for the "new-wave" tag.
+  # English: New Wave
+  new-wave: Нью-вейв
+  # Label for the "oldies" tag.
+  # English: Oldies
+  oldies: Старые хиты
+  # Label for the "hits" tag.
+  # English: Hits
+  hits: Хиты
+  # Label for the "top-40" tag.
+  # English: Top 40
+  top-40: Топ-40
+  # Label for the "classic-hits" tag.
+  # English: Classic Hits
+  classic-hits: Классические хиты
+  # Label for the "adult-contemporary" tag.
+  # English: Adult Contemporary
+  adult-contemporary: Взрослая современная
+  # Label for the "ballad" tag.
+  # English: Ballads
+  ballad: Баллады
+  # Label for the "romantic" tag.
+  # English: Romantic
+  romantic: Романтика
+  # Label for the "retro" tag.
+  # English: Retro
+  retro: Ретро
+  # Label for the "experimental" tag.
+  # English: Experimental
+  experimental: Экспериментальная
+  # Label for the "lofi" tag.
+  # English: Lo-Fi
+  lofi: Лоу-фай
+  # Label for the "latin" tag.
+  # English: Latin
+  latin: Латинская
+  # Label for the "salsa" tag.
+  # English: Salsa
+  salsa: Сальса
+  # Label for the "cumbia" tag.
+  # English: Cumbia
+  cumbia: Кумбия
+  # Label for the "merengue" tag.
+  # English: Merengue
+  merengue: Меренге
+  # Label for the "tropical" tag.
+  # English: Tropical
+  tropical: Тропическая
+  # Label for the "regional-mexican" tag.
+  # English: Regional Mexican
+  regional-mexican: Региональная мексиканская
+  # Label for the "bollywood" tag.
+  # English: Bollywood
+  bollywood: Болливуд
+  # Label for the "k-pop" tag.
+  # English: K-Pop
+  k-pop: K-Pop
+  # Label for the "j-pop" tag.
+  # English: J-Pop
+  j-pop: J-Pop
+  # Label for the "anime" tag.
+  # English: Anime
+  anime: Аниме
+  # Label for the "arabic-music" tag.
+  # English: Arabic
+  arabic-music: Арабская
+  # Label for the "world" tag.
+  # English: World
+  world: Музыка мира
+  # Label for the "50s" tag.
+  # English: 50s
+  50s: 50-е
+  # Label for the "60s" tag.
+  # English: 60s
+  60s: 60-е
+  # Label for the "70s" tag.
+  # English: 70s
+  70s: 70-е
+  # Label for the "80s" tag.
+  # English: 80s
+  80s: 80-е
+  # Label for the "90s" tag.
+  # English: 90s
+  90s: 90-е
+  # Label for the "2000s" tag.
+  # English: 2000s
+  2000s: 2000-е
+  # Label for the "2010s" tag.
+  # English: 2010s
+  2010s: 2010-е
+  # Label for the "news" tag.
+  # English: News
+  news: Новости
+  # Label for the "news-talk" tag.
+  # English: News & Talk
+  news-talk: Новости и разговоры
+  # Label for the "talk" tag.
+  # English: Talk
+  talk: Разговор
+  # Label for the "sports" tag.
+  # English: Sports
+  sports: Спорт
+  # Label for the "sports-talk" tag.
+  # English: Sports Talk
+  sports-talk: Спортивные разговоры
+  # Label for the "comedy" tag.
+  # English: Comedy
+  comedy: Комедия
+  # Label for the "public-radio" tag.
+  # English: Public Radio
+  public-radio: Общественное радио
+  # Label for the "community-radio" tag.
+  # English: Community Radio
+  community-radio: Общинное радио
+  # Label for the "local-news" tag.
+  # English: Local News
+  local-news: Местные новости
+  # Label for the "religious" tag.
+  # English: Religious
+  religious: Религия
+  # Label for the "catholic" tag.
+  # English: Catholic
+  catholic: Католическая
+  # Label for the "islamic" tag.
+  # English: Islamic
+  islamic: Исламская
+  # Label for the "culture" tag.
+  # English: Culture
+  culture: Культура
+  # Label for the "education" tag.
+  # English: Education
+  education: Образование
+  # Label for the "politics" tag.
+  # English: Politics
+  politics: Политика
+  # Label for the "business" tag.
+  # English: Business
+  business: Бизнес
+  # Label for the "lifestyle" tag.
+  # English: Lifestyle
+  lifestyle: Образ жизни
+  # Label for the "kids" tag.
+  # English: Kids
+  kids: Детское
+  # Label for the "podcast" tag.
+  # English: Podcast
+  podcast: Подкаст
+  # Label for the "party" tag.
+  # English: Party
+  party: Вечеринка
+  # Label for the "sleep" tag.
+  # English: Sleep
+  sleep: Сон

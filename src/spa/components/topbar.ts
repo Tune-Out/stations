@@ -5,6 +5,7 @@ import { effect, locale } from '../store.js';
 import { url, go, parseLocation } from '../router.js';
 import { localeMenu } from './locale-menu.js';
 import { themePicker } from './theme-picker.js';
+import { installButton } from './install-button.js';
 import { repoUrl } from '../shard.js';
 
 const LOGO_SVG = `
@@ -70,8 +71,9 @@ export function topbar(): HTMLElement {
 
   root.appendChild(form);
 
-  // Right side: theme picker + locale menu + github link
+  // Right side: install (mobile) + theme picker + locale menu + github link
   const right = el('div', { class: 'topbar-right' });
+  right.appendChild(installButton());
   right.appendChild(themePicker());
   right.appendChild(localeMenu());
   const ghLink = el('a', {

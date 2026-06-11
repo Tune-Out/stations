@@ -470,6 +470,71 @@ img { display: block; max-width: 100%; height: auto; }
 }
 .topbar-icon-link:hover { color: var(--fg); background: color-mix(in oklab, var(--fg) 10%, transparent); }
 
+/* ─── Mobile PWA install button (Add to Home Screen) ─── */
+/* Compact icon button in the topbar; hidden on desktop because Chrome /
+   Edge already expose an install affordance from the URL bar there. The
+   button is also display:none by default and the JS in install-button.ts
+   flips it on when conditions match (deferred prompt available OR iOS). */
+.install-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 32px; height: 32px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 1px 4px color-mix(in oklab, var(--accent) 50%, transparent);
+  transition: transform 120ms ease, box-shadow 120ms ease, background 120ms ease;
+}
+.install-btn:hover { transform: translateY(-1px); box-shadow: 0 2px 8px color-mix(in oklab, var(--accent) 60%, transparent); }
+.install-btn:active { transform: translateY(0); }
+@media (min-width: 721px) { .install-btn { display: none !important; } }
+
+/* ─── Install instructions modal (iOS + Android-non-Chromium fallback) ─── */
+.install-overlay {
+  position: fixed; inset: 0; z-index: 1000;
+  display: flex; align-items: flex-end; justify-content: center;
+  background: color-mix(in oklab, #000 60%, transparent);
+  padding: 0;
+  animation: install-fade 160ms ease;
+}
+@keyframes install-fade { from { opacity: 0; } to { opacity: 1; } }
+.install-sheet {
+  position: relative;
+  width: 100%; max-width: 32rem;
+  background: var(--bg-elev);
+  color: var(--fg);
+  border-radius: 1.25rem 1.25rem 0 0;
+  padding: 1.4rem 1.25rem calc(1.25rem + env(safe-area-inset-bottom));
+  box-shadow: 0 -6px 32px rgba(0, 0, 0, 0.35);
+  animation: install-slide 200ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+@keyframes install-slide { from { transform: translateY(20px); } to { transform: translateY(0); } }
+.install-close {
+  position: absolute; inset-block-start: 0.6rem; inset-inline-end: 0.6rem;
+  width: 32px; height: 32px;
+  display: inline-flex; align-items: center; justify-content: center;
+  background: transparent; border: none; color: var(--muted);
+  border-radius: 999px; cursor: pointer;
+}
+.install-close:hover { color: var(--fg); background: color-mix(in oklab, var(--fg) 10%, transparent); }
+.install-title { font-size: 1.1rem; font-weight: 600; margin: 0 0 0.5rem; padding-inline-end: 2rem; }
+.install-body  { color: var(--muted); margin: 0 0 1rem; line-height: 1.5; }
+.install-steps {
+  margin: 0 0 1.2rem; padding-inline-start: 1.3rem; line-height: 1.6;
+  display: flex; flex-direction: column; gap: 0.55rem;
+}
+.install-steps li svg { vertical-align: -3px; margin-inline: 0.15rem; }
+.install-done {
+  display: block; width: 100%;
+  padding: 0.75rem 1rem;
+  background: var(--accent); color: white;
+  border: none; border-radius: 0.75rem;
+  font-weight: 600; font-size: 0.95rem;
+  cursor: pointer;
+}
+.install-done:hover { background: color-mix(in oklab, var(--accent) 85%, white); }
+
 /* Hide some elements on small screens to keep topbar tight */
 @media (max-width: 720px) {
   .topbar-search { max-width: none; }
@@ -1258,6 +1323,23 @@ img { display: block; max-width: 100%; height: auto; }
 
 .prose { max-width: 38rem; line-height: 1.7; }
 .prose h2 { font-size: 1.2rem; font-weight: 600; letter-spacing: -0.005em; margin-block-start: 2rem; }
+.prose .breakall a { word-break: break-all; font-family: var(--font-mono, ui-monospace, monospace); font-size: 0.92em; }
+/* "Edit on GitHub" CTA on About — a button-styled anchor with the GitHub
+   mark on the left and the target path in mono on the right. */
+.prose .about-edit-cta {
+  text-decoration: none;
+  margin-block-start: 0.25rem;
+  max-width: 100%;
+}
+.prose .about-edit-cta code {
+  font-family: var(--font-mono, ui-monospace, monospace);
+  font-size: 0.85em;
+  opacity: 0.85;
+  margin-inline-start: 0.4rem;
+  padding: 0.05rem 0.4rem;
+  border-radius: 0.4rem;
+  background: color-mix(in oklab, var(--accent-fg, #000) 12%, transparent);
+}
 
 /* Buttons */
 .btn {

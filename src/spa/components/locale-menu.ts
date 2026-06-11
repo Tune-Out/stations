@@ -92,7 +92,9 @@ export function localeMenu(): HTMLElement {
     items.push({ btn, check });
   }
 
-  // Separator + "Other Languages…" link to FAQ
+  // Separator + "Other Languages…" link to the About page (which absorbed
+  // the old FAQ content, including the supported-languages list and
+  // contribution instructions).
   panel.appendChild(el('hr', { class: 'lmenu-sep' }));
 
   const moreBtn = el('button', {
@@ -104,7 +106,7 @@ export function localeMenu(): HTMLElement {
   moreBtn.appendChild(moreLabel);
   moreBtn.addEventListener('click', () => {
     close();
-    go(url('faq'));
+    go(url('about'));
   });
   panel.appendChild(moreBtn);
 

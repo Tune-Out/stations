@@ -1,0 +1,791 @@
+# ─────────────────────────────────────────────────────────────────────────
+# Tune Out — UI translations for: Bahasa Indonesia — Indonesian (id)
+# ─────────────────────────────────────────────────────────────────────────
+
+# This file has two sections:
+
+#   • `strings:` — UI text used throughout the catalog. Translate the
+#     values; leave the keys untouched. Tokens like `{name}` and `{n}`
+#     are placeholders the runtime substitutes — preserve them verbatim,
+#     and keep any inline HTML (`<code>`, `<a>` …) intact.
+
+#   • `tags:` — labels for the genre/tag chips. The values here are
+#     regenerated from `scripts/build-tag-i18n.ts` whenever someone runs
+#     `npm run build:tag-i18n`, so permanent edits should go in that
+#     script's `TAG_TRANSLATIONS` table. The keys are slugs and never
+#     change.
+
+# To contribute a translation:
+#   1. Click the pencil (✎) in GitHub's top-right to edit this file.
+#   2. Change values, not keys, and keep `{placeholders}` intact.
+#   3. Commit; GitHub will offer to open a pull request automatically.
+
+# GitHub's pull-request walkthrough: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests
+# ─────────────────────────────────────────────────────────────────────────
+
+strings:
+  # UI strings. Translate the values; keep the keys and any {placeholders}.
+  # Page <title> + OpenGraph title used by the static shells.
+  # English: Tune Out
+  app.title: Tune Out
+  # OpenGraph description / fallback tagline.
+  # English: Stream internet radio.
+  app.tagline: Dengarkan radio Internet.
+  # Sidebar nav — Home link label.
+  # English: Home
+  nav.home: Beranda
+  # Sidebar nav — Browse link label.
+  # English: Browse
+  nav.browse: Jelajah
+  # Sidebar nav — Search link label.
+  # English: Search
+  nav.search: Cari
+  # Sidebar nav — Downloads link label.
+  # English: Downloads
+  nav.downloads: Unduhan
+  # Sidebar nav — About link label.
+  # English: About
+  nav.about: Tentang
+  # Sidebar section heading: recently played stations.
+  # English: Recents
+  section.recents: Terbaru
+  # Sidebar section heading: favorited stations.
+  # English: Favorites
+  section.favorites: Favorit
+  # Home section heading: most popular stations (legacy — replaced by worldwide / in_language).
+  # English: Top stations
+  section.top_stations: Stasiun populer
+  # Home view: heading for the global Top Stations rail.
+  # English: Top Stations Worldwide
+  section.top_stations_worldwide: Stasiun terpopuler dunia
+  # Home view: heading for the per-locale Top Stations rail. `{language}` is the locale's native name.
+  # English: Top Stations in {language}
+  section.top_stations_in_language: Stasiun terpopuler dalam {language}
+  # Home/Browse heading: popular-countries grid.
+  # English: Browse by country
+  section.popular_countries: Jelajah menurut negara
+  # Home/Browse heading: popular-tags chip row.
+  # English: Browse by tag
+  section.popular_tags: Jelajah menurut tag
+  # Home/Browse heading: popular-languages chip row.
+  # English: Browse by language
+  section.popular_languages: Jelajah menurut bahasa
+  # Search-results section heading.
+  # English: Results
+  section.results: Hasil
+  # Empty-state heading when no results match.
+  # English: No results.
+  section.no_results: Tidak ada hasil.
+  # Home heading: pick-up-where-you-left-off rail.
+  # English: Continue listening
+  section.continue_listening: Lanjutkan mendengarkan
+  # Home hero headline.
+  # English: Every station,
+  #in one quiet catalog.
+  home.hero.title: |-
+    Setiap stasiun,
+    dalam satu katalog yang tenang.
+  # Home hero subtitle (under the headline).
+  # English: Search, listen, share — no account, no tracking. {count} stations and counting.
+  home.hero.lede: Cari, dengarkan, bagikan — tanpa akun, tanpa pelacakan. {count} stasiun dan terus bertambah.
+  # Search input placeholder — compact top-bar input.
+  # English: Search stations…
+  search.placeholder: Cari stasiun…
+  # Search input placeholder — full Search view input.
+  # English: Search by name, tag, country, language…
+  search.placeholder.global: Cari berdasarkan nama, tag, negara, bahasa…
+  # Search filter label: country.
+  # English: Country
+  search.filter.country: Negara
+  # Search filter label: codec (mp3 / aac / ogg …).
+  # English: Codec
+  search.filter.codec: Codec
+  # Search filter label: spoken language.
+  # English: Language
+  search.filter.language: Bahasa
+  # Search filter label: editorial nature (public / community …).
+  # English: Station type
+  search.filter.nature: Tipe stasiun
+  # Search filter label: only show stations the last health check says are up.
+  # English: Online only
+  search.filter.online_only: Hanya online
+  # Search filters: "Clear filters" button label.
+  # English: Clear
+  search.clear: Hapus
+  # Search sort dropdown label.
+  # English: Sort by
+  search.sort.label: Urutkan
+  # Search sort option — relevance (FTS5 rank).
+  # English: Most relevant
+  search.sort.relevance: Paling relevan
+  # Search sort option — most clicks.
+  # English: Most popular
+  search.sort.popular: Paling populer
+  # Search sort option — recent vote velocity.
+  # English: Trending
+  search.sort.trending: Tren
+  # Search sort option — alphabetical.
+  # English: Name (A-Z)
+  search.sort.name: Nama (A-Z)
+  # Search sort option — bitrate descending.
+  # English: Highest bitrate
+  search.sort.bitrate: Bitrate tertinggi
+  # Search sort option — last-changed timestamp.
+  # English: Recently updated
+  search.sort.fresh: Baru diperbarui
+  # Search sort option — randomised.
+  # English: Shuffle
+  search.sort.shuffle: Acak
+  # Search view empty state (no query yet).
+  # English: Try a name, a country, a tag, or a language.
+  search.empty: Coba nama, negara, tag, atau bahasa.
+  # One-liner under the search box explaining supported syntax.
+  # English: Tip
+  search.syntax_hint: Tips
+  # Result count, plural. Uses `{n}` (e.g. "{n} stations").
+  # English: {count} results
+  search.count: "{count} hasil"
+  # Result count, singular form.
+  # English: 1 result
+  search.count_one: 1 hasil
+  # Station detail: Play button label.
+  # English: Play
+  station.play: Putar
+  # Station detail: Pause button label.
+  # English: Pause
+  station.pause: Jeda
+  # Station detail: Add-to-favorites button label.
+  # English: Favorite
+  station.favorite: Tambahkan ke favorit
+  # Station detail: Remove-from-favorites button label.
+  # English: Remove favorite
+  station.unfavorite: Hapus dari favorit
+  # Station detail: link to the station's own homepage.
+  # English: Visit homepage
+  station.visit_homepage: Kunjungi situs
+  # Station detail: opens the YAML in GitHub's web editor.
+  # English: Edit on GitHub
+  station.edit_on_github: Sunting di GitHub
+  # Station detail: link to the PR template for update requests.
+  # English: View update template
+  station.update_template: Lihat template pembaruan
+  # Station detail: status badge — last health check OK.
+  # English: Online
+  station.online: Online
+  # Station detail: status badge — last health check failed.
+  # English: Offline
+  station.offline: Offline
+  # Station detail: label for the raw audio stream URL row.
+  # English: Stream URL
+  station.stream_url: URL stream
+  # Station detail: heading for the tag-chip row.
+  # English: Tags
+  station.tags: Tag
+  # Station detail: codec metadata label.
+  # English: Codec
+  station.codec: Codec
+  # Station detail: bitrate metadata label.
+  # English: Bitrate
+  station.bitrate: Bitrate
+  # Station detail: bitrate unit suffix (kbps).
+  # English: {n} kbps
+  station.bitrate_kbps: "{n} kbps"
+  # Station detail: country metadata label.
+  # English: Country
+  station.country: Negara
+  # Station detail: language metadata label.
+  # English: Language
+  station.language: Bahasa
+  # Station detail: upstream vote count label.
+  # English: Votes
+  station.votes: Suara
+  # Station detail: city/region row label.
+  # English: Location
+  station.location: Lokasi
+  # Station detail: editorial background / history heading.
+  # English: Background
+  station.background: Latar
+  # Station detail: nature (public / community / commercial …) label.
+  # English: Station type
+  station.nature: Tipe stasiun
+  # Station detail: operator / parent-org row label.
+  # English: Operator
+  station.operator: Operator
+  # Station detail: network/affiliation chips row label.
+  # English: Affiliations
+  station.affiliations: Afiliasi
+  # Station detail: target audience row label.
+  # English: Audience
+  station.audience: Audiens
+  # Station detail: programming format row label.
+  # English: Format
+  station.format: Format
+  # Station detail: editorial notes row label.
+  # English: Notes
+  station.notes: Catatan
+  # Station detail: citation/source list heading.
+  # English: Sources
+  station.sources: Sumber
+  # Station detail: toggle to reveal the raw stream URL.
+  # English: Show URL
+  station.show_url: Tampilkan URL
+  # Station detail: open the station's lat/lon in a map app.
+  # English: Open in OpenStreetMap
+  station.open_in_map: Buka di OpenStreetMap
+  # Browse view: page title.
+  # English: Browse the catalog.
+  browse.title: Jelajahi katalog.
+  # Browse view: countries facet section heading.
+  # English: Countries
+  browse.countries: Negara
+  # Browse view: tags facet section heading.
+  # English: Tags
+  browse.tags: Tag
+  # Browse view: languages facet section heading.
+  # English: Languages
+  browse.languages: Bahasa
+  # Sticky player bar: "Now playing" preamble.
+  # English: Now playing
+  player.now_playing: Sedang diputar
+  # Sticky player bar: empty state (no station selected).
+  # English: No station selected.
+  player.no_station: Belum ada stasiun yang dipilih.
+  # Sticky player bar: status while a stream is loading.
+  # English: Connecting…
+  player.connecting: Menyambung…
+  # Sticky player bar: stream error state.
+  # English: Stream error
+  player.error: Kesalahan streaming
+  # Sticky player bar: previous-track button label.
+  # English: Previous
+  player.previous: Sebelumnya
+  # Sticky player bar: next-track button label.
+  # English: Next
+  player.next: Berikutnya
+  # Sticky player bar: volume slider aria-label.
+  # English: Volume
+  player.volume: Volume
+  # Sticky player bar: open the current station's detail page.
+  # English: Open station page
+  player.open_station: Buka halaman stasiun
+  # Sticky player bar: collapse on mobile.
+  # English: Minimize
+  player.minimize: Perkecil
+  # Sticky player bar: expand from the minimised peek.
+  # English: Expand
+  player.expand: Perbesar
+  # Downloads view: page title.
+  # English: Take the catalog with you.
+  downloads.title: Bawa katalognya.
+  # Downloads view: page subtitle.
+  # English: Open data — public-domain (CC0). Pick the format you need.
+  downloads.subtitle: Data terbuka — domain publik (CC0). Pilih format yang kamu butuhkan.
+  # Downloads view: column label for artifact size.
+  # English: Size
+  downloads.size: Ukuran
+  # Downloads view: column label for SHA-256 hash.
+  # English: SHA-256
+  downloads.sha256: SHA-256
+  # Downloads card title — full SQLite database.
+  # English: SQLite database
+  downloads.sqlite.title: Basis data SQLite
+  # Downloads card subtitle — SQLite.
+  # English: stations.sqlite — full schema with FTS5 and locale columns
+  downloads.sqlite.subtitle: stations.sqlite — skema lengkap dengan FTS5 dan kolom lokal
+  # Downloads card description — SQLite.
+  # English: A queryable database of every station with a full-text search virtual table that includes localized fields.
+  downloads.sqlite.desc: Basis data yang bisa diquery untuk setiap stasiun, dengan tabel virtual FTS5 yang mencakup bidang lokal.
+  # Downloads card title — YAML tarball.
+  # English: Zipped YAML
+  downloads.zip.title: YAML terkompresi
+  # Downloads card subtitle — YAML tarball.
+  # English: stations.zip — every per-station YAML in the sharded layout
+  downloads.zip.subtitle: stations.zip — satu YAML per stasiun dalam tata letak shard
+  # Downloads card description — YAML tarball.
+  # English: The raw source-of-truth. One file per station; edit and submit a pull request.
+  downloads.zip.desc: Sumber mentahnya. Satu berkas per stasiun; sunting lalu kirim pull request.
+  # Downloads card title — compact JSON dump.
+  # English: Compact JSON
+  downloads.jsongz.title: JSON ringkas
+  # Downloads card subtitle — compact JSON dump.
+  # English: stations.json.gz — single gzipped array of all stations
+  downloads.jsongz.subtitle: stations.json.gz — satu larik JSON tunggal dari seluruh stasiun, di-gzip
+  # Downloads card description — compact JSON dump.
+  # English: A single concatenated JSON of every record, gzipped. Useful for piping into jq.
+  downloads.jsongz.desc: JSON gabungan dari semua rekaman, di-gzip. Pas dipakai dengan jq.
+  # Placeholder when an artifact has not been built yet.
+  # English: Available after the next data build.
+  downloads.available_after_build: Tersedia setelah build data berikutnya.
+  # Footnote: artifacts attached to GitHub Releases, not Pages.
+  # English: Hosted as a GitHub Release asset:
+  downloads.released_separately: "Di-hosting sebagai aset GitHub Release:"
+  # About view: page title (also reused as kicker).
+  # English: About
+  about.title: Tentang
+  # About view: lead paragraph.
+  # English: Tune Out is a small, non-commercial, open-source community project. It makes the world's internet radio stations easy to browse, search, and share — and publishes that catalog as fully open data.
+  about.lede: Tune Out adalah proyek komunitas open-source non-komersial yang kecil. Ia membuat stasiun radio Internet di seluruh dunia mudah dijelajahi, dicari, dan dibagikan — dan menerbitkan katalognya sebagai data yang sepenuhnya terbuka.
+  # About section heading — where the data comes from.
+  # English: Where the data comes from
+  about.data.title: Dari mana datanya
+  # About body — where the data comes from.
+  # English: Station metadata comes from a variety of public domain and free data sources, such as wikipedia.org and radio-browser.info.
+  about.data.body: Metadata stasiun berasal dari beragam sumber data domain publik dan bebas, seperti wikipedia.org dan radio-browser.info.
+  # About section heading — license.
+  # English: License
+  about.license.title: Lisensi
+  # About body — license.
+  # English: Code and data are dedicated to the public domain under CC0 1.0 — the most permissive Creative Commons option.
+  about.license.body: Kode dan data didedikasikan ke domain publik di bawah CC0 1.0 — opsi paling permisif dari Creative Commons.
+  # About section heading — privacy.
+  # English: Privacy
+  about.privacy.title: Privasi
+  # About body — privacy.
+  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
+  about.privacy.body: Tanpa akun, tanpa pelacakan. Terbaru, favorit, dan koleksi tersimpan di peramban kamu. Pencarian sampul album hanya mengirim judul lagu ke iTunes Search API publik milik Apple — tidak ada pengenal yang dikirim.
+  # About section heading — contributing.
+  # English: Contributing translations
+  about.contributing.title: Berkontribusi menerjemahkan
+  # About body — contributing.
+  # English: Every station page has an "Edit on GitHub" link. Add per-language description, summary, or keywords in the YAML's `localized:` block — your translation goes live on the next build.
+  about.contributing.body: Setiap halaman stasiun punya tautan "Sunting di GitHub". Tambahkan deskripsi, ringkasan, atau kata kunci per bahasa pada blok YAML `localized:` — terjemahanmu tayang di build berikutnya.
+  # Loading screen heading shown during first SQLite download.
+  # English: Loading catalog…
+  loading.title: Memuat katalog…
+  # Loading screen subtitle / one-time-download note.
+  # English: Downloading the database — this only happens once.
+  loading.subtitle: Mengunduh basis data — hanya sekali ini.
+  # Loading screen text on the warm path (DB from OPFS cache).
+  # English: Loading from cache…
+  loading.cached: Memuat dari cache…
+  # Generic error heading when a view fails to render.
+  # English: Something went wrong.
+  error.title: Ada yang salah.
+  # Generic Retry button label on error states.
+  # English: Reload
+  error.retry: Muat ulang
+  # Footer: non-commercial / no-tracking statement.
+  # English: A non-commercial open-source community project.
+  footer.non_commercial: Proyek komunitas open-source non-komersial.
+  # Footer: public-domain license notice.
+  # English: All metadata in this catalog is in the public domain.
+  footer.public_domain: Semua metadata dalam katalog ini berada di domain publik.
+  # Footer: anchor label pointing at the source repo.
+  # English: Source on GitHub
+  footer.source: Sumber di GitHub
+  # Footer: credit to radio-browser.info upstream.
+  # English: Data: radio-browser.info
+  footer.upstream: "Data: radio-browser.info"
+  # Theme picker: aria/tooltip label for the picker button.
+  # English: Theme
+  theme.label: Tema
+  # Theme picker option — light.
+  # English: Light
+  theme.light: Terang
+  # Theme picker option — follow OS preference.
+  # English: System
+  theme.system: Sistem
+  # Theme picker option — dark.
+  # English: Dark
+  theme.dark: Gelap
+  # Theme picker: heading for the visual-skin sub-section.
+  # English: Theme style
+  theme.skin.label: Gaya tema
+  # Theme picker: alternate heading for the skin chooser.
+  # English: Choose a style
+  theme.skin.title: Pilih gaya
+  # Skin "Classic" — display name.
+  # English: Classic
+  theme.skin.classic.name: Klasik
+  # Skin "Classic" — short description shown beneath the name.
+  # English: The default Tune Out look.
+  theme.skin.classic.description: Tampilan default Tune Out.
+  # Skin "Minimal" — display name.
+  # English: Minimal
+  theme.skin.minimal.name: Minimal
+  # Skin "Minimal" — short description.
+  # English: Neutral greys, easy on the eyes.
+  theme.skin.minimal.description: Abu-abu netral, nyaman di mata.
+  # Skin "Solarpunk" — display name.
+  # English: Solarpunk
+  theme.skin.solarpunk.name: Solarpunk
+  # Skin "Solarpunk" — short description.
+  # English: Sunlit greens and elegant serif headlines.
+  theme.skin.solarpunk.description: Hijau hangat dan judul serif yang elegan.
+  # Skin "Futurist" — display name.
+  # English: Futurist
+  theme.skin.futurist.name: Futuris
+  # Skin "Futurist" — short description.
+  # English: Neon magenta on near-black, geometric type.
+  theme.skin.futurist.description: Magenta neon di latar hampir hitam, tipografi geometris.
+  # Skin "Applish" — display name.
+  # English: Applish
+  theme.skin.applish.name: Applish
+  # Skin "Applish" — short description.
+  # English: Think Different with clean type.
+  theme.skin.applish.description: Terinspirasi apple.com — tipografi bersih, biru iOS.
+  # Skin "Winamp" — display name.
+  # English: WinAmp
+  theme.skin.winamp.name: WinAmp
+  # Skin "Winamp" — short description.
+  # English: Mid-90s neon-green LED on industrial grey.
+  theme.skin.winamp.description: LED hijau neon era 90-an di atas abu industri.
+  # Aria/tooltip label for the locale picker button.
+  # English: Language
+  locale.label: Bahasa
+  # "Other languages…" menu entry — routes to the About page.
+  # English: Other languages…
+  locale.other_languages: Bahasa lain…
+  # Heading: per-station localized text.
+  # English: Localizing individual stations
+  faq.station_text.title: Melokalisasi stasiun tertentu
+  # Body paragraph for per-station localization.
+  # English: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  faq.station_text.body: Berkas YAML setiap stasiun menerima blok opsional <code>localized:</code> berkunci kode bahasa. Per lokal kamu bisa menimpa nama stasiun dan memberi deskripsi, ringkasan satu baris, serta kata kunci pencarian tambahan. Apa pun yang dikosongkan akan jatuh ke data Inggris bawaan.
+  # Heading: how to get in touch.
+  # English: Where to ask
+  faq.contact.title: Tempat bertanya
+  # Body paragraph; the `{repo}` placeholder is replaced with the repo URL.
+  # English: Issues and proposals live on GitHub at {repo}. The repository's README has the maintainer roster.
+  faq.contact.body: Issue dan usulan tinggal di GitHub di {repo}. README repositori berisi daftar maintainer.
+  # About section heading — invite to improve this locale.
+  # English: Improve this language
+  about.improve_translation.title: Tingkatkan bahasa ini
+  # About paragraph explaining where translations live.
+  # English: Translations are stored in a single YAML file per locale. Open the current language file on GitHub, edit the values under the `strings` section, and submit a pull request.
+  about.improve_translation.body: Terjemahan tersimpan dalam satu berkas YAML per lokal. Buka berkas bahasa saat ini di GitHub, ubah nilai pada bagian `strings`, lalu kirim pull request.
+  # Label inside the GitHub-edit CTA button on About (file path is appended in code).
+  # English: Edit on GitHub
+  about.improve_translation.edit: Edit di GitHub
+  # Anchor label for the GitHub PR-walkthrough docs link.
+  # English: GitHub: proposing changes with pull requests
+  about.improve_translation.pr_docs: "GitHub: mengusulkan perubahan lewat pull request"
+  # About view: sub-heading for the "Adding a new language" blurb.
+  # English: Adding a new language
+  about.add_language.title: Menambahkan bahasa baru
+  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
+  # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  about.add_language.body: Untuk menambahkan bahasa baru, buka pull request yang menyalin <code>src/spa/i18n/en.yaml</code> ke berkas yang diberi nama kode BCP-47 bahasa target &mdash; misalnya, ganti namanya menjadi <code>uk.yaml</code> untuk menambahkan bahasa Ukraina &mdash; lalu terjemahkan nilai di bawah <code>strings:</code>. Biarkan kunci, komentar, dan <code>{placeholders}</code> apa adanya. Katalog akan mengenali lokal baru secara otomatis setelah berkas digabungkan.
+  # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
+  # English: Add to Home Screen
+  install.button.label: Tambahkan ke Layar Beranda
+  # Install modal: heading.
+  # English: Add Tune Out to your Home Screen
+  install.title: Tambahkan Tune Out ke Layar Beranda
+  # Install modal: explanatory body (no placeholders).
+  # English: Install the catalog as an app for full-screen playback and one-tap access from your Home Screen. No App Store account needed.
+  install.body: Instal katalog sebagai aplikasi agar bisa diputar layar penuh dan dibuka satu ketuk dari Layar Beranda. Tidak perlu akun App Store.
+  # Install modal — iOS step 1. `{shareIcon}` is replaced with an inline share-icon SVG.
+  # English: Tap the Share button {shareIcon} in Safari's toolbar.
+  install.ios.step1: Ketuk tombol Bagikan {shareIcon} di bilah alat Safari.
+  # Install modal — iOS step 2 (HTML allowed; uses <strong> for the menu item name).
+  # English: Scroll down and choose <strong>Add to Home Screen</strong>.
+  install.ios.step2: Gulir ke bawah dan pilih <strong>Tambahkan ke Layar Beranda</strong>.
+  # Install modal — iOS step 3 (HTML allowed).
+  # English: Tap <strong>Add</strong> in the top-right corner. Tune Out will appear on your Home Screen.
+  install.ios.step3: Ketuk <strong>Tambah</strong> di pojok kanan atas. Tune Out akan muncul di Layar Beranda.
+  # Install modal — Android-non-Chromium step 1. `{shareIcon}` becomes the browser menu icon.
+  # English: Open your browser's menu {shareIcon}.
+  install.android.step1: Buka menu peramban {shareIcon}.
+  # Install modal — Android-non-Chromium step 2 (HTML allowed).
+  # English: Tap <strong>Install app</strong> (or <strong>Add to Home screen</strong>).
+  install.android.step2: Ketuk <strong>Instal aplikasi</strong> (atau <strong>Tambahkan ke layar utama</strong>).
+  # Install modal — Android-non-Chromium step 3 (HTML allowed).
+  # English: Confirm; Tune Out will appear in your app drawer.
+  install.android.step3: Konfirmasi; Tune Out akan muncul di laci aplikasi.
+  # Install modal: Close / Done button label (also the close-icon aria-label).
+  # English: Close
+  install.close: Tutup
+tags:
+  # Genre / tag labels — shown on chips, filters, and station detail.
+  # These values are owned by scripts/build-tag-i18n.ts; edits here will
+  # be overwritten the next time `npm run build:tag-i18n` runs. Make
+  # permanent edits in TAG_TRANSLATIONS inside that script.
+  # Label for the "pop" tag.
+  # English: Pop
+  pop: Pop
+  # Label for the "rock" tag.
+  # English: Rock
+  rock: Rock
+  # Label for the "jazz" tag.
+  # English: Jazz
+  jazz: Jazz
+  # Label for the "classical" tag.
+  # English: Classical
+  classical: Klasik
+  # Label for the "blues" tag.
+  # English: Blues
+  blues: Blues
+  # Label for the "folk" tag.
+  # English: Folk
+  folk: Folk
+  # Label for the "country" tag.
+  # English: Country
+  country: Country
+  # Label for the "electronic" tag.
+  # English: Electronic
+  electronic: Elektronik
+  # Label for the "dance" tag.
+  # English: Dance
+  dance: Dance
+  # Label for the "house" tag.
+  # English: House
+  house: House
+  # Label for the "techno" tag.
+  # English: Techno
+  techno: Techno
+  # Label for the "trance" tag.
+  # English: Trance
+  trance: Trance
+  # Label for the "edm" tag.
+  # English: EDM
+  edm: EDM
+  # Label for the "ambient" tag.
+  # English: Ambient
+  ambient: Ambient
+  # Label for the "lounge" tag.
+  # English: Lounge
+  lounge: Lounge
+  # Label for the "chillout" tag.
+  # English: Chillout
+  chillout: Chillout
+  # Label for the "downtempo" tag.
+  # English: Downtempo
+  downtempo: Downtempo
+  # Label for the "drum-and-bass" tag.
+  # English: Drum & Bass
+  drum-and-bass: Drum & Bass
+  # Label for the "dubstep" tag.
+  # English: Dubstep
+  dubstep: Dubstep
+  # Label for the "hip-hop" tag.
+  # English: Hip-Hop
+  hip-hop: Hip-Hop
+  # Label for the "rap" tag.
+  # English: Rap
+  rap: Rap
+  # Label for the "r-and-b" tag.
+  # English: R&B
+  r-and-b: R&B
+  # Label for the "soul" tag.
+  # English: Soul
+  soul: Soul
+  # Label for the "funk" tag.
+  # English: Funk
+  funk: Funk
+  # Label for the "disco" tag.
+  # English: Disco
+  disco: Disco
+  # Label for the "reggae" tag.
+  # English: Reggae
+  reggae: Reggae
+  # Label for the "reggaeton" tag.
+  # English: Reggaeton
+  reggaeton: Reggaeton
+  # Label for the "ska" tag.
+  # English: Ska
+  ska: Ska
+  # Label for the "metal" tag.
+  # English: Metal
+  metal: Metal
+  # Label for the "hardcore" tag.
+  # English: Hardcore
+  hardcore: Hardcore
+  # Label for the "punk" tag.
+  # English: Punk
+  punk: Punk
+  # Label for the "indie" tag.
+  # English: Indie
+  indie: Indie
+  # Label for the "alternative" tag.
+  # English: Alternative
+  alternative: Alternatif
+  # Label for the "classic-rock" tag.
+  # English: Classic Rock
+  classic-rock: Rock klasik
+  # Label for the "soft-rock" tag.
+  # English: Soft Rock
+  soft-rock: Soft rock
+  # Label for the "hard-rock" tag.
+  # English: Hard Rock
+  hard-rock: Hard rock
+  # Label for the "prog-rock" tag.
+  # English: Prog Rock
+  prog-rock: Rock progresif
+  # Label for the "pop-rock" tag.
+  # English: Pop Rock
+  pop-rock: Pop rock
+  # Label for the "gospel" tag.
+  # English: Gospel
+  gospel: Gospel
+  # Label for the "christian-music" tag.
+  # English: Christian
+  christian-music: Kristen
+  # Label for the "opera" tag.
+  # English: Opera
+  opera: Opera
+  # Label for the "instrumental" tag.
+  # English: Instrumental
+  instrumental: Instrumental
+  # Label for the "soundtrack" tag.
+  # English: Soundtrack
+  soundtrack: Soundtrack
+  # Label for the "smooth-jazz" tag.
+  # English: Smooth Jazz
+  smooth-jazz: Smooth Jazz
+  # Label for the "synthpop" tag.
+  # English: Synthpop
+  synthpop: Synthpop
+  # Label for the "new-wave" tag.
+  # English: New Wave
+  new-wave: New Wave
+  # Label for the "oldies" tag.
+  # English: Oldies
+  oldies: Lagu lawas
+  # Label for the "hits" tag.
+  # English: Hits
+  hits: Hits
+  # Label for the "top-40" tag.
+  # English: Top 40
+  top-40: Top 40
+  # Label for the "classic-hits" tag.
+  # English: Classic Hits
+  classic-hits: Hits klasik
+  # Label for the "adult-contemporary" tag.
+  # English: Adult Contemporary
+  adult-contemporary: Adult contemporary
+  # Label for the "ballad" tag.
+  # English: Ballads
+  ballad: Balada
+  # Label for the "romantic" tag.
+  # English: Romantic
+  romantic: Romantis
+  # Label for the "retro" tag.
+  # English: Retro
+  retro: Retro
+  # Label for the "experimental" tag.
+  # English: Experimental
+  experimental: Eksperimental
+  # Label for the "lofi" tag.
+  # English: Lo-Fi
+  lofi: Lo-Fi
+  # Label for the "latin" tag.
+  # English: Latin
+  latin: Latin
+  # Label for the "salsa" tag.
+  # English: Salsa
+  salsa: Salsa
+  # Label for the "cumbia" tag.
+  # English: Cumbia
+  cumbia: Cumbia
+  # Label for the "merengue" tag.
+  # English: Merengue
+  merengue: Merengue
+  # Label for the "tropical" tag.
+  # English: Tropical
+  tropical: Tropis
+  # Label for the "regional-mexican" tag.
+  # English: Regional Mexican
+  regional-mexican: Regional Meksiko
+  # Label for the "bollywood" tag.
+  # English: Bollywood
+  bollywood: Bollywood
+  # Label for the "k-pop" tag.
+  # English: K-Pop
+  k-pop: K-Pop
+  # Label for the "j-pop" tag.
+  # English: J-Pop
+  j-pop: J-Pop
+  # Label for the "anime" tag.
+  # English: Anime
+  anime: Anime
+  # Label for the "arabic-music" tag.
+  # English: Arabic
+  arabic-music: Arab
+  # Label for the "world" tag.
+  # English: World
+  world: Musik dunia
+  # Label for the "50s" tag.
+  # English: 50s
+  50s: Era 50-an
+  # Label for the "60s" tag.
+  # English: 60s
+  60s: Era 60-an
+  # Label for the "70s" tag.
+  # English: 70s
+  70s: Era 70-an
+  # Label for the "80s" tag.
+  # English: 80s
+  80s: Era 80-an
+  # Label for the "90s" tag.
+  # English: 90s
+  90s: Era 90-an
+  # Label for the "2000s" tag.
+  # English: 2000s
+  2000s: Era 2000-an
+  # Label for the "2010s" tag.
+  # English: 2010s
+  2010s: Era 2010-an
+  # Label for the "news" tag.
+  # English: News
+  news: Berita
+  # Label for the "news-talk" tag.
+  # English: News & Talk
+  news-talk: Berita & Talk
+  # Label for the "talk" tag.
+  # English: Talk
+  talk: Bicara
+  # Label for the "sports" tag.
+  # English: Sports
+  sports: Olahraga
+  # Label for the "sports-talk" tag.
+  # English: Sports Talk
+  sports-talk: Bincang olahraga
+  # Label for the "comedy" tag.
+  # English: Comedy
+  comedy: Komedi
+  # Label for the "public-radio" tag.
+  # English: Public Radio
+  public-radio: Radio publik
+  # Label for the "community-radio" tag.
+  # English: Community Radio
+  community-radio: Radio komunitas
+  # Label for the "local-news" tag.
+  # English: Local News
+  local-news: Berita lokal
+  # Label for the "religious" tag.
+  # English: Religious
+  religious: Religi
+  # Label for the "catholic" tag.
+  # English: Catholic
+  catholic: Katolik
+  # Label for the "islamic" tag.
+  # English: Islamic
+  islamic: Islami
+  # Label for the "culture" tag.
+  # English: Culture
+  culture: Budaya
+  # Label for the "education" tag.
+  # English: Education
+  education: Pendidikan
+  # Label for the "politics" tag.
+  # English: Politics
+  politics: Politik
+  # Label for the "business" tag.
+  # English: Business
+  business: Bisnis
+  # Label for the "lifestyle" tag.
+  # English: Lifestyle
+  lifestyle: Gaya hidup
+  # Label for the "kids" tag.
+  # English: Kids
+  kids: Anak
+  # Label for the "podcast" tag.
+  # English: Podcast
+  podcast: Podcast
+  # Label for the "party" tag.
+  # English: Party
+  party: Pesta
+  # Label for the "sleep" tag.
+  # English: Sleep
+  sleep: Tidur

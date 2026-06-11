@@ -5,20 +5,23 @@ import { locale } from './store.js';
 // Re-export so main.ts can keep importing from ./i18n.js
 export const isSupportedLocale = _isSupportedLocale;
 
+interface LocaleBundle {
+  strings: Record<string, string>;
+  tags: Record<string, string>;
+}
+
 let strings: Record<string, string> = {};
 let tags: Record<string, string> = {};
 
 export async function setLocale(l: Locale): Promise<void> {
-  // Eager-import the JSON modules so the bundler can split them.
-  // Tag labels are loaded for *every* locale including English — the
-  // dictionary turns canonical slugs (`pop-rock`, `r-and-b`, `k-pop`) into
-  // user-friendly labels (`Pop Rock`, `R&B`, `K-Pop`).
-  const [s, t] = await Promise.all([
-    import(`./i18n/strings/${l}.json`).then((m) => m.default as Record<string, string>),
-    import(`./i18n/tags/${l}.json`).then((m) => m.default as Record<string, string>),
-  ]);
-  strings = s;
-  tags = t;
+  // One YAML per locale (./i18n/<l>.yaml) carries both the UI strings and
+  // the canonical-tag dictionary. Contributors edit a single file when
+  // improving a translation; the Vite plugin in astro.config.mjs parses
+  // YAML at build time and emits the bundle as a JSON-shaped JS module,
+  // so no YAML parser ships to the browser.
+  const bundle = (await import(`./i18n/${l}.yaml`).then((m) => m.default)) as LocaleBundle;
+  strings = bundle.strings ?? {};
+  tags = bundle.tags ?? {};
   document.documentElement.lang = l;
   document.documentElement.dir = LOCALES[l].dir;
   try { localStorage.setItem('tuneout.locale', l); } catch { /* quota */ }

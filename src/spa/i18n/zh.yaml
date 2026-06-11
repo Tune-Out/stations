@@ -1,0 +1,791 @@
+# ─────────────────────────────────────────────────────────────────────────
+# Tune Out — UI translations for: 简体中文 — Chinese (zh)
+# ─────────────────────────────────────────────────────────────────────────
+
+# This file has two sections:
+
+#   • `strings:` — UI text used throughout the catalog. Translate the
+#     values; leave the keys untouched. Tokens like `{name}` and `{n}`
+#     are placeholders the runtime substitutes — preserve them verbatim,
+#     and keep any inline HTML (`<code>`, `<a>` …) intact.
+
+#   • `tags:` — labels for the genre/tag chips. The values here are
+#     regenerated from `scripts/build-tag-i18n.ts` whenever someone runs
+#     `npm run build:tag-i18n`, so permanent edits should go in that
+#     script's `TAG_TRANSLATIONS` table. The keys are slugs and never
+#     change.
+
+# To contribute a translation:
+#   1. Click the pencil (✎) in GitHub's top-right to edit this file.
+#   2. Change values, not keys, and keep `{placeholders}` intact.
+#   3. Commit; GitHub will offer to open a pull request automatically.
+
+# GitHub's pull-request walkthrough: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests
+# ─────────────────────────────────────────────────────────────────────────
+
+strings:
+  # UI strings. Translate the values; keep the keys and any {placeholders}.
+  # Page <title> + OpenGraph title used by the static shells.
+  # English: Tune Out
+  app.title: 调出
+  # OpenGraph description / fallback tagline.
+  # English: Stream internet radio.
+  app.tagline: 收听互联网广播。
+  # Sidebar nav — Home link label.
+  # English: Home
+  nav.home: 首页
+  # Sidebar nav — Browse link label.
+  # English: Browse
+  nav.browse: 浏览
+  # Sidebar nav — Search link label.
+  # English: Search
+  nav.search: 搜索
+  # Sidebar nav — Downloads link label.
+  # English: Downloads
+  nav.downloads: 下载
+  # Sidebar nav — About link label.
+  # English: About
+  nav.about: 关于
+  # Sidebar section heading: recently played stations.
+  # English: Recents
+  section.recents: 最近
+  # Sidebar section heading: favorited stations.
+  # English: Favorites
+  section.favorites: 收藏
+  # Home section heading: most popular stations (legacy — replaced by worldwide / in_language).
+  # English: Top stations
+  section.top_stations: 热门电台
+  # Home view: heading for the global Top Stations rail.
+  # English: Top Stations Worldwide
+  section.top_stations_worldwide: 全球热门电台
+  # Home view: heading for the per-locale Top Stations rail. `{language}` is the locale's native name.
+  # English: Top Stations in {language}
+  section.top_stations_in_language: "{language}热门电台"
+  # Home/Browse heading: popular-countries grid.
+  # English: Browse by country
+  section.popular_countries: 按国家浏览
+  # Home/Browse heading: popular-tags chip row.
+  # English: Browse by tag
+  section.popular_tags: 按标签浏览
+  # Home/Browse heading: popular-languages chip row.
+  # English: Browse by language
+  section.popular_languages: 按语言浏览
+  # Search-results section heading.
+  # English: Results
+  section.results: 结果
+  # Empty-state heading when no results match.
+  # English: No results.
+  section.no_results: 无结果。
+  # Home heading: pick-up-where-you-left-off rail.
+  # English: Continue listening
+  section.continue_listening: 继续收听
+  # Home hero headline.
+  # English: Every station,
+  #in one quiet catalog.
+  home.hero.title: |-
+    每一座电台，
+    汇成一份安静的目录。
+  # Home hero subtitle (under the headline).
+  # English: Search, listen, share — no account, no tracking. {count} stations and counting.
+  home.hero.lede: 搜索、聆听、分享——无账户，无追踪。已收录 {count} 个电台，仍在增加。
+  # Search input placeholder — compact top-bar input.
+  # English: Search stations…
+  search.placeholder: 搜索电台…
+  # Search input placeholder — full Search view input.
+  # English: Search by name, tag, country, language…
+  search.placeholder.global: 按名称、标签、国家或语言搜索…
+  # Search filter label: country.
+  # English: Country
+  search.filter.country: 国家
+  # Search filter label: codec (mp3 / aac / ogg …).
+  # English: Codec
+  search.filter.codec: 编码
+  # Search filter label: spoken language.
+  # English: Language
+  search.filter.language: 语言
+  # Search filter label: editorial nature (public / community …).
+  # English: Station type
+  search.filter.nature: 电台类型
+  # Search filter label: only show stations the last health check says are up.
+  # English: Online only
+  search.filter.online_only: 仅限在线
+  # Search filters: "Clear filters" button label.
+  # English: Clear
+  search.clear: 清除
+  # Search sort dropdown label.
+  # English: Sort by
+  search.sort.label: 排序方式
+  # Search sort option — relevance (FTS5 rank).
+  # English: Most relevant
+  search.sort.relevance: 最相关
+  # Search sort option — most clicks.
+  # English: Most popular
+  search.sort.popular: 最受欢迎
+  # Search sort option — recent vote velocity.
+  # English: Trending
+  search.sort.trending: 热门
+  # Search sort option — alphabetical.
+  # English: Name (A-Z)
+  search.sort.name: 名称 (A-Z)
+  # Search sort option — bitrate descending.
+  # English: Highest bitrate
+  search.sort.bitrate: 比特率最高
+  # Search sort option — last-changed timestamp.
+  # English: Recently updated
+  search.sort.fresh: 最近更新
+  # Search sort option — randomised.
+  # English: Shuffle
+  search.sort.shuffle: 随机播放
+  # Search view empty state (no query yet).
+  # English: Try a name, a country, a tag, or a language.
+  search.empty: 试试名称、国家、标签或语言。
+  # One-liner under the search box explaining supported syntax.
+  # English: Tip
+  search.syntax_hint: 提示
+  # Result count, plural. Uses `{n}` (e.g. "{n} stations").
+  # English: {count} results
+  search.count: "{count} 个结果"
+  # Result count, singular form.
+  # English: 1 result
+  search.count_one: 1 个结果
+  # Station detail: Play button label.
+  # English: Play
+  station.play: 播放
+  # Station detail: Pause button label.
+  # English: Pause
+  station.pause: 暂停
+  # Station detail: Add-to-favorites button label.
+  # English: Favorite
+  station.favorite: 收藏
+  # Station detail: Remove-from-favorites button label.
+  # English: Remove favorite
+  station.unfavorite: 取消收藏
+  # Station detail: link to the station's own homepage.
+  # English: Visit homepage
+  station.visit_homepage: 访问官网
+  # Station detail: opens the YAML in GitHub's web editor.
+  # English: Edit on GitHub
+  station.edit_on_github: 在 GitHub 编辑
+  # Station detail: link to the PR template for update requests.
+  # English: View update template
+  station.update_template: 查看更新模板
+  # Station detail: status badge — last health check OK.
+  # English: Online
+  station.online: 在线
+  # Station detail: status badge — last health check failed.
+  # English: Offline
+  station.offline: 离线
+  # Station detail: label for the raw audio stream URL row.
+  # English: Stream URL
+  station.stream_url: 流地址
+  # Station detail: heading for the tag-chip row.
+  # English: Tags
+  station.tags: 标签
+  # Station detail: codec metadata label.
+  # English: Codec
+  station.codec: 编码
+  # Station detail: bitrate metadata label.
+  # English: Bitrate
+  station.bitrate: 码率
+  # Station detail: bitrate unit suffix (kbps).
+  # English: {n} kbps
+  station.bitrate_kbps: "{n} kbps"
+  # Station detail: country metadata label.
+  # English: Country
+  station.country: 国家
+  # Station detail: language metadata label.
+  # English: Language
+  station.language: 语言
+  # Station detail: upstream vote count label.
+  # English: Votes
+  station.votes: 票数
+  # Station detail: city/region row label.
+  # English: Location
+  station.location: 位置
+  # Station detail: editorial background / history heading.
+  # English: Background
+  station.background: 背景
+  # Station detail: nature (public / community / commercial …) label.
+  # English: Station type
+  station.nature: 电台类型
+  # Station detail: operator / parent-org row label.
+  # English: Operator
+  station.operator: 运营方
+  # Station detail: network/affiliation chips row label.
+  # English: Affiliations
+  station.affiliations: 关联
+  # Station detail: target audience row label.
+  # English: Audience
+  station.audience: 受众
+  # Station detail: programming format row label.
+  # English: Format
+  station.format: 形式
+  # Station detail: editorial notes row label.
+  # English: Notes
+  station.notes: 备注
+  # Station detail: citation/source list heading.
+  # English: Sources
+  station.sources: 来源
+  # Station detail: toggle to reveal the raw stream URL.
+  # English: Show URL
+  station.show_url: 显示链接
+  # Station detail: open the station's lat/lon in a map app.
+  # English: Open in OpenStreetMap
+  station.open_in_map: 在 OpenStreetMap 中打开
+  # Browse view: page title.
+  # English: Browse the catalog.
+  browse.title: 探索目录。
+  # Browse view: countries facet section heading.
+  # English: Countries
+  browse.countries: 国家
+  # Browse view: tags facet section heading.
+  # English: Tags
+  browse.tags: 标签
+  # Browse view: languages facet section heading.
+  # English: Languages
+  browse.languages: 语言
+  # Sticky player bar: "Now playing" preamble.
+  # English: Now playing
+  player.now_playing: 正在播放
+  # Sticky player bar: empty state (no station selected).
+  # English: No station selected.
+  player.no_station: 未选择电台。
+  # Sticky player bar: status while a stream is loading.
+  # English: Connecting…
+  player.connecting: 正在连接…
+  # Sticky player bar: stream error state.
+  # English: Stream error
+  player.error: 流错误
+  # Sticky player bar: previous-track button label.
+  # English: Previous
+  player.previous: 上一首
+  # Sticky player bar: next-track button label.
+  # English: Next
+  player.next: 下一首
+  # Sticky player bar: volume slider aria-label.
+  # English: Volume
+  player.volume: 音量
+  # Sticky player bar: open the current station's detail page.
+  # English: Open station page
+  player.open_station: 打开电台页面
+  # Sticky player bar: collapse on mobile.
+  # English: Minimize
+  player.minimize: 缩小
+  # Sticky player bar: expand from the minimised peek.
+  # English: Expand
+  player.expand: 展开
+  # Downloads view: page title.
+  # English: Take the catalog with you.
+  downloads.title: 把目录带走。
+  # Downloads view: page subtitle.
+  # English: Open data — public-domain (CC0). Pick the format you need.
+  downloads.subtitle: 开放数据 — 公共领域（CC0）。挑选你需要的格式。
+  # Downloads view: column label for artifact size.
+  # English: Size
+  downloads.size: 大小
+  # Downloads view: column label for SHA-256 hash.
+  # English: SHA-256
+  downloads.sha256: SHA-256
+  # Downloads card title — full SQLite database.
+  # English: SQLite database
+  downloads.sqlite.title: SQLite 数据库
+  # Downloads card subtitle — SQLite.
+  # English: stations.sqlite — full schema with FTS5 and locale columns
+  downloads.sqlite.subtitle: stations.sqlite — 包含 FTS5 与本地化列的完整结构
+  # Downloads card description — SQLite.
+  # English: A queryable database of every station with a full-text search virtual table that includes localized fields.
+  downloads.sqlite.desc: 可查询每个电台的数据库，FTS5 全文检索表中已包含本地化字段。
+  # Downloads card title — YAML tarball.
+  # English: Zipped YAML
+  downloads.zip.title: 打包 YAML
+  # Downloads card subtitle — YAML tarball.
+  # English: stations.zip — every per-station YAML in the sharded layout
+  downloads.zip.subtitle: stations.zip — 每个电台一份 YAML，按 shard 组织
+  # Downloads card description — YAML tarball.
+  # English: The raw source-of-truth. One file per station; edit and submit a pull request.
+  downloads.zip.desc: 原始来源数据。每个电台一个文件；编辑后提交 Pull Request 即可。
+  # Downloads card title — compact JSON dump.
+  # English: Compact JSON
+  downloads.jsongz.title: 紧凑 JSON
+  # Downloads card subtitle — compact JSON dump.
+  # English: stations.json.gz — single gzipped array of all stations
+  downloads.jsongz.subtitle: stations.json.gz — 所有电台合为一个 gzip 压缩的 JSON 数组
+  # Downloads card description — compact JSON dump.
+  # English: A single concatenated JSON of every record, gzipped. Useful for piping into jq.
+  downloads.jsongz.desc: 把所有记录连成一个 gzip JSON。配合 jq 很顺手。
+  # Placeholder when an artifact has not been built yet.
+  # English: Available after the next data build.
+  downloads.available_after_build: 下一次数据构建后即可获取。
+  # Footnote: artifacts attached to GitHub Releases, not Pages.
+  # English: Hosted as a GitHub Release asset:
+  downloads.released_separately: 作为 GitHub Release 资源托管：
+  # About view: page title (also reused as kicker).
+  # English: About
+  about.title: 关于
+  # About view: lead paragraph.
+  # English: Tune Out is a small, non-commercial, open-source community project. It makes the world's internet radio stations easy to browse, search, and share — and publishes that catalog as fully open data.
+  about.lede: 调出 是一个小型、非商业、开源的社区项目。它让全世界的互联网广播变得易于浏览、检索与分享，并将这份目录作为完全开放的数据发布。
+  # About section heading — where the data comes from.
+  # English: Where the data comes from
+  about.data.title: 数据来源
+  # About body — where the data comes from.
+  # English: Station metadata comes from a variety of public domain and free data sources, such as wikipedia.org and radio-browser.info.
+  about.data.body: 电台元数据来自多种公共领域和自由数据源，例如 wikipedia.org 和 radio-browser.info。
+  # About section heading — license.
+  # English: License
+  about.license.title: 许可
+  # About body — license.
+  # English: Code and data are dedicated to the public domain under CC0 1.0 — the most permissive Creative Commons option.
+  about.license.body: 代码与数据以 CC0 1.0 奉献至公共领域 — 这是 Creative Commons 最宽松的选项。
+  # About section heading — privacy.
+  # English: Privacy
+  about.privacy.title: 隐私
+  # About body — privacy.
+  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
+  about.privacy.body: 无账户、无追踪。最近、收藏与歌单都保存在你的浏览器中。封面查找仅以歌曲名调用 Apple 公开的 iTunes Search API，不会发送任何标识。
+  # About section heading — contributing.
+  # English: Contributing translations
+  about.contributing.title: 贡献翻译
+  # About body — contributing.
+  # English: Every station page has an "Edit on GitHub" link. Add per-language description, summary, or keywords in the YAML's `localized:` block — your translation goes live on the next build.
+  about.contributing.body: 每个电台页面都有「在 GitHub 编辑」链接。在 YAML 的 `localized:` 块中按语言添加描述、摘要或关键词 — 你的翻译会在下次构建时上线。
+  # Loading screen heading shown during first SQLite download.
+  # English: Loading catalog…
+  loading.title: 正在加载目录…
+  # Loading screen subtitle / one-time-download note.
+  # English: Downloading the database — this only happens once.
+  loading.subtitle: 正在下载数据库 — 只需一次。
+  # Loading screen text on the warm path (DB from OPFS cache).
+  # English: Loading from cache…
+  loading.cached: 从缓存加载…
+  # Generic error heading when a view fails to render.
+  # English: Something went wrong.
+  error.title: 出了点问题。
+  # Generic Retry button label on error states.
+  # English: Reload
+  error.retry: 重新加载
+  # Footer: non-commercial / no-tracking statement.
+  # English: A non-commercial open-source community project.
+  footer.non_commercial: 非商业开源社区项目。
+  # Footer: public-domain license notice.
+  # English: All metadata in this catalog is in the public domain.
+  footer.public_domain: 本目录的全部元数据都在公共领域。
+  # Footer: anchor label pointing at the source repo.
+  # English: Source on GitHub
+  footer.source: 在 GitHub 查看源代码
+  # Footer: credit to radio-browser.info upstream.
+  # English: Data: radio-browser.info
+  footer.upstream: "数据: radio-browser.info"
+  # Theme picker: aria/tooltip label for the picker button.
+  # English: Theme
+  theme.label: 主题
+  # Theme picker option — light.
+  # English: Light
+  theme.light: 明亮
+  # Theme picker option — follow OS preference.
+  # English: System
+  theme.system: 跟随系统
+  # Theme picker option — dark.
+  # English: Dark
+  theme.dark: 深色
+  # Theme picker: heading for the visual-skin sub-section.
+  # English: Theme style
+  theme.skin.label: 主题风格
+  # Theme picker: alternate heading for the skin chooser.
+  # English: Choose a style
+  theme.skin.title: 选择一种风格
+  # Skin "Classic" — display name.
+  # English: Classic
+  theme.skin.classic.name: 经典
+  # Skin "Classic" — short description shown beneath the name.
+  # English: The default Tune Out look.
+  theme.skin.classic.description: Tune Out 默认外观。
+  # Skin "Minimal" — display name.
+  # English: Minimal
+  theme.skin.minimal.name: 极简
+  # Skin "Minimal" — short description.
+  # English: Neutral greys, easy on the eyes.
+  theme.skin.minimal.description: 中性灰，护眼。
+  # Skin "Solarpunk" — display name.
+  # English: Solarpunk
+  theme.skin.solarpunk.name: 太阳朋克
+  # Skin "Solarpunk" — short description.
+  # English: Sunlit greens and elegant serif headlines.
+  theme.skin.solarpunk.description: 阳光下的绿色与雅致衬线标题。
+  # Skin "Futurist" — display name.
+  # English: Futurist
+  theme.skin.futurist.name: 未来主义
+  # Skin "Futurist" — short description.
+  # English: Neon magenta on near-black, geometric type.
+  theme.skin.futurist.description: 近黑底色上的霓虹品红，几何字体。
+  # Skin "Applish" — display name.
+  # English: Applish
+  theme.skin.applish.name: Applish
+  # Skin "Applish" — short description.
+  # English: Think Different with clean type.
+  theme.skin.applish.description: 灵感来自 apple.com — 简洁字体与 iOS 蓝。
+  # Skin "Winamp" — display name.
+  # English: WinAmp
+  theme.skin.winamp.name: WinAmp
+  # Skin "Winamp" — short description.
+  # English: Mid-90s neon-green LED on industrial grey.
+  theme.skin.winamp.description: 90 年代霓虹绿 LED 配工业灰。
+  # Aria/tooltip label for the locale picker button.
+  # English: Language
+  locale.label: 语言
+  # "Other languages…" menu entry — routes to the About page.
+  # English: Other languages…
+  locale.other_languages: 其他语言…
+  # Heading: per-station localized text.
+  # English: Localizing individual stations
+  faq.station_text.title: 本地化单个电台
+  # Body paragraph for per-station localization.
+  # English: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  faq.station_text.body: 每个电台的 YAML 文件可以加上一个可选的 <code>localized:</code> 段，以语言代码作为键。每个语言下可覆盖电台名称，并提供描述、一行摘要与额外搜索关键词。未填写的字段会回退到英文原始数据。
+  # Heading: how to get in touch.
+  # English: Where to ask
+  faq.contact.title: 去哪里提问
+  # Body paragraph; the `{repo}` placeholder is replaced with the repo URL.
+  # English: Issues and proposals live on GitHub at {repo}. The repository's README has the maintainer roster.
+  faq.contact.body: Issue 与提案都在 GitHub 上 {repo}。仓库的 README 列出了维护者名单。
+  # About section heading — invite to improve this locale.
+  # English: Improve this language
+  about.improve_translation.title: 改进此语言
+  # About paragraph explaining where translations live.
+  # English: Translations are stored in a single YAML file per locale. Open the current language file on GitHub, edit the values under the `strings` section, and submit a pull request.
+  about.improve_translation.body: 每个语言的翻译都存放在一个 YAML 文件里。在 GitHub 上打开当前语言文件，编辑 `strings` 部分的值，然后提交 pull request。
+  # Label inside the GitHub-edit CTA button on About (file path is appended in code).
+  # English: Edit on GitHub
+  about.improve_translation.edit: 在 GitHub 上编辑
+  # Anchor label for the GitHub PR-walkthrough docs link.
+  # English: GitHub: proposing changes with pull requests
+  about.improve_translation.pr_docs: "GitHub: 通过 pull request 提交修改"
+  # About view: sub-heading for the "Adding a new language" blurb.
+  # English: Adding a new language
+  about.add_language.title: 添加新语言
+  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
+  # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  about.add_language.body: 要添加新语言，请提交一个 pull request，把 <code>src/spa/i18n/en.yaml</code> 复制到一个以目标语言 BCP-47 代码命名的文件 &mdash; 例如，把它重命名为 <code>uk.yaml</code> 来添加乌克兰语 &mdash; 然后翻译 <code>strings:</code> 下的值。保持键名、注释和 <code>{placeholders}</code> 原样。文件合并后，目录会自动识别新语言。
+  # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
+  # English: Add to Home Screen
+  install.button.label: 添加到主屏幕
+  # Install modal: heading.
+  # English: Add Tune Out to your Home Screen
+  install.title: 将 Tune Out 添加到主屏幕
+  # Install modal: explanatory body (no placeholders).
+  # English: Install the catalog as an app for full-screen playback and one-tap access from your Home Screen. No App Store account needed.
+  install.body: 将目录安装为应用，可全屏播放，并从主屏幕一键打开。无需 App Store 账号。
+  # Install modal — iOS step 1. `{shareIcon}` is replaced with an inline share-icon SVG.
+  # English: Tap the Share button {shareIcon} in Safari's toolbar.
+  install.ios.step1: 点击 Safari 工具栏中的「分享」按钮 {shareIcon}。
+  # Install modal — iOS step 2 (HTML allowed; uses <strong> for the menu item name).
+  # English: Scroll down and choose <strong>Add to Home Screen</strong>.
+  install.ios.step2: 向下滚动并选择 <strong>添加到主屏幕</strong>。
+  # Install modal — iOS step 3 (HTML allowed).
+  # English: Tap <strong>Add</strong> in the top-right corner. Tune Out will appear on your Home Screen.
+  install.ios.step3: 点击右上角的 <strong>添加</strong>。Tune Out 将出现在主屏幕。
+  # Install modal — Android-non-Chromium step 1. `{shareIcon}` becomes the browser menu icon.
+  # English: Open your browser's menu {shareIcon}.
+  install.android.step1: 打开浏览器菜单 {shareIcon}。
+  # Install modal — Android-non-Chromium step 2 (HTML allowed).
+  # English: Tap <strong>Install app</strong> (or <strong>Add to Home screen</strong>).
+  install.android.step2: 点击 <strong>安装应用</strong>（或 <strong>添加到主屏幕</strong>）。
+  # Install modal — Android-non-Chromium step 3 (HTML allowed).
+  # English: Confirm; Tune Out will appear in your app drawer.
+  install.android.step3: 确认后，Tune Out 会出现在应用列表中。
+  # Install modal: Close / Done button label (also the close-icon aria-label).
+  # English: Close
+  install.close: 关闭
+tags:
+  # Genre / tag labels — shown on chips, filters, and station detail.
+  # These values are owned by scripts/build-tag-i18n.ts; edits here will
+  # be overwritten the next time `npm run build:tag-i18n` runs. Make
+  # permanent edits in TAG_TRANSLATIONS inside that script.
+  # Label for the "pop" tag.
+  # English: Pop
+  pop: 流行
+  # Label for the "rock" tag.
+  # English: Rock
+  rock: 摇滚
+  # Label for the "jazz" tag.
+  # English: Jazz
+  jazz: 爵士
+  # Label for the "classical" tag.
+  # English: Classical
+  classical: 古典
+  # Label for the "blues" tag.
+  # English: Blues
+  blues: 蓝调
+  # Label for the "folk" tag.
+  # English: Folk
+  folk: 民谣
+  # Label for the "country" tag.
+  # English: Country
+  country: 乡村
+  # Label for the "electronic" tag.
+  # English: Electronic
+  electronic: 电子
+  # Label for the "dance" tag.
+  # English: Dance
+  dance: 舞曲
+  # Label for the "house" tag.
+  # English: House
+  house: 浩室
+  # Label for the "techno" tag.
+  # English: Techno
+  techno: 科技舞曲
+  # Label for the "trance" tag.
+  # English: Trance
+  trance: 迷幻
+  # Label for the "edm" tag.
+  # English: EDM
+  edm: 电子舞曲
+  # Label for the "ambient" tag.
+  # English: Ambient
+  ambient: 氛围
+  # Label for the "lounge" tag.
+  # English: Lounge
+  lounge: 酒廊
+  # Label for the "chillout" tag.
+  # English: Chillout
+  chillout: 放松
+  # Label for the "downtempo" tag.
+  # English: Downtempo
+  downtempo: 慢节奏
+  # Label for the "drum-and-bass" tag.
+  # English: Drum & Bass
+  drum-and-bass: 鼓打贝斯
+  # Label for the "dubstep" tag.
+  # English: Dubstep
+  dubstep: 回响贝斯
+  # Label for the "hip-hop" tag.
+  # English: Hip-Hop
+  hip-hop: 嘻哈
+  # Label for the "rap" tag.
+  # English: Rap
+  rap: 说唱
+  # Label for the "r-and-b" tag.
+  # English: R&B
+  r-and-b: 节奏蓝调
+  # Label for the "soul" tag.
+  # English: Soul
+  soul: 灵魂乐
+  # Label for the "funk" tag.
+  # English: Funk
+  funk: 放克
+  # Label for the "disco" tag.
+  # English: Disco
+  disco: 迪斯科
+  # Label for the "reggae" tag.
+  # English: Reggae
+  reggae: 雷鬼
+  # Label for the "reggaeton" tag.
+  # English: Reggaeton
+  reggaeton: 雷鬼动
+  # Label for the "ska" tag.
+  # English: Ska
+  ska: 斯卡
+  # Label for the "metal" tag.
+  # English: Metal
+  metal: 金属
+  # Label for the "hardcore" tag.
+  # English: Hardcore
+  hardcore: 硬核
+  # Label for the "punk" tag.
+  # English: Punk
+  punk: 朋克
+  # Label for the "indie" tag.
+  # English: Indie
+  indie: 独立
+  # Label for the "alternative" tag.
+  # English: Alternative
+  alternative: 另类
+  # Label for the "classic-rock" tag.
+  # English: Classic Rock
+  classic-rock: 经典摇滚
+  # Label for the "soft-rock" tag.
+  # English: Soft Rock
+  soft-rock: 软摇滚
+  # Label for the "hard-rock" tag.
+  # English: Hard Rock
+  hard-rock: 硬式摇滚
+  # Label for the "prog-rock" tag.
+  # English: Prog Rock
+  prog-rock: 前卫摇滚
+  # Label for the "pop-rock" tag.
+  # English: Pop Rock
+  pop-rock: 流行摇滚
+  # Label for the "gospel" tag.
+  # English: Gospel
+  gospel: 福音
+  # Label for the "christian-music" tag.
+  # English: Christian
+  christian-music: 基督教
+  # Label for the "opera" tag.
+  # English: Opera
+  opera: 歌剧
+  # Label for the "instrumental" tag.
+  # English: Instrumental
+  instrumental: 器乐
+  # Label for the "soundtrack" tag.
+  # English: Soundtrack
+  soundtrack: 原声带
+  # Label for the "smooth-jazz" tag.
+  # English: Smooth Jazz
+  smooth-jazz: 轻爵士
+  # Label for the "synthpop" tag.
+  # English: Synthpop
+  synthpop: 电气流行
+  # Label for the "new-wave" tag.
+  # English: New Wave
+  new-wave: 新浪潮
+  # Label for the "oldies" tag.
+  # English: Oldies
+  oldies: 怀旧金曲
+  # Label for the "hits" tag.
+  # English: Hits
+  hits: 热门
+  # Label for the "top-40" tag.
+  # English: Top 40
+  top-40: 排行榜前 40
+  # Label for the "classic-hits" tag.
+  # English: Classic Hits
+  classic-hits: 经典金曲
+  # Label for the "adult-contemporary" tag.
+  # English: Adult Contemporary
+  adult-contemporary: 成人当代
+  # Label for the "ballad" tag.
+  # English: Ballads
+  ballad: 抒情曲
+  # Label for the "romantic" tag.
+  # English: Romantic
+  romantic: 浪漫
+  # Label for the "retro" tag.
+  # English: Retro
+  retro: 复古
+  # Label for the "experimental" tag.
+  # English: Experimental
+  experimental: 实验
+  # Label for the "lofi" tag.
+  # English: Lo-Fi
+  lofi: 低保真
+  # Label for the "latin" tag.
+  # English: Latin
+  latin: 拉丁
+  # Label for the "salsa" tag.
+  # English: Salsa
+  salsa: 萨尔萨
+  # Label for the "cumbia" tag.
+  # English: Cumbia
+  cumbia: 昆比亚
+  # Label for the "merengue" tag.
+  # English: Merengue
+  merengue: 梅伦格
+  # Label for the "tropical" tag.
+  # English: Tropical
+  tropical: 热带
+  # Label for the "regional-mexican" tag.
+  # English: Regional Mexican
+  regional-mexican: 墨西哥地区
+  # Label for the "bollywood" tag.
+  # English: Bollywood
+  bollywood: 宝莱坞
+  # Label for the "k-pop" tag.
+  # English: K-Pop
+  k-pop: 韩流
+  # Label for the "j-pop" tag.
+  # English: J-Pop
+  j-pop: 日流
+  # Label for the "anime" tag.
+  # English: Anime
+  anime: 动漫
+  # Label for the "arabic-music" tag.
+  # English: Arabic
+  arabic-music: 阿拉伯
+  # Label for the "world" tag.
+  # English: World
+  world: 世界音乐
+  # Label for the "50s" tag.
+  # English: 50s
+  50s: 50年代
+  # Label for the "60s" tag.
+  # English: 60s
+  60s: 60年代
+  # Label for the "70s" tag.
+  # English: 70s
+  70s: 70年代
+  # Label for the "80s" tag.
+  # English: 80s
+  80s: 80年代
+  # Label for the "90s" tag.
+  # English: 90s
+  90s: 90年代
+  # Label for the "2000s" tag.
+  # English: 2000s
+  2000s: 2000年代
+  # Label for the "2010s" tag.
+  # English: 2010s
+  2010s: 2010年代
+  # Label for the "news" tag.
+  # English: News
+  news: 新闻
+  # Label for the "news-talk" tag.
+  # English: News & Talk
+  news-talk: 新闻与谈话
+  # Label for the "talk" tag.
+  # English: Talk
+  talk: 谈话
+  # Label for the "sports" tag.
+  # English: Sports
+  sports: 体育
+  # Label for the "sports-talk" tag.
+  # English: Sports Talk
+  sports-talk: 体育谈话
+  # Label for the "comedy" tag.
+  # English: Comedy
+  comedy: 喜剧
+  # Label for the "public-radio" tag.
+  # English: Public Radio
+  public-radio: 公共广播
+  # Label for the "community-radio" tag.
+  # English: Community Radio
+  community-radio: 社区电台
+  # Label for the "local-news" tag.
+  # English: Local News
+  local-news: 本地新闻
+  # Label for the "religious" tag.
+  # English: Religious
+  religious: 宗教
+  # Label for the "catholic" tag.
+  # English: Catholic
+  catholic: 天主教
+  # Label for the "islamic" tag.
+  # English: Islamic
+  islamic: 伊斯兰
+  # Label for the "culture" tag.
+  # English: Culture
+  culture: 文化
+  # Label for the "education" tag.
+  # English: Education
+  education: 教育
+  # Label for the "politics" tag.
+  # English: Politics
+  politics: 政治
+  # Label for the "business" tag.
+  # English: Business
+  business: 商业
+  # Label for the "lifestyle" tag.
+  # English: Lifestyle
+  lifestyle: 生活方式
+  # Label for the "kids" tag.
+  # English: Kids
+  kids: 儿童
+  # Label for the "podcast" tag.
+  # English: Podcast
+  podcast: 播客
+  # Label for the "party" tag.
+  # English: Party
+  party: 派对
+  # Label for the "sleep" tag.
+  # English: Sleep
+  sleep: 睡眠

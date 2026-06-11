@@ -88,7 +88,9 @@ jobs:
         run: npm ci
 
       - name: Build data artifacts (sqlite + zip + json.gz)
-        run: npm run build:data
+        # `:release` adds stations.zip + stations.json.gz alongside the
+        # sqlite. These are what the Downloads page links to in production.
+        run: npm run build:data:release
 
       - name: Build site
         uses: withastro/action@v6

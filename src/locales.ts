@@ -7,11 +7,14 @@
  *
  *   1. Add an entry to LOCALES below — code, English name, native name,
  *      script direction, page title, page description.
- *   2. Drop a UI-strings translation into  src/spa/i18n/strings/<code>.json
- *      (copy en.json, translate the values, keep the keys).
- *   3. Add a tag-label dictionary into     src/spa/i18n/tags/<code>.json
- *      (or add a column to TAG_TRANSLATIONS in scripts/build-tag-i18n.ts
- *      and run `npm run build:tag-i18n`).
+ *   2. Copy src/spa/i18n/en.yaml to src/spa/i18n/<code>.yaml and translate
+ *      the values under the `strings` section, keeping every key intact.
+ *      Each entry carries a comment explaining what the string is for; the
+ *      file also has a contribution header at the top.
+ *   3. Add a column for the new locale to TAG_TRANSLATIONS in
+ *      scripts/build-tag-i18n.ts and run `npm run build:tag-i18n` — the
+ *      script rewrites the `tags` section in place and preserves whatever
+ *      you've translated under `strings`.
  *
  * Everything else — the SPA router, the Astro page shells, the YAML linter,
  * the SQLite locale columns, the PWA service worker, the redirector — picks
@@ -32,7 +35,7 @@ export const SUPPORTED_LOCALES = [
 export type Locale = (typeof SUPPORTED_LOCALES)[number];
 
 export interface LocaleMeta {
-  /** BCP-47 short code; matches the file names in i18n/strings/<code>.json. */
+  /** BCP-47 short code; matches the file name in i18n/<code>.yaml. */
   code: Locale;
   /** Locale name in English — used in admin/UI fall-backs and the language menu. */
   name: string;

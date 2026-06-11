@@ -2,10 +2,12 @@ import {
   current, nowPlaying, playerError, playerStatus, playing, pushRecent, volume,
 } from './store.js';
 import type { StationRef } from './types.js';
+import { watchIcyMetadata } from './icy.js';
 
 let stationFavicon = '';
 let audioEl: HTMLAudioElement | null = null;
 let attemptId = 0; // increments on each play() — lets stale events drop themselves
+let stopMetadata: (() => void) | null = null;
 
 function el(): HTMLAudioElement {
   if (audioEl) return audioEl;
@@ -98,16 +100,15 @@ export async function play(ref: StationRef): Promise<void> {
     return;
   }
 
-  // ── Strategy ───────────────────────────────────────────────────────────
-  // Native <audio> only. We previously attached icecast-metadata-player to
-  // the same element for ICY metadata extraction (`Now playing: Artist —
-  // Title`). Even with `playbackMethod: 'html5'`, the library installs its
-  // own listeners and resets `src`/calls `pause()` during construction —
-  // which silently killed playback for many otherwise-healthy streams (e.g.
-  // Radio Paradise's `stream-uk1.radioparadise.com/aac-320`). Until we
-  // implement a true side-channel metadata reader that doesn't touch the
-  // audio element, we ship without ICY artist/title and rely on the
-  // station's favicon for the player-bar artwork.
+  // ── Playback ───────────────────────────────────────────────────────────
+  // Native <audio> only — see history note below. We previously attached
+  // icecast-metadata-player to the same element for ICY metadata
+  // extraction; even with `playbackMethod: 'html5'`, the library installs
+  // its own listeners and resets `src`/calls `pause()` during construction,
+  // which silently killed playback for many otherwise-healthy streams
+  // (e.g. Radio Paradise's `stream-uk1.radioparadise.com/aac-320`). The
+  // metadata reader now lives in `icy.ts` and runs on a separate fetch()
+  // connection, so the audio element is never touched.
   audio.src = ref.url;
   audio.volume = volume.get();
   try {
@@ -123,6 +124,27 @@ export async function play(ref: StationRef): Promise<void> {
     playing.set(false);
     return;
   }
+
+  // ── Metadata side-channel ──────────────────────────────────────────────
+  // Start the ICY watcher AFTER playback is established so the player
+  // doesn't share its first-byte window with a competing connection. The
+  // watcher silently fails on CORS / mixed-content / non-ICY streams; on
+  // success it updates `nowPlaying.artist`/`title` every ~30s. We don't
+  // gate updates on attemptId here because the watcher itself captures
+  // `myAttempt` via the closure below and aborts on teardown.
+  stopMetadata?.();
+  stopMetadata = watchIcyMetadata(
+    ref.url,
+    (track) => {
+      if (myAttempt !== attemptId) return;
+      nowPlaying.set({
+        artist: track.artist,
+        title: track.title,
+        raw: track.raw,
+        artworkUrl: stationFavicon,
+      });
+    },
+  );
 }
 
 export function togglePlay(): void {

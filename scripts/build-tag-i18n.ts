@@ -1,25 +1,31 @@
 #!/usr/bin/env tsx
 /**
- * Generate src/spa/i18n/tags/{en,fr,ar,de,it,es,pt,hi,ja,zh,ko,id,ru}.json
- * with localized labels for every canonical tag.
+ * Refresh the `tags` section of src/spa/i18n/{locale}.yaml for every
+ * supported locale, using the canonical TAG_TRANSLATIONS table below.
  *
- * Single source of truth: TAG_TRANSLATIONS below. Each row maps a canonical
- * tag slug to one label per supported locale. Adding a new locale = adding
- * a column. Adding a new tag = adding a row.
+ * The locale bundle has two sections — `strings` (UI translations, hand-
+ * edited) and `tags` (this table). This script preserves any existing
+ * `strings` block and only rewrites `tags`, so contributors who improve
+ * UI strings between regenerations don't lose their work. The file is
+ * regenerated through scripts/lib/i18n-yaml.ts so the header + per-key
+ * comments stay consistent across locales.
  *
  * Run with `npm run build:tag-i18n`. Outputs are deterministic so the diff
  * is easy to review in PRs.
  */
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
+import { parse as parseYaml } from 'yaml';
+
 import { CANONICAL_TAGS, type CanonicalTag } from './lib/canonical.js';
+import { buildLocaleYaml, type LocaleBundle } from './lib/i18n-yaml.js';
 import { SUPPORTED_LOCALES, type Locale } from './lib/schema.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const ROOT = resolve(dirname(__filename), '..');
-const OUT_DIR = join(ROOT, 'src', 'spa', 'i18n', 'tags');
+const OUT_DIR = join(ROOT, 'src', 'spa', 'i18n');
 
 type Row = Record<Locale, string>;
 
@@ -176,16 +182,32 @@ function main(): void {
   }
 
   mkdirSync(OUT_DIR, { recursive: true });
+
+  // Load English first so we can use its key order as the canonical layout
+  // and supply English source strings as comment-aids in every other locale.
+  const enPath = join(OUT_DIR, 'en.yaml');
+  const english: LocaleBundle = existsSync(enPath)
+    ? (parseYaml(readFileSync(enPath, 'utf8')) as LocaleBundle)
+    : { strings: {}, tags: {} };
+  const keyOrder = Object.keys(english.strings);
+
   for (const loc of SUPPORTED_LOCALES) {
-    // Pivot: one row per locale, one entry per canonical tag.
-    const out: Record<string, string> = {};
+    const tagsOut: Record<string, string> = {};
     for (const tag of CANONICAL_TAGS) {
       const row = TAG_TRANSLATIONS[tag];
-      out[tag] = row[loc] ?? row.en;
+      tagsOut[tag] = row[loc] ?? row.en;
     }
-    const path = join(OUT_DIR, `${loc}.json`);
-    writeFileSync(path, JSON.stringify(out, null, 2) + '\n');
-    console.log(`  ✓ ${loc}.json (${Object.keys(out).length} tags)`);
+    const path = join(OUT_DIR, `${loc}.yaml`);
+    const existing: LocaleBundle = existsSync(path)
+      ? (parseYaml(readFileSync(path, 'utf8')) as LocaleBundle)
+      : { strings: {}, tags: {} };
+    const bundle: LocaleBundle = {
+      strings: existing.strings ?? {},
+      tags: tagsOut,
+    };
+    const yamlText = buildLocaleYaml(loc, bundle, keyOrder, loc === 'en' ? bundle : english);
+    writeFileSync(path, yamlText);
+    console.log(`  ✓ ${loc}.yaml (${Object.keys(bundle.strings).length} strings, ${Object.keys(tagsOut).length} tags)`);
   }
 }
 

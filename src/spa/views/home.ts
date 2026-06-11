@@ -5,11 +5,12 @@ import {
   openDb,
   byCountry,
   byTag,
+  countSearch,
   searchStations,
-  totalCount,
   topCountries,
   topTags,
 } from '../db.js';
+import { LOCALES } from '../types.js';
 import { url } from '../router.js';
 import { rail } from '../components/rail.js';
 import type { Route } from '../router.js';
@@ -23,25 +24,33 @@ export async function renderHome(_route: Route, mount: HTMLElement): Promise<voi
 
   const root = el('div', { class: 'container' });
 
-  // Hero — kicker + count only; the big headline tagline is intentionally
-  // dropped to keep the home view focused on the station rails.
-  const hero = el('section', { class: 'hero' });
-  hero.appendChild(el('p', { class: 'kicker', text: t('app.title') }));
-  const count = totalCount(db);
-  hero.appendChild(
-    el('p', { class: 'lede', text: t('home.hero.lede', { count: count.toLocaleString(l) }) }),
-  );
-  root.appendChild(hero);
-
-  // ── Top stations rail (lazy from FTS) ──
+  // ── Top Stations Worldwide ── (no hero — the rail leads the page)
   root.appendChild(
     rail({
-      title: t('section.top_stations'),
+      title: t('section.top_stations_worldwide'),
       load: (offset, limit) =>
         searchStations(db, '', l, { onlineOnly: true, limit, offset }),
       pageSize: 30,
     }),
   );
+
+  // ── Top Stations in <current locale's language> ── (filtered by the
+  // language column whose slug matches the active locale code; only rendered
+  // if there's at least one station so empty locales don't show an empty rail).
+  const langFilters = { languages: [l], onlineOnly: true, sort: 'popular' as const };
+  const langStationCount = countSearch(db, '', langFilters);
+  if (langStationCount > 0) {
+    const langName = LOCALES[l].nativeName;
+    root.appendChild(
+      rail({
+        title: t('section.top_stations_in_language', { language: langName }),
+        load: (offset, limit) =>
+          searchStations(db, '', l, { ...langFilters, limit, offset }),
+        total: langStationCount,
+        pageSize: 30,
+      }),
+    );
+  }
 
   // ── Per-country rails (the top ~6 countries get their own rail) ──
   const countries = topCountries(db, COUNTRY_RAILS);

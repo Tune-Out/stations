@@ -2,6 +2,7 @@ import { el } from '../dom.js';
 import { t, countryName, languageName } from '../i18n.js';
 import { iconHtml } from '../icons.js';
 import { locale } from '../store.js';
+import { play } from '../audio.js';
 import {
   openDb, searchStations, countSearch, resolveCountryCode, topNatures, topLanguages,
   type SearchFilters, type SortKey,
@@ -371,6 +372,17 @@ export async function renderSearch(route: Route, mount: HTMLElement): Promise<vo
     sortSelect.select.value = 'relevance';  // visually distinct from sort
     shuffleBtn.setAttribute('aria-pressed', 'true');
     reset();
+    // Auto-play the top entry of the shuffled list. We re-query with limit
+    // 1 using the exact filters the list just rendered with, so the played
+    // station is guaranteed to match the first card the user sees.
+    const top = searchStations(db, state.query, l, { ...makeFilters(), limit: 1, offset: 0 });
+    if (top[0]) {
+      const row = top[0];
+      void play({
+        uuid: row.uuid, name: row.name, favicon: row.favicon, url: row.url,
+        shard: row.shard, countrycode: row.countrycode,
+      });
+    }
   });
   onlineCheck.addEventListener('change', () => { state.onlineOnly = onlineCheck.checked; reset(); });
 

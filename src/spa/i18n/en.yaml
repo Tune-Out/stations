@@ -1,0 +1,538 @@
+# ─────────────────────────────────────────────────────────────────────────
+# Tune Out — UI translations for: English — English (en)
+# ─────────────────────────────────────────────────────────────────────────
+
+# This file has two sections:
+
+#   • `strings:` — UI text used throughout the catalog. Translate the
+#     values; leave the keys untouched. Tokens like `{name}` and `{n}`
+#     are placeholders the runtime substitutes — preserve them verbatim,
+#     and keep any inline HTML (`<code>`, `<a>` …) intact.
+
+#   • `tags:` — labels for the genre/tag chips. The values here are
+#     regenerated from `scripts/build-tag-i18n.ts` whenever someone runs
+#     `npm run build:tag-i18n`, so permanent edits should go in that
+#     script's `TAG_TRANSLATIONS` table. The keys are slugs and never
+#     change.
+
+# To contribute a translation:
+#   1. Click the pencil (✎) in GitHub's top-right to edit this file.
+#   2. Change values, not keys, and keep `{placeholders}` intact.
+#   3. Commit; GitHub will offer to open a pull request automatically.
+
+# GitHub's pull-request walkthrough: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests
+# ─────────────────────────────────────────────────────────────────────────
+
+strings:
+  # UI strings. Translate the values; keep the keys and any {placeholders}.
+  # Page <title> + OpenGraph title used by the static shells.
+  app.title: Tune Out
+  # OpenGraph description / fallback tagline.
+  app.tagline: Stream internet radio.
+  # Sidebar nav — Home link label.
+  nav.home: Home
+  # Sidebar nav — Browse link label.
+  nav.browse: Browse
+  # Sidebar nav — Search link label.
+  nav.search: Search
+  # Sidebar nav — Downloads link label.
+  nav.downloads: Downloads
+  # Sidebar nav — About link label.
+  nav.about: About
+  # Sidebar section heading: recently played stations.
+  section.recents: Recents
+  # Sidebar section heading: favorited stations.
+  section.favorites: Favorites
+  # Home section heading: most popular stations (legacy — replaced by worldwide / in_language).
+  section.top_stations: Top stations
+  # Home view: heading for the global Top Stations rail.
+  section.top_stations_worldwide: Top Stations Worldwide
+  # Home view: heading for the per-locale Top Stations rail. `{language}` is the locale's native name.
+  section.top_stations_in_language: Top Stations in {language}
+  # Home/Browse heading: popular-countries grid.
+  section.popular_countries: Browse by country
+  # Home/Browse heading: popular-tags chip row.
+  section.popular_tags: Browse by tag
+  # Home/Browse heading: popular-languages chip row.
+  section.popular_languages: Browse by language
+  # Search-results section heading.
+  section.results: Results
+  # Empty-state heading when no results match.
+  section.no_results: No results.
+  # Home heading: pick-up-where-you-left-off rail.
+  section.continue_listening: Continue listening
+  # Home hero headline.
+  home.hero.title: |-
+    Every station,
+    in one quiet catalog.
+  # Home hero subtitle (under the headline).
+  home.hero.lede: Search, listen, share — no account, no tracking. {count} stations and counting.
+  # Search input placeholder — compact top-bar input.
+  search.placeholder: Search stations…
+  # Search input placeholder — full Search view input.
+  search.placeholder.global: Search by name, tag, country, language…
+  # Search filter label: country.
+  search.filter.country: Country
+  # Search filter label: codec (mp3 / aac / ogg …).
+  search.filter.codec: Codec
+  # Search filter label: spoken language.
+  search.filter.language: Language
+  # Search filter label: editorial nature (public / community …).
+  search.filter.nature: Station type
+  # Search filter label: only show stations the last health check says are up.
+  search.filter.online_only: Online only
+  # Search filters: "Clear filters" button label.
+  search.clear: Clear
+  # Search sort dropdown label.
+  search.sort.label: Sort by
+  # Search sort option — relevance (FTS5 rank).
+  search.sort.relevance: Most relevant
+  # Search sort option — most clicks.
+  search.sort.popular: Most popular
+  # Search sort option — recent vote velocity.
+  search.sort.trending: Trending
+  # Search sort option — alphabetical.
+  search.sort.name: Name (A-Z)
+  # Search sort option — bitrate descending.
+  search.sort.bitrate: Highest bitrate
+  # Search sort option — last-changed timestamp.
+  search.sort.fresh: Recently updated
+  # Search sort option — randomised.
+  search.sort.shuffle: Shuffle
+  # Search view empty state (no query yet).
+  search.empty: Try a name, a country, a tag, or a language.
+  # One-liner under the search box explaining supported syntax.
+  search.syntax_hint: Tip
+  # Result count, plural. Uses `{n}` (e.g. "{n} stations").
+  search.count: "{count} results"
+  # Result count, singular form.
+  search.count_one: 1 result
+  # Station detail: Play button label.
+  station.play: Play
+  # Station detail: Pause button label.
+  station.pause: Pause
+  # Station detail: Add-to-favorites button label.
+  station.favorite: Favorite
+  # Station detail: Remove-from-favorites button label.
+  station.unfavorite: Remove favorite
+  # Station detail: link to the station's own homepage.
+  station.visit_homepage: Visit homepage
+  # Station detail: opens the YAML in GitHub's web editor.
+  station.edit_on_github: Edit on GitHub
+  # Station detail: link to the PR template for update requests.
+  station.update_template: View update template
+  # Station detail: status badge — last health check OK.
+  station.online: Online
+  # Station detail: status badge — last health check failed.
+  station.offline: Offline
+  # Station detail: label for the raw audio stream URL row.
+  station.stream_url: Stream URL
+  # Station detail: heading for the tag-chip row.
+  station.tags: Tags
+  # Station detail: codec metadata label.
+  station.codec: Codec
+  # Station detail: bitrate metadata label.
+  station.bitrate: Bitrate
+  # Station detail: bitrate unit suffix (kbps).
+  station.bitrate_kbps: "{n} kbps"
+  # Station detail: country metadata label.
+  station.country: Country
+  # Station detail: language metadata label.
+  station.language: Language
+  # Station detail: upstream vote count label.
+  station.votes: Votes
+  # Station detail: city/region row label.
+  station.location: Location
+  # Station detail: editorial background / history heading.
+  station.background: Background
+  # Station detail: nature (public / community / commercial …) label.
+  station.nature: Station type
+  # Station detail: operator / parent-org row label.
+  station.operator: Operator
+  # Station detail: network/affiliation chips row label.
+  station.affiliations: Affiliations
+  # Station detail: target audience row label.
+  station.audience: Audience
+  # Station detail: programming format row label.
+  station.format: Format
+  # Station detail: editorial notes row label.
+  station.notes: Notes
+  # Station detail: citation/source list heading.
+  station.sources: Sources
+  # Station detail: toggle to reveal the raw stream URL.
+  station.show_url: Show URL
+  # Station detail: open the station's lat/lon in a map app.
+  station.open_in_map: Open in OpenStreetMap
+  # Browse view: page title.
+  browse.title: Browse the catalog.
+  # Browse view: countries facet section heading.
+  browse.countries: Countries
+  # Browse view: tags facet section heading.
+  browse.tags: Tags
+  # Browse view: languages facet section heading.
+  browse.languages: Languages
+  # Sticky player bar: "Now playing" preamble.
+  player.now_playing: Now playing
+  # Sticky player bar: empty state (no station selected).
+  player.no_station: No station selected.
+  # Sticky player bar: status while a stream is loading.
+  player.connecting: Connecting…
+  # Sticky player bar: stream error state.
+  player.error: Stream error
+  # Sticky player bar: previous-track button label.
+  player.previous: Previous
+  # Sticky player bar: next-track button label.
+  player.next: Next
+  # Sticky player bar: volume slider aria-label.
+  player.volume: Volume
+  # Sticky player bar: open the current station's detail page.
+  player.open_station: Open station page
+  # Sticky player bar: collapse on mobile.
+  player.minimize: Minimize
+  # Sticky player bar: expand from the minimised peek.
+  player.expand: Expand
+  # Downloads view: page title.
+  downloads.title: Take the catalog with you.
+  # Downloads view: page subtitle.
+  downloads.subtitle: Open data — public-domain (CC0). Pick the format you need.
+  # Downloads view: column label for artifact size.
+  downloads.size: Size
+  # Downloads view: column label for SHA-256 hash.
+  downloads.sha256: SHA-256
+  # Downloads card title — full SQLite database.
+  downloads.sqlite.title: SQLite database
+  # Downloads card subtitle — SQLite.
+  downloads.sqlite.subtitle: stations.sqlite — full schema with FTS5 and locale columns
+  # Downloads card description — SQLite.
+  downloads.sqlite.desc: A queryable database of every station with a full-text search virtual table that includes localized fields.
+  # Downloads card title — YAML tarball.
+  downloads.zip.title: Zipped YAML
+  # Downloads card subtitle — YAML tarball.
+  downloads.zip.subtitle: stations.zip — every per-station YAML in the sharded layout
+  # Downloads card description — YAML tarball.
+  downloads.zip.desc: The raw source-of-truth. One file per station; edit and submit a pull request.
+  # Downloads card title — compact JSON dump.
+  downloads.jsongz.title: Compact JSON
+  # Downloads card subtitle — compact JSON dump.
+  downloads.jsongz.subtitle: stations.json.gz — single gzipped array of all stations
+  # Downloads card description — compact JSON dump.
+  downloads.jsongz.desc: A single concatenated JSON of every record, gzipped. Useful for piping into jq.
+  # Placeholder when an artifact has not been built yet.
+  downloads.available_after_build: Available after the next data build.
+  # Footnote: artifacts attached to GitHub Releases, not Pages.
+  downloads.released_separately: "Hosted as a GitHub Release asset:"
+  # About view: page title (also reused as kicker).
+  about.title: About
+  # About view: lead paragraph.
+  about.lede: Tune Out is a small, non-commercial, open-source community project. It makes the world's internet radio stations easy to browse, search, and share — and publishes that catalog as fully open data.
+  # About section heading — where the data comes from.
+  about.data.title: Where the data comes from
+  # About body — where the data comes from.
+  about.data.body: Station metadata comes from a variety of public domain and free data sources, such as wikipedia.org and radio-browser.info.
+  # About section heading — license.
+  about.license.title: License
+  # About body — license.
+  about.license.body: Code and data are dedicated to the public domain under CC0 1.0 — the most permissive Creative Commons option.
+  # About section heading — privacy.
+  about.privacy.title: Privacy
+  # About body — privacy.
+  about.privacy.body: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
+  # About section heading — contributing.
+  about.contributing.title: Contributing translations
+  # About body — contributing.
+  about.contributing.body: Every station page has an "Edit on GitHub" link. Add per-language description, summary, or keywords in the YAML's `localized:` block — your translation goes live on the next build.
+  # Loading screen heading shown during first SQLite download.
+  loading.title: Loading catalog…
+  # Loading screen subtitle / one-time-download note.
+  loading.subtitle: Downloading the database — this only happens once.
+  # Loading screen text on the warm path (DB from OPFS cache).
+  loading.cached: Loading from cache…
+  # Generic error heading when a view fails to render.
+  error.title: Something went wrong.
+  # Generic Retry button label on error states.
+  error.retry: Reload
+  # Footer: non-commercial / no-tracking statement.
+  footer.non_commercial: A non-commercial open-source community project.
+  # Footer: public-domain license notice.
+  footer.public_domain: All metadata in this catalog is in the public domain.
+  # Footer: anchor label pointing at the source repo.
+  footer.source: Source on GitHub
+  # Footer: credit to radio-browser.info upstream.
+  footer.upstream: "Data: radio-browser.info"
+  # Theme picker: aria/tooltip label for the picker button.
+  theme.label: Theme
+  # Theme picker option — light.
+  theme.light: Light
+  # Theme picker option — follow OS preference.
+  theme.system: System
+  # Theme picker option — dark.
+  theme.dark: Dark
+  # Theme picker: heading for the visual-skin sub-section.
+  theme.skin.label: Theme style
+  # Theme picker: alternate heading for the skin chooser.
+  theme.skin.title: Choose a style
+  # Skin "Classic" — display name.
+  theme.skin.classic.name: Classic
+  # Skin "Classic" — short description shown beneath the name.
+  theme.skin.classic.description: The default Tune Out look.
+  # Skin "Minimal" — display name.
+  theme.skin.minimal.name: Minimal
+  # Skin "Minimal" — short description.
+  theme.skin.minimal.description: Neutral greys, easy on the eyes.
+  # Skin "Solarpunk" — display name.
+  theme.skin.solarpunk.name: Solarpunk
+  # Skin "Solarpunk" — short description.
+  theme.skin.solarpunk.description: Sunlit greens and elegant serif headlines.
+  # Skin "Futurist" — display name.
+  theme.skin.futurist.name: Futurist
+  # Skin "Futurist" — short description.
+  theme.skin.futurist.description: Neon magenta on near-black, geometric type.
+  # Skin "Applish" — display name.
+  theme.skin.applish.name: Applish
+  # Skin "Applish" — short description.
+  theme.skin.applish.description: Think Different with clean type.
+  # Skin "Winamp" — display name.
+  theme.skin.winamp.name: WinAmp
+  # Skin "Winamp" — short description.
+  theme.skin.winamp.description: Mid-90s neon-green LED on industrial grey.
+  # Aria/tooltip label for the locale picker button.
+  locale.label: Language
+  # "Other languages…" menu entry — routes to the About page.
+  locale.other_languages: Other languages…
+  # Heading: per-station localized text.
+  faq.station_text.title: Localizing individual stations
+  # Body paragraph for per-station localization.
+  faq.station_text.body: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  # Heading: how to get in touch.
+  faq.contact.title: Where to ask
+  # Body paragraph; the `{repo}` placeholder is replaced with the repo URL.
+  faq.contact.body: Issues and proposals live on GitHub at {repo}. The repository's README has the maintainer roster.
+  # About section heading — invite to improve this locale.
+  about.improve_translation.title: Improve this language
+  # About paragraph explaining where translations live.
+  about.improve_translation.body: Translations are stored in a single YAML file per locale. Open the current language file on GitHub, edit the values under the `strings` section, and submit a pull request.
+  # Label inside the GitHub-edit CTA button on About (file path is appended in code).
+  about.improve_translation.edit: Edit on GitHub
+  # Anchor label for the GitHub PR-walkthrough docs link.
+  about.improve_translation.pr_docs: "GitHub: proposing changes with pull requests"
+  # About view: sub-heading for the "Adding a new language" blurb.
+  about.add_language.title: Adding a new language
+  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
+  about.add_language.body: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
+  install.button.label: Add to Home Screen
+  # Install modal: heading.
+  install.title: Add Tune Out to your Home Screen
+  # Install modal: explanatory body (no placeholders).
+  install.body: Install the catalog as an app for full-screen playback and one-tap access from your Home Screen. No App Store account needed.
+  # Install modal — iOS step 1. `{shareIcon}` is replaced with an inline share-icon SVG.
+  install.ios.step1: Tap the Share button {shareIcon} in Safari's toolbar.
+  # Install modal — iOS step 2 (HTML allowed; uses <strong> for the menu item name).
+  install.ios.step2: Scroll down and choose <strong>Add to Home Screen</strong>.
+  # Install modal — iOS step 3 (HTML allowed).
+  install.ios.step3: Tap <strong>Add</strong> in the top-right corner. Tune Out will appear on your Home Screen.
+  # Install modal — Android-non-Chromium step 1. `{shareIcon}` becomes the browser menu icon.
+  install.android.step1: Open your browser's menu {shareIcon}.
+  # Install modal — Android-non-Chromium step 2 (HTML allowed).
+  install.android.step2: Tap <strong>Install app</strong> (or <strong>Add to Home screen</strong>).
+  # Install modal — Android-non-Chromium step 3 (HTML allowed).
+  install.android.step3: Confirm; Tune Out will appear in your app drawer.
+  # Install modal: Close / Done button label (also the close-icon aria-label).
+  install.close: Close
+tags:
+  # Genre / tag labels — shown on chips, filters, and station detail.
+  # These values are owned by scripts/build-tag-i18n.ts; edits here will
+  # be overwritten the next time `npm run build:tag-i18n` runs. Make
+  # permanent edits in TAG_TRANSLATIONS inside that script.
+  # Label for the "pop" tag.
+  pop: Pop
+  # Label for the "rock" tag.
+  rock: Rock
+  # Label for the "jazz" tag.
+  jazz: Jazz
+  # Label for the "classical" tag.
+  classical: Classical
+  # Label for the "blues" tag.
+  blues: Blues
+  # Label for the "folk" tag.
+  folk: Folk
+  # Label for the "country" tag.
+  country: Country
+  # Label for the "electronic" tag.
+  electronic: Electronic
+  # Label for the "dance" tag.
+  dance: Dance
+  # Label for the "house" tag.
+  house: House
+  # Label for the "techno" tag.
+  techno: Techno
+  # Label for the "trance" tag.
+  trance: Trance
+  # Label for the "edm" tag.
+  edm: EDM
+  # Label for the "ambient" tag.
+  ambient: Ambient
+  # Label for the "lounge" tag.
+  lounge: Lounge
+  # Label for the "chillout" tag.
+  chillout: Chillout
+  # Label for the "downtempo" tag.
+  downtempo: Downtempo
+  # Label for the "drum-and-bass" tag.
+  drum-and-bass: Drum & Bass
+  # Label for the "dubstep" tag.
+  dubstep: Dubstep
+  # Label for the "hip-hop" tag.
+  hip-hop: Hip-Hop
+  # Label for the "rap" tag.
+  rap: Rap
+  # Label for the "r-and-b" tag.
+  r-and-b: R&B
+  # Label for the "soul" tag.
+  soul: Soul
+  # Label for the "funk" tag.
+  funk: Funk
+  # Label for the "disco" tag.
+  disco: Disco
+  # Label for the "reggae" tag.
+  reggae: Reggae
+  # Label for the "reggaeton" tag.
+  reggaeton: Reggaeton
+  # Label for the "ska" tag.
+  ska: Ska
+  # Label for the "metal" tag.
+  metal: Metal
+  # Label for the "hardcore" tag.
+  hardcore: Hardcore
+  # Label for the "punk" tag.
+  punk: Punk
+  # Label for the "indie" tag.
+  indie: Indie
+  # Label for the "alternative" tag.
+  alternative: Alternative
+  # Label for the "classic-rock" tag.
+  classic-rock: Classic Rock
+  # Label for the "soft-rock" tag.
+  soft-rock: Soft Rock
+  # Label for the "hard-rock" tag.
+  hard-rock: Hard Rock
+  # Label for the "prog-rock" tag.
+  prog-rock: Prog Rock
+  # Label for the "pop-rock" tag.
+  pop-rock: Pop Rock
+  # Label for the "gospel" tag.
+  gospel: Gospel
+  # Label for the "christian-music" tag.
+  christian-music: Christian
+  # Label for the "opera" tag.
+  opera: Opera
+  # Label for the "instrumental" tag.
+  instrumental: Instrumental
+  # Label for the "soundtrack" tag.
+  soundtrack: Soundtrack
+  # Label for the "smooth-jazz" tag.
+  smooth-jazz: Smooth Jazz
+  # Label for the "synthpop" tag.
+  synthpop: Synthpop
+  # Label for the "new-wave" tag.
+  new-wave: New Wave
+  # Label for the "oldies" tag.
+  oldies: Oldies
+  # Label for the "hits" tag.
+  hits: Hits
+  # Label for the "top-40" tag.
+  top-40: Top 40
+  # Label for the "classic-hits" tag.
+  classic-hits: Classic Hits
+  # Label for the "adult-contemporary" tag.
+  adult-contemporary: Adult Contemporary
+  # Label for the "ballad" tag.
+  ballad: Ballads
+  # Label for the "romantic" tag.
+  romantic: Romantic
+  # Label for the "retro" tag.
+  retro: Retro
+  # Label for the "experimental" tag.
+  experimental: Experimental
+  # Label for the "lofi" tag.
+  lofi: Lo-Fi
+  # Label for the "latin" tag.
+  latin: Latin
+  # Label for the "salsa" tag.
+  salsa: Salsa
+  # Label for the "cumbia" tag.
+  cumbia: Cumbia
+  # Label for the "merengue" tag.
+  merengue: Merengue
+  # Label for the "tropical" tag.
+  tropical: Tropical
+  # Label for the "regional-mexican" tag.
+  regional-mexican: Regional Mexican
+  # Label for the "bollywood" tag.
+  bollywood: Bollywood
+  # Label for the "k-pop" tag.
+  k-pop: K-Pop
+  # Label for the "j-pop" tag.
+  j-pop: J-Pop
+  # Label for the "anime" tag.
+  anime: Anime
+  # Label for the "arabic-music" tag.
+  arabic-music: Arabic
+  # Label for the "world" tag.
+  world: World
+  # Label for the "50s" tag.
+  50s: 50s
+  # Label for the "60s" tag.
+  60s: 60s
+  # Label for the "70s" tag.
+  70s: 70s
+  # Label for the "80s" tag.
+  80s: 80s
+  # Label for the "90s" tag.
+  90s: 90s
+  # Label for the "2000s" tag.
+  2000s: 2000s
+  # Label for the "2010s" tag.
+  2010s: 2010s
+  # Label for the "news" tag.
+  news: News
+  # Label for the "news-talk" tag.
+  news-talk: News & Talk
+  # Label for the "talk" tag.
+  talk: Talk
+  # Label for the "sports" tag.
+  sports: Sports
+  # Label for the "sports-talk" tag.
+  sports-talk: Sports Talk
+  # Label for the "comedy" tag.
+  comedy: Comedy
+  # Label for the "public-radio" tag.
+  public-radio: Public Radio
+  # Label for the "community-radio" tag.
+  community-radio: Community Radio
+  # Label for the "local-news" tag.
+  local-news: Local News
+  # Label for the "religious" tag.
+  religious: Religious
+  # Label for the "catholic" tag.
+  catholic: Catholic
+  # Label for the "islamic" tag.
+  islamic: Islamic
+  # Label for the "culture" tag.
+  culture: Culture
+  # Label for the "education" tag.
+  education: Education
+  # Label for the "politics" tag.
+  politics: Politics
+  # Label for the "business" tag.
+  business: Business
+  # Label for the "lifestyle" tag.
+  lifestyle: Lifestyle
+  # Label for the "kids" tag.
+  kids: Kids
+  # Label for the "podcast" tag.
+  podcast: Podcast
+  # Label for the "party" tag.
+  party: Party
+  # Label for the "sleep" tag.
+  sleep: Sleep

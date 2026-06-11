@@ -202,9 +202,9 @@ async function main() {
 
   console.log(`[winamp-import] wrote themes/${newId}/`);
   console.log(
-    `[winamp-import] add these keys to src/spa/i18n/strings/<locale>.json then run npm run build:themes:\n` +
-    `  "theme.skin.${newId}.name": "…",\n` +
-    `  "theme.skin.${newId}.description": "…"\n`,
+    `[winamp-import] add these keys to the strings: section of each src/spa/i18n/<locale>.yaml then run npm run build:themes:\n` +
+    `  theme.skin.${newId}.name: …\n` +
+    `  theme.skin.${newId}.description: …\n`,
   );
 }
 
