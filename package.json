@@ -10,8 +10,8 @@
   },
   "scripts": {
     "seed": "tsx scripts/seed-from-radio-browser.ts",
-    "build:data": "tsx scripts/build-data.ts",
-    "build:data:release": "tsx scripts/build-data.ts --release",
+    "build:data": "node --experimental-sqlite --import tsx scripts/build-data.ts",
+    "build:data:release": "node --experimental-sqlite --import tsx scripts/build-data.ts --release",
     "build:icons": "tsx scripts/build-icons.ts",
     "build:themes": "tsx scripts/build-themes.ts",
     "build:tag-icons": "tsx scripts/download-tag-icons.ts",
