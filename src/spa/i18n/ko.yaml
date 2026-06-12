@@ -385,6 +385,12 @@ strings:
   # Footer: credit to radio-browser.info upstream.
   # English: Data: radio-browser.info
   footer.upstream: "데이터: radio-browser.info"
+  # Catalog stats line — total station count shown above the rails on Home and Browse. `{count}` is the locale-formatted integer.
+  # English: {count} stations in the catalog
+  stats.station_count: 카탈로그에 {count}개 방송국
+  # Catalog stats line — "Updated {date}" shown in the page footer next to the public-domain link. `{date}` is locale-formatted.
+  # English: Updated {date}
+  stats.last_updated: "업데이트: {date}"
   # Theme picker: aria/tooltip label for the picker button.
   # English: Theme
   theme.label: 테마
@@ -448,9 +454,9 @@ strings:
   # Heading: per-station localized text.
   # English: Localizing individual stations
   faq.station_text.title: 개별 방송국 로컬라이즈하기
-  # Body paragraph for per-station localization.
-  # English: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
-  faq.station_text.body: 각 방송국의 YAML은 언어 코드로 인덱싱된 선택적 <code>localized:</code> 블록을 받습니다. 로케일별로 방송국 이름을 덮어쓰고 설명·한 줄 요약·추가 검색 키워드를 제공할 수 있습니다. 입력하지 않은 항목은 표준 영어 데이터로 폴백합니다.
+  # Body paragraph for per-station localization. Wrap inline code (e.g. `localized:`) in backticks — the renderer escapes other HTML.
+  # English: Every station's YAML file accepts an optional `localized:` block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  faq.station_text.body: 각 방송국의 YAML은 언어 코드로 인덱싱된 선택적 `localized:` 블록을 받습니다. 로케일별로 방송국 이름을 덮어쓰고 설명·한 줄 요약·추가 검색 키워드를 제공할 수 있습니다. 입력하지 않은 항목은 표준 영어 데이터로 폴백합니다.
   # Heading: how to get in touch.
   # English: Where to ask
   faq.contact.title: 문의 채널
@@ -472,9 +478,9 @@ strings:
   # About view: sub-heading for the "Adding a new language" blurb.
   # English: Adding a new language
   about.add_language.title: 새 언어 추가
-  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
-  # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
-  about.add_language.body: 새 언어를 추가하려면, <code>src/spa/i18n/en.yaml</code>을 대상 언어의 BCP-47 코드를 이름으로 하는 파일에 복사하는 풀 리퀘스트를 여세요. 예를 들어 우크라이나어를 추가하려면 <code>uk.yaml</code>로 이름을 바꾸고, <code>strings:</code> 아래 값을 번역하세요. 키, 주석, <code>{placeholders}</code>는 그대로 두세요. 파일이 머지되면 카탈로그는 새 로케일을 자동으로 인식합니다.
+  # About view: paragraph explaining the copy-and-rename flow for a brand-new locale. Wrap inline code (filenames, YAML keys, placeholders) in `backticks` — the renderer escapes all other HTML.
+  # English: To add a new language, open a pull request that copies `src/spa/i18n/en.yaml` to a file named with the BCP-47 code of your target language — for example, rename it to `uk.yaml` to add Ukrainian — then translate the values under `strings:`. Keep the keys, comments, and any `{placeholders}` exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  about.add_language.body: 새 언어를 추가하려면, `src/spa/i18n/en.yaml`을 대상 언어의 BCP-47 코드를 이름으로 하는 파일에 복사하는 풀 리퀘스트를 여세요. 예를 들어 우크라이나어를 추가하려면 `uk.yaml`로 이름을 바꾸고, `strings:` 아래 값을 번역하세요. 키, 주석, `{placeholders}`는 그대로 두세요. 파일이 머지되면 카탈로그는 새 로케일을 자동으로 인식합니다.
   # Settings page: kicker label above the title.
   # English: Settings
   settings.kicker: 설정

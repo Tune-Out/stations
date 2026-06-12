@@ -385,6 +385,12 @@ strings:
   # Footer: credit to radio-browser.info upstream.
   # English: Data: radio-browser.info
   footer.upstream: "डेटा: radio-browser.info"
+  # Catalog stats line — total station count shown above the rails on Home and Browse. `{count}` is the locale-formatted integer.
+  # English: {count} stations in the catalog
+  stats.station_count: कैटलॉग में {count} स्टेशन
+  # Catalog stats line — "Updated {date}" shown in the page footer next to the public-domain link. `{date}` is locale-formatted.
+  # English: Updated {date}
+  stats.last_updated: "{date} को अद्यतन किया गया"
   # Theme picker: aria/tooltip label for the picker button.
   # English: Theme
   theme.label: थीम
@@ -448,9 +454,9 @@ strings:
   # Heading: per-station localized text.
   # English: Localizing individual stations
   faq.station_text.title: व्यक्तिगत स्टेशनों का स्थानीयकरण
-  # Body paragraph for per-station localization.
-  # English: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
-  faq.station_text.body: प्रत्येक स्टेशन की YAML फ़ाइल भाषा कोड द्वारा अनुक्रमित एक वैकल्पिक <code>localized:</code> ब्लॉक स्वीकार करती है। प्रति लोकेल आप स्टेशन का नाम बदल सकते हैं और विवरण, एक-पंक्ति सारांश और अतिरिक्त खोज कीवर्ड दे सकते हैं। जो छोड़ देंगे वह सिद्धांत रूप में अंग्रेज़ी डेटा पर वापस आ जाएगा।
+  # Body paragraph for per-station localization. Wrap inline code (e.g. `localized:`) in backticks — the renderer escapes other HTML.
+  # English: Every station's YAML file accepts an optional `localized:` block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  faq.station_text.body: प्रत्येक स्टेशन की YAML फ़ाइल भाषा कोड द्वारा अनुक्रमित एक वैकल्पिक `localized:` ब्लॉक स्वीकार करती है। प्रति लोकेल आप स्टेशन का नाम बदल सकते हैं और विवरण, एक-पंक्ति सारांश और अतिरिक्त खोज कीवर्ड दे सकते हैं। जो छोड़ देंगे वह सिद्धांत रूप में अंग्रेज़ी डेटा पर वापस आ जाएगा।
   # Heading: how to get in touch.
   # English: Where to ask
   faq.contact.title: कहाँ पूछें
@@ -472,9 +478,9 @@ strings:
   # About view: sub-heading for the "Adding a new language" blurb.
   # English: Adding a new language
   about.add_language.title: नई भाषा जोड़ें
-  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
-  # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
-  about.add_language.body: नई भाषा जोड़ने के लिए एक पुल रिक्वेस्ट खोलें जो <code>src/spa/i18n/en.yaml</code> को आपकी लक्ष्य भाषा के BCP-47 कोड वाली फ़ाइल में कॉपी करे &mdash; उदाहरण के लिए, यूक्रेनी जोड़ने के लिए उसे <code>uk.yaml</code> नाम दें &mdash; और फिर <code>strings:</code> के तहत मानों का अनुवाद करें। कुंजियाँ, टिप्पणियाँ और <code>{placeholders}</code> ज्यों के त्यों रखें। फ़ाइल मर्ज होते ही कैटलॉग नई लोकेल को अपने आप पहचान लेगा।
+  # About view: paragraph explaining the copy-and-rename flow for a brand-new locale. Wrap inline code (filenames, YAML keys, placeholders) in `backticks` — the renderer escapes all other HTML.
+  # English: To add a new language, open a pull request that copies `src/spa/i18n/en.yaml` to a file named with the BCP-47 code of your target language — for example, rename it to `uk.yaml` to add Ukrainian — then translate the values under `strings:`. Keep the keys, comments, and any `{placeholders}` exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  about.add_language.body: नई भाषा जोड़ने के लिए एक पुल रिक्वेस्ट खोलें जो `src/spa/i18n/en.yaml` को आपकी लक्ष्य भाषा के BCP-47 कोड वाली फ़ाइल में कॉपी करे — उदाहरण के लिए, यूक्रेनी जोड़ने के लिए उसे `uk.yaml` नाम दें — और फिर `strings:` के तहत मानों का अनुवाद करें। कुंजियाँ, टिप्पणियाँ और `{placeholders}` ज्यों के त्यों रखें। फ़ाइल मर्ज होते ही कैटलॉग नई लोकेल को अपने आप पहचान लेगा।
   # Settings page: kicker label above the title.
   # English: Settings
   settings.kicker: सेटिंग्स

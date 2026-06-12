@@ -13,6 +13,7 @@ import {
 import { LOCALES } from '../types.js';
 import { url } from '../router.js';
 import { rail } from '../components/rail.js';
+import { catalogCountLine, catalogFooter } from '../components/catalog-stats.js';
 import type { Route } from '../router.js';
 
 const COUNTRY_RAILS = 6;
@@ -23,6 +24,9 @@ export async function renderHome(_route: Route, mount: HTMLElement): Promise<voi
   const db = await openDb();
 
   const root = el('div', { class: 'container' });
+
+  // Total-count line above the rails so visitors see catalog scale at a glance.
+  root.appendChild(catalogCountLine(db));
 
   // ── Top Stations Worldwide ── (curation-led; popularity is the tiebreaker)
   // Sort 'curated' = COALESCE(curation, 0) DESC, votes DESC. This pushes
@@ -86,18 +90,8 @@ export async function renderHome(_route: Route, mount: HTMLElement): Promise<voi
     );
   }
 
-  // Footer line
-  root.appendChild(footerLine());
+  // Footer with public-domain link + "Updated <date>" suffix.
+  root.appendChild(catalogFooter());
 
   mount.replaceChildren(root);
 }
-
-function footerLine(): HTMLElement {
-  const f = el('footer', { class: 'foot' });
-  f.appendChild(el('span', { text: t('footer.non_commercial') }));
-  const right = el('span');
-  right.innerHTML = `<a href="${url('about')}">${escape(t('footer.public_domain'))}</a>`;
-  f.appendChild(right);
-  return f;
-}
-function escape(s: string) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }

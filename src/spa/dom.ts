@@ -73,6 +73,21 @@ export function escapeHtml(s: string): string {
 }
 
 /**
+ * Render a string with a tiny safe subset of Markdown — currently just
+ * backtick-delimited `inline code`. All other HTML is escaped first, so
+ * a translator pasting `<script>` or stray `<` characters can't inject
+ * markup. Use this for paragraph copy that contains a single keyword like
+ * `localized:` or `src/foo.yaml` that should render in a code style.
+ *
+ *   markdownInline("Edit the `localized:` block");
+ *   // → 'Edit the <code>localized:</code> block'
+ */
+export function markdownInline(s: string): string {
+  const escaped = escapeHtml(s);
+  return escaped.replace(/`([^`\n]+)`/g, '<code>$1</code>');
+}
+
+/**
  * Replace `node`'s text with a middle-truncated version of `fullText` such
  * that the rendered content fits within node.clientWidth.
  *

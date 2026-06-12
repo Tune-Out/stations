@@ -265,6 +265,10 @@ strings:
   footer.source: Source on GitHub
   # Footer: credit to radio-browser.info upstream.
   footer.upstream: "Data: radio-browser.info"
+  # Catalog stats line — total station count shown above the rails on Home and Browse. `{count}` is the locale-formatted integer.
+  stats.station_count: "{count} stations in the catalog"
+  # Catalog stats line — "Updated {date}" shown in the page footer next to the public-domain link. `{date}` is locale-formatted.
+  stats.last_updated: Updated {date}
   # Theme picker: aria/tooltip label for the picker button.
   theme.label: Theme
   # Theme picker option — light.
@@ -307,8 +311,8 @@ strings:
   locale.other_languages: Other languages…
   # Heading: per-station localized text.
   faq.station_text.title: Localizing individual stations
-  # Body paragraph for per-station localization.
-  faq.station_text.body: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  # Body paragraph for per-station localization. Wrap inline code (e.g. `localized:`) in backticks — the renderer escapes other HTML.
+  faq.station_text.body: Every station's YAML file accepts an optional `localized:` block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
   # Heading: how to get in touch.
   faq.contact.title: Where to ask
   # Body paragraph; the `{repo}` placeholder is replaced with the repo URL.
@@ -323,8 +327,8 @@ strings:
   about.improve_translation.pr_docs: "GitHub: proposing changes with pull requests"
   # About view: sub-heading for the "Adding a new language" blurb.
   about.add_language.title: Adding a new language
-  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
-  about.add_language.body: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  # About view: paragraph explaining the copy-and-rename flow for a brand-new locale. Wrap inline code (filenames, YAML keys, placeholders) in `backticks` — the renderer escapes all other HTML.
+  about.add_language.body: To add a new language, open a pull request that copies `src/spa/i18n/en.yaml` to a file named with the BCP-47 code of your target language — for example, rename it to `uk.yaml` to add Ukrainian — then translate the values under `strings:`. Keep the keys, comments, and any `{placeholders}` exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
   # Settings page: kicker label above the title.
   settings.kicker: Settings
   # Settings page: H1 title; also used as the topbar settings-cog aria-label.

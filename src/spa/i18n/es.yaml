@@ -385,6 +385,12 @@ strings:
   # Footer: credit to radio-browser.info upstream.
   # English: Data: radio-browser.info
   footer.upstream: "Datos: radio-browser.info"
+  # Catalog stats line — total station count shown above the rails on Home and Browse. `{count}` is the locale-formatted integer.
+  # English: {count} stations in the catalog
+  stats.station_count: "{count} emisoras en el catálogo"
+  # Catalog stats line — "Updated {date}" shown in the page footer next to the public-domain link. `{date}` is locale-formatted.
+  # English: Updated {date}
+  stats.last_updated: Actualizado el {date}
   # Theme picker: aria/tooltip label for the picker button.
   # English: Theme
   theme.label: Tema
@@ -448,9 +454,9 @@ strings:
   # Heading: per-station localized text.
   # English: Localizing individual stations
   faq.station_text.title: Localizar emisoras individuales
-  # Body paragraph for per-station localization.
-  # English: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
-  faq.station_text.body: El YAML de cada emisora acepta un bloque opcional <code>localized:</code> indexado por código de idioma. Por idioma, puedes sustituir el nombre y aportar descripción, resumen de una línea y palabras clave adicionales. Lo que omitas vuelve al dato canónico en inglés.
+  # Body paragraph for per-station localization. Wrap inline code (e.g. `localized:`) in backticks — the renderer escapes other HTML.
+  # English: Every station's YAML file accepts an optional `localized:` block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  faq.station_text.body: El YAML de cada emisora acepta un bloque opcional `localized:` indexado por código de idioma. Por idioma, puedes sustituir el nombre y aportar descripción, resumen de una línea y palabras clave adicionales. Lo que omitas vuelve al dato canónico en inglés.
   # Heading: how to get in touch.
   # English: Where to ask
   faq.contact.title: Dónde preguntar
@@ -472,9 +478,9 @@ strings:
   # About view: sub-heading for the "Adding a new language" blurb.
   # English: Adding a new language
   about.add_language.title: Añadir un nuevo idioma
-  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
-  # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
-  about.add_language.body: Para añadir un nuevo idioma, abre una pull request que copie <code>src/spa/i18n/en.yaml</code> a un archivo cuyo nombre sea el código BCP-47 del idioma de destino &mdash; por ejemplo, renómbralo a <code>uk.yaml</code> para añadir ucraniano &mdash; y luego traduce los valores bajo <code>strings:</code>. Mantén intactas las claves, los comentarios y los <code>{placeholders}</code>. El catálogo detecta la nueva locale automáticamente una vez fusionado el archivo.
+  # About view: paragraph explaining the copy-and-rename flow for a brand-new locale. Wrap inline code (filenames, YAML keys, placeholders) in `backticks` — the renderer escapes all other HTML.
+  # English: To add a new language, open a pull request that copies `src/spa/i18n/en.yaml` to a file named with the BCP-47 code of your target language — for example, rename it to `uk.yaml` to add Ukrainian — then translate the values under `strings:`. Keep the keys, comments, and any `{placeholders}` exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  about.add_language.body: Para añadir un nuevo idioma, abre una pull request que copie `src/spa/i18n/en.yaml` a un archivo cuyo nombre sea el código BCP-47 del idioma de destino — por ejemplo, renómbralo a `uk.yaml` para añadir ucraniano — y luego traduce los valores bajo `strings:`. Mantén intactas las claves, los comentarios y los `{placeholders}`. El catálogo detecta la nueva locale automáticamente una vez fusionado el archivo.
   # Settings page: kicker label above the title.
   # English: Settings
   settings.kicker: Ajustes

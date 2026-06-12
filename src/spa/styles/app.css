@@ -1817,5 +1817,17 @@ img { display: block; max-width: 100%; height: auto; }
   justify-content: space-between;
 }
 .foot a:hover { color: var(--fg); }
+.foot-updated {
+  /* Separator + date pulled in by the manifest fetch in catalogFooter. */
+  white-space: nowrap;
+}
+/* Total-count strip above the rails. Sits flush against the top of the
+   content stream — muted typography signals "metadata" not "heading". */
+.catalog-stats {
+  margin: 0.25rem 0 1rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
 
 } /* end @layer base */

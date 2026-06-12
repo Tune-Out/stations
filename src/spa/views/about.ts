@@ -1,4 +1,4 @@
-import { el } from '../dom.js';
+import { el, markdownInline } from '../dom.js';
 import { iconHtml } from '../icons.js';
 import { t } from '../i18n.js';
 import { locale } from '../store.js';
@@ -17,9 +17,13 @@ export async function renderAbout(_route: Route, mount: HTMLElement): Promise<vo
   const prose = el('div', { class: 'prose' });
   prose.appendChild(el('p', { class: 'lede', text: t('about.lede') }));
 
+  // Every body paragraph runs through markdownInline so backtick-wrapped
+  // terms like `localized:` render as inline <code>. The helper escapes
+  // all other HTML first, so a translator pasting `<script>` can't smuggle
+  // markup in.
   for (const key of ['data', 'license', 'privacy', 'contributing']) {
     prose.appendChild(el('h2', { text: t(`about.${key}.title`) }));
-    prose.appendChild(el('p', { text: t(`about.${key}.body`) }));
+    prose.appendChild(el('p', { html: markdownInline(t(`about.${key}.body`)) }));
   }
 
   // ── Translations (improve + add-language, merged) ──────────────────────
@@ -28,7 +32,7 @@ export async function renderAbout(_route: Route, mount: HTMLElement): Promise<vo
   // styled anchor that opens GitHub's web editor on the current locale's
   // YAML file.
   prose.appendChild(el('h2', { text: t('about.improve_translation.title') }));
-  prose.appendChild(el('p', { text: t('about.improve_translation.body') }));
+  prose.appendChild(el('p', { html: markdownInline(t('about.improve_translation.body')) }));
 
   const editPath = `src/spa/i18n/${l}.yaml`;
   const editUrl = editRepoFileUrl(editPath);
@@ -63,13 +67,11 @@ export async function renderAbout(_route: Route, mount: HTMLElement): Promise<vo
   // numbered steps — just one paragraph explaining the copy-and-rename
   // flow, which is all the catalog actually requires.
   prose.appendChild(el('h3', { text: t('about.add_language.title') }));
-  const addPara = el('p');
-  addPara.innerHTML = t('about.add_language.body');
-  prose.appendChild(addPara);
+  prose.appendChild(el('p', { html: markdownInline(t('about.add_language.body')) }));
 
   // ── Localized station text (was: FAQ "station text") ───────────────────
   prose.appendChild(el('h2', { text: t('faq.station_text.title') }));
-  prose.appendChild(el('p', { text: t('faq.station_text.body') }));
+  prose.appendChild(el('p', { html: markdownInline(t('faq.station_text.body')) }));
 
   // ── Get involved (was: FAQ "contact") ──────────────────────────────────
   prose.appendChild(el('h2', { text: t('faq.contact.title') }));

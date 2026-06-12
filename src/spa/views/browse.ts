@@ -5,6 +5,7 @@ import { locale } from '../store.js';
 import { openDb, topCountries, topTags, topLanguages } from '../db.js';
 import { url } from '../router.js';
 import { tagChip } from '../components/tag-chip.js';
+import { catalogCountLine, catalogFooter } from '../components/catalog-stats.js';
 import type { Route } from '../router.js';
 
 export async function renderBrowse(_route: Route, mount: HTMLElement): Promise<void> {
@@ -17,6 +18,10 @@ export async function renderBrowse(_route: Route, mount: HTMLElement): Promise<v
   head.appendChild(el('p', { class: 'kicker', text: t('nav.browse') }));
   head.appendChild(el('h1', { class: 'h-display', text: t('browse.title') }));
   root.appendChild(head);
+
+  // Catalog-scale signal right below the title; same wording as Home so
+  // the number is consistent across entry points.
+  root.appendChild(catalogCountLine(db));
 
   // Countries — uniform-sized cards, no wrap, middle-truncated names.
   // Each card is a real <a> with three child spans so we can target the
@@ -99,6 +104,8 @@ export async function renderBrowse(_route: Route, mount: HTMLElement): Promise<v
     sec.appendChild(cloud);
     root.appendChild(sec);
   }
+
+  root.appendChild(catalogFooter());
 
   mount.replaceChildren(root);
 }

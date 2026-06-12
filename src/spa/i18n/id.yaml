@@ -385,6 +385,12 @@ strings:
   # Footer: credit to radio-browser.info upstream.
   # English: Data: radio-browser.info
   footer.upstream: "Data: radio-browser.info"
+  # Catalog stats line — total station count shown above the rails on Home and Browse. `{count}` is the locale-formatted integer.
+  # English: {count} stations in the catalog
+  stats.station_count: "{count} stasiun dalam katalog"
+  # Catalog stats line — "Updated {date}" shown in the page footer next to the public-domain link. `{date}` is locale-formatted.
+  # English: Updated {date}
+  stats.last_updated: Diperbarui {date}
   # Theme picker: aria/tooltip label for the picker button.
   # English: Theme
   theme.label: Tema
@@ -448,9 +454,9 @@ strings:
   # Heading: per-station localized text.
   # English: Localizing individual stations
   faq.station_text.title: Melokalisasi stasiun tertentu
-  # Body paragraph for per-station localization.
-  # English: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
-  faq.station_text.body: Berkas YAML setiap stasiun menerima blok opsional <code>localized:</code> berkunci kode bahasa. Per lokal kamu bisa menimpa nama stasiun dan memberi deskripsi, ringkasan satu baris, serta kata kunci pencarian tambahan. Apa pun yang dikosongkan akan jatuh ke data Inggris bawaan.
+  # Body paragraph for per-station localization. Wrap inline code (e.g. `localized:`) in backticks — the renderer escapes other HTML.
+  # English: Every station's YAML file accepts an optional `localized:` block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  faq.station_text.body: Berkas YAML setiap stasiun menerima blok opsional `localized:` berkunci kode bahasa. Per lokal kamu bisa menimpa nama stasiun dan memberi deskripsi, ringkasan satu baris, serta kata kunci pencarian tambahan. Apa pun yang dikosongkan akan jatuh ke data Inggris bawaan.
   # Heading: how to get in touch.
   # English: Where to ask
   faq.contact.title: Tempat bertanya
@@ -472,9 +478,9 @@ strings:
   # About view: sub-heading for the "Adding a new language" blurb.
   # English: Adding a new language
   about.add_language.title: Menambahkan bahasa baru
-  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
-  # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
-  about.add_language.body: Untuk menambahkan bahasa baru, buka pull request yang menyalin <code>src/spa/i18n/en.yaml</code> ke berkas yang diberi nama kode BCP-47 bahasa target &mdash; misalnya, ganti namanya menjadi <code>uk.yaml</code> untuk menambahkan bahasa Ukraina &mdash; lalu terjemahkan nilai di bawah <code>strings:</code>. Biarkan kunci, komentar, dan <code>{placeholders}</code> apa adanya. Katalog akan mengenali lokal baru secara otomatis setelah berkas digabungkan.
+  # About view: paragraph explaining the copy-and-rename flow for a brand-new locale. Wrap inline code (filenames, YAML keys, placeholders) in `backticks` — the renderer escapes all other HTML.
+  # English: To add a new language, open a pull request that copies `src/spa/i18n/en.yaml` to a file named with the BCP-47 code of your target language — for example, rename it to `uk.yaml` to add Ukrainian — then translate the values under `strings:`. Keep the keys, comments, and any `{placeholders}` exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  about.add_language.body: Untuk menambahkan bahasa baru, buka pull request yang menyalin `src/spa/i18n/en.yaml` ke berkas yang diberi nama kode BCP-47 bahasa target — misalnya, ganti namanya menjadi `uk.yaml` untuk menambahkan bahasa Ukraina — lalu terjemahkan nilai di bawah `strings:`. Biarkan kunci, komentar, dan `{placeholders}` apa adanya. Katalog akan mengenali lokal baru secara otomatis setelah berkas digabungkan.
   # Settings page: kicker label above the title.
   # English: Settings
   settings.kicker: Pengaturan

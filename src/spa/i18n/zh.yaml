@@ -385,6 +385,12 @@ strings:
   # Footer: credit to radio-browser.info upstream.
   # English: Data: radio-browser.info
   footer.upstream: "数据: radio-browser.info"
+  # Catalog stats line — total station count shown above the rails on Home and Browse. `{count}` is the locale-formatted integer.
+  # English: {count} stations in the catalog
+  stats.station_count: 目录中共 {count} 个电台
+  # Catalog stats line — "Updated {date}" shown in the page footer next to the public-domain link. `{date}` is locale-formatted.
+  # English: Updated {date}
+  stats.last_updated: 更新于 {date}
   # Theme picker: aria/tooltip label for the picker button.
   # English: Theme
   theme.label: 主题
@@ -448,9 +454,9 @@ strings:
   # Heading: per-station localized text.
   # English: Localizing individual stations
   faq.station_text.title: 本地化单个电台
-  # Body paragraph for per-station localization.
-  # English: Every station's YAML file accepts an optional <code>localized:</code> block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
-  faq.station_text.body: 每个电台的 YAML 文件可以加上一个可选的 <code>localized:</code> 段，以语言代码作为键。每个语言下可覆盖电台名称，并提供描述、一行摘要与额外搜索关键词。未填写的字段会回退到英文原始数据。
+  # Body paragraph for per-station localization. Wrap inline code (e.g. `localized:`) in backticks — the renderer escapes other HTML.
+  # English: Every station's YAML file accepts an optional `localized:` block keyed by language code. Per locale, you can override the station name and supply a description, a one-line summary, and extra search keywords. Anything you leave out falls back to the canonical English data.
+  faq.station_text.body: 每个电台的 YAML 文件可以加上一个可选的 `localized:` 段，以语言代码作为键。每个语言下可覆盖电台名称，并提供描述、一行摘要与额外搜索关键词。未填写的字段会回退到英文原始数据。
   # Heading: how to get in touch.
   # English: Where to ask
   faq.contact.title: 去哪里提问
@@ -472,9 +478,9 @@ strings:
   # About view: sub-heading for the "Adding a new language" blurb.
   # English: Adding a new language
   about.add_language.title: 添加新语言
-  # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
-  # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
-  about.add_language.body: 要添加新语言，请提交一个 pull request，把 <code>src/spa/i18n/en.yaml</code> 复制到一个以目标语言 BCP-47 代码命名的文件 &mdash; 例如，把它重命名为 <code>uk.yaml</code> 来添加乌克兰语 &mdash; 然后翻译 <code>strings:</code> 下的值。保持键名、注释和 <code>{placeholders}</code> 原样。文件合并后，目录会自动识别新语言。
+  # About view: paragraph explaining the copy-and-rename flow for a brand-new locale. Wrap inline code (filenames, YAML keys, placeholders) in `backticks` — the renderer escapes all other HTML.
+  # English: To add a new language, open a pull request that copies `src/spa/i18n/en.yaml` to a file named with the BCP-47 code of your target language — for example, rename it to `uk.yaml` to add Ukrainian — then translate the values under `strings:`. Keep the keys, comments, and any `{placeholders}` exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  about.add_language.body: 要添加新语言，请提交一个 pull request，把 `src/spa/i18n/en.yaml` 复制到一个以目标语言 BCP-47 代码命名的文件 — 例如，把它重命名为 `uk.yaml` 来添加乌克兰语 — 然后翻译 `strings:` 下的值。保持键名、注释和 `{placeholders}` 原样。文件合并后，目录会自动识别新语言。
   # Settings page: kicker label above the title.
   # English: Settings
   settings.kicker: 设置
