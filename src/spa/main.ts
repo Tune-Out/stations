@@ -146,9 +146,41 @@ function renderError(mountEl: HTMLElement, msg: string): void {
   const panel = el('div', { class: 'error-panel' });
   panel.appendChild(el('strong', { text: t('error.title') }));
   panel.appendChild(el('p', { class: 'muted', text: msg }));
-  const retry = el('button', { class: 'btn btn-primary', text: t('error.retry') });
+
+  // Plain "Reload" — gentle attempt, useful for transient network errors.
+  // For schema-mismatch / cached-stale errors this won't help, hence the
+  // separate Force-update button below.
+  const retry = el('button', { class: 'btn btn-ghost', text: t('error.retry') });
   retry.addEventListener('click', () => location.reload());
-  panel.appendChild(retry);
+
+  // Hard reset path: wipe every CacheAPI sqlite entry and pull a fresh
+  // copy of /data/stations.sqlite. The loader's existing progress bar
+  // picks up the dbStatus signal so the user sees the download.
+  const force = el('button', { class: 'btn btn-primary', text: t('error.force_reload') });
+  force.addEventListener('click', async () => {
+    force.setAttribute('disabled', 'true');
+    retry.setAttribute('disabled', 'true');
+    try {
+      const { forceReloadDb } = await import('./db.js');
+      await forceReloadDb();
+      // Re-dispatch the current route now that the DB is fresh.
+      const { dispatch } = await import('./router.js');
+      await dispatch();
+    } catch (e) {
+      // forceReloadDb already pushes the error into dbStatus → renderError
+      // gets called again with the new message via the bootstrap subscriber.
+      console.error('[force-reload]', e);
+    }
+  });
+
+  const actions = el('div', { class: 'error-actions' });
+  actions.appendChild(force);
+  actions.appendChild(retry);
+  panel.appendChild(actions);
+
+  const help = el('p', { class: 'muted error-help', text: t('error.force_reload_help') });
+  panel.appendChild(help);
+
   root.appendChild(panel);
   mountEl.replaceChildren(root);
 }

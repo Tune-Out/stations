@@ -195,6 +195,8 @@ const STRING_KEY_DESCRIPTIONS: Record<string, string> = {
   'loading.cached':                'Loading screen text on the warm path (DB from OPFS cache).',
   'error.title':                   'Generic error heading when a view fails to render.',
   'error.retry':                   'Generic Retry button label on error states.',
+  'error.force_reload':            'Error panel button: wipe the cached database + redownload the latest from /data/stations.sqlite. Recovery path for schema-mismatch errors that plain reload can\'t fix.',
+  'error.force_reload_help':       'Error panel: short explanation under the Refresh-database button so the user knows when to use it.',
   'footer.non_commercial':         'Footer: non-commercial / no-tracking statement.',
   'footer.public_domain':          'Footer: public-domain license notice.',
   'footer.source':                 'Footer: anchor label pointing at the source repo.',

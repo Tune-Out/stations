@@ -325,11 +325,13 @@ img { display: block; max-width: 100%; height: auto; }
   background: color-mix(in oklab, var(--accent) 16%, transparent);
 }
 .smenu-swatch {
-  width: 14px; height: 14px;
-  border-radius: 999px;
+  width: 18px; height: 18px;
+  border-radius: 5px;
+  display: inline-flex; align-items: center; justify-content: center;
   background: var(--accent);
   box-shadow: inset 0 0 0 1px color-mix(in oklab, #000 18%, transparent);
 }
+.smenu-swatch svg { display: block; }
 .smenu-panel {
   position: absolute;
   inset-block-start: calc(100% + 0.4rem);
@@ -344,6 +346,10 @@ img { display: block; max-width: 100%; height: auto; }
   padding: 0.35rem;
   z-index: 40;
   animation: lmenu-pop 140ms var(--easing);
+  /* Force LTR so [swatch | name | check] columns stay in that order in
+     Arabic (the document is dir="rtl" but this picker is a utility menu
+     that should read identically across locales). */
+  direction: ltr;
 }
 .smenu-title {
   font-size: 0.72rem;
@@ -355,13 +361,13 @@ img { display: block; max-width: 100%; height: auto; }
 }
 .smenu-item {
   display: grid;
-  grid-template-columns: 24px 1fr 18px;
+  grid-template-columns: 26px 1fr 18px;
   align-items: center;
   gap: 0.7rem;
   background: transparent;
   border: 0;
   color: var(--fg);
-  padding: 0.5rem 0.6rem;
+  padding: 0.45rem 0.6rem;
   border-radius: var(--radius-sm);
   text-align: start;
   cursor: pointer;
@@ -370,14 +376,19 @@ img { display: block; max-width: 100%; height: auto; }
 }
 .smenu-item:hover { background: color-mix(in oklab, var(--accent) 12%, transparent); }
 .smenu-item.is-active { background: color-mix(in oklab, var(--accent) 18%, transparent); }
-.smenu-dot {
-  width: 18px; height: 18px;
-  border-radius: 999px;
-  box-shadow: inset 0 0 0 1px color-mix(in oklab, #000 18%, transparent);
+/* Per-row mini swatch — the SVG mini-card rendered by skin-menu.ts. The
+   border-radius matches the SVG's so the wrapper hugs it. */
+.smenu-swatch-mini {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 22px; height: 22px;
+  border-radius: 5px;
 }
-.smenu-text { display: grid; gap: 0.05rem; min-width: 0; }
-.smenu-name { font-weight: 600; letter-spacing: -0.005em; }
-.smenu-sub  { color: var(--muted); font-size: 0.78rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.smenu-swatch-mini svg { display: block; }
+.smenu-name {
+  font-weight: 600; letter-spacing: -0.005em;
+  min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  text-align: left;
+}
 .smenu-check { color: var(--accent); }
 
 /* Locale dropdown menu */
@@ -418,6 +429,11 @@ img { display: block; max-width: 100%; height: auto; }
   padding: 0.35rem;
   z-index: 40;
   animation: lmenu-pop 140ms var(--easing);
+  /* Lock the picker to LTR so [check | native name | english sub] reads
+     the same in every locale. Individual native-name spans still use
+     `dir="auto"` so Arabic glyphs render with the correct bidi rules
+     within the left-anchored cell. */
+  direction: ltr;
 }
 @keyframes lmenu-pop {
   from { opacity: 0; transform: translateY(-4px) scale(0.98); }
@@ -443,8 +459,12 @@ img { display: block; max-width: 100%; height: auto; }
 .lmenu-item:hover { background: color-mix(in oklab, var(--accent) 12%, transparent); }
 .lmenu-item.is-active { background: color-mix(in oklab, var(--accent) 18%, transparent); }
 .lmenu-check { color: var(--accent); }
-.lmenu-name { font-weight: 600; letter-spacing: -0.005em; }
-.lmenu-sub  { color: var(--muted); font-size: 0.78rem; }
+/* `text-align: left` (not `start`) so an Arabic native name like العربية —
+   whose `dir="auto"` flips its span's intrinsic direction to RTL — still
+   anchors to the LEFT edge of its grid cell. The glyphs themselves still
+   shape RTL within that anchor, which is the correct Unicode behaviour. */
+.lmenu-name { font-weight: 600; letter-spacing: -0.005em; text-align: left; }
+.lmenu-sub  { color: var(--muted); font-size: 0.78rem; text-align: left; }
 
 .lmenu-sep {
   margin: 0.35rem 0.25rem;
@@ -1226,8 +1246,27 @@ img { display: block; max-width: 100%; height: auto; }
   box-shadow: 0 32px 64px -28px color-mix(in oklab, var(--accent) 50%, transparent),
               inset 0 0 0 1px color-mix(in oklab, var(--line) 80%, transparent);
 }
-.station-art img { width: 100%; height: 100%; object-fit: cover; }
-.station-art-fb { position: absolute; inset: 0; display: grid; place-items: center; font-size: 3rem; opacity: 0.5; }
+.station-art img { width: 100%; height: 100%; object-fit: cover; position: relative; z-index: 1; }
+
+/* ─── View Transition tuning ─────────────────────────
+   The pseudo-elements below appear automatically when the router pairs a
+   station card's art/title with the destination hero. We tighten the
+   default 250ms cross-fade to something snappier, and ease the size
+   change so the favicon morph feels grounded rather than slidey. */
+@supports (view-transition-name: none) {
+  ::view-transition-group(*) {
+    animation-duration: 360ms;
+    animation-timing-function: cubic-bezier(0.22, 0.61, 0.36, 1);
+  }
+  ::view-transition-image-pair(*) {
+    /* Cross-fade between old + new image content of the same name. */
+    animation-duration: 240ms;
+  }
+}
+/* Fallback placeholder is invisible by default; the JS only adds .no-art
+   when the favicon is loading or has failed, which flips the opacity on. */
+.station-art-fb { position: absolute; inset: 0; display: grid; place-items: center; font-size: 3rem; opacity: 0; transition: opacity 120ms ease; }
+.station-art.no-art .station-art-fb { opacity: 0.55; }
 .station-overline { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.85rem; color: var(--muted); }
 .station-name { font-family: var(--font-display); font-size: clamp(1.75rem, 5vw, 3rem); line-height: 1.05; margin: 0.3rem 0 1rem; }
 .station-actions { display: flex; gap: 0.5rem; flex-wrap: wrap; }
@@ -1631,6 +1670,17 @@ img { display: block; max-width: 100%; height: auto; }
   border: 1px solid color-mix(in oklab, #dc2626 25%, var(--line));
   background: color-mix(in oklab, #dc2626 10%, var(--bg-elev));
   color: var(--fg);
+}
+.error-actions {
+  display: flex; flex-wrap: wrap; gap: 0.6rem;
+  margin-block-start: 1rem;
+}
+.error-actions .btn[disabled] { opacity: 0.55; cursor: progress; pointer-events: none; }
+.error-help {
+  margin-block-start: 0.85rem;
+  font-size: 0.85rem;
+  line-height: 1.45;
+  max-width: 42em;
 }
 
 /* ─── Footer (in main, not the player) ──────────────── */

@@ -364,6 +364,12 @@ strings:
   # Generic Retry button label on error states.
   # English: Reload
   error.retry: पुनः लोड करें
+  # Error panel button: wipe the cached database + redownload the latest from /data/stations.sqlite. Recovery path for schema-mismatch errors that plain reload can't fix.
+  # English: Refresh database
+  error.force_reload: डेटाबेस ताज़ा करें
+  # Error panel: short explanation under the Refresh-database button so the user knows when to use it.
+  # English: Clears the local cache and downloads the latest catalog. Use this if the app keeps showing errors after a normal reload.
+  error.force_reload_help: स्थानीय कैश साफ़ करता है और नवीनतम कैटलॉग डाउनलोड करता है। यदि सामान्य रीलोड के बाद भी ऐप त्रुटियाँ दिखाता है तो इसका उपयोग करें।
   # Footer: non-commercial / no-tracking statement.
   # English: A non-commercial open-source community project.
   footer.non_commercial: एक गैर-व्यावसायिक ओपन-सोर्स कम्युनिटी परियोजना।

@@ -68,7 +68,14 @@ export interface ThemeMeta {
   id: Skin;
   name_key: string;
   description_key: string;
+  /** Single-color preview (legacy; falls back when bg/fg/accent missing). */
   preview_color: string;
+  /** Mini-swatch background colour, used by the skin picker's card mock. */
+  preview_bg?: string;
+  /** Mini-swatch foreground/text colour. */
+  preview_fg?: string;
+  /** Mini-swatch accent (header stripe) colour. */
+  preview_accent?: string;
   order: number;
   css: string;
   fonts: ThemeFontEntry[];

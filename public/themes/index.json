@@ -7,6 +7,9 @@
       "name_key": "theme.skin.classic.name",
       "description_key": "theme.skin.classic.description",
       "preview_color": "#3b82f6",
+      "preview_bg": "#0a0d14",
+      "preview_fg": "#e7ecf3",
+      "preview_accent": "#60a5fa",
       "order": 0,
       "css": "themes/classic/theme.css",
       "fonts": []
@@ -16,6 +19,9 @@
       "name_key": "theme.skin.minimal.name",
       "description_key": "theme.skin.minimal.description",
       "preview_color": "#6b7280",
+      "preview_bg": "#0b0b0d",
+      "preview_fg": "#e5e5e7",
+      "preview_accent": "#d4d4d8",
       "order": 1,
       "css": "themes/minimal/theme.css",
       "fonts": []
@@ -25,6 +31,9 @@
       "name_key": "theme.skin.solarpunk.name",
       "description_key": "theme.skin.solarpunk.description",
       "preview_color": "#22c55e",
+      "preview_bg": "#0e1814",
+      "preview_fg": "#ecf5e2",
+      "preview_accent": "#66d97f",
       "order": 2,
       "css": "themes/solarpunk/theme.css",
       "fonts": [
@@ -41,6 +50,9 @@
       "name_key": "theme.skin.futurist.name",
       "description_key": "theme.skin.futurist.description",
       "preview_color": "#d946ef",
+      "preview_bg": "#0a0014",
+      "preview_fg": "#f5e9ff",
+      "preview_accent": "#d946ef",
       "order": 3,
       "css": "themes/futurist/theme.css",
       "fonts": [
@@ -63,6 +75,9 @@
       "name_key": "theme.skin.applish.name",
       "description_key": "theme.skin.applish.description",
       "preview_color": "#0a84ff",
+      "preview_bg": "#000000",
+      "preview_fg": "#f5f5f7",
+      "preview_accent": "#0a84ff",
       "order": 4,
       "css": "themes/applish/theme.css",
       "fonts": []
@@ -72,6 +87,9 @@
       "name_key": "theme.skin.winamp.name",
       "description_key": "theme.skin.winamp.description",
       "preview_color": "#1ec01e",
+      "preview_bg": "#1d2227",
+      "preview_fg": "#1ec01e",
+      "preview_accent": "#f3ff00",
       "order": 5,
       "css": "themes/winamp/theme.css",
       "fonts": [

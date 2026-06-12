@@ -34,11 +34,19 @@ const FontEntry = z.object({
   style: z.string().optional(),
 });
 
+const ColorHex = z.string().regex(/^#[0-9a-fA-F]{3,8}$/, 'must be a #rrggbb hex colour');
 const ThemeYaml = z.object({
   id: z.string().regex(/^[a-z0-9][a-z0-9_-]*$/, 'id must be kebab-case ASCII'),
   name_key: z.string().min(1),
   description_key: z.string().min(1),
-  preview_color: z.string().regex(/^#[0-9a-fA-F]{3,8}$/, 'preview_color must be #rrggbb'),
+  // Legacy single-color preview. Still emitted so older clients keep working.
+  preview_color: ColorHex,
+  // Optional three-color sample (background, foreground, accent). The SPA
+  // renders these as a mini "card" swatch in the skin picker, which is much
+  // more representative of the theme's feel than the single preview_color.
+  preview_bg:     ColorHex.optional(),
+  preview_fg:     ColorHex.optional(),
+  preview_accent: ColorHex.optional(),
   order: z.number().optional().default(100),
   fonts: z.array(FontEntry).optional().default([]),
 });
@@ -157,7 +165,10 @@ async function main(): Promise<void> {
       id: t.id,
       name_key: t.name_key,
       description_key: t.description_key,
-      preview_color: t.preview_color,
+      preview_color:  t.preview_color,
+      preview_bg:     t.preview_bg     ?? t.preview_color,
+      preview_fg:     t.preview_fg     ?? t.preview_color,
+      preview_accent: t.preview_accent ?? t.preview_color,
       order: t.order,
       css: `themes/${t.id}/theme.css`,
       fonts: t.fonts,

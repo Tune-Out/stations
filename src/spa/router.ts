@@ -75,10 +75,65 @@ export async function dispatch(): Promise<void> {
   }
 }
 
+/**
+ * Reset the SPA's main scroll container to the top. The visible scrollbar
+ * is on `<main id="main">` (the document itself doesn't scroll on desktop
+ * because the layout is a fixed-height grid). On mobile some skins let
+ * the window itself scroll, so we cover both for safety.
+ */
+function scrollMainToTop(): void {
+  const main = document.getElementById('main');
+  if (main) main.scrollTop = 0;
+  if (typeof window !== 'undefined' && window.scrollY > 0) {
+    window.scrollTo(0, 0);
+  }
+}
+
 export function go(href: string, replace = false): void {
   if (replace) history.replaceState(null, '', href);
   else history.pushState(null, '', href);
-  void dispatch();
+  void dispatch().then(scrollMainToTop);
+}
+
+/**
+ * Navigate, wrapping the SPA re-render in `document.startViewTransition`
+ * if the browser supports it. The optional `tag` callback is invoked
+ * *between* the snapshot and the render so the caller can set
+ * `view-transition-name` on outgoing elements (e.g. the clicked station
+ * card's art + title). Falls back to a plain push+dispatch when the API
+ * is missing.
+ */
+function startTransition(
+  href: string,
+  tag: () => void,
+): void {
+  type StartViewTransition = (cb: () => void | Promise<void>) => { finished: Promise<void> };
+  const startVT = (document as unknown as { startViewTransition?: StartViewTransition }).startViewTransition;
+  if (typeof startVT !== 'function') {
+    tag();
+    go(href);
+    return;
+  }
+  tag();
+  const transition = startVT.call(document, async () => {
+    history.pushState(null, '', href);
+    await dispatch();
+    // Scroll BEFORE the browser captures the new state, so the snapshot
+    // it interpolates toward shows the hero at the top of the page. The
+    // morph then animates "card at the user's previous scroll position →
+    // hero pinned at scrollTop=0" rather than "card mid-page → hero
+    // mid-page".
+    scrollMainToTop();
+  });
+  // After the morph completes, strip any names we set so the next nav
+  // doesn't inherit a stale pairing. We don't await — fire-and-forget.
+  void transition.finished.catch(() => { /* user-cancelled, ignore */ });
+}
+
+/** Extract the station UUID from `/<locale>/station/<uuid>` paths. */
+function stationUuidFromHref(href: string): string | null {
+  const m = /\/station\/([0-9a-f-]{16,})(?:[/?#]|$)/i.exec(href);
+  return m ? m[1]! : null;
 }
 
 export function switchLocale(target: Locale): void {
@@ -157,6 +212,24 @@ export function initRouter(): void {
     if (href.startsWith('http://') || href.startsWith('https://') || href.startsWith('mailto:')) return;
     if (href.startsWith('#')) return;
     e.preventDefault();
+
+    // View-Transitions hook for card → station navigation. If the click
+    // originates inside a station card and lands on /station/<uuid>, tag
+    // the card's art + title with paired view-transition-names so the
+    // browser morphs them into the hero on the destination page. Names
+    // are unique per UUID and the destination sets the same names during
+    // render — see src/spa/views/station.ts.
+    const uuid = stationUuidFromHref(href);
+    const card = a.closest('.scard, .rail-card, .home-card') as HTMLElement | null;
+    if (uuid && card) {
+      startTransition(href, () => {
+        const art   = card.querySelector<HTMLElement>('.scard-art, [data-station-art]');
+        const title = card.querySelector<HTMLElement>('.scard-title, [data-station-title]');
+        if (art)   art.style.viewTransitionName   = `station-art-${uuid}`;
+        if (title) title.style.viewTransitionName = `station-title-${uuid}`;
+      });
+      return;
+    }
     go(href);
   });
 }

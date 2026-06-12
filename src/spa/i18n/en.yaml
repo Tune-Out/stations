@@ -251,6 +251,10 @@ strings:
   error.title: Something went wrong.
   # Generic Retry button label on error states.
   error.retry: Reload
+  # Error panel button: wipe the cached database + redownload the latest from /data/stations.sqlite. Recovery path for schema-mismatch errors that plain reload can't fix.
+  error.force_reload: Refresh database
+  # Error panel: short explanation under the Refresh-database button so the user knows when to use it.
+  error.force_reload_help: Clears the local cache and downloads the latest catalog. Use this if the app keeps showing errors after a normal reload.
   # Footer: non-commercial / no-tracking statement.
   footer.non_commercial: A non-commercial open-source community project.
   # Footer: public-domain license notice.

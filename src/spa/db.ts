@@ -53,17 +53,61 @@ function blobToUuid(blob: Uint8Array): string {
 let dbRef: Database | null = null;
 let opening: Promise<Database> | null = null;
 
+export interface ManifestArtifact { path: string; size: number; sha256: string; }
+export interface Manifest {
+  generated_at?: string;
+  count?: number;
+  locales?: string[];
+  artifacts?: Record<string, ManifestArtifact>;
+  stations_hash?: string;
+}
+let manifestCache: Manifest | null = null;
+
 const DB_URL = '/data/stations.sqlite';
 const MANIFEST_URL = '/data/manifest.json';
-// Bumped because the schema changed (normalized tags/languages). The browser's
-// cached SQLite from a previous version would crash queries; this cache key
-// change forces a fresh download.
-const CACHE_NAME = 'tuneout-sqlite-v2';
+// Cache namespace. The actual cache key embeds the manifest's sqlite SHA-256,
+// so a new build naturally invalidates the previous cache. The prefix lets
+// us garbage-collect stale entries (older versions, the v1/v2 legacy names).
+const CACHE_PREFIX = 'tuneout-sqlite:';
+const LEGACY_CACHE_NAMES = ['tuneout-sqlite-v1', 'tuneout-sqlite-v2'];
 
-async function fetchSqlite(url: string): Promise<ArrayBuffer> {
+/** Tables we expect to exist in any healthy build. If any is missing the
+ *  cached DB is from an older build; we evict and redownload. */
+const REQUIRED_TABLES = [
+  'stations', 'stations_fts', 'tags', 'station_tags',
+  'languages', 'station_languages', 'station_streams',
+] as const;
+
+async function evictAllSqliteCaches(): Promise<void> {
+  if (!('caches' in self)) return;
+  try {
+    const names = await caches.keys();
+    await Promise.all(
+      names
+        .filter((n) => n.startsWith(CACHE_PREFIX) || LEGACY_CACHE_NAMES.includes(n))
+        .map((n) => caches.delete(n)),
+    );
+  } catch { /* private mode etc. */ }
+}
+
+async function evictAllSqliteCachesExcept(keep: string): Promise<void> {
+  if (!('caches' in self)) return;
+  try {
+    const names = await caches.keys();
+    await Promise.all(
+      names
+        .filter((n) => (n.startsWith(CACHE_PREFIX) && n !== keep) || LEGACY_CACHE_NAMES.includes(n))
+        .map((n) => caches.delete(n)),
+    );
+  } catch { /* ignore */ }
+}
+
+async function fetchSqlite(cacheName: string, url: string): Promise<ArrayBuffer> {
+  // Cache hit: serve straight from CacheAPI. cacheName already embeds the
+  // current build's sha256 so a stale cache can't be served here.
   if ('caches' in self) {
     try {
-      const c = await caches.open(CACHE_NAME);
+      const c = await caches.open(cacheName);
       const hit = await c.match(url);
       if (hit) {
         dbStatus.set({ kind: 'opening' });
@@ -71,7 +115,8 @@ async function fetchSqlite(url: string): Promise<ArrayBuffer> {
       }
     } catch { /* private mode etc. */ }
   }
-  const r = await fetch(url);
+  // Cache miss: download, stream progress to the loader UI.
+  const r = await fetch(url, { cache: 'no-store' });
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
   const total = Number(r.headers.get('content-length') ?? 0);
   if (!r.body) return r.arrayBuffer();
@@ -90,7 +135,7 @@ async function fetchSqlite(url: string): Promise<ArrayBuffer> {
   for (const c of chunks) { out.set(c, off); off += c.byteLength; }
   if ('caches' in self) {
     try {
-      const c = await caches.open(CACHE_NAME);
+      const c = await caches.open(cacheName);
       await c.put(url, new Response(out.slice(0).buffer, {
         headers: { 'content-type': 'application/octet-stream', 'content-length': String(out.byteLength) },
       }));
@@ -100,38 +145,97 @@ async function fetchSqlite(url: string): Promise<ArrayBuffer> {
   return out.buffer;
 }
 
+/** Returns the build's sqlite SHA-256 from the live manifest, or null if
+ *  the manifest is unreachable / malformed. We don't fail the boot on a
+ *  network blip — fall back to a generic cache key in that case. */
+async function fetchLiveManifest(): Promise<Manifest | null> {
+  try {
+    const r = await fetch(MANIFEST_URL, { cache: 'no-store' });
+    if (!r.ok) return null;
+    return (await r.json()) as Manifest;
+  } catch {
+    return null;
+  }
+}
+
+/** Sniff the freshly-opened DB for required tables. Throws on mismatch so
+ *  the caller can react (evict cache + redownload). */
+function assertSchemaHealthy(db: Database): void {
+  const rows = db.exec({
+    sql: `SELECT name FROM sqlite_master WHERE type='table' AND name IN (${REQUIRED_TABLES.map(() => '?').join(',')})`,
+    bind: REQUIRED_TABLES as unknown as SqlValue[],
+    rowMode: 'array',
+    returnValue: 'resultRows',
+  }) as [string][];
+  const present = new Set(rows.map((r) => r[0]));
+  const missing = REQUIRED_TABLES.filter((t) => !present.has(t));
+  if (missing.length) {
+    throw new Error(`stale cached database (missing tables: ${missing.join(', ')})`);
+  }
+}
+
+async function loadAndDeserialize(cacheName: string) {
+  const [sqlite3, buf] = await Promise.all([
+    (sqlite3InitModule as unknown as (cfg: { print?: () => void; printErr?: () => void }) => Promise<Awaited<ReturnType<typeof sqlite3InitModule>>>)({
+      print: () => {},
+      printErr: () => {},
+    }),
+    fetchSqlite(cacheName, DB_URL),
+  ]);
+  const bytes = new Uint8Array(buf);
+  const db = new sqlite3.oo1.DB('/tuneout.sqlite', 'ct');
+  const p = sqlite3.wasm.allocFromTypedArray(bytes);
+  try {
+    const rc = sqlite3.capi.sqlite3_deserialize(
+      db.pointer!,
+      'main',
+      p,
+      bytes.byteLength,
+      bytes.byteLength,
+      sqlite3.capi.SQLITE_DESERIALIZE_FREEONCLOSE | sqlite3.capi.SQLITE_DESERIALIZE_RESIZEABLE,
+    );
+    if (rc !== 0) throw new Error('sqlite3_deserialize failed: ' + rc);
+  } catch (e) {
+    sqlite3.wasm.dealloc(p);
+    throw e;
+  }
+  return db;
+}
+
 export async function openDb(): Promise<Database> {
   if (dbRef) return dbRef;
   if (opening) return opening;
   opening = (async () => {
     dbStatus.set({ kind: 'loading', received: 0, total: 0 });
     try {
-      // The current @sqlite.org/sqlite-wasm typings don't expose the optional
-      // `print` / `printErr` config args; we silence the chatty WASM logger via
-      // an `as any` rather than blow up the build.
-      const [sqlite3, buf] = await Promise.all([
-        (sqlite3InitModule as unknown as (cfg: { print?: () => void; printErr?: () => void }) => Promise<Awaited<ReturnType<typeof sqlite3InitModule>>>)({
-          print: () => {},
-          printErr: () => {},
-        }),
-        fetchSqlite(DB_URL),
-      ]);
-      const bytes = new Uint8Array(buf);
-      const db = new sqlite3.oo1.DB('/tuneout.sqlite', 'ct');
-      const p = sqlite3.wasm.allocFromTypedArray(bytes);
+      // Hit the live manifest first so we can key the cache by sha256. If
+      // the manifest fetch fails (offline) we fall back to a generic key
+      // and accept that we may serve a stale cache; the schema check
+      // below catches stale-but-incompatible builds either way.
+      const manifest = await fetchLiveManifest();
+      const expectedSha = manifest?.artifacts?.sqlite?.sha256 ?? '';
+      const cacheName = expectedSha
+        ? `${CACHE_PREFIX}${expectedSha}`
+        : `${CACHE_PREFIX}unknown`;
+      // GC: drop every prior cache so disk doesn't grow unbounded across
+      // many catalog rebuilds. This runs in parallel with the load so it
+      // doesn't add latency to the user-visible path.
+      void evictAllSqliteCachesExcept(cacheName);
+      manifestCache = manifest ?? manifestCache;
+
+      let db: Database;
       try {
-        const rc = sqlite3.capi.sqlite3_deserialize(
-          db.pointer!,
-          'main',
-          p,
-          bytes.byteLength,
-          bytes.byteLength,
-          sqlite3.capi.SQLITE_DESERIALIZE_FREEONCLOSE | sqlite3.capi.SQLITE_DESERIALIZE_RESIZEABLE,
-        );
-        if (rc !== 0) throw new Error('sqlite3_deserialize failed: ' + rc);
+        db = await loadAndDeserialize(cacheName);
+        assertSchemaHealthy(db);
       } catch (e) {
-        sqlite3.wasm.dealloc(p);
-        throw e;
+        // Either the cached DB was structurally broken or the schema check
+        // failed because the cached build was older than the SPA. Wipe
+        // every sqlite cache and try a fresh download exactly once.
+        console.warn('[db] cached load rejected, refreshing:', (e as Error).message);
+        await evictAllSqliteCaches();
+        dbStatus.set({ kind: 'loading', received: 0, total: 0 });
+        db = await loadAndDeserialize(cacheName);
+        assertSchemaHealthy(db);
       }
       dbRef = db;
       dbStatus.set({ kind: 'ready' });
@@ -146,25 +250,29 @@ export async function openDb(): Promise<Database> {
   return opening;
 }
 
-export interface ManifestArtifact { path: string; size: number; sha256: string; }
-export interface Manifest {
-  generated_at?: string;
-  count?: number;
-  locales?: string[];
-  artifacts?: Record<string, ManifestArtifact>;
-  stations_hash?: string;
+/**
+ * Explicit "reset everything" path: drop every sqlite cache + close the
+ * in-memory DB, then re-run the boot. The loader UI's progress bar follows
+ * automatically via dbStatus signals. Awaitable so the calling UI can
+ * disable the button until the reload completes.
+ */
+export async function forceReloadDb(): Promise<Database> {
+  try { dbRef?.close(); } catch { /* already closed */ }
+  dbRef = null;
+  opening = null;
+  manifestCache = null;
+  await evictAllSqliteCaches();
+  dbStatus.set({ kind: 'loading', received: 0, total: 0 });
+  return openDb();
 }
 
-let manifestCache: Manifest | null = null;
 export async function loadManifest(): Promise<Manifest> {
-  if (manifestCache) return manifestCache;
-  try {
-    const r = await fetch(MANIFEST_URL, { cache: 'force-cache' });
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    manifestCache = (await r.json()) as Manifest;
-  } catch {
-    manifestCache = {};
-  }
+  if (manifestCache && Object.keys(manifestCache).length) return manifestCache;
+  // Defer to the same network-first fetcher openDb() uses. On failure we
+  // memoize an empty object so consumers (e.g. the Downloads view) don't
+  // spin in a retry loop.
+  const m = await fetchLiveManifest();
+  manifestCache = m ?? {};
   return manifestCache;
 }
 

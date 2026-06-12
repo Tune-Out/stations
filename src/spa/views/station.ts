@@ -34,13 +34,23 @@ export async function renderStation(route: Route, mount: HTMLElement): Promise<v
 
   // Hero
   const hero = el('section', { class: 'station-hero' });
-  const art = el('div', { class: row.favicon ? 'station-art' : 'station-art no-art' });
+  // Always start with `no-art` so the radio emoji is visible during the
+  // favicon's loading state; we remove it on `load` and leave it on
+  // `error`. The CSS hides .station-art-fb whenever `.no-art` is absent,
+  // so the placeholder never sits on top of a successfully-loaded icon.
+  const art = el('div', { class: 'station-art no-art' });
   art.appendChild(el('span', { class: 'station-art-fb', text: '📻' }));
   if (row.favicon) {
     const img = el('img', { attrs: { src: row.favicon, alt: '', referrerpolicy: 'no-referrer' } });
-    img.addEventListener('error', () => { art.classList.add('no-art'); img.remove(); });
+    img.addEventListener('load',  () => art.classList.remove('no-art'));
+    img.addEventListener('error', () => { /* keep no-art */ img.remove(); });
     art.appendChild(img);
   }
+  // View Transitions: pair the hero's art + title with the originating
+  // station-card so the click navigation morphs them between positions
+  // and sizes. The router sets the same names on the source card just
+  // before the transition starts — see src/spa/router.ts.
+  art.style.viewTransitionName = `station-art-${row.uuid}`;
   hero.appendChild(art);
 
   const text = el('div');
@@ -48,7 +58,9 @@ export async function renderStation(route: Route, mount: HTMLElement): Promise<v
   const flag = flagEmoji(row.countrycode);
   overline.innerHTML = `<span>${flag}</span><span>${escapeHtml(cn || '—')}</span>${row.state ? `<span style="opacity:.5">·</span><span>${escapeHtml(row.state)}</span>` : ''}`;
   text.appendChild(overline);
-  text.appendChild(el('h1', { class: 'station-name', text: name }));
+  const nameEl = el('h1', { class: 'station-name', text: name });
+  nameEl.style.viewTransitionName = `station-title-${row.uuid}`;
+  text.appendChild(nameEl);
 
   // Optional summary/description
   const sum = localizedDesc(row, l);
