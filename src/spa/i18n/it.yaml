@@ -43,6 +43,9 @@ strings:
   # Sidebar nav — Downloads link label.
   # English: Downloads
   nav.downloads: Download
+  # Sidebar nav — Settings link label (between Downloads and About).
+  # English: Settings
+  nav.settings: Impostazioni
   # Sidebar nav — About link label.
   # English: About
   nav.about: Informazioni
@@ -341,8 +344,8 @@ strings:
   # English: Privacy
   about.privacy.title: Privacy
   # About body — privacy.
-  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
-  about.privacy.body: Nessun account, nessun tracciamento. Recenti, preferiti e raccolte vivono nel tuo browser. La ricerca delle copertine interroga l'API pubblica iTunes Search di Apple usando solo il titolo del brano — nessun identificatore viene inviato.
+  # English: No accounts, no tracking from us. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent. The site is served as static files from GitHub Pages, so GitHub's CDN sees your IP address and the page you requested like any other web host would. When you open a station's homepage or play its stream, your browser connects directly to that broadcaster's servers; they may log your IP address, user agent, listening duration, and other request metadata — Tune Out has no visibility into or control over what happens once your browser is talking to a third-party station.
+  about.privacy.body: "Niente account, niente tracciamento da parte nostra. Recenti, preferiti e raccolte restano nel tuo browser. Le ricerche di copertina interrogano l'API pubblica iTunes Search di Apple con il solo titolo del brano — nessun identificatore viene inviato. Il sito è servito come file statici da GitHub Pages: il CDN di GitHub vede quindi il tuo indirizzo IP e la pagina richiesta, come qualsiasi altro host. Quando apri la pagina di una stazione o avvii il suo stream, il browser si connette direttamente ai server di quell'emittente; questi possono registrare il tuo IP, lo user-agent, la durata di ascolto e altri metadati della richiesta — Tune Out non ha visibilità né controllo su ciò che accade una volta che il tuo browser sta dialogando con una stazione di terze parti."
   # About section heading — contributing.
   # English: Contributing translations
   about.contributing.title: Contribuire alle traduzioni
@@ -472,6 +475,51 @@ strings:
   # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
   # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
   about.add_language.body: Per aggiungere una nuova lingua, apri una pull request che copia <code>src/spa/i18n/en.yaml</code> in un file il cui nome è il codice BCP-47 della lingua di destinazione &mdash; per esempio, rinominalo in <code>uk.yaml</code> per aggiungere l'ucraino &mdash; poi traduci i valori sotto <code>strings:</code>. Mantieni intatte chiavi, commenti e <code>{placeholders}</code>. Il catalogo rileva la nuova locale automaticamente una volta che il file viene unito.
+  # Settings page: kicker label above the title.
+  # English: Settings
+  settings.kicker: Impostazioni
+  # Settings page: H1 title; also used as the topbar settings-cog aria-label.
+  # English: Settings
+  settings.title: Impostazioni
+  # Settings page: lead paragraph.
+  # English: Adjust appearance, manage your recently played list, and export your stations.
+  settings.lede: Regola l'aspetto, gestisci le riproduzioni recenti ed esporta le tue stazioni.
+  # Settings page: heading for the appearance card (theme + skin).
+  # English: Appearance
+  settings.appearance.title: Aspetto
+  # Settings page: body for the appearance card.
+  # English: Pick a theme (light, dark, or follow your system) and a visual skin.
+  settings.appearance.body: Scegli un tema (chiaro, scuro o di sistema) e una skin visiva.
+  # Settings page: heading for the recently-played card.
+  # English: Recently played
+  settings.recents.title: Riprodotti di recente
+  # Settings page: body for the recently-played card.
+  # English: Stations you tune in to are remembered locally. Nothing leaves your device.
+  settings.recents.body: Le stazioni che ascolti sono memorizzate localmente. Niente esce dal tuo dispositivo.
+  # Settings page: label for the number input that caps the recents list.
+  # English: Maximum entries to keep
+  settings.recents.max_label: Numero massimo di voci da conservare
+  # Settings page: live count of stored recents. Uses `{n}` for the number.
+  # English: {n} stored
+  settings.recents.count: "{n} salvate"
+  # Settings page: clear-recents button label.
+  # English: Clear recently played
+  settings.recents.clear: Cancella riprodotti di recente
+  # Settings page: confirm() prompt before wiping the recents list.
+  # English: Remove every entry from your recently-played list?
+  settings.recents.clear_confirm: Rimuovere tutte le voci dall'elenco dei riprodotti di recente?
+  # Settings page: heading for the export card.
+  # English: Export playlists
+  settings.export.title: Esporta playlist
+  # Settings page: body for the export card.
+  # English: Download your station lists as standard .pls files — open them in VLC, Foobar2000, Winamp, or any other player.
+  settings.export.body: Scarica i tuoi elenchi come file .pls — aprili in VLC, Foobar2000, Winamp o qualsiasi altro player.
+  # Settings page: button label for the recents → .pls export.
+  # English: Export recents (.pls)
+  settings.export.recents: Esporta recenti (.pls)
+  # Settings page: button label for the favorites → .pls export.
+  # English: Export favorites (.pls)
+  settings.export.favorites: Esporta preferiti (.pls)
   # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
   # English: Add to Home Screen
   install.button.label: Aggiungi alla schermata Home

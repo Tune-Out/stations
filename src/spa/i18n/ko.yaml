@@ -43,6 +43,9 @@ strings:
   # Sidebar nav — Downloads link label.
   # English: Downloads
   nav.downloads: 다운로드
+  # Sidebar nav — Settings link label (between Downloads and About).
+  # English: Settings
+  nav.settings: 설정
   # Sidebar nav — About link label.
   # English: About
   nav.about: 소개
@@ -341,8 +344,8 @@ strings:
   # English: Privacy
   about.privacy.title: 개인정보
   # About body — privacy.
-  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
-  about.privacy.body: 계정도, 추적도 없습니다. 최근·즐겨찾기·컬렉션은 브라우저에만 저장됩니다. 앨범 아트 조회는 Apple의 공개 iTunes Search API에 노래 제목만 보내며 식별자는 보내지 않습니다.
+  # English: No accounts, no tracking from us. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent. The site is served as static files from GitHub Pages, so GitHub's CDN sees your IP address and the page you requested like any other web host would. When you open a station's homepage or play its stream, your browser connects directly to that broadcaster's servers; they may log your IP address, user agent, listening duration, and other request metadata — Tune Out has no visibility into or control over what happens once your browser is talking to a third-party station.
+  about.privacy.body: 계정도, 우리 측의 추적도 없습니다. 최근 들은 방송국, 즐겨찾기, 컬렉션은 모두 브라우저 안에 머무릅니다. 앨범 아트 조회는 Apple의 공개 iTunes Search API에 곡 제목만 전달하며, 식별자는 전송되지 않습니다. 이 사이트는 GitHub Pages에서 정적 파일로 제공되므로, 다른 웹 호스트와 마찬가지로 GitHub의 CDN은 사용자의 IP 주소와 요청한 페이지를 알 수 있습니다. 방송국의 홈페이지를 열거나 스트림을 재생하면 브라우저가 해당 방송국의 서버에 직접 연결됩니다. 그 서버는 IP 주소, 사용자 에이전트, 청취 시간 등 요청 메타데이터를 기록할 수 있습니다 — 브라우저가 제3자 방송국과 통신하기 시작한 이후 일어나는 일에 대해 Tune Out은 관찰하거나 통제할 방법이 없습니다.
   # About section heading — contributing.
   # English: Contributing translations
   about.contributing.title: 번역에 기여하기
@@ -472,6 +475,51 @@ strings:
   # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
   # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
   about.add_language.body: 새 언어를 추가하려면, <code>src/spa/i18n/en.yaml</code>을 대상 언어의 BCP-47 코드를 이름으로 하는 파일에 복사하는 풀 리퀘스트를 여세요. 예를 들어 우크라이나어를 추가하려면 <code>uk.yaml</code>로 이름을 바꾸고, <code>strings:</code> 아래 값을 번역하세요. 키, 주석, <code>{placeholders}</code>는 그대로 두세요. 파일이 머지되면 카탈로그는 새 로케일을 자동으로 인식합니다.
+  # Settings page: kicker label above the title.
+  # English: Settings
+  settings.kicker: 설정
+  # Settings page: H1 title; also used as the topbar settings-cog aria-label.
+  # English: Settings
+  settings.title: 설정
+  # Settings page: lead paragraph.
+  # English: Adjust appearance, manage your recently played list, and export your stations.
+  settings.lede: 외관을 조정하고, 최근 재생 목록을 관리하며, 방송국을 내보냅니다.
+  # Settings page: heading for the appearance card (theme + skin).
+  # English: Appearance
+  settings.appearance.title: 외관
+  # Settings page: body for the appearance card.
+  # English: Pick a theme (light, dark, or follow your system) and a visual skin.
+  settings.appearance.body: 테마(라이트, 다크 또는 시스템 따르기)와 비주얼 스킨을 선택하세요.
+  # Settings page: heading for the recently-played card.
+  # English: Recently played
+  settings.recents.title: 최근 재생
+  # Settings page: body for the recently-played card.
+  # English: Stations you tune in to are remembered locally. Nothing leaves your device.
+  settings.recents.body: 들으신 방송국은 로컬에 저장됩니다. 기기 밖으로 나가지 않습니다.
+  # Settings page: label for the number input that caps the recents list.
+  # English: Maximum entries to keep
+  settings.recents.max_label: 보관할 최대 항목 수
+  # Settings page: live count of stored recents. Uses `{n}` for the number.
+  # English: {n} stored
+  settings.recents.count: "{n}개 저장됨"
+  # Settings page: clear-recents button label.
+  # English: Clear recently played
+  settings.recents.clear: 최근 재생 비우기
+  # Settings page: confirm() prompt before wiping the recents list.
+  # English: Remove every entry from your recently-played list?
+  settings.recents.clear_confirm: 최근 재생 목록의 모든 항목을 삭제할까요?
+  # Settings page: heading for the export card.
+  # English: Export playlists
+  settings.export.title: 재생 목록 내보내기
+  # Settings page: body for the export card.
+  # English: Download your station lists as standard .pls files — open them in VLC, Foobar2000, Winamp, or any other player.
+  settings.export.body: 방송국 목록을 .pls 파일로 내려받으세요 — VLC, Foobar2000, Winamp 등 어떤 플레이어에서도 열 수 있습니다.
+  # Settings page: button label for the recents → .pls export.
+  # English: Export recents (.pls)
+  settings.export.recents: 최근 내보내기 (.pls)
+  # Settings page: button label for the favorites → .pls export.
+  # English: Export favorites (.pls)
+  settings.export.favorites: 즐겨찾기 내보내기 (.pls)
   # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
   # English: Add to Home Screen
   install.button.label: 홈 화면에 추가

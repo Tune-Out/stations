@@ -43,6 +43,9 @@ strings:
   # Sidebar nav — Downloads link label.
   # English: Downloads
   nav.downloads: 下载
+  # Sidebar nav — Settings link label (between Downloads and About).
+  # English: Settings
+  nav.settings: 设置
   # Sidebar nav — About link label.
   # English: About
   nav.about: 关于
@@ -341,8 +344,8 @@ strings:
   # English: Privacy
   about.privacy.title: 隐私
   # About body — privacy.
-  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
-  about.privacy.body: 无账户、无追踪。最近、收藏与歌单都保存在你的浏览器中。封面查找仅以歌曲名调用 Apple 公开的 iTunes Search API，不会发送任何标识。
+  # English: No accounts, no tracking from us. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent. The site is served as static files from GitHub Pages, so GitHub's CDN sees your IP address and the page you requested like any other web host would. When you open a station's homepage or play its stream, your browser connects directly to that broadcaster's servers; they may log your IP address, user agent, listening duration, and other request metadata — Tune Out has no visibility into or control over what happens once your browser is talking to a third-party station.
+  about.privacy.body: 我们不要求账号、不进行任何追踪。最近播放、收藏和合集都只保存在你的浏览器中。专辑封面查询仅向 Apple 公开的 iTunes Search API 发送歌曲名，不会发送任何标识符。本站以静态文件的形式由 GitHub Pages 提供，因此 GitHub 的 CDN 会和任何其他网站主机一样看到你的 IP 地址和请求的页面。打开某个电台的主页或播放其流时，浏览器会直接连接到该广播方的服务器；这些服务器可能记录你的 IP、user-agent、收听时长以及其他请求元数据 — 一旦浏览器开始与第三方电台通信，Tune Out 既看不到也无法控制随后的过程。
   # About section heading — contributing.
   # English: Contributing translations
   about.contributing.title: 贡献翻译
@@ -472,6 +475,51 @@ strings:
   # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
   # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
   about.add_language.body: 要添加新语言，请提交一个 pull request，把 <code>src/spa/i18n/en.yaml</code> 复制到一个以目标语言 BCP-47 代码命名的文件 &mdash; 例如，把它重命名为 <code>uk.yaml</code> 来添加乌克兰语 &mdash; 然后翻译 <code>strings:</code> 下的值。保持键名、注释和 <code>{placeholders}</code> 原样。文件合并后，目录会自动识别新语言。
+  # Settings page: kicker label above the title.
+  # English: Settings
+  settings.kicker: 设置
+  # Settings page: H1 title; also used as the topbar settings-cog aria-label.
+  # English: Settings
+  settings.title: 设置
+  # Settings page: lead paragraph.
+  # English: Adjust appearance, manage your recently played list, and export your stations.
+  settings.lede: 调整外观、管理最近播放列表，并导出您的电台。
+  # Settings page: heading for the appearance card (theme + skin).
+  # English: Appearance
+  settings.appearance.title: 外观
+  # Settings page: body for the appearance card.
+  # English: Pick a theme (light, dark, or follow your system) and a visual skin.
+  settings.appearance.body: 选择主题（浅色、深色或跟随系统）和视觉皮肤。
+  # Settings page: heading for the recently-played card.
+  # English: Recently played
+  settings.recents.title: 最近播放
+  # Settings page: body for the recently-played card.
+  # English: Stations you tune in to are remembered locally. Nothing leaves your device.
+  settings.recents.body: 您收听的电台保存在本地。任何数据都不会离开您的设备。
+  # Settings page: label for the number input that caps the recents list.
+  # English: Maximum entries to keep
+  settings.recents.max_label: 保留的最大条目数
+  # Settings page: live count of stored recents. Uses `{n}` for the number.
+  # English: {n} stored
+  settings.recents.count: 已存 {n} 条
+  # Settings page: clear-recents button label.
+  # English: Clear recently played
+  settings.recents.clear: 清除最近播放
+  # Settings page: confirm() prompt before wiping the recents list.
+  # English: Remove every entry from your recently-played list?
+  settings.recents.clear_confirm: 要清除最近播放列表中的所有条目吗？
+  # Settings page: heading for the export card.
+  # English: Export playlists
+  settings.export.title: 导出播放列表
+  # Settings page: body for the export card.
+  # English: Download your station lists as standard .pls files — open them in VLC, Foobar2000, Winamp, or any other player.
+  settings.export.body: 将电台列表下载为 .pls 文件 — 可在 VLC、Foobar2000、Winamp 或其他播放器中打开。
+  # Settings page: button label for the recents → .pls export.
+  # English: Export recents (.pls)
+  settings.export.recents: 导出最近 (.pls)
+  # Settings page: button label for the favorites → .pls export.
+  # English: Export favorites (.pls)
+  settings.export.favorites: 导出收藏 (.pls)
   # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
   # English: Add to Home Screen
   install.button.label: 添加到主屏幕

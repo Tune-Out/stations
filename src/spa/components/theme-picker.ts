@@ -12,7 +12,12 @@ const ORDER: { value: Theme; icon: IconName }[] = [
   { value: 'dark',   icon: 'dark_mode'  },
 ];
 
-export function themePicker(): HTMLElement {
+/**
+ * The light / system / dark segmented control on its own. Rendered in the
+ * top bar so a one-tap theme switch is always reachable; also used inside
+ * {@link themePicker} for the legacy combined widget.
+ */
+export function themeSegments(): HTMLElement {
   const root = el('div', {
     class: 'seg theme-picker',
     attrs: { role: 'group', 'aria-label': t('theme.label') },
@@ -43,9 +48,17 @@ export function themePicker(): HTMLElement {
     }
   });
 
-  // Skin (theme variant) dropdown — anchored to the end of the segmented
-  // picker so the two controls read as one block.
-  root.appendChild(skinMenu());
+  return root;
+}
 
+/**
+ * Combined picker: segmented theme + skin dropdown attached on the end.
+ * Kept around for callers that want both in one block (e.g. settings,
+ * if you ever wanted to surface light/dark there too). Most surfaces
+ * now render {@link themeSegments} and {@link skinMenu} separately.
+ */
+export function themePicker(): HTMLElement {
+  const root = themeSegments();
+  root.appendChild(skinMenu());
   return root;
 }

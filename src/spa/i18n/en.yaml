@@ -37,6 +37,8 @@ strings:
   nav.search: Search
   # Sidebar nav — Downloads link label.
   nav.downloads: Downloads
+  # Sidebar nav — Settings link label (between Downloads and About).
+  nav.settings: Settings
   # Sidebar nav — About link label.
   nav.about: About
   # Sidebar section heading: recently played stations.
@@ -236,7 +238,7 @@ strings:
   # About section heading — privacy.
   about.privacy.title: Privacy
   # About body — privacy.
-  about.privacy.body: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
+  about.privacy.body: No accounts, no tracking from us. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent. The site is served as static files from GitHub Pages, so GitHub's CDN sees your IP address and the page you requested like any other web host would. When you open a station's homepage or play its stream, your browser connects directly to that broadcaster's servers; they may log your IP address, user agent, listening duration, and other request metadata — Tune Out has no visibility into or control over what happens once your browser is talking to a third-party station.
   # About section heading — contributing.
   about.contributing.title: Contributing translations
   # About body — contributing.
@@ -323,6 +325,36 @@ strings:
   about.add_language.title: Adding a new language
   # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
   about.add_language.body: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
+  # Settings page: kicker label above the title.
+  settings.kicker: Settings
+  # Settings page: H1 title; also used as the topbar settings-cog aria-label.
+  settings.title: Settings
+  # Settings page: lead paragraph.
+  settings.lede: Adjust appearance, manage your recently played list, and export your stations.
+  # Settings page: heading for the appearance card (theme + skin).
+  settings.appearance.title: Appearance
+  # Settings page: body for the appearance card.
+  settings.appearance.body: Pick a theme (light, dark, or follow your system) and a visual skin.
+  # Settings page: heading for the recently-played card.
+  settings.recents.title: Recently played
+  # Settings page: body for the recently-played card.
+  settings.recents.body: Stations you tune in to are remembered locally. Nothing leaves your device.
+  # Settings page: label for the number input that caps the recents list.
+  settings.recents.max_label: Maximum entries to keep
+  # Settings page: live count of stored recents. Uses `{n}` for the number.
+  settings.recents.count: "{n} stored"
+  # Settings page: clear-recents button label.
+  settings.recents.clear: Clear recently played
+  # Settings page: confirm() prompt before wiping the recents list.
+  settings.recents.clear_confirm: Remove every entry from your recently-played list?
+  # Settings page: heading for the export card.
+  settings.export.title: Export playlists
+  # Settings page: body for the export card.
+  settings.export.body: Download your station lists as standard .pls files — open them in VLC, Foobar2000, Winamp, or any other player.
+  # Settings page: button label for the recents → .pls export.
+  settings.export.recents: Export recents (.pls)
+  # Settings page: button label for the favorites → .pls export.
+  settings.export.favorites: Export favorites (.pls)
   # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
   install.button.label: Add to Home Screen
   # Install modal: heading.

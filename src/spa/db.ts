@@ -102,7 +102,7 @@ async function evictAllSqliteCachesExcept(keep: string): Promise<void> {
   } catch { /* ignore */ }
 }
 
-async function fetchSqlite(cacheName: string, url: string): Promise<ArrayBuffer> {
+async function fetchSqlite(cacheName: string, url: string, expectedSize: number): Promise<ArrayBuffer> {
   // Cache hit: serve straight from CacheAPI. cacheName already embeds the
   // current build's sha256 so a stale cache can't be served here.
   if ('caches' in self) {
@@ -118,7 +118,16 @@ async function fetchSqlite(cacheName: string, url: string): Promise<ArrayBuffer>
   // Cache miss: download, stream progress to the loader UI.
   const r = await fetch(url, { cache: 'no-store' });
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
-  const total = Number(r.headers.get('content-length') ?? 0);
+  // The Content-Length header reports the on-the-wire byte count. On hosts
+  // that serve the sqlite gzip-compressed (GitHub Pages does, for the
+  // application/octet-stream MIME) that's the COMPRESSED size — ~25 MB for
+  // a 66 MB DB — while reader.read() hands us already-decompressed bytes.
+  // Trusting Content-Length leads to a progress bar that races past 100%
+  // and reports the wrong total. Prefer the manifest's true uncompressed
+  // size when we have it; only fall back to the header when offline /
+  // manifest fetch failed and we have nothing better.
+  const headerTotal = Number(r.headers.get('content-length') ?? 0);
+  const total = expectedSize > 0 ? expectedSize : headerTotal;
   if (!r.body) return r.arrayBuffer();
   const reader = r.body.getReader();
   const chunks: Uint8Array[] = [];
@@ -128,7 +137,8 @@ async function fetchSqlite(cacheName: string, url: string): Promise<ArrayBuffer>
     if (done) break;
     chunks.push(value);
     received += value.byteLength;
-    dbStatus.set({ kind: 'loading', received, total });
+    // Cap reported progress at the total so the loader never overshoots.
+    dbStatus.set({ kind: 'loading', received: Math.min(received, total || received), total });
   }
   const out = new Uint8Array(received);
   let off = 0;
@@ -174,13 +184,13 @@ function assertSchemaHealthy(db: Database): void {
   }
 }
 
-async function loadAndDeserialize(cacheName: string) {
+async function loadAndDeserialize(cacheName: string, expectedSize: number) {
   const [sqlite3, buf] = await Promise.all([
     (sqlite3InitModule as unknown as (cfg: { print?: () => void; printErr?: () => void }) => Promise<Awaited<ReturnType<typeof sqlite3InitModule>>>)({
       print: () => {},
       printErr: () => {},
     }),
-    fetchSqlite(cacheName, DB_URL),
+    fetchSqlite(cacheName, DB_URL, expectedSize),
   ]);
   const bytes = new Uint8Array(buf);
   const db = new sqlite3.oo1.DB('/tuneout.sqlite', 'ct');
@@ -214,6 +224,7 @@ export async function openDb(): Promise<Database> {
       // below catches stale-but-incompatible builds either way.
       const manifest = await fetchLiveManifest();
       const expectedSha = manifest?.artifacts?.sqlite?.sha256 ?? '';
+      const expectedSize = manifest?.artifacts?.sqlite?.size ?? 0;
       const cacheName = expectedSha
         ? `${CACHE_PREFIX}${expectedSha}`
         : `${CACHE_PREFIX}unknown`;
@@ -225,7 +236,7 @@ export async function openDb(): Promise<Database> {
 
       let db: Database;
       try {
-        db = await loadAndDeserialize(cacheName);
+        db = await loadAndDeserialize(cacheName, expectedSize);
         assertSchemaHealthy(db);
       } catch (e) {
         // Either the cached DB was structurally broken or the schema check
@@ -234,7 +245,7 @@ export async function openDb(): Promise<Database> {
         console.warn('[db] cached load rejected, refreshing:', (e as Error).message);
         await evictAllSqliteCaches();
         dbStatus.set({ kind: 'loading', received: 0, total: 0 });
-        db = await loadAndDeserialize(cacheName);
+        db = await loadAndDeserialize(cacheName, expectedSize);
         assertSchemaHealthy(db);
       }
       dbRef = db;

@@ -111,12 +111,36 @@ export type DbStatus =
 
 export const dbStatus = signal<DbStatus>({ kind: 'idle' });
 
-export const RECENT_MAX = 50;
+/** Hard floor + ceiling so a manually-edited localStorage value can't break
+ *  the sidebar (empty list / runaway memory). */
+export const RECENTS_MAX_FLOOR = 5;
+export const RECENTS_MAX_CEILING = 500;
+export const RECENTS_MAX_DEFAULT = 50;
+/** User-configurable cap on the recents list. Live signal so the Settings
+ *  page can rewrite it and pushRecent / the sidebar update immediately. */
+export const recentsMax = persisted<number>('tuneout.recents.max', RECENTS_MAX_DEFAULT);
+
+function clampRecentsMax(n: number): number {
+  if (!Number.isFinite(n)) return RECENTS_MAX_DEFAULT;
+  return Math.max(RECENTS_MAX_FLOOR, Math.min(RECENTS_MAX_CEILING, Math.floor(n)));
+}
+
+export function setRecentsMax(n: number): void {
+  const clamped = clampRecentsMax(n);
+  recentsMax.set(clamped);
+  // Trim immediately if the new cap is smaller than the current list.
+  recents.set((prev) => prev.slice(0, clamped));
+}
+
+export function clearRecents(): void {
+  recents.set([]);
+}
 
 export function pushRecent(ref: StationRef): void {
+  const cap = clampRecentsMax(recentsMax.get());
   recents.set((prev) => {
     const without = prev.filter((r) => r.uuid !== ref.uuid);
-    return [ref, ...without].slice(0, RECENT_MAX);
+    return [ref, ...without].slice(0, cap);
   });
 }
 

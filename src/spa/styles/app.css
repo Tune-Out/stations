@@ -1664,6 +1664,125 @@ img { display: block; max-width: 100%; height: auto; }
 
 /* ─── Errors ────────────────────────────────────────── */
 
+/* ─── Settings page ─────────────────────────────────── */
+.settings-panel {
+  display: flex; flex-direction: column;
+  gap: 0.7rem;
+  margin-block-start: 1.4rem;
+  padding: 1.25rem;
+}
+.settings-panel h2 { margin: 0; font-size: 1.05rem; font-weight: 600; }
+.settings-panel > p { margin: 0; }
+.settings-row {
+  display: flex; flex-wrap: wrap;
+  align-items: center; gap: 0.7rem;
+  margin-block-start: 0.5rem;
+}
+.settings-row-split { justify-content: space-between; }
+.settings-label {
+  display: inline-flex; align-items: center; gap: 0.6rem;
+  font-size: 0.92rem;
+}
+.settings-number {
+  width: 6.5rem;
+  padding: 0.35rem 0.55rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--line);
+  background: color-mix(in oklab, var(--bg-elev) 92%, transparent);
+  color: var(--fg);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95rem;
+}
+.settings-number:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in oklab, var(--accent) 30%, transparent);
+}
+.settings-meta { font-size: 0.85rem; }
+.settings-panel .btn[disabled] { opacity: 0.45; cursor: not-allowed; pointer-events: none; }
+
+.settings-section-label {
+  margin: 0.8rem 0 0.3rem !important;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+/* ─── Inline skin (theme) picker ─────────────────────
+   Horizontal scroller of theme cards. Each card is a button containing a
+   16:11 SVG "diorama" preview plus the theme name. The container handles
+   scroll snapping so swipes on touch devices land tidily on a card.       */
+.skin-list {
+  display: flex;
+  gap: 0.85rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.25rem 0 0.6rem;
+  margin: 0 -0.25rem;          /* bleeds the scroll-container edge into the panel padding */
+  scroll-snap-type: x mandatory;
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
+}
+.skin-list-empty { padding: 1rem 0.25rem; }
+.skin-card {
+  flex: 0 0 auto;
+  width: 152px;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  display: flex; flex-direction: column;
+  gap: 0.45rem;
+  cursor: pointer;
+  scroll-snap-align: start;
+  border-radius: var(--radius-md);
+  transition: transform 140ms ease;
+}
+.skin-card:hover { transform: translateY(-2px); }
+.skin-card-preview {
+  position: relative;
+  display: block;
+  width: 152px;
+  aspect-ratio: 140 / 100;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow:
+    inset 0 0 0 1px color-mix(in oklab, var(--line) 70%, transparent),
+    0 12px 22px -16px color-mix(in oklab, #000 70%, transparent);
+  transition: box-shadow 140ms ease, transform 140ms ease;
+}
+.skin-card-preview svg { display: block; width: 100%; height: 100%; }
+/* The check icon sits in the top-right of the preview, hidden until
+   active. Bumping z-index keeps it above the SVG plate. */
+.skin-card-check {
+  position: absolute;
+  inset-block-start: 6px;
+  inset-inline-end: 6px;
+  background: color-mix(in oklab, var(--accent) 85%, white);
+  color: var(--accent-fg);
+  border-radius: 999px;
+  padding: 2px;
+  width: 18px; height: 18px;
+  display: none;
+  z-index: 1;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+}
+.skin-card.is-active .skin-card-check { display: inline-flex; align-items: center; justify-content: center; }
+.skin-card.is-active .skin-card-preview {
+  box-shadow:
+    inset 0 0 0 1px var(--accent),
+    0 0 0 3px color-mix(in oklab, var(--accent) 28%, transparent),
+    0 16px 28px -18px color-mix(in oklab, var(--accent) 50%, transparent);
+}
+.skin-card-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-align: center;
+  color: var(--fg);
+  letter-spacing: -0.005em;
+}
+
 .error-panel {
   padding: 1.5rem;
   border-radius: var(--radius-lg);

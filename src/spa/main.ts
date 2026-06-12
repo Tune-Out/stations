@@ -14,6 +14,7 @@ import { renderSearch } from './views/search.js';
 import { renderStation } from './views/station.js';
 import { renderDownloads } from './views/downloads.js';
 import { renderAbout } from './views/about.js';
+import { renderSettings } from './views/settings.js';
 import type { Route } from './router.js';
 
 async function bootstrap() {
@@ -76,6 +77,7 @@ async function bootstrap() {
           case 'station':   return await renderStation(route, mountEl);
           case 'downloads': return await renderDownloads(route, mountEl);
           case 'about':     return await renderAbout(route, mountEl);
+          case 'settings':  return await renderSettings(route, mountEl);
         }
       } catch (e) {
         renderError(mountEl, (e as Error).message);

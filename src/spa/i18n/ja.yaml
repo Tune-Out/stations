@@ -43,6 +43,9 @@ strings:
   # Sidebar nav — Downloads link label.
   # English: Downloads
   nav.downloads: ダウンロード
+  # Sidebar nav — Settings link label (between Downloads and About).
+  # English: Settings
+  nav.settings: 設定
   # Sidebar nav — About link label.
   # English: About
   nav.about: 概要
@@ -341,8 +344,8 @@ strings:
   # English: Privacy
   about.privacy.title: プライバシー
   # About body — privacy.
-  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
-  about.privacy.body: アカウント不要、追跡なし。最近聴いた局・お気に入り・コレクションはブラウザ内に保存されます。アルバムアートの取得は Apple の公開 iTunes Search API へ曲のタイトルだけを送るため、識別子は送信されません。
+  # English: No accounts, no tracking from us. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent. The site is served as static files from GitHub Pages, so GitHub's CDN sees your IP address and the page you requested like any other web host would. When you open a station's homepage or play its stream, your browser connects directly to that broadcaster's servers; they may log your IP address, user agent, listening duration, and other request metadata — Tune Out has no visibility into or control over what happens once your browser is talking to a third-party station.
+  about.privacy.body: アカウント不要、当方からの追跡もありません。最近聴いた局・お気に入り・コレクションはブラウザ内に保存されます。アルバムアートの取得は曲名のみを Apple の公開 iTunes Search API に送信し、識別子は一切送信しません。本サイトは GitHub Pages から静的ファイルとして配信されるため、他のウェブホストと同様に GitHub の CDN は IP アドレスとリクエストされたページを認識します。局のホームページを開いたり、ストリームを再生したりすると、ブラウザはその放送局のサーバーに直接接続します。放送局側は IP アドレス、ユーザーエージェント、聴取時間、その他のリクエストメタデータを記録する場合があります — ブラウザが第三者の局と通信を始めた後の挙動について、Tune Out は把握する手段も制御する手段も持ちません。
   # About section heading — contributing.
   # English: Contributing translations
   about.contributing.title: 翻訳に貢献する
@@ -472,6 +475,51 @@ strings:
   # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
   # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
   about.add_language.body: 新しい言語を追加するには、<code>src/spa/i18n/en.yaml</code> を対象言語の BCP-47 コードのファイル名にコピーするプルリクエストを開いてください。たとえばウクライナ語を追加する場合は <code>uk.yaml</code> にリネームしてから、<code>strings:</code> の値を翻訳します。キー、コメント、<code>{placeholders}</code> はそのまま残してください。ファイルがマージされると、カタログは新しいロケールを自動的に認識します。
+  # Settings page: kicker label above the title.
+  # English: Settings
+  settings.kicker: 設定
+  # Settings page: H1 title; also used as the topbar settings-cog aria-label.
+  # English: Settings
+  settings.title: 設定
+  # Settings page: lead paragraph.
+  # English: Adjust appearance, manage your recently played list, and export your stations.
+  settings.lede: 外観を調整し、最近の再生履歴を管理し、ステーションをエクスポートします。
+  # Settings page: heading for the appearance card (theme + skin).
+  # English: Appearance
+  settings.appearance.title: 外観
+  # Settings page: body for the appearance card.
+  # English: Pick a theme (light, dark, or follow your system) and a visual skin.
+  settings.appearance.body: テーマ（ライト、ダーク、システムに合わせる）とビジュアルスキンを選択してください。
+  # Settings page: heading for the recently-played card.
+  # English: Recently played
+  settings.recents.title: 最近再生したもの
+  # Settings page: body for the recently-played card.
+  # English: Stations you tune in to are remembered locally. Nothing leaves your device.
+  settings.recents.body: 聴いた局はローカルに保存されます。デバイスから出ることはありません。
+  # Settings page: label for the number input that caps the recents list.
+  # English: Maximum entries to keep
+  settings.recents.max_label: 保持する最大エントリ数
+  # Settings page: live count of stored recents. Uses `{n}` for the number.
+  # English: {n} stored
+  settings.recents.count: "{n} 件保存中"
+  # Settings page: clear-recents button label.
+  # English: Clear recently played
+  settings.recents.clear: 最近再生したものをクリア
+  # Settings page: confirm() prompt before wiping the recents list.
+  # English: Remove every entry from your recently-played list?
+  settings.recents.clear_confirm: 最近再生したものから全エントリを削除しますか？
+  # Settings page: heading for the export card.
+  # English: Export playlists
+  settings.export.title: プレイリストをエクスポート
+  # Settings page: body for the export card.
+  # English: Download your station lists as standard .pls files — open them in VLC, Foobar2000, Winamp, or any other player.
+  settings.export.body: ステーション一覧を .pls ファイルとしてダウンロードできます — VLC、Foobar2000、Winamp などのプレイヤーで開けます。
+  # Settings page: button label for the recents → .pls export.
+  # English: Export recents (.pls)
+  settings.export.recents: 最近をエクスポート (.pls)
+  # Settings page: button label for the favorites → .pls export.
+  # English: Export favorites (.pls)
+  settings.export.favorites: お気に入りをエクスポート (.pls)
   # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
   # English: Add to Home Screen
   install.button.label: ホーム画面に追加

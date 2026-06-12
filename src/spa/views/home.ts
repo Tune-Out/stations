@@ -54,23 +54,7 @@ export async function renderHome(_route: Route, mount: HTMLElement): Promise<voi
     );
   }
 
-  // ── Per-country rails (the top ~6 countries get their own rail) ──
-  const countries = topCountries(db, COUNTRY_RAILS);
-  for (const c of countries) {
-    if (!c.countrycode) continue;
-    root.appendChild(
-      rail({
-        title: countryName(c.countrycode, l) || c.country,
-        kicker: t('section.popular_countries'),
-        more: { href: url('search', { country: c.countrycode }), label: t('section.results') + ' →' },
-        load: (offset, limit) => byCountry(db, c.countrycode, limit, offset),
-        total: c.n,
-        pageSize: 30,
-      }),
-    );
-  }
-
-  // ── Per-tag rails (the top ~6 tags get their own rail) ──
+  // ── Per-tag rails first (Browse by Tag is the lead facet) ──
   const tags = topTags(db, TAG_RAILS);
   for (const tag of tags) {
     if (!tag.tag) continue;
@@ -81,6 +65,22 @@ export async function renderHome(_route: Route, mount: HTMLElement): Promise<voi
         more: { href: url('search', { tag: tag.tag }), label: t('section.results') + ' →' },
         load: (offset, limit) => byTag(db, tag.tag, limit, offset),
         total: tag.n,
+        pageSize: 30,
+      }),
+    );
+  }
+
+  // ── Per-country rails AFTER the tag rails (genre-first, geography-second) ──
+  const countries = topCountries(db, COUNTRY_RAILS);
+  for (const c of countries) {
+    if (!c.countrycode) continue;
+    root.appendChild(
+      rail({
+        title: countryName(c.countrycode, l) || c.country,
+        kicker: t('section.popular_countries'),
+        more: { href: url('search', { country: c.countrycode }), label: t('section.results') + ' →' },
+        load: (offset, limit) => byCountry(db, c.countrycode, limit, offset),
+        total: c.n,
         pageSize: 30,
       }),
     );

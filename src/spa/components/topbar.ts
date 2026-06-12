@@ -4,7 +4,7 @@ import { t } from '../i18n.js';
 import { effect, locale } from '../store.js';
 import { url, go, parseLocation } from '../router.js';
 import { localeMenu } from './locale-menu.js';
-import { themePicker } from './theme-picker.js';
+import { themeSegments } from './theme-picker.js';
 import { installButton } from './install-button.js';
 import { repoUrl } from '../shard.js';
 
@@ -71,10 +71,22 @@ export function topbar(): HTMLElement {
 
   root.appendChild(form);
 
-  // Right side: install (mobile) + theme picker + locale menu + github link
+  // Right side: install (mobile) + light/system/dark segmented + settings
+  // cog + locale menu + github link. The SKIN ("Theme") picker lives in
+  // the /settings page only — see src/spa/views/settings.ts.
   const right = el('div', { class: 'topbar-right' });
   right.appendChild(installButton());
-  right.appendChild(themePicker());
+  right.appendChild(themeSegments());
+  const settingsLink = el('a', {
+    class: 'topbar-icon-link',
+    attrs: {
+      href: url('settings'),
+      'aria-label': t('settings.title'),
+      title: t('settings.title'),
+    },
+    html: iconHtml('settings', 20),
+  });
+  right.appendChild(settingsLink);
   right.appendChild(localeMenu());
   const ghLink = el('a', {
     class: 'topbar-icon-link',
@@ -84,10 +96,13 @@ export function topbar(): HTMLElement {
   right.appendChild(ghLink);
   root.appendChild(right);
 
-  // Keep the search placeholder localized when locale changes
+  // Keep the search placeholder + settings tooltip localized when locale changes
   effect(() => {
     locale.get(); // dep
     input.placeholder = t('search.placeholder.global');
+    settingsLink.setAttribute('aria-label', t('settings.title'));
+    settingsLink.setAttribute('title', t('settings.title'));
+    settingsLink.setAttribute('href', url('settings'));
   });
 
   return root;

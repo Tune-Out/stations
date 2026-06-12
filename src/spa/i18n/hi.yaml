@@ -43,6 +43,9 @@ strings:
   # Sidebar nav — Downloads link label.
   # English: Downloads
   nav.downloads: डाउनलोड
+  # Sidebar nav — Settings link label (between Downloads and About).
+  # English: Settings
+  nav.settings: सेटिंग्स
   # Sidebar nav — About link label.
   # English: About
   nav.about: परिचय
@@ -341,8 +344,8 @@ strings:
   # English: Privacy
   about.privacy.title: गोपनीयता
   # About body — privacy.
-  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
-  about.privacy.body: कोई खाता नहीं, कोई ट्रैकिंग नहीं। हाल के, पसंदीदा और संग्रह आपके ब्राउज़र में रहते हैं। कवर आर्ट खोज केवल गीत के शीर्षक के साथ Apple के सार्वजनिक iTunes Search API से क्वेरी करती है — कोई पहचानकर्ता नहीं भेजा जाता।
+  # English: No accounts, no tracking from us. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent. The site is served as static files from GitHub Pages, so GitHub's CDN sees your IP address and the page you requested like any other web host would. When you open a station's homepage or play its stream, your browser connects directly to that broadcaster's servers; they may log your IP address, user agent, listening duration, and other request metadata — Tune Out has no visibility into or control over what happens once your browser is talking to a third-party station.
+  about.privacy.body: हम कोई खाता या ट्रैकिंग नहीं रखते। हाल के, पसंदीदा और संग्रह आपके ब्राउज़र में ही रहते हैं। एल्बम-आर्ट खोज Apple की सार्वजनिक iTunes Search API से केवल गाने का शीर्षक भेजकर की जाती है — कोई पहचानकर्ता नहीं भेजा जाता। साइट GitHub Pages से स्थिर फ़ाइलों के रूप में दी जाती है, इसलिए GitHub का CDN आपके IP पते और मांगी गई पेज को देख सकता है, जैसा कोई भी वेब होस्ट देखता है। जब आप किसी स्टेशन का होमपेज खोलते हैं या उसका स्ट्रीम चलाते हैं, तो आपका ब्राउज़र सीधे उस प्रसारक के सर्वर से जुड़ता है; वे आपके IP, user-agent, सुनने की अवधि और अन्य अनुरोध मेटाडेटा को लॉग कर सकते हैं — एक बार आपका ब्राउज़र किसी तृतीय-पक्ष स्टेशन से जुड़ जाए, उसके बाद क्या होता है, इस पर Tune Out का न तो कोई दृश्य है और न ही नियंत्रण।
   # About section heading — contributing.
   # English: Contributing translations
   about.contributing.title: अनुवादों में योगदान दें
@@ -472,6 +475,51 @@ strings:
   # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
   # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
   about.add_language.body: नई भाषा जोड़ने के लिए एक पुल रिक्वेस्ट खोलें जो <code>src/spa/i18n/en.yaml</code> को आपकी लक्ष्य भाषा के BCP-47 कोड वाली फ़ाइल में कॉपी करे &mdash; उदाहरण के लिए, यूक्रेनी जोड़ने के लिए उसे <code>uk.yaml</code> नाम दें &mdash; और फिर <code>strings:</code> के तहत मानों का अनुवाद करें। कुंजियाँ, टिप्पणियाँ और <code>{placeholders}</code> ज्यों के त्यों रखें। फ़ाइल मर्ज होते ही कैटलॉग नई लोकेल को अपने आप पहचान लेगा।
+  # Settings page: kicker label above the title.
+  # English: Settings
+  settings.kicker: सेटिंग्स
+  # Settings page: H1 title; also used as the topbar settings-cog aria-label.
+  # English: Settings
+  settings.title: सेटिंग्स
+  # Settings page: lead paragraph.
+  # English: Adjust appearance, manage your recently played list, and export your stations.
+  settings.lede: दिखावट समायोजित करें, हाल में सुनी गई सूची प्रबंधित करें, और अपने स्टेशन निर्यात करें।
+  # Settings page: heading for the appearance card (theme + skin).
+  # English: Appearance
+  settings.appearance.title: दिखावट
+  # Settings page: body for the appearance card.
+  # English: Pick a theme (light, dark, or follow your system) and a visual skin.
+  settings.appearance.body: थीम चुनें (लाइट, डार्क, या सिस्टम का अनुसरण करें) और एक विज़ुअल स्किन।
+  # Settings page: heading for the recently-played card.
+  # English: Recently played
+  settings.recents.title: हाल ही में चलाए गए
+  # Settings page: body for the recently-played card.
+  # English: Stations you tune in to are remembered locally. Nothing leaves your device.
+  settings.recents.body: आप जो स्टेशन सुनते हैं वे स्थानीय रूप से सहेजे जाते हैं। कुछ भी आपके डिवाइस से बाहर नहीं जाता।
+  # Settings page: label for the number input that caps the recents list.
+  # English: Maximum entries to keep
+  settings.recents.max_label: रखने के लिए अधिकतम प्रविष्टियाँ
+  # Settings page: live count of stored recents. Uses `{n}` for the number.
+  # English: {n} stored
+  settings.recents.count: "{n} संग्रहीत"
+  # Settings page: clear-recents button label.
+  # English: Clear recently played
+  settings.recents.clear: हाल ही में चलाए गए साफ़ करें
+  # Settings page: confirm() prompt before wiping the recents list.
+  # English: Remove every entry from your recently-played list?
+  settings.recents.clear_confirm: क्या हाल ही में चलाए गए सूची से सभी प्रविष्टियाँ हटाएँ?
+  # Settings page: heading for the export card.
+  # English: Export playlists
+  settings.export.title: प्लेलिस्ट निर्यात करें
+  # Settings page: body for the export card.
+  # English: Download your station lists as standard .pls files — open them in VLC, Foobar2000, Winamp, or any other player.
+  settings.export.body: अपनी सूचियों को .pls फ़ाइलों के रूप में डाउनलोड करें — उन्हें VLC, Foobar2000, Winamp, या किसी अन्य प्लेयर में खोलें।
+  # Settings page: button label for the recents → .pls export.
+  # English: Export recents (.pls)
+  settings.export.recents: हाल का निर्यात करें (.pls)
+  # Settings page: button label for the favorites → .pls export.
+  # English: Export favorites (.pls)
+  settings.export.favorites: पसंदीदा निर्यात करें (.pls)
   # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
   # English: Add to Home Screen
   install.button.label: होम स्क्रीन पर जोड़ें

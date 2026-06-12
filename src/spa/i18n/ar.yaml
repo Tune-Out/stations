@@ -43,6 +43,9 @@ strings:
   # Sidebar nav — Downloads link label.
   # English: Downloads
   nav.downloads: تنزيلات
+  # Sidebar nav — Settings link label (between Downloads and About).
+  # English: Settings
+  nav.settings: الإعدادات
   # Sidebar nav — About link label.
   # English: About
   nav.about: عن المشروع
@@ -341,8 +344,8 @@ strings:
   # English: Privacy
   about.privacy.title: الخصوصية
   # About body — privacy.
-  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
-  about.privacy.body: لا حسابات، ولا تعقّب. الأخيرة والمفضّلة والمجموعات تُحفظ في متصفّحك. عمليات البحث عن أغلفة الأغاني تستعلم واجهة Apple العامة فقط باسم الأغنية — لا تُرسَل أي معرّفات.
+  # English: No accounts, no tracking from us. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent. The site is served as static files from GitHub Pages, so GitHub's CDN sees your IP address and the page you requested like any other web host would. When you open a station's homepage or play its stream, your browser connects directly to that broadcaster's servers; they may log your IP address, user agent, listening duration, and other request metadata — Tune Out has no visibility into or control over what happens once your browser is talking to a third-party station.
+  about.privacy.body: لا حسابات ولا تتبّع من جانبنا. تبقى قائمة المُشغَّل مؤخراً والمفضلة والمجموعات داخل متصفحك. تُرسَل عمليات البحث عن أغلفة الألبومات إلى واجهة Apple iTunes Search العامة بعنوان الأغنية فقط — دون أي معرّفات. يُقدَّم الموقع كملفات ثابتة عبر GitHub Pages، لذا ترى شبكة CDN التابعة لـ GitHub عنوان IP الخاص بك والصفحة التي طلبتها، تماماً كأي مضيف ويب آخر. وعند فتح الصفحة الرئيسية لمحطة ما أو تشغيل بثها، يتصل متصفحك مباشرةً بخوادم تلك المحطة؛ وقد تسجّل تلك الخوادم عنوان IP الخاص بك وبيانات المتصفح ومدة الاستماع وبيانات وصفية أخرى — ليس لدى Tune Out أي اطّلاع أو تحكّم في ما يحدث بمجرد أن يبدأ متصفحك التواصل مع محطة خارجية.
   # About section heading — contributing.
   # English: Contributing translations
   about.contributing.title: المساهمة بالترجمات
@@ -472,6 +475,51 @@ strings:
   # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
   # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
   about.add_language.body: لإضافة لغة جديدة، افتح طلب سحب ينسخ <code>src/spa/i18n/en.yaml</code> إلى ملف باسم رمز BCP-47 للغة المستهدفة &mdash; مثلاً سمِّه <code>uk.yaml</code> لإضافة الأوكرانية &mdash; ثم ترجم القيم تحت <code>strings:</code>. حافظ على المفاتيح والتعليقات و<code>{placeholders}</code> كما هي. سيتعرّف الكتالوج على اللغة الجديدة تلقائياً بمجرد دمج الملف.
+  # Settings page: kicker label above the title.
+  # English: Settings
+  settings.kicker: الإعدادات
+  # Settings page: H1 title; also used as the topbar settings-cog aria-label.
+  # English: Settings
+  settings.title: الإعدادات
+  # Settings page: lead paragraph.
+  # English: Adjust appearance, manage your recently played list, and export your stations.
+  settings.lede: اضبط المظهر، وأدِر قائمة الاستماع الأخيرة، وصدِّر محطاتك.
+  # Settings page: heading for the appearance card (theme + skin).
+  # English: Appearance
+  settings.appearance.title: المظهر
+  # Settings page: body for the appearance card.
+  # English: Pick a theme (light, dark, or follow your system) and a visual skin.
+  settings.appearance.body: اختر سمة (فاتحة، داكنة، أو وفق نظامك) ومظهراً بصرياً.
+  # Settings page: heading for the recently-played card.
+  # English: Recently played
+  settings.recents.title: المشغَّلة مؤخراً
+  # Settings page: body for the recently-played card.
+  # English: Stations you tune in to are remembered locally. Nothing leaves your device.
+  settings.recents.body: تُحفظ المحطات التي تستمع إليها محلياً. لا شيء يغادر جهازك.
+  # Settings page: label for the number input that caps the recents list.
+  # English: Maximum entries to keep
+  settings.recents.max_label: الحد الأقصى للإدخالات المحفوظة
+  # Settings page: live count of stored recents. Uses `{n}` for the number.
+  # English: {n} stored
+  settings.recents.count: "{n} محفوظة"
+  # Settings page: clear-recents button label.
+  # English: Clear recently played
+  settings.recents.clear: مسح المشغَّلة مؤخراً
+  # Settings page: confirm() prompt before wiping the recents list.
+  # English: Remove every entry from your recently-played list?
+  settings.recents.clear_confirm: هل تريد إزالة جميع الإدخالات من قائمة المشغَّلة مؤخراً؟
+  # Settings page: heading for the export card.
+  # English: Export playlists
+  settings.export.title: تصدير قوائم التشغيل
+  # Settings page: body for the export card.
+  # English: Download your station lists as standard .pls files — open them in VLC, Foobar2000, Winamp, or any other player.
+  settings.export.body: نزِّل قوائم محطاتك كملفات .pls قياسية — افتحها في VLC أو Foobar2000 أو Winamp أو أي مشغل آخر.
+  # Settings page: button label for the recents → .pls export.
+  # English: Export recents (.pls)
+  settings.export.recents: تصدير المشغَّلة مؤخراً (.pls)
+  # Settings page: button label for the favorites → .pls export.
+  # English: Export favorites (.pls)
+  settings.export.favorites: تصدير المفضلة (.pls)
   # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
   # English: Add to Home Screen
   install.button.label: إضافة إلى الشاشة الرئيسية

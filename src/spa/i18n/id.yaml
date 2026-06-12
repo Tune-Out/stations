@@ -43,6 +43,9 @@ strings:
   # Sidebar nav — Downloads link label.
   # English: Downloads
   nav.downloads: Unduhan
+  # Sidebar nav — Settings link label (between Downloads and About).
+  # English: Settings
+  nav.settings: Pengaturan
   # Sidebar nav — About link label.
   # English: About
   nav.about: Tentang
@@ -341,8 +344,8 @@ strings:
   # English: Privacy
   about.privacy.title: Privasi
   # About body — privacy.
-  # English: No accounts, no tracking. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent.
-  about.privacy.body: Tanpa akun, tanpa pelacakan. Terbaru, favorit, dan koleksi tersimpan di peramban kamu. Pencarian sampul album hanya mengirim judul lagu ke iTunes Search API publik milik Apple — tidak ada pengenal yang dikirim.
+  # English: No accounts, no tracking from us. Recents, favorites, and collections live in your browser. Album-art lookups query Apple's public iTunes Search API with only the song title — no identifiers are sent. The site is served as static files from GitHub Pages, so GitHub's CDN sees your IP address and the page you requested like any other web host would. When you open a station's homepage or play its stream, your browser connects directly to that broadcaster's servers; they may log your IP address, user agent, listening duration, and other request metadata — Tune Out has no visibility into or control over what happens once your browser is talking to a third-party station.
+  about.privacy.body: Tanpa akun, tanpa pelacakan dari kami. Daftar terakhir diputar, favorit, dan koleksi tetap berada di peramban Anda. Pencarian sampul album mengirim hanya judul lagu ke API publik iTunes Search milik Apple — tidak ada pengenal yang dikirim. Situs ini disajikan sebagai berkas statis dari GitHub Pages, sehingga CDN GitHub melihat alamat IP dan halaman yang Anda minta seperti host web lainnya. Ketika Anda membuka halaman muka sebuah stasiun atau memutar streaming-nya, peramban menyambung langsung ke server stasiun tersebut; mereka dapat mencatat IP, user-agent, durasi mendengarkan, dan metadata permintaan lain — Tune Out tidak dapat melihat maupun mengendalikan apa yang terjadi setelah peramban Anda berinteraksi dengan stasiun pihak ketiga.
   # About section heading — contributing.
   # English: Contributing translations
   about.contributing.title: Berkontribusi menerjemahkan
@@ -472,6 +475,51 @@ strings:
   # About view: HTML-allowed paragraph explaining the copy-and-rename flow for a brand-new locale.
   # English: To add a new language, open a pull request that copies <code>src/spa/i18n/en.yaml</code> to a file named with the BCP-47 code of your target language &mdash; for example, rename it to <code>uk.yaml</code> to add Ukrainian &mdash; then translate the values under <code>strings:</code>. Keep the keys, comments, and any <code>{placeholders}</code> exactly as they appear. The catalog picks up the new locale automatically once the file is merged.
   about.add_language.body: Untuk menambahkan bahasa baru, buka pull request yang menyalin <code>src/spa/i18n/en.yaml</code> ke berkas yang diberi nama kode BCP-47 bahasa target &mdash; misalnya, ganti namanya menjadi <code>uk.yaml</code> untuk menambahkan bahasa Ukraina &mdash; lalu terjemahkan nilai di bawah <code>strings:</code>. Biarkan kunci, komentar, dan <code>{placeholders}</code> apa adanya. Katalog akan mengenali lokal baru secara otomatis setelah berkas digabungkan.
+  # Settings page: kicker label above the title.
+  # English: Settings
+  settings.kicker: Pengaturan
+  # Settings page: H1 title; also used as the topbar settings-cog aria-label.
+  # English: Settings
+  settings.title: Pengaturan
+  # Settings page: lead paragraph.
+  # English: Adjust appearance, manage your recently played list, and export your stations.
+  settings.lede: Sesuaikan tampilan, kelola daftar terakhir diputar, dan ekspor stasiun Anda.
+  # Settings page: heading for the appearance card (theme + skin).
+  # English: Appearance
+  settings.appearance.title: Tampilan
+  # Settings page: body for the appearance card.
+  # English: Pick a theme (light, dark, or follow your system) and a visual skin.
+  settings.appearance.body: Pilih tema (terang, gelap, atau mengikuti sistem) dan skin visual.
+  # Settings page: heading for the recently-played card.
+  # English: Recently played
+  settings.recents.title: Terakhir diputar
+  # Settings page: body for the recently-played card.
+  # English: Stations you tune in to are remembered locally. Nothing leaves your device.
+  settings.recents.body: Stasiun yang Anda dengarkan disimpan secara lokal. Tidak ada yang keluar dari perangkat Anda.
+  # Settings page: label for the number input that caps the recents list.
+  # English: Maximum entries to keep
+  settings.recents.max_label: Jumlah maksimum entri yang disimpan
+  # Settings page: live count of stored recents. Uses `{n}` for the number.
+  # English: {n} stored
+  settings.recents.count: "{n} tersimpan"
+  # Settings page: clear-recents button label.
+  # English: Clear recently played
+  settings.recents.clear: Bersihkan terakhir diputar
+  # Settings page: confirm() prompt before wiping the recents list.
+  # English: Remove every entry from your recently-played list?
+  settings.recents.clear_confirm: Hapus semua entri dari daftar terakhir diputar?
+  # Settings page: heading for the export card.
+  # English: Export playlists
+  settings.export.title: Ekspor playlist
+  # Settings page: body for the export card.
+  # English: Download your station lists as standard .pls files — open them in VLC, Foobar2000, Winamp, or any other player.
+  settings.export.body: Unduh daftar stasiun Anda sebagai berkas .pls — buka di VLC, Foobar2000, Winamp, atau pemutar lainnya.
+  # Settings page: button label for the recents → .pls export.
+  # English: Export recents (.pls)
+  settings.export.recents: Ekspor terakhir (.pls)
+  # Settings page: button label for the favorites → .pls export.
+  # English: Export favorites (.pls)
+  settings.export.favorites: Ekspor favorit (.pls)
   # Topbar mobile-only button: tooltip + aria-label for the Add-to-Home-Screen affordance.
   # English: Add to Home Screen
   install.button.label: Tambahkan ke Layar Beranda

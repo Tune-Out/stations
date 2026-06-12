@@ -20,7 +20,7 @@
     "lint:yaml": "tsx scripts/lint-station-yamls.ts",
     "lint:yaml:ci": "tsx scripts/lint-station-yamls.ts --github",
     "winamp:import": "tsx scripts/winamp-import.ts",
-    "prebuild": "npm run build:data && npm run build:themes",
+    "prebuild": "npm run build:data:release && npm run build:themes",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
