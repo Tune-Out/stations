@@ -1,7 +1,7 @@
 stationuuid: c51511eb-f84d-47aa-ad64-450c18c0855d
 name: Totally Radio - 90s (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01.mp3
+url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01.mp3'
+url_resolved: 'http://28893.live.streamtheworld.com:80/T_RAD_90S_S01.mp3'
 homepage: https://totallyradio.com.au/90S/
 favicon: https://totallyradio.com.au/wp-content/uploads/elementor/thumbs/90s-2020-om8ty4fydwcwi1curnloa4uesxbuhpi6w8jfavn97k.png
 tags:
@@ -40,7 +40,7 @@ provenance:
   - iprd-au-totally-radio-greatest-hits-3b7cdefa
   - iprd-au-totally-radio-pop-c3d10342
 streams:
-  - url: http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01.mp3
+  - url: 'http://28893.live.streamtheworld.com:80/T_RAD_90S_S01.mp3'
     codec: MP3
     bitrate: 128
   - url: http://stream.zeno.fm/76ehbdmxtzutv

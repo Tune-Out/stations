@@ -1,7 +1,7 @@
 stationuuid: 962e174f-0601-11e8-ae97-52543be04c81
 name: WQKL 107.1 Ann Arbor, MI (MP3)
-url: http://provisioning.streamtheworld.com/pls/WQKLFM.pls
-url_resolved: http://22203.live.streamtheworld.com:3690/WQKLFM_SC
+url: 'http://playerservices.streamtheworld.com/pls/WQKLFM.pls'
+url_resolved: 'http://18323.live.streamtheworld.com:80/WQKLFM_SC'
 homepage: http://www.annarbors107one.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3044/squareIcon.png?r=93707
 tags:
@@ -36,11 +36,11 @@ curation: 0.2
 provenance:
   - radiobrowser-962e174f-0601-11e8-ae97-52543be04c81
 streams:
-  - url: http://provisioning.streamtheworld.com/pls/WQKLFMAAC.pls
+  - url: 'http://26443.live.streamtheworld.com:80/WQKLFMAAC_SC'
     url_resolved: http://26233.live.streamtheworld.com:3690/WQKLFMAAC_SC
     codec: AAC+
     bitrate: 48
-  - url: http://provisioning.streamtheworld.com/pls/WQKLFM.pls
+  - url: 'http://18323.live.streamtheworld.com:80/WQKLFM_SC'
     url_resolved: http://22203.live.streamtheworld.com:3690/WQKLFM_SC
     codec: MP3
     bitrate: 80

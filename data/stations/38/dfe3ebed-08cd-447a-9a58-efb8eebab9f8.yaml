@@ -1,7 +1,7 @@
 stationuuid: dfe3ebed-08cd-447a-9a58-efb8eebab9f8
 name: RFM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC
+url: 'https://playerservices.streamtheworld.com/pls/RFMAAC.pls'
+url_resolved: 'https://25503.live.streamtheworld.com:443/RFMAAC_SC'
 homepage: https://rfm.sapo.pt/
 favicon: https://rfmsite2023-images.azureedge.net/icons/touch-icon-iphone-retina.png
 tags:
@@ -38,7 +38,7 @@ provenance:
   - radiobrowser-dfe3ebed-08cd-447a-9a58-efb8eebab9f8
   - iprd-pt-rfm-1dd2f641
 streams:
-  - url: https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC
+  - url: 'https://25503.live.streamtheworld.com:443/RFMAAC_SC'
     codec: AAC+
     bitrate: 64
   - url: https://23603.live.streamtheworld.com/RFMAAC.aac

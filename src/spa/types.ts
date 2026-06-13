@@ -106,11 +106,17 @@ function pickLocaleString(
 
 export function refFromRow(row: StationRow, locale: Locale): StationRef {
   const localized = pickLocaleString(row, `name_${locale}`) ?? '';
+  // Prefer url_resolved when it differs from url — that's the direct CDN
+  // endpoint (no ad-injection wrapper). Falls back to url for stations
+  // whose url_resolved is empty or equals url (the common case).
+  const playableUrl = (row.url_resolved && row.url_resolved !== row.url)
+    ? row.url_resolved
+    : (row.url ?? '');
   return {
     uuid: row.uuid,
     name: (localized || row.name).trim(),
     favicon: row.favicon ?? '',
-    url: row.url ?? '',
+    url: playableUrl,
     shard: row.shard,
     countrycode: row.countrycode ?? '',
   };

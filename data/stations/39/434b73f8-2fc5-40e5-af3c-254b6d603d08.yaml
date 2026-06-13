@@ -1,7 +1,7 @@
 stationuuid: 434b73f8-2fc5-40e5-af3c-254b6d603d08
 name: Metro FM
-url: http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC
-url_resolved: http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC
+url: 'http://playerservices.streamtheworld.com/pls/METRO_FMAAC.pls'
+url_resolved: 'http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC'
 homepage: https://metrofm.com.tr/
 favicon: https://metrofm.com.tr/favicon.ico
 tags: []
@@ -35,7 +35,7 @@ streams:
   - url: http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC
     codec: AAC+
     bitrate: 64
-  - url: http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls
+  - url: 'http://27913.live.streamtheworld.com:80/METRO_FMAAC_SC'
     url_resolved: http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC
     codec: AAC+
     bitrate: 64

@@ -1,7 +1,7 @@
 stationuuid: 4a42f3e8-305c-479d-849d-f1fd55d9062d
 name: Q-dance Radio
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
+url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac'
+url_resolved: 'http://22613.live.streamtheworld.com:80/Q_DANCEAAC.aac'
 homepage: https://www.q-dance.com/en/radio/
 favicon: https://www.q-dance.com/favicon.ico
 tags: []
@@ -33,7 +33,7 @@ provenance:
   - radiobrowser-4a42f3e8-305c-479d-849d-f1fd55d9062d
   - iprd-nl-q-dance-radio-9f23d2e7
 streams:
-  - url: http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
+  - url: 'http://22613.live.streamtheworld.com:80/Q_DANCEAAC.aac'
     codec: AAC+
     bitrate: 96
   - url: http://25273.live.streamtheworld.com/Q_DANCE.mp3

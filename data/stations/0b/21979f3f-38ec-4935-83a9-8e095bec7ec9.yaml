@@ -1,7 +1,7 @@
 stationuuid: 21979f3f-38ec-4935-83a9-8e095bec7ec9
 name: AXR Manila
-url: http://provisioning.streamtheworld.com/pls/AXR_MANILA.pls
-url_resolved: http://28163.live.streamtheworld.com:3690/AXR_MANILA_SC
+url: 'http://playerservices.streamtheworld.com/pls/AXR_MANILA.pls'
+url_resolved: 'http://22243.live.streamtheworld.com:80/AXR_MANILA_SC'
 homepage: http://www.axr.online/
 favicon: https://content.audiospace.co/stations/210/files/Shows%20NEW/06_AXR_programmes_300x300px_nighttime.jpg
 tags: []
@@ -32,11 +32,11 @@ curation: -0.05
 provenance:
   - radiobrowser-21979f3f-38ec-4935-83a9-8e095bec7ec9
 streams:
-  - url: http://provisioning.streamtheworld.com/pls/AXR_MANILA.pls
+  - url: 'http://22243.live.streamtheworld.com:80/AXR_MANILA_SC'
     url_resolved: http://28163.live.streamtheworld.com:3690/AXR_MANILA_SC
     codec: MP3
     bitrate: 96
-  - url: http://provisioning.streamtheworld.com/pls/AXR.pls
+  - url: 'http://22283.live.streamtheworld.com:80/AXR_SC'
     url_resolved: http://22273.live.streamtheworld.com/AXR_SC
     codec: MP3
     bitrate: 96

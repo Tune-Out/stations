@@ -1,7 +1,7 @@
 stationuuid: 962237a2-0601-11e8-ae97-52543be04c81
 name: CKBL 92.9 "The Bull" Saskatoon, SK
-url: http://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls
-url_resolved: http://15693.live.streamtheworld.com/CKBLFMAAC_SC
+url: 'http://playerservices.streamtheworld.com/pls/CKBLFMAAC.pls'
+url_resolved: 'http://18063.live.streamtheworld.com:80/CKBLFMAAC_SC'
 homepage: http://www.929thebullrocks.com/
 favicon: ""
 tags:
@@ -35,11 +35,11 @@ curation: -0.05
 provenance:
   - radiobrowser-962237a2-0601-11e8-ae97-52543be04c81
 streams:
-  - url: http://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls
+  - url: 'http://18063.live.streamtheworld.com:80/CKBLFMAAC_SC'
     url_resolved: http://15693.live.streamtheworld.com/CKBLFMAAC_SC
     codec: AAC+
     bitrate: 32
-  - url: https://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls
+  - url: 'http://14543.live.streamtheworld.com:80/CKBLFMAAC_SC'
     url_resolved: http://26353.live.streamtheworld.com:3690/CKBLFMAAC_SC
     codec: AAC+
     bitrate: 32

@@ -1,7 +1,7 @@
 stationuuid: 960969eb-0601-11e8-ae97-52543be04c81
 name: Virgin Radio Türkiye
-url: http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls
-url_resolved: http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
+url: 'http://playerservices.streamtheworld.com/pls/VIRGIN_RADIO.pls'
+url_resolved: 'http://29073.live.streamtheworld.com:80/VIRGIN_RADIO_SC'
 homepage: http://www.virginradioturkiye.com/
 favicon: https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png
 tags:
@@ -38,11 +38,11 @@ streams:
   - url: http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC
     codec: AAC+
     bitrate: 64
-  - url: https://provisioning.streamtheworld.com/pls/VIRGIN_RADIOAAC.pls
+  - url: 'http://28573.live.streamtheworld.com:80/VIRGIN_RADIOAAC_SC'
     url_resolved: http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC
     codec: AAC+
     bitrate: 64
-  - url: http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls
+  - url: 'http://29073.live.streamtheworld.com:80/VIRGIN_RADIO_SC'
     url_resolved: http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
     codec: MP3
     bitrate: 64

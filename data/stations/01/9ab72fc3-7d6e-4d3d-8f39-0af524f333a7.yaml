@@ -1,7 +1,7 @@
 stationuuid: 9ab72fc3-7d6e-4d3d-8f39-0af524f333a7
 name: Cadena SER - Radio Zamora
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
+url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3'
+url_resolved: 'https://22193.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
 homepage: https://cadenaser.com/radio-zamora/
 favicon: https://cadenaser.com/pf/resources/img/favicon.png?d=325
 tags:
@@ -50,10 +50,10 @@ streams:
   - url: https://25483.live.streamtheworld.com/SER_ASO_MIRANDA_EBROAAC_SC
     codec: AAC+
     bitrate: 56
-  - url: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
+  - url: 'https://22193.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
     codec: MP3
     bitrate: 96
-  - url: http://provisioning.streamtheworld.com/pls/SER_VALENCIA.pls
+  - url: 'http://25593.live.streamtheworld.com:80/SER_VALENCIA_SC'
     url_resolved: http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC
     codec: MP3
     bitrate: 96

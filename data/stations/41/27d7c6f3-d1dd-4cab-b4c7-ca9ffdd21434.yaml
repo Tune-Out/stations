@@ -1,7 +1,7 @@
 stationuuid: 27d7c6f3-d1dd-4cab-b4c7-ca9ffdd21434
 name: George FM - DnB
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac
+url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac'
+url_resolved: 'https://14613.live.streamtheworld.com:443/GEORGE_DNB_S01.aac'
 homepage: https://www.rova.nz/playlists/george-dnb
 favicon: https://images.ctfassets.net/r65x6q43xsmv/2CBBxwPWsAwKU0bjzHM8y1/76fd3e4bab34449b2dff2d2adc719e1d/GRG_George_FM_DnB_Hundy_600x600px.png?fm=png&w=200&q=95&f=center
 tags:
@@ -34,6 +34,6 @@ streams:
   - url: https://mediaworks.streamguys1.com/george_net_icy
     codec: AAC
     bitrate: 131
-  - url: https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac
+  - url: 'https://14613.live.streamtheworld.com:443/GEORGE_DNB_S01.aac'
     codec: AAC+
     bitrate: 128
