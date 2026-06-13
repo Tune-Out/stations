@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-b568ab8e-9d51-471d-8708-04deade2463d
 streams:
   - url: 'https://islamicbulletin.site:8030/stream'
     codec: MP3

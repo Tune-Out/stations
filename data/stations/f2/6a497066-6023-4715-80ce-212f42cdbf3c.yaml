@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 34.7389133168162
 geo_long: -92.31843860819936
 curation: -0.05
+provenance:
+  - radiobrowser-6a497066-6023-4715-80ce-212f42cdbf3c
 streams:
   - url: 'https://stream.revma.ihrhls.com/zc89/hls.m3u8'
     codec: AAC

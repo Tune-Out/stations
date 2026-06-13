@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-f9718c94-92af-48ea-b712-353daa2522cb
 streams:
   - url: 'https://radio.imago.fm:8007/_a'
     codec: MP3

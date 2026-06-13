@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-0d4c560c-033b-4c3e-a185-b1ff8634e938
 streams:
   - url: 'http://178.159.3.22:8124/live'
     codec: AAC+

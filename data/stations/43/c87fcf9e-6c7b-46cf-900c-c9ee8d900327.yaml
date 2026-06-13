@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-c87fcf9e-6c7b-46cf-900c-c9ee8d900327
 streams:
   - url: 'https://hrcdo.radioca.st:2199/tunein/hrcdo-stream.pls'
     url_resolved: 'http://142.44.212.114:9337/stream'

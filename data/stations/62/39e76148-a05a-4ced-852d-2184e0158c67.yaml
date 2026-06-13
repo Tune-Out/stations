@@ -21,6 +21,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-39e76148-a05a-4ced-852d-2184e0158c67
 streams:
   - url: 'http://79.120.39.202:8000/aabmds'
     codec: AAC+

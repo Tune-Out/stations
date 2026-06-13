@@ -331,9 +331,9 @@ strings:
   # About section heading — where the data comes from.
   # English: Where the data comes from
   about.data.title: 데이터 출처
-  # About body — where the data comes from.
-  # English: Station metadata comes from a variety of public domain and free data sources, such as wikipedia.org and radio-browser.info.
-  about.data.body: 방송국 메타데이터는 wikipedia.org와 radio-browser.info 같은 다양한 퍼블릭 도메인·자유 데이터 출처에서 가져옵니다.
+  # About body — where the data comes from. Supports markdown links `[label](https://…)` and backtick code spans; other HTML is escaped.
+  # English: Station metadata comes from a variety of public domain and free data sources, such as [wikipedia.org](https://wikipedia.org), [radio-browser.info](https://www.radio-browser.info), and [IPRD - International Public Radio Directory](https://iprd-org.github.io/iprd/).
+  about.data.body: 방송국 메타데이터는 [wikipedia.org](https://wikipedia.org), [radio-browser.info](https://www.radio-browser.info), [IPRD - International Public Radio Directory](https://iprd-org.github.io/iprd/) 같은 다양한 퍼블릭 도메인·자유 데이터 출처에서 가져옵니다.
   # About section heading — license.
   # English: License
   about.license.title: 라이선스

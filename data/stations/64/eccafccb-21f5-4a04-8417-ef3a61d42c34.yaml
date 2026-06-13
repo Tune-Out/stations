@@ -27,6 +27,8 @@ clickcount: 0
 geo_lat: -32.901767557259916
 geo_long: -68.8451385498047
 curation: 0.55
+provenance:
+  - radiobrowser-eccafccb-21f5-4a04-8417-ef3a61d42c34
 streams:
   - url: 'http://streaming.fmutn.com.ar:8000/FMUTN'
     codec: MP3

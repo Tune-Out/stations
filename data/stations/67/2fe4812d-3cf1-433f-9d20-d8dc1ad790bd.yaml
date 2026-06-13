@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 50.56401154715542
 geo_long: 8.471306852627809
 curation: 0.35
+provenance:
+  - radiobrowser-2fe4812d-3cf1-433f-9d20-d8dc1ad790bd
 streams:
   - url: 'http://stream.erf.de/erfpop_s.m3u'
     url_resolved: 'http://stream.erfjess.de/erf-1068/aac-64?ar-distributor=ffa5'

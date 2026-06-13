@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: 49.111649044398234
 geo_long: 9.735911786556246
 curation: 0.35
+provenance:
+  - radiobrowser-e80edaa3-7c0a-4647-bc6e-3b8bc7c56bb1
 streams:
   - url: 'http://stream.sthoerfunk.de:7000/sthoerfunk.ogg.m3u'
     url_resolved: 'http://stream.sthoerfunk.de:7000/sthoerfunk.ogg'

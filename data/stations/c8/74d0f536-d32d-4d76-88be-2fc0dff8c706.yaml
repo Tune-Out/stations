@@ -23,6 +23,8 @@ clickcount: 9
 geo_lat: 50.85325707417748
 geo_long: 4.402635790952025
 curation: 0.60
+provenance:
+  - radiobrowser-74d0f536-d32d-4d76-88be-2fc0dff8c706
 streams:
   - url: 'http://icecast.vrtcdn.be/stubru_tgs.aac'
     codec: AAC

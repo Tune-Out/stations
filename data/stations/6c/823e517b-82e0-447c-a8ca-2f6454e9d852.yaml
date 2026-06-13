@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: -7.0254637123858865
 geo_long: -37.277383804321296
 curation: -0.10
+provenance:
+  - radiobrowser-823e517b-82e0-447c-a8ca-2f6454e9d852
 streams:
   - url: 'https://streaming.engelhosting.com.br:10036/stream'
     codec: MP3

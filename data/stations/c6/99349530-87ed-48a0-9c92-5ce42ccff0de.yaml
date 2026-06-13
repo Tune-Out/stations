@@ -21,6 +21,8 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-99349530-87ed-48a0-9c92-5ce42ccff0de
 streams:
   - url: 'https://audio.mabu-beatz-radio.com:8003/minimal'
     codec: MP3

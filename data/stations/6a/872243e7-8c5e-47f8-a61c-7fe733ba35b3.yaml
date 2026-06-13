@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-872243e7-8c5e-47f8-a61c-7fe733ba35b3
 streams:
   - url: 'https://servidor34-1.brlogic.com:8014/live?source=website'
     codec: MP3

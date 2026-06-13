@@ -23,6 +23,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-94d42cb6-14ea-48cd-9523-6c3ee2ded1a2
 streams:
   - url: 'https://nova-odn.ice.infomaniak.ch/nova-odn-256.aac'
     codec: AAC

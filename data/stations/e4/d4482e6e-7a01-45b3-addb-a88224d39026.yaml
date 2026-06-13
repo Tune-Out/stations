@@ -23,6 +23,8 @@ clickcount: 2
 geo_lat: 49.194822572491674
 geo_long: 16.602083262822486
 curation: 0.35
+provenance:
+  - radiobrowser-d4482e6e-7a01-45b3-addb-a88224d39026
 streams:
   - url: 'https://api.play.cz/radio/radio7-32aac.m3u'
     url_resolved: 'http://icecast8.play.cz/radio7-32aac'

@@ -113,6 +113,21 @@ export const StationSchema = z.object({
   geo_lat: nullableFloat,
   geo_long: nullableFloat,
   /**
+   * Source identifiers from every upstream catalog this station appears
+   * in. Each entry is `<source>-<id>`, where `<source>` is the directory
+   * slug (e.g. `radiobrowser`, `iprd`) and `<id>` is its native identifier
+   * in that directory. A station may appear in multiple sources; this
+   * array is the authoritative join key for reconciliation across them.
+   *
+   * Seeded from radio-browser (each station's UUID lives at
+   * `radiobrowser-<uuid>`). New sources extend the array rather than
+   * replace it.
+   */
+  provenance: z.preprocess(
+    (v) => (v == null ? [] : v),
+    z.array(z.string().min(1)),
+  ).optional().default([]),
+  /**
    * Editorial quality score in the range −1.0 … +1.0. Positive values mark
    * notable / non-commercial / music-focused stations; negative values mark
    * ad-saturated, low-effort, or repetitive streams. Null means unscored.

@@ -26,6 +26,8 @@ clickcount: 0
 geo_lat: 51.05935060955763
 geo_long: -1.8067914828131104
 curation: 0.35
+provenance:
+  - radiobrowser-8f66ab42-0379-4e81-adaf-5c5088823790
 streams:
   - url: 'http://mscp3.live-streams.nl:8360/flac.flac'
     codec: OGG

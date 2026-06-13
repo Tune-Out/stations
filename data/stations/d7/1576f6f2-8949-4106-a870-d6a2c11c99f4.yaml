@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: 56.67282942172565
 geo_long: 12.85606384277344
 curation: 0.75
+provenance:
+  - radiobrowser-1576f6f2-8949-4106-a870-d6a2c11c99f4
 streams:
   - url: 'http://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http'
     codec: AAC

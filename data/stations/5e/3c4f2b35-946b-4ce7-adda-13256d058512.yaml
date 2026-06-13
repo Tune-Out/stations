@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-3c4f2b35-946b-4ce7-adda-13256d058512
 streams:
   - url: 'https://radio.canstream.co.uk:8025/live.mp3?_=596083'
     codec: MP3

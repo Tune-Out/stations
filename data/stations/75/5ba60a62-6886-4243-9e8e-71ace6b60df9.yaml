@@ -25,6 +25,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-5ba60a62-6886-4243-9e8e-71ace6b60df9
 streams:
   - url: 'https://cdn-br2.live-tv.cloud/sferarvFM/64k/icecast.audio'
     codec: AAC+

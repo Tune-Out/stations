@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 51.189562964727344
 geo_long: 10.05846530511994
 curation: 0.35
+provenance:
+  - radiobrowser-710c3d5a-209c-405f-9a5a-9889736416db
 streams:
   - url: 'https://icecast.radiorfm.de/rfm.ogg'
     codec: OGG

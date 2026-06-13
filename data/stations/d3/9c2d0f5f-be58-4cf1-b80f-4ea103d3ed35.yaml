@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 52.38020997185714
 geo_long: 4.897842407226563
 curation: -0.05
+provenance:
+  - radiobrowser-9c2d0f5f-be58-4cf1-b80f-4ea103d3ed35
 streams:
   - url: 'http://stream.tbmp.nl:8000/sinterklaasradiohigh.mp3'
     codec: MP3

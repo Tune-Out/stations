@@ -20,6 +20,8 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-68dee448-5980-4c10-ab8e-0674c7dd1fcd
 streams:
   - url: 'http://stream.krypton.co.za:8040/stream/'
     codec: MP3

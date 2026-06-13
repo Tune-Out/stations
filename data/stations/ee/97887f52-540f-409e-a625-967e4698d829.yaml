@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: -51.721583890010585
 geo_long: -57.81005859375001
 curation: 0.50
+provenance:
+  - radiobrowser-97887f52-540f-409e-a625-967e4698d829
 streams:
   - url: 'https://streaming.broadcastradio.com:8332/flklnd'
     codec: MP3

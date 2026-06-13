@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.75
+provenance:
+  - radiobrowser-772e7995-965f-4d52-81bc-0a77af640a6a
 streams:
   - url: 'http://radio-metadata.fr:8000/fiprock'
     codec: AAC

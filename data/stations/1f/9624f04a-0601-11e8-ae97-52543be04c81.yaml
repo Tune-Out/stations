@@ -24,6 +24,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-9624f04a-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://live.westcityradio.ro:8000/mp3'
     codec: MP3

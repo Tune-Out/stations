@@ -27,6 +27,8 @@ clickcount: 2
 geo_lat: 44.5315723087303
 geo_long: 11.314486414788549
 curation: 0.80
+provenance:
+  - radiobrowser-59fd1fbb-b49c-488a-97a9-dd792cc785be
 streams:
   - url: 'https://streaming.radiocittafujiko.it:8000/rcf.ogg'
     codec: OGG

@@ -26,6 +26,8 @@ clickcount: 13
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-963beab0-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'https://edge12.stream.radioarabella.de/radioarabella-muenchen?aggregator=RDs24_live_radioarabella_de-stream-aac'
     codec: AAC

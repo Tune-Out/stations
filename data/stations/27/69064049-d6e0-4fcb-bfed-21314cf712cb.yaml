@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 50.45614051211909
 geo_long: 7.520391047000886
 curation: 0.35
+provenance:
+  - radiobrowser-69064049-d6e0-4fcb-bfed-21314cf712cb
 streams:
   - url: 'https://radio.mbg-gladbach.de:8443/live'
     codec: MP3

@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.00
+provenance:
+  - radiobrowser-90e22c53-c626-4ac7-876d-d03d4ee8c3d2
 streams:
   - url: 'https://control.tastreams.eu:2200/radio/black9326?mp=/stream'
     codec: MP3

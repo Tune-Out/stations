@@ -29,6 +29,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-36fa8636-3326-4f3e-87db-c6159d786c22
 streams:
   - url: 'http://cafe80s.eu:8000/bewegungsraum.mp3'
     codec: MP3

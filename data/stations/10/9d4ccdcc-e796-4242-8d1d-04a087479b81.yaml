@@ -27,6 +27,8 @@ clickcount: 1
 geo_lat: 47.724844782635685
 geo_long: 18.26103551264667
 curation: -0.05
+provenance:
+  - radiobrowser-9d4ccdcc-e796-4242-8d1d-04a087479b81
 streams:
   - url: 'https://radio.freestream.hu:8340/stream'
     codec: MP3

@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-78f25389-c045-4d73-8432-1d90a7a8fd4f
 streams:
   - url: 'https://irw.tunefm.de:2020/tunein/irw4-rock/stream/pls'
     url_resolved: 'http://irw.tunefm.de:8310/stream'

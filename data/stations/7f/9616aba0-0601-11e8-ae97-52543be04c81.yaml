@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-9616aba0-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://avw.mdr.de/streams/284321-2_aac_high.m3u'
     url_resolved: 'http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3'

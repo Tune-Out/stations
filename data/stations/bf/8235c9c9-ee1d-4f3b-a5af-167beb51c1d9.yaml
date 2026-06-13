@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-8235c9c9-ee1d-4f3b-a5af-167beb51c1d9
 streams:
   - url: 'http://icecast.mnsu.edu:8000/kmsu'
     codec: MP3

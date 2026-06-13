@@ -28,6 +28,8 @@ clickcount: 1
 geo_lat: 50.293957538232696
 geo_long: 18.66564273834229
 curation: 0.55
+provenance:
+  - radiobrowser-5f813e14-69f6-4d29-8a87-ff6096ddf90c
 streams:
   - url: 'https://streamhls.radiodzwiek.slask.pl/dzwiek/hls.m3u8'
     codec: AAC

@@ -29,6 +29,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-fed9a975-d67c-44d1-8591-f44208c196e3
 streams:
   - url: 'https://s3.radio.co/scfd7273b2/listen'
     codec: AAC

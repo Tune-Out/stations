@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.65
+provenance:
+  - radiobrowser-b7190baa-dcb4-4c4d-b8fc-b89469faa64c
 streams:
   - url: 'https://lo-fire.deathsmack-a51.workers.dev/radio.mp3'
     codec: MP3

@@ -20,6 +20,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-fcbd7124-cde1-4d70-ab58-5dd85f9d3c3e
 streams:
   - url: 'https://streams.radiomast.io/ref-lossless-ogg-flac-stereo'
     codec: OGG

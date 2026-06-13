@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-b78bc029-3b79-454b-bee1-983096e47c64
 streams:
   - url: 'http://audio-ogg.ibiblio.org:8000/wcpe.ogg'
     codec: OGG

@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-b1d046a5-dd0d-11e9-a8ba-52543be04c81
 streams:
   - url: 'http://streams.deltaradio.de/delta-bbb/aac-64'
     codec: AAC

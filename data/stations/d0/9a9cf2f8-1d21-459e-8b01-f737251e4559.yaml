@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-9a9cf2f8-1d21-459e-8b01-f737251e4559
 streams:
   - url: 'http://stream.myip.gr:9214/;listen.pls;listen.pls'
     codec: MP3

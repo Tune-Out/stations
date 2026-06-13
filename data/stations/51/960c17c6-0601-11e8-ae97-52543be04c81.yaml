@@ -24,6 +24,8 @@ clickcount: 12
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-960c17c6-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://generationfm.ice.infomaniak.ch/generationfm-high.aac'
     codec: AAC+

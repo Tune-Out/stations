@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-80d7414f-1ff8-4c1a-b081-6888a7bcf564
 streams:
   - url: 'http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio'
     codec: MP3

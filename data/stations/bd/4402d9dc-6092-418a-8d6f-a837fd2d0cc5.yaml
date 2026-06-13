@@ -20,6 +20,8 @@ clickcount: 15
 geo_lat: -0.206636934558138
 geo_long: -78.49868774414064
 curation: -0.05
+provenance:
+  - radiobrowser-4402d9dc-6092-418a-8d6f-a837fd2d0cc5
 streams:
   - url: 'https://canelaradio.makrodigital.com:9280/stream'
     codec: MP3

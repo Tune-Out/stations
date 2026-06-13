@@ -23,6 +23,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-9848f5bd-0f75-4e6d-a2bd-fcdb551adbdd
 streams:
   - url: 'https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8'
     codec: AAC

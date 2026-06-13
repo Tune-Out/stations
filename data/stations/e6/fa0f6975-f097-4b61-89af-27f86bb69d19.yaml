@@ -22,6 +22,8 @@ clickcount: 12
 geo_lat: 44.80074216531373
 geo_long: 20.452079772949222
 curation: 0.25
+provenance:
+  - radiobrowser-fa0f6975-f097-4b61-89af-27f86bb69d19
 streams:
   - url: 'https://stream.radios.rs:9016/;*.mp3'
     codec: AAC+

@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-fb02ee16-e123-40fa-88a0-355b3d38382a
 streams:
   - url: 'https://stream.radiowavenz.com/stream-aac'
     codec: AAC

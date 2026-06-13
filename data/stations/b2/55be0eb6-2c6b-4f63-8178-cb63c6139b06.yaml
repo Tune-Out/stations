@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-55be0eb6-2c6b-4f63-8178-cb63c6139b06
 streams:
   - url: 'http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8'
     codec: AAC,H.264

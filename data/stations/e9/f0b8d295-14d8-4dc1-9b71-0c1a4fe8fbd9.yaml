@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-f0b8d295-14d8-4dc1-9b71-0c1a4fe8fbd9
 streams:
   - url: 'http://hls.njgb.com/live_hls/6/playlist.m3u8'
     codec: UNKNOWN

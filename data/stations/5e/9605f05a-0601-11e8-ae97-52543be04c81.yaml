@@ -23,6 +23,8 @@ clickcount: 15
 geo_lat: null
 geo_long: null
 curation: 0.75
+provenance:
+  - radiobrowser-9605f05a-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'https://wdrhf.akamaized.net/hls/live/2027994/wdr3/master.m3u8'
     codec: AAC

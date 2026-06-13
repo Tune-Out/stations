@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: 50.814357
 geo_long: 12.931109
 curation: 0.40
+provenance:
+  - radiobrowser-ac57d65b-6625-11ea-be63-52543be04c81
 streams:
   - url: 'http://stream.bn-radio.de:8000/bn-radio.aacp'
     codec: AAC+

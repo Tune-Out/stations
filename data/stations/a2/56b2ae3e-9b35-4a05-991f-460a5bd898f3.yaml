@@ -24,6 +24,8 @@ clickcount: 4
 geo_lat: -6.204725253991695
 geo_long: 106.82556152343751
 curation: -0.05
+provenance:
+  - radiobrowser-56b2ae3e-9b35-4a05-991f-460a5bd898f3
 streams:
   - url: 'http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8'
     codec: UNKNOWN

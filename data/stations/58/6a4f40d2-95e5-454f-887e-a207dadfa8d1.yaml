@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: 44.43551351220439
 geo_long: 26.10248874718922
 curation: -0.05
+provenance:
+  - radiobrowser-6a4f40d2-95e5-454f-887e-a207dadfa8d1
 streams:
   - url: 'http://live.radiotaraf.ro:8200/'
     codec: MP3

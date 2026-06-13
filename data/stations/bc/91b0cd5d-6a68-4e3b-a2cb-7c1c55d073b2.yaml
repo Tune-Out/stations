@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.20
+provenance:
+  - radiobrowser-91b0cd5d-6a68-4e3b-a2cb-7c1c55d073b2
 streams:
   - url: 'https://streams.egofm.de/egoFMSAX-lq'
     url_resolved: 'https://cast.egofm.de/egofm.aac?ar-distributor=ffa0&aw_0_req.gdpr=true'

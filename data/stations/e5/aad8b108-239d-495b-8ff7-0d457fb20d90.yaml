@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-aad8b108-239d-495b-8ff7-0d457fb20d90
 streams:
   - url: 'https://stream.googeradio.com/listen'
     codec: AAC

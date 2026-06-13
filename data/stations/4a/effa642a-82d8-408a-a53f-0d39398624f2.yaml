@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-effa642a-82d8-408a-a53f-0d39398624f2
 streams:
   - url: 'https://wgbh-hls.streamguys1.com/wcrb_hls/playlist.m3u8'
     codec: AAC

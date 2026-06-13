@@ -24,6 +24,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-961a39f5-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://212.129.27.101:8000/voixdulat_ogg'
     codec: OGG

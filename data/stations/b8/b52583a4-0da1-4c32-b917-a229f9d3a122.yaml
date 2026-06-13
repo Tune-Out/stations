@@ -24,6 +24,8 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-b52583a4-0da1-4c32-b917-a229f9d3a122
 streams:
   - url: 'https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8'
     codec: AAC

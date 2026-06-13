@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-9605bab6-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://stream01.superfly.fm:8080/live128'
     codec: MP3

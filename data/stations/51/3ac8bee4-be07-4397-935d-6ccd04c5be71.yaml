@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-3ac8bee4-be07-4397-935d-6ccd04c5be71
 streams:
   - url: 'http://www.segenswelle.de:8000/deutsch-aac'
     codec: AAC+

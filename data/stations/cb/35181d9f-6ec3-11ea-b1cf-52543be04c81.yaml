@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-35181d9f-6ec3-11ea-b1cf-52543be04c81
 streams:
   - url: 'http://onair15.xdevel.com:9242/;stream.mp3'
     codec: MP3

@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-bed54f78-2bb5-4dc9-922e-5b19bb192e74
 streams:
   - url: 'https://eilo.org/getm3u.php?m3u=drum'
     url_resolved: 'http://eilo.org:8000/drum'

@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-ba5abf32-4b01-4dab-addd-a33ed4e290ca
 streams:
   - url: 'https://stream.radioclub80.cl:8002/clasicos80.flac'
     codec: OGG

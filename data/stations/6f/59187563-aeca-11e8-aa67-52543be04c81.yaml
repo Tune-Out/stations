@@ -22,6 +22,8 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-59187563-aeca-11e8-aa67-52543be04c81
 streams:
   - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u'
     url_resolved: 'http://icecast.ndr.de/ndr/ndrkultur/live/aac/192/stream.aac'

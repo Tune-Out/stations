@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 48.59264127649943
 geo_long: 7.716329888664816
 curation: 0.65
+provenance:
+  - radiobrowser-bd9c7402-9959-4ad7-81e1-d65d7d7c5f6d
 streams:
   - url: 'https://stream.radiofrance.fr/fbalsace/fbalsace.m3u8?id=radiofrance'
     codec: AAC

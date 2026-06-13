@@ -22,6 +22,8 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-d4369a14-f912-4a79-8185-3e875eaa27b4
 streams:
   - url: 'http://stream.radiotev.lv:8002/radiov'
     codec: AAC+

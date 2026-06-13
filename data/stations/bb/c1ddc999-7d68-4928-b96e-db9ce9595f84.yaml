@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.60
+provenance:
+  - radiobrowser-c1ddc999-7d68-4928-b96e-db9ce9595f84
 streams:
   - url: 'https://server5.mediasector.es:8090/cinemaradio'
     codec: MP3

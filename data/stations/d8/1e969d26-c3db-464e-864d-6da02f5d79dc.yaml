@@ -27,6 +27,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-1e969d26-c3db-464e-864d-6da02f5d79dc
 streams:
   - url: 'https://streams.radiopsr.de/psr-80er/mp3-192/www.radio-browser.info/play.m3u8'
     codec: MP3

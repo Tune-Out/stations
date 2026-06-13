@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-31ce4779-1046-4a03-ad9b-22b2d30110da
 streams:
   - url: 'https://audio.bild-und-ton.stream:16162/radiosantec-en'
     codec: AAC+

@@ -30,6 +30,8 @@ clickcount: 0
 geo_lat: 53.15052090398257
 geo_long: 16.73888593912125
 curation: -0.05
+provenance:
+  - radiobrowser-22ffc3f2-915d-4fe5-8041-4ef92b68b7ce
 streams:
   - url: 'https://s3.slotex.pl:7278/stream/'
     codec: MP3

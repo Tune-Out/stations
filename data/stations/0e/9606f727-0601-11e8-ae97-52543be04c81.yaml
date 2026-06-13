@@ -25,6 +25,8 @@ clickcount: 301
 geo_lat: null
 geo_long: null
 curation: 0.75
+provenance:
+  - radiobrowser-9606f727-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3'
     codec: MP3

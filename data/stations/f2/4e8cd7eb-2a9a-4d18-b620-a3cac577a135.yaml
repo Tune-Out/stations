@@ -22,6 +22,8 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-4e8cd7eb-2a9a-4d18-b620-a3cac577a135
 streams:
   - url: 'http://streams.radiopsr.de/psr-live/aac-64/mediaplayer'
     codec: AAC

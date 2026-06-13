@@ -29,6 +29,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-cd08ddef-18ae-421c-85a3-971ee8caa5d5
 streams:
   - url: 'http://stream2.soundflux.eu:8440/stream'
     codec: MP3

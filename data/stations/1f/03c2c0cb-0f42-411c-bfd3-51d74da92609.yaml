@@ -20,6 +20,8 @@ clickcount: 33
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-03c2c0cb-0f42-411c-bfd3-51d74da92609
 streams:
   - url: 'https://www.marca.com/radio/geoblock/getSrcApp.php?dial=Nacional&dist=radiomarcaweb'
     codec: MP3

@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-4a6ba220-9b42-48f7-bdfa-ee235346b6ae
 streams:
   - url: 'http://108.163.245.230:8100/listen.pls'
     url_resolved: 'http://108.163.245.230:8100/stream'

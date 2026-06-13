@@ -27,6 +27,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-6e43a2c4-33d5-4d74-a5e9-013f289c19ab
 streams:
   - url: 'http://streams.anytek.co.uk:8020/live.m3u'
     url_resolved: 'http://streams.anytek.co.uk:8020/live'

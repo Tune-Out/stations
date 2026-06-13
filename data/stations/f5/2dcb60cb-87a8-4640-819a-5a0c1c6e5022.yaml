@@ -23,6 +23,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-2dcb60cb-87a8-4640-819a-5a0c1c6e5022
 streams:
   - url: 'http://c5.hostingcentar.com:8275/stream'
     codec: AAC+

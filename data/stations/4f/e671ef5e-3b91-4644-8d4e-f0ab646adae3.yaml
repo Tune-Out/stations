@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-e671ef5e-3b91-4644-8d4e-f0ab646adae3
 streams:
   - url: 'https://stream.revma.ihrhls.com/zc1489/hls.m3u8?streamid=1489'
     codec: AAC

@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-51745b10-5f95-49ab-bc53-068ad35fcee1
 streams:
   - url: 'https://radio.streemlion.com:4405/stream'
     codec: AAC+

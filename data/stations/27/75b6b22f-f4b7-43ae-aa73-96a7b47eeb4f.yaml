@@ -22,6 +22,8 @@ clickcount: 8
 geo_lat: 48.85256672971922
 geo_long: 2.2783380746841435
 curation: 0.35
+provenance:
+  - radiobrowser-75b6b22f-f4b7-43ae-aa73-96a7b47eeb4f
 streams:
   - url: 'https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance'
     codec: AAC

@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.00
+provenance:
+  - radiobrowser-305c089e-0253-4b6c-adcd-2a11790d9356
 streams:
   - url: 'http://cast3.radiohost.ovh:8280/stream'
     codec: MP3

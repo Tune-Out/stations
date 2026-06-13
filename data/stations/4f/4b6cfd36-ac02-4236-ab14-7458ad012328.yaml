@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: 50.92707290263975
 geo_long: 4.432296752929688
 curation: -0.05
+provenance:
+  - radiobrowser-4b6cfd36-ac02-4236-ab14-7458ad012328
 streams:
   - url: 'https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac?aw_0_1st.skey=1691506785&aw_0_1st.playerid=site-player'
     codec: AAC+

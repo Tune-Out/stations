@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.80
+provenance:
+  - radiobrowser-603a1f71-33b4-4c0d-93b3-d53a793dc3fa
 streams:
   - url: 'https://livestream.cprnetwork.org/pls/live_indie_aac.pls'
     url_resolved: 'https://stream1.cprnetwork.org/cpr3_aac'

@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-962b5166-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl'
     codec: AAC+

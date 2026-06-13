@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.25
+provenance:
+  - radiobrowser-b35470e5-75b7-4836-a559-c01d2d2a11a9
 streams:
   - url: 'https://nova-vnt.ice.infomaniak.ch/nova-vnt-128'
     codec: MP3

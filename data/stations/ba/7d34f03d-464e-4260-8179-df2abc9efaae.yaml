@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-7d34f03d-464e-4260-8179-df2abc9efaae
 streams:
   - url: 'http://95alive.net:8020/radio.mp3.m3u'
     url_resolved: 'http://95alive.net:8020/radio.mp3'

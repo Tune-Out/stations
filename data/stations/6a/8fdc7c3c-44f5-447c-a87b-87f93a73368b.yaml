@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-8fdc7c3c-44f5-447c-a87b-87f93a73368b
 streams:
   - url: 'http://stream2.hippynet.co.uk:8202/;stream'
     codec: MP3

@@ -25,6 +25,8 @@ clickcount: 1
 geo_lat: 51.40106428492387
 geo_long: 0.5347844751578147
 curation: 0.35
+provenance:
+  - radiobrowser-a22bbdd3-bf81-4b31-8a51-f73945b315e6
 streams:
   - url: 'http://maggie.torontocast.com:9020/stream'
     codec: MP3

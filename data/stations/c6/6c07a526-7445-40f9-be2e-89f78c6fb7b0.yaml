@@ -25,6 +25,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-6c07a526-7445-40f9-be2e-89f78c6fb7b0
 streams:
   - url: 'https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8'
     codec: AAC

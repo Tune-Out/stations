@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.60
+provenance:
+  - radiobrowser-7d67a004-2244-4f77-b361-9628063b578a
 streams:
   - url: 'http://server1.radiodanz.com:8030/;'
     codec: AAC+

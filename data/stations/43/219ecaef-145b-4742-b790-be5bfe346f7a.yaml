@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: 53.12732535916186
 geo_long: -1.7578125000000002
 curation: 0.20
+provenance:
+  - radiobrowser-219ecaef-145b-4742-b790-be5bfe346f7a
 streams:
   - url: 'http://s2.xrad.io:8046/;'
     codec: AAC+

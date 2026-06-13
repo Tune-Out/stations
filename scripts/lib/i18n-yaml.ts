@@ -168,7 +168,7 @@ const STRING_KEY_DESCRIPTIONS: Record<string, string> = {
   'about.title':                   'About view: page title (also reused as kicker).',
   'about.lede':                    'About view: lead paragraph.',
   'about.data.title':              'About section heading — where the data comes from.',
-  'about.data.body':               'About body — where the data comes from.',
+  'about.data.body':               'About body — where the data comes from. Supports markdown links `[label](https://…)` and backtick code spans; other HTML is escaped.',
   'about.license.title':           'About section heading — license.',
   'about.license.body':            'About body — license.',
   'about.privacy.title':           'About section heading — privacy.',

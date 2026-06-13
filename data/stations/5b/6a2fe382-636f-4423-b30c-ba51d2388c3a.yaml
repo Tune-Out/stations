@@ -26,6 +26,8 @@ clickcount: 0
 geo_lat: 51.4918584186485
 geo_long: 0.120849609375
 curation: 0.35
+provenance:
+  - radiobrowser-6a2fe382-636f-4423-b30c-ba51d2388c3a
 streams:
   - url: 'https://a2.asurahosting.com:6260/radio.mp3'
     codec: MP3

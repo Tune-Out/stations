@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-2bfd4b42-f578-4b76-9d24-970938428820
 streams:
   - url: 'https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio'
     codec: MP3

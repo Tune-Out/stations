@@ -26,6 +26,8 @@ clickcount: 0
 geo_lat: 38.49919840448916
 geo_long: 42.28342652320862
 curation: 0.35
+provenance:
+  - radiobrowser-1e84114e-ade9-4baf-9f85-89411162ccfe
 streams:
   - url: 'https://radyo.yayindakiler.com:3050/stream'
     codec: AAC+

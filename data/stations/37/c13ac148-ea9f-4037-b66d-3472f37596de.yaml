@@ -36,6 +36,8 @@ clickcount: 4
 geo_lat: 42.25293670595561
 geo_long: -88.28562051057817
 curation: 0.55
+provenance:
+  - radiobrowser-c13ac148-ea9f-4037-b66d-3472f37596de
 streams:
   - url: 'http://seahorse.juststreamwith.us:8000/stream'
     codec: MP3

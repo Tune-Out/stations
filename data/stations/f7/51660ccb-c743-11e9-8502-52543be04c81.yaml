@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-51660ccb-c743-11e9-8502-52543be04c81
 streams:
   - url: 'http://byblosnights.com:8000/byblosaac'
     codec: AAC+

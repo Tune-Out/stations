@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-249454c5-3139-4285-8dde-70e3988c6cef
 streams:
   - url: 'http://sp2.streams.ovh:8096/stream?type=http&nocache=99'
     codec: MP3

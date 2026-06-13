@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-ee6fc323-5a7c-11e9-a622-52543be04c81
 streams:
   - url: 'http://stream.laut.fm/biggetal.pls'
     url_resolved: 'http://biggetal.stream.laut.fm/biggetal?pl=pls&t302=2026-01-14_23-44-31&uuid=ad5e7650-c60a-4f79-a786-50a702f55430'

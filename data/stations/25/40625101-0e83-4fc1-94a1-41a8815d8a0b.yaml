@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-40625101-0e83-4fc1-94a1-41a8815d8a0b
 streams:
   - url: 'http://stream.openbroadcast.ch/16bit.flac'
     codec: OGG

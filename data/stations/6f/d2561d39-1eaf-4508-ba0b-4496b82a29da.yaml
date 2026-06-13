@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: 50.46170054676676
 geo_long: 30.563964843750004
 curation: 0.50
+provenance:
+  - radiobrowser-d2561d39-1eaf-4508-ba0b-4496b82a29da
 streams:
   - url: 'http://radio.ukr.radio:8000/urkazka-aacplus'
     codec: AAC

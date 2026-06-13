@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: 51.2235569754445
 geo_long: -0.16857147216796875
 curation: 0.35
+provenance:
+  - radiobrowser-66b27a92-ba1e-448e-a197-889818f9d50d
 streams:
   - url: 'http://live2.radioredhill.co.uk:8080/live'
     codec: MP3

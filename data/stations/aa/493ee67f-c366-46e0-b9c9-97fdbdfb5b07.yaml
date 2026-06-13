@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: 44.09839132370862
 geo_long: 3.080935478210449
 curation: 0.35
+provenance:
+  - radiobrowser-493ee67f-c366-46e0-b9c9-97fdbdfb5b07
 streams:
   - url: 'http://stream.radiolarzac.org:8000/radiolarzac'
     codec: MP3

@@ -24,6 +24,8 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-26b44f47-910e-455e-91bc-7304cf7f728e
 streams:
   - url: 'http://icecast.err.ee/vikerraadio.mp3'
     codec: MP3

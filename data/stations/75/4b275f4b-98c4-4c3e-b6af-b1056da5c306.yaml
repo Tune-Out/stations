@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-4b275f4b-98c4-4c3e-b6af-b1056da5c306
 streams:
   - url: 'http://sa46.scastream.com.au/live/drumnbass.stream/playlist.m3u8'
     codec: AAC+

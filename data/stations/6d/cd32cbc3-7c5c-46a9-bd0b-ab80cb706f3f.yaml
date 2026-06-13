@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.65
+provenance:
+  - radiobrowser-cd32cbc3-7c5c-46a9-bd0b-ab80cb706f3f
 streams:
   - url: 'http://79.120.77.11:8004/brokenbeat'
     codec: AAC+

@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 51.546548553515585
 geo_long: 5.174560546875001
 curation: 0.35
+provenance:
+  - radiobrowser-cbdc76a2-2dc5-4167-aad2-1650c5b31b4d
 streams:
   - url: 'https://server-67.stream-server.nl:2000/tunein/wonderjarenstreamingradio/stream/asx'
     url_resolved: 'http://server-67.stream-server.nl:8748/stream'

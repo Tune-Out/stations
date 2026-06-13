@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: 42.276661010493534
 geo_long: -83.74261270955063
 curation: 0.50
+provenance:
+  - radiobrowser-9aeb091e-036c-44ea-9117-1f442b6fb4d1
 streams:
   - url: 'http://floyd.wcbn.org:8000/wcbn-hd.mp3'
     codec: MP3

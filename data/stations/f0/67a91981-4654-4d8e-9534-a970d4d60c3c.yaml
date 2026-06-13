@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.25
+provenance:
+  - radiobrowser-67a91981-4654-4d8e-9534-a970d4d60c3c
 streams:
   - url: 'https://drive.uber.radio/uber/crstrauss/icecast.audio'
     codec: MP3

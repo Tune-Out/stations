@@ -27,6 +27,8 @@ clickcount: 1
 geo_lat: 51.48115577383197
 geo_long: 11.964494884014131
 curation: 0.65
+provenance:
+  - radiobrowser-e343beb4-b151-415a-81ee-cb85823bd569
 streams:
   - url: 'https://radio-hls.mdr.de/hls/live/2112904/mdr-284320-0-hls/index.m3u8'
     codec: AAC

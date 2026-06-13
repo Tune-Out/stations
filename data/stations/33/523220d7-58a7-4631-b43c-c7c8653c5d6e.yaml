@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.20
+provenance:
+  - radiobrowser-523220d7-58a7-4631-b43c-c7c8653c5d6e
 streams:
   - url: 'https://nl4.mystreaming.net/er/hollywoodandbroadway/icecast.audio'
     codec: MP3

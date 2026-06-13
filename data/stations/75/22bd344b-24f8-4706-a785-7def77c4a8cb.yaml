@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: 51.686748251515425
 geo_long: 5.782665610313416
 curation: 0.35
+provenance:
+  - radiobrowser-22bd344b-24f8-4706-a785-7def77c4a8cb
 streams:
   - url: 'https://loa.beheerstream.nl:8048/listen.pls?sid=1'
     url_resolved: 'http://loa.beheerstream.nl:8048/stream'

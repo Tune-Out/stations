@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-51ff0cb8-b606-495f-9735-dd797f98cbc7
 streams:
   - url: 'https://s11.citrus3.com:8238/stream'
     codec: AAC

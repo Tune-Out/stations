@@ -23,6 +23,8 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-cdebc810-3394-497f-aedf-4567448c9572
 streams:
   - url: 'http://s3.slotex.pl:7222/stream'
     codec: MP3

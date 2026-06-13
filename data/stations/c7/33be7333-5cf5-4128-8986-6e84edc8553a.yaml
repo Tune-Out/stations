@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: 34.05362657320458
 geo_long: -118.2435805267652
 curation: 0.35
+provenance:
+  - radiobrowser-33be7333-5cf5-4128-8986-6e84edc8553a
 streams:
   - url: 'https://s4.voscast.com:8865/stream'
     codec: MP3

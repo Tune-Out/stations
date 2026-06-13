@@ -23,6 +23,8 @@ clickcount: 16
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-08becb2b-f5fc-4f22-8a69-ff0ec3cfe264
 streams:
   - url: 'http://stream.nsp.se:8000/pop'
     codec: OGG

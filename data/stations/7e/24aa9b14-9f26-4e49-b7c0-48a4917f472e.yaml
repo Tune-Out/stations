@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-24aa9b14-9f26-4e49-b7c0-48a4917f472e
 streams:
   - url: 'https://streamnavs.net:8089/live'
     codec: AAC

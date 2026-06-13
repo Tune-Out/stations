@@ -26,6 +26,8 @@ clickcount: 1
 geo_lat: 40.32058236080075
 geo_long: 9.324302673339846
 curation: -0.05
+provenance:
+  - radiobrowser-fe47d9c8-3641-4ac2-bcdb-a02a58e5f78e
 streams:
   - url: 'http://onair15.xdevel.com:8048/;stream/1.mp3'
     codec: AAC+

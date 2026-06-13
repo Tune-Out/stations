@@ -21,6 +21,8 @@ clickcount: 1
 geo_lat: -20.543442313874024
 geo_long: -47.378840446472175
 curation: 0.35
+provenance:
+  - radiobrowser-d3dbc65a-80be-483a-83aa-e3f312e94fb5
 streams:
   - url: 'https://stm1.hdmidia.srv.br:7010/;?type=http&nocache=11&stream.mp3'
     codec: MP3

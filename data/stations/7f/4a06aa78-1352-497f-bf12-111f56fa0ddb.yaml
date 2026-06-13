@@ -26,6 +26,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-4a06aa78-1352-497f-bf12-111f56fa0ddb
 streams:
   - url: 'http://eco.onestreaming.com:8316/stream?type=http&nocache=22964'
     codec: MP3

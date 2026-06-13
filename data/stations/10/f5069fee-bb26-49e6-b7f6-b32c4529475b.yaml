@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: 43.3101903843356
 geo_long: 21.882019042968754
 curation: -0.05
+provenance:
+  - radiobrowser-f5069fee-bb26-49e6-b7f6-b32c4529475b
 streams:
   - url: 'https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv'
     codec: MP3

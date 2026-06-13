@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: 41.499578190237344
 geo_long: -81.69313430786134
 curation: 0.35
+provenance:
+  - radiobrowser-b76bce64-11b8-44c6-9642-d2ea47f166a8
 streams:
   - url: 'https://xcsb.live:8000/xcsb.ogg'
     codec: OGG

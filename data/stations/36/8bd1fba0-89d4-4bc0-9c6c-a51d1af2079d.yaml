@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 42.61336443148569
 geo_long: -5.5610744495376565
 curation: 0.35
+provenance:
+  - radiobrowser-8bd1fba0-89d4-4bc0-9c6c-a51d1af2079d
 streams:
   - url: 'http://radio.unileon.es:8000/radio-unileon-320.m3u'
     url_resolved: 'http://radio.unileon.es:8000/radio-unileon-320'

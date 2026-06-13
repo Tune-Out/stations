@@ -25,6 +25,8 @@ clickcount: 4
 geo_lat: 51.774192144901285
 geo_long: 8.3206844329834
 curation: 0.65
+provenance:
+  - radiobrowser-11ca14a9-f6a2-49cf-befb-2d0cc84c730a
 streams:
   - url: 'https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3'
     codec: MP3

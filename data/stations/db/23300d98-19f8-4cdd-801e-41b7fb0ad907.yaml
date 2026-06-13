@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-23300d98-19f8-4cdd-801e-41b7fb0ad907
 streams:
   - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC.aac'
     codec: AAC+

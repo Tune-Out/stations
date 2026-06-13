@@ -28,6 +28,8 @@ clickcount: 2
 geo_lat: 19.415794529546016
 geo_long: -99.07050132751466
 curation: 0.55
+provenance:
+  - radiobrowser-6ae06700-1446-4ead-867d-524e3f7bdcbe
 streams:
   - url: 'http://giss.tv:8001/radio_automata.ogg'
     codec: OGG

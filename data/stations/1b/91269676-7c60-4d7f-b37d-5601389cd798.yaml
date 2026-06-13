@@ -34,6 +34,8 @@ clickcount: 4
 geo_lat: 55.7874232839614
 geo_long: 37.499363422393806
 curation: 0.25
+provenance:
+  - radiobrowser-91269676-7c60-4d7f-b37d-5601389cd798
 streams:
   - url: 'https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8'
     codec: AAC

@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-bb91267f-e87c-45e9-bfb4-5f8fd5a8424c
 streams:
   - url: 'https://streaming.exclusive.radio/er/thekillers/icecast.audio'
     codec: MP3

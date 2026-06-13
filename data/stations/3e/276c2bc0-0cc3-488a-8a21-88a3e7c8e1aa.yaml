@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-276c2bc0-0cc3-488a-8a21-88a3e7c8e1aa
 streams:
   - url: 'http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream'
     codec: MP3

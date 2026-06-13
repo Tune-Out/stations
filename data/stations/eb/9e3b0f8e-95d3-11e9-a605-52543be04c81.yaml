@@ -23,6 +23,8 @@ clickcount: 62
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-9e3b0f8e-95d3-11e9-a605-52543be04c81
 streams:
   - url: 'https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u'
     url_resolved: 'https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3'

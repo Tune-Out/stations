@@ -32,6 +32,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-837ffec9-86a4-4f1c-b142-6fc4354fac61
 streams:
   - url: 'http://193.111.125.15:8010/soothingradio'
     codec: MP3

@@ -22,6 +22,8 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-2c938122-4a94-11e9-a4d7-52543be04c81
 streams:
   - url: 'http://server-67.stream-server.nl:8910/stream'
     codec: MP3

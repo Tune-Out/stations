@@ -26,6 +26,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-822d0d37-9557-403d-a9bb-dd4040a8f23f
 streams:
   - url: 'https://streams.radiopsr.de/psr-live-sn-chm/aac-64/streams.radiopsr.de'
     codec: AAC

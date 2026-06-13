@@ -27,6 +27,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-937d0390-6e24-40df-8239-eab94434f830
 streams:
   - url: 'http://190.5.147.67:8000/radiosonora'
     codec: MP3

@@ -26,6 +26,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-4ea557ef-b9d5-4de8-b48e-9d37f8bfc5fc
 streams:
   - url: 'http://s3.onweb.gr:8016/stream?type=http&nocache=14923'
     codec: MP3

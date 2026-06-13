@@ -26,6 +26,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-c165ac65-040b-4b89-b376-183181f5395f
 streams:
   - url: 'https://streams.radiopsr.de/psr-live-sn-ddn/aac-64'
     codec: AAC

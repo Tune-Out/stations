@@ -23,6 +23,8 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-32d0c777-eb8f-11e9-a96c-52543be04c81
 streams:
   - url: 'http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac'
     codec: AAC

@@ -25,6 +25,8 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-d56f4802-58fe-4940-8ef8-218ba600f858
 streams:
   - url: 'https://air.dnbfm.ru/listen/player/qplay'
     codec: MP3

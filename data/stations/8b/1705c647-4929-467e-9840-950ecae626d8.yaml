@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 51.883743162410646
 geo_long: 4.664028882980348
 curation: 0.50
+provenance:
+  - radiobrowser-1705c647-4929-467e-9840-950ecae626d8
 streams:
   - url: 'http://cloud-faro.beheerstream.com:8320/stream'
     codec: MP3

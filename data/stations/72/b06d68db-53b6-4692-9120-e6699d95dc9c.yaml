@@ -23,6 +23,8 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-b06d68db-53b6-4692-9120-e6699d95dc9c
 streams:
   - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac'
     codec: AAC+

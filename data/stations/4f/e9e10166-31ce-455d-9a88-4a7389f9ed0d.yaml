@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-e9e10166-31ce-455d-9a88-4a7389f9ed0d
 streams:
   - url: 'http://puma.streemlion.com:4130/stream'
     codec: MP3

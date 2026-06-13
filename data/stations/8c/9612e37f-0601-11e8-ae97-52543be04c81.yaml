@@ -22,6 +22,8 @@ clickcount: 18
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-9612e37f-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'https://radio-teddy.api.radiosphere.io/channels/Livestream/stream.aac?quality=4'
     codec: AAC

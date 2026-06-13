@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.60
+provenance:
+  - radiobrowser-e8e2dbc6-0ff3-44d2-b478-219d4ba62d3c
 streams:
   - url: 'http://direct.fipradio.fr/live/fipgroove-hifi.aac'
     codec: AAC

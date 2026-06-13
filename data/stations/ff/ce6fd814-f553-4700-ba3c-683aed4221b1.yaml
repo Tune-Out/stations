@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 46.15363458400968
 geo_long: 15.8742892742157
 curation: -0.05
+provenance:
+  - radiobrowser-ce6fd814-f553-4700-ba3c-683aed4221b1
 streams:
   - url: 'http://s8.iqstreaming.com:8054/stream'
     codec: AAC+

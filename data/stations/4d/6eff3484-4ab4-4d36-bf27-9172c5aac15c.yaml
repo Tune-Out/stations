@@ -23,6 +23,8 @@ clickcount: 201
 geo_lat: 40.75166
 geo_long: -73.97538
 curation: 0.80
+provenance:
+  - radiobrowser-6eff3484-4ab4-4d36-bf27-9172c5aac15c
 streams:
   - url: 'https://icecast.walmradio.com:8443/christmas_opus'
     codec: OGG

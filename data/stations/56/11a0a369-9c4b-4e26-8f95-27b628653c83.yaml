@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 53.5403073915002
 geo_long: -3.5156250000000004
 curation: 0.60
+provenance:
+  - radiobrowser-11a0a369-9c4b-4e26-8f95-27b628653c83
 streams:
   - url: 'https://radio.hearme.fm:8040/stream'
     codec: MP3

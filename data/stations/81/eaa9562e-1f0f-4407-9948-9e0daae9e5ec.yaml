@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-eaa9562e-1f0f-4407-9948-9e0daae9e5ec
 streams:
   - url: 'http://astreaming.europafm.ro:8000/europafm_aacp48k?nocache=1775795565858'
     codec: AAC

@@ -27,6 +27,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-27dc83a8-eb89-4028-93b1-1719ea752019
 streams:
   - url: 'https://radio.tandj-homelab.dev/hls/t_and_js_radio/live.m3u8'
     codec: AAC

@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-961d5aac-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://icecast.hostingbahia.com.ar:8002/live?1475282235673'
     codec: AAC

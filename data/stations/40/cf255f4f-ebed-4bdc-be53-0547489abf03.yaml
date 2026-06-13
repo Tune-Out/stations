@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: -12.995063022762048
 geo_long: -38.494119644165046
 curation: 0.35
+provenance:
+  - radiobrowser-cf255f4f-ebed-4bdc-be53-0547489abf03
 streams:
   - url: 'https://cast.radiu.live:9300/stream'
     codec: AAC+

@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: 46.951187969034066
 geo_long: 7.067127227783204
 curation: 0.50
+provenance:
+  - radiobrowser-f02a2856-5044-4b35-a7a2-341d4124fc95
 streams:
   - url: 'https://api.radioking.io/radio/427889/listen.m3u'
     url_resolved: 'https://listen.radioking.com/radio/427889/stream/481505'

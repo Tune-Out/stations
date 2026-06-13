@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-1f83a62e-b94a-476f-acc3-1988329dd000
 streams:
   - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HITAAC.m3u8'
     codec: AAC+

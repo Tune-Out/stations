@@ -22,6 +22,8 @@ clickcount: 7
 geo_lat: 30.76
 geo_long: -86.57
 curation: 0.55
+provenance:
+  - radiobrowser-dee09ddb-8e41-11e8-aa66-52543be04c81
 streams:
   - url: 'https://streams.abidingradio.com:7800/1'
     codec: MP3

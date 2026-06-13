@@ -24,6 +24,8 @@ clickcount: 10
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-962e0e57-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://megastar.cope.stream.flumotion.com/cope/megastar.mp3.m3u'
     url_resolved: 'http://flucast-bl05.flumotion.com/cope/megastar.mp3'

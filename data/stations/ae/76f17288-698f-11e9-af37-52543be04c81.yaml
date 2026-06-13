@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-76f17288-698f-11e9-af37-52543be04c81
 streams:
   - url: 'https://rogers-hls.leanstream.co/rogers/cal969.stream/playlist.m3u8'
     codec: AAC+

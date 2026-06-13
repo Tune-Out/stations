@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.60
+provenance:
+  - radiobrowser-37c97215-b4f2-4d66-8d7d-25f5a740bbd2
 streams:
   - url: 'http://tx.sharp-stream.com/icecast.php?i=midwestfmie2.aac'
     codec: AAC

@@ -25,6 +25,8 @@ clickcount: 5
 geo_lat: 37.997
 geo_long: 23.715
 curation: 0.65
+provenance:
+  - radiobrowser-3bd46a05-e589-4263-8eb9-680e45400947
 streams:
   - url: 'https://blueswave.radio:8100/hifiblues'
     codec: AAC

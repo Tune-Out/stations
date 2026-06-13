@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-9628e108-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'https://streaming.radiostreamlive.com/radioitalianmusic_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E'
     codec: AAC+

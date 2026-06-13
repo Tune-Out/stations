@@ -22,6 +22,8 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-ecc988d8-94ff-11e8-a767-52543be04c81
 streams:
   - url: 'https://stream.darkedge.ro:8002/stream/4/'
     codec: AAC+

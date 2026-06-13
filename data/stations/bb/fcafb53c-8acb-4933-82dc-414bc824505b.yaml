@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-fcafb53c-8acb-4933-82dc-414bc824505b
 streams:
   - url: 'https://s20.reliastream.com:8178/stream'
     codec: MP3

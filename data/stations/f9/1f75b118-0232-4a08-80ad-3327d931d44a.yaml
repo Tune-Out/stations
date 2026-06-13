@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-1f75b118-0232-4a08-80ad-3327d931d44a
 streams:
   - url: 'http://stream.u2radio.com:9998/'
     codec: MP3

@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: 53.41759436497691
 geo_long: -3.046774864196778
 curation: -0.05
+provenance:
+  - radiobrowser-45238bcb-baf4-457b-8a22-cbf2f3fc8c41
 streams:
   - url: 'http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/2AHQ'
     codec: MP3

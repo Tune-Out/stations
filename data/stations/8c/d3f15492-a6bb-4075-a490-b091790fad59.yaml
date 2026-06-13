@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-d3f15492-a6bb-4075-a490-b091790fad59
 streams:
   - url: 'https://server7.streamserver24.com:61424/stream'
     codec: MP3

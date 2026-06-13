@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-93f89dcb-de2c-11e9-a8ba-52543be04c81
 streams:
   - url: 'http://stream.rtlradio.de/rtl-de-national/aac-64'
     codec: AAC

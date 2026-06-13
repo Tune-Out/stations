@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: 48.14012384848098
 geo_long: 11.56788516771057
 curation: 0.50
+provenance:
+  - radiobrowser-4df0096a-359b-49d9-ae1c-ec9bf675c6a3
 streams:
   - url: 'http://stream.radiomuenchen.net:8000/rm64.ogg'
     codec: OGG

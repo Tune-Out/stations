@@ -26,6 +26,8 @@ clickcount: 5
 geo_lat: 43.644785145738815
 geo_long: -79.38799023628236
 curation: 0.55
+provenance:
+  - radiobrowser-278df5f8-6b73-4254-a8df-07c62e07da8b
 streams:
   - url: 'https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8'
     codec: AAC

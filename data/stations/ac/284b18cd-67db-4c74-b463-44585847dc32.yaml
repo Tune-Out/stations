@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-284b18cd-67db-4c74-b463-44585847dc32
 streams:
   - url: 'https://consolestream.rkzrm.cn:20323/0.m3u8'
     codec: UNKNOWN

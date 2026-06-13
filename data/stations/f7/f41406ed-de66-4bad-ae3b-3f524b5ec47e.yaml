@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: 44.63720190331109
 geo_long: 0.7432079315185547
 curation: -0.05
+provenance:
+  - radiobrowser-f41406ed-de66-4bad-ae3b-3f524b5ec47e
 streams:
   - url: 'http://direct.radio4.fr:8000/radio4.mp3'
     codec: MP3

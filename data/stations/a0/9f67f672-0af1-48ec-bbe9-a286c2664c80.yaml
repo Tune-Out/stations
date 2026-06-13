@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-9f67f672-0af1-48ec-bbe9-a286c2664c80
 streams:
   - url: 'https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=8386&type=s1'
     codec: MP3

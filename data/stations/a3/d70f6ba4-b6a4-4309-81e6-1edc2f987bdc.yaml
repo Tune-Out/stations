@@ -25,6 +25,8 @@ clickcount: 15
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-d70f6ba4-b6a4-4309-81e6-1edc2f987bdc
 streams:
   - url: 'https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8'
     codec: AAC+

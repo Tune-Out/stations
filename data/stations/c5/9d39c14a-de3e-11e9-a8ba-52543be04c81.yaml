@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-9d39c14a-de3e-11e9-a8ba-52543be04c81
 streams:
   - url: 'http://internetradio.salue.de:8000/salue.aac'
     codec: AAC+

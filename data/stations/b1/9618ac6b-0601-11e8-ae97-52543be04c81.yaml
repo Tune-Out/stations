@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 42.6977
 geo_long: 23.3219
 curation: -0.05
+provenance:
+  - radiobrowser-9618ac6b-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://stream-bg-01.radiotangra.com:8000/Tangra.ogg'
     codec: OGG

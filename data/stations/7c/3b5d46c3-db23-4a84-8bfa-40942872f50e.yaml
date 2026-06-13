@@ -27,6 +27,8 @@ clickcount: 2
 geo_lat: 29.097806732527975
 geo_long: -110.97135543823244
 curation: -0.10
+provenance:
+  - radiobrowser-3b5d46c3-db23-4a84-8bfa-40942872f50e
 streams:
   - url: 'https://streamingcwsradio30.com:7027/stream?type=http&nocache=1'
     codec: MP3

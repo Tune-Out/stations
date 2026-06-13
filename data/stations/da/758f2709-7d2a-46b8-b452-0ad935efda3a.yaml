@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.80
+provenance:
+  - radiobrowser-758f2709-7d2a-46b8-b452-0ad935efda3a
 streams:
   - url: 'https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio'
     codec: MP3

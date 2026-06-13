@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-bb5e0799-ae3f-4cdb-9c60-ffe5a61791dc
 streams:
   - url: 'http://live.powerhitz.com/country?aw_0_req.gdpr=true'
     codec: MP3

@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.65
+provenance:
+  - radiobrowser-7e3e50e0-f32f-4ce9-81e5-a32aebb489da
 streams:
   - url: 'https://st02.sslstream.dlf.de/dlf/02/low/aac/stream.aac?aggregator=web'
     codec: AAC

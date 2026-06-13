@@ -24,6 +24,8 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-9611ca6a-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://stream.escradio.com:8030/'
     codec: MP3

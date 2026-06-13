@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: -37.68903678658054
 geo_long: 176.1404101388368
 curation: 0.25
+provenance:
+  - radiobrowser-8fb48975-d64f-4d36-b2b8-d27b877cb317
 streams:
   - url: 'https://s2.stationplaylist.com:9000/gaiafm.aac'
     codec: AAC+

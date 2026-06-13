@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-4f525743-db20-11e9-a8ba-52543be04c81
 streams:
   - url: 'http://funkturm.radio-zusa.net:8000/ogg'
     codec: OGG

@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-f21b4940-2b6e-4436-b30f-fe16ce46f15a
 streams:
   - url: 'https://stream.xradio.com.tr:8770/stream'
     codec: AAC+

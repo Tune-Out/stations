@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-f33d5e1c-6135-11ea-be63-52543be04c81
 streams:
   - url: 'https://us3new.listen2myradio.com:2199/listen.php?port=8117&type=s2&mount=/1?ver=174991'
     codec: MP3

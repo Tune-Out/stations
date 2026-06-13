@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
 curation: 0.55
+provenance:
+  - radiobrowser-4aee1c0d-a73c-45ed-9a94-fabb71d038b3
 streams:
   - url: 'https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.aac?quality=10'
     codec: AAC

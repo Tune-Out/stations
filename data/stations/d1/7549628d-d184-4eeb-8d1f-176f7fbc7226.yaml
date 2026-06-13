@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-7549628d-d184-4eeb-8d1f-176f7fbc7226
 streams:
   - url: 'http://eagle.streemlion.com:4040/listen.pls?sid=1'
     url_resolved: 'http://eagle.streemlion.com:4040/stream'

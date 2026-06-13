@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: 45.54780693813665
 geo_long: 13.730313777923584
 curation: 0.35
+provenance:
+  - radiobrowser-06cb136d-a09b-4eac-adbe-e3578e5f5527
 streams:
   - url: 'http://stream02.exit.si:8000/EXYU?'
     codec: MP3

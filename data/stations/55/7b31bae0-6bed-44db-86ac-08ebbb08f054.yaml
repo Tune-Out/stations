@@ -27,6 +27,8 @@ clickcount: 0
 geo_lat: 19.24434646955357
 geo_long: -103.72698783874512
 curation: -0.10
+provenance:
+  - radiobrowser-7b31bae0-6bed-44db-86ac-08ebbb08f054
 streams:
   - url: 'https://ss1.audiorama.com.mx:6670/stream'
     codec: MP3

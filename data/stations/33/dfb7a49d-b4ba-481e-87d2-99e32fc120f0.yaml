@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-dfb7a49d-b4ba-481e-87d2-99e32fc120f0
 streams:
   - url: 'https://dalesradio.radioca.st:2199/tunein/dalesradio-stream.pls'
     url_resolved: 'http://176.9.76.61:8168/stream'

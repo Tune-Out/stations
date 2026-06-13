@@ -22,6 +22,8 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 curation: 0.65
+provenance:
+  - radiobrowser-6ebbea93-0ba5-441b-8fbc-51c586d361e3
 streams:
   - url: 'https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3'
     codec: MP3

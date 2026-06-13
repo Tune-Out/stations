@@ -23,6 +23,8 @@ clickcount: 2
 geo_lat: 43.67140963227334
 geo_long: -79.37995970249177
 curation: -0.05
+provenance:
+  - radiobrowser-6a38a4f5-3c66-413e-b3e2-33d0b1420e0a
 streams:
   - url: 'https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8'
     codec: AAC+

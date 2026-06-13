@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 24.80224521878665
 geo_long: -107.3932456970215
 curation: -0.05
+provenance:
+  - radiobrowser-15696ffb-41b3-446f-b784-83f69fdd3040
 streams:
   - url: 'https://icy.gvstream.live/gpm-cq.aac'
     codec: AAC+

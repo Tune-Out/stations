@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: 49.58773775196351
 geo_long: 10.97275346517563
 curation: 0.35
+provenance:
+  - radiobrowser-b4d62a43-8890-4d3b-aead-55fbf2d5773d
 streams:
   - url: 'https://streaming.funklust.de:8443/heaac'
     codec: AAC+

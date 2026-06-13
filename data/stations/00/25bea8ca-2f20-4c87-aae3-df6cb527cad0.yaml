@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-25bea8ca-2f20-4c87-aae3-df6cb527cad0
 streams:
   - url: 'https://servidor39.brlogic.com:8624/live'
     codec: MP3

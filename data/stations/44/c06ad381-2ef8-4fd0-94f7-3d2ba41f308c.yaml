@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-c06ad381-2ef8-4fd0-94f7-3d2ba41f308c
 streams:
   - url: 'http://primarystream.sleepbot.com:8218/seb'
     codec: MP3

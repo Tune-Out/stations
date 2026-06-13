@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-e806e30f-bade-43a4-b9ab-e14230ef50de
 streams:
   - url: 'http://185.11.164.106:35022/stream?type=mp3'
     codec: MP3

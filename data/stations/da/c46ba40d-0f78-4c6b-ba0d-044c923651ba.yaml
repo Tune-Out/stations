@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-c46ba40d-0f78-4c6b-ba0d-044c923651ba
 streams:
   - url: 'https://i2.streams.ovh:7050/live'
     codec: MP3

@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-834c3206-1e03-47ff-88c6-50d38ca3e030
 streams:
   - url: 'https://streaming.exclusive.radio/uber/easyandreabocelli/icecast.audio'
     codec: MP3

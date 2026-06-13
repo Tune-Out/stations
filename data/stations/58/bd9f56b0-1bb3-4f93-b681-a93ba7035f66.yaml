@@ -25,6 +25,8 @@ clickcount: 1
 geo_lat: 55.73875690759414
 geo_long: 37.59246826171876
 curation: -0.05
+provenance:
+  - radiobrowser-bd9f56b0-1bb3-4f93-b681-a93ba7035f66
 streams:
   - url: 'https://icecast-mirtv.cdnvideo.ru/radio_mir4_256'
     codec: AAC+

@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-4a9431fb-f5a1-4c4a-ae3c-42bab47bca2f
 streams:
   - url: 'http://test.taiwan-radio.tw:8000/TN.AM1071'
     codec: MP3

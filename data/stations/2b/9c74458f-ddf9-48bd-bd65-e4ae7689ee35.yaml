@@ -26,6 +26,8 @@ clickcount: 11
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-9c74458f-ddf9-48bd-bd65-e4ae7689ee35
 streams:
   - url: 'http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8'
     codec: UNKNOWN

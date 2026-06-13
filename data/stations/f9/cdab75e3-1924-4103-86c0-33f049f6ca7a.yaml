@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-cdab75e3-1924-4103-86c0-33f049f6ca7a
 streams:
   - url: 'https://popradio.stweb.tv/popradio/live/playlist.m3u8'
     codec: AAC

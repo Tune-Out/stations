@@ -24,6 +24,8 @@ clickcount: 3
 geo_lat: 48.86783140807123
 geo_long: 2.3006057739257817
 curation: 0.65
+provenance:
+  - radiobrowser-7fdf8122-e85d-4f4e-9f88-11e8664eee2b
 streams:
   - url: 'http://radio-metadata.fr:8000/francemusique'
     codec: AAC

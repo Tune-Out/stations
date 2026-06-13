@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 51.08109722295784
 geo_long: 13.728821983591123
 curation: 0.35
+provenance:
+  - radiobrowser-8ca379b8-85ce-4e76-af2f-319b41a527ad
 streams:
   - url: 'http://streaming.fueralle.org:8000/coloradio_160.mp3.m3u'
     url_resolved: 'http://streaming.fueralle.org:8000/coloradio_160.mp3'

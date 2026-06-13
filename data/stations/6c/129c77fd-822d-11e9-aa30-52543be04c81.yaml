@@ -23,6 +23,8 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-129c77fd-822d-11e9-aa30-52543be04c81
 streams:
   - url: 'http://31.192.216.7:8000/radio_gra'
     codec: MP3

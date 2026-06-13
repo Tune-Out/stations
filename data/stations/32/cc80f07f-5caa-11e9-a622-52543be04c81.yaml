@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-cc80f07f-5caa-11e9-a622-52543be04c81
 streams:
   - url: 'https://streamingecuador.net:8135/radioelite.m3u'
     url_resolved: 'https://streamingecuador.net:8135/radioelite'

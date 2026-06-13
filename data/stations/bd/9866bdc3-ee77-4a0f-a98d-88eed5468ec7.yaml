@@ -22,6 +22,8 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-9866bdc3-ee77-4a0f-a98d-88eed5468ec7
 streams:
   - url: 'http://stream.erf.de/erfplus_s.m3u'
     url_resolved: 'https://stream.erfplus.de/erf-1a64/aac-64?ar-distributor=ffa5'

@@ -23,6 +23,8 @@ clickcount: 5
 geo_lat: 56.45458959111108
 geo_long: 10.038917369784032
 curation: -0.05
+provenance:
+  - radiobrowser-16e4f32b-81d3-42e5-b6ac-38a15ef148f1
 streams:
   - url: 'https://radioserver.dk/abc'
     codec: MP3

@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-c9702714-5c7d-460d-a215-83dbd0a18234
 streams:
   - url: 'https://i6.streams.ovh:2200/ssl/jadore?mp=%2Fstream'
     codec: MP3

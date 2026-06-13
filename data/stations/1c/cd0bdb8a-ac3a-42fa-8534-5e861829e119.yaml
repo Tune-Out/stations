@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-cd0bdb8a-ac3a-42fa-8534-5e861829e119
 streams:
   - url: 'https://radio-loud-fm.mbc.net/radio-loud-fm.m3u8'
     codec: AAC+

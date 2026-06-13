@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-8996a646-657b-4c4d-a5ef-270c945ac302
 streams:
   - url: 'http://streams.rsa-sachsen.de/rsa-beatles/aac-64/mediaplayerrsa'
     codec: AAC

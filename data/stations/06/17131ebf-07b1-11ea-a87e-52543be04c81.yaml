@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-17131ebf-07b1-11ea-a87e-52543be04c81
 streams:
   - url: 'https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio'
     codec: AAC+

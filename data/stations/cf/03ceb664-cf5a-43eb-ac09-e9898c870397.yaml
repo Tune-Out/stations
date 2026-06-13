@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: 52.3053
 geo_long: 9.4508
 curation: 0.50
+provenance:
+  - radiobrowser-03ceb664-cf5a-43eb-ac09-e9898c870397
 streams:
   - url: 'https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus'
     codec: OGG

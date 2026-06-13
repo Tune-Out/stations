@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-873cafa6-77ee-46da-9220-c934cf5a8b72
 streams:
   - url: 'http://sa47.scastream.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8'
     codec: AAC

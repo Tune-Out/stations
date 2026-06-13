@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-b611042e-37e6-4d50-8e99-cfd4d495b602
 streams:
   - url: 'https://st1.urbanrevolution.es:8445/flow'
     codec: AAC

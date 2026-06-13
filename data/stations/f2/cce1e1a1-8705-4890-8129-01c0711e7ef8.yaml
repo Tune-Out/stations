@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-cce1e1a1-8705-4890-8129-01c0711e7ef8
 streams:
   - url: 'https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8'
     codec: UNKNOWN

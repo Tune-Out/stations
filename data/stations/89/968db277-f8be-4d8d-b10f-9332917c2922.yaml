@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-968db277-f8be-4d8d-b10f-9332917c2922
 streams:
   - url: 'https://kibo.fm/kibo.m3u'
     url_resolved: 'http://listen.kibo.fm:8000/kibofm'

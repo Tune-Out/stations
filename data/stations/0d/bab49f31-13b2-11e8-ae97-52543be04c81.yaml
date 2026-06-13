@@ -23,6 +23,8 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-bab49f31-13b2-11e8-ae97-52543be04c81
 streams:
   - url: 'http://icecast.omroep.nl/3fm-bb-aac'
     codec: AAC

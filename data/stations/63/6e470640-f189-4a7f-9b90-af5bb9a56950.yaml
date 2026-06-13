@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-6e470640-f189-4a7f-9b90-af5bb9a56950
 streams:
   - url: 'https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8'
     codec: AAC

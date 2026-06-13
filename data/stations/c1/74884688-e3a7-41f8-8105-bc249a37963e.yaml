@@ -31,6 +31,8 @@ clickcount: 12
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-74884688-e3a7-41f8-8105-bc249a37963e
 streams:
   - url: 'http://s1.yumicoradio.net:8000/stream_aac64'
     codec: AAC

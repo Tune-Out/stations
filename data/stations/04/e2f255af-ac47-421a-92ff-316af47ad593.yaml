@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-e2f255af-ac47-421a-92ff-316af47ad593
 streams:
   - url: 'https://radio3.radio-calico.com:8443/calico'
     codec: OGG

@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.65
+provenance:
+  - radiobrowser-9c098562-b426-4923-9aa7-2106de482183
 streams:
   - url: 'https://nl4.mystreaming.net/er/peteseeger/icecast.audio'
     codec: MP3

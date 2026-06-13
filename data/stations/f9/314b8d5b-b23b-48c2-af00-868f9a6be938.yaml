@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-314b8d5b-b23b-48c2-af00-868f9a6be938
 streams:
   - url: 'http://icecast.902.gr:8000/904'
     codec: MP3

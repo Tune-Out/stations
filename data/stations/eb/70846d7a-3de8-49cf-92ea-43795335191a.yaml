@@ -25,6 +25,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-70846d7a-3de8-49cf-92ea-43795335191a
 streams:
   - url: 'http://stream.radiomelodia.com.pe:8000/radio.mp3'
     codec: MP3

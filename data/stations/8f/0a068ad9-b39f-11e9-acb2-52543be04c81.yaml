@@ -23,6 +23,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-0a068ad9-b39f-11e9-acb2-52543be04c81
 streams:
   - url: 'http://www.rdl.de:8000/rdl.m3u'
     url_resolved: 'http://www.rdl.de:8000/rdl'

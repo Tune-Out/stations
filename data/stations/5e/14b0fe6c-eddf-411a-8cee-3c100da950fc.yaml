@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-14b0fe6c-eddf-411a-8cee-3c100da950fc
 streams:
   - url: 'http://79.111.14.76:8000/drumbass'
     codec: AAC+

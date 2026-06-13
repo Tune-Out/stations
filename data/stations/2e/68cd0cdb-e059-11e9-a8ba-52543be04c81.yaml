@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-68cd0cdb-e059-11e9-a8ba-52543be04c81
 streams:
   - url: 'http://stream.antenne1.de/a1hn/livestream1.aac'
     codec: AAC

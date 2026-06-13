@@ -23,6 +23,8 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-1ccd15b1-89f7-4dcc-8fd6-533896cd6251
 streams:
   - url: 'http://s3.yesstreaming.net:7011/radio'
     codec: MP3

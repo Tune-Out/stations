@@ -24,6 +24,8 @@ clickcount: 241
 geo_lat: 40.75166
 geo_long: -73.97538
 curation: 0.90
+provenance:
+  - radiobrowser-ea8059be-d119-4de3-b27b-0d9bd6aedb17
 streams:
   - url: 'https://icecast.walmradio.com:8443/jazz_opus'
     codec: OGG

@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 51.34247824632143
 geo_long: 5.108546018600465
 curation: -0.05
+provenance:
+  - radiobrowser-42f795dc-e6e7-4f2c-8f5b-0f904b221ba6
 streams:
   - url: 'http://antares.dribbcast.com:4438/xstream?type=http&nocache=874'
     codec: MP3

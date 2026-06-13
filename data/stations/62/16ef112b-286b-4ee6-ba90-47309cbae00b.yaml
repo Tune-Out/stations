@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-16ef112b-286b-4ee6-ba90-47309cbae00b
 streams:
   - url: 'http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/radio_russia/index.m3u8'
     codec: AAC

@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-b151c8cb-b919-4c8d-860e-56a641cedc0b
 streams:
   - url: 'http://sa46.scastream.com.au/live/7indieandalternative_128.stream/playlist.m3u8'
     codec: AAC

@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-4dcc8231-f338-4b7b-b1a2-bcdf725e59a3
 streams:
   - url: 'http://ic6.101.ru:8000/stream/pro/aac/64/35'
     codec: AAC+

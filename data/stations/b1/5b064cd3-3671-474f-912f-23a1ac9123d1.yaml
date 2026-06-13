@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 52.371
 geo_long: 5.222
 curation: 0.35
+provenance:
+  - radiobrowser-5b064cd3-3671-474f-912f-23a1ac9123d1
 streams:
   - url: 'https://video.fzo.nu/live.m3u8'
     codec: AAC

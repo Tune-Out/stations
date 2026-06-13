@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-15273c4e-b927-4872-84ac-8130f794da54
 streams:
   - url: 'https://s3.slotex.pl/shoutcast/7008/stream?sid=1'
     codec: MP3

@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-40dae759-35ad-4007-945c-45c0e64d2460
 streams:
   - url: 'http://streams.planetradio.de/planetradio/mp3/hqlivestream.m3u'
     url_resolved: 'http://mp3.planetradio.de/planetradio/hqlivestream.mp3'

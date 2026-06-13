@@ -21,6 +21,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-f1d6ed46-1ee2-46ff-9223-f3a985f6d20e
 streams:
   - url: 'http://radios.topymedia.com:8000/stream/;.mp3'
     codec: MP3

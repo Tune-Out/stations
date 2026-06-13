@@ -23,6 +23,8 @@ clickcount: 25
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-3653b75c-0116-11ea-bbf2-52543be04c81
 streams:
   - url: 'http://cast.magicstreams.gr:9125/stream'
     codec: MP3

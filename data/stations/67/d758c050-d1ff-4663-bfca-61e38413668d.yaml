@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-d758c050-d1ff-4663-bfca-61e38413668d
 streams:
   - url: 'https://ssl-1.radiohost.pl:9563/stream?ver=987766'
     codec: MP3

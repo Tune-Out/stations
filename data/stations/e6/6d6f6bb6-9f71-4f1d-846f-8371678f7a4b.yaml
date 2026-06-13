@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.60
+provenance:
+  - radiobrowser-6d6f6bb6-9f71-4f1d-846f-8371678f7a4b
 streams:
   - url: 'http://stream.erf.at:8000/erfplus_320'
     codec: MP3

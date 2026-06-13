@@ -20,6 +20,8 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-0b71e546-8bb4-4677-ac1c-5f081344f377
 streams:
   - url: 'http://streams.radiobob.de/bob-live/aac-64/mediaplayer'
     codec: AAC

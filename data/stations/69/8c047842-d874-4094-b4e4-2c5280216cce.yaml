@@ -27,6 +27,8 @@ clickcount: 1
 geo_lat: 52.28874259702591
 geo_long: 13.46923828125
 curation: 0.35
+provenance:
+  - radiobrowser-8c047842-d874-4094-b4e4-2c5280216cce
 streams:
   - url: 'https://dunkelhost.com:7800/stream'
     codec: MP3

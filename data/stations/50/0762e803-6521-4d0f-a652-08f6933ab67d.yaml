@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-0762e803-6521-4d0f-a652-08f6933ab67d
 streams:
   - url: 'http://live.yarravalleyfm.org.au:8080/stream'
     codec: MP3

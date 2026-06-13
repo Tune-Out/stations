@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-d275d2f3-f918-4f0a-9f12-30fbe098228f
 streams:
   - url: 'http://streamnavs.net:8147/live'
     codec: AAC+

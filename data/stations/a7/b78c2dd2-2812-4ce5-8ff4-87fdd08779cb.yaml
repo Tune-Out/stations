@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 51.998410382390325
 geo_long: 4.306640625000001
 curation: 0.35
+provenance:
+  - radiobrowser-b78c2dd2-2812-4ce5-8ff4-87fdd08779cb
 streams:
   - url: 'https://loa.beheerstream.nl:8012/stream'
     codec: MP3

@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-ceddaaf9-e322-4ceb-a3e9-d2025f9f9747
 streams:
   - url: 'http://live.itsybitsy.ro:8000/itsybitsy'
     codec: AAC+

@@ -22,6 +22,8 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-961266af-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'https://mdr-radio-hls.akamaized.net/hls/live/2112899/mdr-284300-1-hls/index.m3u8'
     codec: AAC

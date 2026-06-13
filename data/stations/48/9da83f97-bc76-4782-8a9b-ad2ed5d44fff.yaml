@@ -22,6 +22,8 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-9da83f97-bc76-4782-8a9b-ad2ed5d44fff
 streams:
   - url: 'https://hlshr4.akamaized.net/hls/live/2016537/hr4rheinmain/master.m3u8'
     codec: AAC

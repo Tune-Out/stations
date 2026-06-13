@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-c51511eb-f84d-47aa-ad64-450c18c0855d
 streams:
   - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01.mp3'
     codec: MP3

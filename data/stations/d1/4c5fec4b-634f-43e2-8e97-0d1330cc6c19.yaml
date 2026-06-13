@@ -24,6 +24,8 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-4c5fec4b-634f-43e2-8e97-0d1330cc6c19
 streams:
   - url: 'https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8'
     codec: AAC

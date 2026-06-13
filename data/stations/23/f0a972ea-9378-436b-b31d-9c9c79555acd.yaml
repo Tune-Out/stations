@@ -26,6 +26,8 @@ clickcount: 1
 geo_lat: 51.66219928277666
 geo_long: -0.40566868128393946
 curation: 0.35
+provenance:
+  - radiobrowser-f0a972ea-9378-436b-b31d-9c9c79555acd
 streams:
   - url: 'http://91.232.4.33:9454/stream'
     codec: MP3

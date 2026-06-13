@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: -19.57919959820753
 geo_long: -43.54980468750001
 curation: 0.35
+provenance:
+  - radiobrowser-dccc4010-9c0a-489b-a216-d47df5e4bafd
 streams:
   - url: 'http://euroticast5.euroti.com.br:8110/stream'
     codec: MP3

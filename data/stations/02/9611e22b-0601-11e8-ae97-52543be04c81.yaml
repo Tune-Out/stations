@@ -22,6 +22,8 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-9611e22b-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://stream.trendyradio.pl:8000/h'
     codec: MP3

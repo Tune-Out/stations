@@ -21,6 +21,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-bc59bb52-9386-4c3d-a2bf-782756bea3fa
 streams:
   - url: 'https://streaming.hotmixradio.com/hotmix-metal-en-mp3?provider=radiobrowser'
     codec: MP3

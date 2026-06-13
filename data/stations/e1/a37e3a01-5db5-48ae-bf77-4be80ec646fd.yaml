@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: 53.86532353695558
 geo_long: -2.3908996582031254
 curation: 0.35
+provenance:
+  - radiobrowser-a37e3a01-5db5-48ae-bf77-4be80ec646fd
 streams:
   - url: 'http://uksouth.streaming.broadcast.radio:15280/ribblefm.m3u'
     url_resolved: 'http://uksouth.streaming.broadcast.radio:15280/ribblefm'

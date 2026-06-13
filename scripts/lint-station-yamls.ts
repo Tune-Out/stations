@@ -74,7 +74,7 @@ const ALLOWED_KEYS = new Set([
   'language', 'languagecodes',
   'votes', 'codec', 'bitrate', 'hls', 'lastcheckok', 'lastchangetime',
   'clickcount', 'geo_lat', 'geo_long',
-  'curation', 'duplicate_of', 'streams',
+  'curation', 'duplicate_of', 'streams', 'provenance',
   'localized', 'research',
 ]);
 

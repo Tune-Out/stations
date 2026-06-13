@@ -24,6 +24,8 @@ clickcount: 200
 geo_lat: 48.85273757048368
 geo_long: 2.2784185409545903
 curation: 0.60
+provenance:
+  - radiobrowser-ab6a33e5-e8b5-4cf4-bfb7-ec0ae779cb7c
 streams:
   - url: 'https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8'
     codec: UNKNOWN

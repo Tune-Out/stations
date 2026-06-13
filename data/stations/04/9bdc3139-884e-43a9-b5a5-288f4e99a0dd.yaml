@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-9bdc3139-884e-43a9-b5a5-288f4e99a0dd
 streams:
   - url: 'https://vriezenet.nl:11050/flac'
     codec: OGG

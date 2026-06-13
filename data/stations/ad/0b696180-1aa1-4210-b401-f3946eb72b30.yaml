@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-0b696180-1aa1-4210-b401-f3946eb72b30
 streams:
   - url: 'https://servidor36-4.brlogic.com:8474/live?source=website'
     codec: AAC+

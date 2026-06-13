@@ -20,6 +20,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-3e76a9ff-e2e9-48b9-a3b6-e13fc64aae2f
 streams:
   - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac'
     codec: AAC+

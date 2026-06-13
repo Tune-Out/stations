@@ -26,6 +26,8 @@ clickcount: 1
 geo_lat: 19.541958161863032
 geo_long: -96.91529273986818
 curation: -0.05
+provenance:
+  - radiobrowser-392182c8-e000-4392-89ed-b3e174791919
 streams:
   - url: 'http://sss.cnwks.ws:8322/stream?type=http&nocache=11558'
     codec: MP3

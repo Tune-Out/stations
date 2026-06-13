@@ -23,6 +23,8 @@ clickcount: 214
 geo_lat: 40.75166
 geo_long: -73.97538
 curation: 0.85
+provenance:
+  - radiobrowser-313046e3-b203-4b9d-bc3e-393da7d97126
 streams:
   - url: 'https://icecast.walmradio.com:8443/walm'
     codec: MP3

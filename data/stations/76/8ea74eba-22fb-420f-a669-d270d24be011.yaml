@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: -23.02807736189581
 geo_long: -45.562577591184066
 curation: -0.05
+provenance:
+  - radiobrowser-8ea74eba-22fb-420f-a669-d270d24be011
 streams:
   - url: 'http://server02.ouvir.radio.br:8050/stream'
     codec: AAC

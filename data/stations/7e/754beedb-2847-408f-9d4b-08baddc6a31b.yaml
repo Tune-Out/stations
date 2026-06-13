@@ -27,6 +27,8 @@ clickcount: 3
 geo_lat: 52.22978313826928
 geo_long: 21.00618095244955
 curation: -0.10
+provenance:
+  - radiobrowser-754beedb-2847-408f-9d4b-08baddc6a31b
 streams:
   - url: 'https://streaming.g-news.pl:8090/kissfm'
     codec: AAC

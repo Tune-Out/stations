@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
 curation: 0.65
+provenance:
+  - radiobrowser-c46d0c88-c69d-4b6e-82a3-6c9e67b517a1
 streams:
   - url: 'https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.aac?quality=1'
     codec: AAC

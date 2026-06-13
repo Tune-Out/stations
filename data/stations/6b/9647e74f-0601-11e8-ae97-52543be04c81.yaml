@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-9647e74f-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://listen.radiogora.ru:8000/rednoise128'
     codec: MP3

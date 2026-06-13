@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 48.08088877008981
 geo_long: 0.0439453125
 curation: 0.35
+provenance:
+  - radiobrowser-2b33b33e-cc07-4f22-ae3e-a88ad8aff53a
 streams:
   - url: 'https://rpstrm.pistache.org:9443/pistache.aac'
     codec: AAC+

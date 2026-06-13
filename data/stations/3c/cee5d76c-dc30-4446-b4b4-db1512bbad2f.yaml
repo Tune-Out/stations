@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: 33.88978324405087
 geo_long: 35.538534812524915
 curation: 0.35
+provenance:
+  - radiobrowser-cee5d76c-dc30-4446-b4b4-db1512bbad2f
 streams:
   - url: 'https://vovan.s3ming.com/vovan.aac'
     codec: MP3

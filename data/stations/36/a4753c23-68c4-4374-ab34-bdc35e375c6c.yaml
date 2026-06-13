@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-a4753c23-68c4-4374-ab34-bdc35e375c6c
 streams:
   - url: 'http://s3.radio.co/s8f8288fe9/low'
     codec: AAC

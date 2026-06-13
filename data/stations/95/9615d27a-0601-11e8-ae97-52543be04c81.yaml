@@ -24,6 +24,8 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 curation: 0.85
+provenance:
+  - radiobrowser-9615d27a-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8'
     codec: AAC

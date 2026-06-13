@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-ae251d8d-69a9-4528-9e1f-fc954d7c237c
 streams:
   - url: 'http://streaming.exclusive.radio/er/celinedionhits/icecast.audio'
     codec: MP3

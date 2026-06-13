@@ -25,6 +25,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-960cad57-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://streaming01.sr-online.de/sr2_2.m3u'
     url_resolved: 'http://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3?aggregator=custom1'

@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: -19.864300648811327
 geo_long: 47.03295886516572
 curation: 0.40
+provenance:
+  - radiobrowser-0060ae50-b810-4245-9a93-5365a03e0e0b
 streams:
   - url: 'https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1'
     codec: MP3

@@ -24,6 +24,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-7c6d8cee-8c48-4895-b960-8103f6373508
 streams:
   - url: 'https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8'
     codec: AAC

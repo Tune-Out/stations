@@ -73,18 +73,32 @@ export function escapeHtml(s: string): string {
 }
 
 /**
- * Render a string with a tiny safe subset of Markdown — currently just
- * backtick-delimited `inline code`. All other HTML is escaped first, so
- * a translator pasting `<script>` or stray `<` characters can't inject
- * markup. Use this for paragraph copy that contains a single keyword like
- * `localized:` or `src/foo.yaml` that should render in a code style.
+ * Render a string with a tiny safe subset of Markdown:
  *
- *   markdownInline("Edit the `localized:` block");
- *   // → 'Edit the <code>localized:</code> block'
+ *   `code`                → <code>code</code>
+ *   [label](https://x.y)  → <a href rel target="_blank">label</a>
+ *
+ * All other HTML is escaped first, so a translator pasting `<script>` or
+ * stray `<` characters can't inject markup. Link URLs are restricted to
+ * http(s) — anything else (javascript:, data:, etc.) is rendered as
+ * plain text so a malicious or buggy translation can't smuggle a URI
+ * scheme. Use this for paragraph copy that mixes a single keyword like
+ * `localized:` with external references.
+ *
+ *   markdownInline("See `localized:` in [the docs](https://example.com).");
+ *   // → 'See <code>localized:</code> in <a href="https://example.com" …>the docs</a>.'
  */
 export function markdownInline(s: string): string {
-  const escaped = escapeHtml(s);
-  return escaped.replace(/`([^`\n]+)`/g, '<code>$1</code>');
+  let out = escapeHtml(s);
+  // Links first so `code` inside link text still gets the code treatment
+  // after we recurse the inner replace.
+  out = out.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, label: string, href: string) => {
+    if (!/^https?:\/\//i.test(href)) return _;  // unsupported scheme — leave as text
+    return `<a href="${href}" target="_blank" rel="noopener noreferrer" data-external="true">${label}</a>`;
+  });
+  // Backtick code spans
+  out = out.replace(/`([^`\n]+)`/g, '<code>$1</code>');
+  return out;
 }
 
 /**

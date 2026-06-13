@@ -22,6 +22,8 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-23a4e727-bfcc-42ae-901e-53b003ccf66f
 streams:
   - url: 'http://opml.radiotime.com/Tune.ashx?id=s45169&formats=mp3'
     url_resolved: 'http://10233.cloudrad.io:9036/live'

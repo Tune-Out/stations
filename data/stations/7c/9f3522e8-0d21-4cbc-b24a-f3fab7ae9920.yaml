@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: -34.65223485371526
 geo_long: -58.67782294750214
 curation: -0.05
+provenance:
+  - radiobrowser-9f3522e8-0d21-4cbc-b24a-f3fab7ae9920
 streams:
   - url: 'https://cdn.instream.audio/:9069/stream'
     codec: AAC

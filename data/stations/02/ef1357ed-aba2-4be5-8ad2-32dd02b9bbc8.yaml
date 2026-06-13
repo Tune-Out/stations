@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 20.522890336993736
 geo_long: -99.89187955856325
 curation: -0.05
+provenance:
+  - radiobrowser-ef1357ed-aba2-4be5-8ad2-32dd02b9bbc8
 streams:
   - url: 'https://stream3.mexiserver.com:10167/stream?type=http&nocache=842;'
     codec: MP3

@@ -23,6 +23,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-d706cd02-0e85-4af3-87af-707ac3ad642d
 streams:
   - url: 'https://stream.antenne1.de/a1gp/livestream1.aac'
     codec: AAC

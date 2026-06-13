@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-c3ee4844-60b6-4e5c-b139-a545b4d629df
 streams:
   - url: 'https://ssl.radyoph.com:8010/onefm_legazpi'
     codec: MP3

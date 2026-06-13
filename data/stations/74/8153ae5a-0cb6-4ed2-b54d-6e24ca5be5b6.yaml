@@ -22,6 +22,8 @@ clickcount: 16
 geo_lat: 1.295374248016841
 geo_long: 103.79224330186848
 curation: 0.35
+provenance:
+  - radiobrowser-8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6
 streams:
   - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac'
     codec: AAC+

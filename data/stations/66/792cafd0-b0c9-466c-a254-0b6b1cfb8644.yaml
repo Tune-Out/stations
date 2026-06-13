@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.00
+provenance:
+  - radiobrowser-792cafd0-b0c9-466c-a254-0b6b1cfb8644
 streams:
   - url: 'http://176.58.122.60:8000/stream'
     codec: MP3

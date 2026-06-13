@@ -22,6 +22,8 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-af09ff77-4309-4808-8f78-171f939c2434
 streams:
   - url: 'https://noasrv.caster.fm:10034/stream'
     codec: MP3

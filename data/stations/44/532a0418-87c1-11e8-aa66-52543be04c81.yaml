@@ -22,6 +22,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-532a0418-87c1-11e8-aa66-52543be04c81
 streams:
   - url: 'https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac'
     codec: AAC

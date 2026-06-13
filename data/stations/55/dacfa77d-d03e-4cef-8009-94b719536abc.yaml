@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-dacfa77d-d03e-4cef-8009-94b719536abc
 streams:
   - url: 'https://stream.nmih.hu:4002/live.mp3'
     url_resolved: 'http://stream.nmih.hu:4000/live.mp3'

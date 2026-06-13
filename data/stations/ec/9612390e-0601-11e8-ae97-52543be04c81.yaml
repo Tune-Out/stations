@@ -24,6 +24,8 @@ clickcount: 25
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-9612390e-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_ki.m3u'
     url_resolved: 'http://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3'

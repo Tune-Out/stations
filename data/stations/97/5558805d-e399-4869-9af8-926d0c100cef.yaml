@@ -21,6 +21,8 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 curation: 0.25
+provenance:
+  - radiobrowser-5558805d-e399-4869-9af8-926d0c100cef
 streams:
   - url: 'http://pub0302.101.ru:8000/stream/air/aac/64/200'
     codec: AAC

@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-7d2f26fd-5c3b-4fbf-9219-e71b7246f0ca
 streams:
   - url: 'http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps'
     codec: AAC+

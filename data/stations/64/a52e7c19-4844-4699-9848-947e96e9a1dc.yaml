@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-a52e7c19-4844-4699-9848-947e96e9a1dc
 streams:
   - url: 'https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8'
     codec: AAC

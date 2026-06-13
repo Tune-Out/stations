@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-54663c94-5a9d-11e8-b0ce-52543be04c81
 streams:
   - url: 'http://radio8k.out.airtime.pro:8000/radio8k_a.m3u'
     url_resolved: 'http://radio8k.out.airtime.pro:8000/radio8k_a'

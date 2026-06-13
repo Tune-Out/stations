@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-960d03f9-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://stream.antennethueringen.de/live/mp3-192/'
     url_resolved: 'https://edge72.streamonkey.net/antthue-mitte?aggregator=rewrite/'

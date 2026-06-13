@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-91200ce0-a62d-43ec-b948-bde6789433e6
 streams:
   - url: 'https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8'
     codec: AAC

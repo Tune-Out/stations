@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-e4d9cbf4-29c8-49f1-a642-e2be978a7e83
 streams:
   - url: 'http://quincy.torontocast.com:2920/stream'
     codec: MP3

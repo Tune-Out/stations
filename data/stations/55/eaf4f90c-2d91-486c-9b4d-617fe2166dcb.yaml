@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-eaf4f90c-2d91-486c-9b4d-617fe2166dcb
 streams:
   - url: 'https://streaming.ticktock.radio/tt/2018/icecast.audio'
     url_resolved: 'https://nl4.mystreaming.net/tt/2018/icecast.audio'

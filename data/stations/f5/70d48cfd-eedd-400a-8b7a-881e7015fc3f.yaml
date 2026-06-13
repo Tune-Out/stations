@@ -23,6 +23,8 @@ clickcount: 30
 geo_lat: 44.440055810542525
 geo_long: 25.978875024965053
 curation: -0.05
+provenance:
+  - radiobrowser-70d48cfd-eedd-400a-8b7a-881e7015fc3f
 streams:
   - url: 'http://zuicast.digitalag.ro:9420/zu'
     codec: AAC+

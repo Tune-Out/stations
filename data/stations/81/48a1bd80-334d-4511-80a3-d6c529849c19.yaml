@@ -22,6 +22,8 @@ clickcount: 15
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-48a1bd80-334d-4511-80a3-d6c529849c19
 streams:
   - url: 'http://s3.we4stream.com:8045/liv'
     codec: MP3

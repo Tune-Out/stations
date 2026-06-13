@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-db701f14-c071-480e-982e-a87bed51781e
 streams:
   - url: 'http://drive.uber.radio/uber/crlucianopavarotti/icecast.audio'
     codec: MP3

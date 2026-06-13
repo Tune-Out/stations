@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-1028d7ff-d673-11e9-a861-52543be04c81
 streams:
   - url: 'https://stream.radiotop40.de/live/aac-64/'
     codec: AAC

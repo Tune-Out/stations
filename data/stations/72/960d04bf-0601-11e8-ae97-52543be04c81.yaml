@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-960d04bf-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'https://stream.antennethueringen.de/live/aac-64/'
     url_resolved: 'https://edge68.streamonkey.net/antthue-mitte?aggregator=rewrite/'

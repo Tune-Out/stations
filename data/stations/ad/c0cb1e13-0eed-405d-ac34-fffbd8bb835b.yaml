@@ -24,6 +24,8 @@ clickcount: 16
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-c0cb1e13-0eed-405d-ac34-fffbd8bb835b
 streams:
   - url: 'https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3?1728425642817&aggregator=web'
     codec: MP3

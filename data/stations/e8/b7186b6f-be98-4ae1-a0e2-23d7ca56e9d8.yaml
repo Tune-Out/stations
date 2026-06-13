@@ -20,6 +20,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-b7186b6f-be98-4ae1-a0e2-23d7ca56e9d8
 streams:
   - url: 'http://s7.yesstreaming.net:9000/stream'
     codec: MP3

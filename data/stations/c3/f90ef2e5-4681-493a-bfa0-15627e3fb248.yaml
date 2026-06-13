@@ -22,6 +22,8 @@ clickcount: 11
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-f90ef2e5-4681-493a-bfa0-15627e3fb248
 streams:
   - url: 'http://live.radiocafe.ro:8048/live.aac'
     codec: AAC+

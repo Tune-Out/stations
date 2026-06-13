@@ -22,6 +22,8 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-84485b3d-695c-405d-8d55-b5c0f7f78f2f
 streams:
   - url: 'http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8'
     codec: AAC

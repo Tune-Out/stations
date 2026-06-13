@@ -24,6 +24,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-3cb76cc7-fa20-4c22-b33c-5268a2437e38
 streams:
   - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/index.m3u8'
     codec: AAC

@@ -22,6 +22,8 @@ clickcount: 4
 geo_lat: 43.84479423061377
 geo_long: 18.381881117820743
 curation: -0.05
+provenance:
+  - radiobrowser-dae342d7-42ae-43bb-90ff-43450af4523f
 streams:
   - url: 'http://188.40.62.20:8004/stream'
     codec: MP3

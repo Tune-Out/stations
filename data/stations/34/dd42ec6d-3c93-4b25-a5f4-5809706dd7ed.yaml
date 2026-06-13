@@ -36,6 +36,8 @@ clickcount: 2
 geo_lat: 50.15390156923213
 geo_long: -5.08495330810547
 curation: 0.40
+provenance:
+  - radiobrowser-dd42ec6d-3c93-4b25-a5f4-5809706dd7ed
 streams:
   - url: 'http://live.canstream.co.uk:8000/sourcefm.mp3'
     codec: MP3

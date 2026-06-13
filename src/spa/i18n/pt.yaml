@@ -331,9 +331,9 @@ strings:
   # About section heading — where the data comes from.
   # English: Where the data comes from
   about.data.title: De onde vêm os dados
-  # About body — where the data comes from.
-  # English: Station metadata comes from a variety of public domain and free data sources, such as wikipedia.org and radio-browser.info.
-  about.data.body: Os metadados das estações vêm de diversas fontes de domínio público e livres, como wikipedia.org e radio-browser.info.
+  # About body — where the data comes from. Supports markdown links `[label](https://…)` and backtick code spans; other HTML is escaped.
+  # English: Station metadata comes from a variety of public domain and free data sources, such as [wikipedia.org](https://wikipedia.org), [radio-browser.info](https://www.radio-browser.info), and [IPRD - International Public Radio Directory](https://iprd-org.github.io/iprd/).
+  about.data.body: Os metadados das estações vêm de diversas fontes de domínio público e livres, como [wikipedia.org](https://wikipedia.org), [radio-browser.info](https://www.radio-browser.info) e [IPRD - International Public Radio Directory](https://iprd-org.github.io/iprd/).
   # About section heading — license.
   # English: License
   about.license.title: Licença

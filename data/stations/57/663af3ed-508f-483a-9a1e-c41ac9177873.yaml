@@ -23,6 +23,8 @@ clickcount: 2
 geo_lat: 53.89940263011331
 geo_long: 27.55577087402344
 curation: -0.10
+provenance:
+  - radiobrowser-663af3ed-508f-483a-9a1e-c41ac9177873
 streams:
   - url: 'https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio'
     codec: AAC+

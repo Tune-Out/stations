@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: 48.858751930329305
 geo_long: 2.3483276367187504
 curation: 0.75
+provenance:
+  - radiobrowser-e1478db1-42ee-4282-8817-451a73c3ee8f
 streams:
   - url: 'https://icecast.radiofrance.fr/franceinterlamusiqueinter-hifi.aac'
     codec: AAC

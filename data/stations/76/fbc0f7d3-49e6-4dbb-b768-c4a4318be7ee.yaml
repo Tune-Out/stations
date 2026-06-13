@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: 50.08771247392901
 geo_long: 14.421046972274782
 curation: 0.35
+provenance:
+  - radiobrowser-fbc0f7d3-49e6-4dbb-b768-c4a4318be7ee
 streams:
   - url: 'https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8'
     codec: AAC

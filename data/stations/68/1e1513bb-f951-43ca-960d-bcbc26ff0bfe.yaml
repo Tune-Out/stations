@@ -21,6 +21,8 @@ clickcount: 10
 geo_lat: 48.2980732
 geo_long: 14.3004329
 curation: 0.50
+provenance:
+  - radiobrowser-1e1513bb-f951-43ca-960d-bcbc26ff0bfe
 streams:
   - url: 'https://orf-live.ors-shoutcast.at/ooe-q2a'
     codec: MP3

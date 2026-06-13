@@ -21,6 +21,8 @@ clickcount: 2
 geo_lat: -23.549477112780856
 geo_long: -46.63302809000016
 curation: -0.05
+provenance:
+  - radiobrowser-9dea5101-aa15-414e-8dfd-6c29b68e0f59
 streams:
   - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/ALPHAMPBAAC.aac'
     codec: AAC+

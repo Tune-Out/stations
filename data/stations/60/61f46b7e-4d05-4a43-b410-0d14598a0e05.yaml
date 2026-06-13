@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 51.48112236572637
 geo_long: 11.964484155178072
 curation: 0.65
+provenance:
+  - radiobrowser-61f46b7e-4d05-4a43-b410-0d14598a0e05
 streams:
   - url: 'https://radio-hls.mdr.de/hls/live/2112913/mdr-991101-0-hls/index.m3u8'
     codec: AAC

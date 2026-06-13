@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
 curation: 0.55
+provenance:
+  - radiobrowser-f8cb5a6f-6767-44a8-9cbe-28532bfc7db4
 streams:
   - url: 'https://fluxmusic.api.radiosphere.io/channels/alternative/stream.mp3?quality=1'
     codec: MP3

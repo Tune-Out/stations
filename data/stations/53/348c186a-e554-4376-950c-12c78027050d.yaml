@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.20
+provenance:
+  - radiobrowser-348c186a-e554-4376-950c-12c78027050d
 streams:
   - url: 'https://stream.radioplay.fi/radionova/radionova_64.aac?aw_0_1st.skey=1692715205&aw_0_1st.bauer_loggedin=false'
     codec: AAC

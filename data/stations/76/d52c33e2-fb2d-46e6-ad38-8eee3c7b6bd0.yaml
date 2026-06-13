@@ -25,6 +25,8 @@ clickcount: 3
 geo_lat: 65.01121065330118
 geo_long: 25.47135399771738
 curation: -0.05
+provenance:
+  - radiobrowser-d52c33e2-fb2d-46e6-ad38-8eee3c7b6bd0
 streams:
   - url: 'https://s3.myradiostream.com/4976/listen.mp3'
     codec: MP3

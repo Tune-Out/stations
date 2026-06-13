@@ -23,6 +23,8 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-686a0847-a519-460d-b351-831e1a80d516
 streams:
   - url: 'http://radio.linn.co.uk:8004/autodj.m3u'
     url_resolved: 'http://radio.linn.co.uk:8004/autodj'

@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: 39.64076365238007
 geo_long: 22.421054894256827
 curation: -0.05
+provenance:
+  - radiobrowser-1ff7ae1e-9b21-45ae-9a9d-6d1dc8c3ae95
 streams:
   - url: 'https://sh.onweb.gr:8905/stream'
     codec: MP3

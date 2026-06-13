@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-bd663827-f65d-42c4-ba8e-4093dcfa34d6
 streams:
   - url: 'https://centova.streams.gr:8088/stream'
     codec: MP3

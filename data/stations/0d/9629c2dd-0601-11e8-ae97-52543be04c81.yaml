@@ -24,6 +24,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-9629c2dd-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://wma08.fluidstream.net:8000/listen.pls'
     codec: MP3

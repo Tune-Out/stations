@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.60
+provenance:
+  - radiobrowser-e24329cf-266f-4135-b298-4f038481a876
 streams:
   - url: 'https://meraklis.ddns.net:8545/live'
     codec: OGG

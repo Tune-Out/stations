@@ -23,6 +23,8 @@ clickcount: 2
 geo_lat: 44.22975177717503
 geo_long: -76.48123741149904
 curation: -0.05
+provenance:
+  - radiobrowser-8217e7a3-7374-4358-ae14-078bd3abfd03
 streams:
   - url: 'https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8'
     codec: AAC+

@@ -23,6 +23,8 @@ clickcount: 4
 geo_lat: 53.519951305565904
 geo_long: 9.997558593750002
 curation: 0.50
+provenance:
+  - radiobrowser-13c44275-0f32-4fed-b9cc-9610ce01609a
 streams:
   - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u'
     url_resolved: 'http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3'

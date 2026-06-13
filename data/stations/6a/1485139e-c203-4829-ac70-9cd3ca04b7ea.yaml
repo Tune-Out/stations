@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-1485139e-c203-4829-ac70-9cd3ca04b7ea
 streams:
   - url: 'http://178.238.223.39:8000/klasszikusok.m3u'
     url_resolved: 'http://178.238.223.39:8000/klasszikusok'

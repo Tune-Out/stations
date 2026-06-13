@@ -22,6 +22,8 @@ clickcount: 16
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-cc40c5c2-d8a3-11e9-a861-52543be04c81
 streams:
   - url: 'https://ice04.fluidstream.net/rn1_2.aac'
     codec: AAC

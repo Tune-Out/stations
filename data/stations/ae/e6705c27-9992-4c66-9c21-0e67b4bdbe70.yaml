@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-e6705c27-9992-4c66-9c21-0e67b4bdbe70
 streams:
   - url: 'http://janus.cdnstream.com:5637/stream;'
     codec: AAC+

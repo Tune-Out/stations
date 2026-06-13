@@ -27,6 +27,8 @@ clickcount: 1
 geo_lat: 20.674349443390476
 geo_long: -103.3400630950928
 curation: -0.05
+provenance:
+  - radiobrowser-63fda93e-6e0a-4fef-a928-3466bd89ff85
 streams:
   - url: 'https://s2.yesstreaming.net:9088/stream'
     codec: MP3

@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-dc96e198-d0fb-11e9-a861-52543be04c81
 streams:
   - url: 'http://stream.landeswelle.de/lwro/mp3-192'
     url_resolved: 'https://edge16.streamonkey.net/landeswelle-rockwelle?aggregator=rewrite/mp3-192'

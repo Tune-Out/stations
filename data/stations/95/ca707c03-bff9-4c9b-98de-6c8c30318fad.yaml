@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-ca707c03-bff9-4c9b-98de-6c8c30318fad
 streams:
   - url: 'http://stream.erf.at:8000/nowradio_320'
     codec: MP3

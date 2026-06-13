@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-70296bb5-3155-4d09-b40b-4478890a5104
 streams:
   - url: 'https://server4.streamserver24.com:26250/stream'
     codec: MP3

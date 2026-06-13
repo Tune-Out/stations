@@ -26,6 +26,8 @@ clickcount: 0
 geo_lat: -37.81456232410907
 geo_long: 144.96331214904788
 curation: 0.00
+provenance:
+  - radiobrowser-22af54b4-51c9-4f5d-8fc7-70671b1d085c
 streams:
   - url: 'http://s9.nexuscast.com:8565/kissfm.aac'
     codec: AAC+

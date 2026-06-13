@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-963b6753-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://avw.mdr.de/streams/990100-0_aac_high.m3u'
     url_resolved: 'http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3'

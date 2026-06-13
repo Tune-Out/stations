@@ -21,6 +21,8 @@ clickcount: 1
 geo_lat: 51.901918172561714
 geo_long: -8.473205566406252
 curation: 0.35
+provenance:
+  - radiobrowser-8604376b-3ba2-4ef3-90ca-12ba9bb66c58
 streams:
   - url: 'http://master.shoutcast.com:8000/dhr'
     codec: MP3

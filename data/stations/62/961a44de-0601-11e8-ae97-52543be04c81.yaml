@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-961a44de-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://www.goldfm.be/live/playlist.php?name=listen.pls'
     url_resolved: 'http://stream.goldfm.be:1061/station.mp3'

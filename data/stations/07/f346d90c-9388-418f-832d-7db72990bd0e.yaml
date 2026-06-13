@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-f346d90c-9388-418f-832d-7db72990bd0e
 streams:
   - url: 'http://nr9.newradio.it:9432/stream/'
     codec: MP3

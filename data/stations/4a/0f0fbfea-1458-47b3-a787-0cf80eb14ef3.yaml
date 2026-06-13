@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-0f0fbfea-1458-47b3-a787-0cf80eb14ef3
 streams:
   - url: 'http://46.105.110.80:8000/fluxradiogHD'
     codec: OGG

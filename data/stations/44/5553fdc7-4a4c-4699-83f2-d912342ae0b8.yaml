@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-5553fdc7-4a4c-4699-83f2-d912342ae0b8
 streams:
   - url: 'http://kidspublicradio2.got.net:8000/pipsqueaks'
     codec: MP3

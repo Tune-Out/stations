@@ -21,6 +21,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-80b438a6-537d-468f-b365-1e376289247b
 streams:
   - url: 'https://cdn4.onstream.audio:9267/stream'
     codec: MP3

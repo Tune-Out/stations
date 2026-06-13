@@ -25,6 +25,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-962df7f6-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://stream1.euroradio.fm:8000/euroradio1'
     codec: MP3

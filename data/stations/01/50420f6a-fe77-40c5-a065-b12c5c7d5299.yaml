@@ -23,6 +23,8 @@ clickcount: 8
 geo_lat: 48.85259073218122
 geo_long: 2.2781905531883244
 curation: 0.65
+provenance:
+  - radiobrowser-50420f6a-fe77-40c5-a065-b12c5c7d5299
 streams:
   - url: 'http://icecast.radiofrance.fr/fipsacrefrancais-hifi.aac'
     codec: AAC

@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-8ceea5f9-5ac9-4451-8ba3-4e310a740d67
 streams:
   - url: 'http://c17.radioboss.fm:18193/stream'
     codec: MP3

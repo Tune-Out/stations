@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-7f60a54a-e18a-44e9-a9cb-f0644ed318bb
 streams:
   - url: 'http://mediacp.32bit.gr:8002/stream'
     codec: MP3

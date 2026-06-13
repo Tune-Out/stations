@@ -26,6 +26,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-b3a8e73b-f079-4f5f-adc3-3f75d219a3a5
 streams:
   - url: 'https://eu1.reliastream.com/proxy/mdr?mp=/MDR'
     codec: MP3

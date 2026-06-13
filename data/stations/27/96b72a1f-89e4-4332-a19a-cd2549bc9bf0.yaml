@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.00
+provenance:
+  - radiobrowser-96b72a1f-89e4-4332-a19a-cd2549bc9bf0
 streams:
   - url: 'http://live.cast-control.eu:9102/stream?type=http&nocache=144'
     codec: MP3

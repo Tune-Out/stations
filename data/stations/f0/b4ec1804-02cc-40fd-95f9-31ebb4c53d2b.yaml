@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: 53.445154463389215
 geo_long: -2.186112999916077
 curation: 0.35
+provenance:
+  - radiobrowser-b4ec1804-02cc-40fd-95f9-31ebb4c53d2b
 streams:
   - url: 'http://uksoutha.streaming.broadcast.radio:15870/allfm.m3u'
     url_resolved: 'http://uksoutha.streaming.broadcast.radio:15870/allfm'

@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-76c765b9-a579-4287-96ef-712cc45ad384
 streams:
   - url: 'https://jenny.torontocast.com:2000/stream/the-oasis'
     codec: MP3

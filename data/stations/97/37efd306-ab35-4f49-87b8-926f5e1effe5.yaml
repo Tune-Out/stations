@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 48.36626468296298
 geo_long: 10.887161493301392
 curation: -0.05
+provenance:
+  - radiobrowser-37efd306-ab35-4f49-87b8-926f5e1effe5
 streams:
   - url: 'https://frontend.streamonkey.net/rt1-ch01/stream/mp3?aggregator=rt1_web&aw_0_1st.playerid=rt1_web&aw_0_1st.source=imsuden_web'
     codec: MP3

@@ -24,6 +24,8 @@ clickcount: 6
 geo_lat: 50.1109
 geo_long: 8.6821
 curation: 0.50
+provenance:
+  - radiobrowser-3c7347c6-5176-414c-8f8e-4ef337f0e85f
 streams:
   - url: 'https://hlshrinfo.akamaized.net/hls/live/2016539/hrinfo/master.m3u8'
     codec: AAC

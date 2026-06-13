@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-b03ffb8a-28f0-4636-8525-be68f086fd4c
 streams:
   - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8'
     codec: AAC

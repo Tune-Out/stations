@@ -21,6 +21,8 @@ clickcount: 1
 geo_lat: 28.723629275173927
 geo_long: 33.04687500000001
 curation: 0.35
+provenance:
+  - radiobrowser-9513a5a0-481a-4250-b136-ef97b0fa01d4
 streams:
   - url: 'http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8'
     codec: AAC

@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-b5a6254f-a17b-4215-abe9-dbe199f8b2bc
 streams:
   - url: 'https://cupcake.citrus3.com:2020/tunein/radioracine/stream/pls'
     url_resolved: 'http://cupcake.citrus3.com:8186/stream'

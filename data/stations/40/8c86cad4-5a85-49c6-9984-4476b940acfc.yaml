@@ -23,6 +23,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-8c86cad4-5a85-49c6-9984-4476b940acfc
 streams:
   - url: 'http://stream6.hippynet.co.uk:8023/automation.m3u'
     url_resolved: 'http://stream6.hippynet.co.uk:8023/automation'

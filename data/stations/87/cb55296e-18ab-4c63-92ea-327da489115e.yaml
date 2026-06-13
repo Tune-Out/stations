@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-cb55296e-18ab-4c63-92ea-327da489115e
 streams:
   - url: 'https://www.maxradio.ca/UHD/MaxRadioSurround/512k/Max.m3u8'
     codec: MP4

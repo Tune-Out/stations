@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-98df81bb-b42f-4e0b-a3e7-20e6fbf886d9
 streams:
   - url: 'http://148.72.153.65:9201/stream'
     codec: AAC+

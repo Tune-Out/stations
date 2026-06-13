@@ -27,6 +27,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-1965b5a2-41e5-4280-884a-3112d7d79a8a
 streams:
   - url: 'http://a2.asurahosting.com:6350/radio.aac'
     codec: AAC

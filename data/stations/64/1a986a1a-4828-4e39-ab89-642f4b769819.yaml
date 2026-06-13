@@ -22,6 +22,8 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-1a986a1a-4828-4e39-ab89-642f4b769819
 streams:
   - url: 'http://test.taiwan-radio.tw:8000/CH.FM88.7'
     codec: MP3

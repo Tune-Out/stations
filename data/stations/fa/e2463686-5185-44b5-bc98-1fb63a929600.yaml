@@ -23,6 +23,8 @@ clickcount: 3
 geo_lat: 43.731583
 geo_long: 0.878187
 curation: 0.50
+provenance:
+  - radiobrowser-e2463686-5185-44b5-bc98-1fb63a929600
 streams:
   - url: 'https://stream.radiobroussaille.fr:8443/broussaille-hifi'
     codec: AAC

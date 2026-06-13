@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-0e285bb6-27c0-4c00-ad05-88c3fb6219b8
 streams:
   - url: 'https://topradio.uno:8018/live?1780468523684'
     codec: MP3

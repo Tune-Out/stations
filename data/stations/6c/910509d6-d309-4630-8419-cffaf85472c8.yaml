@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-910509d6-d309-4630-8419-cffaf85472c8
 streams:
   - url: 'https://dorognoe.hostingradio.ru:8000/dorognoe'
     codec: MP3

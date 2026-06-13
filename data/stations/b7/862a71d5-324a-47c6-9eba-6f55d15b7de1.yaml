@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
 curation: 0.65
+provenance:
+  - radiobrowser-862a71d5-324a-47c6-9eba-6f55d15b7de1
 streams:
   - url: 'https://fluxmusic.api.radiosphere.io/channels/listen-to-berlin/stream.aac?quality=10'
     codec: AAC

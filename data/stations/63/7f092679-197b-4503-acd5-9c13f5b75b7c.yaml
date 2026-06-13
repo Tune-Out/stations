@@ -25,6 +25,8 @@ clickcount: 1
 geo_lat: 42.655425080737515
 geo_long: 23.37346536712757
 curation: -0.10
+provenance:
+  - radiobrowser-7f092679-197b-4503-acd5-9c13f5b75b7c
 streams:
   - url: 'http://31.13.223.148:8000/fresh.ogg'
     codec: OGG

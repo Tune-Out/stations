@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-1ca9a329-8a53-4fdd-9b7b-f929c99e44d1
 streams:
   - url: 'https://streaming.exclusive.radio/er/acdc/icecast.audio'
     codec: MP3

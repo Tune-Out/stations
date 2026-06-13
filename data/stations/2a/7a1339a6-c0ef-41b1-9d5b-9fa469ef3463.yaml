@@ -20,6 +20,8 @@ clickcount: 12
 geo_lat: null
 geo_long: null
 curation: 0.45
+provenance:
+  - radiobrowser-7a1339a6-c0ef-41b1-9d5b-9fa469ef3463
 streams:
   - url: 'https://whmsonic.radio.gov.pk:8034/stream'
     codec: MP3

@@ -26,6 +26,8 @@ clickcount: 23
 geo_lat: null
 geo_long: null
 curation: 0.10
+provenance:
+  - radiobrowser-963fa65f-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://antena1.newradio.it/stream?ext=.mp3'
     codec: AAC+

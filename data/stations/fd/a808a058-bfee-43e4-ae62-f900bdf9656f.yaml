@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
 curation: 0.60
+provenance:
+  - radiobrowser-a808a058-bfee-43e4-ae62-f900bdf9656f
 streams:
   - url: 'https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=1'
     codec: AAC

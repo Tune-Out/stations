@@ -24,6 +24,8 @@ clickcount: 16
 geo_lat: 48.852627441743344
 geo_long: 2.2782683372497563
 curation: 0.65
+provenance:
+  - radiobrowser-10652211-3b97-411b-ab87-128be29356ac
 streams:
   - url: 'https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8'
     codec: UNKNOWN

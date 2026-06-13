@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-ea24b884-87c3-41f2-9b99-4bd4c76b8787
 streams:
   - url: 'http://ro3.reformatorischeomroep.nl:8072/live'
     codec: MP3

@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-fef6298e-7d1f-473f-9146-25d34936f2ff
 streams:
   - url: 'http://163.10.186.70:8002/stream'
     codec: AAC

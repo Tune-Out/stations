@@ -22,6 +22,8 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-bfba21cf-80b9-4266-8d7b-43dc2f6332f2
 streams:
   - url: 'http://sa46.scastream.com.au/live/lo-fi.stream/playlist.m3u8'
     codec: AAC

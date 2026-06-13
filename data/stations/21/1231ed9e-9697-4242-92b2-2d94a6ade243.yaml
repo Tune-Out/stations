@@ -22,6 +22,8 @@ clickcount: 6
 geo_lat: 48.85558953739779
 geo_long: 2.3469543457031254
 curation: 0.60
+provenance:
+  - radiobrowser-1231ed9e-9697-4242-92b2-2d94a6ade243
 streams:
   - url: 'https://stream.radiofrance.fr/fipcultes/fipcultes.m3u8?id=radiofranceBose'
     codec: AAC

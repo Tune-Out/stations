@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-c845aa42-cad3-41c5-9081-381e1c2fa5dc
 streams:
   - url: 'http://streaming.fressfm.com:11185/stream'
     codec: AAC+

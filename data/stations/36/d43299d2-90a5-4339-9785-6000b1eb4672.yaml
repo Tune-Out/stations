@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 52.58565117766891
 geo_long: -1.9822149855659843
 curation: 0.35
+provenance:
+  - radiobrowser-d43299d2-90a5-4339-9785-6000b1eb4672
 streams:
   - url: 'https://api.synkradio.co.uk/listen.mp3?station=synk_radio_rap'
     codec: MP3

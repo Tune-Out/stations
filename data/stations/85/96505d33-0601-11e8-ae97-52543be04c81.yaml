@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.60
+provenance:
+  - radiobrowser-96505d33-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://streams.fluxfm.de/nyir-glob/aac-64/streams.fluxfm.de/'
     codec: AAC+

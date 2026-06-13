@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-6ab34fd1-1631-4fc5-ad47-7fd079ddac90
 streams:
   - url: 'https://stream.hostbee.nl:7029/stream'
     codec: MP3

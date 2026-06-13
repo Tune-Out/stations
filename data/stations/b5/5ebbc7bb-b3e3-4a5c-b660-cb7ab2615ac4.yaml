@@ -24,6 +24,8 @@ clickcount: 2
 geo_lat: 50.90352237111368
 geo_long: 4.117700248493584
 curation: 0.55
+provenance:
+  - radiobrowser-5ebbc7bb-b3e3-4a5c-b660-cb7ab2615ac4
 streams:
   - url: 'http://quincy.torontocast.com:1920/stream'
     codec: AAC

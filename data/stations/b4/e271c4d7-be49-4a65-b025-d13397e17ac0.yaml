@@ -25,6 +25,8 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 curation: 0.60
+provenance:
+  - radiobrowser-e271c4d7-be49-4a65-b025-d13397e17ac0
 streams:
   - url: 'http://radio.animenexus.mx:8000/animenexus'
     codec: MP3

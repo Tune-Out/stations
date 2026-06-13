@@ -22,6 +22,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-1bc7b156-abcc-454d-b0cd-102f9c8df9d0
 streams:
   - url: 'https://rn1.fluidstream.eu/rn1.aac'
     codec: AAC

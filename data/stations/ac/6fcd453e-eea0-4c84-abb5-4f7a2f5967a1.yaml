@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: 52.04365765595455
 geo_long: -2.0635832685338977
 curation: 0.35
+provenance:
+  - radiobrowser-6fcd453e-eea0-4c84-abb5-4f7a2f5967a1
 streams:
   - url: 'https://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/dash/bbc_radio_bristol-audio%3d96000.norewind.m3u8'
     codec: UNKNOWN

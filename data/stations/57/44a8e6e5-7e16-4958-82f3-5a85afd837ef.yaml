@@ -26,6 +26,8 @@ clickcount: 0
 geo_lat: 28.193014289371305
 geo_long: -105.47269821166992
 curation: -0.05
+provenance:
+  - radiobrowser-44a8e6e5-7e16-4958-82f3-5a85afd837ef
 streams:
   - url: 'https://ssl.sigmaradio.stream:9004/stream'
     codec: MP3

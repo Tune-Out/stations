@@ -24,6 +24,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: 0.00
+provenance:
+  - radiobrowser-33d39331-3f06-4350-90d6-9f1b2c526046
 streams:
   - url: 'http://radio.el-stacja.pl:8000/elstacjaap320.ogg'
     codec: OGG

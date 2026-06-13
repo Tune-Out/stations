@@ -24,6 +24,8 @@ clickcount: 2
 geo_lat: 51.51275884386112
 geo_long: -0.09064525365829468
 curation: -0.05
+provenance:
+  - radiobrowser-b8a18c78-ff0b-42c9-a6f2-e9c73869c27f
 streams:
   - url: 'http://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8'
     codec: UNKNOWN

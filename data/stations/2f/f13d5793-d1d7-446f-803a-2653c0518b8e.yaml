@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.50
+provenance:
+  - radiobrowser-f13d5793-d1d7-446f-803a-2653c0518b8e
 streams:
   - url: 'https://shout25.crossradio.com.br:18014/stream'
     codec: AAC+

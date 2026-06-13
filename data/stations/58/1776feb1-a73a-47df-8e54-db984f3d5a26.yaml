@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: 45.39150667207596
 geo_long: -75.69305419921876
 curation: -0.05
+provenance:
+  - radiobrowser-1776feb1-a73a-47df-8e54-db984f3d5a26
 streams:
   - url: 'https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8'
     codec: AAC+

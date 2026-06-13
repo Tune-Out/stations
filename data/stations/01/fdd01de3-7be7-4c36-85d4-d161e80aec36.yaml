@@ -24,6 +24,8 @@ clickcount: 0
 geo_lat: 52.691033914209214
 geo_long: 5.712890625000001
 curation: 0.35
+provenance:
+  - radiobrowser-fdd01de3-7be7-4c36-85d4-d161e80aec36
 streams:
   - url: 'http://mediaserv68.live-streams.nl:8012/RockRadio'
     codec: MP3

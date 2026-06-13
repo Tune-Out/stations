@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-56360ca5-6724-400a-8275-6b8878cc9ae7
 streams:
   - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17.mp3'
     codec: MP3

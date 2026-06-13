@@ -24,6 +24,8 @@ clickcount: 10
 geo_lat: null
 geo_long: null
 curation: 0.80
+provenance:
+  - radiobrowser-76b129aa-45cc-46cf-b6b2-1fde08a2c8f9
 streams:
   - url: 'https://icecast.radiofrance.fr/fippop-hifi.aac'
     codec: AAC

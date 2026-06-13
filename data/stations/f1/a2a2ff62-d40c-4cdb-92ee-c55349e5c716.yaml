@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: 48.62128949183814
 geo_long: 2.4609375000000004
 curation: 0.75
+provenance:
+  - radiobrowser-a2a2ff62-d40c-4cdb-92ee-c55349e5c716
 streams:
   - url: 'https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance'
     codec: UNKNOWN

@@ -25,6 +25,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.25
+provenance:
+  - radiobrowser-f1480b88-c069-4424-ba3a-5222e5dda3db
 streams:
   - url: 'https://stream.radios.rs:9026/stream'
     codec: AAC+

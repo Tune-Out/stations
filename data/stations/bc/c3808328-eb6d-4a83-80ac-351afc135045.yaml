@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 47.074504646060575
 geo_long: 21.90752148628235
 curation: 0.35
+provenance:
+  - radiobrowser-c3808328-eb6d-4a83-80ac-351afc135045
 streams:
   - url: 'http://stream.mariaradio.ro:8000/MRE'
     codec: MP3

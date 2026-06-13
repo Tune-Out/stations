@@ -26,6 +26,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-0e829d23-c485-498f-a93d-22f8047ac270
 streams:
   - url: 'http://radio2.stream24.net:8130/live.mp3'
     codec: MP3

@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-0ca0ddc0-68c4-404a-854e-a8822402063d
 streams:
   - url: 'http://radio12.shoutcast.net.au:2020/stream/8008'
     codec: MP3

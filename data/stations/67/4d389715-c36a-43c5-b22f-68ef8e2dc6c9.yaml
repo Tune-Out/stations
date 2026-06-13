@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: -34.98320291340548
 geo_long: -71.23535156250001
 curation: -0.05
+provenance:
+  - radiobrowser-4d389715-c36a-43c5-b22f-68ef8e2dc6c9
 streams:
   - url: 'http://radio.mediadev.cl:8090/rtl_curico'
     codec: AAC+

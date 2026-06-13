@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.65
+provenance:
+  - radiobrowser-963b6418-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://avw.mdr.de/streams/284281-0_aac_high.m3u'
     url_resolved: 'http://mdr-284281-0.cast.mdr.de/mdr/284281/0/mp3/high/stream.mp3'

@@ -28,6 +28,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-a1d1e1f9-6550-493a-992a-00021cb18d57
 streams:
   - url: 'https://stream.drugradio.ru:8000/stream128'
     codec: MP3

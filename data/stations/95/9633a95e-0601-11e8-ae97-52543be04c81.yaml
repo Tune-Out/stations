@@ -24,6 +24,8 @@ clickcount: 33
 geo_lat: null
 geo_long: null
 curation: 0.75
+provenance:
+  - radiobrowser-9633a95e-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://icecast.omroep.nl/radio6-bb-aac'
     codec: AAC

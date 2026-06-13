@@ -22,6 +22,8 @@ clickcount: 1
 geo_lat: 43.69395448164734
 geo_long: -79.32751178741456
 curation: 0.35
+provenance:
+  - radiobrowser-65e67fab-2688-440a-8d4f-f3de4703923d
 streams:
   - url: 'http://nap.casthost.net:8004/stream'
     codec: MP3

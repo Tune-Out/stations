@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-aec569c4-d2bb-424d-aa5b-947e13403cc4
 streams:
   - url: 'http://79.120.77.11:8004/suomisaundi'
     codec: AAC+

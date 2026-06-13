@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.70
+provenance:
+  - radiobrowser-726d2fdb-1089-4942-b4ad-667aacf08f62
 streams:
   - url: 'https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/192/seglist.m3u8'
     codec: UNKNOWN

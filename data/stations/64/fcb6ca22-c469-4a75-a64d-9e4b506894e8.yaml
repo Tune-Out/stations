@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-fcb6ca22-c469-4a75-a64d-9e4b506894e8
 streams:
   - url: 'https://us1.amfmph.com:2199/tunein/radiojohn-stream.pls'
     url_resolved: 'http://209.126.124.126:8033/stream'

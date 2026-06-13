@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-962e3e63-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'https://web.stream.euroherz.de/radio-euroherz?aggregator=websiteplayer'
     codec: AAC

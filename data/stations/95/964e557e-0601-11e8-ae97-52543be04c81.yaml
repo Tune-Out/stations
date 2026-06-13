@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-964e557e-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://89.223.45.5:8000/progressive-flac'
     codec: OGG

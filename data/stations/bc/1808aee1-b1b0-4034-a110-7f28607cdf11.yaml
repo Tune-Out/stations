@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: 0.30
+provenance:
+  - radiobrowser-1808aee1-b1b0-4034-a110-7f28607cdf11
 streams:
   - url: 'http://65.109.81.84:9851/stream'
     codec: MP3

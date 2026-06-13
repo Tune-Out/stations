@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-960e7f28-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://stream.hitfm.de:9050/live.m3u'
     url_resolved: 'http://stream.hitfm.de:9050/live'

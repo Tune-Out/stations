@@ -20,6 +20,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-88de618b-a389-4a25-bf9f-3375f3378f29
 streams:
   - url: 'https://mscp3.live-streams.nl:8092/stream'
     codec: MP3

@@ -27,6 +27,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-253ad8ac-b75a-4e9c-8700-0a9abde11cb8
 streams:
   - url: 'http://radiocentar.hr:8282/stream.aac'
     codec: AAC+

@@ -24,6 +24,8 @@ clickcount: 2
 geo_lat: 50.99651678631151
 geo_long: 4.84256167175901
 curation: 0.35
+provenance:
+  - radiobrowser-8c2986db-6043-4ed8-b0fe-f0263f04bcd2
 streams:
   - url: 'http://www.komilfoo.be/live/komilfoo.m3u'
     url_resolved: 'http://komilfoo.radioca.st:8195/stream'

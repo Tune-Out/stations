@@ -23,6 +23,8 @@ clickcount: 0
 geo_lat: 46.5446803088193
 geo_long: 6.514849662780763
 curation: -0.05
+provenance:
+  - radiobrowser-1e28b81b-2900-4f68-a633-bb6c68481fae
 streams:
   - url: 'http://live9.avf.ch:8000/globalfm160'
     codec: MP3

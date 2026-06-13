@@ -22,6 +22,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-72baf53b-21f8-4536-804d-380b53b07a9a
 streams:
   - url: 'http://procyon.shoutca.st:8083/quality196'
     codec: MP3

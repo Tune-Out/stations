@@ -22,6 +22,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-960ef68b-0601-11e8-ae97-52543be04c81
 streams:
   - url: 'http://195.56.193.129:8100/;stream/1'
     codec: AAC+

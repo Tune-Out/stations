@@ -27,6 +27,8 @@ clickcount: 522
 geo_lat: 40.75166
 geo_long: -73.97538
 curation: 0.90
+provenance:
+  - radiobrowser-d1a54d2e-623e-4970-ab11-35f7b56c5ec3
 streams:
   - url: 'https://icecast.walmradio.com:8443/classic_opus'
     codec: OGG

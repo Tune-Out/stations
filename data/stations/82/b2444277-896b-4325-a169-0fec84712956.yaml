@@ -24,6 +24,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 curation: 0.40
+provenance:
+  - radiobrowser-b2444277-896b-4325-a169-0fec84712956
 streams:
   - url: 'http://stream.novotempo.com:1935/radio/radionovotempo.stream/live.m3u8'
     codec: AAC

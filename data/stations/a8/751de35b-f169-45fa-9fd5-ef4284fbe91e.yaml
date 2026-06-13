@@ -28,6 +28,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-751de35b-f169-45fa-9fd5-ef4284fbe91e
 streams:
   - url: 'https://antares.dribbcast.com/proxy/apop?mp=/s'
     codec: MP3

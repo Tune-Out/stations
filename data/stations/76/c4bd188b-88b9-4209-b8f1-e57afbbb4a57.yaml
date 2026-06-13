@@ -23,6 +23,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.10
+provenance:
+  - radiobrowser-c4bd188b-88b9-4209-b8f1-e57afbbb4a57
 streams:
   - url: 'https://hub.radiostream.pl/stream.pls?radio=8400&type=none&dist=zet&app=none&coding=aac&redirect=true'
     codec: AAC+

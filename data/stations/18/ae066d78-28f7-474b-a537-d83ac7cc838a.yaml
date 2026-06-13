@@ -20,6 +20,8 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 curation: -0.05
+provenance:
+  - radiobrowser-ae066d78-28f7-474b-a537-d83ac7cc838a
 streams:
   - url: 'http://live7.avf.ch:8000/globalfm'
     codec: AAC+

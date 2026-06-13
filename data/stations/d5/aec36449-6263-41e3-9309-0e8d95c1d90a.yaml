@@ -24,6 +24,8 @@ clickcount: 1
 geo_lat: 38.349750033170906
 geo_long: -120.77499836683276
 curation: 0.35
+provenance:
+  - radiobrowser-aec36449-6263-41e3-9309-0e8d95c1d90a
 streams:
   - url: 'http://ingest2.cdnstream1.com:7080/2314_64.aac'
     codec: AAC

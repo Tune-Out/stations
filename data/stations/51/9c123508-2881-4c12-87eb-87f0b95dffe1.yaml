@@ -26,6 +26,8 @@ clickcount: 11
 geo_lat: 52.270868647379494
 geo_long: 10.530069055853795
 curation: 0.50
+provenance:
+  - radiobrowser-9c123508-2881-4c12-87eb-87f0b95dffe1
 streams:
   - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_bs.m3u'
     url_resolved: 'http://icecast.ndr.de/ndr/ndr1niedersachsen/braunschweig/mp3/128/stream.mp3'

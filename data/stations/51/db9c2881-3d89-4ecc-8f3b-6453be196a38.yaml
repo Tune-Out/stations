@@ -21,6 +21,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-db9c2881-3d89-4ecc-8f3b-6453be196a38
 streams:
   - url: 'http://mediaserv68.live-streams.nl:8012/RockRadio2'
     codec: MP3

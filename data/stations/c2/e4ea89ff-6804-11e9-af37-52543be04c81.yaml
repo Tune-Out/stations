@@ -25,6 +25,8 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 curation: 0.35
+provenance:
+  - radiobrowser-e4ea89ff-6804-11e9-af37-52543be04c81
 streams:
   - url: 'http://dreamsiteradiocp4.com:8006/stream'
     codec: AAC+

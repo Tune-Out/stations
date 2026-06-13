@@ -23,6 +23,8 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 curation: 0.55
+provenance:
+  - radiobrowser-9582fa91-6aa7-49ef-bdf0-c1c2831f2003
 streams:
   - url: 'http://rosetta.shoutca.st:8352/stream'
     codec: MP3
