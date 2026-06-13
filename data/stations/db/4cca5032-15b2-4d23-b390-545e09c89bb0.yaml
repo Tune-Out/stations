@@ -1,7 +1,7 @@
 stationuuid: 4cca5032-15b2-4d23-b390-545e09c89bb0
 name: CBS Sports 1430 AM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WXNTAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WXNTAMAAC.aac
+url: 'https://18153.live.streamtheworld.com:443/WXNTAMAAC.aac'
+url_resolved: 'https://18153.live.streamtheworld.com:443/WXNTAMAAC.aac'
 homepage: https://www.cbssportsradio1430.com/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:47:34
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4cca5032-15b2-4d23-b390-545e09c89bb0
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports talk radio, live game coverage, interviews, and analysis
   notes: 1430 AM sports radio station (WXNT call letters) affiliated with CBS Sports Radio network serving the Indianapolis metropolitan area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4cca5032-15b2-4d23-b390-545e09c89bb0

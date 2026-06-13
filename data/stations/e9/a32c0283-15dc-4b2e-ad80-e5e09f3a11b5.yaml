@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:40:19
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a32c0283-15dc-4b2e-ad80-e5e09f3a11b5
-streams:
-  - url: 'https://streaming.starterfm.com/radio/8070/ghr48'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://streaming.starterfm.com/radio/8070/ghr192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: community radio with music, talk, local news, and community content
   notes: Hawkesbury Radio is a non-commercial community radio station serving the Hawkesbury region northwest of Sydney, NSW, Australia. Licensed community broadcaster providing local content and music programming for regional community audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a32c0283-15dc-4b2e-ad80-e5e09f3a11b5
+streams:
+  - url: https://streaming.starterfm.com/radio/8070/ghr48
+    codec: AAC
+    bitrate: 48
+  - url: http://streaming.starterfm.com/radio/8070/ghr192
+    codec: MP3
+    bitrate: 192

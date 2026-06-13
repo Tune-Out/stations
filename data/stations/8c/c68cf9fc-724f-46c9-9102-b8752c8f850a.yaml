@@ -1,7 +1,7 @@
 stationuuid: c68cf9fc-724f-46c9-9102-b8752c8f850a
 name: Radio Disney (Pachuca) - 95.7 FM - XHMY-FM - Grupo Siete - Pachuca, Hidalg o
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCAFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCAFMAAC.aac
+url: 'https://18303.live.streamtheworld.com:443/XHPCAFMAAC.aac'
+url_resolved: 'https://18303.live.streamtheworld.com:443/XHPCAFMAAC.aac'
 homepage: https://mx.radiodisney.com/
 favicon: https://cdn-profiles.tunein.com/s87719/images/logod.png
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 02:07:59
 clickcount: 0
 geo_lat: 20.11715709925743
 geo_long: -98.7426280975342
-curation: 0.30
-provenance:
-  - radiobrowser-c68cf9fc-724f-46c9-9102-b8752c8f850a
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Contemporary hits radio (CHR) / pop and dance music; bilingual Spanish/English; targeting young audiences
   notes: XHMY-FM 95.7 FM in Pachuca, Hidalgo (part of greater Mexico City metropolitan area). Part of Grupo Siete's extensive media operations. Launched February 17, 2019 with transition from Grupo ACIR. Programming includes global pop stars (Selena Gomez, Justin Bieber, Taylor Swift, One Direction) mixed with Latin and regional Mexican music. Energetic youth-oriented format.
   sources: https://en.wikipedia.org/wiki/XHFO-FM
+curation: 0.3
+provenance:
+  - radiobrowser-c68cf9fc-724f-46c9-9102-b8752c8f850a

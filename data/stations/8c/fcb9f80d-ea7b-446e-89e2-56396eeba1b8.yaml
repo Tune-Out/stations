@@ -1,7 +1,7 @@
 stationuuid: fcb9f80d-ea7b-446e-89e2-56396eeba1b8
 name: Star 102.7 - Cairns - 102.7 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/CAI_STAR1027AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/CAI_STAR1027AAC.aac
+url: 'http://13743.live.streamtheworld.com:80/CAI_STAR1027AAC.aac'
+url_resolved: 'http://13743.live.streamtheworld.com:80/CAI_STAR1027AAC.aac'
 homepage: https://www.star1027.com.au/
 favicon: https://i.ibb.co/sPXx5sZ/61ea53c1dcdc455f530c0421.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:11:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-fcb9f80d-ea7b-446e-89e2-56396eeba1b8
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hot adult contemporary music and entertainment
   notes: Commercial FM radio station serving Cairns; part of major Australian network; adult contemporary music focus
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fcb9f80d-ea7b-446e-89e2-56396eeba1b8

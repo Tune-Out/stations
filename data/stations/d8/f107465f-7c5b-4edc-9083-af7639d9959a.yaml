@@ -1,7 +1,7 @@
 stationuuid: f107465f-7c5b-4edc-9083-af7639d9959a
 name: La Suavecita 106.9/107.1FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KVVAFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KVVAFMAAC.aac
+url: 'https://17843.live.streamtheworld.com:443/KVVAFMAAC.aac'
+url_resolved: 'https://17843.live.streamtheworld.com:443/KVVAFMAAC.aac'
 homepage: https://www.radiolasuavecita.com/phoenix
 favicon: ""
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 23:30:34
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f107465f-7c5b-4edc-9083-af7639d9959a
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: "La Suavecita format: Latin music, contemporary Spanish-language content, regional programming"
   notes: Regional station in Phoenix/Apache Junction area on 106.9 and 107.1 FM. "La Suavecita" format typically features soft Latin, regional Mexican, and Spanish pop music targeting Southwest US Hispanic audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f107465f-7c5b-4edc-9083-af7639d9959a

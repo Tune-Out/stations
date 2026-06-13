@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:31:29
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-f13d5793-d1d7-446f-803a-2653c0518b8e
-streams:
-  - url: 'https://shout25.crossradio.com.br:18014/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://shout25.crossradio.com.br:18014/stream?1771879759561'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Eclectic music programming; jazz, blues, world music, and traditional Brazilian styles
   notes: AM radio station at 740 kHz in São Paulo. Long-established commercial station with eclectic music format including jazz, blues, bossa nova, and Brazilian popular music. Community presence in São Paulo broadcasting market. AAC+ streaming at 64 kbps.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-f13d5793-d1d7-446f-803a-2653c0518b8e
+streams:
+  - url: https://shout25.crossradio.com.br:18014/stream
+    codec: AAC+
+    bitrate: 64
+  - url: https://shout25.crossradio.com.br:18014/stream?1771879759561
+    codec: AAC+
+    bitrate: 64

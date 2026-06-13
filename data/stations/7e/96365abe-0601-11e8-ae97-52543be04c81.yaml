@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 01:12:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-96365abe-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Christmas music; Christian contemporary; classical; country; R&B, soul.
   notes: Specialized seasonal and Christian music station broadcasting in German from Switzerland. Provides Christmas and Christian contemporary programming with elements of classical and secular genres.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-96365abe-0601-11e8-ae97-52543be04c81
+  - iprd-ch-christmas-radio-8bc2bc3e
+streams:
+  - url: http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
+    codec: MP3
+    bitrate: 128

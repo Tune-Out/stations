@@ -1,7 +1,7 @@
 stationuuid: 354c6ad0-dbcb-4db5-aed3-74865879244d
 name: 2RRR - Ryde - 88.5 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2rrrAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2rrrAAC.aac
+url: 'http://28803.live.streamtheworld.com:80/2RRRAAC.aac'
+url_resolved: 'http://28803.live.streamtheworld.com:80/2RRRAAC.aac'
 homepage: https://www.2rrr.org.au/
 favicon: https://www.2rrr.org.au//wp-content/uploads/2021/08/2RRR-Icon-Logo-1158-x-623.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:48:31
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-354c6ad0-dbcb-4db5-aed3-74865879244d
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: music, community programs, local information, diverse genres
   notes: Australian community radio station in Ryde, Sydney (88.5 FM) operated independently; provides music and community programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-354c6ad0-dbcb-4db5-aed3-74865879244d

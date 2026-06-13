@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 05:58:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3ac8bee4-be07-4397-935d-6ccd04c5be71
-streams:
-  - url: 'http://www.segenswelle.de:8000/deutsch-aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.segenswelle.de:8000/deutsch'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://segenswelle.de:8000/live'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +31,19 @@ research:
   format: Christian religious programming, music, talk
   notes: SW-Radio Live operates as a Christian non-commercial broadcast service in Germany. The domain "segenswelle.de" translates to "blessing wave". Station focuses on Christian music, teaching, and spiritual content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3ac8bee4-be07-4397-935d-6ccd04c5be71
+  - iprd-de-sw-radio-deutsch-30ef2a96
+  - iprd-de-sw-radio-deutsch-0503dd0f
+  - iprd-de-sw-radio-live-4a4500f8
+streams:
+  - url: http://www.segenswelle.de:8000/deutsch-aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.segenswelle.de:8000/deutsch
+    codec: MP3
+    bitrate: 128
+  - url: http://segenswelle.de:8000/live
+    codec: MP3
+    bitrate: 64

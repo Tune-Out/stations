@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-17222f44-1664-4f58-a9d9-800dda7e4f92
-streams:
-  - url: 'https://drive.uber.radio/uber/crkatherinejenkins/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crkatherinejenkins/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -37,3 +29,11 @@ research:
   format: classical music, world's finest music, opera, orchestral
   notes: Katherine Jenkins - Classical Radio is a dedicated artist and genre stream featuring classical music curated around Welsh soprano Katherine Jenkins' taste and recommendations. Broadcasts "world's finest music" with focus on classical works and operatic performances.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-17222f44-1664-4f58-a9d9-800dda7e4f92
+streams:
+  - url: https://drive.uber.radio/uber/crkatherinejenkins/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crkatherinejenkins/icecast.audio
+    codec: MP3

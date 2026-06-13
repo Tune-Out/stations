@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-0ad8350d-7d03-4f0d-9f35-b38cc42c40af
-streams:
-  - url: 'http://94.20.74.206:4448/stream1'
-    codec: MP3
-    bitrate: 112
-  - url: 'https://play.asanradio.az/'
-    codec: MP3
-    bitrate: 112
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +30,14 @@ research:
   format: General music and entertainment programming.
   notes: Commercial radio station operating in Azerbaijan with significant listener base (11,728 votes).
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-0ad8350d-7d03-4f0d-9f35-b38cc42c40af
+  - iprd-az-asan-radio-100-c049978b
+streams:
+  - url: http://94.20.74.206:4448/stream1
+    codec: MP3
+    bitrate: 112
+  - url: https://play.asanradio.az/
+    codec: MP3
+    bitrate: 112

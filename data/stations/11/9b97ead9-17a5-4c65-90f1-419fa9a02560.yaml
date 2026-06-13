@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:28:27
 clickcount: 0
 geo_lat: 46.10559529698813
 geo_long: 12.060466920956973
-curation: 0.35
-provenance:
-  - radiobrowser-9b97ead9-17a5-4c65-90f1-419fa9a02560
-streams:
-  - url: 'https://meteomeano.stream.laut.fm/meteomeano?.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/meteomeano'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,13 @@ research:
   format: Classic hits, oldies music
   notes: Community-operated station via laut.fm streaming platform based in Veneto, Italy.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9b97ead9-17a5-4c65-90f1-419fa9a02560
+streams:
+  - url: https://meteomeano.stream.laut.fm/meteomeano?.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/meteomeano
+    codec: MP3
+    bitrate: 128

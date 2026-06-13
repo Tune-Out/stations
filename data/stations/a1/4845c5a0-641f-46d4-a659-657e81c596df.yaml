@@ -18,16 +18,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
-curation: 0.35
-provenance:
-  - radiobrowser-4845c5a0-641f-46d4-a659-657e81c596df
-streams:
-  - url: 'https://mybroadcasting.streamb.live/SB00315'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://mybroadcasting.streamb.live/SB00315'
-    codec: AAC+
-    bitrate: 31
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -37,3 +27,13 @@ research:
   format: Soft adult contemporary, easy listening, community-focused programming
   notes: my FM 88.1 is a community radio station in Lanark, Ontario serving the local area with soft adult contemporary music and community programming via LanarkleedsToday media.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4845c5a0-641f-46d4-a659-657e81c596df
+streams:
+  - url: https://mybroadcasting.streamb.live/SB00315
+    codec: AAC+
+    bitrate: 32
+  - url: https://mybroadcasting.streamb.live/SB00315
+    codec: AAC+
+    bitrate: 31

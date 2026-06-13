@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:17:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-38b6f8c8-2560-48b7-b53b-8e3d92bfcd36
-streams:
-  - url: 'https://sr13.inmystream.it/proxy/radioemotions'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://sr13.inmystream.it/proxy/radioemotions?mp=/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Italian commercial radio programming.
   notes: Italian online radio station. Limited public information available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-38b6f8c8-2560-48b7-b53b-8e3d92bfcd36
+  - iprd-it-radio-emotions-431d7e8d
+streams:
+  - url: https://sr13.inmystream.it/proxy/radioemotions
+    codec: MP3
+    bitrate: 320
+  - url: https://sr13.inmystream.it/proxy/radioemotions?mp=/stream
+    codec: MP3
+    bitrate: 320

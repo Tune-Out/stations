@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 43.65187611724562
 geo_long: -79.38171386718751
-curation: -0.05
-provenance:
-  - radiobrowser-ff4ecb02-af7f-43ca-ad52-cded0f48e754
-streams:
-  - url: 'http://newcap.leanstream.co/CFXJFM'
-    codec: AAC
-    bitrate: 135
-  - url: 'http://newcap.leanstream.co/CFXJFM'
-    codec: AAC
-    bitrate: 129
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Adult hits
   notes: Toronto FM at 93.5 MHz rebranded as Today Radio with adult hits format.
   sources: https://935todayradio.com/
+curation: -0.05
+provenance:
+  - radiobrowser-ff4ecb02-af7f-43ca-ad52-cded0f48e754
+  - iprd-ca-cfxj-93-5-the-move-ec92e039
+streams:
+  - url: http://newcap.leanstream.co/CFXJFM
+    codec: AAC
+    bitrate: 135
+  - url: http://newcap.leanstream.co/CFXJFM
+    codec: AAC
+    bitrate: 129

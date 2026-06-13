@@ -1,7 +1,7 @@
 stationuuid: 8d0a43a8-e8cc-48d0-b1a7-4810993a92bf
 name: MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+url: 'https://17993.live.streamtheworld.com:443/XHMVSFM_SC'
+url_resolved: 'https://17993.live.streamtheworld.com:443/XHMVSFM_SC'
 homepage: https://www.mvsnoticias.com/
 favicon: https://www.mvsnoticias.com/u/plantillas/p/mvs-noticias/imgs/favicons//apple-touch-icon.png
 tags:
@@ -28,9 +28,6 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 20
 geo_lat: 19.432418363646462
 geo_long: -99.13194537162782
-curation: -0.10
-provenance:
-  - radiobrowser-8d0a43a8-e8cc-48d0-b1a7-4810993a92bf
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +37,6 @@ research:
   format: News, sports, pop music, entertainment; talk radio with news focus
   notes: MVS Noticias (XHMVS-FM 102.5 FM) is a commercial news and entertainment radio station in Mexico City operated by MVS Radio, part of Grupo Multimèdia. Provides news coverage ("noticias"), sports programming ("deportes"), and music including English-language pop and oldies.
   sources: https://www.mvsnoticias.com/
+curation: -0.1
+provenance:
+  - radiobrowser-8d0a43a8-e8cc-48d0-b1a7-4810993a92bf

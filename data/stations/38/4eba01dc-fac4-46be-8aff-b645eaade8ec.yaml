@@ -21,15 +21,6 @@ lastchangetime: 2026-05-08 22:25:31
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4eba01dc-fac4-46be-8aff-b645eaade8ec
-streams:
-  - url: 'https://lhttp-hw.qtfm.cn/live/4846/64k.mp3'
-    codec: MP3
-  - url: 'http://live.zohi.tv/audio/s10001-FM893/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +30,13 @@ research:
   format: music format; contemporary hits and popular songs
   notes: FM music station operated by China's state-owned broadcasting system; part of integrated media group serving Fukien province
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4eba01dc-fac4-46be-8aff-b645eaade8ec
+  - iprd-cn-fuzhou-music-broadcasting-89-3-2f210ac0
+streams:
+  - url: https://lhttp-hw.qtfm.cn/live/4846/64k.mp3
+    codec: MP3
+  - url: http://live.zohi.tv/audio/s10001-FM893/index.m3u8
+    codec: UNKNOWN
+    hls: true

@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 01:55:39
 clickcount: 56
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-a2002b37-4ebf-4a60-96d0-ce03d7e45a83
-streams:
-  - url: 'http://drive.uber.radio/uber/bollywooddance/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/bollywooddance/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/bollywooddance/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -40,3 +31,12 @@ research:
   format: Bollywood dance music, remixes, DJ mixes, electronic dance music featuring Hindi Bollywood film songs
   notes: Streamed via Uber Radio (drive.uber.radio/uber/bollywooddance); focuses exclusively on dance remixes and club versions of Hindi Bollywood film music; targets urban Indian listeners in major metros; non-commercial streaming operation; minimal public information available
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-a2002b37-4ebf-4a60-96d0-ce03d7e45a83
+streams:
+  - url: http://drive.uber.radio/uber/bollywooddance/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/bollywooddance/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/bollywooddance/icecast.audio
+    codec: MP3

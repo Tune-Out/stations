@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-dba1c613-ea0d-4507-b0c8-0f0a78153027
-streams:
-  - url: 'https://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,14 @@ research:
   format: Community radio / varied programming
   notes: French community radio station serving the Côte d'Azur (French Riviera) region. Streams via Infomaniak hosting. Limited publicly available information about specific programming details.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-dba1c613-ea0d-4507-b0c8-0f0a78153027
+  - iprd-fr-agora-c-te-d-azur-2c91843a
+streams:
+  - url: https://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3
+    codec: MP3
+    bitrate: 128

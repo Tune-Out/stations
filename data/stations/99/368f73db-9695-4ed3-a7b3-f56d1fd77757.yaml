@@ -1,7 +1,7 @@
 stationuuid: 368f73db-9695-4ed3-a7b3-f56d1fd77757
 name: EXA FM 104.1 (León) - 104.1 FM - XHMD-FM - MVS Radio - León, Guanajuato
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMDFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMDFMAAC.aac
+url: 'https://27053.live.streamtheworld.com:443/XHMDFMAAC.aac'
+url_resolved: 'https://27053.live.streamtheworld.com:443/XHMDFMAAC.aac'
 homepage: https://exafm.com/plaza/leon/
 favicon: https://cdn-profiles.tunein.com/s91769/images/logod.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 21.121850066595965
 geo_long: -101.6827690601349
-curation: -0.10
-provenance:
-  - radiobrowser-368f73db-9695-4ed3-a7b3-f56d1fd77757
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Top 40, contemporary hits radio (CHR)
   notes: EXA FM 104.1 is a Mexican commercial FM station operated by MVS Radio serving León, Guanajuato. Part of the EXA network ("la estación naranja" — the orange station), known for pop and contemporary hits format. XHMD-FM is the official call sign.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-368f73db-9695-4ed3-a7b3-f56d1fd77757

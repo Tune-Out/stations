@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:41:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-960f781d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://195.150.20.9/HOTNEW'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://195.150.20.245/rmf_hot_new'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Contemporary hot/new music format; part of larger RMF station group with RMF FM, RMF MAXX, RMF Classic, RMF24.
   notes: Part of RMF ON digital streaming service offering multiple genre-focused stations. Premium ad-free subscription available. Podcast content included.
   sources: http://www.rmfon.pl/stacja/rmf-hot-new
+curation: 0.2
+provenance:
+  - radiobrowser-960f781d-0601-11e8-ae97-52543be04c81
+  - iprd-pl-rmf-hot-new-923824ef
+streams:
+  - url: http://195.150.20.9/HOTNEW
+    codec: AAC+
+    bitrate: 64
+  - url: http://195.150.20.245/rmf_hot_new
+    codec: MP3
+    bitrate: 128

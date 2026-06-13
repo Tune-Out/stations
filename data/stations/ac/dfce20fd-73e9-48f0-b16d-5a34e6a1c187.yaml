@@ -19,16 +19,6 @@ lastchangetime: 2026-05-08 15:50:55
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-dfce20fd-73e9-48f0-b16d-5a34e6a1c187
-streams:
-  - url: 'http://live.hubu.fm:8222/osna-high'
-    codec: AAC+
-    bitrate: 320
-  - url: 'https://tune.osna.fm/high/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Community and music programming; indie, alternative, and local music
   notes: Independent community radio station from Osnabrück region in Germany.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-dfce20fd-73e9-48f0-b16d-5a34e6a1c187
+streams:
+  - url: http://live.hubu.fm:8222/osna-high
+    codec: AAC+
+    bitrate: 320
+  - url: https://tune.osna.fm/high/index.m3u8
+    codec: UNKNOWN
+    hls: true

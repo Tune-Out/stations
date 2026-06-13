@@ -1,7 +1,7 @@
 stationuuid: 31da29d1-f73a-4dbf-8d32-74ffc35ce216
 name: MIX 101.7 (Morelia) - 101.7 FM - XHEMM-FM - Grupo ACIR - Morelia, Michoacán
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMMAAC.aac
+url: 'https://14093.live.streamtheworld.com:443/XHEMMAAC.aac'
+url_resolved: 'https://14093.live.streamtheworld.com:443/XHEMMAAC.aac'
 homepage: https://www.iheart.com/live/mix-1017-morelia-8079/
 favicon: https://i.iheart.com/v3/re/new_assets/9a46fddb-921b-41a9-b09b-750dd8f9bc9e?ops=fit(960%2C960)%2Cresize(0%2C390)
 tags:
@@ -31,9 +31,6 @@ lastchangetime: 2026-01-15 03:06:34
 clickcount: 4
 geo_lat: 19.7071675560627
 geo_long: -101.19764328002933
-curation: -0.10
-provenance:
-  - radiobrowser-31da29d1-f73a-4dbf-8d32-74ffc35ce216
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +40,6 @@ research:
   format: Adult contemporary, pop music, classic hits, 80s/90s/2000s hits, entertainment
   notes: XHEMM-FM, 101.7 FM commercial station in Morelia, Michoacán. Part of Grupo ACIR network and distributed through iHeartRadio platform. Targets adults with retro and contemporary pop hits.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-31da29d1-f73a-4dbf-8d32-74ffc35ce216

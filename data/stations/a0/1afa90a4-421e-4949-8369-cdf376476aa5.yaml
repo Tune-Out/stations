@@ -22,15 +22,6 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 1
 geo_lat: 48.13741638050107
 geo_long: 11.553829908370972
-curation: 0.35
-provenance:
-  - radiobrowser-1afa90a4-421e-4949-8369-cdf376476aa5
-streams:
-  - url: 'https://lora.musiker.cloud/loramp3.mp3'
-    codec: MP3
-  - url: 'https://lora.musiker.cloud/lora-hq.mp3.m3u'
-    url_resolved: 'http://stream.lora924.de:8000/lora-hq.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +31,13 @@ research:
   format: Politics, society, world affairs, cultural programming, and music; community-focused journalism
   notes: Community radio station in Munich on 92.4 FM; independent, non-commercial; focuses on political discourse, social issues, and cultural content
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1afa90a4-421e-4949-8369-cdf376476aa5
+  - iprd-de-radio-lora-m-nchen-92-4-51cf8b07
+streams:
+  - url: https://lora.musiker.cloud/loramp3.mp3
+    codec: MP3
+  - url: https://lora.musiker.cloud/lora-hq.mp3.m3u
+    url_resolved: http://stream.lora924.de:8000/lora-hq.mp3
+    codec: MP3

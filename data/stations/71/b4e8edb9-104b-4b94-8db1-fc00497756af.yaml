@@ -22,15 +22,6 @@ lastchangetime: 2026-01-14 23:17:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b4e8edb9-104b-4b94-8db1-fc00497756af
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/4970/64k.mp3'
-    codec: MP3
-  - url: 'http://stream3.hljtv.com/hljrdsh/sd/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +31,13 @@ research:
   format: Lifestyle, cultural programming, news, general interest
   notes: State-operated provincial radio broadcaster in Heilongjiang. Part of China's public broadcasting system. Serves lifestyle and cultural programming needs.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b4e8edb9-104b-4b94-8db1-fc00497756af
+  - iprd-cn-heilongjiang-life-broadcasting-104-5-6f654dc3
+streams:
+  - url: https://lhttp.qtfm.cn/live/4970/64k.mp3
+    codec: MP3
+  - url: http://stream3.hljtv.com/hljrdsh/sd/live.m3u8
+    codec: UNKNOWN
+    hls: true

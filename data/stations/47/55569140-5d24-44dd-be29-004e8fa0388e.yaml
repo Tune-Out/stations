@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-55569140-5d24-44dd-be29-004e8fa0388e
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/organic96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/organic96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: Organic house and progressive house electronic music
   notes: Moscow-based commercial radio network with multiple specialized channels; Organic channel focuses on organic and progressive house subgenres
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-55569140-5d24-44dd-be29-004e8fa0388e
+  - iprd-ru-radio-record-chill-house-c248bcf4
+  - iprd-ru-radio-rekord-organic-46ccda61
+streams:
+  - url: http://radiorecord.hostingradio.ru/organic96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/organic96.aacp
+    codec: AAC

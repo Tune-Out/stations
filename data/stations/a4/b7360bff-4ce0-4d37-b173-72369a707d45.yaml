@@ -1,7 +1,7 @@
 stationuuid: b7360bff-4ce0-4d37-b173-72369a707d45
 name: La Mejor Monterrey - 92.5 FM - XHSRO-FM - MVS Radio - Monterrey, NL
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHSROFM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHSROFM_SC
+url: 'https://14223.live.streamtheworld.com:443/XHSROFM_SC'
+url_resolved: 'https://14223.live.streamtheworld.com:443/XHSROFM_SC'
 homepage: https://www.lamejor.com.mx/monterrey/
 favicon: https://www.lamejor.com.mx/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:29:44
 clickcount: 0
 geo_lat: 25.68546898634433
 geo_long: -100.31847953796388
-curation: -0.05
-provenance:
-  - radiobrowser-b7360bff-4ce0-4d37-b173-72369a707d45
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Regional Mexican music; banda norteña, banda tradicional, grupera, ranchero music
   notes: Commercial radio station broadcasting on 92.5 FM (XHSRO-FM) in Monterrey, Mexico. Part of La Mejor network specializing in regional Mexican music. Focus on banda norteña, traditional banda, and regional Mexican formats. Comprehensive tagging reflects rich regional Mexican music heritage.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b7360bff-4ce0-4d37-b173-72369a707d45

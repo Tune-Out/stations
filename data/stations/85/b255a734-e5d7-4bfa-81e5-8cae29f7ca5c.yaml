@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b255a734-e5d7-4bfa-81e5-8cae29f7ca5c
-streams:
-  - url: 'https://ice.onestreaming.com/arion'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ice.onestreaming.com/arion'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: General programming; music and entertainment; news talk format
   notes: Greek commercial internet radio station based in Athens; serves Greek audience with mixed music and entertainment content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b255a734-e5d7-4bfa-81e5-8cae29f7ca5c
+streams:
+  - url: https://ice.onestreaming.com/arion
+    codec: MP3
+    bitrate: 128
+  - url: http://ice.onestreaming.com/arion
+    codec: MP3
+    bitrate: 128

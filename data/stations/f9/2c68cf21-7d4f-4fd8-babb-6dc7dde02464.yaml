@@ -1,7 +1,7 @@
 stationuuid: 2c68cf21-7d4f-4fd8-babb-6dc7dde02464
 name: Smooth Relax Australia (AAC+ 128k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128.aac
+url: 'http://14533.live.streamtheworld.com:80/SMOOTHRELAX_SYD_AAC128.aac'
+url_resolved: 'http://14533.live.streamtheworld.com:80/SMOOTHRELAX_SYD_AAC128.aac'
 homepage: https://smooth.com.au/station/smoothrelax
 favicon: https://i.ibb.co/gb1pQJc/smoothrelax.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:21:40
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2c68cf21-7d4f-4fd8-babb-6dc7dde02464
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Soft adult contemporary, relaxation music
   notes: Smooth Relax Australia is a commercial digital radio station offering soft adult contemporary and relaxing music designed for easy listening.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2c68cf21-7d4f-4fd8-babb-6dc7dde02464

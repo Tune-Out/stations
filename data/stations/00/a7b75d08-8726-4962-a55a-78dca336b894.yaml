@@ -21,18 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 49.354739705143906
 geo_long: 6.723375320434571
-curation: 0.50
-provenance:
-  - radiobrowser-a7b75d08-8726-4962-a55a-78dca336b894
-streams:
-  - url: 'http://stream.laut.fm/radiodiefflen.m3u'
-    url_resolved: 'http://radiodiefflen.stream.laut.fm/radiodiefflen?pl=m3u&t302=2026-01-15_05-28-53&uuid=c042e834-d981-4a8c-858e-7ef7be37c0a3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/radiodiefflen.m3u'
-    url_resolved: 'https://radiodiefflen.stream.laut.fm/radiodiefflen?pl=m3u&t302=2026-01-15_06-03-50&uuid=9a3fd861-dd28-4228-b902-e69eda1b80e4'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +30,16 @@ research:
   format: alternative rock, indie music
   notes: Community internet radio station serving Diefflen area in Saarland, Germany; streams via laut.fm platform.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-a7b75d08-8726-4962-a55a-78dca336b894
+  - iprd-de-radio-diefflen-76b64d32
+streams:
+  - url: http://stream.laut.fm/radiodiefflen.m3u
+    url_resolved: http://radiodiefflen.stream.laut.fm/radiodiefflen?pl=m3u&t302=2026-01-15_05-28-53&uuid=c042e834-d981-4a8c-858e-7ef7be37c0a3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/radiodiefflen.m3u
+    url_resolved: https://radiodiefflen.stream.laut.fm/radiodiefflen?pl=m3u&t302=2026-01-15_06-03-50&uuid=9a3fd861-dd28-4228-b902-e69eda1b80e4
+    codec: MP3
+    bitrate: 128

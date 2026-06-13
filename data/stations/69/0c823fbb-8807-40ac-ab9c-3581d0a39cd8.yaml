@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 05:26:25
 clickcount: 1
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.60
-provenance:
-  - radiobrowser-0c823fbb-8807-40ac-ab9c-3581d0a39cd8
-streams:
-  - url: 'https://somafm.com/7soul130.pls'
-    url_resolved: 'https://ice6.somafm.com/7soul-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/7soul.pls'
-    url_resolved: 'https://ice5.somafm.com/7soul-128-mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +31,16 @@ research:
   format: Soul music, funk, and vintage soul programming; specialized stream
   notes: SomaFM non-commercial listener-supported stream focusing on 1960s-1970s soul; part of SomaFM's diverse genre offerings
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-0c823fbb-8807-40ac-ab9c-3581d0a39cd8
+  - iprd-us-somafm-seven-inch-soul-e46b1671
+streams:
+  - url: https://somafm.com/7soul130.pls
+    url_resolved: https://ice6.somafm.com/7soul-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/7soul.pls
+    url_resolved: https://ice5.somafm.com/7soul-128-mp3
+    codec: MP3
+    bitrate: 160

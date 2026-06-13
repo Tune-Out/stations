@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:22:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9612ece9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://start-forum.ice.infomaniak.ch/start-forum-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://start-forum.ice.infomaniak.ch/start-forum-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Music-focused with themed channels (70s, 80s, 90s, 2000s, Funk, Disco, French songs); morning drive-time programming; podcasts
   notes: Forum is a French commercial radio network operated by Les Indes Radios serving multiple cities across the Loire Valley and Poitou-Charentes regions. Emphasizes positive news content alongside entertainment. Includes web radio channels, live streaming, and regional contests.
   sources: http://www.forum.fr/
+curation: -0.05
+provenance:
+  - radiobrowser-9612ece9-0601-11e8-ae97-52543be04c81
+  - iprd-fr-forum-1272aa14
+streams:
+  - url: http://start-forum.ice.infomaniak.ch/start-forum-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://start-forum.ice.infomaniak.ch/start-forum-high.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 79f151cf-2619-440a-ad9b-187ec09d4883
 name: Fox Sports 640
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WMENAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WMENAMAAC.aac
+url: 'https://18493.live.streamtheworld.com:443/WMENAMAAC.aac'
+url_resolved: 'https://18493.live.streamtheworld.com:443/WMENAMAAC.aac'
 homepage: https://www.foxsports640.com/
 favicon: https://www.foxsports640.com/wp-content/uploads/2025/12/cropped-FOX_Web-and-App_72-dpi_123025-1-180x180.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:40:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-79f151cf-2619-440a-ad9b-187ec09d4883
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports talk, play-by-play coverage, commentary
   notes: 640 AM licensed to Royal Palm Beach, Florida; part of iHeartMedia network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-79f151cf-2619-440a-ad9b-187ec09d4883

@@ -1,7 +1,7 @@
 stationuuid: 44d79885-302b-4251-98c1-10a6b0ec029d
 name: Gold Central Victoria - Bendigo / Central Victoria - 98.3 FM / 1071 AM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/BEN_GOLD.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/BEN_GOLD.mp3
+url: 'http://19273.live.streamtheworld.com:80/BEN_GOLD.mp3'
+url_resolved: 'http://19273.live.streamtheworld.com:80/BEN_GOLD.mp3'
 homepage: https://www.goldcentralvictoria.com.au/
 favicon: https://i.ibb.co/GQfWSDb/61ea50eedcdc455f530c0415.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:49:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-44d79885-302b-4251-98c1-10a6b0ec029d
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: adult contemporary, commercial hits
   notes: Australian commercial radio station Gold Central Victoria broadcasting on 98.3 FM and 1071 AM in Central Victoria region. Part of Gold FM network. Adult contemporary format. 128 kbps MP3 stream via StreamTheWorld platform.
   sources: https://www.goldcentralvictoria.com.au/
+curation: -0.05
+provenance:
+  - radiobrowser-44d79885-302b-4251-98c1-10a6b0ec029d

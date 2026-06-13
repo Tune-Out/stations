@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:29:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-ca3091b1-f4e0-4040-8d91-fd0085b803ac
-streams:
-  - url: 'http://ic2489.c1788.fast-serv.com/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://ic2463.c1788.fast-serv.com/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +33,14 @@ research:
   format: Jazz, smooth jazz, golden oldies, music-focused
   notes: Capital Community Radio 101.7 FM is a Western Australian community radio station specializing in jazz, smooth jazz, and classic/oldies music. Non-commercial community broadcaster.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-ca3091b1-f4e0-4040-8d91-fd0085b803ac
+  - iprd-au-capital-community-radio-101-7-158172b2
+streams:
+  - url: http://ic2489.c1788.fast-serv.com/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://ic2463.c1788.fast-serv.com/stream
+    codec: MP3
+    bitrate: 192

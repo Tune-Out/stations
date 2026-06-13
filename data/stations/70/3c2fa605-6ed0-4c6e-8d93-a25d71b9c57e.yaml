@@ -1,6 +1,6 @@
 stationuuid: 3c2fa605-6ed0-4c6e-8d93-a25d71b9c57e
 name: Thunder 107.3
-url: https://provisioning.streamtheworld.com/pls/WTNRFMAAC.pls
+url: 'http://15313.live.streamtheworld.com:80/WTNRFMAAC_SC'
 url_resolved: http://18853.live.streamtheworld.com:3690/WTNRFMAAC_SC
 homepage: https://www.thunder1073.com/
 favicon: https://www.thunder1073.com/favicon.ico
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3c2fa605-6ed0-4c6e-8d93-a25d71b9c57e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Contemporary hit radio (CHR) / Top 40
   notes: Licensed FM station operating through iHeartRadio platform; standard commercial Top 40 format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3c2fa605-6ed0-4c6e-8d93-a25d71b9c57e

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 03:01:40
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96096b11-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live.radiomaria.at:8000/rma.m3u'
-    url_resolved: 'http://live.radiomaria.at:8000/rma'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live.radiomaria.at:8000/rma2'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +31,17 @@ research:
   format: Catholic religious programming, Marian devotion, spiritual music
   notes: Radio Maria Austria is part of the international Radio Maria network, affiliated with the Carmelites and the Catholic Church. Broadcasts in German. Focuses on Marian spirituality and Catholic education.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96096b11-0601-11e8-ae97-52543be04c81
+  - iprd-at-radio-maria-462b06b1
+  - iprd-at-radio-maria-1bfa1aee
+  - iprd-at-radio-maria-a998b699
+streams:
+  - url: http://live.radiomaria.at:8000/rma.m3u
+    url_resolved: http://live.radiomaria.at:8000/rma
+    codec: MP3
+    bitrate: 128
+  - url: http://live.radiomaria.at:8000/rma2
+    codec: MP3
+    bitrate: 64

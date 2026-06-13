@@ -1,6 +1,6 @@
 stationuuid: e0eecbf7-1d4a-4490-b9dc-8a7ef419a284
 name: CBC Radio One - Inuvik, NT (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CHAK_CBC.pls
+url: 'https://22983.live.streamtheworld.com:443/CHAK_CBC_SC'
 url_resolved: https://26373.live.streamtheworld.com/CHAK_CBC_SC
 homepage: https://www.cbc.ca/news/canada/north/topic/Location/Northwest%20Territories
 favicon: https://subscriptions.cbc.ca/newsletter_static/images/1581433029228-cbc-north.png
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 05:58:02
 clickcount: 3
 geo_lat: 68.35758806020594
 geo_long: -133.72369766235354
-curation: 0.35
-provenance:
-  - radiobrowser-e0eecbf7-1d4a-4490-b9dc-8a7ef419a284
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -38,3 +35,6 @@ research:
   format: News, features, public affairs in multiple Indigenous languages and English
   notes: CBC Radio One serves Inuvik and the Northwest Territories, broadcasting in multiple Indigenous languages (Gwich'in, Inuvialuktun, North Slavey) alongside English. Part of CBC's mandate to serve remote and Indigenous communities across northern Canada.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e0eecbf7-1d4a-4490-b9dc-8a7ef419a284

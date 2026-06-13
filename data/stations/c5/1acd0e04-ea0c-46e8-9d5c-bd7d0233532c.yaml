@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 05:45:24
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1acd0e04-ea0c-46e8-9d5c-bd7d0233532c
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk:8000/A/A13H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Regional P4 programming; news, talk, music
   notes: P4 Trekanten is the Trekanten regional station of Danmarks Radio, covering the Greater Copenhagen area. Part of P4 regional network.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1acd0e04-ea0c-46e8-9d5c-bd7d0233532c
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk:8000/A/A13H.mp3
+    codec: MP3
+    bitrate: 128

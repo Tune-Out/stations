@@ -23,16 +23,6 @@ lastchangetime: 2026-03-16 03:22:38
 clickcount: 8
 geo_lat: 51.50818320836177
 geo_long: -0.12745857238769534
-curation: -0.05
-provenance:
-  - radiobrowser-abb48ea5-7aaf-460c-bf04-7fe3b7f10bb7
-streams:
-  - url: 'https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858'
-    codec: AAC+
-    bitrate: 47
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: R&B, hip-hop, and Black music and culture programming via DAB digital radio and streaming
   notes: KISS XTRA is a specialist stream from the KISS FM network, part of the Bauer Radio Group. Targets audiences interested in contemporary R&B and hip-hop music, primarily in the UK market. Broadcast in London area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-abb48ea5-7aaf-460c-bf04-7fe3b7f10bb7
+streams:
+  - url: https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
+    codec: AAC+
+    bitrate: 48
+  - url: https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
+    codec: AAC+
+    bitrate: 47

@@ -1,7 +1,7 @@
 stationuuid: cb235fac-021d-4f8a-b9ae-2754d0b512f5
 name: FOX Sports 98.9FM / 1340AM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KRLVAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KRLVAMAAC.aac
+url: 'https://14993.live.streamtheworld.com:443/KRLVAMAAC.aac'
+url_resolved: 'https://14993.live.streamtheworld.com:443/KRLVAMAAC.aac'
 homepage: https://www.lvsportsnetwork.com/
 favicon: https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2104/2023/06/12190229/Station-logo-240x240.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:34:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-cb235fac-021d-4f8a-b9ae-2754d0b512f5
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports news, talk, play-by-play broadcasts
   notes: Broadcasts on 98.9 FM and 1340 AM; part of FOX Sports broadcasting network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cb235fac-021d-4f8a-b9ae-2754d0b512f5

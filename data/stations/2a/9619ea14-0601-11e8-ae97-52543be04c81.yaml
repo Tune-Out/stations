@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:57:38
 clickcount: 200
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9619ea14-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.unitedradio.it/Radio105.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast.unitedradio.it/Radio105.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,18 @@ research:
   format: Contemporary hit radio / pop / Top 40 / Hot AC with comedic and lifestyle morning-show content (notably "Lo Zoo di 105")
   notes: Founded 1976 in Monza, originally an independent local station; acquired by Finelco (Hazan family) in the 1980s and developed into a national network; sold to Mediaset/RadioMediaset in 2016. Famous for irreverent comedy programming "Lo Zoo di 105" hosted by Marco Mazzoli. Tagline associations include "Radio 105 sempre con te"
   sources: http://www.105.net/, internal knowledge
+curation: -0.1
+provenance:
+  - radiobrowser-9619ea14-0601-11e8-ae97-52543be04c81
+  - iprd-it-music-star-renato-carosone-be176ae1
+  - iprd-it-radio-105-059ad786
+  - iprd-it-radio-105-indie-73e5c6ad
+  - iprd-it-radio-105-network-1f577b2b
+  - iprd-it-xmas-radio-3617cc9b
+streams:
+  - url: http://icecast.unitedradio.it/Radio105.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast.unitedradio.it/Radio105.mp3
+    codec: MP3
+    bitrate: 128

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9558bce6-c72e-40f0-afae-d4d41c0cae08
-streams:
-  - url: 'https://streams2.vision.org.au/vision128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streams3.vision.org.au/vision128.mp3?_=1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +33,17 @@ research:
   format: Christian music, contemporary Christian worship, conversation, news, talkback on life/culture/current events
   notes: Australia-based Christian community radio emphasizing contemporary Christian music and faith-based talk programming; operates 24/7 with community engagement focus
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9558bce6-c72e-40f0-afae-d4d41c0cae08
+  - iprd-au-vision-christian-radio-7b91c8ab
+  - iprd-au-vision-christian-radio-b627b7b2
+  - iprd-au-vision-christian-radio-7db22778
+  - iprd-gb-vision-christian-radio-c57e8c98
+streams:
+  - url: https://streams2.vision.org.au/vision128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://streams3.vision.org.au/vision128.mp3?_=1
+    codec: MP3
+    bitrate: 128

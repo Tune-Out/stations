@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:09:01
 clickcount: 1
 geo_lat: 45.89860191577872
 geo_long: -64.37339454889299
-curation: 0.35
-provenance:
-  - radiobrowser-a575e9ce-dfb1-48c6-8672-48ad748256e6
-streams:
-  - url: 'https://securestreams6.autopo.st:2111/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://securestreams6.autopo.st:2111/?1731303876903='
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Campus/community radio with diverse programming; student-run content; community talk and music
   notes: Community radio station in Sackville, New Brunswick at 106.9 FM. Affiliated with Mount Allison University providing platform for student broadcasters and community members. Focus on local programming and diverse music.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a575e9ce-dfb1-48c6-8672-48ad748256e6
+  - iprd-ca-chma-106-9-mount-allison-university-b7721aef
+streams:
+  - url: https://securestreams6.autopo.st:2111/
+    codec: MP3
+    bitrate: 192
+  - url: https://securestreams6.autopo.st:2111/?1731303876903=
+    codec: MP3
+    bitrate: 192

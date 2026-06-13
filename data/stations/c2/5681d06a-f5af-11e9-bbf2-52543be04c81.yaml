@@ -24,28 +24,6 @@ lastchangetime: 2026-01-14 23:57:38
 clickcount: 37
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.85
-provenance:
-  - radiobrowser-5681d06a-f5af-11e9-bbf2-52543be04c81
-streams:
-  - url: 'https://stream.radioparadise.com/rock-flac'
-    codec: OGG
-    bitrate: 1441
-  - url: 'http://stream.radioparadise.com/rock-320'
-    codec: AAC
-    bitrate: 320
-  - url: 'http://stream.radioparadise.com/rock-128'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://stream.radioparadise.com/rock-64'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://stream.radioparadise.com/rock-32'
-    codec: AAC
-    bitrate: 32
-  - url: 'http://stream.radioparadise.com/rock-192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -55,3 +33,32 @@ research:
   format: Eclectic music mix with rock and alternative programming; curated by founder Bill Goldsmith
   notes: Founded 1994 in Northern California; listener-supported, non-commercial internet radio; features "An eclectic musical adventure" with human curation. High-fidelity streaming (320k AAC). No commercial advertisements.
   sources: https://radioparadise.com/, internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-5681d06a-f5af-11e9-bbf2-52543be04c81
+  - iprd-us-radio-paradise-rock-mix-6fe0dc2b
+  - iprd-us-radio-paradise-rock-mix-23834606
+  - iprd-us-radio-paradise-rock-mix-546cc8eb
+  - iprd-us-radio-paradise-rock-3afd5819
+  - iprd-us-radio-paradise-rock-mix-flac-772d6afe
+  - iprd-us-radio-paradise-rock-mix-b71e560d
+  - iprd-us-radio-paradise-rock-mix-flac-d29e8d71
+streams:
+  - url: https://stream.radioparadise.com/rock-flac
+    codec: OGG
+    bitrate: 1441
+  - url: http://stream.radioparadise.com/rock-320
+    codec: AAC
+    bitrate: 320
+  - url: http://stream.radioparadise.com/rock-128
+    codec: AAC
+    bitrate: 128
+  - url: https://stream.radioparadise.com/rock-64
+    codec: AAC
+    bitrate: 64
+  - url: http://stream.radioparadise.com/rock-32
+    codec: AAC
+    bitrate: 32
+  - url: http://stream.radioparadise.com/rock-192
+    codec: MP3
+    bitrate: 192

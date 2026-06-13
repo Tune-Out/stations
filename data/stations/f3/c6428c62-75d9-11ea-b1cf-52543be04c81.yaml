@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:17:31
 clickcount: 14
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-c6428c62-75d9-11ea-b1cf-52543be04c81
-streams:
-  - url: 'http://66.45.232.131:9994/;stream/1/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://66.45.232.131:9994/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,37 @@ research:
   format: 24/7 Quran recitation (tilawat) with Bangla translation/tafsir, Islamic naat, and religious lectures
   notes: One of many small Bangladeshi-Islamic internet-only streams that proliferated in the 2010s alongside mainstream broadcasters such as Bangladesh Betar; commonly carried via streaming aggregators including liveonlineradio.net which lists numerous Bangla Islamic streams; no known terrestrial FM presence
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-c6428c62-75d9-11ea-b1cf-52543be04c81
+  - iprd-af-ariana-fm-93-5-f89edcce
+  - iprd-ao-beatbox-angola-85f8e4a9
+  - iprd-ao-radio-sem-anestesia-61e32be4
+  - iprd-ao-rna-radio-cazenga-afb7428e
+  - iprd-au-2cr-australian-chinese-radio-902ca901
+  - iprd-aw-mas-105-1-f6edd927
+  - iprd-bd-al-quran-bangla-5ec2bf7b
+  - iprd-cv-radio-ribeira-brava-107-4-35613feb
+  - iprd-cw-radio-semiya-98-5-4fc145d7
+  - iprd-eg-goal-fm-878fbc8c
+  - iprd-eg-radio-taiba-b00d0ff3
+  - iprd-es-la-suegra-96-7-ca9f06d7
+  - iprd-fi-radio-helsinki-98-5-7e3e60b3
+  - iprd-hr-hrt-radio-pula-96-4-597f2b1b
+  - iprd-hr-radio-rovinj-1e3817db
+  - iprd-np-syangja-radio-89-6-bfce2afd
+  - iprd-ro-radio-crisami-34e78a9d
+  - iprd-rs-no-limit-radio-91-1-34154e6b
+  - iprd-sg-hot-fm-91-3-5b0de287
+  - iprd-tw-98-news-channel-875cee72
+  - iprd-tz-morning-star-radio-105-3-4719c1fc
+  - iprd-us-kola-99-9-30dd2dee
+  - iprd-us-thegoosh-radio-the-best-1463a679
+  - iprd-us-theme-city-radio-4042a08d
+streams:
+  - url: http://66.45.232.131:9994/;stream/1/;
+    codec: MP3
+    bitrate: 128
+  - url: http://66.45.232.131:9994/
+    codec: MP3
+    bitrate: 128

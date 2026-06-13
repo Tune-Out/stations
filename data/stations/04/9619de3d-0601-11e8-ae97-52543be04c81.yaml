@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 06:46:22
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9619de3d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://nostalgie48.streaming.rs:9270/listen.pls'
-    url_resolved: 'http://nostalgie48.streaming.rs:9270/'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://nostalgie128.streaming.rs:9250/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,16 @@ research:
   format: Oldies / "goldies" — Serbian, ex-Yugoslav and international pop hits from the 1960s-1990s, with cultural and arts news segments
   notes: Radio Nostalgija broadcasts on 105.2 MHz in Belgrade and is operated by NaxiMediaMix, the same Serbian media company that runs the popular Naxi Radio network; programming centres on nostalgic music aimed at older listeners, with editorial coverage of film festivals, ballet, art exhibitions and classical-music competitions; streams are available in AAC 48 kbps and MP3 64/128 kbps via the station website and an Android app, with an iOS app announced as "uskoro" (coming soon); the catalog tags "goldies / oldies" accurately reflect its format.
   sources: http://www.nostalgija.rs/
+curation: -0.05
+provenance:
+  - radiobrowser-9619de3d-0601-11e8-ae97-52543be04c81
+  - iprd-rs-radio-nostalgija-105-2-3afb5436
+  - iprd-rs-radio-nostalgija-105-2-7982b7d0
+streams:
+  - url: http://nostalgie48.streaming.rs:9270/listen.pls
+    url_resolved: http://nostalgie48.streaming.rs:9270/
+    codec: AAC+
+    bitrate: 48
+  - url: http://nostalgie128.streaming.rs:9250/
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 6e56e3eb-620e-498d-86a2-ebb27b993d87
 name: Rádio Cidade - Classic Rock
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICROCK_S01AAC_64.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICROCK_S01AAC_64.aac
+url: 'http://27593.live.streamtheworld.com:80/CLASSICROCK_S01AAC_64.aac'
+url_resolved: 'http://27593.live.streamtheworld.com:80/CLASSICROCK_S01AAC_64.aac'
 homepage: https://radiocidade.fm/player/index.php
 favicon: https://radiocidade.fm/player/img/classic-rock.svg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-03-10 20:23:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6e56e3eb-620e-498d-86a2-ebb27b993d87
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic rock music (24/7 programming)
   notes: Part of Rádio Cidade network based in Rio de Janeiro; dedicated classic rock stream serving Brazilian audience
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6e56e3eb-620e-498d-86a2-ebb27b993d87

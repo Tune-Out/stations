@@ -1,6 +1,6 @@
 stationuuid: e3f671c4-2987-425e-bf05-9445dcbfc83c
 name: CBC Radio One - Corner Brook, NL (MP3 Stream)
-url: https://playerservices.streamtheworld.com/pls/CBYAM_CBC.pls
+url: 'https://26733.live.streamtheworld.com:443/CBYAM_CBC_SC'
 url_resolved: https://29243.live.streamtheworld.com/CBYAM_CBC_SC
 homepage: https://www.cbc.ca/news/canada/newfoundland-labrador
 favicon: https://www.cbc.ca/favicon.ico
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:06:34
 clickcount: 1
 geo_lat: 48.95123119348003
 geo_long: -57.94240951538087
-curation: 0.35
-provenance:
-  - radiobrowser-e3f671c4-2987-425e-bf05-9445dcbfc83c
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: News, features, current affairs, public broadcasting
   notes: CBC Radio One local station serving Corner Brook and central Newfoundland and Labrador. Operated by the Canadian Broadcasting Corporation, Canada's national public broadcaster. Provides news, investigative reporting, cultural features, and community programming. Accessible via StreamTheWorld platform.
   sources: internal knowledge of CBC/Canadian broadcasting
+curation: 0.35
+provenance:
+  - radiobrowser-e3f671c4-2987-425e-bf05-9445dcbfc83c

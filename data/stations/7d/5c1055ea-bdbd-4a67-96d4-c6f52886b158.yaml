@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5c1055ea-bdbd-4a67-96d4-c6f52886b158
-streams:
-  - url: 'https://edge1.radyotvonline.net/shoutcast/play/showradyo'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://moondigitaledge.radyotvonline.net/show/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Unknown
   notes: Turkish web radio station operating online; limited metadata available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5c1055ea-bdbd-4a67-96d4-c6f52886b158
+  - iprd-tr-show-radyo-04447e5d
+streams:
+  - url: https://edge1.radyotvonline.net/shoutcast/play/showradyo
+    codec: AAC
+    bitrate: 128
+  - url: https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
+    codec: UNKNOWN
+    hls: true

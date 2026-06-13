@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 07:10:26
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-686a0847-a519-460d-b351-831e1a80d516
-streams:
-  - url: 'http://radio.linn.co.uk:8004/autodj.m3u'
-    url_resolved: 'http://radio.linn.co.uk:8004/autodj'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://radio.linn.co.uk:8004/autodj'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Classical music radio; 24/7 classical music programming in high-quality 320 kbps
   notes: Linn Classical is operated by Linn Products, a premium British hi-fi audio equipment manufacturer (Linn Electronics). Provides high-quality classical music streaming at 320 kbps. Targets audiophile and classical music enthusiast audiences. Premium service associated with Linn brand quality standards.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-686a0847-a519-460d-b351-831e1a80d516
+streams:
+  - url: http://radio.linn.co.uk:8004/autodj.m3u
+    url_resolved: http://radio.linn.co.uk:8004/autodj
+    codec: MP3
+    bitrate: 320
+  - url: http://radio.linn.co.uk:8004/autodj
+    codec: MP3
+    bitrate: 320

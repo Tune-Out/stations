@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0beca8cd-6438-4ac6-a8d5-51aec8c88069
-streams:
-  - url: 'https://streaming.radio.lublin.pl:8843/radiofreee'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.radio.lublin.pl:8843/radiofreee?ver=122186'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://212.244.54.195:8000/radiofreee'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +28,16 @@ research:
   format: Unknown
   notes: Polish independent community radio operating on streaming.radio.lublin.pl infrastructure.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0beca8cd-6438-4ac6-a8d5-51aec8c88069
+streams:
+  - url: https://streaming.radio.lublin.pl:8843/radiofreee
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.radio.lublin.pl:8843/radiofreee?ver=122186
+    codec: MP3
+    bitrate: 128
+  - url: http://212.244.54.195:8000/radiofreee
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:04:28
 clickcount: 46
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-ccd9d009-b369-4451-9ebb-a2138bed734f
-streams:
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: Comedy, drama, entertainment, archive content, repeats
   notes: BBC Radio 4 Extra is a public radio station providing comedy, drama, and archive repeats. Part of BBC Radio family, publicly funded through UK television licence fee with editorial independence guaranteed by Royal Charter. Launched in 2002 as replacement for BBC Radio 7.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-ccd9d009-b369-4451-9ebb-a2138bed734f
+  - iprd-gb-bbc-radio-4-extra-c305d0b9
+streams:
+  - url: http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true

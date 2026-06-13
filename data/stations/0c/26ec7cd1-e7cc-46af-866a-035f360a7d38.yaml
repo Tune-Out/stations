@@ -28,14 +28,6 @@ lastchangetime: 2026-01-15 00:09:17
 clickcount: 9
 geo_lat: 54.31804520270421
 geo_long: 10.13317108154297
-curation: -0.05
-provenance:
-  - radiobrowser-26ec7cd1-e7cc-46af-866a-035f360a7d38
-streams:
-  - url: 'https://streams.rsh.de/rsh-live/aac-64/streams.rsh.de/'
-    codec: AAC
-  - url: 'https://streams.rsh.de/deutsch/mp3-192/streams.rsh.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +37,11 @@ research:
   format: Adult contemporary hot AC with hits from the 1980s, 1990s, 2000s, and current; news, weather, traffic, and local information for Schleswig-Holstein
   notes: R.SH (Radio Schleswig-Holstein) launched on 16 May 1986 as one of the first private commercial radio stations in Germany following the deregulation of German broadcasting. Based in Kiel-Wittland, it broadcasts on multiple FM frequencies across Schleswig-Holstein. R.SH is part of Regiocast, one of Germany's largest private radio holdings (which also owns 89.0 RTL, Radio NRW shareholdings, and others). Long the dominant private station in Schleswig-Holstein with strong morning-show ratings; pioneered the German "Dudelfunk" hit-radio format. Known programs include "Andreas und Conny am Morgen" and traffic-focused "Stau!" segment. Editorial line is mainstream/apolitical commercial entertainment.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-26ec7cd1-e7cc-46af-866a-035f360a7d38
+streams:
+  - url: https://streams.rsh.de/rsh-live/aac-64/streams.rsh.de/
+    codec: AAC
+  - url: https://streams.rsh.de/deutsch/mp3-192/streams.rsh.de/
+    codec: MP3

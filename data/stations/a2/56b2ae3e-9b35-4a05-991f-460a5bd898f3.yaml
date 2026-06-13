@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:06:00
 clickcount: 4
 geo_lat: -6.204725253991695
 geo_long: 106.82556152343751
-curation: -0.05
-provenance:
-  - radiobrowser-56b2ae3e-9b35-4a05-991f-460a5bd898f3
-streams:
-  - url: 'http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Pop music, top 40 hits, local Indonesian music, contemporary hits radio (CHR)
   notes: Indonesian commercial radio station; Gen 98.7 FM is a prominent contemporary hits radio station in Jakarta area; focuses on pop and top 40 format; serves Jakarta metropolitan area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-56b2ae3e-9b35-4a05-991f-460a5bd898f3
+streams:
+  - url: http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8
+    codec: UNKNOWN
+    hls: true

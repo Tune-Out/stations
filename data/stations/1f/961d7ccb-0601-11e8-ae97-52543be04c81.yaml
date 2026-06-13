@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961d7ccb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast2.play.cz/radiobeat128.mp3'
-    codec: MP3
-  - url: 'http://icecast1.play.cz/beat64.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +33,12 @@ research:
   format: Classic rock, heavy metal, and rock music programming
   notes: Radio Beat is a Czech commercial radio station specializing in rock and heavy metal music. Caters to rock and metal music enthusiasts in the Czech market. MP3 128kbps streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961d7ccb-0601-11e8-ae97-52543be04c81
+  - iprd-cz-radio-beat-95-3-a6c65d3f
+streams:
+  - url: http://icecast2.play.cz/radiobeat128.mp3
+    codec: MP3
+  - url: http://icecast1.play.cz/beat64.mp3
+    codec: MP3

@@ -22,16 +22,6 @@ lastchangetime: 2026-04-22 22:48:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-c347fcda-b9c6-4515-8119-eff5e2190d2b
-streams:
-  - url: 'https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: News and current affairs; politics, governance, sports, entertainment, judicial coverage, weather; podcasts including "Hablemos Claro"; radio (95.5 FM), television (6.1 HD), digital platforms
   notes: Commercial multi-platform media company in Peru. Operates radio (95.5 FM) and television (6.1 HD) with national reach across multiple regions. Maintains Code of Ethics and formal complaint mechanisms. Covers electoral processes and governance extensively. Produces podcasts and maintains active social media presence (Facebook, Twitter, YouTube, Instagram, TikTok, Google News). Available via terrestrial broadcast, digital streaming, and podcast services.
   sources: https://www.exitosanoticias.pe/
+curation: 0
+provenance:
+  - radiobrowser-c347fcda-b9c6-4515-8119-eff5e2190d2b
+  - iprd-pe-exitosa-95-5-d27a9806
+streams:
+  - url: https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+    codec: AAC
+    bitrate: 128
+  - url: https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+    codec: AAC
+    bitrate: 64

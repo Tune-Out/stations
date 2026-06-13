@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-25bea8ca-2f20-4c87-aae3-df6cb527cad0
-streams:
-  - url: 'https://servidor39.brlogic.com:8624/live'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://servidor39.brlogic.com:8624/live#.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Classic rock, local news, sports (futebol/football coverage), local information
   notes: Rádio HT is a commercial FM station based in Rio Grande do Sul, southern Brazil; features rock music, local news coverage, and extensive football/soccer sports programming; serves regional audience with Brazilian Portuguese content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-25bea8ca-2f20-4c87-aae3-df6cb527cad0
+  - iprd-br-r-dio-hosp-cio-tricolor-f2f09d31
+streams:
+  - url: https://servidor39.brlogic.com:8624/live
+    codec: MP3
+    bitrate: 192
+  - url: https://servidor39.brlogic.com:8624/live#.mp3
+    codec: MP3
+    bitrate: 192

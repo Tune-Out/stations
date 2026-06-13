@@ -24,16 +24,6 @@ lastchangetime: 2026-03-14 23:36:31
 clickcount: 26
 geo_lat: 51.50818320836177
 geo_long: -0.1284885406494141
-curation: -0.10
-provenance:
-  - radiobrowser-53733e08-7728-40ee-b968-59e71f0281b6
-streams:
-  - url: 'https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992'
-    codec: AAC+
-    bitrate: 47
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Non-Stop Old Skool & Anthems; curates 80s, 90s, 2000s music with sub-channels for garage, trance, R&B variants
   notes: "Part of Bauer Media Group's 128-station network accessible via Rayo Premium subscription. Beneficial owners: Yvonne Bauer and Heinz Bauer. Notable shows: KISS Breakfast with Tyler West & Chloe Burrows; Jake on KISSTORY; Michael on KISSTORY Breakfast. Branded events: KISSTORY festivals (Ibiza, Marbella, Bristol, Blackheath). Partnership: \"Cash For Kids\" charity."
   sources: https://www.hellorayo.co.uk/kisstory
+curation: -0.1
+provenance:
+  - radiobrowser-53733e08-7728-40ee-b968-59e71f0281b6
+streams:
+  - url: https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+    codec: AAC+
+    bitrate: 48
+  - url: https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+    codec: AAC+
+    bitrate: 47

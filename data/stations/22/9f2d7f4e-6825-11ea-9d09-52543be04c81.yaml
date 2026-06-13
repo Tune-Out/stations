@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:27:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9f2d7f4e-6825-11ea-9d09-52543be04c81
-streams:
-  - url: 'https://a6.radioheart.ru:9046/RH1972'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://listen.myrh.ru/rnr_fm'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Rock music format - classic and contemporary rock radio
   notes: Rock'n'Roll FM operates via RadioHeart, a Russian online radio platform. The station focuses exclusively on rock music programming for Russian-speaking audiences globally and in Russia.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9f2d7f4e-6825-11ea-9d09-52543be04c81
+  - iprd-ru-101-ru-rock-n-roll-e6313c87
+streams:
+  - url: https://a6.radioheart.ru:9046/RH1972
+    codec: MP3
+    bitrate: 192
+  - url: https://listen.myrh.ru/rnr_fm
+    codec: MP3
+    bitrate: 192

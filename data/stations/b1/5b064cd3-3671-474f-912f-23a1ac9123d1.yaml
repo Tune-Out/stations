@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 08:38:09
 clickcount: 0
 geo_lat: 52.371
 geo_long: 5.222
-curation: 0.35
-provenance:
-  - radiobrowser-5b064cd3-3671-474f-912f-23a1ac9123d1
-streams:
-  - url: 'https://video.fzo.nu/live.m3u8'
-    codec: AAC
-    bitrate: 52
-    hls: true
-  - url: 'http://www.flevoziekenomroep.nl/mp3.m3u'
-    url_resolved: 'http://stream1.fzo.nu/studio.mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +31,15 @@ research:
   format: pop hits, oldies, easy listening, Dutch Top 40, Dutch language content
   notes: Hospital radio station serving Flevoland; broadcasts pop, oldies, and contemporary Dutch music; community-focused programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5b064cd3-3671-474f-912f-23a1ac9123d1
+streams:
+  - url: https://video.fzo.nu/live.m3u8
+    codec: AAC
+    bitrate: 52
+    hls: true
+  - url: http://www.flevoziekenomroep.nl/mp3.m3u
+    url_resolved: http://stream1.fzo.nu/studio.mp3
+    codec: MP3
+    bitrate: 160

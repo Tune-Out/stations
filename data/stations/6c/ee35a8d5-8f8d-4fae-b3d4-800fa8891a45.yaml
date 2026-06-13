@@ -1,7 +1,7 @@
 stationuuid: ee35a8d5-8f8d-4fae-b3d4-800fa8891a45
 name: EXA FM 100.9 (Chihuahua) - 100.9 FM - XHLO-FM - Sistema Radio Lobo - Chihuahua, Chihuahua
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHLOAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHLOAAC.aac
+url: 'https://17803.live.streamtheworld.com:443/XHLOAAC.aac'
+url_resolved: 'https://17803.live.streamtheworld.com:443/XHLOAAC.aac'
 homepage: https://exafm.com/plaza/chihuahua/
 favicon: https://cdn-profiles.tunein.com/s248954/images/logod.png
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 06:35:43
 clickcount: 0
 geo_lat: 28.63840143440068
 geo_long: -106.0745429992676
-curation: -0.10
-provenance:
-  - radiobrowser-ee35a8d5-8f8d-4fae-b3d4-800fa8891a45
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Contemporary hits/pop (Top 40); "La Estación Naranja" (The Orange Station); pop en español e inglés
   notes: XHLO-FM 100.9 FM. Part of MVS Radio network. Contemporary hits and pop music focus.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-ee35a8d5-8f8d-4fae-b3d4-800fa8891a45

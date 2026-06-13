@@ -23,16 +23,6 @@ lastchangetime: 2026-04-16 21:43:13
 clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.60
-provenance:
-  - radiobrowser-bbe3fd37-8cff-44e4-8818-4f6c28df93d7
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=10'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=1'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=10'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,13 @@ research:
   format: Curated downtempo, lounge, and contemporary music adapted to daily rhythms; programmed by DJs Thibaut Machet and Robin Ordell.
   notes: Part of FluxFM, a non-commercial network. "Das Musikprogramm von Anima passt sich in Flow und Dynamik im Tagesverlauf deiner Stimmung an" — adapts programming to listener mood throughout the day.
   sources: https://www.fluxfm.de/channels/b4084f1f-8f53-46bf-929f-eb719fcdf9ec
+curation: 0.6
+provenance:
+  - radiobrowser-bbe3fd37-8cff-44e4-8818-4f6c28df93d7
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=10
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=1
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=10
+    codec: MP3

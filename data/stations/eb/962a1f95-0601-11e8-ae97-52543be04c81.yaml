@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:47:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962a1f95-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/spanishtophits_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strm112.1.fm/spanishtophits_mobile_mp3?aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Spanish pop hits, contemporary music, top 40 (Spanish language)
   notes: 1.FM is a Swiss-based commercial internet radio operator offering numerous genre and language-specific channels globally. Total Hits En Español specializes in Spanish-language contemporary pop, current hits, and mainstream music. Mobile-optimized stream.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962a1f95-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-total-hits-en-espa-ol-radio-d2afaa5e
+streams:
+  - url: http://strm112.1.fm/spanishtophits_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strm112.1.fm/spanishtophits_mobile_mp3?aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 192

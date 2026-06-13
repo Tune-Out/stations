@@ -1,6 +1,6 @@
 stationuuid: 96424495-0601-11e8-ae97-52543be04c81
 name: WCJK "96.3 Jack FM" Murfreesboro, TN
-url: http://provisioning.streamtheworld.com/pls/WCJKFMAAC.pls
+url: 'http://14543.live.streamtheworld.com:80/WCJKFMAAC_SC'
 url_resolved: http://22123.live.streamtheworld.com:3690/WCJKFMAAC_SC
 homepage: http://963jackfm.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2205/squareIcon.png?r=61093
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 02:17:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96424495-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Adult Contemporary / Top 40 music with community event promotion and personality-driven programming.
   notes: WCJK 96.3 FM "Jack FM" brand emphasizes eclectic music selection ("Playing What We Want") with active event sponsorships including Bikes or Bust, Movies in the Park, and Main Street Festival. Features personality shows like "The Moose" program.
   sources: http://963jackfm.com/
+curation: 0.35
+provenance:
+  - radiobrowser-96424495-0601-11e8-ae97-52543be04c81

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:42:05
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-961525b9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://kuvo-ice.streamguys.org/kuvo-aac-64'
-    codec: AAC+
-    bitrate: 65
-  - url: 'http://kuvo-ice.streamguys.org/kuvo-mp3-64'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,15 @@ research:
   format: Jazz, Latin jazz, blues, and seventeen locally produced culturally diverse programs
   notes: Founded 1985. Listener-supported, streaming-focused public radio. Notable events include Live at the Vineyards and The Block Party featuring diverse jazz acts.
   sources: http://kuvo.org/
+curation: 0.55
+provenance:
+  - radiobrowser-961525b9-0601-11e8-ae97-52543be04c81
+  - iprd-us-kuvo-89-3-52418aca
+  - iprd-us-kuvo-89-3-1a1891f3
+streams:
+  - url: http://kuvo-ice.streamguys.org/kuvo-aac-64
+    codec: AAC+
+    bitrate: 65
+  - url: http://kuvo-ice.streamguys.org/kuvo-mp3-64
+    codec: MP3
+    bitrate: 64

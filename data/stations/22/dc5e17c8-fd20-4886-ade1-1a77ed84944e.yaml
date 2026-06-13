@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-dc5e17c8-fd20-4886-ade1-1a77ed84944e
-streams:
-  - url: 'https://stream.vanillaradio.com:8090/live'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream.vanillaradio.com:8003/live.m3u'
-    url_resolved: 'https://stream.vanillaradio.com:8003/live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Deep Flavors channel — deep house and downtempo electronic; the broader Vanilla Radio network offers 20+ channels (Smooth, Fresh, Lounge, Jazz, Reggae, Latin, Greek, seasonal)
   notes: Vanilla Radio operates as an ad-free curated music service offering both free streams (Deep, Smooth, Fresh) and premium subscriptions (Ultra Sound at 320 kbps); its tagline quotes Plato — "The music gives soul to the universe, wings to the mind, flight to imagination, and charm and joy to life and to everything"; the Deep Flavors channel is one of the network's longest-running deep-house streams and is popular as background music for hospitality venues across southeastern Europe.
   sources: https://www.vanillaradio.com/
+curation: 0.3
+provenance:
+  - radiobrowser-dc5e17c8-fd20-4886-ade1-1a77ed84944e
+streams:
+  - url: https://stream.vanillaradio.com:8090/live
+    codec: MP3
+    bitrate: 320
+  - url: https://stream.vanillaradio.com:8003/live.m3u
+    url_resolved: https://stream.vanillaradio.com:8003/live
+    codec: MP3
+    bitrate: 128

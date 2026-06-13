@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:29:57
 clickcount: 33
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-b45002ed-3692-11e9-9b4e-52543be04c81
-streams:
-  - url: 'http://live.slovakradio.sk:8000/Slovensko_256.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://live.slovakradio.sk:8000/Slovensko_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,15 @@ research:
   format: General programming, news, music, current affairs; primary public radio service
   notes: SRo1 Rádio Slovensko is the flagship public radio station in Slovakia operated by RTVS; provides general interest programming and news to Slovak audience; available in high-quality 256k stream
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-b45002ed-3692-11e9-9b4e-52543be04c81
+  - iprd-sk-sro1-radio-slovensko-1328a7a2
+  - iprd-sk-sro1-radio-slovensko-dd2ce4d3
+streams:
+  - url: http://live.slovakradio.sk:8000/Slovensko_256.mp3
+    codec: MP3
+    bitrate: 256
+  - url: http://live.slovakradio.sk:8000/Slovensko_128.mp3
+    codec: MP3
+    bitrate: 128

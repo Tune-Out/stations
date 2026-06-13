@@ -21,16 +21,6 @@ lastchangetime: 2026-02-23 17:39:23
 clickcount: 0
 geo_lat: 47.15000964527743
 geo_long: 24.516968311507156
-curation: 0.35
-provenance:
-  - radiobrowser-33bbaa8a-d362-4d4d-88b4-888644ac5cbf
-streams:
-  - url: 'https://radio.mediacp.eu/stream/radiosomes'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://radio.mediacp.eu/stream/radiosomes'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: Traditional and folkloric music content with news coverage; live 24/7 streaming with musical dedications and shows
   notes: 'Mission statement: "Tradiție și folclor pentru Cluj, Sălaj, Bistrița-Năsăud și Maramureș" (Tradition and folklore); broadcasts on multiple FM frequencies across six regions'
   sources: https://radiosomes.ro/
+curation: 0.35
+provenance:
+  - radiobrowser-33bbaa8a-d362-4d4d-88b4-888644ac5cbf
+streams:
+  - url: https://radio.mediacp.eu/stream/radiosomes
+    codec: AAC+
+    bitrate: 64
+  - url: http://radio.mediacp.eu/stream/radiosomes
+    codec: AAC+
+    bitrate: 64

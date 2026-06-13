@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:17:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-cacb51e2-ba8b-11e8-aaf2-52543be04c81
-streams:
-  - url: 'http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8?'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +30,14 @@ research:
   format: Health and wellness programming, medical advice, informational broadcasting
   notes: Part of Jiangsu Province state broadcaster; operates as one of 10 specialized stations in the network covering news, traffic, music, arts, entertainment, health, and finance.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-cacb51e2-ba8b-11e8-aaf2-52543be04c81
+  - iprd-cn-kiangsu-health-radio-520d16a9
+streams:
+  - url: http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8?
+    codec: UNKNOWN
+    hls: true

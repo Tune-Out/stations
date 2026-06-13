@@ -1,7 +1,7 @@
 stationuuid: d4fa780d-d570-4cf0-a819-26261024216a
 name: Antología Vallenata, XEH 14-20 (Monterrey) - 1420 AM - XEH-AM - Grupo Radio Centro - Monterrey, NL
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XEH_AMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XEH_AMAAC.aac
+url: 'https://14553.live.streamtheworld.com:443/XEH_AMAAC.aac'
+url_resolved: 'https://14553.live.streamtheworld.com:443/XEH_AMAAC.aac'
 homepage: https://www.radiocentro.com/
 favicon: https://radiocentro.com/favicon.ico
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 00:05:08
 clickcount: 2
 geo_lat: 25.684540788746897
 geo_long: -100.31976699829102
-curation: -0.05
-provenance:
-  - radiobrowser-d4fa780d-d570-4cf0-a819-26261024216a
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,9 @@ research:
   format: Vallenato and cumbia music programming; Colombian and Latin American tropical music; music-focused format
   notes: Antología Vallenata (XEH-AM 1420) broadcasts Colombian and Latin American tropical music (vallenato, cumbia) in Monterrey; owned by Grupo Radio Centro
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d4fa780d-d570-4cf0-a819-26261024216a
+  - iprd-mx-la-h-1420-xeham-68e7bf6e
+  - iprd-mx-la-regiomontana-600-xemn-9a918476
+  - iprd-mx-radio-uno-1120-xeuno-343539cf

@@ -23,16 +23,6 @@ lastchangetime: 2026-04-12 00:50:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-98df81bb-b42f-4e0b-a3e7-20e6fbf886d9
-streams:
-  - url: 'http://148.72.153.65:9201/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://de3.amfmph.com:8715/live'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Music, news, talk programming
   notes: Commercial radio station FMR Central Luzon on 105.5 FM serving San Fernando City and Pampanga province; bilingual programming in Filipino and Kapampangan; local and regional news focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-98df81bb-b42f-4e0b-a3e7-20e6fbf886d9
+streams:
+  - url: http://148.72.153.65:9201/stream
+    codec: AAC+
+    bitrate: 64
+  - url: http://de3.amfmph.com:8715/live
+    codec: AAC+
+    bitrate: 64

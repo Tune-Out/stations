@@ -1,7 +1,7 @@
 stationuuid: 9f366e25-87d1-4e76-9ead-f14f40dd36ff
 name: Rebel Spinner PM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2103903.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2103903.mp3
+url: 'https://14223.live.streamtheworld.com:443/SP_R2103903.mp3'
+url_resolved: 'https://14223.live.streamtheworld.com:443/SP_R2103903.mp3'
 homepage: https://rebelspinner.com/m-home/
 favicon: https://rebelspinner.com/wp-content/uploads/2020/05/mobilehader.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-03-25 13:11:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9f366e25-87d1-4e76-9ead-f14f40dd36ff
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -31,3 +28,6 @@ research:
   format: Diverse format, multiple shows.
   notes: Independent internet radio station with streaming service.
   sources: https://rebelspinner.com/m-home/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-9f366e25-87d1-4e76-9ead-f14f40dd36ff

@@ -25,14 +25,6 @@ lastchangetime: 2026-04-10 00:00:03
 clickcount: 0
 geo_lat: 18.65313860889904
 geo_long: -91.81544780731204
-curation: -0.05
-provenance:
-  - radiobrowser-e3b88926-14a6-4229-adfb-b1ddf692ec32
-streams:
-  - url: 'https://s2.mexside.net:7162/;'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://s2.mexside.net:7162/;'
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +34,12 @@ research:
   format: Regional Mexican music (norteño, regional mexicana, tropical); entertainment
   notes: Commercial FM radio station (100.5 FM / XHBCC-FM) licensed to Ciudad del Carmen, Campeche, Mexico. Part of Corporativo Rivas broadcasting group. Specializes in regional Mexican music and cultural programming for the southeast region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e3b88926-14a6-4229-adfb-b1ddf692ec32
+  - iprd-mx-la-reverenda-de-oriente-91-9-xhmet-60a73c19
+streams:
+  - url: https://s2.mexside.net:7162/;
+    codec: AAC+
+    bitrate: 128
+  - url: https://s2.mexside.net:7162/;

@@ -1,7 +1,7 @@
 stationuuid: 15bca0b8-e413-4cd1-9a38-bde7c96abbb3
 name: Smooth FM Brisbane (AAC+ 48k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC48.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC48.aac
+url: 'http://28803.live.streamtheworld.com:80/SMOOTH_BRISBANE_AAC48.aac'
+url_resolved: 'http://28803.live.streamtheworld.com:80/SMOOTH_BRISBANE_AAC48.aac'
 homepage: https://smooth.com.au/station/smoothfmbrisbane
 favicon: https://i.ibb.co/4sf2VtL/300351188-127081350061367-3496605637001018922-n.jpg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 23:45:49
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-15bca0b8-e413-4cd1-9a38-bde7c96abbb3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Commercial easy listening and popular music format
   notes: Commercial Australian radio station part of the Smooth FM network; serves Brisbane metropolitan area with easy listening and pop music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-15bca0b8-e413-4cd1-9a38-bde7c96abbb3

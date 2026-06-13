@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:34:17
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-56322f1e-0b86-4e1f-8fef-5b983e7eddfc
-streams:
-  - url: 'http://manele.capitalfm.ro:8020/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ssl.omegahost.ro:8020/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Manele and party music (traditional Romanian/Balkan folk pop); entertainment and party programming.
   notes: Capital FM is a major commercial radio station in Romania. Manele is a distinct genre of Balkan popular music. Station targets party/nightlife audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-56322f1e-0b86-4e1f-8fef-5b983e7eddfc
+streams:
+  - url: http://manele.capitalfm.ro:8020/;
+    codec: MP3
+    bitrate: 128
+  - url: https://ssl.omegahost.ro:8020/stream
+    codec: MP3
+    bitrate: 128

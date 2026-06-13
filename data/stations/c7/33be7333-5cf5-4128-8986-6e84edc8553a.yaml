@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 1
 geo_lat: 34.05362657320458
 geo_long: -118.2435805267652
-curation: 0.35
-provenance:
-  - radiobrowser-33be7333-5cf5-4128-8986-6e84edc8553a
-streams:
-  - url: 'https://s4.voscast.com:8865/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://s4.voscast.com:8864/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Armenian music and community programming
   notes: Positioned as "First Armenian Radio Station in USA" and "Best Armenian Radio Station in USA." Serves Armenian diaspora primarily in California region with digital-first approach. Features music video showcase, live streaming (audio and video), iOS/Android apps, and audience submission process for songs. Content emphasizes music promotion and community connection through social media platforms.
   sources: https://radiojan.com/
+curation: 0.35
+provenance:
+  - radiobrowser-33be7333-5cf5-4128-8986-6e84edc8553a
+  - iprd-us-radio-jan-armenian-radio-107-5-cd4f618c
+streams:
+  - url: https://s4.voscast.com:8865/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://s4.voscast.com:8864/stream
+    codec: MP3
+    bitrate: 128

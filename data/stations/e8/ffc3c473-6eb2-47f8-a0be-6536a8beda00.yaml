@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:47:33
 clickcount: 8
 geo_lat: 40.37904765421735
 geo_long: -3.6996459960937504
-curation: 0.40
-provenance:
-  - radiobrowser-ffc3c473-6eb2-47f8-a0be-6536a8beda00
-streams:
-  - url: 'https://stream.zeno.fm/7ywx2u45vv8uv'
-    url_resolved: 'https://stream-153.zeno.fm/7ywx2u45vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eXd4MnU0NXZ2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieDhqMFJsWDhRc2U3NTdRQnRhb05PQSIsImlhdCI6MTc2ODQ2MzE1MCwiZXhwIjoxNzY4NDYzMjEwfQ.V6vfsT3fVVsdtV9XIO6dbLIL9Vc7djnpI97Er62y-qU'
-    codec: MP3
-  - url: 'http://stream.zeno.fm/ocinyyji4rntv'
-    url_resolved: 'http://stream-156.zeno.fm/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidDc4X1N2bFRRamFDc2drbWI4MEtUZyIsImlhdCI6MTc2ODQ1OTA4NCwiZXhwIjoxNzY4NDU5MTQ0fQ.CCTHpaSX8NRfLXGtKsTxDD41V-88RgRrjItVaTtyAgU'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -41,3 +31,13 @@ research:
   format: news, information and variety ("informacion", "noticias", "variado") in Castilian Spanish
   notes: '"Radio Espana" (using the IDN domain radioespana.es) is a small Madrid-based internet radio outlet offering Spanish-language news and variety programming via Zeno.fm; it is not affiliated with Radio Nacional de Espana (RNE), the public broadcaster, despite the similar name.'
   sources: internal knowledge (homepage fetch failed)
+curation: 0.4
+provenance:
+  - radiobrowser-ffc3c473-6eb2-47f8-a0be-6536a8beda00
+streams:
+  - url: https://stream.zeno.fm/7ywx2u45vv8uv
+    url_resolved: https://stream-153.zeno.fm/7ywx2u45vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eXd4MnU0NXZ2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieDhqMFJsWDhRc2U3NTdRQnRhb05PQSIsImlhdCI6MTc2ODQ2MzE1MCwiZXhwIjoxNzY4NDYzMjEwfQ.V6vfsT3fVVsdtV9XIO6dbLIL9Vc7djnpI97Er62y-qU
+    codec: MP3
+  - url: http://stream.zeno.fm/ocinyyji4rntv
+    url_resolved: http://stream-156.zeno.fm/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidDc4X1N2bFRRamFDc2drbWI4MEtUZyIsImlhdCI6MTc2ODQ1OTA4NCwiZXhwIjoxNzY4NDU5MTQ0fQ.CCTHpaSX8NRfLXGtKsTxDD41V-88RgRrjItVaTtyAgU
+    codec: MP3

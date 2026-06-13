@@ -1,7 +1,7 @@
 stationuuid: b38089b2-8e60-483e-be41-2e1e35b5e370
 name: 2WCR - Warrumbungle Community Radio - Coonabarabran - 99.5 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2WCR.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2WCR.mp3
+url: 'http://28893.live.streamtheworld.com:80/2WCR.mp3'
+url_resolved: 'http://28893.live.streamtheworld.com:80/2WCR.mp3'
 homepage: http://2wcrfm.org.au/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:42:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b38089b2-8e60-483e-be41-2e1e35b5e370
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Easy listening, variety music, community talk, Indigenous programming
   notes: Licensed community radio on 99.5 FM in rural NSW town of Coonabarabran. Serves Warrumbungle region with strong focus on Indigenous community engagement and cultural programming. Volunteer-operated.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b38089b2-8e60-483e-be41-2e1e35b5e370

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3afb7b74-5946-44d5-98c5-f70808d4526d
-streams:
-  - url: 'https://stream.probroadcast.dk/radioviva'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.wlmm.dk/radioviva'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Mixed contemporary hit radio and local community programming
   notes: Commercial radio station based in Kolding, Jutland region of Denmark; local broadcaster serving regional audience
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3afb7b74-5946-44d5-98c5-f70808d4526d
+streams:
+  - url: https://stream.probroadcast.dk/radioviva
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.wlmm.dk/radioviva
+    codec: MP3
+    bitrate: 192

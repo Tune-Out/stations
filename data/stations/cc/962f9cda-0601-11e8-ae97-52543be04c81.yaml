@@ -1,6 +1,6 @@
 stationuuid: 962f9cda-0601-11e8-ae97-52543be04c81
 name: WKRU "KRUZ @106.7" Green Bay, WI
-url: http://provisioning.streamtheworld.com/pls/WKRUFMAAC.pls
+url: 'http://27153.live.streamtheworld.com:80/WKRUFMAAC_SC'
 url_resolved: http://29263.live.streamtheworld.com:3690/WKRUFMAAC_SC
 homepage: http://www.wkrufm.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3251/squareIcon.png?r=95417
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:14:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-962f9cda-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Adult album alternative (AAA); indie rock, alternative, classic rock; 106.7 FM
   notes: Commercial radio station serving Green Bay market; AAA format emphasizing alternative and indie music alongside classic hits
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-962f9cda-0601-11e8-ae97-52543be04c81

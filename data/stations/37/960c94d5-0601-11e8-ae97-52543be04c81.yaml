@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 01:37:59
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-960c94d5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://mediagw.e-tiger.net/stream/cfmhq'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://mediagw.e-tiger.net/stream/xbeathq'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mediagw.e-tiger.net/stream/krehq'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,20 @@ research:
   format: Multi-genre contemporary hits with 30+ themed sub-channels including rock, jazz, hip-hop, dance, Latin, country, and "Goldies" (80s-2000s)
   notes: Cool FM originally broadcast on FM 107.3 in Budapest before transitioning to internet-only streaming, allowing expansion to 30+ genre channels; mission expressed as "Mindenki szereti a zenét, de nem mindenki ugyanazt a zenét szereti" (Everyone loves music, but not everyone the same music); notable programming includes XBEAT DJ mixes (evenings 8pm-midnight) and the GOLDIES retro channel; the Radio Browser "university radio" tag appears to be a tagging artifact rather than a confirmed affiliation; not affiliated with the better-known Cool FM brands in Northern Ireland or Nigeria.
   sources: http://www.coolfm.hu/, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-960c94d5-0601-11e8-ae97-52543be04c81
+  - iprd-gb-cool-fm-4e424dec
+  - iprd-hu-cool-fm-f1292961
+  - iprd-hu-cool-fm-kultx-3df4f282
+  - iprd-hu-cool-fm-xbeat-15bbc0b4
+streams:
+  - url: http://mediagw.e-tiger.net/stream/cfmhq
+    codec: MP3
+    bitrate: 192
+  - url: http://mediagw.e-tiger.net/stream/xbeathq
+    codec: MP3
+    bitrate: 128
+  - url: http://mediagw.e-tiger.net/stream/krehq
+    codec: MP3
+    bitrate: 128

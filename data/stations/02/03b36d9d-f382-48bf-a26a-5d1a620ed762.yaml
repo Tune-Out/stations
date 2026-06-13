@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:27:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-03b36d9d-f382-48bf-a26a-5d1a620ed762
-streams:
-  - url: 'http://ais-edge105-live365-dal02.cdnstream.com/a37180'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming.live365.com/b55667_128mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Christmas music year-round; "The Biggest Hits of Christmas and More"
   notes: Non-commercial internet station described as "Where Everyday is Christmas". Part of Boss Nation of Stations network which also operates That 70s Channel, That 90s Channel, Alt Boss Gold, Play FM Online, and Boss Country Radio. Streams via Live365 and OnlineRadioBox.
   sources: thatchristmaschannel.com
+curation: 0.35
+provenance:
+  - radiobrowser-03b36d9d-f382-48bf-a26a-5d1a620ed762
+  - iprd-us-that-christmas-channel-1e0a1e80
+streams:
+  - url: http://ais-edge105-live365-dal02.cdnstream.com/a37180
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming.live365.com/b55667_128mp3
+    codec: MP3
+    bitrate: 128

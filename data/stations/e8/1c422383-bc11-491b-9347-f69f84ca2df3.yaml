@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:35:55
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-1c422383-bc11-491b-9347-f69f84ca2df3
-streams:
-  - url: 'http://playground.stream.laut.fm/playground?t302=2019-08-15_17-45-19&uuid=74a24b34-418f-487d-872b-1377b197775b'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://playground.stream.laut.fm/playground'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,15 @@ research:
   format: Darkwave, gothic, and indie music programming.
   notes: Non-commercial internet radio station specializing in darkwave, gothic, and indie music genres. Niche music-focused broadcaster.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-1c422383-bc11-491b-9347-f69f84ca2df3
+  - iprd-de-playground-radio-ff39ab73
+  - iprd-de-playground-radio-5afacdbc
+streams:
+  - url: http://playground.stream.laut.fm/playground?t302=2019-08-15_17-45-19&uuid=74a24b34-418f-487d-872b-1377b197775b
+    codec: MP3
+    bitrate: 128
+  - url: http://playground.stream.laut.fm/playground
+    codec: MP3
+    bitrate: 128

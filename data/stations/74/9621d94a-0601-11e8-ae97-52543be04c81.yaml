@@ -1,6 +1,6 @@
 stationuuid: 9621d94a-0601-11e8-ae97-52543be04c81
 name: CFXM 104.9 "M 105" Granby, QC
-url: http://provisioning.streamtheworld.com/pls/CFXMFMAAC.pls
+url: 'http://17813.live.streamtheworld.com:80/CFXMFMAAC_SC'
 url_resolved: http://29243.live.streamtheworld.com:3690/CFXMFMAAC_SC
 homepage: https://www.m105.ca/
 favicon: https://www.m105.ca/favicon.ico
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 08:31:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9621d94a-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,7 @@ research:
   format: Easy listening, soft AC, and adult contemporary.
   notes: Call letters CFXM; branded as M 105 in French-Canadian market; part of major Canadian broadcaster group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9621d94a-0601-11e8-ae97-52543be04c81
+  - iprd-ca-cfxm-104-9-m-105-e662438d

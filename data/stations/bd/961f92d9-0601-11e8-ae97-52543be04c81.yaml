@@ -25,20 +25,6 @@ lastchangetime: 2026-01-14 23:58:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961f92d9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://server8.blitz-stream.de:9100/'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://top20radio.spcast.eu/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://server8.blitz-stream.de:9100/listen.pls'
-    url_resolved: 'http://top20radio.spcast.eu/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +34,19 @@ research:
   format: 80s hits, 90s hits, pop, rock, top 20 contemporary hits
   notes: German commercial online radio station. Specializes in 1980s and 1990s hits plus contemporary top 20 music. Serves German-speaking market and broader European audience. 2,001 votes. MP3 320 kbps high-quality streaming via Blitz-Stream.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961f92d9-0601-11e8-ae97-52543be04c81
+  - iprd-de-top20radio-315389ef
+  - iprd-de-aaa-221a7901
+streams:
+  - url: http://server8.blitz-stream.de:9100/
+    codec: MP3
+    bitrate: 320
+  - url: https://top20radio.spcast.eu/stream
+    codec: MP3
+    bitrate: 320
+  - url: http://server8.blitz-stream.de:9100/listen.pls
+    url_resolved: http://top20radio.spcast.eu/stream
+    codec: MP3
+    bitrate: 320

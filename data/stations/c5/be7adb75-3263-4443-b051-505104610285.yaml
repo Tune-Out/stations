@@ -26,22 +26,6 @@ lastchangetime: 2026-01-15 01:55:39
 clickcount: 0
 geo_lat: 19.170057749809533
 geo_long: -96.13407522439958
-curation: 0.35
-provenance:
-  - radiobrowser-be7adb75-3263-4443-b051-505104610285
-streams:
-  - url: 'https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8'
-    codec: AAC
-    bitrate: 99
-    hls: true
-  - url: 'https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8'
-    codec: AAC
-    bitrate: 98
-    hls: true
-  - url: 'https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a0112844d3c94ecf11dd96/playlist.m3u8'
-    codec: AAC
-    bitrate: 98
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -51,3 +35,19 @@ research:
   format: 88.5 FM pop and pop-rock music with entertainment and local information
   notes: 'MÁXIMA 88.5 (XHIL-FM) operates in Veracruz, Mexico as part of Grupo RADIOSA. Format: pop, pop-rock, Latin pop music with emphasis on entertainment and local community information. Station signals span Veracruz city, Boca del Río, and surrounding "Sureste" (Southeast) region.'
   sources: https://veracruz.maximafm.com.mx/
+curation: 0.35
+provenance:
+  - radiobrowser-be7adb75-3263-4443-b051-505104610285
+streams:
+  - url: https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
+    codec: AAC
+    bitrate: 99
+    hls: true
+  - url: https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
+    codec: AAC
+    bitrate: 98
+    hls: true
+  - url: https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a0112844d3c94ecf11dd96/playlist.m3u8
+    codec: AAC
+    bitrate: 98
+    hls: true

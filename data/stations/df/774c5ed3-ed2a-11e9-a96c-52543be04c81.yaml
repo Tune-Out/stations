@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-774c5ed3-ed2a-11e9-a96c-52543be04c81
-streams:
-  - url: 'http://stream2.jenny.fm:9900/'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://stream2.jenny.fm:9000/'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://stream1.jenny.fm:8500/'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: unknown
@@ -41,3 +28,16 @@ research:
   format: Unknown; limited information available
   notes: Jenny.FM operates in Germany. Limited public metadata available.
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-774c5ed3-ed2a-11e9-a96c-52543be04c81
+streams:
+  - url: http://stream2.jenny.fm:9900/
+    codec: MP3
+    bitrate: 320
+  - url: http://stream2.jenny.fm:9000/
+    codec: MP3
+    bitrate: 320
+  - url: http://stream1.jenny.fm:8500/
+    codec: MP3
+    bitrate: 320

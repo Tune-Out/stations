@@ -23,25 +23,6 @@ lastchangetime: 2026-01-15 03:31:41
 clickcount: 82
 geo_lat: null
 geo_long: null
-curation: 0.90
-provenance:
-  - radiobrowser-960ac54b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://relax.stream.publicradio.org/relax.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://favorites.stream.publicradio.org/favorites.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ycradio.stream.publicradio.org/ycradio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://lullabies.stream.publicradio.org/lullabies.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://holiday.stream.publicradio.org/holiday_yc.mp3?cb=8282040137'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -51,3 +32,27 @@ research:
   format: Continuous, host-light stream of soothing/relaxing classical music — slow movements, ambient classical, contemplative and meditative works; a curated relaxation sub-stream of the main YourClassical service
   notes: "YourClassical is the umbrella classical-music brand of MPR/APM, encompassing flagship Classical MPR (KSJN-FM Minneapolis-St. Paul) and several themed online streams. YourClassical Relax is one of the themed streams alongside YourClassical Choral Stream, Piano, Lullaby etc. Quoted mission paraphrase: \"Everybody loves classical music; however, not everyone knows that yet.\" Operates under MPR's public-service charter as a non-profit 501(c)(3)."
   sources: http://www.yourclassical.org/, internal knowledge
+curation: 0.9
+provenance:
+  - radiobrowser-960ac54b-0601-11e8-ae97-52543be04c81
+  - iprd-us-minnesota-public-radio-classical-4a2b7666
+  - iprd-us-your-classical-favorites-b809e0c1
+  - iprd-us-your-classical-holiday-ba6f37b7
+  - iprd-us-your-classical-lullabies-384ae463
+  - iprd-us-your-classical-relax-5cb44a28
+streams:
+  - url: http://relax.stream.publicradio.org/relax.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://favorites.stream.publicradio.org/favorites.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://ycradio.stream.publicradio.org/ycradio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://lullabies.stream.publicradio.org/lullabies.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://holiday.stream.publicradio.org/holiday_yc.mp3?cb=8282040137
+    codec: MP3
+    bitrate: 128

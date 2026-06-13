@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96303577-0601-11e8-ae97-52543be04c81
-duplicate_of: b8127292-018f-4a3a-a570-1ecee5d4753c
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-rlp-128-aac?usid=0-0-H-A-D-01'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-rlp-128-aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: Dance and EDM music; contemporary electronic dance music and club-oriented programming
   notes: bigFM Rheinland-Pfalz is a regional variant of the bigFM network serving the Rhineland-Palatinate state in western Germany. This "Hot Music Radio" variant emphasizes dance, EDM, and electronic music for younger demographics interested in club and festival music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96303577-0601-11e8-ae97-52543be04c81
+duplicate_of: b8127292-018f-4a3a-a570-1ecee5d4753c
+streams:
+  - url: http://streams.bigfm.de/bigfm-rlp-128-aac?usid=0-0-H-A-D-01
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-rlp-128-aac
+    codec: AAC

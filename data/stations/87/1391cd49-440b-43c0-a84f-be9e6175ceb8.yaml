@@ -1,7 +1,7 @@
 stationuuid: 1391cd49-440b-43c0-a84f-be9e6175ceb8
 name: FM Blackie 89.1
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/BLACKIE_89_1.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/BLACKIE_89_1.mp3
+url: 'https://24463.live.streamtheworld.com:443/BLACKIE_89_1.mp3'
+url_resolved: 'https://24463.live.streamtheworld.com:443/BLACKIE_89_1.mp3'
 homepage: https://fmblackie.com.ar/
 favicon: https://fmblackie.com.ar/wp-content/themes/blackie/images/logo.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:40:06
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-1391cd49-440b-43c0-a84f-be9e6175ceb8
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Jazz, music
   notes: FM Blackie 89.1 is a jazz-focused commercial radio station in Argentina, streaming via StreamTheWorld platform.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-1391cd49-440b-43c0-a84f-be9e6175ceb8

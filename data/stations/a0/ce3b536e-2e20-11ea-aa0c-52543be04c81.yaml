@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:15:15
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ce3b536e-2e20-11ea-aa0c-52543be04c81
-streams:
-  - url: 'http://stream.chantefrance.com/cf-nouveautes.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: '"Nouveautés" (New Releases) sub-stream of Chante France — recent and current French-language pop and chanson releases'
   notes: Chante France is a Paris-based all-French-music brand operated by Groupe HPI; the main feed is distributed on DAB+ across France, online and via a mobile app, and is complemented by a family of decade- and mood-themed webradio sub-streams of which "Chante France Nouveautés" is one; the Nouveautés stream focuses on newly released and currently charting French-language music; sister streams in the catalog include Chante France 70s, 80s, 90s/2000s, Emotion and others.
   sources: https://www.chantefrance.com/
+curation: -0.05
+provenance:
+  - radiobrowser-ce3b536e-2e20-11ea-aa0c-52543be04c81
+  - iprd-fr-chante-france-nouveaut-s-428d2a07
+streams:
+  - url: http://stream.chantefrance.com/cf-nouveautes.aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-128.mp3
+    codec: MP3
+    bitrate: 128

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:54:30
 clickcount: 18
 geo_lat: 48.199239
 geo_long: 15.6295597
-curation: 0.55
-provenance:
-  - radiobrowser-c4a15de4-ce45-401f-bfb1-f98f818a74f0
-streams:
-  - url: 'http://orf-live.ors-shoutcast.at/noe-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://orf-live.ors-shoutcast.at/noe-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: Regional public-service full-service station — Austropop and Schlager music, regional news, traffic, weather, agriculture, culture and community service programming
   notes: ORF Radio Niederösterreich is the Lower Austrian regional channel of ORF, broadcast from the Landesstudio in St. Pölten on multiple FM frequencies covering the state (e.g. 95.5, 97.9, 102.1 MHz) as well as DAB+ and online streaming. The "HQ" stream refers to the high-quality (192 kbps) version. It is part of ORF's "Bundesland heute"/"Radio Bundesland" network of nine regional stations and is frequently the most-listened-to local station in Lower Austria.
   sources: https://noe.orf.at/, internal knowledge
+curation: 0.55
+provenance:
+  - radiobrowser-c4a15de4-ce45-401f-bfb1-f98f818a74f0
+  - iprd-at-orf-radio-nieder-sterreich-c210f139
+streams:
+  - url: http://orf-live.ors-shoutcast.at/noe-q2a
+    codec: MP3
+    bitrate: 192
+  - url: https://orf-live.ors-shoutcast.at/noe-q1a
+    codec: MP3
+    bitrate: 128

@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 02:58:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-51db6f1f-9f5c-4c5e-b85e-15f939d1a78a
-streams:
-  - url: 'http://live.radio.si/Radio1'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://live.radio.si/Radio1'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://live.radio1.si/Radio1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +30,18 @@ research:
   format: Varied public radio programming with news, information, and music
   notes: Radio 1 is a major channel of RTV Slovenija, Slovenia's primary public broadcasting service
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-51db6f1f-9f5c-4c5e-b85e-15f939d1a78a
+  - iprd-si-radio-1-107-9-fb6d6c99
+  - iprd-si-radio-1-maribor-107-9-77dde33b
+streams:
+  - url: http://live.radio.si/Radio1
+    codec: MP3
+    bitrate: 128
+  - url: https://live.radio.si/Radio1
+    codec: MP3
+    bitrate: 128
+  - url: https://live.radio1.si/Radio1
+    codec: MP3
+    bitrate: 128

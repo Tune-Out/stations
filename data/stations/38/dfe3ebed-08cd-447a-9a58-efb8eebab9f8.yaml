@@ -24,19 +24,6 @@ lastchangetime: 2026-01-14 23:16:26
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-dfe3ebed-08cd-447a-9a58-efb8eebab9f8
-streams:
-  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://23603.live.streamtheworld.com/RFMAAC.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://22593.live.streamtheworld.com/RFMAAC.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +33,17 @@ research:
   format: Hit music / contemporary pop, rock and dance — the leading mainstream music station in Portugal
   notes: RFM (Rádio Frequência Moderada) launched in 1987 and is the music-format flagship of the Rádio Renascença group, which is owned by the Portuguese Catholic Church (Patriarchate of Lisbon and dioceses); despite the Catholic ownership, RFM is run as a commercial music brand with no religious programming, in contrast to sister station Rádio Renascença (talk/news/religious); RFM has consistently topped or shared the top of Portugal's Bareme Rádio audience surveys for over two decades; notable programmes include the "RFM Somnii" event branding and morning show "RFM Manhã".
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-dfe3ebed-08cd-447a-9a58-efb8eebab9f8
+  - iprd-pt-rfm-1dd2f641
+streams:
+  - url: https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC
+    codec: AAC+
+    bitrate: 64
+  - url: https://23603.live.streamtheworld.com/RFMAAC.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://22593.live.streamtheworld.com/RFMAAC.aac
+    codec: AAC+
+    bitrate: 64

@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-fa805567-16de-4276-aec5-4171ed7a01ed
-streams:
-  - url: 'https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac?aw_0_1st.skey=1728963448&aw_0_1st.playerid=site-player'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac'
-    codec: AAC+
-    bitrate: 95
-  - url: 'https://stream.joe.nl/joe/aachigh'
-    codec: AAC+
-    bitrate: 95
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +32,19 @@ research:
   format: Non-stop 70s and 80s music programming; hits and classics from the decades.
   notes: Joe is a branded radio station in the Netherlands specializing in retro music from the 1970s and 1980s. Part of Q Music's portfolio. Available online and via terrestrial FM.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fa805567-16de-4276-aec5-4171ed7a01ed
+streams:
+  - url: https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac?aw_0_1st.skey=1728963448&aw_0_1st.playerid=site-player
+    codec: AAC+
+    bitrate: 96
+  - url: https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac
+    codec: AAC+
+    bitrate: 95
+  - url: https://stream.joe.nl/joe/aachigh
+    codec: AAC+
+    bitrate: 95

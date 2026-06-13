@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-0f020519-257c-49b5-9e63-dfa9596f515e
-streams:
-  - url: 'https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://dreamsiteradiocp2.com:8030/;stream.mp3'
-    codec: MP3
-    bitrate: 32
-  - url: 'http://dreamsiteradiocp2.com:8006/stream'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +30,18 @@ research:
   format: Religious music, Catholic worship, Rosary recitations, Masses, and Catholic teaching programs.
   notes: Founded 1999 in Madrid as part of global Radio María network (founded Italy 1980s). Volunteer-operated without advertising; mission to proclaim Gospel and call for conversion. Part of World Family of Radio María present in 74 countries.
   sources: https://en.wikipedia.org/wiki/Radio_Maria, https://www.omnesmag.com/en/news/experiences/20-years-of-radio-maria-in-spain-a-life-changing-radio/
+curation: 0.6
+provenance:
+  - radiobrowser-0f020519-257c-49b5-9e63-dfa9596f515e
+  - iprd-es-radio-mar-a-espa-a-483b9202
+  - iprd-es-radio-maria-espana-a94811c0
+streams:
+  - url: https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/
+    codec: AAC+
+    bitrate: 56
+  - url: http://dreamsiteradiocp2.com:8030/;stream.mp3
+    codec: MP3
+    bitrate: 32
+  - url: http://dreamsiteradiocp2.com:8006/stream
+    codec: MP3
+    bitrate: 32

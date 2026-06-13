@@ -22,19 +22,6 @@ lastchangetime: 2026-01-14 23:36:09
 clickcount: 5
 geo_lat: 59.30989674547619
 geo_long: 18.059165775775913
-curation: -0.05
-provenance:
-  - radiobrowser-b30f805d-8402-4555-b182-dcf5fa0820da
-streams:
-  - url: 'https://fm05-ice.stream.khz.se/fm05_aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://fm05-ice.stream.khz.se/fm05_mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://fm05-ice.stream.khz.se/fm05_mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: Pop music radio; contemporary pop and top 40 hits.
   notes: STAR FM 107.1 is a Swedish commercial radio station based in Stockholm operated by Khz Media through iLike Radio platform. Focuses on pop music and contemporary hits. Broadcasts at 128kbps.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b30f805d-8402-4555-b182-dcf5fa0820da
+streams:
+  - url: https://fm05-ice.stream.khz.se/fm05_aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://fm05-ice.stream.khz.se/fm05_mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://fm05-ice.stream.khz.se/fm05_mp3
+    codec: MP3
+    bitrate: 128

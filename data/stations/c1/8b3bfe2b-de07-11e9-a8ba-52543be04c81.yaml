@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-8b3bfe2b-de07-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-kinder-64-aac'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-kinder-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -36,3 +28,11 @@ research:
   format: Children's music and programming (Kinderlieder = children's songs)
   notes: Specialized children's channel of RPR1., a German public radio station serving Rhineland-Palatinate. Part of regional ARD broadcasting system. "Kinderlieder" format specifically targets young audiences with age-appropriate music and entertainment.
   sources: internal knowledge only
+curation: 0.75
+provenance:
+  - radiobrowser-8b3bfe2b-de07-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.rpr1.de/rpr-kinder-64-aac
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-kinder-128-mp3
+    codec: MP3

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 23:32:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9623bcfb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://players.fluidstream.net/radio_lady.pls'
-    url_resolved: 'http://ice05.fluidstream.net/fluid0507.mp3?FLID=6'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ice05.fluidstream.net/fluid0507.mp3?FLID=1&type=.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Italian pop music, entertainment
   notes: Local commercial radio station serving Empoli area in Tuscany region. Focused on Italian popular music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9623bcfb-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-lady-e619b5d7
+streams:
+  - url: http://players.fluidstream.net/radio_lady.pls
+    url_resolved: http://ice05.fluidstream.net/fluid0507.mp3?FLID=6
+    codec: MP3
+    bitrate: 128
+  - url: https://ice05.fluidstream.net/fluid0507.mp3?FLID=1&type=.mp3
+    codec: MP3
+    bitrate: 128

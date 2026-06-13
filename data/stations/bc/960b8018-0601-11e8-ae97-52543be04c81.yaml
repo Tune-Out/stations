@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 05:54:35
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960b8018-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream3.blackbeats.fm/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://blackbeats.fm/listen.m3u'
-    url_resolved: 'https://stream3.blackbeats.fm/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Hip-hop, rap, and electronic dance music for German-speaking audiences.
   notes: BLACKBEATS.FM is a German-language hip-hop radio station; streams hip-hop and related urban genres.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960b8018-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://stream3.blackbeats.fm/;
+    codec: MP3
+    bitrate: 128
+  - url: http://blackbeats.fm/listen.m3u
+    url_resolved: https://stream3.blackbeats.fm/
+    codec: MP3
+    bitrate: 128

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 01:49:53
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-9618344a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://wfmu.org/wfmu.pls'
-    url_resolved: 'http://stream2.wfmu.org/freeform-128k'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream3.wfmu.org/freeform-32k'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +31,16 @@ research:
   format: Freeform FM — music, spoken word, educational programming, and community content; volunteer DJs with complete autonomy over playlists; genres span indie rock, experimental, world music, jazz, comedy, and archive material
   notes: WFMU 91.1 FM is a legendary independent/college radio station licensed to East Orange, New Jersey since 1958; operates under non-commercial educational license with listener/volunteer funding; known for pioneering freeform format and supporting local/independent artists; streams globally; famous for on-air host culture and listener call-in shows; winner of numerous community broadcasting awards
   sources: https://wfmu.org/
+curation: 0.55
+provenance:
+  - radiobrowser-9618344a-0601-11e8-ae97-52543be04c81
+  - iprd-us-wfmu-91-1-ef50400e
+  - iprd-us-wfmu-91-1-4f269445
+streams:
+  - url: https://wfmu.org/wfmu.pls
+    url_resolved: http://stream2.wfmu.org/freeform-128k
+    codec: MP3
+    bitrate: 128
+  - url: http://stream3.wfmu.org/freeform-32k
+    codec: MP3
+    bitrate: 32

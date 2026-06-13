@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 02:10:00
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-60f46e8b-c57f-4ef0-8aea-be92dddfca43
-streams:
-  - url: 'https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3?1781007629'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: Electronic music; 24/7 streaming with structured daily schedule (psybient, ambient, indie, charts, electronic genres)
   notes: Broadcasting worldwide since 2020; emphasis on chill and relaxation programming with shows like "Morning Coffee" and "Wakey Bakey"
   sources: https://maydayrecords.net/
+curation: 0.55
+provenance:
+  - radiobrowser-60f46e8b-c57f-4ef0-8aea-be92dddfca43
+streams:
+  - url: https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3?1781007629
+    codec: MP3
+    bitrate: 256

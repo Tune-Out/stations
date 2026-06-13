@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 08:36:02
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8c86cad4-5a85-49c6-9984-4476b940acfc
-streams:
-  - url: 'http://stream6.hippynet.co.uk:8023/automation.m3u'
-    url_resolved: 'http://stream6.hippynet.co.uk:8023/automation'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://stream2.hippynet.co.uk:8023/live'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://stream6.hippynet.co.uk:8023/playout'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +31,18 @@ research:
   format: Soul music, funk, groove, R&B, and related soulful genres featuring classic and contemporary artists.
   notes: UK-based internet radio station dedicated to soul and groove music. Streams soul, funk, R&B, and groovy music for enthusiasts. Operates via online streaming platform. Focuses on soulful genres spanning classic soul through contemporary R&B artists. Appeals to soul music community across UK and internationally.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8c86cad4-5a85-49c6-9984-4476b940acfc
+  - iprd-gb-soul-groove-radio-07e1d5ab
+streams:
+  - url: http://stream6.hippynet.co.uk:8023/automation.m3u
+    url_resolved: http://stream6.hippynet.co.uk:8023/automation
+    codec: MP3
+    bitrate: 320
+  - url: http://stream2.hippynet.co.uk:8023/live
+    codec: MP3
+    bitrate: 256
+  - url: http://stream6.hippynet.co.uk:8023/playout
+    codec: MP3
+    bitrate: 256

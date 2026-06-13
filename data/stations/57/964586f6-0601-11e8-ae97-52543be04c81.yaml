@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 08:48:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-964586f6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/bbeachhouse/aac-64/audio/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-berlinbeachhouse-aacplus-64-4242899?sABC=6968n9q9%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768466905'
-    codec: AAC
-  - url: 'http://streams.fluxfm.de/bbeachhouse/mp3-128/audio/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-128-8501254?sABC=6968n3p1%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768465345'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/bbeachhouse/mp3-320/audio/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-320-2854993?sABC=69688p70%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768459376'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +30,19 @@ research:
   format: Specialized electronic, indie, hip-hop, jazz, metal, and alternative music; 30+ branded channels.
   notes: Non-commercial community radio station based in Berlin; operates "Berlin Beach House Radio" channel alongside ElektroFlux, Techno Underground, Sound of Berlin, and other specialized channels; emphasis on "become part of the Flux community"; podcasts, interviews, live events, and cultural programming; mobile app (FluxMusic) and online streaming.
   sources: http://www.fluxfm.de/
+curation: 0.6
+provenance:
+  - radiobrowser-964586f6-0601-11e8-ae97-52543be04c81
+  - iprd-de-fluxfm-berlin-beach-house-radio-d667efbe
+  - iprd-de-fluxfm-berlin-beach-house-radio-39889562
+  - iprd-de-fluxfm-berlin-beach-house-radio-6c8edec4
+streams:
+  - url: http://streams.fluxfm.de/bbeachhouse/aac-64/audio/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-berlinbeachhouse-aacplus-64-4242899?sABC=6968n9q9%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768466905
+    codec: AAC
+  - url: http://streams.fluxfm.de/bbeachhouse/mp3-128/audio/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-128-8501254?sABC=6968n3p1%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768465345
+    codec: MP3
+  - url: http://streams.fluxfm.de/bbeachhouse/mp3-320/audio/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-320-2854993?sABC=69688p70%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768459376
+    codec: MP3

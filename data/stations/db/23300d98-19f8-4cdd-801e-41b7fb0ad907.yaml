@@ -1,7 +1,7 @@
 stationuuid: 23300d98-19f8-4cdd-801e-41b7fb0ad907
 name: 98.3 The Vibe
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC.aac
+url: 'https://13743.live.streamtheworld.com:443/KWQWFMAAC.aac'
+url_resolved: 'https://13743.live.streamtheworld.com:443/KWQWFMAAC.aac'
 homepage: https://www.983vibe.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3161/squareIcon.png?r=94617
 tags:
@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:40:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-23300d98-19f8-4cdd-801e-41b7fb0ad907
-streams:
-  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://provisioning.streamtheworld.com/pls/KWQWFMAAC.pls'
-    url_resolved: 'http://18433.live.streamtheworld.com:3690/KWQWFMAAC_SC'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Urban contemporary, hip-hop, R&B, modern urban music
   notes: Commercial station (98.3 FM equivalent) serving the Boone, Iowa market with urban contemporary format. Focus on hip-hop, R&B, and modern urban music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-23300d98-19f8-4cdd-801e-41b7fb0ad907
+streams:
+  - url: 'https://13743.live.streamtheworld.com:443/KWQWFMAAC.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://18433.live.streamtheworld.com:80/KWQWFMAAC_SC'
+    url_resolved: http://18433.live.streamtheworld.com:3690/KWQWFMAAC_SC
+    codec: AAC+
+    bitrate: 48

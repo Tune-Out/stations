@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 05:41:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-25f33699-137e-4927-a7c0-9f067f92bc63
-streams:
-  - url: 'https://drive.uber.radio/uber/crarturotoscanini/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crarturotoscanini/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Classical music, orchestral, art music
   notes: Arturo Toscanini - Classical Radio is a commercial internet radio station named after the legendary Italian conductor. Provides 24/7 classical music, orchestral works, and art music programming to a global audience via UAE-based streaming.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-25f33699-137e-4927-a7c0-9f067f92bc63
+streams:
+  - url: https://drive.uber.radio/uber/crarturotoscanini/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crarturotoscanini/icecast.audio
+    codec: MP3

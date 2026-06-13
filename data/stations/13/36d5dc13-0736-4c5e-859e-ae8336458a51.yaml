@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-36d5dc13-0736-4c5e-859e-ae8336458a51
-streams:
-  - url: 'https://cast.ner.gov.tw/9'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast.ner.gov.tw/8'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: Educational programming, cultural content, news, and information
   notes: 教育廣播電臺 (National Education Radio) is Taiwan's government-funded educational public broadcaster. Hualien Branch (FM-2) serves eastern Taiwan. Broadcasts educational content, cultural programming, news and information to support educational development and public awareness in Chinese language.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-36d5dc13-0736-4c5e-859e-ae8336458a51
+  - iprd-tw-educational-radio-station-hualien-branch-fm-1-61fc4577
+  - iprd-tw-educational-radio-station-hualien-branch-fm-2-796d2b1b
+streams:
+  - url: https://cast.ner.gov.tw/9
+    codec: MP3
+    bitrate: 128
+  - url: https://cast.ner.gov.tw/8
+    codec: MP3
+    bitrate: 128

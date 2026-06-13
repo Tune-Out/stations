@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 07:23:17
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-37e6772a-5ab7-429d-84bc-fedc606cc8c4
-streams:
-  - url: 'https://systrum.net/SSR1.m3u'
-    url_resolved: 'https://systrum.net:8443/SSR1'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://systrum.net/SSR2.m3u'
-    url_resolved: 'https://systrum.net:8443/SSR2'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +33,17 @@ research:
   format: Ambient, drone, electronica, experimental; two main channels SSR1 (ambient/drone) and SSR2 (electronica/dance) plus listener request programming
   notes: '"SSR is a not-for-profit online radio dedicated to left-field electronic and ambient music." Founded 2003-2008, revived 2018 by Brisbane, Australia and Budapest, Hungary-based operators. Community-driven with listener request queue (Vox Pop shows). Emphasizes open-source ethos with available desktop player from open-source repository.'
   sources: https://www.systrum.net/
+curation: 0.4
+provenance:
+  - radiobrowser-37e6772a-5ab7-429d-84bc-fedc606cc8c4
+  - iprd-au-systrum-sistum-ssr1-b881f7ea
+  - iprd-au-systrum-sistum-ssr2-efc31c87
+streams:
+  - url: https://systrum.net/SSR1.m3u
+    url_resolved: https://systrum.net:8443/SSR1
+    codec: MP3
+    bitrate: 256
+  - url: https://systrum.net/SSR2.m3u
+    url_resolved: https://systrum.net:8443/SSR2
+    codec: MP3
+    bitrate: 256

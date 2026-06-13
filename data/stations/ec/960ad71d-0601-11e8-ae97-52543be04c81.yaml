@@ -1,6 +1,6 @@
 stationuuid: 960ad71d-0601-11e8-ae97-52543be04c81
 name: WJR 760 Detroit, MI
-url: http://provisioning.streamtheworld.com/pls/WJRAMAAC.pls
+url: 'http://17553.live.streamtheworld.com:80/WJRAMAAC_SC'
 url_resolved: http://18363.live.streamtheworld.com/WJRAMAAC_SC
 homepage: http://www.760wjr.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3240/squareIcon.png?r=95317
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960ad71d-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News, talk radio, sports, local news coverage
   notes: WJR (call letters) is 760 AM station in Detroit; Audacy-owned commercial news/talk format; flagship station for Detroit sports and local news; one of Detroit's most-listened stations
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960ad71d-0601-11e8-ae97-52543be04c81

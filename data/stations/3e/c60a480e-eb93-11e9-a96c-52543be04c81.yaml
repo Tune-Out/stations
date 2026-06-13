@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:11:51
 clickcount: 17
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-c60a480e-eb93-11e9-a96c-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Curated stream of long-form classical works — symphonies, operas, concertos and chamber music played in their entirety
   notes: France Musique Classique Plus is one of seven thematic webradios operated by Radio France's France Musique channel, alongside Classique Easy, Concerts Radio France, La Jazz, La Baroque, Ocora Musiques du monde and Cinéma; programmed without presenters as a continuous flow of complete classical works drawn from Radio France's archives and live recordings; the parent France Musique was founded in 1954 and is France's flagship public classical music network.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-c60a480e-eb93-11e9-a96c-52543be04c81
+  - iprd-fr-france-musique-classique-plus-c3701e49
+  - iprd-fr-france-musique-classique-plus-e6f36620
+streams:
+  - url: http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3
+    codec: MP3
+    bitrate: 128

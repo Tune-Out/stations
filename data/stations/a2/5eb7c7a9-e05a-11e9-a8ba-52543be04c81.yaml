@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5eb7c7a9-e05a-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://stream.antenne1.de/a1pf/livestream1.aac'
-    codec: AAC
-  - url: 'http://stream.antenne1.de/a1pf/livestream2.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Commercial hit radio format; music and information programming.
   notes: Hitradio Antenne 1 is major German private radio network; Pforzheim station serves local market; limited details available for this specific frequency.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5eb7c7a9-e05a-11e9-a8ba-52543be04c81
+streams:
+  - url: http://stream.antenne1.de/a1pf/livestream1.aac
+    codec: AAC
+  - url: http://stream.antenne1.de/a1pf/livestream2.mp3
+    codec: MP3

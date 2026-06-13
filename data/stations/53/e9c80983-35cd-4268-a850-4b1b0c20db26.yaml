@@ -21,16 +21,6 @@ lastchangetime: 2026-02-23 18:32:30
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-e9c80983-35cd-4268-a850-4b1b0c20db26
-streams:
-  - url: 'https://stream.laut.fm/swingtime'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://15113.live.streamtheworld.com/SAM04AAC169.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Swing, big band, jazz from the 1930s-1940s era; vintage music
   notes: Specialized internet radio station dedicated to classic swing and jazz music; hosts on laut.fm streaming platform.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-e9c80983-35cd-4268-a850-4b1b0c20db26
+streams:
+  - url: https://stream.laut.fm/swingtime
+    codec: MP3
+    bitrate: 128
+  - url: https://15113.live.streamtheworld.com/SAM04AAC169.mp3
+    codec: MP3
+    bitrate: 128

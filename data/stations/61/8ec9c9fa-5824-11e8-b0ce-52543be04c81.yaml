@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-8ec9c9fa-5824-11e8-b0ce-52543be04c81
-streams:
-  - url: 'http://stream.1a-webradio.de/saw-rock/aac-48/radiosure-1a/stream.mp3'
-    codec: AAC
-  - url: 'http://stream.1a-webradio.de/saw-rock/mp3-128/radio-browser-1A/stream.mp3'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +29,15 @@ research:
   format: Rock music programming; curated rock songs and classic rock hits; "SAW Rock" format variant.
   notes: German internet radio station operated by 1A-Webradio network offering rock-focused programming. Part of larger webradio ecosystem in Germany. AAC codec at 48 kbps indicates efficient streaming for rock format. Community/internet radio model with German audience focus.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-8ec9c9fa-5824-11e8-b0ce-52543be04c81
+  - iprd-de-1a-rock-songs-ba3e501a
+  - iprd-de-1a-rock-songs-fb9f9bad
+  - iprd-de-1a-modern-rock-36438825
+  - iprd-de-1a-modern-rock-8e31cef1
+streams:
+  - url: http://stream.1a-webradio.de/saw-rock/aac-48/radiosure-1a/stream.mp3
+    codec: AAC
+  - url: http://stream.1a-webradio.de/saw-rock/mp3-128/radio-browser-1A/stream.mp3
+    codec: AAC

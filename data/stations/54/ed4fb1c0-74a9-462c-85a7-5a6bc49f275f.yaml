@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.05
-provenance:
-  - radiobrowser-ed4fb1c0-74a9-462c-85a7-5a6bc49f275f
-streams:
-  - url: 'https://0n-softrock.radionetz.de/0n-softrock.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-softrock.radionetz.de/0n-softrock.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,16 @@ research:
   format: Soft rock, ballads, contemporary rock
   notes: German web radio channel specializing in soft rock and ballads. Another 0 N Radio network offering, targeting listeners who prefer gentler rock music compared to hard rock streams.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ed4fb1c0-74a9-462c-85a7-5a6bc49f275f
+  - iprd-de-on-radio-soft-rock-aae0e744
+  - iprd-de-on-radio-soft-rock-e3af2dde
+  - iprd-de-on-soft-rock-97cfe3b1
+streams:
+  - url: https://0n-softrock.radionetz.de/0n-softrock.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-softrock.radionetz.de/0n-softrock.mp3
+    codec: MP3
+    bitrate: 128

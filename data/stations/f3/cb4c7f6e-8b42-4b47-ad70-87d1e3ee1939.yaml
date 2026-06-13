@@ -1,7 +1,7 @@
 stationuuid: cb4c7f6e-8b42-4b47-ad70-87d1e3ee1939
 name: 2XX - Canberra - 98.3 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2XX.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2XX.mp3
+url: 'http://28893.live.streamtheworld.com:80/2XX.mp3'
+url_resolved: 'http://28893.live.streamtheworld.com:80/2XX.mp3'
 homepage: https://www.2xxfm.org.au/
 favicon: ""
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 05:18:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-cb4c7f6e-8b42-4b47-ad70-87d1e3ee1939
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -35,3 +32,6 @@ research:
   format: Alternative music, community talk, and diverse programming
   notes: Non-profit community radio station (98.3 FM) serving Canberra; independent, alternative-focused; supports local musicians and community voices.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-cb4c7f6e-8b42-4b47-ad70-87d1e3ee1939

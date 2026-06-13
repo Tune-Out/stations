@@ -1,6 +1,6 @@
 stationuuid: 0f870d47-2676-47c8-8bf5-ff28a3974a9b
 name: AM 670 KMZQ
-url: https://provisioning.streamtheworld.com/pls/KMZQAMAAC.pls
+url: 'http://18373.live.streamtheworld.com:80/KMZQAMAAC_SC'
 url_resolved: http://27163.live.streamtheworld.com/KMZQAMAAC_SC
 homepage: https://www.670kmzq.com/
 favicon: https://www.670kmzq.com/favicons/apple-touch-icon.png
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0f870d47-2676-47c8-8bf5-ff28a3974a9b
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Talk / news radio
   notes: AM 670 is a commercial radio station based in Las Vegas; call letters KMZQ.
   sources: https://www.670kmzq.com/ (internal knowledge only)
+curation: -0.05
+provenance:
+  - radiobrowser-0f870d47-2676-47c8-8bf5-ff28a3974a9b

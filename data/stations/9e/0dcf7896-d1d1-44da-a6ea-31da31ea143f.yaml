@@ -19,14 +19,6 @@ lastchangetime: 2026-06-09 05:00:49
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0dcf7896-d1d1-44da-a6ea-31da31ea143f
-streams:
-  - url: 'https://radio.crownmedia.co.tz:8443/crown'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://crownmedia.co.tz/crownfm/'
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Music, talk radio, hit music, discussions, community engagement
   notes: Commercial media company offering music, talk, news and television services; tagline "Hapa ni Nyumbani" (This is Home); crown.co.tz also operates Crown TV with news, dramas, documentaries and sports programming
   sources: https://crownmedia.co.tz/
+curation: 0.35
+provenance:
+  - radiobrowser-0dcf7896-d1d1-44da-a6ea-31da31ea143f
+streams:
+  - url: https://radio.crownmedia.co.tz:8443/crown
+    codec: MP3
+    bitrate: 128
+  - url: https://crownmedia.co.tz/crownfm/

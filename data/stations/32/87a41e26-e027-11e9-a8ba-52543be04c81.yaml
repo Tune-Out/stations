@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-87a41e26-e027-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://mp3.planetradio.de/plrchannels/itunes.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://mp3.planetradio.de/plrchannels/hqitunes.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: iTunes top 40 chart hits, contemporary popular music
   notes: Commercial streaming channel from Planet Radio (Germany); focuses on current chart-topping hits; country designation unclear
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-87a41e26-e027-11e9-a8ba-52543be04c81
+streams:
+  - url: http://mp3.planetradio.de/plrchannels/itunes.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://mp3.planetradio.de/plrchannels/hqitunes.mp3
+    codec: MP3
+    bitrate: 128

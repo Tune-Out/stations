@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:49:44
 clickcount: 1
 geo_lat: 37.983733365212416
 geo_long: 23.72833748609992
-curation: -0.05
-provenance:
-  - radiobrowser-fffa0320-34a0-406e-b3d1-3e93dd2c630d
-streams:
-  - url: 'https://netradio.live24.gr/athensdeejay'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://netradio.live24.gr/athensdeejay'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Greek pop music, contemporary hits, chart hits
   notes: Athens Deejay 95.2 is a Greek commercial FM station in Athens broadcasting pop music. Licensed Athens-area broadcaster serving the metro region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fffa0320-34a0-406e-b3d1-3e93dd2c630d
+  - iprd-gr-athens-deejay-95-2-2744b130
+streams:
+  - url: https://netradio.live24.gr/athensdeejay
+    codec: MP3
+    bitrate: 192
+  - url: http://netradio.live24.gr/athensdeejay
+    codec: MP3
+    bitrate: 192

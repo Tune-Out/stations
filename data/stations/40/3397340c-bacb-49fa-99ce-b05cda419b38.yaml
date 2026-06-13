@@ -32,16 +32,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 0
 geo_lat: 46.544323455487365
 geo_long: -87.3890143632889
-curation: 0.55
-provenance:
-  - radiobrowser-3397340c-bacb-49fa-99ce-b05cda419b38
-streams:
-  - url: 'https://stream20.usastreams.com/8116/stream'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://stream20.usastreams.com:8116/;'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -51,3 +41,13 @@ research:
   format: Oldies, classic rock, jazz, country, and hit music from 70s-90s
   notes: US internet radio station specializing in classic music across multiple decades and genres; serves bilingual audiences
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-3397340c-bacb-49fa-99ce-b05cda419b38
+streams:
+  - url: https://stream20.usastreams.com/8116/stream
+    codec: AAC+
+    bitrate: 96
+  - url: https://stream20.usastreams.com:8116/;
+    codec: AAC+
+    bitrate: 96

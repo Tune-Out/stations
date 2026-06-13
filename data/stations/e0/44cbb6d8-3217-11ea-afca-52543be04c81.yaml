@@ -20,23 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-44cbb6d8-3217-11ea-afca-52543be04c81
-streams:
-  - url: 'http://79.111.119.111:9089/'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.119.111:9115/'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.77.11:9063/listen.pls'
-    url_resolved: 'http://79.120.77.11:9063/'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.14.76:8002/numetal'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +29,20 @@ research:
   format: 24/7 nu metal music stream
   notes: Founded early 2000s as Russian internet radio platform; curated by community; operates multiple genre-specific channels including Metal, Electronic, Rock, Jazz, and more; non-profit model with listener support.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-44cbb6d8-3217-11ea-afca-52543be04c81
+streams:
+  - url: http://79.111.119.111:9089/
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.119.111:9115/
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.77.11:9063/listen.pls
+    url_resolved: http://79.120.77.11:9063/
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.14.76:8002/numetal
+    codec: AAC+
+    bitrate: 48

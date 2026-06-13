@@ -19,14 +19,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-04-14 10:04:19
 clickcount: 0
-curation: 0.35
-provenance:
-  - radiobrowser-ca51857b-e77e-4113-9c5a-325099e63574
-streams:
-  - url: 'https://stream1.wappuradio.fi/wappuradio.opus'
-    codec: OGG
-  - url: 'http://stream1.wappuradio.fi/wappuradio.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -36,3 +28,11 @@ research:
   format: Community radio with mixed programming
   notes: '"Wappuradio" (Love Radio) is a Finnish community radio station; "Rakkauden" means "of love/affection"; primarily volunteer-operated'
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ca51857b-e77e-4113-9c5a-325099e63574
+streams:
+  - url: https://stream1.wappuradio.fi/wappuradio.opus
+    codec: OGG
+  - url: http://stream1.wappuradio.fi/wappuradio.mp3
+    codec: MP3

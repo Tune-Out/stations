@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:39:08
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1a986a1a-4828-4e39-ab89-642f4b769819
-streams:
-  - url: 'http://test.taiwan-radio.tw:8000/CH.FM88.7'
-    codec: MP3
-    bitrate: 48
-  - url: 'http://211.72.215.231:8000/OnAir'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Local news, music, community programming, talk
   notes: 彰化花園廣播電台 is a community radio station based in Changhua County, Taiwan. Serves local community with news and music programming.
   sources: https://www.facebook.com/GardenRadio887/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-1a986a1a-4828-4e39-ab89-642f4b769819
+streams:
+  - url: http://test.taiwan-radio.tw:8000/CH.FM88.7
+    codec: MP3
+    bitrate: 48
+  - url: http://211.72.215.231:8000/OnAir
+    codec: MP3
+    bitrate: 48

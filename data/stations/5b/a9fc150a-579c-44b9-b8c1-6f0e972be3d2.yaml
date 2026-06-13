@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:15:07
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a9fc150a-579c-44b9-b8c1-6f0e972be3d2
-streams:
-  - url: 'http://wr03-ice.stream.khz.se/wr03_mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wr03-ice.stream.khz.se/wr03_mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Heavy metal; metal music programming and metal-focused DJ shows.
   notes: Swedish commercial radio station operated by I Like Radio network. Specializes in heavy metal and rock music with 128 kbps MP3 stream targeting Swedish metal enthusiast audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a9fc150a-579c-44b9-b8c1-6f0e972be3d2
+streams:
+  - url: http://wr03-ice.stream.khz.se/wr03_mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wr03-ice.stream.khz.se/wr03_mp3
+    codec: MP3
+    bitrate: 128

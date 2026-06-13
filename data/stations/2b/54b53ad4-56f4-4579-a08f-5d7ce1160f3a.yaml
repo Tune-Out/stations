@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:25:32
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-54b53ad4-56f4-4579-a08f-5d7ce1160f3a
-streams:
-  - url: 'https://live.fresh927.com.au/freshaac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://live.fresh927.com.au/freshmp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,14 @@ research:
   format: 24/7 contemporary dance, electronic, pop and urban music with local presenters, specialist mix shows, and community talk.
   notes: Fresh 92.7 is Adelaide's dance music community radio station, licensed under Australia's community broadcasting framework and operating on 92.7 MHz FM from a studio in the Adelaide CBD. It originally launched in the 1990s under the Three D Radio / SA-FM heritage of community licences, taking its current Fresh 92.7 identity in 2002. Programming features local breakfast and drive shows (e.g. "Brekkie with Tom & Callum", "The Drive Home"), the "Wavelength" specialist program, and "Fresh Off The Block" new-music showcase. Funding comes from sponsorship, subscriptions and donations rather than advertising. The station is staffed largely by volunteers and trains emerging announcers and producers under Australia's community radio sector.
   sources: https://fresh927.com.au/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-54b53ad4-56f4-4579-a08f-5d7ce1160f3a
+  - iprd-au-fresh-92-7-d94e6662
+streams:
+  - url: https://live.fresh927.com.au/freshaac
+    codec: AAC
+    bitrate: 64
+  - url: https://live.fresh927.com.au/freshmp3
+    codec: MP3
+    bitrate: 192

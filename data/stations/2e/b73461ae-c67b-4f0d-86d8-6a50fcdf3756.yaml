@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:33:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-b73461ae-c67b-4f0d-86d8-6a50fcdf3756
-streams:
-  - url: 'https://listen.radioking.com/radio/3086/stream/9476'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://listen.radioking.com/radio/3086/stream/9476'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -42,3 +32,14 @@ research:
   format: Indie music, alternative, independent and non-mainstream programming; music discovery focus
   notes: Community-oriented independent radio station based in Lille, France; emphasis on independent artists and cultural programming
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-b73461ae-c67b-4f0d-86d8-6a50fcdf3756
+  - iprd-fr-rcv-ad034c6a
+streams:
+  - url: https://listen.radioking.com/radio/3086/stream/9476
+    codec: MP3
+    bitrate: 128
+  - url: http://listen.radioking.com/radio/3086/stream/9476
+    codec: MP3
+    bitrate: 128

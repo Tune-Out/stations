@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-45b54bde-4328-4d69-a7a5-fa4245afd0a2
-streams:
-  - url: 'https://cast.radiohost.ovh:9031/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://cast.radiohost.ovh:9031/live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Music programming with focus on classical and jazz
   notes: Xryses Notes is an online Greek radio station; name suggests focus on musical notes and classical content; limited information available
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-45b54bde-4328-4d69-a7a5-fa4245afd0a2
+  - iprd-gr-chryses-notes-378a1f56
+streams:
+  - url: https://cast.radiohost.ovh:9031/live
+    codec: MP3
+    bitrate: 128
+  - url: http://cast.radiohost.ovh:9031/live
+    codec: MP3
+    bitrate: 128

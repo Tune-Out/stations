@@ -25,20 +25,6 @@ lastchangetime: 2026-01-15 06:23:58
 clickcount: 17
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-890b3eb9-4018-4c41-95ea-146cc5201745
-streams:
-  - url: 'https://stream.srg-ssr.ch/m/drs3/aacp_96'
-    codec: AAC
-    bitrate: 88
-  - url: 'http://stream.srg-ssr.ch/drs3/aacp_32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/srf3/aac/48'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://stream.srg-ssr.ch/m/drs3/aacp_32'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -48,3 +34,21 @@ research:
   format: Pop/rock-oriented public-service music station with news bulletins, comedy/satire, music discovery and live-session programming
   notes: Launched 1 November 1983 as DRS 3 to introduce a youth-pop station to Swiss public radio (the third national radio channel after DRS 1 and DRS 2); renamed Radio SRF 3 in 2012 when SRG's German-language units merged; broadcasts nationally on DAB+ and FM from studios in Zürich and Basel; the station is best known for its "Best Talent" Swiss-artist monthly slot, the alt-music show "Sounds!", and the daily Input/Focus current-affairs strands; positions itself as "live-radio with news, current topics and much love for pop & rock".
   sources: https://www.srf.ch/radio-srf-3, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-890b3eb9-4018-4c41-95ea-146cc5201745
+  - iprd-ch-radio-srf-3-9e669efb
+  - iprd-ch-radio-srf-4-news-77f79260
+  - iprd-ch-radio-srf1-93195147
+  - iprd-ch-radio-srf1-aargau-solothurn-9bf66638
+streams:
+  - url: https://stream.srg-ssr.ch/m/drs3/aacp_96
+    codec: AAC
+    bitrate: 88
+  - url: http://stream.srg-ssr.ch/drs3/aacp_32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/srf3/aac/48
+    codec: AAC
+    bitrate: 64
+  - url: https://stream.srg-ssr.ch/m/drs3/aacp_32
+    codec: AAC
+    bitrate: 48

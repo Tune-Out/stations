@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 06:51:37
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-96407fcb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://s2.stationplaylist.com:9460/guerrilla'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s2.stationplaylist.com:9460/guerrilla'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -45,3 +35,14 @@ research:
   format: Alternative rock, indie rock, punk, metal, experimental music; artist-focused programming
   notes: Independent US internet radio station emphasizing alternative and indie rock. Anti-commercial ethos reflected in "guerrilla" branding. Community-supported model. Features underground and independent artists. Counter-cultural positioning in music programming.
   sources: http://www.guerrillaradio.com/
+curation: 0.6
+provenance:
+  - radiobrowser-96407fcb-0601-11e8-ae97-52543be04c81
+  - iprd-us-guerrilla-radio-8ba45092
+streams:
+  - url: http://s2.stationplaylist.com:9460/guerrilla
+    codec: MP3
+    bitrate: 128
+  - url: https://s2.stationplaylist.com:9460/guerrilla
+    codec: MP3
+    bitrate: 128

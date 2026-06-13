@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 07:38:17
 clickcount: 2
 geo_lat: 48.76632775137968
 geo_long: 9.168090820312502
-curation: 0.50
-provenance:
-  - radiobrowser-b282e24d-cf20-423e-80b6-660e2f30830e
-streams:
-  - url: 'https://liveradio.swr.de/sw890cl/swraktuell/'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://f131.rndfnk.com/ard/swr/swraktuell/live/aac/96/stream.aac?aggregator=web&sid=20OWw66vyEtL4iSzQDIYZxmbtaP&token=417rfsSDin95gYTgQbYGQU68OrUVw5SFCaOKSsmI1OA&tvf=WYsdueUEtBZmMTMxLnJuZGZuay5jb20'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://liveradio.swr.de/sw282p3/swraktuell/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://liveradio.swr.de/sw282p3/swraktuell/play.aac'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +31,24 @@ research:
   format: News, current affairs, talk, regional and national German news
   notes: SWR Aktuell is the news and information stream from Südwestrundfunk, a major regional public broadcaster in southwest Germany; part of ARD (public broadcasting cooperative); funded by licence fees; serves Baden-Württemberg region
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-b282e24d-cf20-423e-80b6-660e2f30830e
+  - iprd-de-swr-aktuell-42716f74
+  - iprd-de-swr-aktuell-2e2cb2dc
+  - iprd-de-swr4-bw-karlsruhe-74ac49b4
+  - iprd-de-swr4-bw-stuttgart-d451f4c4
+  - iprd-de-swr4-rp-mainz-bfb29cec
+streams:
+  - url: https://liveradio.swr.de/sw890cl/swraktuell/
+    codec: AAC
+    bitrate: 128
+  - url: https://f131.rndfnk.com/ard/swr/swraktuell/live/aac/96/stream.aac?aggregator=web&sid=20OWw66vyEtL4iSzQDIYZxmbtaP&token=417rfsSDin95gYTgQbYGQU68OrUVw5SFCaOKSsmI1OA&tvf=WYsdueUEtBZmMTMxLnJuZGZuay5jb20
+    codec: AAC
+    bitrate: 96
+  - url: https://liveradio.swr.de/sw282p3/swraktuell/
+    codec: MP3
+    bitrate: 128
+  - url: https://liveradio.swr.de/sw282p3/swraktuell/play.aac
+    codec: MP3
+    bitrate: 128

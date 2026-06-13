@@ -1,6 +1,6 @@
 stationuuid: 1b95ad29-70b9-409a-9840-ed40ad0e78e7
 name: "KUAR: FM 89 Little Rock, Arkansas"
-url: https://provisioning.streamtheworld.com/pls/KUARFM.pls
+url: 'http://27053.live.streamtheworld.com:80/KUARFM_SC'
 url_resolved: http://19303.live.streamtheworld.com/KUARFM_SC
 homepage: http://www.kuar.org/
 favicon: ""
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-1b95ad29-70b9-409a-9840-ed40ad0e78e7
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -31,3 +28,6 @@ research:
   format: alternative rock, indie, eclectic music; community-focused talk and cultural programming
   notes: Student-run college radio station; founded as campus medium; supports local music and community engagement
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-1b95ad29-70b9-409a-9840-ed40ad0e78e7

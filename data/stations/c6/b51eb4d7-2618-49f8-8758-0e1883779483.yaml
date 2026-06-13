@@ -19,16 +19,6 @@ lastchangetime: 2026-03-22 07:10:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-b51eb4d7-2618-49f8-8758-0e1883779483
-streams:
-  - url: 'http://69.30.218.190:29210/stream?nocache=1774163326716'
-    codec: MP3
-    bitrate: 160
-  - url: 'http://69.30.218.190:29210/stream?nocache=1770367552692'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,13 @@ research:
   format: reggae, world music, Caribbean programming
   notes: Community radio station in UK focusing on Caribbean music heritage and culture; named in reference to the Windrush generation
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-b51eb4d7-2618-49f8-8758-0e1883779483
+streams:
+  - url: http://69.30.218.190:29210/stream?nocache=1774163326716
+    codec: MP3
+    bitrate: 160
+  - url: http://69.30.218.190:29210/stream?nocache=1770367552692
+    codec: MP3
+    bitrate: 160

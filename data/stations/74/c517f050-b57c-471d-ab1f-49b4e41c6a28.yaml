@@ -24,25 +24,6 @@ lastchangetime: 2026-01-15 00:38:37
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-c517f050-b57c-471d-ab1f-49b4e41c6a28
-streams:
-  - url: 'http://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://gbradio.cdn.tibus.net/U105'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645'
-    codec: AAC
-    bitrate: 127
-  - url: 'https://stream.ufmradio.com:8003/;'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -52,3 +33,23 @@ research:
   format: Classical music; instrumental classical programming
   notes: Commercial station based in Eastern Province Saudi Arabia; focuses on classical music content.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-c517f050-b57c-471d-ab1f-49b4e41c6a28
+  - iprd-gb-u105-dc65d0d3
+streams:
+  - url: http://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645
+    codec: AAC
+    bitrate: 128
+  - url: https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645
+    codec: AAC
+    bitrate: 128
+  - url: http://gbradio.cdn.tibus.net/U105
+    codec: AAC
+    bitrate: 128
+  - url: https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645
+    codec: AAC
+    bitrate: 127
+  - url: https://stream.ufmradio.com:8003/;
+    codec: MP3
+    bitrate: 64

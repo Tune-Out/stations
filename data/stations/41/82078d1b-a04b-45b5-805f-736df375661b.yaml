@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 03:00:48
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-82078d1b-a04b-45b5-805f-736df375661b
-streams:
-  - url: 'http://www.radiosidewinder.com/radiosidewinder.m3u'
-    url_resolved: 'http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.radiosidewinder.com/radiosidewinder.m3u'
-    url_resolved: 'http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -42,3 +30,15 @@ research:
   format: Community/independent format; mixed programming
   notes: Community or independent internet radio station. Country of origin unknown. Limited public information available. Operates via Airtime Pro platform.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-82078d1b-a04b-45b5-805f-736df375661b
+streams:
+  - url: http://www.radiosidewinder.com/radiosidewinder.m3u
+    url_resolved: http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a
+    codec: MP3
+    bitrate: 128
+  - url: https://www.radiosidewinder.com/radiosidewinder.m3u
+    url_resolved: http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a
+    codec: MP3
+    bitrate: 128

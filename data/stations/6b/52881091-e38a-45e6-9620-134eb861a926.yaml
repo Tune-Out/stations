@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-52881091-e38a-45e6-9620-134eb861a926
-streams:
-  - url: 'http://stream01.erewashsound.com/erewashaac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://stream-02.aiir.com/9te2wvjci6auv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +31,13 @@ research:
   format: Music and local news/information programming
   notes: 'Community radio station serving Erewash district in Derbyshire. Broadcasts on 103.5 FM and 96.8 FM (dual frequency license holder). Tagline: "Love Music - Love Erewash". Focus on local news, information, and community engagement with music programming.'
   sources: https://www.erewashsound.com/
+curation: 0.35
+provenance:
+  - radiobrowser-52881091-e38a-45e6-9620-134eb861a926
+  - iprd-gb-erewash-sound-a612790c
+streams:
+  - url: http://stream01.erewashsound.com/erewashaac
+    codec: AAC+
+    bitrate: 48
+  - url: https://stream-02.aiir.com/9te2wvjci6auv
+    codec: MP3

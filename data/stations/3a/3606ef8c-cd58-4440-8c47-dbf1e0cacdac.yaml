@@ -22,23 +22,6 @@ lastchangetime: 2026-01-15 08:47:20
 clickcount: 143
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-3606ef8c-cd58-4440-8c47-dbf1e0cacdac
-streams:
-  - url: 'http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_two.m3u8'
-    codec: AAC+
-    bitrate: 101
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -48,3 +31,21 @@ research:
   format: Adult contemporary music, specialist music shows (jazz, folk, country, soul, rock), entertainment, documentaries, comedy, news bulletins; UK's most-listened-to radio station with notable presenters across decades (Terry Wogan, Ken Bruce, Steve Wright, Jo Whiley, Zoe Ball, Scott Mills)
   notes: Launched 1967 as part of BBC's restructuring of the Light Programme; one of BBC's flagship national stations; carries Eurovision broadcasts; regularly the most-listened radio station in the UK with ~13+ million weekly listeners; non-commercial (no advertising); operates under BBC Editorial Guidelines requiring impartiality
   sources: internal knowledge only (BBC homepage fetch blocked)
+curation: 0.7
+provenance:
+  - radiobrowser-3606ef8c-cd58-4440-8c47-dbf1e0cacdac
+  - iprd-gb-bbc-radio-2-9593a5aa
+streams:
+  - url: http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_two.m3u8
+    codec: AAC+
+    bitrate: 101
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true

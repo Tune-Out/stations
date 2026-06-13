@@ -22,16 +22,6 @@ lastchangetime: 2026-04-06 20:12:05
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-63c29edb-72df-4981-9b5a-b22cdc5edd1b
-streams:
-  - url: 'https://stream.only1.hu/electro'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.only1.hu/xtra'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Electronic dance music, electro house, and electronic music streaming.
   notes: Hungarian-based streaming platform offering dedicated EDM channels. Part of ONLY1 multi-channel radio network.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-63c29edb-72df-4981-9b5a-b22cdc5edd1b
+streams:
+  - url: https://stream.only1.hu/electro
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.only1.hu/xtra
+    codec: MP3
+    bitrate: 192

@@ -1,7 +1,7 @@
 stationuuid: 0f334df4-97f0-4e76-8983-40fc33cfaf1d
 name: EXA FM 94.1 (Puebla) - 94.1 FM - XHJE-FM - MVS Radio - Puebla, Puebla
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHJEFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHJEFMAAC.aac
+url: 'https://26223.live.streamtheworld.com:443/XHJEFMAAC.aac'
+url_resolved: 'https://26223.live.streamtheworld.com:443/XHJEFMAAC.aac'
 homepage: https://exafm.com/plaza/puebla/
 favicon: https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 0
 geo_lat: 19.045691961496
 geo_long: -98.19811820983888
-curation: -0.05
-provenance:
-  - radiobrowser-0f334df4-97f0-4e76-8983-40fc33cfaf1d
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Top 40 pop music in Spanish and English with contemporary music programming
   notes: EXA FM 94.1 Puebla (XHJE-FM) is a commercial pop music radio station broadcasting on 94.1 FM in Puebla, Mexico. Part of the EXA FM network operated by MVS Radio, one of Mexico's major broadcast groups. Branded as "La Estación Naranja" (The Orange Station) with tagline "Ponte EXA" (Get on EXA). Targets youth and young adult demographics with Spanish/English pop and top 40 hits.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0f334df4-97f0-4e76-8983-40fc33cfaf1d

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 02:07:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ff9f333c-877b-4a1e-8bc7-cc8ab941f1ad
-streams:
-  - url: 'http://server3.streamserver-unlimited.de:2199/tunein/iu465.pls'
-    url_resolved: 'http://5.9.16.111:8450/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://5.9.16.111:8450/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +31,14 @@ research:
   format: Christian radio, gospel, religious programming
   notes: German Christian internet radio station. Non-commercial religious broadcaster serving Christian audiences with gospel music and Christian message.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ff9f333c-877b-4a1e-8bc7-cc8ab941f1ad
+streams:
+  - url: http://server3.streamserver-unlimited.de:2199/tunein/iu465.pls
+    url_resolved: http://5.9.16.111:8450/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://5.9.16.111:8450/stream
+    codec: MP3
+    bitrate: 192

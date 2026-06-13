@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 200
 geo_lat: 48.85273757048368
 geo_long: 2.2784185409545903
-curation: 0.60
-provenance:
-  - radiobrowser-ab6a33e5-e8b5-4cf4-bfb7-ec0ae779cb7c
-streams:
-  - url: 'https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8?id=radiofrance'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,14 @@ research:
   format: Continuous news / all-news talk radio - rolling headlines every 15 minutes, longer features, expert interviews, business and sports updates, debates, and political analysis
   notes: "Launched 1 June 1987 as France's first 24-hour rolling-news station (modeled on the all-news format pioneered in North America). Sister stations under Radio France include France Inter, France Culture, France Musique, France Bleu (regional network), Mouv', and FIP. In 2016 the \"franceinfo:\" multimedia brand expanded to include a dedicated TV channel (channel 27) co-produced with France Televisions. One of the most-listened news radios in France with several million daily listeners. Mission: public-service information, independent and pluralist news coverage."
   sources: internal knowledge only (homepage fetch blocked)
+curation: 0.5
+provenance:
+  - radiobrowser-ab6a33e5-e8b5-4cf4-bfb7-ec0ae779cb7c
+  - iprd-fr-france-info-d211ae58
+streams:
+  - url: https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8?id=radiofrance
+    codec: UNKNOWN
+    hls: true

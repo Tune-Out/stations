@@ -1,7 +1,7 @@
 stationuuid: fcd71cf7-70b9-4db5-8af4-4c60fa8f4e2b
 name: AFN GO Aviano
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_AVNAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_AVNAAC.aac
+url: 'https://25583.live.streamtheworld.com:443/AFNE_AVNAAC.aac'
+url_resolved: 'https://25583.live.streamtheworld.com:443/AFNE_AVNAAC.aac'
 homepage: https://afngo.net/afneurope/Aviano/radio/Aviano
 favicon: https://afngo.net/static/media/Aviano.9c721f62f5305a10721f.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fcd71cf7-70b9-4db5-8af4-4c60fa8f4e2b
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -31,3 +28,14 @@ research:
   format: Armed Forces Radio and Television Service (AFRTS) programming; music, news, military information
   notes: AFN Aviano broadcasts to U.S. service members at Aviano Air Base (Pordenone, Italy); part of AFN's European network providing American programming to deployed forces.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-fcd71cf7-70b9-4db5-8af4-4c60fa8f4e2b
+  - iprd-jp-afn-the-eagle-iwakuni-1575-7b2aa40e
+  - iprd-jp-afn-the-eagle-misawa-1575-05bf0332
+  - iprd-jp-afn-the-eagle-okinawa-810-088f1835
+  - iprd-jp-afn-the-eagle-sasebo-457cea7f
+  - iprd-jp-afn-the-eagle-tokyo-b551c677
+  - iprd-kr-afn-the-eagle-daegu-88-5-8dbb186d
+  - iprd-kr-afn-the-eagle-humphreys-96985649
+  - iprd-kr-afn-the-eagle-kunsan-0b45f61b

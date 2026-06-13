@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2dd1215f-6db5-45e1-b4c2-013692d8b1e3
-streams:
-  - url: 'http://stream.zeno.fm/mbketaeaqhguv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/mbketaeaqhguv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -37,3 +29,11 @@ research:
   format: Rock music programming
   notes: Argentine rock radio station streaming via Zeno.FM platform. No dedicated homepage URL available. Focuses on rock music genre.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-2dd1215f-6db5-45e1-b4c2-013692d8b1e3
+streams:
+  - url: http://stream.zeno.fm/mbketaeaqhguv
+    codec: MP3
+  - url: https://stream.zeno.fm/mbketaeaqhguv
+    codec: MP3

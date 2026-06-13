@@ -20,15 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-ab122841-c46a-4623-a2dd-ded3aa8452f2
-streams:
-  - url: 'https://drive.uber.radio/uber/boomerang1990s/icecast.audio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://drive.uber.radio/uber/boomerang1990s/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +29,12 @@ research:
   format: 1990s hits, pop and rock from the 1990s, greatest hits era compilation music
   notes: Internet radio station specializing in 1990s music era. Based in Dubai, UAE. Part of specialized music streaming niche stations.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-ab122841-c46a-4623-a2dd-ded3aa8452f2
+streams:
+  - url: https://drive.uber.radio/uber/boomerang1990s/icecast.audio
+    codec: MP3
+    bitrate: 128
+  - url: https://drive.uber.radio/uber/boomerang1990s/icecast.audio
+    codec: MP3

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-8fb9c164-d194-11e9-a861-52543be04c81
-streams:
-  - url: 'http://martinique.ice.infomaniak.ch/martinique-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://martinique.ice.infomaniak.ch/martinique-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -38,3 +28,14 @@ research:
   format: News, current affairs, culture, music, and general interest programming
   notes: Martinique 1ère is the public radio station for the French Caribbean island of Martinique, operated by France Télévisions through the La 1ère network. Provides French-language content including news, regional interest, music, and cultural programming. Part of France's overseas public broadcasting service funded through public fees and government support.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-8fb9c164-d194-11e9-a861-52543be04c81
+  - iprd-mq-martinique-1-re-df07153c
+streams:
+  - url: http://martinique.ice.infomaniak.ch/martinique-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://martinique.ice.infomaniak.ch/martinique-128.mp3
+    codec: MP3
+    bitrate: 128

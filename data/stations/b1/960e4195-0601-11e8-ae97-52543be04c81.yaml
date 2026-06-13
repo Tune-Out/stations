@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:38:46
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-960e4195-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming.brf.be/brf1-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.brf.be/brf1-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Regional public radio programming with local news and cultural content
   notes: Community station serving German-speaking region of Belgium; part of Belgian public broadcasting
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-960e4195-0601-11e8-ae97-52543be04c81
+  - iprd-be-brf-1-3e3ef63f
+streams:
+  - url: http://streaming.brf.be/brf1-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.brf.be/brf1-high.mp3
+    codec: MP3
+    bitrate: 128

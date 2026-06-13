@@ -18,9 +18,6 @@ bitrate: 0
 hls: true
 lastcheckok: true
 lastchangetime: 2026-01-15 00:29:13
-curation: 0.35
-provenance:
-  - radiobrowser-8c01c5ad-99f0-4b71-bbd5-aaa11404fa7a
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -30,3 +27,6 @@ research:
   format: Television companion audio feed (CETV-4 ancillary audio); unclear programming
   notes: CETV-4 is China Central Television channel 4, and this entry represents audio companion stream (伴音 means "accompanying sound"). As state broadcaster under Chinese government control, CCTV operates as official national media outlet. HLS streaming; tags missing, indicating minimal public-facing metadata. Part of China's state media infrastructure under Communist Party direction. Audio content likely documentary, educational, or arts programming typical of CCTV-4 channel focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8c01c5ad-99f0-4b71-bbd5-aaa11404fa7a

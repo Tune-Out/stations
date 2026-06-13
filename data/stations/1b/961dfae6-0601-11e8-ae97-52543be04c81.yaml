@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:05:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-961dfae6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/7LRW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/7LRW/mp3/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +31,16 @@ research:
   format: Local news, information, current affairs, and music; part of ABC Local Radio network
   notes: ABC Local Radio 936 serves Hobart and Tasmania; part of national Australian public broadcasting service; funded by Australian government
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-961dfae6-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-local-radio-103-5-southeast-e735c76a
+  - iprd-au-abc-local-radio-936-hobart-12467a9e
+  - iprd-au-abc-local-radio-936-hobart-3cabe7fa
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/7LRW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/7LRW/mp3/
+    codec: AAC+
+    bitrate: 56

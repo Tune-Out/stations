@@ -1,7 +1,7 @@
 stationuuid: 466c6af1-bb23-4d42-8509-3fb73d872a14
 name: Groot Nieuws Radio Non-Stop
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3
+url: 'https://27913.live.streamtheworld.com:443/GNRNONSTOP.mp3'
+url_resolved: 'https://27913.live.streamtheworld.com:443/GNRNONSTOP.mp3'
 homepage: https://www.grootnieuwsradio.nl/
 favicon: https://images.cvandaag.nl/artikel-foto/0fdee9961e3678d8bd55c560ea6f0384/groot-nieuws-radio.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 16
 geo_lat: 52.02943637319827
 geo_long: 5.553414107616846
-curation: 0.35
-provenance:
-  - radiobrowser-466c6af1-bb23-4d42-8509-3fb73d872a14
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -31,3 +28,6 @@ research:
   format: Non-stop Christian and worship music sub-channel of Groot Nieuws Radio, music-only with no presenter talk
   notes: Groot Nieuws Radio Non-Stop is the music-only stream of Groot Nieuws Radio ("Good News Radio"), an evangelical Christian broadcaster founded in the Netherlands; the parent station's main channel airs sermons ("Preken en overderkingen"), Bible reflections, daily scripture readings, and listener-engagement programs, and operates four channels including Blijde Klanken and Seven FM; it is registered as a non-profit foundation (ANBI status) supported by listener donations, business club partnerships, and the "Groot Nieuws Radio Helpt" outreach initiative serving vulnerable groups.
   sources: https://www.grootnieuwsradio.nl/
+curation: 0.35
+provenance:
+  - radiobrowser-466c6af1-bb23-4d42-8509-3fb73d872a14

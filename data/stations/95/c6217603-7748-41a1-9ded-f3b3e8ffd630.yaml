@@ -23,16 +23,6 @@ lastchangetime: 2026-04-16 21:42:57
 clickcount: 1
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.40
-provenance:
-  - radiobrowser-c6217603-7748-41a1-9ded-f3b3e8ffd630
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.aac?quality=1'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=10'
-    codec: MP3
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=1'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Electronic chillout, downtempo, ambient, relaxation music
   notes: Community radio service operated by FluxFM in Berlin, Germany. Specializes in electronic chillout, downtempo, and ambient music programming. Part of a broader network of music-focused channels available via FluxFM's streaming platform. High-quality 320k MP3 audio stream.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-c6217603-7748-41a1-9ded-f3b3e8ffd630
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.aac?quality=1
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=10
+    codec: MP3
+  - url: https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=1
+    codec: MP3

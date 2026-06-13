@@ -21,25 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: 36.599542913631645
 geo_long: -121.87511960811835
-curation: 0.35
-provenance:
-  - radiobrowser-964e66bf-5fb9-482d-942d-4ada352f0261
-streams:
-  - url: 'https://smoothjazz.cdnstream1.com/2586_64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://smoothjazz.cdnstream1.com/2586_320.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://smoothjazz.cdnstream1.com/2586_256.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://smoothjazz.cdnstream1.com/2586_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://smoothjazz.cdnstream1.com/2586_32.mp3'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +30,23 @@ research:
   format: Smooth jazz and relaxation-oriented music
   notes: SmoothLounge.com (64k AAC+ stream) is a commercial internet radio station specializing in smooth jazz. Part of broader Smoothjazz.com network providing curated jazz and contemporary music for relaxation and background listening. Global streaming audience. California-associated coordinates suggest West Coast-based operation.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-964e66bf-5fb9-482d-942d-4ada352f0261
+  - iprd-us-smooth-lounge-global-radio-3e4e525d
+streams:
+  - url: https://smoothjazz.cdnstream1.com/2586_64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://smoothjazz.cdnstream1.com/2586_320.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://smoothjazz.cdnstream1.com/2586_256.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://smoothjazz.cdnstream1.com/2586_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://smoothjazz.cdnstream1.com/2586_32.mp3
+    codec: MP3
+    bitrate: 32

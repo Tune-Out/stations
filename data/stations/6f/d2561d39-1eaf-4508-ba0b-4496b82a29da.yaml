@@ -21,16 +21,6 @@ lastchangetime: 2026-06-02 16:59:50
 clickcount: 1
 geo_lat: 50.46170054676676
 geo_long: 30.563964843750004
-curation: 0.50
-provenance:
-  - radiobrowser-d2561d39-1eaf-4508-ba0b-4496b82a29da
-streams:
-  - url: 'http://radio.ukr.radio:8000/urkazka-aacplus'
-    codec: AAC
-    bitrate: 52
-  - url: 'http://radio.ukr.radio:8000/urkazka-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: Audiobook/storytelling channel; children's tales and fairy stories
   notes: Part of Ukrainian national public radio service. Channel dedicated to audio fairy tales and stories in Ukrainian. Based in Kyiv.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-d2561d39-1eaf-4508-ba0b-4496b82a29da
+streams:
+  - url: http://radio.ukr.radio:8000/urkazka-aacplus
+    codec: AAC
+    bitrate: 52
+  - url: http://radio.ukr.radio:8000/urkazka-mp3
+    codec: MP3
+    bitrate: 192

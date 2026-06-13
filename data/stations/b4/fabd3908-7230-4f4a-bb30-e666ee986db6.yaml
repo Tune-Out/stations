@@ -21,16 +21,6 @@ lastchangetime: 2026-04-20 15:27:07
 clickcount: 0
 geo_lat: 45.14460026914964
 geo_long: 24.674305915832523
-curation: -0.05
-provenance:
-  - radiobrowser-fabd3908-7230-4f4a-bb30-e666ee986db6
-streams:
-  - url: 'https://stream.expres.sk/128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.expres.sk/128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Local news, regional music, contemporary hits
   notes: Romanian regional FM station (94.6 FM) based in Curtea de Argeș serving Argeș county (Wallachia)
   sources: https://radioargesexpres.ro/
+curation: -0.05
+provenance:
+  - radiobrowser-fabd3908-7230-4f4a-bb30-e666ee986db6
+  - iprd-sk-radio-expres-107-6-47c6028e
+streams:
+  - url: https://stream.expres.sk/128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.expres.sk/128.mp3
+    codec: MP3
+    bitrate: 128

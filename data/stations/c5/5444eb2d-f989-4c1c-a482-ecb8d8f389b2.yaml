@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-5444eb2d-f989-4c1c-a482-ecb8d8f389b2
-streams:
-  - url: 'https://liveradio.swr.de/sw890cl/swr2/'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://f111.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&sid=28ew6Usq6cch83eglcsXwLlNRS3&token=Ip5bwQ_T81Lq_mqKc3HUjnxrk94ek2bDcfNyNHuqRGk&tvf=XFsRgyq06xZmMTExLnJuZGZuay5jb20'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +29,16 @@ research:
   format: Cultural and classical music network featuring symphonic works, opera, jazz, literature, radio drama, features, and in-depth cultural journalism
   notes: SWR2 is the cultural channel of Sudwestrundfunk, formed in 1998 from the merger of SDR and SWF; rebranded as SWR Kultur in 2024 though the SWR2 stream identity persists; home of long-form features ("Aula", "SWR2 Wissen"), Horspiel radio drama, and live concerts from the SWR Symphonieorchester and SWR Vokalensemble; broadcasts via FM, DAB+, satellite, and online; one of Germany's most respected cultural networks
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-5444eb2d-f989-4c1c-a482-ecb8d8f389b2
+  - iprd-de-swr2-0ee437b9
+  - iprd-de-swr2-3d3e6c39
+  - iprd-de-swr2-66c3a0ae
+streams:
+  - url: https://liveradio.swr.de/sw890cl/swr2/
+    codec: AAC
+    bitrate: 96
+  - url: https://f111.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&sid=28ew6Usq6cch83eglcsXwLlNRS3&token=Ip5bwQ_T81Lq_mqKc3HUjnxrk94ek2bDcfNyNHuqRGk&tvf=XFsRgyq06xZmMTExLnJuZGZuay5jb20
+    codec: MP3
+    bitrate: 256

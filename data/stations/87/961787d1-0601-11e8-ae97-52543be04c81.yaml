@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:07:34
 clickcount: 69
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-961787d1-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream2.friskyradio.com/frisky_mp3_hi'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://stream.frisky.friskyradio.com/frisky_mp3_high'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: 24/7 multi-channel electronic music with DJ-mixed shows; channels include Main, Deep, Chill, and Classics
   notes: Frisky Radio launched in 2000 (originally friskyradio.com, now frisky.fm) as a New York City-based internet radio pioneer dedicated to underground electronic dance music; it features curated DJ shows from artists including Hernan Cattaneo, Anthony Pappa, and other progressive/deep house tastemakers, has won numerous online radio awards over its 25-year history, and operates a subscription-supported premium tier alongside free streaming.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-961787d1-0601-11e8-ae97-52543be04c81
+  - iprd-us-frisky-23569dbe
+streams:
+  - url: http://stream2.friskyradio.com/frisky_mp3_hi
+    codec: MP3
+    bitrate: 96
+  - url: https://stream.frisky.friskyradio.com/frisky_mp3_high
+    codec: MP3
+    bitrate: 96

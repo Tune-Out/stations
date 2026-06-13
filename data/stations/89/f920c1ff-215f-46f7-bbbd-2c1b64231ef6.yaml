@@ -1,7 +1,7 @@
 stationuuid: f920c1ff-215f-46f7-bbbd-2c1b64231ef6
 name: Chemist Warehouse Remix (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT6.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT6.mp3
+url: 'http://23163.live.streamtheworld.com:80/ARN_IHRT6.mp3'
+url_resolved: 'http://23163.live.streamtheworld.com:80/ARN_IHRT6.mp3'
 homepage: https://www.chemistwarehouse.com.au/
 favicon: https://static.chemistwarehouse.com.au/ams/media/images/favicon/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:41:29
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-f920c1ff-215f-46f7-bbbd-2c1b64231ef6
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hot adult contemporary mix; Australian music, world music, contemporary hits; branded entertainment stream
   notes: ARN-operated stream branded as "Chemist Warehouse Remix." Part of iHeartRadio distribution. Mixed format emphasizing contemporary hits and Australian artists.
   sources: internal knowledge of ARN/iHeartRadio operations
+curation: 0.2
+provenance:
+  - radiobrowser-f920c1ff-215f-46f7-bbbd-2c1b64231ef6

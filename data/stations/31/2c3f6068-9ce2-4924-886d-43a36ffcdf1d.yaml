@@ -23,15 +23,6 @@ lastchangetime: 2026-04-16 21:43:13
 clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.60
-provenance:
-  - radiobrowser-2c3f6068-9ce2-4924-886d-43a36ffcdf1d
-duplicate_of: bbe3fd37-8cff-44e4-8818-4f6c28df93d7
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=10'
-    codec: MP3
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=1'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +32,12 @@ research:
   format: Contemporary/downtempo/lounge music (music-only format)
   notes: FluxFM is an independent Berlin-based radio station offering a curated channel called Anima Radio focused on relaxed, downtempo, and contemporary ambient music.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-2c3f6068-9ce2-4924-886d-43a36ffcdf1d
+duplicate_of: bbe3fd37-8cff-44e4-8818-4f6c28df93d7
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=10
+    codec: MP3
+  - url: https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=1
+    codec: MP3

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:45:01
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4a9431fb-f5a1-4c4a-ae3c-42bab47bca2f
-streams:
-  - url: 'http://test.taiwan-radio.tw:8000/TN.AM1071'
-    codec: MP3
-    bitrate: 48
-  - url: 'http://59.120.102.91:8000/OnAir'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Community-oriented programming; news, talk, cultural content.
   notes: Taiwan-based non-commercial AM radio station (1071 AM) operated as community service via e-go.org.tw platform.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4a9431fb-f5a1-4c4a-ae3c-42bab47bca2f
+streams:
+  - url: http://test.taiwan-radio.tw:8000/TN.AM1071
+    codec: MP3
+    bitrate: 48
+  - url: http://59.120.102.91:8000/OnAir
+    codec: MP3
+    bitrate: 48

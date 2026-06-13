@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 01:22:50
 clickcount: 0
 geo_lat: 49.49857195736861
 geo_long: 8.502216116636971
-curation: -0.05
-provenance:
-  - radiobrowser-7a411214-67bc-4fe1-a5ab-63aac529529a
-streams:
-  - url: 'http://stream.regenbogen2.de/90errock/mp3-128/radiobrowser'
-    codec: AAC
-  - url: 'https://stream.regenbogen2.de/90errock/mp3-128/radiobrowser'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: 90s rock and rock legends; multi-stream format with classic rock, metal, alternative
   notes: Tagline "LAUTER. ROCK. LEGENDEN" (louder rock legends); operates Queen-focused "We Will Rock You" stream; ET-Radio stream for transport industry
   sources: https://www.rockfm.de/
+curation: -0.05
+provenance:
+  - radiobrowser-7a411214-67bc-4fe1-a5ab-63aac529529a
+streams:
+  - url: http://stream.regenbogen2.de/90errock/mp3-128/radiobrowser
+    codec: AAC
+  - url: https://stream.regenbogen2.de/90errock/mp3-128/radiobrowser
+    codec: MP3

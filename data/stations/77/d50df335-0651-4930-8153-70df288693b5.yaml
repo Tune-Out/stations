@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 05:19:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-d50df335-0651-4930-8153-70df288693b5
-duplicate_of: 961455d5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://idobianthm.idobi.com/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://idobianthm.idobi.com/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: Alternative and indie music
   notes: idobi is a California-based music and culture network known for alternative and indie music programming; targets younger, music-focused audiences.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-d50df335-0651-4930-8153-70df288693b5
+duplicate_of: 961455d5-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://idobianthm.idobi.com/
+    codec: MP3
+    bitrate: 128
+  - url: http://idobianthm.idobi.com/
+    codec: MP3
+    bitrate: 128

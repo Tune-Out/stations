@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 02:14:38
 clickcount: 1
 geo_lat: 45.62199689720447
 geo_long: 10.81684280715626
-curation: -0.05
-provenance:
-  - radiobrowser-c487ed32-07d7-4999-a370-27537b0e5d7e
-streams:
-  - url: 'https://stream.laut.fm/teleradio1'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/teleradio1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Italian pop, italo disco, and Italian popular music
   notes: TeleRadio1 is commercial Italian station operating from Veneto; specializes in Italian pop, italo disco, and contemporary Italian popular music; serves North Italian market with Italian cultural focus
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c487ed32-07d7-4999-a370-27537b0e5d7e
+  - iprd-it-teleradio1-095c1be5
+streams:
+  - url: https://stream.laut.fm/teleradio1
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/teleradio1
+    codec: MP3
+    bitrate: 128

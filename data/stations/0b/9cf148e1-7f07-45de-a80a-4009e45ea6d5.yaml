@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-9cf148e1-7f07-45de-a80a-4009e45ea6d5
-streams:
-  - url: 'https://onair7.xdevel.com/proxy/xautocloud_xsgp_1092?mp=/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://onair7.xdevel.com/proxy/xautocloud_xsgp_1092?mp=/;stream/;'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Alternative and indie music programming.
   notes: Italian online radio station. Limited public information available. Based on branding, appears to focus on non-mainstream, alternative musical formats.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-9cf148e1-7f07-45de-a80a-4009e45ea6d5
+streams:
+  - url: https://onair7.xdevel.com/proxy/xautocloud_xsgp_1092?mp=/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://onair7.xdevel.com/proxy/xautocloud_xsgp_1092?mp=/;stream/;
+    codec: MP3
+    bitrate: 320

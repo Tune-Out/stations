@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:30:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c7e426c8-3ead-11e9-aa55-52543be04c81
-streams:
-  - url: 'http://eco.onestreaming.com:8264/'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://eco.onestreaming.com:8264/stream?type=http&nocache=234686'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Religious programming, Orthodox Christian content, liturgical broadcasts, teaching and pastoral communication.
   notes: "Community radio of the Holy Metropolis of Phthiotis, a diocese of the Church of Greece. Broadcasts on 89.4 FM from Lamia. Non-commercial operation serving pastoral and spiritual needs of Orthodox faithful in Phthiotis region (central Greece). Website: imfth.gr. Broadcasting format supports church liturgy and Orthodox Christian education."
   sources: AllRadio.Net, OrthodoxWiki, Orthodox Times, OrthoChristian.com
+curation: 0.35
+provenance:
+  - radiobrowser-c7e426c8-3ead-11e9-aa55-52543be04c81
+  - iprd-gr-iera-metropole-phthiotidos-89-4-854bc6ff
+streams:
+  - url: http://eco.onestreaming.com:8264/
+    codec: MP3
+    bitrate: 96
+  - url: http://eco.onestreaming.com:8264/stream?type=http&nocache=234686
+    codec: MP3
+    bitrate: 96

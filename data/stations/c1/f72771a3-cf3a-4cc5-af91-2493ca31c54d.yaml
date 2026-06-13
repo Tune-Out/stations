@@ -23,19 +23,6 @@ lastchangetime: 2026-01-23 07:53:05
 clickcount: 26
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f72771a3-cf3a-4cc5-af91-2493ca31c54d
-streams:
-  - url: 'https://quincy.torontocast.com:2070/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://quincy.torontocast.com:2070/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://kathy.torontocast.com:3560/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +32,17 @@ research:
   format: J-Pop and Japanese music streaming with focus on both current and classic (oldies) releases
   notes: Branded as "J-Pop Sakura" within Asia DREAM radio platform. Focuses on Japanese popular music across eras. No formal parent organization disclosed.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f72771a3-cf3a-4cc5-af91-2493ca31c54d
+  - iprd-ca-j-pop-powerplay-542f2dcb
+streams:
+  - url: https://quincy.torontocast.com:2070/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://quincy.torontocast.com:2070/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://kathy.torontocast.com:3560/
+    codec: MP3
+    bitrate: 128

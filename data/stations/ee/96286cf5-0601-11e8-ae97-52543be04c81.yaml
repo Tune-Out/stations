@@ -1,6 +1,6 @@
 stationuuid: 96286cf5-0601-11e8-ae97-52543be04c81
 name: WHOG 95.7 "The Hog" Ormond-By-The-Sea, FL
-url: http://provisioning.streamtheworld.com/pls/WHOGFMAAC.pls
+url: 'http://15693.live.streamtheworld.com:80/WHOGFMAAC_SC'
 url_resolved: http://15693.live.streamtheworld.com/WHOGFMAAC_SC
 homepage: http://whog957.com/
 favicon: https://www.957thehog.com/wp-content/uploads/2020/02/cropped-whog-logo-icon-180x180.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:17:44
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96286cf5-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Classic rock
   notes: WHOG 95.7 FM "The Hog" is a commercial classic rock station serving the Daytona Beach and Ormond-By-The-Sea area of Florida.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96286cf5-0601-11e8-ae97-52543be04c81
+  - iprd-us-whog-95-7-the-hog-c6248623

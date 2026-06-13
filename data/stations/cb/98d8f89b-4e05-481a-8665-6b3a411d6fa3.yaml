@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-98d8f89b-4e05-481a-8665-6b3a411d6fa3
-streams:
-  - url: 'http://radio.plaza.one/ogg_low'
-    codec: OGG
-    bitrate: 96
-  - url: 'http://radio.plaza.one/hls'
-    codec: AAC
-    bitrate: 70
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +29,15 @@ research:
   format: Vaporwave, future funk, experimental electronic; ambient and lo-fi aesthetics
   notes: Nightwave Plaza is a Japanese-based internet radio collective and community dedicated to vaporwave and future funk genres. Provides 24/7 streaming with curated programming celebrating 1980s-90s nostalgic electronic aesthetics.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-98d8f89b-4e05-481a-8665-6b3a411d6fa3
+  - iprd-jp-nightwave-plaza-opus-64-a03c526c
+streams:
+  - url: http://radio.plaza.one/ogg_low
+    codec: OGG
+    bitrate: 96
+  - url: http://radio.plaza.one/hls
+    codec: AAC
+    bitrate: 70
+    hls: true

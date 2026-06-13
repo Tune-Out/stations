@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:34:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-a60f069c-a283-4b56-b23a-0edb3eac660d
-streams:
-  - url: 'http://freshgrass.streamguys1.com/freshcuts-64aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://freshgrass.streamguys1.com/freshcuts-128mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Folk music, contemporary folk, new acoustic releases
   notes: Folk Alley Fresh Cuts is an internet radio channel featuring curated contemporary folk and acoustic music. Part of the FreshGrass online community. Focuses on new releases and emerging folk artists.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-a60f069c-a283-4b56-b23a-0edb3eac660d
+  - iprd-us-folk-alley-fresh-cuts-82e890fc
+streams:
+  - url: http://freshgrass.streamguys1.com/freshcuts-64aac
+    codec: AAC
+    bitrate: 64
+  - url: https://freshgrass.streamguys1.com/freshcuts-128mp3
+    codec: MP3
+    bitrate: 128

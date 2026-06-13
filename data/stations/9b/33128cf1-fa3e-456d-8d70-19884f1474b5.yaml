@@ -1,7 +1,7 @@
 stationuuid: 33128cf1-fa3e-456d-8d70-19884f1474b5
 name: NewsRadio 1150 WGOW
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WGOWAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WGOWAMAAC.aac
+url: 'https://18853.live.streamtheworld.com:443/WGOWAMAAC.aac'
+url_resolved: 'https://18853.live.streamtheworld.com:443/WGOWAMAAC.aac'
 homepage: https://www.wgowam.com/
 favicon: https://express-images.franklymedia.com/6616/sites/74/2023/07/20030500/wgow-am-logo1-1.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:21:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-33128cf1-fa3e-456d-8d70-19884f1474b5
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News, talk radio, local journalism; regional news and sports programming
   notes: NewsRadio 1150 WGOW is a commercial AM news/talk station licensed to Chattanooga, Tennessee. Operates as part of Gray Television's broadcasting group, offering local news coverage and talk programming for the Chattanooga region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-33128cf1-fa3e-456d-8d70-19884f1474b5

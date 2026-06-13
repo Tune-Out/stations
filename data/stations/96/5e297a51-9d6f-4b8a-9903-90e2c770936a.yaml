@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5e297a51-9d6f-4b8a-9903-90e2c770936a
-streams:
-  - url: 'https://streaming.broadcastradio.com:8002/glamorg?1725024804656='
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3streaming.planetwideradio.com:8000/glamorg'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,13 @@ research:
   format: 24/7 music and entertainment; award-winning volunteer-run station with song requests and "Music was my first love" series
   notes: Tagline "We're your healthy choice." Broadcasts on-air continuously from University Hospital of Wales, St David's Hospital, and Cardiff Royal Infirmary. Independent charity with volunteer-run operation since founding.
   sources: https://www.radioglamorgan.com/
+curation: 0.35
+provenance:
+  - radiobrowser-5e297a51-9d6f-4b8a-9903-90e2c770936a
+streams:
+  - url: https://streaming.broadcastradio.com:8002/glamorg?1725024804656=
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3streaming.planetwideradio.com:8000/glamorg
+    codec: MP3
+    bitrate: 128

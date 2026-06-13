@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 03:56:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9606baf5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284331-2_mp3_high.m3u'
-    url_resolved: 'http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284331-2_aac_high.m3u'
-    url_resolved: 'http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284331-2_mp3_low.m3u'
-    url_resolved: 'http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -47,3 +31,22 @@ research:
   format: Dance and club music specialization; house, techno, electro, club hits, DJ mixes
   notes: MDR (Mitteldeutscher Rundfunk) is a public broadcasting company serving eastern Germany (Saxony, Saxony-Anhalt, Thuringia). Sputnik Club is one of its specialty channels focused on dance/electronic music. Part of the ARD public broadcasting system. Youth-oriented dance music format.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9606baf5-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-sputnik-club-da67f43b
+  - iprd-de-mdr-sputnik-club-3df96b9f
+  - iprd-de-mdr-sputnik-club-b4b8878d
+streams:
+  - url: http://avw.mdr.de/streams/284331-2_mp3_high.m3u
+    url_resolved: http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284331-2_aac_high.m3u
+    url_resolved: http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284331-2_mp3_low.m3u
+    url_resolved: http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

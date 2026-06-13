@@ -1,7 +1,7 @@
 stationuuid: e3923640-29f9-4c27-8acb-06a0eeb7eeed
 name: iHeartRadio Pop (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR31_s01AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR31_s01AAC.aac
+url: 'https://14983.live.streamtheworld.com:443/ACIR31_S01AAC.aac'
+url_resolved: 'https://14983.live.streamtheworld.com:443/ACIR31_S01AAC.aac'
 homepage: https://www.iheart.com/live/iheartradio-pop-8167/
 favicon: https://www.iheart.com/favicon.ico
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:42:14
 clickcount: 1
 geo_lat: 19.433086128049883
 geo_long: -99.13251399993898
-curation: -0.05
-provenance:
-  - radiobrowser-e3923640-29f9-4c27-8acb-06a0eeb7eeed
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Pop music, contemporary hits, live performances, iHeartRadio Festival programming
   notes: iHeartRadio Pop is part of iHeartMedia's global commercial streaming platform. Mexico stream serves Ciudad de México audiences with English-language pop hits and contemporary artists including Taylor Swift, Dua Lipa, The Weeknd. Associated with Grupo ACIR in Mexican broadcast infrastructure. iHeartRadio operates an annual music festival.
   sources: https://www.iheart.com/live/iheartradio-pop-8167/
+curation: -0.05
+provenance:
+  - radiobrowser-e3923640-29f9-4c27-8acb-06a0eeb7eeed

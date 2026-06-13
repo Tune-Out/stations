@@ -18,16 +18,6 @@ lastcheckok: true
 lastchangetime: 2026-05-05 23:34:09
 clickcount: 0
 geo_lat: null
-curation: 0.35
-provenance:
-  - radiobrowser-536a3447-5409-4d87-85a7-345f6adc7b10
-streams:
-  - url: 'https://radio.zelerk.com/listen/chiptune/stream.ogg'
-    codec: OGG
-    bitrate: 256
-  - url: 'https://radio.zelerk.com/listen/chiptune/stream.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -37,3 +27,13 @@ research:
   format: Chiptune (8-bit/16-bit video game music and electronic compositions)
   notes: 24/7 Chiptune Radio streams exclusively chiptune and video game music to nostalgic gaming and retro computing communities worldwide via Zelerk platform.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-536a3447-5409-4d87-85a7-345f6adc7b10
+streams:
+  - url: https://radio.zelerk.com/listen/chiptune/stream.ogg
+    codec: OGG
+    bitrate: 256
+  - url: https://radio.zelerk.com/listen/chiptune/stream.mp3
+    codec: MP3
+    bitrate: 256

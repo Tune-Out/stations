@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:41:42
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961995eb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/onelive_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strm112.1.fm/onelive_mobile_mp3?'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: American ballads and romantic music.
   notes: Part of 1.FM's global network of themed internet radio stations. Specializes in American ballad music and love songs. 192 kbps MP3 stream.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961995eb-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-america-s-best-ballads-radio-8fd001b5
+streams:
+  - url: http://strm112.1.fm/onelive_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strm112.1.fm/onelive_mobile_mp3?
+    codec: MP3
+    bitrate: 192

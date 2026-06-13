@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-488e973a-39bc-4720-92c7-1cb0607fd0ad
-streams:
-  - url: 'https://kiyiturk.radioca.st/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://kiyiturk.radioca.st/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Curated music journalism with shows including Progressive Rock, Doomer, Underground World Music, and Piyano Piyano Bacaksız
   notes: Independent non-commercial music platform and radio operation based in Istanbul, Turkey. Emphasizes editorial independence through "Editor's Selection" features, artist interviews, and Patreon support model. Features rock, electronic, jazz, folk, metal, post-punk, and experimental genres with Creative Commons values.
   sources: https://kiyimuzik.com/
+curation: 0.6
+provenance:
+  - radiobrowser-488e973a-39bc-4720-92c7-1cb0607fd0ad
+streams:
+  - url: https://kiyiturk.radioca.st/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://kiyiturk.radioca.st/
+    codec: MP3
+    bitrate: 128

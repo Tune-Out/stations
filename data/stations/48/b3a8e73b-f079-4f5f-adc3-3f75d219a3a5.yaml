@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b3a8e73b-f079-4f5f-adc3-3f75d219a3a5
-streams:
-  - url: 'https://eu1.reliastream.com/proxy/mdr?mp=/MDR'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.jump.bg/proxy/predp?mp=/MDR'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Dance, club, and electronic music with morning talk shows, news bulletins, and lifestyle programming. Mix of dance, EDM, and club hits.
   notes: Bulgarian commercial radio station operated by Metro Radio / MetroCast network, based in Sofia. Focuses on contemporary dance and club music with integrated news and talk show segments.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b3a8e73b-f079-4f5f-adc3-3f75d219a3a5
+  - iprd-bg-metro-dance-radio-c167f810
+streams:
+  - url: https://eu1.reliastream.com/proxy/mdr?mp=/MDR
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.jump.bg/proxy/predp?mp=/MDR
+    codec: MP3
+    bitrate: 128

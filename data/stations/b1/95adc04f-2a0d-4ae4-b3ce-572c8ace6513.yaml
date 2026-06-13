@@ -1,7 +1,7 @@
 stationuuid: 95adc04f-2a0d-4ae4-b3ce-572c8ace6513
 name: LOS40 Chile
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac
+url: 'https://24253.live.streamtheworld.com:443/LOS40_CHILEAAC.aac'
+url_resolved: 'https://24253.live.streamtheworld.com:443/LOS40_CHILEAAC.aac'
 homepage: https://los40.cl/
 favicon: https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 06:00:01
 clickcount: 8
 geo_lat: -33.43706184097378
 geo_long: -70.65144538879396
-curation: -0.05
-provenance:
-  - radiobrowser-95adc04f-2a0d-4ae4-b3ce-572c8ace6513
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Pop music, Latin pop, Spanish and English music, entertainment, youth-oriented
   notes: LOS40 Chile is part of the LOS40 network operated by Prisa Radio, a major Latin American broadcaster. Youth-targeted pop music station. Broadcast via StreamTheWorld distribution. Features DJs like Moi Merino. Strong presence in Santiago and surrounding region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-95adc04f-2a0d-4ae4-b3ce-572c8ace6513

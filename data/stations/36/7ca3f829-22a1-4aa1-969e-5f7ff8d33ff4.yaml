@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 23:24:33
 clickcount: 0
 geo_lat: 36.60007119857548
 geo_long: -121.88819835217534
-curation: 0.25
-provenance:
-  - radiobrowser-7ca3f829-22a1-4aa1-969e-5f7ff8d33ff4
-duplicate_of: 0eb3dbcf-05f7-480e-83f4-7718102a4820
-streams:
-  - url: 'https://smoothjazz.cdnstream1.com/2585_320.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://smoothjazz.cdnstream1.com/2585_320.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: 24/7 smooth jazz music, various jazz sub-genres
   notes: Internet radio station broadcasting smooth jazz continuously. Based in Monterey, California area. Operates multiple streaming quality levels (320k mp3 is the high-quality option). Format includes contemporary jazz, fusion, and related instrumental genres. Primarily reaches online audience via streaming.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-7ca3f829-22a1-4aa1-969e-5f7ff8d33ff4
+duplicate_of: 0eb3dbcf-05f7-480e-83f4-7718102a4820
+streams:
+  - url: https://smoothjazz.cdnstream1.com/2585_320.mp3
+    codec: MP3
+    bitrate: 320
+  - url: http://smoothjazz.cdnstream1.com/2585_320.mp3
+    codec: MP3
+    bitrate: 320

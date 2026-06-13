@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 01:42:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-95a79112-a32a-4fd8-b7f5-dc0b4a6921c0
-streams:
-  - url: 'https://lhttp.qingting.fm/live/4581/64k.mp3?'
-    codec: MP3
-  - url: 'https://lhttp.qingting.fm/live/4581/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: Pop music, contemporary hits; 96.5 FM comprehensive radio programming for Pidu District
   notes: AsiaFM 郫都区综合广播 (Pidu District comprehensive broadcast); part of Chinese commercial radio landscape; primarily music-focused with mixed programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-95a79112-a32a-4fd8-b7f5-dc0b4a6921c0
+  - iprd-cn-asiafm-asia-sky-1bd6450d
+  - iprd-cn-asiafm-pidu-district-comprehensive-broadcasting-96-5-a0d587af
+streams:
+  - url: https://lhttp.qingting.fm/live/4581/64k.mp3?
+    codec: MP3
+  - url: https://lhttp.qingting.fm/live/4581/64k.mp3
+    codec: MP3

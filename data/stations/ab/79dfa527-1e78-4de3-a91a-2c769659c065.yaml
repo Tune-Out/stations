@@ -1,7 +1,7 @@
 stationuuid: 79dfa527-1e78-4de3-a91a-2c769659c065
 name: FUTURO Chile
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac
+url: 'https://27323.live.streamtheworld.com:443/FUTUROAAC.aac'
+url_resolved: 'https://27323.live.streamtheworld.com:443/FUTUROAAC.aac'
 homepage: https://futuro.cl/
 favicon: https://www.futuro.cl/wp-content/themes/ringo/img/favicon/apple-touch-icon.png?v=2021
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-79dfa527-1e78-4de3-a91a-2c769659c065
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,7 @@ research:
   format: Music, entertainment, cultural programming
   notes: Futuro is a Chilean radio brand; part of Chilean commercial radio landscape. Limited information available from URL.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-79dfa527-1e78-4de3-a91a-2c769659c065
+  - iprd-cl-futuro-88-9-e3bf610d

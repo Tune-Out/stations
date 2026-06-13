@@ -1,6 +1,6 @@
 stationuuid: 96353dd3-0601-11e8-ae97-52543be04c81
 name: WTAR "Sports Radio 850 & 96.5" Norfolk,VA
-url: http://provisioning.streamtheworld.com/pls/WTARAMAAC.pls
+url: 'http://26383.live.streamtheworld.com:80/WTARAMAAC_SC'
 url_resolved: http://26373.live.streamtheworld.com/WTARAMAAC_SC
 homepage: http://wtar.com/
 favicon: http://wtar.com/favicon.ico
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96353dd3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports radio format with Fox Sports branding; news, talk, and sports programming including live games, analysis, and commentary.
   notes: Licensed commercial radio broadcaster serving Norfolk, Virginia area via both AM (850) and FM (96.5) frequencies. Branded as "Sports Radio" with Fox Sports affiliation providing national sports content alongside local programming. Established regional broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96353dd3-0601-11e8-ae97-52543be04c81

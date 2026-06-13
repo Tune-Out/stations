@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 43.03786900531648
 geo_long: -87.90934681892395
-curation: 0.90
-provenance:
-  - radiobrowser-e46456c7-a497-47b9-87ec-76eeef29a254
-streams:
-  - url: 'https://www.tundracast.stream:3040/mount1?uuid=y48h2oci9'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://www.tundracast.stream:3040/mount1?uuid=y566804m'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: NPR news, talk, local journalism; programs include Morning Edition, All Things Considered, Fresh Air, 1A, Lake Effect.
   notes: Signed on-air September 24, 1964. Class B FM station with 13,500 watts ERP. Recognized for journalism by Hearken, Midwest Broadcast Journalists Association, and Wisconsin Broadcasters Association.
   sources: https://www.wuwm.com/, https://en.wikipedia.org/wiki/WUWM
+curation: 0.9
+provenance:
+  - radiobrowser-e46456c7-a497-47b9-87ec-76eeef29a254
+streams:
+  - url: https://www.tundracast.stream:3040/mount1?uuid=y48h2oci9
+    codec: AAC
+    bitrate: 96
+  - url: https://www.tundracast.stream:3040/mount1?uuid=y566804m
+    codec: AAC
+    bitrate: 96

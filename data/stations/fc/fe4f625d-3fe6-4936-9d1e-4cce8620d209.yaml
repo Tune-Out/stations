@@ -26,14 +26,6 @@ lastchangetime: 2026-01-15 08:26:33
 clickcount: 3
 geo_lat: 50.633
 geo_long: 3.066
-curation: 0.40
-provenance:
-  - radiobrowser-fe4f625d-3fe6-4936-9d1e-4cce8620d209
-streams:
-  - url: 'https://public.isekoi-radio.com/listen/chill/radio.flac'
-    codec: OGG
-  - url: 'https://public.isekoi-radio.com/listen/chill/radio.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +35,11 @@ research:
   format: Chill, chillout, electronic, house, intelligent drum and bass, liquid funk, lo-fi, phonk, relaxation music
   notes: French internet radio station ISEKOI Radio operating "Chill Zone" stream with high-quality FLAC codec. Specializes in relaxing electronic music including chillout, liquid drum and bass, lo-fi, and ambient styles. Bilingual (English/French) non-commercial operation focused on atmospheric electronic music.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-fe4f625d-3fe6-4936-9d1e-4cce8620d209
+streams:
+  - url: https://public.isekoi-radio.com/listen/chill/radio.flac
+    codec: OGG
+  - url: https://public.isekoi-radio.com/listen/chill/radio.mp3
+    codec: MP3

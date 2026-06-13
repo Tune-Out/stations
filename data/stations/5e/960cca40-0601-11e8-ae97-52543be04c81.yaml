@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 05:54:35
 clickcount: 70
 geo_lat: null
 geo_long: null
-curation: 0.10
-provenance:
-  - radiobrowser-960cca40-0601-11e8-ae97-52543be04c81
-duplicate_of: f5f6ae79-b919-497b-a10f-720ea7cdc7bc
-streams:
-  - url: 'http://mp3channels.webradio.rockantenne.de/heavy-metal'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://mp3channels.webradio.rockantenne.de/heavy-metal'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Dedicated 24/7 heavy metal stream - classic, thrash, power, death, and modern metal
   notes: Rock Antenne launched 27 March 2000 from Ismaning, Bavaria, as a sister station to Antenne Bayern; the Heavy Metal webradio is one of 40+ themed online sub-channels (alongside Live Rock, Melodic Rock, 70er Rock, Grunge, Gothic, Deutschrock, etc.); regional FM variants exist as Rock Antenne Bayern, Rock Antenne Hamburg, and Rock Antenne NRW; tagline "Der beste Rock nonstop!"; festival partnerships include Rock im Park and Nova Rock; podcasts "Whole Lotta Talk" and metal-focused "TUFF STUFF" are part of the brand.
   sources: http://www.rockantenne.de/, internal knowledge of German private radio
+curation: -0.05
+provenance:
+  - radiobrowser-960cca40-0601-11e8-ae97-52543be04c81
+duplicate_of: f5f6ae79-b919-497b-a10f-720ea7cdc7bc
+streams:
+  - url: http://mp3channels.webradio.rockantenne.de/heavy-metal
+    codec: MP3
+    bitrate: 128
+  - url: https://mp3channels.webradio.rockantenne.de/heavy-metal
+    codec: MP3
+    bitrate: 128

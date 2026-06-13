@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 03:13:35
 clickcount: 23
 geo_lat: null
 geo_long: null
-curation: -0.15
-provenance:
-  - radiobrowser-9610ad64-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.bmr-radio.de/'
-    codec: MP3
-  - url: 'https://stream.bmr-radio.de/ballermann-radio.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,12 @@ research:
   format: Party music, schlager, dance; describes itself as "Deutschlands Partysender Nummer 1"
   notes: Multiple themed channels (Ab18, Classics, Clubstyle, Top 30, Après-ski, Karneval, Schlagerparadies); hosts tours and festivals
   sources: http://www.ballermann-radio.de/
+curation: -0.05
+provenance:
+  - radiobrowser-9610ad64-0601-11e8-ae97-52543be04c81
+  - iprd-de-ballermann-radio-9fb8dcdf
+streams:
+  - url: http://stream.bmr-radio.de/
+    codec: MP3
+  - url: https://stream.bmr-radio.de/ballermann-radio.mp3
+    codec: MP3

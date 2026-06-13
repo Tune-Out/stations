@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:09:32
 clickcount: 1
 geo_lat: 52.223782634043424
 geo_long: 5.17258644104004
-curation: 0.55
-provenance:
-  - radiobrowser-23ea5d93-deff-4065-8580-7c42523c57d0
-streams:
-  - url: 'https://icecast.omroep.nl/radio4-eigentijds-mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://icecast.omroep.nl/radio4-eigentijds-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: Classical music and concert recordings broadcast 24/7.
   notes: NPO Radio 4 Concerten is part of the Netherlands Public Broadcasting system (NPO). Dedicated classical music network offering concert broadcasts, operas, and classical performances. Part of Dutch public service media.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-23ea5d93-deff-4065-8580-7c42523c57d0
+  - iprd-nl-npo-radio-4-concerten-933ed935
+streams:
+  - url: https://icecast.omroep.nl/radio4-eigentijds-mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://icecast.omroep.nl/radio4-eigentijds-mp3
+    codec: MP3
+    bitrate: 192

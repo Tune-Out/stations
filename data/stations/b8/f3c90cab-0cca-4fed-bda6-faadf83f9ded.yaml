@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:44:43
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-f3c90cab-0cca-4fed-bda6-faadf83f9ded
-streams:
-  - url: 'http://streams.rpr1.de/rpr-acoustic-128-mp3'
-    codec: AAC
-  - url: 'https://stream.rpr1.de/acoustic/mp3-128/radiobrowser'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-acoustic-128-aac'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Acoustic music, lounge, soft pop
   notes: Major commercial radio station serving Rheinland-Pfalz; Acoustic channel offers curated soft/relaxing content
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-f3c90cab-0cca-4fed-bda6-faadf83f9ded
+  - iprd-de-rpr1-acoustic-535045b2
+  - iprd-de-rpr1-acoustic-e16fe3f6
+streams:
+  - url: http://streams.rpr1.de/rpr-acoustic-128-mp3
+    codec: AAC
+  - url: https://stream.rpr1.de/acoustic/mp3-128/radiobrowser
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-acoustic-128-aac
+    codec: MP3

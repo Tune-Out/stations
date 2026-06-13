@@ -23,14 +23,6 @@ lastchangetime: 2026-01-20 00:34:10
 clickcount: 0
 geo_lat: 42.63682308425335
 geo_long: -74.00100141763689
-curation: 0.35
-provenance:
-  - radiobrowser-13ad0f41-955a-42ba-a30d-d0f468d43dfc
-streams:
-  - url: 'https://stream.revma.ihrhls.com/zc6306'
-    codec: AAC
-  - url: 'http://stream.revma.ihrhls.com/zc6306'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +32,11 @@ research:
   format: Variety hits and contemporary music programming
   notes: College radio station at Siena University in Loudonville, New York (88.3 FM); student-operated community service
   sources: https://wvcr.com/
+curation: 0.35
+provenance:
+  - radiobrowser-13ad0f41-955a-42ba-a30d-d0f468d43dfc
+streams:
+  - url: https://stream.revma.ihrhls.com/zc6306
+    codec: AAC
+  - url: http://stream.revma.ihrhls.com/zc6306
+    codec: AAC

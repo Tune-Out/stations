@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-dc87fef7-fd5d-4651-8a46-b232af43c8d8
-streams:
-  - url: 'https://iskon2b.out.airtime.pro:8000/iskon2b_a'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://iskon2b.out.airtime.pro:8000/iskon2b_a'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Devotional and spiritual programming.
   notes: Based in Maharashtra, India. Dedicated to Sathya Sai Baba teachings and bhakti (devotional) music. Community-supported spiritual radio.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-dc87fef7-fd5d-4651-8a46-b232af43c8d8
+  - iprd-in-2b-radio-sangam-guruvar-62983470
+streams:
+  - url: https://iskon2b.out.airtime.pro:8000/iskon2b_a
+    codec: MP3
+    bitrate: 64
+  - url: http://iskon2b.out.airtime.pro:8000/iskon2b_a
+    codec: MP3
+    bitrate: 64

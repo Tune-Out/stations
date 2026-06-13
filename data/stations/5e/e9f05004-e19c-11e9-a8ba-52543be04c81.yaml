@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-e9f05004-e19c-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-dhiphopcharts-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-dhiphopcharts-128-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-dhiphopcharts-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Dedicated German hip-hop channel featuring contemporary German rap/hip-hop artists and tracks
   notes: Specialized channel within bigFM network (already documented under station 7). Focuses on "Deutscher Hip-Hop" (German hip-hop/rap). Part of bigFM's thematic streaming channels. Distributed via Audiotainment network infrastructure.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-e9f05004-e19c-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-dhiphopcharts-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-dhiphopcharts-128-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-dhiphopcharts-128-mp3
+    codec: MP3

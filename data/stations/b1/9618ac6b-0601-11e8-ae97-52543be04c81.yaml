@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 00:07:07
 clickcount: 1
 geo_lat: 42.6977
 geo_long: 23.3219
-curation: -0.05
-provenance:
-  - radiobrowser-9618ac6b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream-bg-01.radiotangra.com:8000/Tangra.ogg'
-    codec: OGG
-  - url: 'http://stream-bg-01.radiotangra.com/Tangra-high.aac'
-    codec: AAC
-    bitrate: 256
-  - url: 'http://stream-bg-01.radiotangra.com:8000/Tangra-high'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,16 @@ research:
   format: Hard rock, heavy metal, alternative, punk, folk metal, pop-punk with specialty shows and artist interviews
   notes: Sofia-based commercial station. Notable shows include "Tangra Metal Shock", "Panic Attack", "Megachas" from London, and "Tangra Top 40" listener voting chart. Hosts live sessions and music discovery programming.
   sources: http://www.radiotangra.com/
+curation: -0.05
+provenance:
+  - radiobrowser-9618ac6b-0601-11e8-ae97-52543be04c81
+  - iprd-bg-radio-tangra-bffa9cb7
+streams:
+  - url: http://stream-bg-01.radiotangra.com:8000/Tangra.ogg
+    codec: OGG
+  - url: http://stream-bg-01.radiotangra.com/Tangra-high.aac
+    codec: AAC
+    bitrate: 256
+  - url: http://stream-bg-01.radiotangra.com:8000/Tangra-high
+    codec: MP3
+    bitrate: 192

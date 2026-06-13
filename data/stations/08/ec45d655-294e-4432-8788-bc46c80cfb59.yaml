@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 7
 geo_lat: 41.33093567199179
 geo_long: 19.821052551269535
-curation: 0.35
-provenance:
-  - radiobrowser-ec45d655-294e-4432-8788-bc46c80cfb59
-streams:
-  - url: 'http://eu8.fastcast4u.com/proxy/chillradio?mp=/1'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://eu8.fastcast4u.com/proxy/chillradio?mp=/1'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Chill and ambient music streaming station
   notes: Chill Radio is an online streaming station based in Tirana, Albania; community-driven broadcaster focused on relaxation and chill music genres
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ec45d655-294e-4432-8788-bc46c80cfb59
+streams:
+  - url: http://eu8.fastcast4u.com/proxy/chillradio?mp=/1
+    codec: MP3
+    bitrate: 96
+  - url: https://eu8.fastcast4u.com/proxy/chillradio?mp=/1
+    codec: MP3
+    bitrate: 96

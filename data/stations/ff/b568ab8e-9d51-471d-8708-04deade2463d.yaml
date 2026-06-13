@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:47:20
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b568ab8e-9d51-471d-8708-04deade2463d
-streams:
-  - url: 'https://islamicbulletin.site:8030/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://islamicbulletin.site:8030/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Islamic religious content, spiritual teachings, Quranic recitation, and Islamic guidance in Arabic and Tagalog
   notes: '"Tareeq As-Salaf" (The Path of the Salaf) is a Salafi-oriented Islamic radio broadcaster. Broadcasts in Arabic and Tagalog (Filipinos form significant Muslim diaspora). Focus on life guidance and Islamic spiritual teachings aligned with Salafi jurisprudence.'
   sources: https://salafwayfm.ly/
+curation: 0.35
+provenance:
+  - radiobrowser-b568ab8e-9d51-471d-8708-04deade2463d
+streams:
+  - url: https://islamicbulletin.site:8030/stream
+    codec: MP3
+    bitrate: 320
+  - url: http://islamicbulletin.site:8030/stream
+    codec: MP3
+    bitrate: 320

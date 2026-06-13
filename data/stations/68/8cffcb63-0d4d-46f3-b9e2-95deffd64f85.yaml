@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8cffcb63-0d4d-46f3-b9e2-95deffd64f85
-streams:
-  - url: 'http://stream.radio.co/sd60e90ab1/listen'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://stream.radio.co/sd60e90ab1/listen'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -45,3 +35,14 @@ research:
   format: Vintage music (1950s-1970s vinyl era); 24/7 programming with local presenters; "It's All About The Music"
   notes: Community radio station operating on 87.8 FM (Penrith/Hawkesbury) and 88.7 FM (Camden/Wollondilly) in western Sydney, with global online streaming. Features presenters Kevin, John Bond, Wilmo, Brian Campbell, and Artie Stevens.
   sources: https://vintagefm.com.au/
+curation: 0.35
+provenance:
+  - radiobrowser-8cffcb63-0d4d-46f3-b9e2-95deffd64f85
+  - iprd-au-vintage-87-8-fm-4d420eec
+streams:
+  - url: http://stream.radio.co/sd60e90ab1/listen
+    codec: AAC
+    bitrate: 96
+  - url: https://stream.radio.co/sd60e90ab1/listen
+    codec: AAC
+    bitrate: 96

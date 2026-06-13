@@ -1,7 +1,7 @@
 stationuuid: bbbed63f-f27c-4c9f-9acf-dc2965b00e65
 name: WWLS The Sports Animal
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WWLSAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WWLSAMAAC.aac
+url: 'https://26183.live.streamtheworld.com:443/WWLSAMAAC.aac'
+url_resolved: 'https://26183.live.streamtheworld.com:443/WWLSAMAAC.aac'
 homepage: https://www.thesportsanimal.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2980/squareIcon.png?r=80030
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:33:22
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-bbbed63f-f27c-4c9f-9acf-dc2965b00e65
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports talk radio featuring play-by-play, commentary, and sports discussion
   notes: The Sports Animal is a sports radio network operated through iHeartMedia; based in The Village, Oklahoma; features extensive sports coverage and talk programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bbbed63f-f27c-4c9f-9acf-dc2965b00e65

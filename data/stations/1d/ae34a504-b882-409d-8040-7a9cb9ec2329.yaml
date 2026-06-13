@@ -23,16 +23,6 @@ lastchangetime: 2026-03-10 18:01:11
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ae34a504-b882-409d-8040-7a9cb9ec2329
-streams:
-  - url: 'https://icy.unitedradio.it/Virgin_06.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/Virgin_06.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Part of Virgin Radio's multi-channel web-radio offering
   notes: Web-radio channel of Virgin Radio Italy; part of Mediaset group
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ae34a504-b882-409d-8040-7a9cb9ec2329
+  - iprd-it-virgin-radio-rock-ballads-ea5a3f40
+streams:
+  - url: https://icy.unitedradio.it/Virgin_06.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/Virgin_06.mp3
+    codec: MP3
+    bitrate: 128

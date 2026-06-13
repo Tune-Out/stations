@@ -1,6 +1,6 @@
 stationuuid: 11ae85d0-df31-464c-9bb2-6c67dae8c935
 name: WABC
-url: http://provisioning.streamtheworld.com/pls/WABCAMAAC.pls
+url: 'http://26113.live.streamtheworld.com:80/WABCAMAAC_SC'
 url_resolved: http://18093.live.streamtheworld.com:3690/WABCAMAAC_SC
 homepage: https://wabcradio.com/
 favicon: https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1494/2018/03/22100847/cropped-wabc-logo-1024-1024-3-180x180.png
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 05:12:26
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-11ae85d0-df31-464c-9bb2-6c67dae8c935
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: All-news and local talk radio; news, traffic, weather, local interest programming
   notes: WABC is a historic flagship news-talk radio station in New York City, operating at 770 AM. Part of iHeartMedia's network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-11ae85d0-df31-464c-9bb2-6c67dae8c935

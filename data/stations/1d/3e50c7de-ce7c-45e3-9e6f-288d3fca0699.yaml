@@ -26,18 +26,6 @@ lastchangetime: 2026-01-15 07:43:38
 clickcount: 10
 geo_lat: 19.437057246001498
 geo_long: -99.13135528564456
-curation: 0.00
-provenance:
-  - radiobrowser-3e50c7de-ce7c-45e3-9e6f-288d3fca0699
-streams:
-  - url: 'https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8'
-    codec: AAC
-    bitrate: 131
-    hls: true
-  - url: 'https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +35,15 @@ research:
   format: Spanish-language news/talk, political commentary, sports talk, and acoustic-flavoured music programming
   notes: Radio Fórmula 104.1 FM (call sign XERFR-FM) is the flagship Mexico City FM outlet of Grupo Fórmula, one of Mexico's largest privately owned radio networks; founded in 1968 by Rogerio Azcárraga Madero, Grupo Fórmula operates a multi-cadena (multi-network) format with several parallel signals (Primera, Segunda, Tercera Cadena) carrying news, talk, and music. The 104.1 FM signal carries Radio Fórmula's "Segunda Cadena" and acoustic music branding, paired with high-profile talk and political programming such as Eduardo Ruiz-Healy, Ciro Gómez Leyva, López-Dóriga, and Joaquín López-Dóriga's morning news. The group has long been a fixture of Mexican political and business journalism.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3e50c7de-ce7c-45e3-9e6f-288d3fca0699
+streams:
+  - url: https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8
+    codec: AAC
+    bitrate: 131
+    hls: true
+  - url: https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true

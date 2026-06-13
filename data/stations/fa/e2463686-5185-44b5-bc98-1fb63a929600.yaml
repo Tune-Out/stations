@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:11:33
 clickcount: 3
 geo_lat: 43.731583
 geo_long: 0.878187
-curation: 0.50
-provenance:
-  - radiobrowser-e2463686-5185-44b5-bc98-1fb63a929600
-streams:
-  - url: 'https://stream.radiobroussaille.fr:8443/broussaille-hifi'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://stream.radiobroussaille.fr:8443/broussaille-lofi'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: associative web media; shows include "La Chanson Chelou" (Weird Song), "Libre à vous" (Free to You), "Rap Au logis" (Rap at Home), "Temps AX"; music and speech
   notes: Self-described as "le haut-parleur de L'Ouverture" (the loudspeaker of L'Ouverture); tagline "la radio qui pique!" (the radio that stings); positioned "Hors des sentiers battus" (off the beaten path); "webmédia associatif pour la libre expression de la biodiversité humaine"; ad-free; web-based streaming (HiFi option).
   sources: https://radiobroussaille.fr/
+curation: 0.5
+provenance:
+  - radiobrowser-e2463686-5185-44b5-bc98-1fb63a929600
+streams:
+  - url: https://stream.radiobroussaille.fr:8443/broussaille-hifi
+    codec: AAC
+    bitrate: 320
+  - url: https://stream.radiobroussaille.fr:8443/broussaille-lofi
+    codec: AAC
+    bitrate: 128

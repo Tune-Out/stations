@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-7af60188-3c6a-42fb-9fbd-8f6912fe7a73
-streams:
-  - url: 'http://178.32.107.151:3711/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://eu9.fastcast4u.com/proxy/alfagodwin?mp=/1'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Konkani devotional music, Catholic hymns, prayers, Divine Mercy Chaplet (7am and 3pm) and cultural programming
   notes: Radio AmchiKONKANI ("Our Konkani Radio") is an online community radio serving Konkani-speaking Catholic listeners primarily in coastal Karnataka and Goa with devotional content, traditional Konkani music and Catholic prayers; the station broadcasts the Konkani Divine Mercy Chaplet twice daily and emphasises preservation of the Konkani language and Mangalorean Catholic cultural heritage.
   sources: http://amchikonkani.com/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-7af60188-3c6a-42fb-9fbd-8f6912fe7a73
+  - iprd-in-radio-amchikonkani-33b5e6d3
+streams:
+  - url: http://178.32.107.151:3711/stream
+    codec: MP3
+    bitrate: 96
+  - url: https://eu9.fastcast4u.com/proxy/alfagodwin?mp=/1
+    codec: MP3
+    bitrate: 96

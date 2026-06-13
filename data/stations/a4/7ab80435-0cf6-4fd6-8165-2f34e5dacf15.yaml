@@ -27,16 +27,6 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-7ab80435-0cf6-4fd6-8165-2f34e5dacf15
-streams:
-  - url: 'https://jazzcrusader.stream.laut.fm/jazzcrusader'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/jazzcrusader'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +36,13 @@ research:
   format: Jazz including acid jazz, smooth jazz, funk, soul, R&B, chillout
   notes: Community internet radio stream on Laut.fm platform based in Palma de Mallorca, Spain, dedicated to jazz and related genres
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-7ab80435-0cf6-4fd6-8165-2f34e5dacf15
+streams:
+  - url: https://jazzcrusader.stream.laut.fm/jazzcrusader
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/jazzcrusader
+    codec: MP3
+    bitrate: 128

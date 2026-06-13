@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-34b474bd-a9ca-42a5-860a-dbba246adfe4
-streams:
-  - url: 'https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Latin pop, Latin music, Latin-language contemporary hits
   notes: Italian commercial radio station specializing in Latin pop and Latin music. Part of Deejay media group. Streams Latin pop hits and Latin-influenced music programming to Italian and Latin music enthusiasts.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-34b474bd-a9ca-42a5-860a-dbba246adfe4
+  - iprd-it-deejay-gasolina-c5cb319f
+streams:
+  - url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8
+    codec: UNKNOWN
+    hls: true

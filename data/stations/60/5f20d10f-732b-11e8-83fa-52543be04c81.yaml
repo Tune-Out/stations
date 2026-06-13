@@ -22,25 +22,6 @@ lastchangetime: 2026-01-15 02:56:10
 clickcount: 20
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-5f20d10f-732b-11e8-83fa-52543be04c81
-streams:
-  - url: 'http://www.egofm.de/stream/44kb.pls'
-    url_resolved: 'http://cast.egofm.de/egofm.aac?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://streams.egofm.de/egoFM-hq'
-    url_resolved: 'http://cast.egofm.de/egofm.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast.egofm.de/egofmbw.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streams.egofm.de/egoFM-hq'
-    url_resolved: 'https://cast.egofm.de/egofm.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -50,3 +31,22 @@ research:
   format: Independent and alternative rock music programming
   notes: Commercial independent music radio based in Bavaria; focus on indie and alternative rock; 128 kbps MP3 streaming
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-5f20d10f-732b-11e8-83fa-52543be04c81
+streams:
+  - url: http://www.egofm.de/stream/44kb.pls
+    url_resolved: http://cast.egofm.de/egofm.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: AAC+
+    bitrate: 64
+  - url: http://streams.egofm.de/egoFM-hq
+    url_resolved: http://cast.egofm.de/egofm.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 128
+  - url: https://cast.egofm.de/egofmbw.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 128
+  - url: https://streams.egofm.de/egoFM-hq
+    url_resolved: https://cast.egofm.de/egofm.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 128

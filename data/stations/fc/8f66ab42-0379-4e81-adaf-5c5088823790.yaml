@@ -25,22 +25,6 @@ lastchangetime: 2026-01-15 05:40:20
 clickcount: 0
 geo_lat: 51.05935060955763
 geo_long: -1.8067914828131104
-curation: 0.35
-provenance:
-  - radiobrowser-8f66ab42-0379-4e81-adaf-5c5088823790
-streams:
-  - url: 'http://mscp3.live-streams.nl:8360/flac.flac'
-    codec: OGG
-    bitrate: 160
-  - url: 'https://mscp3.live-streams.nl:8362/flac.flac'
-    codec: OGG
-    bitrate: 160
-  - url: 'http://mscp3.live-streams.nl:8360/high.aac'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://mscp3.live-streams.nl:8362/high.aac'
-    codec: AAC
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -50,3 +34,21 @@ research:
   format: Curated mixed format — classical music, jazz, electronica, folk, singer-songwriter; eclectic programming for sophisticated listeners with high-fidelity interests.
   notes: Naim Radio is an internet radio service operated by Naim Audio, a prestigious British manufacturer of high-end audio equipment. Station curates diverse musical genres with emphasis on sound quality and cultural programming; targets educated, music-appreciative audiophile audience. Reflects Naim's brand values of audio excellence and cultural sophistication.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8f66ab42-0379-4e81-adaf-5c5088823790
+  - iprd-gb-naim-radio-aa08febf
+  - iprd-gb-naim-radio-c63b86ed
+streams:
+  - url: http://mscp3.live-streams.nl:8360/flac.flac
+    codec: OGG
+    bitrate: 160
+  - url: https://mscp3.live-streams.nl:8362/flac.flac
+    codec: OGG
+    bitrate: 160
+  - url: http://mscp3.live-streams.nl:8360/high.aac
+    codec: AAC
+    bitrate: 320
+  - url: https://mscp3.live-streams.nl:8362/high.aac
+    codec: AAC
+    bitrate: 320

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:08:58
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e8077e39-52c4-11e9-a4d7-52543be04c81
-streams:
-  - url: 'http://stream.laut.fm/radio-marzahn'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/radio-marzahn'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,15 @@ research:
   format: Local news, mainstream pop music; community-focused
   notes: Local community radio station in Marzahn district (Berlin); broadcasts on laut.fm community platform. Focus on local news and pop music for district residents.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e8077e39-52c4-11e9-a4d7-52543be04c81
+  - iprd-de-radio-marzahn-8638a718
+  - iprd-de-radio-marzahn-43f0b61a
+streams:
+  - url: http://stream.laut.fm/radio-marzahn
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/radio-marzahn
+    codec: MP3
+    bitrate: 128

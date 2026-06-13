@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 03:25:25
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-772e7995-965f-4d52-81bc-0a77af640a6a
-streams:
-  - url: 'http://radio-metadata.fr:8000/fiprock'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://stream.radiofrance.fr/fiprock/fiprock.m3u8?id=radiofrance'
-    codec: AAC
-    bitrate: 107
-    hls: true
-  - url: 'https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8?id=radiofrance'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +31,18 @@ research:
   format: Rock music, independent/alternative rock, cultural programming
   notes: FIP Rock is part of Radio France's FIP brand, a prestigious public radio network known for eclectic music curation. FIP Rock specifically focuses on rock, indie, and alternative music. Funded by French license fees.
   sources: https://www.radiofrance.fr/fip/radio-rock
+curation: 0.75
+provenance:
+  - radiobrowser-772e7995-965f-4d52-81bc-0a77af640a6a
+  - iprd-fr-fip-rock-6695b79b
+streams:
+  - url: http://radio-metadata.fr:8000/fiprock
+    codec: AAC
+    bitrate: 192
+  - url: https://stream.radiofrance.fr/fiprock/fiprock.m3u8?id=radiofrance
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8?id=radiofrance
+    codec: UNKNOWN
+    hls: true

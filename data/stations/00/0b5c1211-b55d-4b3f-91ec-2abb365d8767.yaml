@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 04:16:44
 clickcount: 0
 geo_lat: 45.76394543389568
 geo_long: 15.9819370508194
-curation: -0.10
-provenance:
-  - radiobrowser-0b5c1211-b55d-4b3f-91ec-2abb365d8767
-streams:
-  - url: 'http://c5.hostingcentar.com:8000/streams/topradio/'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://c5.hostingcentar.com/streams/topradio/'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,15 @@ research:
   format: Classic rock, classic hits, rock music, and news/talk programming; adult contemporary format
   notes: Based in Zagreb, Croatia; popular commercial music and talk station; emphasis on classic rock and contemporary rock music with news programming; serves Croatian metropolitan and regional audiences
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-0b5c1211-b55d-4b3f-91ec-2abb365d8767
+  - iprd-hr-top-radio-76cec0a7
+  - iprd-hr-top-radio-dfa21372
+streams:
+  - url: http://c5.hostingcentar.com:8000/streams/topradio/
+    codec: AAC+
+    bitrate: 96
+  - url: https://c5.hostingcentar.com/streams/topradio/
+    codec: AAC+
+    bitrate: 96

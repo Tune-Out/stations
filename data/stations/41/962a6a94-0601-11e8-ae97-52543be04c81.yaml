@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:17:37
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962a6a94-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/60s_70s_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strm112.1.fm/60s_70s_mobile_mp3?'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: 1950s and 1960s music, classic hits, vintage pop, oldies
   notes: Part of 1.FM international online radio network (Switzerland-based); specializes in retro/nostalgia music from 1950s-1960s era; global reach with themed music channels
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962a6a94-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-back-to-the-50s-60s-radio-3d369d74
+streams:
+  - url: http://strm112.1.fm/60s_70s_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strm112.1.fm/60s_70s_mobile_mp3?
+    codec: MP3
+    bitrate: 192

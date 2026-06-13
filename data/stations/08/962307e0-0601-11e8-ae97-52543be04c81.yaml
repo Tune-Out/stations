@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 03:48:14
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962307e0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://31.192.216.8/RELAKS'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.rmfon.pl/n/relaks.pls'
-    url_resolved: 'https://rs202-krk.rmfstream.pl/rmf_relaks'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,15 @@ research:
   format: Relaxation, ambient, chillout, lounge music
   notes: RMF Relaks is a specialty channel from RMF radio network in Poland; focuses on relaxation and ambient music; part of major Polish commercial radio group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962307e0-0601-11e8-ae97-52543be04c81
+  - iprd-pl-rmf-relaks-6617c164
+streams:
+  - url: http://31.192.216.8/RELAKS
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.rmfon.pl/n/relaks.pls
+    url_resolved: https://rs202-krk.rmfstream.pl/rmf_relaks
+    codec: MP3
+    bitrate: 128

@@ -25,16 +25,6 @@ lastchangetime: 2026-03-19 10:04:08
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-c5ad63b2-7238-48b0-b44f-bb624cf0baf2
-streams:
-  - url: 'http://uk15freenew.listen2myradio.com:5003/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://uk7freenew.listen2myradio.com:8035/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +34,13 @@ research:
   format: ambient, chillout, lounge, new age, romantic soundtracks
   notes: internet-based station operating through Listen2MyRadio hosting service. Mission stated as "MUSIC THAT MAKE DREAMS COME TRUE" featuring ambient and romantic compositions. Offers web and mobile app listening. No governmental or commercial affiliations identified.
   sources: https://dreamer.radio12345.com/
+curation: 0.4
+provenance:
+  - radiobrowser-c5ad63b2-7238-48b0-b44f-bb624cf0baf2
+streams:
+  - url: http://uk15freenew.listen2myradio.com:5003/
+    codec: MP3
+    bitrate: 128
+  - url: http://uk7freenew.listen2myradio.com:8035/
+    codec: MP3
+    bitrate: 128

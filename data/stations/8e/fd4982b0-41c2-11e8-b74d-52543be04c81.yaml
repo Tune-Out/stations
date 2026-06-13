@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 03:20:40
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-fd4982b0-41c2-11e8-b74d-52543be04c81
-streams:
-  - url: 'http://bokradio.highquality.radiostream.co.za/'
-    codec: MP3
-  - url: 'https://bokradio.highquality.radiostream.co.za/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Adult contemporary Afrikaans and English music, talk, news, sport, and lifestyle programming
   notes: Bok Radio (Bokradio) is a commercial Afrikaans-language radio station based in Cape Town, South Africa, broadcasting on 98.9 MHz with a community-oriented mandate to serve the Western Cape Afrikaans community; it features local news, music, talk and Springbok rugby coverage, licensed by ICASA (Independent Communications Authority of South Africa).
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-fd4982b0-41c2-11e8-b74d-52543be04c81
+  - iprd-za-bok-radio-98-9-503dfafc
+streams:
+  - url: http://bokradio.highquality.radiostream.co.za/
+    codec: MP3
+  - url: https://bokradio.highquality.radiostream.co.za/
+    codec: MP3

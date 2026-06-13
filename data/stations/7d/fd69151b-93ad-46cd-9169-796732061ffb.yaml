@@ -1,7 +1,7 @@
 stationuuid: fd69151b-93ad-46cd-9169-796732061ffb
 name: 531pi - MP3
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC
+url: 'https://18243.live.streamtheworld.com:443/531PI_SC'
+url_resolved: 'https://18243.live.streamtheworld.com:443/531PI_SC'
 homepage: https://pmn.co.nz/radio-stations/531-pi
 favicon: https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e
 tags:
@@ -30,9 +30,6 @@ lastchangetime: 2026-01-14 23:25:56
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fd69151b-93ad-46cd-9169-796732061ffb
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +39,6 @@ research:
   format: Music, news, Pacific island culture
   notes: Community-oriented station serving Auckland's Pacific Islander populations. Broadcasts in multiple Pacific languages including Fijian, Samoan, and Te Reo Maori alongside English.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-fd69151b-93ad-46cd-9169-796732061ffb

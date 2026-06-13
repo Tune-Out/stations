@@ -1,7 +1,7 @@
 stationuuid: 8b06d8d4-01ae-4a81-9c98-72425ce4a79e
 name: iHeart The Holidays (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1AAC.aac
+url: 'http://17643.live.streamtheworld.com:80/ST29_SO1AAC.aac'
+url_resolved: 'http://17643.live.streamtheworld.com:80/ST29_SO1AAC.aac'
 homepage: https://www.iheart.com/live/iheart-the-holidays-8451/
 favicon: https://i.ibb.co/89gt1Q4/66fd9811a64b223110d9bf4f.webp
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 05:31:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8b06d8d4-01ae-4a81-9c98-72425ce4a79e
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Seasonal Christmas/holiday music programming
   notes: iHeart operates through iHeartRadio streaming platform in Canada; the "Holidays" channel is a limited seasonal offering during the December holiday period; iHeartMedia is a major commercial broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8b06d8d4-01ae-4a81-9c98-72425ce4a79e

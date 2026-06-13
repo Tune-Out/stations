@@ -24,17 +24,6 @@ lastchangetime: 2026-06-04 19:38:57
 clickcount: 6
 geo_lat: 53.254138474811064
 geo_long: 83.69629615201471
-curation: 0.35
-provenance:
-  - radiobrowser-80754ec6-cae5-4fbd-92c7-55e75a31bd40
-streams:
-  - url: 'https://ponywave.icu/listen/valakas_radio/radio.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://ponywave.icu/public/%D0%B3%D0%BB%D0%B0%D0%B4_%D0%B2%D0%B0%D0%BB%D0%B0%D0%BA%D0%B0%D1%81/playlist.pls'
-    url_resolved: 'https://ponywave.icu/listen/%D0%B3%D0%BB%D0%B0%D0%B4_%D0%B2%D0%B0%D0%BB%D0%B0%D0%BA%D0%B0%D1%81/radio.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +33,14 @@ research:
   format: Humor, comedy, talk, and speech-based content in Russian; comedic and entertainment-focused programming.
   notes: Глад Валакас (Glad Valakas) is a Russian-language internet radio station operated via ponywave.icu platform. Focuses on humor, comedy sketches, and talk content. Non-commercial independent broadcaster serving Russian-speaking audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-80754ec6-cae5-4fbd-92c7-55e75a31bd40
+streams:
+  - url: https://ponywave.icu/listen/valakas_radio/radio.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://ponywave.icu/public/%D0%B3%D0%BB%D0%B0%D0%B4_%D0%B2%D0%B0%D0%BB%D0%B0%D0%BA%D0%B0%D1%81/playlist.pls
+    url_resolved: https://ponywave.icu/listen/%D0%B3%D0%BB%D0%B0%D0%B4_%D0%B2%D0%B0%D0%BB%D0%B0%D0%BA%D0%B0%D1%81/radio.mp3
+    codec: MP3
+    bitrate: 192

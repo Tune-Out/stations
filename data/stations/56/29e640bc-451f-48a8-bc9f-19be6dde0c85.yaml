@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:57:38
 clickcount: 1
 geo_lat: 47.71932477758553
 geo_long: -1.3763809204101562
-curation: 0.35
-provenance:
-  - radiobrowser-29e640bc-451f-48a8-bc9f-19be6dde0c85
-streams:
-  - url: 'https://srv.webradiomanager.fr:1285/stream?x=1745084131773'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://srv.webradiomanager.fr:1285/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Pop and hit music with LGBTQ+-focused programming
   notes: Web-based radio station serving the LGBTQ+ community in France. Features pop and hit music with programming relevant to gay and lesbian audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-29e640bc-451f-48a8-bc9f-19be6dde0c85
+streams:
+  - url: https://srv.webradiomanager.fr:1285/stream?x=1745084131773
+    codec: MP3
+    bitrate: 128
+  - url: https://srv.webradiomanager.fr:1285/stream
+    codec: MP3
+    bitrate: 128

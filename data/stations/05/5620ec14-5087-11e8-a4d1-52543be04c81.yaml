@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-5620ec14-5087-11e8-a4d1-52543be04c81
-streams:
-  - url: 'http://stream.srg-ssr.ch/drsvirus/aacp_96.ram'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/srfvirus/aac/96'
-    codec: AAC
-    bitrate: 88
-  - url: 'http://stream.srg-ssr.ch/drsvirus/aacp_32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/srfvirus/aac/48'
-    codec: AAC
-    bitrate: 40
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +28,18 @@ research:
   format: Alternative pop, youth culture, and music
   notes: Swiss public radio youth station operated by SRG SSR. Focuses on alternative, hip-hop, and contemporary music with programming for young adults. Part of Switzerland's public broadcasting system.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-5620ec14-5087-11e8-a4d1-52543be04c81
+  - iprd-ch-radio-srf-virus-53d8d2bb
+  - iprd-ch-radio-srf-virus-342d2df8
+  - iprd-ch-radio-srf-virus-a5a9f169
+streams:
+  - url: http://stream.srg-ssr.ch/drsvirus/aacp_96.ram
+    url_resolved: http://stream.srg-ssr.ch/srgssr/srfvirus/aac/96
+    codec: AAC
+    bitrate: 88
+  - url: http://stream.srg-ssr.ch/drsvirus/aacp_32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/srfvirus/aac/48
+    codec: AAC
+    bitrate: 40

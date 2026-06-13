@@ -24,16 +24,6 @@ lastchangetime: 2026-05-24 10:03:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-b7190baa-dcb4-4c4d-b8fc-b89469faa64c
-streams:
-  - url: 'https://lo-fire.deathsmack-a51.workers.dev/radio.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://divine-paper-3624.deathsmack-a51.workers.dev/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +33,13 @@ research:
   format: Curated specialty programming focused on zamrock (Zambian rock), afrobeat, funk, psychedelic, and world music
   notes: Community-driven radio dedicated to promoting Zambian rock music heritage and related Afro-diasporic genres; specialty interest programming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-b7190baa-dcb4-4c4d-b8fc-b89469faa64c
+streams:
+  - url: https://lo-fire.deathsmack-a51.workers.dev/radio.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://divine-paper-3624.deathsmack-a51.workers.dev/
+    codec: MP3
+    bitrate: 192

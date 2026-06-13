@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:26:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-b0f9fafa-e387-4c8e-abe9-67678005e353
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -34,3 +31,8 @@ research:
   format: Jazz music specialization.
   notes: 'Licensed 90.7 FM in Glen Ellyn, Illinois (Chicago DMA). Non-profit, community-supported jazz station. Note: YAML lists "WRTE" but actual call sign is WDCB; stream resolves to wdcb-ice.streamguys1.com.'
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-b0f9fafa-e387-4c8e-abe9-67678005e353
+  - iprd-us-wrte-90-7-591252fa
+  - iprd-us-wdcb-90-9-f5cce47e

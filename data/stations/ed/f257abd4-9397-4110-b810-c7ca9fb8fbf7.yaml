@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: 59.43462950646448
 geo_long: 24.76766515823216
-curation: 0.55
-provenance:
-  - radiobrowser-f257abd4-9397-4110-b810-c7ca9fb8fbf7
-streams:
-  - url: 'http://icecast.err.ee/klarajazz.opus'
-    codec: OGG
-  - url: 'https://icecast.err.ee/klarajazz.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -37,3 +29,11 @@ research:
   format: Jazz, contemporary jazz, blues, world music
   notes: KlaRa Jazz is the jazz stream from Klassikaraadio (Classic Radio), an ERR service; public broadcaster operated by Estonian state; jazz and world music focus.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-f257abd4-9397-4110-b810-c7ca9fb8fbf7
+streams:
+  - url: http://icecast.err.ee/klarajazz.opus
+    codec: OGG
+  - url: https://icecast.err.ee/klarajazz.mp3
+    codec: MP3

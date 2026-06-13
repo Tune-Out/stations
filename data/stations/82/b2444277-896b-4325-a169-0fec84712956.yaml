@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-b2444277-896b-4325-a169-0fec84712956
-streams:
-  - url: 'http://stream.novotempo.com:1935/radio/radionovotempo.stream/live.m3u8'
-    codec: AAC
-    bitrate: 98
-    hls: true
-  - url: 'https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/live.m3u8'
-    codec: UNKNOWN
-    bitrate: 96
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +32,17 @@ research:
   format: Gospel, Christian music, religious teaching, and community programming
   notes: Rádio Novo Tempo is the official broadcast ministry of Brazil's Seventh-day Adventist Church; founded as part of religious education and outreach mission; operates terrestrial FM network and digital streams across Brazil; primarily Portuguese-language programming focused on evangelical Christianity and Adventist doctrine.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-b2444277-896b-4325-a169-0fec84712956
+  - iprd-br-r-dio-novo-tempo-920-e38c729f
+  - iprd-br-r-dio-novo-tempo-920-4302ea88
+streams:
+  - url: http://stream.novotempo.com:1935/radio/radionovotempo.stream/live.m3u8
+    codec: AAC
+    bitrate: 98
+    hls: true
+  - url: https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/live.m3u8
+    codec: UNKNOWN
+    bitrate: 96
+    hls: true

@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9d39c14a-de3e-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://internetradio.salue.de:8000/salue.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://internetradio.salue.de:8000/channel2'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://internetradio.salue.de:8000/channel4'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +28,16 @@ research:
   format: General music and entertainment
   notes: German commercial radio station; streams on internetradio.salue.de. "Made in Germany" emphasis suggests local production focus.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9d39c14a-de3e-11e9-a8ba-52543be04c81
+streams:
+  - url: http://internetradio.salue.de:8000/salue.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://internetradio.salue.de:8000/channel2
+    codec: MP3
+    bitrate: 128
+  - url: http://internetradio.salue.de:8000/channel4
+    codec: MP3
+    bitrate: 128

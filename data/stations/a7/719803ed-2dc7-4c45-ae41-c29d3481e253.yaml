@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 6
 geo_lat: 37.98312963647399
 geo_long: 23.728062808513645
-curation: -0.05
-provenance:
-  - radiobrowser-719803ed-2dc7-4c45-ae41-c29d3481e253
-streams:
-  - url: 'http://galaxy.live24.gr/galaxy9292'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://galaxy.live24.gr/galaxy9292'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Easy listening, pop, rock music; contemporary mainstream music
   notes: Greek FM radio station broadcasting from Athens area (Attika). Operates at 128 kbps MP3. Positioned as easy-listening and pop-rock station.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-719803ed-2dc7-4c45-ae41-c29d3481e253
+streams:
+  - url: http://galaxy.live24.gr/galaxy9292
+    codec: MP3
+    bitrate: 128
+  - url: https://galaxy.live24.gr/galaxy9292
+    codec: MP3
+    bitrate: 128

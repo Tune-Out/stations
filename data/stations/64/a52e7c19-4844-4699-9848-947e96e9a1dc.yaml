@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 03:11:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-a52e7c19-4844-4699-9848-947e96e9a1dc
-streams:
-  - url: 'https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8'
-    codec: AAC
-    bitrate: 2147
-    hls: true
-  - url: 'https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +30,14 @@ research:
   format: television streaming (video + audio); public broadcasting content
   notes: HR is a public broadcasting station for Hesse state; part of ARD federation; funded through broadcast licence fees; serves educational, cultural, and news mission; TV stream repurposed as radio feed.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-a52e7c19-4844-4699-9848-947e96e9a1dc
+streams:
+  - url: https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+    codec: AAC
+    bitrate: 2147
+    hls: true
+  - url: https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+    codec: UNKNOWN
+    hls: true

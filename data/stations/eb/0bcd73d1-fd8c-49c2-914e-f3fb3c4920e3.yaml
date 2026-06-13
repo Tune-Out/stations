@@ -1,7 +1,7 @@
 stationuuid: 0bcd73d1-fd8c-49c2-914e-f3fb3c4920e3
 name: The Classical Station
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FM.mp3
+url: 'https://13683.live.streamtheworld.com:443/WCPE_FM.mp3'
+url_resolved: 'https://13683.live.streamtheworld.com:443/WCPE_FM.mp3'
 homepage: https://theclassicalstation.org/
 favicon: https://theclassicalstation.org/wp-content/themes/nmc_classicalstation/favicon.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-0bcd73d1-fd8c-49c2-914e-f3fb3c4920e3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -31,3 +28,6 @@ research:
   format: Classical music programming; 24/7 classical repertoire.
   notes: Non-commercial classical station; operates under .org domain suggesting non-profit status; serves classical music audience.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-0bcd73d1-fd8c-49c2-914e-f3fb3c4920e3

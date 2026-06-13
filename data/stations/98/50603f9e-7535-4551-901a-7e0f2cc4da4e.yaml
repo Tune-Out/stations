@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-50603f9e-7535-4551-901a-7e0f2cc4da4e
-streams:
-  - url: 'http://radio.plaza.one/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://plaza.one/plaza.m3u'
-    url_resolved: 'http://radio.plaza.one/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +28,16 @@ research:
   format: Vaporwave, chillwave, lo-fi ambient electronic music
   notes: Nightwave Plaza is a prominent non-commercial internet radio station celebrated for its dedication to vaporwave and chillwave aesthetics. Known for curated atmospheric electronic music programming.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-50603f9e-7535-4551-901a-7e0f2cc4da4e
+  - iprd-us-plaza-one-3aa6a192
+  - iprd-jp-nightwave-plaza-opus-64-a03c526c
+streams:
+  - url: http://radio.plaza.one/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://plaza.one/plaza.m3u
+    url_resolved: http://radio.plaza.one/mp3
+    codec: MP3
+    bitrate: 128

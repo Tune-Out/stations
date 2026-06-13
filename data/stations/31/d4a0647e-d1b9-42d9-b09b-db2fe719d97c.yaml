@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:59:11
 clickcount: 6
 geo_lat: 63.45111535916165
 geo_long: 10.382981300354006
-curation: 0.75
-provenance:
-  - radiobrowser-d4a0647e-d1b9-42d9-b09b-db2fe719d97c
-streams:
-  - url: 'https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h'
-    codec: AAC+
-    bitrate: 159
-  - url: 'https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h'
-    codec: AAC+
-    bitrate: 158
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: Sports journalism, live event coverage, sports analysis, commentary
   notes: One of NRK's specialized channels offering comprehensive sports programming. NRK is Norway's public service broadcaster with mandatory public remit. Governed by editorial standards and transparency commitments.
   sources: https://radio.nrk.no/
+curation: 0.75
+provenance:
+  - radiobrowser-d4a0647e-d1b9-42d9-b09b-db2fe719d97c
+streams:
+  - url: https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h
+    codec: AAC+
+    bitrate: 159
+  - url: https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h
+    codec: AAC+
+    bitrate: 158

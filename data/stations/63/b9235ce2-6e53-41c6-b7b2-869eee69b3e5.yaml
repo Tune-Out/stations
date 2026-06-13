@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 06:12:34
 clickcount: 0
 geo_lat: 18.89585449449637
 geo_long: -96.93589210510255
-curation: -0.10
-provenance:
-  - radiobrowser-b9235ce2-6e53-41c6-b7b2-869eee69b3e5
-streams:
-  - url: 'https://streaming.sistemasmvsradio.com/proxy/afixhag/stream'
-    codec: MP3
-    bitrate: 160
-  - url: 'http://hd.digitalradio.mx:5906/;stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,13 @@ research:
   format: Adult contemporary, adult hits, pop, pop rock, Spanish-language music
   notes: Commercial radio station XHAG-FM operating as "Globo 102.1" in Córdoba, Veracruz. Part of MVS Radio network (Radiorama). Targets adult listeners with contemporary hits and adult formats.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-b9235ce2-6e53-41c6-b7b2-869eee69b3e5
+streams:
+  - url: https://streaming.sistemasmvsradio.com/proxy/afixhag/stream
+    codec: MP3
+    bitrate: 160
+  - url: http://hd.digitalradio.mx:5906/;stream
+    codec: MP3
+    bitrate: 128

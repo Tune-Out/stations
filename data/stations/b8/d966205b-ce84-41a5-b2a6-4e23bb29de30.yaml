@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d966205b-ce84-41a5-b2a6-4e23bb29de30
-streams:
-  - url: 'http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60'
-    codec: AAC
-    bitrate: 125
-  - url: 'http://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8'
-    codec: AAC+
-    bitrate: 33
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: "Mixed format: Latino, pop, and varied music (latino, música, pop, varios)."
   notes: Commercial FM station on 91.1 FM in Paraguay. HLS streaming available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d966205b-ce84-41a5-b2a6-4e23bb29de30
+  - iprd-py-estacion-40-763d85db
+streams:
+  - url: http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60
+    codec: AAC
+    bitrate: 125
+  - url: http://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8
+    codec: AAC+
+    bitrate: 33
+    hls: true

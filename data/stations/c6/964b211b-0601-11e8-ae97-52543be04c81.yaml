@@ -1,6 +1,6 @@
 stationuuid: 964b211b-0601-11e8-ae97-52543be04c81
 name: WJTQ "Jet 100.7" Pensacola, FL
-url: http://provisioning.streamtheworld.com/pls/WJTQFMAAC.pls
+url: 'http://26193.live.streamtheworld.com:80/WJTQFMAAC_SC'
 url_resolved: http://26193.live.streamtheworld.com:3690/WJTQFMAAC_SC
 homepage: http://www.pensacolasjet.com/
 favicon: https://upload.wikimedia.org/wikipedia/en/thumb/8/87/WJTQ_JET100.7_logo.png/220px-WJTQ_JET100.7_logo.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:36:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-964b211b-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic hits, oldies, classic rock, entertainment
   notes: Commercial radio station on 100.7 FM in Pensacola. "Jet" branding suggests high-energy music format with classic hits.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-964b211b-0601-11e8-ae97-52543be04c81

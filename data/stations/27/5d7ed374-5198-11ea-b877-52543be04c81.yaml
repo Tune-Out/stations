@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5d7ed374-5198-11ea-b877-52543be04c81
-streams:
-  - url: 'http://listen.radioking.com/radio/151768/stream/192217'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://listen.radioking.com/radio/151768/stream/192217'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Eurovision-focused programming; songs, remixes, covers, national selection music, artist interviews
   notes: Founded June 1, 2011; first Francophone radio devoted to Eurovision stars; streams globally via RadioKing and Online Radio Box apps
   sources: https://www.efr12.com/radio/
+curation: 0.35
+provenance:
+  - radiobrowser-5d7ed374-5198-11ea-b877-52543be04c81
+  - iprd-fr-efr12-radio-706dac39
+streams:
+  - url: http://listen.radioking.com/radio/151768/stream/192217
+    codec: MP3
+    bitrate: 128
+  - url: https://listen.radioking.com/radio/151768/stream/192217
+    codec: MP3
+    bitrate: 128

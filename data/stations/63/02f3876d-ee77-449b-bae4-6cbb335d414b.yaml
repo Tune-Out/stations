@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 04:54:13
 clickcount: 8
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.65
-provenance:
-  - radiobrowser-02f3876d-ee77-449b-bae4-6cbb335d414b
-duplicate_of: d88c0d24-adb2-11e9-88f4-52543be04c81
-streams:
-  - url: 'https://stream.radioparadise.com/mellow-flac'
-    codec: OGG
-    bitrate: 1441
-  - url: 'http://stream.radioparadise.com/mellow-flac'
-    codec: OGG
-    bitrate: 1441
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +32,14 @@ research:
   format: hand-curated, DJ-programmed eclectic music; the Mellow Mix channel focuses on quieter, downtempo, acoustic and ambient selections in lossless FLAC
   notes: Radio Paradise launched in 2000 after Bill Goldsmith left commercial radio (KZAP Sacramento); the station is famously listener-supported with no advertising and is regularly cited as one of the highest-quality internet radio services, offering FLAC and HD-AAC streams of its Main, Mellow, Rock and World/Etc. mixes; "An eclectic musical adventure" is the station's self-description.
   sources: https://radioparadise.com/, internal knowledge
+curation: 0.65
+provenance:
+  - radiobrowser-02f3876d-ee77-449b-bae4-6cbb335d414b
+duplicate_of: d88c0d24-adb2-11e9-88f4-52543be04c81
+streams:
+  - url: https://stream.radioparadise.com/mellow-flac
+    codec: OGG
+    bitrate: 1441
+  - url: http://stream.radioparadise.com/mellow-flac
+    codec: OGG
+    bitrate: 1441

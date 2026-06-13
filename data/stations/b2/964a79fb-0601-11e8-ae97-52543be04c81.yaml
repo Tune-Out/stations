@@ -1,6 +1,6 @@
 stationuuid: 964a79fb-0601-11e8-ae97-52543be04c81
 name: KXLY-AM 920 Spokane, WA
-url: http://provisioning.streamtheworld.com/pls/KXLYAMAAC.pls
+url: 'http://24153.live.streamtheworld.com:80/KXLYAMAAC_SC'
 url_resolved: http://18513.live.streamtheworld.com/KXLYAMAAC_SC
 homepage: http://kxly920.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2931/squareIcon.png?r=79490
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:00:57
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-964a79fb-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: News talk, local news, community information
   notes: Commercial AM station (920 AM) in Spokane, Washington. News and talk format providing local news coverage and community information to Spokane area audiences. Part of Spokane regional radio market.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-964a79fb-0601-11e8-ae97-52543be04c81
+  - iprd-us-kxly-920-507230ca

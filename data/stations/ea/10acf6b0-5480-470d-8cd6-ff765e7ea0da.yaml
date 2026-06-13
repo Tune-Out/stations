@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:54:19
 clickcount: 0
 geo_lat: 19.434200327314652
 geo_long: -99.13302898406984
-curation: -0.05
-provenance:
-  - radiobrowser-10acf6b0-5480-470d-8cd6-ff765e7ea0da
-streams:
-  - url: 'https://streamingcwsradio30.com/8292/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streamingcwsradio30.com/8292/stream'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Music and entertainment; pop and contemporary music with news and talk segments
   notes: XEABC-AM, 760 AM broadcast from Mexico City. Part of NTR Medios de Comunicación network operating multiple radio stations. Known talent mentioned in tags includes Moi Merino.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-10acf6b0-5480-470d-8cd6-ff765e7ea0da
+streams:
+  - url: https://streamingcwsradio30.com/8292/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://streamingcwsradio30.com/8292/stream
+    codec: MP3
+    bitrate: 160

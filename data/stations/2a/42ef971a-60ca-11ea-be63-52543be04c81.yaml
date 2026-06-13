@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:35:25
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-42ef971a-60ca-11ea-be63-52543be04c81
-streams:
-  - url: 'http://stream.statsradio.com:8040/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.statsradio.com:8040/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: "Adult contemporary/mainstream hits with news and talk programming. Notable shows: Les Matins Country, Bonjour la Beauce, Midi nostalgie, Beaulieu dans L'retour."
   notes: 103.5 FM Cool FM emphasizes local news and community engagement. Owned by Groupe Radio Simard which operates multiple stations in the region.
   sources: http://www.coolfm.biz/
+curation: 0.35
+provenance:
+  - radiobrowser-42ef971a-60ca-11ea-be63-52543be04c81
+  - iprd-ca-ckrb-cool-103-5-875c2230
+streams:
+  - url: http://stream.statsradio.com:8040/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.statsradio.com:8040/stream
+    codec: MP3
+    bitrate: 128

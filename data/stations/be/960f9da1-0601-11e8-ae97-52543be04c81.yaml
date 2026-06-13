@@ -1,6 +1,6 @@
 stationuuid: 960f9da1-0601-11e8-ae97-52543be04c81
 name: WFMB-FM 104.5 Springfield, IL
-url: http://provisioning.streamtheworld.com/pls/WFMBFMAAC.pls
+url: 'http://27063.live.streamtheworld.com:80/WFMBFMAAC_SC'
 url_resolved: http://23103.live.streamtheworld.com/WFMBFMAAC_SC
 homepage: http://www.wfmb.com/
 favicon: https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2511/files/2020/03/cropped-neuhoff-hero-logo-300x300-1.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:53:54
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960f9da1-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music; adult contemporary; local news and talk shows
   notes: WFMB-FM 104.5 is a commercial country radio station serving the Springfield, Illinois market. Part of Cumulus Media's portfolio through Neuhoff Media operations. Broadcasts news, weather, and local information typical of regional market stations.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960f9da1-0601-11e8-ae97-52543be04c81

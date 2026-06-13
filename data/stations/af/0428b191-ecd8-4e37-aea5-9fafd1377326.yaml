@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 08:20:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0428b191-ecd8-4e37-aea5-9fafd1377326
-streams:
-  - url: 'https://lhttp-hw.qtfm.cn/live/3997/64k.mp3'
-    codec: MP3
-  - url: 'http://live.ximalaya.com/radio-first-page-app/live/2817/64.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +31,12 @@ research:
   format: Traffic, entertainment, local programming, public announcements
   notes: Traffic and entertainment radio for Dalian, Liaoning Province; part of China's public broadcasting system.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0428b191-ecd8-4e37-aea5-9fafd1377326
+streams:
+  - url: https://lhttp-hw.qtfm.cn/live/3997/64k.mp3
+    codec: MP3
+  - url: http://live.ximalaya.com/radio-first-page-app/live/2817/64.m3u8
+    codec: UNKNOWN
+    hls: true

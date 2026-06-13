@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 55.75344064359466
 geo_long: 37.52796574588427
-curation: -0.05
-provenance:
-  - radiobrowser-ada42595-f042-4c27-9279-5994503ecc81
-streams:
-  - url: 'https://a8.radioheart.ru:9003/sk-radio?ab4c'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://a8.radioheart.ru:9003/sk-radio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Internet radio with mixed music and entertainment programming.
   notes: Website created and maintained by i1group web development company; operates as online streaming service.
   sources: https://sk-radio.com/sk-radio-internet-radiostanciya
+curation: -0.05
+provenance:
+  - radiobrowser-ada42595-f042-4c27-9279-5994503ecc81
+streams:
+  - url: https://a8.radioheart.ru:9003/sk-radio?ab4c
+    codec: MP3
+    bitrate: 128
+  - url: https://a8.radioheart.ru:9003/sk-radio
+    codec: MP3
+    bitrate: 128

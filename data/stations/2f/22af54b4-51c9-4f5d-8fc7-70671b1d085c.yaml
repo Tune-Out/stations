@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 01:10:52
 clickcount: 0
 geo_lat: -37.81456232410907
 geo_long: 144.96331214904788
-curation: 0.00
-provenance:
-  - radiobrowser-22af54b4-51c9-4f5d-8fc7-70671b1d085c
-streams:
-  - url: 'http://s9.nexuscast.com:8565/kissfm.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://149.56.185.83:8565/kissfm.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Dance, drum and bass, electronic, house music
   notes: Commercial dance music station based in Victoria, Australia. Specializes in electronic and house music programming.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-22af54b4-51c9-4f5d-8fc7-70671b1d085c
+streams:
+  - url: http://s9.nexuscast.com:8565/kissfm.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://149.56.185.83:8565/kissfm.mp3
+    codec: MP3
+    bitrate: 128

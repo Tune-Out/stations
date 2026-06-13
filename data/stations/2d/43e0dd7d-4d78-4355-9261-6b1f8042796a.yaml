@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:20:02
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-43e0dd7d-4d78-4355-9261-6b1f8042796a
-streams:
-  - url: 'https://listen-nation.sharp-stream.com/breezyradiouk.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://listen-nation.sharp-stream.com/breezyradiouk.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Easy listening; soft pop; classic hits; light music for background listening
   notes: UK commercial easy-listening station; formerly broadcast on FM in Southern England; now operates as internet stream via NationPlayer; 128 kbps MP3.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-43e0dd7d-4d78-4355-9261-6b1f8042796a
+streams:
+  - url: https://listen-nation.sharp-stream.com/breezyradiouk.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://listen-nation.sharp-stream.com/breezyradiouk.mp3
+    codec: MP3
+    bitrate: 128

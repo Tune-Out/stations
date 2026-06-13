@@ -22,14 +22,6 @@ lastchangetime: 2026-05-04 21:36:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-42bfe51f-2055-4e12-96af-8c0b77d640cf
-streams:
-  - url: 'http://uksoutha.streaming.broadcast.radio:21321/bath'
-    codec: MP3
-  - url: 'http://uksoutha.streaming.broadcast.radio:20831/hastings'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Tourist information and local programming
   notes: Tourist information radio station serving Bath area with travel, lodging, and local event information for visitors.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-42bfe51f-2055-4e12-96af-8c0b77d640cf
+streams:
+  - url: http://uksoutha.streaming.broadcast.radio:21321/bath
+    codec: MP3
+  - url: http://uksoutha.streaming.broadcast.radio:20831/hastings
+    codec: MP3

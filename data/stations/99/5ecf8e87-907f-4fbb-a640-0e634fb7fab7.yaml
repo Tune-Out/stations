@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 01:10:51
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5ecf8e87-907f-4fbb-a640-0e634fb7fab7
-streams:
-  - url: 'http://netradio.live24.gr/rebel1052'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://netradio.live24.gr/rebel1052'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Classic rock and rock format with industry news and artist interviews
   notes: REBEL 105.2 FM is a commercial classic-rock station based in Maroussi, Athens, broadcasting on 105.2 MHz; owned by Atlantis Group (Atlantis Radiofonikes); programming features classic rock catalog, news on legacy rock artists and industry, listener contests, and a weekly "REBEL FM Top Chart"; engages listeners across Facebook, Twitter, Instagram, and Spotify.
   sources: https://www.rebelfm.gr/
+curation: -0.05
+provenance:
+  - radiobrowser-5ecf8e87-907f-4fbb-a640-0e634fb7fab7
+  - iprd-gr-rebel-105-2-64ee4a07
+streams:
+  - url: http://netradio.live24.gr/rebel1052
+    codec: AAC
+    bitrate: 192
+  - url: https://netradio.live24.gr/rebel1052
+    codec: AAC
+    bitrate: 192

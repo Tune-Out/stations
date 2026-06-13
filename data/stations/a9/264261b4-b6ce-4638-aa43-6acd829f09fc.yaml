@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-264261b4-b6ce-4638-aa43-6acd829f09fc
-streams:
-  - url: 'https://s1.autopo.st/proxy/stfkrnfr_s1?mp=/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s6.autopo.st/proxy/stfkrnfr?mp=/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Contemporary pop, rock, dance, and entertainment programming aimed at younger audiences.
   notes: Online streaming station serving the UK market. Laser 558 has a community of followers interested in modern popular music and entertainment content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-264261b4-b6ce-4638-aa43-6acd829f09fc
+streams:
+  - url: https://s1.autopo.st/proxy/stfkrnfr_s1?mp=/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://s6.autopo.st/proxy/stfkrnfr?mp=/stream
+    codec: MP3
+    bitrate: 128

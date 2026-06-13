@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 03:57:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-72cf8197-dc93-4849-b33d-d763e8897d8a
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/groovetribal96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/groovetribal96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: groove, tribal, house, and electronic dance music
   notes: St. Petersburg-based commercial station; Groove/Tribal channel specializes in electronic and dance music
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-72cf8197-dc93-4849-b33d-d763e8897d8a
+  - iprd-ru-radio-rekord-groove-tribal-4e452130
+streams:
+  - url: http://radiorecord.hostingradio.ru/groovetribal96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/groovetribal96.aacp
+    codec: AAC

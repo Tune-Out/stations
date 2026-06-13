@@ -1,7 +1,7 @@
 stationuuid: 356295b4-574b-42c6-8490-95a644509556
 name: 2Max FM - Narrabri - 91.3 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2MAX.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2MAX.mp3
+url: 'http://28903.live.streamtheworld.com:80/2MAX.mp3'
+url_resolved: 'http://28903.live.streamtheworld.com:80/2MAX.mp3'
 homepage: https://2maxfm.com.au/
 favicon: https://i.ibb.co/51b0L5G/627bb9f61799f5e4dd566a8a.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-356295b4-574b-42c6-8490-95a644509556
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Mixed music, community programming, miscellaneous format
   notes: Narrabri-based community radio station 2Max FM at 91.3 FM in New South Wales. Community radio model operated by local volunteers. Serves Narrabri region with mixed music and local programming. Accessible via StreamTheWorld distribution.
   sources: https://2maxfm.com.au/
+curation: 0.35
+provenance:
+  - radiobrowser-356295b4-574b-42c6-8490-95a644509556

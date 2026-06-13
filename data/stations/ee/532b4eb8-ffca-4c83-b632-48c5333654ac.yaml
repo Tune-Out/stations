@@ -28,19 +28,6 @@ lastchangetime: 2026-03-16 14:59:30
 clickcount: 25
 geo_lat: 43.689108118627175
 geo_long: 4.2713937163352975
-curation: 0.35
-provenance:
-  - radiobrowser-532b4eb8-ffca-4c83-b632-48c5333654ac
-streams:
-  - url: 'http://hosting.radiomedia.fr:1100/schoolradio'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://hosting.studioradiomedia.fr:1100/boombox'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://hosting.radiomedia.fr:1100/boombox'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -50,3 +37,16 @@ research:
   format: retro hits format spanning 80s, 90s, 2000s; dance, disco, funk, pop rock from nostalgia era
   notes: Boombox Radio is a French web radio station specializing in retro dance and pop music from the 1980s, 1990s, and 2000s. Includes disco, funk, and dance classics. Targets nostalgia-oriented audience interested in electronic, dance, and pop music from peak dance music era. Web-based streaming via RadioMedia hosting.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-532b4eb8-ffca-4c83-b632-48c5333654ac
+streams:
+  - url: http://hosting.radiomedia.fr:1100/schoolradio
+    codec: MP3
+    bitrate: 320
+  - url: http://hosting.studioradiomedia.fr:1100/boombox
+    codec: MP3
+    bitrate: 192
+  - url: http://hosting.radiomedia.fr:1100/boombox
+    codec: MP3
+    bitrate: 192

@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 02:55:32
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-cae0fb22-8935-11e8-aa66-52543be04c81
-duplicate_of: aab6a396-57b6-46e4-9c9d-3e1b1e81b2c1
-streams:
-  - url: 'https://stream.bauermedia.fi/radionova/radionova_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.bauermedia.fi/radionova/radionova_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: Contemporary hits, rock, alternative, urban music
   notes: Finnish commercial broadcaster; part of Bauer Media Group; 478 votes on directory listing
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cae0fb22-8935-11e8-aa66-52543be04c81
+duplicate_of: aab6a396-57b6-46e4-9c9d-3e1b1e81b2c1
+streams:
+  - url: https://stream.bauermedia.fi/radionova/radionova_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.bauermedia.fi/radionova/radionova_128.mp3
+    codec: MP3
+    bitrate: 128

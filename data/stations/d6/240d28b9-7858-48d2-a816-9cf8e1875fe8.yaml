@@ -24,19 +24,6 @@ lastchangetime: 2026-01-15 00:50:24
 clickcount: 382
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-240d28b9-7858-48d2-a816-9cf8e1875fe8
-streams:
-  - url: 'https://liveradio.swr.de/sw331ch/swr3/play.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://liveradio.swr.de/sw890cl/swr3/'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://liveradio.swr.de/sw282p3/swr3/play.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +33,18 @@ research:
   format: hot adult contemporary / contemporary hit pop and rock mixed with news, weather, traffic and satirical comedy segments (notably "SWR3 Comedy")
   notes: One of the most-listened-to radio stations in Germany. Successor to Südwestfunk's SWF3 (launched 1982); rebranded SWR3 after the 1998 merger of SWF and SDR into Südwestrundfunk. Known for its annual "SWR3 New Pop Festival" promoting emerging international pop artists. Headquartered in Baden-Baden.
   sources: internal knowledge only (homepage fetch blocked)
+curation: 0.6
+provenance:
+  - radiobrowser-240d28b9-7858-48d2-a816-9cf8e1875fe8
+  - iprd-de-swr3-80f3b7f8
+  - iprd-de-swr3-76356ae6
+streams:
+  - url: https://liveradio.swr.de/sw331ch/swr3/play.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://liveradio.swr.de/sw890cl/swr3/
+    codec: AAC
+    bitrate: 96
+  - url: https://liveradio.swr.de/sw282p3/swr3/play.mp3
+    codec: MP3
+    bitrate: 128

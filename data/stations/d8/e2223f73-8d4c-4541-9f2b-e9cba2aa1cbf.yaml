@@ -1,7 +1,7 @@
 stationuuid: e2223f73-8d4c-4541-9f2b-e9cba2aa1cbf
 name: 4YOU - Rockhampton - 98.5 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/4YOU.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/4YOU.mp3
+url: 'http://28803.live.streamtheworld.com:80/4YOU.mp3'
+url_resolved: 'http://28803.live.streamtheworld.com:80/4YOU.mp3'
 homepage: https://www.4you.org.au/
 favicon: https://i.ibb.co/myFcpPp/630881174b5e3218503383ec.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:46:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e2223f73-8d4c-4541-9f2b-e9cba2aa1cbf
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community radio with easy listening format
   notes: 4YOU is a community radio station (98.5 FM) serving Rockhampton, Queensland, Australia. Non-commercial community broadcaster with easy listening programming emphasizing accessibility and local engagement.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e2223f73-8d4c-4541-9f2b-e9cba2aa1cbf

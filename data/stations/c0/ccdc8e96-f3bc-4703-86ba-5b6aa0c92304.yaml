@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: 37.94504159962574
 geo_long: 23.67161571979523
-curation: -0.05
-provenance:
-  - radiobrowser-ccdc8e96-f3bc-4703-86ba-5b6aa0c92304
-streams:
-  - url: 'https://netradio.live24.gr/skai1003'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://netradio.live24.gr/skai1003'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: News, talk, and general programming
   notes: SKAI is a major Greek commercial radio and TV network; 100.3 FM is their primary news and current affairs station in Athens
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ccdc8e96-f3bc-4703-86ba-5b6aa0c92304
+  - iprd-gr-skai-100-3-fb478a2b
+streams:
+  - url: https://netradio.live24.gr/skai1003
+    codec: MP3
+    bitrate: 192
+  - url: http://netradio.live24.gr/skai1003
+    codec: MP3
+    bitrate: 192

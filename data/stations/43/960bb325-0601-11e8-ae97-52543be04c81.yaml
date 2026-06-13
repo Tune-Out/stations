@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 03:11:25
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960bb325-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream02.iloveradio.de/iloveradio2.mp3'
-    url_resolved: 'http://ilm.stream12.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQ2ODc5JmQ9ZGM1ZTE2YjM0ZmYxN2I1MGQyZDg'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream02.iloveradio.de/iloveradio2.mp3?hadpreroll'
-    url_resolved: 'http://ilm.stream35.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDU0MTM2JmQ9OTM5ZTRhYzE5ZDE2Njc5MTU5NTU'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +33,18 @@ research:
   format: House, EDM, and dance music 24/7
   notes: iLoveRadio is a German internet radio network; "I Love 2 Dance" channel specializes in club and festival music
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960bb325-0601-11e8-ae97-52543be04c81
+  - iprd-de-i-love-2-dance-4898debe
+  - iprd-de-i-love-radio-2-dance-f31c943a
+  - iprd-de-i-love-radio-us-only-rap-hip-hop-radio-71cac4e1
+streams:
+  - url: http://stream02.iloveradio.de/iloveradio2.mp3
+    url_resolved: http://ilm.stream12.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQ2ODc5JmQ9ZGM1ZTE2YjM0ZmYxN2I1MGQyZDg
+    codec: MP3
+    bitrate: 192
+  - url: http://stream02.iloveradio.de/iloveradio2.mp3?hadpreroll
+    url_resolved: http://ilm.stream35.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDU0MTM2JmQ9OTM5ZTRhYzE5ZDE2Njc5MTU5NTU
+    codec: MP3
+    bitrate: 192

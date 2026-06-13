@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 06:00:56
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-a46cad00-c4bf-4969-8c9b-2e176af80372
-streams:
-  - url: 'https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8'
-    codec: AAC+
-    bitrate: 122
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,15 @@ research:
   format: Pop music radio; curated 30-song format
   notes: GEDI - Deejay 30 Songs is an Italian web radio operated by Deejay, part of the GEDI media group. Features pop music in a 30-song curated format. Part of Deejay's internet radio network offering various music-focused channels.
   sources: https://www.deejay.it/, internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-a46cad00-c4bf-4969-8c9b-2e176af80372
+streams:
+  - url: https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8
+    codec: AAC+
+    bitrate: 122
+    hls: true

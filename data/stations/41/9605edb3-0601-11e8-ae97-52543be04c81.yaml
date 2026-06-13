@@ -25,19 +25,6 @@ lastchangetime: 2026-01-15 08:31:18
 clickcount: 173
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9605edb3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdrhf.akamaized.net/hls/live/2027996-b/wdr5/192/seglist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +34,18 @@ research:
   format: news, talk, politics, culture, science and information - the spoken-word/talk channel within the WDR radio family
   notes: WDR 5 is WDR's information- and talk-oriented station (Informationsradio), comparable in role to BBC Radio 4. Programming includes the daily news magazine "Morgenecho", consumer/service show "Servicezeit", and a long tradition of documentaries and political commentary. Operates under state treaty (Rundfunkstaatsvertrag) requiring impartiality and editorial independence from government. WDR is one of Germany's largest public broadcasters by budget and staff.
   sources: https://www1.wdr.de/radio/wdr5/ (fetch blocked), internal knowledge
+curation: 0.6
+provenance:
+  - radiobrowser-9605edb3-0601-11e8-ae97-52543be04c81
+  - iprd-de-wdr-5-198af55f
+  - iprd-de-wdr-5-ca9927c7
+streams:
+  - url: http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wdrhf.akamaized.net/hls/live/2027996-b/wdr5/192/seglist.m3u8
+    codec: UNKNOWN
+    hls: true

@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-c50ec229-5083-11e8-a4d1-52543be04c81
-streams:
-  - url: 'http://stream.srg-ssr.ch/m/regi_bs_bl/aacp_96'
-    codec: AAC
-    bitrate: 112
-  - url: 'http://stream.srg-ssr.ch/regi_bs_bl/aacp_32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/regi_bs_bl/aac/48'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +28,15 @@ research:
   format: Regional news and current affairs; public radio news/talk
   notes: SRF (Swiss public broadcaster) regional station serving Basel and Baselland cantons in northern Switzerland. "Regionaljournal Basel Baselland" (Regional Journal) is the regional news program. Part of SSR (Swiss broadcasting federation). AAC 48 kbps stream.
   sources: https://www.srf.ch/sendungen/regionaljournal-basel-baselland
+curation: 0.5
+provenance:
+  - radiobrowser-c50ec229-5083-11e8-a4d1-52543be04c81
+  - iprd-ch-radio-srf-1-basel-baselland-6601941a
+streams:
+  - url: http://stream.srg-ssr.ch/m/regi_bs_bl/aacp_96
+    codec: AAC
+    bitrate: 112
+  - url: http://stream.srg-ssr.ch/regi_bs_bl/aacp_32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/regi_bs_bl/aac/48
+    codec: AAC
+    bitrate: 48

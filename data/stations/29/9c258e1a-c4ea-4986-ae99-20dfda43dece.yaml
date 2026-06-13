@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 06:42:26
 clickcount: 2
 geo_lat: 45.247767340763545
 geo_long: 0.3384706377983093
-curation: 0.35
-provenance:
-  - radiobrowser-9c258e1a-c4ea-4986-ae99-20dfda43dece
-streams:
-  - url: 'https://stream.libertefm.fr/libertefm.64.aac'
-    codec: AAC+
-  - url: 'https://stream.libertefm.fr/libertefm.192.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +32,14 @@ research:
   format: Pop hits, local news, community programming
   notes: Regional French radio station serving Nouvelle-Aquitaine with local news, hits music, and community focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9c258e1a-c4ea-4986-ae99-20dfda43dece
+  - iprd-fr-libert-fm-fa8841e5
+  - iprd-fr-libert-fm-9d538ee0
+streams:
+  - url: https://stream.libertefm.fr/libertefm.64.aac
+    codec: AAC+
+  - url: https://stream.libertefm.fr/libertefm.192.mp3
+    codec: MP3
+    bitrate: 192

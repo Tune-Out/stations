@@ -23,16 +23,6 @@ lastchangetime: 2026-03-28 11:39:53
 clickcount: 1
 geo_lat: 39.09947998309384
 geo_long: -76.73984527587892
-curation: 0.35
-provenance:
-  - radiobrowser-74a056d1-eeee-46bc-abee-90cd72043d37
-streams:
-  - url: 'http://player-redirect.streamtheworld.com/api/livestream-redirect/AFN04_S01.mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://player-redirect.streamtheworld.com/api/livestream-redirect/AFN02_S01.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,21 @@ research:
   format: Electronic dance music (EDM), dance music; digital audio service; "Mach 5" specialty station
   notes: AFN (Armed Forces Network) is a non-commercial, Department of Defense-operated system serving American military; AFN Go provides internet streaming channels including specialty music formats like Mach 5 (EDM/dance); funded by DoD, not commercial advertising
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-74a056d1-eeee-46bc-abee-90cd72043d37
+  - iprd-jp-afn-the-eagle-iwakuni-1575-7b2aa40e
+  - iprd-jp-afn-the-eagle-misawa-1575-05bf0332
+  - iprd-jp-afn-the-eagle-okinawa-810-088f1835
+  - iprd-jp-afn-the-eagle-sasebo-457cea7f
+  - iprd-jp-afn-the-eagle-tokyo-b551c677
+  - iprd-kr-afn-the-eagle-daegu-88-5-8dbb186d
+  - iprd-kr-afn-the-eagle-humphreys-96985649
+  - iprd-kr-afn-the-eagle-kunsan-0b45f61b
+streams:
+  - url: http://player-redirect.streamtheworld.com/api/livestream-redirect/AFN04_S01.mp3
+    codec: MP3
+    bitrate: 96
+  - url: http://player-redirect.streamtheworld.com/api/livestream-redirect/AFN02_S01.mp3
+    codec: MP3
+    bitrate: 96

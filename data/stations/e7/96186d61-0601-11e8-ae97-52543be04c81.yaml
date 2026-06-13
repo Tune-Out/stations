@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 02:29:06
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96186d61-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/bob-grunge/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'https://streams.radiobob.de/bob-grunge/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Rock specialization with multiple genre channels (grunge, alternative, classic rock); music-focused programming
   notes: Prominent German commercial rock radio brand with internet streaming. Multiple branded channels focusing on specific rock eras and subgenres including BOBs Grunge, BOBs Alternative, BOBs Classic Rock channels. Known for rock-focused community and event hosting.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96186d61-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/bob-grunge/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: https://streams.radiobob.de/bob-grunge/mp3-192/streams.radiobob.de/
+    codec: MP3

@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9052b6b2-e18c-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-turkey-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-turkey-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Music and entertainment streaming
   notes: bigFM is a German digital radio broadcaster and streaming platform. "bigSES" appears to be a channel or stream variant, with Turkish content indicated by URL. Germany-based commercial operator.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9052b6b2-e18c-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-turkey-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-turkey-128-mp3
+    codec: MP3

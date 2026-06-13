@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 03:48:14
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-f2c327d2-619d-48cd-a5d3-2fa705625c6a
-streams:
-  - url: 'http://icecast.radiofrance.fr/franceinfo-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://direct.franceinfo.fr/live/franceinfo-midfi.aac'
-    codec: AAC
-    bitrate: 96
-  - url: 'http://direct.franceinfo.fr/live/franceinfo-midfi.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +31,18 @@ research:
   format: 24/7 rolling French-language news, current affairs, business, sports and politics with short-cycle bulletins
   notes: "France Info launched on 1 June 1987 as Europe's first all-news radio station, modelled on US all-news formats; in 2016 the franceinfo: cross-media brand was created, unifying the radio station, a new TV channel (carried by France Télévisions, Radio France, INA and France Médias Monde) and the francetvinfo.fr website; broadcasts via FM, DAB+ and longwave; produces flagship slots like the morning news \"8h30\" interview, \"Le Téléphone Sonne\" and rolling bulletins every 7.5 minutes; subject to editorial independence guarantees but occasionally criticised over coverage choices on domestic political stories."
   sources: internal knowledge of Radio France and franceinfo cross-media brand
+curation: 0.8
+provenance:
+  - radiobrowser-f2c327d2-619d-48cd-a5d3-2fa705625c6a
+  - iprd-fr-france-info-daec272f
+  - iprd-fr-france-info-95b5bde5
+streams:
+  - url: http://icecast.radiofrance.fr/franceinfo-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://direct.franceinfo.fr/live/franceinfo-midfi.aac
+    codec: AAC
+    bitrate: 96
+  - url: http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
+    codec: MP3
+    bitrate: 128

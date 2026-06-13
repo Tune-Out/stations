@@ -24,16 +24,6 @@ lastchangetime: 2026-04-02 07:29:43
 clickcount: 0
 geo_lat: 25.574616772850355
 geo_long: -108.46827507019044
-curation: -0.05
-provenance:
-  - radiobrowser-dab53939-3a1d-4097-82a5-929a0c7bab2b
-streams:
-  - url: 'https://sp5.servidorrprivado.com:10982/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://sp5.servidorrprivado.com:10982/stream?type=http&nocache=22'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Regional Mexican music (banda norteña, música regional mexicana, regional traditional Mexican music)
   notes: "Commercial radio station part of Grupo Vibra's network operating six stations across Sinaloa. Tagline: \"VIBRAMOS EN TU MISMA FRECUENCIA\" (We vibrate on your same frequency)."
   sources: https://www.vibra.red/
+curation: -0.05
+provenance:
+  - radiobrowser-dab53939-3a1d-4097-82a5-929a0c7bab2b
+streams:
+  - url: https://sp5.servidorrprivado.com:10982/stream
+    codec: MP3
+    bitrate: 64
+  - url: https://sp5.servidorrprivado.com:10982/stream?type=http&nocache=22
+    codec: MP3
+    bitrate: 64

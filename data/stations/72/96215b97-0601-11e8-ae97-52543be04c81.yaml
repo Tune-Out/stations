@@ -22,18 +22,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-96215b97-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://anison.fm/anison.m3u'
-    url_resolved: 'https://pool.anison.fm/AniSonFM(128)'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://anison.fm/anison.m3u'
-    url_resolved: 'https://pool.anison.fm/AniSonFM(128)'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +31,16 @@ research:
   format: Japanese anime soundtracks, J-pop, anime opening/closing themes, video game music.
   notes: Specialist Russian internet radio dedicated to anime music and Japanese pop culture. Listener-supported non-commercial station with focus on anime soundtracks (anison), contemporary and classic J-pop, and video game compositions. Global streaming with strong Russian and European listener base in anime fandom.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-96215b97-0601-11e8-ae97-52543be04c81
+  - iprd-ru-anison-fm-c58ed45d
+streams:
+  - url: http://anison.fm/anison.m3u
+    url_resolved: https://pool.anison.fm/AniSonFM(128)
+    codec: MP3
+    bitrate: 128
+  - url: https://anison.fm/anison.m3u
+    url_resolved: https://pool.anison.fm/AniSonFM(128)
+    codec: MP3
+    bitrate: 128

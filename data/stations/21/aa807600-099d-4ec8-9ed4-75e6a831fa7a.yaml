@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 02:44:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-aa807600-099d-4ec8-9ed4-75e6a831fa7a
-streams:
-  - url: 'https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'https://streamcdnr1-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Love songs and romantic music specialization
   notes: Specialized love songs stream from Deejay Italia, the major Italian commercial radio broadcaster. Part of larger Deejay web radio offering.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-aa807600-099d-4ec8-9ed4-75e6a831fa7a
+streams:
+  - url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: https://streamcdnr1-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/live.m3u8
+    codec: UNKNOWN
+    hls: true

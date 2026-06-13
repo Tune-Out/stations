@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 01:10:52
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c3b21b89-73da-4aec-b762-d9236c1a27ce
-streams:
-  - url: 'https://n02a-eu.rcs.revma.com/f31w7e0fveuvv'
-    codec: AAC
-  - url: 'https://ice.leviracloud.eu/phr192-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: 24/7 contemporary dance / EDM hit radio with Lithuanian and international dance music, weekly Top 15 chart, and syndicated international shows ("Prismatic by Tiësto," "Musical Freedom")
   notes: Power Hit Radio is Lithuania's leading commercial dance/EDM station, launched in the 2000s and now part of the TV3 Group's media portfolio alongside TV3 television and other radio brands; promotes Lithuanian electronic music producers and hosts flagship shows "Šok į kelnes," "Power hitai," and "Power popietė"; mission framed as airing "the world's most popular and listened-to dance music" while spotlighting "the most promising and talented Lithuanian dance music creators."
   sources: https://powerhitradio.tv3.lt/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-c3b21b89-73da-4aec-b762-d9236c1a27ce
+streams:
+  - url: https://n02a-eu.rcs.revma.com/f31w7e0fveuvv
+    codec: AAC
+  - url: https://ice.leviracloud.eu/phr192-mp3
+    codec: MP3

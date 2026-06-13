@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:41:42
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9645dfd3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://los.cdnstream.com/1101_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ais-sa5.cdnstream1.com/b68000_128mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 24-hour 1970s music (classic rock, pop, funk, soul, disco)
   notes: Commercial web-based radio; 501 votes on directory listing
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9645dfd3-0601-11e8-ae97-52543be04c81
+  - iprd-us-that-70-s-channel-634d4a12
+streams:
+  - url: http://los.cdnstream.com/1101_128
+    codec: MP3
+    bitrate: 128
+  - url: https://ais-sa5.cdnstream1.com/b68000_128mp3
+    codec: MP3
+    bitrate: 128

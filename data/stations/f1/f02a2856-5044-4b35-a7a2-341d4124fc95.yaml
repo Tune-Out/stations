@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: 46.951187969034066
 geo_long: 7.067127227783204
-curation: 0.50
-provenance:
-  - radiobrowser-f02a2856-5044-4b35-a7a2-341d4124fc95
-streams:
-  - url: 'https://api.radioking.io/radio/427889/listen.m3u'
-    url_resolved: 'https://listen.radioking.com/radio/427889/stream/481505'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://api.radioking.io/radio/427889/listen.m3u'
-    url_resolved: 'https://listen.radioking.com/radio/427889/stream/481499'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +28,15 @@ research:
   format: Eclectic web radio with interviews, podcasts (geopolitics, health, current affairs), and music shows.
   notes: Self-described as "Une WebRadio diffusant des électrons libres pour vos oreilles" (free electrons for your ears); listener-supported via donations; operates under SUISA music licensing.
   sources: https://electronslibres.ch/
+curation: 0.5
+provenance:
+  - radiobrowser-f02a2856-5044-4b35-a7a2-341d4124fc95
+streams:
+  - url: https://api.radioking.io/radio/427889/listen.m3u
+    url_resolved: https://listen.radioking.com/radio/427889/stream/481505
+    codec: MP3
+    bitrate: 192
+  - url: https://api.radioking.io/radio/427889/listen.m3u
+    url_resolved: https://listen.radioking.com/radio/427889/stream/481499
+    codec: MP3
+    bitrate: 128

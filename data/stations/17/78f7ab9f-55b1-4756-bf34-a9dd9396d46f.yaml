@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-78f7ab9f-55b1-4756-bf34-a9dd9396d46f
-streams:
-  - url: 'https://alternative-radio.stream.laut.fm/alternative-radio?'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://alternative-radio.stream.laut.fm/alternative-radio?t302=2018-03-11_09-41-59&uuid=053d192c-eee0-4d8c-9495-c9224bfa4eb3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://alternative-radio.stream.laut.fm/alternative-radio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +30,18 @@ research:
   format: Alternative and indie music programming; user-generated content via laut.fm platform; curated alternative music format.
   notes: Laut.FM operates as community radio platform allowing users to create and broadcast channels; Alternative Radio is user-operated independent station; part of German grassroots radio community; non-commercial internet radio operation.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-78f7ab9f-55b1-4756-bf34-a9dd9396d46f
+  - iprd-de-radio-31-alternative-27baaf5c
+  - iprd-de-radio-31-alternative-2f458e8f
+streams:
+  - url: https://alternative-radio.stream.laut.fm/alternative-radio?
+    codec: MP3
+    bitrate: 128
+  - url: http://alternative-radio.stream.laut.fm/alternative-radio?t302=2018-03-11_09-41-59&uuid=053d192c-eee0-4d8c-9495-c9224bfa4eb3
+    codec: MP3
+    bitrate: 128
+  - url: http://alternative-radio.stream.laut.fm/alternative-radio
+    codec: MP3
+    bitrate: 128

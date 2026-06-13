@@ -22,24 +22,6 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-960f5358-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk/A/A08H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A08H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.dr.dk/A/A08H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk/A/A08H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -49,3 +31,22 @@ research:
   format: regional public service radio for the Copenhagen area — local news, traffic, weather, regional culture and current affairs, with shared P4 national music programming (Danish and international adult contemporary hits) outside regional windows
   notes: DR P4 København is the Copenhagen-area regional station within DR's P4 network, which is the most-listened-to radio network in Denmark and consists of 11 regional editorial offices producing local news and programming that is interleaved with national P4 content; the Copenhagen edition serves the Hovedstaden region and was originally founded as DR Regionalen København when DR's regional radio structure was created; programming follows DR's public service obligations including a strong news and culture remit and adherence to the political-balance requirements in DR's public service contract with the Danish Ministry of Culture.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-960f5358-0601-11e8-ae97-52543be04c81
+  - iprd-dk-dr-p4-k-benhavn-9b70c8c6
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk/A/A08H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A08H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.dr.dk/A/A08H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk/A/A08H.mp3
+    codec: MP3
+    bitrate: 128

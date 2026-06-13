@@ -25,15 +25,6 @@ lastchangetime: 2026-04-16 21:43:26
 clickcount: 2
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.40
-provenance:
-  - radiobrowser-0ad0cda6-0b7e-4b4a-b943-05315d1d255f
-duplicate_of: a7005d8f-5635-4b5b-a78b-f08c81cedb38
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=10'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=1'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +34,12 @@ research:
   format: Ambient, dream pop, contemporary music; "gentle sounds, floating melodies and hints of wanderlust"
   notes: Part of FluxFM's multi-channel streaming platform based in Berlin; 320 kbps AAC stream
   sources: https://www.fluxfm.de/channels/145ed775-a18c-4c0c-8153-39f71690f457
+curation: 0.4
+provenance:
+  - radiobrowser-0ad0cda6-0b7e-4b4a-b943-05315d1d255f
+duplicate_of: a7005d8f-5635-4b5b-a78b-f08c81cedb38
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=10
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=1
+    codec: AAC

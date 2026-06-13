@@ -1,7 +1,7 @@
 stationuuid: 9ca3ebd4-ab00-4767-837a-105ac57683bd
 name: Newsradio 102.9 KARN
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KARNFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KARNFMAAC.aac
+url: 'https://22963.live.streamtheworld.com:443/KARNFMAAC.aac'
+url_resolved: 'https://22963.live.streamtheworld.com:443/KARNFMAAC.aac'
 homepage: https://www.newsradio1029.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3054/squareIcon.png?r=93837
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:41:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9ca3ebd4-ab00-4767-837a-105ac57683bd
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News and talk radio; local and national news content, civic engagement programming.
   notes: Commercial radio station licensed as KARN-FM in Sheridan, Arkansas; owned by Cumulus Media; FCC-licensed; notable shows include "First News with Toby Howell" (6-9am), "The Steve Finnegan Show" (4-6pm weekdays), and civic programming like "First Amendment Friday" and "American Honor Flag Project"; local KARN News Poll and on-demand podcasts.
   sources: https://www.newsradio1029.com/
+curation: -0.05
+provenance:
+  - radiobrowser-9ca3ebd4-ab00-4767-837a-105ac57683bd

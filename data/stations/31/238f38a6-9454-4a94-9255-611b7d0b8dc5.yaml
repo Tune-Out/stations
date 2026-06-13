@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 00:00:02
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-238f38a6-9454-4a94-9255-611b7d0b8dc5
-duplicate_of: 1dc6efa7-139b-4314-a990-dc954f55ed67
-streams:
-  - url: 'https://drive.uber.radio/uber/crshostakovich/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crshostakovich/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Classical music, featuring works by Shostakovich and other composers
   notes: Specializes in the works of Dmitri Shostakovich and classical repertoire; part of AudioAddict network of music streams
   sources: https://www.classicalradio.com/, internal knowledge
+curation: 0.25
+provenance:
+  - radiobrowser-238f38a6-9454-4a94-9255-611b7d0b8dc5
+duplicate_of: 1dc6efa7-139b-4314-a990-dc954f55ed67
+streams:
+  - url: https://drive.uber.radio/uber/crshostakovich/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crshostakovich/icecast.audio
+    codec: MP3

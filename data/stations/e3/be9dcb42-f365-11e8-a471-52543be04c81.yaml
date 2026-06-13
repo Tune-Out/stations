@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:15:25
 clickcount: 19
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.35
-provenance:
-  - radiobrowser-be9dcb42-f365-11e8-a471-52543be04c81
-streams:
-  - url: 'https://0n-chillout.radionetz.de/0n-chillout.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-chillout.radionetz.de/0n-chillout.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Chillout, ambient, easy listening, electronica — one of multiple genre channels in the 0N Radio family ("Your choice, your music!"); sister channels cover pop, rock, dance, jazz, schlager, classical, Latin, K-pop and decade-specific (50s–2010s) formats
   notes: 0N Radio is a multi-channel German internet radio network operated as a small commercial venture from Hof in Upper Franconia; ChillOut channel is part of the network's themed sub-stations alongside specialty formats like Christmas, Party, and BurnFM; operates under German media regulations
   sources: http://www.0nradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-be9dcb42-f365-11e8-a471-52543be04c81
+  - iprd-de-on-radio-chillout-04fd4c87
+  - iprd-de-on-radio-chillout-d42048f7
+streams:
+  - url: https://0n-chillout.radionetz.de/0n-chillout.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-chillout.radionetz.de/0n-chillout.mp3
+    codec: MP3
+    bitrate: 128

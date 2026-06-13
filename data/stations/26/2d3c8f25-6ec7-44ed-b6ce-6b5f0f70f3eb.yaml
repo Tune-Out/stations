@@ -22,20 +22,6 @@ lastchangetime: 2026-01-14 23:36:09
 clickcount: 0
 geo_lat: 40.37924380501843
 geo_long: -101.02349281311037
-curation: 0.30
-provenance:
-  - radiobrowser-2d3c8f25-6ec7-44ed-b6ce-6b5f0f70f3eb
-streams:
-  - url: 'http://www.streamingsoundtracks.com/modules/Listen/MP3-hi.pls'
-    url_resolved: 'http://hi.streamingsoundtracks.com/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://hi5.streamingsoundtracks.com/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://hi5.streamingsoundtracks.com/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +31,17 @@ research:
   format: Original soundtracks, film scores, orchestral and cinematic music.
   notes: Specialized internet radio station devoted to original soundtrack and film score music. US-based independent operator.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-2d3c8f25-6ec7-44ed-b6ce-6b5f0f70f3eb
+streams:
+  - url: http://www.streamingsoundtracks.com/modules/Listen/MP3-hi.pls
+    url_resolved: http://hi.streamingsoundtracks.com/
+    codec: MP3
+    bitrate: 128
+  - url: http://hi5.streamingsoundtracks.com/;
+    codec: MP3
+    bitrate: 128
+  - url: http://hi5.streamingsoundtracks.com/
+    codec: MP3
+    bitrate: 128

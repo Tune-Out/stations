@@ -21,17 +21,6 @@ lastchangetime: 2026-01-14 23:26:37
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9645e273-0601-11e8-ae97-52543be04c81
-duplicate_of: 9645e48c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://tuner.m1.fm/clubmix.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://tuner.m1.fm/clubmix.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: Club music, house, electronic dance music
   notes: Based in Berlin; online streaming service specializing in club and dance music; Clubmix channel
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9645e273-0601-11e8-ae97-52543be04c81
+duplicate_of: 9645e48c-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://tuner.m1.fm/clubmix.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://tuner.m1.fm/clubmix.mp3
+    codec: MP3
+    bitrate: 128

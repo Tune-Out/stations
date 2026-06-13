@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:40:25
 clickcount: 0
 geo_lat: 40.693134153308094
 geo_long: -73.98468017578126
-curation: 0.70
-provenance:
-  - radiobrowser-5f10fb2f-4029-4afb-8d48-f457f68dc980
-streams:
-  - url: 'http://stream.wqxr.org/wqxr.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://stream.wqxr.org/wqxr.aac?nyprBrowserId=14c375bfe5dc0500'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: Classical music with live streams, on-demand content, podcasts, and video.
   notes: "New York's premier classical music station. Operates HD channels including WQXR News, WQXR Americana, WQXR Classical. Features Carnegie Hall Live, Operavore, and community advisory board involvement. Membership/donation-supported. Tagline: \"Get inspired and ignite your love of classical music today.\""
   sources: https://www.wqxr.org/
+curation: 0.7
+provenance:
+  - radiobrowser-5f10fb2f-4029-4afb-8d48-f457f68dc980
+streams:
+  - url: http://stream.wqxr.org/wqxr.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://stream.wqxr.org/wqxr.aac?nyprBrowserId=14c375bfe5dc0500
+    codec: AAC+
+    bitrate: 48

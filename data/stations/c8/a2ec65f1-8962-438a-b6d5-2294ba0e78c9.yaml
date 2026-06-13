@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: 40.720149014481336
 geo_long: -74.04699325561525
-curation: 0.35
-provenance:
-  - radiobrowser-a2ec65f1-8962-438a-b6d5-2294ba0e78c9
-streams:
-  - url: 'https://tlawler2.radioca.st/;'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://streaming.live365.com/a53211'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +29,13 @@ research:
   format: oldies radio; music from 1950s-1980s; golden age rock, pop, and R&B
   notes: Community internet radio station streaming at 128 kbps AAC+; targets audiences interested in classic hits and retrospective music programming; web-based streaming format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a2ec65f1-8962-438a-b6d5-2294ba0e78c9
+streams:
+  - url: https://tlawler2.radioca.st/;
+    codec: AAC+
+    bitrate: 128
+  - url: http://streaming.live365.com/a53211
+    codec: MP3
+    bitrate: 192

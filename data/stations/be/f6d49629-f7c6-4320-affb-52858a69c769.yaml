@@ -1,7 +1,7 @@
 stationuuid: f6d49629-f7c6-4320-affb-52858a69c769
 name: KMMO
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KMMOFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KMMOFMAAC.aac
+url: 'https://20593.live.streamtheworld.com:443/KMMOFMAAC.aac'
+url_resolved: 'https://20593.live.streamtheworld.com:443/KMMOFMAAC.aac'
 homepage: https://www.kmmo.com/
 favicon: https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1333/2020/02/17173110/cropped-KMMO-APP-LOGO-180x180.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:10:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f6d49629-f7c6-4320-affb-52858a69c769
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Country music radio programming
   notes: Broadcast from Marshall, Missouri; licensed commercial station
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f6d49629-f7c6-4320-affb-52858a69c769
+  - iprd-us-kmmo-7390b383

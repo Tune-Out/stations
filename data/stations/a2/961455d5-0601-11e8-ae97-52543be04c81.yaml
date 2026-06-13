@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:32:00
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-961455d5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://idobianthm.idobi.com/;stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://idobianthm.idobi.com/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Indie rock, indie pop, alternative rock, new alternative music, pop-punk, hardcore
   notes: Established February 1999 in Washington, DC. idobi Anthm is sister station alongside idobi main and idobi Howl (metal/hardcore). Features interviews, music coverage, artist programs. Free internet radio.
   sources: https://en.wikipedia.org/wiki/Idobi_Radio, https://idobi.com/
+curation: 0.5
+provenance:
+  - radiobrowser-961455d5-0601-11e8-ae97-52543be04c81
+  - iprd-us-idobi-anthm-f413ce4a
+  - iprd-us-idobi-anthm-528f6aa1
+streams:
+  - url: http://idobianthm.idobi.com/;stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://idobianthm.idobi.com/
+    codec: MP3
+    bitrate: 128

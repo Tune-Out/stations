@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 03:39:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-e90e36e3-ef1c-45b5-8895-73090b34dec9
-streams:
-  - url: 'https://radiodht.com/stream_main/'
-    codec: AAC+
-    bitrate: 192
-  - url: 'https://radiodht.com/stream_pepis/'
-    codec: AAC+
-    bitrate: 144
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,15 @@ research:
   format: Alternative, eclectic, indie, rock, pop, oldies (AAA - Album Album Airplay format)
   notes: Radio DHT (kanał główny) is a Polish commercial radio station based in Małopolskie region. Offers eclectic and alternative music programming with AAA (Album Album Airplay) format. Broadcasts in Polish and English. Features mix of alternative rock, indie, pop, and classic rock.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-e90e36e3-ef1c-45b5-8895-73090b34dec9
+  - iprd-pl-radio-dht-5fad6a8d
+  - iprd-pl-radio-dht-84f386f9
+streams:
+  - url: https://radiodht.com/stream_main/
+    codec: AAC+
+    bitrate: 192
+  - url: https://radiodht.com/stream_pepis/
+    codec: AAC+
+    bitrate: 144

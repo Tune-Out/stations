@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:16:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962d4041-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icy.unitedradio.it/MusicStarPrince.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/MusicStarPrince.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Pop and contemporary music dedicated to George Michael covers and hits.
   notes: Part of United Music streaming service in Italy, linked to Mediaset.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962d4041-0601-11e8-ae97-52543be04c81
+  - iprd-it-music-star-george-michael-04db89be
+streams:
+  - url: http://icy.unitedradio.it/MusicStarPrince.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/MusicStarPrince.mp3
+    codec: MP3
+    bitrate: 128

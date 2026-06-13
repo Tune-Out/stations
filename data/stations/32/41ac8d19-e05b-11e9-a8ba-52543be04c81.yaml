@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-41ac8d19-e05b-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://stream.antenne1.de/a1rt/livestream1.aac'
-    codec: AAC
-  - url: 'http://stream.antenne1.de/a1rt/livestream2.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Pop, contemporary hits, entertainment, German commercial radio format
   notes: Hitradio Antenne 1 Reutlingen is a German commercial FM station part of the Antenne 1 network, serving Reutlingen area in Baden-Württemberg. Major German commercial radio broadcaster with pop and contemporary format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-41ac8d19-e05b-11e9-a8ba-52543be04c81
+streams:
+  - url: http://stream.antenne1.de/a1rt/livestream1.aac
+    codec: AAC
+  - url: http://stream.antenne1.de/a1rt/livestream2.mp3
+    codec: MP3

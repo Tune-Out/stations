@@ -22,30 +22,6 @@ lastchangetime: 2026-01-15 00:51:12
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1de0e115-28b0-11ea-aa0c-52543be04c81
-streams:
-  - url: 'https://master.letio.com/io/?gs=9156&type=master.m3u8'
-    codec: UNKNOWN
-    bitrate: 146
-    hls: true
-  - url: 'https://master.letio.com/io/?gs=9102&type=live.mp3'
-    codec: UNKNOWN
-    bitrate: 146
-    hls: true
-  - url: 'https://master.letio.com/io/?gs=5048'
-    codec: UNKNOWN
-    bitrate: 146
-    hls: true
-  - url: 'https://master.letio.com/io/?gs=9104&type=live.m3u8'
-    codec: UNKNOWN
-    bitrate: 146
-    hls: true
-  - url: 'https://master.letio.com/io/?gs=9100&type=master.m3u8'
-    codec: UNKNOWN
-    bitrate: 146
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -55,3 +31,50 @@ research:
   format: FM radio station 103.9 featuring champeta and reggaeton music
   notes: Mix Radio 103.9 is a commercial radio station in Colombia specializing in champeta (Caribbean coastal music) and reggaeton.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1de0e115-28b0-11ea-aa0c-52543be04c81
+  - iprd-co-hjcu-melod-a-stereo-730-a2d911aa
+  - iprd-co-mix-radio-103-9-7049bb76
+  - iprd-co-hjo83-ol-mpica-st-reo-armenia-96-1-02e6cee0
+  - iprd-co-hjoj-ol-mpica-st-reo-barranquilla-92-1-8028125c
+  - iprd-co-hjit-ol-mpica-st-reo-bogot-105-9-944ac96c
+  - iprd-co-hjp23-ol-mpica-st-reo-bucaramanga-97-7-ee378319
+  - iprd-co-hjul-ol-mpica-st-reo-cali-104-5-234f892d
+  - iprd-co-hjqw-ol-mpica-st-reo-cartagena-90-5-4a007cfb
+  - iprd-co-hjae-ol-mpica-st-reo-c-cuta-94-7-f91456f1
+  - iprd-co-hjp93-ol-mpica-st-reo-ibagu-94-3-fe77ccbd
+  - iprd-co-hji41-ol-mpica-st-reo-manizales-89-7-f71c2daa
+  - iprd-co-hjfk-ol-mpica-st-reo-medell-n-104-9-321f3dcb
+  - iprd-co-hjiy-ol-mpica-st-reo-monter-a-90-5-ecd3e044
+  - iprd-co-hjiv-ol-mpica-st-reo-neiva-100-3-e61b5078
+  - iprd-co-hjo89-ol-mpica-st-reo-pereira-102-7-c0483b42
+  - iprd-co-hjdp-ol-mpica-st-reo-santa-marta-97-1-7b3ca0a3
+  - iprd-co-hjvm-ol-mpica-st-reo-sincelejo-101-5-3a107b3a
+  - iprd-co-hjn46-ol-mpica-st-reo-villavicencio-105-3-22fe7773
+  - iprd-co-radio-tiempo-barranquilla-96-1-7424d330
+  - iprd-co-hjb52-radio-tiempo-cali-89-5-9c4c61ea
+  - iprd-co-hjjl-radio-tiempo-cartagena-de-indias-88-5-65ebd41f
+  - iprd-co-hjg55-radio-tiempo-medell-n-105-9-a73673e1
+  - iprd-co-radio-tiempo-monter-a-104-5-0e06f8a4
+streams:
+  - url: https://master.letio.com/io/?gs=9156&type=master.m3u8
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true
+  - url: https://master.letio.com/io/?gs=9102&type=live.mp3
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true
+  - url: https://master.letio.com/io/?gs=5048
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true
+  - url: https://master.letio.com/io/?gs=9104&type=live.m3u8
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true
+  - url: https://master.letio.com/io/?gs=9100&type=master.m3u8
+    codec: UNKNOWN
+    bitrate: 146
+    hls: true

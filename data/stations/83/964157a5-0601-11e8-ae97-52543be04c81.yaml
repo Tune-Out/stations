@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:14:34
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-964157a5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/freak/aac-64/audio/play.m3'
-    codec: AAC
-  - url: 'http://streams.fluxfm.de/freak/mp3-320/audio/play.m3'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/freak/mp3-128/audio/play.m3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +33,13 @@ research:
   format: experimental electronic music, IDM, dubstep, techno, eclectic programming
   notes: FluxFM is an independent community radio station based in Berlin, Germany, specializing in electronic and experimental music genres. Known for eclectic programming with a focus on dubstep, IDM, techno, and electronnica. Station operates as non-commercial, listener-supported community radio.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-964157a5-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.fluxfm.de/freak/aac-64/audio/play.m3
+    codec: AAC
+  - url: http://streams.fluxfm.de/freak/mp3-320/audio/play.m3
+    codec: MP3
+  - url: http://streams.fluxfm.de/freak/mp3-128/audio/play.m3
+    codec: MP3

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 5
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.20
-provenance:
-  - radiobrowser-b09bd12d-f35e-11e8-a471-52543be04c81
-streams:
-  - url: 'https://0n-schlager.radionetz.de/0n-schlager.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-schlager.radionetz.de/0n-schlager.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Schlager, discofox, pop, and world music programming
   notes: Bavarian-based station; specializes in traditional German Schlager and dance music (discofox)
   sources: http://www.0nradio.com/
+curation: 0.2
+provenance:
+  - radiobrowser-b09bd12d-f35e-11e8-a471-52543be04c81
+  - iprd-de-radio-on-schlager-0f7f3aa6
+  - iprd-de-radio-on-schlager-79c0fb10
+streams:
+  - url: https://0n-schlager.radionetz.de/0n-schlager.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-schlager.radionetz.de/0n-schlager.mp3
+    codec: MP3
+    bitrate: 128

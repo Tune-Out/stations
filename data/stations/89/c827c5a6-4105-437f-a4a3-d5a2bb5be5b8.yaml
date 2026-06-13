@@ -23,16 +23,6 @@ lastchangetime: 2026-03-10 17:44:52
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c827c5a6-4105-437f-a4a3-d5a2bb5be5b8
-streams:
-  - url: 'https://icy.unitedradio.it/VirginRockClassics.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/VirginRockClassics.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Classic rock web radio (1960s-1980s); channels include Alternative, Hard Rock, Rock Party, Rock Ballads, decade stations (70s/80s/90s/2K)
   notes: Part of Virgin Radio's multi-channel rock portfolio. Tagline "Virgin Radio sempre con te!" Offers podcasts, interviews, live programming on iOS/Android/Huawei. Describes itself as "Il meglio del Classic Rock" with "I brani che hanno fatto la storia del rock."
   sources: https://www.virginradio.it/web-radio/virgin-radio-classic-rock/
+curation: -0.05
+provenance:
+  - radiobrowser-c827c5a6-4105-437f-a4a3-d5a2bb5be5b8
+  - iprd-it-virgin-radio-classic-rock-2e925cb1
+streams:
+  - url: https://icy.unitedradio.it/VirginRockClassics.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/VirginRockClassics.mp3
+    codec: MP3
+    bitrate: 128

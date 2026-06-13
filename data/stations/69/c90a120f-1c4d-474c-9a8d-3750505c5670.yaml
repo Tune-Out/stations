@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 02:15:15
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c90a120f-1c4d-474c-9a8d-3750505c5670
-streams:
-  - url: 'https://ice.greekstream.net/focusfm'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ice.greekstream.net/focusfm'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ice.greekstream.net/focusfm?listenerid=ec33c4dfc99a6f71e6dc23583cbc91f2&awparams=companionAds:true'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,17 @@ research:
   format: news, news talk, current affairs, information programming
   notes: Greek news and talk radio station based in Thessaloniki; focuses on news coverage, news commentary, and current affairs discussion; 24-hour news format.
   sources: https://focusfm.gr/
+curation: -0.05
+provenance:
+  - radiobrowser-c90a120f-1c4d-474c-9a8d-3750505c5670
+  - iprd-gr-focus-103-6-029c78b4
+streams:
+  - url: https://ice.greekstream.net/focusfm
+    codec: MP3
+    bitrate: 128
+  - url: http://ice.greekstream.net/focusfm
+    codec: MP3
+    bitrate: 128
+  - url: http://ice.greekstream.net/focusfm?listenerid=ec33c4dfc99a6f71e6dc23583cbc91f2&awparams=companionAds:true
+    codec: MP3
+    bitrate: 128

@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-99349530-87ed-48a0-9c92-5ce42ccff0de
-streams:
-  - url: 'https://audio.mabu-beatz-radio.com:8003/minimal'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://audio.mabu-beatz-radio.com:8003/techno'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Minimal and minimal techno music
   notes: Hamburg-based German internet radio station specializing in minimal and minimal techno genres; operates multiple specialized streams on their platform.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-99349530-87ed-48a0-9c92-5ce42ccff0de
+streams:
+  - url: https://audio.mabu-beatz-radio.com:8003/minimal
+    codec: MP3
+    bitrate: 128
+  - url: https://audio.mabu-beatz-radio.com:8003/techno
+    codec: MP3
+    bitrate: 128

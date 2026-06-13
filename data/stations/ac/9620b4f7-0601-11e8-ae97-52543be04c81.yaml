@@ -1,6 +1,6 @@
 stationuuid: 9620b4f7-0601-11e8-ae97-52543be04c81
 name: CFAX 1070 (Victoria, BC)
-url: http://provisioning.streamtheworld.com/pls/CFAXAMAAC.pls
+url: 'http://14923.live.streamtheworld.com:80/CFAXAMAAC_SC'
 url_resolved: http://13743.live.streamtheworld.com:3690/CFAXAMAAC_SC
 homepage: http://www.iheartradio.ca/cfax-1070
 favicon: ""
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 03:16:53
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9620b4f7-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,8 @@ research:
   format: News talk and information radio (AM 1070 FM); local news, current affairs, phone-in shows.
   notes: Commercial radio station licensed in Victoria, BC. Part of iHeartRadio Canada network. Focuses on news, current events, and talk programming. Coverage of local Victoria and British Columbia issues. Owned through Corus Entertainment, major Canadian broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9620b4f7-0601-11e8-ae97-52543be04c81
+  - iprd-ca-cfax-1070-ff16a210
+  - iprd-ca-ckfr-1150-b2ab9196

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:41:29
 clickcount: 8
 geo_lat: 37.30027528134433
 geo_long: -120.245361328125
-curation: -0.05
-provenance:
-  - radiobrowser-8383c13f-1dd5-4f33-a2dc-33e911b17048
-streams:
-  - url: 'http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1Nzc4NCwiaXNzIjoidGlzcnYifQ.pcgS3hF5YBvvbD9rJO3OMBWPgEGE037nPVwPu4hamPY%22'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRu'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -42,3 +32,14 @@ research:
   format: Adult-contemporary / hot-AC hits blend — "The Best Mix of the 80s, 90s, 2000s & Today"
   notes: 100Hitz operates roughly a dozen genre-specific internet radio channels (Alternative, 90s Alternative, Country, Hip Hop, Rock, Classic Rock, Pop/Top 40, The Mix, etc.) distributed via its own site, TuneIn (the stream URL carries a TuneIn distribution token) and other aggregators; the network is delivered via CDNStream/PurePlay infrastructure and is free / ad-supported; the catalog records the operator location as Antelope, California; the network has been streaming since the mid-2000s as a small independent webcaster.
   sources: https://100hitz.com/
+curation: 0.05
+provenance:
+  - radiobrowser-8383c13f-1dd5-4f33-a2dc-33e911b17048
+  - iprd-us-100hitz-the-mix-80s-90s-today-s-hits-2c4f5e40
+streams:
+  - url: http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1Nzc4NCwiaXNzIjoidGlzcnYifQ.pcgS3hF5YBvvbD9rJO3OMBWPgEGE037nPVwPu4hamPY%22
+    codec: MP3
+    bitrate: 128
+  - url: http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRu
+    codec: MP3
+    bitrate: 128

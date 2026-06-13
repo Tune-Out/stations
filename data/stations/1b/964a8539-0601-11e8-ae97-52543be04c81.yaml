@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-964a8539-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.rockantenne.de/webradio/channels/coversongs.aac.pls'
-    url_resolved: 'http://stream.rockantenne.de/coversongs.aac'
-    codec: AAC
-  - url: 'https://stream.rockantenne.de/coversongs/stream/aacp'
-    codec: AAC
-  - url: 'http://www.rockantenne.de/webradio/channels/coversongs.m3u'
-    url_resolved: 'http://stream.rockantenne.de/coversongs'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,19 @@ research:
   format: Rock music; themed streams for classic rock, metal, punk, indie, alternative; interactive community programming
   notes: One of multiple web channels under Rock Antenne, a prominent German rock brand owned by ANTENNE BAYERN GROUP. Festival partnerships with Rock im Park and community engagement.
   sources: https://www.rockantenne.de/
+curation: 0.5
+provenance:
+  - radiobrowser-964a8539-0601-11e8-ae97-52543be04c81
+  - iprd-de-rock-antenne-coversongs-a80cc32e
+  - iprd-de-rock-antenne-coversongs-a2937a71
+  - iprd-de-rock-antenne-coversongs-11c8b151
+streams:
+  - url: http://www.rockantenne.de/webradio/channels/coversongs.aac.pls
+    url_resolved: http://stream.rockantenne.de/coversongs.aac
+    codec: AAC
+  - url: https://stream.rockantenne.de/coversongs/stream/aacp
+    codec: AAC
+  - url: http://www.rockantenne.de/webradio/channels/coversongs.m3u
+    url_resolved: http://stream.rockantenne.de/coversongs
+    codec: MP3
+    bitrate: 128

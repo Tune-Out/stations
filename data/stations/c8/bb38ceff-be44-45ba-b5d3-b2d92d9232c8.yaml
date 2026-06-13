@@ -1,7 +1,7 @@
 stationuuid: bb38ceff-be44-45ba-b5d3-b2d92d9232c8
 name: News Talk 1400 KFRU
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAMAAC.aac
+url: 'https://14923.live.streamtheworld.com:443/KFRUAMAAC.aac'
+url_resolved: 'https://14923.live.streamtheworld.com:443/KFRUAMAAC.aac'
 homepage: https://www.kfru.com/
 favicon: https://www.kfru.com/favicon.ico
 tags:
@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 04:42:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bb38ceff-be44-45ba-b5d3-b2d92d9232c8
-streams:
-  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAMAAC.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://provisioning.streamtheworld.com/pls/KFRUAM.pls'
-    url_resolved: 'http://14943.live.streamtheworld.com/KFRUAM_SC'
-    codec: MP3
-    bitrate: 80
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: News and talk radio; local and national news programming; discussion-based content.
   notes: KFRU serves Columbia, MO area on AM 1400. News/talk format emphasizes current events and community discussion. Operates via modern streaming infrastructure (AAC format). Part of commercial AM broadcasting landscape in Midwest USA.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bb38ceff-be44-45ba-b5d3-b2d92d9232c8
+streams:
+  - url: 'https://14923.live.streamtheworld.com:443/KFRUAMAAC.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://18253.live.streamtheworld.com:80/KFRUAM_SC'
+    url_resolved: http://14943.live.streamtheworld.com/KFRUAM_SC
+    codec: MP3
+    bitrate: 80

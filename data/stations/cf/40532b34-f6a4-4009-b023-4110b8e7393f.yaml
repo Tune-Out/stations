@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:44:14
 clickcount: 39
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-40532b34-f6a4-4009-b023-4110b8e7393f
-streams:
-  - url: 'https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://s5.radio.co/sca4082ebb/listen'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: News, talk radio, information programming, political analysis
   notes: Independent community radio station based in Germany; founded with emphasis on free speech and alternative perspectives; operates as cooperative; known for hosting diverse political viewpoints outside mainstream media; distributed via streaming and terrestrial FM
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-40532b34-f6a4-4009-b023-4110b8e7393f
+streams:
+  - url: https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://s5.radio.co/sca4082ebb/listen
+    codec: MP3
+    bitrate: 128

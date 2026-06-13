@@ -19,17 +19,6 @@ lastchangetime: 2026-03-04 16:14:05
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-2ffe2d63-6a85-4ccd-aeec-d8b8763a840f
-duplicate_of: f063bdeb-9ea8-4dea-a645-fd4909a8a820
-streams:
-  - url: 'https://frequence3.net-radio.fr/frequence3world.flac'
-    codec: OGG
-    bitrate: 1536
-  - url: 'https://frequence3.net-radio.fr/frequence3world.flac'
-    codec: OGG
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: World music, international music genres, cultural music programming; FLAC high-fidelity format
   notes: Fréquence 3 World is one of multiple thematic streams operated by Fréquence 3, a French commercial radio network; dedicated to world music and international cultural programming; offers FLAC audio codec (lossless high-fidelity) for audiophile listeners; part of broader Fréquence 3 multi-genre portfolio including French hits, retro, house, and other themed channels; internet-based streaming service accessible nationally and internationally.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-2ffe2d63-6a85-4ccd-aeec-d8b8763a840f
+duplicate_of: f063bdeb-9ea8-4dea-a645-fd4909a8a820
+streams:
+  - url: https://frequence3.net-radio.fr/frequence3world.flac
+    codec: OGG
+    bitrate: 1536
+  - url: https://frequence3.net-radio.fr/frequence3world.flac
+    codec: OGG
+    bitrate: 128

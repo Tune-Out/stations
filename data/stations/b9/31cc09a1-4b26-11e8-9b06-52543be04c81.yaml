@@ -25,15 +25,6 @@ lastchangetime: 2026-01-15 01:47:59
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-31cc09a1-4b26-11e8-9b06-52543be04c81
-streams:
-  - url: 'https://cashmereradio.out.airtime.pro/cashmereradio_a'
-    codec: OGG
-  - url: 'http://cashmereradio.out.airtime.pro:8000/cashmereradio_b'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +34,13 @@ research:
   format: Community radio with experimental and progressive music
   notes: Berlin-based independent non-commercial community radio. Tags indicate experimental and non-profit status. Operates via Airtime (streaming platform). Language support in English and German suggests international/expat audience appeal.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-31cc09a1-4b26-11e8-9b06-52543be04c81
+  - iprd-de-cashmere-radio-600dc69b
+streams:
+  - url: https://cashmereradio.out.airtime.pro/cashmereradio_a
+    codec: OGG
+  - url: http://cashmereradio.out.airtime.pro:8000/cashmereradio_b
+    codec: MP3
+    bitrate: 192

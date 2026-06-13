@@ -22,19 +22,6 @@ lastchangetime: 2026-01-31 07:43:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7294c40b-24a1-4d68-bbfe-8ba18d2fb3d8
-duplicate_of: e96086c0-ae22-4e98-8f54-38c8680cdd40
-streams:
-  - url: 'http://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 64
-    hls: true
-  - url: 'https://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8?'
-    codec: AAC+
-    bitrate: 64
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: Indie pop specialty channel
   notes: LiSTNR is an Australian internet radio platform offering curated music channels. Indie Pop is one of their genre-specific offerings.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7294c40b-24a1-4d68-bbfe-8ba18d2fb3d8
+duplicate_of: e96086c0-ae22-4e98-8f54-38c8680cdd40
+streams:
+  - url: http://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 64
+    hls: true
+  - url: https://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8?
+    codec: AAC+
+    bitrate: 64
+    hls: true

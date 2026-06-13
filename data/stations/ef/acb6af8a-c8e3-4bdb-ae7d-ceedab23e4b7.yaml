@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:09:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-acb6af8a-c8e3-4bdb-ae7d-ceedab23e4b7
-streams:
-  - url: 'https://mayotte.ice.infomaniak.ch/mayotte-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mayotte.ice.infomaniak.ch/mayotte-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,14 @@ research:
   format: Local news, information, entertainment, music, cultural programming; French overseas focus
   notes: Mayotte public radio operated by France Télévisions (French public broadcasting). Part of "La 1ère" (The First) network serving French overseas territories. Broadcast in French and Shimaoré (local Comorian language). Serves Mayotte island population. 1,980 votes. MP3 128 kbps streaming via Infomaniak.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-acb6af8a-c8e3-4bdb-ae7d-ceedab23e4b7
+  - iprd-yt-mayotte-la-1-re-d816cf8f
+streams:
+  - url: https://mayotte.ice.infomaniak.ch/mayotte-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://mayotte.ice.infomaniak.ch/mayotte-128.mp3
+    codec: MP3
+    bitrate: 128

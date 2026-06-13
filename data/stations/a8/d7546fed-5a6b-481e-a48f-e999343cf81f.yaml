@@ -1,7 +1,7 @@
 stationuuid: d7546fed-5a6b-481e-a48f-e999343cf81f
 name: La Mejor Ensenada - 103.3 FM - XHENA-FM - MVS Radio - Ensenada, Baja California
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHENAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHENAAAC.aac
+url: 'https://15313.live.streamtheworld.com:443/XHENAAAC.aac'
+url_resolved: 'https://15313.live.streamtheworld.com:443/XHENAAAC.aac'
 homepage: https://lamejor.com.mx/ensenada/
 favicon: https://lamejor.com.mx/favicon.ico
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 02:50:58
 clickcount: 1
 geo_lat: 31.86711733073316
 geo_long: -116.60420894622804
-curation: -0.05
-provenance:
-  - radiobrowser-d7546fed-5a6b-481e-a48f-e999343cf81f
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Regional Mexican music (banda, grupera, regional mexicana); entertainment
   notes: 103.3 FM (XHENA-FM); part of MVS Radio network; specializes in regional Mexican music and local content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d7546fed-5a6b-481e-a48f-e999343cf81f

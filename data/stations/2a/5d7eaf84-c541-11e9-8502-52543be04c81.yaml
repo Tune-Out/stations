@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:14:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5d7eaf84-c541-11e9-8502-52543be04c81
-streams:
-  - url: 'https://daydeeeurodance.stream.laut.fm/daydeeeurodance'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://daydeeeurodance.stream.laut.fm/daydeeeurodance'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: 24/7 eurodance and 90s dance music
   notes: Day Dee Eurodance streams via laut.fm, a German community radio and streaming platform. Eurodance format targeting nostalgic dance music fans.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5d7eaf84-c541-11e9-8502-52543be04c81
+  - iprd-de-day-dee-eurodance-03e4e27a
+streams:
+  - url: https://daydeeeurodance.stream.laut.fm/daydeeeurodance
+    codec: MP3
+    bitrate: 128
+  - url: http://daydeeeurodance.stream.laut.fm/daydeeeurodance
+    codec: MP3
+    bitrate: 128

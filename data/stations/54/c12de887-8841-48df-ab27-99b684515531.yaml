@@ -24,20 +24,6 @@ lastchangetime: 2026-05-24 12:22:59
 clickcount: 4
 geo_lat: 6.5244
 geo_long: 3.3792
-curation: 0.55
-provenance:
-  - radiobrowser-c12de887-8841-48df-ab27-99b684515531
-streams:
-  - url: 'https://megason-radioinfo.deathsmack-a51.workers.dev/'
-    url_resolved: 'https://megason-radioinfo.deathsmack-a51.workers.dev/hifi.aac'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://wild-haze-hifi.deathsmack-a51.workers.dev/'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://megason-radioinfo.deathsmack-a51.workers.dev/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -47,3 +33,17 @@ research:
   format: ZamRock music (Zambian rock), afrobeat, funk, psychedelic, surf, world music, indie; vinyl-focused curation
   notes: Community radio celebrating Zambian and African rock music; Nigeria relay node; 320kbps HiFi audio; media assets on Codeberg
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-c12de887-8841-48df-ab27-99b684515531
+streams:
+  - url: https://megason-radioinfo.deathsmack-a51.workers.dev/
+    url_resolved: https://megason-radioinfo.deathsmack-a51.workers.dev/hifi.aac
+    codec: AAC
+    bitrate: 320
+  - url: https://wild-haze-hifi.deathsmack-a51.workers.dev/
+    codec: AAC
+    bitrate: 320
+  - url: https://megason-radioinfo.deathsmack-a51.workers.dev/
+    codec: MP3
+    bitrate: 192

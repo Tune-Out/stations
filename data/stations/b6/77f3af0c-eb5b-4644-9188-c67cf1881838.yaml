@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:37:27
 clickcount: 4
 geo_lat: 19.543575885060807
 geo_long: -96.91649436950684
-curation: -0.05
-provenance:
-  - radiobrowser-77f3af0c-eb5b-4644-9188-c67cf1881838
-streams:
-  - url: 'http://ssc.cnwks.ws:8365/;'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://ssc.cnwks.ws:8365/;'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Regional Mexican music, banda, grupera, and entertainment.
   notes: Licensed commercial radio station XHBD-FM on 104.9 FM in Xalapa, Veracruz, Mexico. Operated under Oliva Radio banner, serving regional audience with traditional Mexican music genres including banda and grupera.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-77f3af0c-eb5b-4644-9188-c67cf1881838
+streams:
+  - url: http://ssc.cnwks.ws:8365/;
+    codec: MP3
+    bitrate: 192
+  - url: http://ssc.cnwks.ws:8365/;
+    codec: MP3
+    bitrate: 96

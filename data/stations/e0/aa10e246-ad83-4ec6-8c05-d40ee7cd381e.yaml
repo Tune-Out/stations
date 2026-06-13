@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:58:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-aa10e246-ad83-4ec6-8c05-d40ee7cd381e
-streams:
-  - url: 'https://str0.creacast.com/pharefm_louange'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://str0.creacast.com/pharefm_louange'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Gospel, praise, and worship music; Christian teaching and spiritual programming. "Louange" means "Praise" in French.
   notes: Phare FM is a French Christian radio network with multiple channels. "Louange" is their praise and worship music stream, serving the Christian community in France with contemporary Christian music and spiritual content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-aa10e246-ad83-4ec6-8c05-d40ee7cd381e
+  - iprd-fr-phare-fm-louange-28b93b99
+streams:
+  - url: https://str0.creacast.com/pharefm_louange
+    codec: MP3
+    bitrate: 128
+  - url: http://str0.creacast.com/pharefm_louange
+    codec: MP3
+    bitrate: 128

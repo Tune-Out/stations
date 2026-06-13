@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 00:00:55
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96417708-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/80er/aac-64/streams.fluxfm.de/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-80er-aacplus-64-7776977?sABC=69683236%230%23r30o443r1929r059s085628511796n57%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1768436278'
-    codec: AAC
-  - url: 'http://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=69682r17%230%230r6n2r63589p0102nq2100136q803p71%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1768435223'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/80er/mp3-128/fluxfm.de_webplayer/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +31,18 @@ research:
   format: 1980s music and alternative rock
   notes: FluxFM is a pioneering community and cultural radio station based in Berlin; "80er Channel" specializes in 1980s rock and pop; known for alternative programming and cultural events
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96417708-0601-11e8-ae97-52543be04c81
+  - iprd-de-fluxfm-80s-der-80er-channel-2cfe6c04
+  - iprd-de-fluxfm-80s-der-80er-channel-a200ac92
+  - iprd-de-fluxfm-80s-der-80er-channel-154e140a
+streams:
+  - url: http://streams.fluxfm.de/80er/aac-64/streams.fluxfm.de/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-80er-aacplus-64-7776977?sABC=69683236%230%23r30o443r1929r059s085628511796n57%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1768436278
+    codec: AAC
+  - url: http://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=69682r17%230%230r6n2r63589p0102nq2100136q803p71%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1768435223
+    codec: MP3
+  - url: http://streams.fluxfm.de/80er/mp3-128/fluxfm.de_webplayer/
+    codec: MP3

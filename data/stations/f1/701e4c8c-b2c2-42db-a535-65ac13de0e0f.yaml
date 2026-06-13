@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:38:05
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-701e4c8c-b2c2-42db-a535-65ac13de0e0f
-streams:
-  - url: 'https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8?'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -41,3 +31,13 @@ research:
   format: News, current affairs, and national broadcasting
   notes: CNR-1 中国之声 (Voice of China) is the flagship news channel of China National Radio; operates under Chinese Communist Party; provides official news and information programming to mainland China
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-701e4c8c-b2c2-42db-a535-65ac13de0e0f
+streams:
+  - url: https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8?
+    codec: UNKNOWN
+    hls: true
+  - url: https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+    codec: UNKNOWN
+    hls: true

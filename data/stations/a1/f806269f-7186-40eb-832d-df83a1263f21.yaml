@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f806269f-7186-40eb-832d-df83a1263f21
-streams:
-  - url: 'http://webstream.schlagerparadies.de/schlagerparadies128k.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://webstream.schlagerparadies.de/schlagerparadies128k.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://webstream.schlagerparadies.de/schlagerparadies128.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +28,16 @@ research:
   format: Schlager music exclusively; German entertainment/pop tradition; music-focused programming
   notes: Online/web radio specializing entirely in Schlager genre; serves traditional German music enthusiasts; accessible via streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f806269f-7186-40eb-832d-df83a1263f21
+streams:
+  - url: http://webstream.schlagerparadies.de/schlagerparadies128k.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://webstream.schlagerparadies.de/schlagerparadies128k.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://webstream.schlagerparadies.de/schlagerparadies128.mp3
+    codec: MP3
+    bitrate: 192

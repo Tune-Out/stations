@@ -22,22 +22,6 @@ lastchangetime: 2026-05-25 17:47:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-53f5bc27-58d5-4c30-9bcd-e117ef23d98c
-streams:
-  - url: 'https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://radio2.dixi.md/listen/relax_vinopizza/vinopizza.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://radio8.dixi.md/listen/relax_ice_arena/relaxicearena128.aac'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -47,3 +31,19 @@ research:
   format: pop music, contemporary hits, entertainment
   notes: Moldovan commercial broadcaster; Tricolor network affiliation; popular contemporary pop station
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-53f5bc27-58d5-4c30-9bcd-e117ef23d98c
+streams:
+  - url: https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://radio2.dixi.md/listen/relax_vinopizza/vinopizza.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://radio8.dixi.md/listen/relax_ice_arena/relaxicearena128.aac
+    codec: AAC
+    bitrate: 128

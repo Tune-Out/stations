@@ -21,19 +21,6 @@ lastchangetime: 2026-03-25 21:17:51
 clickcount: 0
 geo_lat: 48.137
 geo_long: 11.576
-curation: 0.65
-provenance:
-  - radiobrowser-a63ee551-5157-4dc1-b7ea-800356efc306
-streams:
-  - url: 'https://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz.flac-lo'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://motherearth.streamserver24.com/listen/motherearth_jazz/motherearth.jazz'
-    codec: OGG
-  - url: 'http://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz.mp4'
-    url_resolved: 'https://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz.mp4'
-    codec: AAC
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +30,16 @@ research:
   format: Jazz, classical, instrumental music; curated channels (Main, Jazz, Classical, Instrumental) sourced from vinyl originals and Hi-Res files; 24/7 streaming
   notes: 'Established 2020 in Munich. Anti-commercial philosophy: no ads, no subscription required for web listening. Mission: "Kuratiert statt algorithmisch. Hi-Res statt komprimiert. Vinyl statt Digital." (Curated rather than algorithmic. Hi-Res instead of compressed. Vinyl instead of digital.)'
   sources: https://motherearthradio.de/
+curation: 0.65
+provenance:
+  - radiobrowser-a63ee551-5157-4dc1-b7ea-800356efc306
+streams:
+  - url: https://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz.flac-lo
+    codec: OGG
+    bitrate: 128
+  - url: https://motherearth.streamserver24.com/listen/motherearth_jazz/motherearth.jazz
+    codec: OGG
+  - url: http://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz.mp4
+    url_resolved: https://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz.mp4
+    codec: AAC
+    bitrate: 320

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:09:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3c3b7c46-ba89-11e8-aaf2-52543be04c81
-streams:
-  - url: 'http://lzlive.vojs.cn/caijing/92/live.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://lzlive.vojs.cn/caijing/92/live.m3u8?'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: Business, finance, and economic news programming
   notes: Part of Jiangsu provincial broadcasting system; serves Jiangsu region with financial content
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3c3b7c46-ba89-11e8-aaf2-52543be04c81
+  - iprd-cn-kiangsu-finance-radio-00f8b6e5
+streams:
+  - url: http://lzlive.vojs.cn/caijing/92/live.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://lzlive.vojs.cn/caijing/92/live.m3u8?
+    codec: UNKNOWN
+    hls: true

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-34eecf9a-8721-4e8e-a69b-354b56859d63
-streams:
-  - url: 'http://onair20.xdevel.com:8204/;'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://onair11.xdevel.com:8002/;stream.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Local radio programming; music and entertainment
   notes: Commercial radio station operating in Campania region, Italy. Community-focused Italian radio with music and entertainment content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-34eecf9a-8721-4e8e-a69b-354b56859d63
+  - iprd-it-radio-amore-campania-2a85d6ee
+streams:
+  - url: http://onair20.xdevel.com:8204/;
+    codec: MP3
+    bitrate: 256
+  - url: http://onair11.xdevel.com:8002/;stream.mp3
+    codec: MP3
+    bitrate: 256

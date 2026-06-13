@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 03:36:10
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9c74458f-ddf9-48bd-bd65-e4ae7689ee35
-streams:
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +34,14 @@ research:
   format: Classical music, jazz, world music, opera, drama, arts and ideas programming
   notes: Launched 30 September 1967 as a rebrand of the BBC Third Programme (which itself started in 1946); broadcasts in stereo on FM, DAB, digital TV and online; flagship shows include "Composer of the Week", "Record Review", "Free Thinking", "Late Junction" and the BBC Proms; commissions new contemporary classical works and operates the BBC Performing Groups (BBC Symphony Orchestra, BBC Singers, etc.); operates under the BBC Royal Charter as a non-commercial public service.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-9c74458f-ddf9-48bd-bd65-e4ae7689ee35
+  - iprd-gb-bbc-radio-3-b4095534
+streams:
+  - url: http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true

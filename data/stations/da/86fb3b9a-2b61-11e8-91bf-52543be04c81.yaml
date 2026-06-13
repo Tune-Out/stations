@@ -1,6 +1,6 @@
 stationuuid: 86fb3b9a-2b61-11e8-91bf-52543be04c81
 name: Los 40 Principales México
-url: http://provisioning.streamtheworld.com/pls/LOS40_MEXICO.pls
+url: 'http://18513.live.streamtheworld.com:80/LOS40_MEXICO_SC'
 url_resolved: http://27063.live.streamtheworld.com/LOS40_MEXICO_SC
 homepage: http://los40.com.mx/
 favicon: https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 01:02:30
 clickcount: 44
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-86fb3b9a-2b61-11e8-91bf-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,7 @@ research:
   format: Top 40, Latin pop, contemporary hits, entertainment
   notes: Los 40 Principales México is a commercial radio station part of the multinational Los 40 Principales franchise, originating in Spain and operating throughout Latin America. Targets young adult demographics with mainstream Top 40 and Latin pop programming. Based in Mexico City.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-86fb3b9a-2b61-11e8-91bf-52543be04c81
+  - iprd-mx-los-40-principales-m-xico-5bed01a0

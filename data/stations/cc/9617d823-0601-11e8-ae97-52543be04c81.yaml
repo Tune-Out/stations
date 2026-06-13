@@ -22,21 +22,6 @@ lastchangetime: 2026-01-14 23:39:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9617d823-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://studioone-stream.iowapublicradio.org/StudioOne.mp3.m3u'
-    url_resolved: 'http://studioone-stream.iowapublicradio.org/StudioOne.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://studioone-stream.iowapublicradio.org/StudioOne.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://studioone-stream.iowapublicradio.org/StudioOneLow.mp3.m3u'
-    url_resolved: 'http://studioone-stream.iowapublicradio.org/StudioOneLow.mp3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -46,3 +31,21 @@ research:
   format: "Studio One: music-focused programming featuring indie, alternative, and discovery; carries APM and PRI content"
   notes: Non-commercial public radio network serving Iowa; Studio One is dedicated music stream; affiliated with major US public broadcasting networks
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-9617d823-0601-11e8-ae97-52543be04c81
+  - iprd-us-ipr-studio-one-d471d5ff
+  - iprd-us-ipr-studio-one-bf4fcf06
+  - iprd-us-ipr-studio-one-4c260474
+streams:
+  - url: http://studioone-stream.iowapublicradio.org/StudioOne.mp3.m3u
+    url_resolved: http://studioone-stream.iowapublicradio.org/StudioOne.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://studioone-stream.iowapublicradio.org/StudioOne.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://studioone-stream.iowapublicradio.org/StudioOneLow.mp3.m3u
+    url_resolved: http://studioone-stream.iowapublicradio.org/StudioOneLow.mp3
+    codec: MP3
+    bitrate: 64

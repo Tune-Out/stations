@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 01:18:04
 clickcount: 16
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-08becb2b-f5fc-4f22-8a69-ff0ec3cfe264
-streams:
-  - url: 'http://stream.nsp.se:8000/pop'
-    codec: OGG
-    bitrate: 1200
-  - url: 'https://stream.madmenmedia.se/popfm'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://stream.nsp.se:8000/popfm_high'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: Mainstream pop music — current and recent hits with a focus on contemporary chart pop
   notes: POPfm is a national Finnish commercial radio station that launched on 16 April 2025 after Mad Men Media Oy won a national FM licence in late 2024 in competitive bidding against domestic and international media groups. The station broadcasts on the FM network frequencies previously used by Yle's talk channel Yle Puhe (which closed in January 2024), giving POPfm roughly 98.7% population coverage. Leadership is drawn from Swedish parent Mad Men Media AB (CEO Mattias Gustavsson, chairman Robert Persson) with former Bauer Media Finland customer-care director Cia Heritty as COO; the parent company has operated multiple commercial FM stations across Sweden since 2013. The stream itself is served from Mad Men Media's Swedish infrastructure at stream.madmenmedia.se.
   sources: https://www.redtech.pro/mad-men-media-launches-pop-fm-in-finland/, https://fi.wikipedia.org/wiki/Pop_FM, https://radiomedia.fi/radiokanavat/popfm/
+curation: 0.3
+provenance:
+  - radiobrowser-08becb2b-f5fc-4f22-8a69-ff0ec3cfe264
+streams:
+  - url: http://stream.nsp.se:8000/pop
+    codec: OGG
+    bitrate: 1200
+  - url: https://stream.madmenmedia.se/popfm
+    codec: AAC+
+    bitrate: 96
+  - url: http://stream.nsp.se:8000/popfm_high
+    codec: MP3
+    bitrate: 192

@@ -25,26 +25,6 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 8
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.70
-provenance:
-  - radiobrowser-960de41d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://somafm.com/metal130.pls'
-    url_resolved: 'https://ice4.somafm.com/metal-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/metal64.pls'
-    url_resolved: 'https://ice2.somafm.com/metal-64-aac'
-    codec: AAC
-    bitrate: 80
-  - url: 'https://somafm.com/metal32.pls'
-    url_resolved: 'https://ice4.somafm.com/metal-32-aac'
-    codec: AAC
-    bitrate: 40
-  - url: 'https://somafm.com/metal.pls'
-    url_resolved: 'https://ice5.somafm.com/metal-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -54,3 +34,25 @@ research:
   format: "Subgenres of heavy metal: black metal, doom metal, sludge, stoner rock, post-punk, progressive rock, and metal-adjacent experimental music"
   notes: "SomaFM Metal Detector is part of SomaFM, a pioneering US internet radio network based in San Francisco, California (founded 1999). SomaFM is listener-supported (non-commercial, no ads), operating as independent radio collective. Metal Detector is one of 30+ genre-specific channels, curated for lovers of extreme metal and adjacent genres. Station focuses specifically on underground and experimental metal: black metal, doom metal, sludge metal, post-punk, and progressive rock. Streams at 128 kbps AAC quality. SomaFM channels are known for passionate curation and community spirit. Metal Detector specifically appeals to metal purists and experimental listeners. No political affiliation; editorial line emphasizes artistic integrity and music discovery."
   sources: https://somafm.com/metal/
+curation: 0.7
+provenance:
+  - radiobrowser-960de41d-0601-11e8-ae97-52543be04c81
+  - iprd-us-somafm-metal-detector-4640cfba
+  - iprd-us-somafm-metal-detector-1a2518e1
+streams:
+  - url: https://somafm.com/metal130.pls
+    url_resolved: https://ice4.somafm.com/metal-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/metal64.pls
+    url_resolved: https://ice2.somafm.com/metal-64-aac
+    codec: AAC
+    bitrate: 80
+  - url: https://somafm.com/metal32.pls
+    url_resolved: https://ice4.somafm.com/metal-32-aac
+    codec: AAC
+    bitrate: 40
+  - url: https://somafm.com/metal.pls
+    url_resolved: https://ice5.somafm.com/metal-128-mp3
+    codec: MP3
+    bitrate: 128

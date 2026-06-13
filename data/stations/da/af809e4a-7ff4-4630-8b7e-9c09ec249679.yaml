@@ -1,7 +1,7 @@
 stationuuid: af809e4a-7ff4-4630-8b7e-9c09ec249679
 name: Sky Radio Hits
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA
+url: 'https://28983.live.streamtheworld.com:443/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA'
+url_resolved: 'https://28983.live.streamtheworld.com:443/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA'
 homepage: https://www.skyradio.nl/
 favicon: https://www.skyradio.nl/favicon.ico
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 01:34:09
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-af809e4a-7ff4-4630-8b7e-9c09ec249679
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Online pop-hits offshoot of Sky Radio — current and recent Top-40 hits with little or no talk
   notes: Sky Radio launched in the Netherlands in 1988 as a non-stop music station and is now part of John de Mol's Talpa Network (which also owns Radio 538, Radio 10 and Radio Veronica); "Sky Radio Hits" is one of the brand's web-only sister streams alongside Sky Radio Smooth Hits, Sky Radio Christmas, etc., focusing on current pop hits as a complement to the main FM station; Talpa Radio is one of the two dominant Dutch commercial radio groups alongside Mediahuis/DPG-owned Mediahuis Radio.
   sources: https://www.skyradio.nl/, internal knowledge
+curation: -0.1
+provenance:
+  - radiobrowser-af809e4a-7ff4-4630-8b7e-9c09ec249679

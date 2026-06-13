@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 00:01:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-508ca6eb-e001-11e8-a9cc-52543be04c81
-streams:
-  - url: 'http://220.247.227.20:8000/RSLstream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://220.247.227.6:8000/Scomstream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://220.247.227.20:8000/citystream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -43,3 +30,19 @@ research:
   format: Entertainment, music, drama, current affairs; state-run programming
   notes: Sri Lanka's national public broadcaster and state media outlet. Established as government-supported institution. Provides Sinhala-language entertainment and general content. 2,897 votes. MP3 128 kbps streaming.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-508ca6eb-e001-11e8-a9cc-52543be04c81
+  - iprd-lk-slbc-city-89-6-fd325581
+  - iprd-lk-slbc-radio-sri-lanka-97-4-da629098
+  - iprd-lk-slbc-welanda-sewaya-94-3-d8142500
+streams:
+  - url: http://220.247.227.20:8000/RSLstream
+    codec: MP3
+    bitrate: 128
+  - url: http://220.247.227.6:8000/Scomstream
+    codec: MP3
+    bitrate: 128
+  - url: http://220.247.227.20:8000/citystream
+    codec: MP3
+    bitrate: 128

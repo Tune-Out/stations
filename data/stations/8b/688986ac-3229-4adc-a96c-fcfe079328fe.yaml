@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 02:38:10
 clickcount: 14
 geo_lat: 33.55486735534346
 geo_long: -7.546340497210623
-curation: -0.05
-provenance:
-  - radiobrowser-688986ac-3229-4adc-a96c-fcfe079328fe
-streams:
-  - url: 'http://stream.zeno.fm/5bxh2nh0x1zuv?1681882617017'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/5bxh2nh0x1zuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Mixed-format network with general entertainment/news, a Quran channel, a children's channel and a melodic/instrumental channel, plus Adwaa TV
   notes: Adwaa FM is a Moroccan internet/FM brand with primary operations centred on Agadir and additional offices reported in Paris; the group streams via web and mobile app and emphasises listener engagement through live channels rather than publishing an explicit mission statement.
   sources: https://www.adwaafm.com/
+curation: -0.05
+provenance:
+  - radiobrowser-688986ac-3229-4adc-a96c-fcfe079328fe
+streams:
+  - url: http://stream.zeno.fm/5bxh2nh0x1zuv?1681882617017
+    codec: MP3
+  - url: https://stream.zeno.fm/5bxh2nh0x1zuv
+    codec: MP3

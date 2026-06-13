@@ -1,7 +1,7 @@
 stationuuid: ea6f468b-9416-4128-ac7d-1c8cddb91607
 name: Radio - X
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox
+url: 'https://26343.live.streamtheworld.com:443/SAM02AAC65_SC?dist=onlineradiobox'
+url_resolved: 'https://26343.live.streamtheworld.com:443/SAM02AAC65_SC?dist=onlineradiobox'
 homepage: http://radioxnz.com/
 favicon: https://radioxnz.com/sitepad-data/uploads/2026/02/cropped-cooltext12280156401-180x180.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:02:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ea6f468b-9416-4128-ac7d-1c8cddb91607
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: rock music
   notes: New Zealand rock radio station based in Hamilton; operates via StreamTheWorld distribution network; independent commercial rock broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ea6f468b-9416-4128-ac7d-1c8cddb91607

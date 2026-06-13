@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:54:53
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-7a557162-0f89-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -43,3 +33,14 @@ research:
   format: Retro music (70s, 80s); classic Russian and Soviet-era hits
   notes: State-controlled broadcaster under VGTRK. Name "Yunost" (Youth) references Soviet cultural themes.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-7a557162-0f89-11e9-a80b-52543be04c81
+  - iprd-ru-radio-yunost-82de6c4a
+streams:
+  - url: http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
+    codec: MP3
+    bitrate: 192
+  - url: https://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
+    codec: MP3
+    bitrate: 192

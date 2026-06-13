@@ -22,14 +22,6 @@ lastchangetime: 2026-02-02 14:35:31
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2e8c7795-7908-4cca-ac61-b3dbed5c172e
-streams:
-  - url: 'https://klassikr.streamabc.net/klr_qohdzgv3jpl_mzy9-mp3-192-1126592'
-    codec: MP3
-  - url: 'https://klassikr.streamabc.net/klr-beatsat-mp3-192-5464798?sABC=69n849o3%230%23759014699s404754o2p8p1q4q62r578p%23&aggregator=Radiomapeu&aw_0_1st.playerid=&amsparams=playerid:;skey:1772636595'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Nu disco, modern disco, electronic beats, DJ mixes
   notes: German internet radio station specializing in contemporary disco and nu disco music. Programmed for dance and club audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2e8c7795-7908-4cca-ac61-b3dbed5c172e
+streams:
+  - url: https://klassikr.streamabc.net/klr_qohdzgv3jpl_mzy9-mp3-192-1126592
+    codec: MP3
+  - url: https://klassikr.streamabc.net/klr-beatsat-mp3-192-5464798?sABC=69n849o3%230%23759014699s404754o2p8p1q4q62r578p%23&aggregator=Radiomapeu&aw_0_1st.playerid=&amsparams=playerid:;skey:1772636595
+    codec: MP3

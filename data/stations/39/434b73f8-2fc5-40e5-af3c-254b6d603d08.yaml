@@ -19,17 +19,6 @@ lastchangetime: 2026-03-20 11:55:22
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-434b73f8-2fc5-40e5-af3c-254b6d603d08
-streams:
-  - url: 'http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls'
-    url_resolved: 'http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Music, entertainment, contemporary hits
   notes: Turkish commercial radio station operating on metrofm.com.tr. Professional streaming infrastructure via StreamTheWorld platform. Targets urban Turkish audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-434b73f8-2fc5-40e5-af3c-254b6d603d08
+streams:
+  - url: http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC
+    codec: AAC+
+    bitrate: 64
+  - url: http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls
+    url_resolved: http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC
+    codec: AAC+
+    bitrate: 64

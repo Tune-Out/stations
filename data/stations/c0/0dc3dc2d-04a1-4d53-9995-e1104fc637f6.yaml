@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:22:11
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-0dc3dc2d-04a1-4d53-9995-e1104fc637f6
-streams:
-  - url: 'http://51.89.148.171:8022/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://51.89.148.171:8022/stream/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: 24/7 dance music spanning house, trance, club and EDM with specialist DJ shows
   notes: Online-only commercial dance station founded in the early 2010s, broadcasting from the UK to a global audience via web and mobile apps; programming features rotating resident and guest DJs across house, trance, hard dance and underground club genres, with regular mix shows and event coverage; no FM licence, supported by streaming sponsorships and listener engagement on social media; not affiliated with any larger UK radio group.
   sources: internal knowledge only (homepage returned HTTP 403)
+curation: 0.25
+provenance:
+  - radiobrowser-0dc3dc2d-04a1-4d53-9995-e1104fc637f6
+  - iprd-gb-dance-uk-radio-4c8447f5
+streams:
+  - url: http://51.89.148.171:8022/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://51.89.148.171:8022/stream/
+    codec: MP3
+    bitrate: 128

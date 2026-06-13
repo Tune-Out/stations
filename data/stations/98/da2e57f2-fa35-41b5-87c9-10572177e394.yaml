@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: 38.093065475125535
 geo_long: 23.73046875
-curation: 0.55
-provenance:
-  - radiobrowser-da2e57f2-fa35-41b5-87c9-10572177e394
-streams:
-  - url: 'http://radiostreaming.ert.gr/ert-kosmos'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://radiostreaming.ert.gr/ert-kosmos'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -39,3 +29,15 @@ research:
   format: Smooth jazz and contemporary music programming
   notes: ERA KOSMOS is part of ERT, Greece's national public broadcasting organization; part of the broader ERA network offering diverse music and entertainment formats
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-da2e57f2-fa35-41b5-87c9-10572177e394
+  - iprd-gr-era-kosmos-93-6-30c03047
+  - iprd-gr-rt-kosmos-30c03047
+streams:
+  - url: http://radiostreaming.ert.gr/ert-kosmos
+    codec: MP3
+    bitrate: 256
+  - url: https://radiostreaming.ert.gr/ert-kosmos
+    codec: MP3
+    bitrate: 256

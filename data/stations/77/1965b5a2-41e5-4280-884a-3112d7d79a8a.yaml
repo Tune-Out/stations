@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1965b5a2-41e5-4280-884a-3112d7d79a8a
-streams:
-  - url: 'http://a2.asurahosting.com:6350/radio.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://a2.asurahosting.com:6350/radio.aac'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Oldies and hits from 1930s-1980s; focus on classic and vintage music
   notes: Community-oriented Australian station based in Glen Huntly, Melbourne; specializes in retro programming from early 20th century through 1980s; serves older demographics and nostalgia-seeking audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1965b5a2-41e5-4280-884a-3112d7d79a8a
+  - iprd-au-golden-days-radio-36f94435
+streams:
+  - url: http://a2.asurahosting.com:6350/radio.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://a2.asurahosting.com:6350/radio.aac
+    codec: AAC
+    bitrate: 128

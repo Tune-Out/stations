@@ -1,7 +1,7 @@
 stationuuid: 960d7b8c-0601-11e8-ae97-52543be04c81
 name: Sky Radio 101 FM
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac
+url: 'http://19993.live.streamtheworld.com:80/SKYRADIOAAC.aac'
+url_resolved: 'http://19993.live.streamtheworld.com:80/SKYRADIOAAC.aac'
 homepage: http://www.skyradio.nl/
 favicon: http://www.skyradio.nl/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:18:28
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-960d7b8c-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Soft pop, easy-listening, adult contemporary and familiar pop hits
   notes: Sky Radio is one of the Netherlands' major commercial radio brands, broadcasting on 101 FM in multiple Dutch cities (Amsterdam, Rotterdam, Utrecht, The Hague, Groningen area) and nationwide via online streaming. The station was acquired by Mediahuis Radio in 2024 as part of the broader acquisition of Talpa Network's radio assets. Mediahuis Radio also operates Sublime FM (soul/jazz), 538 (dance), Radio M (ethnic), Veronica (rock) and other brands. Sky Radio targets an adult contemporary audience with soft pop, familiar melodies and accessible music. The station has a long history in Dutch broadcasting (dating to the 1980s offshore radio era) and remains one of the most-listened-to stations in the Netherlands. Streams at 64 kbps AAC+ via StreamTheWorld CDN. No major controversies.
   sources: http://www.skyradio.nl/, internal knowledge of Dutch radio landscape
+curation: 0.2
+provenance:
+  - radiobrowser-960d7b8c-0601-11e8-ae97-52543be04c81

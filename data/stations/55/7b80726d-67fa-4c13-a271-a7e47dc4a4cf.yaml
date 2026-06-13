@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:35:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-7b80726d-67fa-4c13-a271-a7e47dc4a4cf
-streams:
-  - url: 'http://air.radioart.com/fFolk_and_soft_rock.mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://air-tunein.radioart.com/fFolk_and_soft_rock.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Folk and soft rock music programming
   notes: Greek online radio station offering folk and soft rock genre streaming; available on TuneIn platform
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-7b80726d-67fa-4c13-a271-a7e47dc4a4cf
+  - iprd-gr-radio-art-folk-and-soft-rock-42b69d82
+  - iprd-gr-radio-art-folk-and-soft-rock-4f67d674
+streams:
+  - url: http://air.radioart.com/fFolk_and_soft_rock.mp3
+    codec: MP3
+    bitrate: 96
+  - url: http://air-tunein.radioart.com/fFolk_and_soft_rock.mp3
+    codec: MP3
+    bitrate: 96

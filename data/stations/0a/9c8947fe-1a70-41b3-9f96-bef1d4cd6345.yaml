@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 06:42:26
 clickcount: 0
 geo_lat: 32.611905598272294
 geo_long: -115.45137405395508
-curation: -0.10
-provenance:
-  - radiobrowser-9c8947fe-1a70-41b3-9f96-bef1d4cd6345
-streams:
-  - url: 'https://ss1.audiorama.com.mx:6594/'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://ss1.audiorama.com.mx:6594/;'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,15 @@ research:
   format: Buenísima - Adult hits, classic hits, nostalgic Latin music (música del recuerdo), romantic music
   notes: Grupo Audiorama operates multiple regional stations in Mexico. Buenísima Mexicali (XEZF-AM, 850 AM) serves the Baja California border region with adult contemporary and classic hits programming.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-9c8947fe-1a70-41b3-9f96-bef1d4cd6345
+  - iprd-mx-buenisiima-850-xezf-6a56cfeb
+  - iprd-mx-vida-1370-xehg-554c0424
+streams:
+  - url: https://ss1.audiorama.com.mx:6594/
+    codec: MP3
+    bitrate: 64
+  - url: https://ss1.audiorama.com.mx:6594/;
+    codec: MP3
+    bitrate: 64

@@ -1,7 +1,7 @@
 stationuuid: c4085d5b-e2e4-4cc8-9d18-42b860d89fc2
 name: Cream
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3
+url: 'https://25323.live.streamtheworld.com:443/CREAM.mp3'
+url_resolved: 'https://25323.live.streamtheworld.com:443/CREAM.mp3'
 homepage: https://creamradio.nl/
 favicon: https://creamradio.nl/static/apple-touch-icon.png
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-c4085d5b-e2e4-4cc8-9d18-42b860d89fc2
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,6 @@ research:
   format: Eclectic music station spanning jazz, soul, world, indie and alternative artists with weekly artist spotlights and culture tips on film, photography, fashion and art
   notes: Distributed via DAB+, app and web at creamradio.nl; site lists recent airings of Etta James, Norah Jones and Elton John; positions itself as a sophisticated music-discovery and arts-coverage station rather than a hit-radio outlet; no explicit public, religious or political affiliations evident.
   sources: https://creamradio.nl/, internal knowledge
+curation: 0.25
+provenance:
+  - radiobrowser-c4085d5b-e2e4-4cc8-9d18-42b860d89fc2

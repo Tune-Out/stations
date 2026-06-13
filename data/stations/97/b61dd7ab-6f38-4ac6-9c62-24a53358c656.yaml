@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 05:27:18
 clickcount: 0
 geo_lat: 53.322812782366135
 geo_long: -6.236629486083985
-curation: 0.55
-provenance:
-  - radiobrowser-b61dd7ab-6f38-4ac6-9c62-24a53358c656
-streams:
-  - url: 'https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'http://icecast.rte.ie/lyric'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +31,16 @@ research:
   format: Classical music, art music, opera, world music, jazz
   notes: RTÉ lyric fm is the national classical music radio station of Ireland, operated by RTÉ (public service broadcaster). Broadcasts from Dublin to Ireland and online. Part of Irish public radio network alongside RTÉ Radio 1 and 2. Focuses on classical, opera, and serious music formats.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-b61dd7ab-6f38-4ac6-9c62-24a53358c656
+  - iprd-ie-rt-lyric-fm-14c3ac7c
+  - iprd-ie-rt-lyric-fm-ae2aa76a
+streams:
+  - url: https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: http://icecast.rte.ie/lyric
+    codec: MP3
+    bitrate: 160

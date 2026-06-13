@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 04:34:40
 clickcount: 0
 geo_lat: 45.39150667207596
 geo_long: -75.69305419921876
-curation: -0.05
-provenance:
-  - radiobrowser-1776feb1-a73a-47df-8e54-db984f3d5a26
-streams:
-  - url: 'https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8'
-    codec: AAC+
-    bitrate: 48
-    hls: true
-  - url: 'https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8'
-    codec: AAC+
-    bitrate: 47
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +33,15 @@ research:
   format: Hard Rock / Metal / Rock music
   notes: CHEZ-FM (CHEZFM) 106.1 is a commercial rock radio station owned by Rogers Media serving the Ottawa area. Known for hard rock, metal, and classic rock programming to adult rock listeners in the National Capital Region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1776feb1-a73a-47df-8e54-db984f3d5a26
+streams:
+  - url: https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8
+    codec: AAC+
+    bitrate: 48
+    hls: true
+  - url: https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8
+    codec: AAC+
+    bitrate: 47
+    hls: true

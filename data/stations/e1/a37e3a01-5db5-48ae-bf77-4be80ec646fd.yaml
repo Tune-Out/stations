@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 53.86532353695558
 geo_long: -2.3908996582031254
-curation: 0.35
-provenance:
-  - radiobrowser-a37e3a01-5db5-48ae-bf77-4be80ec646fd
-streams:
-  - url: 'http://uksouth.streaming.broadcast.radio:15280/ribblefm.m3u'
-    url_resolved: 'http://uksouth.streaming.broadcast.radio:15280/ribblefm'
-    codec: MP3
-  - url: 'https://uksouth.streaming.broadcast.radio/ribblefm'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -37,3 +28,12 @@ research:
   format: Community radio with local music, talk, and community programming
   notes: Ribble FM is a British commercial community radio station serving the Ribble Valley area of Lancashire in North West England. Community broadcaster licensed by Ofcom.
   sources: https://ribblefm.com/, internal knowledge of UK community radio
+curation: 0.35
+provenance:
+  - radiobrowser-a37e3a01-5db5-48ae-bf77-4be80ec646fd
+streams:
+  - url: http://uksouth.streaming.broadcast.radio:15280/ribblefm.m3u
+    url_resolved: http://uksouth.streaming.broadcast.radio:15280/ribblefm
+    codec: MP3
+  - url: https://uksouth.streaming.broadcast.radio/ribblefm
+    codec: MP3

@@ -1,7 +1,7 @@
 stationuuid: 89825a78-ad24-45fd-9842-0051740c280f
 name: KGOU
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
+url: 'https://26233.live.streamtheworld.com:443/KGOUFM_64.mp3'
+url_resolved: 'https://26233.live.streamtheworld.com:443/KGOUFM_64.mp3'
 homepage: https://www.kgou.org/
 favicon: https://www.kgou.org/apple-touch-icon.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:16:44
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-89825a78-ad24-45fd-9842-0051740c280f
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +31,7 @@ research:
   format: NPR news, talk, and public radio programming
   notes: Public radio station affiliated with NPR (National Public Radio). Broadcasts news, talk, and educational programming from Oklahoma.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-89825a78-ad24-45fd-9842-0051740c280f
+  - iprd-us-kgou-2245689f

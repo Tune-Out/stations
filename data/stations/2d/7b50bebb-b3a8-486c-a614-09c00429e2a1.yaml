@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7b50bebb-b3a8-486c-a614-09c00429e2a1
-streams:
-  - url: 'http://stream3.themediasite.co.uk:8240/listen.pls?sid=5'
-    url_resolved: 'http://stream3.themediasite.co.uk:8240/vhq'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://stream3.themediasite.co.uk:8240/listen.mp3?sid=3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +28,14 @@ research:
   format: 24-hour classic hits music station with local news, weather, sport, and events
   notes: Revives a 1990s local station that disappeared during UK commercial radio consolidation; "not-for-profit venture by local people" aiming to "bring back real local independent radio to Norwich and Norfolk"; broadcasts on DAB digital radio, smart speakers, and online platforms
   sources: https://amber.radio/
+curation: 0.35
+provenance:
+  - radiobrowser-7b50bebb-b3a8-486c-a614-09c00429e2a1
+streams:
+  - url: http://stream3.themediasite.co.uk:8240/listen.pls?sid=5
+    url_resolved: http://stream3.themediasite.co.uk:8240/vhq
+    codec: AAC+
+    bitrate: 128
+  - url: https://stream3.themediasite.co.uk:8240/listen.mp3?sid=3
+    codec: MP3
+    bitrate: 128

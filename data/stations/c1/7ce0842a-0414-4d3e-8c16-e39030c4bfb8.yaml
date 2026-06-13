@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 04:42:48
 clickcount: 5
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.60
-provenance:
-  - radiobrowser-7ce0842a-0414-4d3e-8c16-e39030c4bfb8
-streams:
-  - url: 'https://somafm.com/vaporwaves130.pls'
-    url_resolved: 'https://ice6.somafm.com/vaporwaves-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/vaporwaves.pls'
-    url_resolved: 'https://ice5.somafm.com/vaporwaves-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +30,17 @@ research:
   format: Vaporwave — late-1990s/2000s commercial music samples, smooth jazz, elevator music, lounge music, and surreal ambient compositions; curated for the cyberpunk/vaporwave aesthetic
   notes: SomaFM is a San Francisco-based listener-supported internet radio network known for experimental and niche music channels. The Vaporwaves channel streams the vaporwave aesthetic genre (a post-modern, sample-based genre that appropriates and subverts 1990s/2000s consumer culture music). SomaFM operates entirely on listener donations and runs commercial-free. Founded in 1999, SomaFM is one of the oldest independent internet radio networks and is known for high-quality streams and eclectic curation.
   sources: https://somafm.com/vaporwaves/
+curation: 0.6
+provenance:
+  - radiobrowser-7ce0842a-0414-4d3e-8c16-e39030c4bfb8
+  - iprd-us-somafm-vaporwaves-68aa163b
+  - iprd-us-somafm-vaporwaves-522c1251
+streams:
+  - url: https://somafm.com/vaporwaves130.pls
+    url_resolved: https://ice6.somafm.com/vaporwaves-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/vaporwaves.pls
+    url_resolved: https://ice5.somafm.com/vaporwaves-128-mp3
+    codec: MP3
+    bitrate: 128

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:40:26
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2108005f-4085-48c4-a41e-6a6b3d4adfbe
-streams:
-  - url: 'https://stream4.srr.ro:8443/gold_rv'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream4.srr.ro:8443/fresh_rv'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: 1980s and 1990s hits, gold/oldies/nostalgia programming
   notes: Romanian commercial radio station based in Constanța, specializing in classic hits from 1980s and 1990s. Serves nostalgic music audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2108005f-4085-48c4-a41e-6a6b3d4adfbe
+streams:
+  - url: https://stream4.srr.ro:8443/gold_rv
+    codec: MP3
+    bitrate: 320
+  - url: https://stream4.srr.ro:8443/fresh_rv
+    codec: MP3
+    bitrate: 320

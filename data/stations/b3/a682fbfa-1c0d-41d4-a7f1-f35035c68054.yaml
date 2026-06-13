@@ -1,7 +1,7 @@
 stationuuid: a682fbfa-1c0d-41d4-a7f1-f35035c68054
 name: 98.9 Magic FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KKMGFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KKMGFMAAC.aac
+url: 'https://27283.live.streamtheworld.com:443/KKMGFMAAC.aac'
+url_resolved: 'https://27283.live.streamtheworld.com:443/KKMGFMAAC.aac'
 homepage: https://www.989magicfm.com/
 favicon: https://radiostationusa.fm/assets/image/radio/180/98.9 Magic FM.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:34:36
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a682fbfa-1c0d-41d4-a7f1-f35035c68054
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Contemporary pop, Top 40, pop music; mainstream radio format
   notes: Licensed as KKME-FM (98.9) in Pueblo, Colorado; commercial station targeting general adult pop audience
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a682fbfa-1c0d-41d4-a7f1-f35035c68054

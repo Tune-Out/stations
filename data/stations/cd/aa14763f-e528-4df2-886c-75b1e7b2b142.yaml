@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-aa14763f-e528-4df2-886c-75b1e7b2b142
-duplicate_of: ce2ec4f2-9b0e-4794-a0d2-2c5e1d545240
-streams:
-  - url: 'https://wdr-sportschau-liga2spiel4.icecastssl.wdr.de/wdr/sportschau/liga2spiel4/mp3/high'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-sportschau-liga2spiel4.icecastssl.wdr.de/wdr/sportschau/liga2spiel4/mp3/high?file=.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Live sports coverage (German Football Bundesliga 2 matches); play-by-play commentary
   notes: Live audio stream of Bundesliga 2 (German second division football) games provided by WDR, Germany's West German public broadcasting corporation. Part of "Sportschau" (Sports Show) sports coverage programming. Provides real-time match commentary in German.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-aa14763f-e528-4df2-886c-75b1e7b2b142
+duplicate_of: ce2ec4f2-9b0e-4794-a0d2-2c5e1d545240
+streams:
+  - url: https://wdr-sportschau-liga2spiel4.icecastssl.wdr.de/wdr/sportschau/liga2spiel4/mp3/high
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-sportschau-liga2spiel4.icecastssl.wdr.de/wdr/sportschau/liga2spiel4/mp3/high?file=.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 06:04:09
 clickcount: 7
 geo_lat: 38.6786483711544
 geo_long: -9.228515625000002
-curation: 0.65
-provenance:
-  - radiobrowser-bf7a7180-2465-48d2-983c-3bc182ba0c83
-streams:
-  - url: 'https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR'
-    codec: AAC
-    bitrate: 262
-    hls: true
-  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8'
-    codec: AAC
-    bitrate: 259
-    hls: true
-  - url: 'https://radiocast.rtp.pt/antena280a.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +31,20 @@ research:
   format: Classical music radio station
   notes: Antena 2 is a major channel of RTP, Portugal's state public broadcaster; specialized in classical music and cultural programming; broadcast from Lisbon
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-bf7a7180-2465-48d2-983c-3bc182ba0c83
+  - iprd-co-antena-2-881373b7
+  - iprd-pt-rtp-antena-2-a3b734f2
+  - iprd-pt-rtp-antena-2-ba9c793b
+streams:
+  - url: https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+    codec: AAC
+    bitrate: 262
+    hls: true
+  - url: http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
+    codec: AAC
+    bitrate: 259
+    hls: true
+  - url: https://radiocast.rtp.pt/antena280a.mp3
+    codec: MP3

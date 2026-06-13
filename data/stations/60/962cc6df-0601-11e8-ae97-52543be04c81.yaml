@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 08:31:18
 clickcount: 213
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-962cc6df-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://dancewave.online/dance.ogg'
-    codec: OGG
-    bitrate: 160
-  - url: 'https://dancewave.online/dance.opus'
-    codec: OGG
-    bitrate: 96
-  - url: 'https://dancewave.online/dance.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -44,3 +31,18 @@ research:
   format: dance music — main channel programs contemporary club/dance/house/trance (2000–present); a Retro channel programs pre-2000 dance and 1990s classics
   notes: self-describes as "All about Dance!"; offers streams in MP3, OGG, AAC+, OPUS, and FLAC across different bitrates; ad-free presentation; long-running internet station referenced in multiple radio directories
   sources: https://dancewave.online/, internal knowledge
+curation: 0.6
+provenance:
+  - radiobrowser-962cc6df-0601-11e8-ae97-52543be04c81
+  - iprd-hu-dance-wave-6dcc3b9c
+  - iprd-hu-dance-wave-0d024d20
+streams:
+  - url: https://dancewave.online/dance.ogg
+    codec: OGG
+    bitrate: 160
+  - url: https://dancewave.online/dance.opus
+    codec: OGG
+    bitrate: 96
+  - url: https://dancewave.online/dance.mp3
+    codec: MP3
+    bitrate: 128

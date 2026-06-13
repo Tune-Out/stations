@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 64
 geo_lat: 48.1776994
 geo_long: 16.2877707
-curation: 0.65
-provenance:
-  - radiobrowser-657b7b0f-2ef9-45df-9915-4ca4f948c54f
-streams:
-  - url: 'http://orf-live.ors-shoutcast.at/oe1-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://orf-live.ors-shoutcast.at/oe1-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +29,15 @@ research:
   format: "Highbrow cultural and information service: classical music, jazz, news, science, literature, religion, drama and arts features"
   notes: Launched 1 October 1967 as one of ORF's three flagship national networks (alongside Ö2/Regionalradios and Ö3), Ö1 is regularly cited as one of Europe's most highly regarded public cultural channels and partners closely with the Wiener Symphoniker, RSO Wien and the Salzburg Festival; flagship strands include "Morgenjournal", "Mittagsjournal", "Abendjournal", the "Ö1 Journale" news bloc, "Radiokolleg", "Dimensionen", "Diagonal", "Le week-end" and the "Ö1 Hörspiel" radio-drama tradition; the station also runs the "Ö1 Club" listener loyalty programme, the "Ö1 macht Schule" educational initiative and the "Ö1 Talentebörse" emerging-artists database
   sources: https://oe1.orf.at/, internal knowledge
+curation: 0.65
+provenance:
+  - radiobrowser-657b7b0f-2ef9-45df-9915-4ca4f948c54f
+  - iprd-at-orf-1-f92ad486
+  - iprd-at-radio-oe1-695e1c0f
+streams:
+  - url: http://orf-live.ors-shoutcast.at/oe1-q2a
+    codec: MP3
+    bitrate: 192
+  - url: http://orf-live.ors-shoutcast.at/oe1-q1a
+    codec: MP3
+    bitrate: 128

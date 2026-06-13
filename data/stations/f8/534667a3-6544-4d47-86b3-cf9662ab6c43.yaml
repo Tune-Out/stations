@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-534667a3-6544-4d47-86b3-cf9662ab6c43
-streams:
-  - url: 'https://stream.89.0rtl.de/workout/mp3-256'
-    codec: MP3
-  - url: 'http://stream.89.0rtl.de/workout/mp3-256'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Workout and fitness music; high-energy content for exercise programming.
   notes: 89.0 RTL Workout is a German commercial channel offering specialized fitness and workout music content, part of 89.0 RTL's broader broadcasting operations.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-534667a3-6544-4d47-86b3-cf9662ab6c43
+streams:
+  - url: https://stream.89.0rtl.de/workout/mp3-256
+    codec: MP3
+  - url: http://stream.89.0rtl.de/workout/mp3-256
+    codec: MP3

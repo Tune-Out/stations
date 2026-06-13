@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b3452e7b-5954-47cf-b10d-8ba28dfe16c5
-streams:
-  - url: 'https://an05.cdn.eurozet.pl/ANTHAR.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://an01.cdn.eurozet.pl/ANTHAR.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Hard rock and rock music.
   notes: Polish commercial radio station Antyradio's hard rock channel offering classic and contemporary rock music.
   sources: https://player.antyradio.pl/Kanaly-muzyczne/Antyradio-Hard
+curation: -0.05
+provenance:
+  - radiobrowser-b3452e7b-5954-47cf-b10d-8ba28dfe16c5
+streams:
+  - url: https://an05.cdn.eurozet.pl/ANTHAR.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://an01.cdn.eurozet.pl/ANTHAR.mp3
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:24:52
 clickcount: 0
 geo_lat: 48.14012384848098
 geo_long: 11.56788516771057
-curation: 0.50
-provenance:
-  - radiobrowser-4df0096a-359b-49d9-ae1c-ec9bf675c6a3
-streams:
-  - url: 'http://stream.radiomuenchen.net:8000/rm64.ogg'
-    codec: OGG
-    bitrate: 64
-  - url: 'http://stream.radiomuenchen.net:8000/rm256.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Thematic talk radio and cultural commentary; shows on technology, media criticism, urban development
   notes: Founded as listener-supported alternative to commercial broadcasting. Broadcasts on FM 92.4 MHz, DAB+, and internet. Tagline "Kultur wächst nach" (Culture grows back) reflects cultural development mission. Operates through donations and sponsorships.
   sources: http://www.radiomuenchen.net/
+curation: 0.5
+provenance:
+  - radiobrowser-4df0096a-359b-49d9-ae1c-ec9bf675c6a3
+streams:
+  - url: http://stream.radiomuenchen.net:8000/rm64.ogg
+    codec: OGG
+    bitrate: 64
+  - url: http://stream.radiomuenchen.net:8000/rm256.mp3
+    codec: MP3
+    bitrate: 256

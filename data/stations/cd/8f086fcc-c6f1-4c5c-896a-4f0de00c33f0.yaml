@@ -25,19 +25,6 @@ lastchangetime: 2026-01-15 01:13:59
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8f086fcc-c6f1-4c5c-896a-4f0de00c33f0
-streams:
-  - url: 'https://stream.airconnectradio.com/ac64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://stream.airconnectradio.com:9003/ac192.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream2.airconnectradio.com/ac128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -47,3 +34,16 @@ research:
   format: Dance / house / pop / top 40
   notes: French internet radio streaming contemporary dance and pop music. Independent web-based operation.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8f086fcc-c6f1-4c5c-896a-4f0de00c33f0
+streams:
+  - url: https://stream.airconnectradio.com/ac64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://stream.airconnectradio.com:9003/ac192.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://stream2.airconnectradio.com/ac128.mp3
+    codec: MP3
+    bitrate: 128

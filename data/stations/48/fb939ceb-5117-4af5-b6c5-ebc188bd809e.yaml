@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-fb939ceb-5117-4af5-b6c5-ebc188bd809e
-streams:
-  - url: 'http://classicafm.scbbs.net:8000/;'
-    codec: MP3
-    bitrate: 48
-  - url: 'http://classicafm.scbbs.net:8000/;?type=http&nocache=839969'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Classical music
   notes: Classica FM broadcasts classical music in Spanish from Santa Cruz de la Sierra, Bolivia. Limited public information available; station appears to operate independently as a commercial radio service.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-fb939ceb-5117-4af5-b6c5-ebc188bd809e
+  - iprd-bo-classica-fm-106-9-4b6c09f6
+streams:
+  - url: http://classicafm.scbbs.net:8000/;
+    codec: MP3
+    bitrate: 48
+  - url: http://classicafm.scbbs.net:8000/;?type=http&nocache=839969
+    codec: MP3
+    bitrate: 48

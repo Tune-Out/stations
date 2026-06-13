@@ -29,16 +29,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8dd8f884-2db0-4008-9564-8a6b93f0379a
-streams:
-  - url: 'http://ais-edge104-live365-dal02.cdnstream.com/a89824'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ais-edge07-live365-dal02.cdnstream.com/a89824'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -48,3 +38,14 @@ research:
   format: Album rock, classic rock, progressive rock, obscure tracks from 60s-80s era
   notes: Community-run internet radio station on Live365; focuses on retro album rock and eclectic programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8dd8f884-2db0-4008-9564-8a6b93f0379a
+  - iprd-us-retro-album-rock-a25c5ddd
+streams:
+  - url: http://ais-edge104-live365-dal02.cdnstream.com/a89824
+    codec: MP3
+    bitrate: 128
+  - url: http://ais-edge07-live365-dal02.cdnstream.com/a89824
+    codec: MP3
+    bitrate: 128

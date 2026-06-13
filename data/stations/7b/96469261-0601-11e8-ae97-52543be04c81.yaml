@@ -1,6 +1,6 @@
 stationuuid: 96469261-0601-11e8-ae97-52543be04c81
 name: KWBE 1450 "News Channel Nebraska" Beatrice, NE
-url: http://provisioning.streamtheworld.com/pls/KWBEAMAAC.pls
+url: 'http://14983.live.streamtheworld.com:80/KWBEAMAAC_SC'
 url_resolved: http://17803.live.streamtheworld.com/KWBEAMAAC_SC
 homepage: http://kwbe.com/
 favicon: https://s3.amazonaws.com/frankly-resources/centralncn/images/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:53:55
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96469261-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: News, talk radio, sports, community information
   notes: KWBE 1450 AM in Beatrice, Nebraska, branded as "News Channel Nebraska." Commercial news-talk format station serving the rural Nebraska community with local news, information, and talk programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96469261-0601-11e8-ae97-52543be04c81

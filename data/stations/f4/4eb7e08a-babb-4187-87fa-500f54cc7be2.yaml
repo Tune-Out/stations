@@ -1,7 +1,7 @@
 stationuuid: 4eb7e08a-babb-4187-87fa-500f54cc7be2
 name: Power FM - Ballarat - 103.1 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/BAL_POWER_FM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/BAL_POWER_FM.mp3
+url: 'http://19273.live.streamtheworld.com:80/BAL_POWER_FM.mp3'
+url_resolved: 'http://19273.live.streamtheworld.com:80/BAL_POWER_FM.mp3'
 homepage: https://www.powerfmballarat.com.au/
 favicon: https://i.ibb.co/dJyr6hH/61ea4ffddcdc455f530c0411.webp
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-14 23:20:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4eb7e08a-babb-4187-87fa-500f54cc7be2
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Adult contemporary and talk radio; contemporary hits, comedy, and talk programming
   notes: Commercial radio station serving Ballarat region of Victoria. Part of Southern Cross Austereo network with adult contemporary and talk format focus.
   sources: https://www.powerfmballarat.com.au/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-4eb7e08a-babb-4187-87fa-500f54cc7be2

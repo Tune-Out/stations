@@ -25,16 +25,6 @@ lastchangetime: 2026-06-01 08:09:10
 clickcount: 0
 geo_lat: 38.49919840448916
 geo_long: 42.28342652320862
-curation: 0.35
-provenance:
-  - radiobrowser-1e84114e-ade9-4baf-9f85-89411162ccfe
-streams:
-  - url: 'https://radyo.yayindakiler.com:3050/stream'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://radyo.yayindakiler.com:3050/stream?/;stream.mp3'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -44,3 +34,13 @@ research:
   format: Mixed format programming.
   notes: Based in Tatvan, Bitlis, Turkey; broadcasts on 96.0 FM and streams in AAC+ format.
   sources: https://www.radyo13.com.tr/iletisim
+curation: 0.35
+provenance:
+  - radiobrowser-1e84114e-ade9-4baf-9f85-89411162ccfe
+streams:
+  - url: https://radyo.yayindakiler.com:3050/stream
+    codec: AAC+
+    bitrate: 128
+  - url: https://radyo.yayindakiler.com:3050/stream?/;stream.mp3
+    codec: AAC+
+    bitrate: 128

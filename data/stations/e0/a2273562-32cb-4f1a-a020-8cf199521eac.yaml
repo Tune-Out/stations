@@ -30,16 +30,6 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-a2273562-32cb-4f1a-a020-8cf199521eac
-streams:
-  - url: 'http://usa14.fastcast4u.com:5252/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://usa14.fastcast4u.com:5252/;?1774629590828'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +39,13 @@ research:
   format: Eclectic mix including classical, contemporary, disco, jazz, jukebox, smooth music, metalcore, OPM (Original Pilipino Music), rock
   notes: Babe Radio is a US-based internet radio station serving multicultural audience with emphasis on Filipino music and programming; multilingual broadcasting in Tagalog, Ilokano, Bisaya alongside English; situated in Dallas area; eclectic format combining Filipino content with diverse Western music
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-a2273562-32cb-4f1a-a020-8cf199521eac
+streams:
+  - url: http://usa14.fastcast4u.com:5252/;
+    codec: MP3
+    bitrate: 128
+  - url: http://usa14.fastcast4u.com:5252/;?1774629590828
+    codec: MP3
+    bitrate: 128

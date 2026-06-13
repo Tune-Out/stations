@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:55:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964a7ab6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://149.13.0.80/novanews.mp4'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://stream.radioreklama.bg/novanews.aac'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: News, current affairs, and information programming; commercial news channel
   notes: Nova News is the news-focused channel of Nova, a major Bulgarian commercial broadcaster. Launched as one of Bulgaria's first private television and radio stations. Provides continuous news coverage, current affairs, and information programming to Bulgarian audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964a7ab6-0601-11e8-ae97-52543be04c81
+  - iprd-bg-radio-nova-news-0a7eac7f
+  - iprd-bg-radio-nova-news-5915cda7
+streams:
+  - url: http://149.13.0.80/novanews.mp4
+    codec: AAC
+    bitrate: 48
+  - url: http://stream.radioreklama.bg/novanews.aac
+    codec: AAC
+    bitrate: 48

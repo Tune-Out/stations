@@ -21,14 +21,6 @@ lastchangetime: 2026-01-14 23:51:17
 clickcount: 1
 geo_lat: 54.28937871406864
 geo_long: 10.101928710937502
-curation: 0.35
-provenance:
-  - radiobrowser-6b8b6198-3f2f-4844-ad36-ac8e54c8a946
-streams:
-  - url: 'https://wellenrausch.streamabc.net/95-radiowellenrausch-mp3-192-8870646'
-    codec: MP3
-  - url: 'https://stream.radio-wellenrausch.de/rwrlive/mp3-192/stream.radio-wellenrausch.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +30,11 @@ research:
   format: General interest, music and community programming
   notes: Local community radio station in northern Germany; serves Schleswig-Holstein region
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6b8b6198-3f2f-4844-ad36-ac8e54c8a946
+streams:
+  - url: https://wellenrausch.streamabc.net/95-radiowellenrausch-mp3-192-8870646
+    codec: MP3
+  - url: https://stream.radio-wellenrausch.de/rwrlive/mp3-192/stream.radio-wellenrausch.de/
+    codec: MP3

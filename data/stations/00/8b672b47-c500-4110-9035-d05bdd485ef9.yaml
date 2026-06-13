@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 05:21:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8b672b47-c500-4110-9035-d05bdd485ef9
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/summerparty96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/summerparty96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Summer dance, electronic dance music, party music, summer hits
   notes: Radio Rekord is a major Russian commercial music network based in St. Petersburg. This channel specializes in summer dance music and club hits, branded "Summer Dance" seasonal programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8b672b47-c500-4110-9035-d05bdd485ef9
+  - iprd-ru-radio-rekord-summer-dance-72122240
+streams:
+  - url: http://radiorecord.hostingradio.ru/summerparty96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/summerparty96.aacp
+    codec: AAC

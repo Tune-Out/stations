@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:40:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961303cf-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://direct.francebleu.fr/live/fbbesancon-midfi.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://direct.francebleu.fr/live/fbbesancon-midfi.mp3?ID=33c5hej2c2'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +30,15 @@ research:
   format: Regional news, information, music, talk, and cultural programming in French
   notes: Part of France Bleu regional network operated by France Télévisions; serves the Besançon area and Bourgogne-Franche-Comté region with local news and general programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-961303cf-0601-11e8-ae97-52543be04c81
+  - iprd-fr-france-bleu-besan-on-8d7d5421
+  - iprd-fr-france-bleu-besan-on-193b255f
+streams:
+  - url: http://direct.francebleu.fr/live/fbbesancon-midfi.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://direct.francebleu.fr/live/fbbesancon-midfi.mp3?ID=33c5hej2c2
+    codec: MP3
+    bitrate: 128

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-39065863-b3e0-4eb3-ae28-0cc4f6e26622
-streams:
-  - url: 'https://listen.red-roseradio.co.uk:8008/stream?_=520468'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://listen.red-roseradio.co.uk:8008/stream?_=953984'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Classic hits, pop, and disco music (greatest hits format)
   notes: 'Commercial radio station serving Lancashire, UK. Tagline: "Playing The Real Greatest Hits." Plays classic pop and disco from artists like Cliff Richard, Paul McCartney, Bee Gees. Live streaming via iOS/Android apps. Daytime presenters include Mark Blackman, Kevin Spector, Alton Andrews. Features local news and business directory.'
   sources: https://www.redroseradio.uk/
+curation: -0.05
+provenance:
+  - radiobrowser-39065863-b3e0-4eb3-ae28-0cc4f6e26622
+streams:
+  - url: https://listen.red-roseradio.co.uk:8008/stream?_=520468
+    codec: MP3
+    bitrate: 192
+  - url: https://listen.red-roseradio.co.uk:8008/stream?_=953984
+    codec: MP3
+    bitrate: 192

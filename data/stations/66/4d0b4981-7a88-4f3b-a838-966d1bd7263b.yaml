@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-4d0b4981-7a88-4f3b-a838-966d1bd7263b
-streams:
-  - url: 'http://radio.chinesemusicworld.com/chinesemusic.ogg'
-    codec: OGG
-  - url: 'https://radio.chinesemusicworld.com/chinesemusic.ogg'
-    codec: OGG
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -37,3 +29,13 @@ research:
   format: Traditional and classical Chinese music, folk music, regional styles (northern, southern, eastern, western), Uyghur, Tibetan, Mongolian music. Interviews with musicians and music experts.
   notes: Premier station based in Beijing dedicated to showcasing rich diversity of Chinese music. Features 24-hour online radio and knowledge base for learning about Chinese classical music. Streams free online.
   sources: allradio.net, onlineradiobox.com, liveradio24.com
+curation: 0.55
+provenance:
+  - radiobrowser-4d0b4981-7a88-4f3b-a838-966d1bd7263b
+  - iprd-cn-chinese-music-world-55fdf448
+  - iprd-cn-chinese-music-world-c8334e9c
+streams:
+  - url: http://radio.chinesemusicworld.com/chinesemusic.ogg
+    codec: OGG
+  - url: https://radio.chinesemusicworld.com/chinesemusic.ogg
+    codec: OGG

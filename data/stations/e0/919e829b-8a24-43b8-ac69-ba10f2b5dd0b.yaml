@@ -22,18 +22,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-919e829b-8a24-43b8-ac69-ba10f2b5dd0b
-streams:
-  - url: 'http://nashe1.hostingradio.ru/ultra-256'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://nashe1.hostingradio.ru/ultra-256'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://nashe1.hostingradio.ru/ultra-192.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +31,17 @@ research:
   format: Rock and alternative music with interviews, live concerts, curated alternative/rock content
   notes: 'Part of Multimedia Holding group which operates four stations: НАШЕ, ROCK FM, Jazz FM, and Радио ULTRA. Tagline emphasizes inclusive alternative: "И нашим, и вашим: русская альтернатива" (Something for everyone: Russian alternative). Interactive Telegram bot, live concerts, multi-platform presence.'
   sources: http://www.radioultra.ru/
+curation: 0.3
+provenance:
+  - radiobrowser-919e829b-8a24-43b8-ac69-ba10f2b5dd0b
+  - iprd-ru-radio-ultra-5ba1ec71
+  - iprd-ru-radio-ultra-0c63e7cd
+streams:
+  - url: http://nashe1.hostingradio.ru/ultra-256
+    codec: MP3
+    bitrate: 256
+  - url: https://nashe1.hostingradio.ru/ultra-256
+    codec: MP3
+    bitrate: 256
+  - url: http://nashe1.hostingradio.ru/ultra-192.mp3
+    codec: MP3

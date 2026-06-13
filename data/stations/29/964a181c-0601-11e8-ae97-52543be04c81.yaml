@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:01:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-964a181c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.radioswissclassic.ch/de/live/aacp32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsc_de/aac/48'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://stream.srg-ssr.ch/m/rsc_de/mp3_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,15 @@ research:
   format: Classical music programming - orchestral works, chamber music, opera, artistic performances
   notes: Radio Swiss Classic German language service. Part of SRG SSR's classical music channels. Switzerland's main public broadcaster. Caters to classical music and cultural audiences.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-964a181c-0601-11e8-ae97-52543be04c81
+  - iprd-ch-radio-swiss-classic-german-f76da6a1
+streams:
+  - url: http://www.radioswissclassic.ch/de/live/aacp32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsc_de/aac/48
+    codec: AAC
+    bitrate: 48
+  - url: http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+    codec: MP3
+    bitrate: 128

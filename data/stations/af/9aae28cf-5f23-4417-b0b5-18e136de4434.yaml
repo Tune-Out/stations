@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:13:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9aae28cf-5f23-4417-b0b5-18e136de4434
-streams:
-  - url: 'https://iskatel.hostingradio.ru:8015/iskatel-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://iskatel.hostingradio.ru:8015/iskatel-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Unknown (no tags listed)
   notes: Russian internet radio station; "Iskatel" means "Seeker" in Russian; limited publicly available information on programming format
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9aae28cf-5f23-4417-b0b5-18e136de4434
+  - iprd-ru-radio-iskatel-d3c1a93c
+streams:
+  - url: https://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+    codec: MP3
+    bitrate: 128

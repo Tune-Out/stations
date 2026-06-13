@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 08:34:02
 clickcount: 2
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.60
-provenance:
-  - radiobrowser-ffe33802-6417-11e9-a622-52543be04c81
-streams:
-  - url: 'https://somafm.com/bootliquor130.pls'
-    url_resolved: 'https://ice1.somafm.com/bootliquor-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/bootliquor320.pls'
-    url_resolved: 'https://ice4.somafm.com/bootliquor-320-mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +32,17 @@ research:
   format: Americana, country, folk, blues-based roots music
   notes: SomaFM Boot Liquor is a non-commercial, listener-supported internet radio station; part of SomaFM network which provides ad-free music streams from San Francisco Bay Area; Boot Liquor focuses on Americana, country, and roots music; high-quality 320kbps MP3.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-ffe33802-6417-11e9-a622-52543be04c81
+  - iprd-us-somafm-boot-liquor-9c65d1e0
+  - iprd-us-somafm-boot-liquor-e6ef4098
+streams:
+  - url: https://somafm.com/bootliquor130.pls
+    url_resolved: https://ice1.somafm.com/bootliquor-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/bootliquor320.pls
+    url_resolved: https://ice4.somafm.com/bootliquor-320-mp3
+    codec: MP3
+    bitrate: 320

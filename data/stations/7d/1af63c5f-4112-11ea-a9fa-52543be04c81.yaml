@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 00:55:05
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-1af63c5f-4112-11ea-a9fa-52543be04c81
-streams:
-  - url: 'https://streaming.lahmacun.hu/radio/8000/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,14 @@ research:
   format: Electronic music, experimental, digital arts
   notes: Independent internet radio station based in Hungary specializing in electronic music
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-1af63c5f-4112-11ea-a9fa-52543be04c81
+  - iprd-hu-lahmacun-radio-45676f36
+streams:
+  - url: https://streaming.lahmacun.hu/radio/8000/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3
+    codec: MP3
+    bitrate: 128

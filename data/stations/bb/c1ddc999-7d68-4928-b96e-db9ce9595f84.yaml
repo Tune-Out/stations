@@ -21,16 +21,6 @@ lastchangetime: 2026-03-14 11:42:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-c1ddc999-7d68-4928-b96e-db9ce9595f84
-streams:
-  - url: 'https://server5.mediasector.es:8090/cinemaradio'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.tunerplay.com/listen/hit24radio/cinemaradio'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Movie soundtracks and film music exclusively; BSO (banda sonora), orchestral, classical, jazz from cinema
   notes: Spanish internet radio "Broadcast online dedicated to the best movie soundtracks of all the times" / "Emisora online dedicada a las mejores bandas sonoras". Features film composers including Hans Zimmer, Ennio Morricone, James Newton Howard, and classical pieces from films. Non-profit curated programming focused entirely on cinematic music.
   sources: https://tunerplay.com/emisoras/cinemaradio/
+curation: 0.6
+provenance:
+  - radiobrowser-c1ddc999-7d68-4928-b96e-db9ce9595f84
+  - iprd-fr-cin-ma-radio-28a2e812
+streams:
+  - url: https://server5.mediasector.es:8090/cinemaradio
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.tunerplay.com/listen/hit24radio/cinemaradio
+    codec: MP3
+    bitrate: 192

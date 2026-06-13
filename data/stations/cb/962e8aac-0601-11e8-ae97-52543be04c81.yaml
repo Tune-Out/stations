@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-962e8aac-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://pr320.pinguinradio.com/'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://streams.pinguinradio.com/PinguinRadio320.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -45,3 +35,18 @@ research:
   format: Alternative rock, indie pop, independent music; 24/7 streaming at high bitrate (320 kbps); community radio focused on non-mainstream music
   notes: Community radio station in Netherlands; emphasis on alternative rock and indie pop; independent broadcaster with strong community engagement; established local community presence
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-962e8aac-0601-11e8-ae97-52543be04c81
+  - iprd-nl-pinguin-radio-36bff365
+  - iprd-nl-pinguin-blues-9c5b3deb
+  - iprd-nl-pinguin-groove-3556a57b
+  - iprd-nl-pinguin-showcase-026aebcd
+  - iprd-nl-pinguin-ska-world-f2871404
+streams:
+  - url: http://pr320.pinguinradio.com/
+    codec: MP3
+    bitrate: 320
+  - url: http://streams.pinguinradio.com/PinguinRadio320.mp3
+    codec: MP3
+    bitrate: 320

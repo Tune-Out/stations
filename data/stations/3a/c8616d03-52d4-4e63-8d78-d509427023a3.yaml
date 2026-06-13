@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 06:37:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c8616d03-52d4-4e63-8d78-d509427023a3
-streams:
-  - url: 'http://drive.uber.radio/uber/cressentialclassics/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/cressentialclassics/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/cressentialclassics/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Classical music (essential classics, symphonies, concertos, opera)
   notes: Internet radio station specializing in classical music, operated under the classicalradio.world domain. Provides curated classical music programming for global audiences interested in essential classical music repertoire. United Arab Emirates registration reflects hosting location rather than broadcast region.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c8616d03-52d4-4e63-8d78-d509427023a3
+streams:
+  - url: http://drive.uber.radio/uber/cressentialclassics/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/cressentialclassics/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/cressentialclassics/icecast.audio
+    codec: MP3

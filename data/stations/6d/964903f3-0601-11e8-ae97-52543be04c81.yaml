@@ -1,6 +1,6 @@
 stationuuid: 964903f3-0601-11e8-ae97-52543be04c81
 name: WQQO "Q105.5" Sylvania, OH
-url: http://provisioning.streamtheworld.com/pls/WQQOFMAAC.pls
+url: 'http://26383.live.streamtheworld.com:80/WQQOFMAAC_SC'
 url_resolved: http://17643.live.streamtheworld.com:3690/WQQOFMAAC_SC
 homepage: http://www.q1055.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3306/squareIcon.png?r=93067
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964903f3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hot adult contemporary music format
   notes: WQQO "Q105.5" is a commercial radio station serving Sylvania and Toledo, Ohio. Hot adult contemporary music format, targeting adult listeners.
   sources: http://www.q1055.com/, internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964903f3-0601-11e8-ae97-52543be04c81

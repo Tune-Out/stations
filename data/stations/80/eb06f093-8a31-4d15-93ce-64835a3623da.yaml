@@ -22,16 +22,6 @@ lastchangetime: 2026-03-12 23:34:38
 clickcount: 0
 geo_lat: 19.434019475967336
 geo_long: -99.13023948669436
-curation: -0.05
-provenance:
-  - radiobrowser-eb06f093-8a31-4d15-93ce-64835a3623da
-streams:
-  - url: 'https://server2.sit-mexico.com:2199/proxy/acustik?mp=/stream&1769272990469'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://server2.sit-mexico.com:2199/proxy/acustik'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Regional Mexican music (Mexicana), entertainment programming
   notes: 1150 AM station serving the Mexico City metropolitan area; operates as a commercial station with regional Mexican music format and entertainment content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-eb06f093-8a31-4d15-93ce-64835a3623da
+  - iprd-mx-acustik-radio-1150-xejp-f7edf9dd
+  - iprd-mx-arre-en-acustik-1150-xejp-abcd3dbf
+streams:
+  - url: https://server2.sit-mexico.com:2199/proxy/acustik?mp=/stream&1769272990469
+    codec: MP3
+    bitrate: 128
+  - url: https://server2.sit-mexico.com:2199/proxy/acustik
+    codec: MP3
+    bitrate: 128

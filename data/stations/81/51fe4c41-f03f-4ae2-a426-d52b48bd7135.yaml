@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:33:47
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-51fe4c41-f03f-4ae2-a426-d52b48bd7135
-streams:
-  - url: 'https://radiostreaming.ert.gr/ert-proto'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://radiostreaming.ert.gr/ert-proto'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: General interest public radio with news, culture, entertainment, music, public affairs
   notes: ERT Πρώτο Πρόγραμμα (ERT First Programme) is the flagship radio channel of ERT (Hellenic Broadcasting Corporation), Greece's national public broadcaster. Offers comprehensive programming with news, culture, entertainment, and current affairs focus.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-51fe4c41-f03f-4ae2-a426-d52b48bd7135
+  - iprd-gr-era-proto-programma-91-6-44392a34
+  - iprd-gr-rt-proto-programma-44392a34
+streams:
+  - url: https://radiostreaming.ert.gr/ert-proto
+    codec: MP3
+    bitrate: 256
+  - url: http://radiostreaming.ert.gr/ert-proto
+    codec: MP3
+    bitrate: 256

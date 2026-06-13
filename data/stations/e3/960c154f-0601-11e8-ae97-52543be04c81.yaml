@@ -1,6 +1,6 @@
 stationuuid: 960c154f-0601-11e8-ae97-52543be04c81
 name: XHEXA "Exa FM" 104.9 FM Mexico City, DF
-url: http://playerservices.streamtheworld.com/pls/XHEXA.pls
+url: 'http://26183.live.streamtheworld.com:80/XHEXA_SC'
 url_resolved: http://18213.live.streamtheworld.com/XHEXA_SC
 homepage: http://www.exafm.com/#!/mexico/home
 favicon: http://cdn-radiotime-logos.tunein.com/s87554q.png
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 05:44:38
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-960c154f-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Contemporary hit radio / Top 40 in Spanish and English (Latin pop, electronica, reggaeton, hits), with sub-brands EXA En Vivo, EXA Corazón, Rock N' Exa, and Urbánica EXA.
   notes: XHEXA-FM 104.9 MHz Mexico City is the originating flagship of the EXA FM network, MVS Radio's largest brand and one of Mexico's most influential CHR/Top-40 networks. Founded as Exa FM in 2002, the network spans dozens of stations across Mexican cities (Tijuana, Ciudad Juárez, Guadalajara, Monterrey, Puebla, etc.) plus Central American affiliates in Costa Rica, Guatemala, Honduras, and El Salvador. Notable hosts have included Jessie Cervantes ("Jessie en EXA") and Yordi Rosado. Parent MVS Comunicaciones is owned by the Vargas family (Joaquín Vargas Gómez and successors) and also operates MVS Noticias, La Mejor, FM Globo, and Estereorey.
   sources: http://www.exafm.com/, internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-960c154f-0601-11e8-ae97-52543be04c81

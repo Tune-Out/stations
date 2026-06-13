@@ -1,6 +1,6 @@
 stationuuid: c00eb11e-4028-4659-a735-8507a77f3a94
 name: KSFR-FM 101.1 "Santa Fe Public Radio" Santa Fe, NM
-url: https://playerservices.streamtheworld.com/pls/KSFRFM_ICE.pls
+url: 'https://14983.live.streamtheworld.com:443/KSFRFM_ICE_SC'
 url_resolved: https://14983.live.streamtheworld.com/KSFRFM_ICE_SC
 homepage: https://www.ksfr.org/
 favicon: https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/KSFR_logo.png/220px-KSFR_logo.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:44:37
 clickcount: 1
 geo_lat: 35.681171304263124
 geo_long: -105.9404754638672
-curation: 0.65
-provenance:
-  - radiobrowser-c00eb11e-4028-4659-a735-8507a77f3a94
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: Mixed format including news, music, interviews, and cultural programming with NPR integration.
   notes: Established as a public service of Santa Fe Community College, known for independent award-winning news delivery and jazz programming. Offers community services including podcast workshops, volunteer opportunities, and studio rental.
   sources: https://www.ksfr.org/
+curation: 0.65
+provenance:
+  - radiobrowser-c00eb11e-4028-4659-a735-8507a77f3a94

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:44:15
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-961bce7a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://2stream.dyndns.org:8000/cagnac_sd.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://go.2stream.net/cagnac_sd.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Ancient music, French chansons, folk music, European traditional music
   notes: Radio Cagnac is a community radio station based in Cagnac, France, specializing in traditional and folk music including chansons françaises, ancient music, and European folk traditions. Non-commercial, association-based operation focused on cultural preservation.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-961bce7a-0601-11e8-ae97-52543be04c81
+  - iprd-fr-radio-cagnac-38960736
+streams:
+  - url: http://2stream.dyndns.org:8000/cagnac_sd.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://go.2stream.net/cagnac_sd.mp3
+    codec: MP3
+    bitrate: 128

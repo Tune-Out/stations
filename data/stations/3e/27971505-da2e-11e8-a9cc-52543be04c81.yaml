@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:33:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-27971505-da2e-11e8-a9cc-52543be04c81
-streams:
-  - url: 'http://streams.radiosunrise.de:8006/aac'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://streams.radiosunrise.de:8006/mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,15 @@ research:
   format: Specialized programming focused on progressive rock, krautrock, and experimental German rock music
   notes: Community internet radio station specializing in prog rock and krautrock traditions; independent German operator; niche audience appeal
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-27971505-da2e-11e8-a9cc-52543be04c81
+  - iprd-de-radio-sunrise-77c3e84b
+  - iprd-de-radio-sunrise-d74aecd4
+streams:
+  - url: http://streams.radiosunrise.de:8006/aac
+    codec: AAC+
+    bitrate: 32
+  - url: http://streams.radiosunrise.de:8006/mp3
+    codec: MP3
+    bitrate: 192

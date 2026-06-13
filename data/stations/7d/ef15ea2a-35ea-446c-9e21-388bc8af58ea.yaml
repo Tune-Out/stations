@@ -24,25 +24,6 @@ lastchangetime: 2026-01-15 01:08:13
 clickcount: 15
 geo_lat: 39.61245772699915
 geo_long: -3.69140625
-curation: -0.05
-provenance:
-  - radiobrowser-ef15ea2a-35ea-446c-9e21-388bc8af58ea
-streams:
-  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3&gdpr=0&gdpr_consent=false'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es&gdpr=0&gdpr_consent=null'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -52,3 +33,24 @@ research:
   format: Contemporary hit radio focused on international pop hits, tagline "La Nº 1 en hits internacionales"
   notes: HIT FM is the younger-skewing CHR sister station to KISS FM Spain, part of the Kiss Media Group founded and controlled by businessman Blas Herrero Fernández; broadcasts via 25+ FM frequencies across Spain (e.g., 89.9 Madrid) plus DAB+ and online; sister brands include KISS FM (adult contemporary), HIT TV and the Quiero Producciones content house; positions itself as Spain's leading commercial outlet for current international chart pop
   sources: https://www.hitfm.es/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-ef15ea2a-35ea-446c-9e21-388bc8af58ea
+  - iprd-es-hit-97-9-9adf70d8
+  - iprd-es-hit-97-9-0dc24ebf
+streams:
+  - url: https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+    codec: MP3
+    bitrate: 56
+  - url: https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3&gdpr=0&gdpr_consent=false
+    codec: MP3
+    bitrate: 56
+  - url: https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
+    codec: MP3
+    bitrate: 56
+  - url: https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es&gdpr=0&gdpr_consent=null
+    codec: MP3
+    bitrate: 56
+  - url: https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es
+    codec: MP3
+    bitrate: 56

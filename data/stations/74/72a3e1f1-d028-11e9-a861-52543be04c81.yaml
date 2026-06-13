@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-72a3e1f1-d028-11e9-a861-52543be04c81
-streams:
-  - url: 'http://stream.89.0rtl.de/club-edm/mp3-256'
-    codec: MP3
-  - url: 'http://www.surfmusik.de/m3u/station/89-0-rtl,1013.m3u'
-    url_resolved: 'https://stream.89.0rtl.de/live/mp3-128/surfmusik/'
-    codec: MP3
-  - url: 'https://stream.89.0rtl.de/club-edm/mp3-256'
-    codec: MP3
-  - url: 'http://stream.89.0rtl.de/2000er/mp3-256'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +28,16 @@ research:
   format: Electronic dance music, club hits, house, techno
   notes: 89.0 RTL is a regional commercial radio station based in Germany. Club-EDM is a curated stream focused on electronic dance music.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-72a3e1f1-d028-11e9-a861-52543be04c81
+streams:
+  - url: http://stream.89.0rtl.de/club-edm/mp3-256
+    codec: MP3
+  - url: http://www.surfmusik.de/m3u/station/89-0-rtl,1013.m3u
+    url_resolved: https://stream.89.0rtl.de/live/mp3-128/surfmusik/
+    codec: MP3
+  - url: https://stream.89.0rtl.de/club-edm/mp3-256
+    codec: MP3
+  - url: http://stream.89.0rtl.de/2000er/mp3-256
+    codec: MP3

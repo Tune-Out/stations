@@ -1,7 +1,7 @@
 stationuuid: 0b45ea7c-d2cd-4af8-8970-2935840ef0ef
 name: SER - Radio Zaragoza
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3
+url: 'https://25543.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
+url_resolved: 'https://25543.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
 homepage: https://cadenaser.com/radio-zaragoza/
 favicon: https://cadenaser.com/pf/resources/img/favicon.png?d=309
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0b45ea7c-d2cd-4af8-8970-2935840ef0ef
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Talk and speech; news, talk shows, and current affairs programming across Spain via SER network.
   notes: SER is one of Spain's largest commercial radio networks, part of Prisa Group media conglomerate. Radio Zaragoza is a regional branch serving Aragon. Streams 96 kbps MP3.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0b45ea7c-d2cd-4af8-8970-2935840ef0ef

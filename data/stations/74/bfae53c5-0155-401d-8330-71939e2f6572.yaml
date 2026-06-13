@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: 41.11129184674602
 geo_long: -80.33876895904542
-curation: 0.35
-provenance:
-  - radiobrowser-bfae53c5-0155-401d-8330-71939e2f6572
-streams:
-  - url: 'https://ice64.securenetsystems.net/WWNW'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://ice64.securenetsystems.net/WWNW'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Adult contemporary, variety hits
   notes: 88.9 WWNW Titan Radio is the student-run radio station of Westminster College in New Wilmington, Pennsylvania. Broadcasts adult contemporary and variety hits format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bfae53c5-0155-401d-8330-71939e2f6572
+  - iprd-us-wwnw-88-9-titan-radio-westminster-college-0a3f7557
+streams:
+  - url: https://ice64.securenetsystems.net/WWNW
+    codec: AAC+
+    bitrate: 32
+  - url: http://ice64.securenetsystems.net/WWNW
+    codec: AAC+
+    bitrate: 32

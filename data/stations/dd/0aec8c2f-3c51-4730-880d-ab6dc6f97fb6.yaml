@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 04:11:16
 clickcount: 0
 geo_lat: 55.72638506420301
 geo_long: 37.62542724609376
-curation: 0.25
-provenance:
-  - radiobrowser-0aec8c2f-3c51-4730-880d-ab6dc6f97fb6
-duplicate_of: fc792aad-1dec-4a91-94a1-3c5d1d183d30
-streams:
-  - url: 'https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=1645969315'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: Bossa nova and Brazilian music specialization with themed channels (Jazz Time, Chill-Lounge, Meditation, Funk Cocktail).
   notes: 'Tagline: "поток с bossa nova, бразильскими ритмами и мягкой расслабленной подачей" [a stream with bossa nova, Brazilian rhythms and soft relaxed delivery]. Features specialty shows, podcasts, merchandise shop. Apps on iOS/Android.'
   sources: https://montecarlo.ru/online/monte-carlo-bossa
+curation: 0.25
+provenance:
+  - radiobrowser-0aec8c2f-3c51-4730-880d-ab6dc6f97fb6
+duplicate_of: fc792aad-1dec-4a91-94a1-3c5d1d183d30
+streams:
+  - url: https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=1645969315
+    codec: AAC+
+    bitrate: 96

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-ae251d8d-69a9-4528-9e1f-fc954d7c237c
-streams:
-  - url: 'http://streaming.exclusive.radio/er/celinedionhits/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.exclusive.radio/er/celinedionhits/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Curated pop music channel dedicated to Celine Dion hits and related contemporary pop
   notes: Commercial internet radio channel featuring Celine Dion pop music, part of the Exclusive HITS branded network offering curated artist/genre channels.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-ae251d8d-69a9-4528-9e1f-fc954d7c237c
+  - iprd-ae-celine-dion-hits-5462e47b
+streams:
+  - url: http://streaming.exclusive.radio/er/celinedionhits/icecast.audio
+    codec: MP3
+  - url: https://streaming.exclusive.radio/er/celinedionhits/icecast.audio
+    codec: MP3

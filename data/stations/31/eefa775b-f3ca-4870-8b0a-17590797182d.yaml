@@ -23,16 +23,6 @@ lastchangetime: 2026-03-10 17:47:08
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-eefa775b-f3ca-4870-8b0a-17590797182d
-streams:
-  - url: 'https://icy.unitedradio.it/VirginRock70.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/VirginRock70.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Classic rock 1970s; curated selection of 70s rock hits and deeper cuts
   notes: Web radio stream from Virgin Radio Italy's 70s rock-focused offering. Part of Mediaset's broader Virgin Radio brand portfolio. Italian-language rock station.
   sources: internal knowledge of Virgin Radio Italy/Mediaset
+curation: 0.2
+provenance:
+  - radiobrowser-eefa775b-f3ca-4870-8b0a-17590797182d
+  - iprd-it-virgin-radio-rock-70-ba38dc9d
+streams:
+  - url: https://icy.unitedradio.it/VirginRock70.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/VirginRock70.mp3
+    codec: MP3
+    bitrate: 128

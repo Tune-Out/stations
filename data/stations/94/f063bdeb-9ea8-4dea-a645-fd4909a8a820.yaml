@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:24:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-f063bdeb-9ea8-4dea-a645-fd4909a8a820
-streams:
-  - url: 'https://frequence3.net-radio.fr/frequence3world.flac'
-    codec: OGG
-    bitrate: 1536
-  - url: 'https://frequence3.net-radio.fr/frequence3world.mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Pop and world music; "Une Rafale de Tubes" (A rush of hits)
   notes: French commercial internet radio station established 2001; streams MP3 format; online streaming only.
   sources: https://www.frequence3.com/
+curation: 0.2
+provenance:
+  - radiobrowser-f063bdeb-9ea8-4dea-a645-fd4909a8a820
+  - iprd-fr-fr-quence3-world-1a15e51f
+  - iprd-fr-fr-quence3-world-43f0119f
+streams:
+  - url: https://frequence3.net-radio.fr/frequence3world.flac
+    codec: OGG
+    bitrate: 1536
+  - url: https://frequence3.net-radio.fr/frequence3world.mp3
+    codec: MP3
+    bitrate: 160

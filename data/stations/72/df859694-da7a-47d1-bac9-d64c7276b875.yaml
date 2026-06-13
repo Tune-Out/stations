@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-df859694-da7a-47d1-bac9-d64c7276b875
-streams:
-  - url: 'https://stream.laut.fm/kriola'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/kriola'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: World music, world cultures, traditional music programming
   notes: Web radio station hosted on Laut.fm platform; focused on world music, Kriol music heritage, and cultural programming.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-df859694-da7a-47d1-bac9-d64c7276b875
+streams:
+  - url: https://stream.laut.fm/kriola
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/kriola
+    codec: MP3
+    bitrate: 128

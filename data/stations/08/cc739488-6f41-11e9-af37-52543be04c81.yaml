@@ -20,23 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-cc739488-6f41-11e9-af37-52543be04c81
-streams:
-  - url: 'http://mediaserv33.live-streams.nl:8034/live'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://mediaserv21.live-streams.nl:8000/live'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://mediaserv30.live-streams.nl:8088/live'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://mediaserv33.live-streams.nl:2199/tunein/hionlinelounge.pls'
-    url_resolved: 'http://mediaserv33.live-streams.nl:8036/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +29,24 @@ research:
   format: Latin music programming; multi-genre internet radio with high-fidelity (320 kbps/FLAC) streaming
   notes: Internet radio station operating 12+ years; described as "High End Audio Streams"; one of first to offer FLAC streaming; 14,800+ app downloads
   sources: hionline.eu
+curation: 0.35
+provenance:
+  - radiobrowser-cc739488-6f41-11e9-af37-52543be04c81
+  - iprd-nl-hi-on-line-radio-classical-5b046609
+  - iprd-nl-hi-on-line-radio-france-d0369d7a
+  - iprd-nl-hi-on-line-radio-latin-5da0551c
+  - iprd-nl-hi-on-line-radio-pop-604de6de
+streams:
+  - url: http://mediaserv33.live-streams.nl:8034/live
+    codec: MP3
+    bitrate: 320
+  - url: http://mediaserv21.live-streams.nl:8000/live
+    codec: MP3
+    bitrate: 320
+  - url: http://mediaserv30.live-streams.nl:8088/live
+    codec: MP3
+    bitrate: 320
+  - url: http://mediaserv33.live-streams.nl:2199/tunein/hionlinelounge.pls
+    url_resolved: http://mediaserv33.live-streams.nl:8036/stream
+    codec: MP3
+    bitrate: 320

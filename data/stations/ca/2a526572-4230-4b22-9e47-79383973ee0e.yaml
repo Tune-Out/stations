@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 08:06:32
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2a526572-4230-4b22-9e47-79383973ee0e
-streams:
-  - url: 'https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://rs201-krk.rmfstream.pl/RMF24'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,15 @@ research:
   format: News, information, classic rock, and pop/pop rock programming; 24-hour news format with music interspersed.
   notes: RMF24.pl is the news-focused sister station of RMF FM; operated by Polskie Media; major Polish commercial broadcaster; serves Polish audiences seeking news and classic rock format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2a526572-4230-4b22-9e47-79383973ee0e
+  - iprd-pl-radio-rmf24-pl-fc012ba8
+  - iprd-pl-radio-rmf24-pl-9e97ac1d
+streams:
+  - url: https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
+    codec: AAC+
+    bitrate: 64
+  - url: https://rs201-krk.rmfstream.pl/RMF24
+    codec: AAC+
+    bitrate: 64

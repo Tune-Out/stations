@@ -25,16 +25,6 @@ lastchangetime: 2026-03-20 11:55:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f035ba3b-6ec5-418a-ba73-9a504ab70c13
-streams:
-  - url: 'https://live.radyositesihazir.com:10997/'
-    codec: AAC+
-    bitrate: 192
-  - url: 'https://live.radyositesihazir.com:10997/;'
-    codec: AAC+
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: commercial music radio
   notes: DAMAR TURK FM is a commercial radio station based in Istanbul, Bagcilar district
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f035ba3b-6ec5-418a-ba73-9a504ab70c13
+  - iprd-tr-damar-turk-fm-43c19ad9
+streams:
+  - url: https://live.radyositesihazir.com:10997/
+    codec: AAC+
+    bitrate: 192
+  - url: https://live.radyositesihazir.com:10997/;
+    codec: AAC+
+    bitrate: 192

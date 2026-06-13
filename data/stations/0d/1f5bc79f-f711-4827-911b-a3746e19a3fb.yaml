@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 08:48:40
 clickcount: 0
 geo_lat: 48.137
 geo_long: 11.576
-curation: 0.50
-provenance:
-  - radiobrowser-1f5bc79f-f711-4827-911b-a3746e19a3fb
-streams:
-  - url: 'https://motherearth.streamserver24.com/listen/motherearth/motherearth'
-    codec: OGG
-  - url: 'http://stream.motherearthradio.de/listen/motherearth/motherearth.aac'
-    url_resolved: 'https://stream.motherearthradio.de/listen/motherearth/motherearth.aac'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://motherearth.streamserver24.com/listen/motherearth/motherearth.aac'
-    codec: AAC
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +32,16 @@ research:
   format: Eclectic mix of music genres including world music, electronic, and alternative
   notes: Mother Earth Radio is a non-commercial, independent internet radio station based in Bayern (Bavaria), Germany, broadcasting eclectic music programming to a global online audience.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-1f5bc79f-f711-4827-911b-a3746e19a3fb
+streams:
+  - url: https://motherearth.streamserver24.com/listen/motherearth/motherearth
+    codec: OGG
+  - url: http://stream.motherearthradio.de/listen/motherearth/motherearth.aac
+    url_resolved: https://stream.motherearthradio.de/listen/motherearth/motherearth.aac
+    codec: AAC
+    bitrate: 320
+  - url: https://motherearth.streamserver24.com/listen/motherearth/motherearth.aac
+    codec: AAC
+    bitrate: 320

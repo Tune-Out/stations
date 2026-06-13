@@ -21,17 +21,6 @@ lastchangetime: 2026-01-26 08:29:30
 clickcount: 6
 geo_lat: 48.85558953739779
 geo_long: 2.3469543457031254
-curation: 0.60
-provenance:
-  - radiobrowser-1231ed9e-9697-4242-92b2-2d94a6ade243
-streams:
-  - url: 'https://stream.radiofrance.fr/fipcultes/fipcultes.m3u8?id=radiofranceBose'
-    codec: AAC
-    bitrate: 105
-    hls: true
-  - url: 'https://stream.radiofrance.fr/fipcultes/fipcultes_hifi.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +30,14 @@ research:
   format: Alternative music, world music, cult and indie programming, cultural content; part of FIP network
   notes: FIP Cultes is specialized channel within Radio France's FIP network; focuses on alternative, world music, and cult programming with cultural/artistic bent; state-funded public broadcaster model; serves French francophone audiences with sophisticated music curation.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-1231ed9e-9697-4242-92b2-2d94a6ade243
+streams:
+  - url: https://stream.radiofrance.fr/fipcultes/fipcultes.m3u8?id=radiofranceBose
+    codec: AAC
+    bitrate: 105
+    hls: true
+  - url: https://stream.radiofrance.fr/fipcultes/fipcultes_hifi.m3u8
+    codec: UNKNOWN
+    hls: true

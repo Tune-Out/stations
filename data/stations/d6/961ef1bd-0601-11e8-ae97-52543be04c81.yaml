@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:31:23
 clickcount: 21
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961ef1bd-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming.omroepbrabant.nl/mp3hq'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,14 @@ research:
   format: Regional news, sports, local information, television, radio, and events coverage
   notes: 'Public broadcaster serving Brabant region in the Netherlands. Mission: "het laatste nieuws uit Brabant, sport en informatie uit jouw regio" (the latest news from Brabant, sports and information from your region). Services include live TV and radio streaming, video content library, regional news alerts, newsletters, and podcasts. Active on multiple social media platforms (Facebook, Instagram, YouTube, TikTok, X, LinkedIn, WhatsApp). Emphasizes local/regional news delivery and community engagement through audience panels and listener tips.'
   sources: http://www.omroepbrabant.nl/
+curation: 0.35
+provenance:
+  - radiobrowser-961ef1bd-0601-11e8-ae97-52543be04c81
+  - iprd-nl-omroep-brabant-ab55258b
+streams:
+  - url: http://streaming.omroepbrabant.nl/mp3hq
+    codec: MP3
+    bitrate: 256
+  - url: https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq
+    codec: MP3
+    bitrate: 256

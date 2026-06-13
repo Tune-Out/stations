@@ -1,7 +1,7 @@
 stationuuid: acbca8c2-7436-4f66-b93e-a4153d29a237
 name: Plenty Valley FM - Mill Park, Melbourne - 88.6 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/3PVRAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/3PVRAAC.aac
+url: 'http://28803.live.streamtheworld.com:80/3PVRAAC.aac'
+url_resolved: 'http://28803.live.streamtheworld.com:80/3PVRAAC.aac'
 homepage: https://www.pvfm.org.au/
 favicon: https://i.ibb.co/Nsmm4hH/647f282eb86cd061b1eff63f.webp
 tags:
@@ -34,9 +34,6 @@ lastchangetime: 2026-01-14 23:51:16
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-acbca8c2-7436-4f66-b93e-a4153d29a237
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -46,3 +43,6 @@ research:
   format: Community radio with diverse multilingual programming
   notes: Community radio station at 88.6 FM broadcasting from Mill Park in Melbourne, Victoria. Serves diverse multilingual and multicultural communities with programming in multiple languages including English, South Asian languages, Mediterranean languages, and Pacific languages.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-acbca8c2-7436-4f66-b93e-a4153d29a237

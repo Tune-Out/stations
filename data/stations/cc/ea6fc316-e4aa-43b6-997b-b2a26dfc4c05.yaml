@@ -24,17 +24,6 @@ lastchangetime: 2026-01-15 06:04:09
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-ea6fc316-e4aa-43b6-997b-b2a26dfc4c05
-duplicate_of: 51b7f8ff-bbe9-4c74-8f53-0cda9f16eaec
-streams:
-  - url: 'https://dfm-insomnia.hostingradio.ru/insomnia96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://dfm-insomnia.hostingradio.ru/insomnia96.aacp'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +33,14 @@ research:
   format: Dance, house, progressive house, trance, electronic dance music
   notes: DFM Insomnia is a specialized channel of DFM, a major Russian commercial radio network. Dedicated to electronic dance music (EDM), house, and trance for night-time and electronic music audiences.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-ea6fc316-e4aa-43b6-997b-b2a26dfc4c05
+duplicate_of: 51b7f8ff-bbe9-4c74-8f53-0cda9f16eaec
+streams:
+  - url: https://dfm-insomnia.hostingradio.ru/insomnia96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: http://dfm-insomnia.hostingradio.ru/insomnia96.aacp
+    codec: AAC+
+    bitrate: 96

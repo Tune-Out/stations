@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1be86a54-d998-4a41-abd1-946c95692870
-streams:
-  - url: 'https://listen.reyfm.de/reyfm-hip-hop/'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://listen.reyfm.de/reyfm-hip-hop_gold/'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +29,13 @@ research:
   format: Hip-hop music programming
   notes: German internet radio station with hip-hop focus; independent community radio service
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1be86a54-d998-4a41-abd1-946c95692870
+streams:
+  - url: https://listen.reyfm.de/reyfm-hip-hop/
+    codec: MP3
+    bitrate: 320
+  - url: https://listen.reyfm.de/reyfm-hip-hop_gold/
+    codec: MP3
+    bitrate: 320

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 03:13:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-f96173a3-a0e7-4ca8-9f34-8d6eb2fd6fce
-streams:
-  - url: 'https://drive.uber.radio/uber/crmonserratcaballe/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crmonserratcaballe/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Classical music streaming service
   notes: Named after the legendary Spanish soprano Montserrat Caballé; international classical music programming
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-f96173a3-a0e7-4ca8-9f34-8d6eb2fd6fce
+streams:
+  - url: https://drive.uber.radio/uber/crmonserratcaballe/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crmonserratcaballe/icecast.audio
+    codec: MP3

@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 05:24:52
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-8a15bdc8-b41e-4e29-9862-4aaeebd1b8f4
-streams:
-  - url: 'http://boxstream.danceradiouk.com/stream/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://boxstream.danceradiouk.com/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: pop, rock, 80s, 90s, top 40; ad-free streaming
   notes: UK-based commercial stream; no advertisements policy; specializes in 80s and 90s music alongside contemporary pop and rock
   sources: https://danceradiouk.com/
+curation: 0.2
+provenance:
+  - radiobrowser-8a15bdc8-b41e-4e29-9862-4aaeebd1b8f4
+streams:
+  - url: http://boxstream.danceradiouk.com/stream/
+    codec: MP3
+    bitrate: 128
+  - url: https://boxstream.danceradiouk.com/stream
+    codec: MP3
+    bitrate: 128

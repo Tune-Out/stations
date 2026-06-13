@@ -22,25 +22,6 @@ lastchangetime: 2026-01-15 08:37:28
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960d04bf-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://stream.antennethueringen.de/live/aac-64/'
-    url_resolved: 'https://edge68.streamonkey.net/antthue-mitte?aggregator=rewrite/'
-    codec: AAC
-  - url: 'http://stream.antennethueringen.de/yesterhits/mp3-192/'
-    url_resolved: 'https://edge21.streamonkey.net/antthue-yesterhits/stream/mp3?aggregator=rewrite/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.antennethueringen.de/yesterhits/mp3-192/'
-    url_resolved: 'https://edge71.streamonkey.net/antthue-yesterhits/stream/mp3?aggregator=rewrite/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.antennethueringen.de/live/mp3-128/'
-    url_resolved: 'https://edge17.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -50,3 +31,23 @@ research:
   format: Oldies, classic hits, evergreens, pop classics from earlier decades
   notes: Regional German commercial broadcaster serving Thuringia. Yesterhits is a themed channel focusing on classic hits and oldies format. Standard commercial radio station with advertising-based revenue model.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960d04bf-0601-11e8-ae97-52543be04c81
+  - iprd-de-antenne-th-ringen-yesterhits-bd27ce3e
+streams:
+  - url: https://stream.antennethueringen.de/live/aac-64/
+    url_resolved: https://edge68.streamonkey.net/antthue-mitte?aggregator=rewrite/
+    codec: AAC
+  - url: http://stream.antennethueringen.de/yesterhits/mp3-192/
+    url_resolved: https://edge21.streamonkey.net/antthue-yesterhits/stream/mp3?aggregator=rewrite/
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.antennethueringen.de/yesterhits/mp3-192/
+    url_resolved: https://edge71.streamonkey.net/antthue-yesterhits/stream/mp3?aggregator=rewrite/
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.antennethueringen.de/live/mp3-128/
+    url_resolved: https://edge17.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite/
+    codec: MP3
+    bitrate: 128

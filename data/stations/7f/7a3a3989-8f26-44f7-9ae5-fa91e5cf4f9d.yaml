@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:03:48
 clickcount: 252
 geo_lat: 43.577207144257144
 geo_long: 5.745849609375
-curation: 0.05
-provenance:
-  - radiobrowser-7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d
-streams:
-  - url: 'https://audio.bfmtv.com/rmcradio_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.playerId=RMC_audio_web&aggregator=RMC_audio_web'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Talk radio (généraliste) focused on news, current affairs, sports and listener call-ins; flagship programs include "Les Grandes Gueules", "Bourdin Direct" (historically), and extensive football coverage
   notes: Originally founded in 1943 as Radio Monte Carlo, a Monaco-based broadcaster. Repositioned to a French talk/sports format in 2002 under the "RMC Info Talk Sport" banner. Holds extensive rights to French Ligue 1 and UEFA football broadcasts. Acquired by Patrick Drahi's Altice in 2014-2016 (NextRadioTV group), now under CMA Media umbrella with BFMTV.
   sources: internal knowledge only (homepage fetch blocked)
+curation: -0.05
+provenance:
+  - radiobrowser-7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d
+  - iprd-fr-rmc-d6692818
+  - iprd-fr-rmc-6bac5c77
+streams:
+  - url: https://audio.bfmtv.com/rmcradio_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.playerId=RMC_audio_web&aggregator=RMC_audio_web
+    codec: MP3
+    bitrate: 128

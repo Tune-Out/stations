@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-2d77c14e-8d43-482e-8a8b-475f3d039fb8
-streams:
-  - url: 'https://bigtunesradio.com:8003/trance.mp3?1712236520795'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://bigtunesradio.com:8003/house.mp3?1712236225331'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://bigtunesradio.com:8003/oldschool.mp3?1712236441774'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +28,16 @@ research:
   format: Electronic dance music with specialized channels for House, Oldschool, Trance, Bass; also podcast service
   notes: Web-based independent online radio focused on EDM. Operates since 2012 (copyright 2012-2026). No geographic broadcast region specified; streaming-only operation. Multiple bitrate options (192k MP3, 48k AAC+). Podcast service available via separate domain (podcast.bigtunesradio.com).
   sources: https://bigtunesradio.com/
+curation: 0.6
+provenance:
+  - radiobrowser-2d77c14e-8d43-482e-8a8b-475f3d039fb8
+streams:
+  - url: https://bigtunesradio.com:8003/trance.mp3?1712236520795
+    codec: MP3
+    bitrate: 192
+  - url: https://bigtunesradio.com:8003/house.mp3?1712236225331
+    codec: MP3
+    bitrate: 192
+  - url: https://bigtunesradio.com:8003/oldschool.mp3?1712236441774
+    codec: MP3
+    bitrate: 192

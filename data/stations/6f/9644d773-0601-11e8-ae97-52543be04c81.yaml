@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9644d773-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming.slam.nl/web13_aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://stream.radiocorp.nl/web13_mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Dance, electronic, hit music and club tracks (mixmarathon format)
   notes: Slam! is one of the Netherlands' leading dance/club radio brands. Mixmarathon is a continuous marathon of dance and electronic music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9644d773-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streaming.slam.nl/web13_aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://stream.radiocorp.nl/web13_mp3
+    codec: MP3
+    bitrate: 128

@@ -1,6 +1,6 @@
 stationuuid: 9632c4ae-0601-11e8-ae97-52543be04c81
 name: Los 40 Principales Chile
-url: http://provisioning.streamtheworld.com/pls/LOS40_CHILE.pls
+url: 'http://27573.live.streamtheworld.com:80/LOS40_CHILE_SC'
 url_resolved: http://27443.live.streamtheworld.com:3690/LOS40_CHILE_SC
 homepage: http://www.los40.cl/
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/250px-Los_40.svg.png
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 07:08:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-9632c4ae-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Top 40 hits, Latin pop, contemporary music; commercial radio format
   notes: Chilean franchise of Los 40 Principales, international commercial radio network founded in Spain (1966). Broadcasts contemporary hits and Latin pop music. Headquartered in Santiago. Uses SHOUTcast streaming (StreamTheWorld provisioning). National reach throughout Chile.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-9632c4ae-0601-11e8-ae97-52543be04c81

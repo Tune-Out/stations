@@ -24,14 +24,6 @@ lastchangetime: 2026-01-14 23:41:04
 clickcount: 6
 geo_lat: 51.483911137890225
 geo_long: 11.969939768314363
-curation: -0.05
-provenance:
-  - radiobrowser-e19d134f-e50b-4daf-8d96-79d44e4ad484
-streams:
-  - url: 'https://stream.radiobrocken.de/live-hal-lei/mp3-256/'
-    codec: MP3
-  - url: 'https://stream.radiobrocken.de/live-hal-lei/mp3-256'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +33,11 @@ research:
   format: Pop, 80s, 90s, and oldies music
   notes: 'Radio Brocken Halle-Leipzig serves the Halle-Leipzig region and broader Saxony-Anhalt state in Germany. "Brocken" refers to the Harz mountain region. Tagline: "Die beste Musik für Sachsen-Anhalt" (the best music for Saxony-Anhalt).'
   sources: https://www.radiobrocken.de/
+curation: -0.05
+provenance:
+  - radiobrowser-e19d134f-e50b-4daf-8d96-79d44e4ad484
+streams:
+  - url: https://stream.radiobrocken.de/live-hal-lei/mp3-256/
+    codec: MP3
+  - url: https://stream.radiobrocken.de/live-hal-lei/mp3-256
+    codec: MP3

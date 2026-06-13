@@ -1,7 +1,7 @@
 stationuuid: c6d59222-e9e0-4c0e-a1b0-1b6372e21131
 name: Olímpica Stereo(Bogotá)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac
+url: 'https://26593.live.streamtheworld.com:443/OLP_BOGOTAAAC.aac'
+url_resolved: 'https://26593.live.streamtheworld.com:443/OLP_BOGOTAAAC.aac'
 homepage: https://olimpicastereo.com.co/
 favicon: https://olimpicastereo.com.co/icon?b8748d2f62517688
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 04:26:23
 clickcount: 6
 geo_lat: 4.6559998993586
 geo_long: -74.08081054687501
-curation: -0.05
-provenance:
-  - radiobrowser-c6d59222-e9e0-4c0e-a1b0-1b6372e21131
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Sports-oriented music and talk radio
   notes: Major Colombian commercial radio station based in Bogotá; part of the sports-themed "Olímpica" brand; broadcasts via StreamTheWorld platform
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c6d59222-e9e0-4c0e-a1b0-1b6372e21131

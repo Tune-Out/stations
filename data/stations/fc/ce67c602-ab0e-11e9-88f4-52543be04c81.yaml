@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ce67c602-ab0e-11e9-88f4-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-koeln-128-aac?usid=0-0-H-A-D-30'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-koeln-128-mp3?usid=0-0-H-A-D-30'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,13 @@ research:
   format: Contemporary hit radio with news, sports, lifestyle content; "everything from Carnival to FC Cologne" with "current chart hits"
   notes: Regional commercial radio station serving Cologne/Bonn metropolitan area; positions itself as "in the middle of things" and "at the pulse of the region"; operates 30+ streams; provides news, sports, podcasts, and event coverage.
   sources: https://www.rpr1.de/webradio/rpr1-koelnbonn
+curation: -0.05
+provenance:
+  - radiobrowser-ce67c602-ab0e-11e9-88f4-52543be04c81
+  - iprd-de-rpr1-k-ln-bonn-e1b7f122
+  - iprd-de-rpr1-k-ln-bonn-24ff7e27
+streams:
+  - url: http://streams.rpr1.de/rpr-koeln-128-aac?usid=0-0-H-A-D-30
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-koeln-128-mp3?usid=0-0-H-A-D-30
+    codec: MP3

@@ -1,6 +1,6 @@
 stationuuid: 96475698-0601-11e8-ae97-52543be04c81
 name: Light FM 90.5 & 90.7 Beirut
-url: http://provisioning.streamtheworld.com/pls/LIGHTFMAAC.pls
+url: 'http://28573.live.streamtheworld.com:80/LIGHTFMAAC_SC'
 url_resolved: http://28573.live.streamtheworld.com/LIGHTFMAAC_SC
 homepage: http://www.lightfmlebanon.com/
 favicon: https://back.ww-cdn.com/superstatic/version/242120/iphone/29/photo/sections_23576245_navBar_titleImage@2x.png?v=1700654098
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-96475698-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Pop, world music, English and French language programming
   notes: Commercial radio station operating on 90.5 & 90.7 FM in Beirut, Lebanon. Broadcasts in English and French, targeting cosmopolitan Lebanese audience and expatriates. Programs feature pop music and world music content.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-96475698-0601-11e8-ae97-52543be04c81

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 08:07:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-f706cdc2-dd70-4fa2-9910-2ab87d2abb01
-streams:
-  - url: 'http://stream.levillage.org/canalb'
-    codec: MP3
-  - url: 'https://stream.levillage.org/canalb'
-    codec: MP3
-  - url: 'http://stream.levillage.org/canalb.m3u'
-    url_resolved: 'http://stream.levillage.org/canalb'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +31,15 @@ research:
   format: Alternative rock, indie rock, local and international independent music.
   notes: Canal B is a community radio station in Brittany, France on 94 MHz. Part of independent media community "Le Village". Focuses on alternative rock and supports local music scene.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-f706cdc2-dd70-4fa2-9910-2ab87d2abb01
+  - iprd-fr-canal-b-94mhz-5228f89a
+streams:
+  - url: http://stream.levillage.org/canalb
+    codec: MP3
+  - url: https://stream.levillage.org/canalb
+    codec: MP3
+  - url: http://stream.levillage.org/canalb.m3u
+    url_resolved: http://stream.levillage.org/canalb
+    codec: MP3

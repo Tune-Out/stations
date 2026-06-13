@@ -21,85 +21,6 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-37c97215-b4f2-4d66-8d7d-25f5a740bbd2
-streams:
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=midwestfmie2.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs8.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs12.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs2.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs10.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs13.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs4.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs16.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs17.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs18.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs14.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs7.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs6.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs25.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs5.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=nationscotlandi.aac&&___cb=354499296267956'
-    codec: AAC+
-    bitrate: 47
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=tcdee.mp3&=&cb=462355155826095&cb=172119091698364&companionAds=true&__cb=215841463334701&___cb=971408830898665'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=manxradioam.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=radioshow3.mp3'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=radioshow2.mp3'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://tx.sharp-stream.com/icecast.php?i=radioshow.mp3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -109,3 +30,82 @@ research:
   format: News, music, entertainment, and cultural programming for Gurkha troops and British forces.
   notes: BFBS Gurkha Radio is a specialized channel of the British Forces Broadcasting Service, dedicated to Gurkha soldiers and personnel. Serves military communities globally via BFBS.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-37c97215-b4f2-4d66-8d7d-25f5a740bbd2
+streams:
+  - url: http://tx.sharp-stream.com/icecast.php?i=midwestfmie2.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs8.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs12.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs2.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs10.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs13.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs4.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs16.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs17.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs18.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs14.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs7.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs6.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs25.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs5.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=nationscotlandi.aac&&___cb=354499296267956
+    codec: AAC+
+    bitrate: 47
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tx.sharp-stream.com/icecast.php?i=tcdee.mp3&=&cb=462355155826095&cb=172119091698364&companionAds=true&__cb=215841463334701&___cb=971408830898665
+    codec: MP3
+    bitrate: 128
+  - url: http://tx.sharp-stream.com/icecast.php?i=manxradioam.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tx.sharp-stream.com/icecast.php?i=radioshow3.mp3
+    codec: MP3
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=radioshow2.mp3
+    codec: MP3
+    bitrate: 64
+  - url: http://tx.sharp-stream.com/icecast.php?i=radioshow.mp3
+    codec: MP3
+    bitrate: 64

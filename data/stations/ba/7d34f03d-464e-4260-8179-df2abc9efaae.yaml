@@ -21,17 +21,6 @@ lastchangetime: 2026-03-08 02:04:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7d34f03d-464e-4260-8179-df2abc9efaae
-streams:
-  - url: 'http://95alive.net:8020/radio.mp3.m3u'
-    url_resolved: 'http://95alive.net:8020/radio.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://95alive.net:8040/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +30,14 @@ research:
   format: Children's music and family-friendly entertainment programming.
   notes: "Delaware-based non-commercial broadcaster focused on children's content. Mission: providing quality music and programming for young audiences. Limited publicly available information."
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7d34f03d-464e-4260-8179-df2abc9efaae
+streams:
+  - url: http://95alive.net:8020/radio.mp3.m3u
+    url_resolved: http://95alive.net:8020/radio.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://95alive.net:8040/radio.mp3
+    codec: MP3
+    bitrate: 128

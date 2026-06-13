@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:25:53
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-f90ef2e5-4681-493a-bfa0-15627e3fb248
-streams:
-  - url: 'http://live.radiocafe.ro:8048/live.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://live.radiocafe.ro/live.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: nostalgic / "story music" — Romanian and international oldies, easy listening, "muzica de poveste"
   notes: Radio Cafe Romania ("Muzica de poveste" — story music) is an independent Romanian online radio station with a retro/vintage cassette-player web aesthetic; the operators describe their funding model in their own words as "N-o facem pentru bani dar e clar ca avem nevoie de ei!" ("We don't do it for money but clearly we need it!"), accepting PayPal donations and listing on Google Play; broadcasts a nostalgia format focused on memorable Romanian and international songs.
   sources: https://radiocafe.ro/
+curation: 0.4
+provenance:
+  - radiobrowser-f90ef2e5-4681-493a-bfa0-15627e3fb248
+  - iprd-ro-radio-cafe-romania-55a365ae
+streams:
+  - url: http://live.radiocafe.ro:8048/live.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://live.radiocafe.ro/live.aac
+    codec: AAC+
+    bitrate: 64

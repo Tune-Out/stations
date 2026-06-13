@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:32:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f48d3e11-3de5-4cdb-bd89-ca219955f500
-streams:
-  - url: 'https://ice7.securenetsystems.net/WAYRAM'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://ice7.securenetsystems.net/WAYRAM'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Religious programming, Christian music, talk, ministry content
   notes: Christian radio station based in Fleming Island, Florida; broadcasts evangelical Protestant programming; non-commercial religious broadcaster; mission-focused on Christian faith content
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f48d3e11-3de5-4cdb-bd89-ca219955f500
+  - iprd-us-wayr-way-radio-d12cb0ec
+streams:
+  - url: https://ice7.securenetsystems.net/WAYRAM
+    codec: AAC+
+    bitrate: 32
+  - url: http://ice7.securenetsystems.net/WAYRAM
+    codec: AAC+
+    bitrate: 32

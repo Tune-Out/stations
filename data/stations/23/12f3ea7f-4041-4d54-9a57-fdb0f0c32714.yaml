@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 1
 geo_lat: 60.90867598343209
 geo_long: 26.623343825340275
-curation: -0.05
-provenance:
-  - radiobrowser-12f3ea7f-4041-4d54-9a57-fdb0f0c32714
-streams:
-  - url: 'https://wr2.downtime.fi/kaakko.aac'
-    codec: AAC
-    bitrate: 80
-  - url: 'http://wr2.downtime.fi/kaakko.aac'
-    codec: AAC
-    bitrate: 80
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Diverse music programming; described as "Suomen monipuolisin musiikkikanava" (Finland's most versatile music channel)
   notes: Finnish online radio station offering diverse music programming across multiple genres and styles; commercial web radio service
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-12f3ea7f-4041-4d54-9a57-fdb0f0c32714
+  - iprd-fi-radio-kaakko-3a67753c
+streams:
+  - url: https://wr2.downtime.fi/kaakko.aac
+    codec: AAC
+    bitrate: 80
+  - url: http://wr2.downtime.fi/kaakko.aac
+    codec: AAC
+    bitrate: 80

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:26:23
 clickcount: 5
 geo_lat: 53.561802343734506
 geo_long: 9.97086524963379
-curation: 0.35
-provenance:
-  - radiobrowser-d3ff43b1-642a-46ba-9e3c-b392040c8018
-streams:
-  - url: 'https://streaming.fueralle.org/fsk.ogg'
-    codec: OGG
-    bitrate: 320
-  - url: 'http://stream1.datenkollektiv.net/fsk.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,14 @@ research:
   format: Community and alternative programming; diverse volunteer shows; talk and music content
   notes: '"Freies Sender Kombinat" (Free Sender Collective) Hamburg; FM 93.0 MHz, cable 101.4, DAB+ ch. 12C; monthly "Transmitter™" program guide; community-operated volunteer model; listener feedback-driven; Hamburg-based community station'
   sources: https://www.fsk-hh.org/
+curation: 0.35
+provenance:
+  - radiobrowser-d3ff43b1-642a-46ba-9e3c-b392040c8018
+  - iprd-de-freies-sender-kombinat-93-0-179f363f
+streams:
+  - url: https://streaming.fueralle.org/fsk.ogg
+    codec: OGG
+    bitrate: 320
+  - url: http://stream1.datenkollektiv.net/fsk.mp3
+    codec: MP3
+    bitrate: 320

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:37:33
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-aedb966a-69d2-4d72-afe1-61e66b6c3711
-streams:
-  - url: 'https://stream.deegay.fm/deegay2.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.deegay.fm/deegay2.mp3?id=KeCYrcTWRj&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Classic hits from the 1960s–1990s; primarily pop, rock, and Europop
   notes: DeeGay Classic is part of the NewRadio network, Italy's largest independent radio streaming platform. The station targets audiences seeking nostalgic music programming; heavy rotation of European and Italian classics. Commercial station with advertising-supported model.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-aedb966a-69d2-4d72-afe1-61e66b6c3711
+streams:
+  - url: https://stream.deegay.fm/deegay2.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.deegay.fm/deegay2.mp3?id=KeCYrcTWRj&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue
+    codec: MP3
+    bitrate: 128

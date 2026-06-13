@@ -27,14 +27,6 @@ lastchangetime: 2026-01-15 06:17:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-2d28b62d-8471-4481-8b4f-f7352a86bf06
-streams:
-  - url: 'http://stream.zeno.fm/nqtl8hjdqzxvv'
-    codec: AAC
-  - url: 'http://stream.zeno.fm/wfafmjdyhrrvv'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -44,3 +36,11 @@ research:
   format: Retro dance, electronic, eurodance, techno, and club music.
   notes: Dutch community radio station based in Rotterdam specializing in retro dance and electronic music. Broadcasts via Zeno.fm platform. Features 1980s-1990s eurodance, house, techno, and club music. Community-focused electronic music programming in Dutch and English.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-2d28b62d-8471-4481-8b4f-f7352a86bf06
+streams:
+  - url: http://stream.zeno.fm/nqtl8hjdqzxvv
+    codec: AAC
+  - url: http://stream.zeno.fm/wfafmjdyhrrvv
+    codec: AAC

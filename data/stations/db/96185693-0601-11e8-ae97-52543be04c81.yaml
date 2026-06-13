@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:21:40
 clickcount: 104
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-96185693-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icestreaming.rai.it/1.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://icestreaming.rai.it/1.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,14 @@ research:
   format: News, talk, current affairs, sports, cultural programming and live information; RAI's flagship news/speech radio
   notes: Founded 1924 as URI/EIAR, RAI Radio 1 is the oldest and most-listened Italian public radio news network. Broadcasts 24/7 nationally on FM, DAB+, satellite and online. Funded by license fee (canone RAI) plus limited advertising. Subject to RAI's public service contract with the Italian state.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-96185693-0601-11e8-ae97-52543be04c81
+  - iprd-it-rai-radio-1-a24fa14b
+streams:
+  - url: http://icestreaming.rai.it/1.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://icestreaming.rai.it/1.mp3
+    codec: MP3
+    bitrate: 256

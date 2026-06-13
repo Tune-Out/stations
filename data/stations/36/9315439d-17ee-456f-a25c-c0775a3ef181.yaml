@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:02:03
 clickcount: 0
 geo_lat: 19.79739445996757
 geo_long: -99.099383354187
-curation: 0.35
-provenance:
-  - radiobrowser-9315439d-17ee-456f-a25c-c0775a3ef181
-streams:
-  - url: 'https://streamingcwsradio30.com:7049/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streamingcwsradio30.com:7049/mexiquense'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: Varied music and general programming
   notes: Public broadcaster managed by Estado de México government; serves Zumpango at 88.5 FM; varied music format; part of Mexiquense public media system
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9315439d-17ee-456f-a25c-c0775a3ef181
+streams:
+  - url: https://streamingcwsradio30.com:7049/;
+    codec: MP3
+    bitrate: 128
+  - url: https://streamingcwsradio30.com:7049/mexiquense
+    codec: MP3
+    bitrate: 128

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:17:02
 clickcount: 14
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-0718374f-ed07-4131-81db-ee7b468869ae
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/DJDW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/DJDW/aac'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,13 @@ research:
   format: Alternative and indie rock, classic and contemporary; deep cuts, album tracks, Australian music, plus specialist shows (Lunch with Karen Leng, Loose Ends, Take 5 with Zan Rowe, etc.)
   notes: "Double J launched in 2014 on the ABC's Digital Audio Broadcasting and online platforms, named in homage to \"2JJ\" — the original Sydney youth station that became Triple J in 1980. Where Triple J targets listeners under 30, Double J caters to the same audience as they aged into adulthood, blending nostalgic alternative classics with new indie releases and Australian content. ABC Radio operates under the public-service principles in its charter: \"to provide innovative and comprehensive broadcasting services of a high standard\". The stream is available nationwide via streaming, DAB+ (Sydney, Melbourne, Brisbane, Adelaide, Perth, Hobart, Canberra, Darwin) and the ABC listen app."
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-0718374f-ed07-4131-81db-ee7b468869ae
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/DJDW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/DJDW/aac
+    codec: AAC+
+    bitrate: 56

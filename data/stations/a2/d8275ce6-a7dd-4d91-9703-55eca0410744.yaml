@@ -1,6 +1,6 @@
 stationuuid: d8275ce6-a7dd-4d91-9703-55eca0410744
 name: CJAD 800
-url: https://playerservices.streamtheworld.com/pls/CJADAM.pls
+url: 'https://14023.live.streamtheworld.com:443/CJADAM_SC'
 url_resolved: https://27243.live.streamtheworld.com/CJADAM_SC
 homepage: https://www.cjad800.com/
 favicon: https://www.cjad800.com/content/dam/audio/iheart-stations-logos/logo-cjad.svg
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 05:05:52
 clickcount: 6
 geo_lat: 45.52132117958643
 geo_long: -73.55032861232759
-curation: -0.05
-provenance:
-  - radiobrowser-d8275ce6-a7dd-4d91-9703-55eca0410744
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +33,7 @@ research:
   format: 24/7 news, talk, local news updates
   notes: CJAD 800 AM is Montreal's all-news radio station; operated by iHeart Media; historical call sign from 1960s.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d8275ce6-a7dd-4d91-9703-55eca0410744
+  - iprd-ca-cjad-800-c9276968

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0f42b130-e1dd-4ed4-982e-92659b038780
-streams:
-  - url: 'https://live7.avf.ch/lux_main'
-    codec: OGG
-    bitrate: 1200
-  - url: 'https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac'
-    codec: AAC+
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Pop and urban music; entertainment for dancing, emotion, and singing
   notes: Geneva-based commercial station; "Si la lumière est à la vie ce que la musique est à la joie, alors que la musique soit !" (If light is to life what music is to joy, then let there be music!); named after Geneva's canton motto "Post Tenebras Lux"; broadcasts on DAB+ and worldwide via live streaming; features monthly talent interview show "Quel Talent"; designed for home, car, and office listening.
   sources: https://luxradio.ch/
+curation: -0.05
+provenance:
+  - radiobrowser-0f42b130-e1dd-4ed4-982e-92659b038780
+streams:
+  - url: https://live7.avf.ch/lux_main
+    codec: OGG
+    bitrate: 1200
+  - url: https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac
+    codec: AAC+
+    bitrate: 192

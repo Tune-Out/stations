@@ -1,7 +1,7 @@
 stationuuid: f244451c-2d6c-4f02-aebb-3b985d362aac
 name: iHeartCountry New Zealand
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_09AAC.m3u8
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_09AAC.m3u8
+url: 'https://23153.live.streamtheworld.com:443/NZME_09AAC/HLS/playlist.m3u8'
+url_resolved: 'https://23153.live.streamtheworld.com:443/NZME_09AAC/HLS/playlist.m3u8'
 homepage: https://www.iheartcountry.co.nz/
 favicon: https://i.iheart.com/v3/re/assets.streams/6812fd4982aae621b8b5867c
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:01:43
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f244451c-2d6c-4f02-aebb-3b985d362aac
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music programming, 24/7 streaming
   notes: iHeartCountry New Zealand is part of the iHeartMedia network, providing country music to New Zealand audiences. Operates via NZME infrastructure. Available on iheartcountry.co.nz and streaming services.
   sources: https://www.iheartcountry.co.nz/, internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f244451c-2d6c-4f02-aebb-3b985d362aac

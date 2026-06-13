@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 08:47:20
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-963dcd5d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming.103radio.fr/128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.103radio.fr/103Radio.m3u'
-    url_resolved: 'https://streaming.103radio.fr/128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +31,15 @@ research:
   format: Ad-free EDM radio featuring mainstage festival atmosphere; weekly Saturday "103 Klubb" show with top DJs (4-hour mixes).
   notes: Operating since 2009 as French-language EDM station; emphasizes community engagement via Discord/SMS; accessible via web, mobile apps, Android TV, smart speakers.
   sources: https://www.103radio.fr/
+curation: 0.5
+provenance:
+  - radiobrowser-963dcd5d-0601-11e8-ae97-52543be04c81
+  - iprd-fr-103-radio-52d184c3
+streams:
+  - url: http://streaming.103radio.fr/128
+    codec: MP3
+    bitrate: 128
+  - url: https://www.103radio.fr/103Radio.m3u
+    url_resolved: https://streaming.103radio.fr/128
+    codec: MP3
+    bitrate: 128

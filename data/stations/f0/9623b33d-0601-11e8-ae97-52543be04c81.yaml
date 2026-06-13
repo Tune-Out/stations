@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9623b33d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/JAZW/mp3/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/JAZW/aac/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Jazz music, blues, world music, jazz programming, artist interviews
   notes: ABC Jazz is a specialized jazz channel of the Australian Broadcasting Corporation; public broadcaster; dedicated entirely to jazz and related genres; available via digital radio and online streaming.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-9623b33d-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-jazz-80bd8900
+  - iprd-au-abc-jazz-4efdead5
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/JAZW/mp3/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/JAZW/aac/
+    codec: AAC+
+    bitrate: 56

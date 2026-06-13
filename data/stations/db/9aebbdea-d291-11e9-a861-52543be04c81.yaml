@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 04:32:05
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9aebbdea-d291-11e9-a861-52543be04c81
-streams:
-  - url: 'http://lhttp.qingting.fm/live/20207761/64k.mp3'
-    codec: MP3
-  - url: 'https://live.ximalaya.com/radio-first-page-app/live/2684/64.m3u8?transcode=ts'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -39,3 +30,13 @@ research:
   format: 24/7 Mandopop and Canto-pop oldies channel focused on Chinese-language hits from the 1980s–2000s ("80后音悦台" literally "Post-80s Music Pleasure Channel")
   notes: A themed online music channel targeting the "post-80s" generation, streamed through the QingTing.FM aggregator and listed under Henan Radio & TV's online services; like all mainland Chinese broadcast outlets it operates under PRC media regulations and content censorship requirements administered by the NRTA and the Cyberspace Administration of China.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9aebbdea-d291-11e9-a861-52543be04c81
+  - iprd-cn-80-houyinyuetai-2cdd6905
+streams:
+  - url: http://lhttp.qingting.fm/live/20207761/64k.mp3
+    codec: MP3
+  - url: https://live.ximalaya.com/radio-first-page-app/live/2684/64.m3u8?transcode=ts
+    codec: UNKNOWN
+    hls: true

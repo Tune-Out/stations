@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-71ea7bd3-e18b-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-balkan-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-balkan-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Music and entertainment programming focused on Balkan music and culture
   notes: bigBalkan is a specialized channel from bigFM, a major German commercial radio network. Targets Balkan audiences and diaspora with music and cultural programming relevant to Southeast Europe.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-71ea7bd3-e18b-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-balkan-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-balkan-128-mp3
+    codec: MP3

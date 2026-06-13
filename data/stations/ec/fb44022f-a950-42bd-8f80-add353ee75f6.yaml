@@ -27,34 +27,6 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-fb44022f-a950-42bd-8f80-add353ee75f6
-streams:
-  - url: 'http://player.ffn.de/ffn.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://stream.ffn.de/peppermintfm/mp3-192/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://player.ffn.de/radioffn.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.ffn.de/ffn-gold/mp3-192'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.ffn.de/ffn-80er/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.ffn.de/neunziger/mp3-192/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.ffn.de/radiobollerwagen/mp3-192'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://ffn-stream20.radiohost.de/ffn-dance_only_mp3-192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -64,3 +36,31 @@ research:
   format: Commercial radio; "Peppermint" stream — dance, funk, house, soul music
   notes: Radio FFN (Funk Flirt Nachrichten) is a German commercial radio station known for music and contemporary hits. "Peppermint" is a curated stream featuring dance, funk, house, and soul music, appealing to listeners of groove-oriented electronic and funk music. FFN operates multiple streams and caters to modern music audiences across Germany.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-fb44022f-a950-42bd-8f80-add353ee75f6
+streams:
+  - url: http://player.ffn.de/ffn.aac
+    codec: AAC+
+    bitrate: 48
+  - url: https://stream.ffn.de/peppermintfm/mp3-192/
+    codec: MP3
+    bitrate: 192
+  - url: https://player.ffn.de/radioffn.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.ffn.de/ffn-gold/mp3-192
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.ffn.de/ffn-80er/
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.ffn.de/neunziger/mp3-192/
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.ffn.de/radiobollerwagen/mp3-192
+    codec: MP3
+    bitrate: 192
+  - url: https://ffn-stream20.radiohost.de/ffn-dance_only_mp3-192
+    codec: MP3
+    bitrate: 192

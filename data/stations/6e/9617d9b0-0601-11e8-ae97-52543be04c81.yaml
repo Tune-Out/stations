@@ -1,6 +1,6 @@
 stationuuid: 9617d9b0-0601-11e8-ae97-52543be04c81
 name: Super 100 Tegucigalpa 100.1
-url: http://provisioning.streamtheworld.com/pls/SUPER100.pls
+url: 'http://26653.live.streamtheworld.com:80/SUPER100_SC'
 url_resolved: http://27383.live.streamtheworld.com:3690/SUPER100_SC
 homepage: http://www.super100hn.net/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9617d9b0-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Adult contemporary music and entertainment; commercial top 40/contemporary hits
   notes: Honduran FM radio station (100.1 MHz) based in Tegucigalpa; commercial broadcaster with adult contemporary format; established Central American station
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9617d9b0-0601-11e8-ae97-52543be04c81
+  - iprd-hn-super-100-100-1-d9f61d26

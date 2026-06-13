@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 04:53:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2da3cc40-edbc-44dd-acc2-64ab72061bc8
-streams:
-  - url: 'http://lhttp.qingting.fm/live/20500066/64k.mp3'
-    codec: MP3
-  - url: 'http://lhttp.qingting.fm/live/20500066/64k.mp3?'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -38,3 +30,12 @@ research:
   format: Music and general information programming.
   notes: 崇州人民广播电台 (Chongzhou People's Radio Station) is a government-operated station in Chongzhou, Sichuan Province, providing music and public service programming.
   sources: http://www.scmenhu.com/quxian/chongzhou/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-2da3cc40-edbc-44dd-acc2-64ab72061bc8
+  - iprd-cn-chongzhou-people-s-broadcasting-station-102-2-db09658d
+streams:
+  - url: http://lhttp.qingting.fm/live/20500066/64k.mp3
+    codec: MP3
+  - url: http://lhttp.qingting.fm/live/20500066/64k.mp3?
+    codec: MP3

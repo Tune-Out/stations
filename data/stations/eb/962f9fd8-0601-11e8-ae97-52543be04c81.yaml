@@ -1,6 +1,6 @@
 stationuuid: 962f9fd8-0601-11e8-ae97-52543be04c81
 name: WRLT 100.1 FM Nashville, TN (AAC)
-url: http://provisioning.streamtheworld.com/pls/WRLTFMAAC.pls
+url: 'http://18543.live.streamtheworld.com:80/WRLTFMAAC_SC'
 url_resolved: http://18543.live.streamtheworld.com:3690/WRLTFMAAC_SC
 homepage: http://lightning100.com/
 favicon: https://lightning100.com/wp-content/uploads/2018/01/cropped-Lightning-100-site-icon-180x180.jpg
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-962f9fd8-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -35,3 +32,8 @@ research:
   format: Adult album alternative, indie rock, eclectic music mix with local artist support
   notes: WRLT "Lightning 100" 100.1 FM is Nashville's independent, community-supported alternative radio station. Known for supporting local Nashville music scene and independent artists. Ad-free, listener-funded model.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-962f9fd8-0601-11e8-ae97-52543be04c81
+  - iprd-us-wrlt-100-1-lightning-100-fe3c2d39
+  - iprd-us-wrlt-100-1-e9a895c1

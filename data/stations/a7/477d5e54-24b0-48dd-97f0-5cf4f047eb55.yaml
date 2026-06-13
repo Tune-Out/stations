@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:36:04
 clickcount: 9
 geo_lat: 47.2757573
 geo_long: 11.3963689
-curation: 0.65
-provenance:
-  - radiobrowser-477d5e54-24b0-48dd-97f0-5cf4f047eb55
-streams:
-  - url: 'http://orf-live.ors-shoutcast.at/tir-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://orf-live.ors-shoutcast.at/tir-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: Radio Tirol — Austrian "Volksmusik"/Schlager regional public radio with local news, weather, traffic, and Tyrolean cultural programming; the "HQ" suffix denotes the 192 kbps higher-quality MP3 stream
   notes: One of nine ORF "Bundesland" (state) studios producing Radio Tirol, the regional companion to ORF's national networks Ö1, Ö2 (the regional brand), Ö3, and FM4; the ORF is Austria's public broadcaster established under the ORF-Gesetz, with constitutionally guaranteed independence and a remit to provide impartial information, culture, sport, and entertainment; Tirol coverage emphasizes Alpine, agricultural, and tourism news and Tyrolean folk music ("Volksmusik / volkstümlich"); streamed via ORS (Österreichische Rundfunksender) infrastructure.
   sources: https://tirol.orf.at/player/, internal knowledge
+curation: 0.65
+provenance:
+  - radiobrowser-477d5e54-24b0-48dd-97f0-5cf4f047eb55
+  - iprd-at-orf-tirol-52048a1c
+  - iprd-at-orf-tirol-aee64048
+streams:
+  - url: http://orf-live.ors-shoutcast.at/tir-q2a
+    codec: MP3
+    bitrate: 192
+  - url: http://orf-live.ors-shoutcast.at/tir-q1a
+    codec: MP3
+    bitrate: 128

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 05:54:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9caa88bd-ef4a-4933-9ef3-6841c65a94c2
-duplicate_of: 960ac54b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://ycradio.stream.publicradio.org/ycradio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ycradio.stream.publicradio.org/ycradio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Classical music and arts programming; educational and cultural content
   notes: Based in Minnesota. Provides classical music, artist interviews, concert recordings, and cultural programming. Part of public broadcasting ecosystem.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-9caa88bd-ef4a-4933-9ef3-6841c65a94c2
+duplicate_of: 960ac54b-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://ycradio.stream.publicradio.org/ycradio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://ycradio.stream.publicradio.org/ycradio.mp3
+    codec: MP3
+    bitrate: 128

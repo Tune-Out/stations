@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 07:57:44
 clickcount: 0
 geo_lat: -33.69956774201013
 geo_long: 18.706959486007698
-curation: -0.05
-provenance:
-  - radiobrowser-8286f8cd-c17d-4322-b58b-a4aafbba2b87
-duplicate_of: bffdc007-3f6b-445e-aa53-edd1ae20d040
-streams:
-  - url: 'https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8?'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: General entertainment and music
   notes: South African radio station based in Western Cape (coordinates indicate Cape Town area); high quality AAC audio streaming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8286f8cd-c17d-4322-b58b-a4aafbba2b87
+duplicate_of: bffdc007-3f6b-445e-aa53-edd1ae20d040
+streams:
+  - url: https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8?
+    codec: UNKNOWN
+    hls: true
+  - url: https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8
+    codec: UNKNOWN
+    hls: true

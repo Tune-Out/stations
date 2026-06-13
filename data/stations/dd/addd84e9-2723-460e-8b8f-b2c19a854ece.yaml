@@ -21,25 +21,6 @@ lastchangetime: 2026-01-15 04:53:32
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-addd84e9-2723-460e-8b8f-b2c19a854ece
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk/A/A10H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A10H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.dr.dk/A/A10H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A10H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk:8000/A/A10H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -49,3 +30,23 @@ research:
   format: Regional public radio with news, music, talk, cultural programming
   notes: P4 Nordjylland is a regional network of Danmarks Radio covering North Jutland. DR is license-fee funded by Danish taxpayers and operates multiple P4 regional stations. Established as part of Denmark's public broadcasting service.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-addd84e9-2723-460e-8b8f-b2c19a854ece
+  - iprd-dk-dr-p4-nordjylland-5ceda8ec
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk/A/A10H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A10H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.dr.dk/A/A10H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A10H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk:8000/A/A10H.mp3
+    codec: MP3
+    bitrate: 128

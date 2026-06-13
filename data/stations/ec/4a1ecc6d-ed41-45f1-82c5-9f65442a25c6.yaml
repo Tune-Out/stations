@@ -23,19 +23,6 @@ lastchangetime: 2026-04-02 16:56:31
 clickcount: 0
 geo_lat: 32.625462829655525
 geo_long: -115.45300483703616
-curation: -0.05
-provenance:
-  - radiobrowser-4a1ecc6d-ed41-45f1-82c5-9f65442a25c6
-streams:
-  - url: 'http://streaming.servicioswebmx.com/8286/stream'
-    codec: MP3
-    bitrate: 224
-  - url: 'https://streaming.servicioswebmx.com/8286/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming.servicioswebmx.com/8286/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +32,17 @@ research:
   format: Regional Mexican music (banda, grupera, traditional Mexican music, music regional mexicana); entertainment
   notes: 101.3 FM / 820 AM (XHABCA-FM) Mexicali; "La Ke Buena" brand; part of Grupo Radio Cañón network; broadcasts to Mexico-US border region; traditional Mexican regional music format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4a1ecc6d-ed41-45f1-82c5-9f65442a25c6
+  - iprd-mx-la-voz-radio-101-3-xhabca-11d7e9c8
+streams:
+  - url: http://streaming.servicioswebmx.com/8286/stream
+    codec: MP3
+    bitrate: 224
+  - url: https://streaming.servicioswebmx.com/8286/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming.servicioswebmx.com/8286/stream
+    codec: MP3
+    bitrate: 128

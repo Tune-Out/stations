@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 04:47:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-519519dc-ba99-4052-8b2d-1d51a1f24690
-streams:
-  - url: 'https://play.ilovemusic.de/ilm_iloveradio/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://play.ilovemusic.de/ilm_iloveradio/?context=fHA6LTE=&aw_0_req.userConsentV2=undefined&aw_0_1st.playerid=ilovemusic_web'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,15 @@ research:
   format: Top 40 / contemporary hit radio; charts, dance, hip-hop, throwbacks
   notes: Commercial top-hits and pop music station operated by iLoveMusic, a German music entertainment company. Focuses on current chart hits, dance, hip-hop, and retrospective throwback content. Broadcast in German and English.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-519519dc-ba99-4052-8b2d-1d51a1f24690
+  - iprd-de-i-love-bass-by-ilovemusic-de-a38ecdfe
+  - iprd-de-i-love-radio-58c025fb
+streams:
+  - url: https://play.ilovemusic.de/ilm_iloveradio/
+    codec: MP3
+    bitrate: 192
+  - url: https://play.ilovemusic.de/ilm_iloveradio/?context=fHA6LTE=&aw_0_req.userConsentV2=undefined&aw_0_1st.playerid=ilovemusic_web
+    codec: MP3
+    bitrate: 192

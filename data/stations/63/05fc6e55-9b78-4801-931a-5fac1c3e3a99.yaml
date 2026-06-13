@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:56:58
 clickcount: 3
 geo_lat: 46.08466189789014
 geo_long: 14.484400749206545
-curation: -0.05
-provenance:
-  - radiobrowser-05fc6e55-9b78-4801-931a-5fac1c3e3a99
-streams:
-  - url: 'https://live.radio.si/Antena'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live.radioantena.si/Antena'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: Mix of pop, rock, and contemporary hits.
   notes: Licensed commercial FM station at 105.2 MHz in Ljubljana, Slovenia; part of broader Slovenian radio landscape.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-05fc6e55-9b78-4801-931a-5fac1c3e3a99
+  - iprd-si-radio-antena-105-2-2adb8be5
+  - iprd-si-radio-antena-105-2-0447433e
+streams:
+  - url: https://live.radio.si/Antena
+    codec: MP3
+    bitrate: 128
+  - url: http://live.radioantena.si/Antena
+    codec: MP3
+    bitrate: 128

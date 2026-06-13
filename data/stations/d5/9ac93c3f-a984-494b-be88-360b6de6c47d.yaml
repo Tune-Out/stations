@@ -12,17 +12,6 @@ language: []
 languagecodes:
   - en
 votes: 6
-curation: 0.35
-provenance:
-  - radiobrowser-9ac93c3f-a984-494b-be88-360b6de6c47d
-streams:
-  - url: 'http://newcap.leanstream.co/CJEGFM'
-    codec: AAC
-    bitrate: 133
-  - url: 'http://newcap.leanstream.co/CJEGFM'
-    codec: AAC
-    bitrate: 130
-  - url: 'http://newcap.leanstream.co/CJEGFM'
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -32,3 +21,15 @@ research:
   format: Hot adult contemporary; music-driven format with local news and community programming.
   notes: Licensed FM station in Bonnyville, Alberta. Part of NewCap broadcasting network. Branded "Hot" indicates adult contemporary hit radio format. Serves east-central Alberta region including Cold Lake area.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9ac93c3f-a984-494b-be88-360b6de6c47d
+  - iprd-ca-cjeg-kool-101-3-fm-3bf1bd11
+streams:
+  - url: http://newcap.leanstream.co/CJEGFM
+    codec: AAC
+    bitrate: 133
+  - url: http://newcap.leanstream.co/CJEGFM
+    codec: AAC
+    bitrate: 130
+  - url: http://newcap.leanstream.co/CJEGFM

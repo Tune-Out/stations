@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-96180a5c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streamer.psyradio.org:8020/;listen.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streamer.psyradio.org:8010/;listen.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,15 @@ research:
   format: Chillout and psychedelic ambient music programming
   notes: German-based non-commercial internet radio specializing in chillout and psychedelic ambient music; listener-supported streaming service; serves global audience interested in relaxation and psychedelic soundscapes
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-96180a5c-0601-11e8-ae97-52543be04c81
+  - iprd-de-psyradio-chillout-c6efb105
+  - iprd-de-psyradio-progressive-dec7c575
+streams:
+  - url: http://streamer.psyradio.org:8020/;listen.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://streamer.psyradio.org:8010/;listen.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:11:16
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-962a6637-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/crock_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strm112.1.fm/crock_mobile_mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 24/7 internet radio replaying classic rock hits primarily from the 1960s, 70s, and 80s.
   notes: 1.FM is a Swiss-based internet radio network founded in 1997 by Michael Levy that pioneered legal, licensed online streaming and operates dozens of themed channels (Absolute Top 40, Bay Smooth Jazz, Otto's Baroque, etc.). Classic Rock Replay is one of its longest-running channels. The network is headquartered in Zug and is one of the most-listened internet radio brands globally with millions of monthly listeners.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-962a6637-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-classic-rock-replay-radio-6e29fcdb
+streams:
+  - url: http://strm112.1.fm/crock_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strm112.1.fm/crock_mobile_mp3
+    codec: MP3
+    bitrate: 192

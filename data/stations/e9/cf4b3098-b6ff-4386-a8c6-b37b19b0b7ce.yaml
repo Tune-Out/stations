@@ -1,7 +1,7 @@
 stationuuid: cf4b3098-b6ff-4386-a8c6-b37b19b0b7ce
 name: Mundo Livre FM Maringá 102.5
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_MGAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_MGAAAC.aac
+url: 'https://24423.live.streamtheworld.com:443/MUNDOLIVRE_MGAAAC.aac'
+url_resolved: 'https://24423.live.streamtheworld.com:443/MUNDOLIVRE_MGAAAC.aac'
 homepage: https://mundolivrefm.com.br/
 favicon: https://mundolivrefm.com.br/favicon.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-02-12 01:21:05
 clickcount: 1
 geo_lat: -23.429969222600416
 geo_long: -51.96001052856446
-curation: 0.25
-provenance:
-  - radiobrowser-cf4b3098-b6ff-4386-a8c6-b37b19b0b7ce
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Alternative rock, indie rock, contemporary rock, artist-focused programming
   notes: Mundo Livre FM Maringá 102.5 is a Brazilian commercial radio station in Maringá, Paraná; specializes in alternative and indie rock; serves young adult audiences interested in independent and alternative music
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-cf4b3098-b6ff-4386-a8c6-b37b19b0b7ce

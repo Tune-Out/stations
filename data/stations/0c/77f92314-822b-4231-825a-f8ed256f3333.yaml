@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:32:39
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-77f92314-822b-4231-825a-f8ed256f3333
-streams:
-  - url: 'http://radio.toggo.de/live/mp3-192'
-    codec: MP3
-  - url: 'https://radio.toggo.de/live/mp3-192/radio.toggo.de/'
-    codec: MP3
-  - url: 'https://radio.toggo.de/live/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Children's music and entertainment programming; songs, stories, and kid-friendly content.
   notes: TOGGO Radio is the audio arm of German children's entertainment brand TOGGO, owned by Super RTL. Broadcasts music, stories, and entertainment specifically designed for children. Popular in Germany for family-friendly programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-77f92314-822b-4231-825a-f8ed256f3333
+  - iprd-de-toggo-radio-a116c5fd
+streams:
+  - url: http://radio.toggo.de/live/mp3-192
+    codec: MP3
+  - url: https://radio.toggo.de/live/mp3-192/radio.toggo.de/
+    codec: MP3
+  - url: https://radio.toggo.de/live/mp3-192
+    codec: MP3

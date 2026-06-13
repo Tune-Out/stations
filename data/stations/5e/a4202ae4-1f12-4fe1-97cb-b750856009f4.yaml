@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:48:59
 clickcount: 1
 geo_lat: -6.160972485642176
 geo_long: 106.81852424169804
-curation: 0.35
-provenance:
-  - radiobrowser-a4202ae4-1f12-4fe1-97cb-b750856009f4
-streams:
-  - url: 'https://i.klikhost.com/8266/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://i.klikhost.com:8266/stream/;'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: news, business, finance programming in Indonesian
   notes: Indonesian commercial FM radio station broadcasting from Jakarta specializing in business, finance, and news content. Targets Jakarta's business community and economically engaged listeners with Indonesian-language programming on current affairs and market information.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a4202ae4-1f12-4fe1-97cb-b750856009f4
+streams:
+  - url: https://i.klikhost.com/8266/stream
+    codec: AAC+
+    bitrate: 64
+  - url: http://i.klikhost.com:8266/stream/;
+    codec: AAC+
+    bitrate: 64

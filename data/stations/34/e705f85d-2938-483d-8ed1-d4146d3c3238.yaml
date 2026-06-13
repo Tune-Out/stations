@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:41:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e705f85d-2938-483d-8ed1-d4146d3c3238
-streams:
-  - url: 'http://ice5.securenetsystems.net/KNES'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice5.securenetsystems.net/KNES'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Contemporary hit radio / top 40
   notes: Broadcast on 99.1 FM; web presence at texas99.com
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e705f85d-2938-483d-8ed1-d4146d3c3238
+  - iprd-us-knes-texas-99-1-bf64960e
+streams:
+  - url: http://ice5.securenetsystems.net/KNES
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice5.securenetsystems.net/KNES
+    codec: AAC+
+    bitrate: 32

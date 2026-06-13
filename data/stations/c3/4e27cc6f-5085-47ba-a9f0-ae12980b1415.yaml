@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:25:56
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-4e27cc6f-5085-47ba-a9f0-ae12980b1415
-duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
-streams:
-  - url: 'http://drive.uber.radio/uber/crnigelkennedy/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crnigelkennedy/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crnigelkennedy/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Classical radio specialty channel dedicated to Nigel Kennedy (violinist) curated programming.
   notes: Part of Classical Radio World network offering genre-specific and artist-specific classical music streams. Focuses on works and interpretations related to renowned British violinist Nigel Kennedy.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-4e27cc6f-5085-47ba-a9f0-ae12980b1415
+duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
+streams:
+  - url: http://drive.uber.radio/uber/crnigelkennedy/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crnigelkennedy/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crnigelkennedy/icecast.audio
+    codec: MP3

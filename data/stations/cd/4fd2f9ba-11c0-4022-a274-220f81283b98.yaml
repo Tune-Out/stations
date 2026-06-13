@@ -1,7 +1,7 @@
 stationuuid: 4fd2f9ba-11c0-4022-a274-220f81283b98
 name: 538 Non-Stop
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+url: 'http://22323.live.streamtheworld.com:80/TLPSTR09.mp3'
+url_resolved: 'http://22323.live.streamtheworld.com:80/TLPSTR09.mp3'
 homepage: https://www.538.nl/
 favicon: https://raw.githubusercontent.com/wootje/radiotv/main/radio/logo/538nonstop.gif
 tags:
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 25
 geo_lat: 52.22426454366705
 geo_long: 5.174860954284669
-curation: -0.10
-provenance:
-  - radiobrowser-4fd2f9ba-11c0-4022-a274-220f81283b98
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: non-stop top 40 / contemporary hits radio; commercial hit music format
   notes: 538 Non-Stop is a commercial radio station in the Netherlands operated by Talpa Network. 538 is one of the Netherlands' most popular commercial radio brands, established in 1984. Specializes in top 40 and hit music format with wide mainstream appeal. "Non-Stop" variant emphasizes continuous hit music programming without lengthy talk segments.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-4fd2f9ba-11c0-4022-a274-220f81283b98

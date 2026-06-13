@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 02:10:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8ca793be-aef2-11e9-88f4-52543be04c81
-streams:
-  - url: 'http://rnrw.cast.addradio.de/rnrw-0140/deinoldieradio/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rnrw.cast.addradio.de/rnrw-0140/deinlounge/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rnrw.cast.addradio.de/rnrw-0140/deintop40/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rnrw.cast.addradio.de/rnrw-0140/deinrock/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +32,19 @@ research:
   format: Oldies music format; plays classic hits
   notes: Regional commercial radio station based in Bochum; part of ADD Radio network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8ca793be-aef2-11e9-88f4-52543be04c81
+streams:
+  - url: http://rnrw.cast.addradio.de/rnrw-0140/deinoldieradio/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://rnrw.cast.addradio.de/rnrw-0140/deinlounge/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://rnrw.cast.addradio.de/rnrw-0140/deintop40/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://rnrw.cast.addradio.de/rnrw-0140/deinrock/high/stream.mp3
+    codec: MP3
+    bitrate: 128

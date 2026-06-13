@@ -1,6 +1,6 @@
 stationuuid: 9648909e-0601-11e8-ae97-52543be04c81
 name: XEJP-FM "Joya 93.7" Mexico City, DF
-url: http://provisioning.streamtheworld.com/pls/XEJP_FMAAC.pls
+url: 'http://26223.live.streamtheworld.com:80/XEJP_FMAAC_SC'
 url_resolved: http://15313.live.streamtheworld.com/XEJP_FMAAC_SC
 homepage: http://joya937.mx/
 favicon: http://joya937.mx/favicon.ico
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648909e-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,7 @@ research:
   format: Contemporary pop and Latin music; urban and mainstream formats
   notes: FM radio station broadcasting in Mexico City at 93.7 frequency; commercial operation with contemporary music focus; serves metropolitan area
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648909e-0601-11e8-ae97-52543be04c81
+  - iprd-mx-joya-93-7-xejp-a07ab326

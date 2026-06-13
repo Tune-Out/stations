@@ -1,7 +1,7 @@
 stationuuid: fe6c00a2-cdc7-42a1-8410-03f83590f848
 name: WVPE-HD1 88.1 - NPR South Bend, IN (New AAC+ Stream)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/WVPEFMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/WVPEFMAAC.aac
+url: 'http://26423.live.streamtheworld.com:80/WVPEFMAAC.aac'
+url_resolved: 'http://26423.live.streamtheworld.com:80/WVPEFMAAC.aac'
 homepage: https://www.wvpe.org/
 favicon: https://www.wvpe.org/apple-touch-icon.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-fe6c00a2-cdc7-42a1-8410-03f83590f848
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -31,3 +28,6 @@ research:
   format: Talk and speech programming; NPR news, culture, and public affairs (HD2 dedicated to news)
   notes: WVPE 88.1 FM is a non-commercial public radio station affiliated with NPR, serving northern Indiana and southern Michigan. Multiple HD Radio channels for specialized programming.
   sources: https://www.wvpe.org/
+curation: 0.65
+provenance:
+  - radiobrowser-fe6c00a2-cdc7-42a1-8410-03f83590f848

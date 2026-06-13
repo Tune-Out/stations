@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-3c7cf41f-20a8-44fd-961b-f0245a762632
-streams:
-  - url: 'http://79.111.119.111:8000/darkpsytrance'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.39.202:8002/darkdubstep'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: 24/7 dark, deep, and experimental dubstep
   notes: One of dozens of genre-specific streams operated under the Radio Caprice umbrella, a long-running Russian non-commercial internet radio service that curates exhaustive per-genre stations across electronic, jazz, classical, folk, and other categories; streams are typically low-bitrate (here 48 kbps AAC+) and run automated music rotations without DJs or talk content; the project is widely catalogued in radio-browser and Streema directories.
   sources: internal knowledge of Radio Caprice / radcap.ru
+curation: 0.5
+provenance:
+  - radiobrowser-3c7cf41f-20a8-44fd-961b-f0245a762632
+streams:
+  - url: http://79.111.119.111:8000/darkpsytrance
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.39.202:8002/darkdubstep
+    codec: AAC+
+    bitrate: 48

@@ -1,6 +1,6 @@
 stationuuid: e7a67cb2-da41-4f74-9ad9-1cf3b860fd96
 name: WTAQ 97.5FM 1360AM
-url: https://provisioning.streamtheworld.com/pls/WTAQAM.pls
+url: 'http://18363.live.streamtheworld.com:80/WTAQAM_SC'
 url_resolved: http://18363.live.streamtheworld.com:3690/WTAQAM_SC
 homepage: https://wtaq.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2173/squareIcon.png?r=58993
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e7a67cb2-da41-4f74-9ad9-1cf3b860fd96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,8 @@ research:
   format: News, talk radio, and agriculture reporting
   notes: Twin-frequency station (1360 AM, 97.5 FM) serving Wisconsin since 1950s; notable programs include Morning News with Matt Z and Rob Sussman, Wisconsin Agriculture News; engaged in community programs like "Roofs of Gratitude" veteran support and PALS mentoring.
   sources: https://wtaq.com/
+curation: 0.35
+provenance:
+  - radiobrowser-e7a67cb2-da41-4f74-9ad9-1cf3b860fd96
+  - iprd-us-wtaq-1360-92-5-a1a2cf9c
+  - iprd-us-wtaq-news-radio-63d2d802

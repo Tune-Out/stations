@@ -19,21 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 9
 geo_lat: 52.50649780974137
 geo_long: 13.400402069091797
-curation: 0.35
-provenance:
-  - radiobrowser-df1045ec-c8ef-410f-b800-9a81cdf0d252
-streams:
-  - url: 'https://absolutradio.de/playlist/absolut-bella.m3u'
-    url_resolved: 'https://absolut-bella.live-sm.absolutradio.de/absolut-bella'
-    codec: AAC
-  - url: 'https://edge03.live-sm.absolutradio.de/absolut-bella'
-    codec: AAC
-  - url: 'https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://edge68.live-sm.absolutradio.de/absolut-bella/stream/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +28,18 @@ research:
   format: German Schlager, Discofox, and oldies music ("Die meisten Schlager, die besten Oldies")
   notes: Sister station to Absolut relax, Absolut HOT, Absolut TOP, and Absolut Oldie Classics in the Absolut Radio network; distributed nationwide via DAB+ across Germany and online streaming; weekday morning programming 6-10am and Saturday party blocks 8pm-midnight; Schlager duo Patrick Lindner and Claudia Jung previously hosted a Saturday afternoon show (currently on pause); the network's headquarters are in Munich.
   sources: https://de.wikipedia.org/wiki/Absolut_Bella, https://absolutradio.de/sender/bella, https://www.kathrein-ds.com/dab-radio/dab-senderliste-deutschland/bundesweit/absolut-bella
+curation: 0.35
+provenance:
+  - radiobrowser-df1045ec-c8ef-410f-b800-9a81cdf0d252
+streams:
+  - url: https://absolutradio.de/playlist/absolut-bella.m3u
+    url_resolved: https://absolut-bella.live-sm.absolutradio.de/absolut-bella
+    codec: AAC
+  - url: https://edge03.live-sm.absolutradio.de/absolut-bella
+    codec: AAC
+  - url: https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://edge68.live-sm.absolutradio.de/absolut-bella/stream/mp3
+    codec: MP3
+    bitrate: 128

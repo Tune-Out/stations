@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 25
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-96242832-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live.radioradicale.it/live.mp3'
-    codec: MP3
-  - url: 'https://live.radioradicale.it/live.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +32,12 @@ research:
   format: Talk radio focused on politics, civil liberties, parliamentary coverage, and political debate
   notes: Rome-based (Lazio). Historic Italian independent radio station known for covering political events and parliamentary proceedings. Associated with libertarian and radical left politics. Founded to provide alternative political perspective to mainstream Italian broadcasting. Archives political and social discussions.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-96242832-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-radicale-2a1e20b1
+streams:
+  - url: http://live.radioradicale.it/live.mp3
+    codec: MP3
+  - url: https://live.radioradicale.it/live.mp3
+    codec: MP3

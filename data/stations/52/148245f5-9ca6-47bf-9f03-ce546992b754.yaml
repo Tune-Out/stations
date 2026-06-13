@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:54:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-148245f5-9ca6-47bf-9f03-ce546992b754
-duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
-streams:
-  - url: 'http://drive.uber.radio/uber/crsimonrattle/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crsimonrattle/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crsimonrattle/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Classical music featuring conductor Simon Rattle and orchestral programming
   notes: Digital classical music streaming service; features genre-specific classical programming and curated conductor playlists
   sources: https://classicalradio.world/genre/63
+curation: 0.65
+provenance:
+  - radiobrowser-148245f5-9ca6-47bf-9f03-ce546992b754
+duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
+streams:
+  - url: http://drive.uber.radio/uber/crsimonrattle/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crsimonrattle/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crsimonrattle/icecast.audio
+    codec: MP3

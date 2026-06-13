@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:04:47
 clickcount: 1
 geo_lat: 44.43086704853801
 geo_long: -81.39358520507814
-curation: 0.35
-provenance:
-  - radiobrowser-2fe02292-19c5-48d5-820f-b5f415c7d9ae
-streams:
-  - url: 'http://bayshore-ais.leanstream.co/CFPSFM'
-    codec: AAC
-    bitrate: 63
-  - url: 'http://bayshore-ais.leanstream.co/CFPSFM-MP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Active rock, classic and new rock; local news and sports
   notes: Licensed Canadian radio station 97.9 FM; covers Bruce County and surrounding areas; local news and community information
   sources: https://www.rockthebruce.ca/
+curation: 0.35
+provenance:
+  - radiobrowser-2fe02292-19c5-48d5-820f-b5f415c7d9ae
+streams:
+  - url: http://bayshore-ais.leanstream.co/CFPSFM
+    codec: AAC
+    bitrate: 63
+  - url: http://bayshore-ais.leanstream.co/CFPSFM-MP3
+    codec: MP3
+    bitrate: 128

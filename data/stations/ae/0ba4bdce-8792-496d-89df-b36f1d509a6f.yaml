@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-0ba4bdce-8792-496d-89df-b36f1d509a6f
-streams:
-  - url: 'https://liveradio.swr.de/sw331ch/swr4tr/'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://liveradio.swr.de/sw331ch/swr4tr/'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -38,3 +28,13 @@ research:
   format: Regional music service with information, service programs, and music spanning decades
   notes: Part of SWR4 network of six public radio channels, broadcasts on FM and DAB from Trier serving Rhineland-Palatinate
   sources: https://www.swr.de/, internal knowledge
+curation: 0.65
+provenance:
+  - radiobrowser-0ba4bdce-8792-496d-89df-b36f1d509a6f
+streams:
+  - url: https://liveradio.swr.de/sw331ch/swr4tr/
+    codec: AAC
+    bitrate: 128
+  - url: https://liveradio.swr.de/sw331ch/swr4tr/
+    codec: AAC
+    bitrate: 96

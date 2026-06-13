@@ -1,6 +1,6 @@
 stationuuid: 9645bfe8-0601-11e8-ae97-52543be04c81
 name: WQXK 105.1 "K 105" Salem, OH
-url: http://provisioning.streamtheworld.com/pls/WQXKFMAAC.pls
+url: 'http://26283.live.streamtheworld.com:80/WQXKFMAAC_SC'
 url_resolved: http://26733.live.streamtheworld.com/WQXKFMAAC_SC
 homepage: http://www.k105country.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3311/squareIcon.png?r=95927
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:40:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9645bfe8-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music with contest programming and local event coverage.
   notes: WQXK 105.1 "K 105" licensed FCC station operated by Cumulus Media (publicly traded company). Programming includes live shows, contests, and promotion of local venues and regional summer events. Station emphasizes community engagement through event coverage and audience participation.
   sources: http://www.k105country.com/
+curation: 0.35
+provenance:
+  - radiobrowser-9645bfe8-0601-11e8-ae97-52543be04c81

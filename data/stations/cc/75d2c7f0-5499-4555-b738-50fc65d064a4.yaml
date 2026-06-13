@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 06:22:12
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-75d2c7f0-5499-4555-b738-50fc65d064a4
-streams:
-  - url: 'https://deutschrap-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://deutschrap-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: 24/7 German-language hip-hop / rap stream ("Deutschrap"), curated playlist of contemporary and classic German rap artists with limited moderation.
   notes: RauteMusik (rm.fm) launched in 2003 as a non-profit hobby project and grew into one of Germany's largest webradio networks, now operated as RauteMusik GmbH with more than 30 themed channels including Top40, Rock, Trance, Schlager and this Deutschrap stream. The network is privately owned, funded by advertising and a voluntary Plus subscription, and operates from Aachen with studios in Cologne (North Rhine-Westphalia). It has been a recurring nominee in webradio rankings (e.g. "Deutscher Webradiopreis"). No religious or political affiliations are publicly known.
   sources: https://www.rm.fm/, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-75d2c7f0-5499-4555-b738-50fc65d064a4
+streams:
+  - url: https://deutschrap-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://deutschrap-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

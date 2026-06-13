@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:07:14
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4c299f07-c91a-4cc0-b524-43b3712e774d
-streams:
-  - url: 'https://centova.ipstream.it/proxy/megamix80/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://centova.ipstream.it/proxy/megamix80/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: 1980s hits and classic hits programming; megamix format combining multiple era songs
   notes: Italian commercial radio station; "megamix80" format focuses on 1980s music; streams via IPstream platform; Italian-language programming; no known religious, political, or governmental affiliations
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4c299f07-c91a-4cc0-b524-43b3712e774d
+streams:
+  - url: https://centova.ipstream.it/proxy/megamix80/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://centova.ipstream.it/proxy/megamix80/stream
+    codec: MP3
+    bitrate: 192

@@ -23,16 +23,6 @@ lastchangetime: 2026-03-06 18:37:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-391935f9-56f8-4a9a-9a31-47db3b36acec
-streams:
-  - url: 'http://stream.audioxi.com/NOVA'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.audioxi.com/NOVA?aw_0_1st.playerid=liveradio.ie'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Pop, rock, easy listening, contemporary hits; traditional Irish content
   notes: Independent commercial radio broadcaster in Ireland, known for pop and rock programming with strong Irish and traditional music elements.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-391935f9-56f8-4a9a-9a31-47db3b36acec
+  - iprd-ie-radio-nova-0349a6b7
+streams:
+  - url: http://stream.audioxi.com/NOVA
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.audioxi.com/NOVA?aw_0_1st.playerid=liveradio.ie
+    codec: MP3
+    bitrate: 128

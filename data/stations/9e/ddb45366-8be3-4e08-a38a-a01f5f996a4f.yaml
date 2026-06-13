@@ -30,16 +30,6 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 3
 geo_lat: 24.80087928574327
 geo_long: -107.39281654357912
-curation: -0.10
-provenance:
-  - radiobrowser-ddb45366-8be3-4e08-a38a-a01f5f996a4f
-streams:
-  - url: 'https://sp2.servidorrprivado.com:10859/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://sp2.servidorrprivado.com:10859/stream?type=http&nocache=9'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +39,13 @@ research:
   format: Adult hits, classic hits, variety music (80s/90s/2000s) and entertainment
   notes: Commercial FM radio station at 96.9 FM in Culiacán, Sinaloa. Part of Grupo Vibra network. Broadcasts variety of music from 80s-2000s and entertainment programming for northern Mexico.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-ddb45366-8be3-4e08-a38a-a01f5f996a4f
+streams:
+  - url: https://sp2.servidorrprivado.com:10859/stream
+    codec: MP3
+    bitrate: 64
+  - url: https://sp2.servidorrprivado.com:10859/stream?type=http&nocache=9
+    codec: MP3
+    bitrate: 64

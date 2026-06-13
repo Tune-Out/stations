@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 02:17:08
 clickcount: 0
 geo_lat: 22.77677751161396
 geo_long: -102.57256507873537
-curation: -0.05
-provenance:
-  - radiobrowser-0300327c-5ea4-4a1e-9500-1033bd77d448
-streams:
-  - url: 'https://cast.zuperdns.net/8002/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast.zuperdns.net/8002/stream/'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Balada/Romantic music in Spanish, 80s Spanish hits, Pop Latino
   notes: XHZAZ-FM operates as AMOR es 99.3 FM in Zacatecas, owned by Grupo ZER. Specializes in Spanish-language romantic ballads (baladas), 80s nostalgia hits, and Latin pop. Part of a Mexican commercial radio group with regional presence.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0300327c-5ea4-4a1e-9500-1033bd77d448
+streams:
+  - url: https://cast.zuperdns.net/8002/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://cast.zuperdns.net/8002/stream/
+    codec: MP3
+    bitrate: 64

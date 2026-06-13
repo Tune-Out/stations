@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:33:28
 clickcount: 1
 geo_lat: 45.58612500759594
 geo_long: -62.64129638671876
-curation: -0.05
-provenance:
-  - radiobrowser-cc72ddc9-377e-4a78-b9fa-d4a66198cec1
-streams:
-  - url: 'https://newcap.leanstream.co/CKEZFM'
-    codec: AAC
-    bitrate: 132
-  - url: 'https://newcap.leanstream.co/CKEZFM'
-    codec: AAC
-    bitrate: 130
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Active rock and classic rock programming; recently rebranded with new format
   notes: CKEZ-FM operates as "Q97.9" in New Glasgow, Nova Scotia; commercial station broadcasting active and classic rock music; part of Stingray Media network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cc72ddc9-377e-4a78-b9fa-d4a66198cec1
+  - iprd-ca-ckez-z97-9-e9065061
+streams:
+  - url: https://newcap.leanstream.co/CKEZFM
+    codec: AAC
+    bitrate: 132
+  - url: https://newcap.leanstream.co/CKEZFM
+    codec: AAC
+    bitrate: 130

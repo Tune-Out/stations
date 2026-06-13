@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-f956de7a-cf01-49d3-8acf-45a25e5bdf5e
-streams:
-  - url: 'https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio'
-    codec: OGG
-  - url: 'https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio'
-    codec: AAC+
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -36,3 +28,11 @@ research:
   format: Eclectic, ad-free music radio without strict genre boundaries
   notes: This entry is the 192 kbps AAC-LC stream of Djam Radio, a French independent internet radio relaunched as "Le new Djam" with the tagline "La radio de retour dans vos oreilles (sans pub)" ("Radio back in your ears, without ads"); distributed via web, iOS/Android apps and RadioPlayer France; engages a "Djam'bassadeurs" listener-ambassador community with an interactive map and discussion forums; no religious, governmental or political ties are disclosed.
   sources: https://www.djam.radio/, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-f956de7a-cf01-49d3-8acf-45a25e5bdf5e
+streams:
+  - url: https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
+    codec: OGG
+  - url: https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
+    codec: AAC+

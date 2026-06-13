@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:32:00
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b9d4fc70-a132-4556-8cfb-919aeccaaa11
-duplicate_of: 1dc6efa7-139b-4314-a990-dc954f55ed67
-streams:
-  - url: 'https://drive.uber.radio/uber/crvivaldi/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crvivaldi/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crvivaldi/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Classical music, curated Vivaldi and classical repertoire
   notes: Classical Radio - Vivaldi is part of Audio Addict's classical music streaming service. Specializes in classical music programming including works by Vivaldi and other classical composers. Hosted in UAE.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b9d4fc70-a132-4556-8cfb-919aeccaaa11
+duplicate_of: 1dc6efa7-139b-4314-a990-dc954f55ed67
+streams:
+  - url: https://drive.uber.radio/uber/crvivaldi/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crvivaldi/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crvivaldi/icecast.audio
+    codec: MP3

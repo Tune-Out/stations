@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-715d4344-2de2-4014-ad6b-06c13f3a4e4d
-streams:
-  - url: 'http://46.4.40.246:9195/stream'
-    codec: MP3
-    bitrate: 32
-  - url: 'https://albireo.shoutca.st/tunein/starcrea.asx'
-    url_resolved: 'http://46.4.40.246:9195/stream'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +29,14 @@ research:
   format: Old time radio (OTR) archives; classic radio programs and crime drama broadcasts from 1930s-1950s
   notes: Crimetime streams archive programming of classic old-time radio crime dramas and detective shows. Part of OTR Now (otrnow.com), dedicated to preserving and broadcasting historical American radio broadcasts. Features vintage programs from the Golden Age of Radio, appealing to radio history enthusiasts and nostalgia audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-715d4344-2de2-4014-ad6b-06c13f3a4e4d
+streams:
+  - url: http://46.4.40.246:9195/stream
+    codec: MP3
+    bitrate: 32
+  - url: https://albireo.shoutca.st/tunein/starcrea.asx
+    url_resolved: http://46.4.40.246:9195/stream
+    codec: MP3
+    bitrate: 32

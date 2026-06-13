@@ -20,18 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-87d4f034-07d0-4d80-b185-1e29fc0ce445
-streams:
-  - url: 'https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8'
-    codec: AAC+
-    bitrate: 128
-    hls: true
-  - url: 'https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8'
-    codec: AAC+
-    bitrate: 127
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +29,15 @@ research:
   format: electronic music, dance music, house, techno
   notes: Danceland is a Turkish-language electronic music station hosted on radyotvonline.net infrastructure. Emphasizes dance and electronic music genres. Part of the Moon Digital and Radyo TV Online streaming ecosystem serving Turkish audiences.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-87d4f034-07d0-4d80-b185-1e29fc0ce445
+streams:
+  - url: https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
+    codec: AAC+
+    bitrate: 128
+    hls: true
+  - url: https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
+    codec: AAC+
+    bitrate: 127
+    hls: true

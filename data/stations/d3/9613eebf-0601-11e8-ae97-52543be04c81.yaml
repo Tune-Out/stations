@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:08:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9613eebf-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://generations-booba.ice.infomaniak.ch/generations-booba.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://generations-booba.ice.infomaniak.ch/generations-booba.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Hip-hop, rap, contemporary urban music
   notes: Generations Booba is a specialty stream from French radio network Générations; named after prominent French rapper Booba, specializing in hip-hop/rap music
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9613eebf-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-booba-73c03b40
+  - iprd-fr-generations-booba-75f26e91
+streams:
+  - url: http://generations-booba.ice.infomaniak.ch/generations-booba.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://generations-booba.ice.infomaniak.ch/generations-booba.mp3
+    codec: MP3
+    bitrate: 128

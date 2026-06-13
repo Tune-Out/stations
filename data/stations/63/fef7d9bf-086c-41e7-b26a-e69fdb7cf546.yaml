@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 07:58:24
 clickcount: 8
 geo_lat: 49.47742518313847
 geo_long: 8.426127433776857
-curation: -0.10
-provenance:
-  - radiobrowser-fef7d9bf-086c-41e7-b26a-e69fdb7cf546
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-bw-128-aac?usid=0-0-H-A-D-30'
-    codec: AAC
-  - url: 'https://stream.bigfm.de/bw/mp3-128/radio-browser'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/dnb-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-bw-128-aac'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +32,18 @@ research:
   format: Contemporary hit radio (CHR); pop, dance, hip-hop, party music; 30+ themed music streams including throwback, charts, party, dance
   notes: Commercial German radio station branded as "Deutschlands biggste Beats" (Germany's biggest beats). Operates FM broadcasts and multiple streaming platforms. bigFM Morningshow is flagship program. Free mobile app with extensive music streaming library.
   sources: https://www.bigfm.de/
+curation: -0.1
+provenance:
+  - radiobrowser-fef7d9bf-086c-41e7-b26a-e69fdb7cf546
+  - iprd-de-big-fm-baden-w-rttemberg-468906c6
+  - iprd-de-big-fm-baden-w-rttemberg-e440d68a
+  - iprd-de-big-fm-baden-w-rttemberg-ba2c0c71
+streams:
+  - url: http://streams.bigfm.de/bigfm-bw-128-aac?usid=0-0-H-A-D-30
+    codec: AAC
+  - url: https://stream.bigfm.de/bw/mp3-128/radio-browser
+    codec: AAC
+  - url: http://streams.bigfm.de/dnb-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-bw-128-aac
+    codec: MP3

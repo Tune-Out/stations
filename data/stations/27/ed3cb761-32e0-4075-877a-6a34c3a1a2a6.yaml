@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 2
 geo_lat: -34.58935412391507
 geo_long: -58.42391967773438
-curation: -0.05
-provenance:
-  - radiobrowser-ed3cb761-32e0-4075-877a-6a34c3a1a2a6
-streams:
-  - url: 'https://27603.live.streamtheworld.com/POP_PYTAAC.aac?'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://27573.live.streamtheworld.com/ENAMORADOS_PYTAAC.aac?'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Adult contemporary; classic romantic hits and nostalgia programming ("Enamorados" = in love/lovers).
   notes: Commercial station part of Cien Radios network in Argentina. "Enamorados" stream targets romantic/nostalgic adult audiences with classic hits from 1970s-2000s. Based in Buenos Aires.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ed3cb761-32e0-4075-877a-6a34c3a1a2a6
+streams:
+  - url: https://27603.live.streamtheworld.com/POP_PYTAAC.aac?
+    codec: AAC+
+    bitrate: 128
+  - url: https://27573.live.streamtheworld.com/ENAMORADOS_PYTAAC.aac?
+    codec: AAC+
+    bitrate: 96

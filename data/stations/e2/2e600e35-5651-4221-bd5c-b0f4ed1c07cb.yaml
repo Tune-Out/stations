@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 00:15:22
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-2e600e35-5651-4221-bd5c-b0f4ed1c07cb
-streams:
-  - url: 'http://drive.uber.radio/uber/crchopin/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crchopin/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +31,11 @@ research:
   format: Classical music, Chopin-focused stream
   notes: Internet-based streaming service operating through the You.radio platform; minimal verifiable information available online
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-2e600e35-5651-4221-bd5c-b0f4ed1c07cb
+streams:
+  - url: http://drive.uber.radio/uber/crchopin/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crchopin/icecast.audio
+    codec: MP3

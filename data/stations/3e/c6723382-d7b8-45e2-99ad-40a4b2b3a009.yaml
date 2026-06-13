@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:51:52
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c6723382-d7b8-45e2-99ad-40a4b2b3a009
-streams:
-  - url: 'https://rhema-radio.streamguys1.com/rhema-sanctuary.aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Worship and Christian music programming; contemporary Christian content and devotional materials
   notes: New Zealand-based Christian worship station operated by Rhema Media (evangelical broadcaster); emphasis on Christian worship music and spiritual programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c6723382-d7b8-45e2-99ad-40a4b2b3a009
+streams:
+  - url: https://rhema-radio.streamguys1.com/rhema-sanctuary.aac
+    codec: AAC
+    bitrate: 64
+  - url: https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3
+    codec: MP3
+    bitrate: 96

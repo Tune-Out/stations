@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-fb19cfc3-4839-11ea-a860-52543be04c81
-streams:
-  - url: 'http://pu.klikhost.com:8052/'
-    codec: MP3
-    bitrate: 48
-  - url: 'http://pu.klikhost.com:8052/stream/1/'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: religious
@@ -40,3 +30,14 @@ research:
   format: Islamic talk and dakwah (preaching) with religious lectures, Quran study, family/parenting, business ethics, and nasheed/Islamic music
   notes: Suara Muslim Surabaya broadcasts on FM 93.8 MHz from Jl. Dinoyo 57, Surabaya (East Java, Indonesia). It positions itself as "The Best Religious Radio Network" with the tagline "Menyimak Ilmu di Suara Muslim" (Listening to Knowledge at Suara Muslim). Programming centers on Islamic education, dakwah lectures, family and economic guidance from Sharia perspectives, and contemporary issues from an Islamic viewpoint. The station has expanded across multiple platforms (streaming, YouTube, Spotify, mobile apps) and runs community events. Its tone is generally moderate-conservative mainstream Sunni Islam.
   sources: http://suaramuslim.net/, internal knowledge
+curation: 0.45
+provenance:
+  - radiobrowser-fb19cfc3-4839-11ea-a860-52543be04c81
+  - iprd-id-suara-muslim-93-8-8d432851
+streams:
+  - url: http://pu.klikhost.com:8052/
+    codec: MP3
+    bitrate: 48
+  - url: http://pu.klikhost.com:8052/stream/1/
+    codec: MP3
+    bitrate: 48

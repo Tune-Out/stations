@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-23ee9e6c-76ea-11e9-8b97-52543be04c81
-streams:
-  - url: 'http://dreamsiteradiocp.com:8020/stream'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://dreamsiteradiocp2.com:8106/stream'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,15 @@ research:
   format: Talk, religious programming, Catholic teaching and music
   notes: Non-commercial Catholic radio station part of Radio Maria network, an international religious broadcaster. Based in Zürich, broadcasts in German.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-23ee9e6c-76ea-11e9-8b97-52543be04c81
+  - iprd-ch-radio-maria-switzerland-c18aa272
+  - iprd-ch-radio-maria-switzerland-2bb8e6b5
+streams:
+  - url: http://dreamsiteradiocp.com:8020/stream
+    codec: AAC+
+    bitrate: 128
+  - url: http://dreamsiteradiocp2.com:8106/stream
+    codec: AAC+
+    bitrate: 128

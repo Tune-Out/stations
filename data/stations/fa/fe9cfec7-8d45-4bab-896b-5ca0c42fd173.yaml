@@ -22,18 +22,6 @@ lastchangetime: 2026-03-13 02:28:20
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-fe9cfec7-8d45-4bab-896b-5ca0c42fd173
-streams:
-  - url: 'https://somafm.com/insound130.pls'
-    url_resolved: 'https://ice5.somafm.com/insound-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/insound256.pls'
-    url_resolved: 'https://ice4.somafm.com/insound-256-mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +31,15 @@ research:
   format: Euro and pop music specialization with curated programming.
   notes: SomaFM is a listener-supported non-commercial internet radio network based in San Francisco. "The In-Sound" is a curated channel featuring European pop and contemporary pop music. High bitrate (256 kbps) stream available.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-fe9cfec7-8d45-4bab-896b-5ca0c42fd173
+streams:
+  - url: https://somafm.com/insound130.pls
+    url_resolved: https://ice5.somafm.com/insound-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/insound256.pls
+    url_resolved: https://ice4.somafm.com/insound-256-mp3
+    codec: MP3
+    bitrate: 256

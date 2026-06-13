@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:31:29
 clickcount: 2
 geo_lat: 47.141537996380144
 geo_long: 8.420638048618187
-curation: -0.05
-provenance:
-  - radiobrowser-a80bd23d-9bd2-43f7-8e2c-205695451589
-streams:
-  - url: 'https://stream.streambase.ch/rcentral/mp3-192/direct/'
-    codec: MP3
-  - url: 'https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762'
-    codec: MP3
-  - url: 'https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Local radio programming.
   notes: Swiss local radio station; broadcasts in Swiss German language.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a80bd23d-9bd2-43f7-8e2c-205695451589
+  - iprd-ch-radio-central-a6d24223
+  - iprd-ch-radio-central-48b92f2a
+streams:
+  - url: https://stream.streambase.ch/rcentral/mp3-192/direct/
+    codec: MP3
+  - url: https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762
+    codec: MP3
+  - url: https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/
+    codec: MP3

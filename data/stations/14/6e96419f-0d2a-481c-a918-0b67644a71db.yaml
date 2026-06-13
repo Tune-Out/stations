@@ -20,20 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6e96419f-0d2a-481c-a918-0b67644a71db
-streams:
-  - url: 'https://station.thecheese.co.nz/listen/the_cheese/flac'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://station.thecheese.co.nz/hls/the_cheese/live.m3u8'
-    codec: AAC
-    bitrate: 52
-    hls: true
-  - url: 'https://station.thecheese.co.nz/listen/the_cheese/128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +29,17 @@ research:
   format: Gen X and classic hits music
   notes: Commercial New Zealand radio station based in Hutt Valley, Wellington. Targets Generation X audience with music from 1970s-1990s era.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6e96419f-0d2a-481c-a918-0b67644a71db
+streams:
+  - url: https://station.thecheese.co.nz/listen/the_cheese/flac
+    codec: OGG
+    bitrate: 128
+  - url: https://station.thecheese.co.nz/hls/the_cheese/live.m3u8
+    codec: AAC
+    bitrate: 52
+    hls: true
+  - url: https://station.thecheese.co.nz/listen/the_cheese/128.mp3
+    codec: MP3
+    bitrate: 128

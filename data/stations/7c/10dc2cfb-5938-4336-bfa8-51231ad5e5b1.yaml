@@ -1,6 +1,6 @@
 stationuuid: 10dc2cfb-5938-4336-bfa8-51231ad5e5b1
 name: Hitrádio City 93.7 FM
-url: https://provisioning.streamtheworld.com/pls/HITRADIO_CITY_PRAHA.pls
+url: 'http://28503.live.streamtheworld.com:80/HITRADIO_CITY_PRAHA_SC'
 url_resolved: http://25443.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC
 homepage: https://hitradiocity.cz/
 favicon: https://hitradiocity.cz/design/favicons/apple-icon-120x120.png
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-10dc2cfb-5938-4336-bfa8-51231ad5e5b1
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Commercial contemporary hit radio with pop and entertainment.
   notes: Part of the Czech commercial radio landscape. Hitrádio City targets Prague listeners with contemporary pop and entertainment programming. One of the Hitrádio network stations in the Czech Republic.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-10dc2cfb-5938-4336-bfa8-51231ad5e5b1

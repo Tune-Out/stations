@@ -1,6 +1,6 @@
 stationuuid: 96416cf3-0601-11e8-ae97-52543be04c81
 name: WWVR "98.5 The River" Paris, IL
-url: http://provisioning.streamtheworld.com/pls/WWVRFMAAC.pls
+url: 'http://18513.live.streamtheworld.com:80/WWVRFMAAC_SC'
 url_resolved: http://19303.live.streamtheworld.com:3690/WWVRFMAAC_SC
 homepage: http://985theriver.com/
 favicon: https://media.socastsrm.com/uploads/station/2111/home_screen_logo-5e343995f0850.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:22:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96416cf3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: classic rock music and programming
   notes: 98.5 FM serving Paris, Illinois and surrounding Champaign-Urbana and Terre Haute regions
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96416cf3-0601-11e8-ae97-52543be04c81

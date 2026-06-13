@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:28:17
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9624f04a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live.westcityradio.ro:8000/mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radiotrucker.com/en/play/west-city-radio'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,14 @@ research:
   format: local news (Știrile zilei), interview/talk shows (West Side Story), oldies and pop music
   notes: Explicitly self-described as "un radio pentru Timișoara" (a radio for Timișoara); city-focused community station with podcasts, programming schedule, and code of conduct
   sources: http://www.westcityradio.ro/
+curation: 0.35
+provenance:
+  - radiobrowser-9624f04a-0601-11e8-ae97-52543be04c81
+  - iprd-ro-west-city-radio-88-8-efa6e37e
+streams:
+  - url: http://live.westcityradio.ro:8000/mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://radiotrucker.com/en/play/west-city-radio
+    codec: MP3
+    bitrate: 192

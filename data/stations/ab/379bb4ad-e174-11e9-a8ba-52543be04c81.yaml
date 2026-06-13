@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-379bb4ad-e174-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://stream.antenne1.de/plus/livestream1.aac'
-    codec: AAC
-  - url: 'http://stream.antenne1.de/plus/livestream2.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: contemporary radio format
   notes: Antenne 1 Plus is a variant of the Antenne 1 commercial radio network in Germany. Metadata incomplete (country field empty) but homepage confirms German domain.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-379bb4ad-e174-11e9-a8ba-52543be04c81
+streams:
+  - url: http://stream.antenne1.de/plus/livestream1.aac
+    codec: AAC
+  - url: http://stream.antenne1.de/plus/livestream2.mp3
+    codec: MP3

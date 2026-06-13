@@ -1,6 +1,6 @@
 stationuuid: 96152bfa-0601-11e8-ae97-52543be04c81
 name: WVLI 92.7 "The Valley" Kankakee, IL
-url: http://provisioning.streamtheworld.com/pls/WVLIFMAAC.pls
+url: 'http://18063.live.streamtheworld.com:80/WVLIFMAAC_SC'
 url_resolved: http://18063.live.streamtheworld.com:3690/WVLIFMAAC_SC
 homepage: http://www.wvli927.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2460/squareIcon.png?r=68642
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:59:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96152bfa-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Oldies music format
   notes: WVLI 92.7 FM "The Valley"; commercial oldies station serving Kankakee area
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96152bfa-0601-11e8-ae97-52543be04c81
+  - iprd-us-wvli-92-7-the-valley-bef83b5d

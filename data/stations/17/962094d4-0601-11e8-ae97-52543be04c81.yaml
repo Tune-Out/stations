@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:00:00
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-962094d4-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://cfnjzp.mine.nu:9700/'
-    codec: AAC+
-    bitrate: 80
-  - url: 'http://66.70.178.194:9700/stream'
-    codec: AAC+
-    bitrate: 80
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,15 @@ research:
   format: Community radio programming
   notes: CFNJ operates as a community radio station licensed to broadcast on 99.1 FM; serves the Haut-Matawinie region of Quebec
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-962094d4-0601-11e8-ae97-52543be04c81
+  - iprd-ca-cfnj-99-1-a7b865c9
+  - iprd-ca-cfnj-99-1-b1caf49d
+streams:
+  - url: http://cfnjzp.mine.nu:9700/
+    codec: AAC+
+    bitrate: 80
+  - url: http://66.70.178.194:9700/stream
+    codec: AAC+
+    bitrate: 80

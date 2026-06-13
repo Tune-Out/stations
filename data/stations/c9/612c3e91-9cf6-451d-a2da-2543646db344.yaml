@@ -19,31 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-612c3e91-9cf6-451d-a2da-2543646db344
-streams:
-  - url: 'http://hirschmilch.de:7000/chillout.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://hirschmilch.de:7501/electronic.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://hirschmilch.de:7001/chillout.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://hirschmilch.de:7501/progressive.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://hirschmilch.de:7000/progressive.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://hirschmilch.de:7501/chillout.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://hirschmilch.de:7501/hypnotic.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -53,3 +28,28 @@ research:
   format: Chillout, ambient, and relaxing electronic music programming.
   notes: Hirschmilch Radio is a German internet radio network offering specialized music channels. The Chillout channel focuses on ambient, downtempo, and relaxation music designed for background listening and unwinding.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-612c3e91-9cf6-451d-a2da-2543646db344
+streams:
+  - url: http://hirschmilch.de:7000/chillout.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://hirschmilch.de:7501/electronic.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://hirschmilch.de:7001/chillout.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://hirschmilch.de:7501/progressive.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://hirschmilch.de:7000/progressive.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://hirschmilch.de:7501/chillout.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://hirschmilch.de:7501/hypnotic.mp3
+    codec: MP3
+    bitrate: 128

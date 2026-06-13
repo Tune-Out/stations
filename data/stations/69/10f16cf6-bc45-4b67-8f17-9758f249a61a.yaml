@@ -23,25 +23,6 @@ lastchangetime: 2026-01-15 02:39:23
 clickcount: 64
 geo_lat: 52.4802578
 geo_long: 13.3347639
-curation: 0.60
-provenance:
-  - radiobrowser-10f16cf6-bc45-4b67-8f17-9758f249a61a
-streams:
-  - url: 'https://st02.sslstream.dlf.de/dlf/02/high/opus/stream.opus?aggregator=web'
-    codec: OGG
-    bitrate: 64
-  - url: 'https://st02.sslstream.dlf.de/dlf/02/low/opus/stream.opus?aggregator=web'
-    codec: OGG
-    bitrate: 24
-  - url: 'https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -51,3 +32,22 @@ research:
   format: ad-free public-service cultural radio - features, radio drama, classical and jazz music, literature, philosophy, religion, politics and in-depth cultural journalism
   notes: Deutschlandfunk Kultur (DLF Kultur), based in Berlin's Funkhaus Hans-Rosenthal-Platz, is one of three nationwide programmes of Deutschlandradio alongside Deutschlandfunk (Cologne) and Deutschlandfunk Nova; created in 1994 by the merger of DeutschlandRadio Berlin (formerly RIAS 1 and parts of DS Kultur of the former GDR) and renamed Deutschlandradio Kultur in 2005 and Deutschlandfunk Kultur in 2017; broadcasts 24/7 via FM, DAB+, satellite and streaming, with signature programmes including Studio 9, Lesart, Zeitfragen, Tonart, Kakadu (children's), Religionen, and the long-running Hörspiel (radio drama) slot; operates under the Deutschlandradio-Staatsvertrag (interstate treaty) which obliges it to "umfassend informieren" (provide comprehensive information) free of commercial advertising.
   sources: internal knowledge (homepage returned HTTP 403)
+curation: 0.55
+provenance:
+  - radiobrowser-10f16cf6-bc45-4b67-8f17-9758f249a61a
+streams:
+  - url: https://st02.sslstream.dlf.de/dlf/02/high/opus/stream.opus?aggregator=web
+    codec: OGG
+    bitrate: 64
+  - url: https://st02.sslstream.dlf.de/dlf/02/low/opus/stream.opus?aggregator=web
+    codec: OGG
+    bitrate: 24
+  - url: https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 192
+  - url: https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 96
+  - url: https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
+    codec: MP3
+    bitrate: 128

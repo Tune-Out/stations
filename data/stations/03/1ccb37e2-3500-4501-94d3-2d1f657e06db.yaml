@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 00:00:02
 clickcount: 1
 geo_lat: 43.91900341335564
 geo_long: -80.09732723236085
-curation: -0.05
-provenance:
-  - radiobrowser-1ccb37e2-3500-4501-94d3-2d1f657e06db
-streams:
-  - url: 'https://evanov.leanstream.co/CIDCFM'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://evanov.leanstream.co/CIDCFM'
-    codec: AAC+
-    bitrate: 47
-  - url: 'https://evanov.leanstream.co/CIDCFM?args=web_01'
-    codec: AAC+
-    bitrate: 47
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +30,16 @@ research:
   format: Rhythmic contemporary hits, CHR format; current pop and urban music
   notes: CIDC-FM licensed as Z-103.5 serving Orangeville, Ontario; commercial CHR (Contemporary Hits Radio) format; operated by Evanov Radio Broadcasting
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1ccb37e2-3500-4501-94d3-2d1f657e06db
+streams:
+  - url: https://evanov.leanstream.co/CIDCFM
+    codec: AAC+
+    bitrate: 48
+  - url: https://evanov.leanstream.co/CIDCFM
+    codec: AAC+
+    bitrate: 47
+  - url: https://evanov.leanstream.co/CIDCFM?args=web_01
+    codec: AAC+
+    bitrate: 47

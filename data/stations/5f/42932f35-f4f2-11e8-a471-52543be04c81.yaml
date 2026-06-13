@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 01:08:58
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-42932f35-f4f2-11e8-a471-52543be04c81
-streams:
-  - url: 'https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'http://icstream.rds.radio/rdsrelax'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Easy-listening / chill — soft pop, acoustic, mellow international hits with minimal talk
   notes: RDS Relax is one of RDS's branded webradio extensions; RDS (Radio Dimensione Suono) is one of Italy's largest national private commercial radio networks, founded in Rome in 1978 (officially national since 1979) and historically tied to the Montefusco/Suraci family; the "Relax" stream specialises in soft, low-tempo music programmed for a relaxed listening atmosphere, distributed via the rds.radio HLS platform without traditional FM coverage.
   sources: https://rdsrelax.it/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-42932f35-f4f2-11e8-a471-52543be04c81
+  - iprd-it-rds-relax-0cb6667d
+streams:
+  - url: https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: http://icstream.rds.radio/rdsrelax
+    codec: MP3
+    bitrate: 256

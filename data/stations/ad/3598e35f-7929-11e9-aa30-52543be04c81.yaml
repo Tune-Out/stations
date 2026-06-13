@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 07:15:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3598e35f-7929-11e9-aa30-52543be04c81
-streams:
-  - url: 'http://stream2.statsradio.com:8032/live'
-    codec: AAC
-  - url: 'https://stream2.statsradio.com:8032/live'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +31,12 @@ research:
   format: Community radio with French and English programming
   notes: CHOD FM 92.1 (previously FM 92.1) is a bilingual community radio station serving Cornwall, Ontario. Licensed as a community station, it serves the local French-Canadian and English communities with local news, music, and community programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3598e35f-7929-11e9-aa30-52543be04c81
+  - iprd-ca-chod-92-1-51e29198
+streams:
+  - url: http://stream2.statsradio.com:8032/live
+    codec: AAC
+  - url: https://stream2.statsradio.com:8032/live
+    codec: AAC

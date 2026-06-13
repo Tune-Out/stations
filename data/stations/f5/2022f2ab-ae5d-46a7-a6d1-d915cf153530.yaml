@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 04:21:20
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-2022f2ab-ae5d-46a7-a6d1-d915cf153530
-streams:
-  - url: 'http://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac'
-    codec: AAC
-    bitrate: 256
-  - url: 'https://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac'
-    codec: AAC
-    bitrate: 256
-  - url: 'https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,21 @@ research:
   format: Reggae music, roots reggae, reggae classics, cultural programming
   notes: Nova is a major French independent radio network with multiple genre channels; Nova Reggae specializes in reggae and related Caribbean music; high-quality AAC stream from Infomaniak
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-2022f2ab-ae5d-46a7-a6d1-d915cf153530
+  - iprd-fr-radio-nova-bordeaux-3249968d
+  - iprd-fr-nova-bordeaux-4451ee01
+  - iprd-fr-nova-hip-hop-5c0a2157
+  - iprd-fr-nova-la-plage-883e8135
+  - iprd-fr-nova-reggae-ace9a4b5
+streams:
+  - url: http://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac
+    codec: AAC
+    bitrate: 256
+  - url: https://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac
+    codec: AAC
+    bitrate: 256
+  - url: https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3
+    codec: MP3
+    bitrate: 128

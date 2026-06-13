@@ -1,7 +1,7 @@
 stationuuid: 548f9846-b6db-47bd-9945-b83b251bff90
 name: 99.9 The Hawk
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WODEFM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WODEFM_SC
+url: 'https://26423.live.streamtheworld.com:443/WODEFM_SC'
+url_resolved: 'https://26423.live.streamtheworld.com:443/WODEFM_SC'
 homepage: https://www.999thehawk.com/
 favicon: https://express-images.franklymedia.com/6616/sites/1469/2019/04/25172833/WODE-FM-2019-04-25-Sitelogo1.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:27:53
 clickcount: 2
 geo_lat: 40.59766980829717
 geo_long: -75.4750442504883
-curation: 0.35
-provenance:
-  - radiobrowser-548f9846-b6db-47bd-9945-b83b251bff90
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: classic rock
   notes: 'Licensed as WODE-FM, serving Allentown PA area. Celebrating 25+ years of classic rock programming. Notable show: "The Hawk Morning Rave with Rick & Dave" (weekdays 5:30-9:00 AM). Hosts contests, community events, and partnerships with local venues.'
   sources: https://www.999thehawk.com/
+curation: 0.35
+provenance:
+  - radiobrowser-548f9846-b6db-47bd-9945-b83b251bff90

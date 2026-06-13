@@ -25,21 +25,6 @@ lastchangetime: 2026-01-22 01:26:36
 clickcount: 1
 geo_lat: 52.12197494823616
 geo_long: 11.639378964900972
-curation: 0.65
-provenance:
-  - radiobrowser-4d55110c-aaa5-4f72-858d-d218058a1007
-streams:
-  - url: 'https://radio-hls.mdr.de/hls/live/2112911/mdr-990701-0-hls/index.m3u8'
-    codec: AAC
-    bitrate: 102
-    hls: true
-  - url: 'https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8'
-    codec: AAC
-    bitrate: 102
-    hls: true
-  - url: 'http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -49,3 +34,21 @@ research:
   format: Schlager, oldies, 60s and 70s music, entertainment, party hits
   notes: Public radio station part of MDR, providing Schlager and retro music format for Saxony-Anhalt region.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-4d55110c-aaa5-4f72-858d-d218058a1007
+  - iprd-de-mdr-schlagerwelt-sachsen-anhalt-e0380203
+  - iprd-de-mdr-schlagerwelt-sachsen-anhalt-8c75dd82
+  - iprd-de-mdr-schlagerwelt-sachsen-anhalt-74d2dfdd
+streams:
+  - url: https://radio-hls.mdr.de/hls/live/2112911/mdr-990701-0-hls/index.m3u8
+    codec: AAC
+    bitrate: 102
+    hls: true
+  - url: https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8
+    codec: AAC
+    bitrate: 102
+    hls: true
+  - url: http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

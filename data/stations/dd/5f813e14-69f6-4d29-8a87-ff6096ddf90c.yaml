@@ -27,23 +27,6 @@ lastchangetime: 2026-01-19 23:29:01
 clickcount: 1
 geo_lat: 50.293957538232696
 geo_long: 18.66564273834229
-curation: 0.55
-provenance:
-  - radiobrowser-5f813e14-69f6-4d29-8a87-ff6096ddf90c
-streams:
-  - url: 'https://streamhls.radiodzwiek.slask.pl/dzwiek/hls.m3u8'
-    codec: AAC
-    bitrate: 248
-    hls: true
-  - url: 'https://streamhls.radiodzwiek.slask.pl/dzwiek128'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://streamhls.radiodzwiek.slask.pl/dzwiek64'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -53,3 +36,20 @@ research:
   format: Alternative rock, indie rock, progressive rock, adult alternative; diverse rock music focus
   notes: Based in Slaskie (Silesian region) Poland; community-oriented regional station; strong alternative and indie rock programming
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-5f813e14-69f6-4d29-8a87-ff6096ddf90c
+streams:
+  - url: https://streamhls.radiodzwiek.slask.pl/dzwiek/hls.m3u8
+    codec: AAC
+    bitrate: 248
+    hls: true
+  - url: https://streamhls.radiodzwiek.slask.pl/dzwiek128
+    codec: AAC
+    bitrate: 128
+  - url: https://streamhls.radiodzwiek.slask.pl/dzwiek64
+    codec: AAC
+    bitrate: 64
+  - url: https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3
+    codec: MP3
+    bitrate: 320

@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-ee54683a-696c-423a-8789-595ae2e1ece7
-streams:
-  - url: 'http://94.23.51.96:8001/'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://cinemix.us/cine.asx'
-    url_resolved: 'http://94.23.51.96:8001/'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +29,14 @@ research:
   format: Instrumental and film/TV soundtracks streaming; curated cinematic and orchestral music
   notes: Cinemix.us is an online radio service specializing in instrumental music, film scores, and soundtrack compositions; 96 kbps MP3 stream; appeals to listeners interested in cinema, television, and orchestral music; low engagement metrics (1 click); streaming since mid-2010s; positioned as niche alternative to mainstream radio.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-ee54683a-696c-423a-8789-595ae2e1ece7
+streams:
+  - url: http://94.23.51.96:8001/
+    codec: MP3
+    bitrate: 96
+  - url: http://cinemix.us/cine.asx
+    url_resolved: http://94.23.51.96:8001/
+    codec: MP3
+    bitrate: 96

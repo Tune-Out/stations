@@ -1,7 +1,7 @@
 stationuuid: 017f1b35-7330-4ccc-a8eb-0544a7a9b611
 name: MIX Hard Rock (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR10_s01AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR10_s01AAC.aac
+url: 'https://23263.live.streamtheworld.com:443/ACIR10_S01AAC.aac'
+url_resolved: 'https://23263.live.streamtheworld.com:443/ACIR10_S01AAC.aac'
 homepage: https://www.iheart.com/live/mix-hard-rock-8051/
 favicon: https://i.iheart.com/v3/re/new_assets/5bc5eca8c7977ca1c9302273
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 05:46:02
 clickcount: 2
 geo_lat: 19.434343237677428
 geo_long: -99.13195610046388
-curation: -0.05
-provenance:
-  - radiobrowser-017f1b35-7330-4ccc-a8eb-0544a7a9b611
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Hard rock in English; "El mejor Hard Rock en inglés"
   notes: iHeart Radio stream featuring classic and contemporary hard rock including Guns N' Roses, Metallica, AC/DC, Megadeth, Iron Maiden. Operated by ACIR (Grupo ACIR) in Mexico.
   sources: https://www.iheart.com/live/mix-hard-rock-8051/
+curation: -0.05
+provenance:
+  - radiobrowser-017f1b35-7330-4ccc-a8eb-0544a7a9b611

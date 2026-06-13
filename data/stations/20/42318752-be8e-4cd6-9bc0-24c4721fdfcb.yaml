@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: -23.543992672080904
 geo_long: -46.63318634033203
-curation: -0.05
-provenance:
-  - radiobrowser-42318752-be8e-4cd6-9bc0-24c4721fdfcb
-streams:
-  - url: 'https://26593.live.streamtheworld.com/RADIO_KISSFM_ADP.aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://26673.live.streamtheworld.com/RADIO_KISSFMAAC.aac?1655609055880'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: "Rock music: Pop-Rock and Classic Rock genres; musical events and festivals promotion."
   notes: "Founded July 13, 2001 (World Rock Day) on 92.5 FM São Paulo; Tagline: \"Não deixe o rock sair de você\" (Don't let rock leave you); launched as \"the soundtrack of your life\"; studios in Central Park Building."
   sources: https://kissfm.com.br/
+curation: -0.05
+provenance:
+  - radiobrowser-42318752-be8e-4cd6-9bc0-24c4721fdfcb
+  - iprd-br-kiss-91-9-ba655e3a
+streams:
+  - url: https://26593.live.streamtheworld.com/RADIO_KISSFM_ADP.aac
+    codec: AAC+
+    bitrate: 128
+  - url: https://26673.live.streamtheworld.com/RADIO_KISSFMAAC.aac?1655609055880
+    codec: AAC+
+    bitrate: 64

@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bef68c12-0df5-490b-8a0f-48f5923d96db
-streams:
-  - url: 'http://streams.slowradio.com/slowradio192.m3u'
-    url_resolved: 'http://stream2.slowradio.com/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streams.slowradio.com/slowradio192.m3u'
-    url_resolved: 'http://stream1.slowradio.com/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +28,15 @@ research:
   format: 'Love songs and romantic music, "the #1 love radio on the net"'
   notes: Online-based with donation model; multiple bitrate streams (192k/64k/32k); aims to curate best love songs
   sources: https://en.slowradio.com/listen-now
+curation: 0.35
+provenance:
+  - radiobrowser-bef68c12-0df5-490b-8a0f-48f5923d96db
+streams:
+  - url: http://streams.slowradio.com/slowradio192.m3u
+    url_resolved: http://stream2.slowradio.com/
+    codec: MP3
+    bitrate: 192
+  - url: https://streams.slowradio.com/slowradio192.m3u
+    url_resolved: http://stream1.slowradio.com/
+    codec: MP3
+    bitrate: 192

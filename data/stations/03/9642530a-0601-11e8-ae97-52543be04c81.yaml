@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 01:08:58
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9642530a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.1a-webradio.de/saw-fitness/mp3-128/radio-browser-1a/stream.mp3'
-    codec: AAC
-  - url: 'http://stream.1a-webradio.de/saw-fitness/aac-48/radiosure-1a/stream.mp3'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +32,15 @@ research:
   format: Dance, fitness-oriented hits, party music; multi-channel specialized streaming platform
   notes: German commercial web radio station based in Saxony-Anhalt (radio SAW affiliation). 1A-Webradio platform offers 24+ specialized music channels across decades (70s-2010s), genres (rock, synthie pop, urban), and themes (kids, Christmas, fitness, relaxation). Fitness Hits channel described as "Der Power-Mix für Euren Workout!" (The power mix for your workout). Streaming via radio SAW infrastructure.
   sources: http://www.1a-webradio.de/
+curation: 0.35
+provenance:
+  - radiobrowser-9642530a-0601-11e8-ae97-52543be04c81
+  - iprd-de-1a-fitness-hits-81fc693d
+  - iprd-de-1a-fitness-hits-de6d9565
+  - iprd-de-1a-modern-rock-36438825
+  - iprd-de-1a-modern-rock-8e31cef1
+streams:
+  - url: http://stream.1a-webradio.de/saw-fitness/mp3-128/radio-browser-1a/stream.mp3
+    codec: AAC
+  - url: http://stream.1a-webradio.de/saw-fitness/aac-48/radiosure-1a/stream.mp3
+    codec: AAC

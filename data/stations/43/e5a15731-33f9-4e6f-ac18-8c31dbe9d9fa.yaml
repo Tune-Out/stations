@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e5a15731-33f9-4e6f-ac18-8c31dbe9d9fa
-streams:
-  - url: 'http://usa4.fastcast4u.com:5006/stream'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://usa4.fastcast4u.com:5006/;'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Music, entertainment, local programming
   notes: FM 101.1 Barbados; independent commercial radio station serving Caribbean island nation; appears to be community-focused with local content and music programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e5a15731-33f9-4e6f-ac18-8c31dbe9d9fa
+  - iprd-bb-slam-101-1-d46a9f2c
+streams:
+  - url: http://usa4.fastcast4u.com:5006/stream
+    codec: AAC+
+    bitrate: 128
+  - url: http://usa4.fastcast4u.com:5006/;
+    codec: AAC+
+    bitrate: 128

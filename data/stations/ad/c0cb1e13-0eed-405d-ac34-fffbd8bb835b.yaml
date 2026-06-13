@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:08:30
 clickcount: 16
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-c0cb1e13-0eed-405d-ac34-fffbd8bb835b
-streams:
-  - url: 'https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3?1728425642817&aggregator=web'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3?aggregator=web'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,25 @@ research:
   format: Hamburg city/regional service — pop/rock and AC music mixed with intensive local news, traffic, sports (especially HSV and FC St. Pauli) and Hamburg-focused magazine programming
   notes: NDR 90,3 is NDR's dedicated Landesprogramm for Hamburg, broadcasting on 90.3 MHz from the Heinrich-Hertz-Turm; programming combines Schlager-leaning pop/rock playlists with the flagship daily news magazine "Hamburg-Journal am Nachmittag," traffic and harbour reports, and live coverage of Hamburg events. As part of public-service NDR the station is editorially independent of government, governed by a broadcasting council (Rundfunkrat) representing societal groups; funded primarily by the household Rundfunkbeitrag rather than advertising.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-c0cb1e13-0eed-405d-ac34-fffbd8bb835b
+  - iprd-de-ndr-1-os-0b3eb8b0
+  - iprd-de-ndr-1-radio-mv-greifswald-6c4ae12f
+  - iprd-de-ndr-1-radio-mv-greifswald-2a7bd13a
+  - iprd-de-ndr-1-radio-mv-rostock-d14a4178
+  - iprd-de-ndr-2-niedersachsen-35cdda26
+  - iprd-de-ndr-2-mecklenburg-vorpommern-0d103c93
+  - iprd-de-ndr-2-die-h-chste-eisenbahn-df603ed2
+  - iprd-de-ndr-2-rock-6549069d
+  - iprd-de-ndr-2-soundcheck-neue-musik-a7b83871
+  - iprd-de-ndr-info-mecklenburg-vorpommern-4c56fd54
+  - iprd-de-ndr-info-mecklenburg-vorpommern-80ba3603
+  - iprd-de-ndr-info-niedersachsen-9283af67
+streams:
+  - url: https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3?1728425642817&aggregator=web
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3?aggregator=web
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:22:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-a4bf128d-d973-4b02-8642-37ca19801a88
-streams:
-  - url: 'http://stream.laut.fm/1000jazzhits'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/1000jazzhits'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Jazz music focus with pop and rock elements; community-driven channel on Laut.FM streaming platform.
   notes: '"1000 Jazz Hits" is a channel on Laut.FM, a German internet radio platform that hosts community-created and user-curated stations. This station emphasizes jazz with pop and rock elements. No commercial ownership identified beyond the Laut.FM hosting platform.'
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-a4bf128d-d973-4b02-8642-37ca19801a88
+  - iprd-de-1000-jazz-hits-f7faaf71
+streams:
+  - url: http://stream.laut.fm/1000jazzhits
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/1000jazzhits
+    codec: MP3
+    bitrate: 128

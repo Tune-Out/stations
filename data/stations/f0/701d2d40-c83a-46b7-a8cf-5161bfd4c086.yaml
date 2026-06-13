@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:17:43
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-701d2d40-c83a-46b7-a8cf-5161bfd4c086
-streams:
-  - url: 'https://rfcm.streamguys1.com/bossradio66-mp3'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://rfcm.streamguys1.com/bossradio66-mp3'
-    codec: AAC+
-    bitrate: 63
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: 1960s music, oldies, classic hits
   notes: Online streaming station focused on 1960s hits and classic oldies music; independent operation serving nostalgia market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-701d2d40-c83a-46b7-a8cf-5161bfd4c086
+streams:
+  - url: https://rfcm.streamguys1.com/bossradio66-mp3
+    codec: AAC+
+    bitrate: 64
+  - url: http://rfcm.streamguys1.com/bossradio66-mp3
+    codec: AAC+
+    bitrate: 63

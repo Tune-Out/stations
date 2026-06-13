@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 04:06:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-057305cc-d9e4-4458-bece-98826f38a834
-streams:
-  - url: 'http://lhttp.qingting.fm/live/20212269/64k.mp3'
-    codec: MP3
-  - url: 'http://lhttp.qingting.fm/live/20212269/64k.mp3?'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -39,3 +31,12 @@ research:
   format: Golden music (classic and popular Chinese music) and news; government and community announcements
   notes: County-level state-owned broadcaster typical of China's hierarchical public broadcasting system. Provides local news, government information, and cultural programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-057305cc-d9e4-4458-bece-98826f38a834
+  - iprd-cn-gucheng-people-s-broadcasting-station-95-9-f694ffeb
+streams:
+  - url: http://lhttp.qingting.fm/live/20212269/64k.mp3
+    codec: MP3
+  - url: http://lhttp.qingting.fm/live/20212269/64k.mp3?
+    codec: MP3

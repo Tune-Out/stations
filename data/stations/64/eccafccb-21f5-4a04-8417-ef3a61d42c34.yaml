@@ -26,16 +26,6 @@ lastchangetime: 2026-02-05 15:16:15
 clickcount: 0
 geo_lat: -32.901767557259916
 geo_long: -68.8451385498047
-curation: 0.55
-provenance:
-  - radiobrowser-eccafccb-21f5-4a04-8417-ef3a61d42c34
-streams:
-  - url: 'http://streaming.fmutn.com.ar:8000/FMUTN'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming.fmutn.com.ar:8000/FMUTN#;.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -45,3 +35,14 @@ research:
   format: Alternative rock, classic rock, indie rock, punk, reggae, Latin rock
   notes: Radio UTN Mendoza FM 94.5; educational radio station operated by the National Technology University (UTN) in Mendoza; focuses on alternative and rock formats; community/university radio.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-eccafccb-21f5-4a04-8417-ef3a61d42c34
+  - iprd-ar-utn-mendoza-94-5-f0fa7849
+streams:
+  - url: http://streaming.fmutn.com.ar:8000/FMUTN
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming.fmutn.com.ar:8000/FMUTN#;.mp3
+    codec: MP3
+    bitrate: 128

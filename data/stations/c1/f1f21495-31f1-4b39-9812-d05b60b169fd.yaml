@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-f1f21495-31f1-4b39-9812-d05b60b169fd
-streams:
-  - url: 'http://www.rmfon.pl/n/top5dance.pls'
-    url_resolved: 'https://rs102-krk-cyfronet.rmfstream.pl/rmf_top_5_dance'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://195.150.20.244/rmf_top_5_dance'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Dance music top 30 hits and contemporary electronic music
   notes: RMF is one of Poland's largest commercial radio groups; this is a specialized dance music channel on rmfon.pl platform
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-f1f21495-31f1-4b39-9812-d05b60b169fd
+streams:
+  - url: http://www.rmfon.pl/n/top5dance.pls
+    url_resolved: https://rs102-krk-cyfronet.rmfstream.pl/rmf_top_5_dance
+    codec: MP3
+    bitrate: 128
+  - url: http://195.150.20.244/rmf_top_5_dance
+    codec: MP3
+    bitrate: 128

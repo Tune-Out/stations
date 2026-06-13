@@ -23,20 +23,6 @@ lastchangetime: 2026-05-24 16:32:40
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-786214bb-779f-4b09-b74d-3b7b1acd2469
-streams:
-  - url: 'https://relay1.swissgroove.ch/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://swissgroove.ch/listen.php'
-    url_resolved: 'http://relay2.swissgroove.ch/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://158.69.74.203/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +32,18 @@ research:
   format: Jazz, funk, groove music; niche music format focused on quality live sound
   notes: Swiss independent radio station streaming jazz and funk with Italian-language metadata, suggesting strong presence in Ticino region. Boutique format emphasizing sonic quality and artistic heritage.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-786214bb-779f-4b09-b74d-3b7b1acd2469
+  - iprd-ch-swissgroove-0bdf308f
+streams:
+  - url: https://relay1.swissgroove.ch/
+    codec: MP3
+    bitrate: 128
+  - url: https://swissgroove.ch/listen.php
+    url_resolved: http://relay2.swissgroove.ch/
+    codec: MP3
+    bitrate: 128
+  - url: http://158.69.74.203/
+    codec: MP3
+    bitrate: 128

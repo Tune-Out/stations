@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 5
 geo_lat: -27.593281336439976
 geo_long: -48.55693101882935
-curation: 0.20
-provenance:
-  - radiobrowser-cc952adc-371b-4d8d-a34d-86bc35df8572
-streams:
-  - url: 'http://199.233.234.34:25373/stream2'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://centova.svdns.com.br:19373/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Instrumental music, orchestral and classical music programming
   notes: Brazilian radio specializing in instrumental and orchestral music; operates from Santa Catarina state
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-cc952adc-371b-4d8d-a34d-86bc35df8572
+streams:
+  - url: http://199.233.234.34:25373/stream2
+    codec: MP3
+    bitrate: 128
+  - url: https://centova.svdns.com.br:19373/stream
+    codec: MP3
+    bitrate: 128

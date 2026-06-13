@@ -1,6 +1,6 @@
 stationuuid: 96483a86-0601-11e8-ae97-52543be04c81
 name: WWTN "Super Talk 99.7" Hendersonville, TN
-url: http://provisioning.streamtheworld.com/pls/WWTNFMAAC.pls
+url: 'http://26153.live.streamtheworld.com:80/WWTNFMAAC_SC'
 url_resolved: http://26153.live.streamtheworld.com/WWTNFMAAC_SC
 homepage: http://www.997wtn.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2978/squareIcon.png?r=79990
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:15:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96483a86-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: News and talk radio programming
   notes: Commercial talk radio station "Super Talk 99.7" serving greater Nashville/Hendersonville area in Tennessee.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96483a86-0601-11e8-ae97-52543be04c81

@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-447ad370-b609-46ed-9352-510659855a5c
-streams:
-  - url: 'http://fr.ah.fm:8000/mobile'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://fr.ah.fm:8000/;'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://fr.ah.fm:8000/live'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +30,16 @@ research:
   format: Progressive trance, electronic dance music; "no ads" business model with DJ programming
   notes: Community-run internet radio station specializing in ad-free progressive and trance music. Established presence in electronic music community. 192kbps MP3 streaming. Operates from France (ah.fm domain).
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-447ad370-b609-46ed-9352-510659855a5c
+streams:
+  - url: http://fr.ah.fm:8000/mobile
+    codec: AAC+
+    bitrate: 64
+  - url: http://fr.ah.fm:8000/;
+    codec: MP3
+    bitrate: 192
+  - url: http://fr.ah.fm:8000/live
+    codec: MP3
+    bitrate: 192

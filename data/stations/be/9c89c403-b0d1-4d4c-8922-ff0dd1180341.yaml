@@ -20,16 +20,6 @@ lastchangetime: 2026-05-17 14:55:40
 clickcount: 0
 geo_lat: 46.76953781017045
 geo_long: 23.589811027050025
-curation: 0.30
-provenance:
-  - radiobrowser-9c89c403-b0d1-4d4c-8922-ff0dd1180341
-streams:
-  - url: 'https://azura.ebsmedia.ro/listen/movies/movies128.mp3?refresh=1779029656196'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.ebsmedia.ro/listen/movies/movies128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Movie soundtracks, instrumental film scores, and curated film-focused music
   notes: 'Commercial radio station operated by EBS Media serving Cluj-Napoca, Romania on FM 90.4. Specializes in movie soundtracks and film music. Part of broader EBS Radio network offering curated themed streams. Tagline: "With You Sounds Better" and "Cluj Sounds Better."'
   sources: https://ebsradio.ro/
+curation: 0.3
+provenance:
+  - radiobrowser-9c89c403-b0d1-4d4c-8922-ff0dd1180341
+streams:
+  - url: https://azura.ebsmedia.ro/listen/movies/movies128.mp3?refresh=1779029656196
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.ebsmedia.ro/listen/movies/movies128.mp3
+    codec: MP3
+    bitrate: 128

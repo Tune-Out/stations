@@ -1,7 +1,7 @@
 stationuuid: 2918ff59-eba1-41af-8e1b-0fed4b912bf9
 name: Loving Life FM - Grafton - 103.1 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2CVC.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2CVC.mp3
+url: 'http://23153.live.streamtheworld.com:80/2CVC.mp3'
+url_resolved: 'http://23153.live.streamtheworld.com:80/2CVC.mp3'
 homepage: https://www.fm1031lovinglife.com.au/
 favicon: https://i.ibb.co/jTd1gGw/2fccc1-eb93a86b6b9d48bd82d0f52504a13039-mv2.jpg
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 05:05:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2918ff59-eba1-41af-8e1b-0fed4b912bf9
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -35,3 +32,6 @@ research:
   format: Christian and community music programming; 103.1 FM.
   notes: Community radio station in Grafton, NSW, Australia; Christian-focused broadcasting with local community involvement; 128 kbps MP3.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-2918ff59-eba1-41af-8e1b-0fed4b912bf9

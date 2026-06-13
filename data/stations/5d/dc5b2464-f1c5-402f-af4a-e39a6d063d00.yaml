@@ -22,22 +22,6 @@ lastchangetime: 2026-01-14 23:36:09
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-dc5b2464-f1c5-402f-af4a-e39a6d063d00
-streams:
-  - url: 'http://west-aac-64.streamthejazzgroove.com/stream'
-    codec: AAC
-    bitrate: 72
-  - url: 'http://east-aac-64.streamthejazzgroove.com/stream'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://mp3-128.streamthejazzgroove.com/;stream.mp3?_ga=2.244100037.1386788109.1513293582-596706204.1513293582'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://east-mp3-128.streamthejazzgroove.com/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -47,3 +31,20 @@ research:
   format: '"Laid-back jazz" — a 24/7 commercial-free mix of mainstream, post-bop, vocal, contemporary and smooth jazz curated to be relaxing and easy-to-listen; East and West streams stagger the playlist'
   notes: Founded in 2000 by Los Angeles jazz programmer Steve Williams, The Jazz Groove operates two parallel feeds — East and West — that play the same library on different schedules so listeners on either US coast hear fresh music at a similar hour; the service is donation-supported and ad-free, distributed via direct HTTP/AAC streams, TuneIn, iHeart and dedicated iOS/Android apps; the station is regularly cited by jazz musicians as an important non-terrestrial outlet for mainstream jazz in an era of shrinking traditional jazz radio.
   sources: https://jazzgroove.org/, internal knowledge of US internet jazz radio
+curation: 0.7
+provenance:
+  - radiobrowser-dc5b2464-f1c5-402f-af4a-e39a6d063d00
+  - iprd-us-the-jazz-groove-667dc9c5
+streams:
+  - url: http://west-aac-64.streamthejazzgroove.com/stream
+    codec: AAC
+    bitrate: 72
+  - url: http://east-aac-64.streamthejazzgroove.com/stream
+    codec: AAC
+    bitrate: 64
+  - url: http://mp3-128.streamthejazzgroove.com/;stream.mp3?_ga=2.244100037.1386788109.1513293582-596706204.1513293582
+    codec: MP3
+    bitrate: 128
+  - url: http://east-mp3-128.streamthejazzgroove.com/stream
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 4a36fd63-315e-43d3-90be-b68462763163
 name: Mix 102.3 - Adelaide - 102.3 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023AAC.aac
+url: 'http://28903.live.streamtheworld.com:80/ARN_MIX1023AAC.aac'
+url_resolved: 'http://28903.live.streamtheworld.com:80/ARN_MIX1023AAC.aac'
 homepage: https://www.mix1023.com.au/
 favicon: https://i.iheart.com/v3/re/new_assets/635af8ed23f570d99fb2a47c
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:18:28
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4a36fd63-315e-43d3-90be-b68462763163
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hot adult contemporary (HAC) music format with contemporary hits.
   notes: Mix 102.3 is Adelaide's premier contemporary hits station. ARN is owned by iHeartMedia, a major media company with significant Australian radio presence.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4a36fd63-315e-43d3-90be-b68462763163

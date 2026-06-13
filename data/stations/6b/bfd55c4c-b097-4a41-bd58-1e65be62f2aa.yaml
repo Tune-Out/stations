@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-bfd55c4c-b097-4a41-bd58-1e65be62f2aa
-streams:
-  - url: 'http://31.192.216.7/STYL'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.rmfon.pl/n/styl.pls'
-    url_resolved: 'https://rs102-krk.rmfstream.pl/rmf_styl'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,15 @@ research:
   format: Lifestyle, entertainment, and music programming emphasizing style and contemporary culture.
   notes: RMF Styl is a lifestyle-oriented station from Poland's RMF network. Based in Krakow, it targets audiences interested in contemporary culture, design, fashion, and entertainment. Part of RMF's portfolio of specialized stations.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-bfd55c4c-b097-4a41-bd58-1e65be62f2aa
+  - iprd-pl-rmf-styl-6e9f7a18
+streams:
+  - url: http://31.192.216.7/STYL
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.rmfon.pl/n/styl.pls
+    url_resolved: https://rs102-krk.rmfstream.pl/rmf_styl
+    codec: MP3
+    bitrate: 128

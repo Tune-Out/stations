@@ -22,16 +22,6 @@ lastchangetime: 2026-01-20 20:44:56
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-2dca939e-b8af-4f3d-903c-7e045a2d6355
-streams:
-  - url: 'https://stm7.xradios.com.br:6888/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stm7.xradios.com.br:6888/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: 1980s-90s hits; romantic ballads; rock; samba; bossa nova; MPB (Música Popular Brasileira); classic hits
   notes: Slogan "Os bons tempos da música" (The good times of music); curated selection of timeless Brazilian classics; engaging DJs with music history storytelling
   sources: WebSearch "BONS TEMPOS FM Brazil São Paulo web radio classic hits"
+curation: 0.3
+provenance:
+  - radiobrowser-2dca939e-b8af-4f3d-903c-7e045a2d6355
+streams:
+  - url: https://stm7.xradios.com.br:6888/
+    codec: MP3
+    bitrate: 128
+  - url: http://stm7.xradios.com.br:6888/
+    codec: MP3
+    bitrate: 128

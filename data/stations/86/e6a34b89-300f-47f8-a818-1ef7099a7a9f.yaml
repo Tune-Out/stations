@@ -1,7 +1,7 @@
 stationuuid: e6a34b89-300f-47f8-a818-1ef7099a7a9f
 name: Nova Nation (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC.aac
+url: 'http://28903.live.streamtheworld.com:80/NOVA_NATION_SYDNEY_AAC.aac'
+url_resolved: 'http://28903.live.streamtheworld.com:80/NOVA_NATION_SYDNEY_AAC.aac'
 homepage: https://www.novafm.com.au/station/novanation
 favicon: https://i.ibb.co/2h8PWPc/Brand-Tile-Nation.png
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-14 23:34:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-e6a34b89-300f-47f8-a818-1ef7099a7a9f
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Dance, club, classics, current hits
   notes: Nova Nation is a digital-only channel of Nova Entertainment Group, Australia's commercial radio broadcaster based in Sydney. Features dance, club music, and classic hits. Distributed via Streamtheworld global platform. No listener engagement recorded in catalog.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-e6a34b89-300f-47f8-a818-1ef7099a7a9f

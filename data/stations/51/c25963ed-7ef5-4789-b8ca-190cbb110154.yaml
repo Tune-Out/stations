@@ -28,16 +28,6 @@ lastchangetime: 2026-01-15 03:31:41
 clickcount: 3
 geo_lat: 45.5046746307273
 geo_long: -73.57640504837038
-curation: 0.35
-provenance:
-  - radiobrowser-c25963ed-7ef5-4789-b8ca-190cbb110154
-streams:
-  - url: 'https://ckut.out.airtime.pro/ckut_a'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://delray.ckut.ca:8001/903fm-192-stereo'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -47,3 +37,14 @@ research:
   format: Alternative, community radio; campus-community programming, spoken word, news, music, arts and culture
   notes: Non-profit campus-community radio station based at Concordia University in Montreal; volunteer-driven with community governance; bilingual broadcast serving Montreal cultural community
   sources: https://www.ckut.ca/en
+curation: 0.35
+provenance:
+  - radiobrowser-c25963ed-7ef5-4789-b8ca-190cbb110154
+  - iprd-ca-ckut-90-3-mcgill-university-10ec5132
+streams:
+  - url: https://ckut.out.airtime.pro/ckut_a
+    codec: MP3
+    bitrate: 192
+  - url: https://delray.ckut.ca:8001/903fm-192-stereo
+    codec: MP3
+    bitrate: 192

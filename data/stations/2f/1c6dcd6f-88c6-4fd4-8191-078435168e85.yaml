@@ -40,19 +40,6 @@ lastchangetime: 2026-01-15 06:05:37
 clickcount: 76
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-1c6dcd6f-88c6-4fd4-8191-078435168e85
-streams:
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -62,3 +49,17 @@ research:
   format: alternative / indie / eclectic adult music station — wide-ranging from rock, electronic, hip hop, dance, soul, jazz, world, and experimental; specialist DJ-led shows; some documentary and live-session programming
   notes: Launched 11 March 2002 as the BBC's first new national digital-only radio station; broadcasts on DAB, BBC Sounds, satellite and cable. Survived a 2010 closure proposal after a high-profile listener and artist campaign. Hosts the BBC 6 Music Festival annually. Notable presenters have included Steve Lamacq, Lauren Laverne, Mary Anne Hobbs, Iggy Pop, Craig Charles, and Cerys Matthews.
   sources: internal knowledge (BBC Radio 6 Music — well-documented BBC station; homepage fetch blocked)
+curation: 0.75
+provenance:
+  - radiobrowser-1c6dcd6f-88c6-4fd4-8191-078435168e85
+  - iprd-gb-bbc-radio-6-music-2f1dbc78
+streams:
+  - url: http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true

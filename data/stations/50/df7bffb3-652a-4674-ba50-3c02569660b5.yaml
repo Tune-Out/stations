@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 00:34:09
 clickcount: 0
 geo_lat: 49.4986249143723
 geo_long: 8.502259558809271
-curation: -0.05
-provenance:
-  - radiobrowser-df7bffb3-652a-4674-ba50-3c02569660b5
-streams:
-  - url: 'http://stream.regenbogen2.de/christmasrock/mp3-128/radiobrowser'
-    codec: AAC
-  - url: 'http://stream.regenbogen2.de/christmasrock/mp3-128/radiobrowser'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Rock music (70s-90s rock, classic rock, metal, alternative); themed channels and shows
   notes: Youth-oriented commercial station; "LAUTER. ROCK. LEGENDEN"; multiple streaming options (UKW, DAB+, streaming)
   sources: https://www.rockfm.de/
+curation: -0.05
+provenance:
+  - radiobrowser-df7bffb3-652a-4674-ba50-3c02569660b5
+streams:
+  - url: http://stream.regenbogen2.de/christmasrock/mp3-128/radiobrowser
+    codec: AAC
+  - url: http://stream.regenbogen2.de/christmasrock/mp3-128/radiobrowser
+    codec: MP3

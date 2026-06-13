@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 01:18:42
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-98508250-e75d-11e9-a96c-52543be04c81
-streams:
-  - url: 'https://rs5.stream24.net/charivari-hitmix.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://rs5.stream24.net/charivari-hitmix.mp3?aw_0_1st.playerid=radioplayer.de'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rs24.stream24.net/italohits'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,20 @@ research:
   format: party hits, dance, electronic music
   notes: Commercial webradio channel of Charivari radio group based in Munich; Party Mix channel specializes in party and dance hits; part of broader Charivari webradio platform
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-98508250-e75d-11e9-a96c-52543be04c81
+  - iprd-de-charivari-95-5-italo-hits-349dca38
+  - iprd-de-charivari-m-nchen-party-hitmix-95-5-177105c4
+  - iprd-de-charivari-italo-hits-6a455ea3
+  - iprd-de-charivari-party-hitmix-95-5-a6d88514
+streams:
+  - url: https://rs5.stream24.net/charivari-hitmix.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://rs5.stream24.net/charivari-hitmix.mp3?aw_0_1st.playerid=radioplayer.de
+    codec: MP3
+    bitrate: 128
+  - url: http://rs24.stream24.net/italohits
+    codec: MP3
+    bitrate: 128

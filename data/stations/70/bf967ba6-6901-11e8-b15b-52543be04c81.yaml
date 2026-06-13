@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-bf967ba6-6901-11e8-b15b-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -31,3 +28,6 @@ research:
   format: General public radio programming
   notes: Stream appears to be from Czech Radio (Český rozhlas) public broadcaster based on play.cz API domain. "Rz" name is unclear but likely refers to Czech Radio network.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-bf967ba6-6901-11e8-b15b-52543be04c81

@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 02:05:55
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-bffdc007-3f6b-445e-aa53-edd1ae20d040
-streams:
-  - url: 'http://cast.fabrik.fm:8106/'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8?'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://streaming.fabrik.fm/magic828/echocast/audio/low/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +30,16 @@ research:
   format: Contemporary music, pop, hit songs, entertainment programming
   notes: Magic 828 is a South African commercial internet radio station broadcasting on 828 AM/internet. Based in Western Cape province (likely Cape Town area). Plays contemporary music and entertainment-focused programming for English-speaking South African audiences. Commercial station with advertising model. Part of South African commercial radio landscape.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bffdc007-3f6b-445e-aa53-edd1ae20d040
+streams:
+  - url: http://cast.fabrik.fm:8106/
+    codec: AAC
+    bitrate: 32
+  - url: https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8?
+    codec: UNKNOWN
+    hls: true
+  - url: https://streaming.fabrik.fm/magic828/echocast/audio/low/index.m3u8
+    codec: UNKNOWN
+    hls: true

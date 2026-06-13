@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 22
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5a4eb5bc-7fbd-43fb-a6a4-cc4517ce6ac4
-streams:
-  - url: 'https://jenny.torontocast.com:2000/stream/J1HITS?_=184325'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://jenny.torontocast.com:2000/stream/J1HITS?_=538100'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: J-POP programming (7pm-1am); Japanese news, weather, traffic, cultural content, earthquake updates
   notes: "Multiple services: J1 (English), Michi-FM, Southern California HD, Japanese language. Available on iOS, Android, Roku, web. Licensed by SOCAN."
   sources: https://www.j1fm.tokyo/
+curation: -0.05
+provenance:
+  - radiobrowser-5a4eb5bc-7fbd-43fb-a6a4-cc4517ce6ac4
+streams:
+  - url: https://jenny.torontocast.com:2000/stream/J1HITS?_=184325
+    codec: MP3
+    bitrate: 128
+  - url: https://jenny.torontocast.com:2000/stream/J1HITS?_=538100
+    codec: MP3
+    bitrate: 128

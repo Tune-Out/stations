@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:52:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-732a36fd-3877-11e9-9b4e-52543be04c81
-streams:
-  - url: 'http://nrj.de/nuernberg'
-    url_resolved: 'https://edge85.streamonkey.net/energy-nuernberg?aggregator=shorty'
-    codec: AAC
-  - url: 'http://frontend.streamonkey.net/energy-nuernberg/stream/aacp?aggregator=icecastdirectory'
-    url_resolved: 'http://edge12.streamonkey.net/energy-nuernberg/stream/aacp?aggregator=icecastdirectory'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Top 40 hits, contemporary pop and music, youth-oriented format
   notes: Energy (NRJ) is major German commercial radio chain; Nürnberg station focuses on contemporary hits and Top 40 format targeting young adult audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-732a36fd-3877-11e9-9b4e-52543be04c81
+streams:
+  - url: http://nrj.de/nuernberg
+    url_resolved: https://edge85.streamonkey.net/energy-nuernberg?aggregator=shorty
+    codec: AAC
+  - url: http://frontend.streamonkey.net/energy-nuernberg/stream/aacp?aggregator=icecastdirectory
+    url_resolved: http://edge12.streamonkey.net/energy-nuernberg/stream/aacp?aggregator=icecastdirectory
+    codec: AAC

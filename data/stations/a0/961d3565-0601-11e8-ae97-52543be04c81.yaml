@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:22:41
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961d3565-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radiostreaming.ert.gr/ert-voiceofgreece'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://radiostreaming.ert.gr/ert-voiceofgreece'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: News, information, talk, cultural programming in Greek
   notes: ERA (Εθνικό Ραδιόφωνο) channel part of ERT; "Voice of Greece" is a flagship news and current affairs program; serves as primary news source for Greece
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-961d3565-0601-11e8-ae97-52543be04c81
+  - iprd-gr-era-i-foni-tis-elladas-4aa178db
+  - iprd-gr-e-fone-tes-hellados-4aa178db
+streams:
+  - url: http://radiostreaming.ert.gr/ert-voiceofgreece
+    codec: MP3
+    bitrate: 256
+  - url: https://radiostreaming.ert.gr/ert-voiceofgreece
+    codec: MP3
+    bitrate: 256

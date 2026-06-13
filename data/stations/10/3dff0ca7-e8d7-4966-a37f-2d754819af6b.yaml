@@ -24,19 +24,6 @@ lastchangetime: 2026-01-15 08:28:39
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-3dff0ca7-e8d7-4966-a37f-2d754819af6b
-streams:
-  - url: 'https://phoebe.streamerr.co:3650/;?type=http&nocache=1739137731'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://phoebe.streamerr.co:3650/;?type=http&nocache=1740335216'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://phoebe.streamerr.co:3650/;?type=http&nocache=123'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -46,3 +33,16 @@ research:
   format: '"100% dnb and jungle music radio" - 24/7 drum and bass, jungle, UK garage, intelligent DnB, grime and bass-music subgenres'
   notes: Founded in 2020 by an Italian DJ/producer using the alias Jahpawa as a non-profit cultural association dedicated to underground UK bass-music culture; operates on the Italian "Associazione Culturale" legal model funded by member contributions (5 EUR membership) and donations rather than advertising; notable programmes include "Lucid Dreams," "Junglist Rotation," "KILLASOUND" and "Jungle Diva"; mission emphasises supporting an "independent community" of DJs and producers around drum-and-bass and jungle.
   sources: https://jungleplanetradio.com/, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-3dff0ca7-e8d7-4966-a37f-2d754819af6b
+streams:
+  - url: https://phoebe.streamerr.co:3650/;?type=http&nocache=1739137731
+    codec: MP3
+    bitrate: 320
+  - url: https://phoebe.streamerr.co:3650/;?type=http&nocache=1740335216
+    codec: MP3
+    bitrate: 320
+  - url: https://phoebe.streamerr.co:3650/;?type=http&nocache=123
+    codec: MP3
+    bitrate: 320

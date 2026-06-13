@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8555a8e5-6bc2-49bc-b08a-0cd7bcbb3beb
-streams:
-  - url: 'https://streaming.radiochristmas.co.uk/RadioChristmas'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://streaming.radiochristmas.co.uk/RadioChristmas'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Christmas music; holiday programming; festive songs; seasonal content
   notes: UK-based independent online radio station specializing in Christmas and holiday music year-round and especially during Christmas season.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8555a8e5-6bc2-49bc-b08a-0cd7bcbb3beb
+streams:
+  - url: https://streaming.radiochristmas.co.uk/RadioChristmas
+    codec: MP3
+    bitrate: 256
+  - url: http://streaming.radiochristmas.co.uk/RadioChristmas
+    codec: MP3
+    bitrate: 256

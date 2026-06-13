@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 05:17:04
 clickcount: 0
 geo_lat: 47.41697205390062
 geo_long: 8.561208844184877
-curation: 0.60
-provenance:
-  - radiobrowser-ab08b88f-397e-4fd0-810e-9578418a1ace
-duplicate_of: fdca915e-1dc9-4332-be61-e8e76c4b9590
-streams:
-  - url: 'https://stream.srg-ssr.ch/rsc_de/aacp_96.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://stream.srg-ssr.ch/rsc_de/aacp_96.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96'
-    codec: AAC
-    bitrate: 88
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +30,16 @@ research:
   format: Classical music 24/7; curated repertoire from classical canon including Bach, Beethoven, Chopin, Brahms; music database and information programming.
   notes: Part of SRG SSR's multi-station network (alongside Radio Swiss Jazz and Radio Swiss Pop); operates in German (RSC de), French (RSC la 1ère), and Italian; founded as Switzerland's public classical music service; emphasis on high-quality classical programming and music education.
   sources: https://www.radioswissclassic.ch/de
+curation: 0.6
+provenance:
+  - radiobrowser-ab08b88f-397e-4fd0-810e-9578418a1ace
+duplicate_of: fdca915e-1dc9-4332-be61-e8e76c4b9590
+streams:
+  - url: https://stream.srg-ssr.ch/rsc_de/aacp_96.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96
+    codec: AAC
+    bitrate: 96
+  - url: https://stream.srg-ssr.ch/rsc_de/aacp_96.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96
+    codec: AAC
+    bitrate: 88

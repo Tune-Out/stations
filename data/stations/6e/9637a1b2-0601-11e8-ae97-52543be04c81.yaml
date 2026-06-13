@@ -24,14 +24,6 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 61
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9637a1b2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.90s90s.de/pop/aac-64/streams.90s90s.de/'
-    codec: AAC
-  - url: 'http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +33,11 @@ research:
   format: 1990s pop, dance and rock hits with themed sub-channels (Dance, Britpop, Grunge, House, Techno, Hip-Hop, Ibiza, Loveparade)
   notes: 90s90s launched as a multi-channel digital brand from Regiocast, a major German private radio group also behind R.SH, delta radio, Radio BOB! and the 80s90s family; the "Hits" channel is the flagship feed pitched at listeners who "love the music of the 90s and want to rediscover it in the here and now"; available via DAB+ (channel 5D), web stream, mobile apps, Alexa skill and Sonos.
   sources: http://www.90s90s.de/, internal knowledge
+curation: -0.1
+provenance:
+  - radiobrowser-9637a1b2-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.90s90s.de/pop/aac-64/streams.90s90s.de/
+    codec: AAC
+  - url: http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
+    codec: MP3

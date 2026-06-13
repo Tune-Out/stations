@@ -1,6 +1,6 @@
 stationuuid: 9648a2c8-0601-11e8-ae97-52543be04c81
 name: KSEH "Radio Jose 94.5" Brawley, CA
-url: http://provisioning.streamtheworld.com/pls/KSEHFMAAC.pls
+url: 'http://17813.live.streamtheworld.com:80/KSEHFMAAC_SC'
 url_resolved: http://17843.live.streamtheworld.com/KSEHFMAAC_SC
 homepage: http://jose.entravision.com/el-centro/
 favicon: ""
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 03:08:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648a2c8-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Spanish adult hits, contemporary Latin music
   notes: KSEH is a commercial radio station in Brawley, California operated by Entravision Communications. The station broadcasts Spanish adult hits format to the Imperial Valley region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648a2c8-0601-11e8-ae97-52543be04c81

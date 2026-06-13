@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 01:42:49
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1279d9ff-4a07-4178-a491-6f592712d8ee
-streams:
-  - url: 'http://213.141.131.10:8004/electrotechno'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://213.141.131.10:8000/electrotechno'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://213.141.131.10:8002/electrotechno'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +32,19 @@ research:
   format: Electro, electro-techno, electronic music, techno; dedicated channel for contemporary electronic music
   notes: Radio Caprice is a Russian internet radio network with numerous specialized music channels; Electro Techno channel [3] offers continuous electronic and techno music programming; streams at high bitrate (320 kbps AAC+); part of the multi-channel Caprice Radio lineup
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1279d9ff-4a07-4178-a491-6f592712d8ee
+  - iprd-ru-radio-caprice-electro-techno-efb9774b
+  - iprd-ru-radio-caprice-electro-techno-caaf3e43
+  - iprd-ru-radio-caprice-electro-techno-b0ae1a7f
+streams:
+  - url: http://213.141.131.10:8004/electrotechno
+    codec: AAC+
+    bitrate: 320
+  - url: http://213.141.131.10:8000/electrotechno
+    codec: AAC+
+    bitrate: 320
+  - url: http://213.141.131.10:8002/electrotechno
+    codec: AAC+
+    bitrate: 48

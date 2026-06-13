@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-51745b10-5f95-49ab-bc53-068ad35fcee1
-streams:
-  - url: 'https://radio.streemlion.com:4405/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://radio.streemlion.com:4170/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,14 @@ research:
   format: Shoegaze, indie rock, alternative rock
   notes: DKFM Edge is a Canadian specialty radio station from Decay FM network dedicated to shoegaze and indie rock music. Features shoegaze, dream pop, noise rock, and related alternative genres. English-language programming for shoegaze enthusiasts in Canada.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-51745b10-5f95-49ab-bc53-068ad35fcee1
+  - iprd-ca-dkfm-edge-9202f07d
+streams:
+  - url: https://radio.streemlion.com:4405/stream
+    codec: AAC+
+    bitrate: 64
+  - url: http://radio.streemlion.com:4170/stream
+    codec: MP3
+    bitrate: 128

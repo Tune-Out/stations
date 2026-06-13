@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8c52d075-f7a5-4963-a922-09c5fa47272f
-streams:
-  - url: 'https://ukwesta.streaming.broadcast.radio/stoke?1692976686054='
-    codec: MP3
-  - url: 'https://ukwesta.streaming.broadcast.radio/stoke?1699802456073='
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +30,11 @@ research:
   format: Music, entertainment, patient support programming, and hospital information
   notes: Volunteer-run hospital radio serving Stoke Mandeville Hospital in Buckinghamshire. Provides entertainment and support to patients, staff, and visitors.
   sources: https://www.smhr.co.uk/
+curation: 0.35
+provenance:
+  - radiobrowser-8c52d075-f7a5-4963-a922-09c5fa47272f
+streams:
+  - url: https://ukwesta.streaming.broadcast.radio/stoke?1692976686054=
+    codec: MP3
+  - url: https://ukwesta.streaming.broadcast.radio/stoke?1699802456073=
+    codec: MP3

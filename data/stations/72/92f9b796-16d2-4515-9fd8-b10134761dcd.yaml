@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-92f9b796-16d2-4515-9fd8-b10134761dcd
-streams:
-  - url: 'http://listen.nolife-radio.com/'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://listen.nolife-radio.com/'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Community-curated music with listener voting, song requests, real-time chat, and track polling.
   notes: Volunteer-operated internet radio with participatory community model. Tracks user music preferences via voting system. Accessible via web player, IRC, and traditional media player formats (Winamp, iTunes, Windows Media Player).
   sources: https://nolife-radio.com/
+curation: 0.6
+provenance:
+  - radiobrowser-92f9b796-16d2-4515-9fd8-b10134761dcd
+streams:
+  - url: http://listen.nolife-radio.com/
+    codec: MP3
+    bitrate: 96
+  - url: https://listen.nolife-radio.com/
+    codec: MP3
+    bitrate: 96

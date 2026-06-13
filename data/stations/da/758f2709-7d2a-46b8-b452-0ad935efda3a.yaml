@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 04:49:59
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-758f2709-7d2a-46b8-b452-0ad935efda3a
-streams:
-  - url: 'https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +31,11 @@ research:
   format: Classical music featuring recordings and performances of the Bavarian Radio Symphony Orchestra
   notes: Founded 1949; principal conductor Sir Simon Rattle (as of 2023/24); Grammy and Gramophone award-winning orchestra; primary venues are Herkulessaal and Isarphilharmonie in Munich
   sources: https://en.wikipedia.org/wiki/Bavarian_Radio_Symphony_Orchestra, https://www.brso.de/en/
+curation: 0.8
+provenance:
+  - radiobrowser-758f2709-7d2a-46b8-b452-0ad935efda3a
+streams:
+  - url: https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio
+    codec: MP3

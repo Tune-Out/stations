@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-00ce8677-b06d-4a96-9266-8cb63f7d7b0b
-streams:
-  - url: 'https://itsliveradio.apple.com/streams/live/1498157166/master_web.m3u8'
-    codec: AAC+
-    bitrate: 64
-    hls: true
-  - url: 'https://itsliveradiobackup.apple.com/streams/1498157166/hub04/session06/256k/prog.m3u8'
-    codec: MP4
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Curated country music programming from Apple's global streaming catalog.
   notes: Apple Music Country is a curated station within Apple's proprietary streaming platform. Part of Apple's expansion into music curation and discovery.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-00ce8677-b06d-4a96-9266-8cb63f7d7b0b
+streams:
+  - url: https://itsliveradio.apple.com/streams/live/1498157166/master_web.m3u8
+    codec: AAC+
+    bitrate: 64
+    hls: true
+  - url: https://itsliveradiobackup.apple.com/streams/1498157166/hub04/session06/256k/prog.m3u8
+    codec: MP4
+    hls: true

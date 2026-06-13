@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-dfb7a49d-b4ba-481e-87d2-99e32fc120f0
-streams:
-  - url: 'https://dalesradio.radioca.st:2199/tunein/dalesradio-stream.pls'
-    url_resolved: 'http://176.9.76.61:8168/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream3.themediasite.co.uk:8364/stream?_=690543'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +28,14 @@ research:
   format: Community radio with general entertainment and music programming.
   notes: UK-based independent community radio station; operates online and via streaming; minimal public information available regarding specific region or format details.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-dfb7a49d-b4ba-481e-87d2-99e32fc120f0
+streams:
+  - url: https://dalesradio.radioca.st:2199/tunein/dalesradio-stream.pls
+    url_resolved: http://176.9.76.61:8168/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://stream3.themediasite.co.uk:8364/stream?_=690543
+    codec: MP3
+    bitrate: 128

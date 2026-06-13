@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:45:24
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0c8e3629-39c2-4d22-9fcf-bf8353e13584
-streams:
-  - url: 'https://newcap.leanstream.co/CIHTFM?args=web_01'
-    codec: AAC
-    bitrate: 133
-  - url: 'http://newcap.leanstream.co/CIHTFM'
-    codec: AAC
-    bitrate: 132
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Contemporary hit radio (CHR), Top 40 pop and dance music
   notes: Licensed commercial FM station operating 89.9 FM in Ottawa, Ontario. Part of larger Canadian broadcasting group. Emphasis on music, entertainment, and local content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0c8e3629-39c2-4d22-9fcf-bf8353e13584
+  - iprd-ca-ciht-hot-89-9-367df16c
+streams:
+  - url: https://newcap.leanstream.co/CIHTFM?args=web_01
+    codec: AAC
+    bitrate: 133
+  - url: http://newcap.leanstream.co/CIHTFM
+    codec: AAC
+    bitrate: 132

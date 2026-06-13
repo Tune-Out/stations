@@ -1,6 +1,6 @@
 stationuuid: 97989d11-b787-4708-9c69-ca7e9a5b4fb5
 name: KPBZ
-url: http://playerservices.streamtheworld.com/pls/KPBZ_FM_AAC.pls
+url: 'http://14993.live.streamtheworld.com:80/KPBZ_FM_AAC_SC'
 url_resolved: http://14993.live.streamtheworld.com/KPBZ_FM_AAC_SC
 homepage: https://www.spokanepublicradio.org/listen-live-0
 favicon: ""
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-97989d11-b787-4708-9c69-ca7e9a5b4fb5
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -31,3 +28,7 @@ research:
   format: Public radio programming; news, cultural, educational content
   notes: KPBZ (Spokane Public Radio) is a non-commercial public broadcaster serving Spokane and eastern Washington. Affiliated with NPR providing news, cultural programming, and public affairs. Listener-supported, educational model. Domain security restrictions prevented live webpage access; information from internal knowledge.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-97989d11-b787-4708-9c69-ca7e9a5b4fb5
+  - iprd-us-kpbz-263a4149

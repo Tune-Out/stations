@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:00:02
 clickcount: 16
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-cc40c5c2-d8a3-11e9-a861-52543be04c81
-streams:
-  - url: 'https://ice04.fluidstream.net/rn1_2.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://ice10.fluidstream.net/rn1_2.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Dance music — classic and contemporary club/dance hits, framed as "music as history to remember"
   notes: One Dance broadcasts on FM across Lombardy (Bergamo, Brescia and surrounding valleys), reaches Piedmont (Turin via DAB+) and Liguria (Genoa and the coast), and streams internationally online; the station positions itself with the slogan that "la musica non è solo intrattenimento, ma storia da vivere e ricordare" ("music is not merely entertainment but history to experience and remember"), bridging nostalgic dance classics with current releases.
   sources: http://www.onedance.fm/
+curation: -0.05
+provenance:
+  - radiobrowser-cc40c5c2-d8a3-11e9-a861-52543be04c81
+  - iprd-it-one-dance-5a08888a
+  - iprd-it-one-dance-fd513149
+streams:
+  - url: https://ice04.fluidstream.net/rn1_2.aac
+    codec: AAC
+    bitrate: 128
+  - url: http://ice10.fluidstream.net/rn1_2.mp3
+    codec: MP3
+    bitrate: 320

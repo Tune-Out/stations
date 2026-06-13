@@ -1,7 +1,7 @@
 stationuuid: 0055132b-4f24-4104-87e3-86b3dc1a702c
 name: Cadena Ser + Huesca
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_HUESCA.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_HUESCA.mp3
+url: 'http://25533.live.streamtheworld.com:80/CADENASER_ALT2.mp3'
+url_resolved: 'http://25533.live.streamtheworld.com:80/CADENASER_ALT2.mp3'
 homepage: https://cadenaser.com/
 favicon: https://cadenaser00.epimg.net/estaticos/recursosgraficos/img/app/ser_192.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0055132b-4f24-4104-87e3-86b3dc1a702c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: News (noticias), sports (deportes), debate
   notes: Spanish commercial radio station specializing in news, sports coverage, and current affairs debate; part of Cadena SER network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0055132b-4f24-4104-87e3-86b3dc1a702c

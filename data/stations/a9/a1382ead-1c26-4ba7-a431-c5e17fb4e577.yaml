@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 04:15:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a1382ead-1c26-4ba7-a431-c5e17fb4e577
-streams:
-  - url: 'https://online.radiokiks.sk:8000/kiks_big90s.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://online.radiokiks.sk:8000/kiks_hq.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://online.radiokiks.sk:8000/kiks_big80s.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: 1990s music and hits; niche nostalgia-focused format.
   notes: Slovak internet radio station specializing in 1990s music; "Big 90s" format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a1382ead-1c26-4ba7-a431-c5e17fb4e577
+streams:
+  - url: https://online.radiokiks.sk:8000/kiks_big90s.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://online.radiokiks.sk:8000/kiks_hq.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://online.radiokiks.sk:8000/kiks_big80s.mp3
+    codec: MP3
+    bitrate: 128

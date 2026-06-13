@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-010b20cc-dee0-4c04-b923-91988f394578
-streams:
-  - url: 'https://strm112.1.fm/praise_mobile_mp3?aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://strm112.1.fm/praise_mobile_mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Praise, worship, Christian music
   notes: Christian worship radio from 1.fm platform offering praise and worship music. Non-commercial religious streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-010b20cc-dee0-4c04-b923-91988f394578
+  - iprd-ch-1-fm-eternal-praise-worship-radio-d2fcde5c
+streams:
+  - url: https://strm112.1.fm/praise_mobile_mp3?aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 320
+  - url: http://strm112.1.fm/praise_mobile_mp3
+    codec: MP3
+    bitrate: 320

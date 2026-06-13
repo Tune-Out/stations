@@ -24,17 +24,6 @@ lastchangetime: 2026-03-16 07:29:48
 clickcount: 2
 geo_lat: 37.25847889430797
 geo_long: -6.946105957031251
-curation: -0.05
-provenance:
-  - radiobrowser-d2b032d4-1870-4145-b146-d0f782a0b535
-streams:
-  - url: 'https://atres-live.ondacero.es/live/delegaciones/oc/huelva/master.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'https://25593.live.streamtheworld.com/OC_HUELVAAAC.aac'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +33,14 @@ research:
   format: News, sports, cultural programming, talk, entertainment
   notes: Onda Cero is a major Spanish commercial radio network owned by Atresmedia (one of Spain's largest media companies). Huelva edition serves Huelva Province in Andalucía region. "Onda Cero" is a prominent national radio brand with local versions in major Spanish cities. Strong focus on news, current affairs, sports coverage, and cultural programming. Popular with Spanish mainstream audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d2b032d4-1870-4145-b146-d0f782a0b535
+streams:
+  - url: https://atres-live.ondacero.es/live/delegaciones/oc/huelva/master.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: https://25593.live.streamtheworld.com/OC_HUELVAAAC.aac
+    codec: AAC+
+    bitrate: 128

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:07:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d0964a34-f18b-11e8-a471-52543be04c81
-streams:
-  - url: 'http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -40,3 +30,13 @@ research:
   format: News and current affairs television broadcast; HLS video stream
   notes: Hotse TV-1 is a state news channel operated by Hangzhou television (HZ Net), part of China's public broadcasting system under government control.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d0964a34-f18b-11e8-a471-52543be04c81
+streams:
+  - url: http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+    codec: UNKNOWN
+    hls: true

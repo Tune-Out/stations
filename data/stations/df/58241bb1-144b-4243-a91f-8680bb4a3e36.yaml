@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-58241bb1-144b-4243-a91f-8680bb4a3e36
-streams:
-  - url: 'http://ice.zradio.org/r/med.aac'
-    codec: AAC+
-    bitrate: 80
-  - url: 'http://ice.zradio.org/r/low.aac'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Rock music streaming channel (AAC+).
   notes: TheRockHD.com is part of ZRadio, a non-commercial internet radio collective offering multiple music format streams. Specializes in rock music programming. Low-bitrate stream optimized for accessibility.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-58241bb1-144b-4243-a91f-8680bb4a3e36
+streams:
+  - url: http://ice.zradio.org/r/med.aac
+    codec: AAC+
+    bitrate: 80
+  - url: http://ice.zradio.org/r/low.aac
+    codec: AAC+
+    bitrate: 32

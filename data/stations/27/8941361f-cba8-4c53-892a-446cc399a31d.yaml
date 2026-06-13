@@ -19,16 +19,6 @@ lastchangetime: 2026-02-28 18:05:21
 clickcount: 2
 geo_lat: 50.077327392658184
 geo_long: 14.424780607223513
-curation: 0.50
-provenance:
-  - radiobrowser-8941361f-cba8-4c53-892a-446cc399a31d
-streams:
-  - url: 'https://icecast8.play.cz/classic128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icecast8.play.cz/classic128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Classical music programming
   notes: Czech internet radio station dedicated to classical music; based in Prague; online streaming format.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-8941361f-cba8-4c53-892a-446cc399a31d
+  - iprd-cz-classic-praha-3f9a4b8d
+streams:
+  - url: https://icecast8.play.cz/classic128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icecast8.play.cz/classic128.mp3
+    codec: MP3
+    bitrate: 128

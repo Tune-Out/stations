@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:28:26
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-37ae40d9-3ed6-45e7-8036-e46c11be6c27
-streams:
-  - url: 'https://broadcast.miami/proxy/salsoul?mp=/stream/;'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://broadcast.miami/proxy/salsoul?mp=/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Disco music and soul music programming
   notes: U.S.-based disco radio station broadcasting from Florida. Named after Salsoul Records, the influential 1970s-80s disco label. Focuses on classic and contemporary disco music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-37ae40d9-3ed6-45e7-8036-e46c11be6c27
+  - iprd-us-radio-salsoul-8ea98371
+streams:
+  - url: https://broadcast.miami/proxy/salsoul?mp=/stream/;
+    codec: MP3
+    bitrate: 320
+  - url: https://broadcast.miami/proxy/salsoul?mp=/stream
+    codec: MP3
+    bitrate: 320

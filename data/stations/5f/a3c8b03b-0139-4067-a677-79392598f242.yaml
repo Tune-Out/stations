@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-a3c8b03b-0139-4067-a677-79392598f242
-streams:
-  - url: 'https://icecast6.play.cz/cesky-impuls.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icecast6.play.cz/cesky-impuls.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: Music and talk; mixed programming; part of Czech public radio.
   notes: Czech public radio station; "Český Impuls" translates to "Czech Impulse"; member of Czech Radio Network; ad-free public service.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-a3c8b03b-0139-4067-a677-79392598f242
+  - iprd-cz-cesky-impuls-981-b50a900c
+streams:
+  - url: https://icecast6.play.cz/cesky-impuls.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icecast6.play.cz/cesky-impuls.mp3
+    codec: MP3
+    bitrate: 128

@@ -20,19 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 51.901918172561714
 geo_long: -8.473205566406252
-curation: 0.35
-provenance:
-  - radiobrowser-8604376b-3ba2-4ef3-90ca-12ba9bb66c58
-streams:
-  - url: 'http://master.shoutcast.com:8000/dhr'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.shoutcast.com/dhr?1728967549574'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://deephouse-radio.com/api/stream/free'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +29,16 @@ research:
   format: Deep house music and electronic genres
   notes: Internet radio station based in Cork, Ireland specializing in deep house music. Online community platform for genre enthusiasts.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8604376b-3ba2-4ef3-90ca-12ba9bb66c58
+streams:
+  - url: http://master.shoutcast.com:8000/dhr
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.shoutcast.com/dhr?1728967549574
+    codec: MP3
+    bitrate: 128
+  - url: https://deephouse-radio.com/api/stream/free
+    codec: MP3
+    bitrate: 128

@@ -1,6 +1,6 @@
 stationuuid: 5f9397f7-5cee-4087-b7b2-7eea8064b4f3
 name: "EL ROCKÓDROMO de Radio Felicidad: Rock and Roll de los 50s y 60s"
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR15_s01AAC.aac
+url: 'https://19273.live.streamtheworld.com:443/ACIR15_S01AAC.aac'
 url_resolved: https://29309.live.streamtheworld.com:443/ACIR15_S01AAC.aac
 homepage: https://www.iheart.com/live/el-rockodromo-de-felicidad-8056/
 favicon: https://i.iheart.com/v3/re/assets.streams/664fdc66d654e5b9dff60ccc
@@ -24,9 +24,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-31 22:32:04
 clickcount: 7
-curation: -0.05
-provenance:
-  - radiobrowser-5f9397f7-5cee-4087-b7b2-7eea8064b4f3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: 1950s and 1960s rock and roll music
   notes: '"El Rockódromo de Radio Felicidad" (The Rock-odrome of Happy Radio) features classic 50s and 60s rock programming. Hosted by Moi Merino on Grupo ACIR / iHeartRadio Mexico.'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5f9397f7-5cee-4087-b7b2-7eea8064b4f3

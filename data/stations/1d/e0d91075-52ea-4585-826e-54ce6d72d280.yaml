@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 04:42:48
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-e0d91075-52ea-4585-826e-54ce6d72d280
-streams:
-  - url: 'https://stream.londonmusicradio.com:8005/mobile'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://radiobossrelay.radioca.st/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream.londonmusicradio.com:8005/128k'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +30,18 @@ research:
   format: 24/7 Soul, Funk, Jazz, Hip-Hop, Reggae, House; 40+ DJ shows; LMR Soul Chart ranking system
   notes: Independent community radio established 2017; supports volunteer DJs/producers; active on Mixcloud; guest interviews and on-demand content; copyright 2023
   sources: https://londonmusicradio.com/
+curation: 0.5
+provenance:
+  - radiobrowser-e0d91075-52ea-4585-826e-54ce6d72d280
+  - iprd-gb-london-music-radio-67d838c5
+  - iprd-gb-london-music-radio-66f3fdbc
+streams:
+  - url: https://stream.londonmusicradio.com:8005/mobile
+    codec: AAC+
+    bitrate: 32
+  - url: https://radiobossrelay.radioca.st/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://stream.londonmusicradio.com:8005/128k
+    codec: MP3
+    bitrate: 128

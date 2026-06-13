@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 0
 geo_lat: 43.8376026681663
 geo_long: 4.360105013092489
-curation: 0.35
-provenance:
-  - radiobrowser-fe1aa8a7-de64-42be-9171-398c5b867324
-streams:
-  - url: 'http://stream.rtsfm.com/rts-nimes'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://str0.creacast.com/rts-nimes'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,14 @@ research:
   format: General entertainment, music, and community programming
   notes: Local community radio station serving the Nîmes region in southern France
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-fe1aa8a7-de64-42be-9171-398c5b867324
+  - iprd-fr-rts-n-mes-0ad195ff
+streams:
+  - url: http://stream.rtsfm.com/rts-nimes
+    codec: MP3
+    bitrate: 128
+  - url: http://str0.creacast.com/rts-nimes
+    codec: MP3
+    bitrate: 128

@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 08:40:44
 clickcount: 0
 geo_lat: 19.437068381040945
 geo_long: -99.13458252791318
-curation: -0.05
-provenance:
-  - radiobrowser-be1cd9ad-943b-4054-985f-bed7e1fe01d5
-streams:
-  - url: 'https://mdstrm.com/audio/61e1e00417181d3a42851257/live.m3u8'
-    codec: AAC
-    bitrate: 131
-    hls: true
-  - url: 'https://mdstrm.com/audio/61e1e00417181d3a42851257/live.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +33,15 @@ research:
   format: Talk, news, music (mixed genres); part of Grupo Fórmula's multi-station network in Mexico
   notes: XEDF-AM, 1500 AM. Broadcast from Mexico City with national reach. Part of larger Grupo Fórmula broadcasting empire operating multiple stations across Mexico.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-be1cd9ad-943b-4054-985f-bed7e1fe01d5
+streams:
+  - url: https://mdstrm.com/audio/61e1e00417181d3a42851257/live.m3u8
+    codec: AAC
+    bitrate: 131
+    hls: true
+  - url: https://mdstrm.com/audio/61e1e00417181d3a42851257/live.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true

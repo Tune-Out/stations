@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 08:25:40
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-21ba9188-59a9-11ea-be63-52543be04c81
-streams:
-  - url: 'http://31.192.216.10/DANCE'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://rmfstream1.interia.pl:8000/rmf_dance'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.rmfon.pl/n/dance.pls'
-    url_resolved: 'https://rs103-krk.rmfstream.pl/rmf_dance'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +31,19 @@ research:
   format: Dance music; "dance bez ograniczeń" (dance without limits)
   notes: Part of major RMF network (RMF FM, RMF MAXX, RMF Classic, RMF24). Streaming via RMF ON platform. Premium ad-free subscriptions available.
   sources: http://www.rmfon.pl/stacja/rmf-dance
+curation: 0.25
+provenance:
+  - radiobrowser-21ba9188-59a9-11ea-be63-52543be04c81
+  - iprd-pl-rmf-dance-0f7e8796
+  - iprd-pl-rmf-dance-2b430eeb
+streams:
+  - url: http://31.192.216.10/DANCE
+    codec: AAC+
+    bitrate: 64
+  - url: http://rmfstream1.interia.pl:8000/rmf_dance
+    codec: MP3
+    bitrate: 128
+  - url: http://www.rmfon.pl/n/dance.pls
+    url_resolved: https://rs103-krk.rmfstream.pl/rmf_dance
+    codec: MP3
+    bitrate: 128

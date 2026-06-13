@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-79666604-0028-4b8b-9c56-21817a9de438
-streams:
-  - url: 'https://comodin.uy/listen/chiveo/320.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://comodin.uy/listen/chiveo/128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -39,3 +29,13 @@ research:
   format: Children's music, entertainment, and educational programming for infants through school-age children
   notes: Radio Chiveo is a community-based station in Montevideo, Uruguay dedicated to children's programming with Spanish-language music and content designed for children (niños, niñas, niñes).
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-79666604-0028-4b8b-9c56-21817a9de438
+streams:
+  - url: https://comodin.uy/listen/chiveo/320.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://comodin.uy/listen/chiveo/128.mp3
+    codec: MP3
+    bitrate: 128

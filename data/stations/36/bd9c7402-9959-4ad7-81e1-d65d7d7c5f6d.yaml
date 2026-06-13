@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 1
 geo_lat: 48.59264127649943
 geo_long: 7.716329888664816
-curation: 0.65
-provenance:
-  - radiobrowser-bd9c7402-9959-4ad7-81e1-d65d7d7c5f6d
-streams:
-  - url: 'https://stream.radiofrance.fr/fbalsace/fbalsace.m3u8?id=radiofrance'
-    codec: AAC
-    bitrate: 107
-    hls: true
-  - url: 'https://icecast.radiofrance.fr/fbalsace-midfi.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,17 @@ research:
   format: Public radio with regional focus; news, information, culture, and music for Alsace communities.
   notes: France Bleu Alsace is part of Radio France's network of regional public radio stations. Now accessed via ici.fr (Radio France's digital rebrand). Broadcasts to Alsace in eastern France, providing local news, information, cultural programming, and music.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-bd9c7402-9959-4ad7-81e1-d65d7d7c5f6d
+  - iprd-fr-france-bleu-alsace-c47f2a5a
+  - iprd-fr-france-bleu-alsace-7914675b
+  - iprd-fr-france-bleu-alsace-69fc36b5
+streams:
+  - url: https://stream.radiofrance.fr/fbalsace/fbalsace.m3u8?id=radiofrance
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: https://icecast.radiofrance.fr/fbalsace-midfi.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,6 +1,6 @@
 stationuuid: 961e2294-0601-11e8-ae97-52543be04c81
 name: WAMC 90.3 "Northeast Public Radio" Albany, NY
-url: http://provisioning.streamtheworld.com/pls/WAMCFMAAC.pls
+url: 'http://26233.live.streamtheworld.com:80/WAMCFMAAC_SC'
 url_resolved: http://18123.live.streamtheworld.com:3690/WAMCFMAAC_SC
 homepage: http://wamc.org/
 favicon: http://wamc.org/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:22:38
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-961e2294-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: News, arts, culture, public affairs, jazz, educational programming
   notes: WAMC 90.3 is a non-commercial public radio station licensed to Albany, New York. Part of NPR network. Notable shows include Morning Edition, All Things Considered, The Book Show, WAMC Jazz Show, and The Roundtable. Emphasizes community engagement and listener support. Commercial-free public broadcaster model.
   sources: http://wamc.org/
+curation: 0.65
+provenance:
+  - radiobrowser-961e2294-0601-11e8-ae97-52543be04c81

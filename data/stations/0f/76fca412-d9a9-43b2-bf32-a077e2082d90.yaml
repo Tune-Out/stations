@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 51.42382127801804
 geo_long: 0.059057064559344674
-curation: 0.50
-provenance:
-  - radiobrowser-76fca412-d9a9-43b2-bf32-a077e2082d90
-streams:
-  - url: 'https://crackersfresh.radioca.st/;'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://crackersfresh.radioca.st/'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: 24/7 soul, dance, disco, jazz, R&B, hip hop, reggae, funk, rare groove; shows like "FROM THE VAULTS" and genre-specific programming
   notes: Community/independent online station based in Bromley, London. "Tuned to the world, Connected to you." Available on iOS/Android, TuneIn, Radio-UK, and web. Listener dedications, weekly charts, Mixcloud podcasts. High bitrate (320 kbps MP3).
   sources: https://www.crackersradio.com/
+curation: 0.5
+provenance:
+  - radiobrowser-76fca412-d9a9-43b2-bf32-a077e2082d90
+streams:
+  - url: https://crackersfresh.radioca.st/;
+    codec: MP3
+    bitrate: 320
+  - url: https://crackersfresh.radioca.st/
+    codec: MP3
+    bitrate: 320

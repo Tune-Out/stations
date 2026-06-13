@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:54:13
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-b18b5378-673c-426c-b01b-93a7689ed62f
-streams:
-  - url: 'http://onairmediagroup.live24.gr/star888xanthi'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://onairmediagroup.live24.gr/star888xanthi'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,14 @@ research:
   format: music-focused with talk and interview shows; Greek folk, pop, and traditional content
   notes: 'Local FM station broadcasting at 88.8 from Xanthi. Station motto: "ΤΟ ΡΑΔΙΟΦΩΝΟ ΟΠΩΣ ΤΟ ΘΕΛΟΥΜΕ!" (The radio as we want it!). Programming includes "Συνθέσεις του Χρόνου", "Τρέχει κάτι;", and "Κατάλληλα Ακατάλληλοι".'
   sources: https://star888fm.gr/
+curation: 0.4
+provenance:
+  - radiobrowser-b18b5378-673c-426c-b01b-93a7689ed62f
+  - iprd-gr-star-88-8-ac452a89
+streams:
+  - url: http://onairmediagroup.live24.gr/star888xanthi
+    codec: MP3
+    bitrate: 128
+  - url: https://onairmediagroup.live24.gr/star888xanthi
+    codec: MP3
+    bitrate: 128

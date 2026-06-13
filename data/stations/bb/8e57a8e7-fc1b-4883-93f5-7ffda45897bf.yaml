@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8e57a8e7-fc1b-4883-93f5-7ffda45897bf
-streams:
-  - url: 'https://oxygenmusic.hu:8000/xmas_320'
-    codec: AAC+
-    bitrate: 160
-  - url: 'http://oxygenmusic.hu:8000/xmas_320.m3u'
-    url_resolved: 'http://oxygenmusic.hu:8000/xmas_320'
-    codec: AAC+
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Christmas and holiday music (seasonal channel); part of Oxygen Music network
   notes: Oxygen Xmas is a seasonal channel offered at 320 kbps AAC+ quality; part of broader Oxygen Music service.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8e57a8e7-fc1b-4883-93f5-7ffda45897bf
+streams:
+  - url: https://oxygenmusic.hu:8000/xmas_320
+    codec: AAC+
+    bitrate: 160
+  - url: http://oxygenmusic.hu:8000/xmas_320.m3u
+    url_resolved: http://oxygenmusic.hu:8000/xmas_320
+    codec: AAC+
+    bitrate: 160

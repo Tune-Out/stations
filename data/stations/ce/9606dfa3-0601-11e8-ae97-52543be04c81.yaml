@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 02:58:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9606dfa3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://statslive.infomaniak.ch/playlist/frequenceplus71/frequenceplus71-64.aac/playlist.pls'
-    url_resolved: 'https://frequenceplus71.ice.infomaniak.ch/frequenceplus71-64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://statslive.infomaniak.ch/playlist/frequenceplus71/frequenceplus71-128.mp3/playlist.pls'
-    url_resolved: 'https://frequenceplus71.ice.infomaniak.ch/frequenceplus71-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +30,17 @@ research:
   format: Radio station programming via RTS Fréquence Plus
   notes: RTS programme Fréquence Plus is part of RTS (Swiss Radio and Television) public broadcasting network.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9606dfa3-0601-11e8-ae97-52543be04c81
+  - iprd-fr-rts-programme-fr-quence-plus-1d7af758
+  - iprd-fr-rts-programme-fr-quence-plus-3e7ab296
+streams:
+  - url: http://statslive.infomaniak.ch/playlist/frequenceplus71/frequenceplus71-64.aac/playlist.pls
+    url_resolved: https://frequenceplus71.ice.infomaniak.ch/frequenceplus71-64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://statslive.infomaniak.ch/playlist/frequenceplus71/frequenceplus71-128.mp3/playlist.pls
+    url_resolved: https://frequenceplus71.ice.infomaniak.ch/frequenceplus71-128.mp3
+    codec: MP3
+    bitrate: 128

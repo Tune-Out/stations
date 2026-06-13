@@ -1,7 +1,7 @@
 stationuuid: f9199c65-73ba-4305-92ca-e663aea4c25e
 name: ABC DEPORTES 660 (MTY) - 660 AM - XEFZ-AM - Grupo Radio Alegría - Monterrey, Nuevo León
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ABC_NOTICIAS_660AMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ABC_NOTICIAS_660AMAAC.aac
+url: 'https://18163.live.streamtheworld.com:443/ABC_NOTICIAS_660AMAAC.aac'
+url_resolved: 'https://18163.live.streamtheworld.com:443/ABC_NOTICIAS_660AMAAC.aac'
 homepage: https://abcnoticias.mx/deportes
 favicon: https://thumbnail.anii.io/mx/radio-abc-deportes-92-1-fm-660-am-mexico.webp
 tags:
@@ -27,9 +27,6 @@ lastchangetime: 2026-01-15 02:50:58
 clickcount: 1
 geo_lat: 25.680791667045295
 geo_long: -100.31659126281738
-curation: 0.30
-provenance:
-  - radiobrowser-f9199c65-73ba-4305-92ca-e663aea4c25e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +36,6 @@ research:
   format: Sports talk and sports programming with music and entertainment; simulcast 660 AM (XEFZ-AM) and 92.1 FM (XHGBO-FM)
   notes: XEFZ-AM (660 AM) received concession March 29, 1971; switched format from ABC Noticias to ABC Deportes on January 4, 2021; operates 10,000 watts from Monterrey
   sources: https://en.wikipedia.org/wiki/XEFZ-AM, https://zeno.fm/
+curation: 0.3
+provenance:
+  - radiobrowser-f9199c65-73ba-4305-92ca-e663aea4c25e

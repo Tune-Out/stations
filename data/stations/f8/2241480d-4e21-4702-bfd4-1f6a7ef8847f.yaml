@@ -1,7 +1,7 @@
 stationuuid: 2241480d-4e21-4702-bfd4-1f6a7ef8847f
 name: Canberra's 1WAY FM - Canberra - 91.9 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/1WAYAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/1WAYAAC.aac
+url: 'http://28853.live.streamtheworld.com:80/1WAYAAC.aac'
+url_resolved: 'http://28853.live.streamtheworld.com:80/1WAYAAC.aac'
 homepage: https://www.1wayfm.com.au/
 favicon: https://i.ibb.co/hB2hksb/1-WAY-2546771-config-station-logo-image-1646965054.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:14:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2241480d-4e21-4702-bfd4-1f6a7ef8847f
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -35,3 +32,6 @@ research:
   format: Community and Christian programming.
   notes: Non-profit community radio station in Canberra, 91.9 FM, serving the ACT region.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-2241480d-4e21-4702-bfd4-1f6a7ef8847f

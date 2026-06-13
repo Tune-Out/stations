@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:08
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5e4da3b2-2e75-4bf8-b3a4-f5b04f3bc1c1
-streams:
-  - url: 'http://www.spacetravelradio.de/listen_str.m3u'
-    url_resolved: 'https://spacetravelradio.de:2893/stream/2/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://spacetravelradio.de:1701/stream/1/'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +29,14 @@ research:
   format: chillout and space music; ambient and atmospheric programming
   notes: independent German online radio station specializing in space-themed chillout and ambient music
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5e4da3b2-2e75-4bf8-b3a4-f5b04f3bc1c1
+streams:
+  - url: http://www.spacetravelradio.de/listen_str.m3u
+    url_resolved: https://spacetravelradio.de:2893/stream/2/
+    codec: MP3
+    bitrate: 128
+  - url: http://spacetravelradio.de:1701/stream/1/
+    codec: MP3
+    bitrate: 96

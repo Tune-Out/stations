@@ -25,18 +25,6 @@ lastchangetime: 2026-01-15 02:50:20
 clickcount: 0
 geo_lat: 51.487669166454
 geo_long: 11.970610320568086
-curation: 0.50
-provenance:
-  - radiobrowser-4fec5f7d-51ae-49af-b36f-b4a025119ea6
-streams:
-  - url: 'https://streaming.fueralle.org/corax_192.mp3'
-    codec: MP3
-  - url: 'http://streaming.fueralle.org/corax_128.mp3?_=1'
-    codec: MP3
-  - url: 'https://streaming.fueralle.org/corax_192.mp3?_=1'
-    codec: MP3
-  - url: 'http://streaming.fueralle.org:8000/corax.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +34,17 @@ research:
   format: Community radio; alternative programming; local news; non-commercial format
   notes: Free community radio (freies radio) in Halle, Saxony-Anhalt, non-commercial local radio (nichtkommerzielles lokalradio) operated cooperatively. Founded in 1998.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-4fec5f7d-51ae-49af-b36f-b4a025119ea6
+  - iprd-de-radio-corax-95-9-43b870f6
+  - iprd-de-radio-corax-95-9-2c314146
+streams:
+  - url: https://streaming.fueralle.org/corax_192.mp3
+    codec: MP3
+  - url: http://streaming.fueralle.org/corax_128.mp3?_=1
+    codec: MP3
+  - url: https://streaming.fueralle.org/corax_192.mp3?_=1
+    codec: MP3
+  - url: http://streaming.fueralle.org:8000/corax.mp3
+    codec: MP3

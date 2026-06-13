@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 07:41:05
 clickcount: 1
 geo_lat: 32.627000287031706
 geo_long: -115.44838714704386
-curation: -0.05
-provenance:
-  - radiobrowser-cdf2c2c9-064f-4e05-81ec-3e4622781737
-streams:
-  - url: 'https://ss1.audiorama.com.mx:6590/super'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://ss1.audiorama.com.mx:6590/'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Top 40, Latin pop, regional Mexican music, youth-oriented entertainment format
   notes: SUPER (XHSOL-FM 89.9) is a commercial radio station in Mexicali, Baja California operated by Grupo Audiorama Comunicaciones. It broadcasts a contemporary Top 40 and Latin pop format targeted at young audiences, with emphasis on current hits and entertainment programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cdf2c2c9-064f-4e05-81ec-3e4622781737
+  - iprd-mx-super-89-9-xhsol-ed7cd167
+streams:
+  - url: https://ss1.audiorama.com.mx:6590/super
+    codec: MP3
+    bitrate: 56
+  - url: https://ss1.audiorama.com.mx:6590/
+    codec: MP3
+    bitrate: 56

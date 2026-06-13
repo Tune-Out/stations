@@ -24,16 +24,6 @@ lastchangetime: 2026-04-24 02:55:38
 clickcount: 1
 geo_lat: 4.981596254849752
 geo_long: 7.790531770167536
-curation: 0.40
-provenance:
-  - radiobrowser-76f8c86a-e158-46ee-a518-adda7f25b851
-streams:
-  - url: 'https://a3.asurahosting.com/listen/afrofusion_gospel_radio/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://a10.asurahosting.com:7120/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: Afro-gospel, afrobeats, amapiano, Christian music
   notes: Nigerian Christian radio station featuring Afrofusion gospel music, afrobeats, and amapiano genres; serves Akwa Ibom State and surrounding regions.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-76f8c86a-e158-46ee-a518-adda7f25b851
+streams:
+  - url: https://a3.asurahosting.com/listen/afrofusion_gospel_radio/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://a10.asurahosting.com:7120/radio.mp3
+    codec: MP3
+    bitrate: 128

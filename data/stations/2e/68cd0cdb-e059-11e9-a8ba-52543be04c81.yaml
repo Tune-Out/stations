@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-68cd0cdb-e059-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://stream.antenne1.de/a1hn/livestream1.aac'
-    codec: AAC
-  - url: 'http://stream.antenne1.de/a1hn/livestream2.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Contemporary hits radio
   notes: Antenne 1 is a major German commercial radio network with regional stations. Heilbronn station serves local market. Part of larger Antenne 1 network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-68cd0cdb-e059-11e9-a8ba-52543be04c81
+streams:
+  - url: http://stream.antenne1.de/a1hn/livestream1.aac
+    codec: AAC
+  - url: http://stream.antenne1.de/a1hn/livestream2.mp3
+    codec: MP3

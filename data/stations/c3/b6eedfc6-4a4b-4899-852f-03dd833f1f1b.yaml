@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 84
 geo_lat: 35.69522525087309
 geo_long: 51.384429931640625
-curation: 0.70
-provenance:
-  - radiobrowser-b6eedfc6-4a4b-4899-852f-03dd833f1f1b
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -33,3 +30,7 @@ research:
   format: 24/7 Persian-language news, current affairs, talk and Persian/Western music targeting Iranian listeners; mix of journalism on Iran politics, human rights, and culture
   notes: Launched 18 December 2002, headquartered in Prague, Czech Republic (not Tehran as YAML state field suggests). Name "Farda" means "Tomorrow" in Persian. Blocked/jammed by the Islamic Republic of Iran. Listed as designated stream is geographically tagged to Tehran for audience reasons. Provides alternative news source to Iranian state media; reporters have faced harassment and family detentions in Iran.
   sources: internal knowledge (homepage returned HTTP 403)
+curation: 0.6
+provenance:
+  - radiobrowser-b6eedfc6-4a4b-4899-852f-03dd833f1f1b
+  - iprd-cz-radio-farda-b09c004a

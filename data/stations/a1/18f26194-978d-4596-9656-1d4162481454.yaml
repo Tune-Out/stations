@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-18f26194-978d-4596-9656-1d4162481454
-streams:
-  - url: 'https://nwm.streamguys1.com/WBGL-AAC-3'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://nwm.streamguys1.com/WBGL-AAC-1'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Christian music, inspirational programming, religious teaching and worship content
   notes: WBGL is a Christian radio station operated by Bible Broadcasting Network. Focuses on evangelical Christian music and inspirational content for faith-based listeners.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-18f26194-978d-4596-9656-1d4162481454
+streams:
+  - url: https://nwm.streamguys1.com/WBGL-AAC-3
+    codec: AAC+
+    bitrate: 96
+  - url: https://nwm.streamguys1.com/WBGL-AAC-1
+    codec: AAC+
+    bitrate: 96

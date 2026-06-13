@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 03:14:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96283c12-0601-11e8-ae97-52543be04c81
-duplicate_of: 96283d73-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icy.unitedradio.it/105Miami.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/105Miami.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: Dance, house, electronic, contemporary hits, entertainment programming, talk shows, lifestyle content
   notes: Major Italian commercial broadcaster based in Milan (Lombardia). Part of MFE MediaForEurope/Mediaset group. Operates 105 FM frequency. Features variety of entertainment shows and music programming ("105 Miami," "Lo Zoo di 105," lifestyle programs). Festival partnerships. 2,467 votes. MP3 128 kbps.
   sources: http://www.105.net/
+curation: -0.05
+provenance:
+  - radiobrowser-96283c12-0601-11e8-ae97-52543be04c81
+duplicate_of: 96283d73-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://icy.unitedradio.it/105Miami.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/105Miami.mp3
+    codec: MP3
+    bitrate: 128

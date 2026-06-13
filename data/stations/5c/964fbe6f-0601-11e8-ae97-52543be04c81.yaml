@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-964fbe6f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/rnb/aac-64/streams.fluxfm.de/'
-    codec: AAC
-  - url: 'http://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de/'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/rnb/mp3-128/streams.fluxfm.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,16 @@ research:
   format: "Multi-channel streaming: genre-focused (Electronic, Jazz, Hip Hop, Metal, Alternative); era-based (60s–2000s); themed (Chillout, Yoga); live shows and podcasts"
   notes: 'Berlin-based independent community radio with strong cultural/progressive ethos. Offers eclectic music discovery, artist interviews, album features ("Album der Woche"), live programming ("DER ABEND" 6 PM+), and cultural coverage (theatre, exhibitions). Community-focused tagline: "Werdet Teil der Flux-Community!" (Become part of Flux community).'
   sources: fluxfm.de
+curation: 0.5
+provenance:
+  - radiobrowser-964fbe6f-0601-11e8-ae97-52543be04c81
+  - iprd-de-fluxfm-hot-r-n-b-1b054ba8
+  - iprd-de-fluxfm-hot-r-n-b-cded1acb
+  - iprd-de-fluxfm-hot-r-n-b-ceaa6d8f
+streams:
+  - url: http://streams.fluxfm.de/rnb/aac-64/streams.fluxfm.de/
+    codec: AAC
+  - url: http://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de/
+    codec: MP3
+  - url: http://streams.fluxfm.de/rnb/mp3-128/streams.fluxfm.de/
+    codec: MP3

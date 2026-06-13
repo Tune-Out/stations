@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:41:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ff550b38-69a2-11e9-af37-52543be04c81
-streams:
-  - url: 'http://mp3.radiooberland.c.nmdn.net/ps-radiooberland/livestream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.radio-oberland.de/radiooberland-live/mp3-192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Mixed format including news, music, sports, events programming with community focus
   notes: Commercial regional broadcaster serving Bavaria's Oberland region since establishment as community-oriented station. Programming emphasizes local information, weather, traffic, and civic engagement via listener interactions (WhatsApp studio line, contests). Operates podcast offerings and mobile apps (BOA - Bayerische Oberland App). Features "Ehrensache" and "Gemeinsam sind wir das Oberland" community initiatives.
   sources: https://www.radio-oberland.de/
+curation: 0.35
+provenance:
+  - radiobrowser-ff550b38-69a2-11e9-af37-52543be04c81
+streams:
+  - url: http://mp3.radiooberland.c.nmdn.net/ps-radiooberland/livestream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.radio-oberland.de/radiooberland-live/mp3-192
+    codec: MP3
+    bitrate: 192

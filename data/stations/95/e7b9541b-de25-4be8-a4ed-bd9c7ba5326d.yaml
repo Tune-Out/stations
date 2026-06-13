@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e7b9541b-de25-4be8-a4ed-bd9c7ba5326d
-streams:
-  - url: 'https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3?refresh=1653300780766'
-    codec: AAC
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Unknown format; links-based homepage suggests community/directory-driven station
   notes: Community-based internet radio station from South Africa. Homepage is a Linktree social media hub, suggesting independent community operation. "AL-Ansaar" name indicates possible Islamic/Muslim community focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e7b9541b-de25-4be8-a4ed-bd9c7ba5326d
+streams:
+  - url: https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3
+    codec: AAC
+    bitrate: 320
+  - url: https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3?refresh=1653300780766
+    codec: AAC
+    bitrate: 320

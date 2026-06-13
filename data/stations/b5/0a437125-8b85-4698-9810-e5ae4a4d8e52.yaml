@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 01:03:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0a437125-8b85-4698-9810-e5ae4a4d8e52
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/1802/64k.mp3'
-    codec: MP3
-  - url: 'http://live.ximalaya.com/radio-first-page-app/live/608/64.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -39,3 +30,12 @@ research:
   format: Arts and music programming (文艺音乐广播 = Arts and Music Radio).
   notes: 江西文艺音乐广播 (Jiangxi Arts and Music Radio) is a provincial broadcaster under state control, serving Jiangxi province with cultural and musical programming. Streams MP3 at 64 kbps via QtFM infrastructure.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0a437125-8b85-4698-9810-e5ae4a4d8e52
+streams:
+  - url: https://lhttp.qtfm.cn/live/1802/64k.mp3
+    codec: MP3
+  - url: http://live.ximalaya.com/radio-first-page-app/live/608/64.m3u8
+    codec: UNKNOWN
+    hls: true

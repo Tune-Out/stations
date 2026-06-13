@@ -21,15 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: -24.16155165254509
 geo_long: -46.52545530832476
-curation: 0.35
-provenance:
-  - radiobrowser-add7eaa7-3b88-4057-b989-33aef9957272
-streams:
-  - url: 'https://radio.liv.fran.nom.br/radio'
-    codec: OGG
-  - url: 'https://radio.liv.fran.nom.br/radio'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +30,12 @@ research:
   format: Talk radio; political commentary, philosophy, cultural analysis.
   notes: Brazilian talk radio station based in São Paulo; associated with Olavo de Carvalho, prominent conservative philosopher and public intellectual; focuses on political commentary, conservative viewpoints, cultural critique; operates via Foundation Olavo de Carvalho organization; streams online.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-add7eaa7-3b88-4057-b989-33aef9957272
+streams:
+  - url: https://radio.liv.fran.nom.br/radio
+    codec: OGG
+  - url: https://radio.liv.fran.nom.br/radio
+    codec: MP3
+    bitrate: 192

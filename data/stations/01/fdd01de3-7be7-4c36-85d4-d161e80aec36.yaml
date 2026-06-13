@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 06:02:42
 clickcount: 0
 geo_lat: 52.691033914209214
 geo_long: 5.712890625000001
-curation: 0.35
-provenance:
-  - radiobrowser-fdd01de3-7be7-4c36-85d4-d161e80aec36
-streams:
-  - url: 'http://mediaserv68.live-streams.nl:8012/RockRadio'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://www.iskcrocks.com/rock.m3u'
-    url_resolved: 'http://mediaserv68.live-streams.nl:8012/RockRadio'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +32,15 @@ research:
   format: Progressive rock, classic rock, hard rock.
   notes: Dutch community-based rock radio station in Rotterdam. Emphasizes progressive rock and classic rock programming. ISKC (Independent South Korean Community?) or Dutch community operation.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-fdd01de3-7be7-4c36-85d4-d161e80aec36
+  - iprd-nl-iskc-rock-radio-cd48265b
+streams:
+  - url: http://mediaserv68.live-streams.nl:8012/RockRadio
+    codec: MP3
+    bitrate: 320
+  - url: https://www.iskcrocks.com/rock.m3u
+    url_resolved: http://mediaserv68.live-streams.nl:8012/RockRadio
+    codec: MP3
+    bitrate: 320

@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 03:14:10
 clickcount: 0
 geo_lat: 51.2167
 geo_long: 12.3667
-curation: -0.05
-provenance:
-  - radiobrowser-3c0fb26a-d5cc-4c18-a9aa-65c09699fccc
-streams:
-  - url: 'https://stream.radiosaw.de/saw-halle-leipzig/mp3-192'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-halle-leipzig/mp3-192/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Regional music and information radio
   notes: Commercial broadcaster serving Saxony-Anhalt region in Germany. Streams via radiosaw.de.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3c0fb26a-d5cc-4c18-a9aa-65c09699fccc
+streams:
+  - url: https://stream.radiosaw.de/saw-halle-leipzig/mp3-192
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-halle-leipzig/mp3-192/
+    codec: MP3

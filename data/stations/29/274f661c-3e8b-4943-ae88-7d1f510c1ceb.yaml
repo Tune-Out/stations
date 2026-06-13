@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-274f661c-3e8b-4943-ae88-7d1f510c1ceb
-streams:
-  - url: 'http://stream.laut.fm/80er'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/80er'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: 1980s pop and rock music
   notes: 80ER is a community-created internet radio station on the laut.fm platform, dedicated to 1980s popular music and hits from the decade.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-274f661c-3e8b-4943-ae88-7d1f510c1ceb
+streams:
+  - url: http://stream.laut.fm/80er
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/80er
+    codec: MP3
+    bitrate: 128

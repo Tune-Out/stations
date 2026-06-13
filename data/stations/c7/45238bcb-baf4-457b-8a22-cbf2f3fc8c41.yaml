@@ -19,16 +19,6 @@ lastchangetime: 2026-05-15 20:23:47
 clickcount: 0
 geo_lat: 53.41759436497691
 geo_long: -3.046774864196778
-curation: -0.05
-provenance:
-  - radiobrowser-45238bcb-baf4-457b-8a22-cbf2f3fc8c41
-streams:
-  - url: 'http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/2AHQ'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/2A'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Music radio featuring decades-focused thematic streams (hits from various eras).
   notes: UK-based commercial radio operator with decades-themed streaming services. Liverpool edition provides local UK content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-45238bcb-baf4-457b-8a22-cbf2f3fc8c41
+streams:
+  - url: http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/2AHQ
+    codec: MP3
+    bitrate: 192
+  - url: http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/2A
+    codec: MP3
+    bitrate: 128

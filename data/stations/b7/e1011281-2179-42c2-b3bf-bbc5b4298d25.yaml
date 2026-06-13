@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 04:24:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e1011281-2179-42c2-b3bf-bbc5b4298d25
-streams:
-  - url: 'https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mushroomfm.com/media/escape.pls'
-    url_resolved: 'http://65.108.124.70:8676/escape'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Old-time radio (OTR); classic radio programs and comedy
   notes: Mushroom Escape is a specialty channel from Mushroom FM (New Zealand) focused on old-time radio content. Part of the broader Mushroom FM network. Programming features vintage radio shows, drama, and comedy. Niche format for OTR enthusiasts.
   sources: https://mushroomfm.com/escape
+curation: -0.05
+provenance:
+  - radiobrowser-e1011281-2179-42c2-b3bf-bbc5b4298d25
+streams:
+  - url: https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632
+    codec: MP3
+    bitrate: 128
+  - url: http://mushroomfm.com/media/escape.pls
+    url_resolved: http://65.108.124.70:8676/escape
+    codec: MP3
+    bitrate: 128

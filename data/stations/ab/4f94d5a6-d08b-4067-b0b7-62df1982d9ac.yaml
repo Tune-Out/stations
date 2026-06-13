@@ -1,7 +1,7 @@
 stationuuid: 4f94d5a6-d08b-4067-b0b7-62df1982d9ac
 name: B93.7 Sheboygan
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WBFMFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WBFMFM.mp3
+url: 'https://27143.live.streamtheworld.com:443/WBFMFM.mp3'
+url_resolved: 'https://27143.live.streamtheworld.com:443/WBFMFM.mp3'
 homepage: https://b93radio.com/
 favicon: https://b93radio.com/favicon.ico
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: 43.720019677599545
 geo_long: -87.73395717144012
-curation: -0.05
-provenance:
-  - radiobrowser-4f94d5a6-d08b-4067-b0b7-62df1982d9ac
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,6 @@ research:
   format: Country music (modern country)
   notes: FM radio station broadcasting at 93.7 in Sheboygan, Wisconsin; country music format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4f94d5a6-d08b-4067-b0b7-62df1982d9ac

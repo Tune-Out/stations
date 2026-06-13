@@ -1,7 +1,7 @@
 stationuuid: 70dee9c3-2fdf-472a-b92d-694e18715541
 name: 99.7 Bridge FM - Redcliffe - 99.7 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/997BRIDGEFMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/997BRIDGEFMAAC.aac
+url: 'http://28853.live.streamtheworld.com:80/997BRIDGEFMAAC.aac'
+url_resolved: 'http://28853.live.streamtheworld.com:80/997BRIDGEFMAAC.aac'
 homepage: https://997fm.com.au/
 favicon: https://i.ibb.co/bNrBCGk/60fd422611a963a6033d5584.webp
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:49:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-70dee9c3-2fdf-472a-b92d-694e18715541
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -35,3 +32,6 @@ research:
   format: Community radio with rock, variety music, and local programming; listener-supported non-commercial format
   notes: 99.7 FM; Australian community radio broadcaster serving Redcliffe area north of Brisbane; independent operation under Australian community broadcasting regulations; non-commercial listener-supported model; part of Queensland community radio network
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-70dee9c3-2fdf-472a-b92d-694e18715541

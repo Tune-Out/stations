@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 00:31:56
 clickcount: 0
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.10
-provenance:
-  - radiobrowser-f7f9167b-f373-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-charts.radionetz.de/1a-charts.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-charts.radionetz.de/1a-charts.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -46,3 +36,15 @@ research:
   format: Dance, hits, house, pop, rock, top 40 formatted programming; "Charts von 1A Radio" broadcast
   notes: Part of 1A Radio, a commercial network based in Bavaria. Dedicated charts and contemporary hits format.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-f7f9167b-f373-11e8-a471-52543be04c81
+  - iprd-de-1a-charts-a36d7dd7
+  - iprd-de-1a-charts-7d966193
+streams:
+  - url: https://1a-charts.radionetz.de/1a-charts.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-charts.radionetz.de/1a-charts.mp3
+    codec: MP3
+    bitrate: 128

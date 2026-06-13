@@ -22,16 +22,6 @@ lastchangetime: 2026-04-30 03:07:11
 clickcount: 1
 geo_lat: 19.06678586399144
 geo_long: 72.86217216169463
-curation: 0.00
-provenance:
-  - radiobrowser-58c1efce-d58e-4ea5-a3c1-e3f299e5c497
-streams:
-  - url: 'http://80.225.211.98:8010/pewhits'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://80.225.211.98:8002/pewhitsdesi'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Blues music streaming
   notes: Pew Hits appears to be a low-power commercial streaming station based in Maharashtra, India, focused on blues music format.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-58c1efce-d58e-4ea5-a3c1-e3f299e5c497
+streams:
+  - url: http://80.225.211.98:8010/pewhits
+    codec: MP3
+    bitrate: 128
+  - url: http://80.225.211.98:8002/pewhitsdesi
+    codec: MP3
+    bitrate: 128

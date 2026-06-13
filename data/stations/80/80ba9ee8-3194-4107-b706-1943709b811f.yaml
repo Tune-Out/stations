@@ -1,6 +1,6 @@
 stationuuid: 80ba9ee8-3194-4107-b706-1943709b811f
 name: Radioacktiva Medellin
-url: http://provisioning.streamtheworld.com/pls/RADIOACKTIVA_MEDAAC.pls
+url: 'http://27403.live.streamtheworld.com:80/RADIOACKTIVA_MEDAAC_SC'
 url_resolved: http://26523.live.streamtheworld.com/RADIOACKTIVA_MEDAAC_SC
 homepage: https://www.radioacktiva.com/
 favicon: https://www.radioacktiva.com/wp-content/uploads/2024/12/cropped-favicon-new1-180x180.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:44:43
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-80ba9ee8-3194-4107-b706-1943709b811f
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Classic rock, rock, and rock en español programming
   notes: Colombian rock-focused radio station. Based in Medellín but serves broader Spanish-language audience. Commercial broadcaster with focus on classic and contemporary rock.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-80ba9ee8-3194-4107-b706-1943709b811f

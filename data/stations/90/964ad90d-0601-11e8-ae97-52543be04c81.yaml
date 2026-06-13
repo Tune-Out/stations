@@ -1,6 +1,6 @@
 stationuuid: 964ad90d-0601-11e8-ae97-52543be04c81
 name: WKDF "Nash FM 103.3" Nashville, TN
-url: http://provisioning.streamtheworld.com/pls/WKDFFMAAC.pls
+url: 'http://27153.live.streamtheworld.com:80/WKDFFMAAC_SC'
 url_resolved: http://18153.live.streamtheworld.com/WKDFFMAAC_SC
 homepage: http://www.nashfm1033.com/
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/WKDF_%28Nash_FM_103.3%29_logo.png/200px-WKDF_%28Nash_FM_103.3%29_logo.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:55:29
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964ad90d-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music; "Nash FM 103.3" branded contemporary country hits radio
   notes: WKDF "Nash FM 103.3" is commercial country radio station in Nashville, Tennessee, serving Music City's country music audience. Station operates under country radio format typical of Nashville market where country music dominates radio landscape. Serves both local Tennessee listeners and broader country music fan audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964ad90d-0601-11e8-ae97-52543be04c81

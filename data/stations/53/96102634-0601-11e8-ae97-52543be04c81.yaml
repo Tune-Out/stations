@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-96102634-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://start-latina.ice.infomaniak.ch/start-latina-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://start-latina.ice.infomaniak.ch/start-latina-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Latin music station ("Le son latino") with themed sub-streams, DJ shows, charts and Latin cultural lifestyle content.
   notes: Launched in 1981 (originally as Tropic FM, later Radio Latina) on FM in Paris, the station became the leading French outlet for Latin music; it broadcasts on FM in Paris/Île-de-France, on DAB+ in major French cities, and online via web radios such as Latina Bachata, Latina Salsa, Latina Reggaeton, and Latina Kizomba; programming features such as Le Latino Show, Le Son Latino, La Casa Latina and La Noche Latina, and the brand markets itself as "Le son latino".
   sources: http://www.latina.fr/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-96102634-0601-11e8-ae97-52543be04c81
+  - iprd-fr-latina-le-son-latino-7c4a168f
+  - iprd-fr-latina-7c4a168f
+streams:
+  - url: http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+    codec: MP3
+    bitrate: 128

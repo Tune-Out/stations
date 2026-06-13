@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:33:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9616baeb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://espace-disco.ice.infomaniak.ch/espace-disco-high.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Dance music, 1990s dance, electronic dance music; "90" refers to 1990s era music focus
   notes: Commercial radio station featuring dance and electronic music programming, particularly from the 1990s. Part of Radio Espace network. French language service. Targets dance music enthusiasts and those nostalgic for 1990s electronic and dance music era.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9616baeb-0601-11e8-ae97-52543be04c81
+  - iprd-fr-espace-dance-90-ac27bc9e
+streams:
+  - url: http://espace-disco.ice.infomaniak.ch/espace-disco-high.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
+    codec: MP3
+    bitrate: 128

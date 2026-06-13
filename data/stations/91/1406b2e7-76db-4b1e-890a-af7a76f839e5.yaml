@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-1406b2e7-76db-4b1e-890a-af7a76f839e5
-streams:
-  - url: 'https://media-ice.musicradio.com/RadioX00sMP3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://media-ice.musicradio.com/RadioX00sMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Specialist digital station playing alternative, indie rock, and music from 2000s era
   notes: Radio X 00s is a digital specialist station from the Radio X family (Bauer Media). Focuses on alternative and indie rock from 2000-2009 period. Part of UK commercial radio landscape.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-1406b2e7-76db-4b1e-890a-af7a76f839e5
+streams:
+  - url: https://media-ice.musicradio.com/RadioX00sMP3
+    codec: MP3
+    bitrate: 128
+  - url: http://media-ice.musicradio.com/RadioX00sMP3
+    codec: MP3
+    bitrate: 128

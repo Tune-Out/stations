@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:30:19
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7f60a54a-e18a-44e9-a9cb-f0644ed318bb
-streams:
-  - url: 'http://mediacp.32bit.gr:8002/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://sp1.32bit.gr/8002/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Pop and mainstream music programming.
   notes: Commercial FM broadcaster in Larisa, Greece broadcasting at 93.2 MHz; serves the Thessaly region with pop and mainstream music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7f60a54a-e18a-44e9-a9cb-f0644ed318bb
+  - iprd-gr-power-93-2-61424b38
+streams:
+  - url: http://mediacp.32bit.gr:8002/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://sp1.32bit.gr/8002/stream
+    codec: MP3
+    bitrate: 192

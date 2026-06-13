@@ -1,7 +1,7 @@
 stationuuid: 388cf178-1497-40da-a8c0-f2155362a6dd
 name: Rádio Atlântida 94.3 FM - Porto Alegre
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RBS_RADIOSAAC.m3u8
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RBS_RADIOSAAC.m3u8
+url: 'https://29326.live.streamtheworld.com:443/RBS_RADIOSAAC/HLS/playlist.m3u8'
+url_resolved: 'https://29326.live.streamtheworld.com:443/RBS_RADIOSAAC/HLS/playlist.m3u8'
 homepage: https://atl.clicrbs.com.br/
 favicon: https://upload.wikimedia.org/wikipedia/pt/5/53/Logotipo_da_Rede_Atl%C3%A2ntida.PNG
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-02-15 03:51:37
 clickcount: 1
 geo_lat: -30.0356921477895
 geo_long: -51.23046814320644
-curation: 0.20
-provenance:
-  - radiobrowser-388cf178-1497-40da-a8c0-f2155362a6dd
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Mixed music and talk; Brazilian music, classic rock, and world music.
   notes: Part of the Rede Atlântida network, owned by RBS (Rede Brasil Sul) since 1977. Founded as Rádio Atlântida in Porto Alegre and remains a major commercial station in Rio Grande do Sul, known for rock programming and Brazilian music.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-388cf178-1497-40da-a8c0-f2155362a6dd

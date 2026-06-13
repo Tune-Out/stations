@@ -24,16 +24,6 @@ lastchangetime: 2026-05-07 12:52:10
 clickcount: 4
 geo_lat: 38.40818074319704
 geo_long: 27.150910992824382
-curation: -0.05
-provenance:
-  - radiobrowser-34631647-80f2-4928-8a9f-1662f1e881ce
-streams:
-  - url: 'https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://usa4.fastcast4u.com/proxy/radyoizmirfm/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Turkish music, Turkish pop, Turkish rap, Turkish rock
   notes: Izmir-based Turkish radio station; serves Turkish-speaking audiences; streams Turkish popular music, rap, rock, and pop formats; broadcasts in Turkish and Kurdish languages
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-34631647-80f2-4928-8a9f-1662f1e881ce
+streams:
+  - url: https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream128
+    codec: MP3
+    bitrate: 128
+  - url: https://usa4.fastcast4u.com/proxy/radyoizmirfm/
+    codec: MP3
+    bitrate: 128

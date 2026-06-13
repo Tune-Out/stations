@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 01:20:44
 clickcount: 295
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-9611ecb1-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://livestreaming.esradio.fm/stream64.mp3'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,17 @@ research:
   format: news/talk radio with political commentary, opinion shows, economics, culture and sports
   notes: Launched 2009 by Libertad Digital after Federico Jimenez Losantos and team left COPE. Flagship show 'Es la Manana de Federico'. Site framing emphasizes 'mas libertad' (more freedom). Known for combative conservative commentary and investigative reporting on government corruption allegations.
   sources: http://esradio.libertaddigital.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-9611ecb1-0601-11e8-ae97-52543be04c81
+  - iprd-es-esradio-99-1-03f17445
+streams:
+  - url: https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+    codec: AAC+
+    bitrate: 56
+  - url: http://livestreaming.esradio.fm/stream64.mp3
+    codec: MP3
+    bitrate: 56
+  - url: https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+    codec: MP3
+    bitrate: 56

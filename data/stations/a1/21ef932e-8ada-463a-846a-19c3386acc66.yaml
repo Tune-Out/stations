@@ -1,7 +1,7 @@
 stationuuid: 21ef932e-8ada-463a-846a-19c3386acc66
 name: Smooth FM Adelaide (AAC+ 48k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE_AAC48.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE_AAC48.aac
+url: 'http://14533.live.streamtheworld.com:80/SMOOTH_ADELAIDE_AAC48.aac'
+url_resolved: 'http://14533.live.streamtheworld.com:80/SMOOTH_ADELAIDE_AAC48.aac'
 homepage: https://smooth.com.au/station/smoothfmadelaide
 favicon: https://i.ibb.co/0YnRqYB/301372093-106105575559582-2328156488574036248-n.jpg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 03:08:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-21ef932e-8ada-463a-846a-19c3386acc66
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Easy listening; soft contemporary music; commercial format
   notes: Part of Australia's Smooth FM network; focuses on adult contemporary and easy listening programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-21ef932e-8ada-463a-846a-19c3386acc66

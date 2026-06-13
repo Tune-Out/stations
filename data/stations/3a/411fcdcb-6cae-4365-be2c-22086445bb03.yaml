@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 05:53:55
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-411fcdcb-6cae-4365-be2c-22086445bb03
-streams:
-  - url: 'https://cast.animu.com.br:9069/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://cast.animu.com.br:9079/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://cast.animu.com.br:9089/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: Anime opening themes, anime music, Japanese idol music, song requests, anime-related content
   notes: Brazilian radio station specialized in anime music and Japanese culture. Based in Pernambuco. Targets anime fan community with theme songs and related music programming.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-411fcdcb-6cae-4365-be2c-22086445bb03
+streams:
+  - url: https://cast.animu.com.br:9069/stream
+    codec: AAC+
+    bitrate: 64
+  - url: https://cast.animu.com.br:9079/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://cast.animu.com.br:9089/stream
+    codec: MP3
+    bitrate: 192

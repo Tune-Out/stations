@@ -22,14 +22,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-efe250ae-3720-11e8-bb9b-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-entspannung-128-aac?usid=0-0-H-A-D-20'
-    codec: AAC
-  - url: 'https://stream.rpr1.de/yogasounds/mp3-128/radiobrowser'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Yoga Sounds (Entspannung); ambient, chill, relaxing, zen programming; wellness-focused streaming channel
   notes: RPR1. is "der beste Musikmix für Rheinland-Pfalz" (the best music mix for Rhineland-Palatinate). Parent operator runs 30+ streaming channels across genres. Community-oriented with charitable initiatives (RPR Hilft e.V.) and environmental conservation projects. Yoga Sounds is specialized wellness/relaxation channel.
   sources: http://www.rpr1.de/
+curation: 0.65
+provenance:
+  - radiobrowser-efe250ae-3720-11e8-bb9b-52543be04c81
+  - iprd-de-rpr1-yoga-sounds-f9655117
+streams:
+  - url: http://streams.rpr1.de/rpr-entspannung-128-aac?usid=0-0-H-A-D-20
+    codec: AAC
+  - url: https://stream.rpr1.de/yogasounds/mp3-128/radiobrowser
+    codec: AAC

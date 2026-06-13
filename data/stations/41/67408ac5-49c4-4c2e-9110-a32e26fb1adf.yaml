@@ -19,22 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-67408ac5-49c4-4c2e-9110-a32e26fb1adf
-streams:
-  - url: 'https://audio.opensky.radio:8082/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://audio.opensky.radio:8082/oise'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://audio.opensky.radio:8082/stream128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://audio.opensky.radio:8082/stream96'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +28,19 @@ research:
   format: world music, electronic, ambient, and experimental programming
   notes: french independent streaming radio station providing alternative and world music programming; internet-based non-commercial broadcaster
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-67408ac5-49c4-4c2e-9110-a32e26fb1adf
+streams:
+  - url: https://audio.opensky.radio:8082/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://audio.opensky.radio:8082/oise
+    codec: MP3
+    bitrate: 192
+  - url: https://audio.opensky.radio:8082/stream128
+    codec: MP3
+    bitrate: 128
+  - url: https://audio.opensky.radio:8082/stream96
+    codec: MP3
+    bitrate: 96

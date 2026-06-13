@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 06:39:51
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-88e1f2bb-c967-46f6-a358-5c2a93ff922a
-streams:
-  - url: 'http://hemnos.cdnstream.com/1469_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://hemnos.cdnstream.com/1487_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://hemnos.cdnstream.com/1485_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -45,3 +32,16 @@ research:
   format: Instrumental jazz, new age, and ambient music curated for relaxation and wellness purposes.
   notes: CleansingMusic operates as a non-commercial internet radio service providing multiple streaming channels dedicated to instrumental, jazz, and new age music. The "Beyond Words" channel specializes in wordless, instrumental compositions designed for meditation, relaxation, and therapeutic listening. Service based in Utah and accessible globally via internet streaming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-88e1f2bb-c967-46f6-a358-5c2a93ff922a
+streams:
+  - url: http://hemnos.cdnstream.com/1469_128
+    codec: MP3
+    bitrate: 128
+  - url: http://hemnos.cdnstream.com/1487_128
+    codec: MP3
+    bitrate: 128
+  - url: http://hemnos.cdnstream.com/1485_128
+    codec: MP3
+    bitrate: 128

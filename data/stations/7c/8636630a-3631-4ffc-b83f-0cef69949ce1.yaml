@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-8636630a-3631-4ffc-b83f-0cef69949ce1
-streams:
-  - url: 'http://stream3.hndt.com/now/XWfN89gh/playlist.m3u8'
-    codec: MP3
-    bitrate: 320
-    hls: true
-  - url: 'http://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -43,3 +32,14 @@ research:
   format: Folk and blues music programming - mixing Chinese folk styles with Western blues
   notes: 民谣·蓝调 (Folk - Blues) is a niche themed music stream operated by Henan Broadcasting & TV Station (Dazhong Network); part of the hndt.com online platform offering numerous curated genre streams alongside Henan's main broadcast channels; like all Chinese broadcast media, content is subject to state oversight and censorship; the station's HD3 (high-bitrate, 320 kbps) signal indicates a focus on audiophile-quality music streaming; serves as cultural programming complementing the broadcaster's news and entertainment outputs
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-8636630a-3631-4ffc-b83f-0cef69949ce1
+streams:
+  - url: http://stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+    codec: MP3
+    bitrate: 320
+    hls: true
+  - url: http://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8
+    codec: UNKNOWN
+    hls: true

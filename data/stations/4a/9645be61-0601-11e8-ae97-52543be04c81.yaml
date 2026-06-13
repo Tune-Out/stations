@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-9645be61-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.radioswissclassic.ch/fr/live/aacp.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96'
-    codec: AAC
-    bitrate: 104
-  - url: 'http://www.radioswissclassic.ch/fr/live/aacp32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsc_fr/aac/48'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +32,17 @@ research:
   format: Classical music exclusively; composers include Bach, Mozart, Beethoven, Tchaikovsky, Dvorák, Rachmaninov.
   notes: Part of SRG SSR public broadcasting network. Part of Radio Swiss family (also includes Radio Swiss Jazz and Radio Swiss Pop). Available in German, French, Italian, and English variants. Publicly funded Swiss broadcaster.
   sources: http://www.radioswissclassic.ch/
+curation: 0.55
+provenance:
+  - radiobrowser-9645be61-0601-11e8-ae97-52543be04c81
+  - iprd-ch-radio-swiss-classic-french-081999be
+  - iprd-ch-radio-swiss-classic-french-31db39da
+streams:
+  - url: http://www.radioswissclassic.ch/fr/live/aacp.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96
+    codec: AAC
+    bitrate: 104
+  - url: http://www.radioswissclassic.ch/fr/live/aacp32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsc_fr/aac/48
+    codec: AAC
+    bitrate: 48

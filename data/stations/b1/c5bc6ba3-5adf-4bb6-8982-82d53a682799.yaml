@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:40:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-c5bc6ba3-5adf-4bb6-8982-82d53a682799
-streams:
-  - url: 'https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Commercial streaming radio specializing in jazz, blues, classical, and related acoustic/instrumental music
   notes: Dedicated jazz radio service; combination of traditional jazz standards and contemporary jazz; classical music crossover audience; hosted via Infomaniak streaming; established listener base (3051+ votes)
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-c5bc6ba3-5adf-4bb6-8982-82d53a682799
+  - iprd-fr-jazz-radio-jazz-classique-f8b21482
+streams:
+  - url: https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 785cf2f7-4e54-4795-886a-5a059bf38d38
 name: 2 Triple B - Bellingen - 107.3 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2BBB.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2BBB.mp3
+url: 'http://23153.live.streamtheworld.com:80/2BBB.mp3'
+url_resolved: 'http://23153.live.streamtheworld.com:80/2BBB.mp3'
 homepage: https://www.2bbb.net.au/
 favicon: https://www.2bbb.net.au/wp-content/uploads/2023/06/2bbb_favicon-7f823516a1fa.jpg
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:48:00
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-785cf2f7-4e54-4795-886a-5a059bf38d38
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -35,3 +32,7 @@ research:
   format: Community radio, talk, local news and events
   notes: 2 Triple B (2BBB) 107.3 FM is a community radio station licensed to serve the Bellingen area of northern NSW. Provides local talk programming, community information, and entertainment. Part of Australia's volunteer-run community radio sector.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-785cf2f7-4e54-4795-886a-5a059bf38d38
+  - iprd-au-2bbb-fm-96d72535

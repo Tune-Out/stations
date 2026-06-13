@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961b7e55-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live.rockmaribor.si/RockMB'
-    codec: MP3
-  - url: 'https://live.radio.si/RockMB?t=1732114443550'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Rock music; contemporary and classic rock programming
   notes: Slovenian commercial rock station based in Maribor; streaming via local server
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961b7e55-0601-11e8-ae97-52543be04c81
+  - iprd-si-rock-maribor-94-4-8aeeaf58
+streams:
+  - url: http://live.rockmaribor.si/RockMB
+    codec: MP3
+  - url: https://live.radio.si/RockMB?t=1732114443550
+    codec: MP3

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:18:30
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-96125f02-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://wma01.fluidstream.net/sorriso'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://klasse1.fluidstream.eu/sorriso.mp3?FLID=1&aw_0_req.gdpr=true&xrnd=6803be69b5bac?type=.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Italian folk music, pop, regional music
   notes: Italian FM radio station based in Veneto region specializing in folk music and contemporary pop. Commercial broadcaster serving regional audience with mix of traditional Italian folk and popular music programming.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-96125f02-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-sorrriso-f60b9f1c
+streams:
+  - url: http://wma01.fluidstream.net/sorriso
+    codec: AAC+
+    bitrate: 64
+  - url: https://klasse1.fluidstream.eu/sorriso.mp3?FLID=1&aw_0_req.gdpr=true&xrnd=6803be69b5bac?type=.mp3
+    codec: MP3
+    bitrate: 128

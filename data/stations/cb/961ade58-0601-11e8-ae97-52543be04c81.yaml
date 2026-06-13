@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 06:14:42
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-961ade58-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ice7.securenetsystems.net/CHRY'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice7.securenetsystems.net/CHRY'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -44,3 +34,14 @@ research:
   format: alternative, hip-hop, urban music, indie rock, community programming; student-run with volunteer hosts
   notes: CHRY is student/community-run radio station at York University in North York, Toronto; operates as non-profit; licensed community broadcaster; serves campus and broader Toronto area; known for supporting local Toronto artists and alternative culture; volunteer-based programming model
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-961ade58-0601-11e8-ae97-52543be04c81
+  - iprd-ca-chry-vibe-105-5-york-university-ab6beb2a
+streams:
+  - url: http://ice7.securenetsystems.net/CHRY
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice7.securenetsystems.net/CHRY
+    codec: AAC+
+    bitrate: 32

@@ -1,7 +1,7 @@
 stationuuid: a0d91c55-3965-4a03-a0b7-2e76c8faa2cd
 name: YES 933
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac
+url: 'https://28303.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/565f20a2-98d0-4fd4-9a77-556fb37c38ad/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/38dfdce5-583e-4fdc-adf2-ade20025e6d0/audio/direct/t1637029113/Geoblock_replacement_audio_for_US_market.mp3?t=1637029113'
+url_resolved: 'https://28303.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/565f20a2-98d0-4fd4-9a77-556fb37c38ad/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/38dfdce5-583e-4fdc-adf2-ade20025e6d0/audio/direct/t1637029113/Geoblock_replacement_audio_for_US_market.mp3?t=1637029113'
 homepage: https://www.melisten.sg/radio/yes-933
 favicon: https://www16.mediacorp.sg/melisten/radiostation-logos/yes-933.png
 tags: []
@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 14
 geo_lat: 1.2953635219226556
 geo_long: 103.79224330186848
-curation: 0.35
-provenance:
-  - radiobrowser-a0d91c55-3965-4a03-a0b7-2e76c8faa2cd
-streams:
-  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://28393.live.streamtheworld.com/YES933_PREM.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: Mandarin contemporary hit radio — Mandopop, Cantopop and English chart hits, celebrity gossip, lifestyle, youth talk and traffic
   notes: "Yes 933 (Mandarin: 933醉心频道) launched on 1 January 1990 on 93.3 FM as a youth-oriented Mandarin pop station; it is a flagship of Mediacorp's Chinese-language radio portfolio (alongside Capital 95.8 and Love 97.2) and consistently ranks as Singapore's most listened-to Mandarin music station per Nielsen Radio Diary Survey results; presenters such as Dennis Chew, Cruz Teng, Hazelle Teo and others are household names and crossover to Mediacorp's TV channels; streamed via Mediacorp's meLISTEN app and platform."
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a0d91c55-3965-4a03-a0b7-2e76c8faa2cd
+streams:
+  - url: 'https://28303.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/565f20a2-98d0-4fd4-9a77-556fb37c38ad/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/38dfdce5-583e-4fdc-adf2-ade20025e6d0/audio/direct/t1637029113/Geoblock_replacement_audio_for_US_market.mp3?t=1637029113'
+    codec: AAC+
+    bitrate: 64
+  - url: https://28393.live.streamtheworld.com/YES933_PREM.aac
+    codec: AAC+
+    bitrate: 64

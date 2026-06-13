@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-baec8698-bffd-4491-8715-1d5c14df557b
-duplicate_of: b43b5ddd-a053-408f-b3f1-2668ac0cd5d4
-streams:
-  - url: 'https://live.radio.si/Maxi?t=1722577989752'
-    codec: MP3
-  - url: 'https://live.radio.si/Maxi'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -37,3 +28,12 @@ research:
   format: Mainstream pop and hits music.
   notes: Radio Maxi is a Slovenian commercial radio station offering pop and hits music. Limited publicly available information; appears to be regionally operated in Slovenia.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-baec8698-bffd-4491-8715-1d5c14df557b
+duplicate_of: b43b5ddd-a053-408f-b3f1-2668ac0cd5d4
+streams:
+  - url: https://live.radio.si/Maxi?t=1722577989752
+    codec: MP3
+  - url: https://live.radio.si/Maxi
+    codec: MP3

@@ -1,6 +1,6 @@
 stationuuid: 96474193-0601-11e8-ae97-52543be04c81
 name: XHNB-FM "Amor 95.3" San Luis Potosi, SL
-url: http://provisioning.streamtheworld.com/pls/XHNBFMAAC.pls
+url: 'http://16603.live.streamtheworld.com:80/XHNBFMAAC_SC'
 url_resolved: http://16603.live.streamtheworld.com:3690/XHNBFMAAC_SC
 homepage: https://amorfm.mx/amor-nacional/amor-slp/programacion-amor-slp/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:14:34
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96474193-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Música Romántica (romantic music); love songs and bolero music
   notes: FM station 95.3 serving San Luis Potosí state; part of Amor FM national network specializing in romantic Spanish-language programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96474193-0601-11e8-ae97-52543be04c81

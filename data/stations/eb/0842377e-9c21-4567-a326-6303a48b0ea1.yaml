@@ -28,17 +28,6 @@ lastchangetime: 2026-01-15 06:42:25
 clickcount: 5
 geo_lat: 48.8530154368945
 geo_long: 2.3478998221576135
-curation: 0.35
-provenance:
-  - radiobrowser-0842377e-9c21-4567-a326-6303a48b0ea1
-streams:
-  - url: 'https://direct.rfpp.net/fpp.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://direct.rfpp.net/fpp.mp3'
-    url_resolved: 'https://direct.rfpp.net/fpp.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -48,3 +37,15 @@ research:
   format: Community and political talk radio; multicultural programming in French, Haitian Creole, Kurdish, Lingala, Malgache
   notes: '"Radio associative" (association radio) / "radio libre" (free radio) model; Paris-based; multilingual service reflecting immigrant populations; advocacy journalism and community voice; Paris-based coordinates'
   sources: https://rfpp.net/
+curation: 0.35
+provenance:
+  - radiobrowser-0842377e-9c21-4567-a326-6303a48b0ea1
+  - iprd-fr-radio-fpp-cb13cc88
+streams:
+  - url: https://direct.rfpp.net/fpp.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://direct.rfpp.net/fpp.mp3
+    url_resolved: https://direct.rfpp.net/fpp.mp3
+    codec: MP3
+    bitrate: 128

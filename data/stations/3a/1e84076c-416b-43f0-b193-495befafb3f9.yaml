@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 05:46:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-1e84076c-416b-43f0-b193-495befafb3f9
-streams:
-  - url: 'http://streaming.exclusive.radio/er/bobdylan/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.exclusive.radio/er/bobdylan/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Dedicated Bob Dylan music and classic rock programming
   notes: Exclusively Bob Dylan is a specialized streaming channel within the Exclusive Radio / RadioGalaxy network, broadcasting exclusively Bob Dylan recordings and rock music. Targets Dylan enthusiasts and classic rock listeners globally via online streaming.
   sources: https://play.exclusive.radio/, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-1e84076c-416b-43f0-b193-495befafb3f9
+  - iprd-ae-bob-dylan-f7f02e99
+streams:
+  - url: http://streaming.exclusive.radio/er/bobdylan/icecast.audio
+    codec: MP3
+  - url: https://streaming.exclusive.radio/er/bobdylan/icecast.audio
+    codec: MP3

@@ -21,22 +21,6 @@ lastchangetime: 2026-03-15 15:34:14
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-5ab3cda5-1af5-4bee-9e5a-a13348642b01
-streams:
-  - url: 'https://str3.openstream.co/578?aw_0_1st.collectionid%3D3127%26stationId%3D3127%26publisherId%3D602%26k%3D1773588733'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://str3.openstream.co/1246?aw_0_1st.collectionid%3D4287%26stationId%3D4287%26publisherId%3D1270%26k%3D1773589058'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://strw3.openstream.co/1474?aw_0_1st.collectionid%3D4661%26stationId%3D4661%26publisherId%3D1498%26k%3D1773589208'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://str3.openstream.co/805?aw_0_1st.collectionid%3D3573%26stationId%3D3573%26publisherId%3D829%26k%3D1773588480'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +30,19 @@ research:
   format: '"Background Area" ambient/atmospheric music from Disney Parks; curated music for relaxation and theming'
   notes: Part of Dpark Radio project by The Walt Disney Company, offering themed music channels inspired by Disney Parks experiences. Channel 2 focused on background/ambient music for relaxation.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-5ab3cda5-1af5-4bee-9e5a-a13348642b01
+streams:
+  - url: https://str3.openstream.co/578?aw_0_1st.collectionid%3D3127%26stationId%3D3127%26publisherId%3D602%26k%3D1773588733
+    codec: MP3
+    bitrate: 128
+  - url: https://str3.openstream.co/1246?aw_0_1st.collectionid%3D4287%26stationId%3D4287%26publisherId%3D1270%26k%3D1773589058
+    codec: MP3
+    bitrate: 128
+  - url: https://strw3.openstream.co/1474?aw_0_1st.collectionid%3D4661%26stationId%3D4661%26publisherId%3D1498%26k%3D1773589208
+    codec: MP3
+    bitrate: 128
+  - url: https://str3.openstream.co/805?aw_0_1st.collectionid%3D3573%26stationId%3D3573%26publisherId%3D829%26k%3D1773588480
+    codec: MP3
+    bitrate: 128

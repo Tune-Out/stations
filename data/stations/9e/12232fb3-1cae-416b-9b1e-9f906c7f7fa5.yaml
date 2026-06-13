@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 00:29:13
 clickcount: 5
 geo_lat: 50.00509116466678
 geo_long: 8.294677734375002
-curation: 0.35
-provenance:
-  - radiobrowser-12232fb3-1cae-416b-9b1e-9f906c7f7fa5
-streams:
-  - url: 'https://liveradio.swr.de/sw331ch/swr1rp/'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://liveradio.swr.de/sw282p3/swr1rp/play.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,14 @@ research:
   format: Popular music (rock, 1980s hits), local news, local weather.
   notes: Public regional broadcaster serving Rheinland-Pfalz state; SWR1 is mainstream pop-rock channel.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-12232fb3-1cae-416b-9b1e-9f906c7f7fa5
+  - iprd-de-swr1-rheinland-pfalz-16972b95
+streams:
+  - url: https://liveradio.swr.de/sw331ch/swr1rp/
+    codec: AAC
+    bitrate: 96
+  - url: https://liveradio.swr.de/sw282p3/swr1rp/play.mp3
+    codec: MP3
+    bitrate: 128

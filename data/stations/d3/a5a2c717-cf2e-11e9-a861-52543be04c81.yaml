@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a5a2c717-cf2e-11e9-a861-52543be04c81
-streams:
-  - url: 'http://pool.radiopaloma.de/RP-Volksmusik.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://pool.radiopaloma.de/RP-Fresh.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://pool.radiopaloma.de/RP-Kuschelschlager.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +28,16 @@ research:
   format: Volksmusik (German and Alpine folk music); traditional songs and regional musical heritage
   notes: Radio Paloma is a German commercial radio station specializing in Volksmusik (German folk and traditional music), particularly popular in Alpine regions. Offers online streaming of folk music and regional entertainment.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a5a2c717-cf2e-11e9-a861-52543be04c81
+streams:
+  - url: http://pool.radiopaloma.de/RP-Volksmusik.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://pool.radiopaloma.de/RP-Fresh.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://pool.radiopaloma.de/RP-Kuschelschlager.mp3
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-03-22 21:41:01
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ad2844a4-c419-4327-918c-f80f838aecd7
-streams:
-  - url: 'https://athina984.live24.gr/athina984'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://athina984.live24.gr/athina984'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,14 @@ research:
   format: News, talk, and current affairs programming
   notes: Municipal radio station serving Athens; provides news and talk-based content in Greek.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ad2844a4-c419-4327-918c-f80f838aecd7
+  - iprd-gr-athina-984-704be383
+streams:
+  - url: https://athina984.live24.gr/athina984
+    codec: MP3
+    bitrate: 128
+  - url: http://athina984.live24.gr/athina984
+    codec: MP3
+    bitrate: 128

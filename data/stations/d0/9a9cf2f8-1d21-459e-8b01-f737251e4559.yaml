@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:57:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9a9cf2f8-1d21-459e-8b01-f737251e4559
-streams:
-  - url: 'http://stream.myip.gr:9214/;listen.pls;listen.pls'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://tls-chrome.live24.gr/775?http://stream.myip.gr:9214/'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Music-focused pop and contemporary hits.
   notes: Local commercial station based in Patra, Greece. Limited publicly available information.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9a9cf2f8-1d21-459e-8b01-f737251e4559
+streams:
+  - url: http://stream.myip.gr:9214/;listen.pls;listen.pls
+    codec: MP3
+    bitrate: 96
+  - url: https://tls-chrome.live24.gr/775?http://stream.myip.gr:9214/
+    codec: MP3
+    bitrate: 96

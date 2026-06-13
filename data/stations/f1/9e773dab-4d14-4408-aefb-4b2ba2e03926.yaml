@@ -24,22 +24,6 @@ lastchangetime: 2026-01-15 00:02:06
 clickcount: 2
 geo_lat: 52.505522585040254
 geo_long: 13.373107910156252
-curation: -0.05
-provenance:
-  - radiobrowser-9e773dab-4d14-4408-aefb-4b2ba2e03926
-streams:
-  - url: 'http://stream.megaradiomix.de:5050/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream3.radiodienst.de/proxy/megaberlin/berlin'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://play.megaradiomix.de/megaradiomix-hamburg/mp3-192/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://play.megaradiomix.de/megaradiomix-berlin/mp3-192/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +33,20 @@ research:
   format: Dance, DJ mixes, house, mixed music, and Top 40 programming
   notes: Commercial German online radio station based in Berlin specializing in dance music, DJ mixes, house, and mainstream Top 40 hits.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9e773dab-4d14-4408-aefb-4b2ba2e03926
+  - iprd-de-megaradiomix-92de226e
+streams:
+  - url: http://stream.megaradiomix.de:5050/
+    codec: MP3
+    bitrate: 192
+  - url: https://stream3.radiodienst.de/proxy/megaberlin/berlin
+    codec: MP3
+    bitrate: 192
+  - url: https://play.megaradiomix.de/megaradiomix-hamburg/mp3-192/
+    codec: MP3
+    bitrate: 192
+  - url: https://play.megaradiomix.de/megaradiomix-berlin/mp3-192/
+    codec: MP3
+    bitrate: 192

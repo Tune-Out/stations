@@ -24,19 +24,6 @@ lastchangetime: 2026-01-15 06:54:30
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-fc1f86d6-a932-47b5-9d97-806a9ca1de80
-streams:
-  - url: 'https://ais-sa3.cdnstream1.com/2606_128.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://ais-sa3.cdnstream1.com/2606_64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://ais-sa3.cdnstream1.com/2606_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -46,3 +33,19 @@ research:
   format: Indie rock, noise rock, alternative, and experimental music.
   notes: Independent internet radio station dedicated to indie and underground rock music. Non-commercial broadcaster supporting alternative and experimental artists.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-fc1f86d6-a932-47b5-9d97-806a9ca1de80
+  - iprd-us-bagel-radio-09969370
+  - iprd-us-somafm-bagel-eb9f0d4a
+  - iprd-us-somafm-bagel-5b7b1376
+streams:
+  - url: https://ais-sa3.cdnstream1.com/2606_128.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://ais-sa3.cdnstream1.com/2606_64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://ais-sa3.cdnstream1.com/2606_128.mp3
+    codec: MP3
+    bitrate: 128

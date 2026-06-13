@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 03:01:40
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0f33f957-fc41-410e-b894-e0ebc3123f0b
-streams:
-  - url: 'http://stream.klassikradio.de/purebach/aac-64'
-    codec: AAC
-  - url: 'http://stream.klassikradio.de/purebach/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: exclusively Johann Sebastian Bach compositions and baroque-era music
   notes: Specialist classical music station operated by Klassik Radio AG; "Best of Bach" is a curated sub-channel focusing exclusively on J.S. Bach and related baroque composers; Klassik Radio operates 180+ themed stations via premium subscription model (Klassik Radio Plus) and ad-supported free tier; carefully curated by music experts and renowned artists; streams at low bitrate (64 kbps AAC) via stream.klassikradio.de; additional content includes film scores, wellness music, jazz, and classical lifestyle programming; available on FM (UKW) and DAB+ digital radio in Germany plus streaming.
   sources: https://www.klassikradio.de/klassik-radio-select/sender/johann-sebastian-bach/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-0f33f957-fc41-410e-b894-e0ebc3123f0b
+streams:
+  - url: http://stream.klassikradio.de/purebach/aac-64
+    codec: AAC
+  - url: http://stream.klassikradio.de/purebach/mp3-192
+    codec: MP3

@@ -24,16 +24,6 @@ lastchangetime: 2026-03-25 08:05:24
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-f1480b88-c069-4424-ba3a-5222e5dda3db
-streams:
-  - url: 'https://stream.radios.rs:9026/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream.radios.rs:9026/;*.mp3'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Music-focused commercial radio (pop, folk, pop-folk); includes Xtra specialty channel with pop and pop-rock.
   notes: Commercial digital/streaming radio network operating across former Yugoslavia (Belgrade, Podgorica, Sarajevo offices). Operates multiple branded channels (S1-S4, Južni, Pop Folk, Kids, Latino, Sport, Gold) with mixed format programming. Premium ad-free subscription available.
   sources: radios.rs, internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-f1480b88-c069-4424-ba3a-5222e5dda3db
+streams:
+  - url: https://stream.radios.rs:9026/stream
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream.radios.rs:9026/;*.mp3
+    codec: AAC+
+    bitrate: 64

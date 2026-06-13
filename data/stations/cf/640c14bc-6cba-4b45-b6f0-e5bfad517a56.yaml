@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:07:13
 clickcount: 0
 geo_lat: 45.54789710069964
 geo_long: 13.730356693267822
-curation: 0.40
-provenance:
-  - radiobrowser-640c14bc-6cba-4b45-b6f0-e5bfad517a56
-streams:
-  - url: 'http://stream02.exit.si:8000/DALMACIJA?'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream02.exit.si:8000/DALMACIJA'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Music-focused with pop, rock, 80s/90s, dance, café, Italian, Slovenian, and regional (Dalmatian, Istrian, Ex-Yu) genres; live morning shows
   notes: 'Commercial community radio station. Most-listened local format radio station in Slovenia (May 2026). Strong social media presence: 90,000 Facebook followers; 15,000 Instagram followers. Mission: "Ti izbiraš, kaj poslušaš!" (You choose what you listen to), emphasizing listener choice across diverse genres.'
   sources: https://www.radiocapris.si/
+curation: 0.4
+provenance:
+  - radiobrowser-640c14bc-6cba-4b45-b6f0-e5bfad517a56
+  - iprd-si-radio-capris-dalmacija-e0743699
+streams:
+  - url: http://stream02.exit.si:8000/DALMACIJA?
+    codec: MP3
+    bitrate: 128
+  - url: http://stream02.exit.si:8000/DALMACIJA
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:05:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-f4f09f1f-7d8c-430d-9ff0-55cbea31ef58
-streams:
-  - url: 'https://sc2.streamwithq.com:2000/stream/GavdosFm'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://sc2.streamwithq.com:2000/stream/GavdosFm/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Greek folk music and traditional content
   notes: Small independent community radio station serving the island of Gavdos off southern Crete. Limited broadcast reach.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-f4f09f1f-7d8c-430d-9ff0-55cbea31ef58
+streams:
+  - url: https://sc2.streamwithq.com:2000/stream/GavdosFm
+    codec: MP3
+    bitrate: 128
+  - url: https://sc2.streamwithq.com:2000/stream/GavdosFm/
+    codec: MP3
+    bitrate: 128

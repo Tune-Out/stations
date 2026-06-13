@@ -19,9 +19,6 @@ lastchangetime: 2026-04-12 15:42:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-312d81f7-dfe0-4099-8858-3c6ba6b64521
 research:
   reviewed_at: 2026-06-10
   nature: unknown
@@ -31,3 +28,7 @@ research:
   format: Experimental/hobbyist streaming, 128kbps AAC stream.
   notes: Personal or hobbyist internet radio project hosted on personal server in Italy (buraglio.it). Minimal metadata; appears to be small-scale operation. No public homepage separate from stream endpoint.
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-312d81f7-dfe0-4099-8858-3c6ba6b64521
+  - iprd-it-pyradio-38b9c5aa

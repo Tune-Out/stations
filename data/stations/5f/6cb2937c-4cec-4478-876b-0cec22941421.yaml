@@ -1,7 +1,7 @@
 stationuuid: 6cb2937c-4cec-4478-876b-0cec22941421
 name: 7HOFM - Hobart - 101.7 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HOAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HOAAC.aac
+url: 'http://16603.live.streamtheworld.com:80/HOB_7HOAAC.aac'
+url_resolved: 'http://16603.live.streamtheworld.com:80/HOB_7HOAAC.aac'
 homepage: https://www.7hofm.com.au/
 favicon: https://i.ibb.co/VT5FPnD/61ea5b74dcdc455f530c0451.jpg
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 00:31:56
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6cb2937c-4cec-4478-876b-0cec22941421
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Adult contemporary music with news, local programming, and information services
   notes: 7HOFM (101.7 FM) broadcasts from Hobart, Tasmania as commercial station operated by Southern Cross Austereo, major Australian media company. Provides local news, music, and entertainment to Tasmanian capital region with adult contemporary programming format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6cb2937c-4cec-4478-876b-0cec22941421

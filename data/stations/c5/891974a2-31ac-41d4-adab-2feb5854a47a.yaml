@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-891974a2-31ac-41d4-adab-2feb5854a47a
-streams:
-  - url: 'http://streams.fluxfm.de/60er/mp3-320/'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/60er/mp3-320'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -36,3 +28,11 @@ research:
   format: Specializes in 1960s music and retro programming; part of broader FLUX community radio lineup
   notes: FLUX is a legendary Berlin independent radio station known for alternative, electronic, and indie programming; operates multiple thematic channels including 60er (1960s focus); community-run non-profit
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-891974a2-31ac-41d4-adab-2feb5854a47a
+streams:
+  - url: http://streams.fluxfm.de/60er/mp3-320/
+    codec: MP3
+  - url: http://streams.fluxfm.de/60er/mp3-320
+    codec: MP3

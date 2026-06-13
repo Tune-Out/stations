@@ -22,14 +22,6 @@ lastchangetime: 2026-01-14 23:25:56
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964880ca-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.sunshine-live.de/twenty/aac-64/stream.sunshine-live.de/'
-    codec: AAC
-  - url: 'http://stream.sunshine-live.de/xmas/mp3-192/stream.sunshine-live.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: "24/7 electronic dance music with themed channels: BOUNCE, FESTIVAL, HARDSTYLE, IBIZA, 90s; DJ shows, live sets"
   notes: 'Commercial electronic music broadcaster. Branded as "HOME OF THE DJs" emphasizing DJ culture. Notable shows: Beat Buster (weekly music quiz), Checkst du (quiz show), Twenty Five (voting show), multiple electronic music podcasts. Partnerships with commercial brands. Stream available across Europe.'
   sources: http://www.sunshine-live.de/
+curation: -0.05
+provenance:
+  - radiobrowser-964880ca-0601-11e8-ae97-52543be04c81
+  - iprd-de-sunshine-live-best-of-20-years-3f3592f5
+  - iprd-de-sunshine-live-best-of-20-years-4ca12aa9
+streams:
+  - url: http://stream.sunshine-live.de/twenty/aac-64/stream.sunshine-live.de/
+    codec: AAC
+  - url: http://stream.sunshine-live.de/xmas/mp3-192/stream.sunshine-live.de/
+    codec: MP3

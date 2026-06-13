@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 03:53:54
 clickcount: 3
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.65
-provenance:
-  - radiobrowser-cd280bad-abd6-47ab-8847-735b4f6dc937
-streams:
-  - url: 'https://somafm.com/n5md130.pls'
-    url_resolved: 'https://ice6.somafm.com/n5md-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/n5md32.pls'
-    url_resolved: 'https://ice2.somafm.com/n5md-32-aac'
-    codec: AAC
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -45,3 +33,19 @@ research:
   format: ambient, experimental electronic music, modern composition, post-rock curated playlists
   notes: Non-profit, listener-supported internet radio station specializing in independent, experimental, and electronic music. Founded by Rusty Hodge. n5MD channel focuses on post-rock and modern composition.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-cd280bad-abd6-47ab-8847-735b4f6dc937
+  - iprd-us-somafm-n5md-213d9619
+  - iprd-us-somafm-n5md-b67a318f
+  - iprd-us-somafm-n5md-8907ca9f
+  - iprd-us-somafm-n5md-beb078a3
+streams:
+  - url: https://somafm.com/n5md130.pls
+    url_resolved: https://ice6.somafm.com/n5md-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/n5md32.pls
+    url_resolved: https://ice2.somafm.com/n5md-32-aac
+    codec: AAC
+    bitrate: 32

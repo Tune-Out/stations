@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:03:21
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960ecc44-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://gene-wr06.ice.infomaniak.ch/gene-wr06.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: French rap and hip-hop classics; "Gold" format focusing on French rap standards and iconic tracks.
   notes: Part of Generations Radio network with multiple themed channels; "Rap FR Gold" channel focuses on classic French rap hits; streams via Infomaniak CDN infrastructure.
   sources: http://generations.fr/
+curation: -0.05
+provenance:
+  - radiobrowser-960ecc44-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-rap-fr-gold-395a2e3b
+  - iprd-fr-generations-rap-fr-gold-b4a81bd9
+streams:
+  - url: http://gene-wr06.ice.infomaniak.ch/gene-wr06.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3
+    codec: MP3
+    bitrate: 128

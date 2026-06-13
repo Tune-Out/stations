@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-48e54ea6-a130-4417-a6e9-e915a924ce0d
-streams:
-  - url: 'http://streams.deltaradio.de/delta-deutsch/aac-64/mediaplayer/'
-    codec: AAC
-  - url: 'https://streams.deltaradio.de/delta-live/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1707745847&cb=732710009&listenerid=e82210e20cd947feaa0430990ea49f31'
-    codec: MP3
-  - url: 'http://streams.deltaradio.de/delta-live/mp3-128/liveradio/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,15 @@ research:
   format: Contemporary hits radio (CHR) with specialty streams and podcasts; curated music across multiple genres.
   notes: '"Neuer. Besser. delta." (Newer. Better. delta.) — commercial operator in Hamburg area. Operates on UKW, DAB+, streaming platforms. Presents major festivals.'
   sources: https://www.deltaradio.de/
+curation: 0.3
+provenance:
+  - radiobrowser-48e54ea6-a130-4417-a6e9-e915a924ce0d
+  - iprd-de-delta-radio-c413e0e3
+  - iprd-it-delta-radio-bb1bd30b
+streams:
+  - url: http://streams.deltaradio.de/delta-deutsch/aac-64/mediaplayer/
+    codec: AAC
+  - url: https://streams.deltaradio.de/delta-live/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1707745847&cb=732710009&listenerid=e82210e20cd947feaa0430990ea49f31
+    codec: MP3
+  - url: http://streams.deltaradio.de/delta-live/mp3-128/liveradio/
+    codec: MP3

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:51:16
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1fd8a193-8f7f-4eb7-8ac5-e8c517230a54
-streams:
-  - url: 'http://ec4.yesstreaming.net:3790/'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://ec4.yesstreaming.net:3790/'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Country music
   notes: US-based internet radio station dedicated to country music. Broadcasts high-quality 320 kbps stream to country music enthusiasts in the United States and abroad.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1fd8a193-8f7f-4eb7-8ac5-e8c517230a54
+streams:
+  - url: http://ec4.yesstreaming.net:3790/
+    codec: MP3
+    bitrate: 320
+  - url: https://ec4.yesstreaming.net:3790/
+    codec: MP3
+    bitrate: 320

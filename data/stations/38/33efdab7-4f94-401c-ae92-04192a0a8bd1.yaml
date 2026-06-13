@@ -35,14 +35,6 @@ lastchangetime: 2026-01-15 08:05:50
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-33efdab7-4f94-401c-ae92-04192a0a8bd1
-streams:
-  - url: 'https://streams.deltaradio.de/delta-unplugged/aac-64/streams.deltaradio.de/'
-    codec: AAC
-  - url: 'https://streams.deltaradio.de/delta-unplugged/mp3-192/streams.deltaradio.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -52,3 +44,11 @@ research:
   format: '"Unplugged" format featuring alternative, indie, rock, folk, pop, reggae, grunge, hip-hop, singer-songwriter; acoustic and unplugged interpretations of popular music'
   notes: Delta Radio Unplugged is an alternative stream from Delta Radio, a major German commercial radio broadcaster; focuses on unplugged and acoustic versions of popular music; 192 kbps MP3 stream; features diverse alternative and indie programming
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-33efdab7-4f94-401c-ae92-04192a0a8bd1
+streams:
+  - url: https://streams.deltaradio.de/delta-unplugged/aac-64/streams.deltaradio.de/
+    codec: AAC
+  - url: https://streams.deltaradio.de/delta-unplugged/mp3-192/streams.deltaradio.de/
+    codec: MP3

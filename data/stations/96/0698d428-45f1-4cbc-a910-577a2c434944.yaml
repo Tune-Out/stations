@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:06:28
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-0698d428-45f1-4cbc-a910-577a2c434944
-streams:
-  - url: 'https://streamer.radio.co/s0635c8b0d/listen'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +33,14 @@ research:
   format: Dub reggae, dub techno, bass, downtempo, future bass, experimental electronic
   notes: Dr. Dick's Dub Shack is an independent internet radio station broadcasting from Bermuda, based in Hamilton. Specializes in dub reggae, dub techno, and related electronic music genres emphasizing bass and experimental soundscapes. Curator-driven station with focus on niche electronic and reggae-influenced music. Small independent operation with dedicated listenership in electronic/dub music communities. Non-commercial enthusiast project.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-0698d428-45f1-4cbc-a910-577a2c434944
+  - iprd-bm-dr-dick-s-dub-shack-ca40f5d5
+streams:
+  - url: https://streamer.radio.co/s0635c8b0d/listen
+    codec: MP3
+    bitrate: 192
+  - url: http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as
+    codec: MP3
+    bitrate: 192

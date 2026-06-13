@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-0a13c62c-5560-47de-8a64-a33870ca3798
-streams:
-  - url: 'http://stream3.polskieradio.pl:8918/;'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream3.polskieradio.pl:8918/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,14 @@ research:
   format: Classic rock and pop rock station; Polish rock, classic rock, pop rock music and driving-oriented programming
   notes: '"Polskie Radio Kierowców" (Polish Drivers Radio) is part of Polskie Radio public broadcasting system; specialized programming targeting drivers and commuters; focuses on classic rock and Polish rock music; nationwide reach; good listener base (5,223 votes); public service mission'
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-0a13c62c-5560-47de-8a64-a33870ca3798
+  - iprd-pl-polskie-radio-kierowc-w-6fb95753
+streams:
+  - url: http://stream3.polskieradio.pl:8918/;
+    codec: MP3
+    bitrate: 192
+  - url: http://stream3.polskieradio.pl:8918/
+    codec: MP3
+    bitrate: 192

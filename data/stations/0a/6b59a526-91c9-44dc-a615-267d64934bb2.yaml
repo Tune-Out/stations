@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:13:59
 clickcount: 2
 geo_lat: 47.16154704611024
 geo_long: 8.437001109123232
-curation: 0.05
-provenance:
-  - radiobrowser-6b59a526-91c9-44dc-a615-267d64934bb2
-streams:
-  - url: 'https://jamesfm.ice.infomaniak.ch/jamesfm.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://jamesfm.ice.infomaniak.ch/jamesfm.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: independent internet radio
@@ -40,3 +30,15 @@ research:
   format: miscellaneous; format details not publicly available
   notes: JAMES FM is a Swiss internet radio station broadcasting in Swiss German (Alemannic dialect); operates independently through Infomaniak hosting.
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-6b59a526-91c9-44dc-a615-267d64934bb2
+  - iprd-ch-james-fm-89faa2a4
+  - iprd-nl-arrow-bluesrock-f3a10f22
+streams:
+  - url: https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://jamesfm.ice.infomaniak.ch/jamesfm.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c2549b10-8dd1-4268-a152-40ee294cf2e3
-streams:
-  - url: 'http://usa19.fastcast4u.com:4610/;'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://stream.zeno.fm/qvikbhhla39uv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +31,12 @@ research:
   format: Music, news, talk shows, entertainment, information; generalist programming
   notes: Independent Australian internet radio station; Hobart-based; eclectic format mixing music, news and talk; community-oriented
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c2549b10-8dd1-4268-a152-40ee294cf2e3
+streams:
+  - url: http://usa19.fastcast4u.com:4610/;
+    codec: MP3
+    bitrate: 320
+  - url: http://stream.zeno.fm/qvikbhhla39uv
+    codec: MP3

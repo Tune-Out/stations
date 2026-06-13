@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 19
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-84a51775-4137-48c8-b72b-85f4b5edc7e5
-streams:
-  - url: 'https://8923.brasilstream.com.br/stream'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://8923.brasilstream.com.br/stream?origem=site-tupi.fm'
-    codec: AAC
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: News-talk and sports radio with major Brazilian football coverage (Botafogo, Flamengo, Fluminense, Vasco), local Rio news (Jornal da Tupi), and entertainment programming such as "Tamo Junto"
   notes: Rádio Tupi was Brazil's first broadcast radio station (PRG-3 Rádio Tupi, founded by Assis Chateaubriand in 1935 in São Paulo); the Rio franchise operates on 96.5 FM (formerly 1280 AM); one of the oldest continuously operating radio brands in Latin America; long-time pioneer of sports journalism in Brazil
   sources: https://tupi.fm/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-84a51775-4137-48c8-b72b-85f4b5edc7e5
+  - iprd-br-super-r-dio-tupi-96-5-cb557499
+streams:
+  - url: https://8923.brasilstream.com.br/stream
+    codec: AAC
+    bitrate: 32
+  - url: https://8923.brasilstream.com.br/stream?origem=site-tupi.fm
+    codec: AAC
+    bitrate: 32

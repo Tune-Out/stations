@@ -22,32 +22,6 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 0
 geo_lat: 41.99603231952971
 geo_long: 21.431708335876465
-curation: -0.05
-provenance:
-  - radiobrowser-e2d37a2e-41d5-4800-b1cd-0dc76eb57b00
-streams:
-  - url: 'https://radiostar.pro/stream/starplus.php'
-    codec: AAC+
-    bitrate: 384
-  - url: 'https://radiostar.pro/stream/exyuretro.php'
-    codec: AAC
-    bitrate: 384
-  - url: 'https://radiostar.pro/stream/boemi.php'
-    url_resolved: 'https://a2.asurahosting.com/listen/stil_radio/starboem'
-    codec: AAC
-    bitrate: 384
-  - url: 'https://radiostar.pro/stream/worldretro.php'
-    codec: AAC
-    bitrate: 384
-  - url: 'https://radiostar.pro/stream/mknarodna.php'
-    codec: AAC
-    bitrate: 384
-  - url: 'https://radiostar.pro/stream/starlive.php'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://radiostar.pro/stream/narodna.php'
-    codec: AAC
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -57,3 +31,29 @@ research:
   format: Macedonian pop, Serbian pop music
   notes: Commercial radio station based in Skopje, North Macedonia. Star Plus channel focuses on contemporary Macedonian and Serbian pop music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e2d37a2e-41d5-4800-b1cd-0dc76eb57b00
+streams:
+  - url: https://radiostar.pro/stream/starplus.php
+    codec: AAC+
+    bitrate: 384
+  - url: https://radiostar.pro/stream/exyuretro.php
+    codec: AAC
+    bitrate: 384
+  - url: https://radiostar.pro/stream/boemi.php
+    url_resolved: https://a2.asurahosting.com/listen/stil_radio/starboem
+    codec: AAC
+    bitrate: 384
+  - url: https://radiostar.pro/stream/worldretro.php
+    codec: AAC
+    bitrate: 384
+  - url: https://radiostar.pro/stream/mknarodna.php
+    codec: AAC
+    bitrate: 384
+  - url: https://radiostar.pro/stream/starlive.php
+    codec: AAC
+    bitrate: 320
+  - url: https://radiostar.pro/stream/narodna.php
+    codec: AAC
+    bitrate: 320

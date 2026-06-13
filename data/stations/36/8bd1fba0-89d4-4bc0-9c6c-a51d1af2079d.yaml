@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 07:20:35
 clickcount: 0
 geo_lat: 42.61336443148569
 geo_long: -5.5610744495376565
-curation: 0.35
-provenance:
-  - radiobrowser-8bd1fba0-89d4-4bc0-9c6c-a51d1af2079d
-streams:
-  - url: 'http://radio.unileon.es:8000/radio-unileon-320.m3u'
-    url_resolved: 'http://radio.unileon.es:8000/radio-unileon-320'
-    codec: OGG
-    bitrate: 320
-  - url: 'http://radio.unileon.es:8000/radio-unileon-320'
-    codec: OGG
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +31,14 @@ research:
   format: University radio; student-oriented music and programming
   notes: Community radio station of Universidad de León; student-run broadcaster; "juanjitos" reference to student community; educational and cultural programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8bd1fba0-89d4-4bc0-9c6c-a51d1af2079d
+streams:
+  - url: http://radio.unileon.es:8000/radio-unileon-320.m3u
+    url_resolved: http://radio.unileon.es:8000/radio-unileon-320
+    codec: OGG
+    bitrate: 320
+  - url: http://radio.unileon.es:8000/radio-unileon-320
+    codec: OGG
+    bitrate: 320

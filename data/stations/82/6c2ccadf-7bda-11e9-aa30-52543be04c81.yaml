@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:33:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6c2ccadf-7bda-11e9-aa30-52543be04c81
-streams:
-  - url: 'http://dreamsiteradiocp.com:8014/stream'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://dreamsiteradiocp2.com:8062/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,15 @@ research:
   format: Catholic religious programming, religious talk, devotional content
   notes: Part of the international Radio Maria network, founded in Italy; broadcasts Catholic teachings, Marian devotions, and religious programs; targets Catholic diaspora and believers
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6c2ccadf-7bda-11e9-aa30-52543be04c81
+  - iprd-rs-rm-serbia-hungarian-07a98157
+  - iprd-rs-rm-serbia-hungarian-1ff311d6
+streams:
+  - url: http://dreamsiteradiocp.com:8014/stream
+    codec: AAC+
+    bitrate: 128
+  - url: http://dreamsiteradiocp2.com:8062/stream
+    codec: MP3
+    bitrate: 128

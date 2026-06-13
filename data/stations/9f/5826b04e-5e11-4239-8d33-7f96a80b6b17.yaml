@@ -1,7 +1,7 @@
 stationuuid: 5826b04e-5e11-4239-8d33-7f96a80b6b17
 name: FM Globo Monterrey - 88.1 FM - XHJM-FM - MVS Radio - Monterrey, Nuevo León
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFM_SC
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFM_SC
+url: 'http://14223.live.streamtheworld.com:80/XHJMFM_SC'
+url_resolved: 'http://14223.live.streamtheworld.com:80/XHJMFM_SC'
 homepage: https://fmglobo.com/monterrey/
 favicon: https://fmglobo.com/favicon.ico
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 06:30:27
 clickcount: 1
 geo_lat: 25.68141048571951
 geo_long: -100.31453132629396
-curation: -0.10
-provenance:
-  - radiobrowser-5826b04e-5e11-4239-8d33-7f96a80b6b17
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Contemporary hit radio, pop, entertainment; 88.1 FM; adult hits and Latin pop focus
   notes: Commercial FM broadcaster with digital presence; broadcasts from Monterrey. Part of MVS Radio network operating across Mexico.
   sources: internal knowledge only (website returned HTTP 500 error)
+curation: -0.1
+provenance:
+  - radiobrowser-5826b04e-5e11-4239-8d33-7f96a80b6b17

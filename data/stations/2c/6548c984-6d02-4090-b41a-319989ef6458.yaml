@@ -23,19 +23,6 @@ lastchangetime: 2026-02-23 16:38:16
 clickcount: 0
 geo_lat: 44.435538792823635
 geo_long: 26.10247959047563
-curation: -0.05
-provenance:
-  - radiobrowser-6548c984-6d02-4090-b41a-319989ef6458
-streams:
-  - url: 'https://spacefm.live/listen/spacefm_deluxe/space-deluxe192'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://spacefm.live/listen/spacefm_romania/spacefm192'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://retro.spacefm.live/listen/spacefm_retro/retro128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +32,16 @@ research:
   format: Dance, pop, and rock music; contemporary mainstream electronic and pop formats.
   notes: SpaceFM Romania operates SpaceFM Deluxe as a commercial premium music streaming and online radio service. Focuses on dance and pop music targeting younger audiences in Romania.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6548c984-6d02-4090-b41a-319989ef6458
+streams:
+  - url: https://spacefm.live/listen/spacefm_deluxe/space-deluxe192
+    codec: MP3
+    bitrate: 192
+  - url: https://spacefm.live/listen/spacefm_romania/spacefm192
+    codec: MP3
+    bitrate: 192
+  - url: https://retro.spacefm.live/listen/spacefm_retro/retro128
+    codec: MP3
+    bitrate: 128

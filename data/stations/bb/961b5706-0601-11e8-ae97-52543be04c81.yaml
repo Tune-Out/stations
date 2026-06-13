@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:27:53
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-961b5706-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://mp3.rtvslo.si/val202'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://mp3.rtvslo.si:8000/val202'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,14 @@ research:
   format: Adult contemporary music and lifestyle/news talk with a strong focus on Slovenian artists, sports coverage, and youth-oriented culture programming
   notes: Val 202 is the second radio programme of the public broadcaster RTV Slovenija, launched in 1972 as a more contemporary, music-driven counterpart to Radio Slovenija's First Programme; it is funded by the national licence fee (RTV prispevek) supplemented by limited advertising, and is regulated under the Radiotelevizija Slovenija Act; notable long-running strands include sports show "Naval na šport," music programmes "Glasba 202" and "Notice," and cultural strands "Kulturnice" and "Zgodbe," and it broadcasts FM nationwide as well as via DAB+ and online; the broadcaster has at times been subject to political controversy over editorial independence and government appointments to its supervisory bodies.
   sources: http://val202.rtvslo.si/, internal knowledge
+curation: 0.45
+provenance:
+  - radiobrowser-961b5706-0601-11e8-ae97-52543be04c81
+  - iprd-si-radio-val-202-8896abf9
+streams:
+  - url: http://mp3.rtvslo.si/val202
+    codec: AAC
+    bitrate: 192
+  - url: http://mp3.rtvslo.si:8000/val202
+    codec: AAC
+    bitrate: 192

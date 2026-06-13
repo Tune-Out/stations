@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:01:43
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-4139a23c-1d69-4fbb-8e8f-34389d828534
-streams:
-  - url: 'http://185.119.89.63:8000/;'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://live.radioskay.com/;*.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Zabavna music (entertainment/folk-influenced pop), folk, and regional music
   notes: Commercial radio station serving Serbia with zabavna and folk music format popular throughout Balkans. Broadcasts in Serbian language. Specializes in entertaining pop-folk genre with regional appeal.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-4139a23c-1d69-4fbb-8e8f-34389d828534
+  - iprd-rs-radio-skay-db90dc63
+streams:
+  - url: http://185.119.89.63:8000/;
+    codec: MP3
+    bitrate: 192
+  - url: https://live.radioskay.com/;*.mp3
+    codec: MP3
+    bitrate: 192

@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-fbc99584-c90a-11e9-8502-52543be04c81
-streams:
-  - url: 'https://streams.regenbogen.de/rr-classicrock-128-mp3'
-    codec: MP3
-  - url: 'http://streams.regenbogen.de/rr-classicrock-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Classic rock; rock hits from 1970s-2000s; rock-focused programming
   notes: German commercial radio station, part of Regenbogen Radio network operating multiple themed channels. "Zwei" (Two) indicates second channel. Specializes in classic rock format. Significant presence in German radio market; part of larger Regenbogen broadcast group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fbc99584-c90a-11e9-8502-52543be04c81
+streams:
+  - url: https://streams.regenbogen.de/rr-classicrock-128-mp3
+    codec: MP3
+  - url: http://streams.regenbogen.de/rr-classicrock-128-mp3
+    codec: MP3

@@ -22,26 +22,6 @@ lastchangetime: 2026-01-15 05:53:55
 clickcount: 36
 geo_lat: 38.75880988912455
 geo_long: -9.117994196712973
-curation: 0.70
-provenance:
-  - radiobrowser-dbc018ae-1848-4f26-a677-367011a1f4b2
-streams:
-  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8'
-    codec: AAC
-    bitrate: 200
-    hls: true
-  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8'
-    codec: AAC
-    bitrate: 191
-    hls: true
-  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8'
-    codec: AAC
-    bitrate: 190
-    hls: true
-  - url: 'https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8'
-    codec: AAC
-    bitrate: 181
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -51,3 +31,24 @@ research:
   format: General interest public radio with news, current affairs, information, talk, sports programming, and entertainment
   notes: RTP is Portugal's public broadcaster founded 1957. Antena 1 is their flagship general interest radio channel. Publicly funded model providing comprehensive news and information coverage. Major radio network with nationwide reach in Portugal. Sports coverage emphasis.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-dbc018ae-1848-4f26-a677-367011a1f4b2
+  - iprd-pt-rtp-antena-1-36f95a51
+streams:
+  - url: http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
+    codec: AAC
+    bitrate: 200
+    hls: true
+  - url: http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
+    codec: AAC
+    bitrate: 191
+    hls: true
+  - url: http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
+    codec: AAC
+    bitrate: 190
+    hls: true
+  - url: https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+    codec: AAC
+    bitrate: 181
+    hls: true

@@ -1,6 +1,6 @@
 stationuuid: 99e7a69c-72f7-4c9d-b976-50b9325f7fef
 name: CKGS "Hit Country 105.5 Beauce" Saguenay, QC
-url: https://playerservices.streamtheworld.com/pls/CHCT_FM.pls
+url: 'https://14223.live.streamtheworld.com:443/CHCT_FM_SC'
 url_resolved: https://19003.live.streamtheworld.com/CHCT_FM_SC
 homepage: https://hitcountry.com/hit-country-1053/
 favicon: https://hc1053.mesregions.ca/wp-content/uploads/sites/22/2024/12/hit-fav.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:17:41
 clickcount: 1
 geo_lat: 48.401673632479984
 geo_long: -71.05819702148439
-curation: -0.05
-provenance:
-  - radiobrowser-99e7a69c-72f7-4c9d-b976-50b9325f7fef
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: country music
   notes: Commercial country music radio station broadcasting to Saguenay, Quebec in French; part of Hit Country branded network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-99e7a69c-72f7-4c9d-b976-50b9325f7fef

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 53.12732535916186
 geo_long: -1.7578125000000002
-curation: 0.20
-provenance:
-  - radiobrowser-219ecaef-145b-4742-b790-be5bfe346f7a
-streams:
-  - url: 'http://s2.xrad.io:8046/;'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://s2.xrad.io:9646/;stream/1'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: 1920s music, jazz, blues, and popular songs from the roaring twenties era
   notes: Specialist internet radio focusing on music from the 1920s era; targets audiences interested in jazz age, vintage music, and historical audio content
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-219ecaef-145b-4742-b790-be5bfe346f7a
+streams:
+  - url: http://s2.xrad.io:8046/;
+    codec: AAC+
+    bitrate: 48
+  - url: https://s2.xrad.io:9646/;stream/1
+    codec: AAC+
+    bitrate: 48

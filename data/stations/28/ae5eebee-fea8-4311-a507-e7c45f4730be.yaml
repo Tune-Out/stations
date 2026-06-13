@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ae5eebee-fea8-4311-a507-e7c45f4730be
-streams:
-  - url: 'https://stream.ehrhiti.lv:8000/ehr.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://stream.ehrhiti.lv:8000/khr.aac'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Mixed format radio programming
   notes: Latvian internet radio station operating as ehr.fm. Streams AAC format audio with limited public documentation available.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ae5eebee-fea8-4311-a507-e7c45f4730be
+streams:
+  - url: https://stream.ehrhiti.lv:8000/ehr.aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://stream.ehrhiti.lv:8000/khr.aac
+    codec: AAC+
+    bitrate: 96

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-c8e3f36a-d51d-4f0c-96a6-3c228dbaee4f
-streams:
-  - url: 'https://artofmusic.radioca.st/stream/1/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://sr6.inmystream.info:8024/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,14 @@ research:
   format: Electronic music programming; DJ sets and electronic content.
   notes: Non-commercial internet radio station hosted on Radioca.st specializing in electronic music and DJ programming.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-c8e3f36a-d51d-4f0c-96a6-3c228dbaee4f
+  - iprd-it-art-of-music-5a307488
+streams:
+  - url: https://artofmusic.radioca.st/stream/1/
+    codec: MP3
+    bitrate: 128
+  - url: http://sr6.inmystream.info:8024/stream
+    codec: MP3
+    bitrate: 128

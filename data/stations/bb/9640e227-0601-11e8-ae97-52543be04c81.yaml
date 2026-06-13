@@ -1,6 +1,6 @@
 stationuuid: 9640e227-0601-11e8-ae97-52543be04c81
 name: XEX 730 "W Deportes" Mexico City, DF
-url: http://provisioning.streamtheworld.com/pls/TDW730AMAAC.pls
+url: 'http://15693.live.streamtheworld.com:80/TDW730AMAAC_SC'
 url_resolved: http://19303.live.streamtheworld.com:3690/TDW730AMAAC_SC
 homepage: http://deportes2.televisa.com/tdw/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9640e227-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Sports talk and news, primarily coverage of Mexican and international sports
   notes: XEX 730 AM (W Deportes) is part of Televisa's sports broadcasting portfolio in Mexico City
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9640e227-0601-11e8-ae97-52543be04c81
+  - iprd-mx-w-deportes-730-xex-6cc4ed66

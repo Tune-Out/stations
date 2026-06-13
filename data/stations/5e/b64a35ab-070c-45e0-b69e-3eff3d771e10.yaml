@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 03:40:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-b64a35ab-070c-45e0-b69e-3eff3d771e10
-streams:
-  - url: 'http://abm22.com.au:8000/CONTAINER134'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.radiosydney.com.au/ownplayer2016/AFFILIATES/Radio%20Darwin.m3u'
-    url_resolved: 'http://abm22.com.au:8000/CONTAINER134'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: Non-stop music programming
   notes: Australian internet radio station featuring continuous music format; part of Digital Radio Network
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-b64a35ab-070c-45e0-b69e-3eff3d771e10
+streams:
+  - url: http://abm22.com.au:8000/CONTAINER134
+    codec: MP3
+    bitrate: 128
+  - url: http://www.radiosydney.com.au/ownplayer2016/AFFILIATES/Radio%20Darwin.m3u
+    url_resolved: http://abm22.com.au:8000/CONTAINER134
+    codec: MP3
+    bitrate: 128

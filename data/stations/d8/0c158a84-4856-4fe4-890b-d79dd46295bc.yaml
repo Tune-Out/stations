@@ -1,7 +1,7 @@
 stationuuid: 0c158a84-4856-4fe4-890b-d79dd46295bc
 name: Wave FM - Wollongong - 96.5 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/WOL_WAVE_FM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/WOL_WAVE_FM.mp3
+url: 'http://19273.live.streamtheworld.com:80/WOL_WAVE_FM.mp3'
+url_resolved: 'http://19273.live.streamtheworld.com:80/WOL_WAVE_FM.mp3'
 homepage: https://www.wavefm.com.au/
 favicon: https://i.ibb.co/hMw5Dnq/61ea4f00dcdc455f530c0409.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:38:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0c158a84-4856-4fe4-890b-d79dd46295bc
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hot adult contemporary (HAC) and contemporary hits
   notes: Commercial FM station Wave FM in Wollongong (96.5 FM). Part of Australian Radio Network. Adult contemporary radio format targeting mature audiences in Illawarra region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0c158a84-4856-4fe4-890b-d79dd46295bc

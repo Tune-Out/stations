@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 08:26:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-05bf4e4e-8755-418a-83fd-ec7a786b1334
-streams:
-  - url: 'https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8'
-    codec: AAC
-    bitrate: 150
-    hls: true
-  - url: 'https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8'
-    codec: MP3
-    bitrate: 134
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -45,3 +33,15 @@ research:
   format: Community radio with music, culture, talk programming for local Wairarapa audience
   notes: Arrow FM 92.7 is a community-owned and operated station serving Wairarapa, part of Access Media's network of local radio stations in New Zealand.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-05bf4e4e-8755-418a-83fd-ec7a786b1334
+streams:
+  - url: https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8
+    codec: AAC
+    bitrate: 150
+    hls: true
+  - url: https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8
+    codec: MP3
+    bitrate: 134
+    hls: true

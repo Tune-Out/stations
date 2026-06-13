@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 03:13:35
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b40e9589-aa4b-11e9-88f4-52543be04c81
-duplicate_of: 96185f35-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://sportfm.live24.gr/sportfm7712?344b685e2518b0370f0d731432f51438'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://sportfm.live24.gr/sportfm7712'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: Sports news, sports talk, and commentary programming in Greek.
   notes: Sport FM 94.6 operates on 94.6 FM in Greece, serving the Greek market with dedicated sports coverage and analysis. Commercial radio broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b40e9589-aa4b-11e9-88f4-52543be04c81
+duplicate_of: 96185f35-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://sportfm.live24.gr/sportfm7712?344b685e2518b0370f0d731432f51438
+    codec: MP3
+    bitrate: 128
+  - url: https://sportfm.live24.gr/sportfm7712
+    codec: MP3
+    bitrate: 128

@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-86e6c7a4-a46a-4288-a5ab-8281a8c46ae8
-streams:
-  - url: 'https://2.mystreaming.net/uber/jjrfatswaller/icecast.audio'
-    codec: MP3
-  - url: 'https://nl4.mystreaming.net/uber/jjrfatswaller/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -37,3 +29,11 @@ research:
   format: jazz; dedicated artist stream; Fats Waller repertoire; stride piano, jazz standards
   notes: You Radio curated jazz stream dedicated to Fats Waller music. Focuses on stride piano and jazz standards from the legendary pianist and composer.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-86e6c7a4-a46a-4288-a5ab-8281a8c46ae8
+streams:
+  - url: https://2.mystreaming.net/uber/jjrfatswaller/icecast.audio
+    codec: MP3
+  - url: https://nl4.mystreaming.net/uber/jjrfatswaller/icecast.audio
+    codec: MP3

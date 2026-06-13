@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9f67f672-0af1-48ec-bbe9-a286c2664c80
-streams:
-  - url: 'https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=8386&type=s1'
-    codec: MP3
-  - url: 'https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=8949&type=s1'
-    codec: MP3
-  - url: 'https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=5182&type=ice&mount=stream'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Chill/light music (лёгкая музыка); listener-request based programming
   notes: Community radio station; operates intermittently on listen2myradio platform; operates "по желанию руководителя или запросам радиослушателей" (by operator preference or listener requests); connected to Telegram/VK
   sources: https://temnoe.listen2myshow.com/
+curation: 0.35
+provenance:
+  - radiobrowser-9f67f672-0af1-48ec-bbe9-a286c2664c80
+streams:
+  - url: https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=8386&type=s1
+    codec: MP3
+  - url: https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=8949&type=s1
+    codec: MP3
+  - url: https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=5182&type=ice&mount=stream
+    codec: MP3

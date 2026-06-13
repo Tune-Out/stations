@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 00:07:07
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9623b41a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/5LRW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/5LRW/mp3/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,15 @@ research:
   format: News, current affairs, talk, and local programming for South Australia
   notes: ABC Adelaide is part of the ABC's local radio network, providing news, current affairs, and community information. Frequency 891 FM.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9623b41a-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-local-radio-891-adelaide-e1198892
+  - iprd-au-abc-local-radio-891-adelaide-c6feb415
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/5LRW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/5LRW/mp3/
+    codec: AAC+
+    bitrate: 56

@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 2
 geo_lat: 45.88373420818209
 geo_long: 14.438685178756716
-curation: -0.05
-provenance:
-  - radiobrowser-4b59466c-4b49-4aae-b9c7-64f856338b5c
-streams:
-  - url: 'https://zvok.ragla.si/gr'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://zvok.ragla.si/gr?1491479973880'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://zvok.ragla.si/gr?1670057106819'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: Retro, oldies, classic hits
   notes: Retro Radio is a commercial radio station in Slovenia specializing in classic and retro music. Based on the Slovenian domain and language settings. Targets mature audience seeking vintage popular music from earlier decades.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4b59466c-4b49-4aae-b9c7-64f856338b5c
+streams:
+  - url: https://zvok.ragla.si/gr
+    codec: MP3
+    bitrate: 128
+  - url: http://zvok.ragla.si/gr?1491479973880
+    codec: MP3
+    bitrate: 128
+  - url: https://zvok.ragla.si/gr?1670057106819
+    codec: MP3
+    bitrate: 128

@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 00:00:55
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1a2c46d8-8bbc-4d1f-8d5a-185cae41c4d4
-streams:
-  - url: 'https://classichitsradio.streamingmedia.it/usa'
-    codec: AAC
-  - url: 'http://classichitsradio.streamingmedia.it:8017/usa'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +33,11 @@ research:
   format: Classic hits music; 1970s, 1980s, 1990s rock and pop; nostalgia-oriented programming
   notes: Internet radio station targeting listeners who prefer classic rock and pop from 1970-1999; emphasis on hits from that era
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1a2c46d8-8bbc-4d1f-8d5a-185cae41c4d4
+streams:
+  - url: https://classichitsradio.streamingmedia.it/usa
+    codec: AAC
+  - url: http://classichitsradio.streamingmedia.it:8017/usa
+    codec: AAC

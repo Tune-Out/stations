@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 03:17:37
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6ac5f45f-c6d8-46a5-a2e5-2646f7cffc9a
-streams:
-  - url: 'https://ic4.101.ru:8000/stream/air/aac/64/200'
-    codec: AAC
-  - url: 'http://ic4.101.ru:8000/stream/air/aac/64/200'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,13 @@ research:
   format: Relaxation music, ambient, easy-listening
   notes: Relax FM is a channel of 101.ru, one of Russia's largest internet radio networks; specializes in ambient and relaxation music for stress relief
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6ac5f45f-c6d8-46a5-a2e5-2646f7cffc9a
+  - iprd-ru-relax-90-8-b5f0f393
+  - iprd-ru-101-ru-relax-fm-6eb2bb0a
+streams:
+  - url: https://ic4.101.ru:8000/stream/air/aac/64/200
+    codec: AAC
+  - url: http://ic4.101.ru:8000/stream/air/aac/64/200
+    codec: AAC

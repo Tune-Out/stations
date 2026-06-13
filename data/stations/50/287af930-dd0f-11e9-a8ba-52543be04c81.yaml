@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-287af930-dd0f-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.deltaradio.de/deutschrap/aac-64'
-    codec: AAC
-  - url: 'http://streams.deltaradio.de/deutschrap/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Contemporary pop, dance, and German rap across 20+ themed streams (EDM, country, indie, etc.); live shows and podcasts.
   notes: Launched as a digital-first commercial station emphasizing innovation ("Neuer. Besser. delta"). Strong social media presence (TikTok, Instagram, YouTube). Notable content includes artist interviews, festival promotion (Hurricane, Kieler Woche), and interactive contests. Tagline underscores youth-oriented positioning.
   sources: https://www.deltaradio.de/
+curation: 0.2
+provenance:
+  - radiobrowser-287af930-dd0f-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.deltaradio.de/deutschrap/aac-64
+    codec: AAC
+  - url: http://streams.deltaradio.de/deutschrap/mp3-192
+    codec: MP3

@@ -1,6 +1,6 @@
 stationuuid: ba0e78fd-378d-40bf-8d1b-830c45942659
 name: CBC Radio One - Calgary, AB (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CBR1FM_CBC.pls
+url: 'https://26373.live.streamtheworld.com:443/CBR1FM_CBC_SC'
 url_resolved: https://26373.live.streamtheworld.com/CBR1FM_CBC_SC
 homepage: https://www.cbc.ca/news/canada/calgary
 favicon: https://subscriptions.cbc.ca/newsletter_static/images/1587133455231-cbc-calgary.png
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 2
 geo_lat: 51.04566786874314
 geo_long: -114.06246185302736
-curation: 0.35
-provenance:
-  - radiobrowser-ba0e78fd-378d-40bf-8d1b-830c45942659
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -33,3 +30,6 @@ research:
   format: News, current affairs, features, talk radio; part of CBC Radio One national network
   notes: CBC is Canada's public broadcaster founded 1936. Radio One focuses on news, current affairs, and cultural programming. Calgary station covers local news, provincial coverage, and national CBC feed.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ba0e78fd-378d-40bf-8d1b-830c45942659

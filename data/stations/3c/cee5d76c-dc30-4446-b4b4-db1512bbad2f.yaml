@@ -21,16 +21,6 @@ lastchangetime: 2026-05-25 18:16:51
 clickcount: 0
 geo_lat: 33.88978324405087
 geo_long: 35.538534812524915
-curation: 0.35
-provenance:
-  - radiobrowser-cee5d76c-dc30-4446-b4b4-db1512bbad2f
-streams:
-  - url: 'https://vovan.s3ming.com/vovan.aac'
-    codec: MP3
-    bitrate: 32
-  - url: 'https://vovan.s3ming.com/vovan.mp3'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Armenian language programming, news, and cultural content
   notes: Voice of Van broadcasts Armenian-language content to diaspora communities; based in Lebanon serving Armenian audiences
   sources: https://www.voiceofvan.net/
+curation: 0.35
+provenance:
+  - radiobrowser-cee5d76c-dc30-4446-b4b4-db1512bbad2f
+streams:
+  - url: https://vovan.s3ming.com/vovan.aac
+    codec: MP3
+    bitrate: 32
+  - url: https://vovan.s3ming.com/vovan.mp3
+    codec: MP3
+    bitrate: 32

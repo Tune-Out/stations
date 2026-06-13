@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-ddccc4ff-93c7-4fed-bdf2-c170b2b48f47
-streams:
-  - url: 'https://allzic03.ice.infomaniak.ch/allzic03.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://allzic03.ice.infomaniak.ch/allzic03.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Jazz Lounge; specializes in jazz, cool jazz, lounge music, and relaxing jazz standards.
   notes: Allzic Radio Jazz Lounge is an online jazz radio station from France, part of the Allzic network of thematic radio channels. Streams jazz and lounge music to global internet radio audience. Hosted on Infomaniak CDN infrastructure.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-ddccc4ff-93c7-4fed-bdf2-c170b2b48f47
+  - iprd-fr-allzic-jazz-lounge-02f1f8c9
+streams:
+  - url: https://allzic03.ice.infomaniak.ch/allzic03.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://allzic03.ice.infomaniak.ch/allzic03.mp3
+    codec: MP3
+    bitrate: 128

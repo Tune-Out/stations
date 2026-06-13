@@ -1,7 +1,7 @@
 stationuuid: 9257ed3b-c422-43cf-a8dd-8165861b3187
 name: Radio Disney 94.3 - Buenos Aires, Argentina
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+url: 'https://27343.live.streamtheworld.com:443/DISNEY_ARG_BA_ADP.aac'
+url_resolved: 'https://27343.live.streamtheworld.com:443/DISNEY_ARG_BA_ADP.aac'
 homepage: https://ar.radiodisney.com/
 favicon: https://cdn-profiles.tunein.com/s13659/images/logog.png
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 07:21:49
 clickcount: 37
 geo_lat: -34.60106421695718
 geo_long: -58.39284896850587
-curation: -0.05
-provenance:
-  - radiobrowser-9257ed3b-c422-43cf-a8dd-8165861b3187
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Family entertainment, pop music, youth-oriented music and talk programming; entertainment and music for children and teens
   notes: Radio Disney Argentina branded as "94.3 FM" in Buenos Aires. Commercial FM station operated by Disney media division in Argentina. Features pop music in Spanish and English; family and youth-focused content. Part of global Radio Disney network operated by Disney.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9257ed3b-c422-43cf-a8dd-8165861b3187

@@ -22,16 +22,6 @@ lastchangetime: 2026-05-21 11:33:13
 clickcount: 0
 geo_lat: 46.54979438737362
 geo_long: 23.886187076568604
-curation: 0.35
-provenance:
-  - radiobrowser-200c77e9-e7f6-4bcd-adee-20d6061691f8
-streams:
-  - url: 'https://hs1.radiolibertymp.ro/listen/lmpblues/stream.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://s12.myradiostream.com/17492/listen.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Local radio with music and news programming.
   notes: Radio Killer is a community radio station in Câmpia Turzii, Romania, specializing in local music and news content for the Cluj region.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-200c77e9-e7f6-4bcd-adee-20d6061691f8
+streams:
+  - url: https://hs1.radiolibertymp.ro/listen/lmpblues/stream.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://s12.myradiostream.com/17492/listen.mp3
+    codec: MP3
+    bitrate: 128

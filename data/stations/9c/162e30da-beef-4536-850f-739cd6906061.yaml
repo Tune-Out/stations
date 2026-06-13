@@ -28,18 +28,6 @@ lastchangetime: 2026-04-03 00:41:32
 clickcount: 2
 geo_lat: 19.170052682858586
 geo_long: -96.13408595323564
-curation: 0.30
-provenance:
-  - radiobrowser-162e30da-beef-4536-850f-739cd6906061
-streams:
-  - url: 'https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
-  - url: 'https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8'
-    codec: AAC
-    bitrate: 98
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +37,15 @@ research:
   format: Romantic music; Spanish-language baladas (ballads), pop, classic hits, retro music; Spanish romantic hits and contemporary love songs.
   notes: Love FM (XHCS-FM) 103.7 FM broadcasts from Veracruz, Mexico. Licensed 1983; operated by Grupo RADIOSA and rebranded as Love FM in April 2022 following acquisition by Grupo Radio S.A. Focuses on romantic Spanish music format featuring baladas, pop clásicos, and contemporary hits. Part of Love FM network across Mexico.
   sources: https://en.wikipedia.org/wiki/XHCS-FM
+curation: 0.3
+provenance:
+  - radiobrowser-162e30da-beef-4536-850f-739cd6906061
+streams:
+  - url: https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+    codec: AAC
+    bitrate: 98
+    hls: true

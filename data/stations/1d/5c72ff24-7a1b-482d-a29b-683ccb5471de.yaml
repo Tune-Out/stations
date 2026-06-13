@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5c72ff24-7a1b-482d-a29b-683ccb5471de
-streams:
-  - url: 'http://harmanradio.net:8000/main_48.mp3'
-    codec: MP3
-    bitrate: 48
-  - url: 'https://radio.sanbroz.com/public/harman_radio_australia/playlist.pls'
-    url_resolved: 'https://radio.sanbroz.com/listen/harman_radio_australia/radio.mp3'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +32,15 @@ research:
   format: 24/7 live Punjabi radio with Hindi and cultural content
   notes: '"24×7 Live Punjabi radio of Australia." Community-focused commercial broadcaster serving Indian/Punjabi communities in Australia. Provides programming in Hindi and Punjabi. Website hosted on WordPress with active podcast and social media (Facebook, Twitter, YouTube).'
   sources: https://harmanradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-5c72ff24-7a1b-482d-a29b-683ccb5471de
+  - iprd-au-harman-radio-australia-dfdde89a
+streams:
+  - url: http://harmanradio.net:8000/main_48.mp3
+    codec: MP3
+    bitrate: 48
+  - url: https://radio.sanbroz.com/public/harman_radio_australia/playlist.pls
+    url_resolved: https://radio.sanbroz.com/listen/harman_radio_australia/radio.mp3
+    codec: MP3
+    bitrate: 48

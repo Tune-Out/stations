@@ -1,7 +1,7 @@
 stationuuid: 4d9b07cb-51a6-4389-97a3-4de5f8aac911
 name: Rádio Bandeirantes 90.9 FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC
+url: 'https://26663.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC'
+url_resolved: 'https://26663.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC'
 homepage: https://radiobandeirantes.band.uol.com.br/
 favicon: ""
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:40:05
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4d9b07cb-51a6-4389-97a3-4de5f8aac911
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News, sports, and entertainment programming; talk radio with news and sports focus
   notes: Rádio Bandeirantes 90.9 FM is a historic Brazilian commercial radio station based in São Paulo; owned by Grupo Bandeirantes; major news and sports broadcaster
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4d9b07cb-51a6-4389-97a3-4de5f8aac911

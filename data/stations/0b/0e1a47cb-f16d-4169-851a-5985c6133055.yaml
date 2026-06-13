@@ -22,25 +22,6 @@ lastchangetime: 2026-01-15 02:50:58
 clickcount: 34
 geo_lat: 52.4802578
 geo_long: 13.3347639
-curation: 0.70
-provenance:
-  - radiobrowser-0e1a47cb-f16d-4169-851a-5985c6133055
-streams:
-  - url: 'https://st03.sslstream.dlf.de/dlf/03/low/opus/stream.opus?aggregator=web'
-    codec: OGG
-    bitrate: 24
-  - url: 'https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://st03.sslstream.dlf.de/dlf/03/mid/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://st03.sslstream.dlf.de/dlf/03/low/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -50,3 +31,28 @@ research:
   format: Information, culture, news, current affairs, and popular music; youth-oriented public service programming with tagline "Es ist kompliziert. Dazu guter Pop." (It's complicated. Plus good pop).
   notes: Deutschlandfunk Nova is a younger-demographic oriented public radio station from Deutschlandradio, Germany's state-owned broadcaster. Part of the ARD public broadcasting system. Combines news/culture/information with contemporary pop music. Described as "das junge Infoprogramm von Deutschlandradio" (the young information program). Based in Berlin.
   sources: https://www.deutschlandfunknova.de/
+curation: 0.7
+provenance:
+  - radiobrowser-0e1a47cb-f16d-4169-851a-5985c6133055
+  - iprd-de-deutschlandfunk-nova-2d752798
+  - iprd-de-deutschlandfunk-nova-5f54e5bb
+  - iprd-de-deutschlandfunk-nova-c2c56eda
+  - iprd-de-deutschlandfunk-nova-607f5803
+  - iprd-de-deutschlandfunk-nova-7117bbaa
+  - iprd-de-deutschlandfunk-nova-2a154453
+streams:
+  - url: https://st03.sslstream.dlf.de/dlf/03/low/opus/stream.opus?aggregator=web
+    codec: OGG
+    bitrate: 24
+  - url: https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 192
+  - url: https://st03.sslstream.dlf.de/dlf/03/mid/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 128
+  - url: https://st03.sslstream.dlf.de/dlf/03/low/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 48
+  - url: https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
+    codec: MP3
+    bitrate: 128

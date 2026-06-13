@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6a545c91-45c8-4443-8888-303412defb33
-streams:
-  - url: 'https://loveradiolegaspi.radioca.st:2199/tunein/loveradiolegaspi-stream.pls'
-    url_resolved: 'http://176.9.104.253:8035/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://loveradiolegaspi.radioca.st/listen.pls'
-    url_resolved: 'http://loveradiolegaspi.radioca.st:8035/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +28,15 @@ research:
   format: Contemporary pop music with community radio format
   notes: Love Radio is a major Philippines FM radio chain; Legazpi station at 99.5 FM serves Bicol Region with music and entertainment programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6a545c91-45c8-4443-8888-303412defb33
+streams:
+  - url: https://loveradiolegaspi.radioca.st:2199/tunein/loveradiolegaspi-stream.pls
+    url_resolved: http://176.9.104.253:8035/stream
+    codec: MP3
+    bitrate: 96
+  - url: https://loveradiolegaspi.radioca.st/listen.pls
+    url_resolved: http://loveradiolegaspi.radioca.st:8035/stream
+    codec: MP3
+    bitrate: 96

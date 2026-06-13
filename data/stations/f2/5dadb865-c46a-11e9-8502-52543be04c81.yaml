@@ -19,20 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-5dadb865-c46a-11e9-8502-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/soundofberlin/mp3-320'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/elektro/mp3-320'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/klubradio/mp3-320'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/clubsandwich/mp3-320'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/boomfm/mp3-320'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +28,17 @@ research:
   format: Electronic, indie, alternative, experimental, and contemporary music
   notes: FLUX FM is a community radio station based in Berlin, Germany. "Sound of Berlin" is one of its specialized channels. Non-commercial broadcaster dedicated to experimental and independent music, arts, and cultural content. Represents Berlin's vibrant underground music scene.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-5dadb865-c46a-11e9-8502-52543be04c81
+streams:
+  - url: http://streams.fluxfm.de/soundofberlin/mp3-320
+    codec: MP3
+  - url: http://streams.fluxfm.de/elektro/mp3-320
+    codec: MP3
+  - url: http://streams.fluxfm.de/klubradio/mp3-320
+    codec: MP3
+  - url: http://streams.fluxfm.de/clubsandwich/mp3-320
+    codec: MP3
+  - url: http://streams.fluxfm.de/boomfm/mp3-320
+    codec: MP3

@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 07:43:38
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2dcb60cb-87a8-4640-819a-5a0c1c6e5022
-streams:
-  - url: 'http://c5.hostingcentar.com:8275/stream'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://c5.hostingcentar.com:8209/stream'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://shoutcast.pondi.hr:8000/listen.pls'
-    url_resolved: 'http://shoutcast.pondi.hr:8000/;'
-    codec: AAC+
-    bitrate: 72
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +31,18 @@ research:
   format: Contemporary pop music; "Oliver" music channel of Radio Dalmacija network
   notes: Part of Radio Dalmacija network serving Splitsko-Dalmatinska county in Croatian Dalmatia; commercial station
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2dcb60cb-87a8-4640-819a-5a0c1c6e5022
+  - iprd-hr-radio-dalmacija-29e0569b
+streams:
+  - url: http://c5.hostingcentar.com:8275/stream
+    codec: AAC+
+    bitrate: 96
+  - url: http://c5.hostingcentar.com:8209/stream
+    codec: AAC+
+    bitrate: 96
+  - url: http://shoutcast.pondi.hr:8000/listen.pls
+    url_resolved: http://shoutcast.pondi.hr:8000/;
+    codec: AAC+
+    bitrate: 72

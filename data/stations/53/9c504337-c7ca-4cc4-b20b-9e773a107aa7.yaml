@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:56:19
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9c504337-c7ca-4cc4-b20b-9e773a107aa7
-streams:
-  - url: 'https://servidor24.brlogic.com:8808/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://servidor24.brlogic.com:8808/live?1662557159610'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Gospel music and Christian content programming
   notes: Affiliated with Pão Diário (Daily Bread) evangelical initiative based in Curitiba. Community-oriented gospel and faith-based programming.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9c504337-c7ca-4cc4-b20b-9e773a107aa7
+streams:
+  - url: https://servidor24.brlogic.com:8808/live
+    codec: MP3
+    bitrate: 128
+  - url: http://servidor24.brlogic.com:8808/live?1662557159610
+    codec: MP3
+    bitrate: 128

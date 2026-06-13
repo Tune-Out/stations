@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-fe68c476-5452-42c1-ab6c-903cffbc33f7
-streams:
-  - url: 'https://c28.radioboss.fm:18046/stream?1732693607051'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://c28.radioboss.fm:18046/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: fusion music; world music; wellness programming; lifestyle content; meditation and relaxation
   notes: Fusion Life Radio is commercial radio broadcaster based in india targeting wellness and lifestyle-conscious listeners. Emphasizes fusion music styles blending world music traditions. Limited public information; typical of indian commercial wellness/lifestyle broadcasters.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-fe68c476-5452-42c1-ab6c-903cffbc33f7
+streams:
+  - url: https://c28.radioboss.fm:18046/stream?1732693607051
+    codec: MP3
+    bitrate: 128
+  - url: https://c28.radioboss.fm:18046/stream
+    codec: MP3
+    bitrate: 128

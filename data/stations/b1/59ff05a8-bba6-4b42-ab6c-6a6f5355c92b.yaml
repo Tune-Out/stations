@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 00:57:53
 clickcount: 20
 geo_lat: 53.079067535458144
 geo_long: 8.805541992187502
-curation: 0.65
-provenance:
-  - radiobrowser-59ff05a8-bba6-4b42-ab6c-6a6f5355c92b
-streams:
-  - url: 'https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,13 @@ research:
   format: Cultural and information-oriented public radio mixing jazz, soul, indie and singer-songwriter music with documentary features, interviews and arts coverage
   notes: Radio Bremen is Germany's smallest ARD broadcaster, founded 1945 in the post-war American occupation zone; the channel was relaunched as "Bremen Zwei" in 2017 (replacing "Nordwestradio", a joint venture with NDR Info Spezial) and uses the slogan "Neugier lohnt sich" ("Curiosity pays off"); flagship strands include the cultural conversation programme "Gesprächszeit" and music shows "Sounds" and "Late Nite Sounds - Jazzgrooves"; sister channels at Radio Bremen include Bremen Eins, Bremen Vier, Bremen NEXT and the multicultural service COSMO (co-produced with WDR and rbb)
   sources: https://www.bremenzwei.de/, internal knowledge of ARD and Radio Bremen
+curation: 0.65
+provenance:
+  - radiobrowser-59ff05a8-bba6-4b42-ab6c-6a6f5355c92b
+streams:
+  - url: https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

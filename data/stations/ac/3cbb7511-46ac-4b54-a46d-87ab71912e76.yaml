@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 08:51:19
 clickcount: 1
 geo_lat: 51.2362
 geo_long: 12.7202
-curation: 0.65
-provenance:
-  - radiobrowser-3cbb7511-46ac-4b54-a46d-87ab71912e76
-streams:
-  - url: 'https://streams.fluxfm.de/nyir-glob/mp3-320/'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/nyir-glob/mp3-320'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -39,3 +31,11 @@ research:
   format: 24-hour free/community radio with cultural diversity, local content, media education, underrepresented voices
   notes: "Founded 1993 as volunteer association, FM transmission began July 1, 2000 on 95.9 MHz. About 350 volunteer members shape programming. Broadcasts 11 languages including German, English, Arabic, Chinese, Persian, Ukrainian, and others. Mission: free, open-access broadcasting platform fostering inclusive dialogue and cultural diversity."
   sources: https://de.wikipedia.org/wiki/Radio_Corax,https://commonvoices.radiocorax.de/
+curation: 0.65
+provenance:
+  - radiobrowser-3cbb7511-46ac-4b54-a46d-87ab71912e76
+streams:
+  - url: https://streams.fluxfm.de/nyir-glob/mp3-320/
+    codec: MP3
+  - url: http://streams.fluxfm.de/nyir-glob/mp3-320
+    codec: MP3

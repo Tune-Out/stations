@@ -1,6 +1,6 @@
 stationuuid: 96468f55-0601-11e8-ae97-52543be04c81
 name: Radio 509 Hilversum
-url: http://provisioning.streamtheworld.com/pls/RADIO509AAC.pls
+url: 'http://22603.live.streamtheworld.com:80/RADIO509AAC_SC'
 url_resolved: http://22343.live.streamtheworld.com:3690/RADIO509AAC_SC
 homepage: http://www.radio509.nl/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:13:13
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96468f55-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,7 @@ research:
   format: Community radio with local news, talk, and music programming
   notes: Radio 509 Hilversum is a community radio station serving Hilversum and surrounding areas in the Netherlands with local content and programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96468f55-0601-11e8-ae97-52543be04c81
+  - iprd-nl-radio-509-1925f0f2

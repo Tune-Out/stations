@@ -27,14 +27,6 @@ lastchangetime: 2026-01-15 04:35:17
 clickcount: 11
 geo_lat: 48.77215018962352
 geo_long: 9.17461979951882
-curation: -0.10
-provenance:
-  - radiobrowser-4e948485-984b-4ec3-9983-16e5d83c4b85
-streams:
-  - url: 'https://stream.bigfm.de/deutschland/mp3-128/radio-browser'
-    codec: AAC
-  - url: 'https://streams.bigfm.de/bigfm-deutschland-128-mp3'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +36,12 @@ research:
   format: CHR/urban contemporary blending hip-hop, charts, dance and R&B ("Deutschlands biggste Beats"), with news, weather and traffic
   notes: bigFM launched in 2000 as Baden-Württemberg's second statewide private radio licence holder and gradually expanded to Rheinland-Pfalz and Saarland; it pioneered the German urban/hip-hop mainstream format and operates dozens of online sub-streams (Just Music, Beach, Hip-Hop, etc.); the brand has been owned and reorganised under Audiotainment Südwest, with Regiocast and various newspaper-publisher shareholders involved over the years
   sources: https://www.bigfm.de/
+curation: -0.1
+provenance:
+  - radiobrowser-4e948485-984b-4ec3-9983-16e5d83c4b85
+  - iprd-de-big-fm-deutschland-667c4e38
+streams:
+  - url: https://stream.bigfm.de/deutschland/mp3-128/radio-browser
+    codec: AAC
+  - url: https://streams.bigfm.de/bigfm-deutschland-128-mp3
+    codec: AAC

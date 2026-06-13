@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9615b225-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://newcap.leanstream.co/CKGYFM-MP3'
-    codec: AAC
-    bitrate: 131
-  - url: 'http://newcap.leanstream.co/CKGYFM-MP3'
-    codec: AAC
-    bitrate: 130
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Country music exclusively; tagline "Real Country 95.5"
   notes: Red Deer's primary country music station; established FM broadcaster serving central Alberta.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9615b225-0601-11e8-ae97-52543be04c81
+  - iprd-ca-ckgy-real-country-95-5-ecf04c0d
+streams:
+  - url: http://newcap.leanstream.co/CKGYFM-MP3
+    codec: AAC
+    bitrate: 131
+  - url: http://newcap.leanstream.co/CKGYFM-MP3
+    codec: AAC
+    bitrate: 130

@@ -25,19 +25,6 @@ lastchangetime: 2026-01-15 07:22:38
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-83668e29-2b34-11ea-aa0c-52543be04c81
-streams:
-  - url: 'https://eu6.fastcast4u.com/proxy/lrm?mp=/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://eu6.fastcast4u.com/proxy/mrrm?mp=/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://eu6.fastcast4u.com/proxy/qrm?mp=/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +34,16 @@ research:
   format: Hard rock / Alternative metal / Metalcore / Nu-metal / Hardcore; aggressive music programming
   notes: Streaming internet radio via Fastcast4u platform; focuses on loud, energetic metal and hardcore genres; serves Russian-speaking metal community
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-83668e29-2b34-11ea-aa0c-52543be04c81
+streams:
+  - url: https://eu6.fastcast4u.com/proxy/lrm?mp=/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://eu6.fastcast4u.com/proxy/mrrm?mp=/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://eu6.fastcast4u.com/proxy/qrm?mp=/stream
+    codec: MP3
+    bitrate: 320

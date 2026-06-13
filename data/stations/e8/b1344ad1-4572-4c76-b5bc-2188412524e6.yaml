@@ -37,16 +37,6 @@ lastchangetime: 2026-04-14 02:33:55
 clickcount: 1
 geo_lat: -32.92164229992177
 geo_long: -60.68340478310818
-curation: 0.00
-provenance:
-  - radiobrowser-b1344ad1-4572-4c76-b5bc-2188412524e6
-streams:
-  - url: 'https://streaming01.radiosenlinea.com.ar:10961/;'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://streaming01.radiosenlinea.com.ar:10961/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -56,3 +46,13 @@ research:
   format: Adult contemporary, retro hits, 80s/2000s pop, rock en español, dance, electronic, soft pop
   notes: Argentine internet radio specializing in 1980s-2000s music with emphasis on retro hits, soft adult contemporary, and rock argentino; serves Spanish-speaking South American audience.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-b1344ad1-4572-4c76-b5bc-2188412524e6
+streams:
+  - url: https://streaming01.radiosenlinea.com.ar:10961/;
+    codec: AAC+
+    bitrate: 128
+  - url: https://streaming01.radiosenlinea.com.ar:10961/stream
+    codec: MP3
+    bitrate: 192

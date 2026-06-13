@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 08:25:40
 clickcount: 522
 geo_lat: 40.75166
 geo_long: -73.97538
-curation: 0.90
-provenance:
-  - radiobrowser-d1a54d2e-623e-4970-ab11-35f7b56c5ec3
-streams:
-  - url: 'https://icecast.walmradio.com:8443/classic_opus'
-    codec: OGG
-    bitrate: 192
-  - url: 'https://icecast.walmradio.com:8443/classic'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +35,14 @@ research:
   format: Curated classic vinyl-era recordings — big band, swing, jazz vocalists, crooners, orchestral pop, easy listening and old-time radio from approximately the 1930s-1960s, streamed in 320 kbps "HD"
   notes: Part of the WALM Radio family of internet-only stations. Emphasises audio quality ("crystal-clear audio quality", HD streaming) and an archival approach to mid-century popular music. Listener-supported, donation/subscription model rather than traditional advertising.
   sources: https://walmradio.com/classic
+curation: 0.75
+provenance:
+  - radiobrowser-d1a54d2e-623e-4970-ab11-35f7b56c5ec3
+  - iprd-us-classic-vinyl-hd-f00ed9ea
+streams:
+  - url: https://icecast.walmradio.com:8443/classic_opus
+    codec: OGG
+    bitrate: 192
+  - url: https://icecast.walmradio.com:8443/classic
+    codec: MP3
+    bitrate: 320

@@ -1,7 +1,7 @@
 stationuuid: bc9b2668-b9a1-4c0a-82f3-426ec237e4c7
 name: WFTK Cincinnati 96.5 Rock
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WFTKFM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WFTKFM_SC
+url: 'https://26193.live.streamtheworld.com:443/WFTKFM_SC'
+url_resolved: 'https://26193.live.streamtheworld.com:443/WFTKFM_SC'
 homepage: https://www.purerock96.com/
 favicon: https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3759/files/2024/12/wftk-fm.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-02-17 03:36:18
 clickcount: 1
 geo_lat: 39.35310639567908
 geo_long: -84.32511627674104
-curation: -0.05
-provenance:
-  - radiobrowser-bc9b2668-b9a1-4c0a-82f3-426ec237e4c7
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Active rock, alternative rock, modern rock
   notes: WFTK 96.5 "Pure Rock 96" is a commercial FM rock station in Cincinnati, Ohio. Owned by iHeartRadio/Salem Media, broadcasting active rock and alternative rock to the tri-state region (Ohio, Kentucky, Indiana).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bc9b2668-b9a1-4c0a-82f3-426ec237e4c7

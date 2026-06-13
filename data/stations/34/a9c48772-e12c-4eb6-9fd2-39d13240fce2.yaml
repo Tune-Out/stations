@@ -19,21 +19,6 @@ lastchangetime: 2026-01-27 14:15:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a9c48772-e12c-4eb6-9fd2-39d13240fce2
-streams:
-  - url: 'https://radio.replayscape.com:8443/128k.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://radio.replayscape.com:8096/listen.pls'
-    url_resolved: 'http://radio.replayscape.com:8096/'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://radio.replayscape.com:8064/listen.pls'
-    url_resolved: 'http://radio.replayscape.com:8064/'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +28,18 @@ research:
   format: Music replay and retrospective programming format
   notes: Austrian internet radio focused on replaying and showcasing music from various eras
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a9c48772-e12c-4eb6-9fd2-39d13240fce2
+streams:
+  - url: https://radio.replayscape.com:8443/128k.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://radio.replayscape.com:8096/listen.pls
+    url_resolved: http://radio.replayscape.com:8096/
+    codec: MP3
+    bitrate: 96
+  - url: http://radio.replayscape.com:8064/listen.pls
+    url_resolved: http://radio.replayscape.com:8064/
+    codec: MP3
+    bitrate: 64

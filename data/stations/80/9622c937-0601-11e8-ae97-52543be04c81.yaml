@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:42:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9622c937-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/4LRW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/4LRW/mp3/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -43,3 +33,15 @@ research:
   format: Local news, current affairs, information, and community programming
   notes: ABC Local Radio 612 Brisbane is a flagship public radio station; part of the Australian public broadcasting network; serves local and national news and current affairs
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9622c937-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-local-radio-612-brisbane-564823ff
+  - iprd-au-abc-local-radio-612-brisbane-1e968c86
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/4LRW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/4LRW/mp3/
+    codec: AAC+
+    bitrate: 56

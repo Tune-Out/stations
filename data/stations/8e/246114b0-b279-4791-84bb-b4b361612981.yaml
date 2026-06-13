@@ -26,19 +26,6 @@ lastchangetime: 2026-02-07 10:59:29
 clickcount: 1
 geo_lat: 51.733631130058114
 geo_long: 0.4690286302144342
-curation: -0.05
-provenance:
-  - radiobrowser-246114b0-b279-4791-84bb-b4b361612981
-streams:
-  - url: 'https://stream-mz.hellorayo.co.uk/net2essex.aac?aw_0_1st.skey=1770461314'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://stream-mz.hellorayo.co.uk/net2westmidlands.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850'
-    codec: MP3
-    bitrate: 112
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +35,17 @@ research:
   format: Greatest Hits format (70s, 80s, 90s pop and rock)
   notes: Licensed commercial radio station serving Essex. Part of the Greatest Hits Radio network operated by Rayo Media, a Bauer Media subsidiary.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-246114b0-b279-4791-84bb-b4b361612981
+  - iprd-gb-greatest-hits-radio-bf900146
+streams:
+  - url: https://stream-mz.hellorayo.co.uk/net2essex.aac?aw_0_1st.skey=1770461314
+    codec: AAC+
+    bitrate: 48
+  - url: https://stream-mz.hellorayo.co.uk/net2westmidlands.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
+    codec: AAC+
+    bitrate: 48
+  - url: http://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850
+    codec: MP3
+    bitrate: 112

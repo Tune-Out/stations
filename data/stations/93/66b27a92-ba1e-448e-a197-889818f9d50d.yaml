@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:36:09
 clickcount: 0
 geo_lat: 51.2235569754445
 geo_long: -0.16857147216796875
-curation: 0.35
-provenance:
-  - radiobrowser-66b27a92-ba1e-448e-a197-889818f9d50d
-streams:
-  - url: 'http://live2.radioredhill.co.uk:8080/live'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://radioredhill.uk/stream/live.mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Hospital radio; music, entertainment, patient support; 24/7 broadcast
   notes: Volunteer-run hospital radio station serving East Surrey Hospital, Redhill. Founded November 1974. Approximately 70 volunteers operate the station broadcasting 24/7 on 100.4 FM, 1431 AM, and online. Provides entertainment and support for hospital patients and staff.
   sources: https://radioredhill.uk/, https://radioredhill.uk/about-us/, https://www.radio-uk.co.uk/radio-redhill
+curation: 0.35
+provenance:
+  - radiobrowser-66b27a92-ba1e-448e-a197-889818f9d50d
+streams:
+  - url: http://live2.radioredhill.co.uk:8080/live
+    codec: MP3
+    bitrate: 160
+  - url: https://radioredhill.uk/stream/live.mp3
+    codec: MP3
+    bitrate: 160

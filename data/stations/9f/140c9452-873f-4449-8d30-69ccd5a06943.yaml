@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 07:26:24
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-140c9452-873f-4449-8d30-69ccd5a06943
-streams:
-  - url: 'https://az10.yesstreaming.net:8210/radiokoko.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radiokoko.ro/live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Adult contemporary, contemporary hit radio, and pop rock programming.
   notes: Romanian commercial station. Broadcasts in Hungarian (minority language in Romania). Format focuses on adult contemporary hits and pop music. 128 kbps MP3. Serves Hungarian minority and Transylvanian audience.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-140c9452-873f-4449-8d30-69ccd5a06943
+streams:
+  - url: https://az10.yesstreaming.net:8210/radiokoko.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://radiokoko.ro/live
+    codec: MP3
+    bitrate: 128

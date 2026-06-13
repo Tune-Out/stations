@@ -1,6 +1,6 @@
 stationuuid: 9627cccf-0601-11e8-ae97-52543be04c81
 name: KTOP-FM 102.9 "Nash Icon" St. Marys, KS
-url: http://provisioning.streamtheworld.com/pls/KTOPFMAAC.pls
+url: 'http://18253.live.streamtheworld.com:80/KTOPFMAAC_SC'
 url_resolved: http://14983.live.streamtheworld.com/KTOPFMAAC_SC
 homepage: http://www.1029nashicon.com/
 favicon: http://www.1029nashicon.com/favicon.ico
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:27:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9627cccf-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music
   notes: KTOP-FM 102.9 broadcasts as "Nash Icon" with a country music format to the central Kansas region around Topeka and St. Marys.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9627cccf-0601-11e8-ae97-52543be04c81

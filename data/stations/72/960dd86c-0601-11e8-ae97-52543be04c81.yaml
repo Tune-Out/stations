@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 00:42:51
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-960dd86c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming.wrek.org:8000/main/128kb.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming.wrek.org:8000/wrek_live-24kb-mono.m3u'
-    url_resolved: 'http://streaming.wrek.org:8000/wrek_live-24kb-mono'
-    codec: MP3
-    bitrate: 24
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +32,16 @@ research:
   format: Jazz, alternative, indie, student-programmed radio
   notes: Student-run non-commercial college radio station at Georgia Tech; part of campus community with student DJs; established station with strong jazz programming; serves both campus and local Atlanta community; known for eclectic alternative and jazz music
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-960dd86c-0601-11e8-ae97-52543be04c81
+  - iprd-us-wrek-91-1-b577d347
+  - iprd-us-wrek-91-1-7e2ff2ed
+streams:
+  - url: http://streaming.wrek.org:8000/main/128kb.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming.wrek.org:8000/wrek_live-24kb-mono.m3u
+    url_resolved: http://streaming.wrek.org:8000/wrek_live-24kb-mono
+    codec: MP3
+    bitrate: 24

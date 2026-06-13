@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 05:58:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a11a6322-f533-4a9e-9d0b-6f14906b433c
-streams:
-  - url: 'https://lhttp.qingting.fm/live/3948/64k.mp3'
-    codec: MP3
-  - url: 'http://lhttp.qingting.fm/live/3948/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -39,3 +31,13 @@ research:
   format: News, current affairs, information programming
   notes: Langfang Comprehensive Radio serves Hebei Province; streams via Qingting FM platform; state-affiliated provincial broadcaster.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a11a6322-f533-4a9e-9d0b-6f14906b433c
+  - iprd-cn-langfang-traffic-changshu-broadcasting-3b59802a
+  - iprd-cn-langfang-comprehensive-broadcasting-0b8b56ac
+streams:
+  - url: https://lhttp.qingting.fm/live/3948/64k.mp3
+    codec: MP3
+  - url: http://lhttp.qingting.fm/live/3948/64k.mp3
+    codec: MP3

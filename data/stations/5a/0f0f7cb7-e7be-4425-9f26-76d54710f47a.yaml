@@ -22,16 +22,6 @@ lastchangetime: 2026-04-23 18:41:08
 clickcount: 1
 geo_lat: 46.252564846787806
 geo_long: 26.771471500396732
-curation: 0.35
-provenance:
-  - radiobrowser-0f0f7cb7-e7be-4425-9f26-76d54710f47a
-streams:
-  - url: 'https://radiocdn.nxthost.com/radio-deea'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://radiocdn.nxthost.com/radio-deea'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Electronic dance music, DJ shows, techno, club music, festival coverage
   notes: Commercial streaming radio focused on electronic dance music; tagline "feel good! feel dance!"; features DJ interviews, club party coverage, festival news (Techno Parade, Sky & Sea Fest); community-oriented electronic music platform
   sources: https://radiodeea.ro/
+curation: 0.35
+provenance:
+  - radiobrowser-0f0f7cb7-e7be-4425-9f26-76d54710f47a
+streams:
+  - url: https://radiocdn.nxthost.com/radio-deea
+    codec: MP3
+    bitrate: 320
+  - url: http://radiocdn.nxthost.com/radio-deea
+    codec: MP3
+    bitrate: 320

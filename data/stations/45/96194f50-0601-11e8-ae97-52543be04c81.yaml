@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 04:18:44
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96194f50-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/streams.rsa-sachsen.de/play.m3u'
-    url_resolved: 'http://rsa.streamabc.net/regc-rsasachseneinschlaf1882929-mp3-192-1689958?sABC=69686n4r%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768450638'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/streams.rsa-sachsen.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: Ambient, sleep, and relaxation music; specialized ambient channel designed for background listening and sleep assistance
   notes: R.SA Das Schnarchnasenradio (roughly "The Snorer Radio") is a niche commercial station in Saxony, Germany specializing in ambient and calm music for relaxation and sleep. "Schnarchnase" is a playful German term related to snoring/sleep.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96194f50-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/streams.rsa-sachsen.de/play.m3u
+    url_resolved: http://rsa.streamabc.net/regc-rsasachseneinschlaf1882929-mp3-192-1689958?sABC=69686n4r%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768450638
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/streams.rsa-sachsen.de/
+    codec: MP3

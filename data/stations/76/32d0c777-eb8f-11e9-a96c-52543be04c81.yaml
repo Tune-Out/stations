@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-32d0c777-eb8f-11e9-a96c-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: continuous contemporary classical / new music — 20th- and 21st-century concert music, electroacoustic, IRCAM-style works
   notes: One of France Musique's themed webradios alongside Classique Easy, Classique Plus, Concerts, Opéra, Jazz, La Baroque and Ocora-Musiques du Monde. Dedicated to contemporary art music, drawing heavily on the catalog of leading French and international composers (Boulez, Dutilleux, Saariaho, Lachenmann, Ferneyhough, Murail etc.) and the IRCAM ecosystem. Stream is delivered via Radio France's icecast infrastructure at high-quality 192 kbps AAC.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-32d0c777-eb8f-11e9-a96c-52543be04c81
+  - iprd-fr-france-musique-la-contemporaine-8d3c0b38
+  - iprd-fr-france-musique-la-contemporaine-b4fc9f46
+streams:
+  - url: http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3
+    codec: MP3
+    bitrate: 128

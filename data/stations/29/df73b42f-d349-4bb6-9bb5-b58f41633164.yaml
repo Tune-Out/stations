@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-df73b42f-d349-4bb6-9bb5-b58f41633164
-streams:
-  - url: 'http://radiocast.rtp.pt/antena180a.mp3'
-    codec: MP3
-  - url: 'https://radiocast.rtp.pt/antena180a.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -36,3 +28,12 @@ research:
   format: general interest programming, news, current affairs, music
   notes: Antena 1 (RTP's primary station) is major Portuguese public radio service; streams via RTP's network infrastructure
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-df73b42f-d349-4bb6-9bb5-b58f41633164
+  - iprd-pt-rtp-antena-1-e84c909e
+streams:
+  - url: http://radiocast.rtp.pt/antena180a.mp3
+    codec: MP3
+  - url: https://radiocast.rtp.pt/antena180a.mp3
+    codec: MP3

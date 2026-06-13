@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 02:41:59
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-9163367a-1602-4e61-9e4f-04c9ba79d088
-streams:
-  - url: 'https://stream-171.zeno.fm/2uhuu5hvzqzuv?zs=oGfN_quRRSyJUGCfzxagdw'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/2uhuu5hvzqzuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: pirate
@@ -40,3 +32,11 @@ research:
   format: budots (a Filipino electronic dance music genre originating in Davao), techno, EDM, trance, and dance remixes
   notes: Budots FM 98.9 is a small internet radio outlet on the Zeno.fm platform, listed via the unofficial radio-philippines.com aggregator and ofwradioworld.weebly.com; despite the FM-style branding "98.9" it appears to be an internet-only station targeting the global Filipino diaspora with the local "budots" dance genre; the National Telecommunications Commission of the Philippines does not list it as a licensed terrestrial broadcaster.
   sources: https://www.radio-philippines.com/budots-fm-989, internal knowledge
+curation: 0.05
+provenance:
+  - radiobrowser-9163367a-1602-4e61-9e4f-04c9ba79d088
+streams:
+  - url: https://stream-171.zeno.fm/2uhuu5hvzqzuv?zs=oGfN_quRRSyJUGCfzxagdw
+    codec: MP3
+  - url: https://stream.zeno.fm/2uhuu5hvzqzuv
+    codec: MP3

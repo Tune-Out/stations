@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:22:39
 clickcount: 4
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.20
-provenance:
-  - radiobrowser-5e523a64-f373-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-80er.radionetz.de/1a-80er.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-80er.radionetz.de/1a-80er.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: Non-stop 1980s pop, rock and oldies channel ("- 1 A - 80er") — one of 25 genre streams in the 1A Radio network
   notes: 1A Radio is an internet-radio multi-channel network from "entire media" in Hof, Bavaria; offers ~25 themed streams (60er/70er/80er/90er/Hits/Pop/Schlager/NDW/Volksmusik/Rock/Jazz, etc.); tagline "Alle Hits – jederzeit, jeden Tag!"; no terrestrial FM/DAB licence — purely online distribution
   sources: http://www.1aradio.com/
+curation: 0.2
+provenance:
+  - radiobrowser-5e523a64-f373-11e8-a471-52543be04c81
+  - iprd-de-1a-80er-72fa53ac
+  - iprd-de-1a-80er-40a42765
+streams:
+  - url: https://1a-80er.radionetz.de/1a-80er.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-80er.radionetz.de/1a-80er.mp3
+    codec: MP3
+    bitrate: 128

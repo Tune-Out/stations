@@ -1,7 +1,7 @@
 stationuuid: bd3d4e27-550a-4d6d-af05-5eff1d5ec88f
 name: W Radio Guadalajara - 101.5 FM - XHWK-FM - Radiópolis - Guadalajara, Jalisco
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_GDLAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_GDLAAC.aac
+url: 'https://26143.live.streamtheworld.com:443/WRADIO_GDLAAC.aac'
+url_resolved: 'https://26143.live.streamtheworld.com:443/WRADIO_GDLAAC.aac'
 homepage: http://wradio.com.mx/
 favicon: http://wradio.com.mx/pf/resources/wradiomx/favicon.ico?d=71
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 06:12:34
 clickcount: 0
 geo_lat: 20.675681971746823
 geo_long: -103.34117889404295
-curation: -0.05
-provenance:
-  - radiobrowser-bd3d4e27-550a-4d6d-af05-5eff1d5ec88f
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Talk, news, interviews, and entertainment ("hablada" format); information-centric programming with "música y noticias" (music and news) focus.
   notes: Licensed FM station (XHWK-FM, 101.5 FM) operated by Radiópolis broadcasting group serving Guadalajara, Jalisco. W Radio is a major Mexican news and talk format network with extensive local and national news coverage. Commercial broadcaster focused on information, current events, interviews, and entertainment.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bd3d4e27-550a-4d6d-af05-5eff1d5ec88f

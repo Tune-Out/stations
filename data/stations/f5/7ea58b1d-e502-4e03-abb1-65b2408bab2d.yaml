@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:18:42
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-7ea58b1d-e502-4e03-abb1-65b2408bab2d
-streams:
-  - url: 'http://radyofitrat.radyotvonline.net/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radyofitrat.radyotvonline.net/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: religious
@@ -42,3 +32,13 @@ research:
   format: Islamic religious content, Qur'an recitations, Islamic education and teachings
   notes: Radyo Fıtrat is a Turkish Islamic radio station based in Istanbul. The station provides Islamic religious programming including Qur'an recitations, Islamic education, and religious teachings in Turkish. Serves Turkish Muslim audiences.
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-7ea58b1d-e502-4e03-abb1-65b2408bab2d
+streams:
+  - url: http://radyofitrat.radyotvonline.net/
+    codec: MP3
+    bitrate: 128
+  - url: https://radyofitrat.radyotvonline.net/
+    codec: MP3
+    bitrate: 128

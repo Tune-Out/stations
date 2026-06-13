@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:36:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961b2e59-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ice8.securenetsystems.net/KAZI'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice8.securenetsystems.net/KAZI'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,14 @@ research:
   format: Urban contemporary music and community programming
   notes: KAZI 88.7 FM is an independent community radio station based in Austin, Texas; serves African American community and broader Austin audience; community-operated format featuring urban contemporary music and local programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-961b2e59-0601-11e8-ae97-52543be04c81
+  - iprd-us-kazi-88-7-dece6d00
+streams:
+  - url: http://ice8.securenetsystems.net/KAZI
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice8.securenetsystems.net/KAZI
+    codec: AAC+
+    bitrate: 32

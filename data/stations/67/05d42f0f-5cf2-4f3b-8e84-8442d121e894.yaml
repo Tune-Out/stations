@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 04:41:12
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-05d42f0f-5cf2-4f3b-8e84-8442d121e894
-streams:
-  - url: 'http://sk.cri.cn/am846.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://sk.cri.cn/am846.m3u8?'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://sk.cri.cn/am846.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -44,3 +31,18 @@ research:
   format: News, current affairs, English-language international news broadcasting
   notes: CRI News Plus is an English-language news service operated by China Radio International, a state-run media outlet of the People's Republic of China. Broadcasts news and information from Chinese government perspective to international audience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-05d42f0f-5cf2-4f3b-8e84-8442d121e894
+  - iprd-cn-cgtn-radio-36f5c614
+  - iprd-cn-china-plus-radio-1fa8ca1a
+streams:
+  - url: http://sk.cri.cn/am846.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://sk.cri.cn/am846.m3u8?
+    codec: UNKNOWN
+    hls: true
+  - url: https://sk.cri.cn/am846.m3u8
+    codec: UNKNOWN
+    hls: true

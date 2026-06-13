@@ -24,14 +24,6 @@ lastchangetime: 2026-04-16 21:43:13
 clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.65
-provenance:
-  - radiobrowser-c46d0c88-c69d-4b6e-82a3-6c9e67b517a1
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.aac?quality=1'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.mp3?quality=1'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +33,11 @@ research:
   format: Ambient, chillout, meditative music, calm contemporary sounds
   notes: Specialized channel of FluxFM radio station offering curated relaxation and yoga-focused soundscape programming
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-c46d0c88-c69d-4b6e-82a3-6c9e67b517a1
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.aac?quality=1
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.mp3?quality=1
+    codec: MP3

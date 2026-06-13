@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:10:16
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-961bdac0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://media-ice.musicradio.com/LBCLondonMP3Low'
-    codec: MP3
-    bitrate: 48
-  - url: 'http://media-ice.musicradio.com/LBCUKMP3Low'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,16 @@ research:
   format: News, talk, and current affairs programming, MP3 48kbps
   notes: LBC London is a major UK commercial talk radio station broadcasting to London on multiple frequencies. Focuses on news, discussion, and current affairs. Part of Global Media Group. Provides community and political coverage in the London area.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-961bdac0-0601-11e8-ae97-52543be04c81
+  - iprd-gb-lbc-london-c6fe571f
+  - iprd-gb-lbc-london-fc348565
+  - iprd-gb-lbc-london-national-stream-6bc18735
+streams:
+  - url: http://media-ice.musicradio.com/LBCLondonMP3Low
+    codec: MP3
+    bitrate: 48
+  - url: http://media-ice.musicradio.com/LBCUKMP3Low
+    codec: MP3
+    bitrate: 48

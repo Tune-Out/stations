@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:06:34
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9613ebaf-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://gene-wr10.ice.infomaniak.ch/gene-wr10.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://gene-wr10.ice.infomaniak.ch/gene-wr10.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Contemporary hits; dance; pop music; electronic hits; youth-oriented format
   notes: Generations French radio serving youth with contemporary hits, dance music, and brand new releases (En Mode Brand New).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9613ebaf-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-en-mode-brand-new-dac779a9
+  - iprd-fr-generations-en-mode-brand-new-feb0aa3b
+streams:
+  - url: http://gene-wr10.ice.infomaniak.ch/gene-wr10.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://gene-wr10.ice.infomaniak.ch/gene-wr10.mp3
+    codec: MP3
+    bitrate: 128

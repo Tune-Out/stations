@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-f5345ab1-45b3-11e8-8919-52543be04c81
-streams:
-  - url: 'http://webradio.skala.fm/kolding'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://netradio.skala.fm/ska8d'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Contemporary hits, pop music, local programming
   notes: Danish commercial local radio station; part of Skala FM network serving regional audiences; features local news and contemporary music programming.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-f5345ab1-45b3-11e8-8919-52543be04c81
+  - iprd-dk-skala-fm-1f2e328b
+streams:
+  - url: http://webradio.skala.fm/kolding
+    codec: MP3
+    bitrate: 192
+  - url: https://netradio.skala.fm/ska8d
+    codec: MP3
+    bitrate: 192

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:44:56
 clickcount: 0
 geo_lat: 37.36108141524904
 geo_long: -122.12840348482132
-curation: 0.50
-provenance:
-  - radiobrowser-fb682362-b9de-485f-8670-8514b187226c
-streams:
-  - url: 'http://netcast.kfjc.org/kfjc-320k-aac'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://netcast.kfjc.org/kfjc-32k-mp3'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Eclectic music with DJ-hosted shows; rock, jazz, electronic, ghazals; shows include "Too Cool for School," "From The Vault," "Devils Advocate."
   notes: "Founded 1959 (65 years of broadcast history). Station motto: \"Radio that's weirder than you, but not by much.\" Offers community training, record swaps, music reviews, listener interaction."
   sources: https://kfjc.org/
+curation: 0.5
+provenance:
+  - radiobrowser-fb682362-b9de-485f-8670-8514b187226c
+streams:
+  - url: http://netcast.kfjc.org/kfjc-320k-aac
+    codec: AAC+
+    bitrate: 320
+  - url: http://netcast.kfjc.org/kfjc-32k-mp3
+    codec: MP3
+    bitrate: 32

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-ad5a8694-e198-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-urbanclubbeats-128-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-urbanclubbeats-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-urbanclubbeats-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Urban club beats, hip-hop, dance, club music
   notes: German commercial internet radio station operated by bigFM GmbH. Specialized stream dedicated to urban club beats and electronic dance music. One of bigFM's multiple genre-focused channels serving German youth and electronic music audience.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-ad5a8694-e198-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-urbanclubbeats-128-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-urbanclubbeats-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-urbanclubbeats-128-mp3
+    codec: MP3

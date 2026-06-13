@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 03:51:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bd70ca4d-082e-428b-8d15-4386774c1218
-streams:
-  - url: 'https://radio.onionring.rocks/radio/8000/onionring'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://radio.onionring.rocks/public/onionring/playlist.pls'
-    url_resolved: 'http://radio.onionring.rocks:8000/onionring'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +32,14 @@ research:
   format: Community radio; eclectic and rock programming
   notes: Radio Onion Ring; volunteer-operated community radio project; eclectic programming including rock and diverse musical styles
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bd70ca4d-082e-428b-8d15-4386774c1218
+streams:
+  - url: https://radio.onionring.rocks/radio/8000/onionring
+    codec: MP3
+    bitrate: 256
+  - url: http://radio.onionring.rocks/public/onionring/playlist.pls
+    url_resolved: http://radio.onionring.rocks:8000/onionring
+    codec: MP3
+    bitrate: 256

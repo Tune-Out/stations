@@ -24,19 +24,6 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-96496f03-0601-11e8-ae97-52543be04c81
-duplicate_of: 9e3b0f8e-95d3-11e9-a605-52543be04c81
-streams:
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +33,16 @@ research:
   format: Adult contemporary / hot AC mixing current hits with 80s and 90s pop-rock; daytime regional news, traffic and lifestyle features
   notes: NDR 2 is the popular-music flagship of NDR, broadcasting from Hannover with regional studios in Hamburg, Kiel and Schwerin; the Hamburg variant supplies city-specific news, traffic and presenter inserts; NDR was founded in 1956 from the breakup of the British-occupation-era NWDR; the station has run long-running formats such as "NDR 2 Soundcheck" and hosts the annual Plaza Festival concert series; like all ARD outlets it is licence-fee funded and politically supervised by a Rundfunkrat with seats for civic, religious and political groups.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-96496f03-0601-11e8-ae97-52543be04c81
+duplicate_of: 9e3b0f8e-95d3-11e9-a605-52543be04c81
+streams:
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -20,15 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-bead28b6-38f5-11e8-b2ac-52543be04c81
-duplicate_of: 96451b5b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/popradio/mp3-320/streams.fluxfm.de/'
-    codec: MP3
-  - url: 'https://streams.fluxfm.de/popradio/mp3-320/streams.fluxfm.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +29,12 @@ research:
   format: Pop radio, contemporary hits, alternative and indie pop
   notes: FluxFM is a legendary Berlin-based independent community radio station known for pop, alternative, and indie music programming. Founded in the 1990s, it operates as a community project with listener support and has become an influential voice in German popular music culture.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-bead28b6-38f5-11e8-b2ac-52543be04c81
+duplicate_of: 96451b5b-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.fluxfm.de/popradio/mp3-320/streams.fluxfm.de/
+    codec: MP3
+  - url: https://streams.fluxfm.de/popradio/mp3-320/streams.fluxfm.de/
+    codec: MP3

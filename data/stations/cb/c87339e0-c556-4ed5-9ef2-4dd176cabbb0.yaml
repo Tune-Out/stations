@@ -28,16 +28,6 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-c87339e0-c556-4ed5-9ef2-4dd176cabbb0
-streams:
-  - url: 'https://90s-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://90s-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +37,13 @@ research:
   format: Non-stop 1990s music channel featuring Eurodance, pop, hip-hop, rap, and oldies hits from the 90s
   notes: RauteMusik.FM (rm.fm) is one of Germany's largest internet radio networks, founded in 2003 by Sven Tantau in Aachen, operating dozens of genre-specific channels including this 90s stream; funded by online advertising and listener donations.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-c87339e0-c556-4ed5-9ef2-4dd176cabbb0
+streams:
+  - url: https://90s-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://90s-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

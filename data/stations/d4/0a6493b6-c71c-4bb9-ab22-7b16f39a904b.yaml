@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 01:10:16
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-0a6493b6-c71c-4bb9-ab22-7b16f39a904b
-streams:
-  - url: 'https://streams.radiobob.de/stonerrock/aac-64/streams.radiobob.de/'
-    codec: AAC
-  - url: 'https://streams.radiobob.de/stonerrock/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Curated 24/7 stoner-rock stream (heavy/psychedelic riff rock, fuzz, desert rock), one of 60+ themed sub-streams of Radio BOB!
   notes: Radio BOB! is one of Germany's largest rock-format brands, founded in 2005 and broadcasting nationally on DAB+, FM (Hessen, NRW, Schleswig-Holstein) and via dozens of online sub-channels including this stoner-rock variant; the brand markets itself with the slogan "Wenn Rock, dann BOB!" and operates the myBOB streaming app.
   sources: http://www.radiobob.de/, internal knowledge
+curation: 0.2
+provenance:
+  - radiobrowser-0a6493b6-c71c-4bb9-ab22-7b16f39a904b
+streams:
+  - url: https://streams.radiobob.de/stonerrock/aac-64/streams.radiobob.de/
+    codec: AAC
+  - url: https://streams.radiobob.de/stonerrock/mp3-192/streams.radiobob.de/
+    codec: MP3

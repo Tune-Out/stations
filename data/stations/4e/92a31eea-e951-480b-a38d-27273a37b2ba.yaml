@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-92a31eea-e951-480b-a38d-27273a37b2ba
-streams:
-  - url: 'https://live.sgpc.net:8443/;nocache=889869'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://live.sgpc.net:8443/;nocache=889896'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Kirtan (devotional singing), religious chanting, Sikh spiritual content
   notes: Live streaming from Sri Harmandir Sahib (Golden Temple) in Amritsar, Punjab. SGPC operates this non-commercial stream of continuous kirtan (devotional hymns). Central to Sikh religious practice and pilgrimage experience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-92a31eea-e951-480b-a38d-27273a37b2ba
+streams:
+  - url: https://live.sgpc.net:8443/;nocache=889869
+    codec: AAC+
+    bitrate: 96
+  - url: https://live.sgpc.net:8443/;nocache=889896
+    codec: AAC+
+    bitrate: 96

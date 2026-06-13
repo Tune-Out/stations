@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:48:52
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-cd1e77ac-e034-4236-a295-eafc43d1159d
-streams:
-  - url: 'https://stream.qmusic.nl/90s-00s/aaclow'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://stream.qmusic.nl/90s-00s/aachigh'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,17 @@ research:
   format: All-hits 90s and 2000s music spin-off of Qmusic Netherlands, with no live presenters
   notes: Thematic digital sub-channel of Qmusic Nederland, a major Dutch commercial pop hits network originally launched by RTL Group's Talpa stable; Qmusic NL was acquired by DPG Media (formerly De Persgroep) in 2019 as part of its purchase of RTL's Dutch radio business; this 64k AAC stream is one of several "Qmusic Non-Stop" thematic streams (also includes Qmusic Top 40, Qmusic Foute Uur, Qmusic Hits, etc.); financed by advertising.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-cd1e77ac-e034-4236-a295-eafc43d1159d
+  - iprd-nl-q-christmas-ca0137a2
+  - iprd-nl-qmusic-2214b4c7
+  - iprd-nl-qmusic-het-foute-uur-cb44afc2
+  - iprd-nl-qmusic-non-stop-a39d40d2
+streams:
+  - url: https://stream.qmusic.nl/90s-00s/aaclow
+    codec: AAC+
+    bitrate: 96
+  - url: https://stream.qmusic.nl/90s-00s/aachigh
+    codec: AAC+
+    bitrate: 96

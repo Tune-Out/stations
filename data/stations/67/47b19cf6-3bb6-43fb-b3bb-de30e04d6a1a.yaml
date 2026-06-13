@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-47b19cf6-3bb6-43fb-b3bb-de30e04d6a1a
-streams:
-  - url: 'https://zas5.ndx.co.za:9618/stream?1722433923032'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://zas5.ndx.co.za:9618/stream?1702476652972'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Religious programming, Christian music, faith-based talk
   notes: Radio Veritas is a Catholic radio station in South Africa affiliated with the Catholic Church. Faith-based broadcasting.
   sources: https://radioveritas.co.za/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-47b19cf6-3bb6-43fb-b3bb-de30e04d6a1a
+  - iprd-za-radio-veritas-846-1c3db5c3
+streams:
+  - url: https://zas5.ndx.co.za:9618/stream?1722433923032
+    codec: AAC+
+    bitrate: 48
+  - url: https://zas5.ndx.co.za:9618/stream?1702476652972
+    codec: AAC+
+    bitrate: 48

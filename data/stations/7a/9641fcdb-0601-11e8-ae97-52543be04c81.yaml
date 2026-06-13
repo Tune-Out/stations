@@ -1,6 +1,6 @@
 stationuuid: 9641fcdb-0601-11e8-ae97-52543be04c81
 name: KWVN "Hot 107.7" Pendleton, OR
-url: http://provisioning.streamtheworld.com/pls/KWVNFM.pls
+url: 'http://13743.live.streamtheworld.com:80/KWVNFM_SC'
 url_resolved: http://18433.live.streamtheworld.com:3690/KWVNFM_SC
 homepage: http://www.mycolumbiabasin.com/
 favicon: https://elkhornmediagroup.com/wp-content/themes/elkhorn/images/favicon.svg
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9641fcdb-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hot adult contemporary; Top 40 and contemporary hits
   notes: Commercial FM station (107.7) serving Pendleton, Oregon and surrounding rural Oregon/Washington region
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9641fcdb-0601-11e8-ae97-52543be04c81

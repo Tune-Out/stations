@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 00:15:22
 clickcount: 11
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.50
-provenance:
-  - radiobrowser-828dd71a-f952-11e8-a97a-52543be04c81
-streams:
-  - url: 'https://somafm.com/thetrip130.pls'
-    url_resolved: 'https://ice2.somafm.com/thetrip-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/thetrip64.pls'
-    url_resolved: 'https://ice2.somafm.com/thetrip-64-aac'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +33,18 @@ research:
   format: commercial-free 24/7 progressive house and trance, focused on "the purest form of Trance popularized by Paul Van Dyk and Hardfloor" along with contemporary progressive tracks; featured artists include Voyager, Deepsky, and G Pal
   notes: SomaFM operates more than 30 themed channels (Groove Salad, Drone Zone, Indie Pop Rocks, etc.) entirely supported by listener donations; "The Trip" was previously known as "Tag's Trance Trip" before being renamed; SomaFM is widely credited as one of the earliest internet-only broadcasters to scale to a global audience and has been an outspoken advocate for fair webcasting royalties, notably lobbying around the 2007 CRB ruling that threatened to shut down small webcasters
   sources: https://somafm.com/thetrip/, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-828dd71a-f952-11e8-a97a-52543be04c81
+  - iprd-us-somafm-the-trip-ea16b227
+  - iprd-us-somafm-the-trip-cbe04127
+  - iprd-us-somafm-the-trip-038b7540
+streams:
+  - url: https://somafm.com/thetrip130.pls
+    url_resolved: https://ice2.somafm.com/thetrip-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/thetrip64.pls
+    url_resolved: https://ice2.somafm.com/thetrip-64-aac
+    codec: AAC
+    bitrate: 64

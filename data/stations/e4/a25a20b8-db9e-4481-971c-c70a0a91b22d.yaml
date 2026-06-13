@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:12:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a25a20b8-db9e-4481-971c-c70a0a91b22d
-streams:
-  - url: 'https://klasse1.fluidstream.eu/rete8fm.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://klasse1.fluidstream.eu/rete8fm.mp3?FLID=1&type=.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Nostalgia/oldies music (70s-90s hits)
   notes: Italian commercial radio "the radio dedicated to the '80s and thereabouts" offering "pop, soul music, rock and R&B" with focus on "great classics and hits from the '70s, '80s and '90s." Emphasizes "unique and refined musical proposal" with "careful selection of less commercial but highly impactful tracks."
   sources: https://www.ottofm.com/
+curation: -0.05
+provenance:
+  - radiobrowser-a25a20b8-db9e-4481-971c-c70a0a91b22d
+streams:
+  - url: https://klasse1.fluidstream.eu/rete8fm.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://klasse1.fluidstream.eu/rete8fm.mp3?FLID=1&type=.mp3
+    codec: MP3
+    bitrate: 128

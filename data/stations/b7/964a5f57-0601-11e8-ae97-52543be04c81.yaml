@@ -1,6 +1,6 @@
 stationuuid: 964a5f57-0601-11e8-ae97-52543be04c81
 name: WNIR 100.1 Kent, OH
-url: http://provisioning.streamtheworld.com/pls/WNIRFMAAC.pls
+url: 'http://17563.live.streamtheworld.com:80/WNIRFMAAC_SC'
 url_resolved: http://26353.live.streamtheworld.com/WNIRFMAAC_SC
 homepage: http://wnir.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3533/squareIcon.png?r=90141
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-964a5f57-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Sports-focused talk radio with morning shows, evening programs, and sports coverage (Cavs, Knicks, NFL)
   notes: Commercial FM station (100.1) serving greater Akron metropolitan area. Notable shows include "The Morning Buzz" and sports programming. Local news and community polling featured on site.
   sources: http://wnir.com/
+curation: 0.35
+provenance:
+  - radiobrowser-964a5f57-0601-11e8-ae97-52543be04c81
+  - iprd-us-wnir-100-1-efbfc49b

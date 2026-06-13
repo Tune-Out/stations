@@ -20,18 +20,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-b05b65e3-0936-4e7b-9f07-364cba23d7b2
-streams:
-  - url: 'https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8'
-    codec: AAC
-    bitrate: 140
-    hls: true
-  - url: 'http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8'
-    codec: AAC
-    bitrate: 140
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -41,3 +29,15 @@ research:
   format: Mandarin-language international news, current affairs, commentary, and feature programming targeted at PRC audiences
   notes: 美国之音 is the Mandarin Chinese-language service of the Voice of America, founded in 1942 and broadcasting in Mandarin since 1941; funded by the U.S. Congress through USAGM (formerly the Broadcasting Board of Governors); long blocked and jammed in mainland China where its website and apps are firewalled; coverage focuses on Chinese politics, human rights, Tibet, Xinjiang, Hong Kong, Taiwan and US-China relations; the VOA Charter (PL 94-350) requires it to be "consistently reliable and authoritative" and to "present a balanced and comprehensive projection of significant American thought and institutions"; experienced significant turmoil under the second Trump administration in 2025 with USAGM funding cuts and staff furloughs.
   sources: internal knowledge
+curation: 0.55
+provenance:
+  - radiobrowser-b05b65e3-0936-4e7b-9f07-364cba23d7b2
+streams:
+  - url: https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+    codec: AAC
+    bitrate: 140
+    hls: true
+  - url: http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+    codec: AAC
+    bitrate: 140
+    hls: true

@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-897fbd40-69af-11e8-b15b-52543be04c81
-streams:
-  - url: 'http://s2.voscast.com:7016/'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://198.178.123.5:7016/;stream.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +29,15 @@ research:
   format: Community radio; Punjabi music, ethnic music, cultural programming, South Asian content
   notes: USA-based Punjabi-language community radio; serves diaspora communities; Punjabi language programming; ethnic cultural broadcaster
   sources: http://punjabiradiousa.com/
+curation: 0.35
+provenance:
+  - radiobrowser-897fbd40-69af-11e8-b15b-52543be04c81
+  - iprd-us-non-stop-punjabi-radio-a1c89af2
+  - iprd-us-radio-punjabi-usa-b9967421
+streams:
+  - url: http://s2.voscast.com:7016/
+    codec: MP3
+    bitrate: 96
+  - url: http://198.178.123.5:7016/;stream.mp3
+    codec: MP3
+    bitrate: 96

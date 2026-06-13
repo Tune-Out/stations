@@ -1,6 +1,6 @@
 stationuuid: 96433c27-0601-11e8-ae97-52543be04c81
 name: WABX 107.5 Evansville, IN
-url: http://provisioning.streamtheworld.com/pls/WABXFMAAC.pls
+url: 'http://15313.live.streamtheworld.com:80/WABXFMAAC_SC'
 url_resolved: http://27243.live.streamtheworld.com:3690/WABXFMAAC_SC
 homepage: http://wabx.net/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2102/squareIcon.png?r=57793
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:43:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96433c27-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Classic rock, rock hits, album rock
   notes: Commercial rock station (107.5 FM WABX) in Evansville, Indiana. Part of iHeartMedia's large network of commercial radio stations. Programs classic rock format for rock enthusiasts in Evansville area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96433c27-0601-11e8-ae97-52543be04c81
+  - iprd-us-wabx-107-5-d8f08a7a

@@ -1,6 +1,6 @@
 stationuuid: 961b1e19-0601-11e8-ae97-52543be04c81
 name: KTOO-FM 104.3 Juneau, AK
-url: http://provisioning.streamtheworld.com/pls/KTOOFMAAC.pls
+url: 'http://16613.live.streamtheworld.com:80/KTOOFMAAC_SC'
 url_resolved: http://27163.live.streamtheworld.com:3690/KTOOFMAAC_SC
 homepage: http://www.ktoo.org/
 favicon: http://s3-us-west-2.amazonaws.com/ktoo/2015/04/click_to_listen_ktoo.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-961b1e19-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: News, public affairs, documentaries, music, local programming (Juneau Afternoon, Gavel Alaska court coverage)
   notes: Alaska public media organization; FM station 104.3 & 91.7; mission "News & Public Media from Alaska's Capital"; covers state government, local Juneau affairs, Southeast Alaska news, Tlingit language and culture; multi-outlet operator (KRNN, KXLL, KTOO 360TV); community-funded public broadcaster
   sources: http://www.ktoo.org/
+curation: 0.5
+provenance:
+  - radiobrowser-961b1e19-0601-11e8-ae97-52543be04c81

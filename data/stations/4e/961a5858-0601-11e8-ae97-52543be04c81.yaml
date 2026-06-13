@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:40:19
 clickcount: 31
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961a5858-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://9090streaming.mobtada.com/9090FMEGYPT'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://9090streaming.mobtada.com/9090FMEGYPT'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Contemporary Egyptian music, pop, entertainment format
   notes: Cairo-based commercial radio station with focus on contemporary Egyptian music and entertainment. Part of Egypt's private radio landscape.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961a5858-0601-11e8-ae97-52543be04c81
+  - iprd-eg-radio-9090-90-9-de9a294a
+streams:
+  - url: http://9090streaming.mobtada.com/9090FMEGYPT
+    codec: MP3
+    bitrate: 64
+  - url: https://9090streaming.mobtada.com/9090FMEGYPT
+    codec: MP3
+    bitrate: 64

@@ -21,18 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: 27.95013217159467
 geo_long: -82.4571990966797
-curation: -0.05
-provenance:
-  - radiobrowser-e8f8adef-bf40-4c7c-be60-1a179eb15b97
-streams:
-  - url: 'http://s9.viastreaming.net:8100/listen.pls'
-    url_resolved: 'http://192.96.201.2:8100/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://s7.viastreaming.net:8100/listen.pls'
-    url_resolved: 'http://192.96.201.2:8100/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +30,15 @@ research:
   format: Rock music programming
   notes: Tampa-based rock radio station; internet and broadcast streaming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e8f8adef-bf40-4c7c-be60-1a179eb15b97
+streams:
+  - url: http://s9.viastreaming.net:8100/listen.pls
+    url_resolved: http://192.96.201.2:8100/;
+    codec: MP3
+    bitrate: 128
+  - url: http://s7.viastreaming.net:8100/listen.pls
+    url_resolved: http://192.96.201.2:8100/;
+    codec: MP3
+    bitrate: 128

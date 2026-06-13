@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:48:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-aa943731-21f6-4953-9539-ce7fdaaaebca
-streams:
-  - url: 'http://jfm1.hostingradio.ru:14536/rock80.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://jfm1.hostingradio.ru:14536/rock80.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Classic rock and 80s rock programming; rock music specialization; retro and heritage rock
   notes: Russian rock radio station with format focused on 1980s era rock; 128 kbps MP3 streaming; part of Russian commercial radio landscape; thematic channel for classic and rock enthusiasts
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-aa943731-21f6-4953-9539-ce7fdaaaebca
+  - iprd-ru-rock-fm-rock80s-d4ef6e26
+streams:
+  - url: http://jfm1.hostingradio.ru:14536/rock80.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://jfm1.hostingradio.ru:14536/rock80.mp3
+    codec: MP3
+    bitrate: 128

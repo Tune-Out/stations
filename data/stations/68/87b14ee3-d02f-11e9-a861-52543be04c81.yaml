@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-87b14ee3-d02f-11e9-a861-52543be04c81
-streams:
-  - url: 'http://stream.radiobrocken.de/partymix/mp3-256'
-    codec: MP3
-  - url: 'https://stream.radiobrocken.de/partymix/mp3-256'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Dance and party music (Ü30 Partymix channel targets 30+ audience)
   notes: German commercial radio station. Ü30 Partymix is a specialized channel for party music targeting listeners over 30. 256 kbit/s MP3 stream.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-87b14ee3-d02f-11e9-a861-52543be04c81
+streams:
+  - url: http://stream.radiobrocken.de/partymix/mp3-256
+    codec: MP3
+  - url: https://stream.radiobrocken.de/partymix/mp3-256
+    codec: MP3

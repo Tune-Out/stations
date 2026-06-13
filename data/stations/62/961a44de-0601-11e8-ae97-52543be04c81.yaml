@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 07:40:19
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961a44de-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.goldfm.be/live/playlist.php?name=listen.pls'
-    url_resolved: 'http://stream.goldfm.be:1061/station.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://onair.goldfm.be:8000/stream'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +30,15 @@ research:
   format: Contemporary pop/dance and international hits
   notes: Commercial FM station based in Brussels, serving Turkish-speaking communities. Turkish-language programming with modern music format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961a44de-0601-11e8-ae97-52543be04c81
+  - iprd-be-gold-106-1-b3be303a
+streams:
+  - url: http://www.goldfm.be/live/playlist.php?name=listen.pls
+    url_resolved: http://stream.goldfm.be:1061/station.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://onair.goldfm.be:8000/stream
+    codec: MP3
+    bitrate: 256

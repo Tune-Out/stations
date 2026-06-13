@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 04:18:44
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-89d3e08e-d789-4201-9b97-01d20098dd96
-streams:
-  - url: 'https://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crberlinphilharmonic/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Commercial specialty; classical music, Berlin Philharmonic orchestra recordings
   notes: Curated classical music specialty channel featuring Berlin Philharmonic; Uber.Radio platform; international English-language broadcasting
   sources: https://classicalradio.world/
+curation: 0.35
+provenance:
+  - radiobrowser-89d3e08e-d789-4201-9b97-01d20098dd96
+streams:
+  - url: https://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crberlinphilharmonic/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio
+    codec: MP3

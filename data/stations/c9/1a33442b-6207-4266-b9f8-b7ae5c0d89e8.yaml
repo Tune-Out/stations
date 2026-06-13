@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 07:38:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-1a33442b-6207-4266-b9f8-b7ae5c0d89e8
-streams:
-  - url: 'http://drive.uber.radio/uber/crralphvaughanwilliams/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crralphvaughanwilliams/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crralphvaughanwilliams/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +31,12 @@ research:
   format: Classical music; dedicated station to Ralph Vaughan Williams compositions
   notes: Specialized classical radio channel featuring exclusively Ralph Vaughan Williams music; part of classicalradio.world network; English-language broadcast.
   sources: https://classicalradio.world/genre/63
+curation: 0.65
+provenance:
+  - radiobrowser-1a33442b-6207-4266-b9f8-b7ae5c0d89e8
+streams:
+  - url: http://drive.uber.radio/uber/crralphvaughanwilliams/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crralphvaughanwilliams/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crralphvaughanwilliams/icecast.audio
+    codec: MP3

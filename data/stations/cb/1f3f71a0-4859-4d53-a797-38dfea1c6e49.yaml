@@ -1,7 +1,7 @@
 stationuuid: 1f3f71a0-4859-4d53-a797-38dfea1c6e49
 name: Midwest Radio [MP3]
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3
+url: 'https://22193.live.streamtheworld.com:443/MIDWEST_RADIO.mp3'
+url_resolved: 'https://22193.live.streamtheworld.com:443/MIDWEST_RADIO.mp3'
 homepage: https://www.midwestradio.ie/
 favicon: https://www.midwestradio.ie/wp-content/uploads/2024/11/Midwest_Radio.jpg
 tags: []
@@ -19,16 +19,6 @@ lastchangetime: 2026-01-15 17:41:28
 clickcount: 0
 geo_lat: 53.76246532682705
 geo_long: -8.766062557697298
-curation: 0.35
-provenance:
-  - radiobrowser-1f3f71a0-4859-4d53-a797-38dfea1c6e49
-streams:
-  - url: 'http://direct.sharp-stream.com/midwestfmie.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,14 @@ research:
   format: Community radio with music and talk shows
   notes: Community radio station in Ballyhaunis, County Mayo, Ireland; provides local programming and services
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1f3f71a0-4859-4d53-a797-38dfea1c6e49
+  - iprd-ie-midwest-radio-96-1-590956e7
+streams:
+  - url: http://direct.sharp-stream.com/midwestfmie.mp3
+    codec: MP3
+    bitrate: 192
+  - url: 'https://22193.live.streamtheworld.com:443/MIDWEST_RADIO.mp3'
+    codec: MP3
+    bitrate: 128

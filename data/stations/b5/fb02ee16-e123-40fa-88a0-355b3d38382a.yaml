@@ -24,22 +24,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fb02ee16-e123-40fa-88a0-355b3d38382a
-streams:
-  - url: 'https://stream.radiowavenz.com/stream-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://stream.radiowavenz.com/stream-aac-low'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://listen.radioking.com/radio/106324/stream/145267'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.radiowavenz.com/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -49,3 +33,20 @@ research:
   format: Retro hits (80s/90s) with tourist information
   notes: New Zealand internet radio station; targets both music listeners with nostalgia programming and tourists seeking local information
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-fb02ee16-e123-40fa-88a0-355b3d38382a
+  - iprd-nz-radio-a-4306392c
+streams:
+  - url: https://stream.radiowavenz.com/stream-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://stream.radiowavenz.com/stream-aac-low
+    codec: AAC+
+    bitrate: 64
+  - url: https://listen.radioking.com/radio/106324/stream/145267
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.radiowavenz.com/stream
+    codec: MP3
+    bitrate: 128

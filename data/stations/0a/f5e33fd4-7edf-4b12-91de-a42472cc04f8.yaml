@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-f5e33fd4-7edf-4b12-91de-a42472cc04f8
-streams:
-  - url: 'http://31.192.216.10/DANCEF'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://195.150.20.7/rmf_dance_f'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Dance music, electronic, house, techno, remixes, nightlife-oriented programming
   notes: Specialized dance channel from RMF, Poland's major commercial radio network. Based in Kraków. RMF Dance + FAKTY combines dance music with news/information segments. Part of one of Poland's largest media groups.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-f5e33fd4-7edf-4b12-91de-a42472cc04f8
+  - iprd-pl-rmf-dance-fakty-b2f0ea75
+streams:
+  - url: http://31.192.216.10/DANCEF
+    codec: AAC+
+    bitrate: 64
+  - url: http://195.150.20.7/rmf_dance_f
+    codec: MP3
+    bitrate: 128

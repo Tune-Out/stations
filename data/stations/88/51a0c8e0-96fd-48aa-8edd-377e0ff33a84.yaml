@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-51a0c8e0-96fd-48aa-8edd-377e0ff33a84
-streams:
-  - url: 'http://manager7.streamradio.fr:2320/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://www.radioking.fr/play/radio-elyon'
-    url_resolved: 'http://listen.radioking.com/radio/4243/stream/12164'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +31,15 @@ research:
   format: 24/7 Christian music (English and French); Christian news, cultural programs, "Radio Elyon Kids"; shows by French-speaking Christian personalities
   notes: 'Digital webradio emphasizing positive, encouraging Christian content. Tagline: "La Radio chrétienne positive & Encourageante" (The positive and encouraging Christian Radio). Contact: contact@radio.elyon.fr, +33698951000.'
   sources: radio.elyon.fr, radioline.co, tunein.com
+curation: 0.35
+provenance:
+  - radiobrowser-51a0c8e0-96fd-48aa-8edd-377e0ff33a84
+  - iprd-fr-radio-elyon-1e11a090
+streams:
+  - url: http://manager7.streamradio.fr:2320/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://www.radioking.fr/play/radio-elyon
+    url_resolved: http://listen.radioking.com/radio/4243/stream/12164
+    codec: MP3
+    bitrate: 128

@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 04:06:00
 clickcount: 6
 geo_lat: -31.948744164987488
 geo_long: 115.85828592121206
-curation: 0.50
-provenance:
-  - radiobrowser-53b27716-84a5-404c-b767-306fc83c979f
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/6TJW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/5TJW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -44,3 +31,18 @@ research:
   format: Contemporary music (indie, rock, alternative), youth culture, current affairs, comedy, arts and entertainment
   notes: Triple J is ABC's flagship youth radio service, operating since 1975; known for supporting Australian music and emerging artists; broadcast nationally including Western Australia regional service; trusted public broadcaster and cultural institution in Australia
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-53b27716-84a5-404c-b767-306fc83c979f
+  - iprd-au-abc-triple-j-83491f2e
+  - iprd-au-abc-triple-j-634fd6b2
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/6TJW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/5TJW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv
+    codec: AAC+
+    bitrate: 56

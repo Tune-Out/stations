@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a09db942-832d-4932-8c05-494e17dc37e0
-streams:
-  - url: 'https://ngcdn001.cnr.cn/live/yyzs/index.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908117055114&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +30,14 @@ research:
   format: CNR-3 ("Music Radio" / 音乐之声) is China's flagship national music network, broadcasting Mandopop, international pop, charts, and DJ shows 24 hours a day
   notes: CNR-3 Music Radio launched 1 December 2002 as China National Radio's third channel, dedicated to popular music; it pioneered the "Music Radio" format in China and is the country's most-listened-to music radio brand, running flagship countdown shows such as "China Top Charts" (中国TOP排行榜); like all CNR channels it operates under the Party's editorial direction, but the channel itself is musically programmed and considered entertainment-focused
   sources: internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-a09db942-832d-4932-8c05-494e17dc37e0
+  - iprd-cn-cnr-3-sound-of-music-66d7e7f6
+streams:
+  - url: https://ngcdn001.cnr.cn/live/yyzs/index.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908117055114&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+    codec: UNKNOWN
+    hls: true

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:40:39
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-e5301c69-77e1-4f41-a3fa-196f52505307
-streams:
-  - url: 'https://radio.digitalfm.cl:8000/iquique1'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.digitalfm.cl:8000/ptaarenas'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Contemporary pop and hits music radio; entertainment programming
   notes: Digital 99.1 FM Iquique serves northern Chile with pop, hits, and entertainment format.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-e5301c69-77e1-4f41-a3fa-196f52505307
+streams:
+  - url: https://radio.digitalfm.cl:8000/iquique1
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.digitalfm.cl:8000/ptaarenas
+    codec: MP3
+    bitrate: 128

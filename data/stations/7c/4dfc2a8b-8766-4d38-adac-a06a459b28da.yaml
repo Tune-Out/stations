@@ -1,7 +1,7 @@
 stationuuid: 4dfc2a8b-8766-4d38-adac-a06a459b28da
 name: 2CA - Canberra - 1053 AM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2CA.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2CA.mp3
+url: 'http://29309.live.streamtheworld.com:80/2CA.mp3'
+url_resolved: 'http://29309.live.streamtheworld.com:80/2CA.mp3'
 homepage: https://2ca.com.au/
 favicon: https://2ca.com.au/wp-content/uploads/2021/05/2CA_Logo_new.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-4dfc2a8b-8766-4d38-adac-a06a459b28da
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Classic hits, oldies, nostalgia, adult contemporary
   notes: 2CA is a commercial FM radio station broadcasting on 1053 AM in Canberra, the capital city of Australia. Primary format is classic hits and oldies music targeting adult audiences with nostalgia programming.
   sources: https://2ca.com.au/
+curation: -0.1
+provenance:
+  - radiobrowser-4dfc2a8b-8766-4d38-adac-a06a459b28da

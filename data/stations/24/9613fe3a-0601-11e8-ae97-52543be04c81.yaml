@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 05:29:20
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-9613fe3a-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,7 @@ research:
   format: '"Voix Féminines" (Female Voices) — French-language songs by and featuring women artists, chansons françaises tradition, all genres'
   notes: M Radio is a French online radio brand offering multiple themed streams; the "Voix Féminines" channel specifically celebrates women in French music, playing classic and contemporary songs by female performers; part of M Radio's effort to provide curated thematic channels beyond mainstream programming; streams via Infomaniak's CDN infrastructure.
   sources: http://mradio.fr/, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-9613fe3a-0601-11e8-ae97-52543be04c81
+  - iprd-fr-m-radio-voix-f-minines-251ebd2b

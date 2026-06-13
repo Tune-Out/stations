@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 07:26:25
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8ee90711-0410-473e-9d1f-8959d7f13630
-streams:
-  - url: 'https://stream.zeno.fm/zu59ykebs2zuv'
-    codec: MP3
-  - url: 'http://stream.zeno.fm/zu59ykebs2zuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Bollywood and Hindi film music; classic and contemporary movie soundtrack music
   notes: Radio Bolly FM is a specialty Bollywood music stream hosted on the Zeno.FM platform; curates music from Hindi cinema/Bollywood films; serves audiences seeking continuous Bollywood music without needing original operator information; targets fans of Indian film music and Hindi entertainment
   sources: https://stream.zeno.fm/zu59ykebs2zuv, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-8ee90711-0410-473e-9d1f-8959d7f13630
+streams:
+  - url: https://stream.zeno.fm/zu59ykebs2zuv
+    codec: MP3
+  - url: http://stream.zeno.fm/zu59ykebs2zuv
+    codec: MP3

@@ -20,16 +20,6 @@ lastchangetime: 2026-05-17 14:47:33
 clickcount: 0
 geo_lat: 46.769530461619155
 geo_long: 23.589805662631992
-curation: 0.20
-provenance:
-  - radiobrowser-e63abb8e-05a8-4739-a96d-8131793ba09c
-streams:
-  - url: 'https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3?refresh=1779029137110'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: '"Romanian Gold" stream; muzică ușoară românească (light Romanian music) and tango; hosts include Angel Rusu, Dan Apetrei, Monica Avădănei; also Classical, Jazz, Folk, Electronic, and Hungarian music streams'
   notes: 'FM 90.4 Cluj. Tagline: "With You Sounds Better". Multiple online platforms including dedicated apps. Serves diverse communities in Cluj region.'
   sources: https://ebsradio.ro/
+curation: 0.2
+provenance:
+  - radiobrowser-e63abb8e-05a8-4739-a96d-8131793ba09c
+streams:
+  - url: https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3?refresh=1779029137110
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3
+    codec: MP3
+    bitrate: 128

@@ -21,16 +21,6 @@ lastchangetime: 2026-05-28 14:11:30
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a9034ee4-f44a-4d55-b2bc-18b854434fa7
-streams:
-  - url: 'https://radicrojapan.out.airtime.pro/radicrojapan_a'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radicrojapan.out.airtime.pro/radicrojapan_b'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Music and entertainment streaming
   notes: Japanese commercial internet radio station based in Kobe offering music programming to Japanese listeners.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a9034ee4-f44a-4d55-b2bc-18b854434fa7
+streams:
+  - url: https://radicrojapan.out.airtime.pro/radicrojapan_a
+    codec: MP3
+    bitrate: 192
+  - url: https://radicrojapan.out.airtime.pro/radicrojapan_b
+    codec: MP3
+    bitrate: 192

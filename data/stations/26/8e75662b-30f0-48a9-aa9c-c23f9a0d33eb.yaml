@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:53:43
 clickcount: 1
 geo_lat: 50.9963046396942
 geo_long: 17.098024938942615
-curation: -0.05
-provenance:
-  - radiobrowser-8e75662b-30f0-48a9-aa9c-c23f9a0d33eb
-streams:
-  - url: 'http://ic2.smcdn.pl/2180-1.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.stream.smcdn.pl/timeradio-p/2180-1.aac/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Dance, pop music
   notes: Radio Eska Wrocław is part of the Eska network, a major commercial radio broadcaster in Poland. The Wrocław edition serves the Wrocław metropolitan area with contemporary dance and pop music format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8e75662b-30f0-48a9-aa9c-c23f9a0d33eb
+streams:
+  - url: http://ic2.smcdn.pl/2180-1.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.stream.smcdn.pl/timeradio-p/2180-1.aac/playlist.m3u8
+    codec: UNKNOWN
+    hls: true

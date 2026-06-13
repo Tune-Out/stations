@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:31:40
 clickcount: 1
 geo_lat: 46.31004362019637
 geo_long: -79.4633710384369
-curation: -0.10
-provenance:
-  - radiobrowser-a8ed6cf6-9335-453f-9928-58c7f3449809
-streams:
-  - url: 'https://vistaradio.streamb.live/SB00100'
-    codec: AAC+
-    bitrate: 57
-  - url: 'https://vistaradio.streamb.live/SB00100?=&&___cb=27428096384366'
-    codec: AAC+
-    bitrate: 57
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Classic hits radio
   notes: Canadian FM station CFXN at 106.3 FM in North Bay, Ontario; known as "Jet FM," focusing on classic hits format.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-a8ed6cf6-9335-453f-9928-58c7f3449809
+  - iprd-ca-cfxn-106-3-911c1bae
+streams:
+  - url: https://vistaradio.streamb.live/SB00100
+    codec: AAC+
+    bitrate: 57
+  - url: https://vistaradio.streamb.live/SB00100?=&&___cb=27428096384366
+    codec: AAC+
+    bitrate: 57

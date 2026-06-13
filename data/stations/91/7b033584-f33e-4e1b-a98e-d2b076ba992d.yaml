@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 02:11:34
 clickcount: 4
 geo_lat: 42.36051194363945
 geo_long: -71.05992947295819
-curation: -0.05
-provenance:
-  - radiobrowser-7b033584-f33e-4e1b-a98e-d2b076ba992d
-streams:
-  - url: 'https://stream.revma.ihrhls.com/zc1097'
-    codec: AAC
-  - url: 'http://stream.revma.ihrhls.com/zc1097'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Top 40 pop radio
   notes: "Boston-based commercial contemporary hit radio on 107.9 FM (WXKS-FM). Part of iHeartMedia network. Target audience: pop music listeners aged 18-49."
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7b033584-f33e-4e1b-a98e-d2b076ba992d
+streams:
+  - url: https://stream.revma.ihrhls.com/zc1097
+    codec: AAC
+  - url: http://stream.revma.ihrhls.com/zc1097
+    codec: AAC

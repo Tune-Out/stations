@@ -23,14 +23,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-7f70f499-a071-462b-b70b-0aa060ddb9c8
-streams:
-  - url: 'http://streams.80s80s.de/neo/mp3-192/'
-    codec: MP3
-  - url: 'http://streams.80s80s.de/neo/mp3-192/streams.80s80s.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: '"80s80s Neo" channel - 1980s music with contemporary artists covering 80s style; 80s stars, 80s-influenced current bands, remixes'
   notes: German commercial station focused on 1980s music culture and contemporary artists in 80s style; also features modern remixes and new music in retro aesthetic
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-7f70f499-a071-462b-b70b-0aa060ddb9c8
+streams:
+  - url: http://streams.80s80s.de/neo/mp3-192/
+    codec: MP3
+  - url: http://streams.80s80s.de/neo/mp3-192/streams.80s80s.de/
+    codec: MP3

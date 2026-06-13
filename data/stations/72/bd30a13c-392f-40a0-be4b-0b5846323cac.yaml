@@ -1,7 +1,7 @@
 stationuuid: bd30a13c-392f-40a0-be4b-0b5846323cac
 name: In Touch Radio Network
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ITRN.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ITRN.mp3
+url: 'https://18163.live.streamtheworld.com:443/ITRN.mp3'
+url_resolved: 'https://18163.live.streamtheworld.com:443/ITRN.mp3'
 homepage: https://www.intouch.org/
 favicon: https://www.intouch.org/apple-touch-icon.png
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 23:22:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bd30a13c-392f-40a0-be4b-0b5846323cac
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -33,3 +30,6 @@ research:
   format: Christian teaching, biblical instruction, religious content
   notes: In Touch Ministries is a non-profit Christian organization broadcasting biblical teaching and Christian radio programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bd30a13c-392f-40a0-be4b-0b5846323cac

@@ -24,26 +24,6 @@ lastchangetime: 2026-04-07 20:13:27
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-11c2894b-d6a4-407a-88d0-a78ad6dfa0c1
-streams:
-  - url: 'http://server.philipiptv.cloudns.ph:8082/ZTMR-RADIO.m3u'
-    url_resolved: 'http://server.philipiptv.cloudns.ph:8082/ZTMR-RADIO'
-    codec: OGG
-    bitrate: 320
-  - url: 'http://philipiptv.cloudns.ph:8082/ZTMR-RADIO.m3u'
-    url_resolved: 'http://philipiptv.cloudns.ph:8082/ZTMR-RADIO'
-    codec: OGG
-    bitrate: 128
-  - url: 'http://philipiptv.freeddns.org:8082/ZTMR-RADIO.m3u'
-    url_resolved: 'http://philipiptv.freeddns.org:8082/ZTMR-RADIO'
-    codec: OGG
-    bitrate: 64
-  - url: 'http://philipdunn.cloudns.ph:8082/ZTMR-RADIO.m3u'
-    url_resolved: 'http://philipdunn.cloudns.ph:8082/ZTMR-RADIO'
-    codec: OGG
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -53,3 +33,23 @@ research:
   format: Community radio with news, weather, technology, variety programming, and seasonal content
   notes: Independent community radio station run by Zapstech Media; offers diverse programming including news, weather, technology segments, variety content, and seasonal programming (including Christmas).
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-11c2894b-d6a4-407a-88d0-a78ad6dfa0c1
+streams:
+  - url: http://server.philipiptv.cloudns.ph:8082/ZTMR-RADIO.m3u
+    url_resolved: http://server.philipiptv.cloudns.ph:8082/ZTMR-RADIO
+    codec: OGG
+    bitrate: 320
+  - url: http://philipiptv.cloudns.ph:8082/ZTMR-RADIO.m3u
+    url_resolved: http://philipiptv.cloudns.ph:8082/ZTMR-RADIO
+    codec: OGG
+    bitrate: 128
+  - url: http://philipiptv.freeddns.org:8082/ZTMR-RADIO.m3u
+    url_resolved: http://philipiptv.freeddns.org:8082/ZTMR-RADIO
+    codec: OGG
+    bitrate: 64
+  - url: http://philipdunn.cloudns.ph:8082/ZTMR-RADIO.m3u
+    url_resolved: http://philipdunn.cloudns.ph:8082/ZTMR-RADIO
+    codec: OGG
+    bitrate: 64

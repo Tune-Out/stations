@@ -1,7 +1,7 @@
 stationuuid: b9b8f5d4-c540-46f5-b780-78e5ea6d8ac9
 name: News Talk 850 WFTL
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WFTLAM.mp3?dist=hubbard&source=hubbard-web&ttag=web&gdpr=0
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WFTLAM.mp3?dist=hubbard&source=hubbard-web&ttag=web&gdpr=0
+url: 'https://15313.live.streamtheworld.com:443/WFTLAM.mp3?dist=hubbard&source=hubbard-web&ttag=web&gdpr=0'
+url_resolved: 'https://15313.live.streamtheworld.com:443/WFTLAM.mp3?dist=hubbard&source=hubbard-web&ttag=web&gdpr=0'
 homepage: https://live.850wftl.com/listen/
 favicon: https://live.850wftl.com/wp-content/uploads/2019/04/the-joyce-kaufman-show-2.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b9b8f5d4-c540-46f5-b780-78e5ea6d8ac9
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: News, talk, sports, and political commentary.
   notes: News/talk AM radio station in South Florida market; commercial broadcaster serving general audience with information programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b9b8f5d4-c540-46f5-b780-78e5ea6d8ac9

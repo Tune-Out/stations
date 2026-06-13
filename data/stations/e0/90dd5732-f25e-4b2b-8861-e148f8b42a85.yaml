@@ -1,7 +1,7 @@
 stationuuid: 90dd5732-f25e-4b2b-8861-e148f8b42a85
 name: KOTO
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/KOTOFM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/KOTOFM.mp3
+url: 'http://14153.live.streamtheworld.com:80/KOTOFM.mp3'
+url_resolved: 'http://14153.live.streamtheworld.com:80/KOTOFM.mp3'
 homepage: https://www.koto.org/
 favicon: https://images.squarespace-cdn.com/content/v1/5a8537bba803bb2f79bbf41f/1548712411047-VPPK8DY1XFIG3M9YJ8UX/favicon.ico?format=100w
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:17:04
 clickcount: 1
 geo_lat: 37.93832443262245
 geo_long: -107.81051427125932
-curation: 0.35
-provenance:
-  - radiobrowser-90dd5732-f25e-4b2b-8861-e148f8b42a85
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community radio with music, news, and local programming; eclectic and alternative music.
   notes: KOTO 91.5 FM in Telluride, Colorado; non-profit community radio station; non-underwritten (non-commercial); supports local musicians and community voice.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-90dd5732-f25e-4b2b-8861-e148f8b42a85

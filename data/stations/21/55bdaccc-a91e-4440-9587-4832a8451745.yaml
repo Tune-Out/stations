@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:51:12
 clickcount: 37
 geo_lat: 48.85249472215649
 geo_long: 2.278273701667786
-curation: 0.50
-provenance:
-  - radiobrowser-55bdaccc-a91e-4440-9587-4832a8451745
-duplicate_of: 7b6aca3d-dfa3-47dd-9f57-820b04c3f339
-streams:
-  - url: 'https://stream.radiofrance.fr/fip/fip_hifi.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Eclectic music programming including world music, jazz, rock, experimental; arts and culture focus; "no advertising" (no pub)
   notes: FIP = France Inter Paris. Founded 1971 as innovative music station. Part of Radio France public broadcasting. Licensed content with high cultural value. "No pub" indicates no commercial advertising — funded by French public broadcasting fees. Pioneer of diverse, alternative music formats in French radio.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-55bdaccc-a91e-4440-9587-4832a8451745
+duplicate_of: 7b6aca3d-dfa3-47dd-9f57-820b04c3f339
+streams:
+  - url: https://stream.radiofrance.fr/fip/fip_hifi.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance
+    codec: UNKNOWN
+    hls: true

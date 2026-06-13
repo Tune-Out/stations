@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-d11f75b9-9c1c-41b3-8287-52f712ad2e2c
-streams:
-  - url: 'http://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Classical music and cultural programming
   notes: Stream appears to be mislabeled as Afghanistan but URL confirms France Bleu (Haute-Normandie). France Bleu is a public radio network operated by France Télévisions. Provides regional programming with emphasis on culture and classical music.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-d11f75b9-9c1c-41b3-8287-52f712ad2e2c
+streams:
+  - url: http://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3
+    codec: MP3
+    bitrate: 128

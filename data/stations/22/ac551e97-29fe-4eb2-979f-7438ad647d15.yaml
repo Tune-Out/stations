@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 11
 geo_lat: 59.345771564641424
 geo_long: 18.095956390161508
-curation: 0.50
-provenance:
-  - radiobrowser-ac551e97-29fe-4eb2-979f-7438ad647d15
-streams:
-  - url: 'https://edge1.sr.se/p4sth-aac-320'
-    codec: AAC
-    bitrate: 288
-  - url: 'https://http-live.sr.se/p4stockholm-mp3-192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: P4 is Sweden's flagship public-service network combining adult-contemporary music, local and national news, sports, weather and talk; P4 Stockholm provides the Stockholm regional newsroom with local news, traffic and current affairs programming
   notes: Sveriges Radio P4 Stockholm is one of 25 regional P4 channels broadcast nationally on FM and digital, with origins going back to local radio launched in 1977 (then "Radio Stockholm"); rebranded P4 Stockholm in 1996 when SR reorganised its FM networks; financed since 2019 through a personal public-service fee collected by the Swedish Tax Agency (replacing the licence fee), and editorially required to be "saklig och opartisk" (factual and impartial); SR's editorial independence from the state is statutorily protected
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-ac551e97-29fe-4eb2-979f-7438ad647d15
+  - iprd-se-sveriges-radio-p4-stockholm-e919307f
+streams:
+  - url: https://edge1.sr.se/p4sth-aac-320
+    codec: AAC
+    bitrate: 288
+  - url: https://http-live.sr.se/p4stockholm-mp3-192
+    codec: MP3
+    bitrate: 192

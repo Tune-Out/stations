@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 08:08:05
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-a37d3b98-9d52-4629-9b62-8b01ff3f72c4
-streams:
-  - url: 'https://streams.egofm.de/egoFMKavka-lq'
-    url_resolved: 'https://cast.egofm.de/egofmkavka.aac?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://streams.egofm.de/egoFMKavka-hq'
-    url_resolved: 'https://cast.egofm.de/egofmkavka.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +30,18 @@ research:
   format: DJ-curated music programming; Markus Kavka show stream.
   notes: egoFM is a Bavarian radio station. Markus Kavka is a renowned German music journalist and radio host. "[LQ]" indicates low-quality audio stream for bandwidth efficiency. Station focused on music curation and DJ personalities.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-a37d3b98-9d52-4629-9b62-8b01ff3f72c4
+  - iprd-de-50fresh-elektro-47fe3edc
+  - iprd-de-50fresh-rap-66324098
+  - iprd-de-50fresh-elektro-56d2ebff
+streams:
+  - url: https://streams.egofm.de/egoFMKavka-lq
+    url_resolved: https://cast.egofm.de/egofmkavka.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: AAC+
+    bitrate: 64
+  - url: https://streams.egofm.de/egoFMKavka-hq
+    url_resolved: https://cast.egofm.de/egofmkavka.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 128

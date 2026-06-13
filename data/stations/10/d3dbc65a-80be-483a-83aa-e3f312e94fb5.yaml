@@ -20,16 +20,6 @@ lastchangetime: 2026-03-02 18:12:36
 clickcount: 1
 geo_lat: -20.543442313874024
 geo_long: -47.378840446472175
-curation: 0.35
-provenance:
-  - radiobrowser-d3dbc65a-80be-483a-83aa-e3f312e94fb5
-streams:
-  - url: 'https://stm1.hdmidia.srv.br:7010/;?type=http&nocache=11&stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stm1.hdmidia.srv.br:7010/;?type=http&nocache=28'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: unknown
@@ -39,3 +29,13 @@ research:
   format: Unknown
   notes: Community/local radio station serving Franca, São Paulo state. Limited publicly available information.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d3dbc65a-80be-483a-83aa-e3f312e94fb5
+streams:
+  - url: https://stm1.hdmidia.srv.br:7010/;?type=http&nocache=11&stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stm1.hdmidia.srv.br:7010/;?type=http&nocache=28
+    codec: MP3
+    bitrate: 128

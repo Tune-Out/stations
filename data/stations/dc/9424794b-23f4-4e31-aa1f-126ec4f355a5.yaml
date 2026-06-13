@@ -22,16 +22,6 @@ lastchangetime: 2026-05-17 14:54:09
 clickcount: 1
 geo_lat: 46.769523113066874
 geo_long: 23.589827120304108
-curation: 0.25
-provenance:
-  - radiobrowser-9424794b-23f4-4e31-aa1f-126ec4f355a5
-streams:
-  - url: 'https://azura.ebsmedia.ro/listen/classical/classical128.mp3?refresh=1779029566606'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.ebsmedia.ro/listen/classical/classical128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: classical music, opera, themed music programming; part of EBS Radio network with multiple genre streams
   notes: Part of EBS Radio network, Cluj-based commercial broadcaster; main station on 90.4 FM with tagline "Cluj Sounds Better!"; headquarters at Str. Constanta nr. 19-21, Cluj-Napoca, 400146; phone +40 (364) 140 440; offers multiple themed streams (classical/opera) alongside main programming; 128 kbps MP3 quality; targets culturally-engaged audience
   sources: https://ebsradio.ro/, https://onlineradiobox.com/ro/ebsclassical/
+curation: 0.25
+provenance:
+  - radiobrowser-9424794b-23f4-4e31-aa1f-126ec4f355a5
+streams:
+  - url: https://azura.ebsmedia.ro/listen/classical/classical128.mp3?refresh=1779029566606
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.ebsmedia.ro/listen/classical/classical128.mp3
+    codec: MP3
+    bitrate: 128

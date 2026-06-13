@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:29:20
 clickcount: 17
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-408fe120-61e0-45ab-9b2c-f7d2b70c1d71
-streams:
-  - url: 'https://netradio.live24.gr/north98thess'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://netradio.live24.gr/north98thess'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Greek "éntechno" / art song format - established classical Greek-language repertoire and emerging Greek artists, branded as a curator of Greek art music
   notes: Melodia 98 (Μελωδία Θεσσαλονίκης 98) broadcasts on 98.0 FM in Thessaloniki and brands itself "το κορυφαίο ραδιόφωνο του έντεχνου ρεπερτορίου στην Ελλάδα" ("the leading station of art-music repertoire in Greece"); programming centres on two pillars - canonical Greek éntechno composers (Hadjidakis, Theodorakis, Markopoulos, Spanos, etc.) and a "Voices of Today" segment showcasing contemporary Greek songwriters; the live24.gr URL is its streaming aggregator host, not an ownership link.
   sources: https://live24.gr/radio/melodia98, internal knowledge
+curation: 0.2
+provenance:
+  - radiobrowser-408fe120-61e0-45ab-9b2c-f7d2b70c1d71
+  - iprd-gr-north-45a8807b
+streams:
+  - url: https://netradio.live24.gr/north98thess
+    codec: MP3
+    bitrate: 128
+  - url: http://netradio.live24.gr/north98thess
+    codec: MP3
+    bitrate: 128

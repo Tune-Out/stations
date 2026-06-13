@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-409374c0-8343-486f-bd4d-c35fedf8b9d6
-streams:
-  - url: 'http://likeradiostream.com/dancelandanthemsaac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://likeradiostream.com/dancelandanthems'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Dance anthems, pop, contemporary dance music, dance club hits
   notes: UK-based digital radio network offering curated dance music streaming. Part of Like Radio's multi-genre station lineup. Accessible via likeradio streaming platform.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-409374c0-8343-486f-bd4d-c35fedf8b9d6
+streams:
+  - url: http://likeradiostream.com/dancelandanthemsaac
+    codec: AAC+
+    bitrate: 48
+  - url: http://likeradiostream.com/dancelandanthems
+    codec: MP3
+    bitrate: 128

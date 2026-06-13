@@ -24,20 +24,6 @@ lastchangetime: 2026-01-15 05:33:40
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-edb437d4-fd65-4d2d-881e-553ff6ca4170
-streams:
-  - url: 'https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8'
-    codec: AAC
-    bitrate: 200
-    hls: true
-  - url: 'https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://dispatcher.rndfnk.com/hr/hr2/live/medium'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +33,17 @@ research:
   format: Classical music, jazz, contemporary classical, culture programming, documentaries, cultural discussions and debate
   notes: hr2-kultur (Hessisches Rundfunk 2 - Kultur) is one of Germany's premier classical music and culture radio stations; broadcast from Frankfurt am Main; part of the ARD system providing high-quality arts and culture programming to Hessian and German audiences; known for world-class performances, concert recordings, and cultural journalism
   sources: https://www.hr2.de/index.html, internal knowledge of German public broadcasting
+curation: 0.7
+provenance:
+  - radiobrowser-edb437d4-fd65-4d2d-881e-553ff6ca4170
+streams:
+  - url: https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8
+    codec: AAC
+    bitrate: 200
+    hls: true
+  - url: https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high
+    codec: MP3
+    bitrate: 128
+  - url: https://dispatcher.rndfnk.com/hr/hr2/live/medium
+    codec: MP3
+    bitrate: 128

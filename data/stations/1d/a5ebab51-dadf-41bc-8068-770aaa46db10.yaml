@@ -23,15 +23,6 @@ lastchangetime: 2026-01-26 08:03:18
 clickcount: 0
 geo_lat: 47.4729
 geo_long: 8.3081
-curation: 0.00
-provenance:
-  - radiobrowser-a5ebab51-dadf-41bc-8068-770aaa46db10
-streams:
-  - url: 'https://player.streamhosting.ch/lounge128.ogg'
-    codec: OGG
-  - url: 'https://player.streamhosting.ch/lounge64.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: Lounge, downtempo, chillout, ambient, easy listening
   notes: Swiss-made internet radio; high-quality AAC streaming
   sources: https://lounge-radio.com/
+curation: 0
+provenance:
+  - radiobrowser-a5ebab51-dadf-41bc-8068-770aaa46db10
+streams:
+  - url: https://player.streamhosting.ch/lounge128.ogg
+    codec: OGG
+  - url: https://player.streamhosting.ch/lounge64.aac
+    codec: AAC+
+    bitrate: 64

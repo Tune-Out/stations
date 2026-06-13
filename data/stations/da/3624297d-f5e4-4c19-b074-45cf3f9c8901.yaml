@@ -1,7 +1,7 @@
 stationuuid: 3624297d-f5e4-4c19-b074-45cf3f9c8901
 name: Nova All Stars (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_ALL_STARS.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_ALL_STARS.mp3
+url: 'http://28863.live.streamtheworld.com:80/NOVA_ALL_STARS.mp3'
+url_resolved: 'http://28863.live.streamtheworld.com:80/NOVA_ALL_STARS.mp3'
 homepage: https://novafm.com.au/station/novaallstars
 favicon: https://i.ibb.co/VpwdNPWp/All-Stars-corp-site.webp
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-30 02:13:49
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3624297d-f5e4-4c19-b074-45cf3f9c8901
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Music hits, All Stars retrospective/compilations stream.
   notes: Part of Nova FM network in Australia. Streams via StreamTheWorld platform. "All Stars" is a special stream featuring retrospective or compilation programming, possibly 80s/90s hits or classic Nova tracks. Commercial broadcaster with modern digital infrastructure.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3624297d-f5e4-4c19-b074-45cf3f9c8901

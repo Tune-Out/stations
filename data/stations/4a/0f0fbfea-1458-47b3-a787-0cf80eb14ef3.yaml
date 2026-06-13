@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0f0fbfea-1458-47b3-a787-0cf80eb14ef3
-streams:
-  - url: 'http://46.105.110.80:8000/fluxradiogHD'
-    codec: OGG
-    bitrate: 1090
-  - url: 'http://46.105.110.80:8000/fluxradiog'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,15 @@ research:
   format: Community radio programming
   notes: French community radio station with online streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0f0fbfea-1458-47b3-a787-0cf80eb14ef3
+  - iprd-co-radio-g-c004fd56
+  - iprd-fr-radio-g-7f672047
+streams:
+  - url: http://46.105.110.80:8000/fluxradiogHD
+    codec: OGG
+    bitrate: 1090
+  - url: http://46.105.110.80:8000/fluxradiog
+    codec: MP3
+    bitrate: 128

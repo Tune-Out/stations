@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 4
 geo_lat: 50.61366433600913
 geo_long: -6.637204785136424
-curation: 0.35
-provenance:
-  - radiobrowser-5c153996-c2f7-4bdb-a326-5b45dc7816a5
-streams:
-  - url: 'https://az11.yesstreaming.net:8020/radio.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://a1.asurahosting.com:10000/radio.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Classic hits and oldies programming
   notes: Community/regional radio serving Laois and surrounding areas in Ireland. Emphasizes classic hits format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5c153996-c2f7-4bdb-a326-5b45dc7816a5
+streams:
+  - url: https://az11.yesstreaming.net:8020/radio.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://a1.asurahosting.com:10000/radio.mp3
+    codec: MP3
+    bitrate: 320

@@ -23,17 +23,6 @@ lastchangetime: 2026-02-02 03:43:16
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-25ca30bb-b994-4d32-bfb6-ac0c392f9af4
-streams:
-  - url: 'http://sa46.scastream.com.au/live/chill-electronic.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 63
-    hls: true
-  - url: 'http://wz0liw.scahw.com.au/live/chill-electronic.stream/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: Chill, electronic, ambient music
   notes: Australian online radio streaming service offering genre-specific channels. Chill Electronic is a curated channel focused on ambient and electronic music.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-25ca30bb-b994-4d32-bfb6-ac0c392f9af4
+streams:
+  - url: http://sa46.scastream.com.au/live/chill-electronic.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 63
+    hls: true
+  - url: http://wz0liw.scahw.com.au/live/chill-electronic.stream/playlist.m3u8
+    codec: UNKNOWN
+    hls: true

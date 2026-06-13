@@ -1,6 +1,6 @@
 stationuuid: 960c09af-0601-11e8-ae97-52543be04c81
 name: Concierto
-url: http://provisioning.streamtheworld.com/pls/CONCIERTO.pls
+url: 'http://26573.live.streamtheworld.com:80/CONCIERTO_SC'
 url_resolved: http://26643.live.streamtheworld.com/CONCIERTO_SC
 homepage: http://www.concierto.cl/
 favicon: https://www.concierto.cl/wp-content/themes/byrne/img/fav/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:20:40
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-960c09af-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary music ("Sólo grandes canciones") mixed with talk, news, interviews and cultural commentary
   notes: Radio Concierto broadcasts on 88.5 FM in Santiago and is part of Iberoamerican Radio Chile (IARC), the largest commercial radio group in Chile, operated by Grupo Prisa (also owner of Cadena SER, Los 40, El País and AS); the network was originally built up by Iberoamericana Radio Chile in the early 2000s through acquisitions; flagship shows include "Concierto Valor" with María Elena Dressel, "Zoom Concierto" with Fran Jorquera, and "La Comunidad Contrataca" with Cata Muñoz and Iván Guerrero; tagline "Sólo grandes canciones" positions it as a classic-cuts AC station.
   sources: http://www.concierto.cl/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-960c09af-0601-11e8-ae97-52543be04c81

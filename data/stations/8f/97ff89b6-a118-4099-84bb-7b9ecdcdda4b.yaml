@@ -1,7 +1,7 @@
 stationuuid: 97ff89b6-a118-4099-84bb-7b9ecdcdda4b
 name: WRVO 1
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM.mp3
+url: 'https://18163.live.streamtheworld.com:443/WRVOFM.mp3'
+url_resolved: 'https://18163.live.streamtheworld.com:443/WRVOFM.mp3'
 homepage: https://www.wrvo.org/
 favicon: https://www.wrvo.org/apple-touch-icon.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:52:39
 clickcount: 0
 geo_lat: 43.44773464113074
 geo_long: -76.51016235351564
-curation: 0.50
-provenance:
-  - radiobrowser-97ff89b6-a118-4099-84bb-7b9ecdcdda4b
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: Public radio programming; news, talk, and cultural content
   notes: Public radio station in New York (WRVO = "WRVO 1" or similar call letters). Operates via Streamtheworld platform at 56 kbps. Geolocation indicates central New York near Syracuse area. Part of American public broadcasting system.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-97ff89b6-a118-4099-84bb-7b9ecdcdda4b

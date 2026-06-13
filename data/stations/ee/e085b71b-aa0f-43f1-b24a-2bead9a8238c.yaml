@@ -1,7 +1,7 @@
 stationuuid: e085b71b-aa0f-43f1-b24a-2bead9a8238c
 name: Radio Rivadavia
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA.mp3
+url: 'https://27403.live.streamtheworld.com:443/RIVADAVIA.mp3'
+url_resolved: 'https://27403.live.streamtheworld.com:443/RIVADAVIA.mp3'
 homepage: ""
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LS5Rivadavia2023.svg/250px-LS5Rivadavia2023.svg.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e085b71b-aa0f-43f1-b24a-2bead9a8238c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Spanish-language news, talk, opinion, and sports radio, with magazine programs, political analysis, and live football coverage.
   notes: "LS5 Radio Rivadavia is one of Argentina's oldest commercial radio stations, broadcasting on AM 630 in Buenos Aires since 1925. It has historically been a leading news/talk and sports broadcaster, famous for legendary football transmission teams (e.g., \"La Oral Deportiva\") and for hosts such as José María Muñoz, Magdalena Ruiz Guiñazú, Bernardo Neustadt and many others over its long history. Ownership has changed repeatedly: from the original founders through groups including Editorial Atlántida, Grupo Vila-Manzano, and others; the station has at times faced financial and labor disputes. It is not part of Argentina's public broadcaster (Radio Nacional) and is purely a private commercial broadcaster."
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-e085b71b-aa0f-43f1-b24a-2bead9a8238c

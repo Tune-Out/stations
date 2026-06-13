@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:44:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.90
-provenance:
-  - radiobrowser-9610cad0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://lounge-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://lounge-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: Lounge, ambient, jazz, chillout; specialized music streaming
   notes: RauteMusik LOUNGE is specialty channel of RauteMusik.FM, a free internet radio network founded April 20, 2003. Network operates 40+ different streams with varied genres. Lounge channel focuses on lounge, ambient, and jazz music 24/7. One of Europe's biggest internet radio stations.
   sources: tunein.com, wikipedia.org, mytuner-radio.com
+curation: 0.9
+provenance:
+  - radiobrowser-9610cad0-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://lounge-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: https://lounge-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

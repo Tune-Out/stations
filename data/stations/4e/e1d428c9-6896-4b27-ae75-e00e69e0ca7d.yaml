@@ -27,19 +27,6 @@ lastchangetime: 2026-01-14 23:34:44
 clickcount: 61
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e1d428c9-6896-4b27-ae75-e00e69e0ca7d
-streams:
-  - url: 'https://listen.radioking.com/radio/467555/stream/523739'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://play.radioking.io/fm80funkymusic/523739'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://play.radioking.io/fm80funkymusic'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +36,17 @@ research:
   format: '"La Radio Musicale Disco-Funk & Soul" — wall-to-wall 1970s-80s disco, funk, soul and pop oldies.'
   notes: Cannes/Provence-Alpes-Côte d'Azur-based internet radio brand presenting itself as "classée parmi les 100 radios les plus écoutées en France"; promotes new artist submissions through the Groover platform with guaranteed feedback; no FM/DAB licence — pure webradio operation under the FM80 brand.
   sources: https://www.fm80.fr/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-e1d428c9-6896-4b27-ae75-e00e69e0ca7d
+  - iprd-fr-fm-80-funky-music-a7bdc8f2
+streams:
+  - url: https://listen.radioking.com/radio/467555/stream/523739
+    codec: MP3
+    bitrate: 192
+  - url: https://play.radioking.io/fm80funkymusic/523739
+    codec: MP3
+    bitrate: 192
+  - url: https://play.radioking.io/fm80funkymusic
+    codec: MP3
+    bitrate: 128

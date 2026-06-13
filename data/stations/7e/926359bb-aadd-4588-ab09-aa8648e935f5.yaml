@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-926359bb-aadd-4588-ab09-aa8648e935f5
-streams:
-  - url: 'https://dagupan.radioca.st:2199/tunein/dagupan-stream.pls'
-    url_resolved: 'http://142.44.212.114:9377/stream'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://dagupan.radioca.st:2199/tunein/dagupan-stream.pls'
-    url_resolved: 'http://142.44.212.114:9377/stream'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +28,15 @@ research:
   format: News and music radio station
   notes: DWIZ News FM operates in Northern Luzon region of the Philippines with broadcast facility in Dagupan. Commercial station providing news and music programming. Part of the larger DWIZ broadcasting network.
   sources: https://www.dwiz882am.com/
+curation: -0.05
+provenance:
+  - radiobrowser-926359bb-aadd-4588-ab09-aa8648e935f5
+streams:
+  - url: https://dagupan.radioca.st:2199/tunein/dagupan-stream.pls
+    url_resolved: http://142.44.212.114:9377/stream
+    codec: AAC+
+    bitrate: 48
+  - url: http://dagupan.radioca.st:2199/tunein/dagupan-stream.pls
+    url_resolved: http://142.44.212.114:9377/stream
+    codec: AAC+
+    bitrate: 48

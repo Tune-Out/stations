@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 0
 geo_lat: 34.7389133168162
 geo_long: -92.31843860819936
-curation: -0.05
-provenance:
-  - radiobrowser-6a497066-6023-4715-80ce-212f42cdbf3c
-streams:
-  - url: 'https://stream.revma.ihrhls.com/zc89/hls.m3u8'
-    codec: AAC
-    bitrate: 24
-    hls: true
-  - url: 'http://stream.revma.ihrhls.com/zc89'
-    codec: AAC
-  - url: 'https://ample.revma.ihrhls.com/zc89/11_1v7zzn0xnejsy02/playlist.m3u8?zip=&streamid=89&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=6952492483&aw_0_1st.skey=6952492483&host=webapp.US&playedFrom=157&stationid=89&territory=US%20homepage'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: Contemporary rock music
   notes: Commercial FM rock station; part of iHeartMedia's large radio network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6a497066-6023-4715-80ce-212f42cdbf3c
+streams:
+  - url: https://stream.revma.ihrhls.com/zc89/hls.m3u8
+    codec: AAC
+    bitrate: 24
+    hls: true
+  - url: http://stream.revma.ihrhls.com/zc89
+    codec: AAC
+  - url: https://ample.revma.ihrhls.com/zc89/11_1v7zzn0xnejsy02/playlist.m3u8?zip=&streamid=89&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=6952492483&aw_0_1st.skey=6952492483&host=webapp.US&playedFrom=157&stationid=89&territory=US%20homepage
+    codec: UNKNOWN
+    hls: true

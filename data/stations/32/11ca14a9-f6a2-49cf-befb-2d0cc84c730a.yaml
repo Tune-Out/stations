@@ -24,34 +24,6 @@ lastchangetime: 2026-01-15 05:51:15
 clickcount: 4
 geo_lat: 51.774192144901285
 geo_long: 8.3206844329834
-curation: 0.65
-provenance:
-  - radiobrowser-11ca14a9-f6a2-49cf-befb-2d0cc84c730a
-streams:
-  - url: 'https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-cosmo-chillout.icecastssl.wdr.de/wdr/cosmo/chillout/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://dispatcher.rndfnk.com/wdr/cosmo/italia/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-cosmo-coslive.icecastssl.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-cosmo-neuincosmo.icecastssl.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-cosmo-dance.icecastssl.wdr.de/wdr/cosmo/dance/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://wdr-cosmo-coslive.icecast.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -61,3 +33,33 @@ research:
   format: Diverse world music, pop, talk, urban culture with multicultural focus
   notes: WDR COSMO is part of WDR, a German public broadcaster. Described as exploring "diversity, global, international, multicultural" programming. Part of ARD public broadcasting system funded by television license fees.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-11ca14a9-f6a2-49cf-befb-2d0cc84c730a
+  - iprd-de-wdr-cosmo-50440aaf
+  - iprd-de-wdr-cosmo-live-76fbc1a1
+streams:
+  - url: https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-cosmo-chillout.icecastssl.wdr.de/wdr/cosmo/chillout/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://dispatcher.rndfnk.com/wdr/cosmo/italia/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-cosmo-coslive.icecastssl.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-cosmo-neuincosmo.icecastssl.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-cosmo-dance.icecastssl.wdr.de/wdr/cosmo/dance/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://wdr-cosmo-coslive.icecast.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

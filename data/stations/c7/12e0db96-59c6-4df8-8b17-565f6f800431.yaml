@@ -1,7 +1,7 @@
 stationuuid: 12e0db96-59c6-4df8-8b17-565f6f800431
 name: CC - Classical Americana
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CC5_S01AAC_96.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CC5_S01AAC_96.aac
+url: 'https://16643.live.streamtheworld.com:443/CC5_S01AAC_96.aac'
+url_resolved: 'https://16643.live.streamtheworld.com:443/CC5_S01AAC_96.aac'
 homepage: https://classicalcalifornia.org/
 favicon: https://classicalcalifornia.org/images/homePage/stations-slider/GA_kusc.webp
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:51:17
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-12e0db96-59c6-4df8-8b17-565f6f800431
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: Classical music with themed playlists and curated shows including "Saturday Morning Car Tunes," "Movie Magic Radio," and "Classical Californians" interview series
   notes: Non-commercial public broadcaster serving as "A Public Service of USC"; operates KUSC Los Angeles and KDFC San Francisco separately; features educational content, community events, diversity initiatives for AANHPI composers.
   sources: https://classicalcalifornia.org/
+curation: 0.65
+provenance:
+  - radiobrowser-12e0db96-59c6-4df8-8b17-565f6f800431

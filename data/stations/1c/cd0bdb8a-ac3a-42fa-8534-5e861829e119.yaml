@@ -21,18 +21,6 @@ lastchangetime: 2026-02-08 17:56:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-cd0bdb8a-ac3a-42fa-8534-5e861829e119
-streams:
-  - url: 'https://radio-loud-fm.mbc.net/radio-loud-fm.m3u8'
-    codec: AAC+
-    bitrate: 70
-    hls: true
-  - url: 'https://d3u8gpu5stumeo.cloudfront.net/loud-fm-radio.m3u8'
-    codec: AAC+
-    bitrate: 70
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +30,15 @@ research:
   format: Music and entertainment programming
   notes: Online streaming platform operated by MBC. Limited publicly available details; present on TikTok, Instagram, Facebook, and Twitter.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cd0bdb8a-ac3a-42fa-8534-5e861829e119
+streams:
+  - url: https://radio-loud-fm.mbc.net/radio-loud-fm.m3u8
+    codec: AAC+
+    bitrate: 70
+    hls: true
+  - url: https://d3u8gpu5stumeo.cloudfront.net/loud-fm-radio.m3u8
+    codec: AAC+
+    bitrate: 70
+    hls: true

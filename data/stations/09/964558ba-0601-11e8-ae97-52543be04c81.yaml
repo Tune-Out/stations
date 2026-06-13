@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:22:41
 clickcount: 22
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-964558ba-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream3.polskieradio.pl:8950/;.mp3'
-    codec: AAC+
-    bitrate: 192
-  - url: 'http://mp3.polskieradio.pl:8900/;.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: News, talk, current affairs, general programming
   notes: '"Program Jedynka" (Channel One) - flagship station of Polish public broadcasting. Major news and current affairs outlet. Established national public radio service with strong journalism tradition. 192 kbps MP3 quality stream indicates public broadcaster standard.'
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-964558ba-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://stream3.polskieradio.pl:8950/;.mp3
+    codec: AAC+
+    bitrate: 192
+  - url: http://mp3.polskieradio.pl:8900/;.mp3
+    codec: MP3
+    bitrate: 192

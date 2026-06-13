@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 08:16:49
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-348ceceb-7b1b-4158-a0c7-7fae0d52c211
-streams:
-  - url: 'http://lizeradio.com:8080/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://lizeradio.com/webplayer/actions.php'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +30,12 @@ research:
   format: Light music, relaxing instrumental, and easy-listening programming
   notes: Lize Radio is a Taiwanese web-based radio station focused on light music and ambient sound. Title translates to "Chestnut's Light Music." Targets listeners seeking relaxing and soothing audio content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-348ceceb-7b1b-4158-a0c7-7fae0d52c211
+streams:
+  - url: http://lizeradio.com:8080/
+    codec: MP3
+    bitrate: 128
+  - url: https://lizeradio.com/webplayer/actions.php
+    codec: MP3

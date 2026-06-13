@@ -1,6 +1,6 @@
 stationuuid: 964797c0-0601-11e8-ae97-52543be04c81
 name: KINT "Jose FM 93.9" El Paso, TX
-url: http://provisioning.streamtheworld.com/pls/KINTFMAAC.pls
+url: 'http://17843.live.streamtheworld.com:80/KINTFMAAC_SC'
 url_resolved: http://16643.live.streamtheworld.com:3690/KINTFMAAC_SC
 homepage: http://jose.entravision.com/el-paso/
 favicon: ""
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964797c0-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Adult hits (AH), Spanish-language, contemporary and classic hits
   notes: Station call letters KINT 93.9 FM; branded as "Jose FM"; part of Entravision Communications radio group; primary radio station for El Paso Spanish-speaking market
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964797c0-0601-11e8-ae97-52543be04c81

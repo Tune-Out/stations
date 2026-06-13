@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9d2b7b0b-f0cf-4c32-a1ce-bc6e964a7c1a
-streams:
-  - url: 'https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8'
-    codec: AAC
-    bitrate: 140
-    hls: true
-  - url: 'http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: News, current affairs, political analysis, investigations and talk programming in Russian (новости / политика / разговорное)
   notes: Радио Свобода ("Radio Liberty") is RFE/RL's Russian-language service founded in 1953 during the Cold War to broadcast behind the Iron Curtain; the broadcaster is headquartered in Prague (hence the Czechia country code) since 1995, was designated a foreign agent by Russia in 2017 and an "undesirable organisation" in 2024 forcing it to shut its Moscow bureau, and continues to publish on web, social and via shortwave/satellite/online streams.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-9d2b7b0b-f0cf-4c32-a1ce-bc6e964a7c1a
+  - iprd-cz-radio-svoboda-rfe-rl-in-russian-channel-4-645c9384
+streams:
+  - url: https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
+    codec: AAC
+    bitrate: 140
+    hls: true
+  - url: http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u
+    codec: MP3

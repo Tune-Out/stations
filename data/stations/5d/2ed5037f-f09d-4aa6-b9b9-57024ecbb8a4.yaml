@@ -22,18 +22,6 @@ lastchangetime: 2026-03-10 03:04:18
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-2ed5037f-f09d-4aa6-b9b9-57024ecbb8a4
-streams:
-  - url: 'https://somafm.com/darkzone130.pls'
-    url_resolved: 'https://ice2.somafm.com/darkzone-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/darkzone256.pls'
-    url_resolved: 'https://ice6.somafm.com/darkzone-256-mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +31,15 @@ research:
   format: Deep ambient, dark ambient electronic music; experimental soundscapes
   notes: Part of SomaFM network of independent internet stations; listener-supported; mission to provide non-commercial music streaming
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-2ed5037f-f09d-4aa6-b9b9-57024ecbb8a4
+streams:
+  - url: https://somafm.com/darkzone130.pls
+    url_resolved: https://ice2.somafm.com/darkzone-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/darkzone256.pls
+    url_resolved: https://ice6.somafm.com/darkzone-256-mp3
+    codec: MP3
+    bitrate: 256

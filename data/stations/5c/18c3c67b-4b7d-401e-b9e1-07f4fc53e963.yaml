@@ -21,22 +21,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-18c3c67b-4b7d-401e-b9e1-07f4fc53e963
-streams:
-  - url: 'https://radio.talksport.com/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://radio.talksport.com/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://radio.talksport.com/stream?aisGetOriginalStream=true'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -46,3 +30,21 @@ research:
   format: 24-hour sports radio featuring live Premier League and EFL commentary, interviews, phone-in shows, and sporting discussion.
   notes: Founded 1995 as Talk Radio UK; rebranded to talkSPORT January 2000. Only national UK commercial radio with live Premier League commentary. Broadcasts on 1089 AM and digital. Premier League audio rights holder 2025–2029 (111 matches/season vs BBC's 209). Notable presenters include Alan Brazil, Ally McCoist. Operates sister station Talksport 2.
   sources: Wikipedia, Premier League, TuneIn, Sportcal
+curation: 0.3
+provenance:
+  - radiobrowser-18c3c67b-4b7d-401e-b9e1-07f4fc53e963
+  - iprd-gb-talksport-647c38d4
+  - iprd-gb-talksport-chinese-3c2ebd1f
+streams:
+  - url: https://radio.talksport.com/stream
+    codec: MP3
+    bitrate: 64
+  - url: http://radio.talksport.com/stream
+    codec: MP3
+    bitrate: 64
+  - url: https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957
+    codec: MP3
+    bitrate: 64
+  - url: http://radio.talksport.com/stream?aisGetOriginalStream=true
+    codec: MP3
+    bitrate: 64

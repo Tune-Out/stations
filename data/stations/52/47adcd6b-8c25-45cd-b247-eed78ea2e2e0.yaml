@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:45:49
 clickcount: 1
 geo_lat: 51.48394120334771
 geo_long: 11.970049738883974
-curation: -0.05
-provenance:
-  - radiobrowser-47adcd6b-8c25-45cd-b247-eed78ea2e2e0
-streams:
-  - url: 'https://stream.89.0rtl.de/live/mp3-256/'
-    codec: MP3
-  - url: 'https://stream.89.0rtl.de/live/mp3-256'
-    codec: MP3
-  - url: 'http://stream.89.0rtl.de/live/mp3-256/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Top 40 pop, contemporary hits, charts; "Die besten Hits von heute" (The best hits of today)
   notes: Part of RTL media family; operates as local/regional commercial broadcaster in eastern Germany; strong presence in Halle area
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-47adcd6b-8c25-45cd-b247-eed78ea2e2e0
+streams:
+  - url: https://stream.89.0rtl.de/live/mp3-256/
+    codec: MP3
+  - url: https://stream.89.0rtl.de/live/mp3-256
+    codec: MP3
+  - url: http://stream.89.0rtl.de/live/mp3-256/
+    codec: MP3

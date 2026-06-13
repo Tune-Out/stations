@@ -1,7 +1,7 @@
 stationuuid: d569b397-b78e-42e3-9f84-650b46b4c56b
 name: 770 KKOB
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC.aac
+url: 'https://14943.live.streamtheworld.com:443/KKOBAMAAC.aac'
+url_resolved: 'https://14943.live.streamtheworld.com:443/KKOBAMAAC.aac'
 homepage: https://www.newsradiokkob.com/
 favicon: https://www.newsradiokkob.com/favicon.ico
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:13:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d569b397-b78e-42e3-9f84-650b46b4c56b
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News, talk, and information programming
   notes: 770 KKOB is a commercial AM station in Albuquerque, New Mexico, owned by Audacy (formerly Entercom). It operates as a news/talk format serving the Albuquerque metropolitan area with news, current events, and information programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d569b397-b78e-42e3-9f84-650b46b4c56b

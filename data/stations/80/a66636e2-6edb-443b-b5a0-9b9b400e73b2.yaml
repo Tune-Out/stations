@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 07:56:58
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a66636e2-6edb-443b-b5a0-9b9b400e73b2
-streams:
-  - url: 'https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +35,14 @@ research:
   format: News, current affairs, culture, international affairs, music (pop, rock), talk programming.
   notes: RRI Voice of Indonesia is the international service of Radio Republik Indonesia, Indonesia's national public broadcaster. English-language service targeting diaspora and international listeners. Emphasizes cultural diplomacy and coverage of Indonesian affairs. Part of national public service media.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a66636e2-6edb-443b-b5a0-9b9b400e73b2
+  - iprd-id-voice-of-indonesia-978a320e
+streams:
+  - url: https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+    codec: AAC+
+    bitrate: 128
+  - url: https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+    codec: MP3
+    bitrate: 96

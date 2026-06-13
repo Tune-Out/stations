@@ -21,14 +21,6 @@ lastchangetime: 2026-01-14 23:45:01
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e9e52a43-78ba-4ad7-bf4c-fbc25469348c
-streams:
-  - url: 'https://uksoutha.streaming.broadcast.radio/awazfm'
-    codec: MP3
-  - url: 'https://uksoutha.streaming.broadcast.radio/awazfm?1709527674574='
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +30,11 @@ research:
   format: Hindi music and entertainment programming
   notes: Community-operated Hindi-language radio station in India. No homepage provided; streams via broadcast.radio platform. Serves Hindi-speaking audiences with music and cultural content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e9e52a43-78ba-4ad7-bf4c-fbc25469348c
+streams:
+  - url: https://uksoutha.streaming.broadcast.radio/awazfm
+    codec: MP3
+  - url: https://uksoutha.streaming.broadcast.radio/awazfm?1709527674574=
+    codec: MP3

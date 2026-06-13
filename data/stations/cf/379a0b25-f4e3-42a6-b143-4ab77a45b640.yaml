@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:25:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-379a0b25-f4e3-42a6-b143-4ab77a45b640
-streams:
-  - url: 'http://live.xmcdn.com/live/88/64.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://hls.njgb.com/live_hls/3/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -41,3 +31,13 @@ research:
   format: Sports programming, news, public affairs.
   notes: China's state-operated sports radio station for Nanjing on 104.3 FM. Part of official media ecosystem.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-379a0b25-f4e3-42a6-b143-4ab77a45b640
+streams:
+  - url: http://live.xmcdn.com/live/88/64.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://hls.njgb.com/live_hls/3/playlist.m3u8
+    codec: UNKNOWN
+    hls: true

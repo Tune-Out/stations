@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-39a0f5ff-7578-4814-9f41-fed5d815b804
-streams:
-  - url: 'http://strm112.1.fm/classical_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strm112.1.fm/classical_mobile_aac'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Classical music (Otto's station), full symphonic and chamber repertoire
   notes: 1.FM is a digital radio network offering hundreds of specialized music channels; Otto's Classical music is their dedicated classical station
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-39a0f5ff-7578-4814-9f41-fed5d815b804
+  - iprd-ch-1-fm-otto-s-classical-music-26ea6f84
+streams:
+  - url: http://strm112.1.fm/classical_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strm112.1.fm/classical_mobile_aac
+    codec: MP3
+    bitrate: 192

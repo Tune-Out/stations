@@ -1,7 +1,7 @@
 stationuuid: 41f2ace7-7432-45c1-b1c0-1f32eabe0c07
 name: Hot 97.5 KVEG
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KVEGFM
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KVEGFM
+url: 'https://14613.live.streamtheworld.com:443/KVEGFM'
+url_resolved: 'https://14613.live.streamtheworld.com:443/KVEGFM'
 homepage: https://www.kvegas.com/
 favicon: https://www.kvegas.com/favicons/apple-touch-icon.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:27:42
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-41f2ace7-7432-45c1-b1c0-1f32eabe0c07
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Adult contemporary, pop, soft rock programming
   notes: Commercial FM station in Mesquite, Nevada (Las Vegas market area), operated through iHeartRadio network. Focuses on adult contemporary and mainstream pop music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-41f2ace7-7432-45c1-b1c0-1f32eabe0c07
+  - iprd-us-hot-97-5-kveg-d5c815b7

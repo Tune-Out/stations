@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-960e5aeb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radiostreaming.ert.gr/ert-deftero'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://radiostreaming.ert.gr/ert-deftero'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: Second program of ERT public radio with diverse content
   notes: ERA Deftero Programma (ERT2 Radio) is the second channel of Greece's national public broadcaster ERT. Established to provide alternative programming alongside the main program. Funded through public broadcasting fees and government support. Broadcasts news, culture, music, and educational content in Greek.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-960e5aeb-0601-11e8-ae97-52543be04c81
+  - iprd-gr-era-deftero-programma-103-7-a1537893
+  - iprd-gr-rt-deutero-programma-a1537893
+streams:
+  - url: http://radiostreaming.ert.gr/ert-deftero
+    codec: MP3
+    bitrate: 256
+  - url: https://radiostreaming.ert.gr/ert-deftero
+    codec: MP3
+    bitrate: 256

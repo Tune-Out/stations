@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:48:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3f960194-8f03-4a91-8e5e-5bb86394fe82
-streams:
-  - url: 'https://ice42.securenetsystems.net/WBOK'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://ice42.securenetsystems.net/WBOK'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Music, entertainment, local programming, community-focused content
   notes: WBOK 1230 AM is a commercial American radio station licensed to New Orleans, Louisiana. Part of New Orleans commercial radio landscape serving local African American community with music and entertainment programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3f960194-8f03-4a91-8e5e-5bb86394fe82
+  - iprd-us-wbok-1230-c2b56c1c
+streams:
+  - url: https://ice42.securenetsystems.net/WBOK
+    codec: AAC+
+    bitrate: 32
+  - url: http://ice42.securenetsystems.net/WBOK
+    codec: AAC+
+    bitrate: 32

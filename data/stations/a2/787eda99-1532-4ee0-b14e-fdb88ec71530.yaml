@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 08:29:20
 clickcount: 76
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-787eda99-1532-4ee0-b14e-fdb88ec71530
-streams:
-  - url: 'https://dispatcher.rndfnk.com/br/br24/live/mp3/mid'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://br-radio.ard-mcdn.de/br/radio/br24/hls/192/seglist.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://br-radio.ard-mcdn.de/br/radio/br24/hls/96/seglist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +31,16 @@ research:
   format: 24/7 news and information radio — hourly bulletins, in-depth news magazines, interviews, political analysis, weather, traffic; integrated with the BR24 digital news brand (TV, app, web)
   notes: BR24 (formerly B5 aktuell, rebranded in 2018) is one of the few full-time German-language news radio channels. Distributed on DAB+ across Bavaria and via the joint nationwide DAB+ multiplex; also streamed online. Part of BR's broader BR24 news service that integrates radio, TV (BR24 channel), and digital. Bayerischer Rundfunk is one of Germany's largest ARD member broadcasters, headquartered in Munich.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-787eda99-1532-4ee0-b14e-fdb88ec71530
+streams:
+  - url: https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+    codec: MP3
+    bitrate: 128
+  - url: https://br-radio.ard-mcdn.de/br/radio/br24/hls/192/seglist.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://br-radio.ard-mcdn.de/br/radio/br24/hls/96/seglist.m3u8
+    codec: UNKNOWN
+    hls: true

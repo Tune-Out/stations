@@ -37,42 +37,6 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-da88f032-a594-4f23-8293-ab8525e75a6e
-streams:
-  - url: 'http://streams.radiobob.de/metallica/mp3-192/mediaplayer/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-queen/mp3-192/mediaplayer/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/metalcore/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/gothic/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-kuschelrock/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/rockparty/mp3-192/mediaplayer/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -82,3 +46,39 @@ research:
   format: Metallica tribute and heavy metal/rock programming spanning multiple decades.
   notes: DrGnu - Metallica is a Metallica-focused channel on radiobob.de, a German internet radio network. The station specializes in Metallica catalog and related heavy metal, hard rock, and rock music from the 1960s-2020s. RadioBOB operates 100+ themed channels featuring music from specific artists, genres, and eras for dedicated music enthusiasts.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-da88f032-a594-4f23-8293-ab8525e75a6e
+streams:
+  - url: http://streams.radiobob.de/metallica/mp3-192/mediaplayer/
+    codec: MP3
+  - url: http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/
+    codec: MP3
+  - url: http://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-queen/mp3-192/mediaplayer/
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/
+    codec: MP3
+  - url: http://streams.radiobob.de/metalcore/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.radiobob.de/gothic/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-kuschelrock/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.radiobob.de/rockparty/mp3-192/mediaplayer/
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer
+    codec: MP3

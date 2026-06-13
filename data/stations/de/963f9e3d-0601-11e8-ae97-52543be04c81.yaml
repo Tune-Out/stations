@@ -26,15 +26,6 @@ lastchangetime: 2026-01-14 23:15:05
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-963f9e3d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.rsh.de/rsh-live/mp3-192/mediaplayer'
-    codec: MP3
-  - url: 'http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de/play.m3u'
-    url_resolved: 'http://rsh.streamabc.net/regc-rshlive-mp3-128-7643923?sABC=6968417s%230%23r30o443r1929r059s085628511796n57%23fgernzf.efu.qr&aw_0_1st.playerid=streams.rsh.de&amsparams=playerid:streams.rsh.de;skey:1768440191'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +35,12 @@ research:
   format: Adult contemporary, pop, rock, hit music; Top 40 oriented
   notes: R.SH Live is a commercial radio station serving Schleswig-Holstein in northern Germany with mainstream pop and rock programming. Major regional station with strong local presence.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-963f9e3d-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.rsh.de/rsh-live/mp3-192/mediaplayer
+    codec: MP3
+  - url: http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de/play.m3u
+    url_resolved: http://rsh.streamabc.net/regc-rshlive-mp3-128-7643923?sABC=6968417s%230%23r30o443r1929r059s085628511796n57%23fgernzf.efu.qr&aw_0_1st.playerid=streams.rsh.de&amsparams=playerid:streams.rsh.de;skey:1768440191
+    codec: MP3

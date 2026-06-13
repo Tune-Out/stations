@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9fbf5f6a-c968-47f2-b2b7-ce28b4dce00e
-streams:
-  - url: 'https://klassfm929.radioca.st/;'
-    codec: MP3
-    bitrate: 48
-  - url: 'https://klassfm929.radioca.st/listen.pls'
-    url_resolved: 'http://klassfm929.radioca.st:8165/stream'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,15 @@ research:
   format: Contemporary hits, pop, music entertainment; FM 92.9.
   notes: Klass FM 92.9 is a commercial radio station on 92.9 FM in Anguilla, a Caribbean island. Limited public information available regarding operator or detailed programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9fbf5f6a-c968-47f2-b2b7-ce28b4dce00e
+  - iprd-ai-klass-fm-92-9-b1b591ae
+streams:
+  - url: https://klassfm929.radioca.st/;
+    codec: MP3
+    bitrate: 48
+  - url: https://klassfm929.radioca.st/listen.pls
+    url_resolved: http://klassfm929.radioca.st:8165/stream
+    codec: MP3
+    bitrate: 48

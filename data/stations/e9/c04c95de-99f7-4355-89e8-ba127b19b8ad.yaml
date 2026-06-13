@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c04c95de-99f7-4355-89e8-ba127b19b8ad
-streams:
-  - url: 'http://18.141.67.248:8004/stream/1/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://davaostream.brigadanews.ph/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Music and news; local news focus with national and international coverage.
   notes: 'Call letters DXKX 91.5 FM. Officially launched August 23, 2015 with 10-kilowatt high-technology transmitter. Tagline: "The music and news authority." Located at Gabucan Building, Talomo, Davao City. Part of larger Brigada News network. Covers Davao Region and nearby areas.'
   sources: https://www.brigadanews.ph/bnfm-davao/
+curation: -0.05
+provenance:
+  - radiobrowser-c04c95de-99f7-4355-89e8-ba127b19b8ad
+streams:
+  - url: http://18.141.67.248:8004/stream/1/
+    codec: MP3
+    bitrate: 128
+  - url: https://davaostream.brigadanews.ph/
+    codec: MP3
+    bitrate: 128

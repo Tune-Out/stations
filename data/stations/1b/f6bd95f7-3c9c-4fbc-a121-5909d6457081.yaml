@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f6bd95f7-3c9c-4fbc-a121-5909d6457081
-streams:
-  - url: 'http://loveradiocebu.radioca.st/listen.pls?sid=1'
-    url_resolved: 'http://loveradiocebu.radioca.st:8033/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://loveradiocebu.radioca.st:2199/tunein/loveradiocebu-stream.pls'
-    url_resolved: 'http://138.201.198.218:8033/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +28,15 @@ research:
   format: Contemporary hits/Top 40; Filipino popular music
   notes: Part of Love Radio, a network of commercial radio stations across the Philippines owned by ABS-CBN. Operates in Cebu (Visayas region) with terrestrial and online streaming. One of the Philippines' most successful FM radio brands, targeting young adult audience with contemporary hits and local/international pop music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f6bd95f7-3c9c-4fbc-a121-5909d6457081
+streams:
+  - url: http://loveradiocebu.radioca.st/listen.pls?sid=1
+    url_resolved: http://loveradiocebu.radioca.st:8033/stream
+    codec: MP3
+    bitrate: 64
+  - url: https://loveradiocebu.radioca.st:2199/tunein/loveradiocebu-stream.pls
+    url_resolved: http://138.201.198.218:8033/stream
+    codec: MP3
+    bitrate: 64

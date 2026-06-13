@@ -25,22 +25,6 @@ lastchangetime: 2026-01-15 05:36:39
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-d35468c5-a584-4f1a-9f54-e15b49eaaa43
-streams:
-  - url: 'http://icy.unitedradio.it/um1030.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/Virgin_05.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/um1027.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/um1028.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -50,3 +34,19 @@ research:
   format: Dedicated Oasis tribute channel with britpop, indie rock, and classic Oasis songs.
   notes: Virgin Radio Italia is commercial radio owned by Mediaset. Operates multiple artist-focused channels. Oasis-dedicated format targeting britpop/indie rock fans.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-d35468c5-a584-4f1a-9f54-e15b49eaaa43
+streams:
+  - url: http://icy.unitedradio.it/um1030.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/Virgin_05.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/um1027.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/um1028.mp3
+    codec: MP3
+    bitrate: 128

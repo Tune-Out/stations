@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-68dee448-5980-4c10-ab8e-0674c7dd1fcd
-streams:
-  - url: 'http://stream.krypton.co.za:8040/stream/'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://stream.krypton.co.za/proxy/radio786?mp=/stream'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,14 @@ research:
   format: community radio with news, current affairs, religious programming, social commentary, and music
   notes: Radio 786 launched in 1995 in Cape Town as a community broadcaster serving the Muslim community; it is licensed by ICASA as a community radio station and has been involved in landmark South African free-speech jurisprudence, most notably the 2002-2009 Constitutional Court case Islamic Unity Convention v Independent Broadcasting Authority over a 1998 broadcast about the Holocaust; the tagline is "Hear the Difference."
   sources: https://www.radio786.co.za/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-68dee448-5980-4c10-ab8e-0674c7dd1fcd
+  - iprd-za-radio-786-100-4-1e2db6a2
+streams:
+  - url: http://stream.krypton.co.za:8040/stream/
+    codec: MP3
+    bitrate: 56
+  - url: https://stream.krypton.co.za/proxy/radio786?mp=/stream
+    codec: MP3
+    bitrate: 56

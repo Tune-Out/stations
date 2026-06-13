@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:14:38
 clickcount: 14
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9649c8f1-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: News / talk and African music — flagship news bulletins, debate shows, listener call-ins and Congolese rumba / soukous / urban music
   notes: Top Congo FM, broadcasting on 88.4 MHz in Kinshasa, is one of the DRC's most influential private radio stations, founded in 2001 by Modeste Mutinga (also founder of Le Potentiel newspaper); it is widely cited by international media (RFI, BBC, Reuters) as a source for Congolese politics and has been targeted at times of political tension — including being briefly taken off air during election crises — for its critical news coverage; it remains a primary news outlet for the Kinshasa political class.
   sources: internal knowledge of DRC media landscape (Top Congo FM, Modeste Mutinga, Le Potentiel)
+curation: -0.05
+provenance:
+  - radiobrowser-9649c8f1-0601-11e8-ae97-52543be04c81
+  - iprd-cd-top-congo-88-4-0c8ffb89
+streams:
+  - url: http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3
+    codec: MP3
+    bitrate: 96
+  - url: https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3
+    codec: MP3
+    bitrate: 96

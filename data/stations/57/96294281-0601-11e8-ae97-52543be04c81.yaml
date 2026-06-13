@@ -25,19 +25,6 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96294281-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radiogold.live24.gr/radiogold'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radiogold.live24.gr/radiogold'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://radiogold.live24.gr/radiogold?'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +34,17 @@ research:
   format: FM radio station featuring rock and oldies music in Greek and English
   notes: Radio Gold is a commercial Greek radio station based in Athens, focusing on classic rock and oldies music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96294281-0601-11e8-ae97-52543be04c81
+  - iprd-gr-radio-gold-net-7e3a25f1
+streams:
+  - url: http://radiogold.live24.gr/radiogold
+    codec: MP3
+    bitrate: 192
+  - url: https://radiogold.live24.gr/radiogold
+    codec: MP3
+    bitrate: 192
+  - url: http://radiogold.live24.gr/radiogold?
+    codec: MP3
+    bitrate: 192

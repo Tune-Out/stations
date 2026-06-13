@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 07:08:10
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.30
-provenance:
-  - radiobrowser-befda847-f373-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-90er.radionetz.de/1a-90er.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-90er.radionetz.de/1a-90er.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,15 @@ research:
   format: 1990s pop, rock, dance, oldies
   notes: Part of 1A Radio's era-based channel lineup. Dedicated to 1990s hits and pop music. Commercial streaming service with curated library. Bavaria-based (Bamberg region).
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-befda847-f373-11e8-a471-52543be04c81
+  - iprd-de-1a-90er-79e95282
+  - iprd-de-1a-90er-e1cb4842
+streams:
+  - url: https://1a-90er.radionetz.de/1a-90er.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-90er.radionetz.de/1a-90er.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,61 +22,6 @@ lastchangetime: 2026-01-15 05:12:26
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-79619178-8b3e-4992-81a4-6c20d9245172
-streams:
-  - url: 'https://drive.uber.radio/uber/lrjazz/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lr1970s/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrromance/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrcantopop/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lr1950s/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/lr1950s/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrdatenight/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrbollywood/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrromanticpiano/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrbreakupsongs/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrmovies/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lr2000s/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrcountry/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/lrcountry/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrtimeless/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/lrtimeless/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lr1960s/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrindieromance/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lr2010s/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrwedding/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/lrwedding/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrreggae/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/lrreggae/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrlovemix/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/lrlovemix/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lr1980s/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lr1990s/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/lrdisney/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/lrdisney/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -86,3 +31,58 @@ research:
   format: Jazz and pop music; English-language station
   notes: UAE-based radio station serving Dubai; streams English-language jazz and pop music to expatriate and local English-speaking audiences.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-79619178-8b3e-4992-81a4-6c20d9245172
+streams:
+  - url: https://drive.uber.radio/uber/lrjazz/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lr1970s/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrromance/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrcantopop/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lr1950s/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/lr1950s/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrdatenight/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrbollywood/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrromanticpiano/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrbreakupsongs/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrmovies/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lr2000s/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrcountry/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/lrcountry/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrtimeless/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/lrtimeless/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lr1960s/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrindieromance/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lr2010s/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrwedding/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/lrwedding/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrreggae/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/lrreggae/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrlovemix/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/lrlovemix/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lr1980s/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lr1990s/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/lrdisney/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/lrdisney/icecast.audio
+    codec: MP3

@@ -1,7 +1,7 @@
 stationuuid: 3998f9ae-ed80-4319-8109-0acb29efb256
 name: BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac
+url: 'https://24233.live.streamtheworld.com:443/BHFMAAC.aac'
+url_resolved: 'https://24233.live.streamtheworld.com:443/BHFMAAC.aac'
 homepage: https://bhfm.globo.com/
 favicon: https://i.postimg.cc/ncT9hqH6/04008003142.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 17
 geo_lat: -19.961210131545204
 geo_long: -43.95745217800141
-curation: -0.05
-provenance:
-  - radiobrowser-3998f9ae-ed80-4319-8109-0acb29efb256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: hit-driven popular music — sertanejo, pagode, funk carioca, axé, pop nacional and internacional with personality DJs and high-energy presentation
   notes: Operates on 102.1 MHz FM (callsign ZYC690) from Belo Horizonte, capital of Minas Gerais; part of the Globo-owned BH FM brand acquired in the late 1990s and folded into Sistema Globo de Rádio; competes with the popular-music FM segment in MG; broadcasts entertainment, music news and promotions; companion station to Rádio Globo Belo Horizonte and CBN
   sources: internal knowledge of Brazilian radio market and Grupo Globo; https://bhfm.globo.com/ (fetch blocked)
+curation: -0.05
+provenance:
+  - radiobrowser-3998f9ae-ed80-4319-8109-0acb29efb256

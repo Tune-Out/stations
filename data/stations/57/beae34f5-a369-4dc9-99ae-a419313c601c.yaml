@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:48:40
 clickcount: 2
 geo_lat: -21.222229306032094
 geo_long: -43.77227783203126
-curation: 0.35
-provenance:
-  - radiobrowser-beae34f5-a369-4dc9-99ae-a419313c601c
-streams:
-  - url: 'https://sws.onradio.biz/8126/stream?1746145643130'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://sws.onradio.biz/8126/stream'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: 'Mixed-format: news, entertainment, sports, music (MPB, pop rock); "Conectados" flagship show'
   notes: Serves Barbacena locally with social media presence. Located Rua João Ribeiro de Navarro, 285. Emphasizes community engagement and regional news.
   sources: https://93fmbq.com.br/
+curation: 0.35
+provenance:
+  - radiobrowser-beae34f5-a369-4dc9-99ae-a419313c601c
+streams:
+  - url: https://sws.onradio.biz/8126/stream?1746145643130
+    codec: AAC+
+    bitrate: 128
+  - url: https://sws.onradio.biz/8126/stream
+    codec: AAC+
+    bitrate: 128

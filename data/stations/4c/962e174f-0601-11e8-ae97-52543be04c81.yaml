@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 07:22:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-962e174f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://provisioning.streamtheworld.com/pls/WQKLFMAAC.pls'
-    url_resolved: 'http://26233.live.streamtheworld.com:3690/WQKLFMAAC_SC'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://provisioning.streamtheworld.com/pls/WQKLFM.pls'
-    url_resolved: 'http://22203.live.streamtheworld.com:3690/WQKLFM_SC'
-    codec: MP3
-    bitrate: 80
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +32,15 @@ research:
   format: Adult album alternative, modern rock, indie
   notes: WQKL 107.1 FM "Ann Arbor's 107 One" is a commercial radio station serving Ann Arbor, Michigan and surrounding areas. Adult album alternative format with emphasis on modern rock and indie music.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-962e174f-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://provisioning.streamtheworld.com/pls/WQKLFMAAC.pls
+    url_resolved: http://26233.live.streamtheworld.com:3690/WQKLFMAAC_SC
+    codec: AAC+
+    bitrate: 48
+  - url: http://provisioning.streamtheworld.com/pls/WQKLFM.pls
+    url_resolved: http://22203.live.streamtheworld.com:3690/WQKLFM_SC
+    codec: MP3
+    bitrate: 80

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:16:26
 clickcount: 0
 geo_lat: 21.88169317911191
 geo_long: -102.29567527770996
-curation: -0.05
-provenance:
-  - radiobrowser-c8da90b4-e1ec-4bca-a5a3-b7c344c30ef9
-streams:
-  - url: 'https://cast.zuperdns.net/8030/stream/'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://cast.zuperdns.net/8030/stream/'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Contemporary hits radio (pop, pop rock, entertainment)
   notes: Part of Grupo Radiofónico ZER (major commercial broadcaster in Mexico). LOS40 is a well-known pan-Hispanic pop format. Station broadcasts on 95.7 FM from Aguascalientes. Tags include "moi merino" (DJ/personality). Commercial, entertainment-focused programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c8da90b4-e1ec-4bca-a5a3-b7c344c30ef9
+streams:
+  - url: https://cast.zuperdns.net/8030/stream/
+    codec: MP3
+    bitrate: 64
+  - url: https://cast.zuperdns.net/8030/stream/
+    codec: MP3
+    bitrate: 48

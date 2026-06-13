@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:58:02
 clickcount: 0
 geo_lat: 45.44086267178177
 geo_long: 16.278991699218754
-curation: 0.35
-provenance:
-  - radiobrowser-9208b22c-9321-4a66-b6fa-2aebb9153660
-streams:
-  - url: 'http://s8.iqstreaming.com:8062/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://s8.iqstreaming.com:8062/'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Varied music and entertainment; pop and contemporary music; community-oriented programming
   notes: Commercial radio station serving Petrinija and surrounding region in Croatia; local market broadcaster; AAC+ streaming at 64kbps; integrated with Croatian broadcast market
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9208b22c-9321-4a66-b6fa-2aebb9153660
+  - iprd-hr-petrinjski-radio-106-9-2c06784e
+streams:
+  - url: http://s8.iqstreaming.com:8062/stream
+    codec: AAC+
+    bitrate: 64
+  - url: http://s8.iqstreaming.com:8062/
+    codec: AAC+
+    bitrate: 64

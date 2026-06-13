@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 03:53:08
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9610c1ca-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-icy.gss.dr.dk/A/A02L.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A02L.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk/A/A02H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +31,15 @@ research:
   format: 24-hour news and current affairs; journalism and investigative reporting
   notes: DR Nyheder ("DR News") is the news channel of Danmarks Radio, Denmark's national public broadcasting service. Provides continuous news coverage, current affairs, and journalism in Danish. Funded through the license fee system as part of DR's public service mission. Major news source for Danish population with significant editorial resources and journalistic credibility.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9610c1ca-0601-11e8-ae97-52543be04c81
+  - iprd-dk-dr-nyheder-4167a3dd
+streams:
+  - url: http://live-icy.gss.dr.dk/A/A02L.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A02L.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk/A/A02H.mp3
+    codec: MP3
+    bitrate: 128

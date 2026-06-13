@@ -1,7 +1,7 @@
 stationuuid: ae66ee2b-f84a-49b5-a611-efdae79b583e
 name: Asyik FM
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3
+url: 'http://28153.live.streamtheworld.com:80/ASYIK_FM.mp3'
+url_resolved: 'http://28153.live.streamtheworld.com:80/ASYIK_FM.mp3'
 homepage: https://rtm.gov.my/
 favicon: https://upload.wikimedia.org/wikipedia/en/b/b3/Asyik_FM_Logo.PNG
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 01:18:04
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-ae66ee2b-f84a-49b5-a611-efdae79b583e
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -36,3 +33,6 @@ research:
   format: Pop music, rock, indie, hits, local Malaysian artists; contemporary music and entertainment focus
   notes: Part of RTM/Astro network; Asyik FM is accessible via terrestrial and digital platforms; promotes local music industry and contemporary hits.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-ae66ee2b-f84a-49b5-a611-efdae79b583e

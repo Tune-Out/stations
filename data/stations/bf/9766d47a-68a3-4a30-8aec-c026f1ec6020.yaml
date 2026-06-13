@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:00:48
 clickcount: 40
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9766d47a-68a3-4a30-8aec-c026f1ec6020
-streams:
-  - url: 'http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://kathy.torontocast.com:3330/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: jazz, Japanese music, ambient, relaxation
   notes: Online radio station operated by Asia Dream Radio platform; focuses on Japanese jazz and contemporary Asian artists; part of Toronto-based streaming infrastructure; appeals to expatriate and diaspora audiences as well as international jazz enthusiasts
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9766d47a-68a3-4a30-8aec-c026f1ec6020
+  - iprd-jp-jazz-sakura-cd49698d
+streams:
+  - url: http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://kathy.torontocast.com:3330/;
+    codec: MP3
+    bitrate: 128

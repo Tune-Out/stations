@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-0dee2ff1-af54-4dba-a655-4e2fa0d256ef
-duplicate_of: 9e4f0920-a3bd-4884-9e98-fbd0051215ed
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/reggae96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/reggae96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: Electronic and dance music, reggae channel, 100+ genre channels including house, trance, EDM, techno, drum and bass
   notes: Commercial electronic music station founded 1997; operates 100+ music channels; includes Reggae channel as specialty programming; offers DJ sets, remixes, live events, Superchart and Club charts; premium subscription model; label and artist booking operations; available on iOS, Android, Huawei apps
   sources: https://www.radiorecord.ru/
+curation: 0
+provenance:
+  - radiobrowser-0dee2ff1-af54-4dba-a655-4e2fa0d256ef
+duplicate_of: 9e4f0920-a3bd-4884-9e98-fbd0051215ed
+streams:
+  - url: http://radiorecord.hostingradio.ru/reggae96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/reggae96.aacp
+    codec: AAC

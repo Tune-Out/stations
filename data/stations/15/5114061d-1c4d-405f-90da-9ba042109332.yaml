@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 08:27:56
 clickcount: 0
 geo_lat: 47.147885597481675
 geo_long: 19.204101562500004
-curation: 0.35
-provenance:
-  - radiobrowser-5114061d-1c4d-405f-90da-9ba042109332
-streams:
-  - url: 'https://stream1.virtualisan.net/prx/7000/live.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://188.165.11.30:7000/live.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://188.165.11.30:7000/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -45,3 +32,17 @@ research:
   format: Christian religious programming, cultural content, inspirational music
   notes: Sola Rádió (meaning "sola" or unique) broadcasts Christian and cultural programming in Hungarian. Tags indicate Christian, cultural, and religious focus. Operates via virtual streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5114061d-1c4d-405f-90da-9ba042109332
+  - iprd-hu-sola-r-di-2a09ab02
+streams:
+  - url: https://stream1.virtualisan.net/prx/7000/live.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://188.165.11.30:7000/live.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://188.165.11.30:7000/
+    codec: MP3
+    bitrate: 192

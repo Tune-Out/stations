@@ -21,21 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: 36.63773537747697
 geo_long: -93.2208824157715
-curation: 0.50
-provenance:
-  - radiobrowser-113d7536-ce6f-42eb-b758-ec73f9de4852
-streams:
-  - url: 'http://us2.streamingpulse.com:2199/tunein/-stream/hpr1lo.pls'
-    url_resolved: 'http://207.244.126.86:7733/stream'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://us2.streamingpulse.com:2199/tunein/-stream/hpr1hi.pls'
-    url_resolved: 'http://207.244.126.86:7713/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://us2.maindigitalstream.com/ssl/7713'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +30,18 @@ research:
   format: Traditional and classic country music programming
   notes: HPR1 Traditional Classic Country is part of Heritage Public Radio's programming; non-profit public radio service focused on traditional country music; Missouri-based public broadcaster
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-113d7536-ce6f-42eb-b758-ec73f9de4852
+streams:
+  - url: http://us2.streamingpulse.com:2199/tunein/-stream/hpr1lo.pls
+    url_resolved: http://207.244.126.86:7733/stream
+    codec: AAC+
+    bitrate: 32
+  - url: http://us2.streamingpulse.com:2199/tunein/-stream/hpr1hi.pls
+    url_resolved: http://207.244.126.86:7713/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://us2.maindigitalstream.com/ssl/7713
+    codec: MP3
+    bitrate: 128

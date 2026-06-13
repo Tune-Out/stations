@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-962ad3dc-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://str4uice.streamakaci.com/4uclassicrock.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://str4uice.streamakaci.com/4uclassicrock.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Classic rock — predominantly 1960s-1990s rock hits, with emphasis on rock standards and classics
   notes: 123 All Classic Rock is a French webradio station dedicated to classic rock, distributed via streamakaci CDN at 128 kbps MP3; the station operates as a standalone webradio project with a minimal web presence (no traditional website, primarily active on Facebook); serves the global classic-rock enthusiast community.
   sources: https://www.facebook.com/pages/123-All-Classic-Rock/105035989535588
+curation: 0.4
+provenance:
+  - radiobrowser-962ad3dc-0601-11e8-ae97-52543be04c81
+  - iprd-fr-123-all-classic-rock-71e44199
+streams:
+  - url: http://str4uice.streamakaci.com/4uclassicrock.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://str4uice.streamakaci.com/4uclassicrock.mp3
+    codec: MP3
+    bitrate: 128

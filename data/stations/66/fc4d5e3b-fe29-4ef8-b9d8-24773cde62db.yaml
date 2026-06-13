@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:51:37
 clickcount: 5
 geo_lat: -6.175853157987424
 geo_long: 106.82642088428476
-curation: -0.05
-provenance:
-  - radiobrowser-fc4d5e3b-fe29-4ef8-b9d8-24773cde62db
-streams:
-  - url: 'https://cast1.my-control-panel.com/proxy/radioso1/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://sonora-radio.arenastreaming.com/8130/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Contemporary music, news, talk programming
   notes: Commercial FM radio station based in Jakarta; broadcasts music, news, and talk content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fc4d5e3b-fe29-4ef8-b9d8-24773cde62db
+streams:
+  - url: https://cast1.my-control-panel.com/proxy/radioso1/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://sonora-radio.arenastreaming.com/8130/stream
+    codec: MP3
+    bitrate: 128

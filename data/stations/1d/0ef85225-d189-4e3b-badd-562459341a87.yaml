@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0ef85225-d189-4e3b-badd-562459341a87
-streams:
-  - url: 'http://hydra.cdnstream.com/1535_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://hydra.cdnstream.com/1532_backup'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://hydra.cdnstream.com/1525_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +30,16 @@ research:
   format: Gospel music, gospel hits, religious music
   notes: Urban Radio / SuperRadio Gospel Hits channel focuses on gospel and religious music; commercial internet radio service; specialty channel for faith-based music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0ef85225-d189-4e3b-badd-562459341a87
+streams:
+  - url: http://hydra.cdnstream.com/1535_128
+    codec: MP3
+    bitrate: 128
+  - url: http://hydra.cdnstream.com/1532_backup
+    codec: MP3
+    bitrate: 128
+  - url: http://hydra.cdnstream.com/1525_128
+    codec: MP3
+    bitrate: 128

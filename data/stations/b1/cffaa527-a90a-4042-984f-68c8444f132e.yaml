@@ -1,7 +1,7 @@
 stationuuid: cffaa527-a90a-4042-984f-68c8444f132e
 name: 4MK 1026 AM Mackay
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac
+url: 'http://14013.live.streamtheworld.com:80/MAC_4MKAAC.aac'
+url_resolved: 'http://14013.live.streamtheworld.com:80/MAC_4MKAAC.aac'
 homepage: https://www.4mk.com.au/
 favicon: https://www.4mk.com.au/wp-content/uploads/sites/16/2022/10/cropped-nql_mac-_4mk_512x512-favicon-1.png?w=180
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:39:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-cffaa527-a90a-4042-984f-68c8444f132e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Mixed format; music, talk shows, news, entertainment; breakfast to evening programming with local hosts
   notes: 4MK AM 1026 Mackay; tagline "4MK acknowledges Traditional Custodians of Country throughout Australia" with diversity and inclusion statement; live streaming via iHeartRadio; local news, community events, business directory
   sources: https://www.4mk.com.au/
+curation: 0.35
+provenance:
+  - radiobrowser-cffaa527-a90a-4042-984f-68c8444f132e

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 06:08:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-17ea1f66-168a-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://radios.rtbf.be/wr-c21-route66-128.mp3'
-    codec: MP3
-  - url: 'https://radios.rtbf.be/wr-c21-soul-128.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -39,3 +31,13 @@ research:
   format: Country, folk, bluegrass, Americana music. Route 66 channel within Classic 21.
   notes: RTBF is Belgian public service broadcaster operating multiple TV and radio channels. Classic 21 main station focuses classic rock; Route 66 is Americana specialty stream.
   sources: rtbf.be, wikipedia.org, onlineradiobox.com
+curation: 0.65
+provenance:
+  - radiobrowser-17ea1f66-168a-11e8-ae97-52543be04c81
+  - iprd-be-rtbf-classic-21-route-66-b4f5248e
+  - iprd-be-rtbf-classic-21-soul-power-370240cd
+streams:
+  - url: https://radios.rtbf.be/wr-c21-route66-128.mp3
+    codec: MP3
+  - url: https://radios.rtbf.be/wr-c21-soul-128.mp3
+    codec: MP3

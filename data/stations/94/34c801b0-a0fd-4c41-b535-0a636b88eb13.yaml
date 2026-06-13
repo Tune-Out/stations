@@ -22,14 +22,6 @@ lastchangetime: 2026-03-28 18:42:17
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-34c801b0-a0fd-4c41-b535-0a636b88eb13
-streams:
-  - url: 'https://regiocast.streamabc.net/regc-90s90srnb9791660-mp3-192-2459421'
-    codec: MP3
-  - url: 'http://streams.90s90s.de/soulrnb/mp3-192/radiode/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: 1990s soul and R&B music programming
   notes: German internet radio station part of 90s90s network; specializes in 1990s era soul and R&B tracks; streams via StreamABC platform
   sources: https://www.90s90s.de/radios/soul-rnb
+curation: -0.05
+provenance:
+  - radiobrowser-34c801b0-a0fd-4c41-b535-0a636b88eb13
+streams:
+  - url: https://regiocast.streamabc.net/regc-90s90srnb9791660-mp3-192-2459421
+    codec: MP3
+  - url: http://streams.90s90s.de/soulrnb/mp3-192/radiode/
+    codec: MP3

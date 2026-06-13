@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:17:44
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-960e38b8-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.omroep.nl/3fm-bb-mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://icecast.omroep.nl/3fm-bb-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Contemporary pop-rock, top-40 and alternative music with live DJs, music news, podcasts, charity action ("3FM Serious Request") and emerging-artist showcases; tagline "We Want More"
   notes: NPO 3FM launched in 1965 (as "Hilversum 3") and became 3FM in 2003; historically a flagship Dutch pop station, it has shed audience to commercial competitors but remains culturally significant for its annual Serious Request glass-house charity broadcast (since 2004) raising funds for the Dutch Red Cross; programming is editorially independent of government but reviewed periodically by the Dutch Media Authority (Commissariaat voor de Media)
   sources: https://www.npo3fm.nl/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-960e38b8-0601-11e8-ae97-52543be04c81
+  - iprd-nl-npo-3fm-2c742b6d
+  - iprd-nl-npo-3fm-serious-radio-418a9b78
+streams:
+  - url: http://icecast.omroep.nl/3fm-bb-mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://icecast.omroep.nl/3fm-bb-mp3
+    codec: MP3
+    bitrate: 192

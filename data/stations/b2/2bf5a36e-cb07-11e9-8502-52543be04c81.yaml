@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2bf5a36e-cb07-11e9-8502-52543be04c81
-streams:
-  - url: 'http://streams.rsa-sachsen.de/country/mp3-192'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/schlager/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Country music specialization
   notes: R.SA (Rundfunk Sachsen) - Country is a commercial country music radio station based in Saxony (Sachsen), Germany. Part of regional Sachsen broadcasting network. Streams country music to German-speaking audience with focus on Saxon region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2bf5a36e-cb07-11e9-8502-52543be04c81
+streams:
+  - url: http://streams.rsa-sachsen.de/country/mp3-192
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/schlager/mp3-192
+    codec: MP3

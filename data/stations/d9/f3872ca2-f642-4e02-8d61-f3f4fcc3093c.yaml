@@ -1,7 +1,7 @@
 stationuuid: f3872ca2-f642-4e02-8d61-f3f4fcc3093c
 name: HRT Radio Sljeme (mp3)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3
+url: 'https://29083.live.streamtheworld.com:443/SLJEME.mp3'
+url_resolved: 'https://29083.live.streamtheworld.com:443/SLJEME.mp3'
 homepage: http://radio.hrt.hr/radio-sljeme/
 favicon: https://radio.hrt.hr/hrt-180x180.png
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 01:55:39
 clickcount: 3
 geo_lat: 45.79328336964771
 geo_long: 15.973983620700896
-curation: 0.60
-provenance:
-  - radiobrowser-f3872ca2-f642-4e02-8d61-f3f4fcc3093c
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -33,3 +30,6 @@ research:
   format: Live sports coverage (football, basketball, handball), news, and entertainment programming
   notes: HRT Radio Sljeme broadcasts from Prisavlje 3, Zagreb on 88.1 MHz FM. Pillar of Croatian broadcasting history. First TV broadcast from Sljeme transmitter May 15, 1956. Operating since establishment of Zagreb Radio Station. Available on FM, satellite, and digital radio.
   sources: https://en.wikipedia.org/wiki/Radio_Sljeme, https://radio.hrt.hr/radio-sljeme
+curation: 0.6
+provenance:
+  - radiobrowser-f3872ca2-f642-4e02-8d61-f3f4fcc3093c

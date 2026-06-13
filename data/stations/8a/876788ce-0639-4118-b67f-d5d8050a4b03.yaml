@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:34:00
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-876788ce-0639-4118-b67f-d5d8050a4b03
-streams:
-  - url: 'http://79.111.14.76:8000/tradelectronic'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.14.76:8002/tradelectronic'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Traditional electronic, synthesizer, space music; experimental electronic formats
   notes: Radio Caprice is a large Russian internet radio platform with multiple genre streams; Traditional Electronic focuses on vintage synthesizer and experimental electronic music; ad-supported model
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-876788ce-0639-4118-b67f-d5d8050a4b03
+  - iprd-ru-radio-caprice-traditional-electronic-1084eb3a
+streams:
+  - url: http://79.111.14.76:8000/tradelectronic
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.14.76:8002/tradelectronic
+    codec: AAC+
+    bitrate: 48

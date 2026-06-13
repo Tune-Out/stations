@@ -1,7 +1,7 @@
 stationuuid: 7d079d12-4e88-4a1c-a328-623664318f21
 name: Top (BAM)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3
+url: 'https://27913.live.streamtheworld.com:443/TOPBAM.mp3'
+url_resolved: 'https://27913.live.streamtheworld.com:443/TOPBAM.mp3'
 homepage: https://www.topradio.be/
 favicon: https://www.topradio.be/favicons/favicon-128x128.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:57:44
 clickcount: 2
 geo_lat: 51.07417926258547
 geo_long: 3.723227977752686
-curation: -0.05
-provenance:
-  - radiobrowser-7d079d12-4e88-4a1c-a328-623664318f21
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Hardstyle, techno, and electronic dance music.
   notes: TOP Radio is a Belgian private radio network; BAM channel focuses on hardstyle and techno genres.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7d079d12-4e88-4a1c-a328-623664318f21

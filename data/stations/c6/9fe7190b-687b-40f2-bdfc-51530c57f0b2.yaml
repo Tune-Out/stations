@@ -1,7 +1,7 @@
 stationuuid: 9fe7190b-687b-40f2-bdfc-51530c57f0b2
 name: colonia am 550
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac
+url: 'https://26653.live.streamtheworld.com:443/COLONIA_ADP.aac'
+url_resolved: 'https://26653.live.streamtheworld.com:443/COLONIA_ADP.aac'
 homepage: ""
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9fe7190b-687b-40f2-bdfc-51530c57f0b2
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: talk and speech radio, news, commentary, discussion programming
   notes: Uruguayan AM radio station (550 kHz); focuses on talk and speech programming including news, commentary, and listener discussion; Spanish-language service.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9fe7190b-687b-40f2-bdfc-51530c57f0b2

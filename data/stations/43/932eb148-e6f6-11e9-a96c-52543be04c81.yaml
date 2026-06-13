@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 06:30:27
 clickcount: 197
 geo_lat: null
 geo_long: null
-curation: 1.00
-provenance:
-  - radiobrowser-932eb148-e6f6-11e9-a96c-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/fip-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://icecast.radiofrance.fr/fip-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance%20%20%20format:%20aac,%20bitrate:%20192'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +31,17 @@ research:
   format: Highly eclectic music station — jazz, world, classical, electronic, soul, French chanson, rock, hip-hop — presented with minimal speech by signature female "FIPettes" announcers; no advertising
   notes: Founded 5 January 1971 as "France Inter Paris" under Roland Dhordain, FIP became a cult station famed for its unique programming style and soft-spoken female voices ("la voix de FIP"). Originally Paris-only, it expanded to several French cities. Webradio spin-offs include FIP Rock, FIP Jazz, FIP Groove, FIP Pop, FIP Electro, FIP Reggae, FIP Metal, FIP Hip-Hop, FIP Sacré Français, etc. Regularly cited internationally as one of the world's best music radio stations.
   sources: https://www.fip.fr/ (redirects to https://www.radiofrance.fr/fip), internal knowledge
+curation: 1
+provenance:
+  - radiobrowser-932eb148-e6f6-11e9-a96c-52543be04c81
+  - iprd-fr-fip-5d6cbb72
+streams:
+  - url: http://icecast.radiofrance.fr/fip-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: https://icecast.radiofrance.fr/fip-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance%20%20%20format:%20aac,%20bitrate:%20192
+    codec: AAC
+    bitrate: 192

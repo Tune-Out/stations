@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 1
 geo_lat: 44.64701575108636
 geo_long: -63.585433959960945
-curation: -0.05
-provenance:
-  - radiobrowser-f2e2e668-41b4-46f6-a49d-40c71267b658
-streams:
-  - url: 'http://newcap.leanstream.co/CKULFM'
-    codec: AAC
-    bitrate: 132
-  - url: 'http://newcap.leanstream.co/CKULFM'
-    codec: AAC
-    bitrate: 130
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Soft adult contemporary
   notes: Canadian FM at 96.5 MHz in Halifax with soft adult contemporary format.
   sources: https://965thebreeze.com/
+curation: -0.05
+provenance:
+  - radiobrowser-f2e2e668-41b4-46f6-a49d-40c71267b658
+  - iprd-ca-ckul-mix-96-5-aa68d21e
+streams:
+  - url: http://newcap.leanstream.co/CKULFM
+    codec: AAC
+    bitrate: 132
+  - url: http://newcap.leanstream.co/CKULFM
+    codec: AAC
+    bitrate: 130

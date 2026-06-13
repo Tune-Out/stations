@@ -22,24 +22,6 @@ lastchangetime: 2026-01-15 04:22:03
 clickcount: 30
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-960f5a18-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk/A/A03H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk:8000/A/A03H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.dr.dk/A/A03H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A03H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -49,3 +31,22 @@ research:
   format: Talk, news, current affairs, documentary; classical music
   notes: DR P1 (P1 stands for Program 1) is the main news and current affairs channel of Danish Radio; known for serious journalism and cultural programming
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-960f5a18-0601-11e8-ae97-52543be04c81
+  - iprd-dk-dr-p1-1ecd8700
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk/A/A03H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk:8000/A/A03H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.dr.dk/A/A03H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A03H.mp3
+    codec: MP3
+    bitrate: 128

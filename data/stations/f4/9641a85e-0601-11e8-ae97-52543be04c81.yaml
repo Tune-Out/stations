@@ -1,6 +1,6 @@
 stationuuid: 9641a85e-0601-11e8-ae97-52543be04c81
 name: WRKN "Alt 92.3" LaPlace, LA
-url: http://provisioning.streamtheworld.com/pls/WRKNFM.pls
+url: 'http://18423.live.streamtheworld.com:80/WRKNFM_SC'
 url_resolved: http://17643.live.streamtheworld.com/WRKNFM_SC
 homepage: http://www.alt923.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3380/squareIcon.png?r=87849
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:14:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9641a85e-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Alternative rock
   notes: WRKN "Alt 92.3" is a commercial alternative rock station serving the LaPlace/Baton Rouge/New Orleans area
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9641a85e-0601-11e8-ae97-52543be04c81

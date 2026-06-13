@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:39:47
 clickcount: 28
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f0a47ae7-b935-42ea-87f9-a97873fb584a
-streams:
-  - url: 'http://ngcdn002.cnr.cn/live/zgzs/index.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://satellitepull.cnr.cn/live/wxzgzs/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908087306150&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -41,3 +31,14 @@ research:
   format: News, information, and current affairs programming
   notes: CNR-1 (中国之声) is the flagship national news channel of China National Radio, the largest broadcasting network in China. Provides 24-hour news and information programming nationwide.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f0a47ae7-b935-42ea-87f9-a97873fb584a
+  - iprd-cn-cnr-1-voice-of-china-aa0f5a51
+streams:
+  - url: http://ngcdn002.cnr.cn/live/zgzs/index.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://satellitepull.cnr.cn/live/wxzgzs/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908087306150&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+    codec: UNKNOWN
+    hls: true

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-2ae5fdb6-91b1-4ff8-a8be-e4bf397ef08a
-streams:
-  - url: 'http://stream.slowlyradio.com/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.slowlyradio.com/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Ambient, easy listening, love songs, soft adult contemporary, slow music; "cool music seduction" focus
   notes: 'Specialty station emphasizing romantic, slow, and seductive music. Tagline: "cool music seduction."'
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-2ae5fdb6-91b1-4ff8-a8be-e4bf397ef08a
+  - iprd-ca-slowly-radio-48e187f9
+streams:
+  - url: http://stream.slowlyradio.com/
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.slowlyradio.com/
+    codec: MP3
+    bitrate: 192

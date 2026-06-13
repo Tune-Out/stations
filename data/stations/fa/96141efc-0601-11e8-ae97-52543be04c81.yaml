@@ -1,7 +1,7 @@
 stationuuid: 96141efc-0601-11e8-ae97-52543be04c81
 name: ONE FM
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp
+url: 'http://22243.live.streamtheworld.com:80/ONE_FM_913AAC.aac?dist=radiosingaporeapp'
+url_resolved: 'http://22243.live.streamtheworld.com:80/ONE_FM_913AAC.aac?dist=radiosingaporeapp'
 homepage: ""
 favicon: ""
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 08:24:53
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96141efc-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Contemporary hits, pop, music, talk
   notes: Singaporean commercial radio station; one of the primary radio stations in Singapore; English-language programming; part of radio broadcasting landscape in Singapore; operates through Akamai streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96141efc-0601-11e8-ae97-52543be04c81

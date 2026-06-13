@@ -1,7 +1,7 @@
 stationuuid: 3e76a9ff-e2e9-48b9-a3b6-e13fc64aae2f
 name: Goxuan
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac
+url: 'https://22243.live.streamtheworld.com:443/RAKITAAAC.aac'
+url_resolved: 'https://22243.live.streamtheworld.com:443/RAKITAAAC.aac'
 homepage: https://goxuan.syok.my/
 favicon: https://media2.fishtank.my/app_themes/goxuan/assets/images/landscape_goxuan.png
 tags: []
@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3e76a9ff-e2e9-48b9-a3b6-e13fc64aae2f
-streams:
-  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Unknown (limited public information available)
   notes: GOXUAN is a Malaysian online radio station operated by Syok digital platform; streams via StreamTheWorld CDN; limited information on specific format but serves Malaysian market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3e76a9ff-e2e9-48b9-a3b6-e13fc64aae2f
+streams:
+  - url: 'https://22243.live.streamtheworld.com:443/RAKITAAAC.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ
+    codec: UNKNOWN
+    hls: true

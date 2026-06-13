@@ -1,7 +1,7 @@
 stationuuid: 0b1b5288-9723-450d-8879-273979ffdf67
 name: SKOR North
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPAMAAC.aac
+url: 'https://18253.live.streamtheworld.com:443/KSTPAMAAC.aac'
+url_resolved: 'https://18253.live.streamtheworld.com:443/KSTPAMAAC.aac'
 homepage: https://www.skornorth.com/
 favicon: https://www.skornorth.com/wp-content/uploads/2020/08/cropped-SkorNorth_PlayButton_B-180x180.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:50:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0b1b5288-9723-450d-8879-273979ffdf67
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: All-sports talk radio and live play-by-play coverage; Minnesota pro teams (Vikings, Twins, Timberwolves, Wild)
   notes: 1500 AM in St. Paul; sister station to other Minneapolis/St. Paul iHeart properties; part of iHeartRadio streaming network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0b1b5288-9723-450d-8879-273979ffdf67

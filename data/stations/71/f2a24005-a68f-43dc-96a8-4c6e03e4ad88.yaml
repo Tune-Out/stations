@@ -27,17 +27,6 @@ lastchangetime: 2026-01-15 07:28:39
 clickcount: 3
 geo_lat: 48.20858214058639
 geo_long: -1.6493868827819826
-curation: 0.35
-provenance:
-  - radiobrowser-f2a24005-a68f-43dc-96a8-4c6e03e4ad88
-streams:
-  - url: 'https://stream.frequencehit.com/frequencehit.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.frequencehit.com/frequencehit.mp3'
-    url_resolved: 'https://stream.frequencehit.com/frequencehit.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -47,3 +36,14 @@ research:
   format: Non-stop music ("Priorité à la musique"); hits, classic rock, top 40
   notes: Community association-based station emphasizing listener experience and music focus. Founded as digital radio project.
   sources: https://www.frequencehit.com/
+curation: 0.35
+provenance:
+  - radiobrowser-f2a24005-a68f-43dc-96a8-4c6e03e4ad88
+streams:
+  - url: https://stream.frequencehit.com/frequencehit.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.frequencehit.com/frequencehit.mp3
+    url_resolved: https://stream.frequencehit.com/frequencehit.mp3
+    codec: MP3
+    bitrate: 192

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 01:52:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-b6b014ba-63bc-4762-b17f-c61cce33b8e6
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/5014/64k.mp3'
-    codec: MP3
-  - url: 'http://lhttp.qingting.fm/live/5014/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -39,3 +31,12 @@ research:
   format: Traditional Chinese opera and folk music radio (乡村戏曲广播 - Rural Opera Radio)
   notes: 长春乡村戏曲广播 is a specialized program of Changchun's state broadcaster focused on traditional Chinese rural opera (戏曲) and folk cultural programming, serving the Jilin Province region with cultural and lifestyle content.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-b6b014ba-63bc-4762-b17f-c61cce33b8e6
+  - iprd-cn-changchun-rural-opera-broadcasting-90-0-b7ccca4f
+streams:
+  - url: https://lhttp.qtfm.cn/live/5014/64k.mp3
+    codec: MP3
+  - url: http://lhttp.qingting.fm/live/5014/64k.mp3
+    codec: MP3

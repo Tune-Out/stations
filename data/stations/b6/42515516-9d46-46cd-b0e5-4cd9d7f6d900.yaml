@@ -1,7 +1,7 @@
 stationuuid: 42515516-9d46-46cd-b0e5-4cd9d7f6d900
 name: Channel 977
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KJJKAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KJJKAMAAC.aac
+url: 'https://26103.live.streamtheworld.com:443/KJJKAMAAC.aac'
+url_resolved: 'https://26103.live.streamtheworld.com:443/KJJKAMAAC.aac'
 homepage: https://www.channel977.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2070/squareIcon.png?r=59173
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 06:29:43
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-42515516-9d46-46cd-b0e5-4cd9d7f6d900
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,7 @@ research:
   format: Pop and contemporary top 40 music programming
   notes: US-based streaming station serving Fergus Falls, Minnesota market. Specializes in pop music and top 40 hits. Low bitrate stream (32 kbps AAC+).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-42515516-9d46-46cd-b0e5-4cd9d7f6d900
+  - iprd-us-channel-977-d9149740

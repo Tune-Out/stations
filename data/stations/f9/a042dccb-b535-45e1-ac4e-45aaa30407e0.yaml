@@ -22,16 +22,6 @@ lastchangetime: 2026-05-03 10:33:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a042dccb-b535-45e1-ac4e-45aaa30407e0
-streams:
-  - url: 'http://listen-nation.sharp-stream.com/nationrocks.aac'
-    codec: AAC+
-    bitrate: 47
-  - url: 'http://listen-nation.sharp-stream.com/nationrocksdab.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Adult contemporary, classic rock, pop rock; DAB/internet streaming
   notes: Commercial digital radio station distributed via Nation Player platform; 320k MP3 bitrate
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a042dccb-b535-45e1-ac4e-45aaa30407e0
+streams:
+  - url: http://listen-nation.sharp-stream.com/nationrocks.aac
+    codec: AAC+
+    bitrate: 47
+  - url: http://listen-nation.sharp-stream.com/nationrocksdab.mp3
+    codec: MP3
+    bitrate: 320

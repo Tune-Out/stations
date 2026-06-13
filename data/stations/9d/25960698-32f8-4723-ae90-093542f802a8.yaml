@@ -1,7 +1,7 @@
 stationuuid: 25960698-32f8-4723-ae90-093542f802a8
 name: Exa FM Nogales - 102.7 FM - XHQT-FM - MVS Radio - Nogales, SO
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHQT_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHQT_SC
+url: 'https://14223.live.streamtheworld.com:443/XHQT_SC'
+url_resolved: 'https://14223.live.streamtheworld.com:443/XHQT_SC'
 homepage: https://www.exafm.com/nogales/
 favicon: https://www.exafm.com/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:29:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-25960698-32f8-4723-ae90-093542f802a8
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Pop music format with youth-oriented programming; motto "La estación exacta" (the exact station).
   notes: Exa FM operates on FM 102.7 (XHQT-FM) in Nogales, Sonora. Part of MVS Radio's national Exa brand, known for pop music and youth entertainment.
   sources: https://www.exafm.com/nogales/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-25960698-32f8-4723-ae90-093542f802a8

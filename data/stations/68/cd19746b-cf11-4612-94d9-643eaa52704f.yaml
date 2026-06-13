@@ -22,24 +22,6 @@ lastchangetime: 2026-01-15 07:48:52
 clickcount: 0
 geo_lat: 49.42970456081118
 geo_long: 11.07489198446274
-curation: -0.05
-provenance:
-  - radiobrowser-cd19746b-cf11-4612-94d9-643eaa52704f
-streams:
-  - url: 'https://frontend.streamonkey.net/fhn-radiof945'
-    codec: AAC
-  - url: 'https://frontend.streamonkey.net/fhn-radiofmadeingermany/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://edge10.streamonkey.net/fhn-radiofmadeingermany/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://edge01.streamonkey.net/fhn-radiof945/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://frontend.streamonkey.net/fhn-radiofitalohits/stream/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -49,3 +31,21 @@ research:
   format: Oldies and classic German music; focus on "Made in Germany" theme celebrating German pop, rock, and entertainment from multiple decades
   notes: Radio F "Made in Germany" is based in Franconia (Franken), Bavaria; commercial station specializing in German oldies and classic music programming; geolocation (49.43, 11.07) is Nuremberg area; celebrates German entertainment heritage through music and cultural content; operates both terrestrial and streaming platforms
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cd19746b-cf11-4612-94d9-643eaa52704f
+streams:
+  - url: https://frontend.streamonkey.net/fhn-radiof945
+    codec: AAC
+  - url: https://frontend.streamonkey.net/fhn-radiofmadeingermany/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://edge10.streamonkey.net/fhn-radiofmadeingermany/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://edge01.streamonkey.net/fhn-radiof945/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://frontend.streamonkey.net/fhn-radiofitalohits/stream/mp3
+    codec: MP3
+    bitrate: 128

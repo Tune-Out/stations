@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 6
 geo_lat: 53.34410084363813
 geo_long: -6.266986721846733
-curation: 0.65
-provenance:
-  - radiobrowser-6650bb57-12aa-41d3-8ae4-ed5dcf0909cd
-streams:
-  - url: 'https://stream.rcast.net/66127'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://edge4.audioxi.com/8RADIO'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +32,14 @@ research:
   format: Indie and alternative music radio; "Playing the music we like" — curated independent programming.
   notes: Independent Irish online radio station. Community-supported (Buy Me a Coffee model). Focused on indie and alternative music. No commercial advertising model.
   sources: https://8radio.com/listen/8radio320k/
+curation: 0.65
+provenance:
+  - radiobrowser-6650bb57-12aa-41d3-8ae4-ed5dcf0909cd
+  - iprd-ie-8radio-949af9d1
+streams:
+  - url: https://stream.rcast.net/66127
+    codec: MP3
+    bitrate: 320
+  - url: https://edge4.audioxi.com/8RADIO
+    codec: MP3
+    bitrate: 128

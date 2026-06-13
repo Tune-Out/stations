@@ -1,7 +1,7 @@
 stationuuid: b4fb61ae-6939-4c70-8186-dd8820e51209
 name: Byron BayFM - Byron Bay - 99.9 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2BAY_FM999AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2BAY_FM999AAC.aac
+url: 'http://23093.live.streamtheworld.com:80/2BAY_FM999AAC.aac'
+url_resolved: 'http://23093.live.streamtheworld.com:80/2BAY_FM999AAC.aac'
 homepage: https://www.bayfm.org/
 favicon: https://i.ibb.co/bXbqwz9/BBFM-logo-K.jpg
 tags:
@@ -16,9 +16,6 @@ language:
 languagecodes:
   - en
 votes: 6
-curation: 0.35
-provenance:
-  - radiobrowser-b4fb61ae-6939-4c70-8186-dd8820e51209
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -28,3 +25,6 @@ research:
   format: Music, community talk, local events, environmental and cultural programming.
   notes: Byron Bay FM (99.9 FM) is volunteer-run community radio in northern NSW. Part of Australia's community radio sector. Strong focus on local events, environment, and arts. Non-commercial community service.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b4fb61ae-6939-4c70-8186-dd8820e51209

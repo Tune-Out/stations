@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:41:42
 clickcount: 0
 geo_lat: 47.00940166351215
 geo_long: 7.006219625473023
-curation: 0.35
-provenance:
-  - radiobrowser-9972eca9-5b29-42f5-aad8-9c052425e31a
-streams:
-  - url: 'http://stream.taradio.ch/dab'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://stream.taradio.ch/dab'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Community radio programming
   notes: Swiss community radio station in the Neuchatel region serving French-speaking audiences. Limited public information available.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9972eca9-5b29-42f5-aad8-9c052425e31a
+streams:
+  - url: http://stream.taradio.ch/dab
+    codec: AAC
+    bitrate: 96
+  - url: https://stream.taradio.ch/dab
+    codec: AAC
+    bitrate: 96

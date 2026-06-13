@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-96394fed-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.srg-ssr.ch/m/rsc_it/mp3_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.srg-ssr.ch/m/rsc_it/mp3_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Classical music programming; Italian service of Radio Swiss Classic
   notes: Italian service of Radio Suisse Classica (Swiss public classical radio). Part of SRG SSR public broadcasting system. Serves Italian-language Swiss communities.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-96394fed-0601-11e8-ae97-52543be04c81
+  - iprd-ch-radio-svizzera-classica-2723b0e0
+  - iprd-ch-radio-svizzera-classica-dfea1371
+streams:
+  - url: http://stream.srg-ssr.ch/m/rsc_it/mp3_128
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.srg-ssr.ch/m/rsc_it/mp3_128
+    codec: MP3
+    bitrate: 128

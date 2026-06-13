@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 00:20:51
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ca2d0aa2-6fc8-4761-beb6-ce692a4a9bf5
-streams:
-  - url: 'https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/'
-    codec: MP3
-  - url: 'https://bestofrockfm.stream.vip/altrock/mp3-256'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +33,12 @@ research:
   format: 24/7 alternative rock — grunge, indie rock, alt-metal, and punk rock (sub-channel of the Best Of Rock.FM multi-stream network)
   notes: 'One of many genre-specific spin-off streams under the Best Of Rock.FM brand operated by Radio Rockland GmbH & Co. KG, an internet-radio company that runs themed rock channels covering Classic Rock, Hard Rock, Metal, 90s Rock, Deutsch Rock, plus artist channels (AC/DC, Rammstein, Metallica); positioning quote: "Rock-Musik in all ihren Facetten – rund um die Uhr" ("Rock music in all its facets – around the clock").'
   sources: https://www.best-of-rock.fm/
+curation: 0.35
+provenance:
+  - radiobrowser-ca2d0aa2-6fc8-4761-beb6-ce692a4a9bf5
+  - iprd-de-best-of-rock-fm-alternative-rock-00a43a0d
+streams:
+  - url: https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/
+    codec: MP3
+  - url: https://bestofrockfm.stream.vip/altrock/mp3-256
+    codec: MP3

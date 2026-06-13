@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ba5faaa0-5f3e-4e4e-a78a-50def6298a99
-streams:
-  - url: 'https://ais-sa8.cdnstream1.com/2815_96.aac?listenerId=esTrackblock0202518&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1700590934'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://ais-sa8.cdnstream1.com/2815_96.aac?listenerId=esTrackblock070396&aw_0_1st.playerid=esPlayer-mobile&aw_0_1st.skey=1714717770'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Christian contemporary music and religious programming; operated by Billy Graham organization
   notes: Non-commercial Christian radio station affiliated with Billy Graham Evangelistic Association; 106.9 The Light is a faith-based broadcast ministry providing inspirational and gospel music programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ba5faaa0-5f3e-4e4e-a78a-50def6298a99
+streams:
+  - url: https://ais-sa8.cdnstream1.com/2815_96.aac?listenerId=esTrackblock0202518&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1700590934
+    codec: AAC
+    bitrate: 96
+  - url: https://ais-sa8.cdnstream1.com/2815_96.aac?listenerId=esTrackblock070396&aw_0_1st.playerid=esPlayer-mobile&aw_0_1st.skey=1714717770
+    codec: AAC
+    bitrate: 96

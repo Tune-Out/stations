@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:09:14
 clickcount: 0
 geo_lat: 22.77507356902285
 geo_long: -102.56814479827882
-curation: 0.35
-provenance:
-  - radiobrowser-55a49089-e50c-4d39-a097-1ad10468c765
-streams:
-  - url: 'https://radioforte.com/8010/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radioforte.com/8010/sonidoestrella'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: News, short news updates, news/commentary, local news coverage; news and opinion format.
   notes: Commercial news and talk radio station serving Zacatecas state in north-central Mexico. Uses call sign XHEPC-FM. Focus on local news coverage, short news briefs, and community commentary.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-55a49089-e50c-4d39-a097-1ad10468c765
+  - iprd-mx-sonido-estrella-89-9-xhepc-f7454964
+streams:
+  - url: https://radioforte.com/8010/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://radioforte.com/8010/sonidoestrella
+    codec: MP3
+    bitrate: 128

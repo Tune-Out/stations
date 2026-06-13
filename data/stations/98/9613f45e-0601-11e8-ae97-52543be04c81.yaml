@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:11:51
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9613f45e-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://generations-rgton.ice.infomaniak.ch/generations-rgton.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://generations-rgton.ice.infomaniak.ch/generations-rgton.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Reggaeton, Latin urban music, reggaeton hits
   notes: Generations is a major French radio network; Reggaeton channel specializes in reggaeton and Latin urban music; streams via Infomaniak
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9613f45e-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-reggaeton-b46d51aa
+  - iprd-fr-generations-reggaeton-950bad82
+streams:
+  - url: http://generations-rgton.ice.infomaniak.ch/generations-rgton.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://generations-rgton.ice.infomaniak.ch/generations-rgton.mp3
+    codec: MP3
+    bitrate: 128

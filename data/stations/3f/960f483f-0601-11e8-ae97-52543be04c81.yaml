@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:25:41
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-960f483f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://31.192.216.7/CLUB'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.rmfon.pl/n/club.pls'
-    url_resolved: 'http://217.74.72.6/rmf_club'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Club music (muzyka klubowa)
   notes: Part of RMF Group multi-station network which includes RMF FM, RMF Classic, and RMF24. Offers premium ad-free subscription model, playlists, podcasts, and multi-platform access.
   sources: http://www.rmfon.pl/stacja/rmf-club
+curation: 0.2
+provenance:
+  - radiobrowser-960f483f-0601-11e8-ae97-52543be04c81
+  - iprd-pl-rmf-club-d383ce51
+streams:
+  - url: http://31.192.216.7/CLUB
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.rmfon.pl/n/club.pls
+    url_resolved: http://217.74.72.6/rmf_club
+    codec: MP3
+    bitrate: 128

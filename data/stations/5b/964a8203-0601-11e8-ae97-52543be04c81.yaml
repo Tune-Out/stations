@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 02:35:55
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-964a8203-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream01.iloveradio.de/iloveradio9.mp3'
-    url_resolved: 'http://ilm.stream12.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQ0NzkzJmQ9MTNlYjg2N2I3YjJmNzdjNzk3OWM'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://www.iloveradio.de/iloveradio.m3u'
-    url_resolved: 'https://play.ilovemusic.de/ilm_iloveradio/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,16 @@ research:
   format: Top 100 charts hits; part of multi-genre platform featuring Pop/Hits, Dance/DJ, Hip Hop, Rock, Throwbacks, K-Pop, Hardstyle, Chill, Workout.
   notes: Commercial music streaming platform. "Top Hits Germany - hot, up and coming!" Includes hourly voting, user wishlists, 40+ branded channels, apps, Alexa integration.
   sources: https://www.ilovemusic.de/ilovetop100charts/
+curation: -0.1
+provenance:
+  - radiobrowser-964a8203-0601-11e8-ae97-52543be04c81
+  - iprd-de-i-love-radio-top-100-charts-d0308ba9
+streams:
+  - url: http://stream01.iloveradio.de/iloveradio9.mp3
+    url_resolved: http://ilm.stream12.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQ0NzkzJmQ9MTNlYjg2N2I3YjJmNzdjNzk3OWM
+    codec: MP3
+    bitrate: 192
+  - url: http://www.iloveradio.de/iloveradio.m3u
+    url_resolved: https://play.ilovemusic.de/ilm_iloveradio/
+    codec: MP3
+    bitrate: 192

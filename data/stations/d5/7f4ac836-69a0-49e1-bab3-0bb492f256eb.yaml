@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:33:22
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-7f4ac836-69a0-49e1-bab3-0bb492f256eb
-streams:
-  - url: 'http://fusionfm.ice.infomaniak.ch/fusionfm-192.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://fusionfm.ice.infomaniak.ch:8000/fusionfm-192.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,15 @@ research:
   format: Electronic, fusion music, world music, cultural programming
   notes: Fusion FM is a French community radio station offering fusion and world music programming. Streams on Infomaniak CDN, targeting diverse audiences interested in electronic and multicultural music formats.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-7f4ac836-69a0-49e1-bab3-0bb492f256eb
+  - iprd-fr-fusion-fm-7358c927
+  - iprd-fr-fusion-fm-1543fe98
+streams:
+  - url: http://fusionfm.ice.infomaniak.ch/fusionfm-192.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://fusionfm.ice.infomaniak.ch:8000/fusionfm-192.mp3
+    codec: MP3
+    bitrate: 192

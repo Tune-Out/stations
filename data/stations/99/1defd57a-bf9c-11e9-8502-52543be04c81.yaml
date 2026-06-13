@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 06:20:33
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.20
-provenance:
-  - radiobrowser-1defd57a-bf9c-11e9-8502-52543be04c81
-streams:
-  - url: 'https://1a-2000er.radionetz.de/1a-2000er.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-2000er.radionetz.de/1a-2000er.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,15 @@ research:
   format: 25+ specialized channels by era and genre (60s-2000s, Pop, Rock, Jazz, Schlager, Rap, Oldies, Relax, Chillout)
   notes: German commercial web radio; "Alle Hits – jederzeit, jeden Tag!" (All hits – anytime, every day); 489 votes; real-time playlist display
   sources: http://www.1aradio.com/
+curation: 0.2
+provenance:
+  - radiobrowser-1defd57a-bf9c-11e9-8502-52543be04c81
+  - iprd-de-1a-2000er-21a3ea2a
+  - iprd-de-1a-2000er-e9af627a
+streams:
+  - url: https://1a-2000er.radionetz.de/1a-2000er.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-2000er.radionetz.de/1a-2000er.mp3
+    codec: MP3
+    bitrate: 128

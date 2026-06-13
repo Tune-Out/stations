@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 05:09:56
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1028d7ff-d673-11e9-a861-52543be04c81
-streams:
-  - url: 'https://stream.radiotop40.de/live/aac-64/'
-    codec: AAC
-  - url: 'https://stream.radiotop40.de/live/mp3-128/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,13 @@ research:
   format: Top 40 pop and pop-rock music
   notes: German commercial radio station specializing in contemporary pop and rock chart hits, primarily serving Thuringia.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1028d7ff-d673-11e9-a861-52543be04c81
+  - iprd-de-radio-top-40-4840a774
+streams:
+  - url: https://stream.radiotop40.de/live/aac-64/
+    codec: AAC
+  - url: https://stream.radiotop40.de/live/mp3-128/
+    codec: MP3
+    bitrate: 128

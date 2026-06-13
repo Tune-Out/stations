@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 02:45:26
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-2f74195e-5e5d-406f-9e8f-92d0111a8f14
-duplicate_of: 1dc6efa7-139b-4314-a990-dc954f55ed67
-streams:
-  - url: 'https://drive.uber.radio/uber/crtchaikovsky/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crtchaikovsky/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Classical music specializing in Russian composers including Tchaikovsky
   notes: ClassicalRadio.com operates specialty classical streaming channels via AudioAddict platform. Tchaikovsky channel focuses on Russian classical music.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-2f74195e-5e5d-406f-9e8f-92d0111a8f14
+duplicate_of: 1dc6efa7-139b-4314-a990-dc954f55ed67
+streams:
+  - url: https://drive.uber.radio/uber/crtchaikovsky/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crtchaikovsky/icecast.audio
+    codec: MP3

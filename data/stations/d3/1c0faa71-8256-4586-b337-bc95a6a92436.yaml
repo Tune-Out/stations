@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 08:05:02
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1c0faa71-8256-4586-b337-bc95a6a92436
-streams:
-  - url: 'https://web.stream.radio-bamberg.de/radio-bamberg?aggregator=websiteplayer'
-    codec: AAC
-  - url: 'https://webstream.radio-bamberg.de/radio-bamberg.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,13 @@ research:
   format: Easy listening, regional information, local programming
   notes: Commercial regional radio station serving the Bamberg area in Bavaria. Broadcasts a mix of easy listening music and local news/information.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1c0faa71-8256-4586-b337-bc95a6a92436
+  - iprd-de-radio-bamberg-8e423203
+streams:
+  - url: https://web.stream.radio-bamberg.de/radio-bamberg?aggregator=websiteplayer
+    codec: AAC
+  - url: https://webstream.radio-bamberg.de/radio-bamberg.mp3
+    codec: MP3
+    bitrate: 128

@@ -19,15 +19,6 @@ lastchangetime: 2026-01-24 10:29:51
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-73a9ae9d-9d9b-4b94-a20c-63bb5e630352
-streams:
-  - url: 'https://stream.zeno.fm/a2gyqzwpwfeuv'
-    codec: MP3
-  - url: 'http://stream.zeno.fm/8ty8szwpwfeuv.m3u'
-    url_resolved: 'http://stream.zeno.fm/8ty8szwpwfeuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -37,3 +28,12 @@ research:
   format: Bollywood music, Hindi film songs, Indian cinema music
   notes: Hits of Bollywood is an independent online station serving Indian audiences with Hindi film music and Bollywood hits. Non-commercial streaming through Zeno.fm platform emphasizing classic and contemporary Bollywood catalog.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-73a9ae9d-9d9b-4b94-a20c-63bb5e630352
+streams:
+  - url: https://stream.zeno.fm/a2gyqzwpwfeuv
+    codec: MP3
+  - url: http://stream.zeno.fm/8ty8szwpwfeuv.m3u
+    url_resolved: http://stream.zeno.fm/8ty8szwpwfeuv
+    codec: MP3

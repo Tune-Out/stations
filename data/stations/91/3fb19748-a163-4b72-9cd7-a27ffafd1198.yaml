@@ -1,6 +1,6 @@
 stationuuid: 3fb19748-a163-4b72-9cd7-a27ffafd1198
 name: CBC Music Central (Winnipeg) - MP3 Stream
-url: https://playerservices.streamtheworld.com/pls/CBWFM_CBC.pls
+url: 'https://27033.live.streamtheworld.com:443/CBWFM_CBC_SC'
 url_resolved: https://27033.live.streamtheworld.com/CBWFM_CBC_SC
 homepage: https://www.cbc.ca/music
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 49.89003389433587
 geo_long: -97.13424682617188
-curation: 0.55
-provenance:
-  - radiobrowser-3fb19748-a163-4b72-9cd7-a27ffafd1198
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: Eclectic music programming including blues, classical, folk, jazz; cultural programming.
   notes: CBC Music operates as a music-focused service within Canadian public broadcasting; Winnipeg stream serves Manitoba; part of CBC's non-commercial public radio service.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-3fb19748-a163-4b72-9cd7-a27ffafd1198

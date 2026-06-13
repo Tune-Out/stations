@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-51428e80-a033-46ba-9bf8-9d2a6a9bef07
-streams:
-  - url: 'http://streamingp.shoutcast.com/JamendoLounge'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streamingp.shoutcast.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.5'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +30,16 @@ research:
   format: Classical piano, instrumental music; primarily public-domain and royalty-free recordings.
   notes: Community-operated Jimdo site offering 24/7 classical piano radio streaming; limited information available. Grenoble, France-based.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-51428e80-a033-46ba-9bf8-9d2a6a9bef07
+streams:
+  - url: http://streamingp.shoutcast.com/JamendoLounge
+    codec: MP3
+    bitrate: 128
+  - url: https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9
+    codec: MP3
+    bitrate: 128
+  - url: http://streamingp.shoutcast.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.5
+    codec: MP3
+    bitrate: 128

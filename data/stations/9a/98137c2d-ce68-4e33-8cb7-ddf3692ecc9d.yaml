@@ -24,19 +24,6 @@ lastchangetime: 2026-01-15 07:52:50
 clickcount: 230
 geo_lat: null
 geo_long: null
-curation: 0.90
-provenance:
-  - radiobrowser-98137c2d-ce68-4e33-8cb7-ddf3692ecc9d
-streams:
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +33,17 @@ research:
   format: "Speech-based network: news (Today, PM, The World at One, The World Tonight, BBC News bulletins), drama (The Archers - world's longest-running soap), comedy (News Quiz, Just a Minute), documentaries, science (In Our Time), arts and current affairs"
   notes: Launched 30 September 1967 as successor to the BBC Home Service (which dated to 1939). Widely regarded as the flagship spoken-word station of British public broadcasting; home of the Shipping Forecast and Today programme. Sister station Radio 4 Extra carries archive comedy and drama. Consistently among the most-listened UK radio stations.
   sources: https://www.bbc.co.uk/radio4 (fetch blocked), internal knowledge
+curation: 0.85
+provenance:
+  - radiobrowser-98137c2d-ce68-4e33-8cb7-ddf3692ecc9d
+  - iprd-gb-bbc-radio-4-38e5001c
+streams:
+  - url: http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true

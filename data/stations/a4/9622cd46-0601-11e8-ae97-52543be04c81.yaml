@@ -24,19 +24,6 @@ lastchangetime: 2026-01-15 03:39:23
 clickcount: 83
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9622cd46-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ep256.hostingradio.ru:8052/europaplus256.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ep128.streamr.ru/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://europaplus.hostingradio.ru:8014/europaplus320f.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +33,18 @@ research:
   format: Top-40 / contemporary hit radio (CHR) — mainstream Western and Russian pop, dance, house; flagship hit-music station
   notes: Founded in 1990 as a Soviet-French joint venture (with Europe 1 of France), Europa Plus was the first commercial / Western-style music radio station in the USSR and remains one of the most popular and highest-rated commercial radio networks in Russia. Broadcasts on FM in hundreds of Russian cities and across several CIS countries. Headquartered in Moscow. Runs the annual Europa Plus Live festival in Moscow.
   sources: internal knowledge only (homepage fetch timed out)
+curation: 0.45
+provenance:
+  - radiobrowser-9622cd46-0601-11e8-ae97-52543be04c81
+  - iprd-ru-europa-plus-6b610080
+  - iprd-ru-europa-plus-8658399f
+streams:
+  - url: http://ep256.hostingradio.ru:8052/europaplus256.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://ep128.streamr.ru/
+    codec: MP3
+    bitrate: 128
+  - url: http://europaplus.hostingradio.ru:8014/europaplus320f.mp3
+    codec: MP3
+    bitrate: 128

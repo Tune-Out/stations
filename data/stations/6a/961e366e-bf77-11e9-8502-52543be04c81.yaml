@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-961e366e-bf77-11e9-8502-52543be04c81
-streams:
-  - url: 'http://play.organlive.com:7000/192'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://play.organlive.com:7000/320'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Classical organ music and organ recitals
   notes: US independent online radio station dedicated to organ music; streams classical organ performances and related instrumental music; non-commercial service for organ enthusiasts
   sources: http://www.organlive.com/, internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-961e366e-bf77-11e9-8502-52543be04c81
+streams:
+  - url: http://play.organlive.com:7000/192
+    codec: MP3
+    bitrate: 320
+  - url: http://play.organlive.com:7000/320
+    codec: MP3
+    bitrate: 320

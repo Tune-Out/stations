@@ -22,23 +22,6 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-0662acad-2d68-11ea-aa0c-52543be04c81
-streams:
-  - url: 'http://mp3.magic-radio.net/flac.m3u'
-    url_resolved: 'http://mp3.magic-radio.net/flac'
-    codec: OGG
-    bitrate: 1500
-  - url: 'http://mp3.magic-radio.net/320'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://mp3.magic-radio.net/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://mp3.magic-radio.net/prox192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -48,3 +31,21 @@ research:
   format: 1980s hits and retro music in high-quality FLAC and OGG streaming.
   notes: Magic Radio France specializes in 1980s music ("80s") with high-quality streaming (FLAC, OGG up to 1500 kbps). "Sanspub" (ad-free) model. Non-profit or subscription-based operation. French streaming service focused on nostalgia programming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-0662acad-2d68-11ea-aa0c-52543be04c81
+  - iprd-fr-magic-radio-2a9c7580
+streams:
+  - url: http://mp3.magic-radio.net/flac.m3u
+    url_resolved: http://mp3.magic-radio.net/flac
+    codec: OGG
+    bitrate: 1500
+  - url: http://mp3.magic-radio.net/320
+    codec: MP3
+    bitrate: 320
+  - url: https://mp3.magic-radio.net/
+    codec: MP3
+    bitrate: 192
+  - url: https://mp3.magic-radio.net/prox192
+    codec: MP3
+    bitrate: 192

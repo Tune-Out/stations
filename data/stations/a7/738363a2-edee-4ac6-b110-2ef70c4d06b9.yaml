@@ -22,28 +22,6 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-738363a2-edee-4ac6-b110-2ef70c4d06b9
-streams:
-  - url: 'https://pureplay.cdnstream1.com/6032_64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://pureplay.cdnstream1.com/6039_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://pureplay.cdnstream1.com/6032_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://pureplay.cdnstream1.com/6057_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://pureplay.cdnstream1.com/6019_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://pureplay.cdnstream1.com/6024_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -53,3 +31,29 @@ research:
   format: 90s alternative rock; grunge, indie, and alternative hits from 1990-1999
   notes: GotRadio specializes in digital radio stations organized by decade and genre; free ad-supported internet radio service
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-738363a2-edee-4ac6-b110-2ef70c4d06b9
+  - iprd-us-gotradio-fec828e6
+  - iprd-us-gotradio-90s-alternative-8893470e
+  - iprd-us-gotradio-bit-o-blues-a35c5365
+  - iprd-us-gotradio-top-40-3829fa04
+streams:
+  - url: https://pureplay.cdnstream1.com/6032_64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://pureplay.cdnstream1.com/6039_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://pureplay.cdnstream1.com/6032_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://pureplay.cdnstream1.com/6057_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://pureplay.cdnstream1.com/6019_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://pureplay.cdnstream1.com/6024_128.mp3
+    codec: MP3
+    bitrate: 128

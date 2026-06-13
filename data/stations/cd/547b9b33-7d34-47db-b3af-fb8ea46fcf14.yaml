@@ -26,16 +26,6 @@ lastchangetime: 2026-01-25 21:12:29
 clickcount: 0
 geo_lat: 41.394423102009526
 geo_long: 2.1633625030517583
-curation: -0.05
-provenance:
-  - radiobrowser-547b9b33-7d34-47db-b3af-fb8ea46fcf14
-streams:
-  - url: 'https://radiostreamingserver.com/listen/ondamar80/live'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://antares.dribbcast.com/proxy/ondamar80?mp=/live'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: 80s/90s/00s dance, house, funk hits
   notes: Spanish dance and retro hits radio station focused on 80s-2000s house and funky music
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-547b9b33-7d34-47db-b3af-fb8ea46fcf14
+  - iprd-es-ondamar80-ca903281
+streams:
+  - url: https://radiostreamingserver.com/listen/ondamar80/live
+    codec: AAC
+    bitrate: 128
+  - url: https://antares.dribbcast.com/proxy/ondamar80?mp=/live
+    codec: AAC+
+    bitrate: 128

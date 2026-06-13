@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-46c93c88-147e-4bf5-9e08-ff93680984bf
-streams:
-  - url: 'https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Pop and hit music; contemporary Thai and regional hits targeting youth audience.
   notes: 'Thai commercial radio station operating at 89.0 MHz. Tags describe it as "the #1 hit channel of Khon Kaen residents" (คลื่นฮิตอันดับ 1 ของชาวขอนแก่น); broadcasts in Thai language with 48 kbps AAC+ stream.'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-46c93c88-147e-4bf5-9e08-ff93680984bf
+streams:
+  - url: https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;
+    codec: AAC+
+    bitrate: 48
+  - url: https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream
+    codec: MP3
+    bitrate: 128

@@ -21,37 +21,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-570eae78-2698-11e8-91bf-52543be04c81
-streams:
-  - url: 'http://naxidigital-house128.streaming.rs:8000/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-classic128.streaming.rs:8030/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-dance128.streaming.rs:8110/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-gold128.streaming.rs:8060/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-fresh128.streaming.rs:8210/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-clubbing128.streaming.rs:8090/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-jazz128.streaming.rs:8170/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-mix128.streaming.rs:8220/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-love128.streaming.rs:8100/;stream.nsv'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -61,3 +30,34 @@ research:
   format: Multi-channel streaming radio focused on house, electronic, and dance music; curated programming by genre
   notes: Naxi is a major commercial radio operator in Serbia; operates multiple themed channels (house, techno, etc.); established broadcaster with significant listener base (4576+ votes)
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-570eae78-2698-11e8-91bf-52543be04c81
+streams:
+  - url: http://naxidigital-house128.streaming.rs:8000/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-classic128.streaming.rs:8030/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-dance128.streaming.rs:8110/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-gold128.streaming.rs:8060/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-fresh128.streaming.rs:8210/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-clubbing128.streaming.rs:8090/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-jazz128.streaming.rs:8170/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-mix128.streaming.rs:8220/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-love128.streaming.rs:8100/;stream.nsv
+    codec: MP3
+    bitrate: 128

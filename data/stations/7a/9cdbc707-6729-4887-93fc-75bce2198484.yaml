@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-9cdbc707-6729-4887-93fc-75bce2198484
-streams:
-  - url: 'https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: 2000s and 00s retrospective pop/hits music format
   notes: Portuguese commercial radio station RFM operating as part of Sapo Media; specialized stream focusing on music from the 2000s decade ("00'S RFM"); targets Portuguese audience.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-9cdbc707-6729-4887-93fc-75bce2198484
+streams:
+  - url: https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac
+    codec: AAC+
+    bitrate: 64

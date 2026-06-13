@@ -1,7 +1,7 @@
 stationuuid: 010f3354-93ad-487e-8bb3-d84c0b2a9414
 name: 850 WFTL
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WFTLAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WFTLAMAAC.aac
+url: 'https://15313.live.streamtheworld.com:443/WFTLAMAAC.aac'
+url_resolved: 'https://15313.live.streamtheworld.com:443/WFTLAMAAC.aac'
 homepage: https://www.850wftl.com/
 favicon: https://www.850wftl.com/wp-content/uploads/2020/08/850-wftl-logo-500x500.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:20:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-010f3354-93ad-487e-8bb3-d84c0b2a9414
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News and talk radio format; information-focused programming.
   notes: Call sign WFTL, 850 AM. News/talk format serving south Florida. Limited public information available on current ownership and programming details.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-010f3354-93ad-487e-8bb3-d84c0b2a9414

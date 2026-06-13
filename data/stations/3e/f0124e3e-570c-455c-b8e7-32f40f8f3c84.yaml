@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f0124e3e-570c-455c-b8e7-32f40f8f3c84
-streams:
-  - url: 'http://stream.radio.co/se9de95c10/low'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://stream.radio.co/se9de95c10/listen'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Gospel music, Christian music, talk shows, Bible verses and passages, radio dramas
   notes: Founded March 20, 2017 (terrestrial); call sign DZBR 531 AM; tower Angel One in Tanauan, Batangas; streaming on Website, Android app, iOS app, Radio Garden, Spotify, MixCloud; mission "cover the nations with the saving gospel of Jesus Christ."
   sources: https://bible.radio/, https://bible.radio/about/
+curation: 0.35
+provenance:
+  - radiobrowser-f0124e3e-570c-455c-b8e7-32f40f8f3c84
+  - iprd-ph-bible-radio-531-5a702737
+streams:
+  - url: http://stream.radio.co/se9de95c10/low
+    codec: AAC
+    bitrate: 64
+  - url: https://stream.radio.co/se9de95c10/listen
+    codec: MP3
+    bitrate: 128

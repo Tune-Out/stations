@@ -26,14 +26,6 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 2
 geo_lat: 48.772157260517275
 geo_long: 9.174603804225448
-curation: -0.10
-provenance:
-  - radiobrowser-b8127292-018f-4a3a-a570-1ecee5d4753c
-streams:
-  - url: 'https://stream.bigfm.de/rlp/mp3-128/radio-browser'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-rlp-128-aac?usid=0-0-H-A-D-01'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +35,13 @@ research:
   format: Contemporary hits, dance, hip-hop, charts, throwback music; news, weather, traffic information
   notes: Commercial regional station. Tagline "Deutschlands biggste Beats" (Germany's biggest beats). Multiple branded streams (Just Music, Dance Radio, HipHop, Charts, Throwback). Morning show, podcasts. Available on FM, streaming app, radio.de, radioplayer.de.
   sources: bigfm.de
+curation: -0.1
+provenance:
+  - radiobrowser-b8127292-018f-4a3a-a570-1ecee5d4753c
+  - iprd-de-big-fm-rheinland-pfalz-1cf26ff6
+  - iprd-de-big-fm-rheinland-pfalz-578cdd19
+streams:
+  - url: https://stream.bigfm.de/rlp/mp3-128/radio-browser
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-rlp-128-aac?usid=0-0-H-A-D-01
+    codec: AAC

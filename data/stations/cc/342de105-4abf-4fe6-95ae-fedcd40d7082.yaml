@@ -1,7 +1,7 @@
 stationuuid: 342de105-4abf-4fe6-95ae-fedcd40d7082
 name: iHeartCountry Australia (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT9.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT9.mp3
+url: 'http://28853.live.streamtheworld.com:80/ARN_IHRT9.mp3'
+url_resolved: 'http://28853.live.streamtheworld.com:80/ARN_IHRT9.mp3'
 homepage: https://www.iheart.com/live/iheartcountry-australia-7222/
 favicon: https://i.ibb.co/zQj4rYr/b0bbd1d1-1f81-4ee8-8220-e5f163046dde.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:41:05
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-342de105-4abf-4fe6-95ae-fedcd40d7082
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music, contemporary and classic country
   notes: Part of iHeartMedia Australia's country music offerings; serves Australian country music audience; operates via iHeartRadio platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-342de105-4abf-4fe6-95ae-fedcd40d7082

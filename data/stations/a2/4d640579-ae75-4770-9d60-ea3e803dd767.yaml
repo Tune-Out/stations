@@ -20,16 +20,6 @@ lastchangetime: 2026-05-02 10:29:26
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4d640579-ae75-4770-9d60-ea3e803dd767
-streams:
-  - url: 'http://listen-nation.sharp-stream.com/lovenation.aac'
-    codec: AAC+
-    bitrate: 47
-  - url: 'http://listen-nation.sharp-stream.com/lovenationdab.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Adult contemporary, middle-of-the-road music
   notes: Digital music radio channel operated by Nation Broadcasting; streams contemporary adult hits and MOR programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4d640579-ae75-4770-9d60-ea3e803dd767
+streams:
+  - url: http://listen-nation.sharp-stream.com/lovenation.aac
+    codec: AAC+
+    bitrate: 47
+  - url: http://listen-nation.sharp-stream.com/lovenationdab.mp3
+    codec: MP3
+    bitrate: 320

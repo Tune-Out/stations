@@ -20,16 +20,6 @@ lastchangetime: 2026-05-17 14:45:25
 clickcount: 0
 geo_lat: 46.76953781017045
 geo_long: 23.589811027050025
-curation: 0.20
-provenance:
-  - radiobrowser-f57edd32-f6b9-4489-b84f-29d30d4dcb52
-streams:
-  - url: 'https://azura.ebsmedia.ro/listen/nouvelle/nouvelle128.mp3?refresh=1779029033496'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.ebsmedia.ro/listen/nouvelle/nouvelle128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Nouvelle Vague (New Wave) music specialty stream; 18 dedicated music streams include Local, Country, Electro, Jazz, Lounge, Classical, Romanian Gold/Folk
   notes: 'EBS Radio operates on 90.4 FM and online platforms. Notable shows: The Breakfast Show (Angel Rusu), City Drive (Dan Apetrei), Focus EBS (Monica Avădănei), Tonomatul de seară (Iuliana Dabija), Night Music. Tagline: "With You Sounds Better" / "Cluj Sounds Better." Nouvelle Vague stream at 128k MP3.'
   sources: https://ebsradio.ro/
+curation: 0.2
+provenance:
+  - radiobrowser-f57edd32-f6b9-4489-b84f-29d30d4dcb52
+streams:
+  - url: https://azura.ebsmedia.ro/listen/nouvelle/nouvelle128.mp3?refresh=1779029033496
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.ebsmedia.ro/listen/nouvelle/nouvelle128.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 08:29:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-99439cbd-f35a-425a-81db-cd4863f03be3
-streams:
-  - url: 'http://79.111.14.76:8004/industrial'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.14.76:8000/industrial'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.14.76:8002/industrial'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +31,19 @@ research:
   format: Industrial music, experimental electronic, and avant-garde
   notes: Radio Caprice is a Russian online radio platform specializing in thematic music genres; Industrial Music [3] is one of many curated specialty streams.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-99439cbd-f35a-425a-81db-cd4863f03be3
+  - iprd-ru-radio-caprice-industrial-music-7dd7aa12
+  - iprd-ru-radio-caprice-industrial-music-ab7b06c5
+  - iprd-ru-radio-caprice-industrial-music-69fe7b04
+streams:
+  - url: http://79.111.14.76:8004/industrial
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.14.76:8000/industrial
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.14.76:8002/industrial
+    codec: AAC+
+    bitrate: 48

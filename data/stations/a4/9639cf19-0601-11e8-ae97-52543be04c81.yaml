@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 06:59:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9639cf19-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming01.sr-online.de/antennesaar_2.m3u'
-    url_resolved: 'http://liveradio.sr.de/sr/as/mp3/128/stream.mp3?aggregator=custom1'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://sr.audiostream.io/sr/1013/mp3/56/as'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,16 @@ research:
   format: News, talk, classical and contemporary music; general programming
   notes: Antenne Saar serves Saarland state in southwestern Germany; publicly funded regional broadcaster; multiple bitrate options available
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9639cf19-0601-11e8-ae97-52543be04c81
+  - iprd-de-antenne-saar-0e515c38
+  - iprd-de-antenne-saar-c15f6a45
+streams:
+  - url: http://streaming01.sr-online.de/antennesaar_2.m3u
+    url_resolved: http://liveradio.sr.de/sr/as/mp3/128/stream.mp3?aggregator=custom1
+    codec: MP3
+    bitrate: 128
+  - url: http://sr.audiostream.io/sr/1013/mp3/56/as
+    codec: MP3
+    bitrate: 64

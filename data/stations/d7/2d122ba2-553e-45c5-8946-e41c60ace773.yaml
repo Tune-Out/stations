@@ -24,16 +24,6 @@ lastchangetime: 2026-02-01 14:39:59
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2d122ba2-553e-45c5-8946-e41c60ace773
-streams:
-  - url: 'http://21633.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac?/;stream.mp3'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Turkish rock, classic rock, pop rock; Turkish rock (Turkish rock adaptations and domestic artists) combined with international rock hits
   notes: JoyTürk Rock is a commercial Turkish radio station focusing on rock genre; part of Karnaval media group's portfolio; offers Turkish rock music alongside classic rock selections; serves Turkish audience interested in rock music across all subgenres; streaming available nationally and internationally.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2d122ba2-553e-45c5-8946-e41c60ace773
+streams:
+  - url: http://21633.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac?/;stream.mp3
+    codec: AAC+
+    bitrate: 128
+  - url: http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac
+    codec: AAC+
+    bitrate: 128

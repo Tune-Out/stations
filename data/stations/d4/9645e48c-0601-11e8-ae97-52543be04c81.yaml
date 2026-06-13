@@ -22,40 +22,6 @@ lastchangetime: 2026-01-15 05:53:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9645e48c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://tuner.m1.fm/rock.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tuner.m1.fm/clubmix.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tuner.m1.fm/chillout.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tuner.m1.fm/80er.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tuner.m1.fm/hits.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tuner.m1.fm/schlagerparty.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tuner.m1.fm/oldies.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tuner.m1.fm/90er.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://tuner.m1.fm/kuschelschlager.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tuner.m1.fm/softpop.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -65,3 +31,46 @@ research:
   format: Rock music programming; rock station channel with classic rock and contemporary rock hits
   notes: M1.FM is an online radio platform hosting multiple themed music channels; "Rock" channel focuses on rock genre music; accessible globally via internet streaming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9645e48c-0601-11e8-ae97-52543be04c81
+  - iprd-de-80er-9cbe068f
+  - iprd-de-m1-fm-90er-ed344733
+  - iprd-de-m1-fm-chillout-c68a657b
+  - iprd-de-m1-fm-clubmix-cfc68840
+  - iprd-de-m1-fm-hits-e346149f
+  - iprd-de-m1-fm-oldies-6db3c78e
+  - iprd-de-m1-fm-rock-2551f16e
+  - iprd-de-m1-fm-schlagerparty-378606bf
+  - iprd-de-m1-fm-softpop-cd65a993
+streams:
+  - url: http://tuner.m1.fm/rock.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tuner.m1.fm/clubmix.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tuner.m1.fm/chillout.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tuner.m1.fm/80er.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tuner.m1.fm/hits.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tuner.m1.fm/schlagerparty.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tuner.m1.fm/oldies.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tuner.m1.fm/90er.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://tuner.m1.fm/kuschelschlager.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tuner.m1.fm/softpop.mp3
+    codec: MP3
+    bitrate: 128

@@ -24,17 +24,6 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-960d4bdc-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.181.fm/stream/pls/181-kickincountry.pls'
-    url_resolved: 'http://listen.181fm.com/181-kickincountry_128k.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://listen.livestreamingservice.com/181-kickincountry_128k.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +33,14 @@ research:
   format: Continuous mainstream and contemporary country music with pop/rock crossovers
   notes: 181.FM is a free internet radio network founded in the early 2000s and operated from Waynesboro, Virginia, offering over 90 themed channels; "Kickin' Country" is one of its country-format channels playing modern country hits; the network is ad-supported with optional premium ad-free streaming.
   sources: http://www.181.fm/, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-960d4bdc-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://www.181.fm/stream/pls/181-kickincountry.pls
+    url_resolved: http://listen.181fm.com/181-kickincountry_128k.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://listen.livestreamingservice.com/181-kickincountry_128k.mp3
+    codec: MP3
+    bitrate: 128

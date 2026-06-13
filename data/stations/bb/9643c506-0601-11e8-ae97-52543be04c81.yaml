@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 16
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-9643c506-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/technoug/aac-64/audio/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-technounderground-aacplus-64-7295680?sABC=69689prn%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768463594'
-    codec: AAC
-  - url: 'http://streams.fluxfm.de/technoug/mp3-128/audio/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=69687sp6%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768456134'
-    codec: MP3
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/techno-underground/stream.mp3?quality=1'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,17 @@ research:
   format: 24/7 underground techno substream of FluxFM dedicated to club, minimal and underground techno tracks
   notes: FluxFM is a privately licensed Berlin-based broadcaster that grew out of the former MotorFM (founded 2005) and rebranded to FluxFM in 2009; it holds a full radio license in Berlin (97.7 FM) plus regional FM in Stuttgart and Bremen, and operates over 30 thematic web-only sub-streams under the FluxMusic app umbrella - the "Techno Underground" channel is one of these, alongside "Sound of Berlin," "Berlin Beach House," and many genre-specific streams; the network positions itself with the slogan "next level radio" and describes itself as a "Flux Community"; programming spans electronic, indie, hip-hop, jazz, metal, ambient and retro formats reflecting Berlin's diverse music culture; the station is closely tied to the Berlin club / electronic music scene and often partners with festivals and labels.
   sources: https://www.fluxfm.de/
+curation: 0.55
+provenance:
+  - radiobrowser-9643c506-0601-11e8-ae97-52543be04c81
+  - iprd-de-fluxfm-techno-underground-604ebe25
+  - iprd-de-fluxfm-techno-underground-6ad61ccc
+streams:
+  - url: http://streams.fluxfm.de/technoug/aac-64/audio/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-technounderground-aacplus-64-7295680?sABC=69689prn%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768463594
+    codec: AAC
+  - url: http://streams.fluxfm.de/technoug/mp3-128/audio/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=69687sp6%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768456134
+    codec: MP3
+  - url: https://fluxmusic.api.radiosphere.io/channels/techno-underground/stream.mp3?quality=1
+    codec: MP3

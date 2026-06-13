@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 07:38:18
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9630bad0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://onair15.xdevel.com:8062/listen.pls'
-    url_resolved: 'http://onair15.xdevel.com:8062/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://onair15.xdevel.com:8062/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +34,15 @@ research:
   format: Mixed format including news, pop, sports talk, and entertainment
   notes: Local Italian radio station serving Cesinali area in Campania region. Programming includes news updates, pop music, sports coverage, and talk shows. MP3 128kbps stream.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9630bad0-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-punto-nuovo-8129adf5
+streams:
+  - url: http://onair15.xdevel.com:8062/listen.pls
+    url_resolved: http://onair15.xdevel.com:8062/
+    codec: MP3
+    bitrate: 128
+  - url: http://onair15.xdevel.com:8062/
+    codec: MP3
+    bitrate: 128

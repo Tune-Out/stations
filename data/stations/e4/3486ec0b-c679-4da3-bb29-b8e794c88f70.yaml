@@ -21,16 +21,6 @@ lastchangetime: 2026-05-17 14:34:26
 clickcount: 0
 geo_lat: 46.76953781017045
 geo_long: 23.589805662631992
-curation: 0.25
-provenance:
-  - radiobrowser-3486ec0b-c679-4da3-bb29-b8e794c88f70
-streams:
-  - url: 'https://azura.ebsmedia.ro/listen/jazz/jazz128.mp3?refresh=1779028391978'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.ebsmedia.ro/listen/jazz/jazz128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Jazz music and entertainment streaming (dedicated jazz channel).
   notes: 'Part of EBS Radio network with multiple genre streams. Mission: "Suntem aici pentru voi, cu informații corecte din județe și din țară" (We are here for you, with accurate information from counties and country). Operates multiple stream variants including jazz-specific channel at 128 kbps MP3. Available on iOS App Store (ID: 1436570466) and Android.'
   sources: https://ebsradio.ro/
+curation: 0.25
+provenance:
+  - radiobrowser-3486ec0b-c679-4da3-bb29-b8e794c88f70
+streams:
+  - url: https://azura.ebsmedia.ro/listen/jazz/jazz128.mp3?refresh=1779028391978
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.ebsmedia.ro/listen/jazz/jazz128.mp3
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:49:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-afb42642-71b9-11ea-b1cf-52543be04c81
-streams:
-  - url: 'https://jfm1.hostingradio.ru:14536/prog.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://jfm1.hostingradio.ru:14536/prog.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Progressive rock and classic rock programming
   notes: Russian commercial radio station specializing in progressive rock music; serves educated, music-focused audience in Russia
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-afb42642-71b9-11ea-b1cf-52543be04c81
+  - iprd-ru-rock-fm-progressive-0cc46cf8
+streams:
+  - url: https://jfm1.hostingradio.ru:14536/prog.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://jfm1.hostingradio.ru:14536/prog.mp3
+    codec: MP3
+    bitrate: 128

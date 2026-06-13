@@ -1,7 +1,7 @@
 stationuuid: 3f006a1e-172c-4e3e-a6f7-cb9ab9df21ca
 name: UFM 1003 (MP3)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC
+url: 'https://22283.live.streamtheworld.com:443/UFM_1003_SC'
+url_resolved: 'https://22283.live.streamtheworld.com:443/UFM_1003_SC'
 homepage: https://www.ufm1003.sg/
 favicon: https://www.ufm1003.sg/wp-content/assets/5/img/NAV_01_Logo_1003.svg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-04-12 12:17:46
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3f006a1e-172c-4e3e-a6f7-cb9ab9df21ca
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Commercial radio; contemporary music, entertainment, talk shows in Mandarin Chinese
   notes: Singapore commercial FM radio station at 1003 frequency, broadcasting in Mandarin Chinese to local audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3f006a1e-172c-4e3e-a6f7-cb9ab9df21ca

@@ -1,7 +1,7 @@
 stationuuid: 630b2e4c-e765-4b97-85e6-3714d6291e9c
 name: AM 1100 The Flag
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WZFGAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WZFGAMAAC.aac
+url: 'https://18193.live.streamtheworld.com:443/WZFGAMAAC.aac'
+url_resolved: 'https://18193.live.streamtheworld.com:443/WZFGAMAAC.aac'
 homepage: https://www.am1100theflag.com/
 favicon: https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2327/2024/05/01125135/cropped-WZFG-Mobile-App-Icon-2024-180x180.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-630b2e4c-e765-4b97-85e6-3714d6291e9c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News, talk radio, and iHeartRadio programming.
   notes: 1100 AM; part of iHeartMedia network; Minnesota-based news and talk station; "The Flag" branding suggests patriotic/news-focused content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-630b2e4c-e765-4b97-85e6-3714d6291e9c

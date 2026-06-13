@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 08:27:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-963976a9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.1a-webradio.de/saw-70er/mp3-128/radio-browser-1A/stream.mp3'
-    codec: AAC
-  - url: 'http://stream.1a-webradio.de/saw-70er/aac-48/radiosure-1a/stream.mp3'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: 1970s hits and music channel specializing in popular hits from the 1970s era.
   notes: 1A Webradio is a German commercial internet radio platform offering specialized genre channels. The 70er Hits channel focuses on popular and rock hits from the 1970s decade.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-963976a9-0601-11e8-ae97-52543be04c81
+  - iprd-de-1a-70er-hits-0c958ba2
+  - iprd-de-1a-70er-hits-5ee3dcb2
+streams:
+  - url: http://stream.1a-webradio.de/saw-70er/mp3-128/radio-browser-1A/stream.mp3
+    codec: AAC
+  - url: http://stream.1a-webradio.de/saw-70er/aac-48/radiosure-1a/stream.mp3
+    codec: AAC

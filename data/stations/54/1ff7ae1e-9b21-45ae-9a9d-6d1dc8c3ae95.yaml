@@ -19,16 +19,6 @@ lastchangetime: 2026-02-16 13:44:27
 clickcount: 0
 geo_lat: 39.64076365238007
 geo_long: 22.421054894256827
-curation: -0.05
-provenance:
-  - radiobrowser-1ff7ae1e-9b21-45ae-9a9d-6d1dc8c3ae95
-streams:
-  - url: 'https://sh.onweb.gr:8905/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://sh.onweb.gr:8905/stream?type=http&nocache=13'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Rock music; contemporary and classic rock programming
   notes: 90.5 FM broadcasting from Larisa in central Greece; 192 kbps MP3 quality; limited public information available
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1ff7ae1e-9b21-45ae-9a9d-6d1dc8c3ae95
+streams:
+  - url: https://sh.onweb.gr:8905/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://sh.onweb.gr:8905/stream?type=http&nocache=13
+    codec: MP3
+    bitrate: 192

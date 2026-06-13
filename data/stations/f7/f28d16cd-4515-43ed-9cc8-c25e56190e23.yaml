@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 06:14:42
 clickcount: 29
 geo_lat: 37.977113045155235
 geo_long: 23.733215332031257
-curation: 0.00
-provenance:
-  - radiobrowser-f28d16cd-4515-43ed-9cc8-c25e56190e23
-streams:
-  - url: 'https://netradio.live24.gr/pepper9660?1702833223'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.radiojar.com/pepper'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: easy listening, smooth music, contemporary hits
   notes: "\"Ένα ραδιόφωνο που αφουγκράζεται τον παλμό της πόλης\" (A radio that listens to the city's pulse); Athens-focused contemporary music and easy listening station on FM 96.6"
   sources: https://www.pepper966.gr/
+curation: 0
+provenance:
+  - radiobrowser-f28d16cd-4515-43ed-9cc8-c25e56190e23
+streams:
+  - url: https://netradio.live24.gr/pepper9660?1702833223
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.radiojar.com/pepper
+    codec: MP3

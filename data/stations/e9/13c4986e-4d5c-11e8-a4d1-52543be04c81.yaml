@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:28:26
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-13c4986e-4d5c-11e8-a4d1-52543be04c81
-streams:
-  - url: 'http://ice6.securenetsystems.net/WMNAFM?playSessionID=1CF94D0D-9121-0C06-54D5B51920EC063D'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice6.securenetsystems.net/WMNAFM'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: News and talk radio format
   notes: Commercial news/talk radio station serving Lynchburg, Virginia on 100.9 FM. Provides local news, commentary, and talk programming for central Virginia community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-13c4986e-4d5c-11e8-a4d1-52543be04c81
+  - iprd-us-wiqo-100-9-cea70140
+  - iprd-us-wmna-106-3-b9d13add
+streams:
+  - url: http://ice6.securenetsystems.net/WMNAFM?playSessionID=1CF94D0D-9121-0C06-54D5B51920EC063D
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice6.securenetsystems.net/WMNAFM
+    codec: AAC+
+    bitrate: 32

@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 01:20:44
 clickcount: 6
 geo_lat: 42.666689
 geo_long: 23.296918
-curation: -0.05
-provenance:
-  - radiobrowser-f3aa68b4-93b9-4b50-85dd-1e7324e757bc
-streams:
-  - url: 'http://play.global.audio/energy-90s.ogg'
-    codec: OGG
-  - url: 'http://play.global.audio/energy-90s.aac'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://play.global.audio/energy-90s'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +33,15 @@ research:
   format: Hit music specialization; multiple themed channels including Energy 90s Only, Energy 00s Only; eurodance and pop focus
   notes: Major Bulgarian commercial radio network; "Hit music only!" positioning; multi-platform with apps for iOS, Android, Windows, Huawei; web streaming with multiple audio formats (AAC, MP3, OGG, Opus) at various bitrates; hosts music festivals including SPICE Music Festival.
   sources: https://radioenergy.bg/
+curation: -0.05
+provenance:
+  - radiobrowser-f3aa68b4-93b9-4b50-85dd-1e7324e757bc
+streams:
+  - url: http://play.global.audio/energy-90s.ogg
+    codec: OGG
+  - url: http://play.global.audio/energy-90s.aac
+    codec: AAC
+    bitrate: 48
+  - url: http://play.global.audio/energy-90s
+    codec: MP3
+    bitrate: 128

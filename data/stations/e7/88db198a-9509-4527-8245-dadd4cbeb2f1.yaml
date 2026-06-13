@@ -1,7 +1,7 @@
 stationuuid: 88db198a-9509-4527-8245-dadd4cbeb2f1
 name: Globo 98.7 (Guadalajara) - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, Jalisco
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFMAAC.aac
+url: 'https://18193.live.streamtheworld.com:443/XHLCFMAAC.aac'
+url_resolved: 'https://18193.live.streamtheworld.com:443/XHLCFMAAC.aac'
 homepage: https://fmglobo.com/plaza/guadalajara/
 favicon: https://cdn-profiles.tunein.com/s306609/images/logod.png
 tags:
@@ -27,9 +27,6 @@ lastchangetime: 2026-01-15 03:16:53
 clickcount: 0
 geo_lat: 20.67274336730612
 geo_long: -103.3381748199463
-curation: -0.10
-provenance:
-  - radiobrowser-88db198a-9509-4527-8245-dadd4cbeb2f1
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +36,6 @@ research:
   format: Adult contemporary hits, pop music in Spanish and English, entertainment, news updates.
   notes: Globo 98.7 FM (XHLC-FM) is a commercial hits station in Guadalajara, Jalisco. Operated by MVS Radio, part of Mexico's Televisa media group. Adult contemporary and Spanish hits format with bilingual music content.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-88db198a-9509-4527-8245-dadd4cbeb2f1

@@ -21,15 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-72b26174-ff26-49cf-badb-7876b211f3a9
-streams:
-  - url: 'https://maksfm.hostingradio.ru/maksfm320.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://maksfm.hostingradio.ru/maksfm320.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +30,12 @@ research:
   format: Contemporary pop music with talk shows; news and entertainment
   notes: Operating since 2007; FM 107.4 (Sochi), 107.1 (Lazarevskoe), 105.1 (Krasnaya Polyana); "the only real city radio station in Sochi"; motto "Be on the same wavelength with Sochi"; 8-time Golden Microphone award winner
   sources: http://maks-fm.ru/
+curation: -0.05
+provenance:
+  - radiobrowser-72b26174-ff26-49cf-badb-7876b211f3a9
+streams:
+  - url: https://maksfm.hostingradio.ru/maksfm320.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://maksfm.hostingradio.ru/maksfm320.mp3
+    codec: MP3

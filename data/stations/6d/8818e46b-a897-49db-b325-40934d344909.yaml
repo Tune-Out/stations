@@ -28,16 +28,6 @@ lastchangetime: 2026-01-15 00:33:22
 clickcount: 14
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-8818e46b-a897-49db-b325-40934d344909
-streams:
-  - url: 'http://stream.laut.fm/80sexitos'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/80sexitos'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -47,3 +37,13 @@ research:
   format: Spanish-language and international disco, pop, romantica, dance, and reggae hits from the 70s-90s
   notes: Self-described as "una estacion de Radio Online Dedicada a emitir los mejores Hits de los anos dorados de la musica de los 70s, 80s, 90s en todas sus variantes"; features podcast programs including Cocodril Club, Frecuencia 80, and MusicRocks; community-supported via voluntary contributions; broadcasts via Laut.fm with GEMA/GVL rights clearance.
   sources: https://musica80.radioclub.es/
+curation: 0.4
+provenance:
+  - radiobrowser-8818e46b-a897-49db-b325-40934d344909
+streams:
+  - url: http://stream.laut.fm/80sexitos
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/80sexitos
+    codec: MP3
+    bitrate: 128

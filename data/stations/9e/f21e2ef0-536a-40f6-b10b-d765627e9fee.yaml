@@ -1,7 +1,7 @@
 stationuuid: f21e2ef0-536a-40f6-b10b-d765627e9fee
 name: iHeartDance Australia (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7.mp3
+url: 'http://23163.live.streamtheworld.com:80/ARN_IHRT7.mp3'
+url_resolved: 'http://23163.live.streamtheworld.com:80/ARN_IHRT7.mp3'
 homepage: https://www.iheart.com/live/iheartdance-6941/
 favicon: https://i.ibb.co/hXM4wC3/652741b2f702ccd6ae1831d1.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:54:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f21e2ef0-536a-40f6-b10b-d765627e9fee
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Dance music, electronic dance music
   notes: Digital music streaming service through iHeartRadio Australia. Part of Cumulus Media's iHeartRadio platform. Specializes in contemporary dance and electronic dance music tracks.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f21e2ef0-536a-40f6-b10b-d765627e9fee

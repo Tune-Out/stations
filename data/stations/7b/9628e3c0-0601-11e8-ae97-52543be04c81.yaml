@@ -1,6 +1,6 @@
 stationuuid: 9628e3c0-0601-11e8-ae97-52543be04c81
 name: Cadena Ser Mallorca
-url: http://provisioning.streamtheworld.com/pls/SER_MALLORCA.pls
+url: 'http://25443.live.streamtheworld.com:80/SER_MALLORCA_SC'
 url_resolved: http://25483.live.streamtheworld.com/SER_MALLORCA_SC
 homepage: http://cadenaser.com/
 favicon: http://cadenaser.com/pf/resources/img/favicon.png?d=946
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 02:15:14
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9628e3c0-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: News, talk, current affairs, entertainment; part of Spain's largest radio network
   notes: Cadena SER is Spain's largest private radio network, part of Prisa Media Group. Mallorca station serves the Balearic Islands with general interest programming. SER is known for quality journalism and has long history in Spanish broadcasting since the 1950s.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9628e3c0-0601-11e8-ae97-52543be04c81

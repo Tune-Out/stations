@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 01:16:54
 clickcount: 0
 geo_lat: 21.120274600944903
 geo_long: -101.67262678000527
-curation: -0.05
-provenance:
-  - radiobrowser-a159a945-4aa9-4ed9-b6e0-610a6454e450
-streams:
-  - url: 'https://ss1.audiorama.com.mx:6634/'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://ss1.audiorama.com.mx:6634/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Latin pop, pop music, pop rock, reggaeton, urbana; entertainment-focused
   notes: Commercial radio station at 93.1 FM (XHERZ-FM) in León, Guanajuato. Part of Grupo Audiorama Comunicaciones network. LOS40 is a branded format across multiple Audiorama stations playing contemporary pop and Latin music targeting youth demographics. Positioned as "Radiópolis" entertainment brand.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a159a945-4aa9-4ed9-b6e0-610a6454e450
+  - iprd-mx-los40-93-1-xherz-ce2dc822
+streams:
+  - url: https://ss1.audiorama.com.mx:6634/
+    codec: MP3
+    bitrate: 96
+  - url: https://ss1.audiorama.com.mx:6634/stream
+    codec: MP3
+    bitrate: 96

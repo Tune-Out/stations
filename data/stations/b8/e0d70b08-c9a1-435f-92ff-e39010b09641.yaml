@@ -24,15 +24,6 @@ lastchangetime: 2026-01-20 07:49:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-e0d70b08-c9a1-435f-92ff-e39010b09641
-streams:
-  - url: 'https://lhttp.qingting.fm/live/4595/64k.mp3'
-    codec: MP3
-  - url: 'http://ls.qingting.fm/live/4595.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +33,14 @@ research:
   format: Traditional Teochew opera (潮州戏曲) and folk music broadcasting
   notes: Municipal public radio channel operated by Chaozhou Broadcasting and Television. Focuses on traditional Teochew opera (潮州戏曲), which is regional heritage performing art. Broadcasts in Chaoshan/Teochew dialect and Mandarin Chinese to preserve local cultural traditions in Guangdong's Chaoshan region. Low bitrate stream (64 kbps) reflects specialty content nature.
   sources: internal knowledge of Chinese provincial media
+curation: 0.55
+provenance:
+  - radiobrowser-e0d70b08-c9a1-435f-92ff-e39010b09641
+  - iprd-cn-chaochow-opera-radio-dabdeb98
+  - iprd-cn-chaozhou-opera-broadcasting-103-1-9cba744a
+streams:
+  - url: https://lhttp.qingting.fm/live/4595/64k.mp3
+    codec: MP3
+  - url: http://ls.qingting.fm/live/4595.m3u8
+    codec: UNKNOWN
+    hls: true

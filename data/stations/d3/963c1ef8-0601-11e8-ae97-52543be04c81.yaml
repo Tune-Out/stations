@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 08:27:56
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-963c1ef8-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://stream.klassikradio.de/friendshome/aac-64/stream.klassikradio.de?aggregator=hoererdirekt'
-    codec: AAC
-  - url: 'http://stream.klassikradio.de/friendshome/mp3-128/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +33,12 @@ research:
   format: Friends@Home — jazz, lounge, pop with classical elements; part of broader Klassik Radio network offering classical, film scores, wellness content; "Musik zum Wohlfühlen und Entspannen" (Music for well-being and relaxation)
   notes: "Hamburg-based commercial broadcaster on DAB+ and formerly FM. Part of Klassik Radio network with multiple channels. Notable shows: Klassik Radio with Klara Jäger (mornings), Alexandra Berger (afternoons), Rolando Villazón Furioso (evenings). Operates Klassik Radio Plus subscription service, live concerts, and lifestyle content (health, travel, literature). Emphasis on classical music's wellness and emotional benefits."
   sources: http://www.klassikradio.de/
+curation: 0.25
+provenance:
+  - radiobrowser-963c1ef8-0601-11e8-ae97-52543be04c81
+  - iprd-de-klassik-radio-friends-home-a082f5c4
+streams:
+  - url: https://stream.klassikradio.de/friendshome/aac-64/stream.klassikradio.de?aggregator=hoererdirekt
+    codec: AAC
+  - url: http://stream.klassikradio.de/friendshome/mp3-128/
+    codec: MP3

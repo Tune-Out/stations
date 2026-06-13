@@ -23,32 +23,6 @@ lastchangetime: 2026-01-15 02:30:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b8d7f653-4582-41b7-a896-ba9a8cd6fda8
-streams:
-  - url: 'https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=winamp'
-    codec: UNKNOWN
-  - url: 'http://cdn.voscast.com/resources/?key=249f148a69ad7268c63c10098840e4d6&c=wmp'
-    codec: UNKNOWN
-  - url: 'http://cdn.voscast.com/resources/?key=d8adb6a62c17441aa66982bad82a52d3&c=winamp'
-    codec: UNKNOWN
-  - url: 'https://cdn.voscast.com/resources/?key=07310b2448cdea5d13faff91268e178d&c=winamp'
-    codec: UNKNOWN
-  - url: 'https://cdn.voscast.com/resources/?key=7f05884578e2407bfe73920047ac921a&c=wmp'
-    codec: UNKNOWN
-  - url: 'https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp'
-    codec: UNKNOWN
-  - url: 'https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=wmp'
-    codec: UNKNOWN
-  - url: 'http://cdn.voscast.com/resources/?key=8db736edbd338204f5e81908aa843113&c=wmp'
-    codec: UNKNOWN
-  - url: 'https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=realplayer'
-    codec: UNKNOWN
-  - url: 'http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp'
-    codec: UNKNOWN
-  - url: 'https://cdn.voscast.com/resources/?key=5d34553745888466d26fc1cc83166d78&c=wmp'
-    codec: UNKNOWN
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -58,3 +32,31 @@ research:
   format: Talk radio featuring conspiracy theory discussion, political commentary, and fringe content.
   notes: Founded by and associated with Jeff Rense; internet radio archive; known for platforming conspiracy theories and alternative viewpoints; operates outside mainstream media.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b8d7f653-4582-41b7-a896-ba9a8cd6fda8
+  - iprd-ca-dream-102-9-d87cb8ff
+  - iprd-mt-one-radio-92-7-40dcf2c0
+streams:
+  - url: https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=winamp
+    codec: UNKNOWN
+  - url: http://cdn.voscast.com/resources/?key=249f148a69ad7268c63c10098840e4d6&c=wmp
+    codec: UNKNOWN
+  - url: http://cdn.voscast.com/resources/?key=d8adb6a62c17441aa66982bad82a52d3&c=winamp
+    codec: UNKNOWN
+  - url: https://cdn.voscast.com/resources/?key=07310b2448cdea5d13faff91268e178d&c=winamp
+    codec: UNKNOWN
+  - url: https://cdn.voscast.com/resources/?key=7f05884578e2407bfe73920047ac921a&c=wmp
+    codec: UNKNOWN
+  - url: https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp
+    codec: UNKNOWN
+  - url: https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=wmp
+    codec: UNKNOWN
+  - url: http://cdn.voscast.com/resources/?key=8db736edbd338204f5e81908aa843113&c=wmp
+    codec: UNKNOWN
+  - url: https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=realplayer
+    codec: UNKNOWN
+  - url: http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp
+    codec: UNKNOWN
+  - url: https://cdn.voscast.com/resources/?key=5d34553745888466d26fc1cc83166d78&c=wmp
+    codec: UNKNOWN

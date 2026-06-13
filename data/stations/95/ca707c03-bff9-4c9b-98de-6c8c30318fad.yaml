@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ca707c03-bff9-4c9b-98de-6c8c30318fad
-streams:
-  - url: 'http://stream.erf.at:8000/nowradio_320'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://stream.erf.at:8000/nowradio_192'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.erf.at:8000/nowradio_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.erf.at:8000/nowradio_96'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -47,3 +31,19 @@ research:
   format: Christian worship, teaching, and gospel music
   notes: Now Radio 320k is a Christian internet radio station based in Austria, operated by ERF (Evangeliumsrundfunk), a non-profit evangelical Christian radio organization. High-bitrate streaming (320 kbps). German language programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ca707c03-bff9-4c9b-98de-6c8c30318fad
+streams:
+  - url: http://stream.erf.at:8000/nowradio_320
+    codec: MP3
+    bitrate: 320
+  - url: http://stream.erf.at:8000/nowradio_192
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.erf.at:8000/nowradio_128
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.erf.at:8000/nowradio_96
+    codec: MP3
+    bitrate: 96

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:06:00
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-d1f966b9-9ace-11e9-a787-52543be04c81
-streams:
-  - url: 'http://193.47.151.4:8060/1'
-    codec: AAC
-    bitrate: 96
-  - url: 'http://193.47.151.4:8045/1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,15 @@ research:
   format: Diverse general programming via DAB+ digital radio
   notes: Radio Opole 2 is part of Polskie Radio (Polish Radio), the national public broadcaster. DAB+ channel serving Opole region. Public service remit. Mixed programming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-d1f966b9-9ace-11e9-a787-52543be04c81
+  - iprd-pl-radio-opole-2-604ded28
+  - iprd-pl-radio-opole-2-ac1d246c
+streams:
+  - url: http://193.47.151.4:8060/1
+    codec: AAC
+    bitrate: 96
+  - url: http://193.47.151.4:8045/1
+    codec: MP3
+    bitrate: 128

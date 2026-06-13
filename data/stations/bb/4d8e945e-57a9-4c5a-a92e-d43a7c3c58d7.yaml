@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-4d8e945e-57a9-4c5a-a92e-d43a7c3c58d7
-duplicate_of: 40532b34-f6a4-4009-b023-4110b8e7393f
-streams:
-  - url: 'http://s5.radio.co/sca4082ebb/listen'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s5.radio.co/sca4082ebb/listen'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +29,14 @@ research:
   format: News, current affairs, culture, and commentary from an independent perspective.
   notes: Kontrafunk is an independent German radio station and online platform broadcasting alternative news and current affairs programming. It operates as a non-profit collective providing perspectives outside mainstream media narrative, with a focus on political commentary and independent journalism.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-4d8e945e-57a9-4c5a-a92e-d43a7c3c58d7
+duplicate_of: 40532b34-f6a4-4009-b023-4110b8e7393f
+streams:
+  - url: http://s5.radio.co/sca4082ebb/listen
+    codec: MP3
+    bitrate: 128
+  - url: https://s5.radio.co/sca4082ebb/listen
+    codec: MP3
+    bitrate: 128

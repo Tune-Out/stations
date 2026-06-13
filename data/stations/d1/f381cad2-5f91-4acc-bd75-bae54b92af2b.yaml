@@ -1,7 +1,7 @@
 stationuuid: f381cad2-5f91-4acc-bd75-bae54b92af2b
 name: Michigan Public (WUOM)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM.mp3
+url: 'https://18183.live.streamtheworld.com:443/WUOMFM.mp3'
+url_resolved: 'https://18183.live.streamtheworld.com:443/WUOMFM.mp3'
 homepage: https://www.michiganpublic.org/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-02-21 00:45:28
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-f381cad2-5f91-4acc-bd75-bae54b92af2b
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -31,3 +28,6 @@ research:
   format: news, talk, music, and educational programming
   notes: Michigan Public (WUOM) is a public radio station affiliated with NPR operating from the University of Michigan. Non-commercial public broadcaster providing news, current affairs, music, and educational content to Michigan and national audiences.
   sources: michiganpublic.org, internal knowledge of NPR and public radio
+curation: 0.65
+provenance:
+  - radiobrowser-f381cad2-5f91-4acc-bd75-bae54b92af2b

@@ -1,7 +1,7 @@
 stationuuid: ab780309-bfd8-4280-8e49-37b4e172e73e
 name: KIIS 97.3 - Brisbane - 97.3 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM.mp3
+url: 'http://23093.live.streamtheworld.com:80/ARN_973FM.mp3'
+url_resolved: 'http://23093.live.streamtheworld.com:80/ARN_973FM.mp3'
 homepage: https://www.973fm.com.au/
 favicon: https://kiis973.com.au/wp-content/themes/arn/assets/favicons/favicon_973/apple-touch-icon.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:05:55
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ab780309-bfd8-4280-8e49-37b4e172e73e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary hits radio (CHR); hot adult contemporary with entertainment, music, and talk shows
   notes: 'Commercial FM 97.3 serving Brisbane, Queensland. Features programs Robin, Kip & Corey Oates; Smallzy Show; Will & Woody; True Crime Tonight. Distributed via iHeart app and traditional FM. Statement: "We are an inclusive workplace embracing diversity in all its forms."'
   sources: https://kiis973.com.au/
+curation: -0.05
+provenance:
+  - radiobrowser-ab780309-bfd8-4280-8e49-37b4e172e73e

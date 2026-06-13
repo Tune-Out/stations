@@ -25,16 +25,6 @@ lastchangetime: 2026-03-27 05:13:53
 clickcount: 1
 geo_lat: 19.541958161863032
 geo_long: -96.91529273986818
-curation: -0.05
-provenance:
-  - radiobrowser-392182c8-e000-4392-89ed-b3e174791919
-streams:
-  - url: 'http://sss.cnwks.ws:8322/stream?type=http&nocache=11558'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://sss.cnwks.ws:8322/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Pop music (Spanish and English), pop rock, contemporary music; youth-oriented programming
   notes: XHTP-FM 95.5 commercial station in Xalapa, Veracruz. Part of Oliva Radio network. Emphasizes contemporary pop and pop-rock in both Spanish and English, targeting younger audiences with "sensación" (sensation) branding.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-392182c8-e000-4392-89ed-b3e174791919
+streams:
+  - url: http://sss.cnwks.ws:8322/stream?type=http&nocache=11558
+    codec: MP3
+    bitrate: 96
+  - url: http://sss.cnwks.ws:8322/stream
+    codec: MP3
+    bitrate: 96

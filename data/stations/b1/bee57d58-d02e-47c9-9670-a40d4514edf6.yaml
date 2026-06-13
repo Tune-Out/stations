@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bee57d58-d02e-47c9-9670-a40d4514edf6
-streams:
-  - url: 'https://zas4.ndx.co.za:9066/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://zas4.ndx.co.za:9066/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Community radio programming
   notes: South African community radio station operating on 90.3 FM; appears to be associated with Knysna area.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bee57d58-d02e-47c9-9670-a40d4514edf6
+streams:
+  - url: https://zas4.ndx.co.za:9066/stream
+    codec: MP3
+    bitrate: 96
+  - url: http://zas4.ndx.co.za:9066/stream
+    codec: MP3
+    bitrate: 96

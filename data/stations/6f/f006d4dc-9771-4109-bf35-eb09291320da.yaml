@@ -1,7 +1,7 @@
 stationuuid: f006d4dc-9771-4109-bf35-eb09291320da
 name: Mitre AM 790. AAC Alta. Ciudad de Buenos Aires
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac
+url: 'https://24283.live.streamtheworld.com:443/AM790_56AAC.aac'
+url_resolved: 'https://24283.live.streamtheworld.com:443/AM790_56AAC.aac'
 homepage: https://radiomitre.cienradios.com/
 favicon: https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f006d4dc-9771-4109-bf35-eb09291320da
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: News, talk, sports, and entertainment — flagship news/talk AM station
   notes: LR6 Radio Mitre, broadcasting on 790 kHz AM since September 5, 1925, is one of Argentina's oldest and most historic radio stations; owned by Grupo Clarin (Argentina's largest media conglomerate) and operated through subsidiary Radio Mitre S.A. as part of the Cienradios digital platform; flagship programs have included "Lanata sin Filtro" (Jorge Lanata) and "Cada Mañana" with Marcelo Longobardi; consistently among the highest-rated AM stations in Argentina; widely regarded as editorially aligned with Clarin's political stance, often critical of Kirchnerist/Peronist governments; broadcasts a relay network across multiple Argentine provinces.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f006d4dc-9771-4109-bf35-eb09291320da

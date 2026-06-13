@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-390d0a80-9838-40a0-b385-4458728d175c
-streams:
-  - url: 'https://ais-edge37-live365-dal02.cdnstream.com/a73754'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming.live365.com/a73754'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Specialty station featuring southern rock music exclusively
   notes: Online radio station concentrating on southern rock genre, accessible via internet streaming. Community of southern rock enthusiasts.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-390d0a80-9838-40a0-b385-4458728d175c
+  - iprd-us-music-city-roadhouse-205ea879
+streams:
+  - url: https://ais-edge37-live365-dal02.cdnstream.com/a73754
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming.live365.com/a73754
+    codec: MP3
+    bitrate: 128

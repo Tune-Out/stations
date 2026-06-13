@@ -1,6 +1,6 @@
 stationuuid: 961f25ca-0601-11e8-ae97-52543be04c81
 name: WRAS 88.5 "Album 88" Atlanta, GA
-url: http://playerservices.streamtheworld.com/pls/WRASFM.pls
+url: 'http://26423.live.streamtheworld.com:80/WRASFM_SC'
 url_resolved: http://26423.live.streamtheworld.com/WRASFM_SC
 homepage: http://wras.org/
 favicon: https://images.squarespace-cdn.com/content/v1/67cdece3698e563f853ba8a9/6341bb93-8ea1-49a7-9fe6-cc95f14de2a3/favicon.ico?format=100w
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:07:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961f25ca-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -34,3 +31,7 @@ research:
   format: Diverse eclectic music programming with volunteer DJs
   notes: Student-run college radio station; homepage unavailable for detailed research
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-961f25ca-0601-11e8-ae97-52543be04c81
+  - iprd-us-wras-88-5-album-88-51c72bd0

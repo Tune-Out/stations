@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:24:51
 clickcount: 16
 geo_lat: 48.852627441743344
 geo_long: 2.2782683372497563
-curation: 0.65
-provenance:
-  - radiobrowser-10652211-3b97-411b-ab87-128be29356ac
-streams:
-  - url: 'https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: High-end cultural and intellectual talk radio — humanities, sciences, history, philosophy, literature, documentary, drama, fiction, debate; minimal music
   notes: France Culture traces its lineage to the post-war Programme National and the cultural channel "France III Nationale," taking its current name in 1963 as one of the three programmes of ORTF before being attached to Radio France at its 1975 creation. Flagship programmes include the morning news magazine "Les Matins de France Culture," the long-running history series "La Fabrique de l'Histoire" / "Le Cours de l'histoire," "La Méthode scientifique," philosophy programmes formerly hosted by Adèle Van Reeth ("Les Chemins de la philosophie"), and award-winning radio drama and documentaries from the Atelier de Création Radiophonique tradition. The station is editorially independent under French public-service law overseen by Arcom (formerly CSA) and is one of France's most-honoured cultural broadcasters, broadcasting from the Maison de la Radio in the 16th arrondissement of Paris.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-10652211-3b97-411b-ab87-128be29356ac
+streams:
+  - url: https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance
+    codec: UNKNOWN
+    hls: true

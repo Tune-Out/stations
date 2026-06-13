@@ -1,7 +1,7 @@
 stationuuid: e9258303-feba-48a5-b3df-a70f87f10a63
 name: Hot 91.1
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91AAC.m3u8
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91AAC.m3u8
+url: 'https://29314.live.streamtheworld.com:443/MAR_HOT91AAC/HLS/playlist.m3u8'
+url_resolved: 'https://29314.live.streamtheworld.com:443/MAR_HOT91AAC/HLS/playlist.m3u8'
 homepage: https://www.hot91.com.au/images/logos/logo-all-white-2022.svg
 favicon: https://www.hot91.com.au/wp-content/uploads/sites/21/2023/02/cropped-sql_mcy_h91_favicon-512x512-red.png?w=180
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 04:53:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e9258303-feba-48a5-b3df-a70f87f10a63
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Contemporary commercial music and entertainment
   notes: Hot 91.1 is an Australian commercial station based in Queensland.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e9258303-feba-48a5-b3df-a70f87f10a63

@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 03:20:40
 clickcount: 11
 geo_lat: 50.85264410246763
 geo_long: 4.402896835636057
-curation: 0.35
-provenance:
-  - radiobrowser-9d8e4e91-107a-4771-bf0f-e73786b5c2e6
-streams:
-  - url: 'https://radio.rtbf.be/c21-80nw/mp3-128/me'
-    codec: MP3
-  - url: 'https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383?sABC=65084369%230%232qqpnss01895rqr0s8oq129o03s183o0%23zr&aw_0_1st.playerid=me&amsparams=playerid:me;skey:1695040361'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +32,11 @@ research:
   format: 24/7 web-only thematic stream of 1980s new wave, post-punk, synth-pop and related subgenres
   notes: Classic 21 80's New Wave is one of several themed web-radio sub-channels of RTBF's rock-oriented Classic 21 network (which broadcasts on FM since 2004 across Belgium's French-speaking community); the parent Classic 21 is described as "la radio rock de la RTBF" and offers spin-off streams for 60's, 70's, 80's Hits, 80's New Wave, 90's, Metal, Blues, and Soulpower; RTBF is funded by the Wallonia-Brussels Federation and operates under a public-service contract (contrat de gestion).
   sources: https://www.rtbf.be/classic21, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-9d8e4e91-107a-4771-bf0f-e73786b5c2e6
+streams:
+  - url: https://radio.rtbf.be/c21-80nw/mp3-128/me
+    codec: MP3
+  - url: https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383?sABC=65084369%230%232qqpnss01895rqr0s8oq129o03s183o0%23zr&aw_0_1st.playerid=me&amsparams=playerid:me;skey:1695040361
+    codec: MP3

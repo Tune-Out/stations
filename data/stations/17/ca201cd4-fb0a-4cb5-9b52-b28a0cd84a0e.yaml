@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 06:48:55
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ca201cd4-fb0a-4cb5-9b52-b28a0cd84a0e
-streams:
-  - url: 'http://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Classical music programming dedicated to specific composers; this channel focuses on Vladimir Horowitz piano works
   notes: Specialized classical music station focusing exclusively on virtuoso pianist Vladimir Horowitz repertoire; part of broader classical radio network
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ca201cd4-fb0a-4cb5-9b52-b28a0cd84a0e
+streams:
+  - url: http://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio
+    codec: MP3

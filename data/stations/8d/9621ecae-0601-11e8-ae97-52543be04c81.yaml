@@ -1,6 +1,6 @@
 stationuuid: 9621ecae-0601-11e8-ae97-52543be04c81
 name: CJKX 95.9 "KX96 New Country FM" - Ajax, ON
-url: http://provisioning.streamtheworld.com/pls/CJKXFMAAC.pls
+url: 'http://18103.live.streamtheworld.com:80/CJKXFMAAC_SC'
 url_resolved: http://22073.live.streamtheworld.com:3690/CJKXFMAAC_SC
 homepage: http://www.kx96.fm/
 favicon: https://www.kx96.fm/templates/template_kx96_2024/favicon.ico
@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 06:09:44
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9621ecae-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://provisioning.streamtheworld.com/pls/CJKXFMAAC.pls'
-    url_resolved: 'http://22073.live.streamtheworld.com:3690/CJKXFMAAC_SC'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://provisioning.streamtheworld.com/pls/CJKXFMAAC.pls'
-    url_resolved: 'http://14553.live.streamtheworld.com/CJKXFMAAC_SC'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,15 @@ research:
   format: New country music format; contemporary country hits and programming.
   notes: Canadian commercial radio station (CJKX 95.9 FM) licensed to Ajax, Ontario, serving the Greater Toronto Area. Branded as "KX96 New Country FM" with focus on contemporary country music. Part of Canadian commercial radio broadcasting landscape.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9621ecae-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://18103.live.streamtheworld.com:80/CJKXFMAAC_SC'
+    url_resolved: http://22073.live.streamtheworld.com:3690/CJKXFMAAC_SC
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://27063.live.streamtheworld.com:80/CJKXFMAAC_SC'
+    url_resolved: http://14553.live.streamtheworld.com/CJKXFMAAC_SC
+    codec: AAC+
+    bitrate: 32

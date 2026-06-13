@@ -19,14 +19,6 @@ lastchangetime: 2026-04-29 09:16:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b6707351-9ed5-4b7c-b0d2-56c17a1e2b4f
-streams:
-  - url: 'http://n09.radiojar.com/5exb2mtkunhvv'
-    codec: MP3
-  - url: 'http://n11.radiojar.com/5exb2mtkunhvv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -36,3 +28,11 @@ research:
   format: Rock music, hard rock, classic rock
   notes: UK-based internet radio station dedicated to rock music; operates online streaming platform for rock music fans.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b6707351-9ed5-4b7c-b0d2-56c17a1e2b4f
+streams:
+  - url: http://n09.radiojar.com/5exb2mtkunhvv
+    codec: MP3
+  - url: http://n11.radiojar.com/5exb2mtkunhvv
+    codec: MP3

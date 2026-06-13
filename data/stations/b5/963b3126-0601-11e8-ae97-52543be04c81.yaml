@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 05:24:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-963b3126-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284311-0_aac_high.m3u'
-    url_resolved: 'http://mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284311-0_mp3_low.m3u'
-    url_resolved: 'http://mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284311-0_mp3_high.m3u'
-    url_resolved: 'http://mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +31,22 @@ research:
   format: Classical music with emphasis on live concert recordings
   notes: MDR Kultur Klassik im Konzert is a specialized classical music channel operated by Mitteldeutscher Rundfunk (MDR), a public broadcaster in Germany. Part of ARD network. Features live concert performances and classical music programming. Non-commercial, publicly-funded.
   sources: internal knowledge only
+curation: 0.8
+provenance:
+  - radiobrowser-963b3126-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-kultur-klassik-im-konzert-9a406841
+  - iprd-de-mdr-kultur-klassik-im-konzert-efde2b05
+  - iprd-de-mdr-kultur-klassik-im-konzert-0d7682f8
+streams:
+  - url: http://avw.mdr.de/streams/284311-0_aac_high.m3u
+    url_resolved: http://mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284311-0_mp3_low.m3u
+    url_resolved: http://mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284311-0_mp3_high.m3u
+    url_resolved: http://mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

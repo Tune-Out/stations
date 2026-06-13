@@ -1,7 +1,7 @@
 stationuuid: f5fc5aef-e8c1-405a-9d8a-bb6e3b6c92e8
 name: EXA FM 102.1 (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
+url: 'https://17803.live.streamtheworld.com:443/XHESLAAC.aac'
+url_resolved: 'https://17803.live.streamtheworld.com:443/XHESLAAC.aac'
 homepage: https://exafm.com/
 favicon: https://i.postimg.cc/yx5Cf25H/exa1021.jpg
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-05-16 18:23:53
 clickcount: 0
 geo_lat: 22.152712253352576
 geo_long: -100.97697257995608
-curation: -0.05
-provenance:
-  - radiobrowser-f5fc5aef-e8c1-405a-9d8a-bb6e3b6c92e8
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: contemporary hits radio / pop
   notes: XHESL-FM (102.1 FM) "La Estación Exacta" operates as Exa FM under MG Radio. Commercial contemporary hits station serving San Luis Potosí with Spanish and English pop music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f5fc5aef-e8c1-405a-9d8a-bb6e3b6c92e8

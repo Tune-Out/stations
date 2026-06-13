@@ -1,6 +1,6 @@
 stationuuid: 96425c43-0601-11e8-ae97-52543be04c81
 name: WKY 930 "ESPN Deportes" Oklahoma City, OK
-url: http://provisioning.streamtheworld.com/pls/WKYAM.pls
+url: 'http://24153.live.streamtheworld.com:80/WKYAM_SC'
 url_resolved: http://14983.live.streamtheworld.com:3690/WKYAM_SC
 homepage: http://www.wkydeportes.com/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:15:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-96425c43-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports radio, primarily simulcast from sister station WWLS-FM (as of 2019).
   notes: One of the oldest radio stations in the US, broadcasting since 1921 at 930 AM. Operates at 5,000 watts with the tallest AM antenna in the US (961 ft). Housed ESPN Deportes Spanish-language programming from Feb 2017–Sept 2019. Currently simulcasts English-language sports format.
   sources: Wikipedia, iHeart, Zeno.FM, Cumulus Media
+curation: 0.3
+provenance:
+  - radiobrowser-96425c43-0601-11e8-ae97-52543be04c81

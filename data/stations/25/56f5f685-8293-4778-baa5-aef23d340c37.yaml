@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 01:16:54
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-56f5f685-8293-4778-baa5-aef23d340c37
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/russianhits96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/russianhits96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Russian popular music hits and contemporary entertainment.
   notes: Radio Record is Russia's largest commercial radio station, broadcasting from Saint-Petersburg. Parent organization operates 100+ electronic and dance music channels alongside Russian-language programming.
   sources: http://radiorecord.ru/
+curation: -0.05
+provenance:
+  - radiobrowser-56f5f685-8293-4778-baa5-aef23d340c37
+  - iprd-ru-radio-rekord-russian-hits-92c50ed2
+streams:
+  - url: http://radiorecord.hostingradio.ru/russianhits96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/russianhits96.aacp
+    codec: AAC

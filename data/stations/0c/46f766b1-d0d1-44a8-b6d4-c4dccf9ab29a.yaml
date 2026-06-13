@@ -28,18 +28,6 @@ lastchangetime: 2026-05-11 12:14:28
 clickcount: 0
 geo_lat: 50.633
 geo_long: 3.066
-curation: 0.40
-provenance:
-  - radiobrowser-46f766b1-d0d1-44a8-b6d4-c4dccf9ab29a
-streams:
-  - url: 'https://public.isekoi-radio.com/listen/isekoi/radio.flac'
-    url_resolved: 'https://public.isekoi-radio.com/listen/isekoi/radio.flac?cb=1778501600484'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://public.isekoi-radio.com/listen/isekoi/radio.flac'
-    codec: OGG
-  - url: 'https://public.isekoi-radio.com/listen/isekoi/radio.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -49,3 +37,15 @@ research:
   format: Multi-stream ambient and chill music (ISEKOI Radio, Chill Zone, Non-stop Ambient); electronic genres including drum & bass, techno, house, hip-hop, dance
   notes: France-based internet radio; described as "Your Gateway to Cosmic Frequencies"; features Butterchurn WebGL visualizer (Milkdrop implementation); space-themed branding; non-commercial operation
   sources: https://isekoi-radio.com/
+curation: 0.4
+provenance:
+  - radiobrowser-46f766b1-d0d1-44a8-b6d4-c4dccf9ab29a
+streams:
+  - url: https://public.isekoi-radio.com/listen/isekoi/radio.flac
+    url_resolved: https://public.isekoi-radio.com/listen/isekoi/radio.flac?cb=1778501600484
+    codec: OGG
+    bitrate: 128
+  - url: https://public.isekoi-radio.com/listen/isekoi/radio.flac
+    codec: OGG
+  - url: https://public.isekoi-radio.com/listen/isekoi/radio.mp3
+    codec: MP3

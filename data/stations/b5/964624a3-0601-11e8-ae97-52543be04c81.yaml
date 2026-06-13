@@ -1,6 +1,6 @@
 stationuuid: 964624a3-0601-11e8-ae97-52543be04c81
 name: KMIX 100.9 "La Tricolor" Tracy, CA
-url: http://provisioning.streamtheworld.com/pls/KMIXFMAAC.pls
+url: 'http://29309.live.streamtheworld.com:80/KMIXFMAAC_SC'
 url_resolved: http://19273.live.streamtheworld.com:3690/KMIXFMAAC_SC
 homepage: http://tricolor.entravision.com/stockton-modesto/
 favicon: ""
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:22:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964624a3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Regional Mexican music; banda, norteño, grupera, traditional Mexican styles
   notes: KMIX 100.9 is a commercial regional Mexican radio station part of Entravision Communications' portfolio. Serves the Central Valley of California with La Tricolor format (regional Mexican music and culture). Targets Spanish-speaking audiences across Stockton, Modesto, and surrounding areas.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964624a3-0601-11e8-ae97-52543be04c81

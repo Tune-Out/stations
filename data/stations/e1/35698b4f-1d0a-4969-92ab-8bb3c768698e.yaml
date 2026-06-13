@@ -24,17 +24,6 @@ lastchangetime: 2026-03-09 15:24:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-35698b4f-1d0a-4969-92ab-8bb3c768698e
-streams:
-  - url: 'https://stream.laut.fm/radio-budowlaniec'
-    url_resolved: 'https://radio-budowlaniec.stream.laut.fm/radio-budowlaniec?t302=2026-03-09_15-24-03&uuid=8e37de77-5f7a-40b4-9797-ce53bb71d8b1'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.radio-budowlaniec.de/listen/radio-budowlaniec/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -44,3 +33,14 @@ research:
   format: Disco-polo, Polish music, dance, party music.
   notes: Community radio serving Polish migrants in North Rhine-Westphalia, Germany. Focused on disco-polo (a Polish dance-pop genre) and traditional Polish popular music. Hosted on laut.fm platform. Small but engaged audience (1 vote). Bilingual programming in German and Polish.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-35698b4f-1d0a-4969-92ab-8bb3c768698e
+streams:
+  - url: https://stream.laut.fm/radio-budowlaniec
+    url_resolved: https://radio-budowlaniec.stream.laut.fm/radio-budowlaniec?t302=2026-03-09_15-24-03&uuid=8e37de77-5f7a-40b4-9797-ce53bb71d8b1
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.radio-budowlaniec.de/listen/radio-budowlaniec/radio.mp3
+    codec: MP3
+    bitrate: 128

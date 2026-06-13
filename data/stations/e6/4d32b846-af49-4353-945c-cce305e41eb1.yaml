@@ -1,7 +1,7 @@
 stationuuid: 4d32b846-af49-4353-945c-cce305e41eb1
 name: Sounds of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac
+url: 'https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac'
+url_resolved: 'https://19273.live.streamtheworld.com:443/ACIR30_S01AAC.aac'
 homepage: https://www.iheart.com/live/sounds-of-yesterday-8070/
 favicon: https://www.iheart.com/favicon.ico
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-14 23:57:38
 clickcount: 2
 geo_lat: 19.43810439085952
 geo_long: -99.14680480957033
-curation: -0.10
-provenance:
-  - radiobrowser-4d32b846-af49-4353-945c-cce305e41eb1
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Classic rock, golden oldies, and 1950s-1960s hits programming.
   notes: Mexican commercial station (ACIR online) distributed through iHeart Radio streaming platform. Specializes in classic hits and oldies (50s/60s era). 48 kbps AAC+ via StreamTheWorld.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-4d32b846-af49-4353-945c-cce305e41eb1

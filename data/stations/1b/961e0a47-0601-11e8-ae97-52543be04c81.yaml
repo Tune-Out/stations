@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:48:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-961e0a47-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://rockthecradle.stream.publicradio.org/rockthecradle.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://rockthecradle.stream.publicradio.org/rockthecradle.mp3?srcid=tunein'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: "\"Rock the Cradle\" is MPR's dedicated kids' music and audio content stream"
   notes: Stream from The Current, Minnesota Public Radio's music service; "Rock the Cradle" is a public radio program featuring music and audio entertainment for children; operated through Minnesota Public Radio's digital streaming platform.
   sources: http://www.thecurrent.org/rock-the-cradle, internal knowledge
+curation: 0.65
+provenance:
+  - radiobrowser-961e0a47-0601-11e8-ae97-52543be04c81
+  - iprd-us-kcmp-minnesota-public-radio-rock-the-cradle-447889f6
+streams:
+  - url: http://rockthecradle.stream.publicradio.org/rockthecradle.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://rockthecradle.stream.publicradio.org/rockthecradle.mp3?srcid=tunein
+    codec: MP3
+    bitrate: 128

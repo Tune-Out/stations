@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 08:25:40
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-27f909d9-a8f3-4209-bd16-66c50ba53049
-streams:
-  - url: 'https://liveradio.swr.de/sw331ch/raka10/play.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://liveradio.swr.de/sw890cl/dasding/'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://liveradio.swr.de/d245tgd/dasding/'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +30,17 @@ research:
   format: Contemporary music; new song discoveries, artist interviews, local stories, Visual Radio
   notes: 'DASDING is a youth-oriented radio station operated by SWR (Southwest German Broadcasting, public broadcaster). Tagline: "Dein Radio" (Your Radio). Targets young audiences in Baden-Württemberg and Rhineland-Palatinate. Public, non-commercial service funded by German television license fees. Features music discovery, celebrity interviews, local storytelling, and online/visual radio content.'
   sources: https://www.dasding.de/
+curation: 0.5
+provenance:
+  - radiobrowser-27f909d9-a8f3-4209-bd16-66c50ba53049
+  - iprd-de-das-ding-3f153e3b
+streams:
+  - url: https://liveradio.swr.de/sw331ch/raka10/play.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://liveradio.swr.de/sw890cl/dasding/
+    codec: AAC
+    bitrate: 96
+  - url: https://liveradio.swr.de/d245tgd/dasding/
+    codec: AAC
+    bitrate: 96

@@ -1,7 +1,7 @@
 stationuuid: c15295f4-561f-47a5-8c4f-9bdb40210582
 name: Rock Radio
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3
+url: 'https://25643.live.streamtheworld.com:443/ROCK_RADIO_128.mp3'
+url_resolved: 'https://25643.live.streamtheworld.com:443/ROCK_RADIO_128.mp3'
 homepage: https://rockovyradio.cz/
 favicon: https://rockovyradio.cz/design/img/logo.svg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:50:24
 clickcount: 21
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-c15295f4-561f-47a5-8c4f-9bdb40210582
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Multi-stream rock radio including Rock, Alternative Rock, Hard and Heavy, and Legends of Rock programming
   notes: 'Commercial rock radio broadcaster operated by MEDIA MARKETING SERVICES a.s. Shows include "Rockovej voraz," "Rockový dopoledne," and "Elektrický oběd." Community engagement through "Slušná parta" membership program. Multiple listening platforms: web, mobile app, FM radio, smart speakers, car integration. Podcasts include "Rocková kronika" (130 episodes) and "Hvězdný host Rock Radia" (143 episodes).'
   sources: https://rockovyradio.cz/
+curation: 0.4
+provenance:
+  - radiobrowser-c15295f4-561f-47a5-8c4f-9bdb40210582
+  - iprd-cz-rock-radio-89-0-c7ff6cac

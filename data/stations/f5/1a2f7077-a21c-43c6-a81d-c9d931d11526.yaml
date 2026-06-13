@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 43.69139500966138
 geo_long: 7.240724026484756
-curation: 0.35
-provenance:
-  - radiobrowser-1a2f7077-a21c-43c6-a81d-c9d931d11526
-streams:
-  - url: 'http://radio12.pro-fhi.net/listen-itqtlpyj-stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://radiosouvenir.com/radio.m3u'
-    url_resolved: 'http://radio12.pro-fhi.net/radio/9136/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +28,14 @@ research:
   format: Biographical audio programs of ~600 deceased francophone artists (1850-present) with educational retrospectives and themed programming
   notes: "Founded 2006 with unique mission. Description: \"render continuously hommage à tous les artistes disparus de la chanson francophone afin que les générations futures n'oublient JAMAIS\" (ensure future generations never forget francophone music heritage). Mobile apps on iOS/Android; online platform."
   sources: http://www.radiosouvenir.com/
+curation: 0.35
+provenance:
+  - radiobrowser-1a2f7077-a21c-43c6-a81d-c9d931d11526
+streams:
+  - url: http://radio12.pro-fhi.net/listen-itqtlpyj-stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://radiosouvenir.com/radio.m3u
+    url_resolved: http://radio12.pro-fhi.net/radio/9136/stream
+    codec: MP3
+    bitrate: 128

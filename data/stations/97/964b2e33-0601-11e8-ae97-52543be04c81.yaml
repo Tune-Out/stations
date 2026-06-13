@@ -1,6 +1,6 @@
 stationuuid: 964b2e33-0601-11e8-ae97-52543be04c81
 name: KHYT "K-Hit 107.5" Tucson, AZ
-url: http://provisioning.streamtheworld.com/pls/KHYTFMAAC.pls
+url: 'http://18433.live.streamtheworld.com:80/KHYTFMAAC_SC'
 url_resolved: http://13743.live.streamtheworld.com/KHYTFMAAC_SC
 homepage: http://www.khit1075.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3087/squareIcon.png?r=93187
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:42:48
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-964b2e33-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic hits — established hits from the 1970s through early 2000s.
   notes: KHYT (licensed as KHYT 107.5 FM) is a commercial radio station operating on 107.5 MHz in Tucson, Arizona. Part of the larger Cumulus Media portfolio. AAC+ codec stream at 48 kbps.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-964b2e33-0601-11e8-ae97-52543be04c81

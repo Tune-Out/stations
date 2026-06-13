@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 02:10:00
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-891dfbd8-d249-454a-8008-d8e29f3ee9e4
-streams:
-  - url: 'http://ec4.yesstreaming.net:3770/'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://ec4.yesstreaming.net:3770/'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://ec4.yesstreaming.net:3770/;?type=http&nocache=1669417034'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -45,3 +32,16 @@ research:
   format: 24/7 commercial-free music; classic rock, alternative, country, pop music with decade-specific programming (1950s-present)
   notes: Non-commercial internet radio dedicated to "providing high-quality music entertainment to listeners worldwide." Operates multiple genre-specific stations emphasizing "24/7 all commercial free" broadcasting. Based in Long Island, New York region serving global audience via internet streaming.
   sources: https://www.sfliny.com/
+curation: 0.5
+provenance:
+  - radiobrowser-891dfbd8-d249-454a-8008-d8e29f3ee9e4
+streams:
+  - url: http://ec4.yesstreaming.net:3770/
+    codec: MP3
+    bitrate: 320
+  - url: https://ec4.yesstreaming.net:3770/
+    codec: MP3
+    bitrate: 320
+  - url: https://ec4.yesstreaming.net:3770/;?type=http&nocache=1669417034
+    codec: MP3
+    bitrate: 320

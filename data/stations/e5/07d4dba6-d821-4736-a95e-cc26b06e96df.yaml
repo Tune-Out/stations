@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-07d4dba6-d821-4736-a95e-cc26b06e96df
-streams:
-  - url: 'https://stream.zeno.fm/d5mn12bchkeuv'
-    codec: MP3
-  - url: 'http://stream.zeno.fm/d5mn12bchkeuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Contemporary hit radio — reggae, dancehall, reggaeton, R&B, hip-hop, Caribbean pop and party music
   notes: Fame 95 FM is an on-line rebroadcast of what was historically a Kingston-based FM commercial station. The stream is registered on Zeno.FM under 1-Spot Media (1spotmedia.com), a Caribbean broadcasting and media company operating multiple radio brands. The site shows "RJR Communications" branding, suggesting affiliation with a Jamaican radio group. Online-only distribution; commercial format with advertising.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-07d4dba6-d821-4736-a95e-cc26b06e96df
+streams:
+  - url: https://stream.zeno.fm/d5mn12bchkeuv
+    codec: MP3
+  - url: http://stream.zeno.fm/d5mn12bchkeuv
+    codec: MP3

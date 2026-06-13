@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b1975ea9-e19f-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-rockamring-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-rockamring-128-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-rockamring-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Multiple music streams (rock, dance, party, lounge, hip-hop, charts) with morning show, news, and podcasts; over 30 music streams.
   notes: German commercial radio station with comprehensive digital presence; Rock am Ring stream is part of larger bigFM multi-stream platform; free app with diverse music formats.
   sources: https://www.bigfm.de/
+curation: -0.05
+provenance:
+  - radiobrowser-b1975ea9-e19f-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-rockamring-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-rockamring-128-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-rockamring-128-mp3
+    codec: MP3

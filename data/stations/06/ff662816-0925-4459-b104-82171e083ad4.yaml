@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ff662816-0925-4459-b104-82171e083ad4
-streams:
-  - url: 'https://pub0101.101.ru/stream/air/aac/64/199'
-    codec: AAC
-  - url: 'https://pub0102.101.ru:8000/stream/air/aac/64/199'
-    codec: AAC
-  - url: 'http://ic7.101.ru:8000/v14_1'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +29,14 @@ research:
   format: Children's educational and entertainment programming; storytelling, music, speech-based content
   notes: Largest children's radio station in Russia since 1990s. Educational focus on child development. Broadcasts in Russian language.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ff662816-0925-4459-b104-82171e083ad4
+streams:
+  - url: https://pub0101.101.ru/stream/air/aac/64/199
+    codec: AAC
+  - url: https://pub0102.101.ru:8000/stream/air/aac/64/199
+    codec: AAC
+  - url: http://ic7.101.ru:8000/v14_1
+    codec: MP3
+    bitrate: 256

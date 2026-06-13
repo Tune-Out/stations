@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 08:47:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9628e1e8-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://streaming.radiostreamlive.com/radioitaliacanada_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://streaming.radiostreamlive.com/radioitaliacanada_devices'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Italian pop and contemporary music; community programming
   notes: Toronto-based radio serving Italian-Canadian diaspora. Bilingual (English/Italian) broadcaster with strong community ties. Available via streaming platforms (RSL network). Emphasizes Italian cultural and musical content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9628e1e8-0601-11e8-ae97-52543be04c81
+  - iprd-ca-radio-italia-canada-4737534f
+streams:
+  - url: https://streaming.radiostreamlive.com/radioitaliacanada_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
+    codec: AAC+
+    bitrate: 32
+  - url: https://streaming.radiostreamlive.com/radioitaliacanada_devices
+    codec: MP3
+    bitrate: 128

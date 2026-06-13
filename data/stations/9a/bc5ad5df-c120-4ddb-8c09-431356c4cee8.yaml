@@ -26,16 +26,6 @@ lastchangetime: 2026-05-05 02:32:11
 clickcount: 0
 geo_lat: 20.67274336730612
 geo_long: -103.33765983581544
-curation: -0.10
-provenance:
-  - radiobrowser-bc5ad5df-c120-4ddb-8c09-431356c4cee8
-streams:
-  - url: 'https://mdstrm.com/audio/6737875eb61ca2fa731a2891/icecast.audio'
-    codec: AAC
-    bitrate: 125
-  - url: 'https://mdstrm.com/audio/6737875eb61ca2fa731a2891/icecast.audio'
-    codec: AAC
-    bitrate: 93
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: regional Mexican music, classics in Spanish, entertainment, variety hits
   notes: Commercial FM station XHKB-FM (99.9 FM) branded as La Lupe. Part of Multimedios Radio network operating multiple stations across Mexico and Costa Rica. Includes regional Mexican music, ranchera, tropical, and variety programming.
   sources: https://www.mmradio.com/
+curation: -0.1
+provenance:
+  - radiobrowser-bc5ad5df-c120-4ddb-8c09-431356c4cee8
+streams:
+  - url: https://mdstrm.com/audio/6737875eb61ca2fa731a2891/icecast.audio
+    codec: AAC
+    bitrate: 125
+  - url: https://mdstrm.com/audio/6737875eb61ca2fa731a2891/icecast.audio
+    codec: AAC
+    bitrate: 93

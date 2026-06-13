@@ -1,6 +1,6 @@
 stationuuid: 964a5e90-0601-11e8-ae97-52543be04c81
 name: WSTO 96.1 "Hot 96" Owensboro, KY
-url: http://provisioning.streamtheworld.com/pls/WSTOFMAAC.pls
+url: 'http://14543.live.streamtheworld.com:80/WSTOFMAAC_SC'
 url_resolved: http://18063.live.streamtheworld.com:3690/WSTOFMAAC_SC
 homepage: http://hot96.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2118/squareIcon.png?r=57953
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:19:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-964a5e90-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Top 40 and contemporary hits
   notes: "96.1 FM Owensboro, Kentucky station; tagline \"The Tri State's #1 Hit Music Station\"; serves Evansville, Henderson, and Owensboro areas; features shows like \"Clay & Makenzie\" morning show and \"All Request Throwbacks\"; community engagement through local events and festival sponsorships."
   sources: http://hot96.com/
+curation: 0.35
+provenance:
+  - radiobrowser-964a5e90-0601-11e8-ae97-52543be04c81
+  - iprd-us-wsto-96-1-hot-96-f3e5da4f

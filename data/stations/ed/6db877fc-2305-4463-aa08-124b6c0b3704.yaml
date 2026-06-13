@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:36:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6db877fc-2305-4463-aa08-124b6c0b3704
-streams:
-  - url: 'http://live.rzs.ru/ka.128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://live.rzs.ru/ka.128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Music and pop programming; Russian-language contemporary music
   notes: Regional station in Tyumen, Siberia (Russia) operating at 104.6 FM; part of Krasnaya Armiya radio network which provides music programming across Russia.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6db877fc-2305-4463-aa08-124b6c0b3704
+streams:
+  - url: http://live.rzs.ru/ka.128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://live.rzs.ru/ka.128.mp3
+    codec: MP3
+    bitrate: 128

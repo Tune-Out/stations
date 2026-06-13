@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 04:44:02
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9618cd5e-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Rock music; seasonal Christmas rock programming
   notes: German commercial radio; multiple genre channels; BOBs Christmas Rock is seasonal channel featuring rock-oriented Christmas music
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9618cd5e-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/
+    codec: MP3

@@ -27,18 +27,6 @@ lastchangetime: 2026-01-15 06:17:04
 clickcount: 1
 geo_lat: 19.440390886591462
 geo_long: -99.129638671875
-curation: -0.05
-provenance:
-  - radiobrowser-1573a823-2929-480f-b3cc-c86378e59d2f
-streams:
-  - url: 'https://mdstrm.com/audio/61e1e0125e404b0836c1e402/live.m3u8'
-    codec: AAC
-    bitrate: 131
-    hls: true
-  - url: 'https://mdstrm.com/audio/61e1e0125e404b0836c1e402/live.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +36,15 @@ research:
   format: Talk radio, news, sports, music, entertainment, classic hits
   notes: Radio Fórmula (XERFR-AM, 970 AM) is a major commercial radio station in Mexico City operated by Grupo Fórmula. Offers news, talk, sports, and music programming. One of Mexico's oldest and most established talk radio stations. Known for news coverage, sports commentary, and entertainment programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1573a823-2929-480f-b3cc-c86378e59d2f
+streams:
+  - url: https://mdstrm.com/audio/61e1e0125e404b0836c1e402/live.m3u8
+    codec: AAC
+    bitrate: 131
+    hls: true
+  - url: https://mdstrm.com/audio/61e1e0125e404b0836c1e402/live.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true

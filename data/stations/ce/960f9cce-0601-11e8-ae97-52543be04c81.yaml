@@ -1,6 +1,6 @@
 stationuuid: 960f9cce-0601-11e8-ae97-52543be04c81
 name: WFMB-AM "Sports Radio 1450" Springfield, IL
-url: http://provisioning.streamtheworld.com/pls/WFMBAMAAC.pls
+url: 'http://14553.live.streamtheworld.com:80/WFMBAMAAC_SC'
 url_resolved: http://27063.live.streamtheworld.com:3690/WFMBAMAAC_SC
 homepage: http://www.sportsradio1450.com/
 favicon: https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2511/files/2020/03/cropped-neuhoff-hero-logo-300x300-1.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:06:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960f9cce-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports news, play-by-play sports coverage, ESPN programming, talk radio
   notes: Commercial AM radio station (1450 kHz) based in Springfield, Illinois. Licensed as WFMB-AM. Operates as sports-focused station with ESPN partnership providing national sports coverage, games, and analysis. Targets sports enthusiasts and news-oriented audience in Illinois market. Positioned as regional sports radio outlet with syndicated and local programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960f9cce-0601-11e8-ae97-52543be04c81

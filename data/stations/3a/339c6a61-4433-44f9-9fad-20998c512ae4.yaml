@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: 9.906907502466373
 geo_long: 33.82221990298802
-curation: 0.25
-provenance:
-  - radiobrowser-339c6a61-4433-44f9-9fad-20998c512ae4
-streams:
-  - url: 'http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://listen.181fm.com/181-xtraditional_128k.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: "Smooth music, jazz, and traditional formats. Database name mismatch: entry titled \"Youtube\" but streams from 181.fm's \"Traditional\" channel."
   notes: Database entry appears to have metadata errors (title "Youtube" with homepage youtube.com but actual stream from 181.fm). Stream URL points to 181.fm Traditional channel (smooth music). 181.fm is US-based commercial internet radio provider. Geographic coordinates (AS/American Samoa) appear erroneous.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-339c6a61-4433-44f9-9fad-20998c512ae4
+streams:
+  - url: http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836
+    codec: MP3
+    bitrate: 128
+  - url: https://listen.181fm.com/181-xtraditional_128k.mp3
+    codec: MP3
+    bitrate: 128

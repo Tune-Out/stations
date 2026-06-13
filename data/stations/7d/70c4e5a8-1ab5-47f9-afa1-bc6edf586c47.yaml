@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 02:28:27
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-70c4e5a8-1ab5-47f9-afa1-bc6edf586c47
-streams:
-  - url: 'https://n07.radiojar.com/cm4by4kt2ceuv?rj-ttl=5&rj-tok=AAABel9L5qIAT_t_lI31ovcv0A'
-    codec: MP3
-  - url: 'http://ample.radiojar.com/cm4by4kt2ceuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: religious
@@ -40,3 +32,12 @@ research:
   format: Christian talk radio, Bible teaching, religious instruction, faith-based discussions
   notes: Online Christian talk radio focusing on scripture, theology, and spiritual guidance. Available via streaming platforms. Emphasis on Christian education and faith messaging.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-70c4e5a8-1ab5-47f9-afa1-bc6edf586c47
+  - iprd-us-christian-talk-fm-1146d8f6
+streams:
+  - url: https://n07.radiojar.com/cm4by4kt2ceuv?rj-ttl=5&rj-tok=AAABel9L5qIAT_t_lI31ovcv0A
+    codec: MP3
+  - url: http://ample.radiojar.com/cm4by4kt2ceuv
+    codec: MP3

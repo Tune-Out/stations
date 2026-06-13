@@ -21,14 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-b0c1d2e0-eee8-4a5b-adb7-836cf25c4399
-streams:
-  - url: 'https://static1.squarespace.com/static/5b53ee52372b9686ffa819eb/t/5c82e916fa0d6036009a398a/1552083239517/05+The+Joy+of+Working+with+Volunteers+and+the+Community.mp3/original/05+The+Joy+of+Working+with+Volunteers+and+the+Community.mp3'
-    codec: MP3
-  - url: 'https://listen.wdvrfm.org/main?nocache=1726931810090'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +30,12 @@ research:
   format: Community talk, music, family programming
   notes: US community radio station operating on listener-supported model. Broadcasts family-friendly programming with strong community focus. Volunteer-operated non-commercial broadcast.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-b0c1d2e0-eee8-4a5b-adb7-836cf25c4399
+  - iprd-us-wdvr-89-7-ebacd9dc
+streams:
+  - url: https://static1.squarespace.com/static/5b53ee52372b9686ffa819eb/t/5c82e916fa0d6036009a398a/1552083239517/05+The+Joy+of+Working+with+Volunteers+and+the+Community.mp3/original/05+The+Joy+of+Working+with+Volunteers+and+the+Community.mp3
+    codec: MP3
+  - url: https://listen.wdvrfm.org/main?nocache=1726931810090
+    codec: MP3

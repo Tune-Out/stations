@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 04:31:27
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-527d90da-4b98-11e8-a4d1-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'https://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Medieval rock, folk metal, medieval metal, and related niche genres
   notes: RADIO BOB! is German commercial station known for specialized music formats. BOBs Mittelalter Rock (Medieval Rock channel) features medieval-themed rock, folk metal, and historically-inspired metal genres. Unique German alternative music outlet appealing to niche audience of medieval/folk music enthusiasts.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-527d90da-4b98-11e8-a4d1-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: https://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/
+    codec: MP3

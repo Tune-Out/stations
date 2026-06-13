@@ -1,6 +1,6 @@
 stationuuid: 962a0cfe-0601-11e8-ae97-52543be04c81
 name: KMCK "The Power" 105.7 FM Prairie Grove, AR
-url: http://provisioning.streamtheworld.com/pls/KMCKFMAAC.pls
+url: 'http://14943.live.streamtheworld.com:80/KMCKFMAAC_SC'
 url_resolved: http://18513.live.streamtheworld.com:3690/KMCKFMAAC_SC
 homepage: http://www.power1057.com/
 favicon: https://express-images.franklymedia.com/6616/sites/770/2023/07/12012352/site-logo-11.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:36:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962a0cfe-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Top 40, pop music programming.
   notes: Commercial radio station KMCK 105.7 FM "The Power" in Prairie Grove, Arkansas, broadcasting top 40 and pop music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962a0cfe-0601-11e8-ae97-52543be04c81

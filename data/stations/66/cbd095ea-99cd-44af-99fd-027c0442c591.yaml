@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 03:06:34
 clickcount: 0
 geo_lat: 22.215975915811555
 geo_long: -97.85582542419436
-curation: -0.05
-provenance:
-  - radiobrowser-cbd095ea-99cd-44af-99fd-027c0442c591
-streams:
-  - url: 'https://streaming.servicioswebmx.com/8280/stream'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://streaming.servicioswebmx.com/8280/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Pop music, entertainment, and radio hits in Spanish and English
   notes: Commercial radio station XHTOT-FM on 89.3 FM serving Tampico region; part of Grupo Radio Cañón network; popular music format with Spanish/English programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cbd095ea-99cd-44af-99fd-027c0442c591
+streams:
+  - url: https://streaming.servicioswebmx.com/8280/stream
+    codec: MP3
+    bitrate: 160
+  - url: https://streaming.servicioswebmx.com/8280/stream
+    codec: MP3
+    bitrate: 128

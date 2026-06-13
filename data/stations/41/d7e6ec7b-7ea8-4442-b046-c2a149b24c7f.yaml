@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:14:59
 clickcount: 5
 geo_lat: 36.79630000662077
 geo_long: 34.63285446166993
-curation: 0.35
-provenance:
-  - radiobrowser-d7e6ec7b-7ea8-4442-b046-c2a149b24c7f
-streams:
-  - url: 'http://baserorg.duckdns.org:8000/'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://82.145.41.8:19175/'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,13 @@ research:
   format: Quranic recitations, Islamic education, Turkish religious content; "KURAN ve TÜRKÇE MEAL" (Quran and Turkish meaning/interpretation)
   notes: Non-commercial Turkish Islamic educational radio station. Operated by BASER (an Islamic education organization). Focuses on Quranic teachings and Islamic education in Turkish and Arabic. Emphasis on Quranic exegesis and religious instruction.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d7e6ec7b-7ea8-4442-b046-c2a149b24c7f
+streams:
+  - url: http://baserorg.duckdns.org:8000/
+    codec: MP3
+    bitrate: 64
+  - url: http://82.145.41.8:19175/
+    codec: MP3
+    bitrate: 64

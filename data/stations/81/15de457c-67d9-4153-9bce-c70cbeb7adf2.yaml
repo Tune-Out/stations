@@ -22,22 +22,6 @@ lastchangetime: 2026-02-28 13:49:48
 clickcount: 0
 geo_lat: 50.08378006488505
 geo_long: 14.424013495445251
-curation: 0.40
-provenance:
-  - radiobrowser-15de457c-67d9-4153-9bce-c70cbeb7adf2
-streams:
-  - url: 'https://ice2.radia.cz/relax-fire64.aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://ice2.radia.cz/relax-morning-birds64.aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://ice2.radia.cz/relax-train64.aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://ice2.radia.cz/relax-sea64.aac'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +31,19 @@ research:
   format: Commercial streaming aggregator of multiple Czech radio stations (both commercial and public broadcaster ČRo content) plus podcasts
   notes: Multi-platform digital radio discovery service; hosts commercial stations (Fajn Radio, Rock Radio) and public broadcaster stations alongside podcast content
   sources: https://radia.cz/
+curation: 0.4
+provenance:
+  - radiobrowser-15de457c-67d9-4153-9bce-c70cbeb7adf2
+streams:
+  - url: https://ice2.radia.cz/relax-fire64.aac
+    codec: AAC
+    bitrate: 64
+  - url: https://ice2.radia.cz/relax-morning-birds64.aac
+    codec: AAC
+    bitrate: 64
+  - url: https://ice2.radia.cz/relax-train64.aac
+    codec: AAC
+    bitrate: 64
+  - url: https://ice2.radia.cz/relax-sea64.aac
+    codec: AAC
+    bitrate: 64

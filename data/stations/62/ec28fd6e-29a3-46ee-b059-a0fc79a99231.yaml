@@ -27,17 +27,6 @@ lastchangetime: 2026-01-15 06:36:23
 clickcount: 0
 geo_lat: 52.0003582077742
 geo_long: 5.5501529574394235
-curation: 0.35
-provenance:
-  - radiobrowser-ec28fd6e-29a3-46ee-b059-a0fc79a99231
-streams:
-  - url: 'https://stream.laut.fm/anzoradio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/anzoradio.m3u'
-    url_resolved: 'https://anzoradio.stream.laut.fm/anzoradio?pl=m3u&t302=2026-01-15_06-59-30&uuid=5e3f0ca7-0c57-48a9-9268-c0379865994a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -47,3 +36,14 @@ research:
   format: 70s, 80s, 90s classic pop and rock music station
   notes: Non-commercial internet radio station based in Utrecht, Netherlands; focuses on classic pop music from 1970s through 1990s; available on laut.fm platform
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ec28fd6e-29a3-46ee-b059-a0fc79a99231
+streams:
+  - url: https://stream.laut.fm/anzoradio
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/anzoradio.m3u
+    url_resolved: https://anzoradio.stream.laut.fm/anzoradio?pl=m3u&t302=2026-01-15_06-59-30&uuid=5e3f0ca7-0c57-48a9-9268-c0379865994a
+    codec: MP3
+    bitrate: 128

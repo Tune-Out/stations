@@ -23,15 +23,6 @@ lastchangetime: 2026-05-09 22:24:43
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3e6b7fc5-40e7-48a3-9902-2cc5264a5023
-streams:
-  - url: 'http://stream1.themediasite.co.uk:8038/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://n30a-eu.rcs.revma.com/f498pgutna3vv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: 1980s pop, hits, and nostalgic music programming (24/7 "80s" format)
   notes: Internet radio service dedicated to 1980s pop music. Streams via The Media Site infrastructure. Appeals to listeners nostalgic for the 1980s era and pop music of that decade.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3e6b7fc5-40e7-48a3-9902-2cc5264a5023
+streams:
+  - url: http://stream1.themediasite.co.uk:8038/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://n30a-eu.rcs.revma.com/f498pgutna3vv
+    codec: MP3

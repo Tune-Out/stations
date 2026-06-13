@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 06:12:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-aab6a396-57b6-46e4-9c9d-3e1b1e81b2c1
-streams:
-  - url: 'https://stream.bauermedia.fi/radionova/radionova_64.aac'
-    codec: AAC
-    bitrate: 68
-  - url: 'http://stream.bauermedia.fi/radionova/radionova_64.aac'
-    codec: AAC
-    bitrate: 68
-  - url: 'https://stream.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1744811390'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://stream.bauermedia.fi/radionova/radionova_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +32,21 @@ research:
   format: Pop and rock music commercial radio; contemporary hits and Finnish music
   notes: Major Finnish commercial radio station operated by Bauer Media. Broadcasts in Finnish language across Finland. Format focuses on pop and rock music with contemporary programming. One of Finland's leading commercial radio stations.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-aab6a396-57b6-46e4-9c9d-3e1b1e81b2c1
+  - iprd-fi-radio-nova-887980b8
+  - iprd-fi-radio-nova-b41e42f2
+streams:
+  - url: https://stream.bauermedia.fi/radionova/radionova_64.aac
+    codec: AAC
+    bitrate: 68
+  - url: http://stream.bauermedia.fi/radionova/radionova_64.aac
+    codec: AAC
+    bitrate: 68
+  - url: https://stream.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1744811390
+    codec: AAC
+    bitrate: 64
+  - url: https://stream.bauermedia.fi/radionova/radionova_128.mp3
+    codec: MP3
+    bitrate: 128

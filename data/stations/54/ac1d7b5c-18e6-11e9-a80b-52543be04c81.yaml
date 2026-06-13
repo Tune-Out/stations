@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:27:13
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-ac1d7b5c-18e6-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://tntradio.hostingradio.ru:8027/tntradio128.mp3'
-    codec: AAC
-    bitrate: 160
-  - url: 'https://tntradio.hostingradio.ru:8027/tntradio128.mp3?radiostatistica=tntmusic.ru'
-    codec: AAC
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Commercial pop, dance, and contemporary hits radio
   notes: Russian online radio service; part of broader entertainment/media ecosystem. Targets mainstream pop and dance music audiences.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-ac1d7b5c-18e6-11e9-a80b-52543be04c81
+  - iprd-ru-tht-music-radio-fc3af255
+streams:
+  - url: http://tntradio.hostingradio.ru:8027/tntradio128.mp3
+    codec: AAC
+    bitrate: 160
+  - url: https://tntradio.hostingradio.ru:8027/tntradio128.mp3?radiostatistica=tntmusic.ru
+    codec: AAC
+    bitrate: 160

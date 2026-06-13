@@ -1,7 +1,7 @@
 stationuuid: e6f32af9-061b-40f5-8d21-6f67818f8512
 name: The Lloyd Evansville
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WLYDFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WLYDFM.mp3
+url: 'https://18863.live.streamtheworld.com:443/WLYDFM.mp3'
+url_resolved: 'https://18863.live.streamtheworld.com:443/WLYDFM.mp3'
 homepage: https://935thelloyd.com/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-28 09:21:41
 clickcount: 0
 geo_lat: 34.642370622884755
 geo_long: -96.00029008615562
-curation: -0.05
-provenance:
-  - radiobrowser-e6f32af9-061b-40f5-8d21-6f67818f8512
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Commercial radio serving Evansville metropolitan area.
   notes: Callsign WLYD; known as "The Lloyd"; serves Indiana-Oklahoma border region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e6f32af9-061b-40f5-8d21-6f67818f8512

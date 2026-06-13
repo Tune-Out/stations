@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-96505d33-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/nyir-glob/aac-64/streams.fluxfm.de/'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://streams.fluxfm.de/nyir-glob/mp3-320/streams.fluxfm.de/'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/nyir-glob/mp3-128/streams.fluxfm.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +28,14 @@ research:
   format: Curated music channel featuring New York indie/in-store radio concepts; specialty music programming
   notes: FluxFM subchannel offering New York-focused music curation; international streaming availability; community-engaged format
   sources: https://www.fluxfm.de/
+curation: 0.6
+provenance:
+  - radiobrowser-96505d33-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.fluxfm.de/nyir-glob/aac-64/streams.fluxfm.de/
+    codec: AAC+
+    bitrate: 64
+  - url: http://streams.fluxfm.de/nyir-glob/mp3-320/streams.fluxfm.de/
+    codec: MP3
+  - url: http://streams.fluxfm.de/nyir-glob/mp3-128/streams.fluxfm.de/
+    codec: MP3

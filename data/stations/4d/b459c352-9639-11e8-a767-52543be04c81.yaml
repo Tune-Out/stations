@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:09:32
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-b459c352-9639-11e8-a767-52543be04c81
-streams:
-  - url: 'http://stream.animeradio.de/animeradio.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.animeradio.de/animeradio.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,14 @@ research:
   format: Anime music, J-pop, Japanese soundtracks, and related animation content
   notes: German internet radio station focused on anime and Japanese music culture. Community-oriented niche broadcaster serving German anime fandom. Operates independently with 192 kbps MP3 stream.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-b459c352-9639-11e8-a767-52543be04c81
+  - iprd-de-animeradio-e265dc99
+streams:
+  - url: http://stream.animeradio.de/animeradio.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.animeradio.de/animeradio.mp3
+    codec: MP3
+    bitrate: 192

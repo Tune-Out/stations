@@ -23,24 +23,6 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-35fd5494-3ca0-412f-8552-057a9d246f73
-streams:
-  - url: 'https://stream.regenbogen2.de/beatles/mp3-128/radiobrowser'
-    codec: AAC
-  - url: 'http://stream.dar.fm/145322'
-    codec: AAC
-  - url: 'https://stream.regenbogen2.de/country/mp3-128/radiobrowser'
-    codec: AAC
-  - url: 'http://stream.regenbogen2.de/beatles/mp3-128/radiobrowser'
-    codec: AAC
-  - url: 'http://stream.dar.fm/162916'
-    codec: AAC
-  - url: 'http://stream.regenbogen2.de/beatles/mp3-128/radiobrowser'
-    codec: MP3
-  - url: 'https://stream.regenbogen2.de/liedermacher/mp3-128/radiobrowser'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -50,3 +32,21 @@ research:
   format: Beatles-exclusive channel; classic rock and pop from the 1960s-1970s era
   notes: Specialized channel of Regenbogen 2 network offering Beatles music catalog and related 60s-70s classic rock. Part of a broader German internet radio platform with multiple music-themed channels.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-35fd5494-3ca0-412f-8552-057a9d246f73
+streams:
+  - url: https://stream.regenbogen2.de/beatles/mp3-128/radiobrowser
+    codec: AAC
+  - url: http://stream.dar.fm/145322
+    codec: AAC
+  - url: https://stream.regenbogen2.de/country/mp3-128/radiobrowser
+    codec: AAC
+  - url: http://stream.regenbogen2.de/beatles/mp3-128/radiobrowser
+    codec: AAC
+  - url: http://stream.dar.fm/162916
+    codec: AAC
+  - url: http://stream.regenbogen2.de/beatles/mp3-128/radiobrowser
+    codec: MP3
+  - url: https://stream.regenbogen2.de/liedermacher/mp3-128/radiobrowser
+    codec: MP3

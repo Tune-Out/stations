@@ -1,6 +1,6 @@
 stationuuid: 96487106-0601-11e8-ae97-52543be04c81
 name: Mix Rio 102.1 Rio de Janeiro, RJ
-url: http://provisioning.streamtheworld.com/pls/MIXRIOAAC.pls
+url: 'http://24233.live.streamtheworld.com:80/MIXRIOAAC_SC'
 url_resolved: http://26563.live.streamtheworld.com:3690/MIXRIOAAC_SC
 homepage: http://mixriofm.uol.com.br/
 favicon: ""
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:20:40
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96487106-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Top 40 pop, Brazilian pop, contemporary hits; commercial Top 40 format targeting mainstream audiences
   notes: Mix Rio 102.1 FM is a commercial radio station in Rio de Janeiro, Brazil broadcasting Top 40 and Brazilian pop music. Operates on 102.1 FM frequency. Part of UOL online and media platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96487106-0601-11e8-ae97-52543be04c81

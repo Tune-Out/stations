@@ -22,23 +22,6 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96056be6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://s.streampunk.cc/almaina.ogg'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://s.streampunk.cc/almaina.ogg'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://radiobot.radioslibres.info/public/radio_almaina/playlist.pls'
-    url_resolved: 'https://radiobot.radioslibres.info/listen/radio_almaina/baja_calidad.mp3'
-    codec: OGG
-    bitrate: 64
-  - url: 'http://radiobot.radioslibres.info:8020/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -48,3 +31,20 @@ research:
   format: Community radio, diverse music programming, local content
   notes: Radio Almaina is a community radio station based in Granada, southern Spain. Non-commercial community radio format serving local listeners. Offers diverse programming with local news, talk, and music. OGG stream format. Free community radio licensed by Spanish authorities.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96056be6-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://s.streampunk.cc/almaina.ogg
+    codec: OGG
+    bitrate: 128
+  - url: https://s.streampunk.cc/almaina.ogg
+    codec: OGG
+    bitrate: 128
+  - url: https://radiobot.radioslibres.info/public/radio_almaina/playlist.pls
+    url_resolved: https://radiobot.radioslibres.info/listen/radio_almaina/baja_calidad.mp3
+    codec: OGG
+    bitrate: 64
+  - url: http://radiobot.radioslibres.info:8020/radio.mp3
+    codec: MP3
+    bitrate: 128

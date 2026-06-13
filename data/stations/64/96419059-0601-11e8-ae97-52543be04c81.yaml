@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:54:30
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96419059-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://nwmedia-ktisam.streamguys1.com/ktis-am'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://nwmedia-ktisam.streamguys1.com/ktis-am'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Christian talk, teaching, and faith-based programming
   notes: Non-commercial AM radio station dedicated to Christian programming; part of My Faith Radio network
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96419059-0601-11e8-ae97-52543be04c81
+  - iprd-us-faith-radio-network-ktis-b96d9200
+  - iprd-us-ktis-faith-900-57f057d3
+streams:
+  - url: https://nwmedia-ktisam.streamguys1.com/ktis-am
+    codec: MP3
+    bitrate: 96
+  - url: http://nwmedia-ktisam.streamguys1.com/ktis-am
+    codec: MP3
+    bitrate: 96

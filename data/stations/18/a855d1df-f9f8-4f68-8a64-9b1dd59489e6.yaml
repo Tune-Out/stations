@@ -21,16 +21,6 @@ lastchangetime: 2026-05-24 13:37:48
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a855d1df-f9f8-4f68-8a64-9b1dd59489e6
-streams:
-  - url: 'https://mega-public-relay.deathsmack-a51.workers.dev/hifi.aac'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://mega-public-relay.deathsmack-a51.workers.dev/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Rock, music streaming with multiple quality options (HiFi AAC and standard MP3); games and community engagement features
   notes: ZamRock Radio Nigeria Relay is an online radio station with the tagline "ZAMZAM FOR LIFE..." emphasizing commitment to continuous service. Interactive community platform with news, schedule, and community features.
   sources: https://zamrock.net/
+curation: 0.35
+provenance:
+  - radiobrowser-a855d1df-f9f8-4f68-8a64-9b1dd59489e6
+streams:
+  - url: https://mega-public-relay.deathsmack-a51.workers.dev/hifi.aac
+    codec: AAC
+    bitrate: 320
+  - url: https://mega-public-relay.deathsmack-a51.workers.dev/
+    codec: MP3
+    bitrate: 192

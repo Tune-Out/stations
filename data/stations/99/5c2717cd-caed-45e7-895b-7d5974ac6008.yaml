@@ -1,7 +1,7 @@
 stationuuid: 5c2717cd-caed-45e7-895b-7d5974ac6008
 name: AMOR 92.5 (Toluca) - 92.5 FM - XHRJ-FM - Grupo ACIR - Toluca, Estado de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHRJFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHRJFMAAC.aac
+url: 'https://29325.live.streamtheworld.com:443/XHRJFMAAC.aac'
+url_resolved: 'https://29325.live.streamtheworld.com:443/XHRJFMAAC.aac'
 homepage: https://www.iheart.com/live/amor-925-6573/
 favicon: https://i.iheart.com/v3/re/new_assets/5bce05eb9803f27603c24986?ops=fit(240%2C240)
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-18 17:50:36
 clickcount: 0
 geo_lat: 19.29312204504051
 geo_long: -99.65672492980956
-curation: -0.05
-provenance:
-  - radiobrowser-5c2717cd-caed-45e7-895b-7d5974ac6008
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: balada romántica, Spanish-language romantic ballads, pop
   notes: Mexican commercial FM station (92.5 MHz, call sign XHRJ-FM) in Toluca, part of Grupo ACIR. Tagline "Amor sólo música romántica" (Love only romantic music).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5c2717cd-caed-45e7-895b-7d5974ac6008

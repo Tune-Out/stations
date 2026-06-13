@@ -1,7 +1,7 @@
 stationuuid: e89c13cc-fae5-4efc-bd24-da9cf64e7541
 name: Hit104.7 Canberra - 104.7 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HITAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HITAAC.aac
+url: 'http://28853.live.streamtheworld.com:80/ARN_1047HITAAC.aac'
+url_resolved: 'http://28853.live.streamtheworld.com:80/ARN_1047HITAAC.aac'
 homepage: https://www.hit.com.au/canberra
 favicon: https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:11:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-e89c13cc-fae5-4efc-bd24-da9cf64e7541
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary music (CHR); part of national Hit Network branded stations
   notes: Call sign 2ROC, 104.7 FM. Joint ownership formed from 2016 merger consolidation. Rebranded to hit104.7 January 2016. Studios at Crace, ACT. Part of Hit Network national chain. Launched with Ryan & Tanya breakfast show.
   sources: hit104.7 Canberra Wikipedia, Southern Cross Austereo / ARN partnership
+curation: 0.3
+provenance:
+  - radiobrowser-e89c13cc-fae5-4efc-bd24-da9cf64e7541

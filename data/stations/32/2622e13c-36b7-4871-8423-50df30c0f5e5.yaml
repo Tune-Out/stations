@@ -23,16 +23,6 @@ lastchangetime: 2026-04-13 23:23:22
 clickcount: 0
 geo_lat: 44.1058299067109
 geo_long: -70.20899891853334
-curation: 0.35
-provenance:
-  - radiobrowser-2622e13c-36b7-4871-8423-50df30c0f5e5
-streams:
-  - url: 'https://wrbc-stream.creek.org/stream?download=true'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://wrbc-stream.creek.org/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +32,13 @@ research:
   format: Varied; college radio with eclectic programming
   notes: WRBC-FM is a non-commercial college radio station at Bates College in Lewiston, Maine. Community-focused educational radio.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-2622e13c-36b7-4871-8423-50df30c0f5e5
+streams:
+  - url: https://wrbc-stream.creek.org/stream?download=true
+    codec: MP3
+    bitrate: 192
+  - url: https://wrbc-stream.creek.org/stream
+    codec: MP3
+    bitrate: 192

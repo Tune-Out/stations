@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:51:28
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-aa0c4df3-e693-4120-ae62-3ac84aaa8543
-streams:
-  - url: 'https://stream.deegay.fm/deegay3.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.deegay.fm/deegay3.mp3?id=Oa9irZz5Qm&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: House music, deep house, underground electronic music mixed 24/7 live
   notes: 'DeeGay Club is the third web radio of the DeeGay network dedicated to the LGBT world. Broadcasts from Rome, Italy (Lazio region). Slogan: "House Of The Gay People." Features 128 kbps MP3 stream.'
   sources: radio.menu, onlineradiobox.com, radioshaker.com
+curation: 0.55
+provenance:
+  - radiobrowser-aa0c4df3-e693-4120-ae62-3ac84aaa8543
+streams:
+  - url: https://stream.deegay.fm/deegay3.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.deegay.fm/deegay3.mp3?id=Oa9irZz5Qm&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue
+    codec: MP3
+    bitrate: 128

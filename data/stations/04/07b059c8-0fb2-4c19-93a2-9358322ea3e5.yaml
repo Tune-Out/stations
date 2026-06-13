@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:20:33
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-07b059c8-0fb2-4c19-93a2-9358322ea3e5
-streams:
-  - url: 'http://rock-lynxradio.radioca.st/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://rock-lynxradio.radioca.st/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Classic rock music exclusively.
   notes: The Lynx Classic Rock is part of the Lynx Radio Network, a Canadian commercial internet radio network. Focuses on classic rock from the 1970s-1990s for established rock fans. Available globally via streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-07b059c8-0fb2-4c19-93a2-9358322ea3e5
+  - iprd-ca-the-lynx-classic-rock-70ae244d
+streams:
+  - url: http://rock-lynxradio.radioca.st/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://rock-lynxradio.radioca.st/stream
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:42:26
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-17131ebf-07b1-11ea-a87e-52543be04c81
-streams:
-  - url: 'https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://wvtf-ice.streamguys1.com/radioiq-aac-128'
-    codec: AAC
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: classical music, NPR programming, world music, educational content
   notes: Virginia-based NPR-affiliated non-commercial station; music-focused stream; classical and world music emphasis; serves Virginia region with AAC+ 56kbps stream
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-17131ebf-07b1-11ea-a87e-52543be04c81
+  - iprd-us-wvtf-89-1-bf8374c1
+streams:
+  - url: https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio
+    codec: AAC+
+    bitrate: 56
+  - url: http://wvtf-ice.streamguys1.com/radioiq-aac-128
+    codec: AAC
+    bitrate: 56

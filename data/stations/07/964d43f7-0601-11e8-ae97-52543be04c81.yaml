@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:29:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-964d43f7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://195.150.20.7/90SDANCE'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.rmfon.pl/n/90sdance.pls'
-    url_resolved: 'https://rs103-krk-cyfronet.rmfstream.pl/rmf_90s_dance'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,18 @@ research:
   format: Dance music stream specializing in 1990s-era dance hits ("niezapomniane hity parkietów" - unforgettable dance floor hits)
   notes: RMF operates as a major Polish commercial radio group with multiple branded channels. RMF 90s Dance is part of the RMF ON online streaming portfolio. Company also operates RMF FM, RMF MAXX, RMF Classic, RMF24, and various podcasts. Ad-supported model with premium ad-free option available.
   sources: http://www.rmfon.pl/stacja/rmf-90s-dance
+curation: 0.2
+provenance:
+  - radiobrowser-964d43f7-0601-11e8-ae97-52543be04c81
+  - iprd-pl-rmf-90s-dance-b0a6fc05
+  - iprd-pl-rmf-chopin-de9568d2
+  - iprd-pl-rmf-classic-rock-fakty-477df49d
+  - iprd-pl-rmf-muzyka-filmowa-9cda7b75
+streams:
+  - url: http://195.150.20.7/90SDANCE
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.rmfon.pl/n/90sdance.pls
+    url_resolved: https://rs103-krk-cyfronet.rmfstream.pl/rmf_90s_dance
+    codec: MP3
+    bitrate: 128

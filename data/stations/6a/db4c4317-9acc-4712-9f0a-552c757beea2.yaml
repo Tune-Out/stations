@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:10:16
 clickcount: 1
 geo_lat: 52.96551456662356
 geo_long: -113.36929321289064
-curation: -0.05
-provenance:
-  - radiobrowser-db4c4317-9acc-4712-9f0a-552c757beea2
-streams:
-  - url: 'https://newcap.leanstream.co/CKJRAM'
-    codec: AAC
-    bitrate: 132
-  - url: 'https://newcap.leanstream.co/CKJRAM-MP3'
-    codec: AAC
-    bitrate: 129
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Sports news and talk; sports programming; play-by-play coverage
   notes: Commercial AM sports radio station in Wetaskiwin, Alberta; recently rebranded as Sports 1440 under NewCap Media ownership
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-db4c4317-9acc-4712-9f0a-552c757beea2
+  - iprd-ca-ckjr-sports-1440-ea29d975
+streams:
+  - url: https://newcap.leanstream.co/CKJRAM
+    codec: AAC
+    bitrate: 132
+  - url: https://newcap.leanstream.co/CKJRAM-MP3
+    codec: AAC
+    bitrate: 129

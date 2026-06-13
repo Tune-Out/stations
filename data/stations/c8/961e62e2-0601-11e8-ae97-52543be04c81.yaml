@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:36:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-961e62e2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://nis.stream.publicradio.org/nis.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://nis.stream.publicradio.org/nis.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,14 @@ research:
   format: News and current affairs, all-news format
   notes: KNOW 91.1 is an NPR-affiliated public radio station operated by Minnesota Public Radio. It serves the Minneapolis-St. Paul metropolitan area with news, weather, and public affairs programming. Part of the NPR network.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-961e62e2-0601-11e8-ae97-52543be04c81
+  - iprd-us-know-91-1-minnesota-public-radio-news-6f92d18b
+streams:
+  - url: http://nis.stream.publicradio.org/nis.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://nis.stream.publicradio.org/nis.mp3
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:50:21
 clickcount: 12
 geo_lat: -32.04905763639921
 geo_long: 115.927734375
-curation: 0.50
-provenance:
-  - radiobrowser-6911054a-d8fc-4e12-8f99-b8e9b391be10
-streams:
-  - url: 'https://usa7.fastcast4u.com/proxy/curtinfm?mp=%2F1'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://usa7.fastcast4u.com/proxy/curtinfm?mp=%2F1'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,14 @@ research:
   format: Adult contemporary "lifetime of music" format (classic hits, soft AC, jazz/standards across decades) with talk, community segments, and local news
   notes: Curtin FM 100.1 was established in 1982 at the (then) Western Australian Institute of Technology (now Curtin University) and broadcasts from the Curtin Bentley campus on 100.1 MHz to greater Perth; operates under an Australian community broadcasting licence and is supported by a mix of sponsorship announcements (capped under community-broadcasting rules), listener subscriptions, and university support; positions itself with the long-standing tagline "A lifetime of music" targeting mature audiences with classic pop, easy-listening, and "music for grown-ups"; one of Perth's higher-rated community stations, frequently ranking in the GfK survey for its target demographic.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-6911054a-d8fc-4e12-8f99-b8e9b391be10
+  - iprd-au-curtin-fm-100-1-d36cbcc1
+streams:
+  - url: https://usa7.fastcast4u.com/proxy/curtinfm?mp=%2F1
+    codec: AAC+
+    bitrate: 64
+  - url: http://usa7.fastcast4u.com/proxy/curtinfm?mp=%2F1
+    codec: AAC+
+    bitrate: 64

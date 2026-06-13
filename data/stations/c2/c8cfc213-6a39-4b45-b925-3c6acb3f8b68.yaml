@@ -1,7 +1,7 @@
 stationuuid: c8cfc213-6a39-4b45-b925-3c6acb3f8b68
 name: Rádio Band FM 96.1 FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC
+url: 'https://27603.live.streamtheworld.com:443/BANDFM_SPAAC'
+url_resolved: 'https://27603.live.streamtheworld.com:443/BANDFM_SPAAC'
 homepage: https://www.band.uol.com.br/band-fm
 favicon: https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:48:14
 clickcount: 33
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c8cfc213-6a39-4b45-b925-3c6acb3f8b68
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Pop music; contemporary hits; entertainment; speech programming
   notes: Band is a major Brazilian media conglomerate. Band FM 96.1 is based in São Paulo. Commercial broadcaster with significant reach in the Brazilian market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c8cfc213-6a39-4b45-b925-3c6acb3f8b68

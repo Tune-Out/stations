@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-cb55296e-18ab-4c63-92ea-327da489115e
-streams:
-  - url: 'https://www.maxradio.ca/UHD/MaxRadioSurround/512k/Max.m3u8'
-    codec: MP4
-    bitrate: 512000
-    hls: true
-  - url: 'https://www.maxradio.ca/UHD/xMaxRadio/128k/Max.m3u8'
-    codec: MP4
-    bitrate: 128000
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +28,15 @@ research:
   format: Multiple channels including music streams
   notes: Canadian digital radio platform offering Surround and other premium audio formats. Focus on online streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cb55296e-18ab-4c63-92ea-327da489115e
+streams:
+  - url: https://www.maxradio.ca/UHD/MaxRadioSurround/512k/Max.m3u8
+    codec: MP4
+    bitrate: 512000
+    hls: true
+  - url: https://www.maxradio.ca/UHD/xMaxRadio/128k/Max.m3u8
+    codec: MP4
+    bitrate: 128000
+    hls: true

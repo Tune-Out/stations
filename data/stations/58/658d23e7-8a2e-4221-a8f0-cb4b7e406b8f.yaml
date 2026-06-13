@@ -21,16 +21,6 @@ lastchangetime: 2026-06-08 11:44:43
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-658d23e7-8a2e-4221-a8f0-cb4b7e406b8f
-streams:
-  - url: 'https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.hotmixradio.com/hotmix-lofi-en-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Lo-Fi Hip Hop, Lo-Fi Beats, Lo-Fi Study Music, chill-out
   notes: Hotmix Radio is a commercial freemium streaming service offering curated music stations. Hotmix Lo-Fi specializes in lo-fi and study beats. Features partnership with Jamendo music platform. Offers ad-free premium subscription. Founded in France.
   sources: https://hotmixradio.com/
+curation: 0.3
+provenance:
+  - radiobrowser-658d23e7-8a2e-4221-a8f0-cb4b7e406b8f
+streams:
+  - url: https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.hotmixradio.com/hotmix-lofi-en-mp3
+    codec: MP3
+    bitrate: 128

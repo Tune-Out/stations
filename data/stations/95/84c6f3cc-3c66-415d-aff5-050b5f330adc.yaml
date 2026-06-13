@@ -1,7 +1,7 @@
 stationuuid: 84c6f3cc-3c66-415d-aff5-050b5f330adc
 name: Cadena Dial
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+url: 'http://21223.live.streamtheworld.com:80/CADENADIAL.mp3'
+url_resolved: 'http://21223.live.streamtheworld.com:80/CADENADIAL.mp3'
 homepage: https://www.cadenadial.com/
 favicon: https://www.cadenadial.com/wp-content/uploads/2024/03/cropped-512x512_favicon_dial-180x180.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:34:36
 clickcount: 135
 geo_lat: null
 geo_long: null
-curation: 0.10
-provenance:
-  - radiobrowser-84c6f3cc-3c66-415d-aff5-050b5f330adc
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Spanish-language music ("música en español") — pop, ballads, Latin pop, and Spanish-language hits exclusively; one of Spain's leading thematic music stations
   notes: Launched 1990; positioned as the leading station for Spanish-language music with the slogan emphasising "música en español"; hosts the annual Premios Cadena Dial awards recognising achievements in Spanish-language music; consistently among the top music radio stations in Spain by audience share (EGM ratings); features Spanish and Latin American artists such as Alejandro Sanz, Pablo Alborán, Malú, David Bisbal, Rosalía, etc.
   sources: internal knowledge only (homepage fetch blocked)
+curation: -0.05
+provenance:
+  - radiobrowser-84c6f3cc-3c66-415d-aff5-050b5f330adc
+  - iprd-es-cadena-dial-91-7-69fc53b2

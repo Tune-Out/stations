@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-8e091a36-ef51-42f3-9490-0fb0e0de4d43
-streams:
-  - url: 'http://65.21.202.84:8519/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://65.21.202.84:8519/stream/'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Classic soul, funk, disco, jazz and boogie with themed daily shows (Make That Move! Monday, Funkalicious Friday, Supersonic Soul Sunday)
   notes: Soul Central Radio brands itself as "The Home Of Real Soul Music" and "The UK's No.1 Soul Music Radio Station" - a UK-based independent internet broadcaster delivering classic 60s-80s soul, funk and disco; the station runs DJ-led themed shows, takes listener dedications, sells branded merchandise and organises soul music cruises and weekenders for its loyal community.
   sources: https://www.soulcentralradio.co.uk/, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-8e091a36-ef51-42f3-9490-0fb0e0de4d43
+streams:
+  - url: http://65.21.202.84:8519/stream
+    codec: MP3
+    bitrate: 320
+  - url: http://65.21.202.84:8519/stream/
+    codec: MP3
+    bitrate: 320

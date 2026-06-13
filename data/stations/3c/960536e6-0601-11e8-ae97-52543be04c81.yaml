@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 05:11:51
 clickcount: 19
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-960536e6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284350-0_mp3_high.m3u'
-    url_resolved: 'http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284350-0_mp3_low.m3u'
-    url_resolved: 'http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284350-0_aac_high.m3u'
-    url_resolved: 'http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +31,22 @@ research:
   format: Full-time classical music channel featuring orchestral, chamber, opera, sacred and contemporary classical works; includes MDR's own orchestras (MDR-Sinfonieorchester, MDR-Rundfunkchor) and live concert recordings
   notes: MDR Klassik launched in 2016 as a digital-only classical channel, replacing the former MDR Figaro classical strand; operates under the German Interstate Broadcasting Treaty (Rundfunkstaatsvertrag) and is editorially independent of government per Article 5 of the Basic Law (Grundgesetz)
   sources: internal knowledge only (homepage fetch refused connection)
+curation: 0.8
+provenance:
+  - radiobrowser-960536e6-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-klassik-c98a1447
+  - iprd-de-mdr-klassik-bfee0e2c
+  - iprd-de-mdr-klassik-37ada426
+streams:
+  - url: http://avw.mdr.de/streams/284350-0_mp3_high.m3u
+    url_resolved: http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284350-0_mp3_low.m3u
+    url_resolved: http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284350-0_aac_high.m3u
+    url_resolved: http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

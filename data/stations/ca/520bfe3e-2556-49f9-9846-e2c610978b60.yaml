@@ -21,22 +21,6 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 29
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-520bfe3e-2556-49f9-9846-e2c610978b60
-streams:
-  - url: 'https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8'
-    codec: AAC+
-    bitrate: 128
-    hls: true
-  - url: 'https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8'
-    codec: AAC+
-    bitrate: 127
-    hls: true
-  - url: 'https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8'
-    codec: AAC+
-    bitrate: 95
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +30,20 @@ research:
   format: Turkish nostalgia, classic Turkish music, retro hits
   notes: specializes in classic and nostalgic Turkish music; streams via Turkish online radio platforms
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-520bfe3e-2556-49f9-9846-e2c610978b60
+  - iprd-tr-pal-nostalji-003957c5
+streams:
+  - url: https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+    codec: AAC+
+    bitrate: 128
+    hls: true
+  - url: https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+    codec: AAC+
+    bitrate: 127
+    hls: true
+  - url: https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+    codec: AAC+
+    bitrate: 95
+    hls: true

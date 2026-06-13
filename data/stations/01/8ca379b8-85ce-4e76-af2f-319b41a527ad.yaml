@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 07:29:21
 clickcount: 1
 geo_lat: 51.08109722295784
 geo_long: 13.728821983591123
-curation: 0.35
-provenance:
-  - radiobrowser-8ca379b8-85ce-4e76-af2f-319b41a527ad
-streams:
-  - url: 'http://streaming.fueralle.org:8000/coloradio_160.mp3.m3u'
-    url_resolved: 'http://streaming.fueralle.org:8000/coloradio_160.mp3'
-    codec: MP3
-  - url: 'https://streaming.fueralle.org/coloradio_160.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +31,13 @@ research:
   format: Community radio; diverse programming; freies radio (free radio) tradition
   notes: Independent community radio station based in Dresden, Saxony; operates on free/independent radio principles (freies radio); non-profit cooperative structure; emphasizes localism and community participation
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8ca379b8-85ce-4e76-af2f-319b41a527ad
+  - iprd-de-coloradio-437860ab
+streams:
+  - url: http://streaming.fueralle.org:8000/coloradio_160.mp3.m3u
+    url_resolved: http://streaming.fueralle.org:8000/coloradio_160.mp3
+    codec: MP3
+  - url: https://streaming.fueralle.org/coloradio_160.mp3
+    codec: MP3

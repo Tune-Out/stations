@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:51:28
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a2353b31-3ace-11ea-8dd7-52543be04c81
-streams:
-  - url: 'http://player.ffn.de/radiobollerwagen.m3u'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://ffn-stream19.radiohost.de/radiobollerwagen_mp3-192?listenerid=31363233323633323031-323030333a64653a343731363a3730313a623731343a346664383a313761363a39386165-3537373636-4d6f7a696c6c612f352e3020285831313b205562'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Party hits and party music, event-oriented programming
   notes: Part of FFN's network, Radio Bollerwagen is a specialised party music channel catering to dance and celebration events in Lower Saxony.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a2353b31-3ace-11ea-8dd7-52543be04c81
+  - iprd-de-radio-bollerwagen-94127d36
+streams:
+  - url: http://player.ffn.de/radiobollerwagen.m3u
+    codec: MP3
+    bitrate: 192
+  - url: https://ffn-stream19.radiohost.de/radiobollerwagen_mp3-192?listenerid=31363233323633323031-323030333a64653a343731363a3730313a623731343a346664383a313761363a39386165-3537373636-4d6f7a696c6c612f352e3020285831313b205562
+    codec: MP3
+    bitrate: 192

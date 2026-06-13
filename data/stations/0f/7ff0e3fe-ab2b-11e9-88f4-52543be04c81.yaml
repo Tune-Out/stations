@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:52:39
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7ff0e3fe-ab2b-11e9-88f4-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-chilloutzone-128-mp3?usid=0-0-H-A-D-30'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-chilloutzone-128-aac?usid=0-0-H-A-D-30'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-chilloutzone-128-mp3?'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,16 @@ research:
   format: Chillout, ambient, and relaxing music; part of RPR1. channel lineup
   notes: Web-based channel from RPR1., a major regional commercial broadcaster in Rheinland-Pfalz.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7ff0e3fe-ab2b-11e9-88f4-52543be04c81
+  - iprd-de-rpr1-chillout-zone-9a937599
+  - iprd-de-rpr1-chilloutzone-8801aca4
+  - iprd-de-rpr1-chilloutzone-1a83ca47
+streams:
+  - url: http://streams.rpr1.de/rpr-chilloutzone-128-mp3?usid=0-0-H-A-D-30
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-chilloutzone-128-aac?usid=0-0-H-A-D-30
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-chilloutzone-128-mp3?
+    codec: MP3

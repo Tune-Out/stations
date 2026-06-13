@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:53:32
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-cc69296f-8e12-417e-b25a-e223d77fb5ed
-streams:
-  - url: 'https://stream.radio.co/s4867e9e93/listen'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.radio.co/s4867e9e93/listen'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Country music programming; locally-focused community country station
   notes: Regional Maine country radio station; branded as "Cruisin Country 93.5"; hosted on Radio.co platform; serves Fairfield area community
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-cc69296f-8e12-417e-b25a-e223d77fb5ed
+  - iprd-us-cruisin-country-93-5-wctb-c4ff4438
+  - iprd-us-wctb-cruisin-93-5-0d5e6f19
+streams:
+  - url: https://stream.radio.co/s4867e9e93/listen
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.radio.co/s4867e9e93/listen
+    codec: MP3
+    bitrate: 128

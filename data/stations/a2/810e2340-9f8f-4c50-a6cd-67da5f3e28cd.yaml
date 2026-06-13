@@ -1,7 +1,7 @@
 stationuuid: 810e2340-9f8f-4c50-a6cd-67da5f3e28cd
 name: Bésame 90.7 FM Armenia
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_ARMENIAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_ARMENIAAAC.aac
+url: 'https://27423.live.streamtheworld.com:443/BESAME_ARMENIAAAC.aac'
+url_resolved: 'https://27423.live.streamtheworld.com:443/BESAME_ARMENIAAAC.aac'
 homepage: https://www.besame.fm/
 favicon: https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 08:51:19
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-810e2340-9f8f-4c50-a6cd-67da5f3e28cd
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Romantic ballads, Latin love songs, entertainment, Spanish-language popular music
   notes: "Colombian commercial radio station based in Armenia specializing in romantic music (baladas). Reaches national audience via FM and internet streaming. Target demographic: adults seeking romantic music content."
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-810e2340-9f8f-4c50-a6cd-67da5f3e28cd

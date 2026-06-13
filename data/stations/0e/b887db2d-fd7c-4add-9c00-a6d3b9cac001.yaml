@@ -25,16 +25,6 @@ lastchangetime: 2026-02-07 10:35:59
 clickcount: 0
 geo_lat: 44.435079143614885
 geo_long: 26.102807551626867
-curation: 0.00
-provenance:
-  - radiobrowser-b887db2d-fd7c-4add-9c00-a6d3b9cac001
-streams:
-  - url: 'http://live2.x-fm.ro:7480/'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://radio1.ip4.ro:7480/'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: 1990s music, blues, eurodance, oldies, pop, rock
   notes: Romanian commercial radio station with multiple thematic streams. XFM 90s specializes in 1990s-era music.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-b887db2d-fd7c-4add-9c00-a6d3b9cac001
+streams:
+  - url: http://live2.x-fm.ro:7480/
+    codec: AAC+
+    bitrate: 128
+  - url: http://radio1.ip4.ro:7480/
+    codec: AAC+
+    bitrate: 128

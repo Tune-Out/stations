@@ -1,7 +1,7 @@
 stationuuid: be0c2f14-e44a-49c3-a38c-fb27d52fdc39
 name: XLFM - Cooma - 96.1 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/XLFMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/XLFMAAC.aac
+url: 'http://29309.live.streamtheworld.com:80/XLFMAAC.aac'
+url_resolved: 'http://29309.live.streamtheworld.com:80/XLFMAAC.aac'
 homepage: https://www.2xl.com.au/
 favicon: https://www.2xl.com.au/favicon.ico
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:39:08
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-be0c2f14-e44a-49c3-a38c-fb27d52fdc39
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Classic hits from 1970s, 1980s, 1990s; local news, weather, entertainment, community service
   notes: "Operating since August 1937 as \"the region's oldest commercial radio station.\" Shows: \"The Classic Breakfast with Gazza Warne\" (weekdays 5:30am), \"Jukebox Saturday Nights\" (6pm-midnight Saturdays). Multi-platform: FM radio, streaming, smart speakers."
   sources: https://www.2xl.com.au/
+curation: 0.35
+provenance:
+  - radiobrowser-be0c2f14-e44a-49c3-a38c-fb27d52fdc39

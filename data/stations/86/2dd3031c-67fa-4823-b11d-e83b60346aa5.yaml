@@ -1,6 +1,6 @@
 stationuuid: 2dd3031c-67fa-4823-b11d-e83b60346aa5
 name: KINK DNA
-url: http://playerservices.streamtheworld.com/pls/KINK_DNAAAC.pls
+url: 'http://22713.live.streamtheworld.com:80/KINK_DNAAAC_SC'
 url_resolved: http://25323.live.streamtheworld.com:3690/KINK_DNAAAC_SC
 homepage: https://kink.nl/
 favicon: https://kink.nl/static/favicon-32x32.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:37:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2dd3031c-67fa-4823-b11d-e83b60346aa5
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,12 @@ research:
   format: contemporary music station with multiple genre-specific channels including KINK 80's, 90's, and Distortion; live sessions, podcasts, festival coverage
   notes: Multi-channel Dutch broadcaster offering music discovery and live sessions through DAB+, online streaming, mobile app, and settop box. Operates "KINK 1500" hit list and "KINK XL" programming. Emphasis on community engagement and new music discovery.
   sources: https://kink.nl/
+curation: 0.35
+provenance:
+  - radiobrowser-2dd3031c-67fa-4823-b11d-e83b60346aa5
+  - iprd-nl-kink-8657a186
+  - iprd-nl-kink-48965409
+  - iprd-nl-kink-classics-6f103993
+  - iprd-nl-kink-distortion-35ddd0f9
+  - iprd-nl-kink-dna-8cf6156e
+  - iprd-nl-kink-indie-a86d0034

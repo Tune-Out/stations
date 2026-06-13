@@ -30,14 +30,6 @@ lastchangetime: 2026-01-14 23:15:05
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-b6c3612a-d0c3-4e0a-8e8b-9f50e74aa3f7
-streams:
-  - url: 'http://stream.zeno.fm/rp1swb5pgzzuv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/rp1swb5pgzzuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -47,3 +39,12 @@ research:
   format: Alternative, blues, funk, hard rock, jazz, metal, post rock, punk, underground music programming
   notes: Community radio station in Vojvodina, Serbia dedicated to underground and alternative music genres with focus on local and independent artists.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-b6c3612a-d0c3-4e0a-8e8b-9f50e74aa3f7
+  - iprd-rs-undergrand-radio-6a88549e
+streams:
+  - url: http://stream.zeno.fm/rp1swb5pgzzuv
+    codec: MP3
+  - url: https://stream.zeno.fm/rp1swb5pgzzuv
+    codec: MP3

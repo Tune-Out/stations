@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:10:26
 clickcount: 5
 geo_lat: 47.4122943
 geo_long: 9.7258041
-curation: 0.50
-provenance:
-  - radiobrowser-0d37b24b-204c-47f9-84df-4dcbfa97ba33
-streams:
-  - url: 'https://orf-live.ors-shoutcast.at/vbg-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://orf-live.ors-shoutcast.at/vbg-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,16 @@ research:
   format: Regional public-service full-service radio — local news, weather, traffic, Alemannic-dialect culture, schlager and pop oldies, sports, talk
   notes: ORF Radio Vorarlberg is one of nine ORF regional (Landesstudio) stations, broadcasting from Dornbirn since 1967; it commands a dominant share of the Vorarlberg radio market and is known for Alemannic-dialect programming and coverage of regional politics, alpine sports, and Bregenz Festival cultural events.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-0d37b24b-204c-47f9-84df-4dcbfa97ba33
+  - iprd-at-orf-radio-vorarlberg-b490a8b0
+  - iprd-at-orf-radio-vorarlberg-b7e3321b
+  - iprd-at-orf-radio-vorarlberg-8de60b44
+streams:
+  - url: https://orf-live.ors-shoutcast.at/vbg-q2a
+    codec: MP3
+    bitrate: 192
+  - url: https://orf-live.ors-shoutcast.at/vbg-q1a
+    codec: MP3
+    bitrate: 128

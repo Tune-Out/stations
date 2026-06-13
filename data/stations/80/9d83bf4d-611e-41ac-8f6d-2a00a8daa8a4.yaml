@@ -1,7 +1,7 @@
 stationuuid: 9d83bf4d-611e-41ac-8f6d-2a00a8daa8a4
 name: Nova Throwbacks (AAC+ 128k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK_AAC128.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK_AAC128.aac
+url: 'http://23163.live.streamtheworld.com:80/NOVA_THROWBACK_AAC128.aac'
+url_resolved: 'http://23163.live.streamtheworld.com:80/NOVA_THROWBACK_AAC128.aac'
 homepage: https://novafm.com.au/station/novathrowbacks
 favicon: https://i.ibb.co/y6N3Lmq/Brand-Tile-TBs.png
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 02:07:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9d83bf4d-611e-41ac-8f6d-2a00a8daa8a4
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Non-stop throwback music; diverse hits from past decades
   notes: Part of Nova network, commercial radio group in Australia; AAC+ 128k bitrate
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9d83bf4d-611e-41ac-8f6d-2a00a8daa8a4

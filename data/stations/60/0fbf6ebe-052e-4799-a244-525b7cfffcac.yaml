@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 08:06:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-0fbf6ebe-052e-4799-a244-525b7cfffcac
-streams:
-  - url: 'http://icecast.live.yle.fi/radio/YleRS/icecast.audio'
-    codec: AAC+
-  - url: 'https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/256/variant.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -39,3 +30,13 @@ research:
   format: Mixed programming with regional service branches and FM broadcasts
   notes: Regional public radio service part of Finnish national broadcaster Yle; serves 16 regional areas (Helsinki, Hämeenlinna, Joensuu, Jyväskylä, Kajaani, Kokkola, Kotka, Kuopio, Lahti, Lappeenranta, Mikkeli, Oulu, Pori, Rovaniemi, Seinäjoki, Tampere, Turku, Vaasa); available via Yle Areena streaming platform and FM radio; multilingual service including Swedish-language options
   sources: https://areena.yle.fi/podcastit/ohjelmat/yle-radio-suomi
+curation: 0.5
+provenance:
+  - radiobrowser-0fbf6ebe-052e-4799-a244-525b7cfffcac
+  - iprd-fi-yle-radio-suomi-helsinki-e8a221e1
+streams:
+  - url: http://icecast.live.yle.fi/radio/YleRS/icecast.audio
+    codec: AAC+
+  - url: https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/256/variant.m3u8
+    codec: UNKNOWN
+    hls: true

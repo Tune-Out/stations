@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 02:40:05
 clickcount: 4
 geo_lat: 48.910947882670555
 geo_long: 2.1972656250000004
-curation: -0.05
-provenance:
-  - radiobrowser-e20e95c4-884f-447f-aac6-c4a685ae2eb9
-streams:
-  - url: 'https://streaming.hotmixradio.com/hotmix-lounge-en-mp3?'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.hotmixradio.com/hotmix-lounge-en-mp3?provider=radiobrowser'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.hotmixradio.com/hotmix-lounge-en-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: Lounge, electronic, chillout, groovy music 24/7
   notes: hotmix Lounge is one of several streams under the Hot Mix Radio banner in France. Lagardère is a major French media conglomerate.
   sources: https://www.radio.fr/s/hotmixlounge, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-e20e95c4-884f-447f-aac6-c4a685ae2eb9
+streams:
+  - url: https://streaming.hotmixradio.com/hotmix-lounge-en-mp3?
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.hotmixradio.com/hotmix-lounge-en-mp3?provider=radiobrowser
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.hotmixradio.com/hotmix-lounge-en-mp3
+    codec: MP3
+    bitrate: 128

@@ -17,17 +17,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-03-10 04:34:45
 clickcount: 0
-curation: 0.35
-provenance:
-  - radiobrowser-a93c246d-5810-4c56-80d2-3edbb7a2999c
-streams:
-  - url: 'https://ssl-1.radiohost.pl:13790/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s7.radiohost.pl:2199/tunein/redakcja3.pls'
-    url_resolved: 'http://51.255.8.139:13790/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -37,3 +26,14 @@ research:
   format: diverse music spanning Silesian songs, German hits, 1970s/80s/90s, Discofox, Disco Polo; listener dedications and greetings
   notes: "Independent internet radio serving Polish diaspora in Germany (evidenced by German phone country code 0049). Music licensing: GEMA & GVL. Features weekly hitparada (chart) competition with monthly prizes; listener engagement via WhatsApp greetings and musical requests."
   sources: https://radiosr24.de/
+curation: 0.35
+provenance:
+  - radiobrowser-a93c246d-5810-4c56-80d2-3edbb7a2999c
+streams:
+  - url: https://ssl-1.radiohost.pl:13790/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://s7.radiohost.pl:2199/tunein/redakcja3.pls
+    url_resolved: http://51.255.8.139:13790/stream
+    codec: MP3
+    bitrate: 128

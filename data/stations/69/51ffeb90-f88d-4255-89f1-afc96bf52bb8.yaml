@@ -19,16 +19,6 @@ lastchangetime: 2026-05-15 20:05:40
 clickcount: 2
 geo_lat: 53.41788082084758
 geo_long: -3.04621696472168
-curation: -0.05
-provenance:
-  - radiobrowser-51ffeb90-f88d-4255-89f1-afc96bf52bb8
-streams:
-  - url: 'http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/1AHQ'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/in_demand_radio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Music programming (diverse format)
   notes: InDemand Radio is a UK online radio station serving Liverpool area with general music programming.
   sources: https://www.indemandradio.com/liverpool
+curation: -0.05
+provenance:
+  - radiobrowser-51ffeb90-f88d-4255-89f1-afc96bf52bb8
+streams:
+  - url: http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/1AHQ
+    codec: MP3
+    bitrate: 192
+  - url: http://idr-nlb-400b0b217a490f14.elb.eu-west-1.amazonaws.com:8001/in_demand_radio
+    codec: MP3
+    bitrate: 128

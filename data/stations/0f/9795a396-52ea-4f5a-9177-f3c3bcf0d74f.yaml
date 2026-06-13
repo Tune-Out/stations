@@ -22,56 +22,6 @@ lastchangetime: 2026-01-15 01:03:21
 clickcount: 7
 geo_lat: 52.119661350152406
 geo_long: 11.619415283203129
-curation: 0.50
-provenance:
-  - radiobrowser-9795a396-52ea-4f5a-9177-f3c3bcf0d74f
-streams:
-  - url: 'https://stream.saw-musikwelt.de/saw-schlagerparty/aac-48'
-    codec: AAC
-  - url: 'https://stream.radiosaw.de/saw/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-neuheiten/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-80er/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-in-the-mix/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-schlagerparty/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-70er/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-party/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-in-the-mix-80er/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.saw-musikwelt.de/saw-90er/stream.mp3'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-in-the-mix-90er/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-rock-balladen/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-90er/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-fitness/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-weihnachten/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-oldies/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-2000er/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-rock-classic/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-relax/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.saw-musikwelt.de/saw-relax/stream.mp3'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-2010er/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-urban/mp3-192/radio-browser/'
-    codec: MP3
-  - url: 'https://stream.radiosaw.de/saw-synthie-pop/mp3-192/radio-browser/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -81,3 +31,55 @@ research:
   format: pop music and contemporary hits; entertainment and talk shows
   notes: Radio SAW is flagship station of MDR serving Sachsen-Anhalt region; part of ARD network; funded by German TV license fees; serves East German population; known for pop music and regional programming
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9795a396-52ea-4f5a-9177-f3c3bcf0d74f
+  - iprd-de-radio-saw-8070d850
+  - iprd-de-radio-saw-e5d57c49
+streams:
+  - url: https://stream.saw-musikwelt.de/saw-schlagerparty/aac-48
+    codec: AAC
+  - url: https://stream.radiosaw.de/saw/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-neuheiten/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-80er/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-in-the-mix/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-schlagerparty/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-70er/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-party/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-in-the-mix-80er/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.saw-musikwelt.de/saw-90er/stream.mp3
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-in-the-mix-90er/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-rock-balladen/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-90er/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-fitness/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-weihnachten/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-oldies/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-2000er/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-rock-classic/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-relax/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.saw-musikwelt.de/saw-relax/stream.mp3
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-2010er/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-urban/mp3-192/radio-browser/
+    codec: MP3
+  - url: https://stream.radiosaw.de/saw-synthie-pop/mp3-192/radio-browser/
+    codec: MP3

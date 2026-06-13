@@ -19,16 +19,6 @@ lastchangetime: 2026-03-01 05:47:19
 clickcount: 2
 geo_lat: 28.0451578938697
 geo_long: -16.71622327451394
-curation: -0.05
-provenance:
-  - radiobrowser-104492ee-0a8f-432f-8730-6e405c72b179
-streams:
-  - url: 'https://securestreams.autopo.st:1209/tenerife?_=303402'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://securestreams.autopo.st:1209/tenerife?_=872308'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Contemporary hits and entertainment radio; English-language programming
   notes: Coast FM broadcasts to Tenerife, Canary Islands with hits and entertainment. Targets tourist and expatriate audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-104492ee-0a8f-432f-8730-6e405c72b179
+streams:
+  - url: https://securestreams.autopo.st:1209/tenerife?_=303402
+    codec: MP3
+    bitrate: 192
+  - url: https://securestreams.autopo.st:1209/tenerife?_=872308
+    codec: MP3
+    bitrate: 192

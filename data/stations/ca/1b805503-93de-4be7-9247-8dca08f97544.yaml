@@ -1,7 +1,7 @@
 stationuuid: 1b805503-93de-4be7-9247-8dca08f97544
 name: EXA FM 101.1 (GDL) - 101.1 FM - XHMA-FM - MVS Radio - Guadalajara, Jalisco
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMAAAC.aac
+url: 'https://18863.live.streamtheworld.com:443/XHMAAAC.aac'
+url_resolved: 'https://18863.live.streamtheworld.com:443/XHMAAAC.aac'
 homepage: https://exafm.com/plaza/guadalajara/
 favicon: https://cdn-profiles.tunein.com/s91377/images/logod.png
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-14 23:49:40
 clickcount: 3
 geo_lat: 20.672223898436787
 geo_long: -103.3392906188965
-curation: -0.05
-provenance:
-  - radiobrowser-1b805503-93de-4be7-9247-8dca08f97544
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: pop music, entertainment, contemporary hits, news
   notes: EXA FM 101.1 (XHMA-FM) is a major Mexican commercial radio station based in Guadalajara, Jalisco. Part of MVS Radio network; branded as "La Estación Exacta" (The Exact Station), targeting young audiences with pop and contemporary music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1b805503-93de-4be7-9247-8dca08f97544

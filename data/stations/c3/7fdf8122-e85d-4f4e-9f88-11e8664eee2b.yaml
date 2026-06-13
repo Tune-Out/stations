@@ -23,21 +23,6 @@ lastchangetime: 2026-01-14 23:32:04
 clickcount: 3
 geo_lat: 48.86783140807123
 geo_long: 2.3006057739257817
-curation: 0.65
-provenance:
-  - radiobrowser-7fdf8122-e85d-4f4e-9f88-11e8664eee2b
-streams:
-  - url: 'http://radio-metadata.fr:8000/francemusique'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance'
-    codec: AAC
-    bitrate: 107
-    hls: true
-  - url: 'https://stream.radiofrance.fr/francemusique/francemusique.m3u8'
-    codec: AAC
-    bitrate: 107
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +32,19 @@ research:
   format: classical music, opera, concert programming, no advertising
   notes: France Musique is a channel of Radio France, the national public broadcasting corporation. Specialized in classical music, opera, and cultural programming, ad-free.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-7fdf8122-e85d-4f4e-9f88-11e8664eee2b
+  - iprd-fr-france-musique-e6375388
+streams:
+  - url: http://radio-metadata.fr:8000/francemusique
+    codec: AAC
+    bitrate: 192
+  - url: https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: https://stream.radiofrance.fr/francemusique/francemusique.m3u8
+    codec: AAC
+    bitrate: 107
+    hls: true

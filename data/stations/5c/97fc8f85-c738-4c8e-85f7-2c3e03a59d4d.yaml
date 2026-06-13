@@ -20,10 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-97fc8f85-c738-4c8e-85f7-2c3e03a59d4d
-duplicate_of: dba206f9-bf7e-11e9-8502-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: unknown
@@ -33,3 +29,7 @@ research:
   format: Unknown
   notes: "Data integrity issue: URL streams from talkradio.co.uk (UK station), homepage is livescore.cz (sports website), and country tagged as Uganda. Metadata appears corrupted or mismatched. talkRADIO (UK) is a commercial talk radio station but this entry's configuration is unreliable."
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-97fc8f85-c738-4c8e-85f7-2c3e03a59d4d
+duplicate_of: dba206f9-bf7e-11e9-8502-52543be04c81

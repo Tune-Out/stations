@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 04:44:02
 clickcount: 16
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c52f22bd-7bc4-4fd2-ab2b-c3c7f031a530
-streams:
-  - url: 'https://sex-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://sex-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -45,3 +35,13 @@ research:
   format: Adult-oriented "hot adult contemporary" / R&B / dance hits curated around a flirtatious / sensual mood theme as one of many genre / mood substreams in the RauteMusik network
   notes: RauteMusik (literally "hash music," styled "#Musik" / rm.fm) is one of Germany's largest non-broadcast / internet-only radio networks, founded in 2003 in Aachen by Stephan Hövelmanns and others as a hobbyist webcast that grew into a professional operation running 30+ genre and mood substreams (Trance, Goa, Charts, Black, Rock, Metal, Schlager, House, Club, Trap, Christmas etc.); "__SEX__" (also tagged "sussex" / "sex") is one of the network's thematic mood stations, presenting a curated playlist of adult contemporary, R&B and hot-hits styled programming positioned for nighttime / romantic listening contexts; RauteMusik holds a broadcasting licence from the LfM NRW (Landesanstalt für Medien NRW) and is funded primarily through advertising and listener donations; the radiobrowser-attached homepage page returned only the generic "Gleich geht's los..." waiting-screen so details specific to this substream's editorial line were not directly readable from the homepage.
   sources: https://www.rm.fm/sex
+curation: 0.35
+provenance:
+  - radiobrowser-c52f22bd-7bc4-4fd2-ab2b-c3c7f031a530
+streams:
+  - url: https://sex-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://sex-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

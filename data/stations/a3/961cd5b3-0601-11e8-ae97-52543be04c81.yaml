@@ -1,6 +1,6 @@
 stationuuid: 961cd5b3-0601-11e8-ae97-52543be04c81
 name: KUNM 89.9 "New Mexico Public Radio" Albuquerque, NM
-url: http://playerservices.streamtheworld.com/pls/KUNMFM_128.pls
+url: 'http://18443.live.streamtheworld.com:80/KUNMFM_128_SC'
 url_resolved: http://23023.live.streamtheworld.com:3690/KUNMFM_128_SC
 homepage: http://kunm.org/
 favicon: http://kunm.org/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:32:00
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-961cd5b3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Public radio programming including news, music, talk, and community content; 89.9 FM.
   notes: Community radio station licensed to University of New Mexico; member of NPR, PRI, APM, and Pacifica networks.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-961cd5b3-0601-11e8-ae97-52543be04c81

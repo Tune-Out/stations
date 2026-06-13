@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-0c1afdef-1078-41fd-a585-c69b347ac045
-streams:
-  - url: 'https://stream.streambase.ch/argovia/mp3-192/direct/'
-    codec: MP3
-  - url: 'https://stream.streambase.ch/argovia/mp3-192/radiobrowser/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Equal mix of entertainment and information programming
   notes: Founded May 1, 1990, broadcasting on 90.3 MHz and 94.9 MHz from studio in Aarau (moved from Brugg in 2005). Approximately 30 staff. Motto "De Soundtrack zom Läbe" (The Soundtrack to Life). Available via DAB+ throughout German-speaking Switzerland and via Radio Argovia app.
   sources: https://www.argovia.ch/, https://de.wikipedia.org/wiki/Radio_Argovia
+curation: 0.3
+provenance:
+  - radiobrowser-0c1afdef-1078-41fd-a585-c69b347ac045
+streams:
+  - url: https://stream.streambase.ch/argovia/mp3-192/direct/
+    codec: MP3
+  - url: https://stream.streambase.ch/argovia/mp3-192/radiobrowser/
+    codec: MP3

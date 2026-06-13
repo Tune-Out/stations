@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-96154188-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://livestream.cprnetwork.org/pls/live_newsinfo_aac.pls'
-    url_resolved: 'http://stream1.cprnetwork.org/cpr1_aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://livestream.cprnetwork.org/pls/live_newsinfo_mp3.pls'
-    url_resolved: 'http://stream1.cprnetwork.org/cpr1_lo'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +32,16 @@ research:
   format: News, information, public affairs, classical music (multiformat network)
   notes: KCFR 90.1 is Colorado Public Radio in Denver, Colorado, USA. Part of the NPR (National Public Radio) network and publicly-funded. The station focuses on news and information programming. One of the major public radio stations in the Denver metropolitan area.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-96154188-0601-11e8-ae97-52543be04c81
+  - iprd-us-kcfr-90-1-colorado-public-radio-news-24f8bbaf
+streams:
+  - url: http://livestream.cprnetwork.org/pls/live_newsinfo_aac.pls
+    url_resolved: http://stream1.cprnetwork.org/cpr1_aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://livestream.cprnetwork.org/pls/live_newsinfo_mp3.pls
+    url_resolved: http://stream1.cprnetwork.org/cpr1_lo
+    codec: MP3
+    bitrate: 64

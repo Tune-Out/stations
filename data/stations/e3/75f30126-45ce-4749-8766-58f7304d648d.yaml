@@ -1,7 +1,7 @@
 stationuuid: 75f30126-45ce-4749-8766-58f7304d648d
 name: WGLT
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WGLT_NIAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WGLT_NIAAC.aac
+url: 'https://22983.live.streamtheworld.com:443/WGLT_NIAAC.aac'
+url_resolved: 'https://22983.live.streamtheworld.com:443/WGLT_NIAAC.aac'
 homepage: https://www.wglt.org/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-02-10 22:51:46
 clickcount: 0
 geo_lat: 40.50859303615767
 geo_long: -88.98994374375447
-curation: 0.50
-provenance:
-  - radiobrowser-75f30126-45ce-4749-8766-58f7304d648d
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -34,3 +31,6 @@ research:
   format: News, talk, and public radio programming affiliated with NPR
   notes: WGLT is Illinois State University's NPR-affiliated public radio station; serves as both educational outlet and regional news source
   sources: https://www.wglt.org/
+curation: 0.5
+provenance:
+  - radiobrowser-75f30126-45ce-4749-8766-58f7304d648d

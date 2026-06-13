@@ -21,30 +21,6 @@ lastchangetime: 2026-01-15 01:13:59
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96223bbd-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.regenbogen.de/rr-kinderlieder-128-mp3'
-    codec: AAC
-  - url: 'https://stream.regenbogen.de/edsheeran/mp3-128/radiobrowser'
-    codec: AAC
-  - url: 'https://stream.regenbogen.de/flashback/aac-128/radiobrowser'
-    codec: AAC
-  - url: 'https://stream.regenbogen.de/inthemix/aac-128/homepage/'
-    codec: AAC
-  - url: 'https://stream.regenbogen.de/mannheim/aac-128/homepage/?mode=preroll&aw_0_1st.skey=1722167636&cb=616215657&listenerid=74ef2a67034c4ec4be669b302e719b73&metaid=74ef2a67034c4ec4be669b302e719b73'
-    codec: AAC
-  - url: 'http://streams.regenbogen.de/rr-metal-128-aac'
-    codec: AAC
-  - url: 'http://streams.regenbogen.de/rr-70errock-128-aac'
-    codec: AAC
-  - url: 'https://stream.regenbogen.de/konfettiparty/mp3-128/radiobrowser'
-    codec: MP3
-  - url: 'http://streams.regenbogen.de/rr-justblack-128-mp3'
-    codec: MP3
-  - url: 'https://stream.regenbogen.de/80erpoprock/mp3-128/radiobrowser'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -54,3 +30,29 @@ research:
   format: Children's songs (Kinderlieder) exclusively; educational and entertainment programming for kids
   notes: Part of Regenbogen radio network based in Baden-Württemberg; dedicated children's music stream.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96223bbd-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-regenbogen-just-black-366f8cb6
+  - iprd-de-radio-regenbogen-kinderlieder-cd88067d
+streams:
+  - url: http://streams.regenbogen.de/rr-kinderlieder-128-mp3
+    codec: AAC
+  - url: https://stream.regenbogen.de/edsheeran/mp3-128/radiobrowser
+    codec: AAC
+  - url: https://stream.regenbogen.de/flashback/aac-128/radiobrowser
+    codec: AAC
+  - url: https://stream.regenbogen.de/inthemix/aac-128/homepage/
+    codec: AAC
+  - url: https://stream.regenbogen.de/mannheim/aac-128/homepage/?mode=preroll&aw_0_1st.skey=1722167636&cb=616215657&listenerid=74ef2a67034c4ec4be669b302e719b73&metaid=74ef2a67034c4ec4be669b302e719b73
+    codec: AAC
+  - url: http://streams.regenbogen.de/rr-metal-128-aac
+    codec: AAC
+  - url: http://streams.regenbogen.de/rr-70errock-128-aac
+    codec: AAC
+  - url: https://stream.regenbogen.de/konfettiparty/mp3-128/radiobrowser
+    codec: MP3
+  - url: http://streams.regenbogen.de/rr-justblack-128-mp3
+    codec: MP3
+  - url: https://stream.regenbogen.de/80erpoprock/mp3-128/radiobrowser
+    codec: MP3

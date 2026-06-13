@@ -1,7 +1,7 @@
 stationuuid: bb03737b-2116-42c3-ae23-81de72bbf729
 name: LOS40 Colombia
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC.aac
+url: 'https://24223.live.streamtheworld.com:443/LOS40_COLOMBIAAAC.aac'
+url_resolved: 'https://24223.live.streamtheworld.com:443/LOS40_COLOMBIAAAC.aac'
 homepage: https://los40.com.co/
 favicon: https://cdn-profiles.tunein.com/p1306541/images/logod.png
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 00:18:06
 clickcount: 7
 geo_lat: 4.657448189440479
 geo_long: -74.08338546752931
-curation: -0.10
-provenance:
-  - radiobrowser-bb03737b-2116-42c3-ae23-81de72bbf729
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Top 40 hits, Latin pop, urban music
   notes: LOS40 Colombia is the Colombian version of the LOS40 top 40 radio network operated by Prisa Radio (Spain). Broadcasts from Bogotá with focus on contemporary pop, Latin hits, and urban music. International franchise focusing on youth demographic and chart hits. Available across Colombia through FM, online, and streaming platforms.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-bb03737b-2116-42c3-ae23-81de72bbf729

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:23:22
 clickcount: 3
 geo_lat: 43.64959068164199
 geo_long: -79.38995361328126
-curation: 0.50
-provenance:
-  - radiobrowser-0d4d3ad7-de6b-478f-90b6-02c1a4762277
-streams:
-  - url: 'https://ice5.securenetsystems.net/CIRV'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://ice5.securenetsystems.net/CIRV'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Portuguese-language programming, multicultural content
   notes: CIRV-HD2 is a specialized Portuguese-language stream from Red FM serving Toronto's Portuguese diaspora community with culturally relevant programming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-0d4d3ad7-de6b-478f-90b6-02c1a4762277
+streams:
+  - url: https://ice5.securenetsystems.net/CIRV
+    codec: AAC+
+    bitrate: 32
+  - url: http://ice5.securenetsystems.net/CIRV
+    codec: AAC+
+    bitrate: 32

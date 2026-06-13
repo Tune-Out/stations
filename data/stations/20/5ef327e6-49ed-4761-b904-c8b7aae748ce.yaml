@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-5ef327e6-49ed-4761-b904-c8b7aae748ce
-streams:
-  - url: 'https://partylive.radionoise.ro:9160/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.sonicpanel.ro:9160/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Manele music and party programming; specializes in traditional and modern manele styles with dance/club atmosphere
   notes: Romania-based specialized manele broadcaster; tagline "Petrecere" (Party); offers both classic manele (manele vechi) and contemporary dance-oriented content
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-5ef327e6-49ed-4761-b904-c8b7aae748ce
+streams:
+  - url: https://partylive.radionoise.ro:9160/
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.sonicpanel.ro:9160/
+    codec: MP3
+    bitrate: 128

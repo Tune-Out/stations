@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:01:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-961d3712-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radiostreaming.ert.gr/ert-102fm'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radiostreaming.ert.gr/ert-102fm'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,16 @@ research:
   format: ERT3 102 FM; public radio programming.
   notes: Part of Greek public broadcasting corporation (ERT). Publicly funded; 102 FM frequency. Greek-language programming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-961d3712-0601-11e8-ae97-52543be04c81
+  - iprd-gr-ert-3-102-0e3d8852
+  - iprd-gr-r-102-0-804d5b07
+  - iprd-gr-ert-serres-89-6-101-5-a6016c76
+streams:
+  - url: http://radiostreaming.ert.gr/ert-102fm
+    codec: MP3
+    bitrate: 192
+  - url: https://radiostreaming.ert.gr/ert-102fm
+    codec: MP3
+    bitrate: 192

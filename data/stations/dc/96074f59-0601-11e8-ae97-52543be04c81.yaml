@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 06:23:59
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-96074f59-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac?i=57064'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,17 @@ research:
   format: Lounge, smooth jazz, and ambient music
   notes: French commercial streaming service specializing in jazz and relaxation music; Lounge channel curates easy-listening jazz and ambient selections; streams at 128 kbps
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-96074f59-0601-11e8-ae97-52543be04c81
+  - iprd-fr-jazz-radio-lounge-b9143224
+streams:
+  - url: https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac?i=57064
+    codec: AAC+
+    bitrate: 64
+  - url: http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
+    codec: MP3
+    bitrate: 128

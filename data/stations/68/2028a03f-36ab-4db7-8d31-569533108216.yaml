@@ -1,7 +1,7 @@
 stationuuid: 2028a03f-36ab-4db7-8d31-569533108216
 name: B98.5 FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KURBFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KURBFMAAC.aac
+url: 'https://29313.live.streamtheworld.com:443/KURBFMAAC.aac'
+url_resolved: 'https://29313.live.streamtheworld.com:443/KURBFMAAC.aac'
 homepage: https://www.b98.com/
 favicon: https://www.b98.com/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:17:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2028a03f-36ab-4db7-8d31-569533108216
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary music format
   notes: US commercial FM radio station on 98.5 in Little Rock, Arkansas; adult contemporary format; operated by major broadcaster; streams via StreamTheWorld platform.
   sources: https://www.b98.com/
+curation: -0.05
+provenance:
+  - radiobrowser-2028a03f-36ab-4db7-8d31-569533108216

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a45cc813-2f6a-48ae-ab18-478f92c97327
-streams:
-  - url: 'http://18.141.67.248:8006/stream/1/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://cotabatostream.brigadanews.ph/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: News-focused FM radio with local and national coverage
   notes: Brigada News FM Cotabato is a news-oriented radio station operating in Cotabato City, part of the Brigada News Network's expansion into provincial markets in Mindanao.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a45cc813-2f6a-48ae-ab18-478f92c97327
+streams:
+  - url: http://18.141.67.248:8006/stream/1/
+    codec: MP3
+    bitrate: 192
+  - url: https://cotabatostream.brigadanews.ph/
+    codec: MP3
+    bitrate: 192

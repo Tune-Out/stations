@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1677d63b-0986-418b-b3d4-3e436bd40420
-streams:
-  - url: 'https://s2.ssl-stream.com/radio/8170/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s2.ssl-stream.com/listen/labgate_classic_rock/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,14 @@ research:
   format: Classic rock music programming
   notes: Community-based classic rock station serving Canadian listeners via internet streaming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1677d63b-0986-418b-b3d4-3e436bd40420
+  - iprd-ca-labgate-classic-rock-0eeaeae9
+streams:
+  - url: https://s2.ssl-stream.com/radio/8170/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://s2.ssl-stream.com/listen/labgate_classic_rock/radio.mp3
+    codec: MP3
+    bitrate: 128

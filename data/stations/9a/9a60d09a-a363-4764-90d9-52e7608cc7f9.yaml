@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 04:56:19
 clickcount: 16
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9a60d09a-a363-4764-90d9-52e7608cc7f9
-streams:
-  - url: 'https://stream.zeno.fm/84h97t3ewg0uv'
-    codec: MP3
-  - url: 'http://stream.zeno.fm/84h97t3ewg0uv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Hindi-language music programming, likely Bollywood and DJ remix content based on the station name
   notes: An obscure independent Hindi internet radio station with no public website (homepage field is empty); distributed via the Zeno.fm community streaming platform that hosts thousands of small independent operators worldwide; favicon hosted on onlineradiohub.com, an India-focused web radio directory; no verifiable parent company or broadcasting license, typical of small DIY internet-only operations in India's vast unregulated webradio scene.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9a60d09a-a363-4764-90d9-52e7608cc7f9
+  - iprd-in-my-radio-dj-e336a755
+streams:
+  - url: https://stream.zeno.fm/84h97t3ewg0uv
+    codec: MP3
+  - url: http://stream.zeno.fm/84h97t3ewg0uv
+    codec: MP3

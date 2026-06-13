@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 23:51:16
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-8c5f29ea-f6b5-4348-9238-3f6095cf99e2
-streams:
-  - url: 'http://www.abc.net.au/res/streaming/audio/aac/news_radio.pls'
-    url_resolved: 'http://abc.streamguys1.com/live/newsradio/icecast.audio'
-    codec: AAC+
-    bitrate: 56
-  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2109425/newsradio/v0-221.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,15 @@ research:
   format: 24-hour rolling news radio — bulletins, news analysis, live coverage of Australian and international events, and live broadcasts of Federal Parliament sittings (House of Representatives and Senate)
   notes: ABC NewsRadio launched 1994 as the Parliamentary and News Network (PNN), initially to fulfil ABC's statutory obligation to broadcast Parliament; carries BBC World Service, NPR and other international news during overnight hours; broadcasts on AM and FM frequencies in capital cities and regional centres plus DAB+ and online streaming; the ABC has at times faced political pressure and budget cuts from successive Australian governments and recurring debates over editorial impartiality.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-8c5f29ea-f6b5-4348-9238-3f6095cf99e2
+  - iprd-au-abc-news-radio-adfc5574
+streams:
+  - url: http://www.abc.net.au/res/streaming/audio/aac/news_radio.pls
+    url_resolved: http://abc.streamguys1.com/live/newsradio/icecast.audio
+    codec: AAC+
+    bitrate: 56
+  - url: https://mediaserviceslive.akamaized.net/hls/live/2109425/newsradio/v0-221.m3u8
+    codec: UNKNOWN
+    hls: true

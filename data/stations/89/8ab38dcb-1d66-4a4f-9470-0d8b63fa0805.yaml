@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8ab38dcb-1d66-4a4f-9470-0d8b63fa0805
-streams:
-  - url: 'http://5.9.8.20:8000/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://hromadske.radio/radio_https_upstream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: News, podcasts, investigative journalism, and current affairs programming in Ukrainian
   notes: Independent non-profit public broadcaster founded 2013 by journalists and civic activists; provides news coverage, investigative reporting, and podcasts; operates as streaming MP3 service; represents independent media in Ukraine
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8ab38dcb-1d66-4a4f-9470-0d8b63fa0805
+streams:
+  - url: http://5.9.8.20:8000/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://hromadske.radio/radio_https_upstream
+    codec: MP3
+    bitrate: 128

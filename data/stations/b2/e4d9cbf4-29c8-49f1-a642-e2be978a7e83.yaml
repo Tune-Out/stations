@@ -21,17 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e4d9cbf4-29c8-49f1-a642-e2be978a7e83
-streams:
-  - url: 'http://quincy.torontocast.com:2920/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.radio-addictive-50s.eu/stream/128mp3.m3u'
-    url_resolved: 'http://quincy.torontocast.com:2920/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: 1950s hits, golden oldies, rock and roll, doo-wop, early rock
   notes: Addictive-50s is an internet radio station specializing in 1950s music and golden oldies. European-operated station serving global audience of 50s music enthusiasts and nostalgia listeners.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e4d9cbf4-29c8-49f1-a642-e2be978a7e83
+streams:
+  - url: http://quincy.torontocast.com:2920/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://www.radio-addictive-50s.eu/stream/128mp3.m3u
+    url_resolved: http://quincy.torontocast.com:2920/stream
+    codec: MP3
+    bitrate: 128

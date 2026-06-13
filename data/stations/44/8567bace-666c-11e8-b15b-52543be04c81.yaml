@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 05:41:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-8567bace-666c-11e8-b15b-52543be04c81
-duplicate_of: 962e8aac-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.pinguinradio.com/PinguinRadio320.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://streams.pinguinradio.com/PinguinRadio320.mp3?ngsw-bypass'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: Alternative and indie music; emerging artist focus; music discovery
   notes: Internet radio station with mission "Discover new artists and their music!" focusing on promoting emerging talent. High-quality 320kbps MP3 streaming.
   sources: https://pinguinradio.com/
+curation: 0.3
+provenance:
+  - radiobrowser-8567bace-666c-11e8-b15b-52543be04c81
+duplicate_of: 962e8aac-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.pinguinradio.com/PinguinRadio320.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://streams.pinguinradio.com/PinguinRadio320.mp3?ngsw-bypass
+    codec: MP3
+    bitrate: 320

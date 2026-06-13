@@ -1,6 +1,6 @@
 stationuuid: 96464cac-0601-11e8-ae97-52543be04c81
 name: WSOY-FM 102.9 "Y103" Decatur, IL
-url: http://provisioning.streamtheworld.com/pls/WSOYFMAAC.pls
+url: 'http://18513.live.streamtheworld.com:80/WSOYFMAAC_SC'
 url_resolved: http://19303.live.streamtheworld.com:3690/WSOYFMAAC_SC
 homepage: http://www.nowdecatur.com/y103/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2357/squareIcon.png?r=80320
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:53:43
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96464cac-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: contemporary hit radio (Top 40) with morning show, entertainment news
   notes: Y103 branding; part of Cumulus Media's iHeartRadio network; targets young adult demographic.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96464cac-0601-11e8-ae97-52543be04c81

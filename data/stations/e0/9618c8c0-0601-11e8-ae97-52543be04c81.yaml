@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 01:18:42
 clickcount: 26
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9618c8c0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Classic rock, rock music across decades with emphasis on established rock catalog.
   notes: RADIO BOB! is a German commercial streaming radio station dedicated to rock music and classic rock. Programming covers classic rock acts and established rock music catalog. Targets adult rock audiences across Germany and German-speaking regions.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9618c8c0-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer
+    codec: MP3

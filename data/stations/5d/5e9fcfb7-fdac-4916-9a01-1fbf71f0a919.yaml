@@ -24,17 +24,6 @@ lastchangetime: 2026-01-15 07:12:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-5e9fcfb7-fdac-4916-9a01-1fbf71f0a919
-streams:
-  - url: 'https://listen1.myradio24.com/8317'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://myradio24.org/8317.m3u'
-    url_resolved: 'http://myradio24.org/8317'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +33,15 @@ research:
   format: Online streaming radio with top 40 and Russian hits programming
   notes: Russian internet radio station specializing in popular music, contemporary hits, and chart-focused content; operates via streaming platform.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-5e9fcfb7-fdac-4916-9a01-1fbf71f0a919
+  - iprd-ru-radio-rare-fishes-6e74edd7
+streams:
+  - url: https://listen1.myradio24.com/8317
+    codec: MP3
+    bitrate: 192
+  - url: https://myradio24.org/8317.m3u
+    url_resolved: http://myradio24.org/8317
+    codec: MP3
+    bitrate: 192

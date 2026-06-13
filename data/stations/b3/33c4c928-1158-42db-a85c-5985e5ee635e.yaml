@@ -22,34 +22,6 @@ lastchangetime: 2026-01-15 03:43:13
 clickcount: 2
 geo_lat: 52.37214731459573
 geo_long: 9.739723205566408
-curation: 0.35
-provenance:
-  - radiobrowser-33c4c928-1158-42db-a85c-5985e5ee635e
-streams:
-  - url: 'http://ic.radiomonster.fm/evergreens.ultra'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://schlager.radiomonster.fm/320.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://evergreens.radiomonster.fm/listen.m3u'
-    url_resolved: 'https://ic.radiomonster.fm/evergreens.ultra'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://rock.radiomonster.fm/listen.m3u'
-    url_resolved: 'https://ic.radiomonster.fm/rock.ultra'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://2000s.radiomonster.fm/listen.m3u'
-    url_resolved: 'https://ic.radiomonster.fm/2000s.ultra'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://evergreens.radiomonster.fm/ultra'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://rock.radiomonster.fm/ultra'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -59,3 +31,33 @@ research:
   format: Evergreens; classic rock; retro and nostalgia programming
   notes: RadioMonster.FM is German community internet radio network featuring user-created channels. Evergreens channel focuses on classic evergreen music and rock hits from 1960s-1980s. Non-commercial, community-driven model. Part of larger RadioMonster ecosystem.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-33c4c928-1158-42db-a85c-5985e5ee635e
+  - iprd-de-radiomonster-fm-evergreens-0482113b
+  - iprd-de-radiomonster-fm-schlager-kanal-b4af99f3
+streams:
+  - url: http://ic.radiomonster.fm/evergreens.ultra
+    codec: MP3
+    bitrate: 320
+  - url: http://schlager.radiomonster.fm/320.mp3
+    codec: MP3
+    bitrate: 320
+  - url: http://evergreens.radiomonster.fm/listen.m3u
+    url_resolved: https://ic.radiomonster.fm/evergreens.ultra
+    codec: MP3
+    bitrate: 320
+  - url: http://rock.radiomonster.fm/listen.m3u
+    url_resolved: https://ic.radiomonster.fm/rock.ultra
+    codec: MP3
+    bitrate: 320
+  - url: https://2000s.radiomonster.fm/listen.m3u
+    url_resolved: https://ic.radiomonster.fm/2000s.ultra
+    codec: MP3
+    bitrate: 320
+  - url: http://evergreens.radiomonster.fm/ultra
+    codec: MP3
+    bitrate: 320
+  - url: http://rock.radiomonster.fm/ultra
+    codec: MP3
+    bitrate: 320

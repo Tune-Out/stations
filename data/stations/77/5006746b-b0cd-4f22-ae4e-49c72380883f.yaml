@@ -19,22 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5006746b-b0cd-4f22-ae4e-49c72380883f
-streams:
-  - url: 'https://de3.amfmph.com:2199/tunein/wildiloilo-stream.pls'
-    url_resolved: 'http://62.138.18.102:8133/stream'
-    codec: AAC+
-    bitrate: 24
-  - url: 'http://us2.amfmph.com:2199/tunein/wildiloilo-stream.pls'
-    url_resolved: 'http://148.72.153.65:9253/stream'
-    codec: AAC+
-    bitrate: 24
-  - url: 'http://de3.amfmph.com:2199/tunein/wildiloilo-stream.pls'
-    url_resolved: 'http://62.138.18.102:8133/stream'
-    codec: AAC+
-    bitrate: 24
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +28,19 @@ research:
   format: Contemporary hits, pop, OPM (Original Pilipino Music), and general entertainment.
   notes: Wild FM Iloilo operates as commercial FM station in Iloilo City at 92.7 FM; part of AMFM Philippines network; serves metropolitan Iloilo region with contemporary music and entertainment programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5006746b-b0cd-4f22-ae4e-49c72380883f
+streams:
+  - url: https://de3.amfmph.com:2199/tunein/wildiloilo-stream.pls
+    url_resolved: http://62.138.18.102:8133/stream
+    codec: AAC+
+    bitrate: 24
+  - url: http://us2.amfmph.com:2199/tunein/wildiloilo-stream.pls
+    url_resolved: http://148.72.153.65:9253/stream
+    codec: AAC+
+    bitrate: 24
+  - url: http://de3.amfmph.com:2199/tunein/wildiloilo-stream.pls
+    url_resolved: http://62.138.18.102:8133/stream
+    codec: AAC+
+    bitrate: 24

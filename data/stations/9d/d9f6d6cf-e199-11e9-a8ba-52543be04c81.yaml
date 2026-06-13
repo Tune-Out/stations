@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-d9f6d6cf-e199-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-worldbeats-128-mp3'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-worldbeats-64-aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Worldbeats — non-Western and global music programming; world music, diverse cultural music traditions.
   notes: bigFM is a major German commercial radio group; Worldbeats channel specializes in world music and beats from diverse global traditions; part of bigFM's multi-genre station portfolio; online streaming service.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-d9f6d6cf-e199-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-worldbeats-128-mp3
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-worldbeats-64-aac
+    codec: AAC

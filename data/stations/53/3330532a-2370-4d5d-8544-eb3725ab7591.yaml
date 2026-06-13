@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 00:31:56
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-3330532a-2370-4d5d-8544-eb3725ab7591
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/2step96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/2step96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: 2step drum and bass, electronic dance music
   notes: 2step is a specialized channel of Radio Record featuring drum and bass and 2step garage subgenres. Radio Record is one of Russia's largest commercial radio networks.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-3330532a-2370-4d5d-8544-eb3725ab7591
+  - iprd-ru-radio-rekord-2step-1ed7995b
+streams:
+  - url: http://radiorecord.hostingradio.ru/2step96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/2step96.aacp
+    codec: AAC

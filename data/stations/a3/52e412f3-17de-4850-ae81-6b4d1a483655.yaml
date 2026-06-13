@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 1
 geo_lat: 52.837036719355446
 geo_long: -110.86114883422852
-curation: -0.05
-provenance:
-  - radiobrowser-52e412f3-17de-4850-ae81-6b4d1a483655
-streams:
-  - url: 'http://newcap.leanstream.co/CKWYFM'
-    codec: AAC
-    bitrate: 143
-  - url: 'http://newcap.leanstream.co/CKWYFM'
-    codec: AAC
-    bitrate: 138
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Contemporary hits radio; "Hot 93.7"; top 40, pop music
   notes: CKWY-FM operates as "Hot 93.7" serving Wainwright and surrounding Alberta region; underwent rebranding and format change to contemporary hits.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-52e412f3-17de-4850-ae81-6b4d1a483655
+  - iprd-ca-ckwy-93-7-wayne-fm-ff3ff90a
+streams:
+  - url: http://newcap.leanstream.co/CKWYFM
+    codec: AAC
+    bitrate: 143
+  - url: http://newcap.leanstream.co/CKWYFM
+    codec: AAC
+    bitrate: 138

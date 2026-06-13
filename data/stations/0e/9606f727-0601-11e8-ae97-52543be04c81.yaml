@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 08:07:13
 clickcount: 301
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-9606f727-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,15 @@ research:
   format: Youth-oriented hot AC / CHR with pop, rock, hip-hop, dance, and Top-40 hits, plus news, magazines, podcasts, comedy, and youth-focused journalism
   notes: Launched 1 April 1995 (replacing Radio 5) as WDR's youth radio service. One of the most-listened-to young-target radio stations in Germany. Headquartered in Cologne. Streams confirmed via icecast.wdr.de domain in the URL. The station's mission per WDR-Gesetz is to provide public-service broadcasting for younger audiences with cultural, journalistic, and entertainment content. "1LIVE Krone" award is a notable annual German music/media prize the station gives out.
   sources: internal knowledge of WDR/ARD; homepage redirects from einslive.de to www1.wdr.de (confirming WDR ownership)
+curation: 0.6
+provenance:
+  - radiobrowser-9606f727-0601-11e8-ae97-52543be04c81
+  - iprd-de-1live-5a346a5c
+  - iprd-de-1live-6cb1e3d2
+streams:
+  - url: http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

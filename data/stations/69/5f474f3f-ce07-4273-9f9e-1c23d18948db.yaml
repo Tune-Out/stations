@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5f474f3f-ce07-4273-9f9e-1c23d18948db
-streams:
-  - url: 'https://a11.asurahosting.com:7470/spirit_online'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://radio.spirittoc.com:8060/spirit_online'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Christian radio with youth-focused programming including biblical discussion, prayer, health advice, career guidance, and counseling segments
   notes: Non-commercial Christian radio station branded as "Radio Kristen" with mission "Transform Your Life." Provides "pengetahuan kepada pendengar" (knowledge to listeners) through faith-centered programming. Daily schedule includes morning drive (06:00-08:00 WIB), midday show (12:00-14:00 WIB), biblical discussion, prayer requests, health advice (KADOS), career guidance (PRIME), and counseling (CUTI). Accessible via internet streaming, mobile apps (iOS/Android), and YouTube live streaming.
   sources: https://spirittoc.com/
+curation: 0.35
+provenance:
+  - radiobrowser-5f474f3f-ce07-4273-9f9e-1c23d18948db
+streams:
+  - url: https://a11.asurahosting.com:7470/spirit_online
+    codec: AAC
+    bitrate: 96
+  - url: https://radio.spirittoc.com:8060/spirit_online
+    codec: AAC
+    bitrate: 96

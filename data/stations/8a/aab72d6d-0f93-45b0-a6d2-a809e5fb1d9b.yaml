@@ -1,7 +1,7 @@
 stationuuid: aab72d6d-0f93-45b0-a6d2-a809e5fb1d9b
 name: ESPN 630 DC
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WSBNAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WSBNAMAAC.aac
+url: 'https://26183.live.streamtheworld.com:443/WSBNAMAAC.aac'
+url_resolved: 'https://26183.live.streamtheworld.com:443/WSBNAMAAC.aac'
 homepage: https://www.sportscapitoldc.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3322/squareIcon.png?r=87159
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:18:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-aab72d6d-0f93-45b0-a6d2-a809e5fb1d9b
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports talk, news, and commentary (630 AM)
   notes: Commercial sports radio station licensed to Washington, DC; operates under ESPN Radio network; branded "Sports Capitol DC"; owned by Cumulus Media.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-aab72d6d-0f93-45b0-a6d2-a809e5fb1d9b

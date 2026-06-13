@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:43:13
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-70f341d9-6b5b-41ec-8b1c-df2039f61ac1
-streams:
-  - url: 'https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Manouche jazz and gypsy jazz; jazz music programming; French jazz tradition focus.
   notes: Jazzradio.fr Jazz Manouche is a specialized streaming channel dedicated to manouche jazz, a French jazz tradition, part of the broader Jazzradio.fr network.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-70f341d9-6b5b-41ec-8b1c-df2039f61ac1
+  - iprd-fr-jazz-radio-manouche-4c89219c
+streams:
+  - url: https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3
+    codec: MP3
+    bitrate: 128

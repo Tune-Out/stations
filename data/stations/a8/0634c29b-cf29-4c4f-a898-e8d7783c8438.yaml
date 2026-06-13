@@ -28,19 +28,6 @@ lastchangetime: 2026-03-19 05:13:46
 clickcount: 2
 geo_lat: 20.64126084796927
 geo_long: -105.22095680236818
-curation: -0.10
-provenance:
-  - radiobrowser-0634c29b-cf29-4c4f-a898-e8d7783c8438
-streams:
-  - url: 'https://streaming.servicioswebmx.com/8142/stream'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://streaming.servicioswebmx.com/8142/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streaming.servicioswebmx.com/8142/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -50,3 +37,16 @@ research:
   format: Pop, balada pop, classic hits from 90s and 2000s in Spanish and English
   notes: Licensed commercial station on 96.7 FM (XHCCBA-FM); part of Grupo Radio Cañón network serving Latin America
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-0634c29b-cf29-4c4f-a898-e8d7783c8438
+streams:
+  - url: https://streaming.servicioswebmx.com/8142/stream
+    codec: MP3
+    bitrate: 256
+  - url: https://streaming.servicioswebmx.com/8142/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://streaming.servicioswebmx.com/8142/stream
+    codec: MP3
+    bitrate: 128

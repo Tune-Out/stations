@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 00:17:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-73a84da0-7489-43f9-b8ad-4c987fb96b8b
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/1811/64k.mp3'
-    codec: MP3
-  - url: 'http://live.ximalaya.com/radio-first-page-app/live/609/64.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +32,12 @@ research:
   format: Information and traffic radio dedicated to automobile travel, information, and transportation news
   notes: 江西信息交通广播 (Jiangxi Information Traffic Radio) is a provincial public broadcaster focused on traffic and transportation information for drivers in Jiangxi
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-73a84da0-7489-43f9-b8ad-4c987fb96b8b
+streams:
+  - url: https://lhttp.qtfm.cn/live/1811/64k.mp3
+    codec: MP3
+  - url: http://live.ximalaya.com/radio-first-page-app/live/609/64.m3u8
+    codec: UNKNOWN
+    hls: true

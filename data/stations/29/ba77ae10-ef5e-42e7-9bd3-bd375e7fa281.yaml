@@ -19,10 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ba77ae10-ef5e-42e7-9bd3-bd375e7fa281
-duplicate_of: 190042b1-f9d2-45fa-9a51-6adaa4117b98
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +28,7 @@ research:
   format: Demo/test stream; representative of standard streaming platform offerings
   notes: AMFMPH is a Philippine streaming platform; this is a demo stream for testing connectivity and platform features; extremely low bitrate (32 kbps) suitable for limited bandwidth environments; serves as platform showcase
   sources: https://www.amfmph.net/demo/#player, internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ba77ae10-ef5e-42e7-9bd3-bd375e7fa281
+duplicate_of: 190042b1-f9d2-45fa-9a51-6adaa4117b98

@@ -1,7 +1,7 @@
 stationuuid: 56fa3685-0f17-42f0-bc18-62d7c75bd352
 name: Sunshine FM 104.9
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/4SFM_SC?dist=onlineradiobox
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/4SFM_SC?dist=onlineradiobox
+url: 'https://28893.live.streamtheworld.com:443/4SFM_SC?dist=onlineradiobox'
+url_resolved: 'https://28893.live.streamtheworld.com:443/4SFM_SC?dist=onlineradiobox'
 homepage: https://www.sunshinefm.com.au/
 favicon: https://images.squarespace-cdn.com/content/v1/605b27a29474fe7056ab0e7b/1617433439376-2TKE53HV2UM5OH271KD8/SFM+Logo+1.0.png?format=1500w
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-56fa3685-0f17-42f0-bc18-62d7c75bd352
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,7 @@ research:
   format: FM 104.9 adult contemporary radio
   notes: Australian commercial broadcaster; limited public information available
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-56fa3685-0f17-42f0-bc18-62d7c75bd352
+  - iprd-au-sunshine-fm-104-9-be501ab2

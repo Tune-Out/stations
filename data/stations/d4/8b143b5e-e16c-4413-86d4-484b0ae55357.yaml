@@ -1,7 +1,7 @@
 stationuuid: 8b143b5e-e16c-4413-86d4-484b0ae55357
 name: Bible Witness Web Radio
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC
+url: 'https://13683.live.streamtheworld.com:443/SP_R3179571_SC'
+url_resolved: 'https://13683.live.streamtheworld.com:443/SP_R3179571_SC'
 homepage: https://biblewitness.com/bwwr/
 favicon: https://biblewitness.com/wp-content/uploads/2021/02/cropped-bible-witness-favicon-180x180.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8b143b5e-e16c-4413-86d4-484b0ae55357
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -31,3 +28,6 @@ research:
   format: Religious/spiritual education; Bible teaching; Christian programming
   notes: Bible Witness Web Radio is an evangelical Christian online radio ministry operated by Bible Witness ministry based in Singapore. Provides Bible study, teaching, and Christian spiritual content via internet streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8b143b5e-e16c-4413-86d4-484b0ae55357

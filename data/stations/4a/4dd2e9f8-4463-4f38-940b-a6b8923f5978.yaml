@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 06:01:29
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-4dd2e9f8-4463-4f38-940b-a6b8923f5978
-streams:
-  - url: 'https://klassik-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://klassik-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Classical and classical music programming
   notes: Part of rautemusik's network of themed music streams based in Germany. Provides dedicated classical music stream with 24/7 programming.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-4dd2e9f8-4463-4f38-940b-a6b8923f5978
+streams:
+  - url: https://klassik-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://klassik-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

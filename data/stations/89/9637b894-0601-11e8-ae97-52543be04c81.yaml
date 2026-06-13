@@ -24,20 +24,6 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-9637b894-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.laut.fm/nightclub'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/nightclub'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/shout_fm.m3u'
-    url_resolved: 'http://shoutfm.stream.laut.fm/shout_fm?pl=m3u&t302=2026-01-15_07-08-22&uuid=b188a501-b36b-47a4-a557-23933e12cfcf'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -47,3 +33,19 @@ research:
   format: Nightclub music; 80s, 90s, NDW (Neue Deutsche Welle), disco tracks
   notes: Shout-FM Nightclub Stream is hosted on Laut.fm community platform, specializing in 80s retro, 90s dance, and NDW German music for club/party environments. Non-commercial user-curated station within Laut.fm ecosystem. Lower Saxony based.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-9637b894-0601-11e8-ae97-52543be04c81
+  - iprd-de-shout-fm-mainstream-52c3a9d7
+  - iprd-de-shout-fm-nightclub-stream-d1151660
+streams:
+  - url: http://stream.laut.fm/nightclub
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/nightclub
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/shout_fm.m3u
+    url_resolved: http://shoutfm.stream.laut.fm/shout_fm?pl=m3u&t302=2026-01-15_07-08-22&uuid=b188a501-b36b-47a4-a557-23933e12cfcf
+    codec: MP3
+    bitrate: 128

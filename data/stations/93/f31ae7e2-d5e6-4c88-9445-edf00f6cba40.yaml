@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 03:56:47
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-f31ae7e2-d5e6-4c88-9445-edf00f6cba40
-streams:
-  - url: 'https://stream.bnr.nl/bnr_aac_96_20'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://stream.bnr.nl/bnr_mp3_128_20'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.bnr.nl/bnr_mp3_128_01'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +32,17 @@ research:
   format: Business news, financial reporting, and business-focused talk programming.
   notes: BNR Nieuwsradio is a Dutch-language business and news radio station. Independent broadcaster focusing on business journalism and financial markets coverage for Netherlands audience.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-f31ae7e2-d5e6-4c88-9445-edf00f6cba40
+  - iprd-nl-bnr-nieuwsradio-a48a1e40
+streams:
+  - url: https://stream.bnr.nl/bnr_aac_96_20
+    codec: AAC+
+    bitrate: 96
+  - url: https://stream.bnr.nl/bnr_mp3_128_20
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.bnr.nl/bnr_mp3_128_01
+    codec: MP3
+    bitrate: 128

@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 08:28:39
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8ed13a99-657d-4935-9ef4-652731d9db8e
-duplicate_of: e8c27cc3-e6e8-40b4-aca1-5e293a548c63
-streams:
-  - url: 'https://s3.slotex.pl/shoutcast/7354/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s3.slotex.pl/shoutcast/7354/stream?sid=1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +34,14 @@ research:
   format: Electronic dance music (EDM, house, techno, trance)
   notes: Polish commercial dance radio station; targets club and festival audiences with contemporary dance and electronic music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8ed13a99-657d-4935-9ef4-652731d9db8e
+duplicate_of: e8c27cc3-e6e8-40b4-aca1-5e293a548c63
+streams:
+  - url: https://s3.slotex.pl/shoutcast/7354/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://s3.slotex.pl/shoutcast/7354/stream?sid=1
+    codec: MP3
+    bitrate: 128

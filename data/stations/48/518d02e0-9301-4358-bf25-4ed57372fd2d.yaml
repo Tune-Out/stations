@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:44:13
 clickcount: 23
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-518d02e0-9301-4358-bf25-4ed57372fd2d
-streams:
-  - url: 'https://jfm1.hostingradio.ru:14536/ijstream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://jfm1.hostingradio.ru:14536/ijstream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Instrumental jazz, jazz classics, contemporary jazz
   notes: Russian commercial radio station specializing in instrumental jazz. Features jazz standards, contemporary jazz recordings, and jazz-oriented programming. Available online and in Russia.
   sources: https://radiojazzfm.ru/, internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-518d02e0-9301-4358-bf25-4ed57372fd2d
+  - iprd-ru-instrumental-jazz-93889838
+  - iprd-ru-radio-jazz-89-1-d47e7604
+streams:
+  - url: https://jfm1.hostingradio.ru:14536/ijstream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://jfm1.hostingradio.ru:14536/ijstream.mp3
+    codec: MP3
+    bitrate: 128

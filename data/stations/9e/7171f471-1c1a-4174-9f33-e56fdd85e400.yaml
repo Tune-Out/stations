@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:20:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7171f471-1c1a-4174-9f33-e56fdd85e400
-streams:
-  - url: 'http://s2.radio.co/sae3372059/listen'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://s2.radio.co/sae3372059/listen'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Community radio with varied programming reflecting local interests and events
   notes: Volunteer-run community radio station serving Shepparton region in central Victoria; 98.5 FM broadcast frequency; part of Australian community radio movement
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7171f471-1c1a-4174-9f33-e56fdd85e400
+streams:
+  - url: http://s2.radio.co/sae3372059/listen
+    codec: AAC
+    bitrate: 96
+  - url: https://s2.radio.co/sae3372059/listen
+    codec: AAC
+    bitrate: 96

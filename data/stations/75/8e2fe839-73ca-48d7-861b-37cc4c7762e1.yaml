@@ -21,19 +21,6 @@ lastchangetime: 2026-01-31 08:23:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-8e2fe839-73ca-48d7-861b-37cc4c7762e1
-duplicate_of: e96086c0-ae22-4e98-8f54-38c8680cdd40
-streams:
-  - url: 'http://sa46.scastream.com.au/live/7goodvibes_128.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
-  - url: 'https://sa46.scastream.com.au/live/7goodvibes_128.stream/playlist.m3u8?'
-    codec: AAC
-    bitrate: 130
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +30,16 @@ research:
   format: Good vibes format (uplifting pop, feel-good music, positive content)
   notes: LiSTNR is an Australian commercial streaming radio platform operating themed stations including "Good Vibes." Platform focuses on curated feel-good music and positive programming for Australian audiences.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-8e2fe839-73ca-48d7-861b-37cc4c7762e1
+duplicate_of: e96086c0-ae22-4e98-8f54-38c8680cdd40
+streams:
+  - url: http://sa46.scastream.com.au/live/7goodvibes_128.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: https://sa46.scastream.com.au/live/7goodvibes_128.stream/playlist.m3u8?
+    codec: AAC
+    bitrate: 130
+    hls: true

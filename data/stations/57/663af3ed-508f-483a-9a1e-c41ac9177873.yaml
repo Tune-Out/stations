@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 2
 geo_lat: 53.89940263011331
 geo_long: 27.55577087402344
-curation: -0.10
-provenance:
-  - radiobrowser-663af3ed-508f-483a-9a1e-c41ac9177873
-streams:
-  - url: 'https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio'
-    codec: AAC+
-  - url: 'https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio'
-    codec: AAC+
-  - url: 'https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio'
-    codec: AAC+
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: dance, hits, pop music with non-stop programming
   notes: Major commercial radio network in Belarus based in Minsk; "Top Non-Stop" stream emphasizes continuous pop, dance, and hits programming; popular across Belarus and Russian-speaking regions.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-663af3ed-508f-483a-9a1e-c41ac9177873
+streams:
+  - url: https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio
+    codec: AAC+
+  - url: https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio
+    codec: AAC+
+  - url: https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
+    codec: AAC+

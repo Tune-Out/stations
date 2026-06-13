@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: -5.818862220069892
 geo_long: -35.20980834960938
-curation: 0.35
-provenance:
-  - radiobrowser-3bf3d027-13a8-4840-9281-067d48c64b7c
-streams:
-  - url: 'https://cidadedosolaac.jmvstream.com/stream?1732978147095'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cidadedosolaac.jmvstream.com/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Local news, MPB (Brazilian Popular Music), pop music
   notes: Based in Natal, northeastern Brazil; independent commercial station serving local community
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3bf3d027-13a8-4840-9281-067d48c64b7c
+streams:
+  - url: https://cidadedosolaac.jmvstream.com/stream?1732978147095
+    codec: MP3
+    bitrate: 128
+  - url: https://cidadedosolaac.jmvstream.com/stream
+    codec: MP3
+    bitrate: 128

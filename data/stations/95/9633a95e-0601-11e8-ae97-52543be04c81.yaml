@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 33
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-9633a95e-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.omroep.nl/radio6-bb-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://icecast.omroep.nl/radio6-sb-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'http://icecast.omroep.nl/radio6-bb-mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://icecast.omroep.nl/radio6-bb-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -48,3 +32,22 @@ research:
   format: Soul, jazz, blues; music-focused programming
   notes: Specialized channel within NPO public broadcasting network dedicated to soul and jazz music; serves Dutch audience with classic and contemporary soul and jazz programming
   sources: internal knowledge only
+curation: 0.75
+provenance:
+  - radiobrowser-9633a95e-0601-11e8-ae97-52543be04c81
+  - iprd-nl-npo-radio-2-soul-jazz-31340932
+  - iprd-nl-npo-radio-2-soul-jazz-7b995f87
+  - iprd-nl-npo-radio-2-soul-jazz-91763c34
+streams:
+  - url: http://icecast.omroep.nl/radio6-bb-aac
+    codec: AAC
+    bitrate: 64
+  - url: http://icecast.omroep.nl/radio6-sb-aac
+    codec: AAC
+    bitrate: 32
+  - url: http://icecast.omroep.nl/radio6-bb-mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://icecast.omroep.nl/radio6-bb-mp3
+    codec: MP3
+    bitrate: 192

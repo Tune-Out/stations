@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 04:19:22
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b5848eac-1539-4b28-a43e-3861b1fb2e23
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/rock96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/rock96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Rock music channel within the Radio Record network portfolio
   notes: Part of Radio Record, one of Russia's largest commercial radio networks. Founded in 1993. Rock channel targets adult audience interested in rock music. Multiple stream formats available (AAC 96 kbps).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b5848eac-1539-4b28-a43e-3861b1fb2e23
+  - iprd-ru-radio-rekord-rock-97de308d
+streams:
+  - url: http://radiorecord.hostingradio.ru/rock96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/rock96.aacp
+    codec: AAC

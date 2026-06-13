@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-45d70f9c-94ab-45cd-8760-96da8ee24501
-streams:
-  - url: 'http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8?'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -42,3 +32,14 @@ research:
   format: Traffic information, transportation news, public service announcements
   notes: Jiangsu Traffic Radio (江苏交通广播网); specialized state radio station providing real-time traffic updates and transportation information for Jiangsu Province.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-45d70f9c-94ab-45cd-8760-96da8ee24501
+  - iprd-cn-kiangsu-traffic-radio-803c99bd
+streams:
+  - url: http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8?
+    codec: UNKNOWN
+    hls: true
+  - url: http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8
+    codec: UNKNOWN
+    hls: true

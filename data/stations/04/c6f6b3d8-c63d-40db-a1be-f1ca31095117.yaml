@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 07:54:19
 clickcount: 2
 geo_lat: 31.223449685606056
 geo_long: 121.46989414582367
-curation: 0.55
-provenance:
-  - radiobrowser-c6f6b3d8-c63d-40db-a1be-f1ca31095117
-streams:
-  - url: 'https://lhttp.qingting.fm/live/267/64k.mp3?listening-from-radio-garden=1696445196'
-    codec: MP3
-  - url: 'http://lhttp.qingting.fm/live/267/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +31,12 @@ research:
   format: Classical music, Western orchestral music, traditional Chinese classical music
   notes: Shanghai Classics FM 94.7; part of state-owned Shanghai Media Group; focuses on high-culture classical programming; Mandarin language
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-c6f6b3d8-c63d-40db-a1be-f1ca31095117
+  - iprd-cn-shanghai-classical-music-radio-94-7-5cb82a8f
+streams:
+  - url: https://lhttp.qingting.fm/live/267/64k.mp3?listening-from-radio-garden=1696445196
+    codec: MP3
+  - url: http://lhttp.qingting.fm/live/267/64k.mp3
+    codec: MP3

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:58:19
 clickcount: 96
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960f36b5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.100p.nl/100pctnl.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://27903.live.streamtheworld.com/100PNL_MP3_SC'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: 100% Nederlandstalige muziek — exclusively Dutch-language pop, schlager, levenslied, and Nederpop (e.g., Marco Borsato, BLØF, Nick & Simon, Jan Smit, Frans Bauer)
   notes: Founded in 2005, distinctive in the Dutch radio market for playing only Dutch-language songs. Broadcasts nationally on DAB+, cable, and online; previously on FM in select regions. Hosts the annual "100% NL Awards" recognizing Dutch-language artists, and has spawned a TV channel and magazine. Homepage fetch was blocked, but ownership and format are well documented.
   sources: internal knowledge (homepage fetch blocked)
+curation: -0.05
+provenance:
+  - radiobrowser-960f36b5-0601-11e8-ae97-52543be04c81
+  - iprd-nl-100-nl-3924737d
+streams:
+  - url: http://stream.100p.nl/100pctnl.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://27903.live.streamtheworld.com/100PNL_MP3_SC
+    codec: MP3
+    bitrate: 128

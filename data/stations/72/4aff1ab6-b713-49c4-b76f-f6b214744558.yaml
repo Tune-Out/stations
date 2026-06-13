@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:31:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4aff1ab6-b713-49c4-b76f-f6b214744558
-streams:
-  - url: 'http://streaming06.liveboxstream.uk:8174/stream'
-    codec: MP3
-    bitrate: 48
-  - url: 'http://streaming06.liveboxstream.uk:8174/stream?type=http&nocache=248196'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Drama, podcasts, audiobooks, scripted entertainment.
   notes: UK-based commercial online radio network with multiple themed channels. Rokit Drama specializes in audio drama and scripted content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4aff1ab6-b713-49c4-b76f-f6b214744558
+streams:
+  - url: http://streaming06.liveboxstream.uk:8174/stream
+    codec: MP3
+    bitrate: 48
+  - url: http://streaming06.liveboxstream.uk:8174/stream?type=http&nocache=248196
+    codec: MP3
+    bitrate: 48

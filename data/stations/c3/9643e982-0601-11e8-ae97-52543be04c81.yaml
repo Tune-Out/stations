@@ -1,6 +1,6 @@
 stationuuid: 9643e982-0601-11e8-ae97-52543be04c81
 name: WDZ "1050 ESPN" Decatur, IL
-url: http://provisioning.streamtheworld.com/pls/WDZAMAAC.pls
+url: 'http://17553.live.streamtheworld.com:80/WDZAMAAC_SC'
 url_resolved: http://19293.live.streamtheworld.com:3690/WDZAMAAC_SC
 homepage: http://www.nowdecatur.com/espn-decatur/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:16:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9643e982-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports talk radio and news; ESPN affiliate programming
   notes: WDZ 1050 AM & 105.9 FM (K-107.3 FM locally branded) is an Audacy-owned station branded as ESPN Radio Decatur; covers local sports news and ESPN national programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9643e982-0601-11e8-ae97-52543be04c81

@@ -1,6 +1,6 @@
 stationuuid: 9616b7c2-0601-11e8-ae97-52543be04c81
 name: KEZE "Hot 96.9" Spokane, WA
-url: http://provisioning.streamtheworld.com/pls/KEZEFMAAC.pls
+url: 'http://18243.live.streamtheworld.com:80/KEZEFMAAC_SC'
 url_resolved: http://16693.live.streamtheworld.com/KEZEFMAAC_SC
 homepage: http://hot969.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2932/squareIcon.png?r=78910
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 07:54:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9616b7c2-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,7 @@ research:
   format: Hot 96.9 - Contemporary hits, rhythmic pop, hip-hop, R&B, dance hits
   notes: KEZE ("Hot 96.9") is a Cumulus Media station serving Spokane, Washington. Rhythmic contemporary hits format targeting younger demographics.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9616b7c2-0601-11e8-ae97-52543be04c81
+  - iprd-us-keze-hot-96-9-aec64af7

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:11:16
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96183d1c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://allzic17.ice.infomaniak.ch/allzic17.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://allzic17.ice.infomaniak.ch/allzic17.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Rock music programming (classic rock, contemporary rock)
   notes: Part of Allzic's network of themed music channels. French streaming radio service with English-language programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96183d1c-0601-11e8-ae97-52543be04c81
+  - iprd-fr-allzic-rock-8a7fdaf5
+streams:
+  - url: http://allzic17.ice.infomaniak.ch/allzic17.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://allzic17.ice.infomaniak.ch/allzic17.mp3
+    codec: MP3
+    bitrate: 128

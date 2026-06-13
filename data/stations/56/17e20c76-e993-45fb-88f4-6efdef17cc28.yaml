@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 11
 geo_lat: 49.97315102212736
 geo_long: 14.424973726272585
-curation: -0.05
-provenance:
-  - radiobrowser-17e20c76-e993-45fb-88f4-6efdef17cc28
-streams:
-  - url: 'http://sc.ipip.cz:8206/;stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://icecast8.play.cz/color128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,13 @@ research:
   format: Specialised "black music" / urban groove playlist station ("The Best Music!") with funk, soul, R&B, reggae, Latin and hip-hop.
   notes: Founded 2005 as a niche music broadcaster filling a gap in Czech radio for groove/black-music programming. Broadcasts on FM in regional Czechia (Usti nad Labem 101.2, Tabor 88.7 and western/central Bohemia) plus DAB+ (COLORDAB+) and online streams. Notable shows include Romeo SHOW (morning drive), DJ Friky's FRIKOLORA, "Radionovely z Venezuely" (Venezuelan radio-novelas) and reggae/blues specials. The station emphasises live broadcasting and listener interaction via song requests.
   sources: https://radiocolor.cz/
+curation: -0.05
+provenance:
+  - radiobrowser-17e20c76-e993-45fb-88f4-6efdef17cc28
+streams:
+  - url: http://sc.ipip.cz:8206/;stream
+    codec: MP3
+    bitrate: 192
+  - url: https://icecast8.play.cz/color128.mp3
+    codec: MP3
+    bitrate: 128

@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-963f6d4b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.laut.fm/bluesrockcafe'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/bluesrockcafe'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bluesrockcafe.stream.laut.fm/bluesrockcafe'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -45,3 +32,18 @@ research:
   format: Blues, rock music; community-curated station
   notes: Community-run station on Laut.FM platform (German community radio network); listeners contribute playlists; focused on blues and rock genres
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-963f6d4b-0601-11e8-ae97-52543be04c81
+  - iprd-de-bluesrockcafe-f399da85
+  - iprd-de-laut-fm-bluesrockcafe-a5922a8b
+streams:
+  - url: http://stream.laut.fm/bluesrockcafe
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/bluesrockcafe
+    codec: MP3
+    bitrate: 128
+  - url: http://bluesrockcafe.stream.laut.fm/bluesrockcafe
+    codec: MP3
+    bitrate: 128

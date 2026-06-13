@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 00:22:19
 clickcount: 0
 geo_lat: 55.787652516267606
 geo_long: 37.578799724578865
-curation: 0.35
-provenance:
-  - radiobrowser-3424963f-24f5-44d4-91cd-31af33c48da5
-streams:
-  - url: 'http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_32kbps'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -48,3 +32,22 @@ research:
   format: News, current affairs, talk programming; flagship state news and information station.
   notes: Flagship station of Russian state radio. Major news and talk programming. Part of VGTRK state broadcasting conglomerate. Nationwide reach via radio and online streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3424963f-24f5-44d4-91cd-31af33c48da5
+  - iprd-ru-radio-rossii-c317a544
+  - iprd-ru-radio-rossii-0bd557d7
+  - iprd-ru-radio-rossii-6e37c4f4
+streams:
+  - url: http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps
+    codec: AAC+
+    bitrate: 64
+  - url: http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_32kbps
+    codec: AAC+
+    bitrate: 32
+  - url: http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
+    codec: MP3
+    bitrate: 128
+  - url: http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
+    codec: MP3
+    bitrate: 64

@@ -1,7 +1,7 @@
 stationuuid: 6ac7e70c-fcbb-4421-a445-cb70a0a7d9f7
 name: AFN Stuttgart-The Eagle
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_STU.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_STU.mp3
+url: 'http://22733.live.streamtheworld.com:80/AFNE_STU.mp3'
+url_resolved: 'http://22733.live.streamtheworld.com:80/AFNE_STU.mp3'
 homepage: https://afngo.net/afneurope/Stuttgart
 favicon: https://afngo.net/afneurope/Stuttgart/radio/Stuttgart
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6ac7e70c-fcbb-4421-a445-cb70a0a7d9f7
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -31,3 +28,6 @@ research:
   format: News, talk, music, and military-focused programming
   notes: AFN Stuttgart "The Eagle" provides radio service to U.S. military bases in Stuttgart. Part of global AFN network serving American military communities worldwide. Founded 1942.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6ac7e70c-fcbb-4421-a445-cb70a0a7d9f7

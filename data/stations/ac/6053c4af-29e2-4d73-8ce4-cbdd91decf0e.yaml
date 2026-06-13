@@ -20,15 +20,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6053c4af-29e2-4d73-8ce4-cbdd91decf0e
-streams:
-  - url: 'https://stream.zeno.fm/ullfy4hf9lhtv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/ullfy4hf9lhtv.m3u'
-    url_resolved: 'https://stream.zeno.fm/ullfy4hf9lhtv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +29,12 @@ research:
   format: Internet radio specializing in anime openings and Kamen Rider theme music and related content
   notes: User-created station on Zeno.fm platform; niche anime and tokusatsu (special effects) fan programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6053c4af-29e2-4d73-8ce4-cbdd91decf0e
+streams:
+  - url: https://stream.zeno.fm/ullfy4hf9lhtv
+    codec: MP3
+  - url: https://stream.zeno.fm/ullfy4hf9lhtv.m3u
+    url_resolved: https://stream.zeno.fm/ullfy4hf9lhtv
+    codec: MP3

@@ -33,16 +33,6 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 10
 geo_lat: 39.979426195470275
 geo_long: -3.440608978271485
-curation: 0.35
-provenance:
-  - radiobrowser-c9802580-7f04-46ea-be34-d8d0b98e8710
-streams:
-  - url: 'https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_720.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -52,3 +42,13 @@ research:
   format: International news, current affairs, Spanish culture, and music — Spain's external/world service
   notes: REE (Radio Exterior de España) was launched in 1942 as "La Voz de España" to reach overseas listeners; for decades it used shortwave (now largely discontinued after 2014 cutbacks), and today distributes via satellite, internet streams, and partner FM affiliates abroad; notable for keeping a regular Ladino (Judaeo-Spanish) language programme aimed at Sephardic communities — one of the few in the world.
   sources: https://www.rtve.es/radio/radio-exterior/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-c9802580-7f04-46ea-be34-d8d0b98e8710
+streams:
+  - url: https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high
+    codec: MP3
+    bitrate: 128
+  - url: https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_720.m3u8
+    codec: UNKNOWN
+    hls: true

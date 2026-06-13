@@ -20,19 +20,6 @@ lastchangetime: 2026-05-04 18:52:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-9375ddf8-8e6b-4f4f-9e27-6c98424c7857
-streams:
-  - url: 'https://soufisticated-kenfm-mobile-radio.triggerfm.de/'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://soufisticated-kenfm-hd-radio.triggerfm.de/'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://soufisticated-kenfm-sd-radio.triggerfm.de/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +29,16 @@ research:
   format: Chill & vibes; lounge and ambient electronic music
   notes: Trigger.FM SOUFISTICATED (branded as Ken.FM stream) is a curated lounge and chill electronic music station. Part of Trigger.FM platform serving German audience with sophisticated ambient programming.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-9375ddf8-8e6b-4f4f-9e27-6c98424c7857
+streams:
+  - url: https://soufisticated-kenfm-mobile-radio.triggerfm.de/
+    codec: AAC
+    bitrate: 64
+  - url: https://soufisticated-kenfm-hd-radio.triggerfm.de/
+    codec: MP3
+    bitrate: 256
+  - url: https://soufisticated-kenfm-sd-radio.triggerfm.de/
+    codec: MP3
+    bitrate: 128

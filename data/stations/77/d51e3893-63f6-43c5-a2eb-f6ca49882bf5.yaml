@@ -1,7 +1,7 @@
 stationuuid: d51e3893-63f6-43c5-a2eb-f6ca49882bf5
 name: CKAC Montréal
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC.aac
+url: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
+url_resolved: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
 homepage: https://www.radiocirculation.net/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-05-26 12:15:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d51e3893-63f6-43c5-a2eb-f6ca49882bf5
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: News, sports, and talk programming
   notes: Commercial AM radio station serving Montréal region with news and sports focus.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d51e3893-63f6-43c5-a2eb-f6ca49882bf5

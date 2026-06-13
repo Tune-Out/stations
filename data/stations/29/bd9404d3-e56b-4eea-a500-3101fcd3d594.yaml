@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:22:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bd9404d3-e56b-4eea-a500-3101fcd3d594
-streams:
-  - url: 'https://servidor30-4.brlogic.com:7398/live?source=website'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://servidor30-4.brlogic.com:7398/live'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Religious programming, biblical teaching, Christian music
   notes: Despite location flag showing Portugal, URL and branding indicate Brazilian operator (SBB - Bible Society of Brazil). Broadcasts Portuguese-language Christian content with focus on biblical interpretation and evangelical missions.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bd9404d3-e56b-4eea-a500-3101fcd3d594
+streams:
+  - url: https://servidor30-4.brlogic.com:7398/live?source=website
+    codec: AAC
+    bitrate: 64
+  - url: https://servidor30-4.brlogic.com:7398/live
+    codec: AAC
+    bitrate: 64

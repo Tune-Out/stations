@@ -1,6 +1,6 @@
 stationuuid: a434678c-3198-4293-9819-707b183c0215
 name: CBC Radio One - Vancouver, BC (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CBU2FM_CBC.pls
+url: 'https://27033.live.streamtheworld.com:443/CBU2FM_CBC_SC'
 url_resolved: https://18303.live.streamtheworld.com/CBU2FM_CBC_SC
 homepage: https://www.cbc.ca/news/topic/Collections/CBC%20METRO%20VANCOUVER
 favicon: https://www.cbc.ca/mediacentre/content/images/CBC_BC_logo.JPG
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:14:59
 clickcount: 2
 geo_lat: 49.28209536473708
 geo_long: -123.12686920166016
-curation: 0.35
-provenance:
-  - radiobrowser-a434678c-3198-4293-9819-707b183c0215
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: News, current affairs, features, and cultural programming; CBC Radio One's main English service for the region
   notes: Part of Canada's national public broadcaster, funded by Parliament and license fees; serves as primary English-language radio service for Vancouver area via CBU 105.7 FM.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a434678c-3198-4293-9819-707b183c0215

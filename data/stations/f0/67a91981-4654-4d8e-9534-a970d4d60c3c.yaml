@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-67a91981-4654-4d8e-9534-a970d4d60c3c
-streams:
-  - url: 'https://drive.uber.radio/uber/crstrauss/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crstrauss/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Commercial streaming; classical music, tribute format (Strauss), fine arts listeners
   notes: Commercial online radio station specializing exclusively in classical music. Part of AudioAddict streaming platform based in UAE. Dedicated classical music streaming service.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-67a91981-4654-4d8e-9534-a970d4d60c3c
+streams:
+  - url: https://drive.uber.radio/uber/crstrauss/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crstrauss/icecast.audio
+    codec: MP3

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-872243e7-8c5e-47f8-a61c-7fe733ba35b3
-streams:
-  - url: 'https://servidor34-1.brlogic.com:8014/live?source=website'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://servidor34-1.brlogic.com:8014/live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Rock music programming and rock-oriented content.
   notes: WEB RADIO NO MUNDO DO ROCK (Web Radio In The World of Rock) operates via Minha Web Rádio, a Brazilian internet radio hosting platform. Dedicated entirely to rock music with focus on classic and contemporary rock genres.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-872243e7-8c5e-47f8-a61c-7fe733ba35b3
+streams:
+  - url: https://servidor34-1.brlogic.com:8014/live?source=website
+    codec: MP3
+    bitrate: 128
+  - url: https://servidor34-1.brlogic.com:8014/live
+    codec: MP3
+    bitrate: 128

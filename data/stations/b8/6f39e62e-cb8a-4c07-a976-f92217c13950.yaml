@@ -23,20 +23,6 @@ lastchangetime: 2026-04-20 06:56:30
 clickcount: 2
 geo_lat: 47.0502
 geo_long: 8.3093
-curation: 0.50
-provenance:
-  - radiobrowser-6f39e62e-cb8a-4c07-a976-f92217c13950
-streams:
-  - url: 'https://stream.srg-ssr.ch/m/regi_zentr/aacp_32'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream.srg-ssr.ch/regi_zentr/aacp_32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/48'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://stream.srg-ssr.ch/m/regi_zentr/mp3_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +32,19 @@ research:
   format: Regional public radio with news, current affairs, culture, and mixed contemporary programming; commercial-free.
   notes: Part of SRF1 network; regional journal for Zentralschweiz region; AAC+ codec, high quality. Public service mission per Swiss broadcasting law.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-6f39e62e-cb8a-4c07-a976-f92217c13950
+  - iprd-ch-radio-srf-1-zentralschweiz-89c7e2c0
+  - iprd-ch-radio-srf-1-zentralschweiz-8bac2485
+streams:
+  - url: https://stream.srg-ssr.ch/m/regi_zentr/aacp_32
+    codec: AAC
+    bitrate: 128
+  - url: http://stream.srg-ssr.ch/regi_zentr/aacp_32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/48
+    codec: AAC
+    bitrate: 48
+  - url: http://stream.srg-ssr.ch/m/regi_zentr/mp3_128
+    codec: MP3
+    bitrate: 128

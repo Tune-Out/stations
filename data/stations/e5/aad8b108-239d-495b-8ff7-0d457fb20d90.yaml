@@ -21,16 +21,6 @@ lastchangetime: 2026-03-08 20:30:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-aad8b108-239d-495b-8ff7-0d457fb20d90
-streams:
-  - url: 'https://stream.googeradio.com/listen'
-    codec: AAC
-    bitrate: 256
-  - url: 'http://googeradio.dyndns-free.com:8000/listen'
-    codec: AAC
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Eclectic, cool music; HiFi quality programming
   notes: GooGeRadio is an independent internet radio station based in California emphasizing high-fidelity audio; streams AAC at 256 kbps.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-aad8b108-239d-495b-8ff7-0d457fb20d90
+streams:
+  - url: https://stream.googeradio.com/listen
+    codec: AAC
+    bitrate: 256
+  - url: http://googeradio.dyndns-free.com:8000/listen
+    codec: AAC
+    bitrate: 256

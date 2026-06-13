@@ -22,14 +22,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: 13.903955437317036
 geo_long: 121.0972046620638
-curation: 0.35
-provenance:
-  - radiobrowser-4a912d4e-00b0-49e7-87db-cf4ccd0d1269
-streams:
-  - url: 'https://stream.zeno.fm/c3z135w8zxhvv.mp3'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/us9zu5w8zxhvv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -39,3 +31,11 @@ research:
   format: Alternative rock, punk, emo, rock music.
   notes: Scream Radio / Rage Music PH serves alternative rock and punk audiences in Antique Province. Distributed via mobile app and streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4a912d4e-00b0-49e7-87db-cf4ccd0d1269
+streams:
+  - url: https://stream.zeno.fm/c3z135w8zxhvv.mp3
+    codec: MP3
+  - url: https://stream.zeno.fm/us9zu5w8zxhvv
+    codec: MP3

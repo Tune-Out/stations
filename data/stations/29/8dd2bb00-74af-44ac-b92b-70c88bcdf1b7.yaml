@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:56:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8dd2bb00-74af-44ac-b92b-70c88bcdf1b7
-streams:
-  - url: 'https://streaming.live365.com/a43749'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://vip2.fastcast4u.com/proxy/sjcd109?mp=/1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Smooth jazz and easy listening music; 24/7 curated jazz programming
   notes: US-based internet radio station available via Live365 streaming platform; focused on smooth jazz and easy listening genres; targets sophisticated adult audiences; New York-centric branding emphasizing refined jazz experience
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8dd2bb00-74af-44ac-b92b-70c88bcdf1b7
+  - iprd-us-smooth-jazz-cd-101-9-e3840965
+streams:
+  - url: https://streaming.live365.com/a43749
+    codec: MP3
+    bitrate: 128
+  - url: http://vip2.fastcast4u.com/proxy/sjcd109?mp=/1
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: ad039169-2969-4a7a-be83-86f079f4a55e
 name: Rádio Bandeirantes - São Paulo
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8
+url: 'https://27413.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC/HLS/playlist.m3u8'
+url_resolved: 'https://27413.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC/HLS/playlist.m3u8'
 homepage: https://www.band.uol.com.br/radios/radio-bandeirantes/sao-paulo
 favicon: https://img.band.com.br/image/2025/01/22/portal-share-122213.png
 tags:
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-ad039169-2969-4a7a-be83-86f079f4a55e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Local news, current affairs, information, entertainment; prominent News programming for São Paulo region
   notes: Rádio Bandeirantes is one of Brazil's oldest and most respected radio stations, founded in 1942 in São Paulo. Known for pioneering news radio format in Brazil. Part of the Grupo Bandeirantes media conglomerate.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ad039169-2969-4a7a-be83-86f079f4a55e

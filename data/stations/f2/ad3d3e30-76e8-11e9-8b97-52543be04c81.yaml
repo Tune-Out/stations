@@ -23,26 +23,6 @@ lastchangetime: 2026-01-15 03:06:34
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-ad3d3e30-76e8-11e9-8b97-52543be04c81
-streams:
-  - url: 'http://radio.rtbf.be/c21/aac-128/fl'
-    codec: AAC
-  - url: 'https://radios.rtbf.be/classic21-128.mp3'
-    codec: MP3
-  - url: 'https://radios.rtbf.be/wr-c21-metal-128.mp3'
-    codec: MP3
-  - url: 'https://radios.rtbf.be/wr-c21-live-128.mp3'
-    codec: MP3
-  - url: 'http://radios.rtbf.be/classic21-128.mp3'
-    codec: MP3
-  - url: 'https://radios.rtbf.be/wr-c21-underground-128.mp3'
-    codec: MP3
-  - url: 'https://radios.rtbf.be/wr-eventradio-128.mp3'
-    codec: MP3
-  - url: 'https://radios.rtbf.be/classic21-64.aac'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -52,3 +32,28 @@ research:
   format: Classic rock with multiple thematic digital sub-streams (60s, 70s, 80s, 90s, Metal, Blues, Live, Underground)
   notes: Classic 21 launched in 2004 as RTBF's dedicated classic rock channel, self-described as "la radio Classic Rock de la RTBF"; broadcasts on FM across French-speaking Belgium and via DAB+ and streaming; flagship shows include "Journal du Rock" (daily rock news), "Nightfly" and "Coffee on the Rocks"; produces podcasts ("Rock Icons", "Cold Wave") and covers festivals; funded as part of RTBF's public service mission through Belgian government allocations and limited advertising.
   sources: https://www.rtbf.be/classic21/
+curation: 0.6
+provenance:
+  - radiobrowser-ad3d3e30-76e8-11e9-8b97-52543be04c81
+  - iprd-be-classic-21-87ec0b24
+  - iprd-be-rtbf-classic-21-87ec0b24
+  - iprd-be-rtbf-classic-21-ae549d4f
+  - iprd-be-rtbf-classic-21-metal-fdc8d7c5
+  - iprd-be-rtbf-classic-21-reggae-41081cfe
+streams:
+  - url: http://radio.rtbf.be/c21/aac-128/fl
+    codec: AAC
+  - url: https://radios.rtbf.be/classic21-128.mp3
+    codec: MP3
+  - url: https://radios.rtbf.be/wr-c21-metal-128.mp3
+    codec: MP3
+  - url: https://radios.rtbf.be/wr-c21-live-128.mp3
+    codec: MP3
+  - url: http://radios.rtbf.be/classic21-128.mp3
+    codec: MP3
+  - url: https://radios.rtbf.be/wr-c21-underground-128.mp3
+    codec: MP3
+  - url: https://radios.rtbf.be/wr-eventradio-128.mp3
+    codec: MP3
+  - url: https://radios.rtbf.be/classic21-64.aac
+    codec: MP3

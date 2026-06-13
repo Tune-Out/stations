@@ -23,16 +23,6 @@ lastchangetime: 2026-03-21 09:27:14
 clickcount: 0
 geo_lat: 17.062489936245928
 geo_long: -96.72509193420412
-curation: -0.05
-provenance:
-  - radiobrowser-f84b1cd9-9106-4f8d-9647-ce2f971db713
-streams:
-  - url: 'https://streaming.servicioswebmx.com/8270/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streaming.servicioswebmx.com/8270/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Regional Mexican music - banda, grupera, traditional and popular Mexican music
   notes: La Ke Buena 89.7 FM (XHOCA-FM) operates in Oaxaca as part of Grupo Radio Cañón and NTR Medios broadcast group. Specializes in regional Mexican music formats (banda, grupera, música regional mexicana, música tradicional). Prominent regional broadcaster in southern Mexico.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f84b1cd9-9106-4f8d-9647-ce2f971db713
+streams:
+  - url: https://streaming.servicioswebmx.com/8270/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://streaming.servicioswebmx.com/8270/stream
+    codec: MP3
+    bitrate: 128

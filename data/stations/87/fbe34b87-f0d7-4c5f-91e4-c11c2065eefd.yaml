@@ -20,19 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-fbe34b87-f0d7-4c5f-91e4-c11c2065eefd
-streams:
-  - url: 'https://allzic53.ice.infomaniak.ch/allzic53.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://allzic53.ice.infomaniak.ch/allzic53.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://allzic21.ice.infomaniak.ch/allzic21.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +29,18 @@ research:
   format: Chill-out music, ambient, relaxation, downtempo genres
   notes: Allzic Radio is a French internet radio platform offering multiple genre channels, with this entry being the chill-out/relaxation format channel. Allzic is a non-commercial streaming platform providing curated music channels for various moods and genres to French and Francophone audiences.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-fbe34b87-f0d7-4c5f-91e4-c11c2065eefd
+  - iprd-fr-allzic-lounge-52fbe971
+  - iprd-fr-allzic-chill-out-b52e82e5
+streams:
+  - url: https://allzic53.ice.infomaniak.ch/allzic53.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://allzic53.ice.infomaniak.ch/allzic53.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://allzic21.ice.infomaniak.ch/allzic21.mp3
+    codec: MP3
+    bitrate: 128

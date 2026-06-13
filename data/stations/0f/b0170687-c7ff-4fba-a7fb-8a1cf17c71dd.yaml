@@ -20,16 +20,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 06:23:58
 clickcount: 2
-curation: -0.05
-provenance:
-  - radiobrowser-b0170687-c7ff-4fba-a7fb-8a1cf17c71dd
-streams:
-  - url: 'https://s7.yesstreaming.net:8092/stream'
-    codec: AAC+
-    bitrate: 192
-  - url: 'https://s7.yesstreaming.net:8038/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Tamil cinema music (movie songs), retro music from classic Tamil films
   notes: Vanavilfm - Radio Maestro is a commercial Tamil-language internet radio station specializing in "retro" Tamil cinema music and classic film songs. Serves Indian Tamil-speaking audiences via streaming. Professional broadcast infrastructure with AAC+ codec at 192 kbps. Tamil cinema (Kollywood) music format caters to nostalgia and cultural audiences seeking golden-era film music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b0170687-c7ff-4fba-a7fb-8a1cf17c71dd
+streams:
+  - url: https://s7.yesstreaming.net:8092/stream
+    codec: AAC+
+    bitrate: 192
+  - url: https://s7.yesstreaming.net:8038/stream
+    codec: MP3
+    bitrate: 128

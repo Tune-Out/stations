@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:38:37
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c46ba40d-0f78-4c6b-ba0d-044c923651ba
-streams:
-  - url: 'https://i2.streams.ovh:7050/live'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://i2.streams.ovh:7050/live'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Oldies and pop music programming; classics and past decades' hits
   notes: Greek commercial radio station in Katerini; focuses on older pop music and classics; regional audience
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c46ba40d-0f78-4c6b-ba0d-044c923651ba
+streams:
+  - url: https://i2.streams.ovh:7050/live
+    codec: MP3
+    bitrate: 320
+  - url: http://i2.streams.ovh:7050/live
+    codec: MP3
+    bitrate: 320

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:47:20
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-961d755f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://wtmd-ice.streamguys1.com/wtmd.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wtmd-ice.streamguys1.com/wtmd.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: '"Total Music Discovery" — music-driven with live sessions, curated playlists, host-driven shows (reggae, soul, alternative), NPR Music Live Sessions, podcasts'
   notes: Broadcast service of Baltimore Public Media, governed by local board and Community Advisory Board. First Thursday Festivals, Saturday Morning Tunes, Live Lunch series. Supports independent and Baltimore musicians.
   sources: http://wtmd.org/radio/
+curation: 0.8
+provenance:
+  - radiobrowser-961d755f-0601-11e8-ae97-52543be04c81
+  - iprd-us-wtmd-89-7-57141828
+  - iprd-us-wtmd-89-7-towson-university-f1b0f265
+streams:
+  - url: http://wtmd-ice.streamguys1.com/wtmd.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wtmd-ice.streamguys1.com/wtmd.mp3
+    codec: MP3
+    bitrate: 128

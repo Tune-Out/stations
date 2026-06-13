@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:26:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-72baf53b-21f8-4536-804d-380b53b07a9a
-streams:
-  - url: 'http://procyon.shoutca.st:8083/quality196'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://newstalk93fm.radioca.st/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: News, talk radio, current affairs, community programming
   notes: Commercial news and talk station (93 FM) based in Jamaica. Provides news coverage, talk programming and current affairs content to local and regional audiences. Established news-focused station with talk radio format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-72baf53b-21f8-4536-804d-380b53b07a9a
+streams:
+  - url: http://procyon.shoutca.st:8083/quality196
+    codec: MP3
+    bitrate: 192
+  - url: https://newstalk93fm.radioca.st/stream
+    codec: MP3
+    bitrate: 192

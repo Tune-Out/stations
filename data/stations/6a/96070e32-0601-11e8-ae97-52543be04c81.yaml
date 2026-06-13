@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:06:33
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96070e32-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://audio1.maxi80.com/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://audio1.maxi80.com/;?1722579303309'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 1980s hits and greatest hits from that decade
   notes: Established in 1987 as a music-themed radio station focused on retro 80s content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96070e32-0601-11e8-ae97-52543be04c81
+  - iprd-fr-maxi-80-2368ce60
+streams:
+  - url: http://audio1.maxi80.com/
+    codec: MP3
+    bitrate: 128
+  - url: https://audio1.maxi80.com/;?1722579303309
+    codec: MP3
+    bitrate: 128

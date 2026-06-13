@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:40:25
 clickcount: 2
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.25
-provenance:
-  - radiobrowser-e9ca7d9d-6e24-406a-898d-d6d1d5b0f3fe
-streams:
-  - url: 'https://1a-jazz.radionetz.de/1a-jazz.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-jazz.radionetz.de/1a-jazz.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Jazz, smooth jazz, and swing music radio
   notes: Part of 1A Radio network based in Bavaria; specializes in jazz, smooth jazz, and swing programming; available via online streaming.
   sources: http://www.1aradio.com/, internal knowledge
+curation: 0.25
+provenance:
+  - radiobrowser-e9ca7d9d-6e24-406a-898d-d6d1d5b0f3fe
+streams:
+  - url: https://1a-jazz.radionetz.de/1a-jazz.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-jazz.radionetz.de/1a-jazz.mp3
+    codec: MP3
+    bitrate: 128

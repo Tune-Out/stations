@@ -1,7 +1,7 @@
 stationuuid: 77053175-91f0-44b7-8f2f-c2b8c977550e
 name: 2GLF 89.3 - Liverpool - 89.3 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2GLFAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2GLFAAC.aac
+url: 'http://28853.live.streamtheworld.com:80/2GLFAAC.aac'
+url_resolved: 'http://28853.live.streamtheworld.com:80/2GLFAAC.aac'
 homepage: https://893fm.com.au/
 favicon: https://893fm.com.au/wp-content/uploads/2022/06/2glf-logo-2022.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:25:40
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-77053175-91f0-44b7-8f2f-c2b8c977550e
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community-produced music, cultural programming, sports, talk radio; diverse shows from "One Hit Wonders" to "Rugby League Round Table" to cultural broadcasts
   notes: 2GLF (89.3 FM) is an Australian community radio station where "All our programming is produced by people within our community." Volunteer-based cooperative model with training provided.
   sources: https://893fm.com.au/
+curation: 0.35
+provenance:
+  - radiobrowser-77053175-91f0-44b7-8f2f-c2b8c977550e

@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 02:14:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-9612db58-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284331-5_mp3_high.m3u'
-    url_resolved: 'http://f121.rndfnk.com/ard/mdr/284331/5/mp3/128/stream.mp3?cid=01FBQ19YEKHR4YFFF7MJMJAZX4&sid=38H4VtjAU7IAN9rwoDHFepFUgZg&token=4zwtJJa6iz6jWNFZ0SJmBasGLxLuihwlq-IgkdKE_0w&tvf=4F__VFvZihhmMTIxLnJuZGZuay5jb20'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284331-5_aac_high.m3u'
-    url_resolved: 'http://f131.rndfnk.com/ard/mdr/284331/5/mp3/128/stream.mp3?cid=01FBQ19YEKHR4YFFF7MJMJAZX4&sid=38Ho7d3PErhsU6JpVUh7S2ONalD&token=hBb1KuYWLqjB5FTbsYyxUi14Fw3y0cal6f0aGoJIHoY&tvf=lCc4NdLtihhmMTMxLnJuZGZuay5jb20'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284331-5_mp3_low.m3u'
-    url_resolved: 'http://f141.rndfnk.com/ard/mdr/284331/5/mp3/128/stream.mp3?cid=01FBQ19YEKHR4YFFF7MJMJAZX4&sid=38H0MHoTF3WXbR1lFCKXLIuGiPZ&token=2nlXW0c3dEKOfIo7Ki4M8XrYy7IMMeQN-ztb5qXZ7Yg&tvf=om_u-n3XihhmMTQxLnJuZGZuay5jb20'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +31,22 @@ research:
   format: Electronic and techno music; part of MDR Sputnik's music special programming
   notes: '"Sputnik Roboton" is a show on MDR Sputnik, part of the MDR (East German public broadcaster) network. Specializes in electronic and robot/synthetic music genres.'
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-9612db58-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-sputnik-roboton-dba9b579
+  - iprd-de-mdr-sputnik-roboton-447e52f7
+  - iprd-de-mdr-sputnik-roboton-e365bacd
+streams:
+  - url: http://avw.mdr.de/streams/284331-5_mp3_high.m3u
+    url_resolved: http://f121.rndfnk.com/ard/mdr/284331/5/mp3/128/stream.mp3?cid=01FBQ19YEKHR4YFFF7MJMJAZX4&sid=38H4VtjAU7IAN9rwoDHFepFUgZg&token=4zwtJJa6iz6jWNFZ0SJmBasGLxLuihwlq-IgkdKE_0w&tvf=4F__VFvZihhmMTIxLnJuZGZuay5jb20
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284331-5_aac_high.m3u
+    url_resolved: http://f131.rndfnk.com/ard/mdr/284331/5/mp3/128/stream.mp3?cid=01FBQ19YEKHR4YFFF7MJMJAZX4&sid=38Ho7d3PErhsU6JpVUh7S2ONalD&token=hBb1KuYWLqjB5FTbsYyxUi14Fw3y0cal6f0aGoJIHoY&tvf=lCc4NdLtihhmMTMxLnJuZGZuay5jb20
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284331-5_mp3_low.m3u
+    url_resolved: http://f141.rndfnk.com/ard/mdr/284331/5/mp3/128/stream.mp3?cid=01FBQ19YEKHR4YFFF7MJMJAZX4&sid=38H0MHoTF3WXbR1lFCKXLIuGiPZ&token=2nlXW0c3dEKOfIo7Ki4M8XrYy7IMMeQN-ztb5qXZ7Yg&tvf=om_u-n3XihhmMTQxLnJuZGZuay5jb20
+    codec: MP3
+    bitrate: 128

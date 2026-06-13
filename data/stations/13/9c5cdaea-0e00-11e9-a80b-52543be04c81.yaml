@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 04:24:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9c5cdaea-0e00-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://stream.ganorium.com/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.ganorium.com/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Melodic trance, progressive trance, vocal trance, uplifting trance
   notes: German internet radio station focused on trance music subgenres. Based in Hessen, operates as a specialized music streaming platform for trance genre listeners worldwide.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9c5cdaea-0e00-11e9-a80b-52543be04c81
+  - iprd-de-ganorium-radio-8b18437f
+streams:
+  - url: http://stream.ganorium.com/
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.ganorium.com/
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 61156199-ece3-413e-ac39-7b2483513ab2
 name: Radio Mix FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+url: 'https://24443.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac'
+url_resolved: 'https://24443.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac'
 homepage: https://radiomixfm.com.br/
 favicon: https://radiomixfm.com.br/wp-content/uploads/2017/06/cropped-logo-2023-180x180.jpeg
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 08:18:45
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.15
-provenance:
-  - radiobrowser-61156199-ece3-413e-ac39-7b2483513ab2
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Top 40 pop, pop rock, teen pop; contemporary pop music format targeting younger demographics
   notes: Mix FM is a commercial radio station based in São Paulo, Brazil, operating in the Top 40 pop format. Known for teen pop and contemporary popular music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-61156199-ece3-413e-ac39-7b2483513ab2

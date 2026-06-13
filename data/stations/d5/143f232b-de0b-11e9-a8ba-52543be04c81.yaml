@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-143f232b-de0b-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-tanzbar-128-mp3'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-tanzbar-64-aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Dance and electronic music (Tanzbar = dance bar); specialized commercial format.
   notes: '"RPR1.Tanzbar" is a specialized dance/electronic music channel from RPR1, a Hessian regional broadcaster; streams via RPR1 network.'
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-143f232b-de0b-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.rpr1.de/rpr-tanzbar-128-mp3
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-tanzbar-64-aac
+    codec: AAC

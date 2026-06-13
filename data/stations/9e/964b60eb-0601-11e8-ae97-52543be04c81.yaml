@@ -1,6 +1,6 @@
 stationuuid: 964b60eb-0601-11e8-ae97-52543be04c81
 name: KTCO "Kat Country 98.9" Duluth, MN
-url: http://provisioning.streamtheworld.com/pls/KTCOFMAAC.pls
+url: 'http://26183.live.streamtheworld.com:80/KTCOFMAAC_SC'
 url_resolved: http://26183.live.streamtheworld.com/KTCOFMAAC_SC
 homepage: http://katcountry989.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2236/squareIcon.png?r=75089
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:33:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-964b60eb-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Country music — contemporary and classic country hits.
   notes: KTCO operates on 98.9 FM as "Kat Country 98.9." Part of Townsquare Media's regional network of community-focused commercial stations. AAC+ codec at 64 kbps.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-964b60eb-0601-11e8-ae97-52543be04c81
+  - iprd-us-ktco-kat-country-98-9-c4b22721

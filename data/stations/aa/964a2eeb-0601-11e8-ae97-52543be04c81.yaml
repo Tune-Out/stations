@@ -1,6 +1,6 @@
 stationuuid: 964a2eeb-0601-11e8-ae97-52543be04c81
 name: XHPNS-FM 107.1 "Amor 107" Piedras Negras, CO
-url: http://provisioning.streamtheworld.com/pls/XHPNSFMAAC.pls
+url: 'http://23023.live.streamtheworld.com:80/XHPNSFMAAC_SC'
 url_resolved: http://18233.live.streamtheworld.com:3690/XHPNSFMAAC_SC
 homepage: http://amor107.com.mx/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964a2eeb-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Mexican pop music; contemporary and regional Mexican pop
   notes: Mexican commercial FM radio station "Amor 107" (107.1 FM) based in Piedras Negras, Coahuila. Broadcasts pop music format to Mexican border region and audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964a2eeb-0601-11e8-ae97-52543be04c81

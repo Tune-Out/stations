@@ -1,7 +1,7 @@
 stationuuid: 42a7dab9-4af2-48c6-9a3e-788932c52639
 name: EXA FM 98.5 (Tuxtla) - 98.5 FM - XHCQ-FM - Valanci Media Group - Tuxtla Gutiérrez, CHiapas
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHCQ.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHCQ.mp3
+url: 'https://18163.live.streamtheworld.com:443/XHCQ.mp3'
+url_resolved: 'https://18163.live.streamtheworld.com:443/XHCQ.mp3'
 homepage: https://exafm.com/plaza/tuxtla-gutierrez/
 favicon: https://cdn-profiles.tunein.com/s91971/images/logod.png
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 0
 geo_lat: 16.756347507707144
 geo_long: -93.1153964996338
-curation: -0.05
-provenance:
-  - radiobrowser-42a7dab9-4af2-48c6-9a3e-788932c52639
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Commercial pop music station with entertainment focus; "La Estación Exacta" (The Exact Station), "La Estación Naranja" (The Orange Station)
   notes: EXA FM is a Mexican commercial radio station on 98.5 FM (XHCQ-FM) in Tuxtla Gutiérrez, Chiapas. Part of Valanci Media Group. Popular music and entertainment format targeting younger audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-42a7dab9-4af2-48c6-9a3e-788932c52639

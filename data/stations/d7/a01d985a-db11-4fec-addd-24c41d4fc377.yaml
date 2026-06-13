@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 3
 geo_lat: 47.344126996654786
 geo_long: 11.708449629941084
-curation: -0.05
-provenance:
-  - radiobrowser-a01d985a-db11-4fec-addd-24c41d4fc377
-streams:
-  - url: 'https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://live.u1-radio.at/u1-tirol-live/mp3-192/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Evergreen hits, Schlager, Volksmusik (traditional Austrian and Alpine folk music)
   notes: Austrian commercial radio station specializing in traditional Alpine music formats including Schlager and Volksmusik. Broadcasts from Tyrol region with strong focus on Austrian cultural music traditions.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a01d985a-db11-4fec-addd-24c41d4fc377
+streams:
+  - url: https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192
+    codec: MP3
+    bitrate: 192
+  - url: https://live.u1-radio.at/u1-tirol-live/mp3-192/
+    codec: MP3
+    bitrate: 192

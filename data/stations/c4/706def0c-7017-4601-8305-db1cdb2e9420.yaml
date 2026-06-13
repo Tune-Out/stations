@@ -1,7 +1,7 @@
 stationuuid: 706def0c-7017-4601-8305-db1cdb2e9420
 name: Super Fm
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
+url: 'https://27913.live.streamtheworld.com:443/SUPER_FM_SC'
+url_resolved: 'https://27913.live.streamtheworld.com:443/SUPER_FM_SC'
 homepage: https://superfm.com.tr/
 favicon: https://superfm.com.tr/favicon.ico
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:08
 clickcount: 60
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-706def0c-7017-4601-8305-db1cdb2e9420
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,6 @@ research:
   format: Turkish pop and international pop hits — DJ-led music programming with feature shows such as "Top 20" and morning drive-time formats.
   notes: One of the long-running national commercial pop stations in Türkiye, broadcasting on FM (Istanbul 99.4) under the Ciner Medya umbrella alongside news brand Habertürk; the group is one of Türkiye's largest privately-owned media conglomerates and has at various times faced political pressure and ownership turbulence common to large Turkish media houses, but Super FM itself functions as a non-political music station; programming is in Turkish with a typical CHR/AC playlist of domestic stars and crossover international hits.
   sources: internal knowledge (homepage returned HTTP 403)
+curation: -0.05
+provenance:
+  - radiobrowser-706def0c-7017-4601-8305-db1cdb2e9420

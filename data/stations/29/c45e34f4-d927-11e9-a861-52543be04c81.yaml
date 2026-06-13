@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:15:38
 clickcount: 19
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c45e34f4-d927-11e9-a861-52543be04c81
-streams:
-  - url: 'http://icecast5.play.cz/impuls128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast5.play.cz/impuls128.mp3?1571059741'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Adult contemporary / hit-radio with strong emphasis on Czech-language pop and rock alongside international hits; news bulletins, traffic and morning/drive-time talk shows; the playful name variation "Impuls Ráááádio" plays on the station's well-known elongated jingle
   notes: Launched 6 March 2000 as the first private national-coverage commercial radio in the Czech Republic; broadcasts on a nationwide network of FM frequencies plus DAB+ and online; consistently ranks among the top two Czech commercial radio stations alongside Frekvence 1; ownership transferred from German Eurocast/Lagardère to Czech entities and eventually under Agrofert/MAFRA after Babiš's acquisition of MAFRA in 2013, which has been criticised by press-freedom NGOs (Reporters Without Borders, IPI) as a politically problematic concentration
   sources: internal knowledge (homepage WebFetch refused)
+curation: -0.05
+provenance:
+  - radiobrowser-c45e34f4-d927-11e9-a861-52543be04c81
+  - iprd-cz-radio-impuls-53b8298c
+streams:
+  - url: http://icecast5.play.cz/impuls128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast5.play.cz/impuls128.mp3?1571059741
+    codec: MP3
+    bitrate: 128

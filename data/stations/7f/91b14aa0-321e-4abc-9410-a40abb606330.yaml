@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-91b14aa0-321e-4abc-9410-a40abb606330
-streams:
-  - url: 'http://213.230.109.7:9000/alo_low'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://live.qalbimnavosi.uz/qalbimnavosi'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Uzbek pop music, contemporary hits, traditional music
   notes: Qalbim Navosi ("Heart's Voice") is an internet radio station offering Uzbek pop and contemporary music; features track history, multiple player options; primarily targets Uzbek-speaking audiences
   sources: http://qalbimnavosi.uz/
+curation: -0.05
+provenance:
+  - radiobrowser-91b14aa0-321e-4abc-9410-a40abb606330
+streams:
+  - url: http://213.230.109.7:9000/alo_low
+    codec: AAC+
+    bitrate: 96
+  - url: http://live.qalbimnavosi.uz/qalbimnavosi
+    codec: AAC+
+    bitrate: 96

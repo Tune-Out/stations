@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96227bad-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ice2.securenetsystems.net/HUMSAFAR'
-    codec: MP3
-    bitrate: 32
-  - url: 'https://ice2.securenetsystems.net/HUMSAFAR'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Multicultural, multilingual programming serving South Asian communities.
   notes: CHRN 1610 AM "Radio Humsafar" based in Montreal. Specializes in South Asian cultural programming with multilingual content (Hindi, Urdu, Punjabi, English). Commercial broadcaster serving multicultural Montreal population. Focus on South Asian music, news, and community information.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96227bad-0601-11e8-ae97-52543be04c81
+  - iprd-ca-chrn-1610-radio-humsafar-02ad4107
+streams:
+  - url: http://ice2.securenetsystems.net/HUMSAFAR
+    codec: MP3
+    bitrate: 32
+  - url: https://ice2.securenetsystems.net/HUMSAFAR
+    codec: MP3
+    bitrate: 32

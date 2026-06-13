@@ -23,37 +23,6 @@ lastchangetime: 2026-01-15 01:58:28
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-96283d73-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icy.unitedradio.it/105RapItalia.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/105Dance90.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icecast.unitedradio.it/105Trap.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/105Miami.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/105Hits.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/105Story.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/105InDaKlubb.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/105Classics.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/105Zoo.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -63,3 +32,43 @@ research:
   format: Italian rap and hip-hop (continuous music, "Rap Italia" themed channel)
   notes: Radio 105 "Rap Italia" is one of multiple themed digital spin-off channels from Radio 105 Network, Italy's leading commercial pop/rock station; Radio 105 itself was founded in 1976 in Milan and acquired by Mediaset (Berlusconi-owned media group, now MFE/MediaForEurope) in 2016; the "Rap Italia" stream focuses exclusively on Italian-language rap and hip-hop, reflecting the post-2015 boom of Italian rap (Sfera Ebbasta, Marracash, Geolier, etc.); part of RadioMediaset's stable that includes R101, Virgin Radio Italia, Radio Monte Carlo, and Subasio.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-96283d73-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-105-classics-af65678a
+  - iprd-it-radio-105-dance-90-734eec56
+  - iprd-it-radio-105-hits-26218fc8
+  - iprd-it-radio-105-indaklubb-749a373c
+  - iprd-it-radio-105-miami-37684146
+  - iprd-it-radio-105-rap-italia-2739776a
+  - iprd-it-radio-105-story-02a410be
+  - iprd-it-radio-105-trap-acd43e20
+  - iprd-it-radio-105-zoo-radio-66c4a4df
+streams:
+  - url: http://icy.unitedradio.it/105RapItalia.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/105Dance90.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icecast.unitedradio.it/105Trap.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/105Miami.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/105Hits.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/105Story.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/105InDaKlubb.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/105Classics.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/105Zoo.mp3
+    codec: MP3
+    bitrate: 128

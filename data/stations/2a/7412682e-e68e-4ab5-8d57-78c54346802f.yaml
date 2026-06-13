@@ -22,15 +22,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-7412682e-e68e-4ab5-8d57-78c54346802f
-streams:
-  - url: 'http://stream.zeno.fm/5rxr1mcdcxhvv.pls'
-    url_resolved: 'http://stream.zeno.fm/5rxr1mcdcxhvv'
-    codec: MP3
-  - url: 'http://stream.zeno.fm/5rxr1mcdcxhvv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Electronic dance music, house, tech house
   notes: Argentine internet radio station specializing in electronic dance music. Community-driven platform for house and tech house programming. Limited homepage information available.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-7412682e-e68e-4ab5-8d57-78c54346802f
+streams:
+  - url: http://stream.zeno.fm/5rxr1mcdcxhvv.pls
+    url_resolved: http://stream.zeno.fm/5rxr1mcdcxhvv
+    codec: MP3
+  - url: http://stream.zeno.fm/5rxr1mcdcxhvv
+    codec: MP3

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:27:42
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-f63c58f7-261a-4660-9175-c6b3ebd4a203
-streams:
-  - url: 'http://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de'
-    codec: MP3
-  - url: 'https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Rock radio; multiple rock subgenres including classic rock, metal, 80er rock, alternative rock, Deutschrock, festival radio
   notes: 'Commercial German national rock radio station operated by RADIO BOB GmbH & Co. KG. Tagline: "Wenn Rock, dann BOB!" (If rock, then BOB!). Broadcast via FM, streaming, and mobile app. Multiple specialized rock streams and festival partnerships including Wacken Open Air and Rock am Ring. Interactive community features and BOBfest 2026.'
   sources: https://www.radiobob.de/
+curation: 0.5
+provenance:
+  - radiobrowser-f63c58f7-261a-4660-9175-c6b3ebd4a203
+streams:
+  - url: http://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de
+    codec: MP3
+  - url: https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/
+    codec: MP3

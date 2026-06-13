@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:06:33
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-464b61af-1e0d-11e8-a334-52543be04c81
-streams:
-  - url: 'http://listen.uturnradio.com/dubstep_32'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://listen.uturnradio.com/classic_rock'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: multi-genre internet radio including classic rock, dubstep, drum and bass, electro house with live DJ shows
   notes: Established 2009; tagline "It's Worth The Trip"; holds SOCAN Tariff 22C license (Canadian music licensing)
   sources: http://www.uturnradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-464b61af-1e0d-11e8-a334-52543be04c81
+streams:
+  - url: http://listen.uturnradio.com/dubstep_32
+    codec: AAC+
+    bitrate: 32
+  - url: http://listen.uturnradio.com/classic_rock
+    codec: MP3
+    bitrate: 128

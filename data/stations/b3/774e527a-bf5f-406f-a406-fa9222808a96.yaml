@@ -1,7 +1,7 @@
 stationuuid: 774e527a-bf5f-406f-a406-fa9222808a96
 name: 4CC - Gladstone - 927 AM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CC.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CC.mp3
+url: 'http://29314.live.streamtheworld.com:80/GLA_4CC.mp3'
+url_resolved: 'http://29314.live.streamtheworld.com:80/GLA_4CC.mp3'
 homepage: https://www.4cc.com.au/
 favicon: https://i.ibb.co/80zXXG0/61ea525bdcdc455f530c041f.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:07:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-774e527a-bf5f-406f-a406-fa9222808a96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary, commercial radio
   notes: 4CC (Gladstone Community Radio, 927 AM) is a commercial radio station serving Gladstone, Queensland with adult contemporary programming and local content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-774e527a-bf5f-406f-a406-fa9222808a96

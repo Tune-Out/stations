@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:22:03
 clickcount: 14
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-961b6ef1-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream2.srr.ro:8016/'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://stream2.srr.ro:8012/'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: Cultural and intellectual programming — literature, theatre, classical and jazz music, science, religion, philosophy, history, with talk and documentary features
   notes: Launched 14 March 1991 as a successor to the pre-1989 cultural channels of Romanian Radio (originally founded 1928); broadcasts nationally on FM and online; produces flagship shows on Romanian literature, classical concerts (Orchestrele și Corurile Radio), theatre adaptations and the EBU classical exchanges; mission per the SRR's public-service mandate emphasises promoting national and universal culture
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-961b6ef1-0601-11e8-ae97-52543be04c81
+  - iprd-ro-radio-romania-cultural-30c11a56
+  - iprd-ro-radio-romania-cultural-8e158729
+streams:
+  - url: http://stream2.srr.ro:8016/
+    codec: AAC+
+    bitrate: 128
+  - url: http://stream2.srr.ro:8012/
+    codec: MP3
+    bitrate: 256

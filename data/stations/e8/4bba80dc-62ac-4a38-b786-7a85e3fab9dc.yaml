@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-4bba80dc-62ac-4a38-b786-7a85e3fab9dc
-streams:
-  - url: 'http://eu2.fastcast4u.com:3662/stream/stream/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://eu2.fastcast4u.com:3732/stream/stream/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://eu2.fastcast4u.com:2260/stream/stream/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +28,16 @@ research:
   format: 2000s era music, pop, alternative
   notes: TheGoosh Radio is an internet-based community station focused on 2000s-era popular music and alternative programming. Non-commercial listener-supported operation.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-4bba80dc-62ac-4a38-b786-7a85e3fab9dc
+streams:
+  - url: http://eu2.fastcast4u.com:3662/stream/stream/
+    codec: MP3
+    bitrate: 128
+  - url: http://eu2.fastcast4u.com:3732/stream/stream/
+    codec: MP3
+    bitrate: 128
+  - url: http://eu2.fastcast4u.com:2260/stream/stream/
+    codec: MP3
+    bitrate: 128

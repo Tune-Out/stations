@@ -1,7 +1,7 @@
 stationuuid: 7b9b8806-40d9-48d8-95ac-7d1cc75acd31
 name: Bésame 91.7 FM Manizales
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MANIZALESAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MANIZALESAAC.aac
+url: 'https://27423.live.streamtheworld.com:443/BESAME_MANIZALESAAC.aac'
+url_resolved: 'https://27423.live.streamtheworld.com:443/BESAME_MANIZALESAAC.aac'
 homepage: https://www.besame.fm/
 favicon: https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:25:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7b9b8806-40d9-48d8-95ac-7d1cc75acd31
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Romantic ballads (baladas), pop, entertainment; multiple Colombian cities (Medellín, Pereira, Ibagué, Cali)
   notes: Multi-city commercial radio network in Colombia offering romantic music format. Operates stations in major Colombian cities.
   sources: https://www.besame.fm/
+curation: -0.05
+provenance:
+  - radiobrowser-7b9b8806-40d9-48d8-95ac-7d1cc75acd31

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 04:14:02
 clickcount: 3
 geo_lat: 61.120930879735546
 geo_long: 10.462401226998631
-curation: -0.10
-provenance:
-  - radiobrowser-13201083-cebd-11e9-8502-52543be04c81
-streams:
-  - url: 'https://nrj.p4groupaudio.com/NRJ_AH'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://nrj.p4groupaudio.com/NRJ_MM'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: Pop, hits, and top-40 music; commercial contemporary music format
   notes: Part of P4 Group network in Norway (Innlandet region). Branded as "P12 Hitmix." Specializes in contemporary pop and top-40 hits format. Connected to broader NRJ network.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-13201083-cebd-11e9-8502-52543be04c81
+  - iprd-no-nrj-7188a2bc
+  - iprd-no-nrj-f0a7462c
+streams:
+  - url: https://nrj.p4groupaudio.com/NRJ_AH
+    codec: AAC
+    bitrate: 192
+  - url: https://nrj.p4groupaudio.com/NRJ_MM
+    codec: MP3
+    bitrate: 128

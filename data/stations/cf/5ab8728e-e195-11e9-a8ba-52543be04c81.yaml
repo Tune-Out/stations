@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5ab8728e-e195-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-groovenight-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-groovenight-128-mp3'
-    codec: MP3
-  - url: 'http://streams.bigfm.de/bigfm-groovenight-128-aac'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: House music, dance, groove programming, electronic
   notes: German web radio specializing in house and groove music; part of bigFM network of music stations.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5ab8728e-e195-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-groovenight-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-groovenight-128-mp3
+    codec: MP3
+  - url: http://streams.bigfm.de/bigfm-groovenight-128-aac
+    codec: MP3

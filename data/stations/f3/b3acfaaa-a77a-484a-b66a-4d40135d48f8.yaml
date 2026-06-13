@@ -1,7 +1,7 @@
 stationuuid: b3acfaaa-a77a-484a-b66a-4d40135d48f8
 name: 98.1 Power FM - Muswellbrook - 98.1 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/MUS_POWER_FM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/MUS_POWER_FM.mp3
+url: 'http://29309.live.streamtheworld.com:80/MUS_POWER_FM.mp3'
+url_resolved: 'http://29309.live.streamtheworld.com:80/MUS_POWER_FM.mp3'
 homepage: https://www.981powerfm.com.au/
 favicon: https://i.ibb.co/HF0z9MC/61ea4f30dcdc455f530c040b.jpg
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 02:44:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b3acfaaa-a77a-484a-b66a-4d40135d48f8
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Adult contemporary, soft rock, Top 40 hits, local news and talk
   notes: Licensed commercial FM radio station on 98.1 FM serving Muswellbrook town and Hunter Valley region of NSW. Broadcasts mainstream music and local content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b3acfaaa-a77a-484a-b66a-4d40135d48f8

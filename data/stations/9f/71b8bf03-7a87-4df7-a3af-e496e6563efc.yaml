@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-71b8bf03-7a87-4df7-a3af-e496e6563efc
-streams:
-  - url: 'https://livestream.wueste-welle.de/ogg'
-    codec: OGG
-  - url: 'https://livestream.wueste-welle.de/mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -37,3 +28,12 @@ research:
   format: Music, alternative programming, community-oriented broadcasts
   notes: German community radio station known for alternative and independent music programming; non-profit structure
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-71b8bf03-7a87-4df7-a3af-e496e6563efc
+streams:
+  - url: https://livestream.wueste-welle.de/ogg
+    codec: OGG
+  - url: https://livestream.wueste-welle.de/mp3
+    codec: MP3
+    bitrate: 192

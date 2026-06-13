@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:54:30
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-153848d9-090f-4fef-8ed6-7177471e92ec
-streams:
-  - url: 'https://cp12.serverse.com/proxy/itnfm?mp=/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Music, news, documentaries, entertainment, and cultural programming in Sinhala language.
   notes: Lakhanda is a commercial radio station operating in Sri Lanka, primarily serving Sinhala-speaking audiences. Mix of music entertainment, news programming, documentary features, and talk content. Operates via FM broadcast and online streaming. Focuses on local and regional content for Sri Lankan listeners.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-153848d9-090f-4fef-8ed6-7177471e92ec
+streams:
+  - url: https://cp12.serverse.com/proxy/itnfm?mp=/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:42:49
 clickcount: 19
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c0357737-c4b3-4237-b8e9-1b14db02c157
-streams:
-  - url: 'https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Contemporary hit radio, pop and top 40 with high-energy presentation and morning shows.
   notes: Q-music Netherlands launched in 2005 after DPG (then VMMa/De Persgroep) acquired the former Noordzee FM frequencies; the brand originated in Flanders in 2001 and runs as a sister to the Belgian Qmusic; signature shows have included "Mattie & Marieke" / "Mattie & Wietze" in mornings and high-profile annual events such as "Het Foute Uur"; competes head-to-head with Talpa's Radio 538.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c0357737-c4b3-4237-b8e9-1b14db02c157
+  - iprd-nl-qmusic-c75fb838
+streams:
+  - url: https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3
+    codec: MP3
+    bitrate: 96

@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 08:42:10
 clickcount: 30
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-9618ca06-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'https://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Alternative rock, classic rock; multiple channel streams (BOBs Alternative Rock, Power Metal, etc.)
   notes: German internet radio operator offering specialized rock subgenre channels
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-9618ca06-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: https://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
+    codec: MP3

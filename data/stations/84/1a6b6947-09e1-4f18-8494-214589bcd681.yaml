@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1a6b6947-09e1-4f18-8494-214589bcd681
-streams:
-  - url: 'https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&aw_0_1st.playerid=site-player'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Dutch music, pop, hits; youth-oriented programming
   notes: Joe Lage Landen is a channel of Joe (Belgian commercial radio station operated by Q Music/Qmusic). Targets younger audience with contemporary pop and Dutch music. Part of the broader Joe radio family in Belgium.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1a6b6947-09e1-4f18-8494-214589bcd681
+streams:
+  - url: https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&aw_0_1st.playerid=site-player
+    codec: AAC+
+    bitrate: 96
+  - url: https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3
+    codec: MP3
+    bitrate: 128

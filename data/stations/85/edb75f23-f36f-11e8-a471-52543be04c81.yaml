@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:34:17
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.20
-provenance:
-  - radiobrowser-edb75f23-f36f-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-party.radionetz.de/1a-party.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-party.radionetz.de/1a-party.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Party channel; part of 1A Radio multi-genre service featuring dance, discofox, pop, schlager. Party channel offers "Alle Hits – jederzeit, jeden Tag!" ("All hits – anytime, every day!") with 25+ thematic channels across decades and genres.
   notes: German commercial radio operator with multiple genre channels (60s-2000s hits, pop, rock, jazz, schlager, rap, classical rock, chillout, party, and more). Established music streaming service with detailed playlist functionality.
   sources: http://www.1aradio.com/
+curation: 0.2
+provenance:
+  - radiobrowser-edb75f23-f36f-11e8-a471-52543be04c81
+  - iprd-de-1a-party-3dd3e65d
+  - iprd-de-1a-party-6f408578
+streams:
+  - url: https://1a-party.radionetz.de/1a-party.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-party.radionetz.de/1a-party.mp3
+    codec: MP3
+    bitrate: 128

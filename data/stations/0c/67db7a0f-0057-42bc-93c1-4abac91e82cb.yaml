@@ -20,19 +20,6 @@ lastchangetime: 2026-01-14 22:54:08
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-67db7a0f-0057-42bc-93c1-4abac91e82cb
-streams:
-  - url: 'http://79.111.14.76:8004/glitch'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.14.76:8000/glitch'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.14.76:8002/glitch'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +29,19 @@ research:
   format: Glitch and glitch-hop electronic music
   notes: Radio Caprice is a Russian internet radio service offering specialized music channels. Glitch/Glitch-Hop channel streams experimental and IDM-adjacent electronic music.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-67db7a0f-0057-42bc-93c1-4abac91e82cb
+  - iprd-ru-radio-caprice-glitch-glitch-hop-b7fa0be2
+  - iprd-ru-radio-caprice-glitch-glitch-hop-aaa7a6d0
+  - iprd-ru-radio-caprice-glitch-glitch-hop-447542d9
+streams:
+  - url: http://79.111.14.76:8004/glitch
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.14.76:8000/glitch
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.14.76:8002/glitch
+    codec: AAC+
+    bitrate: 48

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:40:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-acaff2c9-0e1e-11e9-a80b-52543be04c81
-streams:
-  - url: 'https://stream.laut.fm/kuschelrock'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/kuschelrock'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Soft rock and adult contemporary music format.
   notes: Commercial internet and broadcast radio specializing in soft rock. Operates across German and Swiss markets. Kuschelrock is well-known brand for cuddly (kuschel) soft rock format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-acaff2c9-0e1e-11e9-a80b-52543be04c81
+  - iprd-de-kuschelrock-1b2965f6
+streams:
+  - url: https://stream.laut.fm/kuschelrock
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/kuschelrock
+    codec: MP3
+    bitrate: 128

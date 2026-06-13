@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-1828587e-9b35-444a-b253-07ba53ac9039
-streams:
-  - url: 'https://stream10.usastreams.com/9314/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream10.usastreams.com/9314/stream/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: News, current affairs, business, music with emphasis on cultural curation and commentary
   notes: '"The sound that defines a nation. Since 1962, setting the pace in FM frequency." El Conquistador was the first FM station in Chile and operates a national network of 39 stations. Describes itself as offering "curation of musical excellence and opinion with character" and serves "the most selective audience in Chile" seeking high-fidelity audio and curated programming. Notable shows: Buenos Días Mercado, Café Express, Conquistador al Día, Polos Opuestos, Sentido Común.'
   sources: https://www.elconquistadorfm.net/
+curation: 0.3
+provenance:
+  - radiobrowser-1828587e-9b35-444a-b253-07ba53ac9039
+  - iprd-cl-el-conquistador-91-3-3e35269a
+streams:
+  - url: https://stream10.usastreams.com/9314/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://stream10.usastreams.com/9314/stream/
+    codec: MP3
+    bitrate: 128

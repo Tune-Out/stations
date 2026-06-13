@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 07:20:35
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-276c2bc0-0cc3-488a-8a21-88a3e7c8e1aa
-streams:
-  - url: 'http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream'
-    codec: MP3
-  - url: 'https://us5new.listen2myradio.com:2199/listen.php?port=8106&type=ice&mount=live'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: religious
@@ -40,3 +32,11 @@ research:
   format: Christian gospel and worship music; Favour FM specializes in gospel programming
   notes: 104.1 Favour FM is a Christian radio station based in Gulu, Uganda; non-commercial, community-focused gospel and Christian music programming
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-276c2bc0-0cc3-488a-8a21-88a3e7c8e1aa
+streams:
+  - url: http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream
+    codec: MP3
+  - url: https://us5new.listen2myradio.com:2199/listen.php?port=8106&type=ice&mount=live
+    codec: MP3

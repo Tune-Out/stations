@@ -27,20 +27,6 @@ lastchangetime: 2026-01-15 03:22:41
 clickcount: 0
 geo_lat: 53.07573319484636
 geo_long: 8.80707621574402
-curation: 0.40
-provenance:
-  - radiobrowser-d565778b-f29a-42c7-8a2d-5b45019cb3e2
-streams:
-  - url: 'https://stream.laut.fm/poploungecafe'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/poploungecafe'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/poploungecafe.pls'
-    url_resolved: 'http://poploungecafe.stream.laut.fm/poploungecafe?pl=pls&t302=2026-01-15_05-47-03&uuid=d6f497b6-bfa9-4e64-8466-f4560ff363c1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -50,3 +36,18 @@ research:
   format: Multi-genre lounge/electronic (lounge music, chill out, ambient, deep house, electronic, techno, pop, world beat); daily themed shows
   notes: "24/7 internet radio. Alternative to conventional radio: \"Say goodbye to the stations serving one genre, suffocating you with endless advertisements\". Features Chris Coco's Melodica podcast, Anjunachill On Air. Multi-platform: Alexa (UK/US/DE), TuneIn, Streema, vTuner, Online Radio Box, radio.net. Minimal advertising emphasis. Quality-curation community focus."
   sources: https://poploungecafe.com/
+curation: 0.4
+provenance:
+  - radiobrowser-d565778b-f29a-42c7-8a2d-5b45019cb3e2
+  - iprd-de-pop-lounge-cafe-0ff952a8
+streams:
+  - url: https://stream.laut.fm/poploungecafe
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/poploungecafe
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/poploungecafe.pls
+    url_resolved: http://poploungecafe.stream.laut.fm/poploungecafe?pl=pls&t302=2026-01-15_05-47-03&uuid=d6f497b6-bfa9-4e64-8466-f4560ff363c1
+    codec: MP3
+    bitrate: 128

@@ -21,23 +21,6 @@ lastchangetime: 2026-01-15 07:11:09
 clickcount: 14
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-957c4b96-5fe9-41b5-95ba-137664c3ffbd
-streams:
-  - url: 'https://stream.danubiusradio.hu/danubius_320k'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://danubiusradio.hu/live.mp3'
-    url_resolved: 'http://stream.danubiusradio.hu/danubius_192k'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.danubiusradio.hu/danubius_128k'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://stream.danubiusradio.hu/danubius_128k'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +30,22 @@ research:
   format: Music-only ("csak zene") format spanning retro hits to current chart pop
   notes: The original Danubius Rádió launched on 1 July 1986 within Magyar Rádió on 100.5 MHz from Kab-hegy, originally targeting East German tourists at Lake Balaton; it became Hungary's first commercial national network in 1997 alongside Sláger Rádió. The classic Danubius brand ceased broadcasting on 28 January 2010 after losing its frequency tender amid politically controversial Media Council decisions. The current online-only "Danubius Rádió" at danubiusradio.hu is a successor brand acquired by SoundPlus Kft. in 2021, which took the name and domain after operating previously as "Nonstop Rádió."
   sources: https://danubiusradio.hu/, https://hu.wikipedia.org/wiki/Danubius_R%C3%A1di%C3%B3_(1986%E2%80%932010), https://hungarianspectrum.wordpress.com/2012/04/05/politics-and-the-airwaves-the-case-of-slager-and-danubius/
+curation: 0.3
+provenance:
+  - radiobrowser-957c4b96-5fe9-41b5-95ba-137664c3ffbd
+  - iprd-hu-danubius-r-di-d12f9012
+  - iprd-hu-danubius-r-di-d4675afc
+streams:
+  - url: https://stream.danubiusradio.hu/danubius_320k
+    codec: MP3
+    bitrate: 320
+  - url: https://danubiusradio.hu/live.mp3
+    url_resolved: http://stream.danubiusradio.hu/danubius_192k
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.danubiusradio.hu/danubius_128k
+    codec: MP3
+    bitrate: 96
+  - url: http://stream.danubiusradio.hu/danubius_128k
+    codec: MP3
+    bitrate: 96

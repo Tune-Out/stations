@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962fdcaf-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://202.147.199.99:8000/;stream/1'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://202.147.199.99:8000/;stream/1'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Dangdut music focused; traditional Indonesian popular music format.
   notes: Jakarta-based station broadcasting on 97.1 FM; high listener engagement (9,996+ votes); specializes in dangdut, a traditional Indonesian music genre with Malay roots.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962fdcaf-0601-11e8-ae97-52543be04c81
+  - iprd-id-radio-dangdut-indonesia-97-1-61e02633
+streams:
+  - url: http://202.147.199.99:8000/;stream/1
+    codec: MP3
+    bitrate: 256
+  - url: http://202.147.199.99:8000/;stream/1
+    codec: MP3
+    bitrate: 192

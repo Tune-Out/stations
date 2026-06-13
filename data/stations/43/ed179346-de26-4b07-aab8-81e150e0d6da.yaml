@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 04:31:27
 clickcount: 0
 geo_lat: 25.882355983621792
 geo_long: -97.50615119934083
-curation: -0.10
-provenance:
-  - radiobrowser-ed179346-de26-4b07-aab8-81e150e0d6da
-streams:
-  - url: 'http://radio.alphamx.net:8100/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://radio.alphamx.net:8100/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Classics in Spanish, entertainment, music programming
   notes: XEEW-AM 1420 AM; Matamoros station; part of RadioDual network; historically significant border broadcaster
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-ed179346-de26-4b07-aab8-81e150e0d6da
+  - iprd-mx-w1420-1420-xeew-dfb7e907
+streams:
+  - url: http://radio.alphamx.net:8100/stream
+    codec: MP3
+    bitrate: 96
+  - url: http://radio.alphamx.net:8100/stream
+    codec: MP3
+    bitrate: 64

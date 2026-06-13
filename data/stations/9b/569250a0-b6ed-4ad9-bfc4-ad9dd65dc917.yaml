@@ -1,7 +1,7 @@
 stationuuid: 569250a0-b6ed-4ad9-bfc4-ad9dd65dc917
 name: Talk Radio Europe
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3
+url: 'https://22733.live.streamtheworld.com:443/TALK_RADIO_EUROPE.mp3'
+url_resolved: 'https://22733.live.streamtheworld.com:443/TALK_RADIO_EUROPE.mp3'
 homepage: https://www.talkradioeurope.com/
 favicon: https://www.talkradioeurope.com/wp-content/uploads/2022/09/TRE-High-Res-Logo-300x300.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-569250a0-b6ed-4ad9-bfc4-ad9dd65dc917
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Talk radio, news, discussion, current affairs
   notes: Talk Radio Europe is an English-language radio service targeting the substantial English-speaking community in southern Spain, particularly in the Costa del Sol region. Provides news, talk, and discussion programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-569250a0-b6ed-4ad9-bfc4-ad9dd65dc917

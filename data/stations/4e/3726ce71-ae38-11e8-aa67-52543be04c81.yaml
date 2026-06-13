@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:44:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3726ce71-ae38-11e8-aa67-52543be04c81
-streams:
-  - url: 'http://air-tunein.radioart.com/fPiano_and_guitar.mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://air.radioart.com/fPiano_and_guitar.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Curated instrumental, classical, and ambient music with piano and guitar focus
   notes: Online radio platform offering premium subscription services; focuses on relaxation, meditation, and sleep music; operates with high-quality streaming
   sources: https://www.radioart.com/, internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3726ce71-ae38-11e8-aa67-52543be04c81
+  - iprd-gr-radio-art-piano-guitar-c1df83b9
+  - iprd-gr-radio-art-piano-guitar-ae31a76d
+streams:
+  - url: http://air-tunein.radioart.com/fPiano_and_guitar.mp3
+    codec: MP3
+    bitrate: 96
+  - url: http://air.radioart.com/fPiano_and_guitar.mp3
+    codec: MP3
+    bitrate: 96

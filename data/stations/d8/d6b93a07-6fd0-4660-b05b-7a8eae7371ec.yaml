@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: 38.01124886217512
 geo_long: 23.691158294677734
-curation: 0.35
-provenance:
-  - radiobrowser-d6b93a07-6fd0-4660-b05b-7a8eae7371ec
-streams:
-  - url: 'http://108.59.11.81:10073/stream.m3u'
-    url_resolved: 'http://108.59.11.81:10073/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://108.59.11.81:10073/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +28,14 @@ research:
   format: Unknown format
   notes: Community or independent Greek radio station based in Athens; limited public information available; name "A1812Radio" suggests possible historical reference or community identity.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d6b93a07-6fd0-4660-b05b-7a8eae7371ec
+streams:
+  - url: http://108.59.11.81:10073/stream.m3u
+    url_resolved: http://108.59.11.81:10073/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://108.59.11.81:10073/stream
+    codec: MP3
+    bitrate: 128

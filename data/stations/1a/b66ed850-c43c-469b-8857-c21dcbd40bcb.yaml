@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 0
 geo_lat: 45.67152390041923
 geo_long: 15.649681091308596
-curation: 0.35
-provenance:
-  - radiobrowser-b66ed850-c43c-469b-8857-c21dcbd40bcb
-streams:
-  - url: 'http://uk1.streamingpulse.com:7041/listen.pls?sid=1'
-    url_resolved: 'http://uk1.streamingpulse.com:7041/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://uk1.streamingpulse.com/ssl/RadioJaska'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +30,15 @@ research:
   format: Varied music, local news, community programming
   notes: Commercial radio station based in Jastrebarsko, central Croatia. Regional broadcaster serving northwestern Croatia with varied programming including music, news, and local community content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b66ed850-c43c-469b-8857-c21dcbd40bcb
+  - iprd-hr-radio-jaska-7c92c503
+streams:
+  - url: http://uk1.streamingpulse.com:7041/listen.pls?sid=1
+    url_resolved: http://uk1.streamingpulse.com:7041/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://uk1.streamingpulse.com/ssl/RadioJaska
+    codec: MP3
+    bitrate: 128

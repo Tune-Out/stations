@@ -21,28 +21,6 @@ lastchangetime: 2026-01-15 06:39:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-70dbe43b-eadd-48e7-aad8-243fa6e6b36a
-streams:
-  - url: 'http://stream3.polskieradio.pl:8120/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream3.polskieradio.pl:8906/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream3.polskieradio.pl:8916/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream3.polskieradio.pl:8900/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream3.polskieradio.pl:8080/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream3.polskieradio.pl:8128/'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -52,3 +30,25 @@ research:
   format: Szanty (Polish sea shanties, maritime folk songs), traditional Polish music
   notes: Part of Polskie Radio's MojPolskieRadio platform offering specialized genre streams; Szanty channel features traditional Polish maritime songs and folk heritage
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-70dbe43b-eadd-48e7-aad8-243fa6e6b36a
+streams:
+  - url: http://stream3.polskieradio.pl:8120/
+    codec: MP3
+    bitrate: 192
+  - url: http://stream3.polskieradio.pl:8906/
+    codec: MP3
+    bitrate: 192
+  - url: http://stream3.polskieradio.pl:8916/
+    codec: MP3
+    bitrate: 192
+  - url: http://stream3.polskieradio.pl:8900/
+    codec: MP3
+    bitrate: 192
+  - url: http://stream3.polskieradio.pl:8080/
+    codec: MP3
+    bitrate: 192
+  - url: http://stream3.polskieradio.pl:8128/
+    codec: MP3
+    bitrate: 96

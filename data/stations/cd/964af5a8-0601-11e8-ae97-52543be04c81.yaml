@@ -1,6 +1,6 @@
 stationuuid: 964af5a8-0601-11e8-ae97-52543be04c81
 name: KMJJ 99.7 Shreveport, LA
-url: http://provisioning.streamtheworld.com/pls/KMJJFMAAC.pls
+url: 'http://14933.live.streamtheworld.com:80/KMJJFMAAC_SC'
 url_resolved: http://17813.live.streamtheworld.com:3690/KMJJFMAAC_SC
 homepage: http://www.997kmjj.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3115/squareIcon.png?r=94267
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:46:22
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964af5a8-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Urban contemporary music and entertainment programming.
   notes: KMJJ 99.7 FM is an urban contemporary station serving Shreveport, Louisiana and surrounding Ark-La-Tex region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964af5a8-0601-11e8-ae97-52543be04c81

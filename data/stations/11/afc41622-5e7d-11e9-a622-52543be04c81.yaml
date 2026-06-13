@@ -22,61 +22,6 @@ lastchangetime: 2026-01-15 02:05:55
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-afc41622-5e7d-11e9-a622-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/mpb_mobile_mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://strm112.1.fm/spa_mobile_mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://strm112.1.fm/bossanova_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/club_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/magic80_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/christmas_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/sax4ever_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/slowjamz_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/dance_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/back280s_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/radiogaia_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/caferadio_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/jamz_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/highvoltage_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/kidsfm_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/costadelmarchillout_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/blues_mobile_mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -86,3 +31,75 @@ research:
   format: Bossa nova, samba, Latin jazz hits
   notes: 1.FM - Bossa Nova Hits is a specialized channel on the 1.FM network dedicated to bossa nova, samba, and Brazilian/Latin jazz music. Provides curated bossa nova hits and contemporary bossa nova-influenced music. Targets Latin music enthusiasts and easy listening audiences globally through 1.FM platform.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-afc41622-5e7d-11e9-a622-52543be04c81
+  - iprd-ch-1-fm-a-list-80s-0140d89d
+  - iprd-ch-1-fm-always-christmas-radio-da5460df
+  - iprd-ch-1-fm-blues-radio-98e5ff05
+  - iprd-ch-1-fm-bossa-nova-hits-4fb42ef5
+  - iprd-ch-1-fm-cafe-radio-bd8fbc89
+  - iprd-ch-1-fm-club-1-radio-3f009378
+  - iprd-ch-1-fm-costa-del-mar-922d278e
+  - iprd-ch-1-fm-dance-one-radio-d40cfedc
+  - iprd-ch-1-fm-destination-spa-radio-52c30357
+  - iprd-ch-1-fm-high-voltage-radio-eb74b86c
+  - iprd-ch-1-fm-jamz-radio-253243e5
+  - iprd-ch-1-fm-kids-fm-radio-919634b6
+  - iprd-ch-1-fm-magic-80-radio-de0e454d
+  - iprd-ch-1-fm-mpb-hits-radio-2697cdd4
+  - iprd-ch-1-fm-radio-gaia-8c6ba10f
+  - iprd-ch-1-fm-sax4love-24c564ee
+  - iprd-ch-1-fm-slow-jamz-radio-ca1184e3
+streams:
+  - url: http://strm112.1.fm/mpb_mobile_mp3
+    codec: MP3
+    bitrate: 320
+  - url: http://strm112.1.fm/spa_mobile_mp3
+    codec: MP3
+    bitrate: 320
+  - url: http://strm112.1.fm/bossanova_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/club_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/magic80_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/christmas_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/sax4ever_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/slowjamz_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/dance_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/back280s_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/radiogaia_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/caferadio_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/jamz_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/highvoltage_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/kidsfm_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/costadelmarchillout_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/blues_mobile_mp3
+    codec: MP3
+    bitrate: 192

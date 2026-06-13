@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 00:57:08
 clickcount: 8
 geo_lat: 41.88711271372448
 geo_long: -87.6241356603896
-curation: -0.05
-provenance:
-  - radiobrowser-e3be401b-96d2-42b2-bbcd-a5d9591941b7
-streams:
-  - url: 'https://stream.revma.ihrhls.com/zc849'
-    codec: AAC
-  - url: 'http://stream.revma.ihrhls.com/zc849'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Top 40 / contemporary pop music programming
   notes: 103.5 KISS FM (WKSC-FM) is Chicago's major commercial top 40 radio station. Part of iHeartMedia's nationwide network. Known for top 40, pop music, and contemporary hits targeting urban adult listeners. One of Chicago's most-listened to stations. Based in downtown Chicago with strong local personality presence.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e3be401b-96d2-42b2-bbcd-a5d9591941b7
+streams:
+  - url: https://stream.revma.ihrhls.com/zc849
+    codec: AAC
+  - url: http://stream.revma.ihrhls.com/zc849
+    codec: AAC

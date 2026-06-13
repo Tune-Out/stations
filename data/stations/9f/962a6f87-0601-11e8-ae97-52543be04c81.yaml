@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 00:42:51
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-962a6f87-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/loveclassics_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strm112.1.fm/loveclassics_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strmreg.1.fm/loveclassics_mobile_mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,17 @@ research:
   format: continuous love-song / romantic ballads stream featuring soft-rock and pop classics primarily from the 1960s through 1990s
   notes: 1.FM was founded in 1997 by Christian P. Steidl and is registered in Switzerland; it operates dozens of themed online channels (Absolute Top 40, Chilled Lounge, Otto's Opera House, Love Classics, Country and many more), monetised via in-stream ads and Premium subscriptions for ad-free higher-bitrate listening.
   sources: http://www.1.fm/, internal knowledge
+curation: 0.25
+provenance:
+  - radiobrowser-962a6f87-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-love-classics-radio-8b393a99
+streams:
+  - url: http://strm112.1.fm/loveclassics_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strm112.1.fm/loveclassics_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strmreg.1.fm/loveclassics_mobile_mp3
+    codec: MP3
+    bitrate: 192

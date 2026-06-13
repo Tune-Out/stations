@@ -1,7 +1,7 @@
 stationuuid: 05f41190-3f55-45d0-9f9f-15c554e0e4e2
 name: Bay 93.9 - Geelong - 93.9 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939.mp3
+url: 'http://17843.live.streamtheworld.com:80/GEE_BAY939.mp3'
+url_resolved: 'http://17843.live.streamtheworld.com:80/GEE_BAY939.mp3'
 homepage: https://www.bay939.com.au/
 favicon: https://i.ibb.co/dmpmP2p/61ea4fb2dcdc455f530c040f.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:26:23
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-05f41190-3f55-45d0-9f9f-15c554e0e4e2
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: adult contemporary radio; music, news, local content
   notes: Commercial FM station licensed to Geelong, Victoria; established community broadcaster serving regional Victoria with contemporary hit music format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-05f41190-3f55-45d0-9f9f-15c554e0e4e2

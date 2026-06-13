@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: 51.314519380790095
 geo_long: 9.494502246379854
-curation: 0.40
-provenance:
-  - radiobrowser-f62a5fa9-a116-40b5-b414-5579d96b2f62
-streams:
-  - url: 'http://lumbungradio.stationofcommons.org:8000/128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://lumbungradio.stationofcommons.org:8443/128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +33,13 @@ research:
   format: DJ mixes, electronic music, experimental art, community shows
   notes: Collective-run community radio emphasizing "Station of the Commons" ethos; focus on DIY culture, electronic/experimental music, artistic programming; geo-located near Kassel region; participatory non-hierarchical model
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-f62a5fa9-a116-40b5-b414-5579d96b2f62
+streams:
+  - url: http://lumbungradio.stationofcommons.org:8000/128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://lumbungradio.stationofcommons.org:8443/128.mp3
+    codec: MP3
+    bitrate: 128

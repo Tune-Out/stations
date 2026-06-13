@@ -27,14 +27,6 @@ lastchangetime: 2026-01-15 00:09:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-73f64034-fc07-446c-983d-1a23a139b1f9
-streams:
-  - url: 'https://streams.radiobob.de/bob-chillout/aac-64/streams.radiobob.de/'
-    codec: AAC
-  - url: 'https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +36,11 @@ research:
   format: Chillout and unplugged acoustic rock featuring art rock, folk, heavy metal unplugged versions, and singer-songwriter programming.
   notes: Specialized stream from RADIO BOB network featuring unplugged and acoustic versions of rock songs. Curated chillout format presenting alternative perspectives on classic rock material. Part of the 60+ streaming channels offered by RADIO BOB. Bitrate 192 kbps MP3.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-73f64034-fc07-446c-983d-1a23a139b1f9
+streams:
+  - url: https://streams.radiobob.de/bob-chillout/aac-64/streams.radiobob.de/
+    codec: AAC
+  - url: https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/
+    codec: MP3

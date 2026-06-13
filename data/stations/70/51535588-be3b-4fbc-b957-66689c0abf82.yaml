@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:22:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-51535588-be3b-4fbc-b957-66689c0abf82
-streams:
-  - url: 'https://ice.greekstream.net/gnomi'
-    codec: MP3
-    bitrate: 160
-  - url: 'http://ice.greekstream.net/gnomi'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Greek music and news programming
   notes: Gnomi 93.7 (Γνώμη 93.7, "Opinion 93.7") has been operating since 1992. Based in Thessaloniki with live streaming via greekstream.net. Focuses on Greek music and local news programming.
   sources: https://www.gnominet.gr/
+curation: -0.05
+provenance:
+  - radiobrowser-51535588-be3b-4fbc-b957-66689c0abf82
+streams:
+  - url: https://ice.greekstream.net/gnomi
+    codec: MP3
+    bitrate: 160
+  - url: http://ice.greekstream.net/gnomi
+    codec: MP3
+    bitrate: 160

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:01:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-36bebb30-e469-447b-a6de-303ab500cee2
-streams:
-  - url: 'https://war.streamguys1.com:7185/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://war.str3am.com:7180/live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: religious
@@ -41,3 +31,15 @@ research:
   format: Gospel music, religious teaching, and Christian programming
   notes: Non-profit religious radio operated by 3ABN; Seventh-day Adventist affiliation; gospel, teaching, and faith-based content
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-36bebb30-e469-447b-a6de-303ab500cee2
+  - iprd-us-3abn-radio-069fda00
+  - iprd-us-3abn-radio-ad3683fa
+streams:
+  - url: https://war.streamguys1.com:7185/live
+    codec: MP3
+    bitrate: 128
+  - url: http://war.str3am.com:7180/live
+    codec: MP3
+    bitrate: 128

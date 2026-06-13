@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-961469e2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,14 @@ research:
   format: French-language news, talk, debate and music — current affairs from France, the Maghreb and the Arab-Muslim world, plus cultural, religious, women's, and lifestyle programming
   notes: France Maghreb 2 launched in 2007 broadcasting on 99.5 MHz FM in Île-de-France (Paris region); the "Province" stream extends national coverage online and on DAB+. Notable programming includes "La matinale", "Le Grand Forum", "Parler Islam" and "Parler Femmes". The station positions itself as the principal bridge media for the Franco-Maghrebi community in France, covering integration, identity, news from the Maghreb, and debates on issues affecting French Muslims. Distributed via Les Indés Radios, a commercial cooperative of ~130 independent French stations that pools national ad sales.
   sources: http://www.francemaghreb2.fr/
+curation: 0.4
+provenance:
+  - radiobrowser-961469e2-0601-11e8-ae97-52543be04c81
+  - iprd-fr-francemaghreb2-province-34df8f41
+streams:
+  - url: http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
+    codec: MP3
+    bitrate: 128

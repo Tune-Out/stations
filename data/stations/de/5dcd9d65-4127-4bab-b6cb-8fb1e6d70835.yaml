@@ -1,7 +1,7 @@
 stationuuid: 5dcd9d65-4127-4bab-b6cb-8fb1e6d70835
 name: Olimpica Stereo 90.5 fm Cartagena
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CARTAGENAAAC_SC?1715570345
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CARTAGENAAAC_SC?1715570345
+url: 'https://27373.live.streamtheworld.com:443/OLP_CARTAGENAAAC_SC?1715570345'
+url_resolved: 'https://27373.live.streamtheworld.com:443/OLP_CARTAGENAAAC_SC?1715570345'
 homepage: http://olimpicastereo.com.co/
 favicon: https://olimpicastereo.com.co/icon?7586b91f60018a34
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5dcd9d65-4127-4bab-b6cb-8fb1e6d70835
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Latin music, sports, entertainment programming on 90.5 FM
   notes: Colombian commercial radio station broadcasting on 90.5 FM from Cartagena, part of the Olimpica Stereo network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5dcd9d65-4127-4bab-b6cb-8fb1e6d70835

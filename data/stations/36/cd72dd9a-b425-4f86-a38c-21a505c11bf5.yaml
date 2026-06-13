@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-cd72dd9a-b425-4f86-a38c-21a505c11bf5
-streams:
-  - url: 'https://ice.audionow.com/4800DWBRBusinessRadioopus.ogg'
-    codec: OGG
-  - url: 'http://58.97.187.52:5007/fm2'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -37,3 +28,12 @@ research:
   format: Mixed format with news, current affairs, music, and entertainment programming typical of Philippine public broadcasting
   notes: Capital FM2 is operated by PBS, the state broadcasting authority established to serve the public interest across the Philippines. Part of PBS's multi-platform broadcast network alongside radio and television services.
   sources: https://pbs.gov.ph/stations/#
+curation: 0.35
+provenance:
+  - radiobrowser-cd72dd9a-b425-4f86-a38c-21a505c11bf5
+streams:
+  - url: https://ice.audionow.com/4800DWBRBusinessRadioopus.ogg
+    codec: OGG
+  - url: http://58.97.187.52:5007/fm2
+    codec: AAC+
+    bitrate: 64

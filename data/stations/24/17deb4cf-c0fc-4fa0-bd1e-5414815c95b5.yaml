@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:36:09
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-17deb4cf-c0fc-4fa0-bd1e-5414815c95b5
-streams:
-  - url: 'https://server7.servistreaming.com/proxy/fidelity?mp=%2Fstream%3Ftype%3D.mp3&_=1'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://server7.servistreaming.com/proxy/fidelity?_=1&mp=/stream?type=.mp3'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: FM radio station playing hits and contemporary music
   notes: Fidelity 95.7 FM operates in Puerto Rico on the 95.7 MHz frequency. Likely commercial Spanish-language station.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-17deb4cf-c0fc-4fa0-bd1e-5414815c95b5
+streams:
+  - url: https://server7.servistreaming.com/proxy/fidelity?mp=%2Fstream%3Ftype%3D.mp3&_=1
+    codec: AAC+
+    bitrate: 96
+  - url: https://server7.servistreaming.com/proxy/fidelity?_=1&mp=/stream?type=.mp3
+    codec: AAC+
+    bitrate: 96

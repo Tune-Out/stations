@@ -1,7 +1,7 @@
 stationuuid: 6258294d-d3ce-495f-819f-a58738b9b10a
 name: olímpica stereo Valledupar 93.7 fm
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_VALLEDUPARAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_VALLEDUPARAAC.aac
+url: 'https://26303.live.streamtheworld.com:443/OLP_VALLEDUPARAAC.aac'
+url_resolved: 'https://26303.live.streamtheworld.com:443/OLP_VALLEDUPARAAC.aac'
 homepage: https://olimpicastereo.com.co/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-03-15 01:10:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6258294d-d3ce-495f-819f-a58738b9b10a
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Sports talk and music; regional commercial station
   notes: Olímpica Stereo Valledupar broadcasts on 93.7 FM, part of the Olímpica Stereo network covering multiple Colombian cities with sports and music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6258294d-d3ce-495f-819f-a58738b9b10a

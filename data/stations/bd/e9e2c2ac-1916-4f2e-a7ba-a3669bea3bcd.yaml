@@ -1,6 +1,6 @@
 stationuuid: e9e2c2ac-1916-4f2e-a7ba-a3669bea3bcd
 name: CBC Radio One Edmonton
-url: https://playerservices.streamtheworld.com/pls/CBXAM_CBC.pls
+url: 'https://22983.live.streamtheworld.com:443/CBXAM_CBC_SC'
 url_resolved: https://26373.live.streamtheworld.com/CBXAM_CBC_SC
 homepage: https://www.cbc.ca/news/canada/edmonton
 favicon: https://subscriptions.cbc.ca/newsletter_static/images/1581432976501-cbc-edmonton.png
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 3
 geo_lat: 53.52006353159592
 geo_long: -113.47229003906251
-curation: 0.50
-provenance:
-  - radiobrowser-e9e2c2ac-1916-4f2e-a7ba-a3669bea3bcd
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -33,3 +30,6 @@ research:
   format: News, current affairs, features, information programming; part of CBC Radio One national network
   notes: CBC Radio One is Canada's English-language public radio service operated by the federally-funded Canadian Broadcasting Corporation, established 1936. Broadcasts news, features, documentaries, and talk programming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-e9e2c2ac-1916-4f2e-a7ba-a3669bea3bcd

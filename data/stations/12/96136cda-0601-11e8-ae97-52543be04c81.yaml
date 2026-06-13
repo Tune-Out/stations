@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:25:17
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-96136cda-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Latin jazz specialization within broader jazz programming
   notes: Jazz Radio operates multiple genre-specific jazz channels including this Latin Jazz stream. France-based commercial internet radio network dedicated to jazz music in various subgenres. Provides curated Latin jazz programming for specialist audience. Hosted on Infomaniak CDN infrastructure.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-96136cda-0601-11e8-ae97-52543be04c81
+  - iprd-fr-jazz-radio-latin-jazz-d1e8ee3a
+streams:
+  - url: http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
+    codec: MP3
+    bitrate: 128

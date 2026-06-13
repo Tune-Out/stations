@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-e6194e74-e18f-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-oldschool-128-mp3'
-    codec: AAC
-  - url: 'https://streams.bigfm.de/bigfm-oldschool-128-mp3'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-oldschool-128-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-oldschool-64-aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +28,16 @@ research:
   format: 24/7 oldschool rap and hip-hop webstream playing primarily US golden-age hip-hop (Tupac, Notorious B.I.G., Wu-Tang, Snoop, Dre) plus contemporaneous R&B
   notes: bigFM is one of Germany's largest commercial youth-targeted FM brands, headquartered in Stuttgart and Mannheim with terrestrial licenses in Baden-Wuerttemberg and Saarland; its "Oldschool Rap & Hip-Hop" sub-channel is one of dozens of free webradio spin-offs branded under bigFM Sonderkanaele, ad-supported and curated around specific genres.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-e6194e74-e18f-11e9-a8ba-52543be04c81
+  - iprd-de-big-fm-oldschool-rap-d1c458d1
+streams:
+  - url: http://streams.bigfm.de/bigfm-oldschool-128-mp3
+    codec: AAC
+  - url: https://streams.bigfm.de/bigfm-oldschool-128-mp3
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-oldschool-128-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-oldschool-64-aac
+    codec: AAC

@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-842f183a-c249-4203-98dd-12dc5853de62
-streams:
-  - url: 'https://uk7.internet-radio.com/proxy/242radio?mp=/stream&1740815149872'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://uk7.internet-radio.com/proxy/242radio?mp=/stream&1705137844878'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://uk7.internet-radio.com:8168/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +28,17 @@ research:
   format: Contemporary hits and music-focused programming.
   notes: Community-oriented commercial radio serving Scotland. Operates on internet streaming platform (uk7.internet-radio.com).
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-842f183a-c249-4203-98dd-12dc5853de62
+  - iprd-gb-242-radio-e224ce5a
+streams:
+  - url: https://uk7.internet-radio.com/proxy/242radio?mp=/stream&1740815149872
+    codec: MP3
+    bitrate: 128
+  - url: https://uk7.internet-radio.com/proxy/242radio?mp=/stream&1705137844878
+    codec: MP3
+    bitrate: 128
+  - url: http://uk7.internet-radio.com:8168/stream
+    codec: MP3
+    bitrate: 128

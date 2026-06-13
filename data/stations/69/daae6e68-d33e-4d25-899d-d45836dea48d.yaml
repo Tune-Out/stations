@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-daae6e68-d33e-4d25-899d-d45836dea48d
-streams:
-  - url: 'https://auds1.intacs.com/iriestormradio'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://auds1.intacs.com/iriestormradio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Reggae, dancehall, Caribbean music, talk, entertainment
   notes: Jamaican commercial radio station; web-based broadcaster serving Jamaica and Caribbean diaspora; focuses on reggae, dancehall, and Caribbean music; community-oriented programming; terrestrial and online streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-daae6e68-d33e-4d25-899d-d45836dea48d
+streams:
+  - url: https://auds1.intacs.com/iriestormradio
+    codec: MP3
+    bitrate: 128
+  - url: http://auds1.intacs.com/iriestormradio
+    codec: MP3
+    bitrate: 128

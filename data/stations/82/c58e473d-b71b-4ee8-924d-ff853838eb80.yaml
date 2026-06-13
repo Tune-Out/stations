@@ -1,7 +1,7 @@
 stationuuid: c58e473d-b71b-4ee8-924d-ff853838eb80
 name: Radio Eastern FM - Croydon, Melbourne - 98.1 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/3ECBAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/3ECBAAC.aac
+url: 'http://23153.live.streamtheworld.com:80/3ECBAAC.aac'
+url_resolved: 'http://23153.live.streamtheworld.com:80/3ECBAAC.aac'
 homepage: https://www.radioeasternfm.com.au/
 favicon: https://i.ibb.co/LdgnjVs/6657bb4621d4053c389c0b69.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:47:21
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c58e473d-b71b-4ee8-924d-ff853838eb80
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Easy listening and community radio programming
   notes: Radio Eastern FM 98.1 FM is a community radio station serving the eastern suburbs of Melbourne, Victoria. Offers easy listening and local community programming, operating as a volunteer-run station.
   sources: https://www.radioeasternfm.com.au/
+curation: 0.35
+provenance:
+  - radiobrowser-c58e473d-b71b-4ee8-924d-ff853838eb80

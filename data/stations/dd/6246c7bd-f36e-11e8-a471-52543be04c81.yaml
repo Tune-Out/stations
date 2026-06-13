@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:33:25
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.05
-provenance:
-  - radiobrowser-6246c7bd-f36e-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-deutschpop.radionetz.de/1a-deutschpop.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-deutschpop.radionetz.de/1a-deutschpop.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,16 @@ research:
   format: German popular music (Deutsch Pop), balladen, rock, schlager
   notes: Commercial station offering German pop, ballads, rock and Schlager music from Bavaria. Radionetz distribution.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6246c7bd-f36e-11e8-a471-52543be04c81
+  - iprd-de-1a-deutsch-pop-2fe21b9b
+  - iprd-de-1a-deutsch-pop-e223a933
+  - iprd-de-1a-weihnachten-3ad9e541
+streams:
+  - url: https://1a-deutschpop.radionetz.de/1a-deutschpop.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-deutschpop.radionetz.de/1a-deutschpop.mp3
+    codec: MP3
+    bitrate: 128

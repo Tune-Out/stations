@@ -20,16 +20,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 01:28:23
 clickcount: 0
-curation: 0.60
-provenance:
-  - radiobrowser-a9db9b61-4d1b-4ac2-ac7c-c1232d076a32
-streams:
-  - url: 'https://icecast.omroep.nl/3fm-serioustalent-mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://icecast.omroep.nl/3fm-serioustalent-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +29,14 @@ research:
   format: Campus radio with pop, talent development; airtime for training presenters, journalists, producers, technicians
   notes: "Hilversum-based educational/training radio for Dutch public broadcasting. Scheduled for closure January 1, 2026 (80 planned job reductions announced). Primary mission: training ground for future radio professionals; talent will move to 3FM, FunX, NPO Klassiek, Radio 2. Part of Dutch public broadcasting infrastructure."
   sources: Wikipedia (Dutch public broadcasting system, NPO), onlineradiobox.com, tunein.com, broadbandtvnews.com
+curation: 0.6
+provenance:
+  - radiobrowser-a9db9b61-4d1b-4ac2-ac7c-c1232d076a32
+  - iprd-nl-npo-3fm-kxradio-7365e71f
+streams:
+  - url: https://icecast.omroep.nl/3fm-serioustalent-mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://icecast.omroep.nl/3fm-serioustalent-mp3
+    codec: MP3
+    bitrate: 192

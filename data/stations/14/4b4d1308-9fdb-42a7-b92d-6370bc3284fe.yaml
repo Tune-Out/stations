@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-4b4d1308-9fdb-42a7-b92d-6370bc3284fe
-duplicate_of: 961fa288-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radio.stereoscenic.com/asp-s'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.stereoscenic.com/asp-s'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: 24/7 commercial-free curated ambient music — deeply atmospheric, beatless and minimal works ranging from drone, dark ambient and isolationist soundscapes to gentle textural and electroacoustic pieces designed for unobtrusive listening
   notes: Ambient Sleeping Pill is a sister station to the long-running Ambient Sleeping Pill / StereoScenic family curated by John Shanahan, who also hosts the radio show "Hearts of Space"-adjacent programming and is well known in the ambient-music community; the station is one of the most respected internet outlets for the contemporary ambient genre, championing independent label releases (Hypnos, Glacial Movements, Cryo Chamber, Dronarivm, etc.); operates without commercials and is funded by listener tips
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-4b4d1308-9fdb-42a7-b92d-6370bc3284fe
+duplicate_of: 961fa288-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://radio.stereoscenic.com/asp-s
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.stereoscenic.com/asp-s
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 6be4a354-90bd-49de-8576-c60d467071dd
 name: La Suavecita - 93.9 FM - KINT-FM - Entravision Communications - Ciudad Juárez, Chihuahua
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KINTFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KINTFMAAC.aac
+url: 'https://16643.live.streamtheworld.com:443/KINTFMAAC.aac'
+url_resolved: 'https://16643.live.streamtheworld.com:443/KINTFMAAC.aac'
 homepage: https://elboton.com/el-paso/radiolasuavecita/
 favicon: https://elboton.s3.amazonaws.com/2026/05/21181954/El-Boton-Radio-Prendelo-Y-Vivelo.webp
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 0
 geo_lat: 31.714012507400323
 geo_long: -106.44275665283205
-curation: -0.05
-provenance:
-  - radiobrowser-6be4a354-90bd-49de-8576-c60d467071dd
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,8 @@ research:
   format: Regional Mexican music (música regional mexicana); grupera; traditional Mexican music
   notes: Commercial FM station (93.9 FM) serving Ciudad Juárez and El Paso border region. Operates under call sign KINT-FM. Part of Entravision Communications network. Focuses on regional Mexican and grupera music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6be4a354-90bd-49de-8576-c60d467071dd
+  - iprd-us-kmxx-99-3-la-tricolor-4187e143
+  - iprd-us-kyse-94-7-la-tricolor-c54dadf8

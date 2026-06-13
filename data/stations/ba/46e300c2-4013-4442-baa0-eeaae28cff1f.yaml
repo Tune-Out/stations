@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:55:05
 clickcount: 1
 geo_lat: -19.90978582399411
 geo_long: -43.94672065973282
-curation: -0.10
-provenance:
-  - radiobrowser-46e300c2-4013-4442-baa0-eeaae28cff1f
-streams:
-  - url: 'https://8231.brasilstream.com.br/stream'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://8231.brasilstream.com.br/stream?1771879486925'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Light programming with classics, soft hits, and relaxed music format
   notes: Regional commercial FM station serving Belo Horizonte metropolitan area; light hits and contemporary standards format
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-46e300c2-4013-4442-baa0-eeaae28cff1f
+streams:
+  - url: https://8231.brasilstream.com.br/stream
+    codec: AAC
+    bitrate: 64
+  - url: https://8231.brasilstream.com.br/stream?1771879486925
+    codec: AAC
+    bitrate: 64

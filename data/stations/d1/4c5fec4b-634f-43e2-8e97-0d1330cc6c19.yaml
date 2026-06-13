@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 05:44:37
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4c5fec4b-634f-43e2-8e97-0d1330cc6c19
-streams:
-  - url: 'https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8'
-    codec: AAC
-    bitrate: 43
-    hls: true
-  - url: 'http://103.246.184.62:1935/noice_hotfm/hotfm/chunklist_w167204702.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: contemporary hit radio with music, news, and talk
   notes: Hot 93.2 FM is a commercial Jakarta-based music station; the streaming URL is routed through the Noice digital audio platform indicating affiliation with the Mahaka Media radio group (also owner of stations such as Gen FM and Jak FM); operates under an Indonesian KPI (Komisi Penyiaran Indonesia) broadcasting licence; homepage was unreachable at the time of research.
   sources: internal knowledge (hot932fm.com returned HTTP 500)
+curation: -0.05
+provenance:
+  - radiobrowser-4c5fec4b-634f-43e2-8e97-0d1330cc6c19
+streams:
+  - url: https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
+    codec: AAC
+    bitrate: 43
+    hls: true
+  - url: http://103.246.184.62:1935/noice_hotfm/hotfm/chunklist_w167204702.m3u8
+    codec: UNKNOWN
+    hls: true

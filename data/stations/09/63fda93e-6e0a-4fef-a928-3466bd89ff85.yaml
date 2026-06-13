@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 1
 geo_lat: 20.674349443390476
 geo_long: -103.3400630950928
-curation: -0.05
-provenance:
-  - radiobrowser-63fda93e-6e0a-4fef-a928-3466bd89ff85
-streams:
-  - url: 'https://s2.yesstreaming.net:9088/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://s2.yesstreaming.net:9088/stream?1730862902633'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: News, talk, entertainment, and local information in Spanish; AM broadcast station
   notes: Station XEAD-AM broadcasts on 1150 AM frequency serving Guadalajara metropolitan area; part of Grupo Unidifusión broadcasting group
   sources: https://emisoraenvivo.com/mx/radio-metropoli-guadalajara, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-63fda93e-6e0a-4fef-a928-3466bd89ff85
+  - iprd-mx-radio-metropoli-1150-xead-3aecefd2
+streams:
+  - url: https://s2.yesstreaming.net:9088/stream
+    codec: MP3
+    bitrate: 64
+  - url: https://s2.yesstreaming.net:9088/stream?1730862902633
+    codec: MP3
+    bitrate: 64

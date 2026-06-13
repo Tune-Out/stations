@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-6cca589c-2b43-4902-a860-6c1f123920a9
-streams:
-  - url: 'https://salida.stream.com.uy:8506/stream'
-    codec: AAC+
-    bitrate: 192
-  - url: 'http://salida.stream.com.uy:8506/stream'
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +33,11 @@ research:
   format: Adult contemporary; hits; music in Spanish and English
   notes: Commercial FM station at 99.7 FM in Uruguay; focuses on contemporary hits and entertainment
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-6cca589c-2b43-4902-a860-6c1f123920a9
+streams:
+  - url: https://salida.stream.com.uy:8506/stream
+    codec: AAC+
+    bitrate: 192
+  - url: http://salida.stream.com.uy:8506/stream

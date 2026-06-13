@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 08:32:39
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-01c9306d-750d-11e9-af37-52543be04c81
-streams:
-  - url: 'http://lhttp.qingting.fm/live/273/64k.mp3'
-    codec: MP3
-  - url: 'https://lhttp.qingting.fm/live/273/64k.mp3?app_id=web'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -38,3 +30,12 @@ research:
   format: 24-hour music programming (FM 103.7)
   notes: Shanghai Music Radio; state-run broadcaster; 494 votes on directory listing
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-01c9306d-750d-11e9-af37-52543be04c81
+  - iprd-cn-shanghai-music-broadcasting-93-4-1ea32c70
+streams:
+  - url: http://lhttp.qingting.fm/live/273/64k.mp3
+    codec: MP3
+  - url: https://lhttp.qingting.fm/live/273/64k.mp3?app_id=web
+    codec: MP3

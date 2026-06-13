@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:50:50
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-9631865c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://antenne.de/webradio/channels/classic-rock-live.aac.pls'
-    url_resolved: 'http://stream.antenne.de/classic-rock-live.aac'
-    codec: AAC
-  - url: 'http://mp3channels.webradio.antenne.de/classic-rock-live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Classic rock music, rock hits from past decades
   notes: Antenne Bayern is a major commercial radio broadcaster in Bavaria, owned by Antenne Bayern GmbH. Classic Rock Live is a curated format channel within their streaming service, focusing on classic rock repertoire.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-9631865c-0601-11e8-ae97-52543be04c81
+  - iprd-de-antenne-bayern-classic-rock-live-3eb07b1c
+  - iprd-de-antenne-bayern-classic-rock-live-3725f393
+streams:
+  - url: http://antenne.de/webradio/channels/classic-rock-live.aac.pls
+    url_resolved: http://stream.antenne.de/classic-rock-live.aac
+    codec: AAC
+  - url: http://mp3channels.webradio.antenne.de/classic-rock-live
+    codec: MP3
+    bitrate: 128

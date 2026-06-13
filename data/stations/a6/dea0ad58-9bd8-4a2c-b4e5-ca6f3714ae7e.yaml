@@ -1,7 +1,7 @@
 stationuuid: dea0ad58-9bd8-4a2c-b4e5-ca6f3714ae7e
 name: Wivk-fm
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WIVKFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WIVKFMAAC.aac
+url: 'https://26423.live.streamtheworld.com:443/WIVKFMAAC.aac'
+url_resolved: 'https://26423.live.streamtheworld.com:443/WIVKFMAAC.aac'
 homepage: https://www.wivk.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3228/squareIcon.png?r=95227
 tags: []
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: 35.92108558955326
 geo_long: -83.88061523437501
-curation: -0.05
-provenance:
-  - radiobrowser-dea0ad58-9bd8-4a2c-b4e5-ca6f3714ae7e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,6 @@ research:
   format: Country music and sports programming; country radio with local team focus (Tennessee Vols)
   notes: WIVK-FM is a commercial country radio station based in Knoxville, Tennessee, with strong coverage of University of Tennessee sports and country music format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-dea0ad58-9bd8-4a2c-b4e5-ca6f3714ae7e

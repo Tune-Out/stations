@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:57:44
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-9619ffbe-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/3LRW/mp3/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/3LRW/aac/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Local news, current affairs, information, and public radio programming for Melbourne market
   notes: ABC Local Radio station 774 Melbourne (3LRW); Australian public broadcasting service; serves Melbourne and Victoria region with news and local content
   sources: http://www.abc.net.au/melbourne/, internal knowledge only
+curation: 0.8
+provenance:
+  - radiobrowser-9619ffbe-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-local-radio-774-melbourne-a036c923
+  - iprd-au-abc-local-radio-774-melbourne-4677e8a7
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/3LRW/mp3/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/3LRW/aac/
+    codec: AAC+
+    bitrate: 56

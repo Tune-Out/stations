@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:05:13
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-96147d8c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://wbur-sc.streamguys.com/wbur.aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://wbur-sc.streamguys.com/wbur'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: News, talk, journalism, current affairs, arts, culture; NPR programming
   notes: Founded 1983; major NPR-affiliated station serving Boston and New England; known for in-depth journalism and public affairs programming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-96147d8c-0601-11e8-ae97-52543be04c81
+  - iprd-us-wbur-90-9-6fb47011
+  - iprd-us-wbur-90-9-88126a54
+streams:
+  - url: http://wbur-sc.streamguys.com/wbur.aac
+    codec: AAC
+    bitrate: 64
+  - url: http://wbur-sc.streamguys.com/wbur
+    codec: MP3
+    bitrate: 48

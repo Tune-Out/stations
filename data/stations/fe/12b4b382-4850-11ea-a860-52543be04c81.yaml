@@ -24,23 +24,6 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-12b4b382-4850-11ea-a860-52543be04c81
-streams:
-  - url: 'http://listen.trancebase.fm/tunein-aac-hd-pls'
-    codec: AAC
-    bitrate: 256
-  - url: 'http://listen.trancebase.fm/tunein-aacplus-pls'
-    codec: AAC
-    bitrate: 96
-  - url: 'http://listen.trancebase.fm/tunein-aacisdn-pls'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://listen.trancebase.fm/dsl.asx'
-    url_resolved: 'http://listen.trancebase.fm/tunein-mp3-asx'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -50,3 +33,24 @@ research:
   format: 24/7 streaming of progressive trance, techno and electronic music with DJ mixes and curated programming
   notes: TranceBase.FM is a commercial internet radio platform dedicated exclusively to progressive trance, techno and related electronic dance music genres; based in North Rhine-Westphalia, Germany, the station operates multiple bitrate streams and offers high-quality audio options (96k AAC cited); the platform serves the global trance and electronic music community with continuous DJ sets, live events coverage and original programming; TranceBase is supported by advertising and/or listener subscriptions; the station is part of the broader internet trance radio community and maintains strong ties to the European progressive trance scene.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-12b4b382-4850-11ea-a860-52543be04c81
+  - iprd-de-trancebase-fm-a86dabb7
+  - iprd-de-trancebase-fm-b741fa5a
+  - iprd-de-trancebase-fm-45bf4eaf
+  - iprd-de-trancebase-fm-c9082739
+streams:
+  - url: http://listen.trancebase.fm/tunein-aac-hd-pls
+    codec: AAC
+    bitrate: 256
+  - url: http://listen.trancebase.fm/tunein-aacplus-pls
+    codec: AAC
+    bitrate: 96
+  - url: http://listen.trancebase.fm/tunein-aacisdn-pls
+    codec: AAC
+    bitrate: 48
+  - url: http://listen.trancebase.fm/dsl.asx
+    url_resolved: http://listen.trancebase.fm/tunein-mp3-asx
+    codec: MP3
+    bitrate: 192

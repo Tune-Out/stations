@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 03:53:08
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-38055669-97a7-11e9-a605-52543be04c81
-streams:
-  - url: 'http://www.conyersradio.net/listen.m3u'
-    url_resolved: 'https://s8.yesstreaming.net:17011/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://www.conyersradio.net/listen.m3u'
-    url_resolved: 'https://s8.yesstreaming.net:17011/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +31,16 @@ research:
   format: Classic radio programs from the 1930s-1950s across detective, western, comedy, sci-fi, soap opera, and drama genres
   notes: Founded December 30, 2003, the station bills itself as "Streaming the Widest Variety of Programs from the 1930s, 40s and 50s!" and rotates programming favoring today's date in history; notable shows include Yours Truly Johnny Dollar, The Whistler, Suspense, Sherlock Holmes, and a daily Superman broadcast at 6:00 PM ET; runs holiday-themed marathons (Christmas, D-Day, Halloween) and is listener-supported with a stated 2026 fundraising goal of $1,500; distributed via custom Radio.OTRGEMS.com player, Alexa, TuneIn, MyTuner, and Radio Garden
   sources: http://www.conyersradio.net/
+curation: 0.5
+provenance:
+  - radiobrowser-38055669-97a7-11e9-a605-52543be04c81
+  - iprd-us-conyers-old-time-radio-4e3c0200
+streams:
+  - url: http://www.conyersradio.net/listen.m3u
+    url_resolved: https://s8.yesstreaming.net:17011/stream
+    codec: MP3
+    bitrate: 64
+  - url: https://www.conyersradio.net/listen.m3u
+    url_resolved: https://s8.yesstreaming.net:17011/stream
+    codec: MP3
+    bitrate: 64

@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 03:04:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-96130c50-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -33,3 +30,8 @@ research:
   format: Regional public radio; news, music, and information programming
   notes: Part of France Bleu network of regional public radio stations run by France Télévisions. Serves Nouvelle-Aquitaine (formerly Limousin). MP3 stream at 128 kbps.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-96130c50-0601-11e8-ae97-52543be04c81
+  - iprd-fr-france-bleu-limousin-eece02cc
+  - iprd-fr-france-bleu-limousin-5bf9c6bb

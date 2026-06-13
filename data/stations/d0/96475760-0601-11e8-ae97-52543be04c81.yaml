@@ -1,6 +1,6 @@
 stationuuid: 96475760-0601-11e8-ae97-52543be04c81
 name: XHQK-FM 98.5 "La Comadre" San Luis Potosi, SL
-url: http://provisioning.streamtheworld.com/pls/XHQKFMAAC.pls
+url: 'http://18253.live.streamtheworld.com:80/XHQKFMAAC_SC'
 url_resolved: http://18253.live.streamtheworld.com:3690/XHQKFMAAC_SC
 homepage: https://lacomadre.mx/la-comadre-98-5-san-luis-potosi/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:56:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96475760-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Grupera and traditional Mexican music programming
   notes: XHQK-FM 98.5 "La Comadre" is a commercial FM radio station in San Luis Potosí, Mexico; specializes in grupera (Mexican regional accordion-based music); "La Comadre" (The Godmother) is a recognizable brand in the region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96475760-0601-11e8-ae97-52543be04c81

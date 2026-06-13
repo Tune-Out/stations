@@ -23,25 +23,6 @@ lastchangetime: 2026-01-15 08:48:01
 clickcount: 25
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.70
-provenance:
-  - radiobrowser-d88c0d24-adb2-11e9-88f4-52543be04c81
-streams:
-  - url: 'https://stream.radioparadise.com/mellow-flac'
-    codec: OGG
-    bitrate: 1441
-  - url: 'http://stream.radioparadise.com/mellow-320'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://stream.radioparadise.com/mellow-64'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://stream.radioparadise.com/mellow-32'
-    codec: AAC
-    bitrate: 32
-  - url: 'http://stream.radioparadise.com/mellow-192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -51,3 +32,27 @@ research:
   format: Eclectic music mixing alternative, rock, folk, world, and diverse genres with "mellow" thematic stream
   notes: California-based internet radio station funded by listener donations. Multiple quality streams available including 320 kbps AAC. Offers free ad-free streaming with optional paid membership. Known for curated, non-commercial music programming. Streams from northern California coast.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-d88c0d24-adb2-11e9-88f4-52543be04c81
+  - iprd-us-radio-paradise-mellow-mix-6c7b9b2a
+  - iprd-us-radio-paradise-mellow-mix-adb6073b
+  - iprd-us-radio-paradise-mellow-mix-9f6a75c6
+  - iprd-us-radio-paradise-mellow-mix-flac-f7f1588b
+  - iprd-us-radio-paradise-mellow-mix-flac-b121df78
+streams:
+  - url: https://stream.radioparadise.com/mellow-flac
+    codec: OGG
+    bitrate: 1441
+  - url: http://stream.radioparadise.com/mellow-320
+    codec: AAC
+    bitrate: 320
+  - url: https://stream.radioparadise.com/mellow-64
+    codec: AAC
+    bitrate: 64
+  - url: http://stream.radioparadise.com/mellow-32
+    codec: AAC
+    bitrate: 32
+  - url: http://stream.radioparadise.com/mellow-192
+    codec: MP3
+    bitrate: 192

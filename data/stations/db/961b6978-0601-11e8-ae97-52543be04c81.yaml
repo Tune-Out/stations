@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961b6978-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://sensations.ice.infomaniak.ch/sensations.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://sensations.ice.infomaniak.ch/sensations.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: General entertainment and music format for local Yvelines audience.
   notes: Regional French radio station serving Yvelines département west of Paris. Part of Radio Sensations network with commercial format. Targets local community and Yvelines residents.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-961b6978-0601-11e8-ae97-52543be04c81
+  - iprd-fr-sensations-yvelines-06564fca
+  - iprd-fr-sensations-yvelines-f19d8b62
+streams:
+  - url: http://sensations.ice.infomaniak.ch/sensations.aac
+    codec: AAC
+    bitrate: 128
+  - url: http://sensations.ice.infomaniak.ch/sensations.mp3
+    codec: MP3
+    bitrate: 192

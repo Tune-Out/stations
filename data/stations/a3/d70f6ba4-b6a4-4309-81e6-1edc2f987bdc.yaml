@@ -24,17 +24,6 @@ lastchangetime: 2026-01-15 05:45:24
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-d70f6ba4-b6a4-4309-81e6-1edc2f987bdc
-streams:
-  - url: 'https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8'
-    codec: AAC+
-    bitrate: 101
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +33,15 @@ research:
   format: "Mixed-speech and music public service radio: news, current affairs, sport (especially GAA and football), arts, faith, traditional/folk and country music, plus regional magazine shows"
   notes: BBC Radio Ulster launched on 1 January 1975 as the dedicated BBC radio service for Northern Ireland, broadcasting from Broadcasting House in Belfast on 92-95 FM, MW 873/1341 kHz, DAB and online; flagship programmes include Good Morning Ulster (breakfast news), Talkback (lunchtime phone-in), Evening Extra, and traditional/country shows like Hugo Duncan's Afternoon Show and Ralph McLean's specialist music; sister opt-out BBC Radio Foyle serves the north-west from Derry/Londonderry; like all BBC radio it carries no advertising and is governed by the BBC Operating Licence which sets minimum hours of Northern Ireland-specific content; the 128 kbps stream is one of the official BBC Sounds live feeds
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-d70f6ba4-b6a4-4309-81e6-1edc2f987bdc
+  - iprd-gb-bbc-radio-ulster-68b0730d
+streams:
+  - url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8
+    codec: AAC+
+    bitrate: 101
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true

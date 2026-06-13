@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-dab42837-8e90-43e0-8d50-c8e3742b4d3f
-streams:
-  - url: 'https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esAdblock0724411&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1671316064&aw_0_req.gdpr=false'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://christmasfm.cdnstream1.com/2547_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +28,17 @@ research:
   format: Christmas music, holiday songs, festive programming; seasonal specialty station
   notes: Commercial online radio station broadcasting Christmas and holiday music; available year-round via streaming platform; operates primarily during holiday season with curated Christmas music content
   sources: https://christmasfm.com/
+curation: 0.3
+provenance:
+  - radiobrowser-dab42837-8e90-43e0-8d50-c8e3742b4d3f
+  - iprd-ie-christmas-fm-ireland-f8ddfabb
+streams:
+  - url: https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019
+    codec: MP3
+    bitrate: 128
+  - url: https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esAdblock0724411&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1671316064&aw_0_req.gdpr=false
+    codec: MP3
+    bitrate: 128
+  - url: https://christmasfm.cdnstream1.com/2547_128.mp3
+    codec: MP3
+    bitrate: 128

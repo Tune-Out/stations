@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:44:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-51e786e6-0dd9-4665-9cf1-eabf9dc19e85
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,7 @@ research:
   format: Community DJ-hosted shows; alternative music; examples include "Astral Peaks."
   notes: Internet radio "streamed by / for users of the tildeverse." Emphasizes community participation and open-source ethos. Community-run scheduling via IRC (#tilderadio on tilde.chat) and Mastodon. Multiple streaming formats (OGG Vorbis, MP3 at 192-320 kbps). Part of tildeverse decentralized social internet infrastructure.
   sources: https://tilderadio.org/
+curation: 0.35
+provenance:
+  - radiobrowser-51e786e6-0dd9-4665-9cf1-eabf9dc19e85
+  - iprd-us-tilderadio-53518ca1

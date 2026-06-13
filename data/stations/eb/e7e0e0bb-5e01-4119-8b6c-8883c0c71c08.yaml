@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e7e0e0bb-5e01-4119-8b6c-8883c0c71c08
-streams:
-  - url: 'http://yesfmboracay.radioca.st:2199/tunein/yesfmboracay-stream.pls'
-    url_resolved: 'http://95.217.34.48:8253/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://yesfmboracay.radioca.st:2199/tunein/yesfmboracay-stream.pls'
-    url_resolved: 'http://95.217.34.48:8253/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +28,15 @@ research:
   format: Contemporary pop and commercial radio programming
   notes: "FM station at 91.1 serving Boracay Island tourist destination in Philippines. Part of YES! The Best radio network which operates multiple stations across the Philippine archipelago. Phone: 036-2886107. Maintains social media presence on Facebook, Twitter, Instagram."
   sources: https://www.yesfm.com.ph/radio?station=91.1-yes-the-best-boracay
+curation: -0.05
+provenance:
+  - radiobrowser-e7e0e0bb-5e01-4119-8b6c-8883c0c71c08
+streams:
+  - url: http://yesfmboracay.radioca.st:2199/tunein/yesfmboracay-stream.pls
+    url_resolved: http://95.217.34.48:8253/stream
+    codec: MP3
+    bitrate: 96
+  - url: https://yesfmboracay.radioca.st:2199/tunein/yesfmboracay-stream.pls
+    url_resolved: http://95.217.34.48:8253/stream
+    codec: MP3
+    bitrate: 96

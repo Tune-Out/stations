@@ -20,22 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-963b6753-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/990100-0_aac_high.m3u'
-    url_resolved: 'http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/990100-0_mp3_low.m3u'
-    url_resolved: 'http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/990100-0_mp3_high.m3u'
-    url_resolved: 'http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -45,3 +29,22 @@ research:
   format: News, culture, and programming in Sorbian language
   notes: MDR is a publicly-funded state broadcasting organization serving eastern Germany (Saxony, Saxony-Anhalt, Thuringia). Sorbisches Programm is a dedicated Sorbian-language service for the ethnic Sorbian minority in Saxony.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-963b6753-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-sachsen-sorbisches-programm-5c5966cd
+  - iprd-de-mdr-sachsen-sorbisches-programm-f7a3d8c0
+  - iprd-de-mdr-sachsen-sorbisches-programm-f2baa7d7
+streams:
+  - url: http://avw.mdr.de/streams/990100-0_aac_high.m3u
+    url_resolved: http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/990100-0_mp3_low.m3u
+    url_resolved: http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/990100-0_mp3_high.m3u
+    url_resolved: http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 00:35:26
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a9872d56-95ab-49d0-87a6-b740c0589c31
-streams:
-  - url: 'https://s10.webradio-hosting.com/proxy/fredradioedu/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s10.webradio-hosting.com/proxy/fredradioen/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s10.webradio-hosting.com/proxy/fredradioind/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +31,16 @@ research:
   format: Film education, culture, documentary-style programming
   notes: British internet radio station focused on film, culture, and education programming. London-based broadcast targeting arts and culture audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a9872d56-95ab-49d0-87a6-b740c0589c31
+streams:
+  - url: https://s10.webradio-hosting.com/proxy/fredradioedu/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://s10.webradio-hosting.com/proxy/fredradioen/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://s10.webradio-hosting.com/proxy/fredradioind/stream
+    codec: MP3
+    bitrate: 128

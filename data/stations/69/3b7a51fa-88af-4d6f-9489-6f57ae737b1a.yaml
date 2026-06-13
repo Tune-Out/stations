@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 0
 geo_lat: 59.33320618515925
 geo_long: 18.100490570068363
-curation: 0.55
-provenance:
-  - radiobrowser-3b7a51fa-88af-4d6f-9489-6f57ae737b1a
-streams:
-  - url: 'https://edge1.sr.se/p2-flac'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://live1.sr.se/p2-flac'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://http-live.sr.se/p2musik-aac-320'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +32,18 @@ research:
   format: Classical music, jazz, cultural programming; music and arts focus
   notes: P2 (Program 2) is one of four main channels of Sveriges Radio, the Swedish public broadcaster (funded by license fees). Specializes in classical music and jazz. National broadcasting service established 1925. High cultural standing in Swedish media. Provides music education and cultural content alongside entertainment.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-3b7a51fa-88af-4d6f-9489-6f57ae737b1a
+  - iprd-se-sveriges-radio-p2-b9f646d2
+  - iprd-se-sveriges-radio-p2-ebb0b4af
+streams:
+  - url: https://edge1.sr.se/p2-flac
+    codec: OGG
+    bitrate: 128
+  - url: https://live1.sr.se/p2-flac
+    codec: OGG
+    bitrate: 128
+  - url: https://http-live.sr.se/p2musik-aac-320
+    codec: MP3
+    bitrate: 128

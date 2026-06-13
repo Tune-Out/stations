@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:22:39
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-e271c4d7-be49-4a65-b025-d13397e17ac0
-streams:
-  - url: 'http://radio.animenexus.mx:8000/animenexus'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast.animenexusla.com/radio/8000/animenexus'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Anime soundtracks, J-pop (Japanese pop), J-rock (Japanese rock), city pop, video game music
   notes: Specialized station serving Latin American anime and Japanese popular culture fanbase. Includes city pop revival movement alongside traditional J-pop and J-rock. Broadcasts in Spanish to regional audience with Japanese music focus.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-e271c4d7-be49-4a65-b025-d13397e17ac0
+  - iprd-mx-radio-anime-nexus-8bccfdcc
+streams:
+  - url: http://radio.animenexus.mx:8000/animenexus
+    codec: MP3
+    bitrate: 128
+  - url: https://cast.animenexusla.com/radio/8000/animenexus
+    codec: MP3
+    bitrate: 128

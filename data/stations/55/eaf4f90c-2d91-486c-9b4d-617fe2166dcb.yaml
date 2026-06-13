@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 03:38:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-eaf4f90c-2d91-486c-9b4d-617fe2166dcb
-streams:
-  - url: 'https://streaming.ticktock.radio/tt/2018/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/tt/2018/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.ticktock.radio/tt/2019/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/tt/2019/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.ticktock.radio/tt/2020/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/tt/2020/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.ticktock.radio/tt/2021/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/tt/2021/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +31,19 @@ research:
   format: Curated music from 2018; 2010s music hits
   notes: Themed music channel on YouRadio platform focusing on 2018-era music and 2010s hits; streams 2018 music nostalgia content
   sources: https://you.radio/station/886
+curation: 0.3
+provenance:
+  - radiobrowser-eaf4f90c-2d91-486c-9b4d-617fe2166dcb
+streams:
+  - url: https://streaming.ticktock.radio/tt/2018/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/tt/2018/icecast.audio
+    codec: MP3
+  - url: https://streaming.ticktock.radio/tt/2019/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/tt/2019/icecast.audio
+    codec: MP3
+  - url: https://streaming.ticktock.radio/tt/2020/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/tt/2020/icecast.audio
+    codec: MP3
+  - url: https://streaming.ticktock.radio/tt/2021/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/tt/2021/icecast.audio
+    codec: MP3

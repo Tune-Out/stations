@@ -25,14 +25,6 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 29
 geo_lat: 34.05256608587504
 geo_long: -118.28636169433597
-curation: -0.10
-provenance:
-  - radiobrowser-2e6fabb2-9a10-4b2a-91ae-25a7d535e247
-streams:
-  - url: 'http://stream.revma.ihrhls.com/zc185'
-    codec: AAC
-  - url: 'https://stream.revma.ihrhls.com/zc185'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +34,11 @@ research:
   format: Top 40, pop, hot adult contemporary, contemporary hits
   notes: 102.7 FM Los Angeles flagship station; owned by iHeart Media; major US Top 40/pop station with celebrity hosts
   sources: https://kiisfm.iheart.com/
+curation: -0.1
+provenance:
+  - radiobrowser-2e6fabb2-9a10-4b2a-91ae-25a7d535e247
+streams:
+  - url: http://stream.revma.ihrhls.com/zc185
+    codec: AAC
+  - url: https://stream.revma.ihrhls.com/zc185
+    codec: AAC

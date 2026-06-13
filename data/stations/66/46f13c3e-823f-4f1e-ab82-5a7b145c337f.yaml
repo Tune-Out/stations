@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 5
 geo_lat: 51.5306179528736
 geo_long: -0.02197265625
-curation: -0.05
-provenance:
-  - radiobrowser-46f13c3e-823f-4f1e-ab82-5a7b145c337f
-streams:
-  - url: 'https://media-ssl.musicradio.com/SmoothCountry'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://media-ice.musicradio.com/SmoothCountryMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Country music, Americana, contemporary and classic country
   notes: Smooth Country is a dedicated country music stream of Smooth Radio, a UK commercial radio station operated by Bauer Media Group. Specializes in contemporary and classic country music for UK audiences interested in American country genres.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-46f13c3e-823f-4f1e-ab82-5a7b145c337f
+streams:
+  - url: https://media-ssl.musicradio.com/SmoothCountry
+    codec: AAC
+    bitrate: 48
+  - url: https://media-ice.musicradio.com/SmoothCountryMP3
+    codec: MP3
+    bitrate: 128

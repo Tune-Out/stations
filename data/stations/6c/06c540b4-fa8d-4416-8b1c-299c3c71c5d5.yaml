@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: 41.38206356702108
 geo_long: -81.84957683086397
-curation: -0.05
-provenance:
-  - radiobrowser-06c540b4-fa8d-4416-8b1c-299c3c71c5d5
-streams:
-  - url: 'https://cbfc.streamguys1.com/cbdaily.mp3'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://cbfc.streamguys1.com/cbdaily.mp3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Sports talk, NFL football coverage (Browns games), local sports commentary and analysis.
   notes: Official radio network for the Cleveland Browns professional football team. Broadcasts all games and provides sports analysis and team news.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-06c540b4-fa8d-4416-8b1c-299c3c71c5d5
+  - iprd-us-browns-radio-network-2eff4f4f
+streams:
+  - url: https://cbfc.streamguys1.com/cbdaily.mp3
+    codec: MP3
+    bitrate: 64
+  - url: http://cbfc.streamguys1.com/cbdaily.mp3
+    codec: MP3
+    bitrate: 64

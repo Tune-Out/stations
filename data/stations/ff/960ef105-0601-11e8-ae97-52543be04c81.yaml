@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-960ef105-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://redbeemedia.streamabc.net/redbm-vivaliege-aac-128-4751338'
-    codec: AAC
-  - url: 'https://radios.rtbf.be/vivaliege-64.aac'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -38,3 +30,12 @@ research:
   format: Mixed format including music, talk, news, local programming; entertainment and information focused
   notes: RTBF VivaCité Liège is the Liège local service of VivaCité, a public radio network of RTBF serving French-speaking Belgium (Wallonia). Regional programming for Liège and surrounding areas. Public service radio with focus on local news, culture, and community. FM broadcaster with streaming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-960ef105-0601-11e8-ae97-52543be04c81
+  - iprd-be-rtbf-viva-cit-li-ge-3587f6dc
+streams:
+  - url: https://redbeemedia.streamabc.net/redbm-vivaliege-aac-128-4751338
+    codec: AAC
+  - url: https://radios.rtbf.be/vivaliege-64.aac
+    codec: MP3

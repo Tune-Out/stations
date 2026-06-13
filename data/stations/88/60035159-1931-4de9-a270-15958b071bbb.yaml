@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:24:51
 clickcount: 3
 geo_lat: 50.13008674330392
 geo_long: 8.684692382812502
-curation: 0.65
-provenance:
-  - radiobrowser-60035159-1931-4de9-a270-15958b071bbb
-streams:
-  - url: 'https://dispatcher.rndfnk.com/hr/hrinfo-sued/mp3/high'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://dispatcher.rndfnk.com/hr/hrinfo/live/high'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: News, information, current affairs, talk radio
   notes: hr-info is German public radio channel operated by Hessischer Rundfunk (HR), part of ARD public broadcasting system. Focuses exclusively on news, information, and current affairs programming. Public-funded broadcaster serving Hessen and central German regions.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-60035159-1931-4de9-a270-15958b071bbb
+streams:
+  - url: https://dispatcher.rndfnk.com/hr/hrinfo-sued/mp3/high
+    codec: MP3
+    bitrate: 128
+  - url: https://dispatcher.rndfnk.com/hr/hrinfo/live/high
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 6a30c100-b4fa-41d7-bc49-874a21fce421
 name: 101.5 KPLA
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC.aac
+url: 'https://14023.live.streamtheworld.com:443/KPLAFMAAC.aac'
+url_resolved: 'https://14023.live.streamtheworld.com:443/KPLAFMAAC.aac'
 homepage: https://www.kpla.com/
 favicon: https://www.kpla.com/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6a30c100-b4fa-41d7-bc49-874a21fce421
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary hits
   notes: KPLA 101.5 FM is a commercial radio station in Columbia, Missouri; part of Salem Media Group network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6a30c100-b4fa-41d7-bc49-874a21fce421

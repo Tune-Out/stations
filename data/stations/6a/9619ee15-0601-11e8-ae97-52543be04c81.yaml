@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:35:25
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9619ee15-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icy.unitedradio.it/VirginRockHits.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/VirginRockHits.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Rock hits, classic rock, contemporary rock, pop-rock, international rock music
   notes: Virgin Radio Rock Hits is a specialized channel of Virgin Radio Italy; Mediaset-owned commercial broadcaster; operates 105.5 FM and streaming; focuses on rock and hit music.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9619ee15-0601-11e8-ae97-52543be04c81
+  - iprd-it-virgin-radio-rock-hits-a9e2797d
+streams:
+  - url: http://icy.unitedradio.it/VirginRockHits.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/VirginRockHits.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 06:08:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0ea641ca-6eb1-493d-a264-03d90138d9d4
-streams:
-  - url: 'https://wz2liw.scahw.com.au/live/2wzd_128.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 33
-    hls: true
-  - url: 'https://wz2liw.scahw.com.au/live/2wzd_128.stream/playlist.m3u8?'
-    codec: AAC+
-    bitrate: 33
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,15 @@ research:
   format: Adult contemporary
   notes: Australian commercial station at 93.1 MHz in Riverina region.
   sources: https://www.hit.com.au/riverina
+curation: -0.05
+provenance:
+  - radiobrowser-0ea641ca-6eb1-493d-a264-03d90138d9d4
+streams:
+  - url: https://wz2liw.scahw.com.au/live/2wzd_128.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 33
+    hls: true
+  - url: https://wz2liw.scahw.com.au/live/2wzd_128.stream/playlist.m3u8?
+    codec: AAC+
+    bitrate: 33
+    hls: true

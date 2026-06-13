@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 07:27:51
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b1628f4d-89e6-44d0-b270-638e4cbdba4f
-streams:
-  - url: 'https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'https://streamcdnr8-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +34,14 @@ research:
   format: Alternative rock, classic rock, pop rock, rock
   notes: Deejay Tropical Pizza is a web radio channel of Deejay, Italy's major commercial radio network. Part of the Deejay portfolio which includes FM and digital broadcasting. Tropical Pizza specializes in rock music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b1628f4d-89e6-44d0-b270-638e4cbdba4f
+streams:
+  - url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: https://streamcdnr8-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/live.m3u8
+    codec: UNKNOWN
+    hls: true

@@ -31,16 +31,6 @@ lastchangetime: 2026-01-15 04:06:37
 clickcount: 1
 geo_lat: 55.00944136897088
 geo_long: 82.94332992344634
-curation: 0.25
-provenance:
-  - radiobrowser-686b643c-b9bf-4a2c-a7d8-4185df53e812
-streams:
-  - url: 'https://stream.rtfm.fm/aac256'
-    codec: AAC
-    bitrate: 256
-  - url: 'http://stream.rtfm.fm/aac256'
-    codec: AAC
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -50,3 +40,14 @@ research:
   format: Alternative rock, jazz, electronic, downtempo, pop rock; artist-driven eclectic music.
   notes: Online streaming radio from Novosibirsk, Siberia; AAC 256 kbps high-quality broadcast; curates independent and alternative music.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-686b643c-b9bf-4a2c-a7d8-4185df53e812
+  - iprd-ru-rtfm-fm-b0fa268c
+streams:
+  - url: https://stream.rtfm.fm/aac256
+    codec: AAC
+    bitrate: 256
+  - url: http://stream.rtfm.fm/aac256
+    codec: AAC
+    bitrate: 256

@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8235c9c9-ee1d-4f3b-a5af-167beb51c1d9
-streams:
-  - url: 'http://icecast.mnsu.edu:8000/kmsu'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.aiir.com/ivdkskjmcnhuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -37,3 +28,13 @@ research:
   format: Diverse student programming and music
   notes: College radio station operated by Minnesota State University, Mankato at 89.7 FM. Non-commercial educational broadcaster.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8235c9c9-ee1d-4f3b-a5af-167beb51c1d9
+  - iprd-us-kmsu-89-7-71b05b41
+streams:
+  - url: http://icecast.mnsu.edu:8000/kmsu
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.aiir.com/ivdkskjmcnhuv
+    codec: MP3

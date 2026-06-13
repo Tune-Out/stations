@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 56.460113112636535
 geo_long: 9.992065429687502
-curation: 0.60
-provenance:
-  - radiobrowser-ea949437-acea-40e1-ab43-045fb7aed40b
-streams:
-  - url: 'https://radioserver.dk/alwayselvisradio'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://radioserver.dk/alwayselvisradio'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Elvis Presley music, 1950s-60s oldies and nostalgia
   notes: Specialized radio dedicated to Elvis Presley and 1950s-60s music. Danish-hosted. Non-commercial fan-oriented station celebrating Elvis and classic rock'n'roll era.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-ea949437-acea-40e1-ab43-045fb7aed40b
+streams:
+  - url: https://radioserver.dk/alwayselvisradio
+    codec: MP3
+    bitrate: 192
+  - url: http://radioserver.dk/alwayselvisradio
+    codec: MP3
+    bitrate: 192

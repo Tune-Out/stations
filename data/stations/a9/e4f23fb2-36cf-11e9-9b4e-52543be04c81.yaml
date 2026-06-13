@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e4f23fb2-36cf-11e9-9b4e-52543be04c81
-streams:
-  - url: 'http://schranz.in:8000/;stream/1'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://schranz.in:8000/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Hardtechno and schranz (aggressive techno subgenre) music programming
   notes: Schranz.in is a non-commercial internet radio station dedicated to hardtechno and schranz music; schranz is an extreme industrial techno variant from Germany/Eastern Europe; community-driven platform for niche electronic music
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e4f23fb2-36cf-11e9-9b4e-52543be04c81
+streams:
+  - url: http://schranz.in:8000/;stream/1
+    codec: MP3
+    bitrate: 128
+  - url: http://schranz.in:8000/stream
+    codec: MP3
+    bitrate: 128

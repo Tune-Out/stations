@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:01:43
 clickcount: 0
 geo_lat: 49.58792450200695
 geo_long: 10.195312500000002
-curation: 0.35
-provenance:
-  - radiobrowser-f769bd51-62fb-4b42-bdf8-2a377c8c3cb7
-streams:
-  - url: 'https://stream.laut.fm/0-24_80er_pop_rock'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/0-24_80er_pop_rock'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: 1980s pop and rock music
   notes: Community-created music stream on laut.fm, a German internet radio platform; focuses on pop and rock from the 1980s
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f769bd51-62fb-4b42-bdf8-2a377c8c3cb7
+streams:
+  - url: https://stream.laut.fm/0-24_80er_pop_rock
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/0-24_80er_pop_rock
+    codec: MP3
+    bitrate: 128

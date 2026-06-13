@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:34:44
 clickcount: 1
 geo_lat: 60.17083826356364
 geo_long: 24.94149684906006
-curation: -0.05
-provenance:
-  - radiobrowser-32191e96-d5ef-413d-a602-4a359125dd8f
-streams:
-  - url: 'https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein'
-    codec: AAC
-    bitrate: 63
-  - url: 'https://stream-redirect.bauermedia.fi/ysari/ysari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: 90s pop and music radio; retro pop programming focusing on 1990s music
   notes: Finnish commercial station hosted on Bauer Media (Nordic media company); focuses on 90s pop music nostalgic format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-32191e96-d5ef-413d-a602-4a359125dd8f
+  - iprd-fi-ys-ri-ac6c4659
+streams:
+  - url: https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+    codec: AAC
+    bitrate: 63
+  - url: https://stream-redirect.bauermedia.fi/ysari/ysari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+    codec: MP3
+    bitrate: 128

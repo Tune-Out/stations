@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:53:54
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-96501ba8-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/70er/aac-64/audio/'
-    codec: AAC
-  - url: 'http://streams.fluxfm.de/70er/mp3-320/audio/'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/70er/mp3-128/audio/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,15 @@ research:
   format: 1970s music; retro rock and pop.
   notes: FluxFM is non-commercial indie radio network in Germany. Der 70er Channel specializes exclusively in 1970s music. Community-supported station.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-96501ba8-0601-11e8-ae97-52543be04c81
+  - iprd-de-fluxfm-70s-der-70er-channel-9fce9cf8
+  - iprd-de-fluxfm-70s-der-70er-channel-893014f0
+streams:
+  - url: http://streams.fluxfm.de/70er/aac-64/audio/
+    codec: AAC
+  - url: http://streams.fluxfm.de/70er/mp3-320/audio/
+    codec: MP3
+  - url: http://streams.fluxfm.de/70er/mp3-128/audio/
+    codec: MP3

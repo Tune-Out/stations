@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-53aa9e59-31bb-4f5f-97e4-f5527a4d2ac8
-streams:
-  - url: 'https://casseta-disco.ru:6275/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://casseta-disco.ru:6275/stream?x=1711899723831'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +29,13 @@ research:
   format: Retro disco music programming; university radio station.
   notes: Community university radio station in Australia focused on disco and retro music. Limited public information available.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-53aa9e59-31bb-4f5f-97e4-f5527a4d2ac8
+streams:
+  - url: https://casseta-disco.ru:6275/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://casseta-disco.ru:6275/stream?x=1711899723831
+    codec: MP3
+    bitrate: 128

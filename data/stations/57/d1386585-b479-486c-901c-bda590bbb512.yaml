@@ -21,26 +21,6 @@ lastchangetime: 2026-02-24 22:15:53
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d1386585-b479-486c-901c-bda590bbb512
-streams:
-  - url: 'https://dparkradio.com/ch3.pls'
-    url_resolved: 'https://listen.openstream.co/4287/audio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://dparkradio.com/ch1.pls'
-    url_resolved: 'https://listen.openstream.co/7420/audio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://dparkradio.com/ch4.pls'
-    url_resolved: 'https://listen.openstream.co/4661/audio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://dparkradio.com/ch2.pls'
-    url_resolved: 'https://listen.openstream.co/7421/audio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -50,3 +30,23 @@ research:
   format: Disney theme park audio; parades, attractions, fireworks, nighttime spectaculars
   notes: 'Four channels: Main, Background Area, Holiday, and Guest TV. Mission: "The Parades, The Attractions, and of course The Fireworks! No matter where you are, DParkRadio.com will bring you home to the greatest Disney Theme Park Audio on the planet!" Non-commercial fan project.'
   sources: https://dparkradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-d1386585-b479-486c-901c-bda590bbb512
+streams:
+  - url: https://dparkradio.com/ch3.pls
+    url_resolved: https://listen.openstream.co/4287/audio
+    codec: MP3
+    bitrate: 128
+  - url: https://dparkradio.com/ch1.pls
+    url_resolved: https://listen.openstream.co/7420/audio
+    codec: MP3
+    bitrate: 128
+  - url: https://dparkradio.com/ch4.pls
+    url_resolved: https://listen.openstream.co/4661/audio
+    codec: MP3
+    bitrate: 128
+  - url: https://dparkradio.com/ch2.pls
+    url_resolved: https://listen.openstream.co/7421/audio
+    codec: MP3
+    bitrate: 128

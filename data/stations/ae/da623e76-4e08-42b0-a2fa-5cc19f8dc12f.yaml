@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-da623e76-4e08-42b0-a2fa-5cc19f8dc12f
-streams:
-  - url: 'https://happyhardcore-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://happyhardcore-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Happy hardcore, uplifting electronic dance music (EDM), hardcore
   notes: Raute Musik is democratic German internet radio platform; HappyHardcore is one of specialized genre channels. Community-curated electronic music programming.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-da623e76-4e08-42b0-a2fa-5cc19f8dc12f
+streams:
+  - url: https://happyhardcore-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://happyhardcore-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6ab90875-ab0e-11e9-88f4-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-rock-128-mp3?usid=0-0-H-A-D-30'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-rock-128-aac?usid=0-0-H-A-D-30'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,13 @@ research:
   format: Classic rock music programming; part of RPR1. multi-station network
   notes: RPR1. is a major commercial radio station serving the Rhineland-Palatinate region. Classic Rock is one of several branded streams under the RPR1. umbrella. Strong audience in southwestern Germany.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6ab90875-ab0e-11e9-88f4-52543be04c81
+  - iprd-de-rpr1-classic-rock-94d820fa
+  - iprd-de-rpr1-classic-rock-671e1bec
+streams:
+  - url: http://streams.rpr1.de/rpr-rock-128-mp3?usid=0-0-H-A-D-30
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-rock-128-aac?usid=0-0-H-A-D-30
+    codec: AAC

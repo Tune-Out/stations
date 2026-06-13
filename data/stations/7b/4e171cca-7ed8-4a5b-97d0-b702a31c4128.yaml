@@ -1,7 +1,7 @@
 stationuuid: 4e171cca-7ed8-4a5b-97d0-b702a31c4128
 name: "Y94 #1 Hit Music Station"
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KOYYFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KOYYFMAAC.aac
+url: 'https://13743.live.streamtheworld.com:443/KOYYFMAAC.aac'
+url_resolved: 'https://13743.live.streamtheworld.com:443/KOYYFMAAC.aac'
 homepage: https://y94.com/
 favicon: ""
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:45:36
 clickcount: 1
 geo_lat: 46.87405459316043
 geo_long: -96.79229736328126
-curation: -0.05
-provenance:
-  - radiobrowser-4e171cca-7ed8-4a5b-97d0-b702a31c4128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,7 @@ research:
   format: Contemporary hit radio (CHR), top 40, pop music
   notes: Commercial FM radio station Y94 (call sign likely KOYY) broadcasting hit music format in North Dakota; top 40/CHR format targeting pop music audience; stream via StreamTheWorld platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4e171cca-7ed8-4a5b-97d0-b702a31c4128
+  - iprd-us-koyy-93-7-y94-138f048f

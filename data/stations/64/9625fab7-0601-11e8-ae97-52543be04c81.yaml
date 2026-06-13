@@ -1,6 +1,6 @@
 stationuuid: 9625fab7-0601-11e8-ae97-52543be04c81
 name: WSCL 89.5 Delmarva Public Radio "Fine Arts & Culture" - Salisbury, MD
-url: http://provisioning.streamtheworld.com/pls/WSCLFM.pls
+url: 'http://26423.live.streamtheworld.com:80/WSCLFM_SC'
 url_resolved: http://26223.live.streamtheworld.com/WSCLFM_SC
 homepage: http://delmarvapublicradio.net/
 favicon: https://www.delmarvapublicmedia.org/apple-touch-icon.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 00:26:30
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9625fab7-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -35,3 +32,6 @@ research:
   format: Classical music and fine arts programming
   notes: WSCL 89.5 FM is a member-supported public radio station part of Delmarva Public Radio. Broadcasts classical music and cultural programming as part of NPR and PRI networks.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-9625fab7-0601-11e8-ae97-52543be04c81

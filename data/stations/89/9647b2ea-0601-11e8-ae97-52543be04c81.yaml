@@ -1,6 +1,6 @@
 stationuuid: 9647b2ea-0601-11e8-ae97-52543be04c81
 name: KKNW 1150 "Alternative Talk" Seattle, WA
-url: http://provisioning.streamtheworld.com/pls/KKNWAMAAC.pls
+url: 'http://19273.live.streamtheworld.com:80/KKNWAMAAC_SC'
 url_resolved: http://17843.live.streamtheworld.com:3690/KKNWAMAAC_SC
 homepage: https://1150kknw.com/
 favicon: https://kknwamsite.wpenginepowered.com/wp-content/uploads/2021/07/cropped-KKNW_logo1x1-180x180.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:29:20
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9647b2ea-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Alternative talk radio featuring opinion/commentary shows, political debate, alternative perspectives on news and culture
   notes: KKNW 1150 AM broadcasts talk and alternative opinion programming in the Seattle market; positioned as alternative talk radio offering different viewpoints on political and cultural issues; part of the Pacific Northwest radio landscape serving Seattle-area audiences and streaming online
   sources: https://1150kknw.com/, internal knowledge of Seattle radio
+curation: -0.05
+provenance:
+  - radiobrowser-9647b2ea-0601-11e8-ae97-52543be04c81

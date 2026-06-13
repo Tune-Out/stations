@@ -1,7 +1,7 @@
 stationuuid: f1c094b9-319d-4b58-a00f-20a4e5304098
 name: Amor Solo Pop (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.aac
+url: 'https://24153.live.streamtheworld.com:443/ACIR03_S01AAC.aac'
+url_resolved: 'https://24153.live.streamtheworld.com:443/ACIR03_S01AAC.aac'
 homepage: https://www.iheart.com/live/amor-solo-pop-8044/
 favicon: https://i.iheart.com/v3/re/new_assets/5c9bef57a47b1251f8a34e45
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 06:39:51
 clickcount: 12
 geo_lat: 19.43616185591159
 geo_long: -99.13290023803712
-curation: -0.05
-provenance:
-  - radiobrowser-f1c094b9-319d-4b58-a00f-20a4e5304098
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: online-only Spanish romantic-pop and ballad stream ("amor sólo música romántica") featuring 1980s-2000s ballads and contemporary pop-rock cuts
   notes: Grupo ACIR is one of Mexico's largest commercial radio groups (founded 1965 by Francisco Ibarra López) and operates national brands such as Amor, Mix, La Comadre, Match FM and Sabrosita; "Amor Sólo Pop" is a digital sub-brand of the long-running Amor 95.3 FM (XHRED) Mexico City romantic format, syndicated globally via iHeartRadio.
   sources: https://www.iheart.com/live/amor-solo-pop-8044/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-f1c094b9-319d-4b58-a00f-20a4e5304098

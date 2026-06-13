@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:27:11
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9614867a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.chantefrance.com/cf-70'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 1970s French chanson and pop — a thematic decade sub-stream of the Chante France webradio family alongside 60s, 80s, 90s-2000s, "Party", "Emotion" and "Nouveautés" channels
   notes: Chante France is a Paris-based all-French-music brand operated by Groupe HPI; the main feed is distributed on DAB+ across France, online and via a mobile app, and is complemented by a family of decade- and mood-themed webradio sub-streams of which "Chante France 70's" is one; the station's editorial focuses entirely on French-language artists, with live acoustic sessions, artist interviews and a daily programme called "La Compil du Matin"; sister streams in the catalog include Chante France Emotion, Chante France 80s/90s/2000s and others.
   sources: http://www.chantefrance.com/
+curation: -0.05
+provenance:
+  - radiobrowser-9614867a-0601-11e8-ae97-52543be04c81
+  - iprd-fr-chante-france-70-s-94698199
+streams:
+  - url: http://stream.chantefrance.com/cf-70
+    codec: MP3
+    bitrate: 128
+  - url: https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3
+    codec: MP3
+    bitrate: 128

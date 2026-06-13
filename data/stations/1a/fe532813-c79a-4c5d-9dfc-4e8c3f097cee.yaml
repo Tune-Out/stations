@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-fe532813-c79a-4c5d-9dfc-4e8c3f097cee
-streams:
-  - url: 'https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://whmsonic.radio.gov.pk:7005/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -39,3 +29,14 @@ research:
   format: Classical music streaming
   notes: Pakistani state broadcaster; operates under radio.gov.pk domain; streams classical music programming.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-fe532813-c79a-4c5d-9dfc-4e8c3f097cee
+  - iprd-pk-radio-pakistan-world-service-e28a3bea
+streams:
+  - url: https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
+    codec: MP3
+    bitrate: 128
+  - url: https://whmsonic.radio.gov.pk:7005/stream
+    codec: MP3
+    bitrate: 128

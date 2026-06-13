@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 01:59:15
 clickcount: 100
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-962b27a3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://media-the.musicradio.com/SmoothEastMids'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://media-ssl.musicradio.com/SmoothSuffolk'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://media-the.musicradio.com/SmoothLondon'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,18 @@ research:
   format: Adult Contemporary / Easy Listening — soft hits and classics from the 1970s onwards; tagline "Always the Best Music"
   notes: One of the UK's largest commercial radio brands. Smooth originated as Jazz FM in the 1990s, became Smooth FM and later Smooth Radio under GMG Radio, acquired by Global in 2012. Broadcasts nationally on DAB plus regional FM/AM frequencies (this stream is the East Midlands variant). Notable presenters include Myleene Klass and Kate Garraway. Publishes the annual "Smooth's All Time Top 500" chart.
   sources: https://www.smoothradio.com/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-962b27a3-0601-11e8-ae97-52543be04c81
+  - iprd-gb-smooth-radio-4683ed80
+  - iprd-gb-smooth-radio-suffolk-ccb8acdd
+streams:
+  - url: http://media-the.musicradio.com/SmoothEastMids
+    codec: AAC
+    bitrate: 48
+  - url: https://media-ssl.musicradio.com/SmoothSuffolk
+    codec: AAC
+    bitrate: 48
+  - url: http://media-the.musicradio.com/SmoothLondon
+    codec: AAC
+    bitrate: 48

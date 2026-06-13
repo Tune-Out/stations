@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:22:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-cd358fa7-6aea-446e-95f9-7a3af24910e0
-streams:
-  - url: 'http://s8.iqstreaming.com:8016/'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://s8.iqstreaming.com:8016/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,14 @@ research:
   format: Community and local format
   notes: '"Radio Čapljina" serves the Čapljina municipality in Herzegovina region of Bosnia and Herzegovina. Community-oriented local broadcaster. Limited public information available; primarily web-based presence.'
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-cd358fa7-6aea-446e-95f9-7a3af24910e0
+  - iprd-ba-radio-postaja-capljina-91-3-f76257ea
+streams:
+  - url: http://s8.iqstreaming.com:8016/
+    codec: MP3
+    bitrate: 96
+  - url: http://s8.iqstreaming.com:8016/stream
+    codec: MP3
+    bitrate: 96

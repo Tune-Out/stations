@@ -19,21 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-37d8c726-c98c-4690-84aa-8f71c715081c
-streams:
-  - url: 'http://s39.myradiostream.com:11590/listen.m4a'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://s39.myradiostream.com:11590/listen.m3u'
-    url_resolved: 'http://s39.myradiostream.com:11590/;'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://s39.myradiostream.com:11590/listen.pls'
-    url_resolved: 'http://s39.myradiostream.com:11590/;'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +28,19 @@ research:
   format: Metal and hard rock music radio with focus on metal bands, subgenres, and rock content.
   notes: Norwegian internet radio station specializing in metal and rock music. Oslo-based independent broadcaster catering to international metal community. Commercial model with high-bitrate audio streaming (192 kbps MP3).
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-37d8c726-c98c-4690-84aa-8f71c715081c
+  - iprd-no-metal-express-radio-45313f82
+streams:
+  - url: http://s39.myradiostream.com:11590/listen.m4a
+    codec: MP3
+    bitrate: 192
+  - url: http://s39.myradiostream.com:11590/listen.m3u
+    url_resolved: http://s39.myradiostream.com:11590/;
+    codec: MP3
+    bitrate: 192
+  - url: http://s39.myradiostream.com:11590/listen.pls
+    url_resolved: http://s39.myradiostream.com:11590/;
+    codec: MP3
+    bitrate: 192

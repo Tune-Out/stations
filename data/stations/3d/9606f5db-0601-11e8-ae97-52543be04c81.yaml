@@ -21,22 +21,6 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9606f5db-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284331-3_mp3_high.m3u'
-    url_resolved: 'http://mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284331-3_aac_high.m3u'
-    url_resolved: 'http://mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284331-3_mp3_low.m3u'
-    url_resolved: 'http://mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +30,22 @@ research:
   format: Specialty show focused on melancholic, psychedelic, and slow music; night-time programming.
   notes: Sputnik Insomnia is a specialty program within MDR Sputnik, MDR's alternative youth channel; part of German public broadcasting system.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9606f5db-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-sputnik-insomnia-f8448c85
+  - iprd-de-mdr-sputnik-insomnia-f10f630e
+  - iprd-de-mdr-sputnik-insomnia-514a4626
+streams:
+  - url: http://avw.mdr.de/streams/284331-3_mp3_high.m3u
+    url_resolved: http://mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284331-3_aac_high.m3u
+    url_resolved: http://mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284331-3_mp3_low.m3u
+    url_resolved: http://mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

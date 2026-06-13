@@ -21,17 +21,6 @@ lastchangetime: 2026-01-14 23:42:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96318345-0601-11e8-ae97-52543be04c81
-duplicate_of: 5a2281f3-4297-4936-ad66-96dcf25c67bc
-streams:
-  - url: 'http://mp3.harmonyfm.de/harmonyfm/livestream.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://mp3.harmonyfm.de/harmonyfm/livestream.aac'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: '"80er-Radio harmony" featuring nostalgia-focused 1980s hits; over 50 web radio channels covering decades (70s-2010s) and genres'
   notes: '"Wir lieben die 80er!" (We love the 80s); includes concert ticket sales, music quiz, loyalty program; regional services (weather, traffic, parking)'
   sources: https://www.harmonyfm.de/
+curation: -0.05
+provenance:
+  - radiobrowser-96318345-0601-11e8-ae97-52543be04c81
+duplicate_of: 5a2281f3-4297-4936-ad66-96dcf25c67bc
+streams:
+  - url: http://mp3.harmonyfm.de/harmonyfm/livestream.aac
+    codec: AAC+
+    bitrate: 48
+  - url: https://mp3.harmonyfm.de/harmonyfm/livestream.aac
+    codec: AAC+
+    bitrate: 48

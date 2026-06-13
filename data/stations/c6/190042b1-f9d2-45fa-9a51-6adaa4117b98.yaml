@@ -19,37 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-190042b1-f9d2-45fa-9a51-6adaa4117b98
-streams:
-  - url: 'https://us1.amfmph.com/proxy/iceshout?mp=/ac48&1689431249640'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://us1.amfmph.com/proxy/iceshout?mp=/ac32&1689431062684'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://us1.amfmph.com/proxy/iceshout?mp=/ac24&1689430915322'
-    codec: AAC+
-    bitrate: 24
-  - url: 'https://us1.amfmph.com/proxy/iceshout?mp=/mp128&1689430094075'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://us1.amfmph.com/proxy/iceshout?mp=/mp96&1689430709317'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://us1.amfmph.com/proxy/iceshout?mp=/mp64&1689430557825'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://us1.amfmph.com/proxy/iceshout?mp=/mp48&1689430463064'
-    codec: MP3
-    bitrate: 48
-  - url: 'https://us1.amfmph.com/proxy/iceshout?mp=/mp32&1689430369832'
-    codec: MP3
-    bitrate: 32
-  - url: 'https://us1.amfmph.com/proxy/iceshout?mp=/mp24&1689430243457'
-    codec: MP3
-    bitrate: 24
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -59,3 +28,34 @@ research:
   format: Demo streams for Shoutcast/Icecast hosting platform in various bitrates
   notes: Stream hosting service provider; demo page at homepage allows testing of multiple MP3 and AAC+ bitrates (24-128 kbps) for streaming server platform evaluation.
   sources: https://www.amfmph.net/, https://www.amfmph.net/demo/
+curation: 0.35
+provenance:
+  - radiobrowser-190042b1-f9d2-45fa-9a51-6adaa4117b98
+streams:
+  - url: https://us1.amfmph.com/proxy/iceshout?mp=/ac48&1689431249640
+    codec: AAC+
+    bitrate: 48
+  - url: https://us1.amfmph.com/proxy/iceshout?mp=/ac32&1689431062684
+    codec: AAC+
+    bitrate: 32
+  - url: https://us1.amfmph.com/proxy/iceshout?mp=/ac24&1689430915322
+    codec: AAC+
+    bitrate: 24
+  - url: https://us1.amfmph.com/proxy/iceshout?mp=/mp128&1689430094075
+    codec: MP3
+    bitrate: 128
+  - url: https://us1.amfmph.com/proxy/iceshout?mp=/mp96&1689430709317
+    codec: MP3
+    bitrate: 96
+  - url: https://us1.amfmph.com/proxy/iceshout?mp=/mp64&1689430557825
+    codec: MP3
+    bitrate: 64
+  - url: https://us1.amfmph.com/proxy/iceshout?mp=/mp48&1689430463064
+    codec: MP3
+    bitrate: 48
+  - url: https://us1.amfmph.com/proxy/iceshout?mp=/mp32&1689430369832
+    codec: MP3
+    bitrate: 32
+  - url: https://us1.amfmph.com/proxy/iceshout?mp=/mp24&1689430243457
+    codec: MP3
+    bitrate: 24

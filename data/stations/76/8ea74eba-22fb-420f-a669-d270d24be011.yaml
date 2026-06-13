@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: -23.02807736189581
 geo_long: -45.562577591184066
-curation: -0.05
-provenance:
-  - radiobrowser-8ea74eba-22fb-420f-a669-d270d24be011
-streams:
-  - url: 'http://server02.ouvir.radio.br:8050/stream'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://server02.ouvir.radio.br:8050/stream?1609720768800'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: flashback/nostalgia, pop-rock, classic hits
   notes: Commercial FM radio station based in São Paulo, Brazil. Specializes in nostalgic music (flashback format) and classic pop-rock hits. Serves greater São Paulo metropolitan area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8ea74eba-22fb-420f-a669-d270d24be011
+  - iprd-br-radio-bons-tempos-9aa4b90c
+streams:
+  - url: http://server02.ouvir.radio.br:8050/stream
+    codec: AAC
+    bitrate: 48
+  - url: https://server02.ouvir.radio.br:8050/stream?1609720768800
+    codec: AAC
+    bitrate: 48

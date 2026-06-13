@@ -29,16 +29,6 @@ lastchangetime: 2026-01-14 22:54:08
 clickcount: 21
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-88740aa4-085b-4158-a863-6d92d2129daa
-streams:
-  - url: 'http://c32.radioboss.fm:8139/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://c32.radioboss.fm:8139/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +38,14 @@ research:
   format: Classic hits from 1960s through 1990s including rock, pop, disco, smooth jazz, and world music
   notes: International nostalgia-focused radio network offering classic music from multiple decades with worldwide reach via streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-88740aa4-085b-4158-a863-6d92d2129daa
+  - iprd-us-nostalgie-new-york-500cda95
+streams:
+  - url: http://c32.radioboss.fm:8139/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://c32.radioboss.fm:8139/stream
+    codec: MP3
+    bitrate: 128

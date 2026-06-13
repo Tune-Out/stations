@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8b74cb0c-ec13-49da-96ac-fd0597b0e233
-streams:
-  - url: 'https://radio.metal-invasion.fr/radio/8000/stream96'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://radio.metal-invasion.fr/radio/8000/stream.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://radio.metal-invasion.fr/radio/8000/stream.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +28,17 @@ research:
   format: Metal music focused with weekly podcast "Metal Invasion Podcast"; news on bands, album releases, live performances; on-air stream and live charts
   notes: Internet radio dedicated to metal news described as "Vivez L'actualité Metal" (Live Metal News). Distributed through Clover.fm, Radio.net, Radioline, and mobile apps. Features emerging and established metal acts.
   sources: https://metal-invasion.fr/
+curation: 0.35
+provenance:
+  - radiobrowser-8b74cb0c-ec13-49da-96ac-fd0597b0e233
+  - iprd-fr-metal-invasion-radio-10ef8d43
+streams:
+  - url: https://radio.metal-invasion.fr/radio/8000/stream96
+    codec: AAC
+    bitrate: 96
+  - url: https://radio.metal-invasion.fr/radio/8000/stream.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://radio.metal-invasion.fr/radio/8000/stream.mp3
+    codec: MP3
+    bitrate: 256

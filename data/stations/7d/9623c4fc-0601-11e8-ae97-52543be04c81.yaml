@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 00:57:08
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9623c4fc-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/2NEWW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/2NEWW/mp3/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,15 @@ research:
   format: Local news, current affairs, information programming with regional focus
   notes: ABC is Australia's national public broadcaster; Newcastle (2NEW/1233) is regional local radio; funded by government license
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9623c4fc-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-local-radio-1233-newcastle-ca6c1807
+  - iprd-au-abc-local-radio-1233-newcastle-5c8fb39e
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/2NEWW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/2NEWW/mp3/
+    codec: AAC+
+    bitrate: 56

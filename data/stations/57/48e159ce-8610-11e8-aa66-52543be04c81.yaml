@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 04:18:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-48e159ce-8610-11e8-aa66-52543be04c81
-streams:
-  - url: 'http://192.99.83.154:8032/stream.mp3'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://stream.rcast.net/72041'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://192.99.83.154:8032/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +30,17 @@ research:
   format: Prank call entertainment and satirical audio content
   notes: Based in New Mexico, USA; independent prank call and comedy project; streams audio content; cult following since 1990s; 275 listener votes
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-48e159ce-8610-11e8-aa66-52543be04c81
+  - iprd-us-phone-losers-of-america-dd3d7854
+streams:
+  - url: http://192.99.83.154:8032/stream.mp3
+    codec: MP3
+    bitrate: 64
+  - url: https://stream.rcast.net/72041
+    codec: MP3
+    bitrate: 64
+  - url: http://192.99.83.154:8032/stream
+    codec: MP3
+    bitrate: 64

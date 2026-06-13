@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a5f8cc5b-f99c-4828-869b-bc3d84f1a80f
-streams:
-  - url: 'https://str0.creacast.com/pharefm'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://str0.creacast.com/pharefm'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,14 @@ research:
   format: Community/educational radio programming
   notes: French non-commercial community broadcaster. Streams via Creacast platform. Limited public information available. MP3 128 kbps.
   sources: internal knowledge only (homepage not accessible)
+curation: 0.35
+provenance:
+  - radiobrowser-a5f8cc5b-f99c-4828-869b-bc3d84f1a80f
+  - iprd-fr-phare-fm-9d165b4b
+streams:
+  - url: https://str0.creacast.com/pharefm
+    codec: MP3
+    bitrate: 128
+  - url: http://str0.creacast.com/pharefm
+    codec: MP3
+    bitrate: 128

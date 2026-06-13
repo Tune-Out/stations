@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 03:25:25
 clickcount: 0
 geo_lat: 50.3703
 geo_long: 8.7386
-curation: -0.05
-provenance:
-  - radiobrowser-6e11ce22-5fcd-4e82-bd4f-5d0b6feb47d5
-streams:
-  - url: 'https://nrj.de/sachsen'
-    codec: MP3
-  - url: 'http://nrj.de/sachsen'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Contemporary hit radio (CHR) focusing on mainstream pop and rock music
   notes: Part of the pan-European NRJ Group founded in 1981; operates as a commercial format station in Saxony; broadcasts on 97.1 FM; tag lists "death-metal" but actual format is mainstream hits
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6e11ce22-5fcd-4e82-bd4f-5d0b6feb47d5
+streams:
+  - url: https://nrj.de/sachsen
+    codec: MP3
+  - url: http://nrj.de/sachsen
+    codec: MP3

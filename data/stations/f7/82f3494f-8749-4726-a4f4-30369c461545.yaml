@@ -20,16 +20,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 07:40:19
 clickcount: 3
-curation: -0.05
-provenance:
-  - radiobrowser-82f3494f-8749-4726-a4f4-30369c461545
-streams:
-  - url: 'http://cafe80s.eu:8100/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://cafe80s.eu:8100/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: 1980s nostalgia format; pop, rock, and new wave from the 80s era
   notes: German internet radio station specializing in 1980s music. Based in Baden-Württemberg region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-82f3494f-8749-4726-a4f4-30369c461545
+  - iprd-de-cafe-80s-fm-b3d5be6d
+streams:
+  - url: http://cafe80s.eu:8100/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://cafe80s.eu:8100/
+    codec: MP3
+    bitrate: 128

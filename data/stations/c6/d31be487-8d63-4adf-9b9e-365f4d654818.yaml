@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:32:39
 clickcount: 1
 geo_lat: 19.196952117026715
 geo_long: -96.13608419895172
-curation: 0.35
-provenance:
-  - radiobrowser-d31be487-8d63-4adf-9b9e-365f4d654818
-streams:
-  - url: 'https://sgaudio.centrocibernetico.com/fusion'
-    codec: MP3
-    bitrate: 48
-  - url: 'https://fusion.centrocibernetico.com/'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: music station; tagline "Siempre buena música" (Always good music); entertainment, health, lifestyle, relationships, film/TV content
   notes: 90.1 FM XHLL-FM in Veracruz; part of media group; multi-platform (mobile apps, social media across Facebook, Twitter, Instagram, TikTok, YouTube, WhatsApp); community engagement emphasis
   sources: https://www.fusionradio.mx/
+curation: 0.35
+provenance:
+  - radiobrowser-d31be487-8d63-4adf-9b9e-365f4d654818
+  - iprd-mx-fusi-n-veracruz-90-1-xhll-7073c0d2
+streams:
+  - url: https://sgaudio.centrocibernetico.com/fusion
+    codec: MP3
+    bitrate: 48
+  - url: https://fusion.centrocibernetico.com/
+    codec: MP3
+    bitrate: 48

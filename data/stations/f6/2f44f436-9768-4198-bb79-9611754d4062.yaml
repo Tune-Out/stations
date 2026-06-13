@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 08:25:39
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2f44f436-9768-4198-bb79-9611754d4062
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -33,3 +30,6 @@ research:
   format: Audio service ("伴音" = accompaniment / auxiliary audio track) from CETV; educational, cultural and entertainment programming
   notes: CETV-1伴音 is the audio service of China Education Television (中国教育电视台), a state-owned broadcaster under China's media administration. "伴音" literally means "audio accompaniment" or "auxiliary sound track", indicating this is the audio-only service of CETV's terrestrial / satellite television output. Stream is HLS-distributed via Alibaba CDN (myalicdn.com). As a state broadcaster, CETV serves educational and cultural programming in compliance with Chinese regulations.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-2f44f436-9768-4198-bb79-9611754d4062

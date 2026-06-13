@@ -1,7 +1,7 @@
 stationuuid: 245e08d7-eba1-45da-a787-1cc65419ff0b
 name: Nova 93.7 - Perth - 93.7 FM (AAC+ 128k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128.aac
+url: 'http://14533.live.streamtheworld.com:80/NOVA_937_AAC128.aac'
+url_resolved: 'http://14533.live.streamtheworld.com:80/NOVA_937_AAC128.aac'
 homepage: https://www.novafm.com.au/perth
 favicon: https://i.ibb.co/xLVhFQh/Brand-Tile-N937.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:33:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-245e08d7-eba1-45da-a787-1cc65419ff0b
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Adult contemporary, top 40 hits
   notes: Major commercial FM radio station on 93.7 FM serving Perth and surrounding regions in Western Australia.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-245e08d7-eba1-45da-a787-1cc65419ff0b

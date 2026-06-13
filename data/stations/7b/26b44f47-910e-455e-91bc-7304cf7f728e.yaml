@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 01:11:29
 clickcount: 20
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-26b44f47-910e-455e-91bc-7304cf7f728e
-streams:
-  - url: 'http://icecast.err.ee/vikerraadio.mp3'
-    codec: MP3
-  - url: 'http://icecast.err.ee/vikerraadio.mp3.m3u'
-    url_resolved: 'http://icecast.err.ee/vikerraadio.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +32,13 @@ research:
   format: "Full-service public radio: news, current affairs, talk, cultural programming, radio theatre, literary serialisations, and Estonian music."
   notes: Vikerraadio is the flagship Estonian-language general-interest station of ERR, the country's public broadcaster headquartered at F. R. Kreutzwaldi 14, Tallinn; founded in 1967 as the second programme of Estonian Radio (Eesti Raadio) and continuing through the Soviet era as a national channel, it became part of independent Estonian public broadcasting in 1991 and merged into ERR in 2007 alongside Raadio 2, Klassikaraadio and Raadio 4; flagship shows include "Reporteritund" current affairs, with editorial coverage of "sise- ja välispoliitikale, kaitseküsimustele, haridusele, ühiskonna- ja keskkonnateemadele" (domestic/foreign policy, defence, education, social and environmental issues).
   sources: https://vikerraadio.err.ee/
+curation: 0.5
+provenance:
+  - radiobrowser-26b44f47-910e-455e-91bc-7304cf7f728e
+  - iprd-ee-vikerraadio-104-1-0b6786bc
+streams:
+  - url: http://icecast.err.ee/vikerraadio.mp3
+    codec: MP3
+  - url: http://icecast.err.ee/vikerraadio.mp3.m3u
+    url_resolved: http://icecast.err.ee/vikerraadio.mp3
+    codec: MP3

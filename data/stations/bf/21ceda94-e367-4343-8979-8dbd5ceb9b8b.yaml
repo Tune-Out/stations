@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: 19.278208157278453
 geo_long: -81.33499503135681
-curation: 0.35
-provenance:
-  - radiobrowser-21ceda94-e367-4343-8979-8dbd5ceb9b8b
-streams:
-  - url: 'https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://radiostreamcast.com/listen/paradise_radio/radio.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: '"Live 90s Disco, Soul & Dance from Grand Cayman Island"; electronic dance music focus'
   notes: Community/independent station broadcasting from Grand Cayman; 320 kbps MP3 stream; high-quality audio
   sources: https://www.paradiseradio.org/
+curation: 0.35
+provenance:
+  - radiobrowser-21ceda94-e367-4343-8979-8dbd5ceb9b8b
+streams:
+  - url: https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://radiostreamcast.com/listen/paradise_radio/radio.mp3
+    codec: MP3
+    bitrate: 320

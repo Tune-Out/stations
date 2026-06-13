@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-9066f77f-74a4-4815-b5a8-1b684554d5a9
-streams:
-  - url: 'https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://radio.virginradio.co.uk/stream-chilled'
-    codec: AAC
-    bitrate: 127
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Chilled-out and relaxing music programming with chill-out and ambient focus
   notes: Virgin Radio Chilled is a specialized stream of Virgin Radio UK brand offering relaxing and chill-out music format.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-9066f77f-74a4-4815-b5a8-1b684554d5a9
+  - iprd-gb-virgin-radio-chilled-e97d7346
+  - iprd-gb-virgin-radio-chilled-a46e1589
+streams:
+  - url: https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
+    codec: AAC
+    bitrate: 128
+  - url: https://radio.virginradio.co.uk/stream-chilled
+    codec: AAC
+    bitrate: 127

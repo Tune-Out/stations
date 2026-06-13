@@ -1,7 +1,7 @@
 stationuuid: c545c76c-2d89-45ef-8204-7f37e803aa39
 name: WCPT 820 AM Willow Springs, IL
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WCPTAM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WCPTAM.mp3
+url: 'https://15123.live.streamtheworld.com:443/WCPTAM.mp3'
+url_resolved: 'https://15123.live.streamtheworld.com:443/WCPTAM.mp3'
 homepage: https://heartlandsignal.com/
 favicon: https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e9/45/d0/e945d084-88de-7abf-ad98-fe040a3ab90f/mza_141786696578606594.jpg/1200x1200bf.webp
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-04-02 18:09:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c545c76c-2d89-45ef-8204-7f37e803aa39
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Progressive talk, political commentary, discussion programming, news and analysis
   notes: 820 AM, Willow Springs, Illinois license; Chicago area station; progressive talk format; "Heartland Signal" branding
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c545c76c-2d89-45ef-8204-7f37e803aa39

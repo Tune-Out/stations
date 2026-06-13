@@ -1,7 +1,7 @@
 stationuuid: 3a2feb9f-82d2-4f00-894d-01838b1b4377
 name: Nova Fresh Country (AAC+ 128k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_POPUP1_AAC128.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_POPUP1_AAC128.aac
+url: 'http://28893.live.streamtheworld.com:80/NOVA_POPUP1_AAC128.aac'
+url_resolved: 'http://28893.live.streamtheworld.com:80/NOVA_POPUP1_AAC128.aac'
 homepage: https://novafm.com.au/station/novafreshcountry
 favicon: https://i.ibb.co/ns3jVRLk/Brand-Tile-Fresh-Country.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-30 02:24:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3a2feb9f-82d2-4f00-894d-01838b1b4377
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music format; part of Nova Fresh brand of specialty streams.
   notes: Nova Fresh Country is a commercial country music station part of the Nova Entertainment portfolio in Australia. Operates as a branded digital/streaming channel focused on country music genre. Part of larger Nova FM network structure.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3a2feb9f-82d2-4f00-894d-01838b1b4377

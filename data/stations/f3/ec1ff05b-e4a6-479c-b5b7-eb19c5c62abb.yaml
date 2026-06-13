@@ -1,7 +1,7 @@
 stationuuid: ec1ff05b-e4a6-479c-b5b7-eb19c5c62abb
 name: CC - Nuestra Música [En Español]
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CC6_S01AAC_96.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CC6_S01AAC_96.aac
+url: 'https://29309.live.streamtheworld.com:443/CC6_S01AAC_96.aac'
+url_resolved: 'https://29309.live.streamtheworld.com:443/CC6_S01AAC_96.aac'
 homepage: https://classicalcalifornia.org/
 favicon: https://classicalcalifornia.org/apple-touch-icon.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:41:05
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-ec1ff05b-e4a6-479c-b5b7-eb19c5c62abb
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: Classical music network with curated playlists, "Classical Californians" interviews, themed shows (Saturday Morning Car Tunes, Movie Magic Radio), The Sound of Sunrise
   notes: '"The most listened to classical music network. Now in your pocket!" Spanish-language stream. Operates KUSC (Los Angeles) and KDFC (San Francisco). Mobile apps and streaming platforms.'
   sources: https://classicalcalifornia.org/
+curation: 0.65
+provenance:
+  - radiobrowser-ec1ff05b-e4a6-479c-b5b7-eb19c5c62abb

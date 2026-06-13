@@ -28,16 +28,6 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-810c8f16-fc17-4eab-a8ef-908f280eb26a
-streams:
-  - url: 'https://harder-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://harder-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +37,13 @@ research:
   format: Hardcore, EDM, electro, hardcore, hardstyle, and electronic dance music 24/7.
   notes: Part of rautemusik.fm's multi-channel network based in North Rhine-Westphalia, Germany. __HARDER__ is the station's hardcore/hardstyle/EDM channel. Professional quality streaming at 192 kbps.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-810c8f16-fc17-4eab-a8ef-908f280eb26a
+streams:
+  - url: https://harder-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://harder-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

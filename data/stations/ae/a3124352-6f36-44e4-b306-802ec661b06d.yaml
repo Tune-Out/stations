@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 02:40:05
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a3124352-6f36-44e4-b306-802ec661b06d
-streams:
-  - url: 'http://stream.zeno.fm/60ef4p33vxquv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/60ef4p33vxquv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +30,11 @@ research:
   format: General Hindi music programming
   notes: Hosted on Zeno.fm streaming platform; generic streaming station; limited available information
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a3124352-6f36-44e4-b306-802ec661b06d
+streams:
+  - url: http://stream.zeno.fm/60ef4p33vxquv
+    codec: MP3
+  - url: https://stream.zeno.fm/60ef4p33vxquv
+    codec: MP3

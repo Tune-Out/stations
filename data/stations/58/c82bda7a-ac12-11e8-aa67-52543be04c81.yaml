@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-c82bda7a-ac12-11e8-aa67-52543be04c81
-streams:
-  - url: 'http://ice9.securenetsystems.net/KXRN?&playSessionID=5C251077-C9C7-7951-F6D9B2C9465CED08'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://ice9.securenetsystems.net/KXRN'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,14 @@ research:
   format: Community programming and generational rock music
   notes: Low-power FM (LPFM) non-commercial station, 501(c)(3) non-profit founded 2012 by Tyler Russell; originally on 93.5 FM, relocated to 104.7 FM in February 2020; serves 5-square-mile community area
   sources: https://en.wikipedia.org/wiki/KXRN-LP, https://kxfmradio.org/
+curation: 0.6
+provenance:
+  - radiobrowser-c82bda7a-ac12-11e8-aa67-52543be04c81
+  - iprd-us-kxrn-98f01db6
+streams:
+  - url: http://ice9.securenetsystems.net/KXRN?&playSessionID=5C251077-C9C7-7951-F6D9B2C9465CED08
+    codec: AAC+
+    bitrate: 32
+  - url: http://ice9.securenetsystems.net/KXRN
+    codec: AAC+
+    bitrate: 32

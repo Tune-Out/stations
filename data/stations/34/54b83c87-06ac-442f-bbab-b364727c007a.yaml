@@ -22,16 +22,6 @@ lastchangetime: 2026-01-25 09:14:23
 clickcount: 0
 geo_lat: 50.64927975453325
 geo_long: 6.882805645772657
-curation: -0.05
-provenance:
-  - radiobrowser-54b83c87-06ac-442f-bbab-b364727c007a
-streams:
-  - url: 'http://studio-odendorf.stream.laut.fm/studio-odendorf'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/retrowelle2'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Oldies, schlager, Eurovision songs, retro hits, melody-oriented music.
   notes: German online radio specializing in retro music and schlager (traditional German/European popular music). Nostalgia format for older demographics.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-54b83c87-06ac-442f-bbab-b364727c007a
+streams:
+  - url: http://studio-odendorf.stream.laut.fm/studio-odendorf
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/retrowelle2
+    codec: MP3
+    bitrate: 128

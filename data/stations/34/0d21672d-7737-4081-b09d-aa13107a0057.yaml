@@ -21,17 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0d21672d-7737-4081-b09d-aa13107a0057
-streams:
-  - url: 'http://213.141.131.10:8000/funkrock.m3u'
-    url_resolved: 'http://213.141.131.10:8000/funkrock'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://213.141.131.10:8002/funkrock'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: Funk rock, metal, and hard rock music; dedicated music channels
   notes: Russian commercial internet radio station offering multiple music channels. Funk Rock / Metal channel features funk rock, heavy metal, and related hard rock music. Part of Radio Caprice's multi-genre streaming platform popular across Russian and Eastern European audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0d21672d-7737-4081-b09d-aa13107a0057
+streams:
+  - url: http://213.141.131.10:8000/funkrock.m3u
+    url_resolved: http://213.141.131.10:8000/funkrock
+    codec: AAC+
+    bitrate: 320
+  - url: http://213.141.131.10:8002/funkrock
+    codec: AAC+
+    bitrate: 48

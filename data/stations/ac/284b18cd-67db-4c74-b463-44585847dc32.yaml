@@ -21,16 +21,6 @@ lastchangetime: 2026-02-08 10:21:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-284b18cd-67db-4c74-b463-44585847dc32
-streams:
-  - url: 'https://consolestream.rkzrm.cn:20323/0.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://console.rkzrm.cn:20323/3.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: Full service integrated broadcasting (综合广播)
   notes: Public broadcaster serving Rikaze (日喀则) city in Xizang (Tibet) Autonomous Region, China. Full-service programming. Part of China's state broadcasting system. HLS streaming available.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-284b18cd-67db-4c74-b463-44585847dc32
+streams:
+  - url: https://consolestream.rkzrm.cn:20323/0.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://console.rkzrm.cn:20323/3.m3u8
+    codec: UNKNOWN
+    hls: true

@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9dc82d50-2f8b-478b-b790-60737987627f
-streams:
-  - url: 'http://79.120.77.11:8000/clubru'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.77.11:8004/clubru'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.77.11:8002/clubru'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +32,16 @@ research:
   format: Russian club dance and electronic dance music
   notes: Radio Caprice specialized channel focusing on Russian club and dance electronic music. Part of Radio Caprice internet radio service.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9dc82d50-2f8b-478b-b790-60737987627f
+streams:
+  - url: http://79.120.77.11:8000/clubru
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.77.11:8004/clubru
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.77.11:8002/clubru
+    codec: AAC+
+    bitrate: 48

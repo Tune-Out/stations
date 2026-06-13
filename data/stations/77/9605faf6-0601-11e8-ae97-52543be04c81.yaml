@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 08:48:01
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9605faf6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://dreamsiteradiocp.com:8114/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://rs16.stream24.org:8100/horeb.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://rs16.stream24.org/horeb.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rs16.stream24.org:8000/horeb.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -47,3 +31,23 @@ research:
   format: Liturgical content, rosary prayers, Eucharistic adoration, spiritual music, children's programming
   notes: Based in Balderschwang, Germany; tagline "Leben mit Gott" (Living with God); listener-supported through donations; offers virtual chapel services and prayer resources
   sources: http://www.horeb.org/
+curation: 0.5
+provenance:
+  - radiobrowser-9605faf6-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-horeb-53a32c2d
+  - iprd-de-radio-horeb-4d4109b7
+  - iprd-de-radio-horeb-0bb6f362
+  - iprd-de-radio-horeb-e9495c76
+streams:
+  - url: http://dreamsiteradiocp.com:8114/stream
+    codec: AAC+
+    bitrate: 64
+  - url: http://rs16.stream24.org:8100/horeb.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://rs16.stream24.org/horeb.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://rs16.stream24.org:8000/horeb.mp3
+    codec: MP3
+    bitrate: 128

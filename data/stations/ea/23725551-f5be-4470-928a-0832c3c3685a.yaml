@@ -23,16 +23,6 @@ lastchangetime: 2026-04-22 13:33:24
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-23725551-f5be-4470-928a-0832c3c3685a
-streams:
-  - url: 'https://s2.radio.co/sf25229e16/listen'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://s2.radio.co/sf25229e16/low'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Adult contemporary music with local news, community-focused programming
   notes: 'Independent local radio station serving Suffolk; mission statement: "In a world where so much radio has become national, remote and generic, GenX Radio is proudly different. We are local radio for Suffolk, made in Suffolk, by people who know and love the county." Available on DAB+, online, and smart speakers.'
   sources: https://genxradio.co.uk/
+curation: 0.35
+provenance:
+  - radiobrowser-23725551-f5be-4470-928a-0832c3c3685a
+streams:
+  - url: https://s2.radio.co/sf25229e16/listen
+    codec: AAC
+    bitrate: 320
+  - url: https://s2.radio.co/sf25229e16/low
+    codec: AAC
+    bitrate: 64

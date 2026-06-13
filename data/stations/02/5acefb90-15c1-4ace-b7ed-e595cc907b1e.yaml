@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 01:12:36
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5acefb90-15c1-4ace-b7ed-e595cc907b1e
-streams:
-  - url: 'http://stream.revma.ihrhls.com/zc681'
-    codec: AAC
-  - url: 'https://stream.revma.ihrhls.com/zc681'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Top 40 contemporary hits radio; mainstream pop and current chart music
   notes: 93.3 FLZ is a Top 40 radio station in Florida part of the iHeartRadio network. iHeartRadio is one of the largest commercial radio broadcasters in the United States, operating thousands of stations. Broadcasts current chart-topping hits and contemporary pop music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5acefb90-15c1-4ace-b7ed-e595cc907b1e
+streams:
+  - url: http://stream.revma.ihrhls.com/zc681
+    codec: AAC
+  - url: https://stream.revma.ihrhls.com/zc681
+    codec: AAC

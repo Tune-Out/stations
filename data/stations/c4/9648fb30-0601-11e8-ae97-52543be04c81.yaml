@@ -1,6 +1,6 @@
 stationuuid: 9648fb30-0601-11e8-ae97-52543be04c81
 name: WTAQ 1360 & 92.5 Green Bay, WI
-url: http://provisioning.streamtheworld.com/pls/WTAQAMAAC.pls
+url: 'http://26143.live.streamtheworld.com:80/WTAQAMAAC_SC'
 url_resolved: http://26143.live.streamtheworld.com/WTAQAMAAC_SC
 homepage: http://wtaq.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2173/squareIcon.png?r=58993
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:28:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648fb30-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,8 @@ research:
   format: News and talk radio; sports news format
   notes: WTAQ 1360 and 92.5 FM serving Green Bay, Wisconsin; news talk and sports news programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648fb30-0601-11e8-ae97-52543be04c81
+  - iprd-us-wtaq-1360-92-5-a1a2cf9c
+  - iprd-us-wtaq-news-radio-63d2d802

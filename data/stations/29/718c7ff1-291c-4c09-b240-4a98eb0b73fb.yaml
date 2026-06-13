@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 00:10:03
 clickcount: 1
 geo_lat: 51.671141249091605
 geo_long: 8.291013836860659
-curation: -0.05
-provenance:
-  - radiobrowser-718c7ff1-291c-4c09-b240-4a98eb0b73fb
-streams:
-  - url: 'https://streams.feierfreund.de/discofox/mp3-128/streams.feierfreund.de/'
-    codec: MP3
-  - url: 'http://streams.feierfreund.de/chartparty/mp3-192/streams.feierfreund.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Discofox, dance, party music; club and entertainment focused
   notes: Feierfreund specializes in Discofox and party music; serves the German dance and event scene; regional commercial operation.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-718c7ff1-291c-4c09-b240-4a98eb0b73fb
+streams:
+  - url: https://streams.feierfreund.de/discofox/mp3-128/streams.feierfreund.de/
+    codec: MP3
+  - url: http://streams.feierfreund.de/chartparty/mp3-192/streams.feierfreund.de/
+    codec: MP3

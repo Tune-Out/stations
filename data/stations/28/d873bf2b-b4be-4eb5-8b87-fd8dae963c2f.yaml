@@ -19,16 +19,6 @@ lastchangetime: 2026-02-19 11:54:34
 clickcount: 0
 geo_lat: 50.91680315100494
 geo_long: 13.318068981170656
-curation: -0.05
-provenance:
-  - radiobrowser-d873bf2b-b4be-4eb5-8b87-fd8dae963c2f
-streams:
-  - url: 'https://radioinpulz.sp.radio.fm/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://radioinpulz.spcast.eu/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Contemporary music, pop, entertainment, and local information
   notes: Radio InPulz is a commercial radio station operating in Eastern Germany with contemporary hit music and entertainment programming for regional audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d873bf2b-b4be-4eb5-8b87-fd8dae963c2f
+streams:
+  - url: https://radioinpulz.sp.radio.fm/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://radioinpulz.spcast.eu/stream
+    codec: MP3
+    bitrate: 320

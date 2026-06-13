@@ -1,6 +1,6 @@
 stationuuid: 9647a6e3-0601-11e8-ae97-52543be04c81
 name: Business News Network Audio Channel
-url: http://provisioning.streamtheworld.com/pls/TV_BNNAAC.pls
+url: 'http://18233.live.streamtheworld.com:80/TV_BNNAAC_SC'
 url_resolved: http://18183.live.streamtheworld.com/TV_BNNAAC_SC
 homepage: http://www.bnn.ca/
 favicon: http://www.bnn.ca/pf/resources/images/bnn-bloomberg/favicon.ico?d=46
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:51:16
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9647a6e3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: 24/7 business news, financial markets reporting, investment advice, corporate interviews and economic analysis
   notes: BNN Bloomberg Television is Canada's leading English-language business news network, based in Toronto; the audio channel provides continuous feed of BNN Bloomberg's television programming adapted for radio and streaming; BNN was founded in 1988 by Izzy Asper's CanWest and merged with Bloomberg Television Canada in 2020 to form BNN Bloomberg; it is owned and operated by Bell Media (a subsidiary of BCE Inc., Canada's largest media and telecommunications company) and produces Canadian financial journalism; the station reaches investors and business leaders across Canada and broadcasts on specialty cable channels, online platforms and mobile apps.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9647a6e3-0601-11e8-ae97-52543be04c81
+  - iprd-ca-business-news-network-audio-channel-f6d6fe3a

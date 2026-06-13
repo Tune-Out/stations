@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 08:14:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-c8cfe002-c6db-4ead-bfc4-69f1ba058a95
-streams:
-  - url: 'http://icy.unitedradio.it/um1026.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/um1026.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,13 @@ research:
   format: AC/DC dedicated channel featuring AC/DC music, hard rock, heavy metal, blues rock
   notes: Themed radio channel within Virgin Radio network (Mediaset subsidiary) dedicated to AC/DC. Part of Mediaset's Rockstar series of branded channels. Commercial broadcaster targeting classic rock and metal audience in Italy.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-c8cfe002-c6db-4ead-bfc4-69f1ba058a95
+streams:
+  - url: http://icy.unitedradio.it/um1026.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/um1026.mp3
+    codec: MP3
+    bitrate: 128

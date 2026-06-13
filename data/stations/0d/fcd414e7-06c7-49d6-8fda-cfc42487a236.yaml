@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 06:48:55
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fcd414e7-06c7-49d6-8fda-cfc42487a236
-streams:
-  - url: 'https://radio.esercito.difesa.it:8000/stream'
-    codec: MP3
-  - url: 'http://radio.esercito.difesa.it:8000/stream'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -39,3 +31,11 @@ research:
   format: Pop music, entertainment, news
   notes: Radio Esercito is operated by Italy's Ministry of Defence for military personnel and families. Streams pop and popular music with military/official programming. Reflects Italian armed forces' public service mission.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-fcd414e7-06c7-49d6-8fda-cfc42487a236
+streams:
+  - url: https://radio.esercito.difesa.it:8000/stream
+    codec: MP3
+  - url: http://radio.esercito.difesa.it:8000/stream
+    codec: MP3

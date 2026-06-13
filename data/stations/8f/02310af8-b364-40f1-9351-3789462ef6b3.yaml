@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 01:46:18
 clickcount: 2
 geo_lat: 50.908337054598015
 geo_long: 7.0037841796875
-curation: -0.10
-provenance:
-  - radiobrowser-02310af8-b364-40f1-9351-3789462ef6b3
-streams:
-  - url: 'https://superrtl.streamabc.net/srtl-woozlesmusik-mp3-128-9901876'
-    codec: MP3
-  - url: 'https://radio.toggo.de/wachmachen/mp3-128/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Kids music programming featuring TOGGO (Super RTL's children's brand). Music-focused content for children.
   notes: Part of Super RTL's children's programming division. "Woozle Mix" is a specific playlist targeting younger audiences with pop and hit music appropriate for kids.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-02310af8-b364-40f1-9351-3789462ef6b3
+streams:
+  - url: https://superrtl.streamabc.net/srtl-woozlesmusik-mp3-128-9901876
+    codec: MP3
+  - url: https://radio.toggo.de/wachmachen/mp3-128/
+    codec: MP3

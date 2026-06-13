@@ -1,6 +1,6 @@
 stationuuid: 96414303-0601-11e8-ae97-52543be04c81
 name: WYFM 102.9 "Y103" Sharon, PA
-url: http://provisioning.streamtheworld.com/pls/WYFMFMAAC.pls
+url: 'http://26733.live.streamtheworld.com:80/WYFMFMAAC_SC'
 url_resolved: http://26283.live.streamtheworld.com:3690/WYFMFMAAC_SC
 homepage: http://www.y-103.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3374/squareIcon.png?r=96447
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96414303-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic rock; hosts Steve Gorman Rocks!, The Bob and Tom Show, Tangled Up in Blues
   notes: WYFM (Y103) 102.9 FM positions as "The Classic Rock Station" in the Youngstown area. Owned by Cumulus Media. Community focus via contests, local events, and regional partnerships.
   sources: http://www.y-103.com/
+curation: 0.35
+provenance:
+  - radiobrowser-96414303-0601-11e8-ae97-52543be04c81

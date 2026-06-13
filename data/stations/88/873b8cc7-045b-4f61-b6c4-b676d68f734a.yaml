@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-873b8cc7-045b-4f61-b6c4-b676d68f734a
-streams:
-  - url: 'https://c11.radioboss.fm:8303/stream'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://c11.radioboss.fm:18303/stream'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Rumba, Latin music, tropical, salsa
   notes: Radio Rumba Latina broadcasts from El Salvador with focus on Cuban rumba, Latin, and tropical music. Commercial station serving Central American Spanish-speaking audiences. Popular in El Salvador and regional markets.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-873b8cc7-045b-4f61-b6c4-b676d68f734a
+streams:
+  - url: https://c11.radioboss.fm:8303/stream
+    codec: AAC+
+    bitrate: 48
+  - url: https://c11.radioboss.fm:18303/stream
+    codec: AAC+
+    bitrate: 48

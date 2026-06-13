@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 03:49:38
 clickcount: 179
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-d377fdb9-9136-47de-a1f4-6b02a1bc7f72
-streams:
-  - url: 'https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://stream.radio357.pl/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +31,17 @@ research:
   format: adult contemporary music with talk, journalism, podcasts and current affairs; curated by music journalists, ad-free
   notes: "Founded December 2020 after a high-profile staff exodus from public broadcaster Polskie Radio Program III (Trojka) following editorial-interference controversies. Funded almost entirely by listener patron contributions (Patronite/Polakpotrafi); claims around 50,000 patrons. Mission framing: \"Music is played for you by the best music journalists - not algorithms.\" Frequently cited as one of Poland's most popular internet stations."
   sources: https://radio357.pl/, internal knowledge
+curation: 0.7
+provenance:
+  - radiobrowser-d377fdb9-9136-47de-a1f4-6b02a1bc7f72
+  - iprd-pl-radio-357-3e3eea88
+  - iprd-pl-radio-357-a9e5dbd4
+  - iprd-pl-radio-357-47f5c483
+  - iprd-pl-radio-357-4f4e7dce
+  - iprd-pl-radio-357-02173c88
+streams:
+  - url: https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0
+    codec: AAC
+    bitrate: 128
+  - url: https://stream.radio357.pl/
+    codec: MP3

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-04eee180-425c-445d-8c62-0755623d863a
-streams:
-  - url: 'https://radiorecord.hostingradio.ru/neurofunk96.aacp'
-    codec: AAC
-  - url: 'http://radiorecord.hostingradio.ru/neurofunk96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Drum and bass, neurofunk, electronic dance music; specialized EDM format.
   notes: Record Neurofunk is a specialty format stream of Radio Record, major Russian commercial radio broadcaster based in St. Petersburg. Specializes in electronic dance music (EDM), neurofunk, drum and bass programming. Russia's largest music radio network. Commercial operation with Russian and international audience reach.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-04eee180-425c-445d-8c62-0755623d863a
+  - iprd-ru-radio-rekord-neurofunk-4dc0334b
+streams:
+  - url: https://radiorecord.hostingradio.ru/neurofunk96.aacp
+    codec: AAC
+  - url: http://radiorecord.hostingradio.ru/neurofunk96.aacp
+    codec: AAC

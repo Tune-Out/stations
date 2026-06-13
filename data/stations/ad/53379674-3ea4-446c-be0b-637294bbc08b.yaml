@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 42.18076573212773
 geo_long: 2.489132881164551
-curation: 0.55
-provenance:
-  - radiobrowser-53379674-3ea4-446c-be0b-637294bbc08b
-streams:
-  - url: 'https://giss.tv:666/r90.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://giss.tv:666/r90-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Diverse music-focused programming including rock, pop, punk, hip-hop, reggae, funk, electronic, techno, jazz, blues, world music, cultural programs.
   notes: '"La ràdio lliure i cultural de la Garrotxa" (free and cultural radio of Garrotxa); non-commercial Community Radio; operates under Creative Commons license (CC BY-NC-ND 3.0); based in Olot; over 20 series including "Ràdio Rock," "Technopolis," "Eutopías."'
   sources: https://www.r90.org/
+curation: 0.55
+provenance:
+  - radiobrowser-53379674-3ea4-446c-be0b-637294bbc08b
+streams:
+  - url: https://giss.tv:666/r90.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://giss.tv:666/r90-128.mp3
+    codec: MP3
+    bitrate: 128

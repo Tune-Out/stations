@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: -45.86902300752219
 geo_long: -67.49176025390626
-curation: -0.05
-provenance:
-  - radiobrowser-af383965-125b-4b1e-b5d1-078498347b09
-streams:
-  - url: 'https://cdn.instream.audio/:9061/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cdn.instream.audio/:9061/stream?in_device_id=wp-e80516ae-250e-4455-ac11-14ce5f370cc8'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: News, talk, music, Argentine programming
   notes: Commercial radio station FM 99.5 in Comodoro Rivadavia (Chubut province, Patagonia region, Argentina). Broadcasts news, talk, and music in Spanish. Located in significant Patagonian city. Serves local and regional audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-af383965-125b-4b1e-b5d1-078498347b09
+streams:
+  - url: https://cdn.instream.audio/:9061/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988
+    codec: MP3
+    bitrate: 128
+  - url: https://cdn.instream.audio/:9061/stream?in_device_id=wp-e80516ae-250e-4455-ac11-14ce5f370cc8
+    codec: MP3
+    bitrate: 128

@@ -1,6 +1,6 @@
 stationuuid: 9620b13d-0601-11e8-ae97-52543be04c81
 name: WGCU 90.1 Fort Myers, FL
-url: http://provisioning.streamtheworld.com/pls/WGCUFM.pls
+url: 'http://26423.live.streamtheworld.com:80/WGCUFM_SC'
 url_resolved: http://22213.live.streamtheworld.com:3690/WGCUFM_SC
 homepage: http://news.wgcu.org/
 favicon: http://news.wgcu.org/apple-touch-icon.png
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 00:55:05
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9620b13d-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -36,3 +33,6 @@ research:
   format: News, information, jazz, and classical music
   notes: WGCU 90.1 FM is an NPR-affiliated public radio station licensed to Fort Myers, Florida. As a member of the public broadcasting system, it is non-commercial and funded by listeners and grants. WGCU emphasizes news, information, and jazz programming.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-9620b13d-0601-11e8-ae97-52543be04c81

@@ -1,6 +1,6 @@
 stationuuid: 0dc6e3f7-b313-4bc4-a06a-94f05c51dff5
 name: pop 90 turkey
-url: http://provisioning.streamtheworld.com/pls/POP90AAC.pls
+url: 'http://28573.live.streamtheworld.com:80/POP90AAC_SC'
 url_resolved: http://23623.live.streamtheworld.com:3690/POP90AAC_SC
 homepage: http://provisioning.streamtheworld.com/pls/POP90AAC.pls
 favicon: ""
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 23
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-0dc6e3f7-b313-4bc4-a06a-94f05c51dff5
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,7 @@ research:
   format: Contemporary pop hits, Turkish and international pop music
   notes: Turkish commercial radio station featuring pop music hits. Stream hosted on StreamTheWorld platform. Focuses on contemporary pop programming for Turkish audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0dc6e3f7-b313-4bc4-a06a-94f05c51dff5
+  - iprd-cl-radio-corazon-101-3-f8a9443e

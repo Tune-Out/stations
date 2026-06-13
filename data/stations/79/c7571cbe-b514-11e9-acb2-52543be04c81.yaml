@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c7571cbe-b514-11e9-acb2-52543be04c81
-streams:
-  - url: 'http://icecast5.play.cz/rockzone128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast5.play.cz/rockzone128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Rock music station; primarily classic and contemporary rock.
   notes: Czech online/terrestrial radio station focused on rock format. Limited public information available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c7571cbe-b514-11e9-acb2-52543be04c81
+  - iprd-cz-rockzone-105-9-02911c42
+streams:
+  - url: http://icecast5.play.cz/rockzone128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast5.play.cz/rockzone128.mp3
+    codec: MP3
+    bitrate: 128

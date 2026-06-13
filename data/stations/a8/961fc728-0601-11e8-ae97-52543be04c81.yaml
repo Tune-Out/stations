@@ -1,6 +1,6 @@
 stationuuid: 961fc728-0601-11e8-ae97-52543be04c81
 name: WDDE 91.1 Dover, DE
-url: http://provisioning.streamtheworld.com/pls/WDDEFM.pls
+url: 'http://27143.live.streamtheworld.com:80/WDDEFM_SC'
 url_resolved: http://26223.live.streamtheworld.com/WDDEFM_SC
 homepage: http://delawarepublic.org/
 favicon: https://www.delawarepublic.org/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:12:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-961fc728-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: News, talk, classical music, documentary programming
   notes: Non-commercial public radio service for Delaware. Part of the NPR network with focus on journalism and educational content.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-961fc728-0601-11e8-ae97-52543be04c81

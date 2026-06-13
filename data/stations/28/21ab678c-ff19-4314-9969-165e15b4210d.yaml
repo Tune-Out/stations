@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 07:54:20
 clickcount: 48
 geo_lat: 52.4802578
 geo_long: 13.3347639
-curation: 0.50
-provenance:
-  - radiobrowser-21ab678c-ff19-4314-9969-165e15b4210d
-duplicate_of: 0e1a47cb-f16d-4169-851a-5985c6133055
-streams:
-  - url: 'https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 256
-  - url: 'https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -43,3 +32,14 @@ research:
   format: News, current affairs, culture, and experimental music programming
   notes: Deutschlandfunk Nova is the youth-oriented, music-focused channel of Deutschlandfunk. Emphasizes contemporary culture, music discovery, and innovative audio content
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-21ab678c-ff19-4314-9969-165e15b4210d
+duplicate_of: 0e1a47cb-f16d-4169-851a-5985c6133055
+streams:
+  - url: https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 256
+  - url: https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 192

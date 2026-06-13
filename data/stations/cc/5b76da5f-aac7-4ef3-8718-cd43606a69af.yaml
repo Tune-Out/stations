@@ -1,7 +1,7 @@
 stationuuid: 5b76da5f-aac7-4ef3-8718-cd43606a69af
 name: Ke Buena 97.5 FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KBNA975_FM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KBNA975_FM.mp3
+url: 'https://27263.live.streamtheworld.com:443/KBNA975_FM.mp3'
+url_resolved: 'https://27263.live.streamtheworld.com:443/KBNA975_FM.mp3'
 homepage: https://kebuena975.com/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:32:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5b76da5f-aac7-4ef3-8718-cd43606a69af
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Regional Mexican, Latin music, Norteño
   notes: Licensed FM radio station (97.5 FM) in El Paso, Texas serving the regional Mexican and Latin music market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5b76da5f-aac7-4ef3-8718-cd43606a69af

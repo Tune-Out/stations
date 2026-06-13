@@ -21,14 +21,6 @@ lastchangetime: 2026-01-17 15:48:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-ed9c9f14-e998-488c-801f-7d59c6f11cf8
-streams:
-  - url: 'https://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Metal and rock music programming; 15+ specialized streams (Classic Rock, Metal, 80er Rock, Alternative Rock, Deutschrock)
   notes: Commercial German rock broadcaster with tagline "Wenn Rock, dann BOB!" (If rock, then BOB!). Known for podcasts (True Crime Tracklist, Met & Moshpit), festival partnerships (Wacken Open Air, Rock am Ring), and BOBfest 2026 event.
   sources: https://www.radiobob.de/
+curation: 0.3
+provenance:
+  - radiobrowser-ed9c9f14-e998-488c-801f-7d59c6f11cf8
+streams:
+  - url: https://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/
+    codec: MP3

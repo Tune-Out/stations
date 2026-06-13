@@ -21,18 +21,6 @@ lastchangetime: 2026-01-14 23:22:35
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9866bdc3-ee77-4a0f-a98d-88eed5468ec7
-streams:
-  - url: 'http://stream.erf.de/erfplus_s.m3u'
-    url_resolved: 'https://stream.erfplus.de/erf-1a64/aac-64?ar-distributor=ffa5'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://stream.erf.de/erfplus.m3u'
-    url_resolved: 'http://stream.erfplus.de/erf-1a64/mp3-128?ar-distributor=ffa5'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: religious
@@ -42,3 +30,15 @@ research:
   format: Christian teaching, worship, spiritual discussion, news from Christian perspective
   notes: ERF Plus is part of Evangelischer Rundfunk (Evangelical Broadcasting), a German religious broadcaster operating since 1952 with Protestant/evangelical Christian orientation. Transmits teaching, worship, and community-focused programming. Supported by evangelical churches and listener donations.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9866bdc3-ee77-4a0f-a98d-88eed5468ec7
+streams:
+  - url: http://stream.erf.de/erfplus_s.m3u
+    url_resolved: https://stream.erfplus.de/erf-1a64/aac-64?ar-distributor=ffa5
+    codec: AAC+
+    bitrate: 64
+  - url: http://stream.erf.de/erfplus.m3u
+    url_resolved: http://stream.erfplus.de/erf-1a64/mp3-128?ar-distributor=ffa5
+    codec: MP3
+    bitrate: 128

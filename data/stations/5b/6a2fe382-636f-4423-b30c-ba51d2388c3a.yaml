@@ -25,16 +25,6 @@ lastchangetime: 2026-01-28 11:55:19
 clickcount: 0
 geo_lat: 51.4918584186485
 geo_long: 0.120849609375
-curation: 0.35
-provenance:
-  - radiobrowser-6a2fe382-636f-4423-b30c-ba51d2388c3a
-streams:
-  - url: 'https://a2.asurahosting.com:6260/radio.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://uksoutha.streaming.broadcast.radio/stream/18241/slimradio_graa8'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +34,13 @@ research:
   format: Soul, funk, house, disco, deep house and soulful house music
   notes: Independent UK internet radio station based in Berkshire, England, specializing in soulful dance music genres including soul, funk, house, deep house, and disco. Serves enthusiasts of deeper, funkier house and soul traditions.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6a2fe382-636f-4423-b30c-ba51d2388c3a
+streams:
+  - url: https://a2.asurahosting.com:6260/radio.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://uksoutha.streaming.broadcast.radio/stream/18241/slimradio_graa8
+    codec: MP3
+    bitrate: 320

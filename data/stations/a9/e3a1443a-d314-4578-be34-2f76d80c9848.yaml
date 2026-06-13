@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 07:21:49
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-e3a1443a-d314-4578-be34-2f76d80c9848
-streams:
-  - url: 'http://79.120.12.130:8000/garagehouse'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.12.130:8004/garagehouse'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.12.130:8002/garagehouse'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +32,16 @@ research:
   format: Garage house and New York house electronic music
   notes: Part of Radio Caprice's extensive genre-specialized channel network; serves global audience interested in electronic dance music subgenres.
   sources: http://radcap.ru/garagehouse.html
+curation: 0.65
+provenance:
+  - radiobrowser-e3a1443a-d314-4578-be34-2f76d80c9848
+streams:
+  - url: http://79.120.12.130:8000/garagehouse
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.12.130:8004/garagehouse
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.12.130:8002/garagehouse
+    codec: AAC+
+    bitrate: 48

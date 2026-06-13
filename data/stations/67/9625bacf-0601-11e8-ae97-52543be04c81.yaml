@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9625bacf-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ypr-sc.streamguys.net/live-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://ypr-sc.streamguys.net/live'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: News, information, and public affairs programming
   notes: Yellowstone Public Radio (KEMC 91.7 FM) is an NPR-affiliated public radio station licensed to Billings, Montana. As a non-commercial, listener-supported station, it emphasizes news and information programming serving the greater Billings area and Montana region.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9625bacf-0601-11e8-ae97-52543be04c81
+  - iprd-us-kemc-91-7-yellowstone-public-radio-7650e47b
+  - iprd-us-kemc-91-7-yellowstone-public-radio-2adfc3b5
+streams:
+  - url: http://ypr-sc.streamguys.net/live-aac
+    codec: AAC
+    bitrate: 64
+  - url: http://ypr-sc.streamguys.net/live
+    codec: MP3
+    bitrate: 96

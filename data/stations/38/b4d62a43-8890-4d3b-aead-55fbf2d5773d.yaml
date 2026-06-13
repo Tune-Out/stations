@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:03:15
 clickcount: 0
 geo_lat: 49.58773775196351
 geo_long: 10.97275346517563
-curation: 0.35
-provenance:
-  - radiobrowser-b4d62a43-8890-4d3b-aead-55fbf2d5773d
-streams:
-  - url: 'https://streaming.funklust.de:8443/heaac'
-    codec: AAC+
-    bitrate: 96000
-  - url: 'https://streaming.funklust.de:8443/mp3'
-    codec: MP3
-    bitrate: 128000
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Funk, electronic, party music; dance and electronic-focused programming
   notes: Bavarian-based internet radio station (coordinates suggest Nuremberg area). Funklust brand emphasizes funk and electronic music. Dedicated streaming service with MP3 and presumably other codec options.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b4d62a43-8890-4d3b-aead-55fbf2d5773d
+streams:
+  - url: https://streaming.funklust.de:8443/heaac
+    codec: AAC+
+    bitrate: 96000
+  - url: https://streaming.funklust.de:8443/mp3
+    codec: MP3
+    bitrate: 128000

@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 02:56:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-7866d8c0-418b-4eb8-b245-8f6d7f75c9ff
-streams:
-  - url: 'https://wz7liw.scahw.com.au/live/7guiltypleasures_128.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
-  - url: 'http://sa46.scastream.com.au/live/7guiltypleasures_128.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +30,15 @@ research:
   format: Pop, mainstream music ("Guilty Pleasures" channel)
   notes: LiSTNR is an Australian digital radio streaming service offering curated music channels; "Guilty Pleasures" focuses on feel-good, upbeat pop music.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-7866d8c0-418b-4eb8-b245-8f6d7f75c9ff
+streams:
+  - url: https://wz7liw.scahw.com.au/live/7guiltypleasures_128.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: http://sa46.scastream.com.au/live/7guiltypleasures_128.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true

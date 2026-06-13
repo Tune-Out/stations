@@ -1,7 +1,7 @@
 stationuuid: 22d8d69e-c1d7-41a6-93f5-b676eb9b2c7c
 name: 96.3 WDVD
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WDVDFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WDVDFMAAC.aac
+url: 'https://18003.live.streamtheworld.com:443/WDVDFMAAC.aac'
+url_resolved: 'https://18003.live.streamtheworld.com:443/WDVDFMAAC.aac'
 homepage: https://www.963wdvd.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3193/squareIcon.png?r=94897
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:17:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-22d8d69e-c1d7-41a6-93f5-b676eb9b2c7c
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary music; pop standards; soft rock
   notes: Detroit commercial station on 96.3 FM branded as WDVD; adult contemporary format targeting mature audiences; operates as mainstream commercial radio.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-22d8d69e-c1d7-41a6-93f5-b676eb9b2c7c

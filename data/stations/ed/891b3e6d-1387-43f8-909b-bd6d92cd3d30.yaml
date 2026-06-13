@@ -1,7 +1,7 @@
 stationuuid: 891b3e6d-1387-43f8-909b-bd6d92cd3d30
 name: Radio Suno Tamil
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3
+url: 'https://14993.live.streamtheworld.com:443/RADIO_SUNO_TAMIL_S01.mp3'
+url_resolved: 'https://14993.live.streamtheworld.com:443/RADIO_SUNO_TAMIL_S01.mp3'
 homepage: ""
 favicon: https://onlineradiohub.com/wp-content/uploads/2023/12/radio-suno-tamil.jpg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 00:57:08
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-891b3e6d-1387-43f8-909b-bd6d92cd3d30
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Tamil music and entertainment programming
   notes: Streams via StreamTheWorld platform; primarily Tamil-language content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-891b3e6d-1387-43f8-909b-bd6d92cd3d30

@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 08:24:53
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6e285729-085e-4dc8-8305-531e5f5c11fe
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/fbass96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/fbass96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Future bass; electronic dance music (EDM); electronic; club music.
   notes: Major Russian commercial radio network based in Saint-Petersburg. Future Bass channel specializes in electronic dance music and future bass subgenre. Part of Record Media Group. Significant national reach.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6e285729-085e-4dc8-8305-531e5f5c11fe
+  - iprd-ru-radio-rekord-future-bass-540ecd2c
+streams:
+  - url: http://radiorecord.hostingradio.ru/fbass96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/fbass96.aacp
+    codec: AAC

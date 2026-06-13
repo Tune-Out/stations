@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:22:35
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-961858e2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://178.33.72.12/globorm64'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://globo.newradio.it/globorm128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Top 40, pop, hits and mainstream contemporary music
   notes: Radio Globo is a regional Italian commercial radio station based in Rome (Lazio region, as indicated by the state field). The station focuses on contemporary hits and pop music targeting the Rome metropolitan area and Lazio region. Broadcasts on FM in the region and streams online. The tag "roma" (Rome) indicates specific geographic focus on the capital city's listening market. Website at radioglobo.it is maintained minimally. Streams via direct IP server at 128 kbps MP3. The station appears to be an independent operator without major national network backing, typical of the Italian regional radio landscape. No major controversies or regulatory issues documented.
   sources: http://www.radioglobo.it/, internal knowledge of Italian regional radio
+curation: -0.1
+provenance:
+  - radiobrowser-961858e2-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-globo-3fab1acc
+streams:
+  - url: http://178.33.72.12/globorm64
+    codec: MP3
+    bitrate: 128
+  - url: http://globo.newradio.it/globorm128
+    codec: MP3
+    bitrate: 128

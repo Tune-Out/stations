@@ -1,7 +1,7 @@
 stationuuid: 6a22753c-5ecc-49af-aee6-c3dfd47bf1f1
 name: Nova (Taylor's Version) (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_POPUP1.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_POPUP1.mp3
+url: 'http://28853.live.streamtheworld.com:80/NOVA_POPUP1.mp3'
+url_resolved: 'http://28853.live.streamtheworld.com:80/NOVA_POPUP1.mp3'
 homepage: https://novafm.com.au/station/novataylorsversion
 favicon: https://novafm.com.au/assets/nova/icons/favicon/apple-touch-icon.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:29:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6a22753c-5ecc-49af-aee6-c3dfd47bf1f1
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: pop music with heavy emphasis on taylor swift, contemporary hits, and mainstream pop programming
   notes: commercial australian fm station running special branded stream "nova (taylor's version)" featuring pop music and taylor swift content; part of southern cross austereo network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6a22753c-5ecc-49af-aee6-c3dfd47bf1f1

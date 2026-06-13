@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 00:53:11
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-18a7a98c-1eec-40fa-a854-8299caf92e08
-streams:
-  - url: 'https://radiorecord.hostingradio.ru/teo96.aacp'
-    codec: AAC
-  - url: 'http://radiorecord.hostingradio.ru/teo96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: Hardstyle, happy hardcore, jumpstyle, and related electronic dance music genres
   notes: Radio Record is major Russian commercial radio broadcaster based in Moscow; operates specialized genre channels; hardstyle channel targets EDM enthusiasts interested in high-energy electronic dance formats; established player in Russian radio landscape; serves club and dance music community; international reach via internet streaming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-18a7a98c-1eec-40fa-a854-8299caf92e08
+  - iprd-ru-radio-record-hardstyle-48f2c57f
+  - iprd-ru-radio-rekord-hardstyle-5ac1f38e
+streams:
+  - url: https://radiorecord.hostingradio.ru/teo96.aacp
+    codec: AAC
+  - url: http://radiorecord.hostingradio.ru/teo96.aacp
+    codec: AAC

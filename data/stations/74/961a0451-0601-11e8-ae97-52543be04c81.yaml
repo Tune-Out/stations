@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 00:04:28
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-961a0451-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/2LRW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/2LRW/mp3/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,15 @@ research:
   format: Local news, information, and current affairs programming
   notes: ABC Local Radio 702 is part of the Australian Broadcasting Corporation, Australia's national public broadcaster. Provides local news and information for the Sydney metropolitan area. Operates as publicly funded broadcaster serving New South Wales.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-961a0451-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-local-radio-702-sydney-c22518d5
+  - iprd-au-abc-local-radio-702-sydney-e1c68a73
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/2LRW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/2LRW/mp3/
+    codec: AAC+
+    bitrate: 56

@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9a2c072e-fda1-4b31-ae42-599fd6eb2902
-streams:
-  - url: 'https://stream.zeno.fm/54k0v7x14neuv'
-    codec: MP3
-  - url: 'https://stream-21.zeno.fm/avr8uenbm1duv?zs=HEEdTMZyQ6uSZRff0P3ubg'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Mixed programming; local Haitian radio broadcasting
   notes: Haitian media company operating both radio and television; Caraibes FM is radio division; commercial broadcast serving local Haiti market; part of integrated radio/TV group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9a2c072e-fda1-4b31-ae42-599fd6eb2902
+streams:
+  - url: https://stream.zeno.fm/54k0v7x14neuv
+    codec: MP3
+  - url: https://stream-21.zeno.fm/avr8uenbm1duv?zs=HEEdTMZyQ6uSZRff0P3ubg
+    codec: MP3

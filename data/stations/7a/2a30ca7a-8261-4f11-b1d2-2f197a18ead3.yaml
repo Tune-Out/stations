@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 00:40:59
 clickcount: 5
 geo_lat: 19.196925599034554
 geo_long: -96.1360976099968
-curation: -0.05
-provenance:
-  - radiobrowser-2a30ca7a-8261-4f11-b1d2-2f197a18ead3
-streams:
-  - url: 'http://sgaudio.centrocibernetico.com/xeu'
-    codec: MP3
-    bitrate: 48
-  - url: 'https://sgaudio.centrocibernetico.com/xeu'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Talk radio (radio hablada) with news, sports (deportes), local information, and tropical/salsa music; news-focused with short news bulletins and commentary
   notes: 'XEU (98.1 FM) is a commercial talk radio station in Boca del Río, Veracruz, Mexico, operated by Grupo Pazos Radio; broadcast on 98.1 FM; focused on news ("noticias"), local information ("información local"), sports coverage ("deportes"), and entertainment; serves the Veracruz metropolitan region including Boca del Río; coordinates: 19.197°N, 96.136°W.'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2a30ca7a-8261-4f11-b1d2-2f197a18ead3
+  - iprd-mx-xeu-98-1-xhu-fm-c3a627e4
+streams:
+  - url: http://sgaudio.centrocibernetico.com/xeu
+    codec: MP3
+    bitrate: 48
+  - url: https://sgaudio.centrocibernetico.com/xeu
+    codec: MP3
+    bitrate: 48

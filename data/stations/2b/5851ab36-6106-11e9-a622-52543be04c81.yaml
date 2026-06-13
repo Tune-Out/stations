@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:26:37
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5851ab36-6106-11e9-a622-52543be04c81
-streams:
-  - url: 'http://studentenfunk.out.airtime.pro:8000/studentenfunk_a'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://studentenfunk.out.airtime.pro/studentenfunk_a#'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,15 @@ research:
   format: Community and college radio, student-run programming
   notes: German college radio station run by University of Regensburg students. "Studentenfunk" means "student radio." Non-commercial community broadcaster with student DJs and programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5851ab36-6106-11e9-a622-52543be04c81
+  - iprd-de-studentenfunk-fdf8e041
+  - iprd-de-studentenfunk-5f8664ec
+streams:
+  - url: http://studentenfunk.out.airtime.pro:8000/studentenfunk_a
+    codec: MP3
+    bitrate: 128
+  - url: https://studentenfunk.out.airtime.pro/studentenfunk_a#
+    codec: MP3
+    bitrate: 128

@@ -22,37 +22,6 @@ lastchangetime: 2026-01-14 23:53:53
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-fc792aad-1dec-4a91-94a1-3c5d1d183d30
-streams:
-  - url: 'https://mc-blues.hostingradio.ru/blues96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://mc-italiano.hostingradio.ru/italiano96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://mc-covers.hostingradio.ru/mccovers96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://mc-meditation.hostingradio.ru/meditation96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://mc-funkcoctail.hostingradio.ru/funkcoctail96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://mc-mcnight.hostingradio.ru/mcnight96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://mc-summertime.hostingradio.ru/summertime96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://mc-mcgold.hostingradio.ru/mcgold96.aacp'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -62,3 +31,35 @@ research:
   format: 24/7 blues music — online-only side channel of Radio Monte Carlo
   notes: Wonderful Blues is one of many themed online side-channels operated by Radio Monte Carlo Russia (alongside Lounge, Smooth Jazz, Saxophone, etc.); the main FM Radio Monte Carlo brand was relaunched in Russia in 2007 by RMG, replacing the original French-licensed Monte Carlo brand; RMG also owns Russkoye Radio, Hit FM, Maximum and DFM; since the 2017 takeover linked to Goszhilfond, RMG has aligned closer with Russian state-media editorial expectations; this particular sub-stream carries no original talk content — purely a curated blues music playlist.
   sources: https://montecarlo.ru/, internal knowledge of Russian Media Group
+curation: 0.65
+provenance:
+  - radiobrowser-fc792aad-1dec-4a91-94a1-3c5d1d183d30
+  - iprd-ru-radio-monte-karlo-102-1-cda034e8
+streams:
+  - url: https://mc-blues.hostingradio.ru/blues96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://mc-italiano.hostingradio.ru/italiano96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://mc-covers.hostingradio.ru/mccovers96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://mc-meditation.hostingradio.ru/meditation96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://mc-funkcoctail.hostingradio.ru/funkcoctail96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://mc-mcnight.hostingradio.ru/mcnight96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://mc-summertime.hostingradio.ru/summertime96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://mc-mcgold.hostingradio.ru/mcgold96.aacp
+    codec: AAC+
+    bitrate: 96

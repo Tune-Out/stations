@@ -1,7 +1,7 @@
 stationuuid: 2140eb0b-a8f7-4f0f-ab06-1739873f7dff
 name: LA MEJOR FM 100.5 (Veracruz) - 100.5 FM - XHVE-FM - MVS Radio - Boca del Río, Veracruz
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHVEFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHVEFMAAC.aac
+url: 'https://15693.live.streamtheworld.com:443/XHVEFMAAC.aac'
+url_resolved: 'https://15693.live.streamtheworld.com:443/XHVEFMAAC.aac'
 homepage: https://www.lamejor.com.mx/
 favicon: https://cdn-profiles.tunein.com/s87635/images/logod.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-03-27 05:04:16
 clickcount: 0
 geo_lat: 19.153780712503448
 geo_long: -96.10887587070464
-curation: -0.05
-provenance:
-  - radiobrowser-2140eb0b-a8f7-4f0f-ab06-1739873f7dff
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: regional Mexican music (banda, música regional, entretenimiento)
   notes: Commercial radio on 100.5 FM (XHVE-FM) in Veracruz, Mexico. Operated by MVS Radio, a major Mexican broadcasting group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2140eb0b-a8f7-4f0f-ab06-1739873f7dff

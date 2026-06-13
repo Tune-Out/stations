@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 04:38:30
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-439124ae-486e-4088-a701-eeaf4b020081
-streams:
-  - url: 'http://stream.laut.fm/deep-house-sounds'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://deep-house-sounds.stream.laut.fm/deep-house-sounds'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Deep house, dream house, indie dance, nu-disco, tech house, vocal house
   notes: Online radio station streaming deep house and electronic music via laut.fm platform. German-language content with curated music channels focused on house/electronic genres.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-439124ae-486e-4088-a701-eeaf4b020081
+  - iprd-de-deep-house-sounds-79677c45
+streams:
+  - url: http://stream.laut.fm/deep-house-sounds
+    codec: MP3
+    bitrate: 128
+  - url: https://deep-house-sounds.stream.laut.fm/deep-house-sounds
+    codec: MP3
+    bitrate: 128

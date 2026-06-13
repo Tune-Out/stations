@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:57:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-9617b099-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://gene-wr07.ice.infomaniak.ch/gene-wr07.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://gene-wr07.ice.infomaniak.ch/gene-wr07.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,14 @@ research:
   format: Hip-hop, rap, R&B, soul, funk, reggae, disco
   notes: Founded 1992; broadcasts on 88.2 FM Paris, 101.3 FM Creil/Meaux, DAB+ nationwide, and worldwide online; features interviews with artists and music professionals; plays classic soul (Marvin Gaye, Aretha Franklin, Stevie Wonder, Lauryn Hill) alongside contemporary hip-hop and rap
   sources: generations.fr, Générations Wikipedia, AllRadio.Net
+curation: 0.6
+provenance:
+  - radiobrowser-9617b099-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-soul-0768d7a1
+streams:
+  - url: http://gene-wr07.ice.infomaniak.ch/gene-wr07.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://gene-wr07.ice.infomaniak.ch/gene-wr07.aac
+    codec: AAC+
+    bitrate: 64

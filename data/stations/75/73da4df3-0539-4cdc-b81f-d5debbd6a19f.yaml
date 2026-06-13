@@ -19,19 +19,6 @@ lastchangetime: 2026-04-10 02:48:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-73da4df3-0539-4cdc-b81f-d5debbd6a19f
-streams:
-  - url: 'https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +28,17 @@ research:
   format: News / current affairs / educational / cultural programming / Indonesian language
   notes: RRI is Indonesia's state-owned public radio network established 1945; RRI Pro 1 is the flagship national channel from Jakarta broadcasting news, current affairs, and cultural content.
   sources: https://www.rri.co.id/, internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-73da4df3-0539-4cdc-b81f-d5debbd6a19f
+  - iprd-id-rri-pro-1-jakarta-91-2-6dcc8634
+streams:
+  - url: https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3
+    codec: AAC+
+    bitrate: 32
+  - url: https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+    codec: MP3
+    bitrate: 320

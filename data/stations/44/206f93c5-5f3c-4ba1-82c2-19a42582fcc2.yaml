@@ -28,16 +28,6 @@ lastchangetime: 2026-01-15 07:47:33
 clickcount: 17
 geo_lat: 48.1776994
 geo_long: 16.2877707
-curation: 1.00
-provenance:
-  - radiobrowser-206f93c5-5f3c-4ba1-82c2-19a42582fcc2
-streams:
-  - url: 'https://orf-live.ors-shoutcast.at/fm4-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://orf-live.ors-shoutcast.at/fm4-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +37,14 @@ research:
   format: '"Alternative mainstream" — indie & alternative pop/rock, electronic, hip-hop and world music, with talk segments, news and cultural commentary; flagship strands include the FM4 Soundpark for emerging Austrian acts and shows like "FM4 Auf Laut"'
   notes: FM4 launched on 16 January 1995 as ORF's youth-culture and alternative music station, taking over the frequencies of the former English-language Blue Danube Radio; broadcasts mostly in English during daytime and German in evenings; lauded internationally for breaking alternative acts and for its journalistic coverage of subculture, technology and politics; part of ORF's family of radio services (Ö1, Ö3, FM4 and regional Landesstudios).
   sources: https://fm4.orf.at/, https://en.wikipedia.org/wiki/FM4
+curation: 1
+provenance:
+  - radiobrowser-206f93c5-5f3c-4ba1-82c2-19a42582fcc2
+  - iprd-at-fm4-0b321632
+streams:
+  - url: https://orf-live.ors-shoutcast.at/fm4-q2a
+    codec: MP3
+    bitrate: 192
+  - url: https://orf-live.ors-shoutcast.at/fm4-q1a
+    codec: MP3
+    bitrate: 128

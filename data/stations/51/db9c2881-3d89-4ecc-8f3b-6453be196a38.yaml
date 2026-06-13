@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-db9c2881-3d89-4ecc-8f3b-6453be196a38
-streams:
-  - url: 'http://mediaserv68.live-streams.nl:8012/RockRadio2'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://443-1.autopo.st/79/RockRadio2'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,15 @@ research:
   format: Specialty internet radio; neo-progressive rock and progressive rock only (RPO = Recent Prog Only).
   notes: Internet radio station specializing exclusively in recent progressive rock music. Based on ISKC platform (iskcrocks.com). Homepage unavailable for fetch but internal knowledge confirms genre focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-db9c2881-3d89-4ecc-8f3b-6453be196a38
+  - iprd-nl-iskc-rock-radio-rpo-81cbad73
+  - iprd-nl-iskc-rock-radio-rpo-68826fb8
+streams:
+  - url: http://mediaserv68.live-streams.nl:8012/RockRadio2
+    codec: MP3
+    bitrate: 320
+  - url: https://443-1.autopo.st/79/RockRadio2
+    codec: MP3
+    bitrate: 320

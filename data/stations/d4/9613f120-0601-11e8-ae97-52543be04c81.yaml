@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:56:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9613f120-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,17 @@ research:
   format: Hip-hop, R&B, soul, funk, afrobeat, reggaeton, drill and trap music with artist-dedicated channels
   notes: Hip-hop and soul music radio based in France. Offers genre-specific channels including Rap FR, Rap US, R&B, Soul, Funk, and artist-dedicated stations (Booba, Jul, Ninho). Features music news, sports coverage, lifestyle content, and video clips. Streaming available via web player and mobile apps.
   sources: http://generations.fr/
+curation: -0.05
+provenance:
+  - radiobrowser-9613f120-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-100-la-fouine-e2ee1b7d
+  - iprd-fr-generations-100-la-fouine-d3cf5bd9
+  - iprd-fr-generations-wati-b-e06be7c3
+  - iprd-fr-generations-wati-b-d7171e1c
+streams:
+  - url: http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.mp3
+    codec: MP3
+    bitrate: 128

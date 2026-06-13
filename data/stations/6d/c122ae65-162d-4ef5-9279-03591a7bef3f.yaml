@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:09:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c122ae65-162d-4ef5-9279-03591a7bef3f
-streams:
-  - url: 'https://stream.revma.ihrhls.com/zc6969/hls.m3u8'
-    codec: AAC
-    bitrate: 24
-    hls: true
-  - url: 'https://stream.revma.ihrhls.com/zc6969'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Commercial regional Mexican music radio; "la mejor Música Regional Mexicana" and "Pura Música Perrona" (corridos and regional Mexican).
   notes: 'On-air personalities include Edgar "El Barbas" Contreras, Luis Treviño, Karla, Jazmin Mosqueda, Ivan Gonzalez. Podcasts: "GINALOGÍA: El Podcast de Gina Ulmos" and "La Clavada." Part of iHeartMedia network.'
   sources: https://985elpatron.iheart.com/
+curation: -0.05
+provenance:
+  - radiobrowser-c122ae65-162d-4ef5-9279-03591a7bef3f
+streams:
+  - url: https://stream.revma.ihrhls.com/zc6969/hls.m3u8
+    codec: AAC
+    bitrate: 24
+    hls: true
+  - url: https://stream.revma.ihrhls.com/zc6969
+    codec: AAC

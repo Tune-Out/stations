@@ -1,7 +1,7 @@
 stationuuid: a5aca787-5190-4329-91da-fe003f5f164c
 name: Jack FM 101.9
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KRWKFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KRWKFMAAC.aac
+url: 'https://27283.live.streamtheworld.com:443/KRWKFMAAC.aac'
+url_resolved: 'https://27283.live.streamtheworld.com:443/KRWKFMAAC.aac'
 homepage: https://jackfmfargo.com/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:03:36
 clickcount: 0
 geo_lat: 46.87029931095797
 geo_long: -96.79367065429688
-curation: -0.05
-provenance:
-  - radiobrowser-a5aca787-5190-4329-91da-fe003f5f164c
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Classic rock and rock music programming on 101.9 FM
   notes: Commercial rock radio station in Fargo, North Dakota. Part of the Jack FM network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a5aca787-5190-4329-91da-fe003f5f164c
+  - iprd-us-krwk-101-9-jack-fm-07136ed4

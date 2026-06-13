@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ad563392-497b-4fe0-a3e6-4a6b30d57bbe
-streams:
-  - url: 'https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60a2b23eaf8c7e00145e64e0_240p/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Pop music; contemporary and classic pop hits
   notes: Argentine radio station at 97.9 FM focusing on pop music programming; serves Spanish-speaking audience with mainstream pop content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ad563392-497b-4fe0-a3e6-4a6b30d57bbe
+streams:
+  - url: https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
+    codec: AAC+
+    bitrate: 64
+  - url: https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60a2b23eaf8c7e00145e64e0_240p/index.m3u8
+    codec: UNKNOWN
+    hls: true

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:51:27
 clickcount: 2
 geo_lat: 42.35631134102071
 geo_long: -83.05938720703126
-curation: 0.60
-provenance:
-  - radiobrowser-4f2edbb3-4c73-42eb-83e9-bebd89cf7db7
-streams:
-  - url: 'https://das-edge15-live365-dal02.cdnstream.com/a71161'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ais-edge102-live365-dal02.cdnstream.com/a71161'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: 24/7 Detroit techno and electronic music; DJ-hosted shows featuring house, soul, minimal, and techno
   notes: Community-run internet radio curated by "the Greatest Minds in Detroit Techno." Features Detroit-based DJs and producers with shows on Mixcloud and Volume. Supported by listener donations via Cash App, Venmo, and Patreon. Notable shows include "Queen Beats Radio" (DJ Minx) and "The Soulful Underground."
   sources: https://deepspaceradio.com/
+curation: 0.6
+provenance:
+  - radiobrowser-4f2edbb3-4c73-42eb-83e9-bebd89cf7db7
+streams:
+  - url: https://das-edge15-live365-dal02.cdnstream.com/a71161
+    codec: MP3
+    bitrate: 128
+  - url: https://ais-edge102-live365-dal02.cdnstream.com/a71161
+    codec: MP3
+    bitrate: 128

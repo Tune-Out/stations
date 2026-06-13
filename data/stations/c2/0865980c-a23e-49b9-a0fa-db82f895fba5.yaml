@@ -1,6 +1,6 @@
 stationuuid: 0865980c-a23e-49b9-a0fa-db82f895fba5
 name: D Sports Radio
-url: http://provisioning.streamtheworld.com/pls/DSPORTSRADIO.pls
+url: 'http://26483.live.streamtheworld.com:80/DSPORTSRADIO_SC'
 url_resolved: http://24413.live.streamtheworld.com/DSPORTSRADIO_SC
 homepage: https://www.dsportsradio.com/
 favicon: https://dsportsradio-assets.tadevel-cdn.com/62bf627721e9e4e221528ca9/720.webp
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0865980c-a23e-49b9-a0fa-db82f895fba5
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Sports programming and commentary
   notes: Argentine commercial sports radio station.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0865980c-a23e-49b9-a0fa-db82f895fba5

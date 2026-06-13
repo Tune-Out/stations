@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 06:17:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-23749ae2-31cb-4121-9145-96fe81e66f31
-streams:
-  - url: 'http://rosetta.shoutca.st:8931/;'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://original.radioca.st/;'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Contemporary Latin music featuring cumbia, reggaetón, salsa, and musica latina; 24/7 internet and FM streaming
   notes: Panama-based commercial music radio station operating on 90.7 FM; specializes in contemporary Latin American music genres; available via web streaming and traditional FM broadcast
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-23749ae2-31cb-4121-9145-96fe81e66f31
+streams:
+  - url: http://rosetta.shoutca.st:8931/;
+    codec: MP3
+    bitrate: 256
+  - url: https://original.radioca.st/;
+    codec: MP3
+    bitrate: 256

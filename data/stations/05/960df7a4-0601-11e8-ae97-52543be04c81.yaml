@@ -22,21 +22,6 @@ lastchangetime: 2026-01-15 03:59:30
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-960df7a4-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk/A/A12H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A12H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk/A/A12H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +31,19 @@ research:
   format: Regional radio with music and talk content; evening programs emphasize "your radiophonic pat on the shoulder" with companionship and quality music
   notes: P4 Syd is one of nine DR regional P4 stations across Denmark, part of the national public service. Emphasizes "god karma og mandes af den bedste musik til døgnets sidste timer" (good karma and best music for day's final hours).
   sources: http://www.dr.dk/p4syd
+curation: 0.35
+provenance:
+  - radiobrowser-960df7a4-0601-11e8-ae97-52543be04c81
+  - iprd-dk-dr-p4-syd-4825eff8
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk/A/A12H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A12H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk/A/A12H.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 5dd13bbf-e073-4034-944b-07d5e7f9c593
 name: Mix 104.9 - Darwin - 104.9 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049AAC.aac
+url: 'http://16643.live.streamtheworld.com:80/DAR_MIX1049AAC.aac'
+url_resolved: 'http://16643.live.streamtheworld.com:80/DAR_MIX1049AAC.aac'
 homepage: https://www.mix1049.com.au/
 favicon: https://i.ibb.co/2YZbNhR/61ea5c49dcdc455f530c045f.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:38:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5dd13bbf-e073-4034-944b-07d5e7f9c593
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary hit radio with music, entertainment, news, lifestyle; shows include "The Early Birds" (5:30am), "360 with Katie Woolf" (9am), "The Long Lunch with Luke" (12pm-2pm)
   notes: Licensed commercial broadcaster on 104.9 FM Darwin; operates with emphasis on local Top End community; diversity-focused workplace statement.
   sources: https://www.mix1049.com.au/
+curation: 0.35
+provenance:
+  - radiobrowser-5dd13bbf-e073-4034-944b-07d5e7f9c593

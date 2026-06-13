@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9a869fb8-33df-4f9b-aef5-b7b1c109c4f4
-streams:
-  - url: 'https://station.waveradio.org/soviet.mp3?pltsukioahxdexkqsjgf'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://station.waveradio.org/soviet.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Soviet-era and retro electronic music, vintage synthesizer music.
   notes: Russian internet radio focused on Soviet and retro electronic music genres. Nostalgia-driven programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9a869fb8-33df-4f9b-aef5-b7b1c109c4f4
+  - iprd-ru-sovietwave-radio-881bc48e
+streams:
+  - url: https://station.waveradio.org/soviet.mp3?pltsukioahxdexkqsjgf
+    codec: MP3
+    bitrate: 128
+  - url: http://station.waveradio.org/soviet.mp3
+    codec: MP3
+    bitrate: 128

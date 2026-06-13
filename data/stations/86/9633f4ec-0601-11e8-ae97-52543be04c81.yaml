@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:34:09
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-9633f4ec-0601-11e8-ae97-52543be04c81
-duplicate_of: 8b10f1c7-60a6-4392-8fef-7ac5bd73ced1
-streams:
-  - url: 'http://stream.radiocontinu.nl/radiocontinu'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.radiocontinu.nl/radiocontinu'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Mixed variety format — "classics, dutch, variety" — covering pop hits from multiple eras, golden oldies, and contemporary music
   notes: Radio Continu is a Dutch webradio station offering a mixed format of musical and spoken-word content at 192 kbps MP3; the tags "classics / dutch / variety" reflect a format spanning decades of Dutch and international pop music; streams via a Netherlands-based stream server.
   sources: http://www.radiocontinu.nl/
+curation: -0.1
+provenance:
+  - radiobrowser-9633f4ec-0601-11e8-ae97-52543be04c81
+duplicate_of: 8b10f1c7-60a6-4392-8fef-7ac5bd73ced1
+streams:
+  - url: http://stream.radiocontinu.nl/radiocontinu
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.radiocontinu.nl/radiocontinu
+    codec: MP3
+    bitrate: 192

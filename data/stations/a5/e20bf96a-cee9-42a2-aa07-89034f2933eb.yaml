@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 05:15:03
 clickcount: 0
 geo_lat: 44.42635631220195
 geo_long: 26.10263586044312
-curation: 0.35
-provenance:
-  - radiobrowser-e20bf96a-cee9-42a2-aa07-89034f2933eb
-streams:
-  - url: 'https://radio-romantic.ro/stream'
-    codec: AAC
-    bitrate: 320
-  - url: 'http://stream.zeno.fm/72k4a597rs8uv'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +30,13 @@ research:
   format: "Eclectic programming: bossa nova, electronic, instrumental, comedy, traditional Romanian, theater, carols, relaxation"
   notes: Non-profit Romanian radio operated by volunteers; mission "supported by passion, dedication and respect towards listeners"; encourages financial support and social media sharing to sustain the project; located in Bucharest area (44.42°N, 26.10°E)
   sources: https://radio-romantic.ro/
+curation: 0.35
+provenance:
+  - radiobrowser-e20bf96a-cee9-42a2-aa07-89034f2933eb
+  - iprd-ro-radio-romantic-c3966fad
+streams:
+  - url: https://radio-romantic.ro/stream
+    codec: AAC
+    bitrate: 320
+  - url: http://stream.zeno.fm/72k4a597rs8uv
+    codec: AAC

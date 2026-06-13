@@ -22,19 +22,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: 50.083329945408934
 geo_long: 20.041629374027256
-curation: 0.55
-provenance:
-  - radiobrowser-65ae0eb9-b8a0-4141-9ee3-be82c36e7b79
-streams:
-  - url: 'http://s1.slotex.pl:7074/stream/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s1.slotex.pl:7074/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://s1.slotex.pl:7074/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +31,17 @@ research:
   format: Christian pop, praise and worship, jazz, evangelical programming
   notes: Catholic radio founded by Pallottine missionary order; Polish name translates "Pallottine Evangelical Radio Pallotti.FM"; missionary/evangelization focus; non-profit religious broadcaster.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-65ae0eb9-b8a0-4141-9ee3-be82c36e7b79
+  - iprd-pl-pallotti-fm-5e3188d4
+streams:
+  - url: http://s1.slotex.pl:7074/stream/
+    codec: MP3
+    bitrate: 128
+  - url: https://s1.slotex.pl:7074/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://s1.slotex.pl:7074/stream
+    codec: MP3
+    bitrate: 128

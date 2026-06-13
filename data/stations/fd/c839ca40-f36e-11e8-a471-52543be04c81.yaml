@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:53:56
 clickcount: 0
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.05
-provenance:
-  - radiobrowser-c839ca40-f36e-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-deutschrap.radionetz.de/1a-deutschrap.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-deutschrap.radionetz.de/1a-deutschrap.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: German rap and hip hop (Deutsch Rap) programming; urban music and hip hop culture
   notes: Commercial broadcaster based in Bavaria, Germany, specializing in German-language rap and hip hop music. "1 A - Deutsch Rap" channel focuses exclusively on German hip hop and rap artists. Part of the 1A Radio network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c839ca40-f36e-11e8-a471-52543be04c81
+  - iprd-de-1a-deutsch-rap-59cbc0ab
+  - iprd-de-1a-deutsch-rap-ded29c9d
+streams:
+  - url: https://1a-deutschrap.radionetz.de/1a-deutschrap.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-deutschrap.radionetz.de/1a-deutschrap.mp3
+    codec: MP3
+    bitrate: 128

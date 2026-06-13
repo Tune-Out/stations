@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:41:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ef049282-20bb-4e2f-8a1c-2abbdd208a5d
-streams:
-  - url: 'https://stream.blits-fm.ua/aac32'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream.blits-fm.ua/stream64'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Entertainment, news, music, pop hits, information, contemporary music and talk.
   notes: Бліц-FM (Blits-FM) is a commercial radio station based in Uman, Cherkasy Oblast, Ukraine. Broadcasts pop music, entertainment, news, and talk programming. Serves local Ukrainian audience with contemporary music and information content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ef049282-20bb-4e2f-8a1c-2abbdd208a5d
+streams:
+  - url: https://stream.blits-fm.ua/aac32
+    codec: MP3
+    bitrate: 320
+  - url: https://stream.blits-fm.ua/stream64
+    codec: MP3
+    bitrate: 128

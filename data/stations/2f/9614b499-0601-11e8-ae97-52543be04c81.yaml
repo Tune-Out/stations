@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 03:33:37
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9614b499-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live.helsinki.at:8088/live160.mp3'
-    codec: MP3
-  - url: 'https://live.helsinki.at:8088/live160.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +30,12 @@ research:
   format: Community radio programming format (likely mixed content including music, talk, and local programming)
   notes: Radio Helsinki 92.6 MHz is a community radio station based in Styria, Austria; operates as an independent, non-commercial community broadcaster serving the Graz region
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9614b499-0601-11e8-ae97-52543be04c81
+  - iprd-at-radio-helsinki-92-6-4f6ebaff
+streams:
+  - url: http://live.helsinki.at:8088/live160.mp3
+    codec: MP3
+  - url: https://live.helsinki.at:8088/live160.mp3
+    codec: MP3

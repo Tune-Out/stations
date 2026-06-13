@@ -1,6 +1,6 @@
 stationuuid: a217c189-5124-48ea-a1b1-606766141ea1
 name: CBC Radio One - Prince George, BC (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CBYGFM_CBC.pls
+url: 'https://26373.live.streamtheworld.com:443/CBYGFM_CBC_SC'
 url_resolved: https://26373.live.streamtheworld.com/CBYGFM_CBC_SC
 homepage: https://www.cbc.ca/news/canada/british-columbia
 favicon: https://www.cbc.ca/mediacentre/content/images/CBC_BC_logo.JPG
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:22:02
 clickcount: 5
 geo_lat: 53.90947533233879
 geo_long: -122.73651123046876
-curation: 0.50
-provenance:
-  - radiobrowser-a217c189-5124-48ea-a1b1-606766141ea1
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -35,3 +32,7 @@ research:
   format: News, features, current affairs, talk programming; English-language public radio
   notes: Part of CBC Radio One network; public broadcasting mandate covers national news and local British Columbia coverage
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-a217c189-5124-48ea-a1b1-606766141ea1
+  - iprd-ca-cbla-99-1-cbc-radio-1-96038709

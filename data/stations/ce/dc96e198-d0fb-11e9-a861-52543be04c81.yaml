@@ -19,28 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-dc96e198-d0fb-11e9-a861-52543be04c81
-streams:
-  - url: 'http://stream.landeswelle.de/lwro/mp3-192'
-    url_resolved: 'https://edge16.streamonkey.net/landeswelle-rockwelle?aggregator=rewrite/mp3-192'
-    codec: AAC
-  - url: 'http://stream.landeswelle.de/lwgr/mp3-192/web'
-    url_resolved: 'https://edge16.streamonkey.net/landeswelle-grillwelle?aggregator=rewrite/mp3-192/web'
-    codec: AAC
-  - url: 'http://stream.landeswelle.de/lwxm/mp3-192'
-    url_resolved: 'https://edge62.streamonkey.net/landeswelle-weihnachtswelle?aggregator=rewrite/mp3-192'
-    codec: AAC
-  - url: 'http://stream.landeswelle.de/lwde/mp3-192/web'
-    url_resolved: 'https://edge10.streamonkey.net/landeswelle-deutsch?aggregator=rewrite/mp3-192/web'
-    codec: AAC
-  - url: 'http://stream.landeswelle.de/lwol/mp3-192'
-    url_resolved: 'https://edge06.streamonkey.net/landeswelle-yesterhits?aggregator=rewrite/mp3-192'
-    codec: AAC
-  - url: 'http://stream.landeswelle.de/lwsw/mp3-192'
-    url_resolved: 'https://edge16.streamonkey.net/landeswelle-schlagerwelle?aggregator=rewrite/mp3-192'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -50,3 +28,25 @@ research:
   format: Rock music, "Rockwelle" channel specializing in rock programming
   notes: Regional public broadcaster serving Thuringia state in Germany. Operates multiple channels including Rockwelle rock channel.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-dc96e198-d0fb-11e9-a861-52543be04c81
+streams:
+  - url: http://stream.landeswelle.de/lwro/mp3-192
+    url_resolved: https://edge16.streamonkey.net/landeswelle-rockwelle?aggregator=rewrite/mp3-192
+    codec: AAC
+  - url: http://stream.landeswelle.de/lwgr/mp3-192/web
+    url_resolved: https://edge16.streamonkey.net/landeswelle-grillwelle?aggregator=rewrite/mp3-192/web
+    codec: AAC
+  - url: http://stream.landeswelle.de/lwxm/mp3-192
+    url_resolved: https://edge62.streamonkey.net/landeswelle-weihnachtswelle?aggregator=rewrite/mp3-192
+    codec: AAC
+  - url: http://stream.landeswelle.de/lwde/mp3-192/web
+    url_resolved: https://edge10.streamonkey.net/landeswelle-deutsch?aggregator=rewrite/mp3-192/web
+    codec: AAC
+  - url: http://stream.landeswelle.de/lwol/mp3-192
+    url_resolved: https://edge06.streamonkey.net/landeswelle-yesterhits?aggregator=rewrite/mp3-192
+    codec: AAC
+  - url: http://stream.landeswelle.de/lwsw/mp3-192
+    url_resolved: https://edge16.streamonkey.net/landeswelle-schlagerwelle?aggregator=rewrite/mp3-192
+    codec: AAC

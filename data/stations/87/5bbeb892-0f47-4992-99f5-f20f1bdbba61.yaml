@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:34:47
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5bbeb892-0f47-4992-99f5-f20f1bdbba61
-streams:
-  - url: 'http://lzlive.vojs.cn/rWjyus9/92/live.m3u8?'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://lzlive.vojs.cn/rWjyus9/92/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: Storytelling, audio dramas, narrative programming, literary content
   notes: "\"江苏故事广播\" (Jiangsu Story Radio) is a provincial radio service focused on storytelling and narrative programming. Part of Jiangsu Broadcasting Corporation, a state-owned media entity under China's radio and television system. Serves Jiangsu Province (East China, population ~80 million) with educational and entertainment content featuring classical Chinese stories, literature adaptations, and contemporary narratives."
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5bbeb892-0f47-4992-99f5-f20f1bdbba61
+  - iprd-cn-kiangsu-story-radio-1206-104-9-97ebfc73
+streams:
+  - url: http://lzlive.vojs.cn/rWjyus9/92/live.m3u8?
+    codec: UNKNOWN
+    hls: true
+  - url: http://lzlive.vojs.cn/rWjyus9/92/live.m3u8
+    codec: UNKNOWN
+    hls: true

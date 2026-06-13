@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 00:10:03
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-cb4688f1-5a2a-4b25-a0b7-7576f56eae07
-streams:
-  - url: 'https://play.charivari.com/regensburg/web/'
-    codec: AAC
-  - url: 'https://play.charivari.com/regensburg/rdpmp3?rp_source=1&=&&___cb=148515846818249'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Pop, hits, contemporary music, entertainment, local information for Regensburg and surrounding area
   notes: Charivari Regensburg is a commercial pop-music radio station in Bavaria; part of Charivari network operating multiple stations across Germany; serves Regensburg metropolitan area; mainstream contemporary hit radio format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cb4688f1-5a2a-4b25-a0b7-7576f56eae07
+streams:
+  - url: https://play.charivari.com/regensburg/web/
+    codec: AAC
+  - url: https://play.charivari.com/regensburg/rdpmp3?rp_source=1&=&&___cb=148515846818249
+    codec: MP3
+    bitrate: 128

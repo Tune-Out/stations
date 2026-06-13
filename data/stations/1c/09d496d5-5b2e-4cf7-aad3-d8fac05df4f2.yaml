@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 23:54:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-09d496d5-5b2e-4cf7-aad3-d8fac05df4f2
-streams:
-  - url: 'http://radio.kinshasafm.xyz/listen/kinshasafm/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.kinshasafm.xyz/listen/kinshasafm/mobile.mp3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +33,13 @@ research:
   format: Eclectic music
   notes: 'Independent operation since 2018. Mission: "música ecléctica hecha por humanos para humanos 24/7/365" (eclectic music made by humans for humans 24/7/365). Community-oriented with multiple streaming options (128 kbps, 64 kbps mobile).'
   sources: https://kinshasafm.xyz/
+curation: 0.35
+provenance:
+  - radiobrowser-09d496d5-5b2e-4cf7-aad3-d8fac05df4f2
+streams:
+  - url: http://radio.kinshasafm.xyz/listen/kinshasafm/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.kinshasafm.xyz/listen/kinshasafm/mobile.mp3
+    codec: MP3
+    bitrate: 64

@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 08:05:50
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-41fbe760-75f0-46a9-aef4-9283667b58dc
-streams:
-  - url: 'https://drive.uber.radio/uber/crlso/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crlso/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crlso/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: 24/7 classical music with content from London Symphony Orchestra
   notes: Specialized classical music streaming service featuring London Symphony Orchestra programming. International reach via internet streaming. Operates from UAE-based infrastructure.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-41fbe760-75f0-46a9-aef4-9283667b58dc
+streams:
+  - url: https://drive.uber.radio/uber/crlso/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crlso/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crlso/icecast.audio
+    codec: MP3

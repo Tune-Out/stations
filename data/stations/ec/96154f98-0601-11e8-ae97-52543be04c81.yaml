@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 02:18:30
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96154f98-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://kruljo.radiostudent.si:8000/hiq.m3u'
-    url_resolved: 'http://kruljo.radiostudent.si:8000/hiq'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://kruljo.radiostudent.si:8000/loq.m3u'
-    url_resolved: 'http://kruljo.radiostudent.si:8000/loq'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +31,17 @@ research:
   format: Student and community radio featuring cultural, educational, and music programming
   notes: Radio Študent is a legendary student radio station operating from Ljubljana since 1966
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96154f98-0601-11e8-ae97-52543be04c81
+  - iprd-si-radio-student-89-3-884e621d
+  - iprd-si-radio-student-89-3-1d64eb56
+streams:
+  - url: http://kruljo.radiostudent.si:8000/hiq.m3u
+    url_resolved: http://kruljo.radiostudent.si:8000/hiq
+    codec: MP3
+    bitrate: 256
+  - url: http://kruljo.radiostudent.si:8000/loq.m3u
+    url_resolved: http://kruljo.radiostudent.si:8000/loq
+    codec: MP3
+    bitrate: 96

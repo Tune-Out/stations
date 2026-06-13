@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9f88b38b-4673-4ed3-a450-0ebb49cae695
-streams:
-  - url: 'https://stream.rockantenne.de/rockantenne/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.rockantenne.de/rockantenne/stream/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Rock music with comprehensive coverage of classic and contemporary rock
   notes: Rock Antenne is a major German commercial rock radio station; nationwide coverage available through terrestrial and online platforms; one of Germany's leading rock-focused broadcasters since the 1990s
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9f88b38b-4673-4ed3-a450-0ebb49cae695
+streams:
+  - url: https://stream.rockantenne.de/rockantenne/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.rockantenne.de/rockantenne/stream/mp3
+    codec: MP3
+    bitrate: 128

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 03:01:40
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-962df7f6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream1.euroradio.fm:8000/euroradio1'
-    codec: MP3
-    bitrate: 160
-  - url: 'http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,16 @@ research:
   format: News, political talk, current affairs, commentary on domestic and international politics.
   notes: Eurorадіё (Euroradio) is Belarus's primary state-run news and political talk station based in Minsk. Known for government-aligned coverage during significant political transitions.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-962df7f6-0601-11e8-ae97-52543be04c81
+  - iprd-by-jeuraradyjo-alternative-e4fcdede
+  - iprd-by-jeuraradyjo-by-f1ab272a
+  - iprd-by-jeuraradyjo-soft-rock-b8685b19
+streams:
+  - url: http://stream1.euroradio.fm:8000/euroradio1
+    codec: MP3
+    bitrate: 160
+  - url: http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910
+    codec: MP3
+    bitrate: 160

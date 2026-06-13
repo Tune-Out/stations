@@ -1,7 +1,7 @@
 stationuuid: 5eb50ba4-7de8-4363-811b-1c5146a9e395
 name: Olimpica Stereo Cali
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aac?dist=oro_web
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aac?dist=oro_web
+url: 'https://27583.live.streamtheworld.com:443/OLP_CALIAAC.aac?dist=oro_web'
+url_resolved: 'https://27583.live.streamtheworld.com:443/OLP_CALIAAC.aac?dist=oro_web'
 homepage: https://olimpicastereo.com.co/
 favicon: https://olimpicastereo.com.co/
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-05-09 23:56:07
 clickcount: 0
 geo_lat: 3.4665415998488345
 geo_long: -76.51752580294043
-curation: -0.05
-provenance:
-  - radiobrowser-5eb50ba4-7de8-4363-811b-1c5146a9e395
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Music-focused with news, interviews, lifestyle; programs include "Las 20 Latinas" (Latin music chart), sports coverage, "Reflexión Olímpica"
   notes: Commercial broadcaster with regional stations across Colombia; also operates stations in Panama (La KY 92.5, Play 103.7); related stations include Mix Radio, Radio Tiempo, La Reina del Vallenato.
   sources: https://olimpicastereo.com.co/
+curation: -0.05
+provenance:
+  - radiobrowser-5eb50ba4-7de8-4363-811b-1c5146a9e395

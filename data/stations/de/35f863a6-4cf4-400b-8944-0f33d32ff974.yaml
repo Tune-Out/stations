@@ -1,7 +1,7 @@
 stationuuid: 35f863a6-4cf4-400b-8944-0f33d32ff974
 name: 4BC - Brisbane - 882 AM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3
+url: 'http://23093.live.streamtheworld.com:80/4BC.mp3'
+url_resolved: 'http://23093.live.streamtheworld.com:80/4BC.mp3'
 homepage: https://www.4bc.com.au/
 favicon: https://www.4bc.com.au/wp-content/uploads/sites/10/2023/01/4BC.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:11:33
 clickcount: 16
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-35f863a6-4cf4-400b-8944-0f33d32ff974
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,7 @@ research:
   format: News, talk, sport and current affairs — "Brisbane's premier news and talk radio station"
   notes: 4BC began broadcasting on 16 August 1930 as one of Brisbane's earliest commercial radio stations, named for the Brisbane Broadcasting Company, and broadcasts on 882 kHz AM. Long owned by various commercial groups including the Bond Corporation and DMG Radio, it became part of Macquarie Radio Network and then in 2019 part of Nine Entertainment Co.'s Nine Radio division after Nine's merger with Fairfax Media. In 2025 Nine confirmed the sale of its talk-radio assets (2GB/3AW/4BC/6PR) to Tapt Media, with site copyright now reflecting "Tapt Media 2026." Current weekday lineup includes 4BC Breakfast, 4BC Mornings, 4BC Afternoons, 4BC Drive, "Sports Today with Adam Hawse" and overnights syndicated with Mike Jeffreys; networked content is also taken from sister station 2GB Sydney. The station has been the subject of regulatory scrutiny by ACMA over talkback complaints in line with the broader Nine/Macquarie talk-radio network.
   sources: internal knowledge only, https://www.4bc.com.au/
+curation: -0.05
+provenance:
+  - radiobrowser-35f863a6-4cf4-400b-8944-0f33d32ff974
+  - iprd-au-4bc-882-56a18758

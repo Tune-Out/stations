@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 2
 geo_lat: 46.56869069739164
 geo_long: 0.386495590209961
-curation: 0.35
-provenance:
-  - radiobrowser-22c6a81b-4ff7-4f90-86b0-e44c573ac4bd
-streams:
-  - url: 'https://radiopulsar.ice.infomaniak.ch/radiopulsar-192.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://radiopulsar.ice.infomaniak.ch/radiopulsar-192.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,14 @@ research:
   format: Community radio station with diverse music and cultural programming in French
   notes: Radio Pulsar is a French community radio station. Operates as independent broadcaster providing music and cultural content to French audiences. Limited detailed public information available on mission/format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-22c6a81b-4ff7-4f90-86b0-e44c573ac4bd
+  - iprd-fr-radio-pulsar-8ad3d783
+streams:
+  - url: https://radiopulsar.ice.infomaniak.ch/radiopulsar-192.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://radiopulsar.ice.infomaniak.ch/radiopulsar-192.mp3
+    codec: MP3
+    bitrate: 192

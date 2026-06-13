@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-c06ad381-2ef8-4fd0-94f7-3d2ba41f308c
-streams:
-  - url: 'http://primarystream.sleepbot.com:8218/seb'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://sleepbot.com/ambience/cgi/listen.m3u'
-    url_resolved: 'http://backupstream.sleepbot.com:8096/seb'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +31,14 @@ research:
   format: Ambient and environmental sound broadcasting (56 kbps MP3)
   notes: US-based ambient sound and sleep aid service; specializes in ambient soundscapes for sleep quality and relaxation; subscription-supported streaming model.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-c06ad381-2ef8-4fd0-94f7-3d2ba41f308c
+streams:
+  - url: http://primarystream.sleepbot.com:8218/seb
+    codec: MP3
+    bitrate: 56
+  - url: https://sleepbot.com/ambience/cgi/listen.m3u
+    url_resolved: http://backupstream.sleepbot.com:8096/seb
+    codec: MP3
+    bitrate: 56

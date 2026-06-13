@@ -1,7 +1,7 @@
 stationuuid: f8fb7eac-cc70-4e71-b56d-47ff892f9e85
 name: La Mejor Ciudad de México - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC
+url: 'https://18303.live.streamtheworld.com:443/XERCFM_SC'
+url_resolved: 'https://18303.live.streamtheworld.com:443/XERCFM_SC'
 homepage: https://www.lamejor.com.mx/
 favicon: https://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:47:13
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f8fb7eac-cc70-4e71-b56d-47ff892f9e85
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Regional Mexican music (banda, norteño, ranchera, grupera) under the "La Mejor" national brand
   notes: XERC-FM 97.7 in Mexico City is the flagship of MVS Radio's "La Mejor" network, a chain of regional-Mexican stations covering 50+ Mexican markets and select US Spanish-language affiliates; MVS Comunicaciones, founded by Joaquín Vargas Gómez, also operates MVS Noticias and previously owned Dish México; tagline "Aquí nomás" reinforces a populist, hometown identity, with shows such as "En Cabina con Laura G" and "El Show de la Mejor."
   sources: https://www.lamejor.com.mx/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-f8fb7eac-cc70-4e71-b56d-47ff892f9e85

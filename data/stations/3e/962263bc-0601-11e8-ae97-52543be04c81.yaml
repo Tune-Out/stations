@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-962263bc-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://provisioning.streamtheworld.com/pls/CSPANRADIO.pls'
-    url_resolved: 'http://26283.live.streamtheworld.com:3690/CSPANRADIO_SC'
-    codec: MP3
-    bitrate: 40
-  - url: 'https://provisioning.streamtheworld.com/pls/CSPANRADIO.pls'
-    url_resolved: 'http://26733.live.streamtheworld.com:3690/CSPANRADIO_SC'
-    codec: MP3
-    bitrate: 40
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +32,15 @@ research:
   format: Live coverage of US Congress, current affairs, news, and political programming
   notes: C-SPAN Radio (WCSP 90.1 FM) is the radio service of C-SPAN, a non-commercial, viewer-supported network. Provides gavel-to-gavel coverage of US House and Senate sessions and other government/political programming. Based in Washington, DC.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-962263bc-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://provisioning.streamtheworld.com/pls/CSPANRADIO.pls
+    url_resolved: http://26283.live.streamtheworld.com:3690/CSPANRADIO_SC
+    codec: MP3
+    bitrate: 40
+  - url: https://provisioning.streamtheworld.com/pls/CSPANRADIO.pls
+    url_resolved: http://26733.live.streamtheworld.com:3690/CSPANRADIO_SC
+    codec: MP3
+    bitrate: 40

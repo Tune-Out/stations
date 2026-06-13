@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-33bde13e-4078-435a-bc71-2b1ffa86cfb7
-duplicate_of: 6ad9e717-71a3-45d1-aace-277da9c7cf98
-streams:
-  - url: 'https://stream.bff.fm/1/mp3.mp3?_cacheBust=25312'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.bff.fm/1/mp3.mp3?_cacheBust=25055'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +28,14 @@ research:
   format: Community-supported internet radio; independent and alternative music programming
   notes: BFF.fm is a listener-supported, non-commercial internet radio station based in San Francisco. Known for independent, underground, and alternative music. Funded by listener contributions and grants. No commercial advertisements.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-33bde13e-4078-435a-bc71-2b1ffa86cfb7
+duplicate_of: 6ad9e717-71a3-45d1-aace-277da9c7cf98
+streams:
+  - url: https://stream.bff.fm/1/mp3.mp3?_cacheBust=25312
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.bff.fm/1/mp3.mp3?_cacheBust=25055
+    codec: MP3
+    bitrate: 128

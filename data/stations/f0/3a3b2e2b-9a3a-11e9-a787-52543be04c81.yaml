@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:14:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3a3b2e2b-9a3a-11e9-a787-52543be04c81
-streams:
-  - url: 'http://s16.myradiostream.com:5626/;'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://s16.myradiostream.com:5626/;'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Pop music and local programming
   notes: Local Italian radio station based in Taranto, Puglia region. Broadcasts pop music and serves the Taranto area with regional content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3a3b2e2b-9a3a-11e9-a787-52543be04c81
+  - iprd-it-radio-taranto-uno-b7df9a7f
+streams:
+  - url: http://s16.myradiostream.com:5626/;
+    codec: MP3
+    bitrate: 96
+  - url: https://s16.myradiostream.com:5626/;
+    codec: MP3
+    bitrate: 96

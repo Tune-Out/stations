@@ -1,7 +1,7 @@
 stationuuid: dfcaada2-84df-4606-b935-62fb380d148b
 name: MTM FM - Coonamble - 91.9 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2MTMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2MTMAAC.aac
+url: 'http://28803.live.streamtheworld.com:80/2MTMAAC.aac'
+url_resolved: 'http://28803.live.streamtheworld.com:80/2MTMAAC.aac'
 homepage: https://www.mtmfm.org.au/
 favicon: ""
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 06:48:55
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-dfcaada2-84df-4606-b935-62fb380d148b
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -36,3 +33,6 @@ research:
   format: Music, news, talk, community information
   notes: 91.9 FM community broadcaster serving Coonamble region in inland NSW
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-dfcaada2-84df-4606-b935-62fb380d148b

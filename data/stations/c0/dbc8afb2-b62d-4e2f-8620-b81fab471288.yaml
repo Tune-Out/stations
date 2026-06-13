@@ -1,7 +1,7 @@
 stationuuid: dbc8afb2-b62d-4e2f-8620-b81fab471288
 name: Newstalk ZB
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ
+url: 'https://28893.live.streamtheworld.com:443/NZME_01AAC/HLS/playlist.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ'
+url_resolved: 'https://28893.live.streamtheworld.com:443/NZME_01AAC/HLS/playlist.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ'
 homepage: https://www.newstalkzb.co.nz/
 favicon: https://imgs.search.brave.com/QjtEBTpORhVUY18YIpMVH0rjS2nn2AgtIe7sK-Hak4U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmlo/ZWFydC5jb20vdjMv/cmUvbmV3X2Fzc2V0/cy81ZmRiYTRlN2M1/MDYxN2Q0MDhiNjAx/YTI_b3BzPWZpdCg5/NjAsOTYwKSxyZXNp/emUoMCwzOTAp.jpeg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 00:15:22
 clickcount: 27
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-dbc8afb2-b62d-4e2f-8620-b81fab471288
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: News, current affairs, talkback hosting with focus on political and social commentary.
   notes: Newstalk ZB is a major New Zealand commercial radio station operated by NZME, streaming via iHeartRadio platform. Known for talkback format and hosts discussing current events and politics. Part of New Zealand's larger commercial media landscape. Branded as "legacy media" in registry, reflecting established traditional broadcasting presence.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-dbc8afb2-b62d-4e2f-8620-b81fab471288

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 0
 geo_lat: 28.48607385454248
 geo_long: -81.40319824218751
-curation: 0.35
-provenance:
-  - radiobrowser-2b92b863-e450-461f-b625-a2f5b4ac9496
-streams:
-  - url: 'https://www.subsonicradio.com:8443/background.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://www.subsonicradio.com:8443/requests.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Ambient and background music programming; relaxation and study-focused audio
   notes: SubSonic Radio operates from Florida, USA as an independent broadcaster. Specializes in "Background" ambient and relaxing music stream. Non-commercial model. Targets listeners seeking ambient audio for work, study, or relaxation. Modern streaming infrastructure. Independent operator outside major corporate radio structures.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-2b92b863-e450-461f-b625-a2f5b4ac9496
+streams:
+  - url: https://www.subsonicradio.com:8443/background.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://www.subsonicradio.com:8443/requests.mp3
+    codec: MP3
+    bitrate: 256

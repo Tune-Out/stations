@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:51:52
 clickcount: 3
 geo_lat: 55.064456136347935
 geo_long: 10.589489936828612
-curation: -0.05
-provenance:
-  - radiobrowser-f35d7138-3266-4865-981f-99762ca33b63
-streams:
-  - url: 'https://radio1.jfmtech.dk/diablo.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://radio1.jfmtech.dk/diablo.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Pop music, news, entertainment, talk programming
   notes: Danish commercial radio station. Broadcasts pop music along with news and entertainment content. Available online via AAC codec.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f35d7138-3266-4865-981f-99762ca33b63
+streams:
+  - url: https://radio1.jfmtech.dk/diablo.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://radio1.jfmtech.dk/diablo.aac
+    codec: AAC+
+    bitrate: 64

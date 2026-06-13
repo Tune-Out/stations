@@ -1,7 +1,7 @@
 stationuuid: b28c4ae1-da8e-433e-80d5-d9cf5647beee
 name: 2ST - Nowra - 91.7 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2STAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2STAAC.aac
+url: 'http://17843.live.streamtheworld.com:80/NOW_2STAAC.aac'
+url_resolved: 'http://17843.live.streamtheworld.com:80/NOW_2STAAC.aac'
 homepage: https://www.2st.com.au/
 favicon: https://i.ibb.co/9nM3Vnx/61ea4e2cad655b10105ec3a1.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:14:02
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b28c4ae1-da8e-433e-80d5-d9cf5647beee
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary music and community radio programming
   notes: Licensed 91.7 FM; community-focused station serving Shoalhaven region
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b28c4ae1-da8e-433e-80d5-d9cf5647beee

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:02:43
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-70846d7a-3de8-49cf-92ea-43795335191a
-streams:
-  - url: 'http://stream.radiomelodia.com.pe:8000/radio.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.radiomelodia.com.pe:8000/radio.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Dual-frequency broadcasting (FM and AM); music-focused with local news and talk elements (tags include cumbia peruana, salsa, local news, talks)
   notes: Commercial station with advertising operations; maintains mobile apps on both iOS (App Store) and Android (Google Play); operates separate phone lines for FM and AM with dedicated advertising contact
   sources: https://radiomelodia.com.pe/
+curation: -0.05
+provenance:
+  - radiobrowser-70846d7a-3de8-49cf-92ea-43795335191a
+streams:
+  - url: http://stream.radiomelodia.com.pe:8000/radio.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.radiomelodia.com.pe:8000/radio.mp3
+    codec: MP3
+    bitrate: 192

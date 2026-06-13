@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-6fb63a1e-732c-4612-9f4e-280e639edbc5
-streams:
-  - url: 'http://s5.onweb.gr:8488/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://s5.onweb.gr:8488/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Electronic dance music; house, deep house, techno, trance, EDM, electro, reggaeton
   notes: Internet radio station specializing in electronic dance music and clubbing culture. Strong association with nightlife and DJing scene. Streams contemporary electronic music programming.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-6fb63a1e-732c-4612-9f4e-280e639edbc5
+  - iprd-gr-cavo-paradiso-92ed58df
+streams:
+  - url: http://s5.onweb.gr:8488/
+    codec: MP3
+    bitrate: 128
+  - url: http://s5.onweb.gr:8488/;
+    codec: MP3
+    bitrate: 128

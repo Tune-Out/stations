@@ -1,7 +1,7 @@
 stationuuid: fe0df36a-448b-4311-a262-2ae54fbf3718
 name: Exa FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLX.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLX.mp3
+url: 'https://14223.live.streamtheworld.com:443/XHGLX.mp3'
+url_resolved: 'https://14223.live.streamtheworld.com:443/XHGLX.mp3'
 homepage: https://www.exafm.com/
 favicon: https://www.exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:08:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-fe0df36a-448b-4311-a262-2ae54fbf3718
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Pop and top 40 music
   notes: Part of the Exa communications network in Mexico. 128 kbps MP3 stream.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fe0df36a-448b-4311-a262-2ae54fbf3718

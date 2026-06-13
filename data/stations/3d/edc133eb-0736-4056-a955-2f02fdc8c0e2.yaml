@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 55
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-edc133eb-0736-4056-a955-2f02fdc8c0e2
-streams:
-  - url: 'https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state broadcaster
@@ -39,3 +29,14 @@ research:
   format: News, current affairs, and commentary radio programming in Arabic
   notes: Arabic-language audio service operated by Al Jazeera (الجزيرة), the Qatari state-funded international news network; streams via HLS from getaj.net infrastructure; focuses on news and current affairs coverage; accessible to Arabic-speaking audience globally; state-owned and state-funded broadcaster with international reach
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-edc133eb-0736-4056-a955-2f02fdc8c0e2
+  - iprd-qa-al-jazeera-876248e7
+streams:
+  - url: https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
+    codec: UNKNOWN
+    hls: true

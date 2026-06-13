@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 02:38:10
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-962a803f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/gorillafm_mobile_mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://strm112.1.fm/gorillafm_mobile_mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: Alternative rock, indie rock, progressive rock specialization
   notes: 1.FM operates a network of genre-specific internet radio stations from its Switzerland-based platform, though parent company is US-based SkyView Networks. Gorilla FM Radio is one of several music-focused channels on the 1.FM network. Provides high-bitrate streaming (320kbps) for rock genre enthusiasts.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-962a803f-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-gorilla-fm-radio-8c1cdc34
+  - iprd-ch-1-fm-gorilla-fm-eb27cd37
+streams:
+  - url: http://strm112.1.fm/gorillafm_mobile_mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://strm112.1.fm/gorillafm_mobile_mp3
+    codec: MP3
+    bitrate: 320

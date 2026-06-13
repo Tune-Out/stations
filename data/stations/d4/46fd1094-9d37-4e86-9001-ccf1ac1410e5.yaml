@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 02:01:25
 clickcount: 0
 geo_lat: 16.868659774369785
 geo_long: -99.89387887676168
-curation: -0.05
-provenance:
-  - radiobrowser-46fd1094-9d37-4e86-9001-ccf1ac1410e5
-streams:
-  - url: 'https://ss1.audiorama.com.mx:6608/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ss1.audiorama.com.mx:6608/super'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,15 @@ research:
   format: Pop, Latin pop, regional Mexican music, Top 40, entertainment
   notes: SUPER (XHNU-FM) is a commercial radio station on 94.5 FM in Acapulco, Guerrero, Mexico. Part of Grupo Audiorama Comunicaciones network. Contemporary hit radio and Latin pop format targeting youth demographics.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-46fd1094-9d37-4e86-9001-ccf1ac1410e5
+  - iprd-mx-super-94-5-xhnu-50c43760
+  - iprd-mx-la-bestia-grupera-95-3-xhevp-9862742b
+streams:
+  - url: https://ss1.audiorama.com.mx:6608/
+    codec: MP3
+    bitrate: 128
+  - url: https://ss1.audiorama.com.mx:6608/super
+    codec: MP3
+    bitrate: 128

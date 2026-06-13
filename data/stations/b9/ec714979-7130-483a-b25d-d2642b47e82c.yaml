@@ -1,6 +1,6 @@
 stationuuid: ec714979-7130-483a-b25d-d2642b47e82c
 name: One FM 91.3
-url: https://playerservices.streamtheworld.com/pls/ONE_FM_913AAC.pls
+url: 'https://28153.live.streamtheworld.com:443/ONE_FM_913AAC_SC'
 url_resolved: https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC
 homepage: https://www.onefm.sg/
 favicon: https://cdn.webrad.io/images/logos/radiosingapore-org/one-fm.png
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ec714979-7130-483a-b25d-d2642b47e82c
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -31,3 +28,7 @@ research:
   format: English contemporary music, hits, entertainment
   notes: One FM is part of MediaCorp's English radio service; Singapore's radio is dominated by state-linked MediaCorp
   sources: https://www.onefm.sg/
+curation: 0.35
+provenance:
+  - radiobrowser-ec714979-7130-483a-b25d-d2642b47e82c
+  - iprd-sg-one-fm-91-3-1f4a2422

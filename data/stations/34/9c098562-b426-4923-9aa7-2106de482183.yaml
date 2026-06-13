@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9c098562-b426-4923-9aa7-2106de482183
-streams:
-  - url: 'https://nl4.mystreaming.net/er/peteseeger/icecast.audio'
-    codec: MP3
-  - url: 'http://2.mystreaming.net/er/peteseeger/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -37,3 +29,11 @@ research:
   format: 24/7 folk/Americana curated around Pete Seeger repertoire and era
   notes: Dedicated tribute stream to American folk icon Pete Seeger; Seeger (1919–2014) was a legendary folk singer-songwriter and activist. You.Radio operates as a streaming platform hosting themed music channels.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9c098562-b426-4923-9aa7-2106de482183
+streams:
+  - url: https://nl4.mystreaming.net/er/peteseeger/icecast.audio
+    codec: MP3
+  - url: http://2.mystreaming.net/er/peteseeger/icecast.audio
+    codec: MP3

@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-9613b7b7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://wdr-1live-planb.icecast.wdr.de/wdr/1live/planb/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://wdr-1live-specials.icecast.wdr.de/wdr/1live/specials/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -47,3 +31,20 @@ research:
   format: "1LIVE Plan B variant of 1LIVE: Top 40 pop, contemporary hits, music shows, comedy, news, podcasts, and audio drama programming 24/7."
   notes: "Part of WDR's 1LIVE channel, described as \"unconventional radio: provocative, different, and always in motion.\" Plan B is a thematic variant. Modeled on BBC Radio 1. Based in Cologne (Köln). Contact: 0049 221 567 89; 1live@wdr.de. Broadcasts pop and youth-oriented programming in German. Available on multiple FM frequencies across NRW."
   sources: TuneIn, Streema, Wikipedia (WDR)
+curation: 0.75
+provenance:
+  - radiobrowser-9613b7b7-0601-11e8-ae97-52543be04c81
+  - iprd-de-wdr-1live-plan-b-fc3634ed
+streams:
+  - url: http://wdr-1live-planb.icecast.wdr.de/wdr/1live/planb/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://wdr-1live-specials.icecast.wdr.de/wdr/1live/specials/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 02:15:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-f464d25d-3678-4a4b-aae3-a638129eddd5
-streams:
-  - url: 'http://stream.zeno.fm/vxr78nb51k8uv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/vxr78nb51k8uv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +33,11 @@ research:
   format: Blues, country, and folk music
   notes: Australian community radio station in Melbourne specializing in blues, country, and folk music. Community-operated programming serving the local music enthusiast audience.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-f464d25d-3678-4a4b-aae3-a638129eddd5
+streams:
+  - url: http://stream.zeno.fm/vxr78nb51k8uv
+    codec: MP3
+  - url: https://stream.zeno.fm/vxr78nb51k8uv
+    codec: MP3

@@ -1,7 +1,7 @@
 stationuuid: 7475bc1e-2095-4a38-b648-71980817c73d
 name: Smooth Vintage Australia (AAC+ 128k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128.aac
+url: 'http://23193.live.streamtheworld.com:80/SMOOTHVINTAGE_SYD_AAC128.aac'
+url_resolved: 'http://23193.live.streamtheworld.com:80/SMOOTHVINTAGE_SYD_AAC128.aac'
 homepage: https://smooth.com.au/station/smoothvintage
 favicon: https://i.ibb.co/0hqCjWF/smoothvintage.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:51:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7475bc1e-2095-4a38-b648-71980817c73d
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Oldies and vintage music format, 24/7 programming
   notes: Part of Smooth's digital and streaming music channels, featuring hits from earlier decades. Smooth is a major Australian commercial radio brand.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7475bc1e-2095-4a38-b648-71980817c73d

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 0
 geo_lat: 47.088076832429174
 geo_long: 19.204101562500004
-curation: 0.35
-provenance:
-  - radiobrowser-ea8630b1-1029-4cb4-af01-f69ededbb966
-streams:
-  - url: 'http://stream.radio.co/s3fd8d173f/listen'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.radio.co/s3fd8d173f/listen'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: religious
@@ -42,3 +32,14 @@ research:
   format: Christian teaching, religious music, and cultural programming
   notes: Operated by evangelical Christian foundation. Focus on Protestant Christian ministry and community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ea8630b1-1029-4cb4-af01-f69ededbb966
+  - iprd-hu-mera-95f70717
+streams:
+  - url: http://stream.radio.co/s3fd8d173f/listen
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.radio.co/s3fd8d173f/listen
+    codec: MP3
+    bitrate: 128

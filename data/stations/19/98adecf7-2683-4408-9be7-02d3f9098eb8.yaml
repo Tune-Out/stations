@@ -23,33 +23,6 @@ lastchangetime: 2026-01-15 04:47:54
 clickcount: 448
 geo_lat: null
 geo_long: null
-curation: 0.90
-provenance:
-  - radiobrowser-98adecf7-2683-4408-9be7-02d3f9098eb8
-streams:
-  - url: 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8'
-    codec: AAC+
-    bitrate: 101
-    hls: true
-  - url: 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8'
-    codec: AAC+
-    bitrate: 50
-    hls: true
-  - url: 'http://stream.live.vc.bbcmedia.co.uk/bbc_world_service'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service'
-    codec: MP3
-    bitrate: 56
-  - url: 'http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660&h=f8bc47f18c4b24de16cf2efa7951f91d'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia'
-    codec: MP3
-    bitrate: 56
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d128000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -59,3 +32,64 @@ research:
   format: 24-hour international news, current affairs, analysis, documentaries, business and culture programming in English
   notes: Founded 1932 as the BBC Empire Service; renamed BBC World Service in 1965. Broadcasts to an estimated 300+ million weekly listeners worldwide across all languages, making it the largest international broadcaster. Distributed via shortwave (historically), FM relays, partner stations, satellite and online. Known for flagship programs such as "Newshour", "World Business Report" and "The Documentary".
   sources: internal knowledge only (homepage fetch blocked)
+curation: 0.6
+provenance:
+  - radiobrowser-98adecf7-2683-4408-9be7-02d3f9098eb8
+  - iprd-gb-bbc-world-service-2ca27772
+  - iprd-gb-bbc-world-service-east-asia-282e87f5
+  - iprd-gb-bbc-radio-cornwall-74df9012
+  - iprd-gb-bbc-radio-coventry-warwickshire-c9934549
+  - iprd-gb-bbc-radio-cumbria-a99ab6d9
+  - iprd-gb-bbc-radio-derby-dc3095d1
+  - iprd-gb-bbc-radio-essex-366aa444
+  - iprd-gb-bbc-radio-gloucestershire-23f34ba5
+  - iprd-gb-bbc-radio-guernsey-78325436
+  - iprd-gb-bbc-radio-hereford-worcester-af768cdb
+  - iprd-gb-bbc-radio-humberside-8de6fd55
+  - iprd-gb-bbc-radio-jersey-170af62c
+  - iprd-gb-bbc-radio-kent-7147cbf7
+  - iprd-gb-bbc-radio-lancashire-3a172088
+  - iprd-gb-bbc-radio-leicester-eeb018db
+  - iprd-gb-bbc-radio-lincolnshire-a505daff
+  - iprd-gb-bbc-radio-manchester-c33e65ba
+  - iprd-gb-bbc-radio-merseyside-56f07d38
+  - iprd-gb-bbc-radio-newcastle-13965aaf
+  - iprd-gb-bbc-radio-norfolk-9d501bb1
+  - iprd-gb-bbc-radio-oxford-d8321e4f
+  - iprd-gb-bbc-radio-scotland-fm-0e558cd1
+  - iprd-gb-bbc-radio-scotland-mw-a5d30b7a
+  - iprd-gb-bbc-radio-sheffield-a8988b6e
+  - iprd-gb-bbc-radio-shropshire-81f00179
+  - iprd-gb-bbc-radio-solent-west-dorset-d33c10dd
+  - iprd-gb-bbc-radio-somerset-sound-cb01dfca
+  - iprd-gb-bbc-radio-stoke-9c8dad80
+  - iprd-gb-bbc-radio-suffolk-ad3d3085
+  - iprd-gb-bbc-radio-surrey-1cdb4e05
+  - iprd-gb-bbc-radio-sussex-6bb6a6dc
+  - iprd-gb-bbc-radio-wiltshire-12b3c915
+  - iprd-gb-bbc-radio-wm-c529ca54
+  - iprd-gb-bbc-radio-york-ee237295
+streams:
+  - url: http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+    codec: AAC+
+    bitrate: 101
+    hls: true
+  - url: http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
+    codec: AAC+
+    bitrate: 50
+    hls: true
+  - url: http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+    codec: MP3
+    bitrate: 56
+  - url: https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+    codec: MP3
+    bitrate: 56
+  - url: http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660&h=f8bc47f18c4b24de16cf2efa7951f91d
+    codec: MP3
+    bitrate: 56
+  - url: https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
+    codec: MP3
+    bitrate: 56
+  - url: http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d128000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true

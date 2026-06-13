@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-14b0fe6c-eddf-411a-8cee-3c100da950fc
-streams:
-  - url: 'http://79.111.14.76:8000/drumbass'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.14.76:8002/drumbass'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,16 @@ research:
   format: Drum 'n' bass, drum and bass electronic music
   notes: Russian commercial internet radio station specializing in electronic music. Radio Caprice offers multiple specialized genre channels; this is the Drum 'n' Bass channel at 320 kbps AAC+.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-14b0fe6c-eddf-411a-8cee-3c100da950fc
+  - iprd-ru-radio-caprice-drum-n-bass-bc612522
+  - iprd-ru-radio-caprice-drum-n-bass-80bcaaeb
+  - iprd-ru-radio-caprice-drum-n-bass-771f46b4
+streams:
+  - url: http://79.111.14.76:8000/drumbass
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.14.76:8002/drumbass
+    codec: AAC+
+    bitrate: 48

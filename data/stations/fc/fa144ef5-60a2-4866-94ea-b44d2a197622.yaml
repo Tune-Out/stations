@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: 53.38591525798995
 geo_long: -6.188130969880772
-curation: 0.35
-provenance:
-  - radiobrowser-fa144ef5-60a2-4866-94ea-b44d2a197622
-streams:
-  - url: 'http://stream11.shoutcastsolutions.com:8114/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://nearfm-radiohosting.radioca.st/stream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://vdo.ssl-stream.com:3550/live/nearfmlive.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +30,17 @@ research:
   format: Community radio; music, local news, community information, Irish language programming
   notes: NEAR FM is a licensed community radio station on the Dublin Northside; operates as cooperative; focuses on local identity and accessibility
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-fa144ef5-60a2-4866-94ea-b44d2a197622
+  - iprd-ie-near-90-3-fm-360ee56c
+streams:
+  - url: http://stream11.shoutcastsolutions.com:8114/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://nearfm-radiohosting.radioca.st/stream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://vdo.ssl-stream.com:3550/live/nearfmlive.m3u8
+    codec: UNKNOWN
+    hls: true

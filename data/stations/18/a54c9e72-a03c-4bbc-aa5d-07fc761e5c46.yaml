@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a54c9e72-a03c-4bbc-aa5d-07fc761e5c46
-streams:
-  - url: 'https://stream.89.0rtl.de/chill-zone/mp3-256'
-    codec: MP3
-  - url: 'http://stream.89.0rtl.de/chill-zone/mp3-256'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Relaxed pop, chill-out, smooth music
   notes: German commercial FM station at 89.0 MHz RTL. Chill-Zone is a dedicated stream offering relaxed, easy-listening pop and chill music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a54c9e72-a03c-4bbc-aa5d-07fc761e5c46
+streams:
+  - url: https://stream.89.0rtl.de/chill-zone/mp3-256
+    codec: MP3
+  - url: http://stream.89.0rtl.de/chill-zone/mp3-256
+    codec: MP3

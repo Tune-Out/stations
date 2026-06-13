@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:29:13
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-2244f473-7973-466e-9da3-2b35ac7c9f99
-streams:
-  - url: 'https://edge62.streamonkey.net/energy-digital/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://edge60.streamonkey.net/energy-digital/stream/mp3?aggregator=energyde&aw_0_1st.appregator=energyde'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Contemporary hit radio (CHR) — current pop, dance, RnB and Afrobeats; tagline "Hit Music Only!" with the on-site promise "100% echte Menschen – Keine KI Stimmen"
   notes: ENERGY Germany is the local branding of the international NRJ Group (founded 1981 in Paris by Jean-Paul Baudecroux), a major European commercial radio group operating Energy/NRJ-branded stations in France, Germany, Switzerland, Austria, Belgium, Sweden, Norway, Denmark and the Baltics; in Germany it broadcasts on FM in major cities (e.g., 103.4 Berlin, 97.1 Hamburg, 93.3 Munich) plus DAB+ and online; targets a young audience with a strict hit-music rotation and event/festival sponsorships
   sources: https://www.energy.de/, internal knowledge
+curation: -0.1
+provenance:
+  - radiobrowser-2244f473-7973-466e-9da3-2b35ac7c9f99
+streams:
+  - url: https://edge62.streamonkey.net/energy-digital/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://edge60.streamonkey.net/energy-digital/stream/mp3?aggregator=energyde&aw_0_1st.appregator=energyde
+    codec: MP3
+    bitrate: 128

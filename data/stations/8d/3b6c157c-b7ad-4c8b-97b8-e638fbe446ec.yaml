@@ -1,7 +1,7 @@
 stationuuid: 3b6c157c-b7ad-4c8b-97b8-e638fbe446ec
 name: FM del Lago 92.1
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/FM921_56.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/FM921_56.mp3
+url: 'https://27573.live.streamtheworld.com:443/FM921_56.mp3'
+url_resolved: 'https://27573.live.streamtheworld.com:443/FM921_56.mp3'
 homepage: https://ar.cienradios.com/player/del-lago/
 favicon: "https://static-media.streema.com/media/cache/d1/2c/d12ce78cd1655e398d54308ff93a73bb.jpg "
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 05:17:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-3b6c157c-b7ad-4c8b-97b8-e638fbe446ec
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Classic hits, 80s/90s/2000s music, flashback programming
   notes: Part of Cien Radios streaming network offering retro and classic hit formatting. Available via StreamTheWorld platform.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-3b6c157c-b7ad-4c8b-97b8-e638fbe446ec

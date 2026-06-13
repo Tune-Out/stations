@@ -1,7 +1,7 @@
 stationuuid: e8411d85-31e7-48e5-9afc-7bc7237e676d
 name: OYE 89.7 (CDMX) - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de México
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
+url: 'http://18863.live.streamtheworld.com:80/XEOYEFMAAC.aac'
+url_resolved: 'http://18863.live.streamtheworld.com:80/XEOYEFMAAC.aac'
 homepage: https://oyedigital.mx/
 favicon: https://cdn-profiles.tunein.com/s47689/images/logod.jpg
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 02:32:41
 clickcount: 0
 geo_lat: 19.368471090773248
 geo_long: -99.26712065935138
-curation: -0.05
-provenance:
-  - radiobrowser-e8411d85-31e7-48e5-9afc-7bc7237e676d
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: pop, top 40, hits, entertainment in Spanish and English
   notes: Commercial FM station (89.7 FM) licensed in Mexico City. Broadcasts pop music, top 40 hits, and entertainment programming to metropolitan Mexico City area. Call sign XEOYE-FM.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e8411d85-31e7-48e5-9afc-7bc7237e676d

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-14 23:24:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-74d289bb-04b0-4f8b-b9b7-69a2eef8858f
-streams:
-  - url: 'https://stream.zeno.fm/7ans8mgv2ehvv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/fxzt1r5rp2zuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Baladas en español (Spanish ballads), música romántica (romantic music), love songs
   notes: Spanish-language station hosted on Zeno.fm streaming platform. Specializes in romantic ballads and love songs from Latin America. Station name "Baladas Rs" likely references romantic style.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-74d289bb-04b0-4f8b-b9b7-69a2eef8858f
+streams:
+  - url: https://stream.zeno.fm/7ans8mgv2ehvv
+    codec: MP3
+  - url: https://stream.zeno.fm/fxzt1r5rp2zuv
+    codec: MP3

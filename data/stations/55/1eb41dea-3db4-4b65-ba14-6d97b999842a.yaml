@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 04:36:25
 clickcount: 23
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-1eb41dea-3db4-4b65-ba14-6d97b999842a
-streams:
-  - url: 'https://stream.wehouseradio.com/stream/3/'
-    url_resolved: 'https://icecast9.play.cz/zun48.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream.wehouseradio.com/stream/1/'
-    url_resolved: 'https://icecast9.play.cz/zun192.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +32,17 @@ research:
   format: House music specialist (funky house, jackin house, nu-disco, soulful house, tech house)
   notes: Homepage redirects to zunradio.cz; operates stream infrastructure via Czech provider. Curated house music format with dedicated listenership.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-1eb41dea-3db4-4b65-ba14-6d97b999842a
+  - iprd-cz-we-house-radio-a180abbc
+  - iprd-cz-we-house-radio-22a9bfd0
+streams:
+  - url: https://stream.wehouseradio.com/stream/3/
+    url_resolved: https://icecast9.play.cz/zun48.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream.wehouseradio.com/stream/1/
+    url_resolved: https://icecast9.play.cz/zun192.mp3
+    codec: MP3
+    bitrate: 192

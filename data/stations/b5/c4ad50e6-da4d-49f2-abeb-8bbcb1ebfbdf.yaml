@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-c4ad50e6-da4d-49f2-abeb-8bbcb1ebfbdf
-streams:
-  - url: 'http://79.120.39.202:9095/'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.39.202:8002/darkambient'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Industrial, dark ambient, drone, ritual ambient music; niche electronic formats
   notes: Russian internet radio specializing in atmospheric and experimental electronic music; channels for dark ambient, industrial, drone genres; high-bitrate streaming (320kbps); serves underground electronic music community
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-c4ad50e6-da4d-49f2-abeb-8bbcb1ebfbdf
+  - iprd-ru-radio-caprice-industrial-dark-ritual-ambient-82bf31b3
+streams:
+  - url: http://79.120.39.202:9095/
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.39.202:8002/darkambient
+    codec: AAC+
+    bitrate: 48

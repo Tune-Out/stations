@@ -21,24 +21,6 @@ lastchangetime: 2026-01-14 23:28:27
 clickcount: 19
 geo_lat: 48.1776994
 geo_long: 16.2877707
-curation: 0.70
-provenance:
-  - radiobrowser-8a3685e2-711e-4764-9080-6fa143c33014
-streams:
-  - url: 'https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8'
-    codec: AAC
-    bitrate: 300
-    hls: true
-  - url: 'https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8'
-    codec: AAC
-    bitrate: 134
-    hls: true
-  - url: 'http://orf-live.ors-shoutcast.at/wie-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://orf-live.ors-shoutcast.at/wie-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -48,3 +30,23 @@ research:
   format: Vienna's ORF regional public radio (one of nine federal-state "ORF Landesstudio" stations) — adult contemporary music, local news, traffic, regional culture, sports, and lifestyle programming
   notes: Radio Wien is ORF's Vienna regional channel, part of the nine "Bundesland" ORF radio stations branded as "ORF Regionalradio" (Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg and Wien); ORF was established in its modern form by the Broadcasting Act of 1974, granting it public-service status, editorial independence and a constitutional remit; the broadcaster has faced periodic political criticism over alleged government influence on its governance board (Stiftungsrat), but its independence is constitutionally protected.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-8a3685e2-711e-4764-9080-6fa143c33014
+  - iprd-at-orf-radio-wien-45ddeb9f
+  - iprd-at-orf-radio-wien-462a2e4b
+streams:
+  - url: https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8
+    codec: AAC
+    bitrate: 300
+    hls: true
+  - url: https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8
+    codec: AAC
+    bitrate: 134
+    hls: true
+  - url: http://orf-live.ors-shoutcast.at/wie-q2a
+    codec: MP3
+    bitrate: 192
+  - url: http://orf-live.ors-shoutcast.at/wie-q1a
+    codec: MP3
+    bitrate: 128

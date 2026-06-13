@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:32:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-82bab6ae-a56f-4118-a733-2b7a6112624e
-streams:
-  - url: 'http://listen.replay.fm/tunein-aac-hd'
-    codec: AAC
-    bitrate: 256
-  - url: 'http://listen.housetime.fm/tunein-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,17 @@ research:
   format: Nostalgia and eurodance music station focused on 1990s hits
   notes: Founded to serve listeners seeking high-quality streams of 90s and eurodance music; primarily ad-supported.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-82bab6ae-a56f-4118-a733-2b7a6112624e
+  - iprd-de-replay-fm-dc17bc12
+  - iprd-de-replay-fm-d23f6f0a
+  - iprd-de-replay-fm-ad00d751
+  - iprd-de-replay-fm-94cb2b9e
+streams:
+  - url: http://listen.replay.fm/tunein-aac-hd
+    codec: AAC
+    bitrate: 256
+  - url: http://listen.housetime.fm/tunein-mp3
+    codec: MP3
+    bitrate: 192

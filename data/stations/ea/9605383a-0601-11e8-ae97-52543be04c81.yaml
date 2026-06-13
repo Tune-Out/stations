@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:49:44
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-9605383a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://media-the.musicradio.com/RadioXLondon'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://media-the.musicradio.com/RadioXLondonMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Rock and guitar-based music — independent and alternative rock, indie, classic rock, with music news, artist interviews, live sessions, and ticket information
   notes: Radio X is a commercial FM and DAB station with multiple regional services (London, Manchester, and nationwide UK service); launched in 2014 by Music Radio Ltd (now part of Global Media); positions itself as the UK's rock and independent music station with strong focus on emerging and established rock artists; features shows from well-known radio presenters and runs festivals and concert promotions; tagline "Get Into The Music."
   sources: https://www.radiox.co.uk/
+curation: 0.25
+provenance:
+  - radiobrowser-9605383a-0601-11e8-ae97-52543be04c81
+  - iprd-gb-radio-x-london-410b8388
+  - iprd-gb-radio-x-london-acb4bfec
+streams:
+  - url: http://media-the.musicradio.com/RadioXLondon
+    codec: AAC
+    bitrate: 48
+  - url: http://media-the.musicradio.com/RadioXLondonMP3
+    codec: MP3
+    bitrate: 128

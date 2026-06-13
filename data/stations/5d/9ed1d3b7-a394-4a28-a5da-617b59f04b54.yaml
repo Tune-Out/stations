@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9ed1d3b7-a394-4a28-a5da-617b59f04b54
-streams:
-  - url: 'https://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: R&B, slow jam, soul, and Caribbean music format (Générations R&B)
   notes: Part of Karib Chebdo media network; focuses on R&B and Caribbean music heritage; serves diaspora communities; promotes Black music culture; operates from France
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9ed1d3b7-a394-4a28-a5da-617b59f04b54
+  - iprd-fr-generations-r-b-1d738d1d
+streams:
+  - url: https://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac
+    codec: AAC+
+    bitrate: 64

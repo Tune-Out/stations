@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 08:25:40
 clickcount: 12
 geo_lat: 53.336777397085555
 geo_long: -6.289672851562501
-curation: -0.05
-provenance:
-  - radiobrowser-9cd72f5e-5395-4c61-a9a3-923a70cbffcb
-streams:
-  - url: 'https://wg.cdn.tibus.net/fm104MP3128'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://onic.dublin.live.stream.broadcasting.news/stream-fm104'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,17 @@ research:
   format: Contemporary hit radio / pop, hip-hop and R&B with comedy-driven breakfast and drive shows
   notes: FM104 launched in 1989 as one of Ireland's first independent commercial local radio stations, broadcasting on 104.4 MHz across Dublin city and county; long-running flagship show "The Strawberry Alarm Clock" breakfast programme has been a Dublin radio institution; presenters have included Adrian Kennedy, Jeremy Dixon, Ray Foley, Dave Moore, Doireann Garrihy and Sue Walsh; the station was owned by Communicorp (Denis O'Brien) from 2007 to 2021, then sold to Bauer Media Audio Ireland alongside sister stations 98FM, Today FM, Spin 1038 and Newstalk; one of the most-listened-to commercial stations in Dublin with regular JNLR audience figures of 130,000+ weekly listeners; homepage was unreachable via WebFetch.
   sources: https://www.fm104.ie/ (fetch failed), internal knowledge of Irish broadcasting
+curation: -0.05
+provenance:
+  - radiobrowser-9cd72f5e-5395-4c61-a9a3-923a70cbffcb
+  - iprd-ie-fm104-6c30e51c
+streams:
+  - url: https://wg.cdn.tibus.net/fm104MP3128
+    codec: AAC
+    bitrate: 128
+  - url: https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417
+    codec: AAC
+    bitrate: 128
+  - url: https://onic.dublin.live.stream.broadcasting.news/stream-fm104
+    codec: AAC
+    bitrate: 128

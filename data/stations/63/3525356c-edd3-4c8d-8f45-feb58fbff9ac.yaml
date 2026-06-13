@@ -1,7 +1,7 @@
 stationuuid: 3525356c-edd3-4c8d-8f45-feb58fbff9ac
 name: Sky Radio Nice & Easy
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3
+url: 'http://22603.live.streamtheworld.com:80/SRGSTR07.mp3'
+url_resolved: 'http://22603.live.streamtheworld.com:80/SRGSTR07.mp3'
 homepage: https://www.skyradio.nl/sky-radio-nice-en-easy
 favicon: ""
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:05:57
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-3525356c-edd3-4c8d-8f45-feb58fbff9ac
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,15 @@ research:
   format: Relaxing hits, soft contemporary music, non-stop format
   notes: Sky Radio is a major Dutch commercial broadcaster part of the RTL Group. "Nice & Easy" is a soft music strand.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-3525356c-edd3-4c8d-8f45-feb58fbff9ac
+  - iprd-nl-sky-radio-101-382bff1d
+  - iprd-nl-sky-radio-101-c50ca49e
+  - iprd-nl-sky-radio-80-s-hits-5964afad
+  - iprd-nl-sky-radio-90-s-hits-0a1a192f
+  - iprd-nl-sky-radio-christmas-112efe49
+  - iprd-nl-sky-radio-hits-52d12c5b
+  - iprd-nl-sky-radio-lounge-362e5b79
+  - iprd-nl-sky-radio-lovesongs-fb4b436f
+  - iprd-nl-sky-radio-smooth-hits-aba00494

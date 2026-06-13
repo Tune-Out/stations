@@ -1,7 +1,7 @@
 stationuuid: 974b7576-d06d-44cc-a44c-2f7c387add31
 name: 97.3fm Brisbane
 url: https://ais-arn.streamguys1.com/au_011_icy
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FMAAC.aac
+url_resolved: 'https://23203.live.streamtheworld.com:443/ARN_973FMAAC.aac'
 homepage: https://www.973fm.com.au/
 favicon: https://www.973fm.com.au/wp-content/themes/arn/assets/favicons/favicon_973/apple-touch-icon.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:00:57
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-974b7576-d06d-44cc-a44c-2f7c387add31
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Hit music, entertainment, and talk content with morning and drive-time shows
   notes: ARN-owned station (now part of SCA via acquisition). KIIS 973 is one of Australia's leading commercial FM stations in Brisbane market. Hosts popular morning show, podcast content, and competitions.
   sources: https://kiis973.com.au/
+curation: -0.05
+provenance:
+  - radiobrowser-974b7576-d06d-44cc-a44c-2f7c387add31
+  - iprd-au-kiis-97-3-28c842d8

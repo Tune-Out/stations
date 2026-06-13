@@ -1,7 +1,7 @@
 stationuuid: de96827c-1f4b-4506-9e41-67d0dd35fbc7
 name: La Mejor Los Cabos 89.9/102.3 FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCAB.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCAB.mp3
+url: 'https://18243.live.streamtheworld.com:443/XHCCAB.mp3'
+url_resolved: 'https://18243.live.streamtheworld.com:443/XHCCAB.mp3'
 homepage: https://tunein.com/radio/La-Mejor-1023-FM-Cabo-San-Lucas-s335567/?lang=es
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-de96827c-1f4b-4506-9e41-67d0dd35fbc7
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Regional Mexican music (banda, norteña, grupera, mariachi, cumbias)
   notes: Mexican commercial radio station La Mejor broadcasting on 89.9 and 102.3 FM from Cabo San Lucas, Los Cabos area in Baja California Sur. Specializes in regional Mexican music formats including banda norteña, grupera, and traditional mariachi.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-de96827c-1f4b-4506-9e41-67d0dd35fbc7

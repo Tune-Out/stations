@@ -26,17 +26,6 @@ lastchangetime: 2026-02-10 10:32:01
 clickcount: 2
 geo_lat: 51.93415117875371
 geo_long: 4.273405207054046
-curation: 0.50
-provenance:
-  - radiobrowser-f2d6592f-8767-4d6d-881d-0fb3103687f1
-streams:
-  - url: 'https://mixperfectradio.nl:9443/stream'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://mixperfectradio.nl/mixperfectradio.m3u'
-    url_resolved: 'https://mixperfectradio.nl:9443/stream'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +35,14 @@ research:
   format: 24/7 live-mixed Italo disco, eurodance, eurobeat, and Hi-NRG from the 80s and 90s; seamless, beat-matched transitions using custom MixPerfect Player software.
   notes: MixPerfect Radio is an independent, non-commercial internet radio station based in the Netherlands. Streams ad-free, continuously mixed DJ sets of Italo and Euro dance classics. All music is live mixed in real-time with custom software providing beat-matched, seamless transitions. Created as a passion project for fans of 80s-90s eurodance genres.
   sources: https://mixperfectradio.nl/
+curation: 0.5
+provenance:
+  - radiobrowser-f2d6592f-8767-4d6d-881d-0fb3103687f1
+streams:
+  - url: https://mixperfectradio.nl:9443/stream
+    codec: AAC+
+    bitrate: 128
+  - url: https://mixperfectradio.nl/mixperfectradio.m3u
+    url_resolved: https://mixperfectradio.nl:9443/stream
+    codec: AAC+
+    bitrate: 128

@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 04:19:22
 clickcount: 0
 geo_lat: 49.478164862539174
 geo_long: 8.422190368099942
-curation: 0.30
-provenance:
-  - radiobrowser-eca0ee0f-3ea9-4487-a2cc-866f9c0925f5
-streams:
-  - url: 'https://stream.rpr1.de/80errock/mp3-128/radiobrowser'
-    codec: MP3
-  - url: 'https://streams.rpr1.de/rpr-80errock-128-mp3?usid=0-0-H-M-D-60'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,12 @@ research:
   format: Specialized 1980s rock music programming
   notes: German commercial broadcaster specializing in 1980s rock music; part of RPR1. network in Rheinland-Pfalz; available via streaming and terrestrial FM
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-eca0ee0f-3ea9-4487-a2cc-866f9c0925f5
+  - iprd-de-rpr1-80er-rock-1dd69f2f
+streams:
+  - url: https://stream.rpr1.de/80errock/mp3-128/radiobrowser
+    codec: MP3
+  - url: https://streams.rpr1.de/rpr-80errock-128-mp3?usid=0-0-H-M-D-60
+    codec: MP3

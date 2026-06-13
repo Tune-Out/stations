@@ -1,7 +1,7 @@
 stationuuid: de9a7b99-25d8-4a1a-af34-fe8d9c932b58
 name: Nova 100 - Melbourne - 100.3 FM (AAC+ 48k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC48.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC48.aac
+url: 'http://28803.live.streamtheworld.com:80/NOVA_100_AAC48.aac'
+url_resolved: 'http://28803.live.streamtheworld.com:80/NOVA_100_AAC48.aac'
 homepage: https://www.novafm.com.au/melbourne
 favicon: https://i.ibb.co/b2WSdxp/Brand-Tile-N100.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 00:05:50
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-de9a7b99-25d8-4a1a-af34-fe8d9c932b58
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Commercial FM 100.3; adult contemporary, Top 40, and pop music format.
   notes: Nova 100 is a major commercial FM station in Melbourne, part of Nova Entertainment's network across Australian cities.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-de9a7b99-25d8-4a1a-af34-fe8d9c932b58

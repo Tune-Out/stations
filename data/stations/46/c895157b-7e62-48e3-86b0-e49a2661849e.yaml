@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 05:19:36
 clickcount: 0
 geo_lat: 52.22848286680589
 geo_long: 21.000366210937504
-curation: 0.20
-provenance:
-  - radiobrowser-c895157b-7e62-48e3-86b0-e49a2661849e
-streams:
-  - url: 'http://217.74.72.10/rmf_piosenka_filmowa'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.rmfon.pl/n/rmfpiosenkafilmowa.pls'
-    url_resolved: 'https://rs201-krk.rmfstream.pl/rmf_piosenka_filmowa'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: Film songs and soundtrack classics; themed channel within RMF ON platform
   notes: Part of RMF's digital radio portfolio, alongside RMF FM, RMF MAXX, and RMF Classic. RMF is one of Poland's major commercial media groups; RMF ON offers free ad-supported streaming with premium (ad-free) option. "Piosenka Filmowa" (Film Song) is a specialty subchannel focusing on music from films and theatrical scores.
   sources: https://www.rmfon.pl/, internal knowledge
+curation: 0.2
+provenance:
+  - radiobrowser-c895157b-7e62-48e3-86b0-e49a2661849e
+streams:
+  - url: http://217.74.72.10/rmf_piosenka_filmowa
+    codec: MP3
+    bitrate: 128
+  - url: http://www.rmfon.pl/n/rmfpiosenkafilmowa.pls
+    url_resolved: https://rs201-krk.rmfstream.pl/rmf_piosenka_filmowa
+    codec: MP3
+    bitrate: 128

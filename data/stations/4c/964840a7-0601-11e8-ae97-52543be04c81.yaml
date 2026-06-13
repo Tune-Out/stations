@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 03:48:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-964840a7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ice7.securenetsystems.net/WMKVFM'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://ice7.securenetsystems.net/WMKVFM'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,15 @@ research:
   format: adult standards, big band, radio drama, comedy; vintage/nostalgic programming
   notes: Public radio station on 89.3 FM serving Reading, Ohio area near Cincinnati; emphasis on classic radio drama, big band, and adult standards appealing to mature audiences; community-oriented public broadcaster
   sources: https://www.wmkvfm.org/
+curation: 0.55
+provenance:
+  - radiobrowser-964840a7-0601-11e8-ae97-52543be04c81
+  - iprd-us-wmkv-89-3-da1c436e
+  - iprd-us-wmkv-89-3-56e7de75
+streams:
+  - url: http://ice7.securenetsystems.net/WMKVFM
+    codec: AAC+
+    bitrate: 48
+  - url: https://ice7.securenetsystems.net/WMKVFM
+    codec: AAC+
+    bitrate: 48

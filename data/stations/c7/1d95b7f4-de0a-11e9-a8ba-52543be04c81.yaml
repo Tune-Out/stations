@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1d95b7f4-de0a-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-schlagerhits-64-aac'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-schlagerhits-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Music-focused with 30+ streaming channels (pop, dance, 80s, 90s, themed playlists); news, comedy, podcasts, magazines.
   notes: Branded as "der beste Musikmix für Rheinland-Pfalz" (the best music mix for Rhineland-Palatinate). Community-focused with social responsibility program RPR Hilft e.V., Club of the Month initiative, and environmental Tree for Tree program. WhatsApp news channel available.
   sources: https://www.rpr1.de/
+curation: 0.35
+provenance:
+  - radiobrowser-1d95b7f4-de0a-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.rpr1.de/rpr-schlagerhits-64-aac
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-schlagerhits-128-mp3
+    codec: MP3

@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 05:25:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-c51511eb-f84d-47aa-ad64-450c18c0855d
-streams:
-  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.zeno.fm/76ehbdmxtzutv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +31,17 @@ research:
   format: Music streaming with themed channels (90s hits, throwbacks, classical, live music)
   notes: Commercial online radio platform offering diverse music channels with real-time song information and curated content.
   sources: https://totallyradio.com.au/90S/
+curation: 0.3
+provenance:
+  - radiobrowser-c51511eb-f84d-47aa-ad64-450c18c0855d
+  - iprd-au-totally-radio-00-s-dec558fd
+  - iprd-au-totally-radio-90-s-8edc27ca
+  - iprd-au-totally-radio-90-s-accd6c20
+  - iprd-au-totally-radio-greatest-hits-3b7cdefa
+  - iprd-au-totally-radio-pop-c3d10342
+streams:
+  - url: http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.zeno.fm/76ehbdmxtzutv
+    codec: MP3

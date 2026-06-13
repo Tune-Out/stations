@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:11:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f99e4bda-71b9-11ea-b1cf-52543be04c81
-streams:
-  - url: 'https://jfm1.hostingradio.ru:14536/metal.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://jfm1.hostingradio.ru:14536/metal.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Heavy metal, hard rock, metal music; "heavy" channel specializing in heavy metal
   notes: Commercial Russian internet radio station specializing in rock and metal music. Heavy channel focuses on heavy metal music. Part of rockfm.ru network. Serves Russian-speaking heavy metal and rock enthusiasts. Global reach via internet streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f99e4bda-71b9-11ea-b1cf-52543be04c81
+  - iprd-ru-rock-fm-heavy-bf5d51a5
+streams:
+  - url: https://jfm1.hostingradio.ru:14536/metal.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://jfm1.hostingradio.ru:14536/metal.mp3
+    codec: MP3
+    bitrate: 128

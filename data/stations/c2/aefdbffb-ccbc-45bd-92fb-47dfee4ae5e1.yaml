@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-aefdbffb-ccbc-45bd-92fb-47dfee4ae5e1
-streams:
-  - url: 'http://18.141.67.248:8028/stream/1/'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://bogostream.brigadanews.ph/'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: News-focused FM station with current affairs, local news, and talk programming.
   notes: Brigada News is a major radio news network in the Philippines with multiple FM stations across the country. Bogo station serves the northern Cebu region. Commercial private broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-aefdbffb-ccbc-45bd-92fb-47dfee4ae5e1
+streams:
+  - url: http://18.141.67.248:8028/stream/1/
+    codec: MP3
+    bitrate: 96
+  - url: https://bogostream.brigadanews.ph/
+    codec: MP3
+    bitrate: 96

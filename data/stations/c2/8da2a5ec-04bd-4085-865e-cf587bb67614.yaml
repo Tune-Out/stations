@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 05:09:57
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.05
-provenance:
-  - radiobrowser-8da2a5ec-04bd-4085-865e-cf587bb67614
-streams:
-  - url: 'https://0n-evergreens.radionetz.de/0n-evergreens.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-evergreens.radionetz.de/0n-evergreens.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,15 @@ research:
   format: Continuous oldies / classic hits from 1960s-1980s (60er, 70er, 80er)
   notes: Part of the 0 N Radio network (Radionetz) based in Bavaria. Plays pop/rock hits from the 60s-80s decades. Multiple niche formats available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8da2a5ec-04bd-4085-865e-cf587bb67614
+  - iprd-de-on-radio-evergreens-9f38aedd
+  - iprd-de-on-radio-evergreens-c54f637c
+streams:
+  - url: https://0n-evergreens.radionetz.de/0n-evergreens.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-evergreens.radionetz.de/0n-evergreens.mp3
+    codec: MP3
+    bitrate: 128

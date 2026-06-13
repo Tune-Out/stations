@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:53:10
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-97d43565-b97d-11e9-acb2-52543be04c81
-streams:
-  - url: 'http://stream.radio-nordseewelle.de/whv/mp3-192/'
-    codec: MP3
-  - url: 'https://stream.radio-nordseewelle.de/live/mp3-192/'
-    codec: MP3
-  - url: 'https://nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115?sABC=6553rs55%230%23761n8r0r980r33n36p5n8or875p093oq%23enqvbcynlre&rp_source=1&___cb=985703115692634&aw_0_1st.playerid=radioplayer&amsparams=playerid:radioplayer;skey:1699999573'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Pop music, regional programming, news, and local content for the North Sea coastal region
   notes: Regional commercial radio station serving Friesland and Wilhelmshaven in Germany's East Frisia region; part of German regional radio landscape; provides local news, pop music, and community programming
   sources: https://radio-nordseewelle.de/
+curation: 0.35
+provenance:
+  - radiobrowser-97d43565-b97d-11e9-acb2-52543be04c81
+  - iprd-de-radio-nordseewelle-ostfriesland-35fe9e59
+streams:
+  - url: http://stream.radio-nordseewelle.de/whv/mp3-192/
+    codec: MP3
+  - url: https://stream.radio-nordseewelle.de/live/mp3-192/
+    codec: MP3
+  - url: https://nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115?sABC=6553rs55%230%23761n8r0r980r33n36p5n8or875p093oq%23enqvbcynlre&rp_source=1&___cb=985703115692634&aw_0_1st.playerid=radioplayer&amsparams=playerid:radioplayer;skey:1699999573
+    codec: MP3

@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-81732526-3b70-11ea-8dd7-52543be04c81
-streams:
-  - url: 'https://streams.rpr1.de/rpr-90erdance-128-mp3?usid=0-0-H-M-D-60'
-    codec: MP3
-  - url: 'https://stream.rpr1.de/90erdance/mp3-128/radiobrowser'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,12 @@ research:
   format: '"Der beste Musikmix für Rheinland-Pfalz" — 30+ streaming channels including 80s, 90s dance, chart hits, comedy, podcasts, regional news'
   notes: Commercial radio broadcaster with 30+ specialty channels (90er Dance is one format option). Operates community initiatives like "RPR Hilft e.V." Founded as regional music/news station; offers news briefing "Der Tag in Rheinland-Pfalz" daily at 16:30.
   sources: https://www.rpr1.de/
+curation: 0.35
+provenance:
+  - radiobrowser-81732526-3b70-11ea-8dd7-52543be04c81
+  - iprd-de-rpr1-90er-dance-23d9545e
+streams:
+  - url: https://streams.rpr1.de/rpr-90erdance-128-mp3?usid=0-0-H-M-D-60
+    codec: MP3
+  - url: https://stream.rpr1.de/90erdance/mp3-128/radiobrowser
+    codec: MP3

@@ -24,16 +24,6 @@ lastchangetime: 2026-03-22 21:53:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6c435795-218c-4388-b23c-bb7459bfda1f
-streams:
-  - url: 'https://s6.onweb.gr/8046/;'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://s6.onweb.gr:8046/;'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: News, news talk, pop music, local programming
   notes: Cafe 102.4 broadcasts from Samos, a Greek island in the eastern Aegean. Local commercial station providing news, current affairs, and pop music programming to the island community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6c435795-218c-4388-b23c-bb7459bfda1f
+streams:
+  - url: https://s6.onweb.gr/8046/;
+    codec: MP3
+    bitrate: 96
+  - url: http://s6.onweb.gr:8046/;
+    codec: MP3
+    bitrate: 96

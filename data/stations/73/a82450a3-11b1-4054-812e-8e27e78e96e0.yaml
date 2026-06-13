@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-a82450a3-11b1-4054-812e-8e27e78e96e0
-streams:
-  - url: 'http://stream4.hippynet.co.uk:8012/backup'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream4.hippynet.co.uk/stream/8012/stream'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +31,12 @@ research:
   format: Community radio with volunteer-driven diverse programming; local voices, music, charity support, health and wellbeing content
   notes: Formerly Radio Verulam, renamed Mix 92.6 in August 2022. Broadcasts 24/7 on 92.6 FM from St Albans. Staffed by over 70 volunteers. Ofcom licensed. "Your radio Your Hertfordshire" tagline emphasizes local community focus and inclusivity.
   sources: https://mix926.com/, https://en.wikipedia.org/wiki/Mix_92.6
+curation: 0.6
+provenance:
+  - radiobrowser-a82450a3-11b1-4054-812e-8e27e78e96e0
+streams:
+  - url: http://stream4.hippynet.co.uk:8012/backup
+    codec: MP3
+    bitrate: 128
+  - url: https://stream4.hippynet.co.uk/stream/8012/stream
+    codec: MP3

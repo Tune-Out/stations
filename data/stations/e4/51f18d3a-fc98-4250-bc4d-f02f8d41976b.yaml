@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 00:15:22
 clickcount: 1
 geo_lat: 28.654706829195064
 geo_long: -106.09076499938966
-curation: -0.10
-provenance:
-  - radiobrowser-51f18d3a-fc98-4250-bc4d-f02f8d41976b
-streams:
-  - url: 'https://streamingcwsradio30.com/8172/stream'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://streamingcwsradio30.com/8172/stream'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,15 @@ research:
   format: Classic rock and pop music (clásicos, clásicos en inglés, pop music).
   notes: El Lobo (XHSU-FM) is 106.1 FM serving Chihuahua, Mexico. Part of larger Mexican radio network. Programming focuses on rock and pop classics in Spanish and English.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-51f18d3a-fc98-4250-bc4d-f02f8d41976b
+  - iprd-mx-el-lobo-106-1-xhsu-a4c06744
+  - iprd-mx-el-lobo-106-1-xhsu-c2efd8ea
+streams:
+  - url: https://streamingcwsradio30.com/8172/stream
+    codec: AAC+
+    bitrate: 96
+  - url: http://streamingcwsradio30.com/8172/stream
+    codec: AAC+
+    bitrate: 96

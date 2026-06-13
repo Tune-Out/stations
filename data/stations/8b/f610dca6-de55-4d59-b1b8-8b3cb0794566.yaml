@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 06:09:44
 clickcount: 1
 geo_lat: 51.2936
 geo_long: 12.5522
-curation: 0.50
-provenance:
-  - radiobrowser-f610dca6-de55-4d59-b1b8-8b3cb0794566
-streams:
-  - url: 'https://streams.fluxfm.de/nyir-ger/mp3-320/'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/nyir-ger/mp3-320'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +30,11 @@ research:
   format: Grunge, alternative rock, indie music, experimental sound; independent station programming.
   notes: Part of Rundfunkkombinat collective and Flux FM network, operating as independent community radio. Focused on grunge and alternative music.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-f610dca6-de55-4d59-b1b8-8b3cb0794566
+streams:
+  - url: https://streams.fluxfm.de/nyir-ger/mp3-320/
+    codec: MP3
+  - url: http://streams.fluxfm.de/nyir-ger/mp3-320
+    codec: MP3

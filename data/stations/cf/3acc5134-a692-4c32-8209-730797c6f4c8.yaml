@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: 49.26583306761475
 geo_long: -123.11965942382814
-curation: 0.30
-provenance:
-  - radiobrowser-3acc5134-a692-4c32-8209-730797c6f4c8
-streams:
-  - url: 'http://newcap.leanstream.co/CHLGFM'
-    codec: AAC
-    bitrate: 145
-  - url: 'http://newcap.leanstream.co/CHLGFM'
-    codec: AAC
-    bitrate: 132
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Soft adult contemporary music; rebranding to "The Breeze" format
   notes: "CHLG-FM licensed Vancouver BC. Owned Stingray Group. Soft AC format since December 2018 as 104.3 The Breeze. Studios Richmond (11151 Horseshoe Way, Richmond BC V7A 4S5). Class C station. Previous format: classic hits as LG 104.3 (2014). Phone: 604-241-2104."
   sources: https://en.wikipedia.org/wiki/CHLG-FM, https://tunein.com/radio/the-breeze-1043-s104944/, https://www.1043thebreeze.ca/
+curation: 0.3
+provenance:
+  - radiobrowser-3acc5134-a692-4c32-8209-730797c6f4c8
+  - iprd-ca-chlg-104-3-lg104-9a557b44
+streams:
+  - url: http://newcap.leanstream.co/CHLGFM
+    codec: AAC
+    bitrate: 145
+  - url: http://newcap.leanstream.co/CHLGFM
+    codec: AAC
+    bitrate: 132

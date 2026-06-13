@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 05:51:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fc2e6c39-7139-4f7a-a0c6-a859244332be
-streams:
-  - url: 'https://pianosolo.streamguys1.com/pianosolo48.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://pianosolo.streamguys1.com/live'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://pianosolo.streamguys1.com/live?listenerid=2e8dc4ec7778e05786515354a88844fa&awparams=companionAds:true&us_privacy=1YNN&aw_0_req.gdpr=true&us_privacy=1YNN'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,16 @@ research:
   format: Solo piano music; classical, contemporary piano compositions, and acoustic instrumental
   notes: Based in Oregon; specialized in solo piano repertoire; 96 kbps low-bitrate stream suitable for background listening
   sources: http://www.solopianoradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-fc2e6c39-7139-4f7a-a0c6-a859244332be
+streams:
+  - url: https://pianosolo.streamguys1.com/pianosolo48.aac
+    codec: AAC+
+    bitrate: 48
+  - url: https://pianosolo.streamguys1.com/live
+    codec: MP3
+    bitrate: 96
+  - url: https://pianosolo.streamguys1.com/live?listenerid=2e8dc4ec7778e05786515354a88844fa&awparams=companionAds:true&us_privacy=1YNN&aw_0_req.gdpr=true&us_privacy=1YNN
+    codec: MP3
+    bitrate: 96

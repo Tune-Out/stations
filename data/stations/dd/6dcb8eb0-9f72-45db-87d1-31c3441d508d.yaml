@@ -24,16 +24,6 @@ lastchangetime: 2026-03-11 06:38:21
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-6dcb8eb0-9f72-45db-87d1-31c3441d508d
-streams:
-  - url: 'https://s4.radio.co/s136f5e1c3/listen'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream.evosonic.de/'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,14 @@ research:
   format: Acid, ambient, electro, electronica, hard techno, house, psychedelic, techno, trance
   notes: Evosonic Radio is an independent Berlin-based internet radio station dedicated to electronic and electronic dance music (EDM). Focus on diverse electronic subgenres with emphasis on harder electronic styles and experimental sounds. Community-focused alternative to commercial radio.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-6dcb8eb0-9f72-45db-87d1-31c3441d508d
+  - iprd-de-evosonic-radio-c026c7fd
+streams:
+  - url: https://s4.radio.co/s136f5e1c3/listen
+    codec: MP3
+    bitrate: 320
+  - url: https://stream.evosonic.de/
+    codec: MP3
+    bitrate: 256

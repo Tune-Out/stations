@@ -22,48 +22,6 @@ lastchangetime: 2026-01-15 06:46:57
 clickcount: 411
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.95
-provenance:
-  - radiobrowser-9617a958-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://stream.radioparadise.com/flac'
-    codec: OGG
-    bitrate: 1441
-  - url: 'http://stream-uk1.radioparadise.com/aac-320'
-    codec: AAC
-    bitrate: 320
-  - url: 'http://stream.radioparadise.com/aac-320'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://stream.radioparadise.com/ti-main-320'
-    codec: AAC
-    bitrate: 320
-  - url: 'http://stream-uk1.radioparadise.com/aac-128'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream-uk1.radioparadise.com/aac-64'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://stream.radioparadise.com/aac-64'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://www.radioparadise.com/m3u/aac-32.m3u'
-    url_resolved: 'http://stream.radioparadise.com/aac-32'
-    codec: AAC
-    bitrate: 32
-  - url: 'http://www.radioparadise.com/m3u/aac-24.m3u'
-    url_resolved: 'http://stream.radioparadise.com/aac-24'
-    codec: AAC
-    bitrate: 24
-  - url: 'http://stream-uk1.radioparadise.com/mp3-192'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.radioparadise.com/mp3-128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream-uk1.radioparadise.com/mp3-128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -73,3 +31,55 @@ research:
   format: Self-described as "an eclectic musical adventure" / "DJ-mixed eclectic commercial-free Internet radio" — a hand-curated blend of rock, classic rock, indie, electronic, blues, jazz, world music and other genres mixed by the founders. Multiple themed mixes (Main, Mellow, Rock, Global, Serenity, Beyond) available.
   notes: One of the longest-running and most-respected listener-supported internet radio stations, on the air since 2000. Known for high-bitrate streams (up to FLAC lossless), no advertising, no algorithmic playlists, and strong community engagement. Operated from the small town of Paradise, CA (the streaming hub geo-tagged to Humboldt County reflects EU-mirror infrastructure). Survived the 2018 Camp Fire that destroyed much of Paradise.
   sources: https://radioparadise.com/
+curation: 0.7
+provenance:
+  - radiobrowser-9617a958-0601-11e8-ae97-52543be04c81
+  - iprd-us-radio-paradise-5b9c5774
+  - iprd-us-radio-paradise-c8f2ee51
+  - iprd-us-radio-paradise-cf2ab95c
+  - iprd-us-radio-paradise-92b933e4
+  - iprd-us-radio-paradise-b84a1912
+  - iprd-us-radio-paradise-main-mix-e2fb53cd
+  - iprd-us-radio-paradise-e4b31741
+  - iprd-us-radio-paradise-bf0949ad
+  - iprd-us-radio-paradise-b319fbf2
+  - iprd-us-radio-paradise-main-mix-flac-89ea9f91
+streams:
+  - url: https://stream.radioparadise.com/flac
+    codec: OGG
+    bitrate: 1441
+  - url: http://stream-uk1.radioparadise.com/aac-320
+    codec: AAC
+    bitrate: 320
+  - url: http://stream.radioparadise.com/aac-320
+    codec: AAC
+    bitrate: 320
+  - url: https://stream.radioparadise.com/ti-main-320
+    codec: AAC
+    bitrate: 320
+  - url: http://stream-uk1.radioparadise.com/aac-128
+    codec: AAC
+    bitrate: 128
+  - url: http://stream-uk1.radioparadise.com/aac-64
+    codec: AAC
+    bitrate: 64
+  - url: https://stream.radioparadise.com/aac-64
+    codec: AAC
+    bitrate: 64
+  - url: http://www.radioparadise.com/m3u/aac-32.m3u
+    url_resolved: http://stream.radioparadise.com/aac-32
+    codec: AAC
+    bitrate: 32
+  - url: http://www.radioparadise.com/m3u/aac-24.m3u
+    url_resolved: http://stream.radioparadise.com/aac-24
+    codec: AAC
+    bitrate: 24
+  - url: http://stream-uk1.radioparadise.com/mp3-192
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.radioparadise.com/mp3-128
+    codec: MP3
+    bitrate: 128
+  - url: http://stream-uk1.radioparadise.com/mp3-128
+    codec: MP3
+    bitrate: 128

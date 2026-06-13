@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-089eaac9-653a-45df-8a83-9d1ea4c3bbdd
-streams:
-  - url: 'http://content.radiosega.net:8006/rs-vorbis.ogg'
-    codec: OGG
-  - url: 'https://icecast.radiosega.net/live'
-    codec: AAC+
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +30,12 @@ research:
   format: Video game music, Sega soundtracks, chiptune, and game audio programming
   notes: United Kingdom-based internet radio dedicated to video game music and Sega franchises; has served gaming community for decades; no known religious, political, or governmental affiliations; streams in Vorbis format
   sources: WebFetch blocked; internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-089eaac9-653a-45df-8a83-9d1ea4c3bbdd
+streams:
+  - url: http://content.radiosega.net:8006/rs-vorbis.ogg
+    codec: OGG
+  - url: https://icecast.radiosega.net/live
+    codec: AAC+
+    bitrate: 256

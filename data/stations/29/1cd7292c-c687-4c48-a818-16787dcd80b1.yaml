@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 01:12:36
 clickcount: 0
 geo_lat: 13.104342760070198
 geo_long: -86.36228352785112
-curation: -0.05
-provenance:
-  - radiobrowser-1cd7292c-c687-4c48-a818-16787dcd80b1
-streams:
-  - url: 'https://a9.asurahosting.com:7140/'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://a9.asurahosting.com:7140/radio.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: latin, pop, ranchera, reggaeton, salsa
   notes: Commercial radio station based in Esteli, Nicaragua with high-quality MP3 streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1cd7292c-c687-4c48-a818-16787dcd80b1
+streams:
+  - url: https://a9.asurahosting.com:7140/
+    codec: MP3
+    bitrate: 320
+  - url: https://a9.asurahosting.com:7140/radio.mp3
+    codec: MP3
+    bitrate: 320

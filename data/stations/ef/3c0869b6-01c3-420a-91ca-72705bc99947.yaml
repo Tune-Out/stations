@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:12:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3c0869b6-01c3-420a-91ca-72705bc99947
-streams:
-  - url: 'http://icecast-vgtrk.cdnvideo.ru/moscowtalk128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast-vgtrk.cdnvideo.ru/moscowtalk128?v=1640610887877'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -42,3 +32,13 @@ research:
   format: News, talk, music, and general interest programming
   notes: Major Russian state broadcaster on 105.3 FM, operated by VGTRK. Provides news, talk, and music programming. 128 kbps MP3.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3c0869b6-01c3-420a-91ca-72705bc99947
+streams:
+  - url: http://icecast-vgtrk.cdnvideo.ru/moscowtalk128
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast-vgtrk.cdnvideo.ru/moscowtalk128?v=1640610887877
+    codec: MP3
+    bitrate: 128

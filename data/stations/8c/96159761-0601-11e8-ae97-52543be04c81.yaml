@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:02:57
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-96159761-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://46.28.49.164:7502/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming.galaxywebsolutions.com:7502/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,14 @@ research:
   format: 24/7 country and Irish music with live presenter shows and automated "Jukebox" segments
   notes: Self-described as "Ireland's Premier Online Country & Irish Station"; community-focused with song requests, guestbook, events, merchandise and donations; notable presenters include Danny Boyle (Big D Country), Michael Fox (Green Fields of Ireland), Michael Kelly (Shades of Green), Maggie May and Joe Harrington; promotes mental health awareness through Grow Mental Health partnership.
   sources: http://www.irishcountrymusicradio.com/
+curation: 0.5
+provenance:
+  - radiobrowser-96159761-0601-11e8-ae97-52543be04c81
+  - iprd-ie-irish-country-music-radio-f9cd8e12
+streams:
+  - url: http://46.28.49.164:7502/
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming.galaxywebsolutions.com:7502/stream
+    codec: MP3
+    bitrate: 128

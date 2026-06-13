@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 1
 geo_lat: 55.77039358162006
 geo_long: 37.59832719762187
-curation: 0.40
-provenance:
-  - radiobrowser-3706651e-fdc7-434e-b295-4cd6c94185d5
-streams:
-  - url: 'https://myradio24.org/cityeden.m3u'
-    url_resolved: 'http://listen7.myradio24.com/cityeden'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://myradio24.org/cityeden'
-    url_resolved: 'https://listen7.myradio24.com/cityeden'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +33,15 @@ research:
   format: Christian gospel and Christian music programming with talk content
   notes: Christian Radio City of Eden is a non-commercial religious broadcaster serving Russia with gospel, Christian music, and Christian talk programming.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-3706651e-fdc7-434e-b295-4cd6c94185d5
+streams:
+  - url: https://myradio24.org/cityeden.m3u
+    url_resolved: http://listen7.myradio24.com/cityeden
+    codec: MP3
+    bitrate: 128
+  - url: https://myradio24.org/cityeden
+    url_resolved: https://listen7.myradio24.com/cityeden
+    codec: MP3
+    bitrate: 128

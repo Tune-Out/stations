@@ -22,20 +22,6 @@ lastchangetime: 2026-06-09 01:05:29
 clickcount: 5
 geo_lat: 37.557061945807966
 geo_long: 127.02392578125
-curation: 0.35
-provenance:
-  - radiobrowser-03750ff6-6222-4672-8817-864830fac0eb
-streams:
-  - url: 'http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8'
-    codec: UNKNOWN
-    bitrate: 656
-    hls: true
-  - url: 'http://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/arirang_3ch_audio/chunklist_b128000.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b3256000_sleng.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +31,17 @@ research:
   format: News, information, and cultural programming about Korea; K-pop content
   notes: South Korean state broadcaster; international English-language service; known for K-pop and Korean culture programming.
   sources: https://www.arirang.com/radio
+curation: 0.35
+provenance:
+  - radiobrowser-03750ff6-6222-4672-8817-864830fac0eb
+streams:
+  - url: http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+    codec: UNKNOWN
+    bitrate: 656
+    hls: true
+  - url: http://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/arirang_3ch_audio/chunklist_b128000.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b3256000_sleng.m3u8
+    codec: UNKNOWN
+    hls: true

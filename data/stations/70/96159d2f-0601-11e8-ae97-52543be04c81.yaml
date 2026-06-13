@@ -1,7 +1,7 @@
 stationuuid: 96159d2f-0601-11e8-ae97-52543be04c81
 name: Highland Radio
 url: http://www.highlandradio.com/highland.m3u
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3
+url_resolved: 'https://25683.live.streamtheworld.com:443/HIGHLAND_RADIO.mp3'
 homepage: http://www.highlandradio.com/
 favicon: https://highlandradio.com/wp-content/uploads/2022/01/cropped-highland-favicon-01-180x180.png
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96159d2f-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,7 @@ research:
   format: Popular music and variety programming
   notes: Independent commercial radio serving the Scottish Highlands since 1973
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96159d2f-0601-11e8-ae97-52543be04c81
+  - iprd-ie-highland-radio-3adfa4df

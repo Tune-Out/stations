@@ -19,17 +19,6 @@ lastchangetime: 2026-01-21 18:18:13
 clickcount: 19
 geo_lat: 60.19861290878058
 geo_long: 24.936218261718754
-curation: -0.05
-provenance:
-  - radiobrowser-f0c78ab4-e14d-40e8-8434-fcda0f3d905d
-streams:
-  - url: 'https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8?rp_source=1'
-    codec: AAC
-    bitrate: 262
-    hls: true
-  - url: 'https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Adult contemporary playing predominantly Finnish-language pop ("Suomipop") plus comedy- and personality-driven daytime talk shows
   notes: Radio Suomipop launched on 4 October 1997 (originally as Kiss FM, rebranded Radio City in 1998 and finally Radio Suomipop in 2006), built around a format focused on Finnish-language pop and rock; acquired by SanomaWSOY (now Sanoma) in the early 2000s and consolidated into Nelonen Media's radio family alongside Radio Rock, Radio Aalto, Suomirock, Groove FM, HitMix and HitMix Originals; broadcasts nationally on FM (operating frequencies cover most major Finnish cities) plus DAB+ and the Supla audio platform; the flagship morning show "Aamulypsy" (with Jaajo Linnonmaa, Anni Hautala and Juha Perälä) is one of the most listened-to commercial-radio breakfast programmes in Finland and has won multiple Kultainen Aplodi (Finnish Radio) awards.
   sources: internal knowledge only (homepage fetch blocked)
+curation: -0.05
+provenance:
+  - radiobrowser-f0c78ab4-e14d-40e8-8434-fcda0f3d905d
+streams:
+  - url: https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8?rp_source=1
+    codec: AAC
+    bitrate: 262
+    hls: true
+  - url: https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
+    codec: UNKNOWN
+    hls: true

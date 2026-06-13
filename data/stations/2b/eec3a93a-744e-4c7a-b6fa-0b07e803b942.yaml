@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 01:13:18
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-eec3a93a-744e-4c7a-b6fa-0b07e803b942
-duplicate_of: 961ac56b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://stream.srg-ssr.ch/rsj/aacp_96.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsj/aac/96'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://stream.srg-ssr.ch/rsj/aacp_96.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsj/aac/96'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +31,16 @@ research:
   format: Jazz music programming in AAC+ quality format.
   notes: Radio Swiss Jazz is operated by SRG SSR, Switzerland's state-funded public broadcasting corporation. Part of the country's multilingual public broadcast system. Broadcasts jazz programming with high technical quality (96kbps AAC+) to Swiss and international jazz audiences.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-eec3a93a-744e-4c7a-b6fa-0b07e803b942
+duplicate_of: 961ac56b-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://stream.srg-ssr.ch/rsj/aacp_96.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsj/aac/96
+    codec: AAC
+    bitrate: 128
+  - url: https://stream.srg-ssr.ch/rsj/aacp_96.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsj/aac/96
+    codec: AAC
+    bitrate: 96

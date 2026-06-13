@@ -1,6 +1,6 @@
 stationuuid: 9648ad88-0601-11e8-ae97-52543be04c81
 name: KLNZ 103.5 "La Tricolor" Glendale, AZ
-url: http://provisioning.streamtheworld.com/pls/KLNZFMAAC.pls
+url: 'http://27283.live.streamtheworld.com:80/KLNZFMAAC_SC'
 url_resolved: http://27283.live.streamtheworld.com:3690/KLNZFMAAC_SC
 homepage: http://tricolor.entravision.com/phoenix/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:27:38
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648ad88-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Regional Mexican music, Spanish-language contemporary hits
   notes: KLNZ 103.5 FM serving Phoenix, Arizona with regional Mexican programming through Entravision. Targets Hispanic/Latino demographic in Arizona market. Commercial broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648ad88-0601-11e8-ae97-52543be04c81

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:15:00
 clickcount: 1
 geo_lat: -34.061036086516964
 geo_long: 150.8156772292743
-curation: 0.35
-provenance:
-  - radiobrowser-20521f5e-27fe-4fac-b82d-b14fadd188e6
-streams:
-  - url: 'https://ice9.securenetsystems.net/C913'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://ice9.securenetsystems.net/C913'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Hot adult contemporary, mainstream top 40, commercial pop music
   notes: Community-focused commercial station serving Macarthur region southwest of Sydney since 1989. Part of regional radio network.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-20521f5e-27fe-4fac-b82d-b14fadd188e6
+streams:
+  - url: https://ice9.securenetsystems.net/C913
+    codec: AAC+
+    bitrate: 64
+  - url: http://ice9.securenetsystems.net/C913
+    codec: AAC+
+    bitrate: 64

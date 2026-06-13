@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 07:42:26
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-80646520-ef8c-40dd-be28-084090a87db5
-streams:
-  - url: 'http://abm22.com.au:8000/CONTAINER137'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.radiosydney.com.au/ownplayer2016/AFFILIATES/Radio%20Hobart.m3u'
-    url_resolved: 'http://abm22.com.au:8000/CONTAINER137'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: Non-stop music radio with contemporary hits and popular music.
   notes: Radio Hobart is part of the Australian Digital Radio Network operating on commercial basis in Hobart, Tasmania. Provides continuous music programming with 128 kbps MP3 stream. Focuses on contemporary popular music catering to general adult audience. Part of the broader network of Australian commercial music radio stations.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-80646520-ef8c-40dd-be28-084090a87db5
+streams:
+  - url: http://abm22.com.au:8000/CONTAINER137
+    codec: MP3
+    bitrate: 128
+  - url: http://www.radiosydney.com.au/ownplayer2016/AFFILIATES/Radio%20Hobart.m3u
+    url_resolved: http://abm22.com.au:8000/CONTAINER137
+    codec: MP3
+    bitrate: 128

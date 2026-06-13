@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:57:44
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5ba60a62-6886-4243-9e8e-71ace6b60df9
-streams:
-  - url: 'https://cdn-br2.live-tv.cloud/sferarvFM/64k/icecast.audio'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://cdn-br2.live-tv.cloud/sferarvFM/320k/icecast.audio'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: "Mixed format: news, local news, information, pop music, health and legal consultation shows"
   notes: Dual-platform broadcaster (television and radio) based in Rivne. Notable shows include "Слово, що дає надію" (Word That Gives Hope), "Юридична консультація" (Legal Consultation), and "У фокусі здоров'я" (Health Focus). Emphasis on local coverage and community information.
   sources: https://sfera-tv.com.ua/sfera-fm
+curation: 0.35
+provenance:
+  - radiobrowser-5ba60a62-6886-4243-9e8e-71ace6b60df9
+streams:
+  - url: https://cdn-br2.live-tv.cloud/sferarvFM/64k/icecast.audio
+    codec: AAC+
+    bitrate: 64
+  - url: https://cdn-br2.live-tv.cloud/sferarvFM/320k/icecast.audio
+    codec: MP3
+    bitrate: 320

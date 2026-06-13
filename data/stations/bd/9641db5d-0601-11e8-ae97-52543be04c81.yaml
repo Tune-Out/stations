@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:53:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9641db5d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://usa2.fastcast4u.com:3684/;'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://usa2.fastcast4u.com/proxy/greekota?mp=/1?ver=501737'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Anime soundtracks and music specialization. 320 kbps MP3 streaming. Dedicated to anime and Japanese media fandom.
   notes: Community-focused radio station catering to Greek otaku culture and anime enthusiasts. Streams high-quality 320 kbps audio.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9641db5d-0601-11e8-ae97-52543be04c81
+  - iprd-gr-greek-otaku-radio-5fb99d04
+streams:
+  - url: http://usa2.fastcast4u.com:3684/;
+    codec: MP3
+    bitrate: 320
+  - url: https://usa2.fastcast4u.com/proxy/greekota?mp=/1?ver=501737
+    codec: MP3
+    bitrate: 320

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:08
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1fc68030-02cc-436b-8e6f-1499f37d69b1
-streams:
-  - url: 'https://s1.gntr.net/listen/radio_gentara/gentara64'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s1.gntr.net/listen/radio_gentara/gentara'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Commercial radio with music and entertainment programming
   notes: Radio Gentara operates as Indonesian commercial radio station providing music and entertainment content. Serves Indonesian-speaking audiences with contemporary pop and entertainment programming typical of Indonesian commercial radio sector.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1fc68030-02cc-436b-8e6f-1499f37d69b1
+  - iprd-id-radio-gentara-f2900201
+streams:
+  - url: https://s1.gntr.net/listen/radio_gentara/gentara64
+    codec: MP3
+    bitrate: 128
+  - url: https://s1.gntr.net/listen/radio_gentara/gentara
+    codec: MP3
+    bitrate: 128

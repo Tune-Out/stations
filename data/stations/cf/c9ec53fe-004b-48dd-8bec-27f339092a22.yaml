@@ -28,15 +28,6 @@ lastchangetime: 2026-01-15 04:34:00
 clickcount: 2
 geo_lat: 43.94781955120877
 geo_long: 4.808406829833985
-curation: 0.55
-provenance:
-  - radiobrowser-c9ec53fe-004b-48dd-8bec-27f339092a22
-streams:
-  - url: 'https://stream.aioli-radio.org/main.ogg'
-    codec: OGG
-  - url: 'https://stream.aioli-radio.org/main.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +37,14 @@ research:
   format: Eclectic music programming; ambient, chanson, classique, dancehall, dub, electro, folk, funk, hip hop, jazz, pop, reggae, trip hop, plus local news and information
   notes: Community radio station in southern France focusing on diverse and eclectic music. Long history as independent French community broadcaster.
   sources: https://www.aioli-radio.org/
+curation: 0.55
+provenance:
+  - radiobrowser-c9ec53fe-004b-48dd-8bec-27f339092a22
+  - iprd-fr-a-oli-radio-e1efc730
+  - iprd-fr-a-oli-radio-a0309c10
+streams:
+  - url: https://stream.aioli-radio.org/main.ogg
+    codec: OGG
+  - url: https://stream.aioli-radio.org/main.mp3
+    codec: MP3
+    bitrate: 256

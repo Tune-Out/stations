@@ -19,16 +19,6 @@ lastchangetime: 2026-01-28 21:24:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e5c9fb5e-7442-4567-9da2-f7c4a0a7dd50
-streams:
-  - url: 'https://servidor27-3.brlogic.com:8040/live?source=website'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://servidor27-3.brlogic.com:8040/live?source=website'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: 24-hour sertanejo (Brazilian country music) format; shows include "Manhã Sertaneja", "Charme", "Romance"; news and "A Voz do Brasil"
   notes: "Tagline: \"A rádio da cidade!\" (the city's radio). Emphasizes local community connection. Broadcasts 100.5 FM. Includes government program \"A Voz do Brasil\"."
   sources: https://venceslaufm.com.br/
+curation: 0.35
+provenance:
+  - radiobrowser-e5c9fb5e-7442-4567-9da2-f7c4a0a7dd50
+streams:
+  - url: https://servidor27-3.brlogic.com:8040/live?source=website
+    codec: MP3
+    bitrate: 128
+  - url: http://servidor27-3.brlogic.com:8040/live?source=website
+    codec: MP3
+    bitrate: 128

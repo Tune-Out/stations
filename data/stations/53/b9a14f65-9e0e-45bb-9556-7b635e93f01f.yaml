@@ -22,16 +22,6 @@ lastchangetime: 2026-03-25 10:07:32
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-b9a14f65-9e0e-45bb-9556-7b635e93f01f
-streams:
-  - url: 'https://stream.radios.rs:9060/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream.radios.rs:9052/stream'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: 2000s folk (2000-te folk), traditional Serbian folk and neo-folk music
   notes: Online radio station specializing in contemporary Serbian folk music from the 2000s era, part of the Radios.rs network offering digital audio streaming services in Serbia.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-b9a14f65-9e0e-45bb-9556-7b635e93f01f
+streams:
+  - url: https://stream.radios.rs:9060/stream
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream.radios.rs:9052/stream
+    codec: AAC+
+    bitrate: 64

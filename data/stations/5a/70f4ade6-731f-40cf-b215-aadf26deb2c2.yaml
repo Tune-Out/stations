@@ -21,18 +21,6 @@ lastchangetime: 2026-02-11 15:15:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-70f4ade6-731f-40cf-b215-aadf26deb2c2
-streams:
-  - url: 'https://nigga.pt/ambient.ogg'
-    codec: OGG
-  - url: 'https://nigga.pt/chill.ogg'
-    codec: OGG
-  - url: 'http://nigga.pt:8000/hood.ogg'
-    codec: OGG
-  - url: 'https://nigga.pt/party.ogg'
-    codec: OGG
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +30,15 @@ research:
   format: Experimental internet radio featuring ambient, atmospheric black metal, and dungeon synth; artist-focused curated streaming
   notes: Portuguese independent experimental audio streaming project; operates as non-commercial internet radio via own domain; focuses on dark, atmospheric, and experimental electronic music genres; community-driven; minimal commercial structure; serves niche experimental music audience
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-70f4ade6-731f-40cf-b215-aadf26deb2c2
+streams:
+  - url: https://nigga.pt/ambient.ogg
+    codec: OGG
+  - url: https://nigga.pt/chill.ogg
+    codec: OGG
+  - url: http://nigga.pt:8000/hood.ogg
+    codec: OGG
+  - url: https://nigga.pt/party.ogg
+    codec: OGG

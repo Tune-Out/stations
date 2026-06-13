@@ -19,16 +19,6 @@ lastchangetime: 2026-02-28 15:52:43
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-fdc7fd7c-4f40-44ff-99d7-56c7cf322abd
-streams:
-  - url: 'http://linux.deutschesmusikradio.de:8000/rwh'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://linux.deutschesmusikradio.de:8000/aac'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Commercial music radio station focused on German music
   notes: Independent online music radio based in Germany; web-based streaming service
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fdc7fd7c-4f40-44ff-99d7-56c7cf322abd
+streams:
+  - url: http://linux.deutschesmusikradio.de:8000/rwh
+    codec: MP3
+    bitrate: 128
+  - url: http://linux.deutschesmusikradio.de:8000/aac
+    codec: MP3
+    bitrate: 128

@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 08:37:27
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1fb63453-d4b8-4607-ad52-91563b87e0e0
-streams:
-  - url: 'https://lhttp-hw.qtfm.cn/live/20212393/64k.mp3'
-    codec: MP3
-  - url: 'http://hls.njgb.com/live_hls/5/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +31,12 @@ research:
   format: State radio station with information and music programming in FM 96.6 format
   notes: 南京城市管理广播 (Nanjing Urban Management Broadcasting) is a government-operated state media station serving Nanjing, China. Broadcasts information and music content to support urban management and public communication.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1fb63453-d4b8-4607-ad52-91563b87e0e0
+streams:
+  - url: https://lhttp-hw.qtfm.cn/live/20212393/64k.mp3
+    codec: MP3
+  - url: http://hls.njgb.com/live_hls/5/playlist.m3u8
+    codec: UNKNOWN
+    hls: true

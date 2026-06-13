@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1886f927-88f8-4815-864e-d8ba7211caee
-streams:
-  - url: 'https://broadcast.miami/proxy/thediscoparadise?mp=/stream/;'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://broadcast.miami/proxy/thediscoparadise'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: disco, funk, house, electronic dance music, retro hits
   notes: Internet-based streaming station focused on disco music; operates from Miami, Florida
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1886f927-88f8-4815-864e-d8ba7211caee
+  - iprd-us-the-disco-paradise-57daa68f
+streams:
+  - url: https://broadcast.miami/proxy/thediscoparadise?mp=/stream/;
+    codec: MP3
+    bitrate: 320
+  - url: https://broadcast.miami/proxy/thediscoparadise
+    codec: MP3
+    bitrate: 320

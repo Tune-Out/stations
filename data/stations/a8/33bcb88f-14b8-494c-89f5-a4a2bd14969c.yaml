@@ -1,7 +1,7 @@
 stationuuid: 33bcb88f-14b8-494c-89f5-a4a2bd14969c
 name: Perth 6IX
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/6IX.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/6IX.mp3
+url: 'https://23153.live.streamtheworld.com:443/6IX.mp3'
+url_resolved: 'https://23153.live.streamtheworld.com:443/6IX.mp3'
 homepage: https://www.6ix.com.au/
 favicon: https://www.6ix.com.au/wp-content/downloads/Perth-6iX-PNG-Logo-2025-512x512-1.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-18 17:56:42
 clickcount: 11
 geo_lat: -32.33417765435675
 geo_long: 115.9669754847568
-curation: -0.10
-provenance:
-  - radiobrowser-33bcb88f-14b8-494c-89f5-a4a2bd14969c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic hits radio — pop and rock from the 1960s, 1970s and 1980s, with local breakfast, lifestyle and weekend specialty programming
   notes: 6IX is one of Perth's heritage radio stations, originally licensed in 1933 as the Western Australia outlet of the Macquarie network; broadcasts AM on 1080 kHz (with FM/DAB+ relays) to the Perth metropolitan area; the brand has changed hands several times among regional Australian commercial-radio owners (Capital Radio Network most recent) and currently positions itself with the tagline "Perth's Greatest Hits".
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-33bcb88f-14b8-494c-89f5-a4a2bd14969c

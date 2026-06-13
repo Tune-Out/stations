@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:32:25
 clickcount: 1
 geo_lat: 38.349750033170906
 geo_long: -120.77499836683276
-curation: 0.35
-provenance:
-  - radiobrowser-aec36449-6263-41e3-9309-0e8d95c1d90a
-streams:
-  - url: 'http://ingest2.cdnstream1.com:7080/2314_64.aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://ingest2.cdnstream1.com:7080/2314_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Oldies hits from the 1950s through 1980s
   notes: Community-operated station serving the foothills region of California's Gold Country
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-aec36449-6263-41e3-9309-0e8d95c1d90a
+streams:
+  - url: http://ingest2.cdnstream1.com:7080/2314_64.aac
+    codec: AAC
+    bitrate: 64
+  - url: http://ingest2.cdnstream1.com:7080/2314_128.mp3
+    codec: MP3
+    bitrate: 128

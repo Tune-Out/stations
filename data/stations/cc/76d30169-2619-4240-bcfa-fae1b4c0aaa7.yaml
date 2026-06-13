@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-76d30169-2619-4240-bcfa-fae1b4c0aaa7
-streams:
-  - url: 'https://centova.listenon.in/proxy/gamepad/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://centova.listenon.in/proxy/gamepad/stream?nowx=1774186122363'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Video game music exclusively; 24/7 streaming
   notes: Non-commercial community station dedicated to gaming soundtracks; tagline "Your place for 24/7 game music"; provides artist submissions, news, and community interaction around video game composers and releases.
   sources: https://www.gamepadmusic.com/
+curation: 0.35
+provenance:
+  - radiobrowser-76d30169-2619-4240-bcfa-fae1b4c0aaa7
+streams:
+  - url: https://centova.listenon.in/proxy/gamepad/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://centova.listenon.in/proxy/gamepad/stream?nowx=1774186122363
+    codec: MP3
+    bitrate: 128

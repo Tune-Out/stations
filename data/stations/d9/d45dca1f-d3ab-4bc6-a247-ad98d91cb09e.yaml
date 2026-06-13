@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d45dca1f-d3ab-4bc6-a247-ad98d91cb09e
-streams:
-  - url: 'https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: Sports news, news talk, information programming
   notes: Part of Český rozhlas (Czech Radio), the national public broadcaster. Radiožurnál Sport provides comprehensive sports news and current affairs programming to Czech audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d45dca1f-d3ab-4bc6-a247-ad98d91cb09e
+streams:
+  - url: https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3
+    codec: MP3
+    bitrate: 128

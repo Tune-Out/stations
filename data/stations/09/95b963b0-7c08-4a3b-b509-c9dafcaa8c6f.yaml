@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 23:25:16
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-95b963b0-7c08-4a3b-b509-c9dafcaa8c6f
-streams:
-  - url: 'http://198.251.74.226:8050/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://tuneintoradio1.com/public/retro_country_890/playlist.pls'
-    url_resolved: 'https://www.tuneintoradio1.com:8050/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Classic country, traditional country, new country music; nostalgia and retrospective programming
   notes: U.S. internet radio station focusing on classic country music and retro country hits. Targets country music enthusiasts interested in both classic and contemporary country material. Broadcasts at 128 kbps MP3.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-95b963b0-7c08-4a3b-b509-c9dafcaa8c6f
+streams:
+  - url: http://198.251.74.226:8050/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://tuneintoradio1.com/public/retro_country_890/playlist.pls
+    url_resolved: https://www.tuneintoradio1.com:8050/radio.mp3
+    codec: MP3
+    bitrate: 128

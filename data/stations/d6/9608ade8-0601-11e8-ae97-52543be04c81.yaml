@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:51:21
 clickcount: 93
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-9608ade8-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://media-ice.musicradio.com/HeartLondon'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://ice-sov.musicradio.com/HeartLondonMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Hot adult contemporary / mainstream pop; Heart Breakfast with Jamie Theakston & Amanda Holden, networked daytime shows; lifestyle, competitions, news bulletins
   notes: Heart 106.2 launched in London in 1995 (originally as London's Heart 106.2). Acquired and integrated into Global Radio (now Global) after Chrysalis sale in 2007. In 2019 most local Heart stations were merged into a quasi-national network with networked content from London; Heart London remains the flagship station. Targets a female-skewing 25-44 audience. Operates under Ofcom commercial radio licence.
   sources: http://www.heart.co.uk/london, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-9608ade8-0601-11e8-ae97-52543be04c81
+  - iprd-gb-heart-london-106-2-928d4827
+  - iprd-gb-heart-london-106-2-ac38e3d3
+streams:
+  - url: http://media-ice.musicradio.com/HeartLondon
+    codec: AAC
+    bitrate: 48
+  - url: http://ice-sov.musicradio.com/HeartLondonMP3
+    codec: MP3
+    bitrate: 128

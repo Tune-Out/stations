@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a4d441bf-b23d-40b2-b2cd-bb8022e6b033
-streams:
-  - url: 'http://stream.radiojar.com/5k7t0rq3bnzuv'
-    codec: MP3
-  - url: 'https://stream.radiojar.com/5k7t0rq3bnzuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Music programming with contemporary and popular hits
   notes: Commercial radio station broadcasting in Jakarta on 103.8 FM. Offers music-focused programming in Indonesian. Limited public information available about ownership structure.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a4d441bf-b23d-40b2-b2cd-bb8022e6b033
+  - iprd-id-brava-radio-103-8-a9a49ad6
+streams:
+  - url: http://stream.radiojar.com/5k7t0rq3bnzuv
+    codec: MP3
+  - url: https://stream.radiojar.com/5k7t0rq3bnzuv
+    codec: MP3

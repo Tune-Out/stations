@@ -1,7 +1,7 @@
 stationuuid: eb0e8ee9-8603-4842-b605-53813c4d024f
 name: radio tiempo montería 104.5 montería
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MONTERIA_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MONTERIA_SC
+url: 'https://24383.live.streamtheworld.com:443/RT_MONTERIA_SC'
+url_resolved: 'https://24383.live.streamtheworld.com:443/RT_MONTERIA_SC'
 homepage: https://radiotiempo.co/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-05-10 15:24:19
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-eb0e8ee9-8603-4842-b605-53813c4d024f
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Pop latino and ballads; news, lifestyle, technology content
   notes: Part of a multi-station Latin American radio network including Olímpica Stereo, Mix Radio, La Reina del Vallenato, and Emisora Atlántico. Member of IAB Colombia and Asomedios industry associations.
   sources: https://radiotiempo.co/
+curation: -0.05
+provenance:
+  - radiobrowser-eb0e8ee9-8603-4842-b605-53813c4d024f

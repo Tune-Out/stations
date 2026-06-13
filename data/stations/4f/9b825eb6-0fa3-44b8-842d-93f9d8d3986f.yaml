@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9b825eb6-0fa3-44b8-842d-93f9d8d3986f
-streams:
-  - url: 'https://stream.antiradio.net/radio/8000/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.antiradio.net/listen/anti_radio/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Deep house, indie, pop, rock, trance; curated playlists by mood; DJ shows; interviews
   notes: "Commercial online radio platform emphasizing discovery of new and independent music. Mission: \"Break the loop. Discover fresh tracks and hidden gems on our online radio station that you won't find on regular FM.\" 2,983 votes. Available on YouTube, Spotify, Apple Music, SoundCloud, Deezer."
   sources: https://antiradio.net/
+curation: 0.4
+provenance:
+  - radiobrowser-9b825eb6-0fa3-44b8-842d-93f9d8d3986f
+  - iprd-az-anti-radio-7674c5fa
+streams:
+  - url: https://stream.antiradio.net/radio/8000/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.antiradio.net/listen/anti_radio/mp3
+    codec: MP3
+    bitrate: 128

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-d4555d94-9315-4164-8171-24ea2752c410
-streams:
-  - url: 'http://stream.bayerwaldradio.com/allesoberkrain'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bayerwaldradio.deg.net:8000/allesoberkrain'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,14 @@ research:
   format: Traditional Bavarian folk, Alpine music, "Oberkrain" (Upper Carinthian) folk style
   notes: Bayerwald Radio community station in Bavaria, Germany; specialized in traditional Alpine and Bavarian folk music
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-d4555d94-9315-4164-8171-24ea2752c410
+  - iprd-de-alles-oberkrain-ac8ebf38
+streams:
+  - url: http://stream.bayerwaldradio.com/allesoberkrain
+    codec: MP3
+    bitrate: 128
+  - url: http://bayerwaldradio.deg.net:8000/allesoberkrain
+    codec: MP3
+    bitrate: 128

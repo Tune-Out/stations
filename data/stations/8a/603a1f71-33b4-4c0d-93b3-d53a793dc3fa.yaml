@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 23:55:28
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-603a1f71-33b4-4c0d-93b3-d53a793dc3fa
-streams:
-  - url: 'https://livestream.cprnetwork.org/pls/live_indie_aac.pls'
-    url_resolved: 'https://stream1.cprnetwork.org/cpr3_aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://stream1.cprnetwork.org/cpr3_lo'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Album Adult Alternative (AAA); indie rock, alternative, new music discovery; local Colorado music featured
   notes: Public, listener-supported non-commercial radio station. Launched as "Indie 102.3" on July 1, 2019, as rebranding of OpenAir (2011-2019). Colorado Public Radio affiliate focusing on new music discovery and Colorado artists. Part of Colorado's public radio network with multiple outlets across the state.
   sources: https://www.cpr.org/indie/, https://en.wikipedia.org/wiki/KVOQ_(FM)
+curation: 0.8
+provenance:
+  - radiobrowser-603a1f71-33b4-4c0d-93b3-d53a793dc3fa
+streams:
+  - url: https://livestream.cprnetwork.org/pls/live_indie_aac.pls
+    url_resolved: https://stream1.cprnetwork.org/cpr3_aac
+    codec: AAC+
+    bitrate: 48
+  - url: https://stream1.cprnetwork.org/cpr3_lo
+    codec: MP3
+    bitrate: 64

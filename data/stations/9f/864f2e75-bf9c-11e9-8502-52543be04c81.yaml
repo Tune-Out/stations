@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 3
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.20
-provenance:
-  - radiobrowser-864f2e75-bf9c-11e9-8502-52543be04c81
-streams:
-  - url: 'https://1a-classicrock.radionetz.de/1a-classicrock.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-classicrock.radionetz.de/1a-classicrock.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,15 @@ research:
   format: music-focused with decade-specific stations (60s–2000s) and genre channels including rock, pop, jazz, schlager, rap, relax, party
   notes: Based in Hof, Germany; tagline "Alle Hits – jederzeit, jeden Tag!" (All Hits – anytime, every day!); operates multiple themed music channels
   sources: http://www.1aradio.com/
+curation: 0.2
+provenance:
+  - radiobrowser-864f2e75-bf9c-11e9-8502-52543be04c81
+  - iprd-de-1a-classic-rock-2e26488a
+  - iprd-de-1a-classic-rock-1c46d5db
+streams:
+  - url: https://1a-classicrock.radionetz.de/1a-classicrock.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-classicrock.radionetz.de/1a-classicrock.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:14:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e5d0c4bd-16fe-4fd4-96f8-4c7b78ac1c2c
-streams:
-  - url: 'https://icecast.italosound.com/italosound'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.italosound.com:8000/italosound'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Dance and italo dance music programming
   notes: Italian commercial online radio station (Italo Sound Radio); broadcasts italo dance genre; serves Italian and international italo music community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e5d0c4bd-16fe-4fd4-96f8-4c7b78ac1c2c
+  - iprd-it-italo-sound-radio-eccd5b1c
+streams:
+  - url: https://icecast.italosound.com/italosound
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.italosound.com:8000/italosound
+    codec: MP3
+    bitrate: 192

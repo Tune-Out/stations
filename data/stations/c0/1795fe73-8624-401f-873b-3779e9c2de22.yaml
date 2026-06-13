@@ -19,21 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-1795fe73-8624-401f-873b-3779e9c2de22
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk/A/A29H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk/A/A29H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A29H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +28,19 @@ research:
   format: Alternative, indie, rock, electronica, hip-hop and curated new music outside Top-40 playlists; specialty shows and live sessions
   notes: DR P6 Beat launched in November 2011 as part of DR's reorganisation of its niche radio offerings, replacing the discontinued DR Rock channel and becoming a DAB+ and online-only station after Denmark's FM4 reallocation; it is DR's alternative/indie music channel, complementing the mainstream DR P3; hosts have included high-profile Danish music journalists; budget cuts following the 2018 Danish media-policy agreement reduced DR's overall radio output but P6 Beat survived as a digital-only channel and continues to champion Danish underground and international alternative music; DR is required by statute to be independent of political and commercial interests.
   sources: https://www.dr.dk/lyd/programmer, internal knowledge
+curation: 0.6
+provenance:
+  - radiobrowser-1795fe73-8624-401f-873b-3779e9c2de22
+  - iprd-dk-dr-p6-beat-45a8eeb7
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk/A/A29H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk/A/A29H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A29H.mp3
+    codec: MP3
+    bitrate: 128

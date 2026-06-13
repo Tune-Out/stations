@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 08:22:40
 clickcount: 7
 geo_lat: 50.112601173405665
 geo_long: 8.683147430419924
-curation: 0.50
-provenance:
-  - radiobrowser-d99c1386-0a12-4d7b-90d4-519ae5a89136
-streams:
-  - url: 'https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u'
-    url_resolved: 'http://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +34,14 @@ research:
   format: contemporary hit radio with rock, metal, pop, and entertainment programming; youth-oriented
   notes: HR3 is part of Hessischer Rundfunk public broadcasting service funded by TV license fees; operates as ARD member; serves Frankfurt-am-Main region; known for contemporary music, entertainment, and talk shows
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-d99c1386-0a12-4d7b-90d4-519ae5a89136
+streams:
+  - url: https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high
+    codec: MP3
+    bitrate: 128
+  - url: http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u
+    url_resolved: http://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

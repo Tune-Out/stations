@@ -19,14 +19,6 @@ lastchangetime: 2026-05-06 11:58:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-754949f5-0f7e-4f4e-8396-2314026bb311
-streams:
-  - url: 'https://stream05.pcradio.ru/blue_system-med'
-    codec: AAC
-  - url: 'https://stream05.pcradio.ru/Modern_Talking-hi'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -36,3 +28,11 @@ research:
   format: Music programming (Blue System streaming)
   notes: PCradio - Blue System is a Russian online radio station on the PCradio platform featuring blue-note/jazz-influenced programming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-754949f5-0f7e-4f4e-8396-2314026bb311
+streams:
+  - url: https://stream05.pcradio.ru/blue_system-med
+    codec: AAC
+  - url: https://stream05.pcradio.ru/Modern_Talking-hi
+    codec: AAC

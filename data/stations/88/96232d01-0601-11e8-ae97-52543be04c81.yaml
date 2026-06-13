@@ -26,16 +26,6 @@ lastchangetime: 2026-01-14 23:32:38
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-96232d01-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://khpr-ice.streamguys1.com/khpr2'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://khpr-ice.streamguys1.com/kipo2'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +35,15 @@ research:
   format: Jazz, blues, world music, news, talk, classical music; mixed public radio format
   notes: KHPR founded 1967; part of Hawaii's public broadcasting system providing news, cultural, and music programming; NPR member station
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-96232d01-0601-11e8-ae97-52543be04c81
+  - iprd-us-hawaii-public-radio-hpr-1-khpr-ff4714a0
+  - iprd-us-hawaii-public-radio-hpr-2-kipo-3a12b45c
+streams:
+  - url: http://khpr-ice.streamguys1.com/khpr2
+    codec: MP3
+    bitrate: 64
+  - url: http://khpr-ice.streamguys1.com/kipo2
+    codec: MP3
+    bitrate: 64

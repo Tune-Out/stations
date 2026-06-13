@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:17:02
 clickcount: 66
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-96147fcb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream1.chantefrance.com/cf-80'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: "\"80's\" thematic stream of the Chante France network, playing French-language hits from the 1980s non-stop"
   notes: Chante France is an all-French-music station (100% French-language chanson and pop) carried on DAB+ in Paris and other French cities and via a family of decade- and mood-themed web streams (60's, 70's, 80's, 90's-2000s, Nouveautes, Emotion, Party); the 80's channel focuses exclusively on French varietes and pop hits of the 1980s (Goldman, Balavoine, Berger, Cabrel, Sardou, France Gall, etc.); operates without explicit political or religious affiliation
   sources: http://www.chantefrance.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-96147fcb-0601-11e8-ae97-52543be04c81
+  - iprd-fr-chante-france-80-s-ea23e96d
+streams:
+  - url: http://stream1.chantefrance.com/cf-80
+    codec: MP3
+    bitrate: 128
+  - url: https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3
+    codec: MP3
+    bitrate: 128

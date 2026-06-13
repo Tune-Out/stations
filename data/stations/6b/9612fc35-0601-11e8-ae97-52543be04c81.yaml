@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:22:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9612fc35-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://direct.francebleu.fr/live/fbarmorique-midfi.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://direct.francebleu.fr/live/fbarmorique-midfi.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: regional public radio, news, information, culture, music, local programming
   notes: France Bleu Armorique is the regional service for Brittany (Bretagne region) within the France Bleu network. Part of Radio France, providing regional news, local information, and cultural programming specific to Brittany. Armorique is the historical Roman name for Brittany.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9612fc35-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://direct.francebleu.fr/live/fbarmorique-midfi.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://direct.francebleu.fr/live/fbarmorique-midfi.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: c246baf7-f76d-475a-adf3-7fdb9ac0703e
 name: MIX (Pachuca) - 92.5 FM - XHPK-FM - Grupo ACIR - Pachuca, Hidalgo
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHPKFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHPKFMAAC.aac
+url: 'https://29325.live.streamtheworld.com:443/XHPKFMAAC.aac'
+url_resolved: 'https://29325.live.streamtheworld.com:443/XHPKFMAAC.aac'
 homepage: https://mixfm.mx/
 favicon: https://i.iheart.com/v3/re/new_assets/c5a4465f-68df-45ac-b8df-c385b53d729c
 tags:
@@ -33,9 +33,6 @@ lastchangetime: 2026-01-15 08:22:41
 clickcount: 0
 geo_lat: 20.117764073675023
 geo_long: -98.74288558959962
-curation: -0.10
-provenance:
-  - radiobrowser-c246baf7-f76d-475a-adf3-7fdb9ac0703e
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +42,6 @@ research:
   format: Adult contemporary hits; classic hits from 80s, 90s, 2000s-2010s; pop and pop rock
   notes: MIX 92.5 FM (XHPK-FM) operates in Pachuca, Hidalgo. Licensed commercial station; part of Grupo ACIR, major Mexican broadcaster. Carries iHeartRadio programming. Format emphasizes nostalgia hits and current pop. Hosts include Moi Merino.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-c246baf7-f76d-475a-adf3-7fdb9ac0703e

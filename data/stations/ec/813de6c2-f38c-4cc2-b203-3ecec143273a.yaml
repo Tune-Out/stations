@@ -1,7 +1,7 @@
 stationuuid: 813de6c2-f38c-4cc2-b203-3ecec143273a
 name: 538 Party (MP3 Stream)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
+url: 'https://29023.live.streamtheworld.com:443/TLPSTR16.mp3'
+url_resolved: 'https://29023.live.streamtheworld.com:443/TLPSTR16.mp3'
 homepage: https://www.radio.de/s/538party
 favicon: https://www.radio.de/assets/fav/apple-touch-icon.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-813de6c2-f38c-4cc2-b203-3ecec143273a
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: dance, electronic, party music programming
   notes: 538 Party is a streaming service of NPO's 3FM radio; Dutch commercial/public broadcaster offering dance and party music format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-813de6c2-f38c-4cc2-b203-3ecec143273a

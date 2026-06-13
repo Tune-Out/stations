@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:29:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9609bbbb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://audio.joy.org.au/stream/joy949.pls?mp=/live'
-    url_resolved: 'http://audio.joy.org.au/proxy/joy949/live'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream.joy.org.au/proxy/joy949?mp=/live'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -42,3 +31,15 @@ research:
   format: Music, talk, news, entertainment; LGBTQ+ focused programming
   notes: 94.9 FM; pioneering non-commercial community radio station serving LGBTQ+ communities in Melbourne since 1992; "Out Loud Proud" tagline reflects mission
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9609bbbb-0601-11e8-ae97-52543be04c81
+  - iprd-au-joy-94-9-out-loud-proud-725e49b5
+streams:
+  - url: http://audio.joy.org.au/stream/joy949.pls?mp=/live
+    url_resolved: http://audio.joy.org.au/proxy/joy949/live
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream.joy.org.au/proxy/joy949?mp=/live
+    codec: AAC+
+    bitrate: 64

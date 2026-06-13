@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 29.721074210180983
 geo_long: -95.34329236551172
-curation: 0.65
-provenance:
-  - radiobrowser-ddae8e35-f647-4b8d-ab7e-3bcb58ab579e
-streams:
-  - url: 'http://stream.houstonpublicmedia.org/news-mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.houstonpublicmedia.org/news-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +29,13 @@ research:
   format: News and public affairs programming; NPR-affiliated content
   notes: Member station of National Public Radio serving Houston, Texas metropolitan area. Provides news, cultural, and educational programming. Part of public broadcasting ecosystem; non-commercial, listener-supported funding model.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-ddae8e35-f647-4b8d-ab7e-3bcb58ab579e
+streams:
+  - url: http://stream.houstonpublicmedia.org/news-mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.houstonpublicmedia.org/news-mp3
+    codec: MP3
+    bitrate: 128

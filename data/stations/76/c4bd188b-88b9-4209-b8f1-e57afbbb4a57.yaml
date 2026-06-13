@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 05:07:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-c4bd188b-88b9-4209-b8f1-e57afbbb4a57
-streams:
-  - url: 'https://hub.radiostream.pl/stream.pls?radio=8400&type=none&dist=zet&app=none&coding=aac&redirect=true'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://zt02.cdn.eurozet.pl/zet-old.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://zt01.cdn.eurozet.pl/zet-net.mp3?redirected=01'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://zet-net-01.cdn.eurozet.pl:8400/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -47,3 +31,21 @@ research:
   format: Contemporary hit radio (CHR); popular music and entertainment
   notes: Radio ZET operates on 95.6 FM in Warsaw and nationwide across Poland. Founded in 1992, it became one of Poland's most popular commercial radio stations. Part of the Eurozet media group.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-c4bd188b-88b9-4209-b8f1-e57afbbb4a57
+  - iprd-pl-radio-zet-bf43f2d5
+  - iprd-pl-radio-zet-a48f2755
+streams:
+  - url: https://hub.radiostream.pl/stream.pls?radio=8400&type=none&dist=zet&app=none&coding=aac&redirect=true
+    codec: AAC+
+    bitrate: 64
+  - url: https://zt02.cdn.eurozet.pl/zet-old.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://zt01.cdn.eurozet.pl/zet-net.mp3?redirected=01
+    codec: MP3
+    bitrate: 128
+  - url: http://zet-net-01.cdn.eurozet.pl:8400/
+    codec: MP3
+    bitrate: 128

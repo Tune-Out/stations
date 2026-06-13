@@ -26,14 +26,6 @@ lastchangetime: 2026-01-15 07:29:21
 clickcount: 2
 geo_lat: 44.5315723087303
 geo_long: 11.314486414788549
-curation: 0.80
-provenance:
-  - radiobrowser-59fd1fbb-b49c-488a-97a9-dd792cc785be
-streams:
-  - url: 'https://streaming.radiocittafujiko.it:8000/rcf.ogg'
-    codec: OGG
-  - url: 'http://comodino.org:8001/rcf.ogg'
-    codec: OGG
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +35,13 @@ research:
   format: Jazz, funk, indie, rock, pop; progressive, alternative, social/cultural/political programming
   notes: Founded 1976 by Bologna journalists; 103.1 MHz FM; historic free radio broadcaster; joined Popolare Network 2022; DAB+ since Jan 2026.
   sources: it.wikipedia.org/wiki/Radio_Città_Fujiko, radiocittafujiko.it, tunein.com
+curation: 0.8
+provenance:
+  - radiobrowser-59fd1fbb-b49c-488a-97a9-dd792cc785be
+  - iprd-it-radio-citt-fujiko-977cefcb
+  - iprd-it-radio-citta-fujiko-103-1-45436e72
+streams:
+  - url: https://streaming.radiocittafujiko.it:8000/rcf.ogg
+    codec: OGG
+  - url: http://comodino.org:8001/rcf.ogg
+    codec: OGG

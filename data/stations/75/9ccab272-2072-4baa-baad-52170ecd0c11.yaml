@@ -21,16 +21,6 @@ lastchangetime: 2026-02-16 09:39:28
 clickcount: 0
 geo_lat: 59.31392186908167
 geo_long: 18.028564453125004
-curation: 0.50
-provenance:
-  - radiobrowser-9ccab272-2072-4baa-baad-52170ecd0c11
-streams:
-  - url: 'https://live1.sr.se/p4sth-aac-32'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://live1.sr.se/p4sth-aac-32'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: Contemporary hit radio, news, talk, music programming
   notes: SR4 (P4 Stockholm) is a regional channel of Sveriges Radio, Sweden's national public broadcaster. Part of state-funded public radio service serving Stockholm metropolitan area.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9ccab272-2072-4baa-baad-52170ecd0c11
+streams:
+  - url: https://live1.sr.se/p4sth-aac-32
+    codec: AAC
+    bitrate: 128
+  - url: https://live1.sr.se/p4sth-aac-32
+    codec: MP3
+    bitrate: 96

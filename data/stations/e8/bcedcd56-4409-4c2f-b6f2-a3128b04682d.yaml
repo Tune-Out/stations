@@ -22,17 +22,6 @@ lastchangetime: 2026-01-22 01:10:13
 clickcount: 2
 geo_lat: 51.33820964939759
 geo_long: 12.379529178142548
-curation: 0.70
-provenance:
-  - radiobrowser-bcedcd56-4409-4c2f-b6f2-a3128b04682d
-streams:
-  - url: 'https://radio-hls.mdr.de/hls/live/2112906/mdr-284350-0-hls/index.m3u8'
-    codec: AAC
-    bitrate: 102
-    hls: true
-  - url: 'http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Classical music, concerts, jazz, culture programming
   notes: MDR KLASSIK is the classical music service of Mitteldeutscher Rundfunk, part of Germany's ARD public broadcasting system. Dedicated to classical music, concerts, opera, and jazz programming. Based in Leipzig, Saxony region. Part of Germany's licence-fee-funded public broadcasting model.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-bcedcd56-4409-4c2f-b6f2-a3128b04682d
+streams:
+  - url: https://radio-hls.mdr.de/hls/live/2112906/mdr-284350-0-hls/index.m3u8
+    codec: AAC
+    bitrate: 102
+    hls: true
+  - url: http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

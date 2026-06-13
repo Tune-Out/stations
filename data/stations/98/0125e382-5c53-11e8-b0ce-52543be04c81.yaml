@@ -23,20 +23,6 @@ lastchangetime: 2026-01-15 01:10:52
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-0125e382-5c53-11e8-b0ce-52543be04c81
-streams:
-  - url: 'https://www.lesonparisien.com/stream/aac.m3u'
-    url_resolved: 'http://stream.lesonparisien.com/hi.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream.lesonparisien.com/hi.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.lesonparisien.com/hi.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +32,18 @@ research:
   format: Electro, electronic, electronica, electropop, indie pop; DJ mixes, electronic music programming, live sessions
   notes: Le Son Parisien is a commercial internet radio station based in Paris specializing in electronic and indie music. Positioned as an alternative to mainstream French radio. Emphasis on independent artists and underground electronic music scenes. Multi-platform streaming.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-0125e382-5c53-11e8-b0ce-52543be04c81
+  - iprd-fr-le-son-parisien-cdf974be
+streams:
+  - url: https://www.lesonparisien.com/stream/aac.m3u
+    url_resolved: http://stream.lesonparisien.com/hi.aac
+    codec: AAC
+    bitrate: 128
+  - url: http://stream.lesonparisien.com/hi.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.lesonparisien.com/hi.mp3
+    codec: MP3
+    bitrate: 192

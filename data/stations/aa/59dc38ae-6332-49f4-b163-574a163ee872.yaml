@@ -20,17 +20,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-03-23 04:00:19
 clickcount: 2
-curation: 0.35
-provenance:
-  - radiobrowser-59dc38ae-6332-49f4-b163-574a163ee872
-streams:
-  - url: 'http://radio.forumcerdas.net:8000/'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://radio.forumcerdas.net:8000/listen.pls'
-    url_resolved: 'http://radio.forumcerdas.net:8000/;'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +29,15 @@ research:
   format: Community radio programming in Indonesian (Bahasa Indonesia)
   notes: SmartRadio Indonesia is a community radio station operated by Forum Cerdas, a community organization in Yogyakarta, Indonesia. Community radio suggests grassroots, locally-oriented programming serving the Yogyakarta region. Broadcast bitrate 64 kbps AAC+ indicates modest technical setup typical of community radio operations.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-59dc38ae-6332-49f4-b163-574a163ee872
+  - iprd-id-smartradio-indonesia-38506d33
+streams:
+  - url: http://radio.forumcerdas.net:8000/
+    codec: AAC+
+    bitrate: 64
+  - url: http://radio.forumcerdas.net:8000/listen.pls
+    url_resolved: http://radio.forumcerdas.net:8000/;
+    codec: AAC+
+    bitrate: 64

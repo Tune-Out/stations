@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: 19.427225903759695
 geo_long: -99.11041259765626
-curation: -0.05
-provenance:
-  - radiobrowser-a0639a4f-e79d-434d-a2d2-9c5bf74b77f9
-streams:
-  - url: 'https://cento02.mipanelradio.com/proxy/miguela1?mp=/stream/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cento02.mipanelradio.com/proxy/miguela1?mp=/stream/;stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Memories/nostalgia format; classic and retro music programming
   notes: Mexico City-based nostalgia-themed radio station; streams at 128 kbps MP3; operates memoriesradio.club domain
   sources: https://www.memoriesradio.club/
+curation: -0.05
+provenance:
+  - radiobrowser-a0639a4f-e79d-434d-a2d2-9c5bf74b77f9
+streams:
+  - url: https://cento02.mipanelradio.com/proxy/miguela1?mp=/stream/
+    codec: MP3
+    bitrate: 128
+  - url: https://cento02.mipanelradio.com/proxy/miguela1?mp=/stream/;stream
+    codec: MP3
+    bitrate: 128

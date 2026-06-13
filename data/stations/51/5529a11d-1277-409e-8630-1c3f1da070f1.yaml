@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 07:52:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-5529a11d-1277-409e-8630-1c3f1da070f1
-streams:
-  - url: 'http://stream.laut.fm/jahfari.m3u'
-    url_resolved: 'http://jahfari.stream.laut.fm/jahfari?pl=m3u&t302=2026-01-15_07-51-43&uuid=a8cf4629-d229-4317-ba1c-5c9c68a5a41a'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://laut.fm/jahfari'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +32,14 @@ research:
   format: Dancehall, reggae, and roots music streaming
   notes: Community radio stream on laut.fm platform (German independent radio); focuses on Caribbean music genres (reggae, dancehall, roots); German-based operation
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-5529a11d-1277-409e-8630-1c3f1da070f1
+streams:
+  - url: http://stream.laut.fm/jahfari.m3u
+    url_resolved: http://jahfari.stream.laut.fm/jahfari?pl=m3u&t302=2026-01-15_07-51-43&uuid=a8cf4629-d229-4317-ba1c-5c9c68a5a41a
+    codec: MP3
+    bitrate: 128
+  - url: https://laut.fm/jahfari
+    codec: MP3
+    bitrate: 128

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:12:37
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-d6413007-80c9-471a-a3a0-d4c2e94411ed
-streams:
-  - url: 'http://79.120.39.202:8000/electroclash'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.39.202:8002/electroclash'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,16 @@ research:
   format: Electroclash, synthcore, tech pop, nouveau disco, electronic music specialist
   notes: Radio Caprice is a well-known Russian internet radio network specializing in electronic and alternative electronic music. Multiple genre channels including this electroclash/synthcore stream. Independent operation. Community-driven playlist curation.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-d6413007-80c9-471a-a3a0-d4c2e94411ed
+  - iprd-ru-radio-caprice-electroclash-synthcore-tech-pop-nouveau-disco-a0f2236e
+  - iprd-ru-radio-caprice-electroclash-synthcore-tech-pop-nouveau-disco-a8a506ac
+  - iprd-ru-radio-caprice-electroclash-synthcore-tech-pop-nouveau-disco-328bbc6e
+streams:
+  - url: http://79.120.39.202:8000/electroclash
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.39.202:8002/electroclash
+    codec: AAC+
+    bitrate: 48

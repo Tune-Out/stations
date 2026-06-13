@@ -20,19 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-cc58e6d3-74ba-422c-82e9-56f5382d39e5
-streams:
-  - url: 'http://213.141.131.10:8000/musiqueconcrete'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://213.141.131.10:8004/musiqueconcrete'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://213.141.131.10:8002/musiqueconcrete'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +29,19 @@ research:
   format: Musique concrète, acousmatic, and electroacoustic music; experimental electronic composition
   notes: Radio Caprice is a Russian online radio station specializing in experimental and contemporary classical music. The network offers multiple specialized channels, including this dedicated musique concrète/acousmatic/electroacoustic channel. Focuses on avant-garde and art music traditions. Operates multiple genre-specific streams serving niche international audience.
   sources: http://radcap.ru/concrete.html
+curation: 0.65
+provenance:
+  - radiobrowser-cc58e6d3-74ba-422c-82e9-56f5382d39e5
+  - iprd-ru-radio-caprice-musique-concrete-acousmatic-electroacoustic-02a79cc3
+  - iprd-ru-radio-caprice-musique-concrete-acousmatic-electroacoustic-c1f04322
+  - iprd-ru-radio-caprice-musique-concrete-acousmatic-electroacoustic-1a65aae9
+streams:
+  - url: http://213.141.131.10:8000/musiqueconcrete
+    codec: AAC+
+    bitrate: 320
+  - url: http://213.141.131.10:8004/musiqueconcrete
+    codec: AAC+
+    bitrate: 320
+  - url: http://213.141.131.10:8002/musiqueconcrete
+    codec: AAC+
+    bitrate: 48

@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 06:29:43
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-ac854b04-5ba2-4d7e-8f71-aa57022641fb
-streams:
-  - url: 'https://streams.fluxfm.de/90er/mp3-320/audio/'
-    codec: MP3
-  - url: 'https://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +30,11 @@ research:
   format: 1990s music specialization; part of 30+ themed channels spanning electronic, indie, hip-hop, jazz, metal, alternative, decade-specific programming
   notes: Community-oriented non-commercial radio station in Berlin operating via FM, streaming, and FluxMusic app. Emphasizes cultural engagement with philosophy "become part of the flux community." Hosts FluxFM Bergfest and partnerships with cultural institutions. Original podcast series and monthly FluxLetter.
   sources: https://www.fluxfm.de/
+curation: 0.5
+provenance:
+  - radiobrowser-ac854b04-5ba2-4d7e-8f71-aa57022641fb
+streams:
+  - url: https://streams.fluxfm.de/90er/mp3-320/audio/
+    codec: MP3
+  - url: https://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/
+    codec: MP3

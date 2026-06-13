@@ -1,7 +1,7 @@
 stationuuid: 4d274203-36b5-46a1-b17e-702024fbf0ce
 name: La J Mexicana - 970 AM - XEJ-AM - Grupo Audiorama Comunicaciones - Ciudad Juárez, Chihuahua
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XEJ_AMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XEJ_AMAAC.aac
+url: 'https://27063.live.streamtheworld.com:443/XEJ_AMAAC.aac'
+url_resolved: 'https://27063.live.streamtheworld.com:443/XEJ_AMAAC.aac'
 homepage: https://www.audiorama.mx/estacion/la-j-mexicana/juarez/970AM
 favicon: ""
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 05:19:36
 clickcount: 4
 geo_lat: 31.73919458432945
 geo_long: -106.4817237854004
-curation: -0.05
-provenance:
-  - radiobrowser-4d274203-36b5-46a1-b17e-702024fbf0ce
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Spanish ballads, romantic music, nostalgia
   notes: Mexican commercial AM station (XEJ-AM, 970 AM) in Ciudad Juárez; operated by Grupo Audiorama; specializes in Spanish ballads and classic romantic music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4d274203-36b5-46a1-b17e-702024fbf0ce

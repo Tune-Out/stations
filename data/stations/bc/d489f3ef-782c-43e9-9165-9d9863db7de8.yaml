@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 03:38:05
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d489f3ef-782c-43e9-9165-9d9863db7de8
-streams:
-  - url: 'https://stream.zeno.fm/0zashcvc9zquv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/3tfg0vng9ueuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: '"radio hablada" (talk radio); news, sports (deportes), entertainment, variety programming'
   notes: '"Emisoras Unidas" (United Stations) is major broadcast network in Guatemala; 91.1 FM; established talk-radio format with emphasis on news, sports, and current affairs; audience-oriented toward information consumers'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d489f3ef-782c-43e9-9165-9d9863db7de8
+streams:
+  - url: https://stream.zeno.fm/0zashcvc9zquv
+    codec: MP3
+  - url: https://stream.zeno.fm/3tfg0vng9ueuv
+    codec: MP3

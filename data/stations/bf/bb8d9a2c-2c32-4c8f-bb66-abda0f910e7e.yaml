@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 00:12:47
 clickcount: 0
 geo_lat: 49.49836012899348
 geo_long: 8.457302749156954
-curation: 0.00
-provenance:
-  - radiobrowser-bb8d9a2c-2c32-4c8f-bb66-abda0f910e7e
-streams:
-  - url: 'http://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/'
-    codec: MP3
-  - url: 'https://stream.sunshine-live.de/2000er/mp3-192/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Chill and electronic; part of multi-channel platform featuring decade channels (80s-2010s), genre streams (House, Techno, Hardstyle, Drum 'n' Bass), and thematic channels (Ibiza, Festival, Gaming, Pride).
   notes: "Based in Mannheim, Germany. Also broadcasts AM/FM/DAB in Switzerland. Multi-format codec support (MP3 192/128 kbps, AAC 64 kbps). Contact: technik@sunshine-live.de."
   sources: http://stream.sunshine-live.de/
+curation: 0
+provenance:
+  - radiobrowser-bb8d9a2c-2c32-4c8f-bb66-abda0f910e7e
+streams:
+  - url: http://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/
+    codec: MP3
+  - url: https://stream.sunshine-live.de/2000er/mp3-192/
+    codec: MP3

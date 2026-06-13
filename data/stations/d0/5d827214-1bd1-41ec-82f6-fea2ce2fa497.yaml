@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-5d827214-1bd1-41ec-82f6-fea2ce2fa497
-streams:
-  - url: 'https://museum.streamserver24.com:8080/stream?&utm_source=radio.menu'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://museum.streamserver24.com:8080/stream'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Listener-driven music programming; curated playlists with music requests ("Musikwünsche"); "Das Plattenkiste - Radio!" (The Record Crate - Radio)
   notes: Museum-oriented radio station (AM 1476) with curatorial approach; features music lists and recommendations ("Wir empfehlen!"); community engagement through listener music requests.
   sources: https://www.plattenkiste.radio/
+curation: 0.6
+provenance:
+  - radiobrowser-5d827214-1bd1-41ec-82f6-fea2ce2fa497
+streams:
+  - url: https://museum.streamserver24.com:8080/stream?&utm_source=radio.menu
+    codec: MP3
+    bitrate: 256
+  - url: https://museum.streamserver24.com:8080/stream
+    codec: MP3
+    bitrate: 256

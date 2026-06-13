@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 06:33:03
 clickcount: 56
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-5e992e1e-e6ef-11e9-a96c-52543be04c81
-duplicate_of: 81440088-0a76-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/francemusique-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://icecast.radiofrance.fr/francemusique-hifi.aac?id=radiofrance'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Classical music, contemporary composition, opera, ballet, music documentaries, and educational programming
   notes: Part of the Radio France family alongside France Inter and Franceinfo; dedicated exclusively to music programming; broadcasts classical, jazz, contemporary, world music and cross-genre combinations; streamed via icecast.radiofrance.fr and web platforms; operates multiple themed services within classical umbrella; promotes French musical culture and education
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-5e992e1e-e6ef-11e9-a96c-52543be04c81
+duplicate_of: 81440088-0a76-11e8-ae97-52543be04c81
+streams:
+  - url: http://icecast.radiofrance.fr/francemusique-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: https://icecast.radiofrance.fr/francemusique-hifi.aac?id=radiofrance
+    codec: AAC
+    bitrate: 192

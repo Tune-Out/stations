@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 05:24:52
 clickcount: 23
 geo_lat: 51.212713450041704
 geo_long: 4.42227065563202
-curation: -0.05
-provenance:
-  - radiobrowser-c89e0869-1247-4d43-9a96-84a4e1524b0b
-streams:
-  - url: 'https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac'
-    codec: AAC+
-    bitrate: 95
-  - url: 'https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac'
-    codec: AAC+
-    bitrate: 95
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: Rock music programming
   notes: '"Willy" branded network station (Class X variant). Part of DPG Media/Mediahuis broadcast infrastructure. Flemish commercial radio with rock focus serving adult audience.'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c89e0869-1247-4d43-9a96-84a4e1524b0b
+streams:
+  - url: https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac
+    codec: AAC+
+    bitrate: 95
+  - url: https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac
+    codec: AAC+
+    bitrate: 95

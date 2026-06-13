@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3c4f2b35-946b-4ce7-adda-13256d058512
-streams:
-  - url: 'https://radio.canstream.co.uk:8025/live.mp3?_=596083'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.canstream.co.uk:8025/live.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Asian music, Bollywood news, South Asian music interviews, cricket coverage
   notes: Operating as "Your No.1 Hit Asian Music Station"; host Diwali Roadshow and cultural events; available on DAB, Radioplayer, TuneIn, Alexa
   sources: https://www.sabrasradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-3c4f2b35-946b-4ce7-adda-13256d058512
+streams:
+  - url: https://radio.canstream.co.uk:8025/live.mp3?_=596083
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.canstream.co.uk:8025/live.mp3
+    codec: MP3
+    bitrate: 128

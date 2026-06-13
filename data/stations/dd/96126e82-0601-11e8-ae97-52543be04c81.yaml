@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 05:44:38
 clickcount: 211
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-96126e82-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://icecast.omroep.nl/radio2-bb-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://icecast.omroep.nl/radio2-sb-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'http://icecast.omroep.nl/radio2-bb-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +31,19 @@ research:
   format: Adult contemporary / pop / rock / soul / singer-songwriter with talk segments, news, and live sessions; home of the annual "Top 2000" countdown
   notes: 'One of the original Hilversum 3 (now NPO 3FM) sibling networks, established in its current form in 1985; flagship adult music station of Dutch public radio; the Top 2000 broadcast each year between Christmas and New Year is a major Dutch cultural event. Tagline: "Er is maar een NPO Radio 2"'
   sources: http://www.nporadio2.nl/, internal knowledge
+curation: 0.6
+provenance:
+  - radiobrowser-96126e82-0601-11e8-ae97-52543be04c81
+  - iprd-nl-npo-2-a7dc8c18
+  - iprd-nl-npo-radio-2-bf3b9cb5
+  - iprd-nl-npo-radio-2-0146dc06
+streams:
+  - url: https://icecast.omroep.nl/radio2-bb-aac
+    codec: AAC
+    bitrate: 64
+  - url: http://icecast.omroep.nl/radio2-sb-aac
+    codec: AAC
+    bitrate: 32
+  - url: http://icecast.omroep.nl/radio2-bb-mp3
+    codec: MP3
+    bitrate: 192

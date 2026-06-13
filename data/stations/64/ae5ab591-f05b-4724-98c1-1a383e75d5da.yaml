@@ -26,18 +26,6 @@ lastchangetime: 2026-03-30 18:13:28
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ae5ab591-f05b-4724-98c1-1a383e75d5da
-streams:
-  - url: 'https://stream.laut.fm/m2o-originals-radio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://eu4.fastcast4u.com/proxy/sentre2/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://stream.zeno.fm/yextksspwp0tv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +35,15 @@ research:
   format: Electronic dance music, hands-up house, Italo dance, Eurodance
   notes: Community-driven station streaming Italian dance/electronic formats; established presence on Laut.fm streaming platform; no apparent corporate backing documented
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ae5ab591-f05b-4724-98c1-1a383e75d5da
+streams:
+  - url: https://stream.laut.fm/m2o-originals-radio
+    codec: MP3
+    bitrate: 128
+  - url: https://eu4.fastcast4u.com/proxy/sentre2/stream
+    codec: MP3
+    bitrate: 96
+  - url: http://stream.zeno.fm/yextksspwp0tv
+    codec: MP3

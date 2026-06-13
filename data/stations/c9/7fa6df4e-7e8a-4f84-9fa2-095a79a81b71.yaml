@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 01:20:44
 clickcount: 2
 geo_lat: 54.090919261865594
 geo_long: 12.129592895507814
-curation: -0.05
-provenance:
-  - radiobrowser-7fa6df4e-7e8a-4f84-9fa2-095a79a81b71
-streams:
-  - url: 'https://streams.80s80s.de/summerhits/mp3-192/streams.80s80s.de/'
-    codec: MP3
-  - url: 'http://streams.80s80s.de/summerhits/mp3-192/streams.80s80s.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: 1980s music specializing in summer hits and seasonal 80s themed programming.
   notes: REGIOCAST operates 80s80s brand with multiple themed channels. Summerhits channel curates 1980s summer-themed music. Multi-platform distribution via DAB+, streaming, smart speakers, and smart TV.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7fa6df4e-7e8a-4f84-9fa2-095a79a81b71
+streams:
+  - url: https://streams.80s80s.de/summerhits/mp3-192/streams.80s80s.de/
+    codec: MP3
+  - url: http://streams.80s80s.de/summerhits/mp3-192/streams.80s80s.de/
+    codec: MP3

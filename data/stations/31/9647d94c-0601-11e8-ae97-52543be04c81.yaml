@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:06:28
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9647d94c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://onair-ha1.krone.at/kronehit64.aac'
-    codec: AAC
-    bitrate: 163
-  - url: 'http://onair-ha1.krone.at/kronehit.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,26 @@ research:
   format: Adult contemporary music format with pop, rock, and mainstream hits; full-service radio with news, talk, and music
   notes: KRONEHIT is an Austrian commercial radio station based in Salzburg; broadcasts on 97.0 MHz and other frequencies across Austria; known for adult contemporary format targeting 25-54 age group; operated as independent Salzburg-based station with online streaming; part of Austrian radio landscape competing with ORF public broadcaster.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9647d94c-0601-11e8-ae97-52543be04c81
+  - iprd-at-kronehit-charts-6ceb9d41
+  - iprd-at-kronehit-event-3-0894b851
+  - iprd-at-kronehit-greatest-hits-99ff4348
+  - iprd-at-kronehit-latino-e2b58ce2
+  - iprd-at-kronehit-vollgas-150fa7ed
+  - iprd-at-kronehit-radio-b0b19f15
+  - iprd-at-kronehit-radio-fd9de692
+  - iprd-at-kronehit-90s-dance-13dfaaba
+  - iprd-at-kronehit-clubland-xxl-c45f38d7
+  - iprd-at-kronehit-dance-6e5502cf
+  - iprd-at-kronehit-electric-bba1b1d5
+  - iprd-at-kronehit-fresh-1dcc6e6c
+  - iprd-at-kronehit-workout-22054d43
+streams:
+  - url: http://onair-ha1.krone.at/kronehit64.aac
+    codec: AAC
+    bitrate: 163
+  - url: http://onair-ha1.krone.at/kronehit.aac
+    codec: AAC+
+    bitrate: 64

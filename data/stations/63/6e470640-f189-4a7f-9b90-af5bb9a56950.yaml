@@ -19,22 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6e470640-f189-4a7f-9b90-af5bb9a56950
-streams:
-  - url: 'https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8'
-    codec: AAC
-    bitrate: 276
-    hls: true
-  - url: 'https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8'
-    codec: AAC
-    bitrate: 150
-    hls: true
-  - url: 'https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8'
-    codec: AAC,H.264
-    bitrate: 2816
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +28,19 @@ research:
   format: Love songs, romantic music, contemporary hits; part of multi-platform entertainment offering (live radio, podcasts, DJ sets, live music)
   notes: Commercial radio station operated by BSN Broadcasting. Part of broader PowerApp platform including Power FM, PowerTürk, Power Pop, and other branded stations. Emphasizes "100% live music experience" with podcasts, DJ sets, and listener engagement program. Active on social media (Facebook, X, Instagram, YouTube, TikTok).
   sources: https://www.powerapp.com.tr/radios/powerlove/
+curation: -0.05
+provenance:
+  - radiobrowser-6e470640-f189-4a7f-9b90-af5bb9a56950
+streams:
+  - url: https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
+    codec: AAC
+    bitrate: 276
+    hls: true
+  - url: https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
+    codec: AAC
+    bitrate: 150
+    hls: true
+  - url: https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+    codec: AAC,H.264
+    bitrate: 2816
+    hls: true

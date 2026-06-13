@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 0
 geo_lat: 49.42971502754859
 geo_long: 11.074897348880768
-curation: -0.05
-provenance:
-  - radiobrowser-1d6292fd-a4a4-4f6d-910e-f30096cd473a
-streams:
-  - url: 'https://frontend.streamonkey.net/fhn-hitradion1'
-    codec: AAC
-  - url: 'https://frontend.streamonkey.net/fhn-hitradion1weihnachten/stream/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +30,12 @@ research:
   format: Hit Radio N1 with Weihnachtsradio (Christmas Radio) seasonal stream; contemporary hits music
   notes: Hit Radio N1 is a Nuremberg-based commercial radio station; offers a Christmas music specialty stream during seasonal periods; serves the Franconia region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1d6292fd-a4a4-4f6d-910e-f30096cd473a
+streams:
+  - url: https://frontend.streamonkey.net/fhn-hitradion1
+    codec: AAC
+  - url: https://frontend.streamonkey.net/fhn-hitradion1weihnachten/stream/mp3
+    codec: MP3
+    bitrate: 128

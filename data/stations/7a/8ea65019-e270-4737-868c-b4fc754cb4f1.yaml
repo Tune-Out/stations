@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 43
 geo_lat: 61.120930879735546
 geo_long: 10.462401226998631
-curation: -0.10
-provenance:
-  - radiobrowser-8ea65019-e270-4737-868c-b4fc754cb4f1
-streams:
-  - url: 'https://p4.p4groupaudio.com/P04_AH'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://p4.p4groupaudio.com/P04_MM'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,16 @@ research:
   format: Contemporary hits, pop music, news, entertainment; AAC 192kbps high-quality streaming
   notes: P4 Norge is major Norwegian commercial radio network with multiple regional stations; P4 Group operates popular music format across Scandinavia
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-8ea65019-e270-4737-868c-b4fc754cb4f1
+  - iprd-no-nrk-p1-trondelag-cb9e3820
+  - iprd-no-p4-lyden-av-norge-f5d33f49
+  - iprd-no-p4-lyden-av-norge-4d9966b7
+streams:
+  - url: https://p4.p4groupaudio.com/P04_AH
+    codec: AAC
+    bitrate: 192
+  - url: https://p4.p4groupaudio.com/P04_MM
+    codec: MP3
+    bitrate: 128

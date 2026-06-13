@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 00:53:11
 clickcount: 31
 geo_lat: null
 geo_long: null
-curation: 0.10
-provenance:
-  - radiobrowser-38cb1dcb-5753-11e8-b0ce-52543be04c81
-streams:
-  - url: 'http://streaming.radio.funradio.fr/fun-1-44-128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast.funradio.fr/fun-1-44-128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming.radio.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,17 @@ research:
   format: Dance music, electronic, contemporary pop, dance hits
   notes: French commercial radio station part of NRJ Group. Focuses on dance music and contemporary hits, popular with younger French audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-38cb1dcb-5753-11e8-b0ce-52543be04c81
+  - iprd-fr-fun-radio-3a686662
+streams:
+  - url: http://streaming.radio.funradio.fr/fun-1-44-128
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast.funradio.fr/fun-1-44-128
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming.radio.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
+    codec: MP3
+    bitrate: 128

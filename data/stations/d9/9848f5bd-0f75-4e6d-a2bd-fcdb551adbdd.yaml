@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:12:24
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-9848f5bd-0f75-4e6d-a2bd-fcdb551adbdd
-streams:
-  - url: 'https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8'
-    codec: AAC
-    bitrate: 256
-    hls: true
-  - url: 'https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio'
-    codec: AAC+
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: Classical music
   notes: Yle Klassinen is a classical music service operated by YLE, Finland's national public broadcasting company. Finnish language programming.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-9848f5bd-0f75-4e6d-a2bd-fcdb551adbdd
+  - iprd-fi-yle-klassinen-c572f59b
+streams:
+  - url: https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8
+    codec: AAC
+    bitrate: 256
+    hls: true
+  - url: https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio
+    codec: AAC+

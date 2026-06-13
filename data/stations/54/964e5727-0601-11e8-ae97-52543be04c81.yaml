@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:27:13
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-964e5727-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://89.223.45.5:8000/space-flac'
-    codec: OGG
-    bitrate: 1411
-  - url: 'http://89.223.45.5:8000/space-160'
-    codec: OGG
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,15 @@ research:
   format: electronic, ambient, and relaxing music; chill-out/downtempo focus
   notes: Sector Radio operates multiple specialized channels; Sector SPACE focuses on spacey, atmospheric electronic and ambient music; serves global audience interested in relaxing electronic genres
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-964e5727-0601-11e8-ae97-52543be04c81
+  - iprd-ru-radio-sektor-space-6402f29c
+  - iprd-ru-radio-sektor-space-c23c9a04
+streams:
+  - url: http://89.223.45.5:8000/space-flac
+    codec: OGG
+    bitrate: 1411
+  - url: http://89.223.45.5:8000/space-160
+    codec: OGG
+    bitrate: 192

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 01:03:20
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9605f587-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.radiox.de/media/radiox.m3u'
-    url_resolved: 'http://stream.radiox.de:8000/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.radiox.de:8443/live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -42,3 +31,15 @@ research:
   format: Music, talk, politics, LGBTQIA+ programming, cultural/community focus; station radio format
   notes: German community radio based in Frankfurt am Main. Tagged with lgbtiqa* indicating strong LGBTQIA+ content; nkl tag suggests alternative/free radio context. Focus on community voices and political discussion.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9605f587-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-x-91-8-b4b16b1f
+streams:
+  - url: http://www.radiox.de/media/radiox.m3u
+    url_resolved: http://stream.radiox.de:8000/live
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.radiox.de:8443/live
+    codec: MP3
+    bitrate: 128

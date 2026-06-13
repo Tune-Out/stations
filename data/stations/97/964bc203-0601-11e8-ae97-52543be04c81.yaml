@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:11:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-964bc203-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.hopemedia.com.au/fresh'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://stream.hopemedia.com.au/fresh-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,17 @@ research:
   format: Contemporary Christian music, worship, religious talk, and inspirational programming
   notes: FRESHRadio is operated by HOPE Media, an Australian Christian broadcaster. Despite country code listing, the stream and homepage (hope1032.com.au) confirm Australian origin. Streams Christian content including worship music and religious programming. Serves Australian and international Christian communities.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-964bc203-0601-11e8-ae97-52543be04c81
+  - iprd-us-freshradio-2d1a79f7
+  - iprd-us-freshradio-d56efbd3
+  - iprd-us-inspire-digital-dbb41ac2
+  - iprd-us-inspire-digital-c0eef29e
+streams:
+  - url: http://stream.hopemedia.com.au/fresh
+    codec: AAC+
+    bitrate: 128
+  - url: http://stream.hopemedia.com.au/fresh-mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: f63cde9f-f826-44cc-98d5-98cc74b258c2
 name: SportsRadio 1310 & 96.7 The Ticket
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC.aac
+url: 'https://14613.live.streamtheworld.com:443/KTCKAMAAC.aac'
+url_resolved: 'https://14613.live.streamtheworld.com:443/KTCKAMAAC.aac'
 homepage: https://www.theticket.com/
 favicon: https://www.theticket.com/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:26:25
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f63cde9f-f826-44cc-98d5-98cc74b258c2
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: 24-hour sports talk, interviews, play-by-play coverage of Dallas teams
   notes: Major market sports talk station owned by iHeartMedia; broadcasts news, interviews, and local sports coverage.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f63cde9f-f826-44cc-98d5-98cc74b258c2

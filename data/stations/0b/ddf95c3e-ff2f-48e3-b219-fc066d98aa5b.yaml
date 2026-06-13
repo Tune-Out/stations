@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:32:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ddf95c3e-ff2f-48e3-b219-fc066d98aa5b
-streams:
-  - url: 'http://s33.myradiostream.com:16150/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s33.myradiostream.com/16150/listen.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: Extended format spanning contemporary hits to dance; daytime current hits, nighttime EDM/Dance/DNB; weekend charts and podcasts
   notes: Independent non-commercial online radio; broadcasts daily current hits and classic tracks; explicitly states "does not obtain material benefits from broadcasting musical works." Streams on multiple platforms including Winamp, mobile apps, and aggregators (myTuner, Online Radio Box, Radio Garden). Featured shows include DIMITRI VEGAS & LIKE MIKE, Protocol Radio, Planet Perfecto, Transitions, Global DJ Broadcast, and Purified Radio.
   sources: https://www.mb-radio.org/
+curation: 0.35
+provenance:
+  - radiobrowser-ddf95c3e-ff2f-48e3-b219-fc066d98aa5b
+streams:
+  - url: http://s33.myradiostream.com:16150/
+    codec: MP3
+    bitrate: 128
+  - url: https://s33.myradiostream.com/16150/listen.mp3
+    codec: MP3
+    bitrate: 128

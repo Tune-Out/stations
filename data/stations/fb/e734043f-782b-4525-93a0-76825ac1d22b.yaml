@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 06:01:29
 clickcount: 0
 geo_lat: 48.36831675769296
 geo_long: 10.89389115571976
-curation: 0.20
-provenance:
-  - radiobrowser-e734043f-782b-4525-93a0-76825ac1d22b
-duplicate_of: f171531d-ec81-4ffe-a5ef-4b83d9ce1f44
-streams:
-  - url: 'http://klassikr.streamabc.net/klr-krdnational-aacplus-64-8291420?aggregator=hoererdirekt'
-    codec: AAC
-  - url: 'http://klassikr.streamabc.net/klr-krdnational-aacplus-64-8291420'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: Classical music, film soundtracks, jazz, lounge, and wellness/relaxation audio
   notes: 'Privately operated commercial station. Tagline: "Musik zum Wohlfühlen und Entspannen" (Music for well-being and relaxation). Hosts include Klara Jäger, Thomas Ohrner, Alexandra Berger. Offers Klassik Radio Plus subscription (€3.75/month ad-free).'
   sources: https://www.klassikradio.de/
+curation: 0.2
+provenance:
+  - radiobrowser-e734043f-782b-4525-93a0-76825ac1d22b
+duplicate_of: f171531d-ec81-4ffe-a5ef-4b83d9ce1f44
+streams:
+  - url: http://klassikr.streamabc.net/klr-krdnational-aacplus-64-8291420?aggregator=hoererdirekt
+    codec: AAC
+  - url: http://klassikr.streamabc.net/klr-krdnational-aacplus-64-8291420
+    codec: AAC

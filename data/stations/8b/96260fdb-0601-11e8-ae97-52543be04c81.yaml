@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:18:42
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-96260fdb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://dal-wku-stream-1.neighborhoodca.com/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://dal-wku-stream-1.neighborhoodca.com/stream?uuid=j21qhd5su'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,14 @@ research:
   format: Public radio with NPR, PRI, and APM programming; educational, news, music, cultural content
   notes: Licensed to Bowling Green, Kentucky; part of NPR network. Offers educational and cultural programming to WKU and community. 88.9 FM.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-96260fdb-0601-11e8-ae97-52543be04c81
+  - iprd-us-wkyu-88-9-wku-public-radio-cf120a18
+streams:
+  - url: https://dal-wku-stream-1.neighborhoodca.com/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://dal-wku-stream-1.neighborhoodca.com/stream?uuid=j21qhd5su
+    codec: MP3
+    bitrate: 128

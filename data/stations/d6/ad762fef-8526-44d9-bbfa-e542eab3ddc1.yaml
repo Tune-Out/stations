@@ -1,7 +1,7 @@
 stationuuid: ad762fef-8526-44d9-bbfa-e542eab3ddc1
 name: FM Globo
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCL_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCL_SC
+url: 'https://18213.live.streamtheworld.com:443/XHOCL_SC'
+url_resolved: 'https://18213.live.streamtheworld.com:443/XHOCL_SC'
 homepage: https://fmglobo.com/tijuana/home
 favicon: https://fmglobo.com/favicon.ico
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 01:19:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ad762fef-8526-44d9-bbfa-e542eab3ddc1
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Contemporary hit radio with pop and regional music
   notes: Latin American commercial broadcaster. Serves Tijuana market with modern format. Part of larger Globo media group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ad762fef-8526-44d9-bbfa-e542eab3ddc1

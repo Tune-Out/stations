@@ -18,14 +18,6 @@ bitrate: 0
 hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 07:11:47
-curation: 0.30
-provenance:
-  - radiobrowser-83f1b97e-4d6c-44ae-8a8e-8abcb3cc12c2
-streams:
-  - url: 'https://radiorecord.hostingradio.ru/vip96.aacp'
-    codec: AAC
-  - url: 'http://radiorecord.hostingradio.ru/vip96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +27,13 @@ research:
   format: House music and electronic dance music (EDM) programming; VIP-branded channel within Radio Record network.
   notes: Radio Record is a major commercial Russian radio network. VIP House is a specialized channel within the network focusing on house music. Part of larger Russian media company.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-83f1b97e-4d6c-44ae-8a8e-8abcb3cc12c2
+  - iprd-ru-radio-record-vip-house-3af1d2b4
+  - iprd-ru-radio-rekord-vip-house-7c654105
+streams:
+  - url: https://radiorecord.hostingradio.ru/vip96.aacp
+    codec: AAC
+  - url: http://radiorecord.hostingradio.ru/vip96.aacp
+    codec: AAC

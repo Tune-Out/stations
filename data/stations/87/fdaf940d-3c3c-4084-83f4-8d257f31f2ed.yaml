@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:15:15
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-fdaf940d-3c3c-4084-83f4-8d257f31f2ed
-streams:
-  - url: 'https://azura.ebsmedia.ro/listen/hungarian/hungarian128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.ebsmedia.ro/listen/hungarian/hungarian128.mp3?refresh=1779029332085'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Hungarian pop music exclusively
   notes: Specialized commercial radio stream operated by EBS Media (ebsradio.ro) focusing on Hungarian popular music. Targets Hungarian-language audience, likely serving Hungarian minority communities in Romania and neighboring regions. Stream available at 128 kbps MP3.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-fdaf940d-3c3c-4084-83f4-8d257f31f2ed
+streams:
+  - url: https://azura.ebsmedia.ro/listen/hungarian/hungarian128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.ebsmedia.ro/listen/hungarian/hungarian128.mp3?refresh=1779029332085
+    codec: MP3
+    bitrate: 128

@@ -25,16 +25,6 @@ lastchangetime: 2026-04-16 21:43:26
 clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.65
-provenance:
-  - radiobrowser-a7005d8f-5635-4b5b-a78b-f08c81cedb38
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=10'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=1'
-    codec: MP3
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -44,3 +34,13 @@ research:
   format: Curated ambient, dream pop, and contemporary electronic music; channel "traumerei" (dreamy) curated for sleep, relaxation, and reading.
   notes: FluxFM is independent Berlin community radio known for experimental and niche music programming. "Traumerei" channel is specialty curated programming emphasizing calm, ambient aesthetics. Circa 2024-2025, offers diverse experimental channels beyond traditional radio.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-a7005d8f-5635-4b5b-a78b-f08c81cedb38
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=10
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=1
+    codec: MP3
+  - url: https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10
+    codec: MP3

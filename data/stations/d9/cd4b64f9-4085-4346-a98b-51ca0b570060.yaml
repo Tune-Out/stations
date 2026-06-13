@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:29:13
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-cd4b64f9-4085-4346-a98b-51ca0b570060
-streams:
-  - url: 'https://streamingmediaradio.live/8086/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://streamingmediaradio.live/8086/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Contemporary pop, reggaeton, urbano music; urban music programming
   notes: Independent commercial station serving Medellín metropolitan area; focus on reggaeton and urban contemporary music; target younger urban demographics
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cd4b64f9-4085-4346-a98b-51ca0b570060
+streams:
+  - url: https://streamingmediaradio.live/8086/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://streamingmediaradio.live/8086/stream
+    codec: MP3
+    bitrate: 192

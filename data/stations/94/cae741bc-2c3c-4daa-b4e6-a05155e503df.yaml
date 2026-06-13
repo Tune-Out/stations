@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:39:23
 clickcount: 0
 geo_lat: 51.4031037356085
 geo_long: 19.695919454097748
-curation: 0.35
-provenance:
-  - radiobrowser-cae741bc-2c3c-4daa-b4e6-a05155e503df
-streams:
-  - url: 'http://play.strefa.fm:8000/strefa.ogg'
-    codec: OGG
-    bitrate: 64
-  - url: 'http://play.strefa.fm:8000/strefa.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Local news and music programming
   notes: Community local radio station in Piotrków Trybunalski, central Poland. Streams in OGG format at 64 kbps. Focus on local news and community interests.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-cae741bc-2c3c-4daa-b4e6-a05155e503df
+streams:
+  - url: http://play.strefa.fm:8000/strefa.ogg
+    codec: OGG
+    bitrate: 64
+  - url: http://play.strefa.fm:8000/strefa.mp3
+    codec: MP3
+    bitrate: 128

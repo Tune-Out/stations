@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 05:26:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-40dae759-35ad-4007-945c-45c0e64d2460
-streams:
-  - url: 'http://streams.planetradio.de/planetradio/mp3/hqlivestream.m3u'
-    url_resolved: 'http://mp3.planetradio.de/planetradio/hqlivestream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3.planetradio.de/plrchannels/hqtheclub.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: Music streaming and webradio
   notes: Web-based music streaming service operating from Germany, offering high-quality MP3 streams of music content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-40dae759-35ad-4007-945c-45c0e64d2460
+streams:
+  - url: http://streams.planetradio.de/planetradio/mp3/hqlivestream.m3u
+    url_resolved: http://mp3.planetradio.de/planetradio/hqlivestream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3.planetradio.de/plrchannels/hqtheclub.mp3
+    codec: MP3
+    bitrate: 128

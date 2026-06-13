@@ -31,16 +31,6 @@ lastchangetime: 2026-01-15 01:44:13
 clickcount: 29
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-c77c45c4-cf37-414c-ae34-868f7d9cd944
-streams:
-  - url: 'https://funkyradio.streamingmedia.it/audio.aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://funkyradio.streamingmedia.it/play.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -50,3 +40,15 @@ research:
   format: funk, soul, R&B, disco from 1960s-1980s
   notes: specializes in classic funk and disco tracks; streams via internet radio platform
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c77c45c4-cf37-414c-ae34-868f7d9cd944
+  - iprd-us-funky-radio-only-funk-music-491ce71c
+  - iprd-us-funky-radio-only-funk-music-d45af3d8
+streams:
+  - url: https://funkyradio.streamingmedia.it/audio.aac
+    codec: AAC+
+    bitrate: 128
+  - url: https://funkyradio.streamingmedia.it/play.mp3
+    codec: MP3
+    bitrate: 320

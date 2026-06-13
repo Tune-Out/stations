@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:58:03
 clickcount: 22
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9ebf344d-3885-49fa-8b1e-29f5367fda0f
-streams:
-  - url: 'https://radiorecord.hostingradio.ru/sd9096.aacp'
-    codec: AAC
-  - url: 'http://radiorecord.hostingradio.ru/sd9096.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/sd9096.aacp?0968d4a7'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Retro music (1970s-1990s), oldies, nostalgia programming
   notes: Belarusian commercial station Мелодии Века (Melodies of the Century) on 96.2 FM; focuses on retro/nostalgia music format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9ebf344d-3885-49fa-8b1e-29f5367fda0f
+  - iprd-ru-radio-rekord-superdiskoteka-90-fed9b869
+streams:
+  - url: https://radiorecord.hostingradio.ru/sd9096.aacp
+    codec: AAC
+  - url: http://radiorecord.hostingradio.ru/sd9096.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/sd9096.aacp?0968d4a7
+    codec: AAC

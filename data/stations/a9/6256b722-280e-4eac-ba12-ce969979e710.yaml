@@ -1,7 +1,7 @@
 stationuuid: 6256b722-280e-4eac-ba12-ce969979e710
 name: La Z Ciudad Juárez - 103.5 FM / 720 AM - XHEM-FM / XEJCC-AM - Grupo Audiorama Comunicaciones - Ciudad Juárez, Chihuahua
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FMAAC.aac
+url: 'https://27053.live.streamtheworld.com:443/XHEM_FMAAC.aac'
+url_resolved: 'https://27053.live.streamtheworld.com:443/XHEM_FMAAC.aac'
 homepage: https://i.ibb.co/SmXdhpT/La-Z-Juarez.png
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 5
 geo_lat: 31.738936820965513
 geo_long: -106.48266792297365
-curation: 0.30
-provenance:
-  - radiobrowser-6256b722-280e-4eac-ba12-ce969979e710
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Regional Mexican music (Banda, Norteña, Grupera, Traditionalmexicana); entertainment programming
   notes: La Z broadcasts on XHEM-FM (103.5 FM) and XEJCC-AM (720 AM) from Ciudad Juárez. Owned by Grupo Audiorama Comunicaciones (acquired from Grupo Radio Centro in 2022; separated in February 2026). Serves Mexico-US border region.
   sources: https://en.wikipedia.org/wiki/XHEM-FM, https://en.wikipedia.org/wiki/XEJCC-AM
+curation: 0.3
+provenance:
+  - radiobrowser-6256b722-280e-4eac-ba12-ce969979e710

@@ -19,16 +19,6 @@ lastchangetime: 2026-05-18 03:36:34
 clickcount: 0
 geo_lat: -7.572396079044959
 geo_long: 110.82938075065611
-curation: -0.05
-provenance:
-  - radiobrowser-cfbcd6dd-dd71-411f-82f8-1b7c2f0bcca8
-streams:
-  - url: 'https://s1.cloudmu.id/listen/prambors/radio.mp3?city=Surakarta'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://s1.cloudmu.id/listen/prambors/radio.mp3?age=18%2B'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: commercial music and entertainment with popular Indonesian and international hits
   notes: Prambors is a major commercial Indonesian radio network; Solo/Surakarta station (99.2 FM) serves Central Java region with contemporary music, entertainment, and lifestyle programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cfbcd6dd-dd71-411f-82f8-1b7c2f0bcca8
+streams:
+  - url: https://s1.cloudmu.id/listen/prambors/radio.mp3?city=Surakarta
+    codec: AAC+
+    bitrate: 48
+  - url: https://s1.cloudmu.id/listen/prambors/radio.mp3?age=18%2B
+    codec: AAC+
+    bitrate: 48

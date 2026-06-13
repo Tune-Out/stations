@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8c054c1b-797b-4a90-a4c3-6d7219162f47
-streams:
-  - url: 'http://46.28.49.164:7722/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://46.28.49.164:7722/stream/1/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Community radio programming
   notes: UK community radio station serving Staffordshire area. Licensed and regulated under Ofcom community radio rules.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8c054c1b-797b-4a90-a4c3-6d7219162f47
+streams:
+  - url: http://46.28.49.164:7722/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://46.28.49.164:7722/stream/1/
+    codec: MP3
+    bitrate: 128

@@ -22,18 +22,6 @@ lastchangetime: 2026-01-14 23:49:40
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-0816a06c-a7e9-4f3c-9708-2682485f7a79
-streams:
-  - url: 'https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg'
-    codec: OGG
-    bitrate: 320
-  - url: 'https://radio.lapfoxradio.com/radio/8000/stream-flac.flac'
-    codec: OGG
-  - url: 'https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +31,16 @@ research:
   format: Electronic music streaming with lossless audio (FLAC, OGG Vorbis, MP3 options); DJ-curated electronic music playlist
   notes: Non-commercial community internet radio station operated by Halley Labs (music rights). Emphasis on accessibility with multiple format/bitrate options (FLAC lossless, OGG, MP3). Powered by Azuracast (open-source broadcasting software). Serves electronic music community with particular focus on furry fandom artists. Minimal advertising; community-oriented mission.
   sources: https://lapfoxradio.com/
+curation: 0.65
+provenance:
+  - radiobrowser-0816a06c-a7e9-4f3c-9708-2682485f7a79
+  - iprd-ca-lapfox-radio-58c797fd
+streams:
+  - url: https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg
+    codec: OGG
+    bitrate: 320
+  - url: https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+    codec: OGG
+  - url: https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3
+    codec: MP3
+    bitrate: 320

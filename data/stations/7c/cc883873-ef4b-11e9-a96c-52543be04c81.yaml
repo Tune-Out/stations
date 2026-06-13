@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-cc883873-ef4b-11e9-a96c-52543be04c81
-streams:
-  - url: 'http://79.120.77.11:8000/instrumental'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.77.11:8002/instrumental'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,15 @@ research:
   format: Instrumental music radio featuring classical, jazz, ambient, and relaxation-focused instrumental compositions.
   notes: Radio Caprice is Russian commercial online radio network operating multiple themed channels. Instrumental channel specializes in background and focus music without vocals. Moscow-based operation.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-cc883873-ef4b-11e9-a96c-52543be04c81
+  - iprd-ru-radio-caprice-instrumental-music-e1c64b62
+  - iprd-ru-radio-caprice-instrumental-music-2e897304
+streams:
+  - url: http://79.120.77.11:8000/instrumental
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.77.11:8002/instrumental
+    codec: AAC+
+    bitrate: 48

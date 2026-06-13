@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-09d04815-b82d-400c-a71c-2d3fdc56b604
-streams:
-  - url: 'https://denge-cudi.stream.laut.fm/denge-cudi'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Unknown programming format
   notes: Denge Cudi ("Voice of Cudi" in Kurdish) is a community radio station hosted on laut.fm, broadcasting in Kurdish language.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-09d04815-b82d-400c-a71c-2d3fdc56b604
+  - iprd-de-denge-cudi-14124b14
+streams:
+  - url: https://denge-cudi.stream.laut.fm/denge-cudi
+    codec: MP3
+    bitrate: 128
+  - url: https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u
+    codec: MP3
+    bitrate: 128

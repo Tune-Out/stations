@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-962326cb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://glzwizzlv.bynetcdn.com/glz_mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -43,3 +30,17 @@ research:
   format: Full-service news/talk and music network, with hourly news bulletins, current affairs ("Ma Boer", "Yoman Hashavua"), military and security analysis, popular Hebrew and international music, sports, satire and youth programming; the sister channel Galgalatz (101-103 FM) is its all-music traffic-and-music spin-off run by the same unit.
   notes: Founded on 24 September 1950 by order of David Ben-Gurion, Galei Zahal ("IDF Waves") is the world's longest-running continuously operating military-run public radio station; uniquely it broadcasts independent journalism, music and entertainment to the general civilian public while being staffed largely by conscripted soldiers (often top Israeli journalists, musicians and broadcasters did their national service there - Ehud Manor, Yaron London, Razi Barkai, Keren Neubach and many others); it has periodically been at the centre of political controversy, with Israeli right-wing ministers repeatedly proposing to close it or move it to civilian hands, most notably under Defense Minister Avigdor Lieberman (2017) and again in 2023-2024 under Yoav Gallant; its editorial line is generally considered mainstream Israeli centrist with strong investigative journalism, and it produces flagship cultural programmes including the long-running music chart "Maslul Hofa'a"; broadcasts on 102.3 FM (national core), AM 1287 and online stream glz.co.il - the URL on file (bynetcdn.com) is a CDN edge for that stream.
   sources: internal knowledge (homepage URL is a CDN, no fetchable site content)
+curation: 0.55
+provenance:
+  - radiobrowser-962326cb-0601-11e8-ae97-52543be04c81
+  - iprd-il-galei-zahal-102-3-56e284ad
+streams:
+  - url: http://glzwizzlv.bynetcdn.com/glz_mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+    codec: MP3
+    bitrate: 128
+  - url: https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+    codec: MP3
+    bitrate: 128

@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 04:41:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-e701e76e-be2e-44c2-8fc8-640f34a1a476
-streams:
-  - url: 'http://lhttp.qingting.fm/live/5052/64k.mp3'
-    codec: MP3
-  - url: 'http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +30,13 @@ research:
   format: Full-service public radio; news, information, music, entertainment.
   notes: Public broadcaster serving Shaoxing city in Zhejiang Province. State-affiliated broadcaster. Streams via Qingting FM platform. Full-service format covering news, information, culture, and entertainment.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-e701e76e-be2e-44c2-8fc8-640f34a1a476
+  - iprd-cn-shaoxing-comprehensive-broadcasting-93-6-738-d9d0169a
+streams:
+  - url: http://lhttp.qingting.fm/live/5052/64k.mp3
+    codec: MP3
+  - url: http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
+    codec: UNKNOWN
+    hls: true

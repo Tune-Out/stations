@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 00:36:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-963ba04e-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming.tdiradio.com:8000/love'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://streaming.tdiradio.com:8000/tdiradio'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +31,21 @@ research:
   format: Love songs, adult contemporary, romantic programming
   notes: Commercial radio station based in Belgrade, Serbia; "Love" channel specializes in love songs and romantic music for adult contemporary audience
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-963ba04e-0601-11e8-ae97-52543be04c81
+  - iprd-rs-tdi-radio-0baa93d0
+  - iprd-rs-tdi-radio-bez-reklama-2d87afc3
+  - iprd-rs-tdi-radio-chill-out-db3b54b6
+  - iprd-rs-tdi-radio-classics-1f621d25
+  - iprd-rs-tdi-radio-domacica-1431afff
+  - iprd-rs-tdi-radio-love-3a39e2fc
+  - iprd-rs-tdi-radio-pop-rnb-hits-5574aefb
+  - iprd-rs-tdi-radio-top-40-7a559004
+  - iprd-rs-tdi-radio-yu-dance-cb37389a
+streams:
+  - url: http://streaming.tdiradio.com:8000/love
+    codec: AAC
+    bitrate: 128
+  - url: http://streaming.tdiradio.com:8000/tdiradio
+    codec: AAC

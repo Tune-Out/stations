@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-e36a33c7-4071-42b2-9a39-f20ac137ebe1
-streams:
-  - url: 'https://rockantenne-hh-stream07.radiohost.de/917xfm_mp3-192?'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.917xfm.de/917xfm/mp3-128/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: indie rock, alternative rock
   notes: 917xfm Hamburg is an indie-focused rock station operated by Rock Antenne network
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-e36a33c7-4071-42b2-9a39-f20ac137ebe1
+streams:
+  - url: https://rockantenne-hh-stream07.radiohost.de/917xfm_mp3-192?
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.917xfm.de/917xfm/mp3-128/
+    codec: MP3
+    bitrate: 192

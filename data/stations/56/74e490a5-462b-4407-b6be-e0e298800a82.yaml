@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 08:25:40
 clickcount: 5
 geo_lat: 45.80774312785381
 geo_long: 15.96972125506034
-curation: -0.05
-provenance:
-  - radiobrowser-74e490a5-462b-4407-b6be-e0e298800a82
-duplicate_of: 3a23d0e2-4ceb-4439-a33a-6feb575b1bf6
-streams:
-  - url: 'https://stream2.otvoreni.hr/otvoreni'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://stream2.otvoreni.hr/otvoreni'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: General music and entertainment programming
   notes: Otvoreni Radio is a commercial broadcaster based in Zagreb, Croatia; serves Croatian audience with music and general entertainment content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-74e490a5-462b-4407-b6be-e0e298800a82
+duplicate_of: 3a23d0e2-4ceb-4439-a33a-6feb575b1bf6
+streams:
+  - url: https://stream2.otvoreni.hr/otvoreni
+    codec: AAC
+    bitrate: 48
+  - url: http://stream2.otvoreni.hr/otvoreni
+    codec: AAC
+    bitrate: 48

@@ -22,24 +22,6 @@ lastchangetime: 2026-01-15 02:10:00
 clickcount: 24
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-964be8b7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://retro.dancewave.online/retrodance.ogg'
-    codec: OGG
-    bitrate: 160
-  - url: 'https://retro.dancewave.online/retrodance.opus'
-    codec: OGG
-    bitrate: 96
-  - url: 'https://retro.dancewave.online/retrodance.flac.ogg'
-    codec: OGG
-  - url: 'https://retro.dancewave.online/retrodance.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://retro.dancewave.online/retrodance.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -49,3 +31,22 @@ research:
   format: 100% 1990s dance and electronic music; house, techno, trance, eurodance from 1990s era
   notes: Dance Wave Retro! is an internet-based radio stream hosted in Hungary specializing exclusively in 1990s dance and electronic music. Non-commercial web radio with global reach targeting nostalgia-oriented audience and electronic music enthusiasts. Focuses on house, techno, trance, eurodance, and other electronic genres from the 1990s dance music golden era. Volunteer-operated online community radio station.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-964be8b7-0601-11e8-ae97-52543be04c81
+  - iprd-hu-dance-wave-retro-6feb68ae
+streams:
+  - url: https://retro.dancewave.online/retrodance.ogg
+    codec: OGG
+    bitrate: 160
+  - url: https://retro.dancewave.online/retrodance.opus
+    codec: OGG
+    bitrate: 96
+  - url: https://retro.dancewave.online/retrodance.flac.ogg
+    codec: OGG
+  - url: https://retro.dancewave.online/retrodance.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://retro.dancewave.online/retrodance.mp3
+    codec: MP3
+    bitrate: 128

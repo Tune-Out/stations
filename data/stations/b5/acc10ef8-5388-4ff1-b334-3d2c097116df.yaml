@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-acc10ef8-5388-4ff1-b334-3d2c097116df
-streams:
-  - url: 'http://diffusion.lafrap.fr/sun-classique.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://diffusion.lafrap.fr/sun-classique.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Classical music (classique), symphonic music
   notes: SUN Classique is a French internet radio station dedicated to classical music. Part of Le Son Unique network, offering classical repertoire to French and francophone audiences.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-acc10ef8-5388-4ff1-b334-3d2c097116df
+streams:
+  - url: http://diffusion.lafrap.fr/sun-classique.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://diffusion.lafrap.fr/sun-classique.mp3
+    codec: MP3
+    bitrate: 128

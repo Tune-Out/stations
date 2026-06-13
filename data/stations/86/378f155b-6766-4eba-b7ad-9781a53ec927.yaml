@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 6
 geo_lat: 47.062468386556816
 geo_long: 15.44260964512319
-curation: -0.05
-provenance:
-  - radiobrowser-378f155b-6766-4eba-b7ad-9781a53ec927
-streams:
-  - url: 'http://live.antenne.at/rf'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://live.antenne.at/rf'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Schlager music (Alpine/Central European folk-pop); Austrian regional appeal
   notes: Styrian-based station in southeastern Austria. Schlager format includes traditional Alpine and contemporary European folk-pop. Part of Antenne's regional network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-378f155b-6766-4eba-b7ad-9781a53ec927
+  - iprd-at-radio-flamingo-f4898dc2
+streams:
+  - url: http://live.antenne.at/rf
+    codec: AAC
+    bitrate: 64
+  - url: https://live.antenne.at/rf
+    codec: AAC
+    bitrate: 64

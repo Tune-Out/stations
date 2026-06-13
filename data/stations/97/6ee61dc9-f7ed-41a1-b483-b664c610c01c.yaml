@@ -22,18 +22,6 @@ lastchangetime: 2026-01-14 23:41:54
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6ee61dc9-f7ed-41a1-b483-b664c610c01c
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/4938/64k.mp3'
-    codec: MP3
-  - url: 'http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +31,16 @@ research:
   format: Classic popular music and nostalgic hits from various eras; emphasis on oldies and traditional Chinese pop.
   notes: 江苏经典流行音乐广播 (Jiangsu Classic Popular Music Radio) is a Chinese public broadcaster specializing in classic popular music. Part of Jiangsu Media's radio portfolio. Broadcasts to Jiangsu province and wider Chinese audience via internet streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6ee61dc9-f7ed-41a1-b483-b664c610c01c
+  - iprd-cn-kiangsu-classical-music-radio-4d5c2638
+streams:
+  - url: https://lhttp.qtfm.cn/live/4938/64k.mp3
+    codec: MP3
+  - url: http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?
+    codec: UNKNOWN
+    hls: true
+  - url: http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+    codec: UNKNOWN
+    hls: true

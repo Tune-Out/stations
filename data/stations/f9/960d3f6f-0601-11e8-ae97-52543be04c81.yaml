@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 07:36:11
 clickcount: 20
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.80
-provenance:
-  - radiobrowser-960d3f6f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://somafm.com/spacestation130.pls'
-    url_resolved: 'https://ice5.somafm.com/spacestation-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/spacestation64.pls'
-    url_resolved: 'https://ice4.somafm.com/spacestation-64-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://somafm.com/spacestation320.pls'
-    url_resolved: 'https://ice1.somafm.com/spacestation-320-mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -48,3 +32,22 @@ research:
   format: Ambient and mid-tempo electronica; described as "mostly analog-inspired mid- and downtempo electronic music, from 1990 to now"
   notes: SomaFM is a listener-supported, commercial-free internet radio station founded 2000 based in California. Part of SomaFM network featuring themed channels. Funded by listener donations and monthly subscriptions. Emphasizes community and available on multiple platforms.
   sources: https://somafm.com/spacestation/
+curation: 0.65
+provenance:
+  - radiobrowser-960d3f6f-0601-11e8-ae97-52543be04c81
+  - iprd-us-somafm-space-station-soma-cfbb086e
+  - iprd-us-somafm-space-station-soma-b7a4f566
+  - iprd-us-somafm-space-station-soma-46119edf
+streams:
+  - url: https://somafm.com/spacestation130.pls
+    url_resolved: https://ice5.somafm.com/spacestation-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/spacestation64.pls
+    url_resolved: https://ice4.somafm.com/spacestation-64-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://somafm.com/spacestation320.pls
+    url_resolved: https://ice1.somafm.com/spacestation-320-mp3
+    codec: MP3
+    bitrate: 320

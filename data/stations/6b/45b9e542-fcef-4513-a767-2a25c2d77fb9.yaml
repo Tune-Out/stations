@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-45b9e542-fcef-4513-a767-2a25c2d77fb9
-streams:
-  - url: 'https://stream.regenbogen2.de/rheinneckar/aac-128'
-    codec: AAC
-  - url: 'https://stream.regenbogen2.de/rheinneckar/aac-64'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +33,11 @@ research:
   format: classic rock, contemporary pop, and rock music; typical regional commercial radio format
   notes: Regenbogen 2 is a second channel of the regional Regenbogen network serving the Rhine-Neckar region of Germany. Broadcasts contemporary and classic rock/pop format appealing to mainstream audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-45b9e542-fcef-4513-a767-2a25c2d77fb9
+streams:
+  - url: https://stream.regenbogen2.de/rheinneckar/aac-128
+    codec: AAC
+  - url: https://stream.regenbogen2.de/rheinneckar/aac-64
+    codec: AAC

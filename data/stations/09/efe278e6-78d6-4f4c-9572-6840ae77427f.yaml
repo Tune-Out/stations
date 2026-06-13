@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-efe278e6-78d6-4f4c-9572-6840ae77427f
-streams:
-  - url: 'https://c22.radioboss.fm:18205/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://c22.radioboss.fm:18205/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: unknown
@@ -38,3 +28,13 @@ research:
   format: Unknown; branding suggests contemporary music focus
   notes: Australian webradio broadcaster streaming from Melbourne. Limited public information available. Domain security policies prevented detailed webpage research.
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-efe278e6-78d6-4f4c-9572-6840ae77427f
+streams:
+  - url: https://c22.radioboss.fm:18205/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://c22.radioboss.fm:18205/stream
+    codec: MP3
+    bitrate: 192

@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-9610ce7a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://radio.afera.com.pl/afera128.ogg'
-    codec: OGG
-    bitrate: 128
-  - url: 'http://radio.afera.com.pl/afera128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.afera.com.pl/afera128.mp3?no_cache=0.982752767360271'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,18 @@ research:
   format: Alternative rock, rock, alternative music
   notes: Radio Afera is a Polish commercial radio station based in Poznan. Specializes in alternative rock and indie rock music. Polish-language broadcasts serving Poznan and wider Poland with rock-oriented programming. Features alternative artists and rock canon.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-9610ce7a-0601-11e8-ae97-52543be04c81
+  - iprd-pl-radio-afera-98-6-c1014df2
+  - iprd-pl-radio-afera-98-6-c21f8ae6
+streams:
+  - url: https://radio.afera.com.pl/afera128.ogg
+    codec: OGG
+    bitrate: 128
+  - url: http://radio.afera.com.pl/afera128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.afera.com.pl/afera128.mp3?no_cache=0.982752767360271
+    codec: MP3
+    bitrate: 128

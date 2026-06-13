@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-38282707-d199-4ea1-8ded-9fe35659767a
-streams:
-  - url: 'http://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'https://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: 24/7 death metal music (curated sub-stream within the Radio BOB! "Spartenkanäle" network)
   notes: Radio BOB! launched in 2008 as a rock-format station, broadcasting via DAB+ across Germany; its parent Radio BOB! GmbH is partly owned by Hessischer Rundfunk-aligned commercial partners and Regiocast (Kiel); offers dozens of online sub-streams ("Spartenkanäle") for niches like Classic Rock, AOR, Hardcore, Punk, Stoner, and this Death Metal stream; popular among the German metal community; advertising-supported.
   sources: internal knowledge of German private radio
+curation: 0.6
+provenance:
+  - radiobrowser-38282707-d199-4ea1-8ded-9fe35659767a
+streams:
+  - url: http://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: https://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/
+    codec: MP3

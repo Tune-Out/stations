@@ -1,7 +1,7 @@
 stationuuid: b81c57c3-eb05-47ac-a0ea-eb01a6960cc4
 name: LOS 40 Principales España
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+url: 'https://28503.live.streamtheworld.com:443/LOS40.mp3'
+url_resolved: 'https://28503.live.streamtheworld.com:443/LOS40.mp3'
 homepage: https://los40.com/
 favicon: https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 05:45:24
 clickcount: 228
 geo_lat: 40.41182296033974
 geo_long: -3.7353515625
-curation: 0.00
-provenance:
-  - radiobrowser-b81c57c3-eb05-47ac-a0ea-eb01a6960cc4
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,7 @@ research:
   format: Contemporary Hit Radio / Top 40 pop with international and Spanish-language hits, DJ-led shows, chart countdowns and live concerts (40 Music Awards, 40 Principales en directo)
   notes: Launched 18 July 1966 as one of the first Spanish stations to play contemporary pop and rock; renamed simply "LOS40" in 2016 in a brand refresh. The "40 Principales" name refers to the weekly Top 40 chart. Flagship of PRISA Radio's youth music brands; the LOS40 brand also operates in Mexico, Colombia, Chile, Argentina and other Spanish-speaking countries.
   sources: https://los40.com/ (fetch blocked), internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-b81c57c3-eb05-47ac-a0ea-eb01a6960cc4
+  - iprd-es-los-40-principales-espa-a-48e2fac5

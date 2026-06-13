@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 2
 geo_lat: 43.39073169927394
 geo_long: -80.40863513946535
-curation: 0.45
-provenance:
-  - radiobrowser-2cbe0322-b42d-4547-8879-0d7bdfc886e1
-streams:
-  - url: 'https://conestoga.leanstream.co/CJIQFM?args=3rdparty_01&starttime=1605211812'
-    codec: AAC+
-    bitrate: 56
-  - url: 'https://conestoga.leanstream.co/CJIQFM'
-    codec: AAC+
-    bitrate: 55
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,14 @@ research:
   format: Alternative rock and student-driven programming; campus radio format with student hosts and student-selected music; community-focused alternative rock
   notes: CJIQ 88.3 FM is a student-operated radio station at Conestoga College in Kitchener, Ontario; operates as non-profit campus radio; primarily alternative rock with student DJs and volunteer programming; serves both college community and broader Kitchener-Waterloo area; educational mission centers on student media experience and community engagement.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-2cbe0322-b42d-4547-8879-0d7bdfc886e1
+  - iprd-ca-cjiq-88-3-tri-cities-alternative-4daca411
+streams:
+  - url: https://conestoga.leanstream.co/CJIQFM?args=3rdparty_01&starttime=1605211812
+    codec: AAC+
+    bitrate: 56
+  - url: https://conestoga.leanstream.co/CJIQFM
+    codec: AAC+
+    bitrate: 55

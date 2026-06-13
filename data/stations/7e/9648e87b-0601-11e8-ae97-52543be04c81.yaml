@@ -1,6 +1,6 @@
 stationuuid: 9648e87b-0601-11e8-ae97-52543be04c81
 name: WRTB "95.3 The Bull" Winnebago, IL
-url: http://provisioning.streamtheworld.com/pls/WRTBFMAAC.pls
+url: 'http://18513.live.streamtheworld.com:80/WRTBFMAAC_SC'
 url_resolved: http://26293.live.streamtheworld.com:3690/WRTBFMAAC_SC
 homepage: http://www.953thebull.com/
 favicon: https://www.thebullrockford.com/wp-content/uploads/revslider/radio-stations/953-the-bull-500-150x150.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:11:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648e87b-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music exclusively. Regional and national country hits.
   notes: WRTB 95.3 FM "The Bull" is a commercial country music station in the Rockford-Winnebago area of Illinois. Part of Cumulus Media network. Classic country format serving northwestern Illinois.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648e87b-0601-11e8-ae97-52543be04c81

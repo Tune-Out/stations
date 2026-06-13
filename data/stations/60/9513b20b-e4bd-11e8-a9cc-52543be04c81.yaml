@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:22:40
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9513b20b-e4bd-11e8-a9cc-52543be04c81
-streams:
-  - url: 'http://stream.gal.io/arrow'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.player.arrow.nl/arrowcr'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 'Classic rock and modern rock with branding "De #1 in Classic- & Modern Rock"'
   notes: Arrow Classic Rock launched in 1994 as the Netherlands' first classic-rock-format station and was an FM regional broadcaster before moving primarily to DAB+, cable, and online; the station was acquired by John de Mol's Talpa Network in 2018 and continues to operate as a niche commercial rock format alongside Talpa's other stations such as Radio 538, Radio Veronica, and Sky Radio.
   sources: https://www.arrow.nl/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-9513b20b-e4bd-11e8-a9cc-52543be04c81
+  - iprd-nl-arrow-classic-rock-7954f74f
+streams:
+  - url: http://stream.gal.io/arrow
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.player.arrow.nl/arrowcr
+    codec: MP3
+    bitrate: 96

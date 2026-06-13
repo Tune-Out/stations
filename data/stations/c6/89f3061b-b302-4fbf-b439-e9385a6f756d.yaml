@@ -1,7 +1,7 @@
 stationuuid: 89f3061b-b302-4fbf-b439-e9385a6f756d
 name: Exa FM León - 104.1 FM - XHMD-FM - MVS Radio - León, GT
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMDFM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMDFM_SC
+url: 'https://14223.live.streamtheworld.com:443/XHMDFM_SC'
+url_resolved: 'https://14223.live.streamtheworld.com:443/XHMDFM_SC'
 homepage: https://www.exafm.com/leon/
 favicon: https://www.exafm.com/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:17:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-89f3061b-b302-4fbf-b439-e9385a6f756d
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Pop music, entertainment, and youth-oriented programming
   notes: Exa FM is a commercial pop music station operated by MVS Radio (Medios y Más); nationwide network with regional stations including León; described as "la estación exacta" (the exact station) brand messaging
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-89f3061b-b302-4fbf-b439-e9385a6f756d

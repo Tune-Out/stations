@@ -24,14 +24,6 @@ lastchangetime: 2026-03-18 20:28:50
 clickcount: 0
 geo_lat: 52.58565117766891
 geo_long: -1.9822149855659843
-curation: 0.35
-provenance:
-  - radiobrowser-d43299d2-90a5-4339-9785-6000b1eb4672
-streams:
-  - url: 'https://api.synkradio.co.uk/listen.mp3?station=synk_radio_rap'
-    codec: MP3
-  - url: 'https://api.synkradio.co.uk/listen.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +33,11 @@ research:
   format: Hip-hop, rap, and R&B music programming
   notes: Community internet radio station based in Walsall, UK with focus on urban music genres and local audience engagement.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d43299d2-90a5-4339-9785-6000b1eb4672
+streams:
+  - url: https://api.synkradio.co.uk/listen.mp3?station=synk_radio_rap
+    codec: MP3
+  - url: https://api.synkradio.co.uk/listen.mp3
+    codec: MP3

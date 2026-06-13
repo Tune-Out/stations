@@ -23,15 +23,6 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-e240cca5-20a3-45e8-9ea9-2b86d4ce3528
-streams:
-  - url: 'http://streaming.exclusive.radio/er/elvispresley/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.exclusive.radio/er/elvispresley/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/er/elvispresley/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +32,13 @@ research:
   format: 24/7 music exclusively by Elvis Presley — rock, blues, gospel, country, ballads, and live recordings spanning his career
   notes: Exclusively Elvis Presley is a single-artist themed channel from Exclusive Radio, a Dubai/UAE-based commercial internet radio network that operates a catalog of dozens of channels each dedicated to a specific artist (e.g., Exclusively Beatles, Exclusively ABBA, Exclusively Queen); the channels stream non-stop music by their featured artist with minimal interruption; the network is supported by advertising and listed for global distribution on aggregators including TuneIn, mytuner-radio, and Radio Garden; not affiliated with the Elvis Presley Enterprises estate.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-e240cca5-20a3-45e8-9ea9-2b86d4ce3528
+  - iprd-ae-elvis-presley-97fe6d27
+streams:
+  - url: http://streaming.exclusive.radio/er/elvispresley/icecast.audio
+    codec: MP3
+  - url: https://streaming.exclusive.radio/er/elvispresley/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/er/elvispresley/icecast.audio
+    codec: MP3

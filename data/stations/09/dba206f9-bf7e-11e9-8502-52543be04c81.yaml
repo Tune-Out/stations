@@ -20,22 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-dba206f9-bf7e-11e9-8502-52543be04c81
-streams:
-  - url: 'http://radio.talkradio.co.uk/stream'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://radio.talkradio.co.uk/stream'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://radio.talkradio.co.uk/stream'
-    codec: AAC
-    bitrate: 63
-  - url: 'https://radio.talkradio.co.uk/stream'
-    codec: AAC
-    bitrate: 63
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +29,20 @@ research:
   format: National commercial speech radio focusing on news, current affairs and opinion; programming has been folded into the Talk brand (radio sibling of TalkTV)
   notes: Launched in 2016 as a digital-only national speech station owned by Wireless Group (acquired by News UK that year), it featured hosts such as Julia Hartley-Brewer, Mike Graham, James Whale and Ian Collins; in 2022 it was rebranded under the wider Talk brand connected to TalkTV, and has been notable for Ofcom rulings against shows for breaches of impartiality on COVID-19 and other topics.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-dba206f9-bf7e-11e9-8502-52543be04c81
+  - iprd-gb-talkradio-ebc5e29a
+streams:
+  - url: http://radio.talkradio.co.uk/stream
+    codec: AAC
+    bitrate: 64
+  - url: https://radio.talkradio.co.uk/stream
+    codec: AAC
+    bitrate: 64
+  - url: http://radio.talkradio.co.uk/stream
+    codec: AAC
+    bitrate: 63
+  - url: https://radio.talkradio.co.uk/stream
+    codec: AAC
+    bitrate: 63

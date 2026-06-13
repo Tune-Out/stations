@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:41:04
 clickcount: 3
 geo_lat: 33.667915920409946
 geo_long: -117.9001809397422
-curation: 0.35
-provenance:
-  - radiobrowser-9c0a6cb8-8074-4ddb-857c-1a355a88eae0
-streams:
-  - url: 'https://media.classicairwaves.com:8020/stream'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://broadcast.classicairwaves.com/listen/classic_radio_network/live.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Old time radio programs, nostalgia, vintage radio broadcasts, classic shows
   notes: Yesterday USA network broadcaster; specializes in rebroadcasting classic and vintage American radio programs from golden age of radio; nostalgic programming format; non-profit archival mission
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9c0a6cb8-8074-4ddb-857c-1a355a88eae0
+streams:
+  - url: https://media.classicairwaves.com:8020/stream
+    codec: AAC
+    bitrate: 128
+  - url: https://broadcast.classicairwaves.com/listen/classic_radio_network/live.mp3
+    codec: MP3
+    bitrate: 192

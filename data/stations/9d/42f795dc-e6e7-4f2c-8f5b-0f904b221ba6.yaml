@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 04:59:24
 clickcount: 1
 geo_lat: 51.34247824632143
 geo_long: 5.108546018600465
-curation: -0.05
-provenance:
-  - radiobrowser-42f795dc-e6e7-4f2c-8f5b-0f904b221ba6
-streams:
-  - url: 'http://antares.dribbcast.com:4438/xstream?type=http&nocache=874'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://antares.dribbcast.com:2199/tunein/puurtren.pls'
-    url_resolved: 'http://centova1.dribbcast.com:4438/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Dutch-language music and oldies; "wat je nergens anders hoort" (what you hear nowhere else)
   notes: Commercial radio broadcaster serving the Flemish region since founding (date unknown). Mission emphasizes music diversity across age groups. Strong emphasis on local advertising.
   sources: http://www.radioeagle.be/
+curation: -0.05
+provenance:
+  - radiobrowser-42f795dc-e6e7-4f2c-8f5b-0f904b221ba6
+streams:
+  - url: http://antares.dribbcast.com:4438/xstream?type=http&nocache=874
+    codec: MP3
+    bitrate: 128
+  - url: https://antares.dribbcast.com:2199/tunein/puurtren.pls
+    url_resolved: http://centova1.dribbcast.com:4438/stream
+    codec: MP3
+    bitrate: 128

@@ -23,26 +23,6 @@ lastchangetime: 2026-01-15 04:38:30
 clickcount: 3
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.60
-provenance:
-  - radiobrowser-6f73bc13-3c4b-11e8-b74d-52543be04c81
-streams:
-  - url: 'https://somafm.com/deepspaceone130.pls'
-    url_resolved: 'https://ice3.somafm.com/deepspaceone-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/deepspaceone64.pls'
-    url_resolved: 'https://ice2.somafm.com/deepspaceone-64-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://somafm.com/deepspaceone32.pls'
-    url_resolved: 'https://ice2.somafm.com/deepspaceone-32-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://somafm.com/deepspaceone.pls'
-    url_resolved: 'https://ice6.somafm.com/deepspaceone-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -52,3 +32,28 @@ research:
   format: Ambient and electronic music with space theme; drone, dark ambient, sci-fi soundtracks
   notes: Founded 1999 as independent, non-commercial listener-supported internet radio. Established brand known for diverse electronic music channels. Focus on atmospheric and experimental genres.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-6f73bc13-3c4b-11e8-b74d-52543be04c81
+  - iprd-us-somafm-deep-space-one-a2b8ce84
+  - iprd-us-somafm-deep-space-one-9bdb567e
+  - iprd-us-somafm-deep-space-one-c6c9858d
+  - iprd-us-somafm-deep-space-one-9c142b27
+  - iprd-us-somafm-deep-space-one-4253e16e
+streams:
+  - url: https://somafm.com/deepspaceone130.pls
+    url_resolved: https://ice3.somafm.com/deepspaceone-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/deepspaceone64.pls
+    url_resolved: https://ice2.somafm.com/deepspaceone-64-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://somafm.com/deepspaceone32.pls
+    url_resolved: https://ice2.somafm.com/deepspaceone-32-aac
+    codec: AAC
+    bitrate: 32
+  - url: https://somafm.com/deepspaceone.pls
+    url_resolved: https://ice6.somafm.com/deepspaceone-128-mp3
+    codec: MP3
+    bitrate: 128

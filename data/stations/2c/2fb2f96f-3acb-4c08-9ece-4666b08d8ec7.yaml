@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: 46.02442760712411
 geo_long: 28.828125000000004
-curation: -0.05
-provenance:
-  - radiobrowser-2fb2f96f-3acb-4c08-9ece-4666b08d8ec7
-streams:
-  - url: 'http://ais-sa2.cdnstream1.com/1369_128'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://ais-sa2.cdnstream1.com/1369_128'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Rock music programming
   notes: Operates as online streaming station via mystreamplayer platform; serves Moldova region
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2fb2f96f-3acb-4c08-9ece-4666b08d8ec7
+  - iprd-ca-crucial-velocity-radio-50f5205c
+streams:
+  - url: http://ais-sa2.cdnstream1.com/1369_128
+    codec: MP3
+    bitrate: 192
+  - url: https://ais-sa2.cdnstream1.com/1369_128
+    codec: MP3
+    bitrate: 192

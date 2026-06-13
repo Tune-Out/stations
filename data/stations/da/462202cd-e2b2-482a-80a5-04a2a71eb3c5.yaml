@@ -1,6 +1,6 @@
 stationuuid: 462202cd-e2b2-482a-80a5-04a2a71eb3c5
 name: CBC Radio One - Winnipeg, MB (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CBWAM_CBC.pls
+url: 'https://27033.live.streamtheworld.com:443/CBWAM_CBC_SC'
 url_resolved: https://26373.live.streamtheworld.com/CBWAM_CBC_SC
 homepage: https://www.cbc.ca/news/canada/manitoba
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:41:54
 clickcount: 5
 geo_lat: 49.89273232164
 geo_long: -97.1388816833496
-curation: 0.50
-provenance:
-  - radiobrowser-462202cd-e2b2-482a-80a5-04a2a71eb3c5
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: News, current affairs, features, documentaries, and music
   notes: CBC Radio One is Canada's national English-language public radio network; Winnipeg station (Radio One - Winnipeg) serves Manitoba with local and national programming since 1948; part of Canada's public broadcasting system.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-462202cd-e2b2-482a-80a5-04a2a71eb3c5

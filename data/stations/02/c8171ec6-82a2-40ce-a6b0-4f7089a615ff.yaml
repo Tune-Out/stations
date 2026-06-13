@@ -19,16 +19,6 @@ lastchangetime: 2026-05-22 13:31:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c8171ec6-82a2-40ce-a6b0-4f7089a615ff
-streams:
-  - url: 'https://stream-eurodance90.fr/radio/8000/128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Eurodance, dance hits from 1990s onward
   notes: French web radio specializing in Eurodance and European dance music. 90s-oriented with focus on danceable electronic music styles. 128 kbps MP3 streaming quality.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c8171ec6-82a2-40ce-a6b0-4f7089a615ff
+  - iprd-fr-eurodance-90-radio-358a6edd
+streams:
+  - url: https://stream-eurodance90.fr/radio/8000/128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323
+    codec: MP3
+    bitrate: 128

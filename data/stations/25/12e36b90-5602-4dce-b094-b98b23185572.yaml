@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 0
 geo_lat: 45.539060482134495
 geo_long: 9.265594482421877
-curation: -0.05
-provenance:
-  - radiobrowser-12e36b90-5602-4dce-b094-b98b23185572
-streams:
-  - url: 'http://nr2.newradio.it:8003/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://nr3.newradio.it:18303/stream?ver=777128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Dance, eurodance, DJ remixes, dance top 40, electronic music
   notes: Italian internet radio station specializing in dance and electronic music. Programming features DJ remixes, eurodance, and contemporary dance music targeting European dance music enthusiasts.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-12e36b90-5602-4dce-b094-b98b23185572
+streams:
+  - url: http://nr2.newradio.it:8003/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://nr3.newradio.it:18303/stream?ver=777128
+    codec: MP3
+    bitrate: 128

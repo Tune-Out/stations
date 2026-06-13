@@ -25,14 +25,6 @@ lastchangetime: 2026-04-22 10:23:38
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f8e8db99-b527-407e-9890-4193aa7fe0dc
-streams:
-  - url: 'https://maximum.hostingradio.ru/maximum96.aacp'
-    codec: AAC
-  - url: 'http://maximum.hostingradio.ru/maximum96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +34,12 @@ research:
   format: Alternative rock, pop, top 40, contemporary hits
   notes: Major Russian commercial radio station. Moscow-based. Focuses on alternative, rock, and pop music. Top 40 format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f8e8db99-b527-407e-9890-4193aa7fe0dc
+  - iprd-ru-radio-maximum-103-7-5729d906
+streams:
+  - url: https://maximum.hostingradio.ru/maximum96.aacp
+    codec: AAC
+  - url: http://maximum.hostingradio.ru/maximum96.aacp
+    codec: AAC

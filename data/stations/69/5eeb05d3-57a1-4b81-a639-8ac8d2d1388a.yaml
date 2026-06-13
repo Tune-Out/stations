@@ -30,16 +30,6 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 7
 geo_lat: 50.673835249921346
 geo_long: 8.203117847442629
-curation: 0.00
-provenance:
-  - radiobrowser-5eeb05d3-57a1-4b81-a639-8ac8d2d1388a
-streams:
-  - url: 'https://streams.rautemusik.fm/techno/mp3-192'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streams.rautemusik.fm/techno/mp3-192/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +39,13 @@ research:
   format: Techno, dark techno, acid, hard techno, acidcore, and electronic dance music 24/7.
   notes: Part of rautemusik.fm network based in North Rhine-Westphalia, Germany. TECHNO channel specializes in techno and electronic dance genres. Professional quality 192 kbps streaming.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-5eeb05d3-57a1-4b81-a639-8ac8d2d1388a
+streams:
+  - url: https://streams.rautemusik.fm/techno/mp3-192
+    codec: MP3
+    bitrate: 192
+  - url: https://streams.rautemusik.fm/techno/mp3-192/
+    codec: MP3
+    bitrate: 192

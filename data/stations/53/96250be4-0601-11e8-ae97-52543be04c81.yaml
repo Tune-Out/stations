@@ -22,76 +22,6 @@ lastchangetime: 2026-01-15 01:52:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-96250be4-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.calmradio.com:7328/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:6828/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com/api/103/128/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:4528/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:16928/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:8728/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streams.calmradio.com:6528/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:13028/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:10228/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:4828/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:7528/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:8228/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:4628/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:21928/stream/;.m3u'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:19328/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:25028/stream/1/Calm%20Radio'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:11428/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:1028/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com/api/287/128/stream/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:14028/stream/1/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:1228/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.calmradio.com:8928/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -101,3 +31,81 @@ research:
   format: Curated Mozart and classical music for relaxation, meditation, sleep, focus; 700+ curated channels
   notes: 'Commercial streaming service specializing in calming audio. Mission: "Unlike general music services, we specialize exclusively in creating calming audio experiences, backed by years of expertise." Available on iOS, Android, Windows, macOS, Alexa, Sonos, Apple TV, Roku. Freemium model with premium ad-free option.'
   sources: https://www.calmradio.com/
+curation: 0.4
+provenance:
+  - radiobrowser-96250be4-0601-11e8-ae97-52543be04c81
+  - iprd-ca-calm-radio-bach-ea237a84
+  - iprd-ca-calm-radio-cello-64c442a6
+  - iprd-ca-calm-radio-chamber-music-e7171aa2
+  - iprd-ca-calm-radio-debussy-d51a35e6
+  - iprd-ca-calm-radio-mozart-2d1645fd
+  - iprd-ca-calm-radio-r-strauss-130bd702
+  - iprd-ca-calm-radio-symphony-5e7b8172
+  - iprd-ca-calm-radio-vivaldi-317ccb9c
+streams:
+  - url: http://streams.calmradio.com:7328/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:6828/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com/api/103/128/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:4528/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:16928/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:8728/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://streams.calmradio.com:6528/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:13028/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:10228/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:4828/;
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:7528/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:8228/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:4628/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:21928/stream/;.m3u
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:19328/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:25028/stream/1/Calm%20Radio
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:11428/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:1028/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com/api/287/128/stream/;
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:14028/stream/1/
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:1228/
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.calmradio.com:8928/stream
+    codec: MP3
+    bitrate: 128

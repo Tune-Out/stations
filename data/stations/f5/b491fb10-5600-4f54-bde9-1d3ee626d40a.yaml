@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 00:34:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-b491fb10-5600-4f54-bde9-1d3ee626d40a
-streams:
-  - url: 'https://st1.urbanrevolution.es:8443/zonaelectronica'
-    codec: OGG
-  - url: 'https://st1.urbanrevolution.es:8443/hispano'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: Electronic music; dance, techno, electronic genres
   notes: Spanish-language electronic music radio broadcaster; operates online and via streaming; independent commercial station specializing in electronic dance music (EDM) and electronic genres for European audience; focus on underground and contemporary electronic music.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-b491fb10-5600-4f54-bde9-1d3ee626d40a
+  - iprd-es-urban-con-e0120323
+  - iprd-es-zona-electr-nica-urban-revolution-517cefad
+streams:
+  - url: https://st1.urbanrevolution.es:8443/zonaelectronica
+    codec: OGG
+  - url: https://st1.urbanrevolution.es:8443/hispano
+    codec: AAC

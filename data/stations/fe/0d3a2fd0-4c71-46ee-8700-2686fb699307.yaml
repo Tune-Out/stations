@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 04:30:45
 clickcount: 20
 geo_lat: 59.309904959381754
 geo_long: 18.059187233448032
-curation: -0.05
-provenance:
-  - radiobrowser-0d3a2fd0-4c71-46ee-8700-2686fb699307
-streams:
-  - url: 'https://fm01-ice.stream.khz.se/fm01_aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://fm01-ice.stream.khz.se/fm01_mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://fm01-ice.stream.khz.se/fm01_mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,17 @@ research:
   format: Mainstream / hot adult contemporary pop hits with morning shows, music chart programming and event tie-ins
   notes: RIX FM launched in 1993 as one of the first commercial Swedish-language radio networks (originally a joint venture between Stenbeck's MTG group and Bonnier's SBS), and grew into Sweden's largest commercial radio chain by reach; the 106.7 frequency is the Stockholm transmitter; the network is best known for the long-running "RIX MorronZoo" morning show and the touring "RIX FM Festival" summer concert series; following MTG's divestment of its radio assets, the network is now run by I Like Radio AB / FLX alongside sister formats Lugna Favoriter, Bandit Rock, Power Hit Radio and Vinyl FM.
   sources: https://www.ilikeradio.se/rixfm, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-0d3a2fd0-4c71-46ee-8700-2686fb699307
+  - iprd-se-rix-fm-498d4f21
+streams:
+  - url: https://fm01-ice.stream.khz.se/fm01_aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://fm01-ice.stream.khz.se/fm01_mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://fm01-ice.stream.khz.se/fm01_mp3
+    codec: MP3
+    bitrate: 128

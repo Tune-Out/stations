@@ -1,7 +1,7 @@
 stationuuid: 1ff7a5ae-714b-42be-8f63-7a0ac968f0db
 name: 1460 AM Deportes Vegas
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAM.mp3
+url: 'https://14983.live.streamtheworld.com:443/KENOAM.mp3'
+url_resolved: 'https://14983.live.streamtheworld.com:443/KENOAM.mp3'
 homepage: https://www.deportesvegas.com/
 favicon: https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2227/2020/10/12160146/keno-logo.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:53:54
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1ff7a5ae-714b-42be-8f63-7a0ac968f0db
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports, entertainment, news in Spanish (radio hablada)
   notes: 1460 AM Deportes Vegas is a Spanish-language commercial talk and sports radio station serving the Las Vegas Spanish-speaking community. Broadcasts sports news and entertainment content.
   sources: https://www.deportesvegas.com/
+curation: 0.35
+provenance:
+  - radiobrowser-1ff7a5ae-714b-42be-8f63-7a0ac968f0db

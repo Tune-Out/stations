@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 00:36:24
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e5b81ad3-bb7d-41a5-a3d3-0f715434778e
-streams:
-  - url: 'https://stream3.megarockradio.net:80/'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://stream.megarockradio.net:8000/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Classic rock, hard rock, metal music with listener requests, MP3 320kbps
   notes: Megarock Radio 320k is a USA-based online radio station in Missouri specializing in classic rock, hard rock, and metal music. Offers high-quality 320kbps streaming and accepts listener requests. Targets dedicated rock and metal music fans.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e5b81ad3-bb7d-41a5-a3d3-0f715434778e
+  - iprd-us-megarock-radio-350ed342
+streams:
+  - url: https://stream3.megarockradio.net:80/
+    codec: MP3
+    bitrate: 320
+  - url: http://stream.megarockradio.net:8000/stream
+    codec: MP3
+    bitrate: 320

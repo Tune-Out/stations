@@ -21,20 +21,6 @@ lastchangetime: 2026-01-14 23:33:22
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-6238f5e8-a9ee-4c88-9713-2d1ab4112ac9
-streams:
-  - url: 'https://streams.kcrw.com/e24_aac'
-    codec: AAC
-    bitrate: 256
-  - url: 'https://streams.kcrw.com/e24_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://media.kcrw.com/pls/kcrwmusic.pls'
-    url_resolved: 'https://streams.kcrw.com/e24_mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +30,17 @@ research:
   format: Eclectic music programming, 24-hour continuous music curated by professional DJs
   notes: KCRW Eclectic 24 is a 24-hour music stream from KCRW, a publicly supported community radio station based in Santa Monica, California. KCRW is known for eclectic and independent music curation featuring emerging artists, indie rock, world music, and experimental sounds. Part of Southern California Public Radio. Broadcast at 256 kbps AAC quality with professional live DJ hosting.
   sources: https://www.kcrw.com/music/shows/eclectic24
+curation: 0.75
+provenance:
+  - radiobrowser-6238f5e8-a9ee-4c88-9713-2d1ab4112ac9
+streams:
+  - url: https://streams.kcrw.com/e24_aac
+    codec: AAC
+    bitrate: 256
+  - url: https://streams.kcrw.com/e24_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://media.kcrw.com/pls/kcrwmusic.pls
+    url_resolved: https://streams.kcrw.com/e24_mp3
+    codec: MP3
+    bitrate: 192

@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 08:05:02
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-b1e9deb1-755a-43fb-a543-a1439493044c
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/ps96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/ps96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Electronic music, dance, club music, pirate/underground electronic
   notes: Radio Record Pirate Station is a specialized channel of Russian Radio Record network (major commercial broadcaster). Features underground and pirate-style electronic and dance music programming.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-b1e9deb1-755a-43fb-a543-a1439493044c
+  - iprd-ru-radio-rekord-pirate-station-aa9562fa
+streams:
+  - url: http://radiorecord.hostingradio.ru/ps96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/ps96.aacp
+    codec: AAC

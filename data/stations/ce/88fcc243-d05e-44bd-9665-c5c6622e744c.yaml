@@ -22,28 +22,6 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-88fcc243-d05e-44bd-9665-c5c6622e744c
-streams:
-  - url: 'http://fr2.1mix.co.uk:9000/320hb'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://fr2.1mix.co.uk:9000/320h'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://fr2.1mix.co.uk:9000/192hb'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://fr2.1mix.co.uk:9000/192h'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://fr2.1mix.co.uk:9000/128h'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://fr2.1mix.co.uk:9000/128hb'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -53,3 +31,25 @@ research:
   format: Trance and Electronic Dance Music (EDM) with specialized shows including "Flux BPM on the Move," "Flow of Trance," "Dreamland Trance," and "Redux Sessions."
   notes: Independent UK-based internet radio; tagline "the first choice for Trance and EDM" with "almost 20 years of bringing only the best artists;" DJ-hosted specialty shows; multiple streaming qualities (32k-320k bitrate); positioned as artist-curated platform where DJs "play their own shows."
   sources: https://www.1mix.co.uk/
+curation: 0.6
+provenance:
+  - radiobrowser-88fcc243-d05e-44bd-9665-c5c6622e744c
+streams:
+  - url: http://fr2.1mix.co.uk:9000/320hb
+    codec: MP3
+    bitrate: 320
+  - url: http://fr2.1mix.co.uk:9000/320h
+    codec: MP3
+    bitrate: 320
+  - url: http://fr2.1mix.co.uk:9000/192hb
+    codec: MP3
+    bitrate: 192
+  - url: http://fr2.1mix.co.uk:9000/192h
+    codec: MP3
+    bitrate: 192
+  - url: http://fr2.1mix.co.uk:9000/128h
+    codec: MP3
+    bitrate: 128
+  - url: http://fr2.1mix.co.uk:9000/128hb
+    codec: MP3
+    bitrate: 128

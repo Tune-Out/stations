@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 06:23:58
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-5b520a4e-031c-468a-9ba8-bb79f2ee9ebc
-streams:
-  - url: 'http://stream.zeno.fm/0wck59rarchvv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/0wck59rarchvv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +30,11 @@ research:
   format: Tamil-language music; two streams - contemporary Tamil hits and JNFM Tamil Classic (older/timeless Tamil tracks)
   notes: 'JN FM Tamil is a small independent online Tamil music radio station based in Tiruchirappalli (Trichy), Tamil Nadu, India; operates two streams (contemporary and classic Tamil songs) distributed via Zeno.fm and aggregators including myTuner, Online Radio Box, FM Radio India, Daily Tunes, and Radio Monkey; site has been active since at least January 2020; the "state: Tampere" tag in the metadata appears to be incorrect (Tampere is in Finland) - the station is based in Tamil Nadu, India.'
   sources: https://jnfmtamil.wixsite.com/jnfmtamil
+curation: 0.4
+provenance:
+  - radiobrowser-5b520a4e-031c-468a-9ba8-bb79f2ee9ebc
+streams:
+  - url: http://stream.zeno.fm/0wck59rarchvv
+    codec: MP3
+  - url: https://stream.zeno.fm/0wck59rarchvv
+    codec: MP3

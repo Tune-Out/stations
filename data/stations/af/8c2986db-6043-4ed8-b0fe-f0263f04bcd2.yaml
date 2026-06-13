@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 04:21:20
 clickcount: 2
 geo_lat: 50.99651678631151
 geo_long: 4.84256167175901
-curation: 0.35
-provenance:
-  - radiobrowser-8c2986db-6043-4ed8-b0fe-f0263f04bcd2
-streams:
-  - url: 'http://www.komilfoo.be/live/komilfoo.m3u'
-    url_resolved: 'http://komilfoo.radioca.st:8195/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://eu1.reliastream.com:8033/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +32,14 @@ research:
   format: Adult contemporary and oldies music programming; local music focus
   notes: Komilfoo FM operates at 106.9 FM in Aarschot, Antwerp province, Belgium. Community-focused commercial station serving Dutch-speaking audiences in northern Belgium. Format emphasizes adult contemporary hits and classic oldies music for local community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8c2986db-6043-4ed8-b0fe-f0263f04bcd2
+streams:
+  - url: http://www.komilfoo.be/live/komilfoo.m3u
+    url_resolved: http://komilfoo.radioca.st:8195/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://eu1.reliastream.com:8033/;
+    codec: MP3
+    bitrate: 128

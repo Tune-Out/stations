@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 08:07:13
 clickcount: 34
 geo_lat: 52.239899491377216
 geo_long: 5.168750882148744
-curation: 0.50
-provenance:
-  - radiobrowser-41537cc5-896b-4e5c-abf6-82449b6be5bd
-streams:
-  - url: 'https://icecast.omroep.nl/radio1-bb-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://icecast.omroep.nl/radio1-sb-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'http://icecast.omroep.nl/radio1-sb-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://icecast.omroep.nl/radio1-sb-mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +31,20 @@ research:
   format: News, current affairs, interviews, music programming; national and international news coverage
   notes: Flagship public radio station in the Netherlands operated by NPO; Hilversum-based; focus on journalism, current affairs, and news reporting; serves as the primary source for current affairs programming
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-41537cc5-896b-4e5c-abf6-82449b6be5bd
+  - iprd-nl-npo-radio-1-e1553070
+streams:
+  - url: https://icecast.omroep.nl/radio1-bb-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://icecast.omroep.nl/radio1-sb-aac
+    codec: AAC
+    bitrate: 32
+  - url: http://icecast.omroep.nl/radio1-sb-aac
+    codec: AAC
+    bitrate: 32
+  - url: https://icecast.omroep.nl/radio1-sb-mp3
+    codec: MP3
+    bitrate: 96

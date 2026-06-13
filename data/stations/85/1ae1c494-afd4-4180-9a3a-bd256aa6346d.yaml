@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 05:18:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1ae1c494-afd4-4180-9a3a-bd256aa6346d
-streams:
-  - url: 'http://radio.mediacdn.ru/fm_na_donu.mp3'
-    codec: MP3
-  - url: 'https://radio.mediacdn.ru/fm_na_donu.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Contemporary and popular music (pop) on 100.7 FM
   notes: Local radio station broadcasting from Rostov-on-Don, a major city in southern Russia; part of top-radio.ru directory network.
   sources: https://top-radio.ru/rostov-na-donu/fm-na-donu
+curation: -0.05
+provenance:
+  - radiobrowser-1ae1c494-afd4-4180-9a3a-bd256aa6346d
+streams:
+  - url: http://radio.mediacdn.ru/fm_na_donu.mp3
+    codec: MP3
+  - url: https://radio.mediacdn.ru/fm_na_donu.mp3
+    codec: MP3

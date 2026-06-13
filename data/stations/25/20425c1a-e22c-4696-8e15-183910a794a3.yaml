@@ -21,17 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-20425c1a-e22c-4696-8e15-183910a794a3
-streams:
-  - url: 'http://orthodox-chants.ru:8000/128kb'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://orthodox-chants.ru:8000/128kb.m3u'
-    url_resolved: 'http://orthodox-chants.ru:8000/128kb'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +30,16 @@ research:
   format: Orthodox Christian chants and liturgical music programming.
   notes: Radio Orthodox Chants broadcasts traditional Russian Orthodox Christian chants and sacred liturgical music. Serves Orthodox communities and those interested in Orthodox religious music and traditions.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-20425c1a-e22c-4696-8e15-183910a794a3
+  - iprd-ru-orthodox-chants-d0e6811f
+  - iprd-ru-radio-orthodox-chants-16f00210
+streams:
+  - url: http://orthodox-chants.ru:8000/128kb
+    codec: MP3
+    bitrate: 128
+  - url: http://orthodox-chants.ru:8000/128kb.m3u
+    url_resolved: http://orthodox-chants.ru:8000/128kb
+    codec: MP3
+    bitrate: 128

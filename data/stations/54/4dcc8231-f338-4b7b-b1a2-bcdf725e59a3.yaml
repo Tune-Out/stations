@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:15:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4dcc8231-f338-4b7b-b1a2-bcdf725e59a3
-streams:
-  - url: 'http://ic6.101.ru:8000/stream/pro/aac/64/35'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://ic6.101.ru:8000/stream/pro/aac/64/35'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Russian bard songs (авторская песня / author's songs), Russian chanson, singer-songwriter traditions, Liedermacher-style music.
   notes: Part of 101.ru network, major Russian internet radio service. Specializes in bard and Russian chanson genres, a distinct singer-songwriter tradition.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4dcc8231-f338-4b7b-b1a2-bcdf725e59a3
+  - iprd-ru-101-ru-bard-songs-author-s-song-1a94924e
+streams:
+  - url: http://ic6.101.ru:8000/stream/pro/aac/64/35
+    codec: AAC+
+    bitrate: 64
+  - url: https://ic6.101.ru:8000/stream/pro/aac/64/35
+    codec: AAC+
+    bitrate: 64

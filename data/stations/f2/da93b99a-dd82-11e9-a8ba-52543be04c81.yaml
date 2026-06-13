@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-da93b99a-dd82-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-rlp-128-mp3'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-rlp-64-aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Popular music and entertainment, hot hits format
   notes: bigFM is a commercial radio network operating regional stations in Germany. Rheinland-Pfalz station broadcasts popular music targeting young listeners.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-da93b99a-dd82-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-rlp-128-mp3
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-rlp-64-aac
+    codec: AAC

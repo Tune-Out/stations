@@ -1,7 +1,7 @@
 stationuuid: c0f92315-dc8f-430d-84cc-70995dcc3d8d
 name: La Mejor Acapulco - 100.1 FM - XHSE-FM - MVS Radio - Acapulco, GR
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHSE_SC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHSE_SC.aac
+url: 'https://14223.live.streamtheworld.com:443/XHSE_SC'
+url_resolved: 'https://14223.live.streamtheworld.com:443/XHSE_SC'
 homepage: https://www.lamejor.com.mx/acapulco/
 favicon: https://www.lamejor.com.mx/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:42:14
 clickcount: 0
 geo_lat: 16.868126444464032
 geo_long: -99.89499092102052
-curation: -0.05
-provenance:
-  - radiobrowser-c0f92315-dc8f-430d-84cc-70995dcc3d8d
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Regional Mexican music (banda, grupera, corridos); contemporary Latin urban
   notes: Commercial station in Acapulco, 100.1 FM (XHSE-FM); part of MVS Radio's regional Mexican focused La Mejor network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c0f92315-dc8f-430d-84cc-70995dcc3d8d

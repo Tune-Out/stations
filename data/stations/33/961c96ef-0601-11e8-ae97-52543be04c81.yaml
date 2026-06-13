@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 07:15:38
 clickcount: 51
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-961c96ef-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://nashe1.hostingradio.ru/rock-128.mp3'
-    codec: MP3
-  - url: 'https://nashe1.hostingradio.ru:80/rock-128.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +33,13 @@ research:
   format: Rock music radio with genre-specific channels for prog, heavy, 70s, 80s, 90s, and 2000s rock eras.
   notes: Moscow-based commercial rock radio station on FM 95.2. Registered with Russian Federal Service for Supervision of Communications (ФС77-45878, 2011). Part of Multimedia Holding portfolio alongside companion stations НАШЕ (variety), Jazz FM, and ULTRA. Features rock-focused programming including news, interviews, podcasts (Hero of the Week, Rock Encyclopedia), live sessions (Квартирник ROCK FM), themed artist weeks, and music releases coverage. Interactive features include Telegram bot, listener messaging, contests, social media on VK, YouTube, Telegram, Dzen, Twitter.
   sources: http://www.rockfm.ru/
+curation: 0.3
+provenance:
+  - radiobrowser-961c96ef-0601-11e8-ae97-52543be04c81
+  - iprd-ru-rock-95-2-327cc62c
+  - iprd-ru-rock-fm-95-2-eebe4ed9
+streams:
+  - url: http://nashe1.hostingradio.ru/rock-128.mp3
+    codec: MP3
+  - url: https://nashe1.hostingradio.ru:80/rock-128.mp3
+    codec: MP3

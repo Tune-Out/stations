@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9616ad5a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://perrinefm.ice.infomaniak.ch/perrinefm-high.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://perrinefm.ice.infomaniak.ch/perrinefm-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,15 @@ research:
   format: Community radio programming
   notes: Local community radio station in central France; streams via Infomaniak hosting; serves Puy-de-Dôme department
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9616ad5a-0601-11e8-ae97-52543be04c81
+  - iprd-fr-perrine-fm-be8e5c65
+  - iprd-fr-perrine-fm-7fc19e14
+streams:
+  - url: http://perrinefm.ice.infomaniak.ch/perrinefm-high.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://perrinefm.ice.infomaniak.ch/perrinefm-high.mp3
+    codec: MP3
+    bitrate: 128

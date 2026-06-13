@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-dd0e86d3-b9b4-11e9-acb2-52543be04c81
-streams:
-  - url: 'https://media-ssl.musicradio.com/HeartDance'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://media-ssl.musicradio.com/HeartDanceMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: Dance, club hits, 1990s and 2000s dance music, contemporary dance tracks.
   notes: Heart Dance is a digital station under the Heart radio network, operated by Global Media. Focus on dance music heritage and contemporary club tracks. UK-based commercial broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-dd0e86d3-b9b4-11e9-acb2-52543be04c81
+  - iprd-gb-heart-dance-2d14a1ce
+  - iprd-gb-heart-dance-16232ceb
+streams:
+  - url: https://media-ssl.musicradio.com/HeartDance
+    codec: AAC
+    bitrate: 48
+  - url: https://media-ssl.musicradio.com/HeartDanceMP3
+    codec: MP3
+    bitrate: 128

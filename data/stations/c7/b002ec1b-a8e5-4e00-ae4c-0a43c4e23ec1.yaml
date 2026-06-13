@@ -1,7 +1,7 @@
 stationuuid: b002ec1b-a8e5-4e00-ae4c-0a43c4e23ec1
 name: Star 101.9 - Mackay - 101.9 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/MAC_STAR1019.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/MAC_STAR1019.mp3
+url: 'http://14013.live.streamtheworld.com:80/MAC_STAR1019.mp3'
+url_resolved: 'http://14013.live.streamtheworld.com:80/MAC_STAR1019.mp3'
 homepage: https://www.star1019.com.au/
 favicon: https://i.ibb.co/9HCqb7k/6500fd820b3908653776dca3.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:35:43
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b002ec1b-a8e5-4e00-ae4c-0a43c4e23ec1
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hot adult contemporary music
   notes: Star 101.9 is a commercial radio station in Mackay, Queensland, Australia. Broadcasts adult contemporary and contemporary hit music targeting mainstream adult audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b002ec1b-a8e5-4e00-ae4c-0a43c4e23ec1

@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-8510d136-7297-11ea-b1cf-52543be04c81
-streams:
-  - url: 'http://live.radioart.com/fCurrent_jazz.mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://live.radioart.com/fCool_jazz.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Current/contemporary jazz music
   notes: Radio Art operates free jazz streaming channels including Current Jazz, Smooth Jazz, and Retro Jazz. Part of a larger internet radio collective. No specific country of origin confirmed in available data.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-8510d136-7297-11ea-b1cf-52543be04c81
+streams:
+  - url: http://live.radioart.com/fCurrent_jazz.mp3
+    codec: MP3
+    bitrate: 96
+  - url: http://live.radioart.com/fCool_jazz.mp3
+    codec: MP3
+    bitrate: 96

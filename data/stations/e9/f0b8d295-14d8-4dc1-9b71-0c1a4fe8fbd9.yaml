@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-f0b8d295-14d8-4dc1-9b71-0c1a4fe8fbd9
-streams:
-  - url: 'http://hls.njgb.com/live_hls/6/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://live.xmcdn.com/live/69/64.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -41,3 +31,14 @@ research:
   format: Economics, business news, financial programming, talk radio
   notes: 南京经济广播 (Nanjing Economics Radio); part of Nanjing state broadcasting network; focuses on economic and business news; state-operated public radio serving Nanjing metropolitan area
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-f0b8d295-14d8-4dc1-9b71-0c1a4fe8fbd9
+  - iprd-cn-nanjing-economic-broadcasting-98-1-2840d0c4
+streams:
+  - url: http://hls.njgb.com/live_hls/6/playlist.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://live.xmcdn.com/live/69/64.m3u8
+    codec: UNKNOWN
+    hls: true

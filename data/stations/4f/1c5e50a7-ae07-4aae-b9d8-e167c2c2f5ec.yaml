@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1c5e50a7-ae07-4aae-b9d8-e167c2c2f5ec
-streams:
-  - url: 'http://mega.netradyom.com:7900/listen.pls'
-    url_resolved: 'http://mega.netradyom.com:7900/radio.mp3'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://mega.netradyom.com:7900/;'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +29,14 @@ research:
   format: Music, entertainment, hits
   notes: Turkish commercial radio station. Limited web information available. Streams via Netradyom platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1c5e50a7-ae07-4aae-b9d8-e167c2c2f5ec
+streams:
+  - url: http://mega.netradyom.com:7900/listen.pls
+    url_resolved: http://mega.netradyom.com:7900/radio.mp3
+    codec: AAC+
+    bitrate: 32
+  - url: http://mega.netradyom.com:7900/;
+    codec: AAC+
+    bitrate: 32

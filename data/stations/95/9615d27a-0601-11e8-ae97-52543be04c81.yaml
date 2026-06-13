@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 00:09:17
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.85
-provenance:
-  - radiobrowser-9615d27a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8'
-    codec: AAC
-    bitrate: 88
-    hls: true
-  - url: 'http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls'
-    url_resolved: 'http://abc.streamguys1.com/live/newsradio/icecast.audio'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +32,15 @@ research:
   format: Continuous news and current affairs, interviews, analysis, and breaking news coverage; national and international news service
   notes: ABC NewsRadio is Australia's premier national news and current affairs radio service, operated by the Australian Broadcasting Corporation (ABC), founded in 1932. Launched in 1994 as the ABC's dedicated news and information service, broadcasting 24/7 nationally. ABC NewsRadio provides continuous coverage of Australian and international news, parliamentary proceedings, politics, business, and current affairs. Streams via ABC's infrastructure at 56 kbps AAC+ for accessibility. Available nationally on DAB+ and online. The ABC is editorially independent and funded by federal parliament. NewsRadio is trusted for objective journalism and holds multiple journalism awards. No political alignment, though all public broadcasters face occasional political criticism.
   sources: http://www.abc.net.au/newsradio/
+curation: 0.85
+provenance:
+  - radiobrowser-9615d27a-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
+    codec: AAC
+    bitrate: 88
+    hls: true
+  - url: http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls
+    url_resolved: http://abc.streamguys1.com/live/newsradio/icecast.audio
+    codec: AAC+
+    bitrate: 56

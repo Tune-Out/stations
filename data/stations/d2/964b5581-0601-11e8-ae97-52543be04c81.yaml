@@ -1,6 +1,6 @@
 stationuuid: 964b5581-0601-11e8-ae97-52543be04c81
 name: KELO-AM 1320 Sioux Falls, SD
-url: http://provisioning.streamtheworld.com/pls/KELOAMAAC.pls
+url: 'http://18393.live.streamtheworld.com:80/KELOAMAAC_SC'
 url_resolved: http://18393.live.streamtheworld.com/KELOAMAAC_SC
 homepage: http://kelo.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2223/squareIcon.png?r=67741
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:40:05
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964b5581-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: News and talk radio
   notes: Commercial AM station in Sioux Falls; news/talk format; part of Cumulus Media network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964b5581-0601-11e8-ae97-52543be04c81
+  - iprd-us-kelo-1320-c3688f2b

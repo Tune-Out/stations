@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:33:41
 clickcount: 45
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-63688c44-e90b-11e8-a471-52543be04c81
-streams:
-  - url: 'https://icecast-radiovanya.cdnvideo.ru/radiovanya'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://icecast-radiovanya.cdnvideo.ru/radiovanya'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Pop music, contemporary hits, entertainment
   notes: Commercial Russian radio station operating with pop music focus. Established as part of Russia's commercial radio sector, providing entertainment and music programming to Russian-speaking audiences. Based in Russia with national reach.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-63688c44-e90b-11e8-a471-52543be04c81
+  - iprd-ru-radio-vanya-a5521feb
+  - iprd-ru-radio-vanya-8be82a7e
+streams:
+  - url: https://icecast-radiovanya.cdnvideo.ru/radiovanya
+    codec: AAC+
+    bitrate: 64
+  - url: http://icecast-radiovanya.cdnvideo.ru/radiovanya
+    codec: AAC+
+    bitrate: 64

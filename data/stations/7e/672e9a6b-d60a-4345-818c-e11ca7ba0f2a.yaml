@@ -1,6 +1,6 @@
 stationuuid: 672e9a6b-d60a-4345-818c-e11ca7ba0f2a
 name: KDFC Classical California Ultimate Playlist
-url: https://playerservices.streamtheworld.com/pls/CC1_S01AAC_96.pls
+url: 'https://16643.live.streamtheworld.com:443/CC1_S01AAC_96_SC'
 url_resolved: https://19273.live.streamtheworld.com/CC1_S01AAC_96_SC
 homepage: https://classicalcalifornia.org/kdfc/streams/classicalcaliforniaultimateplaylist
 favicon: https://www.classicalcalifornia.org/icons/cc/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:39:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-672e9a6b-d60a-4345-818c-e11ca7ba0f2a
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: Classical music; curated ultimate playlist mixing canonical works with contemporary classical
   notes: KDFC is the classical music station affiliated with California's public broadcasting network. This "Ultimate Playlist" stream offers curated classical selections ranging from canonical repertoire to contemporary classical composers. Non-commercial public radio service.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-672e9a6b-d60a-4345-818c-e11ca7ba0f2a

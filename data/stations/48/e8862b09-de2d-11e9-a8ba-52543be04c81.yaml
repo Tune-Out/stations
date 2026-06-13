@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e8862b09-de2d-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://stream.rtlradio.de/rtl-de-ukw/aac-64'
-    codec: AAC
-  - url: 'http://stream.rtlradio.de/rtl-de-ukw/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: top 40 hits, pop, contemporary music, news
   notes: RTL Radio is a major commercial broadcaster in Germany, part of Mediengruppe RTL. "Deutschlands Hit-Radio" (Germany's Hit Radio) is their primary format. National network with regional programming. Major player in German commercial radio.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e8862b09-de2d-11e9-a8ba-52543be04c81
+streams:
+  - url: http://stream.rtlradio.de/rtl-de-ukw/aac-64
+    codec: AAC
+  - url: http://stream.rtlradio.de/rtl-de-ukw/mp3-192
+    codec: MP3

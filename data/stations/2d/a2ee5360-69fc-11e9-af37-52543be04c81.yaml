@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:59:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a2ee5360-69fc-11e9-af37-52543be04c81
-streams:
-  - url: 'http://198.162.21.84:8002/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://198.162.21.84:8002/;?type=http&nocache=10%2Fstream.mp3&_=1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: eclectic music with emphasis on independent, alternative, and Canadian artists; community programming
   notes: Campus and community radio station (CFBX 92.5 FM, "The X") serving Kamloops, BC. Volunteer-run non-commercial broadcaster emphasizing local musician support. Annual record fair, live music events, and community engagement initiatives. Supports independent artists with broadcast opportunities across Canada.
   sources: https://thex.ca/
+curation: 0.35
+provenance:
+  - radiobrowser-a2ee5360-69fc-11e9-af37-52543be04c81
+streams:
+  - url: http://198.162.21.84:8002/;
+    codec: MP3
+    bitrate: 128
+  - url: http://198.162.21.84:8002/;?type=http&nocache=10%2Fstream.mp3&_=1
+    codec: MP3
+    bitrate: 128

@@ -22,26 +22,6 @@ lastchangetime: 2026-01-14 23:41:54
 clickcount: 0
 geo_lat: 31.853764724558143
 geo_long: 117.27560853219936
-curation: 0.35
-provenance:
-  - radiobrowser-16405613-796d-44af-9c77-96e08f45769c
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/1949/64k.mp3'
-    codec: MP3
-  - url: 'https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8'
-    codec: UNKNOWN
-    bitrate: 236
-    hls: true
-  - url: 'http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8'
-    codec: UNKNOWN
-    bitrate: 223
-    hls: true
-  - url: 'http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174830326162340&wsIPSercert=cd39a342afce39d82188ebae3a31d1b8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8?wsSession=99789a08add4ecdbfe9421e3-173752435390509&wsIPSercert=74983ed8210fffe44d53c2a258bb9a5d'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -51,3 +31,24 @@ research:
   format: Traffic reports, transportation news, weather, and public service announcements.
   notes: Anhui Traffic Radio (安徽交通广播) is a state-controlled broadcaster specializing in traffic information and transportation news for Anhui Province drivers and commuters.
   sources: http://www.ahrtv.cn/, internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-16405613-796d-44af-9c77-96e08f45769c
+  - iprd-cn-anhui-traffic-broadcasting-90-8-cf529021
+streams:
+  - url: https://lhttp.qtfm.cn/live/1949/64k.mp3
+    codec: MP3
+  - url: https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+    codec: UNKNOWN
+    bitrate: 236
+    hls: true
+  - url: http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+    codec: UNKNOWN
+    bitrate: 223
+    hls: true
+  - url: http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174830326162340&wsIPSercert=cd39a342afce39d82188ebae3a31d1b8
+    codec: UNKNOWN
+    hls: true
+  - url: https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8?wsSession=99789a08add4ecdbfe9421e3-173752435390509&wsIPSercert=74983ed8210fffe44d53c2a258bb9a5d
+    codec: UNKNOWN
+    hls: true

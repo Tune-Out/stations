@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4a42f3e8-305c-479d-849d-f1fd55d9062d
-streams:
-  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://25273.live.streamtheworld.com/Q_DANCE.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Hardstyle, electronic dance music (EDM), and hardcore techno
   notes: Dutch commercial radio network dedicated to hardstyle and hardcore electronic music. Part of Q-dance media empire including festivals and events.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4a42f3e8-305c-479d-849d-f1fd55d9062d
+  - iprd-nl-q-dance-radio-9f23d2e7
+streams:
+  - url: http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://25273.live.streamtheworld.com/Q_DANCE.mp3
+    codec: MP3
+    bitrate: 192

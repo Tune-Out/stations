@@ -1,6 +1,6 @@
 stationuuid: 964a442f-0601-11e8-ae97-52543be04c81
 name: WWFX 100.1 "The Pike 100" Southbridge, MA
-url: http://provisioning.streamtheworld.com/pls/WWFXFMAAC.pls
+url: 'http://15313.live.streamtheworld.com:80/WWFXFMAAC_SC'
 url_resolved: http://27243.live.streamtheworld.com/WWFXFMAAC_SC
 homepage: http://www.pikefm.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3348/squareIcon.png?r=96207
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:08:05
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-964a442f-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic hits radio ("The Pike" brand - oldies and familiar pop/rock)
   notes: WWFX 100.1 "The Pike 100" is a classic hits commercial radio station in Southbridge, Massachusetts; serves Worcester County area; operated via StreamTheWorld platform; plays music from 1970s-1990s.
   sources: http://www.pikefm.com/, internal knowledge
+curation: -0.1
+provenance:
+  - radiobrowser-964a442f-0601-11e8-ae97-52543be04c81

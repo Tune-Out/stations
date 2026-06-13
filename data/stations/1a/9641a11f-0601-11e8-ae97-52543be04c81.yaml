@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:46:22
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9641a11f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.fr.morow.com:8080/morow_hi.aacp'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://stream.fr.morow.com:8080/morow_med.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,15 @@ research:
   format: 24/7 progressive rock — classic and contemporary prog from artists such as Unitopia, with named programs like "Stroke of Midnight"
   notes: Morow Prog Rock Radio is an internet-only station that describes itself in its own words as "Prog Rock Radio, streaming with ♥︎ from Paris, France"; the service offers multiple streaming formats (M3U, PLS, ASF), iOS and Android mobile apps and an active social presence on Facebook, X and Instagram; it is one of the better-known niche prog-rock webcasters in Europe and serves a global, English-speaking audience devoted to the progressive-rock genre.
   sources: https://www.morow.com/
+curation: 0.4
+provenance:
+  - radiobrowser-9641a11f-0601-11e8-ae97-52543be04c81
+  - iprd-fr-morow-7cc80409
+  - iprd-fr-morow-9d945123
+streams:
+  - url: http://stream.fr.morow.com:8080/morow_hi.aacp
+    codec: AAC+
+    bitrate: 128
+  - url: http://stream.fr.morow.com:8080/morow_med.mp3
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:46:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-9c39439d-86a1-49d7-ad4e-638dd3e6ee25
-streams:
-  - url: 'http://s1.onweb.gr:8856/;'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://sh.onweb.gr/8856/;'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Folk, Greek music, pop programming
   notes: Greek commercial radio station in Chalkida. Broadcasting Greek folk and popular music to Greek-speaking audience. Mix of traditional and contemporary Greek music formats.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-9c39439d-86a1-49d7-ad4e-638dd3e6ee25
+  - iprd-gr-kosmos-100-25be5b70
+streams:
+  - url: http://s1.onweb.gr:8856/;
+    codec: MP3
+    bitrate: 64
+  - url: https://sh.onweb.gr/8856/;
+    codec: MP3
+    bitrate: 64

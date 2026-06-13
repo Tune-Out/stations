@@ -21,25 +21,6 @@ lastchangetime: 2026-01-15 00:00:55
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-96100272-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://mp3.planetradio.de/planetradio/livestream.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://streams.planetradio.de/plrchannels/mp3/hqnightwax.m3u'
-    url_resolved: 'http://mp3.planetradio.de/plrchannels/hqnightwax.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.planetradio.de/plrchannels/mp3/hqblackbeats.m3u'
-    url_resolved: 'http://mp3.planetradio.de/plrchannels/hqblackbeats.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.planetradio.de/planetradio/mp3/livestream.m3u'
-    url_resolved: 'http://mp3.planetradio.de/planetradio/livestream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -49,3 +30,25 @@ research:
   format: Dance, electronic, and club music
   notes: German commercial internet radio station. Part of Planet Radio's network. Offers specialized electronic dance music stream (nightwax channel). Based in Germany with 128 kbps MP3 streaming.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-96100272-0601-11e8-ae97-52543be04c81
+  - iprd-de-planet-radio-cef53cb7
+  - iprd-de-planet-radio-black-beats-4fb25b9f
+  - iprd-de-planet-radio-nightwax-87411b31
+streams:
+  - url: http://mp3.planetradio.de/planetradio/livestream.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://streams.planetradio.de/plrchannels/mp3/hqnightwax.m3u
+    url_resolved: http://mp3.planetradio.de/plrchannels/hqnightwax.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.planetradio.de/plrchannels/mp3/hqblackbeats.m3u
+    url_resolved: http://mp3.planetradio.de/plrchannels/hqblackbeats.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.planetradio.de/planetradio/mp3/livestream.m3u
+    url_resolved: http://mp3.planetradio.de/planetradio/livestream.mp3
+    codec: MP3
+    bitrate: 128

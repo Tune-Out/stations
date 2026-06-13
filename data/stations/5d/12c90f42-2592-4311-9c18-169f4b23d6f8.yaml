@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-12c90f42-2592-4311-9c18-169f4b23d6f8
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -31,3 +28,7 @@ research:
   format: Eclectic music — likely classic rock, retro Bollywood, vintage Hindi film songs and feel-good oldies, in keeping with the "Old Monk" nostalgic-vibe theme.
   notes: Online-only Zeno.fm stream (slug "old-mong-radio" — note the typo "mong" rather than "monk" in the URL). No terrestrial broadcast licence. As of fetching, the Zeno.fm page returned HTTP 404, suggesting the channel may have been delisted or renamed; the stream URL stream.zeno.fm/pr0zc64zdy8uv remained reachable. Old Monk rum has long cultural significance in India as an affordable, communal, nostalgic spirit, and several internet stations have adopted the moniker.
   sources: https://zeno.fm/old-mong-radio/ (404), internal knowledge of Zeno.fm and Indian online radio culture
+curation: 0.4
+provenance:
+  - radiobrowser-12c90f42-2592-4311-9c18-169f4b23d6f8
+  - iprd-in-old-monk-radio-a347f64d

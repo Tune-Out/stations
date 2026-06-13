@@ -25,14 +25,6 @@ lastchangetime: 2026-01-15 07:29:21
 clickcount: 3
 geo_lat: 51.316365507870785
 geo_long: 9.49542129618751
-curation: -0.05
-provenance:
-  - radiobrowser-85131571-aa06-4e14-82d4-0c34d6fed6bc
-streams:
-  - url: 'http://streams.radiobob.de/2000er/aac-64/mediaplayer/'
-    codec: AAC
-  - url: 'https://streams.radiobob.de/2000er/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +34,11 @@ research:
   format: Specializes in rock music with over 60 themed streams including classic rock, alternative rock, punk, metal (various subgenres), and decade-specific rock (70s through 2000s); 2000er Rock stream features emo, grunge, metalcore, nu metal
   notes: 'Originally launched in Hessen August 5, 2008. National digital broadcast since August 1, 2011 via DAB+. Available nationwide via myBOB app and streaming. Tagline: "Wenn Rock, dann BOB!" (If rock, then BOB!). Broadcast on 99.4 FM in Frankfurt area.'
   sources: https://www.radiobob.de/
+curation: -0.05
+provenance:
+  - radiobrowser-85131571-aa06-4e14-82d4-0c34d6fed6bc
+streams:
+  - url: http://streams.radiobob.de/2000er/aac-64/mediaplayer/
+    codec: AAC
+  - url: https://streams.radiobob.de/2000er/mp3-192/streams.radiobob.de/
+    codec: MP3

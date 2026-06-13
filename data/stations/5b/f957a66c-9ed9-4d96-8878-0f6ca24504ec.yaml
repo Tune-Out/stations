@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 01:41:29
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-f957a66c-9ed9-4d96-8878-0f6ca24504ec
-streams:
-  - url: 'https://shoutcast.christianrock.net/stream/3/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://shoutcast.christianrock.net/stream/4/'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +34,15 @@ research:
   format: 24/7 Christian hard rock and metal music, commercial-free
   notes: 'CRnet is a listener-supported Christian ministry based in Springfield, Missouri. Mission: "Our mission is to glorify God by sharing His love and message through incredible Christian music. We strive to play the music you love, featuring lyrics you can trust." Features artists including August Burns Red, Demon Hunter, Skillet, Underoath. 100% listener-funded.'
   sources: https://www.christianhardrock.net/
+curation: 0.5
+provenance:
+  - radiobrowser-f957a66c-9ed9-4d96-8878-0f6ca24504ec
+  - iprd-us-crnet-hard-rock-953716ae
+  - iprd-us-crnet-hard-rock-6d859dbf
+streams:
+  - url: https://shoutcast.christianrock.net/stream/3/
+    codec: MP3
+    bitrate: 128
+  - url: https://shoutcast.christianrock.net/stream/4/
+    codec: MP3
+    bitrate: 32

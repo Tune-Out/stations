@@ -1,7 +1,7 @@
 stationuuid: 7cd80d5a-54d4-4597-9e27-f82ece194e06
 name: 92 PRO-FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WPROFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WPROFMAAC.aac
+url: 'https://15313.live.streamtheworld.com:443/WPROFMAAC.aac'
+url_resolved: 'https://15313.live.streamtheworld.com:443/WPROFMAAC.aac'
 homepage: https://www.92profm.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3299/squareIcon.png?r=95817
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:26:24
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7cd80d5a-54d4-4597-9e27-f82ece194e06
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Pop, Top 40, contemporary hits
   notes: Commercial radio station in Brookline, Massachusetts serving the Boston market with pop and Top 40 programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7cd80d5a-54d4-4597-9e27-f82ece194e06

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:52:50
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-960dfaf9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming.brf.be/brf2-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.brf.be/brf2-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Schlager music and entertainment for German-language Belgian community
   notes: Community radio serving the small German-speaking minority in Belgium's Walloon region; part of the broader BRF network
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-960dfaf9-0601-11e8-ae97-52543be04c81
+  - iprd-be-brf-2-14f62932
+streams:
+  - url: http://streaming.brf.be/brf2-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.brf.be/brf2-high.mp3
+    codec: MP3
+    bitrate: 128

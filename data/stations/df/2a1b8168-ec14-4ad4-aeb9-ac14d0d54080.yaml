@@ -24,20 +24,6 @@ lastchangetime: 2026-01-15 00:57:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-2a1b8168-ec14-4ad4-aeb9-ac14d0d54080
-streams:
-  - url: 'https://stream.srg-ssr.ch/m/drs2/aacp_96'
-    codec: AAC
-    bitrate: 88
-  - url: 'http://stream.srg-ssr.ch/drs2/aacp_32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/srf2/aac/48'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://stream.srg-ssr.ch/m/drs2/aacp_32'
-    codec: AAC
-    bitrate: 40
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +33,18 @@ research:
   format: Classical music, culture, jazz programming in German language.
   notes: Radio SRF 2 Kultur is a Swiss public broadcaster operated by SRF (part of SRG SSR—Société Suisse de Radiodiffusion et de Télévision). Serves German-speaking Switzerland with high-quality cultural programming including classical music and jazz. Member of European Broadcasting Union.
   sources: https://www.srf.ch/radio-srf-2-kultur
+curation: 0.55
+provenance:
+  - radiobrowser-2a1b8168-ec14-4ad4-aeb9-ac14d0d54080
+  - iprd-ch-radio-srf-2-kultur-fa155f0d
+streams:
+  - url: https://stream.srg-ssr.ch/m/drs2/aacp_96
+    codec: AAC
+    bitrate: 88
+  - url: http://stream.srg-ssr.ch/drs2/aacp_32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/srf2/aac/48
+    codec: AAC
+    bitrate: 48
+  - url: https://stream.srg-ssr.ch/m/drs2/aacp_32
+    codec: AAC
+    bitrate: 40

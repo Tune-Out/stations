@@ -19,16 +19,6 @@ lastchangetime: 2026-04-23 19:01:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-88de618b-a389-4a25-bf9f-3375f3378f29
-streams:
-  - url: 'https://mscp3.live-streams.nl:8092/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://mscp3.live-streams.nl:8090/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Rock, alternative, and classic rock music.
   notes: Dutch-based internet radio station serving rock and alternative music enthusiasts.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-88de618b-a389-4a25-bf9f-3375f3378f29
+streams:
+  - url: https://mscp3.live-streams.nl:8092/stream
+    codec: MP3
+    bitrate: 320
+  - url: http://mscp3.live-streams.nl:8090/stream
+    codec: MP3
+    bitrate: 320

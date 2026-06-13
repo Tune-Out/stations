@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 03:00:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-39a48c87-7226-4438-927b-80b1aa1be819
-streams:
-  - url: 'https://streams.rockland.de/trier/aac-64/streams.rockland.de/'
-    codec: AAC
-  - url: 'https://streams.rockland.de/kl/mp3-192/streams.rockland.de/'
-    codec: MP3
-  - url: 'https://streams.rockland.de/lu/mp3-192/streams.rockland.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: Alternative rock, classic rock, hard rock, pop rock; rock music focused
   notes: Rockland Radio is a commercial German station focusing on rock music with a local presence in Trier. Part of broader Rockland Radio network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-39a48c87-7226-4438-927b-80b1aa1be819
+streams:
+  - url: https://streams.rockland.de/trier/aac-64/streams.rockland.de/
+    codec: AAC
+  - url: https://streams.rockland.de/kl/mp3-192/streams.rockland.de/
+    codec: MP3
+  - url: https://streams.rockland.de/lu/mp3-192/streams.rockland.de/
+    codec: MP3

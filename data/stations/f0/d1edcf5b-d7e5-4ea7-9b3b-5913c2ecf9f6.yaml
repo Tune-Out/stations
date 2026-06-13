@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 10
 geo_lat: 49.23696885978908
 geo_long: 6.976318359375001
-curation: 0.50
-provenance:
-  - radiobrowser-d1edcf5b-d7e5-4ea7-9b3b-5913c2ecf9f6
-streams:
-  - url: 'https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3?aggregator=custom1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -38,3 +28,13 @@ research:
   format: Adult contemporary pop and rock hits with news, regional reporting, traffic, and service journalism
   notes: SR 1 Europawelle is the flagship pop service of Saarländischer Rundfunk, headquartered in Saarbrücken; SR is the smallest ARD member by population but has broadcast since 1957 and carries a cross-border French-German cultural mandate given Saarland's location; the station emphasizes regional identity, music news, and information.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-d1edcf5b-d7e5-4ea7-9b3b-5913c2ecf9f6
+streams:
+  - url: https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3?aggregator=custom1
+    codec: MP3
+    bitrate: 128

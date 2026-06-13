@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6ce7b6f7-14ec-433e-9c31-68f4c2867393
-streams:
-  - url: 'http://de3.amfmph.com:8203/live'
-    codec: AAC+
-    bitrate: 24
-  - url: 'http://artacloban.radioca.st:2199/tunein/artacloban-stream.pls'
-    url_resolved: 'http://142.4.216.144:8279/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: talk, news, current affairs; "Aksyon" (Action) brand associated with news/information radio in Philippines
   notes: Tacloban station is part of Aksyon Radyo network operated by MBC Media Group; "Aksyon Radyo" is known information/news-oriented format in Philippine radio landscape
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6ce7b6f7-14ec-433e-9c31-68f4c2867393
+streams:
+  - url: http://de3.amfmph.com:8203/live
+    codec: AAC+
+    bitrate: 24
+  - url: http://artacloban.radioca.st:2199/tunein/artacloban-stream.pls
+    url_resolved: http://142.4.216.144:8279/stream
+    codec: MP3
+    bitrate: 96

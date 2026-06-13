@@ -25,20 +25,6 @@ lastchangetime: 2026-01-15 05:40:20
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bd24e3d2-3e2e-47c4-b0a2-73e551728f4c
-streams:
-  - url: 'https://casper.radioca.st/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://philae.shoutca.st:8459/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://philae.shoutca.st/tunein/casper.pls'
-    url_resolved: 'http://138.201.52.248:8459/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -48,3 +34,20 @@ research:
   format: bhangra, Bollywood, Pakistani music, South Asian entertainment
   notes: Radio Central 24 broadcasts from West Midlands; focuses on bhangra and South Asian music targeting Pakistani and Indian diaspora communities
   sources: http://radiocentral24.com/
+curation: 0.35
+provenance:
+  - radiobrowser-bd24e3d2-3e2e-47c4-b0a2-73e551728f4c
+  - iprd-gb-radio-central-24-d06f7aa8
+  - iprd-gb-radio-central-24-76a73dd3
+  - iprd-gb-radio-central-24-9c4b5ac4
+streams:
+  - url: https://casper.radioca.st/;
+    codec: MP3
+    bitrate: 128
+  - url: http://philae.shoutca.st:8459/
+    codec: MP3
+    bitrate: 128
+  - url: https://philae.shoutca.st/tunein/casper.pls
+    url_resolved: http://138.201.52.248:8459/stream
+    codec: MP3
+    bitrate: 128

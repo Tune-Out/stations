@@ -24,16 +24,6 @@ lastchangetime: 2026-04-16 21:43:26
 clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.60
-provenance:
-  - radiobrowser-a808a058-bfee-43e4-ae62-f900bdf9656f
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=1'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=10'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.mp3?quality=1'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: Chillout, downtempo, contemporary, ambient electronic music; music-only format for relaxation and study. "Chillt doch mal – die perfekt Musik zum Loslassen und Wohlfühlen" (Chill out - perfect music for letting go and feeling good).
   notes: FluxFM Chillout Radio is a community/independent station operated by FluxFM, a Berlin-based radio collective offering 30+ curated streaming channels. Chillout channel features electronic and ambient artists (Bonobo, Grand Brothers, Portico Quartet, Jon Hopkins, Air, FKJ, Pantha du Prince) and emphasizes wellbeing through carefully curated programming.
   sources: https://www.fluxfm.de/
+curation: 0.6
+provenance:
+  - radiobrowser-a808a058-bfee-43e4-ae62-f900bdf9656f
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=1
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=10
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.mp3?quality=1
+    codec: MP3

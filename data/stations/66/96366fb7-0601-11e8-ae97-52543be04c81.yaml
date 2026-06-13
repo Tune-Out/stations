@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96366fb7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://segenswelle.de:8000/hcjb-aac'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://segenswelle.de:8000/hcjb'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,17 @@ research:
   format: Christian teaching, evangelical programming, religious content in German
   notes: Radio HCJB is a legendary international Christian broadcasting organization founded in Ecuador in the 1930s. The German-language service (Andenstimme / "Voice of the Andes") broadcasts Christian evangelical programming globally. HCJB pioneered international Christian shortwave broadcasting and continues mission-focused programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96366fb7-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-hcjb-german-fba676fd
+  - iprd-de-radio-hcjb-german-1cf0327d
+  - iprd-ec-radio-hcjb-german-fba676fd
+  - iprd-ec-radio-hcjb-german-1cf0327d
+streams:
+  - url: http://segenswelle.de:8000/hcjb-aac
+    codec: AAC+
+    bitrate: 32
+  - url: http://segenswelle.de:8000/hcjb
+    codec: MP3
+    bitrate: 64

@@ -1,6 +1,6 @@
 stationuuid: 964a3c30-0601-11e8-ae97-52543be04c81
 name: WHTC 1450 & 99.7 "Real News Now" Holland, MI
-url: http://provisioning.streamtheworld.com/pls/WHTCAMAAC.pls
+url: 'http://26223.live.streamtheworld.com:80/WHTCAMAAC_SC'
 url_resolved: http://26423.live.streamtheworld.com/WHTCAMAAC_SC
 homepage: http://whtc.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2159/squareIcon.png?r=67951
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:00:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964a3c30-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: News, talk, and local information programming; "Real News Now" format
   notes: WHTC 1450 AM & 99.7 FM is a Townsquare Media station branded as "Real News Now"; serves Holland, Michigan area with news and talk format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964a3c30-0601-11e8-ae97-52543be04c81

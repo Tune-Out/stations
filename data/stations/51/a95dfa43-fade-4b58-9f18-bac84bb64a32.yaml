@@ -24,17 +24,6 @@ lastchangetime: 2026-01-14 23:17:41
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-a95dfa43-fade-4b58-9f18-bac84bb64a32
-duplicate_of: fbe34b87-f0d7-4c5f-91e4-c11c2065eefd
-streams:
-  - url: 'http://allzic21.ice.infomaniak.ch/allzic21.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://allzic21.ice.infomaniak.ch/allzic21.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +33,14 @@ research:
   format: Lounge, chillout, downtempo, relaxation music
   notes: Allzic Radio is a French commercial station specialized in lounge and chillout music; part of Allzic network operated by Infomaniak (Swiss hosting/media company); targets relaxation and ambient music listeners across Francophone regions.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-a95dfa43-fade-4b58-9f18-bac84bb64a32
+duplicate_of: fbe34b87-f0d7-4c5f-91e4-c11c2065eefd
+streams:
+  - url: http://allzic21.ice.infomaniak.ch/allzic21.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://allzic21.ice.infomaniak.ch/allzic21.mp3
+    codec: MP3
+    bitrate: 128

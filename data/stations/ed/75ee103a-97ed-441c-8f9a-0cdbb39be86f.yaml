@@ -1,7 +1,7 @@
 stationuuid: 75ee103a-97ed-441c-8f9a-0cdbb39be86f
 name: W Radio Ciudad de México - 96.9 FM / 900 AM - XEW-FM / XEW-AM - Radiópolis - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac
+url: 'https://26233.live.streamtheworld.com:443/W_RADIOAAC.aac'
+url_resolved: 'https://26233.live.streamtheworld.com:443/W_RADIOAAC.aac'
 homepage: https://www.wradio.com.mx/
 favicon: https://wradio.com.mx/pf/resources/wradiomx/touch-icon-iphone.png?d=265&mxId=00000000
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:31:29
 clickcount: 15
 geo_lat: 19.43118400403601
 geo_long: -99.1328251361847
-curation: -0.10
-provenance:
-  - radiobrowser-75ee103a-97ed-441c-8f9a-0cdbb39be86f
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: News-talk radio — current affairs, political commentary, interviews, business news, sports, and opinion programming
   notes: W Radio Ciudad de México broadcasts on 96.9 FM (XEW-FM) and 900 AM (XEW-AM) from Mexico City; XEW-AM is one of the most historic radio stations in Latin America, founded on 18 September 1930 by Emilio Azcárraga Vidaurreta as "La Voz de la América Latina desde México" and considered the flagship of Mexican radio history; the W Radio brand was launched in 2000 as a Prisa/Televisa news-talk format on the XEW frequencies; flagship programs have included shows hosted by Carlos Loret de Mola, Carmen Aristegui (until 2008), and currently Luis Cárdenas's morning show "Así las Cosas" and other news-talk programming; the station is part of the Cadena W Radio Mexican network with affiliates nationwide.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-75ee103a-97ed-441c-8f9a-0cdbb39be86f

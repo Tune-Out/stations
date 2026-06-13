@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:17:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ccc83670-4727-40f2-93f2-1fee93dbaecf
-streams:
-  - url: 'https://nl.digitalrm.pt:8216/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://nl.digitalrm.pt:8216/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +32,13 @@ research:
   format: Generalist local radio with pop music, news, and community programming.
   notes: Portuguese community radio station serving local area; provides news, entertainment, and pop music programming; supports local community engagement.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ccc83670-4727-40f2-93f2-1fee93dbaecf
+streams:
+  - url: https://nl.digitalrm.pt:8216/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://nl.digitalrm.pt:8216/stream
+    codec: MP3
+    bitrate: 128

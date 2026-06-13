@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:22:41
 clickcount: 1
 geo_lat: 42.6977
 geo_long: 23.3219
-curation: 0.20
-provenance:
-  - radiobrowser-a149f4b4-db63-4c6b-ab20-b6f9296d0eb6
-streams:
-  - url: 'https://play.global.audio/citylatinhi.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://play.global.audio/citylatin.aac'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Latin music programming; Latin and world music focus
   notes: Bulgarian internet radio platform RadioPlay.bg offering multiple thematic music channels. City Latin is one of their Latin music-focused streams. Sofia-based with regional and internet reach. Serves Bulgarian-speaking and Latin music enthusiast audiences. Low bitrate (48 kbps) indicates accessibility focus.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-a149f4b4-db63-4c6b-ab20-b6f9296d0eb6
+streams:
+  - url: https://play.global.audio/citylatinhi.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://play.global.audio/citylatin.aac
+    codec: AAC
+    bitrate: 48

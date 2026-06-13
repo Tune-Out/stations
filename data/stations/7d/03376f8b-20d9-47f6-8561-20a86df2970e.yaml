@@ -1,6 +1,6 @@
 stationuuid: 03376f8b-20d9-47f6-8561-20a86df2970e
 name: KPBX
-url: http://playerservices.streamtheworld.com/pls/KPBX_FM_ADP.pls
+url: 'http://18533.live.streamtheworld.com:80/KPBX_FM_ADP_SC'
 url_resolved: http://14613.live.streamtheworld.com:3690/KPBX_FM_ADP_SC
 homepage: https://www.spokanepublicradio.org/listen-live-0
 favicon: ""
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-03376f8b-20d9-47f6-8561-20a86df2970e
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -31,3 +28,6 @@ research:
   format: Public radio news, music, and cultural programming
   notes: Non-commercial, listener-supported public radio station; broadcast on 88.1 FM in Spokane.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-03376f8b-20d9-47f6-8561-20a86df2970e

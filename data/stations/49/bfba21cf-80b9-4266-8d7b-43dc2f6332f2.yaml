@@ -21,17 +21,6 @@ lastchangetime: 2026-02-03 03:50:37
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-bfba21cf-80b9-4266-8d7b-43dc2f6332f2
-streams:
-  - url: 'http://sa46.scastream.com.au/live/lo-fi.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 63
-    hls: true
-  - url: 'http://wz0liw.scahw.com.au/live/lo-fi.stream/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: 24/7 lofi hip-hop and ambient study beats; instrumental background music
   notes: LiSTNR is an Australian streaming radio platform offering curated lofi and study music; Lofi Study Beats channel designed for concentration, studying, working, and relaxation; part of broader LiSTNR network of music-focused channels
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-bfba21cf-80b9-4266-8d7b-43dc2f6332f2
+streams:
+  - url: http://sa46.scastream.com.au/live/lo-fi.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 63
+    hls: true
+  - url: http://wz0liw.scahw.com.au/live/lo-fi.stream/playlist.m3u8
+    codec: UNKNOWN
+    hls: true

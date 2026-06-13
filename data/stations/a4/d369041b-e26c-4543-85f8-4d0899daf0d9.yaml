@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:25:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-d369041b-e26c-4543-85f8-4d0899daf0d9
-streams:
-  - url: 'https://ice23.securenetsystems.net/WORDFM'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice66.securenetsystems.net/WORDFM2'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Christian teaching, music, and inspirational programming
   notes: Word FM is a non-commercial, listener-supported Christian radio station based in Pennsylvania, providing Christian content and music for evangelical audiences.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-d369041b-e26c-4543-85f8-4d0899daf0d9
+streams:
+  - url: https://ice23.securenetsystems.net/WORDFM
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice66.securenetsystems.net/WORDFM2
+    codec: MP3
+    bitrate: 64

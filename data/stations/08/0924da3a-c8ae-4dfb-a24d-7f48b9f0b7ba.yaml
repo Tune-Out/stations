@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 7
 geo_lat: 47.49761131636839
 geo_long: 19.03278350830078
-curation: -0.05
-provenance:
-  - radiobrowser-0924da3a-c8ae-4dfb-a24d-7f48b9f0b7ba
-streams:
-  - url: 'https://icast.connectmedia.hu/5301/live.mp3/'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://icast.connectmedia.hu/5301/live.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Rock music; classic rock, contemporary rock, alternative rock programming with DJ shows
   notes: Commercial FM radio station (103.9 MHz) broadcasting from Budapest, Hungary. Rock-focused format with emphasis on rock music of various eras and styles. Supports online streaming alongside terrestrial FM distribution.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0924da3a-c8ae-4dfb-a24d-7f48b9f0b7ba
+streams:
+  - url: https://icast.connectmedia.hu/5301/live.mp3/
+    codec: MP3
+    bitrate: 320
+  - url: https://icast.connectmedia.hu/5301/live.mp3
+    codec: MP3
+    bitrate: 320

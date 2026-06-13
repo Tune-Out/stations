@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:30:27
 clickcount: 0
 geo_lat: -8.883070360850464
 geo_long: -36.49678587913514
-curation: 0.35
-provenance:
-  - radiobrowser-bdc15ed2-f76d-433d-ae51-bc231ab90e38
-streams:
-  - url: 'https://exodo.ddns.seg.br:20011/;?1705778463505='
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://agrestehost.agrestehost.com.br:8041/stream'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Local news, music, community programming
   notes: Local FM station in Pernambuco, Brazil. Portuguese language broadcast featuring local news and music.
   sources: http://www.fm87.com.br/v3/index.php, internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bdc15ed2-f76d-433d-ae51-bc231ab90e38
+streams:
+  - url: https://exodo.ddns.seg.br:20011/;?1705778463505=
+    codec: AAC+
+    bitrate: 32
+  - url: http://agrestehost.agrestehost.com.br:8041/stream
+    codec: AAC+
+    bitrate: 32

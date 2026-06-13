@@ -1,7 +1,7 @@
 stationuuid: 5144ec34-2e8f-4271-818f-ba5a2996e3c7
 name: Coles Radio (South Australia / Northern Territory) (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_SA_NT.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_SA_NT.mp3
+url: 'http://28793.live.streamtheworld.com:80/COLES_CONSUMER_SA_NT.mp3'
+url_resolved: 'http://28793.live.streamtheworld.com:80/COLES_CONSUMER_SA_NT.mp3'
 homepage: https://www.coles.com.au/help/coles-radio
 favicon: https://i.ibb.co/4RfQ4HX9/images.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-29 09:36:19
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5144ec34-2e8f-4271-818f-ba5a2996e3c7
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary music, pop, and mixed format.
   notes: In-store/branded radio service operated by Coles supermarket chain for shopping customers in South Australia and Northern Territory.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5144ec34-2e8f-4271-818f-ba5a2996e3c7

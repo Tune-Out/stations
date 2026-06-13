@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: 50.14874640066278
 geo_long: -3.3398437500000004
-curation: 0.35
-provenance:
-  - radiobrowser-a29b9636-c73b-454f-a5a2-ae47875289b2
-streams:
-  - url: 'https://stream.radio.co/s560edbdb7/listen'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.radio.co/s560edbdb7/listen.m3u'
-    url_resolved: 'http://stream.radio.co/s560edbdb7/listen'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +28,14 @@ research:
   format: online internet radio station
   notes: UK-based internet radio station streaming via radio.co platform; community/independent operator.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a29b9636-c73b-454f-a5a2-ae47875289b2
+streams:
+  - url: https://stream.radio.co/s560edbdb7/listen
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.radio.co/s560edbdb7/listen.m3u
+    url_resolved: http://stream.radio.co/s560edbdb7/listen
+    codec: MP3
+    bitrate: 128

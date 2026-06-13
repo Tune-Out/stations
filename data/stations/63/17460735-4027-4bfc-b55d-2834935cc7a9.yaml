@@ -1,7 +1,7 @@
 stationuuid: 17460735-4027-4bfc-b55d-2834935cc7a9
 name: Radio Disney Ciudad de México - 92.1 FM - XHFO-FM - Grupo Siete - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac
+url: 'https://18323.live.streamtheworld.com:443/XHFOFMAAC.aac'
+url_resolved: 'https://18323.live.streamtheworld.com:443/XHFOFMAAC.aac'
 homepage: https://tunein.com/radio/Radio-Disney-Ciudad-de-Mxico-921-s88449/
 favicon: https://cdn-web.tunein.com/assets/img/apple-touch-icon-180.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:22:02
 clickcount: 0
 geo_lat: 19.439247642750917
 geo_long: -99.1341018676758
-curation: -0.05
-provenance:
-  - radiobrowser-17460735-4027-4bfc-b55d-2834935cc7a9
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Pop music, entertainment, family-oriented programming; "Entretenimiento, música pop, juvenil"
   notes: Mexican affiliate of Radio Disney brand (92.1 FM XHFO-FM, Mexico City); operated by Grupo Siete; targets family and youth audiences with pop music and entertainment content; serves Valle de México region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-17460735-4027-4bfc-b55d-2834935cc7a9

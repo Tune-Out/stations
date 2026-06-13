@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:47:12
 clickcount: 241
 geo_lat: 40.75166
 geo_long: -73.97538
-curation: 0.90
-provenance:
-  - radiobrowser-ea8059be-d119-4de3-b27b-0d9bd6aedb17
-streams:
-  - url: 'https://icecast.walmradio.com:8443/jazz_opus'
-    codec: OGG
-    bitrate: 192
-  - url: 'https://icecast.walmradio.com:8443/jazz'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,15 @@ research:
   format: 24/7 commercial-free jazz with emphasis on modern, mainstream, avant-garde and cool jazz; HD 320 kbps stream
   notes: One of several themed streams operated by WALM Radio; positioned as a "premium online radio streaming with crystal-clear audio quality" curated jazz channel; geo coordinates point to New York. WALM Radio operates as an internet-only broadcaster with no terrestrial license; listener-supported model.
   sources: https://walmradio.com/jazz, internal knowledge
+curation: 0.75
+provenance:
+  - radiobrowser-ea8059be-d119-4de3-b27b-0d9bd6aedb17
+  - iprd-us-adroit-jazz-underground-hd-32817666
+  - iprd-us-walm-250c54f8
+streams:
+  - url: https://icecast.walmradio.com:8443/jazz_opus
+    codec: OGG
+    bitrate: 192
+  - url: https://icecast.walmradio.com:8443/jazz
+    codec: MP3
+    bitrate: 320

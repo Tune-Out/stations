@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:37:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-82da0ba5-cbc8-11e8-a54a-52543be04c81
-streams:
-  - url: 'https://s2.metaradio.ru/mradio.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://s2.metaradio.ru/mradio.aacp'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Russian dance, electronic music, pop hits, contemporary dance music; DJ-driven programming
   notes: Russian commercial internet radio station specializing in dance, electronic, and pop music; targets young adult audiences seeking contemporary electronic and dance hits; available via streaming platform; emphasis on upbeat, energetic music formats popular in Russian club culture
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-82da0ba5-cbc8-11e8-a54a-52543be04c81
+  - iprd-ru-metaradio-ba46e133
+streams:
+  - url: https://s2.metaradio.ru/mradio.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://s2.metaradio.ru/mradio.aacp
+    codec: AAC
+    bitrate: 96

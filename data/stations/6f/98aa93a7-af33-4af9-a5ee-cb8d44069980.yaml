@@ -22,26 +22,6 @@ lastchangetime: 2026-04-11 15:21:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-98aa93a7-af33-4af9-a5ee-cb8d44069980
-streams:
-  - url: 'http://philipiptv.freeddns.org:8082/ZTVGM-Radio.m3u'
-    url_resolved: 'http://philipiptv.freeddns.org:8082/ZTVGM-Radio'
-    codec: OGG
-    bitrate: 320
-  - url: 'http://server.philipiptv.cloudns.ph:8082/ZTVGM-Radio.m3u'
-    url_resolved: 'http://server.philipiptv.cloudns.ph:8082/ZTVGM-Radio'
-    codec: OGG
-    bitrate: 320
-  - url: 'http://philipdunn.cloudns.ph:8082/ZTVGM-Radio.m3u'
-    url_resolved: 'http://philipdunn.cloudns.ph:8082/ZTVGM-Radio'
-    codec: OGG
-    bitrate: 320
-  - url: 'http://philipiptv.cloudns.ph:8082/ZTVGM-Radio.m3u'
-    url_resolved: 'http://philipiptv.cloudns.ph:8082/ZTVGM-Radio'
-    codec: OGG
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -51,3 +31,23 @@ research:
   format: video game music, weather, miscellaneous programming, metal music variety
   notes: Non-commercial internet radio based in Connecticut; eclectic format combining video game music with diverse metal genres and weather reporting via Zapstech community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-98aa93a7-af33-4af9-a5ee-cb8d44069980
+streams:
+  - url: http://philipiptv.freeddns.org:8082/ZTVGM-Radio.m3u
+    url_resolved: http://philipiptv.freeddns.org:8082/ZTVGM-Radio
+    codec: OGG
+    bitrate: 320
+  - url: http://server.philipiptv.cloudns.ph:8082/ZTVGM-Radio.m3u
+    url_resolved: http://server.philipiptv.cloudns.ph:8082/ZTVGM-Radio
+    codec: OGG
+    bitrate: 320
+  - url: http://philipdunn.cloudns.ph:8082/ZTVGM-Radio.m3u
+    url_resolved: http://philipdunn.cloudns.ph:8082/ZTVGM-Radio
+    codec: OGG
+    bitrate: 320
+  - url: http://philipiptv.cloudns.ph:8082/ZTVGM-Radio.m3u
+    url_resolved: http://philipiptv.cloudns.ph:8082/ZTVGM-Radio
+    codec: OGG
+    bitrate: 64

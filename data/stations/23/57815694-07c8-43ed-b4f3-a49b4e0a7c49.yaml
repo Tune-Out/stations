@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:36:25
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-57815694-07c8-43ed-b4f3-a49b4e0a7c49
-streams:
-  - url: 'https://mbc.thestreamtech.com:7032/'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://mbc.thestreamtech.com:7032/index.html'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Entertainment, music, news
   notes: Y FM is a Sri Lankan commercial radio station offering entertainment, music and news programming in Sinhala. Hi-resolution streaming available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-57815694-07c8-43ed-b4f3-a49b4e0a7c49
+streams:
+  - url: https://mbc.thestreamtech.com:7032/
+    codec: AAC+
+    bitrate: 64
+  - url: https://mbc.thestreamtech.com:7032/index.html
+    codec: AAC+
+    bitrate: 64

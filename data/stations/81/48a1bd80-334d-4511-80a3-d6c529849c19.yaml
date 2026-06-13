@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:37:27
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-48a1bd80-334d-4511-80a3-d6c529849c19
-streams:
-  - url: 'http://s3.we4stream.com:8045/liv'
-    codec: MP3
-    bitrate: 160
-  - url: 'http://s47.myradiostream.com:13914/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Electronic dance music (EDM, house, techno, remember, dance) with DJ-hosted programs and live mixes
   notes: Loca FM is a Spanish commercial radio network founded in 1991 (originally as "Loca FM, La Radio Que Mueve") specialising in dance and electronic music; it pioneered the dance-radio format in Spain, has multiple FM frequencies across the country, and a strong online presence; it became known for promoting Spanish dance music and DJ culture, with sub-brands like Loca FM Dance, Loca FM Remember, and Loca FM Latino.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-48a1bd80-334d-4511-80a3-d6c529849c19
+streams:
+  - url: http://s3.we4stream.com:8045/liv
+    codec: MP3
+    bitrate: 160
+  - url: http://s47.myradiostream.com:13914/;
+    codec: MP3
+    bitrate: 128

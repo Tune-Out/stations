@@ -1,7 +1,7 @@
 stationuuid: 45012952-97e9-4357-bc96-fbd7d949f051
 name: EXA FM 101.7 (Culiacán) - 101.7 FM - XHESA-FM - Grupo RSN - Culiacán, Sinaloa
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC.AAC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC.AAC
+url: 'https://17993.live.streamtheworld.com:443/XHESAAAC.aac'
+url_resolved: 'https://17993.live.streamtheworld.com:443/XHESAAAC.aac'
 homepage: https://exafm.com/plaza/culiacan/
 favicon: https://thumbnail.anii.io/mx/radio-exa-fm-101-7-fm-culiacan-mexico.webp
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 0
 geo_lat: 24.800998592437733
 geo_long: -107.39255905151369
-curation: -0.10
-provenance:
-  - radiobrowser-45012952-97e9-4357-bc96-fbd7d949f051
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Commercial pop music radio station with bilingual (Spanish/English) contemporary hits and entertainment programming
   notes: EXA FM 101.7 is part of the larger EXA network, branded as "la estación exacta" (the exact station) and "la estación naranja" (the orange station). Operated by Grupo RSN (part of MVS Radio network), broadcasting pop music and entertainment to Sinaloa region. Notable personality includes Moi Merino.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-45012952-97e9-4357-bc96-fbd7d949f051

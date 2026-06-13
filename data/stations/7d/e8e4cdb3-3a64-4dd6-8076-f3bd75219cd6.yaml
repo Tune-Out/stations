@@ -1,7 +1,7 @@
 stationuuid: e8e4cdb3-3a64-4dd6-8076-f3bd75219cd6
 name: WJCT News 89.9
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM.mp3?uuid=j1z0gbt49
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM.mp3?uuid=j1z0gbt49
+url: 'https://18163.live.streamtheworld.com:443/WJCTFM.mp3?uuid=j1z0gbt49'
+url_resolved: 'https://18163.live.streamtheworld.com:443/WJCTFM.mp3?uuid=j1z0gbt49'
 homepage: https://news.wjct.org/
 favicon: https://npr.brightspotcdn.com/dims4/default/255edb7/2147483647/strip/true/crop/324x60+0+0/resize/534x98!/format/webp/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims4%2Fdefault%2F9e4fbee%2F2147483647%2Fresize%2Fx60%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Fb1%2Fd07f970549a490e86b2e803c9023%2Fwjct-news-89.9_logo_circle-horizontal_w_yellow.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.90
-provenance:
-  - radiobrowser-e8e4cdb3-3a64-4dd6-8076-f3bd75219cd6
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -31,3 +28,6 @@ research:
   format: All-news/talk format with NPR news and programs; HD Radio music subchannels including Classical 24 (HD2), Anthology 89.9 (HD3, 60s/70s/80s), Jacksonville's Jazz Radio (HD4).
   notes: Community-owned public media organization serving the First Coast since 1958; converted to all-news format July 13, 2020 from previous news/music mix; broadcasts local, statewide, and national news; Jacksonville Music Experience offers 24/7 music on HD subchannels.
   sources: https://news.wjct.org/, https://www.wjct.org/, https://en.wikipedia.org/wiki/WJCT-FM
+curation: 0.9
+provenance:
+  - radiobrowser-e8e4cdb3-3a64-4dd6-8076-f3bd75219cd6

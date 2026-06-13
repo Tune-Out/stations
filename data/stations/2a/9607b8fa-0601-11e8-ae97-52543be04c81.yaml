@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:44:56
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9607b8fa-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radiodjiido.nc:8000/;stream.mp3'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://radiodjiido.nc:8002/;stream.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,13 @@ research:
   format: General music and community programming
   notes: Radio Djiido serves New Caledonia, a French overseas collectivity in Melanesia. Community-oriented station for local French-speaking audience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9607b8fa-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://radiodjiido.nc:8000/;stream.mp3
+    codec: AAC+
+    bitrate: 128
+  - url: http://radiodjiido.nc:8002/;stream.mp3
+    codec: MP3
+    bitrate: 96

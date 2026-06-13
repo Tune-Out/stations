@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-63bd9ee9-dd51-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rsh.de/rsh-event02/aac-64'
-    codec: AAC
-  - url: 'http://streams.rsh.de/sommerhits/aac-64'
-    codec: AAC
-  - url: 'http://streams.rsh.de/sommerhits/mp3-192'
-    codec: MP3
-  - url: 'http://streams.rsh.de/rsh-event02/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +28,15 @@ research:
   format: Music (80s, 90s, 2000s, dance, German music), news, weather, traffic, comedy, podcasts, children's programming
   notes: Commercial radio station for Schleswig-Holstein region with tagline "Zusammen sind wir Schleswig-Holstein!" Emphasizes community connection, local news, sports partnerships with regional teams (Holstein Kiel, SG Flensburg-Handewitt), custom town songs, and extensive podcast network.
   sources: https://www.rsh.de/
+curation: 0.35
+provenance:
+  - radiobrowser-63bd9ee9-dd51-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.rsh.de/rsh-event02/aac-64
+    codec: AAC
+  - url: http://streams.rsh.de/sommerhits/aac-64
+    codec: AAC
+  - url: http://streams.rsh.de/sommerhits/mp3-192
+    codec: MP3
+  - url: http://streams.rsh.de/rsh-event02/mp3-192
+    codec: MP3

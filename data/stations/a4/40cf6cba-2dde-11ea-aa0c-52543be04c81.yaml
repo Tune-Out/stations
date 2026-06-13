@@ -1,6 +1,6 @@
 stationuuid: 40cf6cba-2dde-11ea-aa0c-52543be04c81
 name: Radiolé
-url: https://provisioning.streamtheworld.com/pls/RADIOLEAAC.pls
+url: 'http://25643.live.streamtheworld.com:80/RADIOLEAAC_SC'
 url_resolved: http://23613.live.streamtheworld.com/RADIOLEAAC_SC
 homepage: https://www.radiole.com/
 favicon: https://static.mytuner.mobi/media/tvos_radios/hp9JgkDT82.png
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 02:25:18
 clickcount: 37
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-40cf6cba-2dde-11ea-aa0c-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: General music and entertainment format with pop music and talk programming
   notes: Commercial radio broadcast in Andalusia region of Spain; operates via stream at low bitrate (56k AAC+). Spanish-language station.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-40cf6cba-2dde-11ea-aa0c-52543be04c81

@@ -1,6 +1,6 @@
 stationuuid: 964918cf-0601-11e8-ae97-52543be04c81
 name: KVVA 107.1 & 106.9 "Jose FM" Apache Junction, AZ
-url: http://provisioning.streamtheworld.com/pls/KVVAFMAAC.pls
+url: 'http://29309.live.streamtheworld.com:80/KVVAFMAAC_SC'
 url_resolved: http://17843.live.streamtheworld.com:3690/KVVAFMAAC_SC
 homepage: http://jose.entravision.com/phoenix/
 favicon: ""
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 05:32:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964918cf-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Spanish Adult Hits format with music and entertainment
   notes: KVVA "Jose FM" is a commercial Spanish-language radio station operated by Enteravision Communications, one of the largest Spanish-language radio broadcasters in the US. Broadcasts on 107.1 and 106.9 FM to the Phoenix metropolitan area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964918cf-0601-11e8-ae97-52543be04c81

@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e5a8ffd5-58c7-453a-b286-1197a6b317ad
-streams:
-  - url: 'https://azuracast.novi-net.net/radio/8010/radiomax.aac'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azuracast.novi-net.net/public/radiomax/playlist.pls'
-    url_resolved: 'https://azuracast.novi-net.net/listen/radiomax/radiomax.aac'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Contemporary pop and hits; mainstream commercial radio format
   notes: Radio Max is a regional Croatian commercial radio station based in Varaždinska county. Serves local audience with mainstream music programming and commercial format typical of regional Croatian broadcasters. Independent or regional media group operation.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e5a8ffd5-58c7-453a-b286-1197a6b317ad
+streams:
+  - url: https://azuracast.novi-net.net/radio/8010/radiomax.aac
+    codec: MP3
+    bitrate: 128
+  - url: https://azuracast.novi-net.net/public/radiomax/playlist.pls
+    url_resolved: https://azuracast.novi-net.net/listen/radiomax/radiomax.aac
+    codec: MP3
+    bitrate: 128

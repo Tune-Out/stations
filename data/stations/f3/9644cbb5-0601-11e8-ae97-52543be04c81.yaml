@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:20:51
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9644cbb5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://79.111.119.111:9011/;'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.119.111:8002/dsbm'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: specialized 24/7 stream of depressive black metal subgenre
   notes: One of dozens of genre-specific channels operated by Radio Caprice; depressive black metal features introspective, melancholic compositions; operates since early 2000s
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9644cbb5-0601-11e8-ae97-52543be04c81
+  - iprd-ru-radio-caprice-depressive-black-metal-8e135722
+streams:
+  - url: http://79.111.119.111:9011/;
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.119.111:8002/dsbm
+    codec: AAC+
+    bitrate: 48

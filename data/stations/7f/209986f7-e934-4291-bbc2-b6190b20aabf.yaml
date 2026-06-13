@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: -32.56061309731937
 geo_long: -53.37497169374489
-curation: 0.35
-provenance:
-  - radiobrowser-209986f7-e934-4291-bbc2-b6190b20aabf
-streams:
-  - url: 'https://stm19.xcast.com.br:11526/'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://stm19.xcast.com.br:11526/stream'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Eclectic, community radio, local programming
   notes: Brazilian community radio station (radio comunitaria) serving Jaguarão, Rio Grande do Sul state.
   sources: https://www.radiojaguaraofm.com.br/
+curation: 0.35
+provenance:
+  - radiobrowser-209986f7-e934-4291-bbc2-b6190b20aabf
+streams:
+  - url: https://stm19.xcast.com.br:11526/
+    codec: AAC+
+    bitrate: 128
+  - url: https://stm19.xcast.com.br:11526/stream
+    codec: AAC+
+    bitrate: 128

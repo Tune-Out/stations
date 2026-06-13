@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 07:06:43
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-33de8eca-ae96-41fd-96e9-d3d3b7d00f39
-streams:
-  - url: 'http://streams.80s80s.de/soul/mp3-192/streams.80s80s.de/'
-    codec: MP3
-  - url: 'http://regiocast.streamabc.net/regc-80s80ssoul8277002-mp3-192-1187403?sABC=65493326%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699296038'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Funk and Soul music from the 1970s, 1980s and 1990s
   notes: 80s80s is a German webradio network offering multiple music-format streams (80s Hits, Funk & Soul, New Wave, Synthpop, etc.); the Funk & Soul stream specializes in classic funk, soul and R&B from across several decades; streams at variable bitrate MP3 via streams.80s80s.de CDN infrastructure.
   sources: http://80s80s.de/
+curation: -0.05
+provenance:
+  - radiobrowser-33de8eca-ae96-41fd-96e9-d3d3b7d00f39
+streams:
+  - url: http://streams.80s80s.de/soul/mp3-192/streams.80s80s.de/
+    codec: MP3
+  - url: http://regiocast.streamabc.net/regc-80s80ssoul8277002-mp3-192-1187403?sABC=65493326%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699296038
+    codec: MP3

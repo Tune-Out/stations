@@ -21,19 +21,6 @@ lastchangetime: 2026-02-07 00:21:28
 clickcount: 2
 geo_lat: 52.50686029292552
 geo_long: 13.40224754136412
-curation: -0.05
-provenance:
-  - radiobrowser-19c65daa-3cef-41fc-90c2-ac1e2013c65b
-streams:
-  - url: 'https://stream.silvacast.com/RPLive/mp3-128/RadioPaloma_Homepage'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icepool.silvacast.com/RADIOPALOMA.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://pool.radiopaloma.de/RP-Partyschlager.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +30,17 @@ research:
   format: Schlager, hits, and traditional German/Austrian/Swiss folk music
   notes: Long-established German Schlager station; focus on nostalgia and classic hits
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-19c65daa-3cef-41fc-90c2-ac1e2013c65b
+  - iprd-de-radio-paloma-5b09ba9f
+streams:
+  - url: https://stream.silvacast.com/RPLive/mp3-128/RadioPaloma_Homepage
+    codec: MP3
+    bitrate: 128
+  - url: http://icepool.silvacast.com/RADIOPALOMA.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://pool.radiopaloma.de/RP-Partyschlager.mp3
+    codec: MP3
+    bitrate: 128

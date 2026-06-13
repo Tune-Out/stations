@@ -21,14 +21,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 10
 geo_lat: 50.85325707417748
 geo_long: 4.402635790952025
-curation: 0.35
-provenance:
-  - radiobrowser-67ea1af2-07a6-4de8-985e-b47947139793
-streams:
-  - url: 'http://icecast.vrtcdn.be/radio1_classics.aac'
-    codec: AAC
-  - url: 'http://icecast.vrtcdn.be/radio1_classics-high.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -38,3 +30,12 @@ research:
   format: Online thematic stream of classic rock, album rock and guitar-led 1960s-1990s repertoire as a spin-off of Radio 1
   notes: Radio 1 Classics is a digital-only side-channel of VRT Radio 1, the news-and-talk public station that traces its lineage to the original Belgian national radio service founded in 1930; the Classics stream curates the rock-music DNA of Radio 1 with material drawn from acts such as the Rolling Stones, Bruce Springsteen, U2 and the Beatles, complementing Radio 1's adult speech programming and its annual De Tijdloze listener-voted classic-rock chart; VRT operates under a management contract (beheersovereenkomst) with the Flemish government that obliges editorial independence, public-service quality standards and Dutch-language promotion
   sources: https://radio1.be/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-67ea1af2-07a6-4de8-985e-b47947139793
+  - iprd-be-vrt-radio-1-classics-03c61430
+streams:
+  - url: http://icecast.vrtcdn.be/radio1_classics.aac
+    codec: AAC
+  - url: http://icecast.vrtcdn.be/radio1_classics-high.mp3
+    codec: MP3

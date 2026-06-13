@@ -23,14 +23,6 @@ lastchangetime: 2026-01-14 23:41:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9618d2c4-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'https://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: '"BOBs 90er Rock" (90s Rock); rock programming from 1990s era.'
   notes: Radio BOB! is German online and broadcast radio station known for rock programming; operates multiple themed channels including 90s rock specialty; significant listener base in German-speaking regions.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9618d2c4-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: https://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de/
+    codec: MP3

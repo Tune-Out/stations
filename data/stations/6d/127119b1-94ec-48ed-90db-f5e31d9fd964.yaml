@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 07:25:31
 clickcount: 1
 geo_lat: 32.533031479981695
 geo_long: -117.02027320861818
-curation: 0.40
-provenance:
-  - radiobrowser-127119b1-94ec-48ed-90db-f5e31d9fd964
-streams:
-  - url: 'http://zionmultimedia.live/radio/8010/radio.mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://zionmultimedia.live/radio/8010/radio.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Christian music, Christian talk, gospel, religious programming
   notes: Christian radio station broadcast on 540 AM from Tijuana; targets Spanish-language Christian community
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-127119b1-94ec-48ed-90db-f5e31d9fd964
+  - iprd-us-radio-zion-540-509ed836
+streams:
+  - url: http://zionmultimedia.live/radio/8010/radio.mp3
+    codec: MP3
+    bitrate: 96
+  - url: https://zionmultimedia.live/radio/8010/radio.mp3
+    codec: MP3
+    bitrate: 96

@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 05:56:44
 clickcount: 0
 geo_lat: 40.71728663906727
 geo_long: -74.05059814453126
-curation: 0.20
-provenance:
-  - radiobrowser-70cfdd80-d76b-477d-a065-561afc3d4f6f
-streams:
-  - url: 'http://stream.revma.ihrhls.com/zc7378/hls.m3u8'
-    codec: AAC
-    bitrate: 24
-    hls: true
-  - url: 'http://stream.revma.ihrhls.com/zc7378'
-    codec: AAC
-  - url: 'https://ample.revma.ihrhls.com/zc7378/14_ypx1lharbetk02/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: Broadway show tunes, musical theater soundtracks, musicals, off-Broadway, West End recordings
   notes: iHeartRadio Broadway is a commercial specialty channel operated by iHeartMedia featuring Broadway musicals, show tunes, musical theater soundtracks, and theater recordings. Broadcasts at 24 kbps AAC via HLS stream. Curated for Broadway and musical theater fans, with content from Broadway, off-Broadway, and West End productions.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-70cfdd80-d76b-477d-a065-561afc3d4f6f
+streams:
+  - url: http://stream.revma.ihrhls.com/zc7378/hls.m3u8
+    codec: AAC
+    bitrate: 24
+    hls: true
+  - url: http://stream.revma.ihrhls.com/zc7378
+    codec: AAC
+  - url: https://ample.revma.ihrhls.com/zc7378/14_ypx1lharbetk02/playlist.m3u8
+    codec: UNKNOWN
+    hls: true

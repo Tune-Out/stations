@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e0295c93-67a8-4ac1-a367-8898c91df97a
-streams:
-  - url: 'https://quincy.torontocast.com:3115/stream?x=1733618321799'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://quincy.torontocast.com:3115/stream?x=1703514162706'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Hair bands, glam metal, and 1980s rock from bands like Mötley Crüe, Def Leppard, Bon Jovi, and similar acts
   notes: Hair Band Radio is a specialty channel within the Metal Shop Rocks network, dedicated exclusively to 1980s hair metal and glam rock. Serves a nostalgic audience of fans from the arena rock and hair metal era.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e0295c93-67a8-4ac1-a367-8898c91df97a
+streams:
+  - url: https://quincy.torontocast.com:3115/stream?x=1733618321799
+    codec: MP3
+    bitrate: 128
+  - url: https://quincy.torontocast.com:3115/stream?x=1703514162706
+    codec: MP3
+    bitrate: 128

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:23:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961abc69-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://91.121.62.121:9410/;'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://91.121.62.121:9410/'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,14 @@ research:
   format: Community radio programming.
   notes: Community-based radio station serving Longwy in Meurthe-et-Moselle (Lorraine/Grand Est region). Small local broadcaster.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-961abc69-0601-11e8-ae97-52543be04c81
+  - iprd-fr-radio-aria-337ca5d2
+streams:
+  - url: http://91.121.62.121:9410/;
+    codec: MP3
+    bitrate: 96
+  - url: http://91.121.62.121:9410/
+    codec: MP3
+    bitrate: 96

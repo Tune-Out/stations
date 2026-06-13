@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:04:28
 clickcount: 0
 geo_lat: 61.45179481096617
 geo_long: 5.853395462036134
-curation: 0.50
-provenance:
-  - radiobrowser-f6719b19-c0d6-4b18-8d22-ca72dc40ecb6
-streams:
-  - url: 'https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7'
-    codec: AAC+
-    bitrate: 159
-  - url: 'https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: General interest public radio programming for regional audience
   notes: NRK P1 is the flagship public radio channel of Norwegian broadcaster NRK; Sogn og Fjordane edition serves county in western Norway
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-f6719b19-c0d6-4b18-8d22-ca72dc40ecb6
+streams:
+  - url: https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7
+    codec: AAC+
+    bitrate: 159
+  - url: https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7
+    codec: MP3
+    bitrate: 192

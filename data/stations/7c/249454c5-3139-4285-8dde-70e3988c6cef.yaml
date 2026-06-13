@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-249454c5-3139-4285-8dde-70e3988c6cef
-streams:
-  - url: 'http://sp2.streams.ovh:8096/stream?type=http&nocache=99'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://sp2.streams.ovh:8096/stream?type=http&nocache=176'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Pop and rock music
   notes: Greek commercial FM radio station on 100.4 FM based in Karditsa region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-249454c5-3139-4285-8dde-70e3988c6cef
+  - iprd-gr-kiss-100-4-a8736aa2
+streams:
+  - url: http://sp2.streams.ovh:8096/stream?type=http&nocache=99
+    codec: MP3
+    bitrate: 128
+  - url: http://sp2.streams.ovh:8096/stream?type=http&nocache=176
+    codec: MP3
+    bitrate: 128

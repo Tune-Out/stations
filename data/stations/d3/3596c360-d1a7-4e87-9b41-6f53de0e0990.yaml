@@ -1,7 +1,7 @@
 stationuuid: 3596c360-d1a7-4e87-9b41-6f53de0e0990
 name: Cadena 3 Cordoba
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3
+url: 'https://26683.live.streamtheworld.com:443/RADIO3.mp3'
+url_resolved: 'https://26683.live.streamtheworld.com:443/RADIO3.mp3'
 homepage: https://www.cadena3.com/cordoba
 favicon: https://www.cadena3.com/img/logo.png
 tags: []
@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 0
 geo_lat: -31.41498025709083
 geo_long: -64.18056786060335
-curation: -0.05
-provenance:
-  - radiobrowser-3596c360-d1a7-4e87-9b41-6f53de0e0990
-streams:
-  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://liveradio.mediainbox.net/radio3.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +30,12 @@ research:
   format: News, talk, entertainment; part of major Argentine broadcasting network
   notes: Commercial station in Córdoba, Argentina; part of Cadena 3 network which is a significant Argentine media company
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3596c360-d1a7-4e87-9b41-6f53de0e0990
+streams:
+  - url: 'https://26683.live.streamtheworld.com:443/RADIO3.mp3'
+    codec: MP3
+    bitrate: 64
+  - url: https://liveradio.mediainbox.net/radio3.mp3
+    codec: MP3

@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 08:18:44
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-1a8ae079-d15a-4309-9df0-55590df8e3c2
-streams:
-  - url: 'http://sc2.radiocaroline.net:10558/listen.pls'
-    url_resolved: 'http://sc2.radiocaroline.net:10558/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://sc2.radiocaroline.net:10558/;stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -45,3 +34,15 @@ research:
   format: Retro pop and pop rock; 1960s-70s archive programming
   notes: UK-based internet radio revival of Radio Caroline, the legendary pirate radio station. Flashback stream focuses on 60s/70s pop and pop rock. Part of Radio Caroline heritage.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-1a8ae079-d15a-4309-9df0-55590df8e3c2
+  - iprd-gb-radio-caroline-flashback-d5ac7116
+streams:
+  - url: http://sc2.radiocaroline.net:10558/listen.pls
+    url_resolved: http://sc2.radiocaroline.net:10558/;
+    codec: MP3
+    bitrate: 128
+  - url: http://sc2.radiocaroline.net:10558/;stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 50.625840806684614
 geo_long: 26.25169157981873
-curation: -0.05
-provenance:
-  - radiobrowser-95197788-a251-4967-aeda-0c9b10aa41d8
-streams:
-  - url: 'http://online2.radiotrek.rv.ua:8000/AAC+_64.m3u'
-    url_resolved: 'http://online2.radiotrek.rv.ua:8000/AAC+_64'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://cast.radiotrek.rv.ua:8433/MP3_320'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Music, news, regional programming in Ukrainian
   notes: Regional commercial radio station serving Rivne Oblast, Ukraine; offers high-bitrate MP3 streaming (320 kbit/s) with music and news content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-95197788-a251-4967-aeda-0c9b10aa41d8
+  - iprd-ua-radio-trek-106-4-6a1af809
+streams:
+  - url: http://online2.radiotrek.rv.ua:8000/AAC+_64.m3u
+    url_resolved: http://online2.radiotrek.rv.ua:8000/AAC+_64
+    codec: AAC+
+    bitrate: 64
+  - url: https://cast.radiotrek.rv.ua:8433/MP3_320
+    codec: MP3
+    bitrate: 320

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 0
 geo_lat: 50.31395664851715
 geo_long: 18.78704380093054
-curation: -0.05
-provenance:
-  - radiobrowser-27cfd2ef-f021-4b83-93f0-deb2c6d0851d
-streams:
-  - url: 'https://s1.slotex.pl/shoutcast/7926/stream?sid=1'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming.tvs.pl:8010/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Pop hits, regional music; slogan "Fajnie gramy na 96.2" (We play great on 96.2); shows include SzlagLista (hit list), Silesia Szlagier Party
   notes: Commercial regional Polish radio station broadcasting on 96.2 FM in Silesia. Focuses on popular hits and regional music. Offers concerts, entertainment programming, and traditional hit list shows (SzlagLista). Based in Upper Silesia region of southern Poland.
   sources: https://silesia.fm/
+curation: -0.05
+provenance:
+  - radiobrowser-27cfd2ef-f021-4b83-93f0-deb2c6d0851d
+streams:
+  - url: https://s1.slotex.pl/shoutcast/7926/stream?sid=1
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming.tvs.pl:8010/
+    codec: MP3
+    bitrate: 128

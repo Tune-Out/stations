@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 4
 geo_lat: 43.84479423061377
 geo_long: 18.381881117820743
-curation: -0.05
-provenance:
-  - radiobrowser-dae342d7-42ae-43bb-90ff-43450af4523f
-streams:
-  - url: 'http://188.40.62.20:8004/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ssl.surfmusic.de/s.php?s=http://188.40.62.20:8004/stream?1707015516'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +30,16 @@ research:
   format: Narodni (traditional Bosnian folk and popular music)
   notes: Local radio station broadcasting from Sarajevo; focuses on Bosnian traditional and contemporary music; serves local Bosnian audience
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-dae342d7-42ae-43bb-90ff-43450af4523f
+  - iprd-ba-radio-kalman-91-2-c9cd7bf6
+  - iprd-bb-98-1-the-one-c477498b
+  - iprd-bb-cbc-94-7-920653ac
+  - iprd-bb-q100-7-d7b6e09c
+streams:
+  - url: http://188.40.62.20:8004/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://ssl.surfmusic.de/s.php?s=http://188.40.62.20:8004/stream?1707015516
+    codec: MP3

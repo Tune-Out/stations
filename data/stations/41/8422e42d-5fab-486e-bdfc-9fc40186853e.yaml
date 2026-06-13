@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 05:21:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-8422e42d-5fab-486e-bdfc-9fc40186853e
-streams:
-  - url: 'http://rockdisco.stream.laut.fm/rockdisco'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/rockdisco.m3u'
-    url_resolved: 'http://rockdisco.stream.laut.fm/rockdisco?pl=m3u&t302=2026-01-15_02-40-26&uuid=8953dd47-d9bd-4298-8d7b-37f6eaee75ca'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +34,14 @@ research:
   format: Rock, indie, pop, and club music programming.
   notes: a rockdisco radio is a German commercial station specializing in rock, disco, indie, and pop music. Operates through Laut.fm streaming network serving the German market.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-8422e42d-5fab-486e-bdfc-9fc40186853e
+streams:
+  - url: http://rockdisco.stream.laut.fm/rockdisco
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/rockdisco.m3u
+    url_resolved: http://rockdisco.stream.laut.fm/rockdisco?pl=m3u&t302=2026-01-15_02-40-26&uuid=8953dd47-d9bd-4298-8d7b-37f6eaee75ca
+    codec: MP3
+    bitrate: 128

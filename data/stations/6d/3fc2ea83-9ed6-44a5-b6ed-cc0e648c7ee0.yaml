@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 03:00:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3fc2ea83-9ed6-44a5-b6ed-cc0e648c7ee0
-streams:
-  - url: 'http://rssand.se:4027/listen.pls?sid=1'
-    url_resolved: 'http://rssand.se:4027/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://shout.rs8990.com/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Local music and regional programming
   notes: Regional community radio serving Sandviken, an industrial city in central Sweden; focuses on local music and community content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3fc2ea83-9ed6-44a5-b6ed-cc0e648c7ee0
+  - iprd-se-radio-sandviken-89-9-de40d1de
+streams:
+  - url: http://rssand.se:4027/listen.pls?sid=1
+    url_resolved: http://rssand.se:4027/;
+    codec: MP3
+    bitrate: 128
+  - url: https://shout.rs8990.com/;
+    codec: MP3
+    bitrate: 128

@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-43023b6f-5695-4108-8892-07d22e9b1181
-streams:
-  - url: 'http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8'
-    codec: AAC
-    bitrate: 99
-    hls: true
-  - url: 'https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8'
-    codec: AAC
-    bitrate: 99
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -44,3 +32,15 @@ research:
   format: 24-hour Arabic-language news, current affairs, talk, documentaries, and analysis simulcast of the Al Jazeera Arabic TV channel's audio feed
   notes: Al Jazeera Arabic launched 1 November 1996 as the first independent Arabic-language news channel, revolutionising Arab broadcasting by airing dissenting views, opposition voices, and Israeli officials in Arabic — historic firsts for the region; the network has been at the centre of multiple diplomatic crises including the 2017–2021 Qatar diplomatic blockade by Saudi Arabia/UAE/Egypt/Bahrain (which demanded Al Jazeera's closure as a precondition for restoring ties); offices have been bombed (Kabul 2001, Baghdad 2003 — killing journalist Tarek Ayoub), banned, or restricted in numerous countries; its journalists have been imprisoned in Egypt (the 2013–2015 Cairo trial of Peter Greste, Mohamed Fahmy, Baher Mohamed) and killed in Gaza (Shireen Abu Akleh, 2022; Samer Abudaqa, 2023; Hamza Dahdouh, 2024); the network's editorial guidelines state a mission to "give voice to the voiceless"
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-43023b6f-5695-4108-8892-07d22e9b1181
+streams:
+  - url: http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
+    codec: AAC
+    bitrate: 99
+    hls: true
+  - url: https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
+    codec: AAC
+    bitrate: 99
+    hls: true

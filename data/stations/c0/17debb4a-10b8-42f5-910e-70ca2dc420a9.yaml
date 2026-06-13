@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-17debb4a-10b8-42f5-910e-70ca2dc420a9
-streams:
-  - url: 'http://79.111.119.111:8000/mintechhouse'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.119.111:8004/mintechhouse'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.119.111:8002/mintechhouse'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +31,19 @@ research:
   format: Minimal and tech house electronic music streaming
   notes: Russian internet radio station providing a dedicated minimal tech house music stream. Part of Radio Caprice's extensive genre-specific electronic music streaming network with high-bitrate AAC+ quality.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-17debb4a-10b8-42f5-910e-70ca2dc420a9
+  - iprd-ru-radio-caprice-minimal-tech-house-9c9dba32
+  - iprd-ru-radio-caprice-minimal-tech-house-d1e7a404
+  - iprd-ru-radio-caprice-minimal-tech-house-60963282
+streams:
+  - url: http://79.111.119.111:8000/mintechhouse
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.119.111:8004/mintechhouse
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.119.111:8002/mintechhouse
+    codec: AAC+
+    bitrate: 48

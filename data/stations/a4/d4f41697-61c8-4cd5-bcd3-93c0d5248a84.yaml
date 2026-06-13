@@ -37,18 +37,6 @@ lastchangetime: 2026-01-15 06:19:56
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-d4f41697-61c8-4cd5-bcd3-93c0d5248a84
-streams:
-  - url: 'https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644356296'
-    codec: MP3
-  - url: 'https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802'
-    codec: MP3
-  - url: 'http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355109'
-    codec: MP3
-  - url: 'https://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=6202qrr6%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355302'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -58,3 +46,24 @@ research:
   format: Heavy metal, hard rock, prog rock, grunge, experimental rock, live concert streaming
   notes: Berlin-based community/internet radio; DrGnu (Dr Gnu) Metal 2 is one of FluxFM's specialized metal channels
   sources: https://www.fluxfm.de/
+curation: 0.55
+provenance:
+  - radiobrowser-d4f41697-61c8-4cd5-bcd3-93c0d5248a84
+  - iprd-de-fluxfm-70s-der-70er-channel-0433935f
+  - iprd-de-fluxfm-boomfm-cdfab842
+  - iprd-de-fluxfm-boomfm-4650b7c9
+  - iprd-de-fluxfm-boomfm-68fe8272
+  - iprd-de-fluxfm-fluxkompensator-9ccd9936
+  - iprd-de-fluxfm-sound-of-berlin-cd92abfe
+  - iprd-de-fluxfm-xradio-90s-channel-317c488e
+  - iprd-de-fluxfm-104-0-hamburg-39a99cbe
+  - iprd-de-fluxfm-104-0-hamburg-883ad6c7
+streams:
+  - url: https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644356296
+    codec: MP3
+  - url: https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802
+    codec: MP3
+  - url: http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355109
+    codec: MP3
+  - url: https://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=6202qrr6%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355302
+    codec: MP3

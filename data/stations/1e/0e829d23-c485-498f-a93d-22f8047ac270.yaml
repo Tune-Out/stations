@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 02:01:25
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0e829d23-c485-498f-a93d-22f8047ac270
-streams:
-  - url: 'http://radio2.stream24.net:8130/live.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio2.stream24.net:8130/live.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Alternative rock, classic rock, and modern rock music
   notes: Private Swiss radio station specializing in rock music across multiple subgenres. Broadcasts in German (Deutsch Fränkisch) and English.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0e829d23-c485-498f-a93d-22f8047ac270
+streams:
+  - url: http://radio2.stream24.net:8130/live.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://radio2.stream24.net:8130/live.mp3
+    codec: MP3
+    bitrate: 128

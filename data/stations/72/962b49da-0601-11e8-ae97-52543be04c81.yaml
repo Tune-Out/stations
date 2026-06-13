@@ -25,20 +25,6 @@ lastchangetime: 2026-01-15 05:15:03
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-962b49da-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.italopower.com/stream/italopower.m3u'
-    url_resolved: 'https://stream.deevaradio.net:10443/italopower'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.radioitalopower.com:10018/italopower'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.deevaradio.net:10443/italopower'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -48,3 +34,17 @@ research:
   format: 24/7 Italo Disco - classic 1980s Italo, Euro Disco, Hi-NRG, Spacesynth, and contemporary New Generation Italo releases
   notes: 'Radio ItaloPower! is a small, listener-supported online niche radio station devoted exclusively to Italo Disco and related Euro-electronic genres. The site claims a library of 5,000+ tracks rotating both classic 1980s hits and obscure rarities alongside modern Italo revival productions, branding itself as "Italo Disco around the clock: the hits everyone knows and the rarities most stations forgot." Stream is hosted on the deevaradio.net infrastructure popular among European hobby webcasters. It is part of a tight-knit international Italo Disco web-radio scene that also includes stations such as Radio Stronzo, Italo Power and Eurodance Radio.'
   sources: http://www.radioitalopower.com/, internal knowledge
+curation: 0.6
+provenance:
+  - radiobrowser-962b49da-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://www.italopower.com/stream/italopower.m3u
+    url_resolved: https://stream.deevaradio.net:10443/italopower
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.radioitalopower.com:10018/italopower
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.deevaradio.net:10443/italopower
+    codec: MP3
+    bitrate: 192

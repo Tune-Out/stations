@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:03:36
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-96486b05-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://auds1.intacs.com/ntnradio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://auds1.intacs.com/ntnradio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Bollywood music, South Asian music, entertainment
   notes: Radio station broadcasting on 89.1 FM in Georgetown, Guyana; serves South Asian cultural community with Bollywood and traditional South Asian music programming
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-96486b05-0601-11e8-ae97-52543be04c81
+  - iprd-gy-ntn-radio-89-1-233c98f6
+streams:
+  - url: http://auds1.intacs.com/ntnradio
+    codec: MP3
+    bitrate: 128
+  - url: https://auds1.intacs.com/ntnradio
+    codec: MP3
+    bitrate: 128

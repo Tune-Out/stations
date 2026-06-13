@@ -1,7 +1,7 @@
 stationuuid: 15519524-4507-4063-a912-8121b95eec73
 name: Koori Radio - Sydney - 93.7 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2LND.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2LND.mp3
+url: 'http://28863.live.streamtheworld.com:80/2LND.mp3'
+url_resolved: 'http://28863.live.streamtheworld.com:80/2LND.mp3'
 homepage: https://kooriradio.com/
 favicon: https://i.iheart.com/v3/re/new_assets/60f9593e07e826da5c937ae5
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-15519524-4507-4063-a912-8121b95eec73
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,7 @@ research:
   format: Contemporary music, current affairs, and Indigenous perspectives programming
   notes: Koori Radio is Sydney's Indigenous community radio station broadcasting on 93.7 FM and online. Established to serve and amplify Indigenous Australian voices and culture. Key focus on community connection, cultural expression, and local news relevant to Indigenous communities.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-15519524-4507-4063-a912-8121b95eec73
+  - iprd-au-koori-radio-93-7-2fc6e5dc

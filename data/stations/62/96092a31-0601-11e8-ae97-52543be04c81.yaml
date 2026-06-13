@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 06:33:47
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-96092a31-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://212.77.178.166:8010/;'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://212.77.178.166:8080/;'
-    codec: AAC+
-    bitrate: 24
-  - url: 'http://play.radio-heimatmelodie.de/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,19 @@ research:
   format: Continuous Volksmusik and volkstümlichen Schlager (folk and folk-style popular song)
   notes: Tagline "Hören Sie die Berge!" ("Listen to the mountains!") frames the station around an Alpine cultural identity; programming highlights include a listener "Wunschkonzert" (request show); offers a high-bitrate live stream plus a legacy MP3 option for older devices; appears to be a small, self-run online station rather than part of a larger broadcasting house.
   sources: http://www.radio-heimatmelodie.de/
+curation: 0
+provenance:
+  - radiobrowser-96092a31-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-heimatmelodie-a6b90bfa
+  - iprd-de-radio-heimatmelodie-c3c39144
+  - iprd-de-radio-heimatmelodie-34bb0bf5
+streams:
+  - url: http://212.77.178.166:8010/;
+    codec: AAC+
+    bitrate: 64
+  - url: http://212.77.178.166:8080/;
+    codec: AAC+
+    bitrate: 24
+  - url: http://play.radio-heimatmelodie.de/;
+    codec: MP3
+    bitrate: 128

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-488c207c-b9b4-4e67-9f33-7ce9450dd41e
-streams:
-  - url: 'https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://s02.fjperezdj.com:8056/live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Electronic Radio with multiple themed channels; Progressive House, House, Techno, Trance, Drum & Bass, Ambient, Chill Out, and retro channels (80s, 90s, Remember)
   notes: "Loca FM is \"Electronic Radio en directo\" (live electronic radio) based in Spain offering a comprehensive menu of electronic and dance music subgenres. Supports DJ community and curated playlists. Tagline: \"Encuentra tus DJ's favoritos y la selección de los mejores temas\" (Find your favorite DJs and the best track selection)."
   sources: https://www.locafm.com/
+curation: 0.65
+provenance:
+  - radiobrowser-488c207c-b9b4-4e67-9f33-7ce9450dd41e
+  - iprd-es-loca-fm-melodic-deep-8ff28739
+streams:
+  - url: https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146
+    codec: MP3
+    bitrate: 128
+  - url: http://s02.fjperezdj.com:8056/live
+    codec: MP3
+    bitrate: 128

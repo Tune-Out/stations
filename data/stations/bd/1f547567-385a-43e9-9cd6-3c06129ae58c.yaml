@@ -18,21 +18,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-03-07 13:21:10
 clickcount: 3
-curation: -0.05
-provenance:
-  - radiobrowser-1f547567-385a-43e9-9cd6-3c06129ae58c
-streams:
-  - url: 'https://clubdance.online/stream.ogg'
-    url_resolved: 'https://stream.clubdance.online:8002/live.ogg'
-    codec: OGG
-    bitrate: 160
-  - url: 'http://stream.clubdance.online:8000/retro'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://clubdance.online/stream.mp3'
-    url_resolved: 'https://stream.clubdance.online:8002/live.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +27,19 @@ research:
   format: Continuous club house, trance, and dance music programming.
   notes: Independent internet radio station based in Hungary. Specializes in electronic dance music. No major controversies noted.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1f547567-385a-43e9-9cd6-3c06129ae58c
+  - iprd-hu-club-dance-online-1fda0df8
+streams:
+  - url: https://clubdance.online/stream.ogg
+    url_resolved: https://stream.clubdance.online:8002/live.ogg
+    codec: OGG
+    bitrate: 160
+  - url: http://stream.clubdance.online:8000/retro
+    codec: MP3
+    bitrate: 160
+  - url: https://clubdance.online/stream.mp3
+    url_resolved: https://stream.clubdance.online:8002/live.mp3
+    codec: MP3
+    bitrate: 128

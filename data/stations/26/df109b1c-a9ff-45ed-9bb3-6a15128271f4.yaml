@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 06:59:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-df109b1c-a9ff-45ed-9bb3-6a15128271f4
-duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
-streams:
-  - url: 'http://drive.uber.radio/uber/crnewreleases/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crnewreleases/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Classical music, "New Release" focused channel
   notes: '"C.R. - New Release" is a specialized channel of Classical Radio streaming classical music new releases; available via Uber.radio streaming platform and zeno.fm'
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-df109b1c-a9ff-45ed-9bb3-6a15128271f4
+duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
+streams:
+  - url: http://drive.uber.radio/uber/crnewreleases/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crnewreleases/icecast.audio
+    codec: MP3

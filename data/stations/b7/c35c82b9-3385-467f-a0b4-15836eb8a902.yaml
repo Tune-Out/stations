@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:54:13
 clickcount: 1
 geo_lat: 50.9392
 geo_long: 11.8736
-curation: 0.60
-provenance:
-  - radiobrowser-c35c82b9-3385-467f-a0b4-15836eb8a902
-streams:
-  - url: 'https://cast.egofm.de/egofm.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast.egofm.de/egofm.mp3?ar-distributor=radio-browser'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Electronic music, techno
   notes: Specialized electronic/techno music radio station operating in Sachsen (Saxony) region of Germany, specifically in Thuringia. Part of egoFM network broadcasting contemporary electronic music.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-c35c82b9-3385-467f-a0b4-15836eb8a902
+streams:
+  - url: https://cast.egofm.de/egofm.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://cast.egofm.de/egofm.mp3?ar-distributor=radio-browser
+    codec: MP3
+    bitrate: 128

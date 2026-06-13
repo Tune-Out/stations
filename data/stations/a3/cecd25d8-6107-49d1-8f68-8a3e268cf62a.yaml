@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:28:23
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-cecd25d8-6107-49d1-8f68-8a3e268cf62a
-streams:
-  - url: 'http://79.120.77.11:9095/;'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.77.11:8002/techdeathmetal'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Technical death metal and advanced metal subgenres.
   notes: Russian internet radio streaming technical death metal exclusively. Part of Radio Caprice's diverse channel network offering specialized music genres. Broadcasts from Moscow. Uses AAC+ 320 kbps high-quality stream.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-cecd25d8-6107-49d1-8f68-8a3e268cf62a
+streams:
+  - url: http://79.120.77.11:9095/;
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.77.11:8002/techdeathmetal
+    codec: AAC+
+    bitrate: 48

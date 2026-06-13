@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-8c0705b7-536f-4896-9dfa-eefa30c3aff5
-streams:
-  - url: 'http://ais-sa1.streamon.fm/7338_48k.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://ais-sa1.streamon.fm/7338_48k.aac'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Pop, rock, blues, soft rock music
   notes: Commercial radio station based in Philipsburg, Sint Maarten, serving the Caribbean island community.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-8c0705b7-536f-4896-9dfa-eefa30c3aff5
+streams:
+  - url: http://ais-sa1.streamon.fm/7338_48k.aac
+    codec: AAC+
+    bitrate: 48
+  - url: https://ais-sa1.streamon.fm/7338_48k.aac
+    codec: AAC+
+    bitrate: 48

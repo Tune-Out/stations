@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 06:00:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5e2318f7-c841-460d-af2e-55fb097365ab
-streams:
-  - url: 'https://us1.amfmph.com/ssl/tapsradi?mp=/stream&1642337283814'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://us1.amfmph.com:2199/tunein/tapsradi-stream.pls'
-    url_resolved: 'http://209.126.124.126:8593/stream'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +32,14 @@ research:
   format: College radio; independent student/community radio format
   notes: TAPS Radio Alicia operates as college radio station in the Philippines, identified as member of college radio community. Emphasizes student and community engagement in broadcasting.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5e2318f7-c841-460d-af2e-55fb097365ab
+streams:
+  - url: https://us1.amfmph.com/ssl/tapsradi?mp=/stream&1642337283814
+    codec: AAC+
+    bitrate: 64
+  - url: https://us1.amfmph.com:2199/tunein/tapsradi-stream.pls
+    url_resolved: http://209.126.124.126:8593/stream
+    codec: AAC+
+    bitrate: 64

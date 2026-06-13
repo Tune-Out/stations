@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: 42.99463409329122
 geo_long: -71.46790041658907
-curation: 0.35
-provenance:
-  - radiobrowser-df6437bc-0c56-41f7-a801-f19a4aa18d59
-streams:
-  - url: 'http://stream.abacast.net/direct/saga-wzidfmaac-ibc2'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://live.amperwave.net/direct/saga-wzidhd3mp3-ibc2'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: country music (classic, contemporary, and new country); local news, sports, entertainment
   notes: 'Commercial FM station in New Hampshire operated by Saga Communications. Tagline: "Legends and Young Guns" positioning appeal across generations via country music. Branding emphasizes community connection to New Hampshire listeners. Features live streaming, email club signup, partnership with SaveBIGNH.com local deals, and contest participation.'
   sources: https://outlawnh.com/
+curation: 0.35
+provenance:
+  - radiobrowser-df6437bc-0c56-41f7-a801-f19a4aa18d59
+streams:
+  - url: http://stream.abacast.net/direct/saga-wzidfmaac-ibc2
+    codec: AAC+
+    bitrate: 32
+  - url: https://live.amperwave.net/direct/saga-wzidhd3mp3-ibc2
+    codec: MP3
+    bitrate: 64

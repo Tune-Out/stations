@@ -24,26 +24,6 @@ lastchangetime: 2026-01-15 05:58:03
 clickcount: 10
 geo_lat: 59.33482591295532
 geo_long: 18.101949691772464
-curation: 0.75
-provenance:
-  - radiobrowser-95019533-f24b-4eb2-ba07-2ccdf1ea683e
-streams:
-  - url: 'https://sverigesradio.se/topsy/direkt/132-lo-aac.pls'
-    url_resolved: 'https://live1.sr.se/p1-aac-32'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u'
-    url_resolved: 'https://live1.sr.se/p1-mp3-96'
-    codec: MP3
-    bitrate: 228
-  - url: 'http://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u'
-    url_resolved: 'https://live1.sr.se/p1-mp3-96'
-    codec: MP3
-    bitrate: 228
-  - url: 'https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u'
-    url_resolved: 'https://live1.sr.se/p1-mp3-96'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -53,3 +33,23 @@ research:
   format: Speech-based public radio with news, current affairs, documentary, cultural programming, religion and language features
   notes: P1 is the flagship talk-and-culture channel of Sveriges Radio, on air since 1925 (originally as AB Radiotjanst) and a separate channel since the multi-channel reorganisation in the 1960s; landmark programmes include the morning news magazine Ekot, P1 Morgon, Studio Ett, Kropp och Sjal, the literary Lundstroms Bokradio and the religion strand Manniskor och tro; SR is funded via a personal public-service fee collected by the Swedish Tax Agency since 2019 (replacing the household licence fee) and is editorially independent under the Radio och TV-lagen public-service charter
   sources: https://sverigesradio.se/p1, internal knowledge
+curation: 0.75
+provenance:
+  - radiobrowser-95019533-f24b-4eb2-ba07-2ccdf1ea683e
+streams:
+  - url: https://sverigesradio.se/topsy/direkt/132-lo-aac.pls
+    url_resolved: https://live1.sr.se/p1-aac-32
+    codec: AAC
+    bitrate: 128
+  - url: https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
+    url_resolved: https://live1.sr.se/p1-mp3-96
+    codec: MP3
+    bitrate: 228
+  - url: http://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
+    url_resolved: https://live1.sr.se/p1-mp3-96
+    codec: MP3
+    bitrate: 228
+  - url: https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
+    url_resolved: https://live1.sr.se/p1-mp3-96
+    codec: MP3
+    bitrate: 128

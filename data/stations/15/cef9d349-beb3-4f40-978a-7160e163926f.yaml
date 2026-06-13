@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:08:04
 clickcount: 6
 geo_lat: 48.73637440232712
 geo_long: 19.16040853607124
-curation: 0.35
-provenance:
-  - radiobrowser-cef9d349-beb3-4f40-978a-7160e163926f
-streams:
-  - url: 'http://159.69.219.5:8010/mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://vysielanie.online/radio/8020/SV128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,14 @@ research:
   format: Talk, news, commentary, independent journalism; community radio format
   notes: Independent Slovakian radio station operating from Banská Bystrica region. Tagline "truth about the world / pravda o svete" suggests focus on independent journalism and alternative perspective commentary. Community-oriented station with emphasis on local and uncensored coverage.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-cef9d349-beb3-4f40-978a-7160e163926f
+  - iprd-sk-slobodny-vysielac-2275fbf2
+streams:
+  - url: http://159.69.219.5:8010/mp3
+    codec: MP3
+    bitrate: 320
+  - url: http://vysielanie.online/radio/8020/SV128.mp3
+    codec: MP3
+    bitrate: 128

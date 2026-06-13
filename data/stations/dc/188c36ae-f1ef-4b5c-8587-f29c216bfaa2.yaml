@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 07:23:17
 clickcount: 89
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-188c36ae-f1ef-4b5c-8587-f29c216bfaa2
-streams:
-  - url: 'https://ice.creacast.com/sudradio_aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://ice.creacast.com/sudradio'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ice.creacast.com/sudradio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://live.sudradio.fr/sudradio-mp3-128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +32,20 @@ research:
   format: News, talk, opinion, interviews, sports (notably rugby — Top 14 and Pro D2), politics, economics, lifestyle; "toute l'actualité nationale et internationale"
   notes: Founded 1958 as Andorradio / Radio des Vallées d'Andorre, later Sud Radio; one of France's historic "périphérique" (peripheral) stations alongside RTL, Europe 1, RMC. Pivoted to a national news/talk format under Fiducial ownership; known for its tagline "la parole libre" / free-speech editorial positioning, which critics associate with platforming heterodox and right-wing voices. Broadcasts on FM nationwide plus DAB+ and online.
   sources: https://www.sudradio.fr/, https://en.wikipedia.org/wiki/Sud_Radio, https://fr.wikipedia.org/wiki/Sud_Radio_(France), https://www.linforme.com/medias-culture/article/comment-sud-radio-profite-de-sa-parole-libre_2830.html, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-188c36ae-f1ef-4b5c-8587-f29c216bfaa2
+  - iprd-fr-sud-radio-344dbbd9
+streams:
+  - url: https://ice.creacast.com/sudradio_aac
+    codec: AAC
+    bitrate: 128
+  - url: https://ice.creacast.com/sudradio
+    codec: MP3
+    bitrate: 128
+  - url: http://ice.creacast.com/sudradio
+    codec: MP3
+    bitrate: 128
+  - url: https://live.sudradio.fr/sudradio-mp3-128
+    codec: MP3
+    bitrate: 128

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:47:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a0c792a0-ac1b-4b5d-a41c-148d2cb62201
-streams:
-  - url: 'http://rockfm.rockfm.com.tr:9450/stream'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://rockfm.rockfm.com.tr:9450/stream'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Rock music specialization; classic rock, pop rock, contemporary rock, hard rock
   notes: Rock FM 94.5 is a Turkish commercial radio station broadcasting on 94.5 FM across Turkey. Focuses on rock music including classic rock, pop rock, and contemporary rock. Reaches nationwide Turkish audience interested in rock genre. URL and homepage indicate Turkish origin despite metadata showing unknown country code.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a0c792a0-ac1b-4b5d-a41c-148d2cb62201
+streams:
+  - url: http://rockfm.rockfm.com.tr:9450/stream
+    codec: AAC+
+    bitrate: 128
+  - url: https://rockfm.rockfm.com.tr:9450/stream
+    codec: AAC+
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 0c5a3d4f-ecd6-430e-bcf4-f51ff1b13d1c
 name: Talk Radio 702
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac
+url: 'https://29053.live.streamtheworld.com:443/FM702_192AAC.aac'
+url_resolved: 'https://29053.live.streamtheworld.com:443/FM702_192AAC.aac'
 homepage: https://www.primediaplus.com/station/702/
 favicon: https://www.primediaplus.com/images/logos/logo-702.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 43
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0c5a3d4f-ecd6-430e-bcf4-f51ff1b13d1c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Talk radio; news, discussion, current affairs programming; AAC+ 192kbps streaming
   notes: 702 is well-known South African commercial talk radio station operated by Primedia; based in Johannesburg area; focuses on news and current affairs discussion
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0c5a3d4f-ecd6-430e-bcf4-f51ff1b13d1c

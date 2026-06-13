@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:42:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2f380320-0fdf-4225-8498-810c65879867
-streams:
-  - url: 'http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8?'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: Music radio; pop music, contemporary Chinese music, variety format
   notes: Part of Jiangsu provincial broadcasting system, which operates multiple music and general-interest channels. Music channel (音乐广播) focuses on contemporary Chinese pop, mainland hits, variety. Government-controlled public broadcaster serving Jiangsu (economic heartland province). HLS streaming technology used.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-2f380320-0fdf-4225-8498-810c65879867
+  - iprd-cn-kiangsu-music-radio-89-7-ebad9674
+streams:
+  - url: http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8?
+    codec: UNKNOWN
+    hls: true
+  - url: http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8
+    codec: UNKNOWN
+    hls: true

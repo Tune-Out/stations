@@ -23,17 +23,6 @@ lastchangetime: 2026-01-14 23:22:35
 clickcount: 0
 geo_lat: 51.925637249861275
 geo_long: 4.483795166015626
-curation: -0.10
-provenance:
-  - radiobrowser-5568b64e-92ca-44a3-a99f-d206ea464254
-streams:
-  - url: 'https://server-28.stream-server.nl:8850/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://server-28.stream-server.nl:2000/tunein/Only80sRadio/stream/pls'
-    url_resolved: 'http://server-28.stream-server.nl:8850/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: 1980s hits and pop music
   notes: Dutch-language online radio station specializing in 1980s music format, based in Rotterdam area.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-5568b64e-92ca-44a3-a99f-d206ea464254
+streams:
+  - url: https://server-28.stream-server.nl:8850/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://server-28.stream-server.nl:2000/tunein/Only80sRadio/stream/pls
+    url_resolved: http://server-28.stream-server.nl:8850/stream
+    codec: MP3
+    bitrate: 192

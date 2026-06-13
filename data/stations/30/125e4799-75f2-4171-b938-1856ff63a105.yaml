@@ -18,16 +18,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
-curation: -0.10
-provenance:
-  - radiobrowser-125e4799-75f2-4171-b938-1856ff63a105
-streams:
-  - url: 'http://rn1.fluidstream.eu/nostalgia_pv.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://rn1.fluidstream.eu/nostalgia_pv.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +27,13 @@ research:
   format: Classic hits from 1970s–1990s; Italian love songs, oldies, romantic music; 30-year musical journey through iconic sounds
   notes: Launched 1990 at 98.5 FM in Turin. Part of Radio Nostalgia network (founded in Genoa), which expanded with format across Italy. Specializes in romantic, nostalgic programming.
   sources: tunein.com, onlineradiobox.com, streema.com, zeno.fm
+curation: -0.1
+provenance:
+  - radiobrowser-125e4799-75f2-4171-b938-1856ff63a105
+streams:
+  - url: http://rn1.fluidstream.eu/nostalgia_pv.mp3
+    codec: MP3
+    bitrate: 256
+  - url: http://rn1.fluidstream.eu/nostalgia_pv.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3
+    codec: MP3
+    bitrate: 256

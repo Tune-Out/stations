@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 00:34:47
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9618d1fc-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/play.m3u'
-    url_resolved: 'http://regiocast.streamabc.net/regc-radiobob80srock2115424-mp3-192-2080682?sABC=6968708n%230%23r30o443r1929r059s085628511796n57%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1768452234'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: 1980s rock and alternative rock 24/7; themed channels include 70s Rock, 90s Alternative, 00s Rock, Soft Rock, and specialty channels (Eddie's Highway Rockers, Bob's Rare Grooves, etc.)
   notes: RADIO BOB! is one of Germany's leading rock-format internet radio operators; BOBs 80er Rock focuses exclusively on 1980s rock and alternative rock hits; the brand is known for high-quality audio streams and niche programming; part of the specialist rock radio landscape since the early 2000s.
   sources: http://www.radiobob.de/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-9618d1fc-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/play.m3u
+    url_resolved: http://regiocast.streamabc.net/regc-radiobob80srock2115424-mp3-192-2080682?sABC=6968708n%230%23r30o443r1929r059s085628511796n57%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1768452234
+    codec: MP3

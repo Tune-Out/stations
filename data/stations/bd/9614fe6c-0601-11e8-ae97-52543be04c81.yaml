@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 06:00:57
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9614fe6c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://scenesat.com/listen/normal/decent.m3u'
-    url_resolved: 'http://oscar.scenesat.com:8000/scenesatmed'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://scenesat.com/listen/normal/max.m3u'
-    url_resolved: 'http://oscar.scenesat.com:8000/scenesatmax'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +30,17 @@ research:
   format: Demoscene music, tracker music, chiptunes from video game and demo scene
   notes: Swedish community radio station dedicated to demoscene culture and music. Plays tracker music, chiptunes, and music from the computer demoscene. Operates globally via streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9614fe6c-0601-11e8-ae97-52543be04c81
+  - iprd-se-scenesat-radio-2390f795
+  - iprd-se-scenesat-radio-f4afb1e4
+streams:
+  - url: https://scenesat.com/listen/normal/decent.m3u
+    url_resolved: http://oscar.scenesat.com:8000/scenesatmed
+    codec: AAC+
+    bitrate: 48
+  - url: http://scenesat.com/listen/normal/max.m3u
+    url_resolved: http://oscar.scenesat.com:8000/scenesatmax
+    codec: MP3
+    bitrate: 320

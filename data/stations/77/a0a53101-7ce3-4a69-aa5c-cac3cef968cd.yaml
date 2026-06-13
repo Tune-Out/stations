@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:14:52
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a0a53101-7ce3-4a69-aa5c-cac3cef968cd
-streams:
-  - url: 'http://live.antenazagreb.hr:8000/;'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://live.antenazagreb.hr:8015/;'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Adult contemporary / pop & rock mix with strong Croatian content; emphasises local Croatian artists alongside international hits; talk segments primarily in entertainment/lifestyle morning and drive shows
   notes: Antena Zagreb is a long-running Zagreb-area commercial FM station broadcasting on 89.7 MHz; its programming includes shows such as the "Jutarnji Show" (morning), "Prijepodne", "Poslijepodne" and "Afterwork", and the station leans on the slogan "Ti slušaš nas, a mi slušamo tebe" ("You listen to us, and we listen to you"); it is regulated by Croatia's Agency for Electronic Media (AEM/HAKOM) and operates as a private licensee distinct from public broadcaster HRT.
   sources: https://www.antenazagreb.hr/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-a0a53101-7ce3-4a69-aa5c-cac3cef968cd
+  - iprd-hr-antena-zagreb-a4d4562d
+streams:
+  - url: http://live.antenazagreb.hr:8000/;
+    codec: AAC+
+    bitrate: 96
+  - url: http://live.antenazagreb.hr:8015/;
+    codec: AAC+
+    bitrate: 64

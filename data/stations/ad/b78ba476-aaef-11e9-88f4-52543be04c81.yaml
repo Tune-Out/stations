@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:10:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-b78ba476-aaef-11e9-88f4-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-lounge-128-mp3?usid=0-0-H-A-D-30'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-lounge-128-aac?usid=0-0-H-A-D-30'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/lounge-128-mp3'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,16 @@ research:
   format: Lounge music, chillout programming (Traumfabrik theme)
   notes: Lounge/ambient stream channel of RPR1. regional radio network in Rhineland-Palatinate; specialized relaxation programming
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-b78ba476-aaef-11e9-88f4-52543be04c81
+  - iprd-de-rpr1-lounge-66a55cc3
+  - iprd-de-rpr1-lounge-d9f2981c
+  - iprd-de-rpr1-lounge-82078052
+streams:
+  - url: http://streams.rpr1.de/rpr-lounge-128-mp3?usid=0-0-H-A-D-30
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-lounge-128-aac?usid=0-0-H-A-D-30
+    codec: AAC
+  - url: http://streams.rpr1.de/lounge-128-mp3
+    codec: AAC

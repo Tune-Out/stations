@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 15
 geo_lat: -0.206636934558138
 geo_long: -78.49868774414064
-curation: -0.05
-provenance:
-  - radiobrowser-4402d9dc-6092-418a-8d6f-a837fd2d0cc5
-streams:
-  - url: 'https://canelaradio.makrodigital.com:9280/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ecuadorstreaming.net:9280/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Popular tropical and Latin music — chicha, cumbia, salsa, vallenato, Latin rock, folkloric Ecuadorian music — with humor-driven morning shows and accountability segments
   notes: Radio Canela is one of Ecuador's largest popular-music radio networks, operating in nineteen-plus provinces including Pichincha, Guayas, Manabí, Imbabura, El Oro, and Azuay; the Pichincha feed (typically 102.9 FM in Quito) serves the capital region; the network markets itself as "Original como tú" and "Humildemente los primeros" (positioning as the nation's audience leader); it features regional personality-driven programming with locally produced morning shows in each market; the brand emphasises Ecuadorian popular culture and music.
   sources: https://web.canelaradio.com/
+curation: -0.05
+provenance:
+  - radiobrowser-4402d9dc-6092-418a-8d6f-a837fd2d0cc5
+streams:
+  - url: https://canelaradio.makrodigital.com:9280/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://ecuadorstreaming.net:9280/stream
+    codec: MP3
+    bitrate: 128

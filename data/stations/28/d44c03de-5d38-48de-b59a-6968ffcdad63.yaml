@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 08:50:50
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-d44c03de-5d38-48de-b59a-6968ffcdad63
-streams:
-  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/index.m3u8'
-    codec: AAC
-    bitrate: 94
-    hls: true
-  - url: 'http://www.abc.net.au/res/streaming/audio/aac/radio_national.pls'
-    url_resolved: 'http://abc.streamguys1.com/live/rnnsw/icecast.audio'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +33,16 @@ research:
   format: National public-service speech/talk network broadcasting documentaries, current affairs, arts, science, books, religion and ethics, comedy and ideas programming
   notes: Radio National (RN) traces its origins to the ABC's national radio service launched in 1932, became "Radio National" branded in 1985, and has long been Australia's flagship speech and ideas network broadcasting across the country on FM, AM, DAB+ and digital streams; notable long-running programmes include Late Night Live, The Science Show, Saturday Extra, Big Ideas and Religion and Ethics Report; the ABC's editorial standards prohibit advocacy or commercial advertising, and its operating budget comes from triennial Commonwealth appropriations
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-d44c03de-5d38-48de-b59a-6968ffcdad63
+  - iprd-au-abc-radio-national-57542831
+streams:
+  - url: https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/index.m3u8
+    codec: AAC
+    bitrate: 94
+    hls: true
+  - url: http://www.abc.net.au/res/streaming/audio/aac/radio_national.pls
+    url_resolved: http://abc.streamguys1.com/live/rnnsw/icecast.audio
+    codec: AAC+
+    bitrate: 56

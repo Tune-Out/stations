@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:42:49
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9619ed04-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icy.unitedradio.it/VirginRock80.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/VirginRock80.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Themed digital sub-brand of Virgin Radio Italia focusing exclusively on 1980s rock — U2, Bon Jovi, Guns N' Roses, Van Halen, Dire Straits, etc.
   notes: Virgin Radio Rock '80 is a web-only spin-off channel of Virgin Radio Italia, which is operated by RadioMediaset under license from Virgin Enterprises (Richard Branson's Virgin Group); RadioMediaset also runs R101, Radio 105 Network, and Radio Monte Carlo, all part of the broader Mediaset group founded by Silvio Berlusconi and now controlled by the Berlusconi family's Fininvest holding via MFE; funded entirely by advertising.
   sources: http://www.virginradio.it/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-9619ed04-0601-11e8-ae97-52543be04c81
+  - iprd-it-virgin-radio-rock-80-3237e4bd
+streams:
+  - url: http://icy.unitedradio.it/VirginRock80.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/VirginRock80.mp3
+    codec: MP3
+    bitrate: 128

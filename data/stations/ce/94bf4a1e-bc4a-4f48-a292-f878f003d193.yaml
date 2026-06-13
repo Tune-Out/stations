@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:49:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-94bf4a1e-bc4a-4f48-a292-f878f003d193
-streams:
-  - url: 'https://inrai1.radioca.st/HJKKneiva'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://inrai1.radioca.st/HJKKneiva'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Tropical and Latin music including cumbia, merengue, vallenato, and crossover entertainment
   notes: Operating on 840 AM in Huila department. Part of INRAI network serving Colombian regional markets with tropical music and entertainment focus.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-94bf4a1e-bc4a-4f48-a292-f878f003d193
+streams:
+  - url: https://inrai1.radioca.st/HJKKneiva
+    codec: MP3
+    bitrate: 192
+  - url: http://inrai1.radioca.st/HJKKneiva
+    codec: MP3
+    bitrate: 192

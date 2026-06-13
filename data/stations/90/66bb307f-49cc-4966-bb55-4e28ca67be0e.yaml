@@ -1,7 +1,7 @@
 stationuuid: 66bb307f-49cc-4966-bb55-4e28ca67be0e
 name: Coles Radio (New South Wales / Australian Capital Territory) (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_NSW_ACT.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_NSW_ACT.mp3
+url: 'http://28863.live.streamtheworld.com:80/COLES_CONSUMER_NSW_ACT.mp3'
+url_resolved: 'http://28863.live.streamtheworld.com:80/COLES_CONSUMER_NSW_ACT.mp3'
 homepage: https://www.coles.com.au/help/coles-radio
 favicon: https://i.ibb.co/4RfQ4HX9/images.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-29 09:16:43
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-66bb307f-49cc-4966-bb55-4e28ca67be0e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary pop and mixed music format
   notes: Branded radio service operated by Coles supermarket group for NSW/ACT regions; promotional/marketing channel
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-66bb307f-49cc-4966-bb55-4e28ca67be0e

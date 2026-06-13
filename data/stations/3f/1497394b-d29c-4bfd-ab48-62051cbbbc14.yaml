@@ -21,17 +21,6 @@ lastchangetime: 2026-05-28 05:59:05
 clickcount: 1
 geo_lat: 45.50488911807976
 geo_long: 11.408143043518068
-curation: -0.05
-provenance:
-  - radiobrowser-1497394b-d29c-4bfd-ab48-62051cbbbc14
-streams:
-  - url: 'https://de4.streamingpulse.com/stream/lanfranc'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://de4.streamingpulse.com:2199/tunein/lanfranc.pls'
-    url_resolved: 'http://de4.streamingpulse.com:8014/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: 1980s hits and classic music programming
   notes: Italian radio station specializing in 1980s hits and retro music. Based in Veneto region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1497394b-d29c-4bfd-ab48-62051cbbbc14
+streams:
+  - url: https://de4.streamingpulse.com/stream/lanfranc
+    codec: MP3
+    bitrate: 128
+  - url: https://de4.streamingpulse.com:2199/tunein/lanfranc.pls
+    url_resolved: http://de4.streamingpulse.com:8014/stream
+    codec: MP3
+    bitrate: 128

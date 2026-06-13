@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-b656caf8-d804-4e53-baee-64ca4f458a6b
-streams:
-  - url: 'http://217.74.72.11/SZANTY'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.rmfon.pl/n/szanty.pls'
-    url_resolved: 'https://rs201-krk.rmfstream.pl/rmf_szanty'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +28,15 @@ research:
   format: Sea shanties, nautical music (szanty = sailor songs in Polish)
   notes: Commercial station part of Grupa RMF's multi-station network (includes RMF FM, RMF MAXX, RMF Classic, RMF24). Ad-supported model with premium ad-free option. Streams via RMF ON platform with mobile apps. Offers podcasts and personalized playlists.
   sources: http://www.rmfon.pl/stacja/rmf-szanty
+curation: 0.2
+provenance:
+  - radiobrowser-b656caf8-d804-4e53-baee-64ca4f458a6b
+  - iprd-pl-rmf-szanty-688347cb
+streams:
+  - url: http://217.74.72.11/SZANTY
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.rmfon.pl/n/szanty.pls
+    url_resolved: https://rs201-krk.rmfstream.pl/rmf_szanty
+    codec: MP3
+    bitrate: 128

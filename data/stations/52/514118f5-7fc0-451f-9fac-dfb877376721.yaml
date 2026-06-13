@@ -26,40 +26,6 @@ lastchangetime: 2026-01-15 01:09:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-514118f5-7fc0-451f-9fac-dfb877376721
-streams:
-  - url: 'https://stream.technolovers.fm/techhouse'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.technolovers.fm/frenchcore'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.technolovers.fm/psytrance'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.technolovers.fm/lounge'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.technolovers.fm/gabber'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.technolovers.fm/ibiza-house'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.technolovers.fm/funky-house'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.technolovers.fm/afro-house'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.technolovers.fm/techno'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.technolovers.fm/bass-house'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -69,3 +35,37 @@ research:
   format: Electronic music specialization including techno, tech house, deep tech house, minimal techno streams
   notes: German internet radio platform dedicated to electronic dance music culture. Multiple specialized streams for different techno and house subgenres. Bilingual (German/English) content. North Rhine-Westphalia region.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-514118f5-7fc0-451f-9fac-dfb877376721
+streams:
+  - url: https://stream.technolovers.fm/techhouse
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.technolovers.fm/frenchcore
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.technolovers.fm/psytrance
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.technolovers.fm/lounge
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.technolovers.fm/gabber
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.technolovers.fm/ibiza-house
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.technolovers.fm/funky-house
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.technolovers.fm/afro-house
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.technolovers.fm/techno
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.technolovers.fm/bass-house
+    codec: MP3
+    bitrate: 192

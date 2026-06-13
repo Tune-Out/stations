@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 07:10:26
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4740845c-1647-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://icecast.stranafm.cdnvideo.ru/stranafm'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://icecast-stranafm.cdnvideo.ru/stranafm_128'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +31,13 @@ research:
   format: Pop and variety music with a contemporary focus, Russian language content
   notes: Moscow-based commercial radio station established to serve mainstream Russian pop and variety listeners with contemporary hits
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4740845c-1647-11e9-a80b-52543be04c81
+  - iprd-ru-strana-fm-a160fc95
+streams:
+  - url: http://icecast.stranafm.cdnvideo.ru/stranafm
+    codec: MP3
+    bitrate: 320
+  - url: https://icecast-stranafm.cdnvideo.ru/stranafm_128
+    codec: MP3

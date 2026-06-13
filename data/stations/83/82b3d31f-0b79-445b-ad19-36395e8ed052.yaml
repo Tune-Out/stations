@@ -21,17 +21,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.60
-provenance:
-  - radiobrowser-82b3d31f-0b79-445b-ad19-36395e8ed052
-duplicate_of: 9617a958-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://stream.radioparadise.com/aac-64'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://stream.radioparadise.com/aac-64'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +30,14 @@ research:
   format: Adult album alternative (AAA) eclectic mix combining rock, folk, world music, jazz, and contemporary artist selections; listener-supported streaming.
   notes: Founded 1994 as terrestrial KXFG in Eureka, California; pioneered internet streaming in late 1990s; listener-supported since 2000; curated mix by founder; no commercial ads; renowned for creative programming and community ethos; multiple audio streams at different bitrates.
   sources: https://radioparadise.com/
+curation: 0.6
+provenance:
+  - radiobrowser-82b3d31f-0b79-445b-ad19-36395e8ed052
+duplicate_of: 9617a958-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://stream.radioparadise.com/aac-64
+    codec: AAC
+    bitrate: 64
+  - url: http://stream.radioparadise.com/aac-64
+    codec: AAC
+    bitrate: 64

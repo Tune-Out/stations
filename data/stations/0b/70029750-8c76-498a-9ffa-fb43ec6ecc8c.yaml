@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-70029750-8c76-498a-9ffa-fb43ec6ecc8c
-duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
-streams:
-  - url: 'http://drive.uber.radio/uber/crmariacallas/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crmariacallas/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crmariacallas/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Classical music, specialized channel dedicated to soprano Maria Callas recordings.
   notes: Online classical music streaming service offering curated channels; Maria Callas channel features the legendary opera singer's recordings.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-70029750-8c76-498a-9ffa-fb43ec6ecc8c
+duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
+streams:
+  - url: http://drive.uber.radio/uber/crmariacallas/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crmariacallas/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crmariacallas/icecast.audio
+    codec: MP3

@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 08:06:32
 clickcount: 0
 geo_lat: 49.87349933920801
 geo_long: 8.641909246311618
-curation: 0.50
-provenance:
-  - radiobrowser-d832bb75-71a5-4146-89fc-ba12ca09ffa8
-streams:
-  - url: 'https://stream.radiodarmstadt.de/radar_uhd.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://stream.radiodarmstadt.de/radar_hd.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.radiodarmstadt.de/radar.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -44,3 +31,16 @@ research:
   format: Local news, culture, music, politics, international programming; over 200 volunteer contributors
   notes: 'Community radio operated as registered association serving Darmstadt with volunteer-driven programming in multiple languages including Polish (Karolinka), Dari (HamAwas), Sinhalese, French, and German. Notable shows: Hallo Darmstadt, Michis Schlager-Bistro, Film und Serien Club. Mission: "Radio aus Darmstadt für Überall" (Radio from Darmstadt for everywhere), emphasizing giving voice to marginalized communities. Transitioning to DAB+ only from July 2026 (previously FM broadcast).'
   sources: https://radiodarmstadt.de/
+curation: 0.5
+provenance:
+  - radiobrowser-d832bb75-71a5-4146-89fc-ba12ca09ffa8
+streams:
+  - url: https://stream.radiodarmstadt.de/radar_uhd.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://stream.radiodarmstadt.de/radar_hd.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.radiodarmstadt.de/radar.mp3
+    codec: MP3
+    bitrate: 128

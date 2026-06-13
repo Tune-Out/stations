@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e8a361df-e174-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://stream.antenne1.de/rock/livestream1.aac'
-    codec: AAC
-  - url: 'http://stream.antenne1.de/rock/livestream2.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Rock music format featuring current and classic rock hits, DJs, entertainment.
   notes: Antenne 1 Rock is a branded channel from Antenne 1, the major commercial radio network in Germany. The main station broadcasts contemporary hit radio (CHR) across multiple locations. Rock format targets alternative and rock music enthusiasts.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e8a361df-e174-11e9-a8ba-52543be04c81
+streams:
+  - url: http://stream.antenne1.de/rock/livestream1.aac
+    codec: AAC
+  - url: http://stream.antenne1.de/rock/livestream2.mp3
+    codec: MP3

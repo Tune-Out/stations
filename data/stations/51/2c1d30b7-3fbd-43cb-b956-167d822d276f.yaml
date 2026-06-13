@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:38:46
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2c1d30b7-3fbd-43cb-b956-167d822d276f
-streams:
-  - url: 'http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20='
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://yayin.netradyom.com:7900/;'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Turkish pop, mainstream music
   notes: Turkish radio station streaming via Netradyom network; limited public information available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2c1d30b7-3fbd-43cb-b956-167d822d276f
+streams:
+  - url: http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=
+    codec: AAC+
+    bitrate: 32
+  - url: http://yayin.netradyom.com:7900/;
+    codec: AAC+
+    bitrate: 32

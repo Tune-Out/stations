@@ -21,22 +21,6 @@ lastchangetime: 2026-01-15 00:20:51
 clickcount: 29
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-71c8f585-b0d7-4268-94b1-7af897d4291e
-streams:
-  - url: 'http://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8'
-    codec: AAC
-    bitrate: 94
-    hls: true
-  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8'
-    codec: AAC
-    bitrate: 93
-    hls: true
-  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8'
-    codec: AAC+
-    bitrate: 79
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +30,20 @@ research:
   format: Marathi/Hindi-language news, music, talk, cultural programming
   notes: AIR Pune FM serves the Pune region with Marathi and Hindi content; part of national All India Radio network
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-71c8f585-b0d7-4268-94b1-7af897d4291e
+  - iprd-in-air-pune-101-0-037c7d65
+streams:
+  - url: http://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8
+    codec: AAC
+    bitrate: 94
+    hls: true
+  - url: https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8
+    codec: AAC
+    bitrate: 93
+    hls: true
+  - url: https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8
+    codec: AAC+
+    bitrate: 79
+    hls: true

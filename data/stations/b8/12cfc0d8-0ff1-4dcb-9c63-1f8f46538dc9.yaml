@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 04:44:02
 clickcount: 10
 geo_lat: 41.89664621211273
 geo_long: 12.512644529342651
-curation: 0.50
-provenance:
-  - radiobrowser-12cfc0d8-0ff1-4dcb-9c63-1f8f46538dc9
-streams:
-  - url: 'https://s.streampunk.cc/ondarossa.ogg'
-    codec: OGG
-  - url: 'http://s.streampunk.cc/ondarossa.ogg'
-    codec: OGG
-  - url: 'http://stream.auto.ondarossa.net/ondarossa.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +31,15 @@ research:
   format: politically committed talk radio - news from social movements, in-depth political analysis, antifascist documentary programmes, plus alternative, punk, hip-hop and world music
   notes: Radio Onda Rossa broadcasts on 87.9 MHz from Via dei Volsci in Rome's San Lorenzo neighbourhood and is one of the historic "radio libere" of Italy, founded in 1977 from within the autonomist student movement; it is run collectively, refuses advertising, and is widely regarded as a key voice of the Italian extra-parliamentary left, antifascism and grassroots/movements coverage.
   sources: https://www.ondarossa.info/, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-12cfc0d8-0ff1-4dcb-9c63-1f8f46538dc9
+  - iprd-it-radio-onda-rossa-830d4e20
+streams:
+  - url: https://s.streampunk.cc/ondarossa.ogg
+    codec: OGG
+  - url: http://s.streampunk.cc/ondarossa.ogg
+    codec: OGG
+  - url: http://stream.auto.ondarossa.net/ondarossa.mp3
+    codec: MP3
+    bitrate: 128

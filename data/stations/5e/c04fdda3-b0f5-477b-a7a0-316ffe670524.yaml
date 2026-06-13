@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:38:47
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-c04fdda3-b0f5-477b-a7a0-316ffe670524
-streams:
-  - url: 'https://dw.audiostream.io/dw/1027/mp3/64/dw08'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://dw.audiostream.io/dw/1027/mp3/64/dw08'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: News, current affairs, journalism, international news coverage
   notes: DW News service for East African region (Uganda feed). Deutsche Welle is Germany's state-funded international broadcaster similar to BBC or VOA. Provides news service in multiple African languages.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-c04fdda3-b0f5-477b-a7a0-316ffe670524
+streams:
+  - url: https://dw.audiostream.io/dw/1027/mp3/64/dw08
+    codec: MP3
+    bitrate: 128
+  - url: https://dw.audiostream.io/dw/1027/mp3/64/dw08
+    codec: MP3
+    bitrate: 64

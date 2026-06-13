@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:29:04
 clickcount: 1
 geo_lat: 46.05407793251436
 geo_long: 14.50675964355469
-curation: -0.05
-provenance:
-  - radiobrowser-fafeac6a-8cf1-4f9d-8d04-c102560d6e6e
-streams:
-  - url: 'https://live.radio.si/BOB'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live6.infonetmedia.si/Europa05'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Rock music programming
   notes: Radio Bob is a commercial rock radio station in Ljubljana, Slovenia. Focuses on rock and alternative music for Slovenian and Central European audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fafeac6a-8cf1-4f9d-8d04-c102560d6e6e
+  - iprd-si-radio-bob-87-6-07c72659
+streams:
+  - url: https://live.radio.si/BOB
+    codec: MP3
+    bitrate: 128
+  - url: http://live6.infonetmedia.si/Europa05
+    codec: MP3
+    bitrate: 128

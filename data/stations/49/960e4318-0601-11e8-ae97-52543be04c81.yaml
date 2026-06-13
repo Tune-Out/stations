@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 04:34:41
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-960e4318-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.omroep.nl/funx-bb-mp3.m3u'
-    url_resolved: 'http://icecast.omroep.nl/funx-bb-mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://icecast.omroep.nl/funx-bb-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,15 @@ research:
   format: "Urban contemporary music (hip-hop, R&B, reggaeton). Daily programming, \"XChart\" (top 30 chart), podcasts (\"It's Complicated,\" \"Club Crèche,\" \"Familie T(ea)\"). News, social commentary, talent competitions (\"FunX Talent: Summer Vibes\")."
   notes: FunX is a non-commercial public broadcaster under Dutch NPO with tagline "your city your sound." Emphasizes local connection and community-oriented programming for Amsterdam, Rotterdam, and The Hague. Inclusive representation and diverse cultural voices.
   sources: https://www.funx.nl/
+curation: 0.35
+provenance:
+  - radiobrowser-960e4318-0601-11e8-ae97-52543be04c81
+  - iprd-nl-npo-funx-nl-e93ddf11
+streams:
+  - url: http://icecast.omroep.nl/funx-bb-mp3.m3u
+    url_resolved: http://icecast.omroep.nl/funx-bb-mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://icecast.omroep.nl/funx-bb-mp3
+    codec: MP3
+    bitrate: 192

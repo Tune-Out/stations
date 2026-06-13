@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-45be7e54-944f-4a57-9d51-8f74c88097cb
-streams:
-  - url: 'https://iradio.fi/klasu.flac'
-    codec: OGG
-    bitrate: 128
-  - url: 'http://iradio.fi:8000/klasu-hi.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Classical music; 24-hour classical format with focus on traditional and contemporary classical repertoire
   notes: Finnish non-commercial classical music radio service. Part of Rondo classical music network in Finland with high-quality streaming.
   sources: https://rondo.fi/, internal knowledge
+curation: 0.55
+provenance:
+  - radiobrowser-45be7e54-944f-4a57-9d51-8f74c88097cb
+streams:
+  - url: https://iradio.fi/klasu.flac
+    codec: OGG
+    bitrate: 128
+  - url: http://iradio.fi:8000/klasu-hi.mp3
+    codec: MP3
+    bitrate: 320

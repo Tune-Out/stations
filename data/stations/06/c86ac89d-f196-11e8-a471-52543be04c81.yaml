@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:47:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-c86ac89d-f196-11e8-a471-52543be04c81
-streams:
-  - url: 'http://stream.laut.fm/funk2disco'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://funk2disco.stream.laut.fm/funk2disco?t302=2019-10-08_17-09-47&uuid=242e4734-ae25-4995-bf64-11ae6ab5a169'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,15 @@ research:
   format: Funk, disco music
   notes: Community-curated station on laut.fm, a free internet radio platform that allows users to create and host their own channels. FUNK2DISCO is an independent community station dedicated to funk and disco genres.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-c86ac89d-f196-11e8-a471-52543be04c81
+  - iprd-gb-funk2disco-a4953edc
+  - iprd-gb-funk2disco-a2f30429
+streams:
+  - url: http://stream.laut.fm/funk2disco
+    codec: MP3
+    bitrate: 128
+  - url: http://funk2disco.stream.laut.fm/funk2disco?t302=2019-10-08_17-09-47&uuid=242e4734-ae25-4995-bf64-11ae6ab5a169
+    codec: MP3
+    bitrate: 128

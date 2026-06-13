@@ -25,17 +25,6 @@ lastchangetime: 2026-01-14 23:17:40
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.85
-provenance:
-  - radiobrowser-960e4255-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3?1728425782606&aggregator=web'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +34,16 @@ research:
   format: Jazz, pop, rock, soul, and live concert programming
   notes: NDR Blue is a channel of NDR (Norddeutscher Rundfunk), Germany's public broadcaster for northern states. Specializes in jazz, world music, soul, and live concert programming. Part of ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten). Broadcasts high-quality curated music programming with emphasis on jazz and soul genres.
   sources: internal knowledge only
+curation: 0.85
+provenance:
+  - radiobrowser-960e4255-0601-11e8-ae97-52543be04c81
+  - iprd-de-ndr-blue-bf329f9e
+  - iprd-de-ndr-blue-b17922c2
+streams:
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3?1728425782606&aggregator=web
+    codec: MP3
+    bitrate: 128

@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c371db98-d7af-46ed-b9d5-e749ac4e3c93
-streams:
-  - url: 'https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8'
-    codec: MP3
-    bitrate: 128
-    hls: true
-  - url: 'https://jvcs2dtro0.zoeweb.tv/z18-live/stream/chunklist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +29,14 @@ research:
   format: Mixed music format; mix of genres serving broad community audience
   notes: Community radio station in Fortaleza, Ceará state, Brazil. Part of broader media group serving local community with mixed music and local content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c371db98-d7af-46ed-b9d5-e749ac4e3c93
+streams:
+  - url: https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
+    codec: MP3
+    bitrate: 128
+    hls: true
+  - url: https://jvcs2dtro0.zoeweb.tv/z18-live/stream/chunklist.m3u8
+    codec: UNKNOWN
+    hls: true

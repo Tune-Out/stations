@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:56:58
 clickcount: 246
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-96126f56-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.omroep.nl/radio1-bb-mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://icecast.omroep.nl/radio1-bb-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: News, current affairs, talk, sports, and live event coverage; tagline "Wie luistert, weet meer" ("Those who listen, know more")
   notes: One of the main national public radio stations in the Netherlands, broadcast on FM, DAB+ and online. Operates under the Dutch Media Act with public funding via the NPO. Successor to the historical Hilversum 1. Provides extensive coverage of national elections, parliamentary debate, and major sporting events.
   sources: http://www.nporadio1.nl/, internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-96126f56-0601-11e8-ae97-52543be04c81
+  - iprd-nl-npo-radio-1-e0044b25
+streams:
+  - url: http://icecast.omroep.nl/radio1-bb-mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://icecast.omroep.nl/radio1-bb-mp3
+    codec: MP3
+    bitrate: 192

@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-ca77fe5c-3a5c-47f6-b643-587e7c045374
-streams:
-  - url: 'https://icast.connectmedia.hu/5201/live.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icast.connectmedia.hu/5201/live.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: classical music programming
   notes: Hungarian commercial radio station Rádió 1 specializing in classical music; stream hosted on ConnectMedia infrastructure; serves Hungarian audience with classical repertoire.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-ca77fe5c-3a5c-47f6-b643-587e7c045374
+  - iprd-hu-r-di-1-2c4a764c
+streams:
+  - url: https://icast.connectmedia.hu/5201/live.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icast.connectmedia.hu/5201/live.mp3
+    codec: MP3
+    bitrate: 128

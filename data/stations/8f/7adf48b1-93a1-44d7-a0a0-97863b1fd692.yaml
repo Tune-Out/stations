@@ -32,14 +32,6 @@ lastchangetime: 2026-01-15 04:54:13
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-7adf48b1-93a1-44d7-a0a0-97863b1fd692
-streams:
-  - url: 'https://stream.zeno.fm/y513614qvzzuv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/bmb6ihzfbpdtv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -49,3 +41,11 @@ research:
   format: 24/7 stream of gachimuchi remixes (sample-based comedic edits using Billy Herrington's "Gachimuchi Pants Wrestling" Japanese-internet meme audio) blended with Russian pop/rock, Ukrainian pop, Chinese pop, jazz, classical, trap, and other genres
   notes: '"Gachi" / "gachimuchi" is a 2000s-origin Russian and East-Asian internet music meme genre built around sped-up, pitch-shifted, and dance-mixed clips of US bodybuilder/adult performer Billy Herrington ("Aniki"), who became a cult figure after the early-2010s ぷにぷに community on Niconico; Gachi Station #1 is a fan-curated tribute stream, hosted on the free static-page service Neocities and streamed via Zeno.fm; one of several "Gachi Station #N" sibling streams; entirely amateur, no advertising or formal ownership disclosed.'
   sources: internal knowledge only (homepage returned no extractable content via fetch)
+curation: 0.65
+provenance:
+  - radiobrowser-7adf48b1-93a1-44d7-a0a0-97863b1fd692
+streams:
+  - url: https://stream.zeno.fm/y513614qvzzuv
+    codec: MP3
+  - url: https://stream.zeno.fm/bmb6ihzfbpdtv
+    codec: MP3

@@ -19,17 +19,6 @@ lastchangetime: 2026-03-27 15:09:29
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b0c43b67-ce3b-4a62-85ba-7a2c56d376b3
-streams:
-  - url: 'https://www.tineradio-nordsee.de/infusions/gr_radiostatus_panel/gr_radiostatus_player.php?id=2&p=pls'
-    url_resolved: 'http://tineradio-nordsee.spcast.eu:8130/listen1'
-    codec: AAC+
-    bitrate: 320
-  - url: 'https://tineradio-nordsee.spcast.eu/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +28,14 @@ research:
   format: Music and entertainment programming
   notes: Tineradio-Nordsee is a small independent German radio station serving the North Sea coastal region, providing local music and entertainment content to a regional community audience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b0c43b67-ce3b-4a62-85ba-7a2c56d376b3
+streams:
+  - url: https://www.tineradio-nordsee.de/infusions/gr_radiostatus_panel/gr_radiostatus_player.php?id=2&p=pls
+    url_resolved: http://tineradio-nordsee.spcast.eu:8130/listen1
+    codec: AAC+
+    bitrate: 320
+  - url: https://tineradio-nordsee.spcast.eu/stream
+    codec: MP3
+    bitrate: 320

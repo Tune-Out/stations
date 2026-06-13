@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:07:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-e0401ca6-9638-11e8-a767-52543be04c81
-streams:
-  - url: 'http://phate.io/listen'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://phate.io/listen'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: unknown
@@ -40,3 +30,13 @@ research:
   format: Japanese language radio
   notes: Taiwan-based station broadcasting in Japanese.
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-e0401ca6-9638-11e8-a767-52543be04c81
+streams:
+  - url: http://phate.io/listen
+    codec: MP3
+    bitrate: 192
+  - url: https://phate.io/listen
+    codec: MP3
+    bitrate: 192

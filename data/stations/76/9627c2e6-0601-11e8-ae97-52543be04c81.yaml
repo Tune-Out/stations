@@ -24,15 +24,6 @@ lastchangetime: 2026-01-15 02:35:55
 clickcount: 28
 geo_lat: null
 geo_long: null
-curation: 0.15
-provenance:
-  - radiobrowser-9627c2e6-0601-11e8-ae97-52543be04c81
-duplicate_of: 962c0376-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/'
-    codec: MP3
-  - url: 'https://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +33,12 @@ research:
   format: Electronic dance music; techno, minimal, festival house, hardstyle, bouncy house; 24/7 programming
   notes: German commercial electronic music station; "Home of the DJs"; listener voting drives programming ("Euer Voting - Eure Show!")
   sources: http://www.sunshine-live.de/
+curation: 0
+provenance:
+  - radiobrowser-9627c2e6-0601-11e8-ae97-52543be04c81
+duplicate_of: 962c0376-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/
+    codec: MP3
+  - url: https://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/
+    codec: MP3

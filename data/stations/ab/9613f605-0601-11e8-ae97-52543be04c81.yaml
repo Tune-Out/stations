@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:30:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9613f605-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://generations-girls.ice.infomaniak.ch/generations-girls.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://generations-girls.ice.infomaniak.ch/generations-girls.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Pop, hit music; contemporary and classic hits
   notes: Generations Girl is a French commercial radio channel part of the Generations network. Targets female audience with pop and hit music. Commercial broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9613f605-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-girl-36d75706
+  - iprd-fr-generations-girl-dcab7fb1
+streams:
+  - url: http://generations-girls.ice.infomaniak.ch/generations-girls.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://generations-girls.ice.infomaniak.ch/generations-girls.mp3
+    codec: MP3
+    bitrate: 128

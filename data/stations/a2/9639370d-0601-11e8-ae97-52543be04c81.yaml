@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:02:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9639370d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.radio8.de:8000/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.radio8.de:8000/live.m3u'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Regional pop and music programming
   notes: Radio 8 is a regional commercial broadcaster licensed in Ansbach, Bavaria, Germany; provides local music and entertainment programming to the Franconia region.
   sources: http://www.radio8.de/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-9639370d-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-8-ansbach-34d3a621
+  - iprd-de-radio-8-ansbach-26d61f02
+streams:
+  - url: http://stream.radio8.de:8000/live
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.radio8.de:8000/live.m3u
+    codec: MP3
+    bitrate: 128

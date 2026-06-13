@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 02:30:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-38868528-5159-11e8-a4d1-52543be04c81
-streams:
-  - url: 'http://radio.bronyradiogermany.com:8006/daydj'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://radio.bronyradiogermany.com:8000/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://radio.bronyradiogermany.com:8000/mobile'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -45,3 +32,19 @@ research:
   format: Fan music, remixes, and creative works related to My Little Pony franchise
   notes: Community-operated radio station for "Bronies" (adult fans of My Little Pony); broadcasts English and German content; DayDJ channel features rotating fan DJs; represents niche fan culture community with dedicated international following; non-commercial fan project
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-38868528-5159-11e8-a4d1-52543be04c81
+  - iprd-de-brony-radio-germany-daydj-0126352e
+  - iprd-de-brony-radio-germany-mane-stream-064cea53
+  - iprd-de-brony-radio-germany-mobile-stream-5d185006
+streams:
+  - url: http://radio.bronyradiogermany.com:8006/daydj
+    codec: MP3
+    bitrate: 128
+  - url: http://radio.bronyradiogermany.com:8000/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://radio.bronyradiogermany.com:8000/mobile
+    codec: MP3
+    bitrate: 64

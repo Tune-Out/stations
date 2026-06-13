@@ -21,16 +21,6 @@ lastchangetime: 2026-06-03 02:44:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-62dc499c-4262-46ea-a70a-0bd518f2c3ee
-streams:
-  - url: 'https://s6.citrus3.com/stream/perilfm'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://streaming.live365.com/a52094'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Electronic dance music, techno, house, trance, drum and bass, UK garage, multi-genre programming with live DJs
   notes: Independent community-run internet radio station based in Essex, UK. Station emphasizes "100% Legal & Licensed" compliance. Operates via web streaming with live DJ programming; active on social media (Facebook, YouTube, X, Instagram, TikTok, Discord) with listener chatroom and mobile app.
   sources: https://www.perilfm.co.uk/
+curation: 0.35
+provenance:
+  - radiobrowser-62dc499c-4262-46ea-a70a-0bd518f2c3ee
+streams:
+  - url: https://s6.citrus3.com/stream/perilfm
+    codec: AAC
+    bitrate: 128
+  - url: https://streaming.live365.com/a52094
+    codec: MP3
+    bitrate: 128

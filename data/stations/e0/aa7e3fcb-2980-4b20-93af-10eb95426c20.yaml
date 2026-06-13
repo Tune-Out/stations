@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-aa7e3fcb-2980-4b20-93af-10eb95426c20
-streams:
-  - url: 'http://mscp3.live-streams.nl:8070/radio'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://mscp3.live-streams.nl:8072/radio'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Classical music
   notes: Dutch online classical radio station; non-profit oriented
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-aa7e3fcb-2980-4b20-93af-10eb95426c20
+streams:
+  - url: http://mscp3.live-streams.nl:8070/radio
+    codec: MP3
+    bitrate: 320
+  - url: https://mscp3.live-streams.nl:8072/radio
+    codec: MP3
+    bitrate: 320

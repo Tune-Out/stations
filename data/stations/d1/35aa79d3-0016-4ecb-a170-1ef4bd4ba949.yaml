@@ -22,16 +22,6 @@ lastchangetime: 2026-01-26 08:45:06
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-35aa79d3-0016-4ecb-a170-1ef4bd4ba949
-streams:
-  - url: 'https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://stream.radiobergeijk.nl/listen/radio_bergeijk/mobiel'
-    codec: AAC
-    bitrate: 144
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Pop music of all decades; high-quality FLAC streaming
   notes: Radio Bergeijk is a Dutch community radio station known for high-quality audio streaming and diverse pop music programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-35aa79d3-0016-4ecb-a170-1ef4bd4ba949
+streams:
+  - url: https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac
+    codec: OGG
+    bitrate: 128
+  - url: https://stream.radiobergeijk.nl/listen/radio_bergeijk/mobiel
+    codec: AAC
+    bitrate: 144

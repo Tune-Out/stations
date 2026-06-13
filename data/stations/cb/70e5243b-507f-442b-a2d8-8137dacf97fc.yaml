@@ -20,19 +20,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-70e5243b-507f-442b-a2d8-8137dacf97fc
-streams:
-  - url: 'http://stm4.voxhd.com.br:7086/'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://stm4.voxhd.com.br:7086/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stm4.voxhd.com.br:7086/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +29,16 @@ research:
   format: Brazilian popular music and MPB (Música Popular Brasileira) streaming
   notes: Independent radio station dedicated to Brazilian popular music genres
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-70e5243b-507f-442b-a2d8-8137dacf97fc
+streams:
+  - url: http://stm4.voxhd.com.br:7086/
+    codec: AAC+
+    bitrate: 64
+  - url: http://stm4.voxhd.com.br:7086/
+    codec: MP3
+    bitrate: 128
+  - url: https://stm4.voxhd.com.br:7086/
+    codec: MP3
+    bitrate: 128

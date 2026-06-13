@@ -1,7 +1,7 @@
 stationuuid: 20be87a6-029d-4489-adae-53844e85e1c3
 name: 7HO River - Hobart (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HORIVERAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HORIVERAAC.aac
+url: 'http://14093.live.streamtheworld.com:80/HOB_7HORIVERAAC.aac'
+url_resolved: 'http://14093.live.streamtheworld.com:80/HOB_7HORIVERAAC.aac'
 homepage: https://www.7hofm.com.au/
 favicon: https://i.ibb.co/6Jqw8NG/61ea5cf53377543aec281320.webp
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 06:33:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-20be87a6-029d-4489-adae-53844e85e1c3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Variety music programming; commercial radio format including hits, oldies, and contemporary music.
   notes: Commercial radio station serving Hobart, Tasmania (7HO FM). Part of Southern Cross Austereo, Australia's largest radio network operator.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-20be87a6-029d-4489-adae-53844e85e1c3

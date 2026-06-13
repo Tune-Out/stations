@@ -27,16 +27,6 @@ lastchangetime: 2026-01-14 23:37:16
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-a1d1e1f9-6550-493a-992a-00021cb18d57
-streams:
-  - url: 'https://stream.drugradio.ru:8000/stream128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.drugradio.ru/listen/dzradio/stream128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +36,13 @@ research:
   format: Ambient, jungle, trip-hop, ragga jungle, rock, pop; electronic and alternative music focus
   notes: Moscow-based internet radio; diverse electronic music format including jungle, ambient, trip-hop; international and domestic audience (operates in English and Russian)
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-a1d1e1f9-6550-493a-992a-00021cb18d57
+streams:
+  - url: https://stream.drugradio.ru:8000/stream128
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.drugradio.ru/listen/dzradio/stream128
+    codec: MP3
+    bitrate: 128

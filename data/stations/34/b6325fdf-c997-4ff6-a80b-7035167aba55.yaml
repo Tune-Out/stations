@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 01:20:44
 clickcount: 2
 geo_lat: 52.25958175319797
 geo_long: -0.9158027172088624
-curation: 0.35
-provenance:
-  - radiobrowser-b6325fdf-c997-4ff6-a80b-7035167aba55
-streams:
-  - url: 'http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8'
-    codec: AAC
-    bitrate: 339
-    hls: true
-  - url: 'http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8'
-    codec: AAC+
-    bitrate: 101
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +32,16 @@ research:
   format: Local news, information, current affairs, and music
   notes: BBC Radio Northampton is a local BBC radio station serving Northampton and surrounding areas in Northamptonshire. Part of the BBC's public service broadcasting remit. Broadcasts locally targeted news, information, and community programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b6325fdf-c997-4ff6-a80b-7035167aba55
+  - iprd-gb-bbc-radio-northampton-d79ca5bb
+streams:
+  - url: http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8
+    codec: AAC
+    bitrate: 339
+    hls: true
+  - url: http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8
+    codec: AAC+
+    bitrate: 101
+    hls: true

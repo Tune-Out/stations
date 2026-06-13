@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:40:26
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-bd420687-5a01-4a74-86a8-eb9a161deaf3
-streams:
-  - url: 'https://usa19.fastcast4u.com:7430/;'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://usa19.fastcast4u.com:7430/;?type=http&nocache=1711133099'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Reggae, roots, and island music; entertainment programming
   notes: Jamaican commercial radio station. "Irie" is Jamaican patois term reflecting island culture. 320k MP3 high-quality streaming. Broadcasting to Caribbean audience with reggae and roots music focus.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bd420687-5a01-4a74-86a8-eb9a161deaf3
+streams:
+  - url: https://usa19.fastcast4u.com:7430/;
+    codec: MP3
+    bitrate: 320
+  - url: https://usa19.fastcast4u.com:7430/;?type=http&nocache=1711133099
+    codec: MP3
+    bitrate: 320

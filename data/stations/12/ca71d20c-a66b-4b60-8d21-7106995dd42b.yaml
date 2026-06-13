@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-ca71d20c-a66b-4b60-8d21-7106995dd42b
-streams:
-  - url: 'http://icepool.silvacast.com/DEFJAY.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icepool.silvacast.com/DEFJAY.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Hip-hop, R&B, reggae, and urban music programming
   notes: Thessaloniki-based Greek radio station specializing in urban and world music genres; focuses on hip-hop, rhythm & blues, and reggae content
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-ca71d20c-a66b-4b60-8d21-7106995dd42b
+  - iprd-de-defjay-radio-f583918a
+streams:
+  - url: http://icepool.silvacast.com/DEFJAY.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icepool.silvacast.com/DEFJAY.mp3
+    codec: MP3
+    bitrate: 128

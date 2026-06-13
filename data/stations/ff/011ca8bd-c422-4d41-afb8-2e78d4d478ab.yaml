@@ -1,7 +1,7 @@
 stationuuid: 011ca8bd-c422-4d41-afb8-2e78d4d478ab
 name: 1030 AM (Ciudad de México) - 1030 AM - XEQR-AM - Grupo Radio Centro - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AM_SC
+url: 'https://14553.live.streamtheworld.com:443/XEQR_AM_SC'
+url_resolved: 'https://14553.live.streamtheworld.com:443/XEQR_AM_SC'
 homepage: http://player.listenlive.co/51851/es
 favicon: https://pwaimg.listenlive.co/XEQR_AM_1885351_config_favicon_1692673241.png
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-14 23:56:14
 clickcount: 1
 geo_lat: 19.436323734711568
 geo_long: -99.13779258728027
-curation: -0.05
-provenance:
-  - radiobrowser-011ca8bd-c422-4d41-afb8-2e78d4d478ab
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Sports talk, Latin music, romantic music (música romantica), local and national sports coverage.
   notes: XEQR-AM 1030 AM is a commercial radio station in Mexico City operated by Grupo Radio Centro. Focuses on sports programming and Latin music. Features "El Fonógrafo" and music of memory (música del recuerdo). Serves Mexico City metropolitan area and Valley of Mexico. Strong emphasis on local and national sports news and talk.
   sources: http://player.listenlive.co/51851/es, internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-011ca8bd-c422-4d41-afb8-2e78d4d478ab

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 08:28:39
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-650ba121-0d31-4b17-9381-02d58aa46d59
-streams:
-  - url: 'http://www.friskradio.com:8000/stream1'
-    codec: AAC
-  - url: 'https://www.friskradio.com:8443/stream1'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Dance music; sub-channels include Bounce (Donk), Groove, Guilty Pleasures
   notes: '"Your Destination for Dance" / "Banging out the Beats"; available on DAB, smart speakers, Sky, mobile app; community-focused with events and merchandise.'
   sources: https://www.friskradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-650ba121-0d31-4b17-9381-02d58aa46d59
+streams:
+  - url: http://www.friskradio.com:8000/stream1
+    codec: AAC
+  - url: https://www.friskradio.com:8443/stream1
+    codec: AAC

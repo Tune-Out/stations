@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:36:04
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.25
-provenance:
-  - radiobrowser-f397bb44-3a93-11e9-9b4e-52543be04c81
-streams:
-  - url: 'https://0n-klassik.radionetz.de/0n-klassik.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-klassik.radionetz.de/0n-klassik.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: classical music, Klassik; part of larger multi-genre online streaming service
   notes: Launched as "0N Radio" (entire media), offering 60+ dedicated music channels; tagline "Your choice, your music!" emphasizes listener autonomy and free access ("Musik kostenlos hören")
   sources: http://www.0nradio.com/
+curation: 0.25
+provenance:
+  - radiobrowser-f397bb44-3a93-11e9-9b4e-52543be04c81
+  - iprd-de-on-radio-klassik-28c85d5f
+  - iprd-de-on-radio-klassik-b7a964f3
+streams:
+  - url: https://0n-klassik.radionetz.de/0n-klassik.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-klassik.radionetz.de/0n-klassik.mp3
+    codec: MP3
+    bitrate: 128

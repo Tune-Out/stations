@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 06:08:23
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-daef257f-eb1a-11e8-a471-52543be04c81
-streams:
-  - url: 'http://webradio.dbmedia.se/streams/crr96.pls'
-    url_resolved: 'http://stream.dbmedia.se/crr96'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://webradio.dbmedia.se/streams/crrMP3.pls'
-    url_resolved: 'http://stream.dbmedia.se/crrMP3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,17 @@ research:
   format: '"The radiostation for those who like New Modern Country"; 24/7 contemporary country music programming'
   notes: Country Rocks Radio positions itself as "Scandinavias No. 1 Radio if you like New Hot Country"; operated by DB Media from Skåne, Sweden; broadcasts modern country music format 24/7; available via website, iOS and Android apps, and multiple stream formats; targets listeners seeking new, contemporary country rather than classic country.
   sources: http://www.countryrocksradio.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-daef257f-eb1a-11e8-a471-52543be04c81
+  - iprd-se-country-rocks-radio-0efe44e1
+  - iprd-se-country-rocks-radio-4cc347fe
+streams:
+  - url: http://webradio.dbmedia.se/streams/crr96.pls
+    url_resolved: http://stream.dbmedia.se/crr96
+    codec: AAC+
+    bitrate: 128
+  - url: http://webradio.dbmedia.se/streams/crrMP3.pls
+    url_resolved: http://stream.dbmedia.se/crrMP3
+    codec: MP3
+    bitrate: 192

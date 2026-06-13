@@ -24,21 +24,6 @@ lastchangetime: 2026-01-15 03:14:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-dacfa77d-d03e-4cef-8009-94b719536abc
-streams:
-  - url: 'https://stream.nmih.hu:4002/live.mp3'
-    url_resolved: 'http://stream.nmih.hu:4000/live.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.lepesradio.hu:4000/live.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://lepesradio.hu/live.mp3'
-    url_resolved: 'http://stream.nmih.hu:4000/live.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -48,3 +33,19 @@ research:
   format: News, pop music, retro hits, top 40 programming
   notes: Lépés Rádió is a Hungarian internet radio station offering news, pop, retro, and top hit music programming. Streams at 192 kbps MP3. Community-oriented station serving Hungarian-speaking audiences.
   sources: https://lepesradio.hu/
+curation: 0.35
+provenance:
+  - radiobrowser-dacfa77d-d03e-4cef-8009-94b719536abc
+  - iprd-hu-l-p-s-r-di-da75d81c
+streams:
+  - url: https://stream.nmih.hu:4002/live.mp3
+    url_resolved: http://stream.nmih.hu:4000/live.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.lepesradio.hu:4000/live.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://lepesradio.hu/live.mp3
+    url_resolved: http://stream.nmih.hu:4000/live.mp3
+    codec: MP3
+    bitrate: 192

@@ -19,22 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0399ed2e-a818-4c6a-bea1-c24809347106
-streams:
-  - url: 'https://lovemalaybalay.radioca.st/listen.pls'
-    url_resolved: 'http://lovemalaybalay.radioca.st:8828/stream'
-    codec: MP3
-    bitrate: 24
-  - url: 'https://lovemalaybalay.radioca.st:2199/tunein/lovemalaybalay-stream.pls'
-    url_resolved: 'http://148.251.43.149:8828/stream'
-    codec: MP3
-    bitrate: 24
-  - url: 'https://lovemalaybalay.radioca.st/listen.pls?sid=1'
-    url_resolved: 'http://lovemalaybalay.radioca.st:8828/stream'
-    codec: MP3
-    bitrate: 24
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +28,19 @@ research:
   format: Music and talk programming targeted at local community
   notes: Part of Love Radio's provincial network across Philippines; serves Malaybalay municipality in Bukidnon province
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0399ed2e-a818-4c6a-bea1-c24809347106
+streams:
+  - url: https://lovemalaybalay.radioca.st/listen.pls
+    url_resolved: http://lovemalaybalay.radioca.st:8828/stream
+    codec: MP3
+    bitrate: 24
+  - url: https://lovemalaybalay.radioca.st:2199/tunein/lovemalaybalay-stream.pls
+    url_resolved: http://148.251.43.149:8828/stream
+    codec: MP3
+    bitrate: 24
+  - url: https://lovemalaybalay.radioca.st/listen.pls?sid=1
+    url_resolved: http://lovemalaybalay.radioca.st:8828/stream
+    codec: MP3
+    bitrate: 24

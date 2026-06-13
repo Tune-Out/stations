@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 64
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ceba48a5-9356-4891-a1fc-5ff9ea832120
-streams:
-  - url: 'http://eu1.fastcast4u.com/proxy/prontofm'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://fastcast4u.com/player/prontofm/?pl=vlc&c=0'
-    url_resolved: 'https://eu1.fastcast4u.com/proxy/prontofm?mp=/1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: 1990s nostalgia music ("أجمل اغاني التسعينات" - finest 1990s songs), Arabic and international hits, plus podcasts, radio dramas, and comedy sketches
   notes: 90s FM is part of the Davirec family of internet radio brands that also includes Pronto FM and Kids Radio, with trademarks registered in Egypt, the United States and the United Kingdom; based in Egypt and distributed via web stream, mobile apps (iOS / Android) and social media; the operator also runs the "90s Cinema" project and a radio academy offering training in broadcasting, voice commentary and dubbing - signalling a small, founder-driven media boutique rather than a traditional FM licensee; the site asserts strict content-protection ("copying or republication is prohibited except by written permission").
   sources: https://news.ninetiesfm.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-ceba48a5-9356-4891-a1fc-5ff9ea832120
+streams:
+  - url: http://eu1.fastcast4u.com/proxy/prontofm
+    codec: MP3
+    bitrate: 128
+  - url: https://fastcast4u.com/player/prontofm/?pl=vlc&c=0
+    url_resolved: https://eu1.fastcast4u.com/proxy/prontofm?mp=/1
+    codec: MP3
+    bitrate: 128

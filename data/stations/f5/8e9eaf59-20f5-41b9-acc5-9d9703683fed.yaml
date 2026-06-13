@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 01:37:58
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-8e9eaf59-20f5-41b9-acc5-9d9703683fed
-streams:
-  - url: 'https://streams.egofm.de/egoFMHK-lq'
-    url_resolved: 'https://cast.egofm.de/egofmhk.aac?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: AAC+
-    bitrate: 63
-  - url: 'https://streams.egofm.de/egoFMHK-hq'
-    url_resolved: 'https://cast.egofm.de/egofmhk.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +30,15 @@ research:
   format: Multi-genre music (hip-hop, jazz, soul, rock, electronic); entertainment-focused
   notes: '"egoFM H&K" features "Die Hoffmann & Kollmann Radioshow" Fridays 15:00-20:00; described as "der Dampfer der guten Laune" (good mood steamboat); hosts Elise Hoffmann and Dominik Kollmann; listener music requests featured; available on web, iOS, Android'
   sources: https://www.egofm.de/streams/egofmhk
+curation: 0.2
+provenance:
+  - radiobrowser-8e9eaf59-20f5-41b9-acc5-9d9703683fed
+streams:
+  - url: https://streams.egofm.de/egoFMHK-lq
+    url_resolved: https://cast.egofm.de/egofmhk.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: AAC+
+    bitrate: 63
+  - url: https://streams.egofm.de/egoFMHK-hq
+    url_resolved: https://cast.egofm.de/egofmhk.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 128

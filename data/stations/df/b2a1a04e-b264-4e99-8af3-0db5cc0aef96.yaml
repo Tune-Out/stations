@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b2a1a04e-b264-4e99-8af3-0db5cc0aef96
-streams:
-  - url: 'http://croonerradio_frenchy.ice.infomaniak.ch/croonerradio-frenchy-midfi.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://direct.croonerradio.fr/croonerradio-frenchy-midfi.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Crooner music, French chanson, vintage vocal standards
   notes: Part of Crooner Radio family of specialty stations (also operates Crooner Radio Italiano and other themed channels). Focuses on French crooner tradition and nostalgic vocal music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b2a1a04e-b264-4e99-8af3-0db5cc0aef96
+streams:
+  - url: http://croonerradio_frenchy.ice.infomaniak.ch/croonerradio-frenchy-midfi.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://direct.croonerradio.fr/croonerradio-frenchy-midfi.mp3
+    codec: MP3
+    bitrate: 128

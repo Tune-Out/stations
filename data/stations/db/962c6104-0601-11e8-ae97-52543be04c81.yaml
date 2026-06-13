@@ -1,6 +1,6 @@
 stationuuid: 962c6104-0601-11e8-ae97-52543be04c81
 name: WSYN "Sunny 103.1" Surfside Beach, SC
-url: http://provisioning.streamtheworld.com/pls/WSYNFMAAC.pls
+url: 'http://26253.live.streamtheworld.com:80/WSYNFMAAC_SC'
 url_resolved: http://19013.live.streamtheworld.com:3690/WSYNFMAAC_SC
 homepage: http://www.sunny1031.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3331/squareIcon.png?r=96077
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:03:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-962c6104-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Classic hits and 80s music programming on FM 103.1
   notes: Commercial FM station serving the Grand Strand tourist region; focuses on classic hits from the 1970s-1980s.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-962c6104-0601-11e8-ae97-52543be04c81

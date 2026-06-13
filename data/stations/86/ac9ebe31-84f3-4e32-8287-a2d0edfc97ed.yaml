@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:41:05
 clickcount: 1
 geo_lat: 52.460294081062145
 geo_long: -113.73522698879243
-curation: 0.35
-provenance:
-  - radiobrowser-ac9ebe31-84f3-4e32-8287-a2d0edfc97ed
-streams:
-  - url: 'https://goldenwest.leanstream.co/CJUVFM'
-    codec: AAC+
-    bitrate: 63
-  - url: 'https://goldenwest.leanstream.co/CJUVFM-MP3'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Classic hits and oldies; regional community radio
   notes: CJUV-FM 94.1 FM, branded "Sunny 94"; based in Lacombe, Alberta, Canada; licensed AM station broadcasting on FM; part of Golden West Broadcasting portfolio; community-focused programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ac9ebe31-84f3-4e32-8287-a2d0edfc97ed
+  - iprd-ca-cjuv-94-1-2d0d2739
+streams:
+  - url: https://goldenwest.leanstream.co/CJUVFM
+    codec: AAC+
+    bitrate: 63
+  - url: https://goldenwest.leanstream.co/CJUVFM-MP3
+    codec: MP3
+    bitrate: 56

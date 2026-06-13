@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:18:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4655dad7-88de-4bca-a4b0-cd9794622c9d
-streams:
-  - url: 'http://ais-sa1.streamon.fm/7681_64k.mp3'
-    codec: MP3
-    bitrate: 77
-  - url: 'https://ais-sa1.streamon.fm/7681_64k.mp3'
-    codec: MP3
-    bitrate: 69
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Multicultural ethnic radio; Gurbani, Bollywood/Hindi music, devotional content, sports talk, current affairs
   notes: Community ethnic broadcaster on AM 580 described as "Alberta's Largest Ranged Ethnic Radio Station." Programs in 9+ languages including Punjabi, Hindi, and Gujarati. Includes devotional Gurbani programming, music, and talk shows serving Edmonton's multicultural population. Offers online streaming and mobile app.
   sources: https://myradio580.com/
+curation: 0.35
+provenance:
+  - radiobrowser-4655dad7-88de-4bca-a4b0-cd9794622c9d
+  - iprd-ca-chah-myradio-580am-0eb08eb5
+streams:
+  - url: http://ais-sa1.streamon.fm/7681_64k.mp3
+    codec: MP3
+    bitrate: 77
+  - url: https://ais-sa1.streamon.fm/7681_64k.mp3
+    codec: MP3
+    bitrate: 69

@@ -1,7 +1,7 @@
 stationuuid: 952caffd-4751-4bea-bdf2-c2de9c3a9251
 name: Coles Radio (New South Wales / Australian Capital Territory) (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_NSW_ACTAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_NSW_ACTAAC.aac
+url: 'http://28863.live.streamtheworld.com:80/COLES_CONSUMER_NSW_ACTAAC.aac'
+url_resolved: 'http://28863.live.streamtheworld.com:80/COLES_CONSUMER_NSW_ACTAAC.aac'
 homepage: https://www.coles.com.au/help/coles-radio
 favicon: https://i.ibb.co/4RfQ4HX9/images.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-29 09:16:58
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-952caffd-4751-4bea-bdf2-c2de9c3a9251
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary pop and mixed music; curated playlists for retail environments.
   notes: Coles Radio is branded in-store radio for Coles supermarket locations. Funded by major Australian retailer; targets shoppers with upbeat contemporary music format.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-952caffd-4751-4bea-bdf2-c2de9c3a9251

@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-0d95b482-0e68-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.rsa-sachsen.de/maxis/mp3-128/streams.rsa-sachsen.de/'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/maxis/mp3-192/streams.rsa-sachsen.de/play.m3u'
-    url_resolved: 'http://rsa.streamabc.net/regc-rsasachsenmaxis7484300-mp3-192-1153636?sABC=69689976%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768462710'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: 1980s hits, maxi remixes, extended mixes
   notes: RSA Sachsen community radio in Saxony, Germany; specialized in 80s music and maxi-format extended remixes
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-0d95b482-0e68-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.rsa-sachsen.de/maxis/mp3-128/streams.rsa-sachsen.de/
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/maxis/mp3-192/streams.rsa-sachsen.de/play.m3u
+    url_resolved: http://rsa.streamabc.net/regc-rsasachsenmaxis7484300-mp3-192-1153636?sABC=69689976%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768462710
+    codec: MP3

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:58:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3186dc5d-b882-4bd9-928b-35b6a1ea6b44
-streams:
-  - url: 'http://streaming.live365.com/a86427_2'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://streaming.live365.com/a86427'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Christmas music and holiday-themed programming.
   notes: FamilyLife is a US nonprofit focused on strengthening families from a Christian perspective; this stream offers seasonal Christmas music content for the holiday period.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3186dc5d-b882-4bd9-928b-35b6a1ea6b44
+streams:
+  - url: http://streaming.live365.com/a86427_2
+    codec: AAC+
+    bitrate: 128
+  - url: http://streaming.live365.com/a86427
+    codec: MP3
+    bitrate: 192

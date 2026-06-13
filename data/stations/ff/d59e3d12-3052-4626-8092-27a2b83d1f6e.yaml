@@ -28,17 +28,6 @@ lastchangetime: 2026-02-20 19:25:54
 clickcount: 0
 geo_lat: 42.69732757174469
 geo_long: 23.32152938283955
-curation: -0.05
-provenance:
-  - radiobrowser-d59e3d12-3052-4626-8092-27a2b83d1f6e
-streams:
-  - url: 'https://home.radionrg.com/hls/bgrapradio/live.m3u8'
-    codec: AAC
-    bitrate: 140
-    hls: true
-  - url: 'https://home.radionrg.com/listen/bgrapradio/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +37,14 @@ research:
   format: Hip-hop, rap, R&B, dance, and urban music programming
   notes: Bulgarian commercial internet radio station dedicated to hip-hop and rap music, serving Bulgarian and English-speaking audiences. HLS streaming available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d59e3d12-3052-4626-8092-27a2b83d1f6e
+streams:
+  - url: https://home.radionrg.com/hls/bgrapradio/live.m3u8
+    codec: AAC
+    bitrate: 140
+    hls: true
+  - url: https://home.radionrg.com/listen/bgrapradio/radio.mp3
+    codec: MP3
+    bitrate: 128

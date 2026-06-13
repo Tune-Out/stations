@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:05:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-488f07f0-14e7-492e-a7ae-25003b72426a
-streams:
-  - url: 'https://radio.shadowfr69.eu/ogg'
-    codec: OGG
-    bitrate: 192
-  - url: 'https://radio.shadowfr69.eu/mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: Specialized streaming radio featuring Japanese anime soundtracks, J-pop, video game music (VGM), and original soundtracks (OST)
   notes: shadowfr69 Radio is an independent French-based non-commercial streaming station dedicated to Japanese anime culture and gaming music. Broadcasts anime soundtracks, J-pop, and video game OSTs for international anime fan community. Operates from France with multilingual support (Japanese, French, English). High-quality 256kbps MP3 streaming.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-488f07f0-14e7-492e-a7ae-25003b72426a
+streams:
+  - url: https://radio.shadowfr69.eu/ogg
+    codec: OGG
+    bitrate: 192
+  - url: https://radio.shadowfr69.eu/mp3
+    codec: MP3
+    bitrate: 256

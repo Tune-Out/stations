@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 53
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96185f35-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://netradio.live24.gr/sportfm7712'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://sportfm.live24.gr/sportfm7712?344b685e2518b0370f0d731432f51438'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Sports-focused radio with live coverage of Greek football (Stoiximan Super League), basketball, Formula 1, and other athletics.
   notes: Commercial sports radio station on FM 94.6 in Greece, part of SKAI Group. Operating for approximately 30 years (est. 1996). Covers Greek and European football competitions, basketball leagues, Formula 1, motorsports, and other sports. Owned by bwin, a major sports betting operator. Features live match coverage, sports news, talk shows, and podcast archives. Serves Greek-speaking sports audience with online streaming.
   sources: http://www.sport-fm.gr/
+curation: -0.05
+provenance:
+  - radiobrowser-96185f35-0601-11e8-ae97-52543be04c81
+  - iprd-gr-spor-94-6-45c67bec
+  - iprd-gr-sport-94-6-06a10e3e
+streams:
+  - url: http://netradio.live24.gr/sportfm7712
+    codec: MP3
+    bitrate: 128
+  - url: http://sportfm.live24.gr/sportfm7712?344b685e2518b0370f0d731432f51438
+    codec: MP3
+    bitrate: 128

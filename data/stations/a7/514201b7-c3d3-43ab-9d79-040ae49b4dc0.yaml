@@ -1,7 +1,7 @@
 stationuuid: 514201b7-c3d3-43ab-9d79-040ae49b4dc0
 name: Nash FM 101.7
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KAYDFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KAYDFMAAC.aac
+url: 'https://29312.live.streamtheworld.com:443/KAYDFMAAC.aac'
+url_resolved: 'https://29312.live.streamtheworld.com:443/KAYDFMAAC.aac'
 homepage: https://www.nashfm1017.com/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:51:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-514201b7-c3d3-43ab-9d79-040ae49b4dc0
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music with talk, news and weather for Silsbee, TX area
   notes: Licensed to Silsbee, Texas (population ~6,600) on 101.7 FM. Part of iHeartRadio network of commercial radio stations.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-514201b7-c3d3-43ab-9d79-040ae49b4dc0

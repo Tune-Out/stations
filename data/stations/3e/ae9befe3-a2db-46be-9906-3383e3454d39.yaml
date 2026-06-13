@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ae9befe3-a2db-46be-9906-3383e3454d39
-streams:
-  - url: 'https://icecast-s.bdfm.radio/blackdiamondfm?icecast'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast-s.bdfm.radio/blackdiamondfm?type=.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Mixed format - country, reggae, reggaeton, rock music
   notes: 107.8 Black Diamond FM is a UK community radio station based in Midlothian, Scotland. Serves local community with mixed music format including country, reggae, and rock.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ae9befe3-a2db-46be-9906-3383e3454d39
+streams:
+  - url: https://icecast-s.bdfm.radio/blackdiamondfm?icecast
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast-s.bdfm.radio/blackdiamondfm?type=.mp3
+    codec: MP3
+    bitrate: 128

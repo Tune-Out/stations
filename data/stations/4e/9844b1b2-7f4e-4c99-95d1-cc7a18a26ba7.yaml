@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 05:09:56
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-9844b1b2-7f4e-4c99-95d1-cc7a18a26ba7
-duplicate_of: 38cb1dcb-5753-11e8-b0ce-52543be04c81
-streams:
-  - url: 'https://icecast.funradio.fr/fun-1-44-128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icecast.funradio.fr/fun-1-44-128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icecast.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +31,17 @@ research:
   format: Electronic, electro, R'n'B music programming; FM radio and streaming
   notes: Major French commercial radio station (funradio.fr). Broadcasts across France with strong presence in dance and electronic music. Part of commercial radio landscape; operates terrestrial FM and online streaming.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-9844b1b2-7f4e-4c99-95d1-cc7a18a26ba7
+duplicate_of: 38cb1dcb-5753-11e8-b0ce-52543be04c81
+streams:
+  - url: https://icecast.funradio.fr/fun-1-44-128
+    codec: MP3
+    bitrate: 128
+  - url: http://icecast.funradio.fr/fun-1-44-128
+    codec: MP3
+    bitrate: 128
+  - url: http://icecast.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
+    codec: MP3
+    bitrate: 128

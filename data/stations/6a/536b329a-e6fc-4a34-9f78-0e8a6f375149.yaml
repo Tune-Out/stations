@@ -25,14 +25,6 @@ lastchangetime: 2026-01-15 01:39:33
 clickcount: 1
 geo_lat: 20.59611382675715
 geo_long: -100.3971004486084
-curation: -0.05
-provenance:
-  - radiobrowser-536b329a-e6fc-4a34-9f78-0e8a6f375149
-streams:
-  - url: 'http://stream.radiojar.com/qpv58fef3p8uv'
-    codec: AAC
-  - url: 'https://stream.radiojar.com/qpv58fef3p8uv'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +34,12 @@ research:
   format: News talk, music and news; talk radio; local news and commentary
   notes: Radio Fórmula Querétaro (88.7 FM, XHJX-FM) is a commercial talk and news radio station operated by Grupo Fórmula, one of Mexico's largest broadcasters. Programs include news, local commentary, music, and talk shows in Spanish. Part of "Radio Fórmula Primera Cadena" national network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-536b329a-e6fc-4a34-9f78-0e8a6f375149
+  - iprd-mx-radio-formula-88-7-xhjx-cae57da3
+streams:
+  - url: http://stream.radiojar.com/qpv58fef3p8uv
+    codec: AAC
+  - url: https://stream.radiojar.com/qpv58fef3p8uv
+    codec: AAC

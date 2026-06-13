@@ -1,6 +1,6 @@
 stationuuid: 964baa32-0601-11e8-ae97-52543be04c81
 name: XHCP-FM "Super Estelar 107.9" Piedras Negras, CO
-url: http://provisioning.streamtheworld.com/pls/XHPCFMAAC.pls
+url: 'http://29312.live.streamtheworld.com:80/XHPCFMAAC_SC'
 url_resolved: http://27153.live.streamtheworld.com:3690/XHPCFMAAC_SC
 homepage: http://superestelar1079.com.mx/
 favicon: http://superestelar1079.com.mx/favicon.ico
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:20:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964baa32-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Grupera and regional Mexican music specializing in traditional Mexican genres.
   notes: XHCP-FM "Super Estelar 107.9" is a commercial FM radio station licensed to Piedras Negras, Coahuila, Mexico, near the Texas border. Specializes in grupera and regional Mexican music targeting bilingual audiences along the US-Mexico border region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964baa32-0601-11e8-ae97-52543be04c81
+  - iprd-mx-super-estelar-107-9-xhcp-8e182de4

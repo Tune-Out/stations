@@ -1,6 +1,6 @@
 stationuuid: 963f645f-0601-11e8-ae97-52543be04c81
 name: WIXV-FM 95.5 MHz I-95 "The Rock of Savannah"
-url: http://playerservices.streamtheworld.com/pls/WIXVFMAAC.pls
+url: 'http://27153.live.streamtheworld.com:80/WIXVFMAAC_SC'
 url_resolved: http://26193.live.streamtheworld.com:3690/WIXVFMAAC_SC
 homepage: http://www.rockofsavannah.net/
 favicon: https://upload.wikimedia.org/wikipedia/en/c/cc/Wixvi95.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:42:49
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-963f645f-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic rock music format (95.5 FM I-95)
   notes: Licensed to Savannah, Georgia; flagship classic rock station branded "The Rock of Savannah"; operated by Cumulus Media, one of the largest commercial radio broadcasters in the United States.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-963f645f-0601-11e8-ae97-52543be04c81

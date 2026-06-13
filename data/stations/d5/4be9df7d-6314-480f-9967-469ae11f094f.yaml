@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-4be9df7d-6314-480f-9967-469ae11f094f
-streams:
-  - url: 'https://radioislamindonesia.com/rodja.mp3?_=2'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://radioislamindonesia.com/rodja-low.mp3?_=1'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Quranic recitation, Islamic education, classical Islamic studies programming
   notes: Radio Rodja is a prominent Indonesian Islamic radio station broadcasting Quranic recitation and Islamic educational content. Serves Indonesia's Muslim majority with religious programming and classical Islamic scholarship. Based in Indonesia but reaches diaspora communities. Despite being tagged "classical," focuses primarily on Islamic classical learning rather than classical music.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-4be9df7d-6314-480f-9967-469ae11f094f
+  - iprd-id-radio-rodja-756-e5909450
+streams:
+  - url: https://radioislamindonesia.com/rodja.mp3?_=2
+    codec: MP3
+    bitrate: 256
+  - url: https://radioislamindonesia.com/rodja-low.mp3?_=1
+    codec: MP3
+    bitrate: 32

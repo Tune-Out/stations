@@ -1,6 +1,6 @@
 stationuuid: 96337005-0601-11e8-ae97-52543be04c81
 name: XHTIM "La Mejor" 90.7 FM Tijuana, BN
-url: http://playerservices.streamtheworld.com/pls/XHTIM.pls
+url: 'http://14223.live.streamtheworld.com:80/XHTIM_SC'
 url_resolved: http://14223.live.streamtheworld.com:3690/XHTIM_SC
 homepage: http://www.lamejor.com.mx/#!/tijuana/home
 favicon: http://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 08:31:18
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96337005-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Grupera, ranchera, and Latin music programming
   notes: XHTIM "La Mejor" 90.7 FM is a commercial radio station in Tijuana, Mexico, specializing in grupera and ranchera music targeting regional Mexican music audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96337005-0601-11e8-ae97-52543be04c81

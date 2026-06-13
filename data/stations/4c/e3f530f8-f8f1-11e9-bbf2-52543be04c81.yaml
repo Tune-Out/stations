@@ -27,20 +27,6 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-e3f530f8-f8f1-11e9-bbf2-52543be04c81
-streams:
-  - url: 'https://sphera.fluidstream.eu/fluid_wow.aac?FLID=1&aw_0_req.gdpr=true&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://ice10.fluidstream.net/fluid_wow.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://players.fluidstream.net/radiowow.pls'
-    url_resolved: 'http://sphera.fluidstream.eu/fluid_wow.mp3?FLID=6'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -50,3 +36,19 @@ research:
   format: Contemporary hit radio mix of dance, electronic, hip-hop, trap, pop and Top 40, with a focus on 2000s hits and current chart music
   notes: Radio WoW is an independent Italian commercial radio brand broadcasting from Veneto on FM and via streaming/fluidstream platform; programming targets younger listeners with a high-energy dance/urban contemporary format covering 00s dance, current pop, hip-hop and trap; ownership is private/independent (not part of the major Italian radio groups such as RTL 102.5, Mediaset Radio or GEDI).
   sources: https://www.radiowow.com/, internal knowledge
+curation: 0
+provenance:
+  - radiobrowser-e3f530f8-f8f1-11e9-bbf2-52543be04c81
+  - iprd-it-radio-wow-76b90ecb
+  - iprd-it-radio-wow-98-7-22479f4d
+streams:
+  - url: https://sphera.fluidstream.eu/fluid_wow.aac?FLID=1&aw_0_req.gdpr=true&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue
+    codec: AAC+
+    bitrate: 64
+  - url: http://ice10.fluidstream.net/fluid_wow.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://players.fluidstream.net/radiowow.pls
+    url_resolved: http://sphera.fluidstream.eu/fluid_wow.mp3?FLID=6
+    codec: MP3
+    bitrate: 128

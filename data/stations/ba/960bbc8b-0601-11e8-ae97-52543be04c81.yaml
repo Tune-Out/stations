@@ -25,22 +25,6 @@ lastchangetime: 2026-01-15 00:05:08
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-960bbc8b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://opus.theradio.cc/'
-    codec: OGG
-  - url: 'http://lq.theradio.cc/'
-    codec: OGG
-  - url: 'https://ogg.theradio.cc/'
-    codec: OGG
-  - url: 'https://mp3.theradio.cc/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3.theradio.cc/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -50,3 +34,22 @@ research:
   format: Indie pop, rock, and experimental music; non-commercial and Creative Commons licensed content
   notes: Non-commercial online radio platform emphasizing Creative Commons licensing. Community-driven broadcaster supporting independent artists and open-source culture. Tagged with Linux/open-source community values. Mission aligned with non-commercial music distribution and artist support.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-960bbc8b-0601-11e8-ae97-52543be04c81
+  - iprd-de-theradio-cc-6be16c74
+  - iprd-de-theradio-cc-02e8d276
+  - iprd-de-theradio-cc-390c9ade
+streams:
+  - url: https://opus.theradio.cc/
+    codec: OGG
+  - url: http://lq.theradio.cc/
+    codec: OGG
+  - url: https://ogg.theradio.cc/
+    codec: OGG
+  - url: https://mp3.theradio.cc/
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3.theradio.cc/
+    codec: MP3
+    bitrate: 128

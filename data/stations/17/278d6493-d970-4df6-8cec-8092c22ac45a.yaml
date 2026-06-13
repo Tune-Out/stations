@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-278d6493-d970-4df6-8cec-8092c22ac45a
-streams:
-  - url: 'http://18.141.67.248:8032/stream/1/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://kalibostream.brigadanews.ph/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: News, information, and talk programming
   notes: Commercial news and talk radio station serving Kalibo city in Aklan Province, central Philippines. Part of the Brigada News network providing local news and current affairs.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-278d6493-d970-4df6-8cec-8092c22ac45a
+streams:
+  - url: http://18.141.67.248:8032/stream/1/
+    codec: MP3
+    bitrate: 128
+  - url: https://kalibostream.brigadanews.ph/
+    codec: MP3
+    bitrate: 128

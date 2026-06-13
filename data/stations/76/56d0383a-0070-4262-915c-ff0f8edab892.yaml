@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 05:09:57
 clickcount: 0
 geo_lat: 49.4443559316511
 geo_long: 7.768785059452058
-curation: 0.35
-provenance:
-  - radiobrowser-56d0383a-0070-4262-915c-ff0f8edab892
-streams:
-  - url: 'https://radiogroup-stream09.radiohost.de/antenne-kaiserslautern_mp3-192'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radiogroup-stream32.radiohost.de/antenne-kaiserslautern_mp3-192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,13 @@ research:
   format: Contemporary hit radio, news, talk shows, music; Morning show "Die Wacher Macher", "Supp Salat und Kaffee" breakfast talk, cooking shows
   notes: Commercial FM radio (96.9 MHz) serving the Kaiserslautern region in Rhineland-Palatinate. Tagline "WILLKOMMEN ZUHAUSE" (Welcome Home) emphasizes local connection. Broadcasts from GLOBUS Markthalle. Features local business integration and community programming with jobs and event listings.
   sources: https://antenne-kl.de/
+curation: 0.35
+provenance:
+  - radiobrowser-56d0383a-0070-4262-915c-ff0f8edab892
+streams:
+  - url: https://radiogroup-stream09.radiohost.de/antenne-kaiserslautern_mp3-192
+    codec: MP3
+    bitrate: 192
+  - url: https://radiogroup-stream32.radiohost.de/antenne-kaiserslautern_mp3-192
+    codec: MP3
+    bitrate: 192

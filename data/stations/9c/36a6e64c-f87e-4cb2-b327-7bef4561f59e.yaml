@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 03:16:53
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-36a6e64c-f87e-4cb2-b327-7bef4561f59e
-streams:
-  - url: 'http://streaming.exclusive.radio/er/bollywood/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.exclusive.radio/er/bollywood/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Bollywood film music and Hindi-language music; world music with Indian focus
   notes: Web-based radio station operated by Exclusive Radio, accessible from the United Arab Emirates. Specializes in Bollywood film music and Hindi-language content. Part of a broader category of Hindi/Bollywood radio services available in the UAE serving the large South Asian expatriate communities.
   sources: https://onlineradiobox.com/ae/genre/bollywood/
+curation: 0.2
+provenance:
+  - radiobrowser-36a6e64c-f87e-4cb2-b327-7bef4561f59e
+streams:
+  - url: http://streaming.exclusive.radio/er/bollywood/icecast.audio
+    codec: MP3
+  - url: https://streaming.exclusive.radio/er/bollywood/icecast.audio
+    codec: MP3

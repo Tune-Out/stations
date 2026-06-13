@@ -1,7 +1,7 @@
 stationuuid: 9e99f583-59b0-4c54-b89c-e71313b091f4
 name: FM 93 Québec
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CJMFFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CJMFFMAAC.aac
+url: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
+url_resolved: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
 homepage: https://www.fm93.com/
 favicon: https://www.fm93.com/favicon.ico
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9e99f583-59b0-4c54-b89c-e71313b091f4
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Contemporary hits, adult hits, music-focused; French-language
   notes: Commercial FM radio station in Quebec City; CJMF-FM call sign; part of Canadian broadcast system
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9e99f583-59b0-4c54-b89c-e71313b091f4

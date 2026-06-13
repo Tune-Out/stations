@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:43:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-7317f14e-6e43-4b8a-a4b1-b430a0ac0399
-streams:
-  - url: 'https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1'
-    codec: AAC+
-    bitrate: 320
-  - url: 'https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/s'
-    codec: AAC+
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Turbo folk, Serbian folk music, Macedonian popular music
   notes: Commercial radio station serving North Macedonia with emphasis on turbo folk and Balkan music genres. Regional Balkans broadcaster.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-7317f14e-6e43-4b8a-a4b1-b430a0ac0399
+  - iprd-mk-biser-radio-5ec1a23e
+  - iprd-mk-stil-radio-f48493ad
+streams:
+  - url: https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1
+    codec: AAC+
+    bitrate: 320
+  - url: https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/s
+    codec: AAC+
+    bitrate: 320

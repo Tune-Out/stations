@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f763ed40-e195-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-latinbeats-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-latinbeats-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Latin music programming
   notes: One of many genre-specific streams offered by bigFM, a commercial German online radio platform
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f763ed40-e195-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-latinbeats-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-latinbeats-128-mp3
+    codec: MP3

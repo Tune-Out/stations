@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:29:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bb5dd6e8-aa4e-4af6-a631-bceae91f7fd5
-streams:
-  - url: 'http://stream.mjm-webhosting.com.au:8040/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.tripleafm.com.au//'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,14 @@ research:
   format: Music, information, variety programming, community announcements, talk
   notes: Community radio station serving Wagga Wagga and the Riverina region of New South Wales. Triple A (Australian Accessible Audio) provides locally-focused programming including music, information and community service announcements.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bb5dd6e8-aa4e-4af6-a631-bceae91f7fd5
+  - iprd-au-2aaa-107-1-6ad4520b
+streams:
+  - url: http://stream.mjm-webhosting.com.au:8040/;
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.tripleafm.com.au//
+    codec: MP3
+    bitrate: 128

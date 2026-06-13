@@ -1,6 +1,6 @@
 stationuuid: 96257122-0601-11e8-ae97-52543be04c81
 name: WEMU 89.1 Ypsilanti, MI
-url: http://provisioning.streamtheworld.com/pls/WEMUFM.pls
+url: 'http://15313.live.streamtheworld.com:80/WEMUFM_SC'
 url_resolved: http://22063.live.streamtheworld.com:3690/WEMUFM_SC
 homepage: http://wemu.org/
 favicon: ""
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-96257122-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: Jazz, blues, NPR news, public radio
   notes: WEMU 89.1 FM is Eastern Michigan University's NPR-affiliated public radio station. Strong jazz programming and support for jazz musicians and festivals.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-96257122-0601-11e8-ae97-52543be04c81

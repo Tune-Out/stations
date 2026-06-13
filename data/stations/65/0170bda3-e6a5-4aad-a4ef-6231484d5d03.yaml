@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0170bda3-e6a5-4aad-a4ef-6231484d5d03
-streams:
-  - url: 'https://streaming.antipode.be/antipode.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.antipode.be/antipode.mp3?rp_source=1&=&&___cb=389966099991420'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Community radio serving French-speaking Belgian population
   notes: Based in Louvain-la-Neuve, Wallonia; independent community station; serves Belgian francophone community.
   sources: http://antipode.be/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-0170bda3-e6a5-4aad-a4ef-6231484d5d03
+  - iprd-be-radio-antipode-94-1-107-3-99e738b2
+streams:
+  - url: https://streaming.antipode.be/antipode.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.antipode.be/antipode.mp3?rp_source=1&=&&___cb=389966099991420
+    codec: MP3
+    bitrate: 128

@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b57318a3-076e-4f26-81cf-09287b6fb147
-streams:
-  - url: 'http://9595.brasilstream.com.br/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://9595.brasilstream.com.br/stream?identifica=6604881056089703000'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,15 @@ research:
   format: Rock and contemporary rock programming.
   notes: Brazilian streaming radio service with rock focus. Limited public information available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b57318a3-076e-4f26-81cf-09287b6fb147
+  - iprd-br-radio-cdl-102-9-199ddfb7
+  - iprd-br-radio-transam-rica-100-1-caf4211f
+streams:
+  - url: http://9595.brasilstream.com.br/stream
+    codec: AAC+
+    bitrate: 64
+  - url: https://9595.brasilstream.com.br/stream?identifica=6604881056089703000
+    codec: AAC+
+    bitrate: 64

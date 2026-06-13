@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:34:47
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9620f1c0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live.leanstream.co/CFPLFM-MP3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://live.leanstream.co/CFPLFM-MP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Active rock music
   notes: FM96 (95.9 FM CFPL-FM) licensed to London, Ontario. Commercial active rock station under Cumulus Media ownership, part of iHeartRadio network infrastructure. Formerly known as FM96.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9620f1c0-0601-11e8-ae97-52543be04c81
+  - iprd-ca-cfpl-95-9-fm96-60963c8c
+streams:
+  - url: http://live.leanstream.co/CFPLFM-MP3
+    codec: MP3
+    bitrate: 128
+  - url: https://live.leanstream.co/CFPLFM-MP3
+    codec: MP3
+    bitrate: 128

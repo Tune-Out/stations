@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:25:56
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-963b1a6a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.erf.at/nowradio_192'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.erf.at/nowradio_96'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: religious
@@ -42,3 +32,15 @@ research:
   format: Christian contemporary music, religious programming, spiritual content
   notes: Non-commercial Christian radio station operated by ERF (Evangelical Broadcasting). Programs Christian contemporary music and evangelical religious content in German for Austrian Christian audience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-963b1a6a-0601-11e8-ae97-52543be04c81
+  - iprd-at-now-radio-553bda8a
+  - iprd-at-now-radio-77a7536c
+streams:
+  - url: http://stream.erf.at/nowradio_192
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.erf.at/nowradio_96
+    codec: MP3
+    bitrate: 96

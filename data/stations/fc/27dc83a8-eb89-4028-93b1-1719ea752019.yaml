@@ -26,17 +26,6 @@ lastchangetime: 2026-01-15 04:29:57
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-27dc83a8-eb89-4028-93b1-1719ea752019
-streams:
-  - url: 'https://radio.tandj-homelab.dev/hls/t_and_js_radio/live.m3u8'
-    codec: AAC
-    bitrate: 52
-    hls: true
-  - url: 'https://radio.tandj-homelab.dev/listen/t_and_js_radio/HQradio.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -46,3 +35,14 @@ research:
   format: classic rock, hip hop, metal, punk, rock music; diverse rock genre focus
   notes: Independent online radio stream; appears to be hobby/personal project; high quality 320kbps MP3 stream; hosted on personal server infrastructure
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-27dc83a8-eb89-4028-93b1-1719ea752019
+streams:
+  - url: https://radio.tandj-homelab.dev/hls/t_and_js_radio/live.m3u8
+    codec: AAC
+    bitrate: 52
+    hls: true
+  - url: https://radio.tandj-homelab.dev/listen/t_and_js_radio/HQradio.mp3
+    codec: MP3
+    bitrate: 320

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-349da2e4-e8b8-4f0b-a8fa-eae446a93f75
-streams:
-  - url: 'http://amber.streamguys.com:6050/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wmnr.streamguys1.com/live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Classical music, fine arts, arts programming, cultural content, educational radio
   notes: WMNR is Connecticut-based fine arts and classical music radio station. Non-commercial education-focused broadcaster serving Monroe area with emphasis on classical repertoire and arts programming.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-349da2e4-e8b8-4f0b-a8fa-eae446a93f75
+  - iprd-us-wmnr-fine-arts-radio-af32b7a5
+streams:
+  - url: http://amber.streamguys.com:6050/live
+    codec: MP3
+    bitrate: 128
+  - url: https://wmnr.streamguys1.com/live
+    codec: MP3
+    bitrate: 128

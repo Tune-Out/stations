@@ -22,18 +22,6 @@ lastchangetime: 2026-01-22 01:21:04
 clickcount: 0
 geo_lat: 51.48112236572637
 geo_long: 11.964484155178072
-curation: 0.65
-provenance:
-  - radiobrowser-61f46b7e-4d05-4a43-b410-0d14598a0e05
-streams:
-  - url: 'https://radio-hls.mdr.de/hls/live/2112913/mdr-991101-0-hls/index.m3u8'
-    codec: AAC
-    bitrate: 102
-    hls: true
-  - url: 'http://avw.mdr.de/streams/991101-0_aac_high.m3u'
-    url_resolved: 'http://mdr-991101-0.cast.mdr.de/mdr/991101/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -43,3 +31,16 @@ research:
   format: Youth and tween-oriented pop music radio; entertainment and educational content for children
   notes: MDR TWEENS is a public radio service for children and teenagers operated by Mitteldeutscher Rundfunk, one of Germany's regional public broadcasters. Related to MDR Sputnik brand. Provides age-appropriate pop music, entertainment, and educational programming for tweens and teenagers in central Germany (Saxony-Anhalt region). Funded through German public broadcasting fees.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-61f46b7e-4d05-4a43-b410-0d14598a0e05
+  - iprd-de-mdr-tweens-3b528aca
+streams:
+  - url: https://radio-hls.mdr.de/hls/live/2112913/mdr-991101-0-hls/index.m3u8
+    codec: AAC
+    bitrate: 102
+    hls: true
+  - url: http://avw.mdr.de/streams/991101-0_aac_high.m3u
+    url_resolved: http://mdr-991101-0.cast.mdr.de/mdr/991101/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-15 13:28:34
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-99137627-4bcd-4a16-a9a4-56d656de14be
-streams:
-  - url: 'https://dzrh-azura.mmg.com.ph/listen/dzrh_manila/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Comprehensive news platform with coverage of nation, entertainment, world, sports, Asia, lifestyle; live streaming and radio
   notes: Major Philippine news and entertainment broadcaster; multi-category coverage emphasis
   sources: http://www.dzrh.com.ph/
+curation: -0.05
+provenance:
+  - radiobrowser-99137627-4bcd-4a16-a9a4-56d656de14be
+streams:
+  - url: https://dzrh-azura.mmg.com.ph/listen/dzrh_manila/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3
+    codec: MP3
+    bitrate: 128

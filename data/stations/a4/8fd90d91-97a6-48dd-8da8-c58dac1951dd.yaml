@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 05:06:28
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8fd90d91-97a6-48dd-8da8-c58dac1951dd
-streams:
-  - url: 'http://n09.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlNUkOegAd71tiQORW5Lo8A'
-    codec: MP3
-  - url: 'http://n09.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlsS40MAAYw8ZM_Db37Hs-w'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Adult contemporary, easy listening, "dazzling music"
   notes: DWDM 95.5 operates as Eagle FM on NET25 streaming platform. Adult contemporary format focused on smooth music and entertainment for mature Filipino audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8fd90d91-97a6-48dd-8da8-c58dac1951dd
+streams:
+  - url: http://n09.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlNUkOegAd71tiQORW5Lo8A
+    codec: MP3
+  - url: http://n09.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlsS40MAAYw8ZM_Db37Hs-w
+    codec: MP3

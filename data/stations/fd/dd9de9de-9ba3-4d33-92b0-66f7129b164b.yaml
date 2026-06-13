@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 05:11:51
 clickcount: 0
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.60
-provenance:
-  - radiobrowser-dd9de9de-9ba3-4d33-92b0-66f7129b164b
-streams:
-  - url: 'https://somafm.com/xmasinfrisko64.pls'
-    url_resolved: 'https://ice5.somafm.com/xmasinfrisko-64-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://somafm.com/xmasinfrisko32.pls'
-    url_resolved: 'https://ice6.somafm.com/xmasinfrisko-32-aac'
-    codec: AAC
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +30,16 @@ research:
   format: Seasonal holiday/Christmas music programming; curated themed channels; part of larger SomaFM network (Groove Salad, Drone Zone, Secret Agent, etc.)
   notes: Established 2000; "Commercial-free, Listener-supported Radio"; listener-supported model; NSFW content noted; offers playlists, podcasts, mobile access, merchandise
   sources: https://somafm.com/xmasinfrisko/
+curation: 0.6
+provenance:
+  - radiobrowser-dd9de9de-9ba3-4d33-92b0-66f7129b164b
+  - iprd-us-somafm-xmas-in-frisco-682bfd52
+streams:
+  - url: https://somafm.com/xmasinfrisko64.pls
+    url_resolved: https://ice5.somafm.com/xmasinfrisko-64-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://somafm.com/xmasinfrisko32.pls
+    url_resolved: https://ice6.somafm.com/xmasinfrisko-32-aac
+    codec: AAC
+    bitrate: 32

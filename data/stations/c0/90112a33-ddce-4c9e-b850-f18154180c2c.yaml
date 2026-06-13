@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 01:11:29
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-90112a33-ddce-4c9e-b850-f18154180c2c
-streams:
-  - url: 'http://mfcministries.digital:8000/xstream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mfcministries.digital:8000/xstream2'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mfcministries.digital:8000/xstream3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +31,16 @@ research:
   format: Christian teaching, worship, inspirational content
   notes: Christian ministry radio station providing teachings, worship music, and inspirational programming. Non-profit Christian broadcaster.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-90112a33-ddce-4c9e-b850-f18154180c2c
+streams:
+  - url: http://mfcministries.digital:8000/xstream
+    codec: MP3
+    bitrate: 128
+  - url: http://mfcministries.digital:8000/xstream2
+    codec: MP3
+    bitrate: 128
+  - url: http://mfcministries.digital:8000/xstream3
+    codec: MP3
+    bitrate: 128

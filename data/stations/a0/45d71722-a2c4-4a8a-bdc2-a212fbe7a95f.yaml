@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-45d71722-a2c4-4a8a-bdc2-a212fbe7a95f
-streams:
-  - url: 'https://maestro.emfcdn.com/stream_for/k-love/airable/aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://maestro.emfcdn.com/stream_for/k-love/tunein'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -38,3 +28,13 @@ research:
   format: Christian contemporary music (CCM), Christian hits, inspirational music, faith-based content
   notes: K-LOVE is America's largest listener-supported Christian radio network operating across US; owned by Educational Media Foundation (non-profit); broadcasts on 90.7 FM in New Mexico; listener-supported rather than commercial
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-45d71722-a2c4-4a8a-bdc2-a212fbe7a95f
+streams:
+  - url: https://maestro.emfcdn.com/stream_for/k-love/airable/aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://maestro.emfcdn.com/stream_for/k-love/tunein
+    codec: AAC+
+    bitrate: 64

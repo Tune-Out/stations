@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-bf1731ba-a1eb-11e8-abb8-52543be04c81
-streams:
-  - url: 'http://s45.myradiostream.com:18304/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://s45.myradiostream.com/18304/;?type=http&nocache=1728303081?0.29796721986116603'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Retro dance, house, techno, trance from 1980s-1990s
   notes: Dutch online radio station specializing in classic/retro dance and electronic music; part of C-Dance multi-channel network with focus on retro hits and golden-age dance tracks.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bf1731ba-a1eb-11e8-abb8-52543be04c81
+  - iprd-nl-c-dance-retro-ce53e317
+streams:
+  - url: http://s45.myradiostream.com:18304/
+    codec: MP3
+    bitrate: 192
+  - url: https://s45.myradiostream.com/18304/;?type=http&nocache=1728303081?0.29796721986116603
+    codec: MP3
+    bitrate: 192

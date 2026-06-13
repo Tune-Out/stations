@@ -1,6 +1,6 @@
 stationuuid: 964a3638-0601-11e8-ae97-52543be04c81
 name: KUMA 92.1 "Party FM" Pilot Rock, OR
-url: http://provisioning.streamtheworld.com/pls/KUMAFM.pls
+url: 'http://18533.live.streamtheworld.com:80/KUMAFM_SC'
 url_resolved: http://27153.live.streamtheworld.com/KUMAFM_SC
 homepage: http://www.mycolumbiabasin.com/
 favicon: https://elkhornmediagroup.com/wp-content/themes/elkhorn/images/favicon.svg
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 05:24:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-964a3638-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Classic hits and adult contemporary music.
   notes: KUMA 92.1 serves the Walla Walla / Pilot Rock area of Oregon; rural commercial station with classic hits format.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-964a3638-0601-11e8-ae97-52543be04c81

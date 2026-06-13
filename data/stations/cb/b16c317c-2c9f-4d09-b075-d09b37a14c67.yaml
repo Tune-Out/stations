@@ -1,6 +1,6 @@
 stationuuid: b16c317c-2c9f-4d09-b075-d09b37a14c67
 name: CBC Radio One - Happy Valley-Goose Bay, NL (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CFGB_CBC.pls
+url: 'https://26733.live.streamtheworld.com:443/CFGB_CBC_SC'
 url_resolved: https://26733.live.streamtheworld.com/CFGB_CBC_SC
 homepage: https://www.cbc.ca/news/canada/newfoundland-labrador
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:01:40
 clickcount: 2
 geo_lat: 53.29655767815527
 geo_long: -60.308761596679695
-curation: 0.35
-provenance:
-  - radiobrowser-b16c317c-2c9f-4d09-b075-d09b37a14c67
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: News, current affairs, features, and talk programming; local radio station affiliate of CBC Radio One
   notes: CBC Radio One serves Newfoundland and Labrador with news, public affairs, and cultural programming; part of Canada's national public broadcasting system
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b16c317c-2c9f-4d09-b075-d09b37a14c67

@@ -22,58 +22,6 @@ lastchangetime: 2026-01-15 07:01:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-96410337-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream01.my105.ch/my105ritmolatino.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105mashup.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105deep.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105chill.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105dance.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105party.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105rock.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105love.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105allthehits.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105dreist.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105djnights.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105original.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105thebattle.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105deluxe.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105fresh.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream01.my105.ch/my105charts.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -83,3 +31,71 @@ research:
   format: Multi-format internet radio specializing in Latin beats and electronic dance music; "Die heissesten Latin-Beats, nonstop!"
   notes: Swiss online radio station featuring diverse music channels including Latin, dance, house, electronic. Operates as streaming-first platform with curated themed channels.
   sources: http://www.my105.ch/ritmolatino
+curation: 0.3
+provenance:
+  - radiobrowser-96410337-0601-11e8-ae97-52543be04c81
+  - iprd-ch-my105-all-the-hits-0bcb047f
+  - iprd-ch-my105-charts-34221d25
+  - iprd-ch-my105-chill-27afaad1
+  - iprd-ch-my105-dance-1b2bc1ca
+  - iprd-ch-my105-deep-2bcfb9e6
+  - iprd-ch-my105-deluxe-4bbfc8c5
+  - iprd-ch-my105-dj-mixes-8b42d473
+  - iprd-ch-my105-dreist-e295436d
+  - iprd-ch-my105-fresh-471530a7
+  - iprd-ch-my105-love-3aae5bb1
+  - iprd-ch-my105-mashup-6abb995a
+  - iprd-ch-my105-original-36dc2a10
+  - iprd-ch-my105-party-aef35c42
+  - iprd-ch-my105-ritmo-latino-e359eb8b
+  - iprd-ch-my105-rock-f5123fb1
+  - iprd-ch-my105-the-battle-e6af5fd2
+streams:
+  - url: http://stream01.my105.ch/my105ritmolatino.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105mashup.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105deep.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105chill.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105dance.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105party.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105rock.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105love.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105allthehits.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105dreist.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105djnights.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105original.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105thebattle.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105deluxe.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105fresh.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream01.my105.ch/my105charts.mp3
+    codec: MP3
+    bitrate: 192

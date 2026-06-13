@@ -1,7 +1,7 @@
 stationuuid: 94156264-2eeb-4df7-a01f-24de6da555f5
 name: Metro FM 95.1. Ciudad de Buenos Aires
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac
+url: 'https://27383.live.streamtheworld.com:443/METROAAC.aac'
+url_resolved: 'https://27383.live.streamtheworld.com:443/METROAAC.aac'
 homepage: https://www.metro951.com/
 favicon: https://www.mph.fm/wp-content/uploads/2025/10/favicon.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-94156264-2eeb-4df7-a01f-24de6da555f5
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Commercial music and talk radio serving the Argentine capital
   notes: Metro FM 95.1 is a major commercial radio station in Buenos Aires, Argentina's largest city. Operates with contemporary pop and music-based programming targeting a broad Buenos Aires audience. Part of Argentina's competitive commercial radio market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-94156264-2eeb-4df7-a01f-24de6da555f5

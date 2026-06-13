@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c9702714-5c7d-460d-a215-83dbd0a18234
-streams:
-  - url: 'https://i6.streams.ovh:2200/ssl/jadore?mp=%2Fstream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://i6.streams.ovh:2200/ssl/jadore?mp=/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Unknown (limited metadata)
   notes: Community radio stream through xat.com platform; minimal public information available
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c9702714-5c7d-460d-a215-83dbd0a18234
+  - iprd-gr-jadore-b4dbef0a
+streams:
+  - url: https://i6.streams.ovh:2200/ssl/jadore?mp=%2Fstream
+    codec: MP3
+    bitrate: 320
+  - url: https://i6.streams.ovh:2200/ssl/jadore?mp=/stream
+    codec: MP3
+    bitrate: 320

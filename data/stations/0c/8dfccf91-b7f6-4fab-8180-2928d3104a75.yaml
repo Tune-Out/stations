@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8dfccf91-b7f6-4fab-8180-2928d3104a75
-streams:
-  - url: 'http://allzic48.ice.infomaniak.ch/allzic48.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://allzic48.ice.infomaniak.ch/allzic48.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Curated thematic playlists including classical music, across 80s, funk, rock, jazz, dance, chill-out, Disney soundtracks, reggaeton
   notes: Allzic Radio is a French online radio platform emphasizing "une expérience musicale personnalisée et sans contraintes" (personalized, unconstrained music experience). Free access with minimal ads. Mobile apps available.
   sources: http://www.allzicradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-8dfccf91-b7f6-4fab-8180-2928d3104a75
+  - iprd-fr-allzic-classic-violon-0ee96022
+  - iprd-fr-allzic-classic-violon-7be8e8bb
+streams:
+  - url: http://allzic48.ice.infomaniak.ch/allzic48.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://allzic48.ice.infomaniak.ch/allzic48.mp3
+    codec: MP3
+    bitrate: 128

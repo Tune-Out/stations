@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 05:37:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0c8b98ae-6c3b-4822-89d6-6bf3ad1829f1
-streams:
-  - url: 'http://n04.radiojar.com/opa-radio?rj-ttl=5&rj-tok=AAABeKlHl-AAZu5lL1pWJGUkog'
-    codec: MP3
-  - url: 'http://n04.radiojar.com/opa-radio?rj-ttl=5&rj-tok=AAABeL2lZi0AP1rw53sYM5PgdA'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +30,12 @@ research:
   format: Student radio programming
   notes: DMST is a student radio station in Greece; non-commercial broadcaster operated by student body; Greek-language programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0c8b98ae-6c3b-4822-89d6-6bf3ad1829f1
+  - iprd-gr-dmst-a68a8642
+streams:
+  - url: http://n04.radiojar.com/opa-radio?rj-ttl=5&rj-tok=AAABeKlHl-AAZu5lL1pWJGUkog
+    codec: MP3
+  - url: http://n04.radiojar.com/opa-radio?rj-ttl=5&rj-tok=AAABeL2lZi0AP1rw53sYM5PgdA
+    codec: MP3

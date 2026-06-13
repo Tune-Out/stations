@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-4655694e-a599-4105-9298-55d590b30ac7
-streams:
-  - url: 'https://stream4.themediasite.co.uk:8042/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream4.themediasite.co.uk:8042/Server'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: 1990s hits, dance, pop, and club music; "Hits of the 90s" themed programming
   notes: Atlantic 252 is a commercial internet radio station featuring hits from the 1990s era. Operates as a nostalgia channel targeting audiences that grew up in the 90s. Provides dance hits, pop music, and entertainment from that period.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-4655694e-a599-4105-9298-55d590b30ac7
+streams:
+  - url: https://stream4.themediasite.co.uk:8042/
+    codec: MP3
+    bitrate: 192
+  - url: https://stream4.themediasite.co.uk:8042/Server
+    codec: MP3
+    bitrate: 192

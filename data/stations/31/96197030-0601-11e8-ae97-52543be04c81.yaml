@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-96197030-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ice10.securenetsystems.net/SUNRADIO'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice10.securenetsystems.net/SUNRADIO'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -42,3 +32,15 @@ research:
   format: Alternative country, Americana, local Austin programming
   notes: KDRP-LP is a low-power FM (100.1) community radio station in Austin, Texas; non-commercial license; features alternative country and Americana music
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-96197030-0601-11e8-ae97-52543be04c81
+  - iprd-us-kdrp-lp-sun-radio-100-1-3f9e1434
+  - iprd-us-sun-radio-50a9a96a
+streams:
+  - url: http://ice10.securenetsystems.net/SUNRADIO
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice10.securenetsystems.net/SUNRADIO
+    codec: AAC+
+    bitrate: 32

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:51:21
 clickcount: 0
 geo_lat: 51.5422
 geo_long: 12.2608
-curation: 0.90
-provenance:
-  - radiobrowser-15254a78-4335-4a89-aa40-6100146a5965
-streams:
-  - url: 'https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus'
-    codec: OGG
-    bitrate: 64
-  - url: 'https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus?aggregator=web'
-    codec: OGG
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: Youth-oriented public radio; spoken word, information service, knowledge programs, pop music; slogan "It's complicated. With a side of good pop"
   notes: Deutschlandfunk Nova started 2010; exclusively digital broadcast (DAB+, cable, satellite, online); based in Cologne with Deutschlandradio; targets students and young adults with current, culturally relevant programming
   sources: https://www.deutschlandfunk.de/, https://en.wikipedia.org/wiki/Deutschlandfunk_Nova
+curation: 0.9
+provenance:
+  - radiobrowser-15254a78-4335-4a89-aa40-6100146a5965
+streams:
+  - url: https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus
+    codec: OGG
+    bitrate: 64
+  - url: https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus?aggregator=web
+    codec: OGG
+    bitrate: 64

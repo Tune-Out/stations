@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-7e9634a7-e050-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/metalcore/aac-64'
-    codec: AAC
-  - url: 'http://streams.radiobob.de/metalcore/mp3-128'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/metalcore/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Rock-focused with 60+ specialized streaming channels (metal, classic rock, alternative, punk, festival radio).
   notes: Founded as commercial rock radio; tagline "Wenn Rock, dann BOB!" Operates BOBfest, merchandise, and audience-driven festivals like Wacken Radio and Rock am Ring Radio. Community-focused with listener participation in concert reviews and music curation.
   sources: https://www.radiobob.de/
+curation: 0.6
+provenance:
+  - radiobrowser-7e9634a7-e050-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/metalcore/aac-64
+    codec: AAC
+  - url: http://streams.radiobob.de/metalcore/mp3-128
+    codec: MP3
+  - url: http://streams.radiobob.de/metalcore/mp3-192
+    codec: MP3

@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d358e1a9-dded-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-90er-128-mp3'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-90er-64-aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: 1990s music specialization from RPR1 German network
   notes: RPR1.90er is a 1990s music specialization stream of RPR1., the commercial radio station for Rhineland-Palatinate, Germany; part of Audiotainment Südwest GmbH
   sources: http://www.rpr1.de/
+curation: -0.05
+provenance:
+  - radiobrowser-d358e1a9-dded-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.rpr1.de/rpr-90er-128-mp3
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-90er-64-aac
+    codec: AAC

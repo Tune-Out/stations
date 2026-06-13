@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:35:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-c311142f-fde8-4708-80ab-0b778a2e86b8
-streams:
-  - url: 'http://streams.rsa-sachsen.de/80er-italo/mp3-192/streams.rsa-sachsen.de/play.m3u'
-    url_resolved: 'http://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471?sABC=69686r7p%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768451708'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/80er-italo/mp3-128/streams.rsa-sachsen.de/play.pls'
-    url_resolved: 'http://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-128-5550303?sABC=6968275n%230%230r6n2r63589p0102nq2100136q803p71%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768433498'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: 1980s pop and disco hits; italo disco, new wave, synthpop; 80s-focused programming
   notes: German commercial radio station based in Saxony (Sachsen). Specializes in 1980s popular music with strong emphasis on Italo Disco subgenre. Tags include "die größten hits" (the greatest hits) and "vielfalt" (variety), indicating curated 80s music programming. Regional station for eastern Germany.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-c311142f-fde8-4708-80ab-0b778a2e86b8
+streams:
+  - url: http://streams.rsa-sachsen.de/80er-italo/mp3-192/streams.rsa-sachsen.de/play.m3u
+    url_resolved: http://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471?sABC=69686r7p%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768451708
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/80er-italo/mp3-128/streams.rsa-sachsen.de/play.pls
+    url_resolved: http://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-128-5550303?sABC=6968275n%230%230r6n2r63589p0102nq2100136q803p71%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768433498
+    codec: MP3

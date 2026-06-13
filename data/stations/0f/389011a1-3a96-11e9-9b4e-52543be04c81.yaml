@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 04:25:41
 clickcount: 17
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.45
-provenance:
-  - radiobrowser-389011a1-3a96-11e9-9b4e-52543be04c81
-streams:
-  - url: 'https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -43,3 +33,16 @@ research:
   format: 24/7 smooth jazz, easy listening and chillout instrumental music; one of 56+ genre-specific channels under the 0N Radio multichannel platform
   notes: 0N Radio (zero-N Radio, also written "0n Radio") is a German online radio network operating dozens of curated genre-specific streams from Hof, Bavaria; tagline "Your choice, your music!"; the Smooth Jazz channel is one of its most popular streams, featuring artists like Boney James, Dave Koz, Norman Brown, Kenny G and Brian Culbertson; the network's parent "entire media" runs decade-themed (50s-2010s), genre (Pop, Rock, Dance, Classical, K-Pop, etc.) and mood-based (Chillout, Relax, Lounge, Love) channels.
   sources: http://www.0nradio.com/, internal knowledge
+curation: 0.45
+provenance:
+  - radiobrowser-389011a1-3a96-11e9-9b4e-52543be04c81
+  - iprd-de-radio-on-smooth-jazz-d82c7f32
+  - iprd-de-radio-on-smooth-jazz-9bf27021
+  - iprd-de-on-smooth-jazz-063eea8a
+streams:
+  - url: https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,6 +1,6 @@
 stationuuid: 96255d95-0601-11e8-ae97-52543be04c81
 name: KUSD 89.7 "South Dakota Public Broadcasting" Vermillion, SD
-url: http://provisioning.streamtheworld.com/pls/KUSDFM.pls
+url: 'http://14613.live.streamtheworld.com:80/KUSDFM_SC'
 url_resolved: http://27143.live.streamtheworld.com/KUSDFM_SC
 homepage: http://www.sdpb.org/home/
 favicon: http://www.sdpb.org/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:35:30
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-96255d95-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: News, talk, documentaries, educational content from national public broadcasting
   notes: KUSD 89.7 is South Dakota Public Broadcasting's member station in Vermillion. Affiliated with NPR, serving the state with public broadcasting content.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-96255d95-0601-11e8-ae97-52543be04c81

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:00:03
 clickcount: 2
 geo_lat: 52.3053
 geo_long: 9.4508
-curation: 0.50
-provenance:
-  - radiobrowser-03ceb664-cf5a-43eb-ac09-e9898c870397
-streams:
-  - url: 'https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus'
-    codec: OGG
-    bitrate: 64
-  - url: 'https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web'
-    codec: OGG
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: News, information, culture, and world programming
   notes: Deutschlandradio is Germany's publicly-funded national radio broadcaster, established in 1984 from the merger of broadcasters in East and West Germany. Operates Deutschlandfunk (news/culture) and Deutschlandfunk Kultur (cultural programming). Funded by license fees and supported by ARD. Broadcasts in German; serves diverse audience with news, documentaries, and cultural content.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-03ceb664-cf5a-43eb-ac09-e9898c870397
+streams:
+  - url: https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus
+    codec: OGG
+    bitrate: 64
+  - url: https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web
+    codec: OGG
+    bitrate: 64

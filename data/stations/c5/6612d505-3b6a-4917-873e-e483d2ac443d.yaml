@@ -1,7 +1,7 @@
 stationuuid: 6612d505-3b6a-4917-873e-e483d2ac443d
 name: Rádio Mix FM Recife 97.1 FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_RECIFE971AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_RECIFE971AAC.aac
+url: 'https://27423.live.streamtheworld.com:443/MIXFM_RECIFE971AAC.aac'
+url_resolved: 'https://27423.live.streamtheworld.com:443/MIXFM_RECIFE971AAC.aac'
 homepage: https://radiomixfm.com.br/
 favicon: https://radiomixfm.com.br/wp-content/uploads/2017/06/cropped-logo-2023-180x180.jpeg
 tags: []
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6612d505-3b6a-4917-873e-e483d2ac443d
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -32,3 +29,6 @@ research:
   format: Music-focused; Mix Tudo flagship show, Club Mix, Summer Mix Eletrohits, Baú da Mix retrospectives; pop, rock, electronic, Brazilian music
   notes: 97.1 FM frequency (per station name). Targets music news, celebrity interviews, TV/cinema updates. Active on Facebook, Twitter, Instagram, YouTube.
   sources: https://radiomixfm.com.br/
+curation: -0.05
+provenance:
+  - radiobrowser-6612d505-3b6a-4917-873e-e483d2ac443d

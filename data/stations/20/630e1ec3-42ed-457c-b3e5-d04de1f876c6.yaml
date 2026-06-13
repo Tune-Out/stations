@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:44:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-630e1ec3-42ed-457c-b3e5-d04de1f876c6
-streams:
-  - url: 'http://radiogold.live24.gr/radiogoldies'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radiogold.live24.gr/radiogoldies'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Oldies, classic rock, and golden age music programming
   notes: Commercial music-focused station in Athens, Greece; specializes in classic rock and oldies format targeting adults with nostalgic music preferences
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-630e1ec3-42ed-457c-b3e5-d04de1f876c6
+  - iprd-gr-radio-gold-2-de231bac
+streams:
+  - url: http://radiogold.live24.gr/radiogoldies
+    codec: MP3
+    bitrate: 128
+  - url: https://radiogold.live24.gr/radiogoldies
+    codec: MP3
+    bitrate: 128

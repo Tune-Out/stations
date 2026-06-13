@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 03:57:28
 clickcount: 63
 geo_lat: null
 geo_long: null
-curation: 0.15
-provenance:
-  - radiobrowser-960d063e-0601-11e8-ae97-52543be04c81
-duplicate_of: 962c0376-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/'
-    codec: MP3
-  - url: 'https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: 24/7 electronic dance music — trance, techno, house, hands-up, EDM, drum & bass and related sub-genres, with DJ mix shows, festival broadcasts and club-culture news ("HOME OF THE DJs")
   notes: Founded in 1989 as Radio Sunshine in Sinsheim and relaunched as sunshine live in 1998 with an all-electronic format, it was Germany's first nationally distributed DAB+ commercial music station after the relaunch of digital radio in 2011 and is widely regarded as Germany's leading EDM broadcaster; the station has deep ties to the German club/festival scene with annual broadcasts and stages at events such as Mayday, Nature One, Time Warp, Parookaville, Airbeat-One and Zürich's Street Parade, and runs the popular "Sunshine Live Top 25" chart and DJ residencies; revenue is from advertising, sponsorships, events and licensing
   sources: https://www.sunshine-live.de/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-960d063e-0601-11e8-ae97-52543be04c81
+duplicate_of: 962c0376-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
+    codec: MP3
+  - url: https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
+    codec: MP3

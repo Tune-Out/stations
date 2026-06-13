@@ -26,17 +26,6 @@ lastchangetime: 2026-02-28 10:26:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-14e84f95-187a-4f2a-b5c2-70b943a0d1b2
-streams:
-  - url: 'https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8'
-    codec: AAC
-    bitrate: 52
-    hls: true
-  - url: 'https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +35,14 @@ research:
   format: 24/7 electronic, ambient, deep house, jazz, soul programming
   notes: Internet radio station based in Norway providing continuous electronic and ambient music with live DJ programming.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-14e84f95-187a-4f2a-b5c2-70b943a0d1b2
+streams:
+  - url: https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8
+    codec: AAC
+    bitrate: 52
+    hls: true
+  - url: https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3
+    codec: MP3
+    bitrate: 192

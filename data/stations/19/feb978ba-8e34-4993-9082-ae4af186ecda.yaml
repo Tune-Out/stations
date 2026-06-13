@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 08:22:03
 clickcount: 6
 geo_lat: 51.35626066999899
 geo_long: 6.73015594482422
-curation: 0.65
-provenance:
-  - radiobrowser-feb978ba-8e34-4993-9082-ae4af186ecda
-streams:
-  - url: 'https://wdr-wdr2-rheinruhr.icecastssl.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://wdr-wdr2-rheinruhr.icecast.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -44,3 +34,14 @@ research:
   format: Music, news, talk, pop and rock
   notes: WDR 2 Rhein und Ruhr is a public radio station of WDR, part of the German ARD public broadcasting network, serving the Rhineland-Ruhr region with diverse programming including music, news, and cultural content.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-feb978ba-8e34-4993-9082-ae4af186ecda
+  - iprd-de-wdr-2-rhein-und-ruhr-d4d57393
+streams:
+  - url: https://wdr-wdr2-rheinruhr.icecastssl.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://wdr-wdr2-rheinruhr.icecast.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:42:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-f1784c57-aec6-48f6-ba6d-d24f5c7520e1
-streams:
-  - url: 'http://n08.radiojar.com/2fa0gbhr9bhvv'
-    codec: MP3
-  - url: 'https://n0c.radiojar.com/2fa0gbhr9bhvv?rj-ttl=5&rj-tok=AAABh7kj8tYAECMngkiX78DmuA'
-    codec: MP3
-  - url: 'https://stream.radiojar.com/2fa0gbhr9bhvv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Music and cultural programming in Carpatho-Rusyn and Polish languages
   notes: Specialized station serving Lemko and Rusyn diaspora communities; broadcasts in minority languages including Carpatho-Rusyn; preserves endangered Lemko cultural heritage
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-f1784c57-aec6-48f6-ba6d-d24f5c7520e1
+streams:
+  - url: http://n08.radiojar.com/2fa0gbhr9bhvv
+    codec: MP3
+  - url: https://n0c.radiojar.com/2fa0gbhr9bhvv?rj-ttl=5&rj-tok=AAABh7kj8tYAECMngkiX78DmuA
+    codec: MP3
+  - url: https://stream.radiojar.com/2fa0gbhr9bhvv
+    codec: MP3

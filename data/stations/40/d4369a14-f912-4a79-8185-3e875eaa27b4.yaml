@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d4369a14-f912-4a79-8185-3e875eaa27b4
-streams:
-  - url: 'http://stream.radiotev.lv:8002/radiov'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://stream.radiotev.lv:8443/radiov'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Contemporary music with news, interviews, lifestyle features and listener participation games such as the morning "IQ Test"
   notes: Riga-based commercial station within Latvia's largest privately held radio group; broadcasts in Latvian and positions itself with the slogan "We know you hear us. And we listen to you."; has participated in EU-funded digital transformation projects while maintaining editorial independence; complements its terrestrial signal with an online stream at radiotev.lv
   sources: https://www.radiotev.lv/
+curation: -0.05
+provenance:
+  - radiobrowser-d4369a14-f912-4a79-8185-3e875eaa27b4
+  - iprd-lv-radio-tev-185eab1c
+streams:
+  - url: http://stream.radiotev.lv:8002/radiov
+    codec: AAC+
+    bitrate: 128
+  - url: https://stream.radiotev.lv:8443/radiov
+    codec: AAC+
+    bitrate: 128

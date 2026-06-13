@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-e4a7e1e4-263c-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://radio7server.streamr.ru:8040/radio7256.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://radio7server.streamr.ru:8040/radio7256.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +30,14 @@ research:
   format: Adult contemporary — Russian and Western pop/rock hits of the 1980s–2000s with light talk; tagline "Радио для тех, кто думает" ("radio for those who think")
   notes: Founded 7 June 1999 by Steve Edwards and others, "Радио 7 на семи холмах" (Radio 7 on Seven Hills) was an early Western/Russian AC station broadcasting on 104.7 FM Moscow and many regional frequencies; ownership passed through Mediahold (Mostelekom), then Russian Media Group, and as of the early 2020s sits with the Vyberi Radio holding; the seven hills nod refers to Moscow's "Seven Hills" geography paralleling Rome; programming centred on western and Russian adult pop/rock plus the long-running "На семи холмах" morning show; the station has not engaged in opposition political coverage and operates within Russian media-control constraints.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-e4a7e1e4-263c-11e9-a80b-52543be04c81
+  - iprd-ru-radio7-104-7-34d7389f
+  - iprd-ru-radio-7-na-semi-kholmakh-104-7-992eb0fc
+streams:
+  - url: http://radio7server.streamr.ru:8040/radio7256.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://radio7server.streamr.ru:8040/radio7256.mp3
+    codec: MP3

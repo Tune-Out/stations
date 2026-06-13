@@ -21,34 +21,6 @@ lastchangetime: 2026-01-15 06:46:57
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-961e352f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/990801-0_mp3_high.m3u'
-    url_resolved: 'http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/990801-0_aac_high.m3u'
-    url_resolved: 'http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/990801-0_mp3_low.m3u'
-    url_resolved: 'http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/990701-0_aac_high.m3u'
-    url_resolved: 'http://mdr-990701-0.cast.mdr.de/mdr/990701/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/990701-0_mp3_high.m3u'
-    url_resolved: 'http://mdr-990701-0.cast.mdr.de/mdr/990701/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/990701-0_mp3_low.m3u'
-    url_resolved: 'http://mdr-990701-0.cast.mdr.de/mdr/990701/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -58,3 +30,34 @@ research:
   format: Schlager music (German/Austrian popular songs), contemporary pop, traditional folk songs
   notes: MDR Schlagerwelt Sachsen is a specialized channel of MDR (Mitteldeutscher Rundfunk), one of Germany's major public broadcasters serving Central Germany. Part of the ARD network, license-fee funded. Schlager format targets older demographics and traditional music enthusiasts.
   sources: internal knowledge only
+curation: 0.75
+provenance:
+  - radiobrowser-961e352f-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-schlagerwelt-sachsen-ef39eb60
+  - iprd-de-mdr-schlagerwelt-sachsen-cddf42bd
+  - iprd-de-mdr-schlagerwelt-sachsen-37e1c905
+streams:
+  - url: http://avw.mdr.de/streams/990801-0_mp3_high.m3u
+    url_resolved: http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/990801-0_aac_high.m3u
+    url_resolved: http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/990801-0_mp3_low.m3u
+    url_resolved: http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/990701-0_aac_high.m3u
+    url_resolved: http://mdr-990701-0.cast.mdr.de/mdr/990701/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/990701-0_mp3_high.m3u
+    url_resolved: http://mdr-990701-0.cast.mdr.de/mdr/990701/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/990701-0_mp3_low.m3u
+    url_resolved: http://mdr-990701-0.cast.mdr.de/mdr/990701/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

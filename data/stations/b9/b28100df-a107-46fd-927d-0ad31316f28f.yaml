@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 06:46:22
 clickcount: 16
 geo_lat: 28.824050167785987
 geo_long: 77.57046102769698
-curation: 0.30
-provenance:
-  - radiobrowser-b28100df-a107-46fd-927d-0ad31316f28f
-streams:
-  - url: 'http://162.241.114.203:7000/listen.pls?sid=1'
-    url_resolved: 'http://162.241.114.203:7000/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://162.241.114.203:7000/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -43,3 +32,14 @@ research:
   format: Curated Hindi/Bollywood music spanning current hits, 1990s/2000s classics and chart selections, branded as "Only the Best Hindi Music"
   notes: Indifun Radio is an India-based independent internet radio service founded in 2009 (per the site footer "© 2009-2026 Indifun Network"); it streams Hindi-language Bollywood film music and supports listener engagement features such as song requests, dedications, and a recently-played feed; it operates from India ("Made with ♥ in India" per the site), is monetised through advertising and audio insertions and has no known terrestrial FM presence or media-group parent.
   sources: https://www.indifun.net/, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-b28100df-a107-46fd-927d-0ad31316f28f
+streams:
+  - url: http://162.241.114.203:7000/listen.pls?sid=1
+    url_resolved: http://162.241.114.203:7000/;
+    codec: MP3
+    bitrate: 128
+  - url: http://162.241.114.203:7000/;
+    codec: MP3
+    bitrate: 128

@@ -22,21 +22,6 @@ lastchangetime: 2026-01-15 02:44:43
 clickcount: 39
 geo_lat: 50.10366919906325
 geo_long: 8.646240234375002
-curation: 0.70
-provenance:
-  - radiobrowser-600c73d1-2ea5-45ee-b3c1-c108674343e6
-streams:
-  - url: 'https://hlshr1.akamaized.net/hls/live/2016533/hr1/master.m3u8'
-    codec: AAC+
-    bitrate: 96
-    hls: true
-  - url: 'http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u'
-    url_resolved: 'http://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://dispatcher.rndfnk.com/hr/hr1/live/mp3/high'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +31,21 @@ research:
   format: pop music, contemporary hits, entertainment, news, talk programming
   notes: HR1 is a channel of Hessischer Rundfunk (HR), a regional public broadcaster in Hesse; part of German public broadcasting system (ARD); established public radio with strong Hesse regional focus; German-language; serves Hesse/Frankfurt metropolitan area
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-600c73d1-2ea5-45ee-b3c1-c108674343e6
+  - iprd-de-hr-1-83f87de5
+  - iprd-de-hr-1-360d271f
+  - iprd-de-hr-1-e2e2749d
+streams:
+  - url: https://hlshr1.akamaized.net/hls/live/2016533/hr1/master.m3u8
+    codec: AAC+
+    bitrate: 96
+    hls: true
+  - url: http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u
+    url_resolved: http://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://dispatcher.rndfnk.com/hr/hr1/live/mp3/high
+    codec: MP3
+    bitrate: 128

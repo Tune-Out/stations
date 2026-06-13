@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 05:01:43
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b549f86e-4bb5-4856-9787-9d9aabb6473e
-streams:
-  - url: 'https://lhttp.qingting.fm/live/4941/64k.mp3?'
-    codec: MP3
-  - url: 'https://lhttp.qingting.fm/live/4941/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +32,13 @@ research:
   format: Education, entertainment, traffic, lounge music, Mandarin/regional dialect
   notes: Ganzhou Rural Science Education Radio (赣州农村科教广播). Public regional broadcaster serving Ganzhou, Jiangxi province in southeastern China. Educational and entertainment programming for rural audiences. Part of state broadcasting system. Traffic and utility information alongside music and entertainment.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b549f86e-4bb5-4856-9787-9d9aabb6473e
+  - iprd-cn-ganzhou-traffic-broadcasting-99-2-f39cc608
+  - iprd-cn-ganzhou-rural-science-and-education-broadcasting-99-2-4734fd1a
+streams:
+  - url: https://lhttp.qingting.fm/live/4941/64k.mp3?
+    codec: MP3
+  - url: https://lhttp.qingting.fm/live/4941/64k.mp3
+    codec: MP3

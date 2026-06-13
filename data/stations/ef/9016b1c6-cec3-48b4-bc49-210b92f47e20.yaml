@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9016b1c6-cec3-48b4-bc49-210b92f47e20
-streams:
-  - url: 'https://sp3.streams.ovh/cp/links.php?p=8014&m=pls'
-    codec: UNKNOWN
-  - url: 'https://sp3.streams.ovh/cp/links.php?p=8062&m=pls'
-    codec: UNKNOWN
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -36,3 +28,11 @@ research:
   format: Classic hits, throwback/retro music, "Great Memories"
   notes: 'Island Radio 88.6 FM in Zakynthos. Tagline: "Classic hits and Great Memories." Part of multi-station network (Stigma 97.6, Bravo 88.6, Prisma 90.2). Address: 13 Mousourgou Kapsaski, Zakynthos.'
   sources: https://gozakynthos.gr/radio/live-island.html
+curation: 0.35
+provenance:
+  - radiobrowser-9016b1c6-cec3-48b4-bc49-210b92f47e20
+streams:
+  - url: https://sp3.streams.ovh/cp/links.php?p=8014&m=pls
+    codec: UNKNOWN
+  - url: https://sp3.streams.ovh/cp/links.php?p=8062&m=pls
+    codec: UNKNOWN

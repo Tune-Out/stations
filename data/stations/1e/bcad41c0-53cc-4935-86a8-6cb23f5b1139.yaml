@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bcad41c0-53cc-4935-86a8-6cb23f5b1139
-streams:
-  - url: 'http://streamtdy.ir-media-tec.com/teddyclassics/mp3-128/web/play.mp3'
-    codec: MP3
-  - url: 'https://streamtdy.ir-media-tec.com/teddyclassics/mp3-128/web/play.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Children's programming, classic songs, educational content
   notes: Radio Teddy is a major German children's radio station. Originally independent, now part of RBB public broadcasting network. Offers classics and kid-friendly programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bcad41c0-53cc-4935-86a8-6cb23f5b1139
+streams:
+  - url: http://streamtdy.ir-media-tec.com/teddyclassics/mp3-128/web/play.mp3
+    codec: MP3
+  - url: https://streamtdy.ir-media-tec.com/teddyclassics/mp3-128/web/play.mp3
+    codec: MP3

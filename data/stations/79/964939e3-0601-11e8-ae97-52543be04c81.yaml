@@ -1,6 +1,6 @@
 stationuuid: 964939e3-0601-11e8-ae97-52543be04c81
 name: HRT HR 1 - Prvi program
-url: http://provisioning.streamtheworld.com/pls/PROGRAM1.pls
+url: 'http://25643.live.streamtheworld.com:80/PROGRAM1_SC'
 url_resolved: http://27743.live.streamtheworld.com/PROGRAM1_SC
 homepage: http://radio.hrt.hr/stream/6/
 favicon: https://radio.hrt.hr/hrt-180x180.png
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 05:45:24
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-964939e3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -33,3 +30,6 @@ research:
   format: News, current affairs, culture, mix of information and music programming
   notes: HRT HR 1 (First Program) is the flagship national radio channel of HRT, the public broadcaster of Croatia, established in its current form post-1991 independence.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-964939e3-0601-11e8-ae97-52543be04c81

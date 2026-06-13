@@ -1,6 +1,6 @@
 stationuuid: 96214f8e-0601-11e8-ae97-52543be04c81
 name: CKKX 106.1 "KIX 106" Peace River, AB
-url: http://provisioning.streamtheworld.com/pls/CKKXFMAAC.pls
+url: 'http://18093.live.streamtheworld.com:80/CKKXFMAAC_SC'
 url_resolved: http://17653.live.streamtheworld.com/CKKXFMAAC_SC
 homepage: http://www.kix106.net/
 favicon: https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2669/2025/05/21111814/kix-favicon-300x300.png
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 03:16:53
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96214f8e-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,7 @@ research:
   format: Contemporary hits commercial radio
   notes: Commercial radio station broadcasting 106.1 FM in Peace River, Alberta. Contemporary hits format targeting mainstream audience with current popular music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96214f8e-0601-11e8-ae97-52543be04c81
+  - iprd-ca-ckkx-106-1-kix-106-c7ef8ca1

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:53:33
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962418d1-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://netradio.live24.gr/athinaradio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://netradio.live24.gr/athinaradio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: news-talk — political commentary, current affairs, interviews with politicians and journalists, plus some entertainment and sports segments
   notes: Parapolitika 90.1 FM is the radio arm of the Parapolitika media brand founded by publisher Yannis Kourtakis; "Parapolitika" (Παραπολιτικά) translates roughly as "side-politics" or "political sidelines", reflecting its focus on political analysis and behind-the-scenes commentary; the group also runs the news website parapolitika.gr and the weekly newspaper; the station broadcasts on 90.1 MHz in Athens with a press-release-heavy, talk-driven format.
   sources: http://www.parapolitikaradio.gr/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-962418d1-0601-11e8-ae97-52543be04c81
+  - iprd-gr-parapolitika-90-1-7e106a70
+  - iprd-gr-parapolitika-90-1-2f7a7c91
+streams:
+  - url: http://netradio.live24.gr/athinaradio
+    codec: MP3
+    bitrate: 128
+  - url: https://netradio.live24.gr/athinaradio
+    codec: MP3
+    bitrate: 128

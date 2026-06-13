@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:36:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7b72f914-5280-42fe-8c3d-0219d70bad02
-streams:
-  - url: 'http://metro903.live24.gr/metro903'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://netradio.live24.gr/agia'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Pop and contemporary music; Greek language programming; 128kbps MP3 stream
   notes: Local commercial radio serving Lamia city in Thessaly region, central Greece; focuses on pop music and contemporary hits; typical Greek provincial radio station model with local news, music, and entertainment mix
   sources: internal knowledge of Greek regional radio broadcasting
+curation: -0.05
+provenance:
+  - radiobrowser-7b72f914-5280-42fe-8c3d-0219d70bad02
+  - iprd-gr-metro-90-3-db629e1a
+  - iprd-gr-metro-90-3-715d62eb
+streams:
+  - url: http://metro903.live24.gr/metro903
+    codec: MP3
+    bitrate: 128
+  - url: http://netradio.live24.gr/agia
+    codec: MP3
+    bitrate: 128

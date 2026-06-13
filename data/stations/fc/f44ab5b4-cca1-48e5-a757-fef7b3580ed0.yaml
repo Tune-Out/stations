@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 23:52:39
 clickcount: 2
 geo_lat: 45.53405545455976
 geo_long: 4.746093750000001
-curation: -0.05
-provenance:
-  - radiobrowser-f44ab5b4-cca1-48e5-a757-fef7b3580ed0
-streams:
-  - url: 'https://stream.maxifrance.radio/stream2'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://stream.maxifrance.fr:8358/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://sr3.publicssl.net/srv/8358/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +30,17 @@ research:
   format: French songs, chansons françaises, French pop and classic French music.
   notes: French commercial internet radio dedicated to traditional and contemporary French chansons; operates multiple themed streams; focus on French cultural music traditions.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f44ab5b4-cca1-48e5-a757-fef7b3580ed0
+  - iprd-fr-maxi-france-87d200ae
+streams:
+  - url: https://stream.maxifrance.radio/stream2
+    codec: AAC+
+    bitrate: 48
+  - url: http://stream.maxifrance.fr:8358/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://sr3.publicssl.net/srv/8358/stream
+    codec: MP3
+    bitrate: 128

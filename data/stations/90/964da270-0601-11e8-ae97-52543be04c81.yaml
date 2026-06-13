@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:14:02
 clickcount: 17
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-964da270-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://listen.rusongs.ru/ru-mp3-128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://listen.rusongs.ru/ru-mp3-128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 24/7 stream of Russian-language popular music ("русские песни") — Soviet estrada, classic Russian pop, romances and contemporary Russian pop hits; non-stop, largely DJ-less programming
   notes: Radio Russkie Pesni ("Russian Songs Radio") is a long-running internet-only Russian-language music station accessible at rusongs.ru, part of a wider family of niche genre-focused Russian webradios; programming centres on the Russian-language popular song tradition rather than Western or rap content; no notable government, religious or political affiliation identified, and the operator is not publicly disclosed; popular among the Russian-speaking diaspora worldwide as reflected by the very high vote count on community directories.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-964da270-0601-11e8-ae97-52543be04c81
+  - iprd-ru-radio-russkiye-pesni-798a4eda
+streams:
+  - url: http://listen.rusongs.ru/ru-mp3-128
+    codec: MP3
+    bitrate: 128
+  - url: https://listen.rusongs.ru/ru-mp3-128
+    codec: MP3
+    bitrate: 128

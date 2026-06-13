@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 0
 geo_lat: 35.1059786410736
 geo_long: -106.62506103515626
-curation: 0.25
-provenance:
-  - radiobrowser-470ef937-c1e0-4f6c-85b9-8744439a561f
-streams:
-  - url: 'https://ice42.securenetsystems.net/KOAZAM'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ice42.securenetsystems.net/KOAZAM?playSessionID=EE67F132-DB59-0E2B-D5F260EC5335C908'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Smooth jazz; sophisticated adult contemporary music programming
   notes: Broadcasts on 103.7 FM, 95.9 FM, and 1510 AM; branded as "The Oasis" suggesting escape/refuge positioning; located at 1213 San Pedro N.E., Albuquerque
   sources: https://mytuner-radio.com/radio/koaz-the-oasis-1037-fm-430748/
+curation: 0.25
+provenance:
+  - radiobrowser-470ef937-c1e0-4f6c-85b9-8744439a561f
+  - iprd-us-koaz-103-7-the-oasis-2b33de95
+streams:
+  - url: https://ice42.securenetsystems.net/KOAZAM
+    codec: MP3
+    bitrate: 128
+  - url: https://ice42.securenetsystems.net/KOAZAM?playSessionID=EE67F132-DB59-0E2B-D5F260EC5335C908
+    codec: MP3
+    bitrate: 128

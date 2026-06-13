@@ -1,7 +1,7 @@
 stationuuid: 961de024-0601-11e8-ae97-52543be04c81
 name: Sky Radio 80's Hits
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
+url: 'http://29093.live.streamtheworld.com:80/SRGSTR04.mp3'
+url_resolved: 'http://29093.live.streamtheworld.com:80/SRGSTR04.mp3'
 homepage: http://www.skyradio.nl/player/sky-radio-80s
 favicon: http://www.skyradio.nl/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:38:06
 clickcount: 22
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961de024-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: 1980s hits, pop, rock, music-focused
   notes: Commercial FM station in The Netherlands; part of Sky Radio brand; specializes in 80s nostalgia programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961de024-0601-11e8-ae97-52543be04c81

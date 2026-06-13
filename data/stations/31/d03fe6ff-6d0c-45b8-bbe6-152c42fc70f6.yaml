@@ -21,25 +21,6 @@ lastchangetime: 2026-02-20 13:54:37
 clickcount: 0
 geo_lat: 44.43549665839368
 geo_long: 26.102499287568193
-curation: -0.05
-provenance:
-  - radiobrowser-d03fe6ff-6d0c-45b8-bbe6-152c42fc70f6
-streams:
-  - url: 'https://dance.radiotequila.ro/7000/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://petrecere.radiotequila.ro/7000/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://asculta.radiotequila.ro:7000/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://necenzurat.radiotequila.ro:7000/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.radiotequila.ro/tmp_hls/stream/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -49,3 +30,22 @@ research:
   format: Dance music, electronic dance music (EDM)
   notes: Dance-focused stream; 128 kbps MP3; part of Tequila radio network in Romania.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d03fe6ff-6d0c-45b8-bbe6-152c42fc70f6
+streams:
+  - url: https://dance.radiotequila.ro/7000/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://petrecere.radiotequila.ro/7000/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://asculta.radiotequila.ro:7000/
+    codec: MP3
+    bitrate: 128
+  - url: http://necenzurat.radiotequila.ro:7000/;
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.radiotequila.ro/tmp_hls/stream/index.m3u8
+    codec: UNKNOWN
+    hls: true

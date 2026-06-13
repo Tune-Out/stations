@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:22:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962b1507-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://sr1.inmystream.info:9075/;stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://sr6.inmystream.it:9075/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Pop music, contemporary hits, entertainment
   notes: Local radio station in Nuoro, Sardinia broadcasting pop music format. Part of Sardinian regional radio landscape. Programs contemporary hits and popular music for Italian-speaking Sardinian audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962b1507-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-barbagia-74b479ba
+streams:
+  - url: http://sr1.inmystream.info:9075/;stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://sr6.inmystream.it:9075/stream.mp3
+    codec: MP3
+    bitrate: 128

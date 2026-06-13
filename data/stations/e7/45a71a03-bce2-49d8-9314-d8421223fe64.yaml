@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 03:59:30
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-45a71a03-bce2-49d8-9314-d8421223fe64
-streams:
-  - url: 'https://streams.95bfm.com/stream112'
-    codec: OGG
-    bitrate: 64
-  - url: 'https://streams.95bfm.com/stream128'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://streams.95bfm.com/stream95'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -44,3 +31,16 @@ research:
   format: Alternative, indie, university radio — eclectic music programming, student DJ shows, cultural commentary
   notes: 95bFM is iconic New Zealand student radio station run by University of Auckland. Founded 1972. Known for alternative and indie music support, independent journalism, and student-community partnerships. Part of Aotearoa/New Zealand radio tradition of supporting emerging artists and counter-cultural voices.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-45a71a03-bce2-49d8-9314-d8421223fe64
+streams:
+  - url: https://streams.95bfm.com/stream112
+    codec: OGG
+    bitrate: 64
+  - url: https://streams.95bfm.com/stream128
+    codec: AAC+
+    bitrate: 64
+  - url: https://streams.95bfm.com/stream95
+    codec: MP3
+    bitrate: 256

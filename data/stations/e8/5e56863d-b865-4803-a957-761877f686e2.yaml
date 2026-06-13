@@ -1,7 +1,7 @@
 stationuuid: 5e56863d-b865-4803-a957-761877f686e2
 name: Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
+url: 'https://27343.live.streamtheworld.com:443/DISNEY_ARG_BAAAC.aac'
+url_resolved: 'https://27343.live.streamtheworld.com:443/DISNEY_ARG_BAAAC.aac'
 homepage: https://ar.radiodisney.com/
 favicon: https://ar.radiodisney.com/favicon.ico
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 03:23:20
 clickcount: 4
 geo_lat: -34.60586824100842
 geo_long: -58.43782424926758
-curation: -0.10
-provenance:
-  - radiobrowser-5e56863d-b865-4803-a957-761877f686e2
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Pop hits, contemporary music, entertainment programming; top 40/top 100 charts; Spanish and English songs
   notes: Commercial radio station operated by Disney at 94.3 FM in Buenos Aires (LRL301); targets youth and family audiences with pop music and entertainment; part of Disney's Latin American radio network; features hosts and music programming targeted at young listeners
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-5e56863d-b865-4803-a957-761877f686e2

@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 01:53:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960f80a2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://31.192.216.7/PIOSENKALITERACKA'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.rmfon.pl/n/piosenkaliteracka.pls'
-    url_resolved: 'https://rs202-krk-cyfronet.rmfstream.pl/rmf_piosenka_literacka'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,15 @@ research:
   format: '"Piosenka Literacka" (Literary Song) — Polish poetry-based songs, cabaret, literary music; cultural programming.'
   notes: RMF is a major Polish commercial radio group. "Piosenka literacka" is a distinct Polish music genre combining poetry, cabaret traditions, and artistic expression. Channel caters to culturally-minded Polish audiences interested in literary music and artistic expression.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960f80a2-0601-11e8-ae97-52543be04c81
+  - iprd-pl-rmf-piosenka-literacka-d2ac639f
+streams:
+  - url: http://31.192.216.7/PIOSENKALITERACKA
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.rmfon.pl/n/piosenkaliteracka.pls
+    url_resolved: https://rs202-krk-cyfronet.rmfstream.pl/rmf_piosenka_literacka
+    codec: MP3
+    bitrate: 128

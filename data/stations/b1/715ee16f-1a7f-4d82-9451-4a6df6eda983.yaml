@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 07:42:26
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-715ee16f-1a7f-4d82-9451-4a6df6eda983
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/rapclassics96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/rapclassics96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Electronic and dance music with 100+ specialized channels including house, trance, techno, drum and bass, EDM, rap, and rap classics
   notes: Founded 1997. Multi-platform broadcaster operating FM radio and digital channels. Operates from Saint-Petersburg and Moscow. Features curated channels, DJ sets, podcasts, and event programming. Available on mobile apps, YouTube, Telegram, VK, OK.ru.
   sources: http://radiorecord.ru/
+curation: 0.3
+provenance:
+  - radiobrowser-715ee16f-1a7f-4d82-9451-4a6df6eda983
+  - iprd-ru-radio-rekord-rap-classics-71266fd4
+streams:
+  - url: http://radiorecord.hostingradio.ru/rapclassics96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/rapclassics96.aacp
+    codec: AAC

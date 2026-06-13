@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:54:13
 clickcount: 19
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-b809226c-eb82-11e9-a96c-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/fipelectro-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://icecast.radiofrance.fr/fipelectro-hifi.aac?id=radiofrance'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: 24/7 themed webradio dedicated to electronic music — house, techno, ambient, downtempo, IDM and electronica — curated from FIP's eclectic catalogue
   notes: FIP (originally "France Inter Paris") was launched in 1971 as a hyper-curated, minimal-talk music station distinguished by its female announcers ("les fipettes") and famously eclectic programming spanning jazz, world, rock, classical and electronic; the dedicated FIP Electro webradio is one of seven themed FIP web channels (alongside FIP Jazz, FIP Rock, FIP Groove, FIP Pop, FIP Reggae, FIP Monde) reflecting the parent's genre breadth; Radio France's mission charter mandates editorial independence from government, though as a state-funded broadcaster its budget is regularly debated in parliament.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-b809226c-eb82-11e9-a96c-52543be04c81
+streams:
+  - url: http://icecast.radiofrance.fr/fipelectro-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://icecast.radiofrance.fr/fipelectro-hifi.aac?id=radiofrance
+    codec: AAC
+    bitrate: 192

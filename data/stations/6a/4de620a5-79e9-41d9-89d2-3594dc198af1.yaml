@@ -23,20 +23,6 @@ lastchangetime: 2026-01-15 03:39:23
 clickcount: 14
 geo_lat: 48.40663095508902
 geo_long: 9.994554519653322
-curation: -0.05
-provenance:
-  - radiobrowser-4de620a5-79e9-41d9-89d2-3594dc198af1
-streams:
-  - url: 'https://streams.radio7.de/dab/mp3-192/web/'
-    codec: MP3
-  - url: 'https://streams.radio7.de/ulm/mp3-192/web/play.m3u'
-    url_resolved: 'https://radio7.streamabc.net/87-radio7ulm-mp3-192-2930798?sABC=69686p23%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1768451107'
-    codec: MP3
-  - url: 'https://radio7.streamabc.net/87-90erboygroups-mp3-192-6990922'
-    codec: MP3
-  - url: 'https://streams.radio7.de/vatertag/mp3-192/web/play.m3u'
-    url_resolved: 'https://radio7.streamabc.net/87-vatertaghits-mp3-192-4679373?sABC=6968272o%230%231s5051322oq531qp54q11qo03853s767%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1768433451'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +32,19 @@ research:
   format: Adult contemporary pop/rock hit radio with regional and national news, weather, traffic and lifestyle programming for the southern Baden-Württemberg area
   notes: Launched in 1988 as one of Baden-Württemberg's first private commercial stations after broadcasting liberalisation; serves the broad regional market of Ulm and the Bodensee (Lake Constance) area on FM frequencies (101.7 MHz in Ulm and others) and via DAB+. Shareholders historically have included regional newspaper publishers from the area (including Schwäbische Verlag and Südwest Presse), making it a typical regional commercial AC station. Programming centres on chart and rock hits ("Die besten Hits" branding) plus regional news bulletins.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4de620a5-79e9-41d9-89d2-3594dc198af1
+  - iprd-de-radio-7-b8b72cea
+  - iprd-de-radio-7-276f3dad
+streams:
+  - url: https://streams.radio7.de/dab/mp3-192/web/
+    codec: MP3
+  - url: https://streams.radio7.de/ulm/mp3-192/web/play.m3u
+    url_resolved: https://radio7.streamabc.net/87-radio7ulm-mp3-192-2930798?sABC=69686p23%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1768451107
+    codec: MP3
+  - url: https://radio7.streamabc.net/87-90erboygroups-mp3-192-6990922
+    codec: MP3
+  - url: https://streams.radio7.de/vatertag/mp3-192/web/play.m3u
+    url_resolved: https://radio7.streamabc.net/87-vatertaghits-mp3-192-4679373?sABC=6968272o%230%231s5051322oq531qp54q11qo03853s767%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1768433451
+    codec: MP3

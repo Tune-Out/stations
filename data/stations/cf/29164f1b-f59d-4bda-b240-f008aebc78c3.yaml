@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 23:32:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-29164f1b-f59d-4bda-b240-f008aebc78c3
-streams:
-  - url: 'https://ice6.securenetsystems.net/WKIT'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://ice6.securenetsystems.net/WKIT.m3u'
-    url_resolved: 'http://ice6.securenetsystems.net/WKIT'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,16 @@ research:
   format: Rock music; FM commercial radio programming
   notes: WKIT 100.3 FM operates in Maine as a commercial rock radio station. Community-based independent broadcaster in the northeastern United States. Rock format targeting adult listeners. Operates through secure streaming infrastructure. Part of Maine's local commercial radio landscape.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-29164f1b-f59d-4bda-b240-f008aebc78c3
+  - iprd-us-wkit-100-3-f95dda90
+  - iprd-us-wkit-100-3-612a38a2
+streams:
+  - url: https://ice6.securenetsystems.net/WKIT
+    codec: AAC+
+    bitrate: 64
+  - url: http://ice6.securenetsystems.net/WKIT.m3u
+    url_resolved: http://ice6.securenetsystems.net/WKIT
+    codec: AAC+
+    bitrate: 64

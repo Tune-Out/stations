@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:54:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6eaa7406-b843-41b3-a793-56cdd69f3294
-streams:
-  - url: 'http://streaming.rimfm.org/rimfmlive.mp3'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://streaming.rimfm.org/rimfmlive.mp3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Community radio, various music and local programming
   notes: Non-commercial community radio serving Boonah region in Queensland at 100.1 FM. Community-driven with diverse programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6eaa7406-b843-41b3-a793-56cdd69f3294
+  - iprd-au-rim-100-1-fm-c48061c7
+streams:
+  - url: http://streaming.rimfm.org/rimfmlive.mp3
+    codec: MP3
+    bitrate: 64
+  - url: https://streaming.rimfm.org/rimfmlive.mp3
+    codec: MP3
+    bitrate: 64

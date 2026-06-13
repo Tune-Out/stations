@@ -20,18 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 28.723629275173927
 geo_long: 33.04687500000001
-curation: 0.35
-provenance:
-  - radiobrowser-9513a5a0-481a-4250-b136-ef97b0fa01d4
-streams:
-  - url: 'http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8'
-    codec: AAC
-    bitrate: 150
-    hls: true
-  - url: 'https://live.accessmedia.nz/plains.stream/playlist.m3u8'
-    codec: MP3
-    bitrate: 134
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +29,16 @@ research:
   format: Community radio
   notes: Community FM station at 96.9 MHz in New Zealand. Broadcasts via AAC stream.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9513a5a0-481a-4250-b136-ef97b0fa01d4
+  - iprd-nz-plains-96-9-015996ef
+streams:
+  - url: http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8
+    codec: AAC
+    bitrate: 150
+    hls: true
+  - url: https://live.accessmedia.nz/plains.stream/playlist.m3u8
+    codec: MP3
+    bitrate: 134
+    hls: true

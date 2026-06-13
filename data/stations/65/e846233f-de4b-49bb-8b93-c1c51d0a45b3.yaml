@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-e846233f-de4b-49bb-8b93-c1c51d0a45b3
-streams:
-  - url: 'https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://octaverecords.out.airtime.pro/octaverecords_a'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Music programming; curated audiophile-quality classical and jazz recordings
   notes: Octave Radio is operated by PS Audio, a high-end audio equipment manufacturer. The station streams recordings from Octave Records, PS Audio's label, focusing on audiophile-quality music recordings. Serves the high-fidelity music enthusiast community.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-e846233f-de4b-49bb-8b93-c1c51d0a45b3
+streams:
+  - url: https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712
+    codec: MP3
+    bitrate: 192
+  - url: https://octaverecords.out.airtime.pro/octaverecords_a
+    codec: MP3
+    bitrate: 192

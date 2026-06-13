@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7d2f26fd-5c3b-4fbf-9219-e71b7246f0ca
-streams:
-  - url: 'http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -41,3 +31,14 @@ research:
   format: News, current affairs, state broadcaster
   notes: Regional feed of Vesti FM, part of Russian state broadcaster VGTRK; serves Kemerovo Oblast in Siberia
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7d2f26fd-5c3b-4fbf-9219-e71b7246f0ca
+  - iprd-ru-vesti-fm-uzbass-43830966
+streams:
+  - url: http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
+    codec: AAC+
+    bitrate: 64
+  - url: https://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
+    codec: AAC+
+    bitrate: 64

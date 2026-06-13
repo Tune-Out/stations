@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:18:25
 clickcount: 0
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.60
-provenance:
-  - radiobrowser-62bed4a2-bf9f-11e9-8502-52543be04c81
-streams:
-  - url: 'https://0n-deutschrap.radionetz.de/0n-deutschrap.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: German rap, hip-hop, and urban music
   notes: '"- 0 N - Deutsch Rap on Radio" is a specialized German hip-hop radio station focusing on German-language rap and urban music. Based in Bavaria, targeting the German rap and hip-hop community.'
   sources: http://www.0nradio.com/, internal knowledge
+curation: 0.6
+provenance:
+  - radiobrowser-62bed4a2-bf9f-11e9-8502-52543be04c81
+  - iprd-de-on-radio-deutsch-rap-3e9c17ec
+  - iprd-de-on-radio-deutsch-rap-f8525a74
+streams:
+  - url: https://0n-deutschrap.radionetz.de/0n-deutschrap.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 0ba012dc-2528-448c-8528-e1971e0a7bc7
 name: KWAVE 107.9
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC.aac
+url: 'https://17843.live.streamtheworld.com:443/KWAVEFMAAC.aac'
+url_resolved: 'https://17843.live.streamtheworld.com:443/KWAVEFMAAC.aac'
 homepage: https://www.kwve.com/
 favicon: https://kwave.com/wp-content/uploads/2023/02/cropped-kwve-favicon-white-lrg-180x180.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:28:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0ba012dc-2528-448c-8528-e1971e0a7bc7
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Religious teaching, Christian music, inspirational content
   notes: Commercial religious station broadcasting Christian programming. Licensed FM radio in San Clemente, Southern California. Faith-based format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0ba012dc-2528-448c-8528-e1971e0a7bc7
+  - iprd-us-kwave-107-9-ed37ee47

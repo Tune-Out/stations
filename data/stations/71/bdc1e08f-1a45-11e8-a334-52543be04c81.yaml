@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 08:44:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-bdc1e08f-1a45-11e8-a334-52543be04c81
-duplicate_of: bab49f31-13b2-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.omroep.nl/3fm-bb-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://icecast.omroep.nl/3fm-bb-aac'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +30,14 @@ research:
   format: Contemporary and alternative music radio serving younger demographic with indie, pop, and alternative rock.
   notes: 3FM is NPO's station targeting younger audiences in Netherlands. Part of Dutch public broadcasting system (Nederlandse Publieke Omroep). Icecast streaming available.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-bdc1e08f-1a45-11e8-a334-52543be04c81
+duplicate_of: bab49f31-13b2-11e8-ae97-52543be04c81
+streams:
+  - url: http://icecast.omroep.nl/3fm-bb-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://icecast.omroep.nl/3fm-bb-aac
+    codec: AAC
+    bitrate: 64

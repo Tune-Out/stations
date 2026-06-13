@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-a3dde78a-e48e-437a-a6be-84ad689c8f1e
-streams:
-  - url: 'http://79.111.119.111:8000/electro'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.119.111:8004/electro'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.111.119.111:8002/electro'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +30,19 @@ research:
   format: Electro, electro funk, and electronic music; warm analog synths, electronic drums, 80s influences.
   notes: Part of Radio Caprice network (Moscow, Russia); multiple channels focused on electronic music subgenres (retro electro, dark electro, electro house, electroclash). Features instrumental music with atmospheric sound palette reminiscent of 80s pop and film soundtracks. Part of broader electronic music radio ecosystem.
   sources: internal knowledge, streaming aggregators
+curation: 0.4
+provenance:
+  - radiobrowser-a3dde78a-e48e-437a-a6be-84ad689c8f1e
+  - iprd-ru-radio-caprice-electro-electro-funk-f79c1ca9
+  - iprd-ru-radio-caprice-electro-electro-funk-58ec89e8
+  - iprd-ru-radio-caprice-electro-electro-funk-c176fc6f
+streams:
+  - url: http://79.111.119.111:8000/electro
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.119.111:8004/electro
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.111.119.111:8002/electro
+    codec: AAC+
+    bitrate: 48

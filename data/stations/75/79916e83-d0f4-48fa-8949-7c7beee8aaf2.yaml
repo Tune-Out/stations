@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-79916e83-d0f4-48fa-8949-7c7beee8aaf2
-streams:
-  - url: 'https://stream.tbmp.nl:8000/haarlemshuffle.flac'
-    codec: OGG
-  - url: 'https://stream.tbmp.nl:8000/haarlemshufflelow.aac'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -37,3 +28,12 @@ research:
   format: Shuffle/eclectic mix music programming
   notes: Community-based Dutch radio station serving Haarlem; streams in FLAC lossless format; independently operated local station.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-79916e83-d0f4-48fa-8949-7c7beee8aaf2
+streams:
+  - url: https://stream.tbmp.nl:8000/haarlemshuffle.flac
+    codec: OGG
+  - url: https://stream.tbmp.nl:8000/haarlemshufflelow.aac
+    codec: AAC
+    bitrate: 64

@@ -1,7 +1,7 @@
 stationuuid: 6195a111-cf5a-41e6-a2f2-ffc6c7ff5146
 name: 96FM - Perth - 96.1 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FMAAC.aac
+url: 'http://23203.live.streamtheworld.com:80/ARN_96FMAAC.aac'
+url_resolved: 'http://23203.live.streamtheworld.com:80/ARN_96FMAAC.aac'
 homepage: https://www.96fm.com.au/
 favicon: https://i.iheart.com/v3/re/new_assets/604ac622c7c4d49969798402
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:46:56
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-6195a111-cf5a-41e6-a2f2-ffc6c7ff5146
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Active rock, mainstream rock, pop rock format; previously "Perth's Real Music," rebranded as "Gold 96FM" in January 2026
   notes: Launched August 8, 1980 as Perth's first commercial FM station on 96.1 MHz. Owned by Fairfax/Village Roadshow/Hoyts until acquired by ARN for $78m in January 2015. Underwent music repositioning in 2026 toward pop/modern rock. Available on DAB+ Digital Radio.
   sources: https://en.wikipedia.org/wiki/96FM_(Perth_radio_station)
+curation: 0.3
+provenance:
+  - radiobrowser-6195a111-cf5a-41e6-a2f2-ffc6c7ff5146

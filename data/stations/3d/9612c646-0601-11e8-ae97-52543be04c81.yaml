@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 00:18:06
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-9612c646-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radio.rockserwis.fm/live.aac'
-    url_resolved: 'http://stream9.nadaje.com:8002/live.aac'
-    codec: AAC+
-  - url: 'http://radio.rockserwis.fm/live'
-    url_resolved: 'http://stream9.nadaje.com:8002/live'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Classic rock, progressive rock, psychedelic rock, avant-garde rock
   notes: Polish rock music radio station based in Małopolska (Lesser Poland region). Specializes in rock programming including progressive rock, psychedelic, avant-garde, and classic rock formats.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-9612c646-0601-11e8-ae97-52543be04c81
+  - iprd-pl-rockserwis-fm-db27e4b2
+streams:
+  - url: http://radio.rockserwis.fm/live.aac
+    url_resolved: http://stream9.nadaje.com:8002/live.aac
+    codec: AAC+
+  - url: http://radio.rockserwis.fm/live
+    url_resolved: http://stream9.nadaje.com:8002/live
+    codec: MP3

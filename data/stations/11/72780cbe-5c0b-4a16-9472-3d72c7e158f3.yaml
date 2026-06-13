@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-72780cbe-5c0b-4a16-9472-3d72c7e158f3
-streams:
-  - url: 'http://5.135.39.189:8006/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://5.135.39.189:8006/listen.pls'
-    url_resolved: 'http://5.135.39.189:8006/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +28,15 @@ research:
   format: Community radio programming; mixed format (music and talk)
   notes: Italian community radio station; limited metadata on specific programming format or broadcast region available.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-72780cbe-5c0b-4a16-9472-3d72c7e158f3
+  - iprd-it-radio-tua-d732aa23
+streams:
+  - url: http://5.135.39.189:8006/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://5.135.39.189:8006/listen.pls
+    url_resolved: http://5.135.39.189:8006/stream
+    codec: MP3
+    bitrate: 128

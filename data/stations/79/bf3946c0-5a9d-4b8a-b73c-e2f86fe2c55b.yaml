@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:23:51
 clickcount: 2
 geo_lat: 45.37463559502925
 geo_long: 20.06291270256043
-curation: -0.05
-provenance:
-  - radiobrowser-bf3946c0-5a9d-4b8a-b73c-e2f86fe2c55b
-streams:
-  - url: 'https://radio.dukahosting.com:7043/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.dukahosting.com:7043/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Pop, folk, and music programming for local Serbian audience
   notes: Nas Radio 107.80 is a local radio station broadcasting from Zabalj, Serbia on 107.8 FM. Serves the small town of Zabalj in the Vojvodina region with popular music and entertainment programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bf3946c0-5a9d-4b8a-b73c-e2f86fe2c55b
+streams:
+  - url: https://radio.dukahosting.com:7043/
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.dukahosting.com:7043/;
+    codec: MP3
+    bitrate: 128

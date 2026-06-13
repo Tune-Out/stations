@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-550bd80b-b037-44b0-9413-8755c5757271
-streams:
-  - url: 'https://lhttp-hw.qtfm.cn/live/20211668/64k.mp3'
-    codec: MP3
-  - url: 'http://live.ximalaya.com/radio-first-page-app/live/2572/64.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +32,12 @@ research:
   format: Indie rock, alternative rock, music programming; 87.3 FM
   notes: Community-focused independent station in Luquan District; Rhino Radio brand; indie and rock music emphasis; stream via Ximalaya platform
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-550bd80b-b037-44b0-9413-8755c5757271
+streams:
+  - url: https://lhttp-hw.qtfm.cn/live/20211668/64k.mp3
+    codec: MP3
+  - url: http://live.ximalaya.com/radio-first-page-app/live/2572/64.m3u8
+    codec: UNKNOWN
+    hls: true

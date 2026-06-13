@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: -34.58862898194558
 geo_long: -58.3842658996582
-curation: -0.05
-provenance:
-  - radiobrowser-8db31931-6c7b-4493-9fe4-486332bf2caf
-streams:
-  - url: 'https://ipanel.instream.audio:7002/stream?_=18fea7232d5'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://ipanel.instream.audio:7002/stream'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Pop music (80s hits, 90s hits, contemporary), news, weather, traffic, and current information
   notes: Relaunched 2024 on FM 97.9 Buenos Aires after frequency acquisition by Kuarzo Producciones. Features popular classic pop alongside contemporary hits with news segments and public information services.
   sources: 979now.com, enlaradio.com.ar, streema.com, lanacion.com.ar
+curation: -0.05
+provenance:
+  - radiobrowser-8db31931-6c7b-4493-9fe4-486332bf2caf
+streams:
+  - url: https://ipanel.instream.audio:7002/stream?_=18fea7232d5
+    codec: AAC
+    bitrate: 128
+  - url: https://ipanel.instream.audio:7002/stream
+    codec: AAC
+    bitrate: 128

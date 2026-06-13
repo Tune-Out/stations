@@ -1,7 +1,7 @@
 stationuuid: 6cee259f-5aa9-42eb-92f0-fc61bdf4e0ec
 name: Radio Rivadavia
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets
+url: 'https://24253.live.streamtheworld.com:443/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets'
+url_resolved: 'https://24253.live.streamtheworld.com:443/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets'
 homepage: https://rivadavia.com.ar/
 favicon: https://imgs.search.brave.com/c0mfZAqHGqHQ8JWG3R-tqwt_EXVt-KLx3sCZJSZ0dlc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hZG1p/bi5hdXRvLW1lc3Nl/bmdlci5ydS9zdG9y/YWdlL2NpdHlfcmFk/aW8vMzk1OTQvNTUz/MTcvY29udmVyc2lv/bnMvcm1TSjdWWnFJ/d2VmNHR3WTE4Z21U/R2RLanI2S2hnLW1l/dGFjbUZrYVc4dGNt/bDJZV1JoZG1saExY/SnZjMkZ5YVc4dWNH/NW4tLWxnLndlYnA
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6cee259f-5aa9-42eb-92f0-fc61bdf4e0ec
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,6 @@ research:
   format: News, current affairs, talk radio, journalism programming; news-focused format with some music and entertainment
   notes: Radio Rivadavia (Rivadavia 630 AM, also available via streaming) is one of Argentina's oldest and most influential commercial radio stations. Founded in 1950s, based in Buenos Aires. Known for news and current affairs programming. Major player in Argentine commercial broadcasting. Multi-platform with terrestrial AM and online streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6cee259f-5aa9-42eb-92f0-fc61bdf4e0ec

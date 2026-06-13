@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c92395ae-b0b3-4364-ace0-0d8224bf8776
-streams:
-  - url: 'https://dieneue1077.stream33.radiohost.de/dieneue1077-besterrockundpop_aac-64?aw_0_1st.rms_incar=%7EIN_CAR%7E&rp_source=1&ar-distributor=f0b7&upd-meta&upd-scheme=https&amsparams=f0b7&_art=dD0xNzc2NDE0NDg1JmQ9OTYxNGI0OGNmMDE2ZjVlZTQ1MWE'
-    codec: AAC+
-    bitrate: 63
-  - url: 'https://dieneue1077--di--nacs-ais-lgc--03--cdn.cast.addradio.de/dieneue1077/pure/mp3/high'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://dieneue1077.cast.addradio.de/dieneue1077/oldie/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +32,16 @@ research:
   format: pop, rock, contemporary hits
   notes: Private FM radio station broadcasting from Stuttgart area; PURE stream provides pop and rock content with local focus on Baden-Württemberg region
   sources: https://www.dieneue1077.de/
+curation: -0.05
+provenance:
+  - radiobrowser-c92395ae-b0b3-4364-ace0-0d8224bf8776
+streams:
+  - url: https://dieneue1077.stream33.radiohost.de/dieneue1077-besterrockundpop_aac-64?aw_0_1st.rms_incar=%7EIN_CAR%7E&rp_source=1&ar-distributor=f0b7&upd-meta&upd-scheme=https&amsparams=f0b7&_art=dD0xNzc2NDE0NDg1JmQ9OTYxNGI0OGNmMDE2ZjVlZTQ1MWE
+    codec: AAC+
+    bitrate: 63
+  - url: https://dieneue1077--di--nacs-ais-lgc--03--cdn.cast.addradio.de/dieneue1077/pure/mp3/high
+    codec: MP3
+    bitrate: 192
+  - url: https://dieneue1077.cast.addradio.de/dieneue1077/oldie/high/stream.mp3?ar-purpose=web&ar-distributor=f0b7
+    codec: MP3
+    bitrate: 192

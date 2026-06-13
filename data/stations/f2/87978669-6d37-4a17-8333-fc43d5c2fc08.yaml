@@ -21,18 +21,6 @@ lastchangetime: 2026-03-10 01:57:45
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-87978669-6d37-4a17-8333-fc43d5c2fc08
-streams:
-  - url: 'https://radio.intchoson.com/kcbs/index.m3u8'
-    codec: AAC
-    bitrate: 186
-    hls: true
-  - url: 'https://radio.intchoson.com/kcbs/index.m3u8'
-    codec: AAC
-    bitrate: 183
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -42,3 +30,15 @@ research:
   format: Full service national radio with news, propaganda, cultural programming
   notes: Official state broadcaster of DPRK, established to serve government propaganda and national announcements. Broadcasts nationwide. Primary outlet for regime messaging and state-approved content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-87978669-6d37-4a17-8333-fc43d5c2fc08
+streams:
+  - url: https://radio.intchoson.com/kcbs/index.m3u8
+    codec: AAC
+    bitrate: 186
+    hls: true
+  - url: https://radio.intchoson.com/kcbs/index.m3u8
+    codec: AAC
+    bitrate: 183
+    hls: true

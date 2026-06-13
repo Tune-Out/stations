@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:03:36
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961d5aac-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.hostingbahia.com.ar:8002/live?1475282235673'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://icecast.hostingbahia.com.ar:8002/live?90131'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Entertainment, music, and brief news
   notes: Regional commercial station based in Bahía Blanca, Buenos Aires Province; broadcasts entertainment and music content with short news bulletins.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961d5aac-0601-11e8-ae97-52543be04c81
+  - iprd-ar-radio-norte-105-5-f372d070
+streams:
+  - url: http://icecast.hostingbahia.com.ar:8002/live?1475282235673
+    codec: AAC
+    bitrate: 64
+  - url: https://icecast.hostingbahia.com.ar:8002/live?90131
+    codec: AAC
+    bitrate: 64

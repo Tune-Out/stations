@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:07:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-3faaf017-da7f-4778-a8a0-73581ed4b639
-streams:
-  - url: 'https://stream-mp3aac.live24.gr/max925-her'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream-mp3aac.live24.gr/max925-her'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Specialty station dedicated exclusively to Greek folk music (traditional entechno)
   notes: Greek commercial radio station on 92.5 FM serving Crete. Entechno refers to urban, artistic Greek folk-influenced music tradition.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-3faaf017-da7f-4778-a8a0-73581ed4b639
+  - iprd-gr-pena-92-5-958ad3ce
+streams:
+  - url: https://stream-mp3aac.live24.gr/max925-her
+    codec: MP3
+    bitrate: 192
+  - url: http://stream-mp3aac.live24.gr/max925-her
+    codec: MP3
+    bitrate: 192

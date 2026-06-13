@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 07:49:33
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7bd23fe4-3173-4cd5-a548-fe0be1495342
-duplicate_of: c89e0869-1247-4d43-9a96-84a4e1524b0b
-streams:
-  - url: 'https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac'
-    codec: AAC+
-    bitrate: 95
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Non-stop rock radio; contemporary and classic rock programming
   notes: Branded as "Willy Class X" within Q Music network; commercial radio service in Vlaanderen; AAC+ broadcast quality
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7bd23fe4-3173-4cd5-a548-fe0be1495342
+duplicate_of: c89e0869-1247-4d43-9a96-84a4e1524b0b
+streams:
+  - url: https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac
+    codec: AAC+
+    bitrate: 95

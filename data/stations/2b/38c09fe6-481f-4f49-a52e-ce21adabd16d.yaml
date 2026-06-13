@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:16:49
 clickcount: 56
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-38c09fe6-481f-4f49-a52e-ce21adabd16d
-streams:
-  - url: 'http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Contemporary music, entertainment, news, and talk radio with live music events and festivals
   notes: Jakarta-based commercial station on 101 FM; tagline "All Great Things For Your Day" positions it as lifestyle and music-focused; programming includes morning show (SARAPAN SERU), afternoon show (SIARAN PULANG KERJA), music programming (JAK BEST MUSIC); operates news section (JAKNews), music section (JAKMUSIC); hosts live concerts and music festivals; maintains active YouTube presence with listener call-ins and live performances; HLS streaming available
   sources: https://jak101fm.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-38c09fe6-481f-4f49-a52e-ce21adabd16d
+streams:
+  - url: http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8
+    codec: UNKNOWN
+    hls: true

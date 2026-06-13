@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 02:07:59
 clickcount: 3
 geo_lat: 51.04651978572599
 geo_long: -114.07344281673431
-curation: -0.05
-provenance:
-  - radiobrowser-e748dcdc-fb1b-4294-bc1b-c74b8859ae24
-streams:
-  - url: 'https://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 48
-    hls: true
-  - url: 'https://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 47
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +31,16 @@ research:
   format: Adult contemporary pop, rock, and mainstream music
   notes: Canadian FM station at 95.9 MHz operating from Calgary, Alberta. Part of Rogers Media's network of regional commercial broadcasters. Adult contemporary format targeting mainstream audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e748dcdc-fb1b-4294-bc1b-c74b8859ae24
+  - iprd-ca-chfm-95-9-3b312782
+streams:
+  - url: https://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 48
+    hls: true
+  - url: https://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 47
+    hls: true

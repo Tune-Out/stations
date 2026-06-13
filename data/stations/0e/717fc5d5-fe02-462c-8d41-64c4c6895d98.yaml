@@ -21,10 +21,6 @@ lastchangetime: 2026-01-15 02:15:15
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-717fc5d5-fe02-462c-8d41-64c4c6895d98
-duplicate_of: 31074f8a-e6f4-11e9-a96c-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +30,7 @@ research:
   format: 24/7 rolling news and current affairs — France's flagship all-news radio network
   notes: franceinfo (lowercase, as branded) launched in 1987 as the first French all-news station and is part of the broader franceinfo cross-media brand (joint with France Télévisions, France Médias Monde, and INA, established 2016); it broadcasts on FM nationwide plus DAB+ and online; this URL is the direct AAC Icecast stream rather than a homepage.
   sources: internal knowledge (homepage URL points directly to the audio stream)
+curation: 0.65
+provenance:
+  - radiobrowser-717fc5d5-fe02-462c-8d41-64c4c6895d98
+duplicate_of: 31074f8a-e6f4-11e9-a96c-52543be04c81

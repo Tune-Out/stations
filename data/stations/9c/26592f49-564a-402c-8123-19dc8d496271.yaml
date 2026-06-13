@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:25:32
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-26592f49-564a-402c-8123-19dc8d496271
-streams:
-  - url: 'https://stream-icy.bauermedia.pt/smooth.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://stream-icy.bauermedia.pt/smooth.aac'
-    codec: AAC
-    bitrate: 127
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Smooth jazz, jazz music, relaxing instrumental jazz
   notes: Smooth FM is a Portuguese commercial radio station part of Bauer Media's Portuguese operations (distributed via IOL - Internet On Line). Specializes in smooth jazz and relaxing jazz music targeting adults.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-26592f49-564a-402c-8123-19dc8d496271
+  - iprd-pt-smooth-fm-05a2e20c
+streams:
+  - url: https://stream-icy.bauermedia.pt/smooth.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://stream-icy.bauermedia.pt/smooth.aac
+    codec: AAC
+    bitrate: 127

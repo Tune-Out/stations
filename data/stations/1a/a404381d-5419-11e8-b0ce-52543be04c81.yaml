@@ -19,47 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-a404381d-5419-11e8-b0ce-52543be04c81
-duplicate_of: 96292f3f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://79.120.39.202:9051/listen.pls&t=.pls'
-    url_resolved: 'http://79.120.39.202:9051/'
-    codec: AAC+
-    bitrate: 320
-  - url: 'https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://79.111.14.76:9013/listen.pls&t=.pls'
-    url_resolved: 'http://79.111.14.76:9013/'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us2.internet-radio.com:8387/live.m3u&t=.m3u'
-    url_resolved: 'http://us2.internet-radio.com:8387/live'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us5.internet-radio.com:8121/listen.pls&t=.pls'
-    url_resolved: 'http://us5.internet-radio.com:8121/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk1.internet-radio.com:15254/listen.pls&t=.pls'
-    url_resolved: 'http://uk1.internet-radio.com:15254/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.44.136.201:5307/listen.pls?sid=1&t=.pls'
-    url_resolved: 'http://142.44.136.201:5307/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.internet-radio.com:8306/listen.pls&t=.m3u'
-    url_resolved: 'http://uk5.internet-radio.com:8306/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk1.internet-radio.com:8004/listen.pls&t=.m3u'
-    url_resolved: 'http://uk1.internet-radio.com:8004/'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.5:7932/listen.pls?sid=1&t=.m3u'
-    url_resolved: 'http://s2.voscast.com:7932/'
-    codec: MP3
-    bitrate: 24
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -69,3 +28,44 @@ research:
   format: Breakbeat, big beat, drum and bass, fast-tempo electronic dance music
   notes: Radio Caprice Breakbeat is a specialized channel of Radio Caprice offering breakbeat and big beat music. High-quality stream at 320kbps serving electronic and drum-and-bass enthusiasts.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-a404381d-5419-11e8-b0ce-52543be04c81
+duplicate_of: 96292f3f-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://79.120.39.202:9051/listen.pls&t=.pls
+    url_resolved: http://79.120.39.202:9051/
+    codec: AAC+
+    bitrate: 320
+  - url: https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://79.111.14.76:9013/listen.pls&t=.pls
+    url_resolved: http://79.111.14.76:9013/
+    codec: AAC+
+    bitrate: 320
+  - url: http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us2.internet-radio.com:8387/live.m3u&t=.m3u
+    url_resolved: http://us2.internet-radio.com:8387/live
+    codec: AAC+
+    bitrate: 128
+  - url: https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us5.internet-radio.com:8121/listen.pls&t=.pls
+    url_resolved: http://us5.internet-radio.com:8121/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk1.internet-radio.com:15254/listen.pls&t=.pls
+    url_resolved: http://uk1.internet-radio.com:15254/
+    codec: MP3
+    bitrate: 128
+  - url: https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.44.136.201:5307/listen.pls?sid=1&t=.pls
+    url_resolved: http://142.44.136.201:5307/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.internet-radio.com:8306/listen.pls&t=.m3u
+    url_resolved: http://uk5.internet-radio.com:8306/
+    codec: MP3
+    bitrate: 128
+  - url: http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk1.internet-radio.com:8004/listen.pls&t=.m3u
+    url_resolved: http://uk1.internet-radio.com:8004/
+    codec: MP3
+    bitrate: 64
+  - url: https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.5:7932/listen.pls?sid=1&t=.m3u
+    url_resolved: http://s2.voscast.com:7932/
+    codec: MP3
+    bitrate: 24

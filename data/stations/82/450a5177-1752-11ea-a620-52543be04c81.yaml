@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:50:58
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-450a5177-1752-11ea-a620-52543be04c81
-streams:
-  - url: 'http://streamer.radio.co/sd7b28e5f3/listen'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streamer.radio.co/sd7b28e5f3/listen'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: DJ sets, electronic dance music, club music; nightclub and DJ set programming
   notes: Café Mambo Ibiza Radio broadcasts from the famous Café Mambo nightclub in Ibiza, Spain. Features international DJ sets and electronic dance music. Part of iconic Ibiza nightclub culture and entertainment brand.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-450a5177-1752-11ea-a620-52543be04c81
+  - iprd-es-cafe-mambo-ibiza-radio-8acf253f
+streams:
+  - url: http://streamer.radio.co/sd7b28e5f3/listen
+    codec: MP3
+    bitrate: 192
+  - url: https://streamer.radio.co/sd7b28e5f3/listen
+    codec: MP3
+    bitrate: 192

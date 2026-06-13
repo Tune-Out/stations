@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:14:22
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-1eb0a70c-2cc1-11e9-a35e-52543be04c81
-streams:
-  - url: 'https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac'
-    codec: AAC+
-    bitrate: 95
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: contemporary hits, pop, Danish music, entertainment programming
   notes: Commercial FM station operated by Bauer Media Group; "Nova 100% Dansk" format emphasizes Danish-language music and artists; part of Bauer's Nordic radio network
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-1eb0a70c-2cc1-11e9-a35e-52543be04c81
+  - iprd-dk-nova-100-dansk-7f1b0545
+streams:
+  - url: https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
+    codec: AAC+
+    bitrate: 95

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 03:22:41
 clickcount: 0
 geo_lat: 48.132000791145884
 geo_long: 11.586456298828123
-curation: 0.65
-provenance:
-  - radiobrowser-0ea06db0-5fad-486b-809e-6f9326140942
-streams:
-  - url: 'https://streams.br.de/puls_2.m3u'
-    codec: UNKNOWN
-  - url: 'http://streams.br.de/puls_1.m3u'
-    codec: UNKNOWN
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +31,11 @@ research:
   format: alternative music, youth programming, electronic, indie rock
   notes: PULS is a digital radio channel operated by Bayerischer Rundfunk (BR), part of Germany's public broadcasting network. Specializes in alternative music, electronic, indie rock and youth-oriented programming in Bavaria. Part of ARD public broadcasting consortium.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-0ea06db0-5fad-486b-809e-6f9326140942
+streams:
+  - url: https://streams.br.de/puls_2.m3u
+    codec: UNKNOWN
+  - url: http://streams.br.de/puls_1.m3u
+    codec: UNKNOWN

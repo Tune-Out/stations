@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 4
 geo_lat: 40.62823292592926
 geo_long: 22.934646606445312
-curation: -0.05
-provenance:
-  - radiobrowser-9442a34d-7ab2-41ef-9734-ffaaf6e3fbf3
-streams:
-  - url: 'https://hroma1058thess.live24.gr/hroma1058thess'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://hroma1058thess.live24.gr/hroma1058thess'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Mixed programming
   notes: Greek commercial radio station (Chroma 105.8 FM) broadcasting in Thessaloniki.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9442a34d-7ab2-41ef-9734-ffaaf6e3fbf3
+  - iprd-gr-chroma-105-8-373324cc
+streams:
+  - url: https://hroma1058thess.live24.gr/hroma1058thess
+    codec: MP3
+    bitrate: 128
+  - url: http://hroma1058thess.live24.gr/hroma1058thess
+    codec: MP3
+    bitrate: 128

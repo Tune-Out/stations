@@ -22,17 +22,6 @@ lastchangetime: 2026-05-21 12:42:23
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-db70f070-797e-4f23-bad2-7f693799f68f
-streams:
-  - url: 'http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_orkney.m3u8'
-    codec: AAC+
-    bitrate: 101
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_50082558/live/ww/bbc_radio_orkney/bbc_radio_orkney.isml/bbc_radio_orkney-audio%3d96000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,15 @@ research:
   format: Local news, local radio, variety programming
   notes: Part of BBC Radio network; provides local news and current affairs for Orkney with variety format; HLS stream available; part of publicly-funded UK broadcasting
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-db70f070-797e-4f23-bad2-7f693799f68f
+  - iprd-gb-bbc-radio-orkney-6fbff815
+streams:
+  - url: http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_orkney.m3u8
+    codec: AAC+
+    bitrate: 101
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_50082558/live/ww/bbc_radio_orkney/bbc_radio_orkney.isml/bbc_radio_orkney-audio%3d96000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true

@@ -1,6 +1,6 @@
 stationuuid: 960c10e1-0601-11e8-ae97-52543be04c81
 name: Pudahuel
-url: http://provisioning.streamtheworld.com/pls/PUDAHUEL.pls
+url: 'http://24363.live.streamtheworld.com:80/PUDAHUEL_SC'
 url_resolved: http://26593.live.streamtheworld.com:3690/PUDAHUEL_SC
 homepage: http://www.pudahuel.cl/
 favicon: https://www.pudahuel.cl/wp-content/uploads/2020/02/3dc0f632e699fbf057ae40f404af1d64-180x180.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 21
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-960c10e1-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Contemporary music, talk programming
   notes: Commercial radio station based in Santiago, Chile, broadcasting contemporary music and talk shows.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960c10e1-0601-11e8-ae97-52543be04c81
+  - iprd-cl-pudahuel-7a3f19ed

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b41e88bf-406a-40c0-9521-4d860e00625d
-streams:
-  - url: 'https://usa19.fastcast4u.com/powerofthecross?x=1713189021558'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://usa19.fastcast4u.com:4050/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Christian preaching, worship music, spiritual messaging, Gospel content
   notes: Based in Grenada, Mississippi; operates as independent Christian radio ministry; emphasis on cross and redemption theology
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b41e88bf-406a-40c0-9521-4d860e00625d
+streams:
+  - url: https://usa19.fastcast4u.com/powerofthecross?x=1713189021558
+    codec: MP3
+    bitrate: 320
+  - url: http://usa19.fastcast4u.com:4050/stream
+    codec: MP3
+    bitrate: 128

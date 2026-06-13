@@ -19,16 +19,6 @@ lastchangetime: 2026-04-21 08:56:29
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-312cab02-8265-40f1-ae12-0288462771ee
-streams:
-  - url: 'http://thaalam.out.airtime.pro/thaalam_b'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://thaalam.out.airtime.pro/thaalam_b'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: unknown
@@ -38,3 +28,13 @@ research:
   format: Streams via Airtime platform; programming format unknown, 192kbps MP3.
   notes: Swiss internet radio via Airtime broadcasting infrastructure. No detailed information available on programming or format. Homepage exists but limited public presence.
   sources: https://thaalam.ch/ (limited content)
+curation: 0.05
+provenance:
+  - radiobrowser-312cab02-8265-40f1-ae12-0288462771ee
+streams:
+  - url: http://thaalam.out.airtime.pro/thaalam_b
+    codec: MP3
+    bitrate: 192
+  - url: https://thaalam.out.airtime.pro/thaalam_b
+    codec: MP3
+    bitrate: 192

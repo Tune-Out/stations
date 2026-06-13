@@ -1,7 +1,7 @@
 stationuuid: e07d3e89-35a6-4221-ab5d-7fa2c697d473
 name: Warm 98.5
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WRRMFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WRRMFMAAC.aac
+url: 'https://26233.live.streamtheworld.com:443/WRRMFMAAC.aac'
+url_resolved: 'https://26233.live.streamtheworld.com:443/WRRMFMAAC.aac'
 homepage: https://www.warm98.com/
 favicon: https://www.warm98.com/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:37:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e07d3e89-35a6-4221-ab5d-7fa2c697d473
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary music
   notes: Commercial FM radio station (98.5 MHz, WRRM-FM) in Cincinnati, Ohio; focuses on adult contemporary format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e07d3e89-35a6-4221-ab5d-7fa2c697d473

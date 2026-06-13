@@ -1,7 +1,7 @@
 stationuuid: 06993d81-0b79-11e9-a80b-52543be04c81
 name: UFM 100.3 Radio
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
+url: 'http://22283.live.streamtheworld.com:80/UFM_1003AAC.aac'
+url_resolved: 'http://22283.live.streamtheworld.com:80/UFM_1003AAC.aac'
 homepage: http://www.ufm1003.sg/
 favicon: https://static.ufm1003.sg/uploads/sites/6/2026/03/1920X1080.jpg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-06993d81-0b79-11e9-a80b-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,7 @@ research:
   format: Mandarin-language adult contemporary music, lifestyle talk, family-oriented infotainment
   notes: UFM 100.3 (also stylized as "优FM 100.3" - Yōu FM) is a Singapore Mandarin-language commercial FM radio station broadcasting on 100.3 MHz, owned by SPH Radio under SPH Media Holdings; it positions itself as a family-friendly Chinese-language adult contemporary station with a mix of Mandarin pop music, lifestyle content, and family-targeted programming; SPH Media was restructured in 2021 as a not-for-profit public company following Singapore's media-policy reorganisation, with the print and broadcast assets separated from the listed SPH property/REIT business.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-06993d81-0b79-11e9-a80b-52543be04c81
+  - iprd-sg-ufm-100-3-radio-8798aa3f

@@ -1,7 +1,7 @@
 stationuuid: b5be29e8-1d3c-4402-823a-cf1c941f8884
 name: Niu FM - AAC
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC
+url: 'https://22973.live.streamtheworld.com:443/NIUFMAAC_SC'
+url_resolved: 'https://22973.live.streamtheworld.com:443/NIUFMAAC_SC'
 homepage: https://pmn.co.nz/radio-stations/niu-fm
 favicon: https://i.iheart.com/v3/re/new_assets/60fdf21e8d281279cae30692
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:29:48
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b5be29e8-1d3c-4402-823a-cf1c941f8884
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -35,3 +32,6 @@ research:
   format: Community radio focused on Pacific Island music, culture, and community programming
   notes: Niu FM is a non-commercial community radio station serving Auckland's Pacific Island communities, part of Pacific Media Network. Focuses on Polynesian and Melanesian music and culture.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b5be29e8-1d3c-4402-823a-cf1c941f8884

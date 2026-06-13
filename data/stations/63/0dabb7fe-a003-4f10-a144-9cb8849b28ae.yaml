@@ -1,7 +1,7 @@
 stationuuid: 0dabb7fe-a003-4f10-a144-9cb8849b28ae
 name: 1330 & 101.5 WHBL
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WHBLAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WHBLAMAAC.aac
+url: 'https://18493.live.streamtheworld.com:443/WHBLAMAAC.aac'
+url_resolved: 'https://18493.live.streamtheworld.com:443/WHBLAMAAC.aac'
 homepage: https://whbl.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/1955/squareIcon.png?r=67811
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:31:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0dabb7fe-a003-4f10-a144-9cb8849b28ae
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News, talk, and information programming
   notes: Commercial AM/FM radio station serving Sheboygan, Wisconsin; operates on 1330 AM and 101.5 FM frequencies; news and talk format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0dabb7fe-a003-4f10-a144-9cb8849b28ae

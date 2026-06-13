@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:42:32
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-887f8bbd-73ee-11ea-b1cf-52543be04c81
-streams:
-  - url: 'http://205.134.192.90:680/'
-    codec: MP3
-    bitrate: 56
-  - url: 'http://205.134.192.90:680/:'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Vintage music from 1920s-1950s, swing, big band, jazz, dance music
   notes: KBRD is a community/non-commercial radio station in Washington state specializing in music from the 20s through 50s era, focusing on swing, jazz, and big band music.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-887f8bbd-73ee-11ea-b1cf-52543be04c81
+  - iprd-us-kbrd-74d23fe7
+streams:
+  - url: http://205.134.192.90:680/
+    codec: MP3
+    bitrate: 56
+  - url: "http://205.134.192.90:680/:"
+    codec: MP3
+    bitrate: 56

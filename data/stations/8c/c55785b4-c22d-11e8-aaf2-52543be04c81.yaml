@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c55785b4-c22d-11e8-aaf2-52543be04c81
-streams:
-  - url: 'http://scenestream.io/necta48.aac'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://nectarine.shakeme.info:8000/nectarine'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Tracker modules (MOD, XM, IT, S3M), Amiga compositions, demoscene chipmusic; "a tribute to all the great computer & demoscene artists"
   notes: Preservation-focused; volunteer-supported; features song voting, real-time chat, Discord/Matrix integration; geographically distributed relay streams
   sources: https://scenestream.net/demovibes/
+curation: 0.35
+provenance:
+  - radiobrowser-c55785b4-c22d-11e8-aaf2-52543be04c81
+streams:
+  - url: http://scenestream.io/necta48.aac
+    codec: AAC
+    bitrate: 48
+  - url: http://nectarine.shakeme.info:8000/nectarine
+    codec: MP3
+    bitrate: 192

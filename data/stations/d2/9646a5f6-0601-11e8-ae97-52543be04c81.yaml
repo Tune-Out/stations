@@ -1,6 +1,6 @@
 stationuuid: 9646a5f6-0601-11e8-ae97-52543be04c81
 name: WGVX 105.1 "105 The Vibe" Lakeville, MN
-url: https://provisioning.streamtheworld.com/pls/WGVXFMAAC.pls
+url: 'http://26193.live.streamtheworld.com:80/WGVXFMAAC_SC'
 url_resolved: http://29263.live.streamtheworld.com:3690/WGVXFMAAC_SC
 homepage: http://www.105thevibe.com/
 favicon: http://www.105thevibe.com/HBZGTYGFWZ/themes/default/public/assets/images/favicon.ico
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:20:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9646a5f6-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic hip hop commercial radio at 105.1 FM
   notes: Commercial station at 105.1 FM branded as "105 The Vibe" serving Twin Cities region (Lakeville/Minneapolis) with classic hip hop format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9646a5f6-0601-11e8-ae97-52543be04c81

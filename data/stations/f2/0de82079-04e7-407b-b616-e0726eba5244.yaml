@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 05:05:13
 clickcount: 172
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-0de82079-04e7-407b-b616-e0726eba5244
-streams:
-  - url: 'https://dispatcher.rndfnk.com/br/br3/live/mp3/mid'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://br-radio.ard-mcdn.de/br/radio/b3/hls/96/seglist.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://br-radio.ard-mcdn.de/br/radio/b3/hls/192/seglist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +31,19 @@ research:
   format: contemporary hit / hot adult contemporary pop with morning shows, traffic, comedy bits and rolling news from BR
   notes: Launched 1971 as BR's youth/pop-oriented station; long among the most-listened-to radio stations in Bavaria and Germany. Carries flagship comedy show "Matuschke" / morning shows and the satirical "Frühstyxradio"-style segments. Operates under Bavarian state media law (Bayerischer Rundfunk Gesetz) requiring impartiality and editorial independence from government. Notable for "Rote Couch" celebrity interview series and Bayern 3 Comedy.
   sources: https://www.bayern3.de/ (fetch blocked), internal knowledge
+curation: 0.55
+provenance:
+  - radiobrowser-0de82079-04e7-407b-b616-e0726eba5244
+  - iprd-de-bayern-3-7480b123
+  - iprd-de-bayern-3-bd053cad
+  - iprd-de-bayern-3-40cbffdd
+streams:
+  - url: https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
+    codec: MP3
+    bitrate: 128
+  - url: https://br-radio.ard-mcdn.de/br/radio/b3/hls/96/seglist.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://br-radio.ard-mcdn.de/br/radio/b3/hls/192/seglist.m3u8
+    codec: UNKNOWN
+    hls: true

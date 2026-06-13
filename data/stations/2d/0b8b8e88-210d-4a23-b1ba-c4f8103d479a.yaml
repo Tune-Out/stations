@@ -21,19 +21,6 @@ lastchangetime: 2026-01-31 08:02:26
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-0b8b8e88-210d-4a23-b1ba-c4f8103d479a
-duplicate_of: e96086c0-ae22-4e98-8f54-38c8680cdd40
-streams:
-  - url: 'http://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 64
-    hls: true
-  - url: 'https://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8?'
-    codec: AAC+
-    bitrate: 64
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +30,16 @@ research:
   format: Kids' contemporary hits, family-friendly music
   notes: Australian online streaming service branded as "LiSTNR" offering curated playlist streams. Kids Hits channel targets young listeners with age-appropriate music content.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-0b8b8e88-210d-4a23-b1ba-c4f8103d479a
+duplicate_of: e96086c0-ae22-4e98-8f54-38c8680cdd40
+streams:
+  - url: http://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 64
+    hls: true
+  - url: https://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8?
+    codec: AAC+
+    bitrate: 64
+    hls: true

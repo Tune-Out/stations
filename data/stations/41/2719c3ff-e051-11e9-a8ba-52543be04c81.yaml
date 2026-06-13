@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-2719c3ff-e051-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/metallica/aac-64'
-    codec: AAC
-  - url: 'http://streams.radiobob.de/metallica/mp3-192'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/metallica/mp3-128'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Heavy metal and rock music; Metallica-focused programming and hard rock tracks.
   notes: Radio BOB Metallica is a genre channel of RADIO BOB!, a German commercial radio network; curated heavy metal stream including Metallica and similar artists.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-2719c3ff-e051-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/metallica/aac-64
+    codec: AAC
+  - url: http://streams.radiobob.de/metallica/mp3-192
+    codec: MP3
+  - url: http://streams.radiobob.de/metallica/mp3-128
+    codec: MP3

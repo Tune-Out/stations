@@ -29,15 +29,6 @@ lastchangetime: 2026-01-15 06:23:58
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-80825824-263d-408c-a0a1-7b965c0f0dd6
-streams:
-  - url: 'http://s4.yesstreaming.net:7011//stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.zeno.fm/kc1f62191d0uv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -47,3 +38,12 @@ research:
   format: Rock radio specializing in 1960s-2000s classic rock, alternative, and classic hits.
   notes: Radio319.Rock is a Newcastle-based commercial internet radio station focused on classic rock programming spanning five decades (1960s through 2000s). Operates independently with emphasis on classic hits, alternative rock, and 80s-90s music. Community-oriented toward Newcastle region with nostalgia-driven programming for rock music fans. High production quality streaming available.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-80825824-263d-408c-a0a1-7b965c0f0dd6
+streams:
+  - url: http://s4.yesstreaming.net:7011//stream
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.zeno.fm/kc1f62191d0uv
+    codec: MP3

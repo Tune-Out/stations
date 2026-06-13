@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 06:57:09
 clickcount: 594
 geo_lat: null
 geo_long: null
-curation: 0.15
-provenance:
-  - radiobrowser-dfcef843-6bf9-40f6-b3fe-2b224df86e48
-streams:
-  - url: 'https://stream.europe1.fr/europe1.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream.europe1.fr/europe1.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://europe1.lmn.fm/europe1.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,17 @@ research:
   format: full-service generalist with strong news/talk emphasis — morning news, political interviews, talk shows, cultural and sports programming
   notes: One of France's historic "périphérique" stations, founded in 1955, broadcasting initially from Saarland to bypass French state radio monopoly. Long competed with RTL and France Inter as a top-three generalist. Headquarters in Paris (rue François I). Audience has declined from historic peaks; recent editorial shifts since Bolloré control (synergies with CNews) have been a notable industry story.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-dfcef843-6bf9-40f6-b3fe-2b224df86e48
+  - iprd-fr-europe-1-923918f1
+streams:
+  - url: https://stream.europe1.fr/europe1.aac
+    codec: AAC
+    bitrate: 128
+  - url: http://stream.europe1.fr/europe1.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://europe1.lmn.fm/europe1.mp3
+    codec: MP3
+    bitrate: 128

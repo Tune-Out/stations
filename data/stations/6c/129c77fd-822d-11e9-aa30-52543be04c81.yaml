@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:31:27
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-129c77fd-822d-11e9-aa30-52543be04c81
-streams:
-  - url: 'http://31.192.216.7:8000/radio_gra'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://rs103-krk.rmfstream.pl/radio_gra'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Pop music with local news programming from Torun region
   notes: Broadcasts on 88.8 FM in Torun, Kuyavia-Pomerania region; tagline emphasizes latest news from Torun ("Najnowsze wiadomości z Torunia")
   sources: https://gra.fm/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-129c77fd-822d-11e9-aa30-52543be04c81
+  - iprd-pl-radio-gra-torun-527551dc
+streams:
+  - url: http://31.192.216.7:8000/radio_gra
+    codec: MP3
+    bitrate: 128
+  - url: https://rs103-krk.rmfstream.pl/radio_gra
+    codec: MP3
+    bitrate: 128

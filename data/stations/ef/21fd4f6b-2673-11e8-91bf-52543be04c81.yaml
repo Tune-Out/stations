@@ -21,27 +21,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-21fd4f6b-2673-11e8-91bf-52543be04c81
-streams:
-  - url: 'http://naxi48.streaming.rs:9180/listen.pls'
-    url_resolved: 'http://naxi48.streaming.rs:9180/'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://naxidigital-rock128.streaming.rs:8180/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxi128.streaming.rs:9150/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://naxidigital-lounge128.streaming.rs:8250/listen.pls'
-    url_resolved: 'http://naxidigital-lounge128.streaming.rs:8250/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -51,3 +30,29 @@ research:
   format: 24/7 rock and alternative rock stream, one of the Naxi Radio "Naxi Digital" themed online channels
   notes: Naxi Radio launched in Belgrade in 1996 and grew into one of Serbia's best-known commercial FM stations, building "the largest radio network in Serbia" (Naxi Nacional); it supplements its mainstream music FM signal with a large suite of digital genre channels (Rock, Cafe, Dance, Jazz, Reggae, Classical, Ex-YU) and lifestyle morning shows such as "Jutro uz Svetu Stefanovića"; brand tagline "Opusti se i uživaj" (Relax and enjoy).
   sources: http://www.naxi.rs/, internal knowledge
+curation: 0.25
+provenance:
+  - radiobrowser-21fd4f6b-2673-11e8-91bf-52543be04c81
+  - iprd-rs-naxi-radio-96-9-d01b8546
+  - iprd-rs-naxi-radio-96-9-6e618e02
+  - iprd-rs-naxi-cafe-radio-3e38d81f
+  - iprd-rs-naxi-lounge-radio-464b4f65
+  - iprd-rs-naxi-rock-radio-f71b270d
+streams:
+  - url: http://naxi48.streaming.rs:9180/listen.pls
+    url_resolved: http://naxi48.streaming.rs:9180/
+    codec: AAC+
+    bitrate: 48
+  - url: http://naxidigital-rock128.streaming.rs:8180/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxi128.streaming.rs:9150/
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: http://naxidigital-lounge128.streaming.rs:8250/listen.pls
+    url_resolved: http://naxidigital-lounge128.streaming.rs:8250/
+    codec: MP3
+    bitrate: 128

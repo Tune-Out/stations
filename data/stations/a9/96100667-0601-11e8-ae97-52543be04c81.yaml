@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 08:46:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96100667-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://graj.radiokolobrzeg.pl:8000/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://graj.radiokolobrzeg.pl:8000/listen.pls'
-    url_resolved: 'http://graj.radiokolobrzeg.pl:8000/;'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +30,15 @@ research:
   format: General commercial music and entertainment programming
   notes: Local Polish radio station broadcast from coastal city of Kolobrzeg. MP3 stream at 192 kbps.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96100667-0601-11e8-ae97-52543be04c81
+  - iprd-pl-radio-kolobrzeg-90-2-f791cb8b
+streams:
+  - url: http://graj.radiokolobrzeg.pl:8000/
+    codec: MP3
+    bitrate: 192
+  - url: http://graj.radiokolobrzeg.pl:8000/listen.pls
+    url_resolved: http://graj.radiokolobrzeg.pl:8000/;
+    codec: MP3
+    bitrate: 192

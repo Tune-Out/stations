@@ -21,15 +21,6 @@ lastchangetime: 2026-01-14 23:44:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7cbe9bb0-a7ff-437e-9808-c6805e54c302
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/4601/64k.mp3'
-    codec: MP3
-  - url: 'http://ls.qingting.fm/live/4601.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +30,12 @@ research:
   format: Music, news, information for the Handan region.
   notes: Part of the municipal broadcasting system serving Hebei's prefecture-level city; typically carries regional programming and CCTV relays.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7cbe9bb0-a7ff-437e-9808-c6805e54c302
+streams:
+  - url: https://lhttp.qtfm.cn/live/4601/64k.mp3
+    codec: MP3
+  - url: http://ls.qingting.fm/live/4601.m3u8
+    codec: UNKNOWN
+    hls: true

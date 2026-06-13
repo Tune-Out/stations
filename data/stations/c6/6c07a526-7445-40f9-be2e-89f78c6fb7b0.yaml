@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 05:36:39
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-6c07a526-7445-40f9-be2e-89f78c6fb7b0
-streams:
-  - url: 'https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8'
-    codec: AAC
-    bitrate: 127
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -45,3 +33,15 @@ research:
   format: Top 40 music, variety shows, world music, and entertainment programming
   notes: SZR is a bilingual state-affiliated radio station serving Macau with programming in Cantonese and Portuguese reflecting the territory's colonial heritage and current status as SAR of China; operates under Macau broadcasting regulations
   sources: https://www.szmg.com.cn/
+curation: 0.5
+provenance:
+  - radiobrowser-6c07a526-7445-40f9-be2e-89f78c6fb7b0
+streams:
+  - url: https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8
+    codec: AAC
+    bitrate: 127
+    hls: true

@@ -1,7 +1,7 @@
 stationuuid: 5c65222f-7623-4cda-8d02-110b1dd35b18
 name: Rádio humor 2
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac
+url: 'https://25443.live.streamtheworld.com:443/RADIO_HUMOR.aac'
+url_resolved: 'https://25443.live.streamtheworld.com:443/RADIO_HUMOR.aac'
 homepage: https://www.abradio.cz/
 favicon: https://radia.cz/static/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:29:18
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5c65222f-7623-4cda-8d02-110b1dd35b18
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Comedy, humor programming, entertainment, talk, comedians
   notes: Rádio humor 2 is part of AB RADIO's network, specializing in humor and comedy programming for Czech audiences. Based in Prague, featuring entertainment and comedic content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5c65222f-7623-4cda-8d02-110b1dd35b18

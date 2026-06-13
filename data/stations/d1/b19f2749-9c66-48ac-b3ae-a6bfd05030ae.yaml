@@ -1,6 +1,6 @@
 stationuuid: b19f2749-9c66-48ac-b3ae-a6bfd05030ae
 name: Hrvatski radio - Klasik
-url: https://provisioning.streamtheworld.com/pls/HR_CLASSICS.pls
+url: 'http://29053.live.streamtheworld.com:80/HR_CLASSICS_SC'
 url_resolved: http://22653.live.streamtheworld.com/HR_CLASSICS_SC
 homepage: https://radio.hrt.hr/stream/25
 favicon: https://radio.hrt.hr/static/klasik.jpg
@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 00:06:32
 clickcount: 0
 geo_lat: 45.792899843617434
 geo_long: 15.973938703536987
-curation: 0.55
-provenance:
-  - radiobrowser-b19f2749-9c66-48ac-b3ae-a6bfd05030ae
-streams:
-  - url: 'https://provisioning.streamtheworld.com/pls/HR_CLASSICS.pls'
-    url_resolved: 'http://22653.live.streamtheworld.com/HR_CLASSICS_SC'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://provisioning.streamtheworld.com/pls/HR_POP.pls'
-    url_resolved: 'http://27783.live.streamtheworld.com:3690/HR_POP_SC'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -44,3 +32,15 @@ research:
   format: Classical music programming; part of Croatian radio network
   notes: Classical music channel (Klasik) operated by HRT, the national Croatian public radio broadcaster; channel 25 in HRT network
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-b19f2749-9c66-48ac-b3ae-a6bfd05030ae
+streams:
+  - url: 'http://29053.live.streamtheworld.com:80/HR_CLASSICS_SC'
+    url_resolved: http://22653.live.streamtheworld.com/HR_CLASSICS_SC
+    codec: MP3
+    bitrate: 128
+  - url: 'http://25633.live.streamtheworld.com:80/HR_POP_SC'
+    url_resolved: http://27783.live.streamtheworld.com:3690/HR_POP_SC
+    codec: MP3
+    bitrate: 128

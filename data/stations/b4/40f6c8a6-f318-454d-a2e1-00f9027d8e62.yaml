@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:58:06
 clickcount: 4
 geo_lat: 52.42816772529552
 geo_long: 9.62115933739152
-curation: 0.35
-provenance:
-  - radiobrowser-40f6c8a6-f318-454d-a2e1-00f9027d8e62
-streams:
-  - url: 'https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655'
-    codec: MP3
-  - url: 'https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655?sABC=69n8n5p2%230%237714q36p7s5253q38p7p746223636q3r%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1772660162'
-    codec: MP3
-  - url: 'https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655?sABC=621564pn%230%238382opo5qn0q0898sq0650qo9522s456%23gjyerqverpg&amsparams=playerid:twlredirect;skey:1645569226'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: rock and pop music ("bester ROCK 'N POP")
   notes: Northern Germany regional broadcaster; tagline emphasizes "mehr Sender, mehr Vielfalt" (more stations, more variety) via DAB+ digital radio alongside FM; notable shows include "Die Morning-Rockshow" (weekday mornings), "Zurück in die 80er" (Back to the 80s), "Giganten des Rock" (Giants of Rock); covers rock subgenres including classic rock, alternative, hard rock, and metal; engaged in local events and contests with community focus.
   sources: https://www.radio21.de/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-40f6c8a6-f318-454d-a2e1-00f9027d8e62
+streams:
+  - url: https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655
+    codec: MP3
+  - url: https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655?sABC=69n8n5p2%230%237714q36p7s5253q38p7p746223636q3r%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1772660162
+    codec: MP3
+  - url: https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655?sABC=621564pn%230%238382opo5qn0q0898sq0650qo9522s456%23gjyerqverpg&amsparams=playerid:twlredirect;skey:1645569226
+    codec: MP3

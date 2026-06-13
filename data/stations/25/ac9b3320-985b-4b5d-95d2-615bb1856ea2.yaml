@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 05:25:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ac9b3320-985b-4b5d-95d2-615bb1856ea2
-streams:
-  - url: 'http://s2.stationplaylist.com:9440/listen.aac'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://s2.stationplaylist.com:9440/listen.aac?1780841789005'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +34,13 @@ research:
   format: Contemporary hits and pop music
   notes: Community-focused online radio station; bilingual programming for English and Spanish-speaking audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ac9b3320-985b-4b5d-95d2-615bb1856ea2
+streams:
+  - url: http://s2.stationplaylist.com:9440/listen.aac
+    codec: AAC+
+    bitrate: 32
+  - url: https://s2.stationplaylist.com:9440/listen.aac?1780841789005
+    codec: AAC+
+    bitrate: 32

@@ -1,7 +1,7 @@
 stationuuid: 7da05526-9313-438b-bac5-9a2859caef23
 name: 3MBS - Melbourne, 103.5 MHz FM
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/3MBS_DAB
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/3MBS_DAB
+url: 'http://23203.live.streamtheworld.com:80/3MBS_DAB'
+url_resolved: 'http://23203.live.streamtheworld.com:80/3MBS_DAB'
 homepage: https://3mbs.org.au/
 favicon: https://3mbs.org.au/favicon.ico
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-7da05526-9313-438b-bac5-9a2859caef23
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -32,3 +29,6 @@ research:
   format: Classical music, arts, cultural programming; 103.5 FM/DAB
   notes: Australian public broadcasting station; 3MBS is an independently operated community broadcasting service in Melbourne; classical music and arts programming; established 1970s; community-focused non-commercial operation
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-7da05526-9313-438b-bac5-9a2859caef23

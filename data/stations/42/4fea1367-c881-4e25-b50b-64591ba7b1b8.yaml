@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 04:49:59
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-4fea1367-c881-4e25-b50b-64591ba7b1b8
-streams:
-  - url: 'https://ice.coldstar.online/high.ogg'
-    url_resolved: 'https://ice.coldstar.online/high.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://ice.coldstar.online/low.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +32,14 @@ research:
   format: Electronic dance music (deep house, psy, tech, trance)
   notes: Beta-status online radio based in Kyrgyzstan. Multiple quality streams offered.
   sources: https://coldstar.online/
+curation: 0.4
+provenance:
+  - radiobrowser-4fea1367-c881-4e25-b50b-64591ba7b1b8
+streams:
+  - url: https://ice.coldstar.online/high.ogg
+    url_resolved: https://ice.coldstar.online/high.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://ice.coldstar.online/low.mp3
+    codec: MP3
+    bitrate: 128

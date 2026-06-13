@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:59:15
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-73e4fccd-77cf-11e9-aa30-52543be04c81
-streams:
-  - url: 'http://radionz-ice.streamguys.com/Concert_aac128'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://radionz-ice.streamguys.com/concert.mp3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +31,16 @@ research:
   format: Classical music, concert performances, and arts programming.
   notes: RNZ Concert is the classical music channel of Radio New Zealand, a state-funded public broadcaster; offers curated concert programming and classical music from around the world.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-73e4fccd-77cf-11e9-aa30-52543be04c81
+  - iprd-nz-rnz-concert-73d20736
+  - iprd-nz-rnz-concert-ce829811
+  - iprd-nz-rnz-concert-8564fc4f
+streams:
+  - url: http://radionz-ice.streamguys.com/Concert_aac128
+    codec: AAC
+    bitrate: 128
+  - url: http://radionz-ice.streamguys.com/concert.mp3
+    codec: MP3
+    bitrate: 64

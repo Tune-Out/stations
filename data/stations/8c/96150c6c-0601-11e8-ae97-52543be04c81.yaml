@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96150c6c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.chantefrance.com/cf-emotion'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: '"Emotion" sub-stream of Chante France — romantic, ballad and emotionally-evocative French-language music'
   notes: Chante France is a Paris-based all-French-music brand operated by Groupe HPI; the main feed is distributed on DAB+ across France, online and via a mobile app, and is complemented by a family of decade- and mood-themed webradio sub-streams of which "Chante France Emotion" is one; the Emotion stream focuses on softer, more romantic and emotionally resonant French songs compared to the upbeat "Party" variant; sister streams in the catalog include Chante France 70s, 80s, 90s/2000s, Nouveautés and others.
   sources: http://www.chantefrance.com/
+curation: -0.05
+provenance:
+  - radiobrowser-96150c6c-0601-11e8-ae97-52543be04c81
+  - iprd-fr-chante-france-emotion-64dcad92
+streams:
+  - url: http://stream.chantefrance.com/cf-emotion
+    codec: MP3
+    bitrate: 128
+  - url: https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3
+    codec: MP3
+    bitrate: 128

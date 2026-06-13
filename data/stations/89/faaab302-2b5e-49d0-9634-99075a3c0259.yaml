@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-faaab302-2b5e-49d0-9634-99075a3c0259
-streams:
-  - url: 'https://icecast-piterfm.cdnvideo.ru/piterfm'
-    codec: MP3
-    bitrate: 160
-  - url: 'http://icecast-piterfm.cdnvideo.ru/piterfm'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Classical music; orchestral, chamber, and art music programming
   notes: Russian internet radio station based in St. Petersburg; classical music focus; limited web presence
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-faaab302-2b5e-49d0-9634-99075a3c0259
+  - iprd-ru-peter-fm-100-9-70190566
+streams:
+  - url: https://icecast-piterfm.cdnvideo.ru/piterfm
+    codec: MP3
+    bitrate: 160
+  - url: http://icecast-piterfm.cdnvideo.ru/piterfm
+    codec: MP3
+    bitrate: 160

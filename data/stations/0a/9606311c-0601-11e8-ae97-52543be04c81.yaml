@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:57:09
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9606311c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://kissfm.ice.infomaniak.ch/kissfm-128.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Contemporary pop and music programming; popular hits and entertainment
   notes: "\"Kiss FM\" (de Saint-Tropez à Monaco) is a French commercial radio station covering the Provence-Côte d'Azur coastal region; regional broadcaster serving French Riviera and Monaco area; contemporary pop music format; good listener base (5,241 votes)"
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9606311c-0601-11e8-ae97-52543be04c81
+  - iprd-fr-kiss-fm-saint-tropez-monaco-e84ae196
+  - iprd-fr-kiss-fm-toulon-marseille-b80efe92
+streams:
+  - url: http://kissfm.ice.infomaniak.ch/kissfm-128.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3
+    codec: MP3
+    bitrate: 192

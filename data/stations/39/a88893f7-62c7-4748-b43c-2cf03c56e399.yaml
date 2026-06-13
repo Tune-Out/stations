@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:26:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a88893f7-62c7-4748-b43c-2cf03c56e399
-streams:
-  - url: 'http://icast.connectmedia.hu/5116/live.mp3/;'
-    codec: MP3
-  - url: 'http://icast.connectmedia.hu/5111/live.mp3/;'
-    codec: MP3
-  - url: 'http://icast.connectmedia.hu/5112/live.mp3/;'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Adult contemporary hits, local news, popular music
   notes: Commercial radio station serving Eger and Heves County, Hungary. Programming includes top hits, news, and adult contemporary format. Community-focused regional broadcaster.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a88893f7-62c7-4748-b43c-2cf03c56e399
+streams:
+  - url: http://icast.connectmedia.hu/5116/live.mp3/;
+    codec: MP3
+  - url: http://icast.connectmedia.hu/5111/live.mp3/;
+    codec: MP3
+  - url: http://icast.connectmedia.hu/5112/live.mp3/;
+    codec: MP3

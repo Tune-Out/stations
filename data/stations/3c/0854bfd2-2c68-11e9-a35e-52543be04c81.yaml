@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 03:56:47
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-0854bfd2-2c68-11e9-a35e-52543be04c81
-streams:
-  - url: 'https://maximum.hostingradio.ru/maximum128.mp3'
-    codec: MP3
-  - url: 'http://maximum.hostingradio.ru/maximum128.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Rock music, popular and alternative rock
   notes: One of Russia's most popular rock stations; founded in the 1990s as independent station, later acquired by Gazprom Media; known for live performances and indie/alternative rock focus
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-0854bfd2-2c68-11e9-a35e-52543be04c81
+  - iprd-ru-radio-maximum-90eb1943
+streams:
+  - url: https://maximum.hostingradio.ru/maximum128.mp3
+    codec: MP3
+  - url: http://maximum.hostingradio.ru/maximum128.mp3
+    codec: MP3

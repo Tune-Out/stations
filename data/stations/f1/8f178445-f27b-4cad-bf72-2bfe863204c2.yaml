@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8f178445-f27b-4cad-bf72-2bfe863204c2
-streams:
-  - url: 'http://live.radio2.si/Radio2?1448457274706.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live.radio2.si/Radio2?1448457274706.mo3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: News, contemporary music, talk, cultural programming; general interest.
   notes: Radio 2 is part of RTV SLO, Slovenia's public broadcasting service. Secondary channel of public broadcaster. Focused on contemporary music, news, and general entertainment. State-funded public media.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8f178445-f27b-4cad-bf72-2bfe863204c2
+  - iprd-si-radio-2-92-6-bc024aa0
+streams:
+  - url: http://live.radio2.si/Radio2?1448457274706.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live.radio2.si/Radio2?1448457274706.mo3
+    codec: MP3
+    bitrate: 128

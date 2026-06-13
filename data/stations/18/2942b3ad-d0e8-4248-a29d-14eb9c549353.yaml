@@ -24,15 +24,6 @@ lastchangetime: 2026-04-16 21:42:57
 clickcount: 1
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.55
-provenance:
-  - radiobrowser-2942b3ad-d0e8-4248-a29d-14eb9c549353
-duplicate_of: 862a71d5-324a-47c6-9eba-6f55d15b7de1
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/listen-to-berlin/stream.aac?quality=10'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/listen-to-berlin/stream.aac?quality=1'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +33,12 @@ research:
   format: Independent music; contemporary, indie pop, electronica, culture/arts programming; mixed format with emphasis on music curation
   notes: FluxFM is a Berlin-based independent radio station known for curatorial approach to contemporary music and culture. "Listen To Berlin" channel features indie pop, electronica, and mixed programming. High-quality 320 kbps AAC stream. Station operates from Berlin with strong emphasis on contemporary and independent music culture.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-2942b3ad-d0e8-4248-a29d-14eb9c549353
+duplicate_of: 862a71d5-324a-47c6-9eba-6f55d15b7de1
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/listen-to-berlin/stream.aac?quality=10
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/listen-to-berlin/stream.aac?quality=1
+    codec: AAC

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:05:37
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-32636cb5-883b-443b-9ea5-05ded332eb4e
-streams:
-  - url: 'http://online.radiorelax.ua/RadioRelax'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://online.radiorelax.ua/RadioRelax'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Relaxation and contemporary music programming, MP3 128kbps
   notes: Радіо Relax 101.5 is a Ukrainian commercial radio station broadcasting on 101.5 FM from Kyiv. Focuses on relaxing contemporary music and light programming for urban Ukrainian audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-32636cb5-883b-443b-9ea5-05ded332eb4e
+  - iprd-ua-radio-relax-101-5-742416d2
+streams:
+  - url: http://online.radiorelax.ua/RadioRelax
+    codec: MP3
+    bitrate: 128
+  - url: https://online.radiorelax.ua/RadioRelax
+    codec: MP3
+    bitrate: 128

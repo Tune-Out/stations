@@ -1,7 +1,7 @@
 stationuuid: ef4c1c5b-06f7-43e9-9482-597106ddad1f
 name: Cadena SER Radio San Sebastián
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SAN_SEBASTIAN.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SAN_SEBASTIAN.mp3
+url: 'https://28513.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
+url_resolved: 'https://28513.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
 homepage: https://cadenaser.com/radio-san-sebastian/
 favicon: http://cadenaser00.epimg.net/iconos/v1.x/v1.0/redes/imagenes_og/emisoras_v2/1200x630_imagen_control_radio_san_sebastian.jpg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 07:23:51
 clickcount: 0
 geo_lat: 43.300551154076445
 geo_long: -2.0172491669654846
-curation: -0.05
-provenance:
-  - radiobrowser-ef4c1c5b-06f7-43e9-9482-597106ddad1f
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: News, current affairs, and general interest programming.
   notes: Regional affiliate of Cadena SER, Spain's largest commercial radio network owned by PRISA Group. Serves the San Sebastián metropolitan area in the Basque Country with local news and national content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ef4c1c5b-06f7-43e9-9482-597106ddad1f

@@ -22,31 +22,6 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-41bafb95-dfd1-4c80-9d05-cfeb9cf34c6f
-streams:
-  - url: 'https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://spoonradio.ice.infomaniak.ch/spoonradio-hd'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://spoonradio.ice.infomaniak.ch/spoonradio-hd.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -56,3 +31,29 @@ research:
   format: Rock music; classic and contemporary rock
   notes: Swiss-based independent webradio station dedicated to rock music. Non-commercial operation. Professional website and HD streaming suggest established, well-organized operation. International English-language broadcasting. Focuses on quality rock music programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-41bafb95-dfd1-4c80-9d05-cfeb9cf34c6f
+  - iprd-ch-spoon-radio-27707413
+streams:
+  - url: https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
+    codec: AAC+
+    bitrate: 128
+  - url: https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac
+    codec: AAC+
+    bitrate: 128
+  - url: https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac
+    codec: AAC+
+    bitrate: 128
+  - url: https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
+    codec: AAC+
+    bitrate: 128
+  - url: https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
+    codec: AAC+
+    bitrate: 128
+  - url: http://spoonradio.ice.infomaniak.ch/spoonradio-hd
+    codec: MP3
+    bitrate: 192
+  - url: http://spoonradio.ice.infomaniak.ch/spoonradio-hd.mp3
+    codec: MP3
+    bitrate: 192

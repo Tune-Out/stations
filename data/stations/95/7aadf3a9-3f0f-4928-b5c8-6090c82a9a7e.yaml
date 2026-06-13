@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 00:35:26
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7aadf3a9-3f0f-4928-b5c8-6090c82a9a7e
-duplicate_of: 1dc6efa7-139b-4314-a990-dc954f55ed67
-streams:
-  - url: 'https://drive.uber.radio/uber/crbrahms/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crbrahms/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Classical music, curated by composer (Brahms featured stream)
   notes: Commercial online streaming station specializing in classical music, operated by AudioAddict (owned by SiriusXM parent company Slacker Inc.). Features curated streams by classical composers.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7aadf3a9-3f0f-4928-b5c8-6090c82a9a7e
+duplicate_of: 1dc6efa7-139b-4314-a990-dc954f55ed67
+streams:
+  - url: https://drive.uber.radio/uber/crbrahms/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crbrahms/icecast.audio
+    codec: MP3

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 03:06:34
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-9610c965-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://rock-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://rock-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: Rock, punk, alternative rock, and indie music 24/7
   notes: RauteMusik operates multiple genre streams from Hamburg. Rock channel features classic and contemporary rock, punk, and alternative programming.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-9610c965-0601-11e8-ae97-52543be04c81
+  - iprd-de-rautemusik-rock-0ccc2a31
+  - iprd-de-rautemusik-rock-1634b548
+streams:
+  - url: http://rock-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: https://rock-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

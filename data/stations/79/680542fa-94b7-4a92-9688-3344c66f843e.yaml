@@ -21,15 +21,6 @@ lastchangetime: 2026-05-07 06:43:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-680542fa-94b7-4a92-9688-3344c66f843e
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/1910/64k.mp3'
-    codec: MP3
-  - url: 'https://live.ximalaya.com/radio-first-page-app/live/987/64.m3u8?transcode=ts'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -39,3 +30,12 @@ research:
   format: Traffic information, transport news, public service announcements
   notes: State-owned traffic information broadcast serving Xinjiang region; focused on transportation and public safety information.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-680542fa-94b7-4a92-9688-3344c66f843e
+streams:
+  - url: https://lhttp.qtfm.cn/live/1910/64k.mp3
+    codec: MP3
+  - url: https://live.ximalaya.com/radio-first-page-app/live/987/64.m3u8?transcode=ts
+    codec: UNKNOWN
+    hls: true

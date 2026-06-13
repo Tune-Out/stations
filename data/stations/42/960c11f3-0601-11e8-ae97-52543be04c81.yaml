@@ -23,18 +23,6 @@ lastchangetime: 2026-01-14 23:49:40
 clickcount: 17
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-960c11f3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://playerservices.streamtheworld.com/m3u/ROCK_AND_POPAAC.m3u'
-    url_resolved: 'http://14073.live.streamtheworld.com/ROCK_AND_POPAAC_SC'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://provisioning.streamtheworld.com/pls/ROCK_AND_POP.pls'
-    url_resolved: 'http://24443.live.streamtheworld.com:3690/ROCK_AND_POP_SC'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +32,16 @@ research:
   format: Pop and rock music station ("Música 24/7") with morning and drive-time talk/music shows, music news, concerts and entertainment coverage
   notes: Rock & Pop launched in Santiago on 1 December 1992 under Compañía Chilena de Comunicaciones (then owner of Radio Cooperativa) with Marcelo Aldunate as founding director; in 1998 it was sold to the Claxson group and folded into Iberoamerican Radio Chile, which in 2007 was acquired by Spain's Grupo PRISA, becoming Ibero Americana Radio Chile; the station is one of Chile's longest-running pop/rock outlets and is part of one of the largest commercial radio groups in Latin America.
   sources: http://www.rockandpop.cl/, https://es.wikipedia.org/wiki/Rock_&_Pop_(radio_de_Chile), https://en.wikipedia.org/wiki/Ibero_Americana_Radio_Chile
+curation: 0.35
+provenance:
+  - radiobrowser-960c11f3-0601-11e8-ae97-52543be04c81
+  - iprd-cl-rock-pop-94-1-84ceb08a
+streams:
+  - url: http://playerservices.streamtheworld.com/m3u/ROCK_AND_POPAAC.m3u
+    url_resolved: http://14073.live.streamtheworld.com/ROCK_AND_POPAAC_SC
+    codec: AAC+
+    bitrate: 56
+  - url: http://provisioning.streamtheworld.com/pls/ROCK_AND_POP.pls
+    url_resolved: http://24443.live.streamtheworld.com:3690/ROCK_AND_POP_SC
+    codec: MP3
+    bitrate: 128

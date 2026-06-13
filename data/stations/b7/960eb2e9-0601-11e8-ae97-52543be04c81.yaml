@@ -23,26 +23,6 @@ lastchangetime: 2026-01-15 03:05:15
 clickcount: 24
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.70
-provenance:
-  - radiobrowser-960eb2e9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://somafm.com/dronezone64.pls'
-    url_resolved: 'https://ice6.somafm.com/dronezone-64-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://somafm.com/dronezone32.pls'
-    url_resolved: 'https://ice6.somafm.com/dronezone-32-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://somafm.com/dronezone256.pls'
-    url_resolved: 'https://ice6.somafm.com/dronezone-256-mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://somafm.com/dronezone.pls'
-    url_resolved: 'https://ice4.somafm.com/dronezone-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -52,3 +32,29 @@ research:
   format: Ambient, atmospheric, drone music, chillout; 24/7 curated instrumental streaming.
   notes: SomaFM Drone Zone is an independent, listener-supported internet radio channel from the San Francisco Bay Area. Free streaming ad-supported service offering ambient and drone music. Founded by Scott Lawlor in 1999. Non-commercial mission with listener donations.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-960eb2e9-0601-11e8-ae97-52543be04c81
+  - iprd-us-somafm-drone-zone-ea42519b
+  - iprd-us-somafm-drone-zone-555f883e
+  - iprd-us-somafm-drone-zone-59d9f688
+  - iprd-us-somafm-drone-zone-1c82efbb
+  - iprd-us-somafm-drone-zone-e2869988
+  - iprd-us-somafm-drone-zone-ee007e6a
+streams:
+  - url: https://somafm.com/dronezone64.pls
+    url_resolved: https://ice6.somafm.com/dronezone-64-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://somafm.com/dronezone32.pls
+    url_resolved: https://ice6.somafm.com/dronezone-32-aac
+    codec: AAC
+    bitrate: 32
+  - url: https://somafm.com/dronezone256.pls
+    url_resolved: https://ice6.somafm.com/dronezone-256-mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://somafm.com/dronezone.pls
+    url_resolved: https://ice4.somafm.com/dronezone-128-mp3
+    codec: MP3
+    bitrate: 128

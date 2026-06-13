@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 01:53:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d407234d-18b3-4419-ba07-e19b2c8cb885
-streams:
-  - url: 'http://178.32.111.41:8048/stream-128kmp3-TimeToRelax'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://178.32.111.41:8045/stream-128kmp3-RelaxZone'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://178.32.111.41:8039/stream-128kmp3-HealingMusic'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,19 @@ research:
   format: Chillout, lounge, ambient, relaxation music; curated for calm environments
   notes: French commercial online radio specializing in relaxing music and chillout content. Part of VIP-Radios network. Streams 24/7 with curated relaxation playlists. 2,682 votes. MP3 128 kbps.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d407234d-18b3-4419-ba07-e19b2c8cb885
+  - iprd-fr-vip-radios-healing-music-98b6346e
+  - iprd-fr-vip-radios-relax-zone-8d78b307
+  - iprd-fr-vip-radios-time-to-relax-52629753
+streams:
+  - url: http://178.32.111.41:8048/stream-128kmp3-TimeToRelax
+    codec: MP3
+    bitrate: 128
+  - url: http://178.32.111.41:8045/stream-128kmp3-RelaxZone
+    codec: MP3
+    bitrate: 128
+  - url: http://178.32.111.41:8039/stream-128kmp3-HealingMusic
+    codec: MP3
+    bitrate: 128

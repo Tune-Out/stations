@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:32:55
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-9629df94-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://sr7.inmystream.info:9100/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://nr8.newradio.it:9079/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Classic hits, Italian pop, talk
   notes: RVL La Radio is an Italian regional radio station in Piedmont, playing classic hits and Italian pop with talk programming
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-9629df94-0601-11e8-ae97-52543be04c81
+  - iprd-it-rvl-la-radio-f1cece3d
+streams:
+  - url: http://sr7.inmystream.info:9100/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://nr8.newradio.it:9079/
+    codec: MP3
+    bitrate: 128

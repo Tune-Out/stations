@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:45:26
 clickcount: 33
 geo_lat: 52.21938689037315
 geo_long: 21.027832031250004
-curation: -0.05
-provenance:
-  - radiobrowser-da0174e1-a1b0-447d-befb-087a6c88d6d4
-streams:
-  - url: 'https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://ch.cdn.eurozet.pl/chi-net.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Chill out, lounge, ambient, and relaxation music; non-aggresive programming
   notes: Chilli Zet is part of the Eurozet radio network in Poland. Based on name and CDN path, focuses on chill/lounge music format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-da0174e1-a1b0-447d-befb-087a6c88d6d4
+streams:
+  - url: https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx
+    codec: AAC
+    bitrate: 128
+  - url: https://ch.cdn.eurozet.pl/chi-net.mp3
+    codec: MP3
+    bitrate: 128

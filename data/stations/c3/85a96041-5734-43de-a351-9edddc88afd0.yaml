@@ -25,16 +25,6 @@ lastchangetime: 2026-01-14 23:44:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-85a96041-5734-43de-a351-9edddc88afd0
-streams:
-  - url: 'https://sphera.fluidstream.eu/r80_afro.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://sphera.fluidstream.eu/r80_afro.mp3?FLID=1&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Disco, funk, R&B, and soul music; 1970s-1990s music focus
   notes: Italian commercial station; 192 kbps MP3 stream; established broadcaster in Veneto
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-85a96041-5734-43de-a351-9edddc88afd0
+streams:
+  - url: https://sphera.fluidstream.eu/r80_afro.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://sphera.fluidstream.eu/r80_afro.mp3?FLID=1&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 192

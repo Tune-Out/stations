@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:47:34
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9613ea32-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://gene-wr08.ice.infomaniak.ch/gene-wr08.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Rap music, hip-hop, US rap classics, French rap, urban music programming
   notes: Generations is a major French commercial radio network; operates multiple format channels; Rap U.S. Gold channel focuses on American rap classics; significant reach in French markets.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9613ea32-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-rap-us-gold-c2809142
+  - iprd-fr-generations-rap-us-gold-61eadb02
+streams:
+  - url: http://gene-wr08.ice.infomaniak.ch/gene-wr08.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3
+    codec: MP3
+    bitrate: 128

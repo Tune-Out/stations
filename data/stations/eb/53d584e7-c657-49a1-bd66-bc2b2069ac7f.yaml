@@ -1,7 +1,7 @@
 stationuuid: 53d584e7-c657-49a1-bd66-bc2b2069ac7f
 name: Niu FM - MP3
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC
+url: 'https://14993.live.streamtheworld.com:443/NIUFM_SC'
+url_resolved: 'https://14993.live.streamtheworld.com:443/NIUFM_SC'
 homepage: https://pmn.co.nz/radio-stations/niu-fm
 favicon: https://i.iheart.com/v3/re/new_assets/60fdf21e8d281279cae30692
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:47:54
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-53d584e7-c657-49a1-bd66-bc2b2069ac7f
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: music, culture, entertainment serving Pacific Island diaspora
   notes: public broadcaster Niu FM (part of PMN) serves Pacific Islander communities in NZ; Auckland-based
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-53d584e7-c657-49a1-bd66-bc2b2069ac7f

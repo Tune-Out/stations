@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 04:56:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-2bb3e267-a04d-43ff-9b7e-a5b79fa5739a
-streams:
-  - url: 'http://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: educational public/university radio
@@ -43,3 +31,17 @@ research:
   format: Classical music spanning Baroque, Classical, Romantic, and Modern eras; orchestral and chamber music; expert interviews and discussions on classical music
   notes: Operated by Pontificia Universidad Católica de Chile; 24/7 programming; frequencies 96.5 FM and 97.7 FM in Santiago; features Mozart, Beethoven, Tchaikovsky; provides context on performances and musical events
   sources: https://www.beethovenfm.cl/, https://www.allradio.net/radio/3337
+curation: 0.55
+provenance:
+  - radiobrowser-2bb3e267-a04d-43ff-9b7e-a5b79fa5739a
+  - iprd-cl-radio-beethoven-97-7-144d858c
+  - iprd-cl-radio-beethoven-97-7-7a8c6738
+streams:
+  - url: http://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:04:00
 clickcount: 2
 geo_lat: -27.59743707331972
 geo_long: -48.534164428710945
-curation: -0.05
-provenance:
-  - radiobrowser-63f3df26-1174-4ffe-b344-1b355c162d7c
-streams:
-  - url: 'https://centova.svdns.com.br:19418/stream2'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://centova.svdns.com.br:19418/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: 80s, 90s, 2000s flashback, retro hits, oldies
   notes: GOLD WEB RADIO operates in Santa Catarina, Brazil; specializes in flashback programming from 1980s-2000s era; part of Brazilian commercial radio landscape.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-63f3df26-1174-4ffe-b344-1b355c162d7c
+streams:
+  - url: https://centova.svdns.com.br:19418/stream2
+    codec: MP3
+    bitrate: 128
+  - url: https://centova.svdns.com.br:19418/stream
+    codec: MP3
+    bitrate: 128

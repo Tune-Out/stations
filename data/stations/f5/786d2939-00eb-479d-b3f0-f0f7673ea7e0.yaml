@@ -24,17 +24,6 @@ lastchangetime: 2026-01-14 23:39:46
 clickcount: 12
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.55
-provenance:
-  - radiobrowser-786d2939-00eb-479d-b3f0-f0f7673ea7e0
-duplicate_of: 5681d06a-f5af-11e9-bbf2-52543be04c81
-streams:
-  - url: 'https://stream.radioparadise.com/rock-flac'
-    codec: OGG
-    bitrate: 1441
-  - url: 'http://stream.radioparadise.com/rock-flac'
-    codec: OGG
-    bitrate: 1441
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +33,14 @@ research:
   format: hand-curated rock mix sub-channel offering harder, guitar-driven and alternative rock cuts alongside album cuts; delivered in lossless FLAC for high-fidelity listeners
   notes: Radio Paradise was founded in 2000 by ex-broadcaster Bill Goldsmith and his wife Rebecca; it is famously listener-supported, advertising-free, and operates its Main Mix plus several themed channels (Mellow, Rock, Global, Beyond, Serenity); has earned multiple "Best Internet Radio Station" awards and is a regular reference in audiophile communities thanks to its FLAC streams.
   sources: https://radioparadise.com/, internal knowledge
+curation: 0.55
+provenance:
+  - radiobrowser-786d2939-00eb-479d-b3f0-f0f7673ea7e0
+duplicate_of: 5681d06a-f5af-11e9-bbf2-52543be04c81
+streams:
+  - url: https://stream.radioparadise.com/rock-flac
+    codec: OGG
+    bitrate: 1441
+  - url: http://stream.radioparadise.com/rock-flac
+    codec: OGG
+    bitrate: 1441

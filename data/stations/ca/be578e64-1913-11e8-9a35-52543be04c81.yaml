@@ -1,6 +1,6 @@
 stationuuid: be578e64-1913-11e8-9a35-52543be04c81
 name: Sky Radio
-url: http://provisioning.streamtheworld.com/pls/skyradio.pls
+url: 'http://29073.live.streamtheworld.com:80/SKYRADIO_SC'
 url_resolved: http://25593.live.streamtheworld.com:3690/SKYRADIO_SC
 homepage: http://www.skyradio.nl/
 favicon: http://www.skyradio.nl/favicon.ico
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-be578e64-1913-11e8-9a35-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Music-focused programming including "Non-Stop Greatest Hits", Summer Hits, 00's & 10's, Top 1000; includes contests and artist interviews.
   notes: Commercial broadcaster serving Netherlands via FM and online streaming; part of Talpa Network media group; emphasizes popular music and audience engagement.
   sources: http://www.skyradio.nl/
+curation: -0.05
+provenance:
+  - radiobrowser-be578e64-1913-11e8-9a35-52543be04c81

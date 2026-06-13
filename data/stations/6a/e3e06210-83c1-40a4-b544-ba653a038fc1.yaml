@@ -1,7 +1,7 @@
 stationuuid: e3e06210-83c1-40a4-b544-ba653a038fc1
 name: The Beat
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CKBEFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CKBEFM.mp3
+url: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_en.m3u8'
+url_resolved: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_en.m3u8'
 homepage: https://www.thebeat925.ca/
 favicon: https://cdn.cogecolive.com/websites-public/logo_beat_color_default.svg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-05-26 22:33:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e3e06210-83c1-40a4-b544-ba653a038fc1
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Pop music
   notes: Canadian commercial station at 92.5 FM in Toronto.
   sources: https://www.thebeat925.ca/
+curation: -0.05
+provenance:
+  - radiobrowser-e3e06210-83c1-40a4-b544-ba653a038fc1

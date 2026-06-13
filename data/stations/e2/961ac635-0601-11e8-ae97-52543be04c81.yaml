@@ -21,34 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 51
 geo_lat: null
 geo_long: null
-curation: 0.85
-provenance:
-  - radiobrowser-961ac635-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://stream.srg-ssr.ch/rsp/aacp_96.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsp/aac/96'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream.srg-ssr.ch/m/rsp/aacp_96'
-    codec: AAC
-    bitrate: 96
-  - url: 'http://www.radioswisspop.ch/live/aacp32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsp/aac/48'
-    codec: AAC
-    bitrate: 40
-  - url: 'http://stream.srg-ssr.ch/m/rsp/aacp_32'
-    codec: AAC
-    bitrate: 40
-  - url: 'http://stream.srg-ssr.ch/m/rsp/mp3_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.srg-ssr.ch/rsp/mp3_128.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsp/mp3/128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.srg-ssr.ch/m/rsp/mp3_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -58,3 +30,34 @@ research:
   format: Pop music radio station with contemporary popular music and hits programming.
   notes: Swiss public broadcasting pop music station part of SRG SSR national network. Part of three-station network alongside Radio Swiss Jazz and Radio Swiss Classic. Operates from Bern. Provides programming in multiple languages reflecting Switzerland's multilingual society. Offers web streaming, music database, and scheduling services. Publicly funded Swiss national public broadcaster.
   sources: http://www.radioswisspop.ch/
+curation: 0.6
+provenance:
+  - radiobrowser-961ac635-0601-11e8-ae97-52543be04c81
+  - iprd-ch-radio-swiss-pop-116e5ff3
+  - iprd-ch-radio-swiss-pop-98e21ea2
+  - iprd-ch-radio-swiss-pop-29e0d7c0
+streams:
+  - url: https://stream.srg-ssr.ch/rsp/aacp_96.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsp/aac/96
+    codec: AAC
+    bitrate: 128
+  - url: http://stream.srg-ssr.ch/m/rsp/aacp_96
+    codec: AAC
+    bitrate: 96
+  - url: http://www.radioswisspop.ch/live/aacp32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsp/aac/48
+    codec: AAC
+    bitrate: 40
+  - url: http://stream.srg-ssr.ch/m/rsp/aacp_32
+    codec: AAC
+    bitrate: 40
+  - url: http://stream.srg-ssr.ch/m/rsp/mp3_128
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.srg-ssr.ch/rsp/mp3_128.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsp/mp3/128
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.srg-ssr.ch/m/rsp/mp3_128
+    codec: MP3
+    bitrate: 128

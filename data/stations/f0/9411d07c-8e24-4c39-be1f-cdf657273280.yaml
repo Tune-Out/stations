@@ -1,7 +1,7 @@
 stationuuid: 9411d07c-8e24-4c39-be1f-cdf657273280
 name: Radio Sport Montréal
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC%20.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC%20.aac
+url: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
+url_resolved: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
 homepage: https://www.985fm.ca/
 favicon: https://www.985fm.ca/favicon.ico
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 06:32:25
 clickcount: 0
 geo_lat: 45.53117246498903
 geo_long: -73.59878540039064
-curation: -0.05
-provenance:
-  - radiobrowser-9411d07c-8e24-4c39-be1f-cdf657273280
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Sports talk radio featuring professional hockey, football, and other sports coverage.
   notes: Radio Sport Montréal (98.5 FM) is a commercial sports radio station broadcasting from Montreal, Quebec in French. Primary focus on Montreal professional sports teams and Francophone sports coverage.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9411d07c-8e24-4c39-be1f-cdf657273280

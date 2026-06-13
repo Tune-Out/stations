@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:17:35
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-30b38ce8-295e-11ea-aa0c-52543be04c81
-streams:
-  - url: 'http://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: classic hits, golden era Russian music
   notes: Russian commercial radio network offering "Golden Gramophone" station featuring classic Russian music and golden hits; based in Moscow; popular across Russian Federation for nostalgic and classic programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-30b38ce8-295e-11ea-aa0c-52543be04c81
+  - iprd-ru-russian-radio-golden-gramophone-63731973
+streams:
+  - url: http://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp
+    codec: AAC+
+    bitrate: 96
+  - url: https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp
+    codec: AAC+
+    bitrate: 96

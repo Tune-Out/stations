@@ -1,7 +1,7 @@
 stationuuid: ead62101-c57c-4841-9677-8500f9097091
 name: Groot Nieuws Radio
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3
+url: 'https://25443.live.streamtheworld.com:443/GNR.mp3'
+url_resolved: 'https://25443.live.streamtheworld.com:443/GNR.mp3'
 homepage: https://www.grootnieuwsradio.nl/
 favicon: https://www.grootnieuwsradio.nl/favicons/favicon-1-180x180.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:59:11
 clickcount: 23
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ead62101-c57c-4841-9677-8500f9097091
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -35,3 +32,6 @@ research:
   format: Christian music and religious programming
   notes: Gospel and Christian music broadcaster. Non-profit foundation model serving Dutch evangelical Christian communities. Branded as "Groot Nieuws" (Great News), referencing gospel proclamation.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ead62101-c57c-4841-9677-8500f9097091

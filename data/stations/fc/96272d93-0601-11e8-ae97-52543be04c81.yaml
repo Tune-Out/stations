@@ -1,6 +1,6 @@
 stationuuid: 96272d93-0601-11e8-ae97-52543be04c81
 name: KUTT "Ol' Red 99.5" Fairbury, NE
-url: http://playerservices.streamtheworld.com/pls/KUTTFM.pls
+url: 'http://18513.live.streamtheworld.com:80/KUTTFM_SC'
 url_resolved: http://19303.live.streamtheworld.com:3690/KUTTFM_SC
 homepage: http://kwbe.com/
 favicon: https://s3.amazonaws.com/frankly-resources/centralncn/images/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96272d93-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music, regional focus
   notes: KUTT "Ol' Red" 99.5 FM is a commercial country music station serving Fairbury, Nebraska and the surrounding rural community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96272d93-0601-11e8-ae97-52543be04c81

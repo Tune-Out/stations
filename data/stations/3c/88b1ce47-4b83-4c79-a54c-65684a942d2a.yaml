@@ -28,17 +28,6 @@ lastchangetime: 2026-01-15 07:58:24
 clickcount: 6
 geo_lat: -51.45058375685898
 geo_long: -45.3515625
-curation: -0.05
-provenance:
-  - radiobrowser-88b1ce47-4b83-4c79-a54c-65684a942d2a
-streams:
-  - url: 'http://eu10.fastcast4u.com:3420/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://eu10.fastcast4u.com:3890/radiocecchetto/1/itunes.pls'
-    url_resolved: 'https://eu10.fastcast4u.com:3420/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -48,3 +37,14 @@ research:
   format: Dance, pop, 80s-90s-2000s music; contemporary and retro dance-pop programming
   notes: Italian independent radio station based in Lombardy region. Specializes in dance and pop music spanning three decades (80s, 90s, 2000s). Broadcasts in Italian and English to serve diverse audience interested in European dance and pop traditions.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-88b1ce47-4b83-4c79-a54c-65684a942d2a
+streams:
+  - url: http://eu10.fastcast4u.com:3420/
+    codec: MP3
+    bitrate: 128
+  - url: https://eu10.fastcast4u.com:3890/radiocecchetto/1/itunes.pls
+    url_resolved: https://eu10.fastcast4u.com:3420/
+    codec: MP3
+    bitrate: 128

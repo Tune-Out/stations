@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-36a1ccd5-e19e-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-rnb-128-mp3'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-rnb-128-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-rnb-64-aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: R&B music; urban music format
   notes: Commercial radio station from bigFM network in Germany. Specializes in R&B music programming. bigFM operates multiple branded channels serving different music formats and demographics in German market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-36a1ccd5-e19e-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-rnb-128-mp3
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-rnb-128-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-rnb-64-aac
+    codec: AAC

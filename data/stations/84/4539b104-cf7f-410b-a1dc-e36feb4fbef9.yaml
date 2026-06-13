@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 08:50:49
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4539b104-cf7f-410b-a1dc-e36feb4fbef9
-streams:
-  - url: 'https://lhttp.qingting.fm/live/1084/64k.mp3'
-    codec: MP3
-  - url: 'http://lhttp.qingting.fm/live/1084/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +32,13 @@ research:
   format: Music-focused radio with pop and contemporary music programming, also serves children's audience (大连少儿广播)
   notes: DLR-5 大连音乐广播 is a state-operated music channel of Dalian Television; serves both general audience and children; managed by Qingting FM distribution platform.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4539b104-cf7f-410b-a1dc-e36feb4fbef9
+  - iprd-cn-dlr-5-dalian-music-broadcasting-106-7-d9cc7293
+  - iprd-cn-dalian-music-broadcasting-106-7-8c0aa613
+streams:
+  - url: https://lhttp.qingting.fm/live/1084/64k.mp3
+    codec: MP3
+  - url: http://lhttp.qingting.fm/live/1084/64k.mp3
+    codec: MP3

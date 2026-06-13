@@ -1,7 +1,7 @@
 stationuuid: 8a4b7e33-4a86-457e-aed5-a2e781689240
 name: Smooth FM 95.3 - Sydney - 95.3 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953.mp3
+url: 'http://28893.live.streamtheworld.com:80/SMOOTH953.mp3'
+url_resolved: 'http://28893.live.streamtheworld.com:80/SMOOTH953.mp3'
 homepage: https://smooth.com.au/station/smoothfm953
 favicon: https://i.ibb.co/pPjxdHL/87942553-2883129141777223-4694288285457973248-n.jpg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 05:14:22
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8a4b7e33-4a86-457e-aed5-a2e781689240
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Easy listening, soft adult contemporary, smooth music format
   notes: Major commercial FM station 95.3 Smooth FM serving Sydney. Australian Radio Network operator. Easy listening and smooth music format targeting adult audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8a4b7e33-4a86-457e-aed5-a2e781689240

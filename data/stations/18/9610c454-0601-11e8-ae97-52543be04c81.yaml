@@ -22,81 +22,6 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 45
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-9610c454-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.antenne.de/nur-die-musik/stream/aacp'
-    codec: AAC
-  - url: 'https://stream.antenne.de/antenne/stream/aacp'
-    codec: AAC
-  - url: 'http://www.antenne.de/webradio/antenne.aac.pls'
-    url_resolved: 'http://stream.antenne.de/antenne/stream/aacp'
-    codec: AAC
-  - url: 'http://mp3channels.webradio.antenne.de/90er-hits.aac'
-    codec: AAC
-  - url: 'http://mp3channels.webradio.antenne.de/chillout'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://mp3channels.webradio.antenne.de/chillout'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s8-webradio.antenne.de/2010er-hits/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3channels.webradio.antenne.de/workout-hits'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3channels.webradio.antenne.de/weihnachts-hits'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://play.antenne.de/antenne.m3u'
-    url_resolved: 'http://stream.antenne.de/antenne'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.antenne.de/webradio/channels/80er-kulthits.m3u'
-    url_resolved: 'http://stream.antenne.de/80er-kulthits'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.antenne.de/bayern-sound/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3channels.webradio.antenne.de/antenne'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3channels.webradio.antenne.de/top-40'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.antenne.de/webradio/channels/black-beatz.m3u'
-    url_resolved: 'http://stream.antenne.de/black-beatz'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.antenne.de/webradio/channels/lovesongs.m3u'
-    url_resolved: 'http://stream.antenne.de/lovesongs'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s2-webradio.antenne.de/2000er-hits'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.antenne.de/webradio/channels/fresh.m3u'
-    url_resolved: 'http://stream.antenne.de/fresh'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3channels.webradio.antenne.de/hitmix'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.antenne.de/pop-xxl/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3channels.webradio.antenne.de/relax'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3channels.webradio.antenne.de/90er-hits'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.antenne.de/antenne/stream/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -106,3 +31,80 @@ research:
   format: Chillout, ambient, relaxation music, easy listening
   notes: Chillout channel operated by Antenne Bayern, a commercial radio station in Bavaria. Specializes in relaxation and ambient music programming as specialized stream. Part of Germany's commercial radio landscape.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9610c454-0601-11e8-ae97-52543be04c81
+  - iprd-de-antenne-bayern-2000er-hits-0af3089d
+  - iprd-de-antenne-bayern-2010er-hits-bbd482bc
+streams:
+  - url: http://stream.antenne.de/nur-die-musik/stream/aacp
+    codec: AAC
+  - url: https://stream.antenne.de/antenne/stream/aacp
+    codec: AAC
+  - url: http://www.antenne.de/webradio/antenne.aac.pls
+    url_resolved: http://stream.antenne.de/antenne/stream/aacp
+    codec: AAC
+  - url: http://mp3channels.webradio.antenne.de/90er-hits.aac
+    codec: AAC
+  - url: http://mp3channels.webradio.antenne.de/chillout
+    codec: MP3
+    bitrate: 128
+  - url: https://mp3channels.webradio.antenne.de/chillout
+    codec: MP3
+    bitrate: 128
+  - url: https://s8-webradio.antenne.de/2010er-hits/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3channels.webradio.antenne.de/workout-hits
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3channels.webradio.antenne.de/weihnachts-hits
+    codec: MP3
+    bitrate: 128
+  - url: http://play.antenne.de/antenne.m3u
+    url_resolved: http://stream.antenne.de/antenne
+    codec: MP3
+    bitrate: 128
+  - url: http://www.antenne.de/webradio/channels/80er-kulthits.m3u
+    url_resolved: http://stream.antenne.de/80er-kulthits
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.antenne.de/bayern-sound/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3channels.webradio.antenne.de/antenne
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3channels.webradio.antenne.de/top-40
+    codec: MP3
+    bitrate: 128
+  - url: http://www.antenne.de/webradio/channels/black-beatz.m3u
+    url_resolved: http://stream.antenne.de/black-beatz
+    codec: MP3
+    bitrate: 128
+  - url: http://www.antenne.de/webradio/channels/lovesongs.m3u
+    url_resolved: http://stream.antenne.de/lovesongs
+    codec: MP3
+    bitrate: 128
+  - url: https://s2-webradio.antenne.de/2000er-hits
+    codec: MP3
+    bitrate: 128
+  - url: http://www.antenne.de/webradio/channels/fresh.m3u
+    url_resolved: http://stream.antenne.de/fresh
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3channels.webradio.antenne.de/hitmix
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.antenne.de/pop-xxl/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3channels.webradio.antenne.de/relax
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3channels.webradio.antenne.de/90er-hits
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.antenne.de/antenne/stream/mp3
+    codec: MP3
+    bitrate: 128

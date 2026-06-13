@@ -21,20 +21,6 @@ lastchangetime: 2026-01-15 03:47:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-75417a2c-216b-411d-b562-1b27f75e2bd9
-streams:
-  - url: 'http://stream.laut.fm/exogaming'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/exogaming'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/exogaming.m3u'
-    url_resolved: 'http://exogaming.stream.laut.fm/exogaming?pl=m3u&t302=2026-01-15_08-12-06&uuid=50ee49cb-4617-4494-857d-7b96f92641ef'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +30,21 @@ research:
   format: User-created gaming and entertainment music channel on laut.fm platform
   notes: EXOGAMING is a community-created radio channel on laut.fm, a German platform for user-curated streaming channels. Focus appears to be gaming-related content.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-75417a2c-216b-411d-b562-1b27f75e2bd9
+  - iprd-de-exogaming-dd2a32cb
+  - iprd-de-exogaming-a05a06df
+  - iprd-de-exogaming-daf66bb0
+  - iprd-de-exogaming-7eb183dd
+streams:
+  - url: http://stream.laut.fm/exogaming
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/exogaming
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/exogaming.m3u
+    url_resolved: http://exogaming.stream.laut.fm/exogaming?pl=m3u&t302=2026-01-15_08-12-06&uuid=50ee49cb-4617-4494-857d-7b96f92641ef
+    codec: MP3
+    bitrate: 128

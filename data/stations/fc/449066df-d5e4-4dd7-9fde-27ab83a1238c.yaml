@@ -1,7 +1,7 @@
 stationuuid: 449066df-d5e4-4dd7-9fde-27ab83a1238c
 name: 7HO Classic Hits - Hobart (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HOCLASSICHITSAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HOCLASSICHITSAAC.aac
+url: 'http://14093.live.streamtheworld.com:80/HOB_7HOCLASSICHITSAAC.aac'
+url_resolved: 'http://14093.live.streamtheworld.com:80/HOB_7HOCLASSICHITSAAC.aac'
 homepage: https://www.7hofm.com.au/
 favicon: https://i.ibb.co/mczD9B1/61ea5cd93377543aec28131e.webp
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 00:25:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-449066df-d5e4-4dd7-9fde-27ab83a1238c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: classic hits, talk, news, local programming
   notes: Commercial radio station 7HO operating on FM in Hobart, Tasmania; part of major Australian media group Southern Cross Austereo; classic hits and talk format
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-449066df-d5e4-4dd7-9fde-27ab83a1238c

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:28:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-34730105-70b3-4451-aef0-494bbf6822ed
-streams:
-  - url: 'https://listen.rusongs.ru/mp3-128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://listen.radiopassazh.ru/mp3-128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: General music programming
   notes: Russian online radio station; limited public information available; part of rusongs.ru network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-34730105-70b3-4451-aef0-494bbf6822ed
+streams:
+  - url: https://listen.rusongs.ru/mp3-128
+    codec: MP3
+    bitrate: 128
+  - url: https://listen.radiopassazh.ru/mp3-128
+    codec: MP3
+    bitrate: 128

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 03:05:15
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-9619e7d7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://listen-msmn.sharp-stream.com/nme1high.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://listen-msmn.sharp-stream.com/nme1.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Curated alternative, indie rock, indie pop, garage rock and left-field dance — TMM 1 is the flagship of a multi-stream service inspired by NME Radio's lineage.
   notes: The Music Machine is a London-based online radio service taking its name from the legendary Camden venue (later The Camden Palace, now Koko). The TMM streams are operated as a successor/spiritual home to the former NME Radio brand, with channels segmented by genre (TMM 1 = indie/alternative, TMM 2 = classics, etc.). It is an independent commercial venture without parent group ownership and broadcasts purely via internet stream.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-9619e7d7-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://listen-msmn.sharp-stream.com/nme1high.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://listen-msmn.sharp-stream.com/nme1.mp3
+    codec: MP3
+    bitrate: 128

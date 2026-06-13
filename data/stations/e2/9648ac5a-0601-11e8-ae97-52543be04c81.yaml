@@ -1,6 +1,6 @@
 stationuuid: 9648ac5a-0601-11e8-ae97-52543be04c81
 name: KVLY 107.9 "Mix FM" Edinburg, TX
-url: http://provisioning.streamtheworld.com/pls/KVLYFMAAC.pls
+url: 'http://26733.live.streamtheworld.com:80/KVLYFMAAC_SC'
 url_resolved: http://29243.live.streamtheworld.com/KVLYFMAAC_SC
 homepage: http://mix1079.net/
 favicon: https://1079mixfm.s3.amazonaws.com/wp-content/uploads/2025/01/29161815/cropped-RGVFM-107.9-Avatar-Logo_RGV-AvatarLogo-1-180x180.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:50:59
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648ac5a-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Top 40, hits, contemporary pop music, local news
   notes: KVLY 107.9 FM "Mix FM" broadcasts to Edinburg, Texas in the Rio Grande Valley. The station plays current Top 40 hits and contemporary pop formats typical of commercial FM radio in South Texas.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648ac5a-0601-11e8-ae97-52543be04c81

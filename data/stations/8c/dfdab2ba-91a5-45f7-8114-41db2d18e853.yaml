@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-dfdab2ba-91a5-45f7-8114-41db2d18e853
-streams:
-  - url: 'https://nova-soul.ice.infomaniak.ch/nova-soul-256.aac'
-    codec: AAC
-    bitrate: 256
-  - url: 'http://nova-soul.ice.infomaniak.ch/nova-soul-256.aac'
-    codec: AAC
-    bitrate: 256
-  - url: 'https://nova-soul.ice.infomaniak.ch/nova-soul-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +28,17 @@ research:
   format: Soul, R&B, adult contemporary
   notes: Nova Soul is a specialized channel from the Nova radio network in France, featuring soul and smooth music programming.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-dfdab2ba-91a5-45f7-8114-41db2d18e853
+  - iprd-fr-nova-soul-820fce8b
+streams:
+  - url: https://nova-soul.ice.infomaniak.ch/nova-soul-256.aac
+    codec: AAC
+    bitrate: 256
+  - url: http://nova-soul.ice.infomaniak.ch/nova-soul-256.aac
+    codec: AAC
+    bitrate: 256
+  - url: https://nova-soul.ice.infomaniak.ch/nova-soul-128.mp3
+    codec: MP3
+    bitrate: 128

@@ -24,16 +24,6 @@ lastchangetime: 2026-05-31 11:15:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-f9718c94-92af-48ea-b712-353daa2522cb
-streams:
-  - url: 'https://radio.imago.fm:8007/_a'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://109.233.192.78:8000/_a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,14 @@ research:
   format: Eclectic mix of alternative, indie, jazz, pop, and rock music
   notes: Independent online radio station serving Moldova and diaspora audiences; diverse music programming
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-f9718c94-92af-48ea-b712-353daa2522cb
+  - iprd-md-imago-fm-7647d44c
+streams:
+  - url: https://radio.imago.fm:8007/_a
+    codec: MP3
+    bitrate: 256
+  - url: http://109.233.192.78:8000/_a
+    codec: MP3
+    bitrate: 128

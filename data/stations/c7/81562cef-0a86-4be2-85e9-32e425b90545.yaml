@@ -1,7 +1,7 @@
 stationuuid: 81562cef-0a86-4be2-85e9-32e425b90545
 name: Versuz
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3
+url: 'https://25603.live.streamtheworld.com:443/TOPVERSUZ.mp3'
+url_resolved: 'https://25603.live.streamtheworld.com:443/TOPVERSUZ.mp3'
 homepage: https://www.versuzradio.com/
 favicon: ""
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 06:08:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-81562cef-0a86-4be2-85e9-32e425b90545
 research:
   reviewed_at: 2026-06-09
   nature: unknown
@@ -33,3 +30,6 @@ research:
   format: Unknown
   notes: Limited public information available. Streams via StreamTheWorld CDN. No clear information on ownership, format, or mission.
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-81562cef-0a86-4be2-85e9-32e425b90545

@@ -1,7 +1,7 @@
 stationuuid: 96227653-0601-11e8-ae97-52543be04c81
 name: Coast
 url: http://streaming.radiomyway.co.nz/coast2.pls
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8
+url_resolved: 'http://23163.live.streamtheworld.com:80/NZME_07AAC/HLS/playlist.m3u8'
 homepage: http://www.thecoast.net.nz/
 favicon: https://www.thecoast.net.nz/content/music/images/interface/icons/coast/apple-touch-icon.png
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 23:53:53
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96227653-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,8 @@ research:
   format: Contemporary music, hits, entertainment radio
   notes: Commercial music radio station operated by NZME, serving New Zealand audiences. Features contemporary hits and popular music programming. Part of NZME's network of radio stations across New Zealand.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96227653-0601-11e8-ae97-52543be04c81
+  - iprd-nz-coast-105-4-f5083988
+  - iprd-nz-coast-105-4-f1fd724e

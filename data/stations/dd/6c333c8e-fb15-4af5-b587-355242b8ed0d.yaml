@@ -21,17 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6c333c8e-fb15-4af5-b587-355242b8ed0d
-streams:
-  - url: 'http://192.111.140.11:8524/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://lynx.prostreaming.net:2199/tunein/m80s-stream.pls'
-    url_resolved: 'http://192.111.140.11:8524/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,15 @@ research:
   format: Dedicated 1980s music format featuring the best hits from the 1980s decade
   notes: Internet radio station specializing exclusively in 1980s music, providing nostalgia-focused programming for 80s music enthusiasts
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6c333c8e-fb15-4af5-b587-355242b8ed0d
+  - iprd-us-m-80-s-radio-a3930390
+streams:
+  - url: http://192.111.140.11:8524/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://lynx.prostreaming.net:2199/tunein/m80s-stream.pls
+    url_resolved: http://192.111.140.11:8524/stream
+    codec: MP3
+    bitrate: 128

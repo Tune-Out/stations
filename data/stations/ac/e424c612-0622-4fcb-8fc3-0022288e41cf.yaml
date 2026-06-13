@@ -1,7 +1,7 @@
 stationuuid: e424c612-0622-4fcb-8fc3-0022288e41cf
 name: Sports Radio the Ump
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WUMPAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WUMPAMAAC.aac
+url: 'https://27153.live.streamtheworld.com:443/WUMPAMAAC.aac'
+url_resolved: 'https://27153.live.streamtheworld.com:443/WUMPAMAAC.aac'
 homepage: https://www.umpsports.com/
 favicon: https://www.umpsports.com/wp-content/uploads/sites/865/2015/12/wump-af-logo.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:33:22
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e424c612-0622-4fcb-8fc3-0022288e41cf
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: All-sports radio with local and national sports talk.
   notes: WUMP (formerly WURF) is based in Huntsville, AL, owned and operated by Cumulus Media. Focuses on local high school and college sports, with some national sports programming. Part of Huntsville's sports media landscape.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e424c612-0622-4fcb-8fc3-0022288e41cf

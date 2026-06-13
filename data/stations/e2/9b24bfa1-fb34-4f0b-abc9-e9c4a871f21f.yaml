@@ -1,7 +1,7 @@
 stationuuid: 9b24bfa1-fb34-4f0b-abc9-e9c4a871f21f
 name: 95 KQDS
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KQDSFMAAC.aac
+url: 'https://26143.live.streamtheworld.com:443/KQDSFMAAC.aac'
+url_resolved: 'https://26143.live.streamtheworld.com:443/KQDSFMAAC.aac'
 homepage: https://95kqds.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2232/squareIcon.png?r=62384
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:58:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9b24bfa1-fb34-4f0b-abc9-e9c4a871f21f
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic rock, with morning/afternoon shows and listener contests; "KQ Morning Show," "KQ Afternoon Trainwreck"
   notes: 94.9 FM Duluth and 106.3 FM Hibbing; active in local events and community programming
   sources: https://95kqds.com/
+curation: 0.35
+provenance:
+  - radiobrowser-9b24bfa1-fb34-4f0b-abc9-e9c4a871f21f

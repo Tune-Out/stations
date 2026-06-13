@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4fd93041-0125-11e9-a1be-52543be04c81
-streams:
-  - url: 'https://streams.regenbogen.de/rr-metal-128-mp3'
-    codec: MP3
-  - url: 'http://streams.regenbogen.de/rr-metal-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,12 @@ research:
   format: Heavy metal, rock music 24/7 dedicated stream.
   notes: Part of the Regenbogen Radio network which operates multiple genre-specific channels. Regenbogen is a commercial station group based in Baden-Württemberg.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4fd93041-0125-11e9-a1be-52543be04c81
+  - iprd-de-radio-regenbogen-metal-0588851a
+streams:
+  - url: https://streams.regenbogen.de/rr-metal-128-mp3
+    codec: MP3
+  - url: http://streams.regenbogen.de/rr-metal-128-mp3
+    codec: MP3

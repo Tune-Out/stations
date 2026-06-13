@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:29:21
 clickcount: 24
 geo_lat: 53.03405872098981
 geo_long: 5.635106563568116
-curation: -0.05
-provenance:
-  - radiobrowser-bcaca236-9f95-4cae-9cdc-6ae7917c9bce
-streams:
-  - url: 'https://stream.radionl.fm/radionl'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.radionl.fm/radionl'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Dutch music and entertainment; 24/7 programming with morning show (SoWieSo-Ochtendshow), request-based afternoon (Op Volle Kracht), weekend chart show (RADIONL Top 30), entertainment blocks
   notes: Commercial online and mobile app-based station emphasizing "gezelligheid en de allerbeste muziek van eigen bodem" (comfort and quality Dutch music). Multiple regional editions serve different Dutch regions.
   sources: https://radionl.fm/
+curation: -0.05
+provenance:
+  - radiobrowser-bcaca236-9f95-4cae-9cdc-6ae7917c9bce
+  - iprd-nl-radionl-74c9661d
+streams:
+  - url: https://stream.radionl.fm/radionl
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.radionl.fm/radionl
+    codec: MP3
+    bitrate: 192

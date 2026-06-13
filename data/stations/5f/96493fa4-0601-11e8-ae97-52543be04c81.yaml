@@ -1,6 +1,6 @@
 stationuuid: 96493fa4-0601-11e8-ae97-52543be04c81
 name: XHTA-FM "Dinamica 94.5" Piedras Negras, CO
-url: http://provisioning.streamtheworld.com/pls/XHTAFMAAC.pls
+url: 'http://27283.live.streamtheworld.com:80/XHTAFMAAC_SC'
 url_resolved: http://16603.live.streamtheworld.com/XHTAFMAAC_SC
 homepage: http://www.dinamica945.com/
 favicon: ""
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 06:28:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96493fa4-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Top 40, hip-hop, contemporary pop music in Spanish
   notes: Transmits on 94.5 FM in Piedras Negras border region. Regional commercial station serving the Coahuila market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96493fa4-0601-11e8-ae97-52543be04c81

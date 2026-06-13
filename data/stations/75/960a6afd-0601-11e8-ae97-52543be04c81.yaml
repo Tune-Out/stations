@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-960a6afd-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream2.cprnetwork.org:8000/cpr3_aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://stream2.cprnetwork.org:8000/cpr3_lo'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -43,3 +33,15 @@ research:
   format: Adult album alternative (AAA), indie, NPR news and programming
   notes: KVOQ 102.3 "OpenAir" stream; Colorado Public Radio is a non-profit public broadcaster; NPR-affiliated station serving Denver metro area with indie and alternative music mixed with public radio content
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-960a6afd-0601-11e8-ae97-52543be04c81
+  - iprd-us-kvoq-102-3-colorado-public-radio-openair-4765d999
+  - iprd-us-kvoq-102-3-colorado-public-radio-openair-e36f2866
+streams:
+  - url: http://stream2.cprnetwork.org:8000/cpr3_aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://stream2.cprnetwork.org:8000/cpr3_lo
+    codec: MP3
+    bitrate: 64

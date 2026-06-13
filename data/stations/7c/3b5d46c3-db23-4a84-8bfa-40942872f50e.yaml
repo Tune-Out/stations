@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 00:25:41
 clickcount: 2
 geo_lat: 29.097806732527975
 geo_long: -110.97135543823244
-curation: -0.10
-provenance:
-  - radiobrowser-3b5d46c3-db23-4a84-8bfa-40942872f50e
-streams:
-  - url: 'https://streamingcwsradio30.com:7027/stream?type=http&nocache=1'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streamingcwsradio30.com:7027/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: Spanish adult contemporary/hits with classic and retro music, local programming
   notes: Commercial radio station XHMV-FM (La Zeta 93.9 FM) serving Hermosillo, Sonora. Broadcasts Spanish-language popular music and adult contemporary format targeting Spanish-speaking audiences in northern Mexico.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-3b5d46c3-db23-4a84-8bfa-40942872f50e
+streams:
+  - url: https://streamingcwsradio30.com:7027/stream?type=http&nocache=1
+    codec: MP3
+    bitrate: 128
+  - url: https://streamingcwsradio30.com:7027/stream
+    codec: MP3
+    bitrate: 128

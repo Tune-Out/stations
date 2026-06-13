@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 04:11:16
 clickcount: 1
 geo_lat: 21.88169317911191
 geo_long: -102.29790687561037
-curation: -0.05
-provenance:
-  - radiobrowser-1fc77959-e77e-4e91-82b4-24ba21d310b3
-streams:
-  - url: 'https://cast.zuperdns.net/8026/stream/'
-    codec: MP3
-    bitrate: 80
-  - url: 'https://cast.zuperdns.net/8026/stream'
-    codec: MP3
-    bitrate: 80
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Balada romantica (Spanish romantic ballads, 80s hits in Spanish)
   notes: FM 104.5 station in Aguascalientes, Mexico. Part of Grupo Radiofónico ZER, a commercial radio group. Programming emphasizes romantic Spanish-language music, 80s ballads, and pop romantica genres targeting adult audiences seeking nostalgia and slow romantic content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1fc77959-e77e-4e91-82b4-24ba21d310b3
+streams:
+  - url: https://cast.zuperdns.net/8026/stream/
+    codec: MP3
+    bitrate: 80
+  - url: https://cast.zuperdns.net/8026/stream
+    codec: MP3
+    bitrate: 80

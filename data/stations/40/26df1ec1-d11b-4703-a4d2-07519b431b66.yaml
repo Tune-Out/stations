@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-26df1ec1-d11b-4703-a4d2-07519b431b66
-streams:
-  - url: 'https://stream.v3.network/proxy/897bay/stream.mp3?_=1'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://stream.v3.network/proxy/897bay/stream.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Contemporary music, news, current affairs, entertainment
   notes: Bay 89.7 is a commercial radio station broadcasting in Malta on 89.7 FM; serves Maltese and English-speaking listeners; part of the Bay Media group; streams on 256 kbps via V3 network CDN; popular with local and expatriate audiences in Malta.
   sources: https://www.bay.com.mt/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-26df1ec1-d11b-4703-a4d2-07519b431b66
+streams:
+  - url: https://stream.v3.network/proxy/897bay/stream.mp3?_=1
+    codec: MP3
+    bitrate: 256
+  - url: https://stream.v3.network/proxy/897bay/stream.mp3
+    codec: MP3
+    bitrate: 256

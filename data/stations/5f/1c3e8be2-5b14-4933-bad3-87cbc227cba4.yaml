@@ -23,25 +23,6 @@ lastchangetime: 2026-01-15 02:58:06
 clickcount: 400
 geo_lat: 52.4802578
 geo_long: 13.3347639
-curation: 0.85
-provenance:
-  - radiobrowser-1c3e8be2-5b14-4933-bad3-87cbc227cba4
-streams:
-  - url: 'https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus?aggregator=web'
-    codec: OGG
-    bitrate: 24
-  - url: 'https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 256
-  - url: 'https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://st01.sslstream.dlf.de/dlf/01/low/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -51,3 +32,33 @@ research:
   format: 24/7 spoken-word news, information, politics, science, culture and background reporting; one of Germany's two main national news/information radio channels (alongside Deutschlandfunk Kultur and Deutschlandfunk Nova)
   notes: Founded 1962 in Cologne; became part of Deutschlandradio in 1994 following German reunification merger of West and East German national broadcasters. Headquartered in Cologne with major studio in Berlin. Regarded as a flagship news radio in the German-speaking world. Operates under inter-state treaty (Deutschlandradio-Staatsvertrag) ensuring editorial independence.
   sources: internal knowledge only (homepage fetch blocked)
+curation: 0.75
+provenance:
+  - radiobrowser-1c3e8be2-5b14-4933-bad3-87cbc227cba4
+  - iprd-de-deutschlandfunk-658ca6b0
+  - iprd-de-deutschlandfunk-7cdaabb7
+  - iprd-de-deutschlandfunk-b29610c8
+  - iprd-de-deutschlandfunk-e5a8d875
+  - iprd-de-deutschlandfunk-cb264bd7
+  - iprd-de-deutschlandfunk-b69e8780
+  - iprd-de-deutschlandfunk-bdf4219d
+  - iprd-de-deutschlandfunk-b0377d87
+  - iprd-de-dlf-c1cfbc27
+  - iprd-de-dlf-61ac52c3
+  - iprd-de-dlf-424e82ed
+streams:
+  - url: https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus?aggregator=web
+    codec: OGG
+    bitrate: 24
+  - url: https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 256
+  - url: https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 96
+  - url: https://st01.sslstream.dlf.de/dlf/01/low/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 48
+  - url: https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
+    codec: MP3
+    bitrate: 128

@@ -27,17 +27,6 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-d8fc41a4-e013-4877-856c-77dc04f179a1
-streams:
-  - url: 'https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +36,14 @@ research:
   format: 24/7 single-artist stream playing the complete Led Zeppelin catalogue plus related solo and live material
   notes: Part of Exclusive Radio's large family of artist-dedicated internet stations (Beatles, Queen, Stones, Pink Floyd, etc.); operates from the United Arab Emirates as an online-only commercial brand with web and mobile players, no terrestrial licence; format is curated 70s/album-rock/British-blues focused on a single act.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-d8fc41a4-e013-4877-856c-77dc04f179a1
+streams:
+  - url: https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio
+    codec: MP3
+  - url: https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio
+    codec: MP3

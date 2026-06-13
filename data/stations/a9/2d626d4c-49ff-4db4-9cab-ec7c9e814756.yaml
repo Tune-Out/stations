@@ -1,6 +1,6 @@
 stationuuid: 2d626d4c-49ff-4db4-9cab-ec7c9e814756
 name: CBC Radio One - Sydney, NS (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CBIS_CBC.pls
+url: 'https://26283.live.streamtheworld.com:443/CBIS_CBC_SC'
 url_resolved: https://26283.live.streamtheworld.com/CBIS_CBC_SC
 homepage: https://www.cbc.ca/news/canada/nova-scotia
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:30:34
 clickcount: 1
 geo_lat: 46.13578782831306
 geo_long: -60.18997192382813
-curation: 0.50
-provenance:
-  - radiobrowser-2d626d4c-49ff-4db4-9cab-ec7c9e814756
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: News, features, and public radio programming; regional focus on Nova Scotia
   notes: Part of CBC Radio One network serving Sydney, Nova Scotia. Focus on news, features, and public affairs. Federal public broadcaster.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-2d626d4c-49ff-4db4-9cab-ec7c9e814756

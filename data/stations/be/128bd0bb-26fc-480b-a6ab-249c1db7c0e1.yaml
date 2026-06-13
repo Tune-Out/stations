@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:17:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-128bd0bb-26fc-480b-a6ab-249c1db7c0e1
-streams:
-  - url: 'http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://rs6-krk2.rmfstream.pl/rmf_maxxx_kie'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Pop music, contemporary hits; mainstream pop format.
   notes: RMF MAXXX is pop music channel of RMF Group, one of Poland's largest commercial broadcasters. Kielce is regional variant serving Kielce area. Commercial operation targeting young adult demographic. Standard European commercial radio format. Part of RMF's multi-format network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-128bd0bb-26fc-480b-a6ab-249c1db7c0e1
+streams:
+  - url: http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie
+    codec: MP3
+    bitrate: 128
+  - url: https://rs6-krk2.rmfstream.pl/rmf_maxxx_kie
+    codec: MP3
+    bitrate: 128

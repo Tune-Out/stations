@@ -1,7 +1,7 @@
 stationuuid: 945e1d05-2c7b-4054-a1d8-7f66c879048f
 name: WVNN
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WVNNAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WVNNAMAAC.aac
+url: 'https://18153.live.streamtheworld.com:443/WVNNAMAAC.aac'
+url_resolved: 'https://18153.live.streamtheworld.com:443/WVNNAMAAC.aac'
 homepage: https://www.wvnn.com/
 favicon: https://www.wvnn.com/favicon.ico
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:29:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-945e1d05-2c7b-4054-a1d8-7f66c879048f
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,7 @@ research:
   format: News and talk radio
   notes: WVNN is a commercial news/talk radio station serving Athens, Alabama and the surrounding region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-945e1d05-2c7b-4054-a1d8-7f66c879048f
+  - iprd-us-wvnn-3cdc5dc6

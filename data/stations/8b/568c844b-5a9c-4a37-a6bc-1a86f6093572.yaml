@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-568c844b-5a9c-4a37-a6bc-1a86f6093572
-streams:
-  - url: 'https://uk7.internet-radio.com/proxy/movedahouse?mp=//stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://uk7.internet-radio.com:8000/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Underground house music radio and television with live DJ shows
   notes: Non-profit, advert-free organization established 16 July 2011 in London. Multi-platform presence (radio, TV, streaming) with live DJ shows and on-demand mixes.
   sources: https://www.movedahouse.com/
+curation: 0.5
+provenance:
+  - radiobrowser-568c844b-5a9c-4a37-a6bc-1a86f6093572
+  - iprd-gb-movedahouse-53515074
+streams:
+  - url: https://uk7.internet-radio.com/proxy/movedahouse?mp=//stream
+    codec: MP3
+    bitrate: 128
+  - url: http://uk7.internet-radio.com:8000/stream
+    codec: MP3
+    bitrate: 128

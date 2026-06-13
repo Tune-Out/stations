@@ -21,16 +21,6 @@ lastchangetime: 2026-05-26 09:00:34
 clickcount: 1
 geo_lat: 27.93163074083401
 geo_long: -82.32055664062501
-curation: -0.05
-provenance:
-  - radiobrowser-887ed8ec-aab7-4c7b-9f39-5a280b2899a9
-streams:
-  - url: 'https://server7.servistreaming.com/proxy/radiohoy?mp=/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://server7.servistreaming.com:10006/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Salsa music specialty
   notes: Dedicated salsa music radio station serving the Tampa, Florida area and Spanish-speaking audiences in the United States.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-887ed8ec-aab7-4c7b-9f39-5a280b2899a9
+  - iprd-us-salsa-one-radio-606d35cb
+streams:
+  - url: https://server7.servistreaming.com/proxy/radiohoy?mp=/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://server7.servistreaming.com:10006/stream
+    codec: MP3
+    bitrate: 128

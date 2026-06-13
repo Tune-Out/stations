@@ -23,20 +23,6 @@ lastchangetime: 2026-01-15 02:44:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960e7f28-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.hitfm.de:9050/live.m3u'
-    url_resolved: 'http://stream.hitfm.de:9050/live'
-    codec: MP3
-    bitrate: 144
-  - url: 'http://stream.hitfm.de:9050/eazyfm'
-    codec: MP3
-    bitrate: 144
-  - url: 'http://stream.hitfm.de:9050/power49'
-    codec: MP3
-    bitrate: 144
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +32,20 @@ research:
   format: Contemporary pop and top 40 hits.
   notes: 89 HIT FM is a commercial radio station in Munich, Germany. Specializes in current pop hits and top 40 format targeting younger listeners in Bavaria.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960e7f28-0601-11e8-ae97-52543be04c81
+  - iprd-de-89-hit-fm-f5ee2019
+  - iprd-de-89-hit-fm-eazy-28183fc7
+  - iprd-de-89-hit-fm-power49-e0a498d0
+streams:
+  - url: http://stream.hitfm.de:9050/live.m3u
+    url_resolved: http://stream.hitfm.de:9050/live
+    codec: MP3
+    bitrate: 144
+  - url: http://stream.hitfm.de:9050/eazyfm
+    codec: MP3
+    bitrate: 144
+  - url: http://stream.hitfm.de:9050/power49
+    codec: MP3
+    bitrate: 144

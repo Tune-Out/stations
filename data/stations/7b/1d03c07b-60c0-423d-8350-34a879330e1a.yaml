@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1d03c07b-60c0-423d-8350-34a879330e1a
-streams:
-  - url: 'https://max-mobile-radio.triggerfm.de/'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://max-hd-radio.triggerfm.de/'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://max-sd-radio.triggerfm.de/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +30,16 @@ research:
   format: 1980s and 1990s hits ("80er/90er Mix")
   notes: German online radio service operating multiple genre-specific channels via triggerfm.com/radiochannel; Trigger.FM MAX is decade-specific channel focusing on 1980s and 1990s hit music; streams at 256 kbps MP3 via max-hd-radio.triggerfm.de; part of a larger online station network targeting nostalgic German-speaking audiences; limited public information about ownership structure.
   sources: https://triggerfm.com/radiochannel/trigger-fm-max-80er-90er-mix/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-1d03c07b-60c0-423d-8350-34a879330e1a
+streams:
+  - url: https://max-mobile-radio.triggerfm.de/
+    codec: AAC
+    bitrate: 64
+  - url: https://max-hd-radio.triggerfm.de/
+    codec: MP3
+    bitrate: 256
+  - url: https://max-sd-radio.triggerfm.de/
+    codec: MP3
+    bitrate: 128

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-042bb509-22e7-4eb8-9d7b-d69caf2ae57d
-streams:
-  - url: 'https://stream1.hippynet.co.uk:8107/stream?_=526570'
-    codec: MP3
-    bitrate: 170
-  - url: 'https://stream1.hippynet.co.uk:8107/stream?_=63771'
-    codec: MP3
-    bitrate: 170
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Community radio with mixed programming
   notes: Licensed community radio station serving Seahaven area in East Sussex, England; operates under UK community radio regulatory framework.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-042bb509-22e7-4eb8-9d7b-d69caf2ae57d
+streams:
+  - url: https://stream1.hippynet.co.uk:8107/stream?_=526570
+    codec: MP3
+    bitrate: 170
+  - url: https://stream1.hippynet.co.uk:8107/stream?_=63771
+    codec: MP3
+    bitrate: 170

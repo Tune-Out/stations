@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-c6ca22dd-2387-4dfb-8813-a4d14b1b7241
-streams:
-  - url: 'https://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123?sABC=650ss791%231%23o4no068rn383405p9qrq36n169031n09%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1695545233&cb=779129009&listenerid=b4ab068ea383405c9ded36a169031a09&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1695545233'
-    codec: MP3
-  - url: 'http://streams.80s80s.de/darkwave/mp3-192'
-    codec: MP3
-  - url: 'https://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123?sABC=650srs31%231%232645n7p950564790903q59976ors7676%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1695543069&cb=579463699&listenerid=2645a7c950564790903d59976bef7676&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1695543089'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Dark wave, post-punk, and gothic rock music from late 1970s-1980s; podcasts and song history features
   notes: German commercial streaming service with regional variants; part of 80s80s network offering curated 80s-themed channels; mission "A dedicated radio for the dark sound of the 80s - from post-punk to gothic rock"
   sources: https://www.80s80s.de/80s80s-dark-wave
+curation: 0.3
+provenance:
+  - radiobrowser-c6ca22dd-2387-4dfb-8813-a4d14b1b7241
+streams:
+  - url: https://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123?sABC=650ss791%231%23o4no068rn383405p9qrq36n169031n09%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1695545233&cb=779129009&listenerid=b4ab068ea383405c9ded36a169031a09&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1695545233
+    codec: MP3
+  - url: http://streams.80s80s.de/darkwave/mp3-192
+    codec: MP3
+  - url: https://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123?sABC=650srs31%231%232645n7p950564790903q59976ors7676%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1695543069&cb=579463699&listenerid=2645a7c950564790903d59976bef7676&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1695543089
+    codec: MP3

@@ -20,16 +20,6 @@ lastchangetime: 2026-02-10 16:26:46
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d425c9ba-f40a-4669-8867-60b3b1ab61d3
-streams:
-  - url: 'https://sc4.gergosnet.com/pulstranceHD.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://213.251.190.165/pulstranceHD.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Trance, vocal trance, and electronic dance music.
   notes: PulsRadio is a French commercial online radio network; Trance channel specializes in trance and progressive house.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d425c9ba-f40a-4669-8867-60b3b1ab61d3
+  - iprd-fr-pulsradio-trance-a94e8aa3
+streams:
+  - url: https://sc4.gergosnet.com/pulstranceHD.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://213.251.190.165/pulstranceHD.mp3
+    codec: MP3
+    bitrate: 192

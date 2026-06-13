@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:28:02
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-960d53c0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://esperance.streamakaci.com/parole-de-dieu.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://esperance.streamakaci.com/parole-de-dieu.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,15 @@ research:
   format: Religious programming; Christian teaching and inspirational content; "Parole de Dieu" (Word of God) channel
   notes: Non-commercial Christian radio serving French-speaking audience; part of Christian broadcast movement in France
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-960d53c0-0601-11e8-ae97-52543be04c81
+  - iprd-fr-bible-esperance-18766239
+  - iprd-fr-radio-esp-rance-parole-de-dieu-56c48ac2
+streams:
+  - url: https://esperance.streamakaci.com/parole-de-dieu.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://esperance.streamakaci.com/parole-de-dieu.mp3
+    codec: MP3
+    bitrate: 128

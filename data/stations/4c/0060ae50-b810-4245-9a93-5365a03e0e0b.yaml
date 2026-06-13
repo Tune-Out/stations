@@ -21,18 +21,6 @@ lastchangetime: 2026-04-22 05:24:37
 clickcount: 1
 geo_lat: -19.864300648811327
 geo_long: 47.03295886516572
-curation: 0.40
-provenance:
-  - radiobrowser-0060ae50-b810-4245-9a93-5365a03e0e0b
-streams:
-  - url: 'https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1'
-    codec: MP3
-  - url: 'https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8393&type=s1'
-    codec: MP3
-  - url: 'https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4089&type=s1'
-    codec: MP3
-  - url: 'https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4825&type=s1'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +30,15 @@ research:
   format: Christian gospel music and religious/educational programming
   notes: Faith-based radio station operated by the Madagascar Lutheran Church; combines Christian gospel music with educational content serving Christian communities across Madagascar
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-0060ae50-b810-4245-9a93-5365a03e0e0b
+streams:
+  - url: https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1
+    codec: MP3
+  - url: https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8393&type=s1
+    codec: MP3
+  - url: https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4089&type=s1
+    codec: MP3
+  - url: https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4825&type=s1
+    codec: MP3

@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 02:27:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7be352bd-c653-4ab4-ac87-1118db1bc86f
-streams:
-  - url: 'https://stream.radiojar.com/p7ren8s9queuv'
-    codec: MP3
-  - url: 'http://stream.radiojar.com/aafrqsmpyxquv.m3u'
-    url_resolved: 'http://n0a.radiojar.com/aafrqsmpyxquv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +31,12 @@ research:
   format: College radio programming; diverse music, talk, and community content
   notes: Student-operated college radio station at City College of New York (CCNY) in Manhattan. WHCR 90.3 FM broadcasts diverse music and talk programming. Non-profit, educational institution-affiliated radio serving CCNY community and broader NYC audience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7be352bd-c653-4ab4-ac87-1118db1bc86f
+streams:
+  - url: https://stream.radiojar.com/p7ren8s9queuv
+    codec: MP3
+  - url: http://stream.radiojar.com/aafrqsmpyxquv.m3u
+    url_resolved: http://n0a.radiojar.com/aafrqsmpyxquv
+    codec: MP3

@@ -22,21 +22,6 @@ lastchangetime: 2026-01-15 01:05:28
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-5c9bdd27-dc89-41f3-9ce0-1b775e489394
-streams:
-  - url: 'http://streams.egofm.de/egoCHILLOUT-lq'
-    url_resolved: 'http://cast.egofm.de/egofmchillout.aac?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: AAC+
-    bitrate: 63
-  - url: 'https://streams.egofm.de/egoCHILLOUT-hq'
-    url_resolved: 'https://cast.egofm.de/egofmchillout.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast.egofm.de/egofmchillout.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +31,21 @@ research:
   format: Chillout and ambient music; independent/alternative music curated far from mainstream; multiple channels available
   notes: Founded 2008; Munich-based radio station; broadcasts via UKW (FM), DAB+, webstream, and mobile app; tagline "die feinste Musik fernab vom Mainstream" (the finest music far from the mainstream); egoChillout is dedicated chillout/ambient channel; commercial streaming and FM broadcaster; emphasis on musical independence and discovery
   sources: http://www.egofm.de/
+curation: 0.3
+provenance:
+  - radiobrowser-5c9bdd27-dc89-41f3-9ce0-1b775e489394
+  - iprd-de-egofm-chillout-7e24eb93
+  - iprd-de-egofm-chillout-75ad6142
+  - iprd-de-egofm-chillout-b1ecfe3a
+streams:
+  - url: http://streams.egofm.de/egoCHILLOUT-lq
+    url_resolved: http://cast.egofm.de/egofmchillout.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: AAC+
+    bitrate: 63
+  - url: https://streams.egofm.de/egoCHILLOUT-hq
+    url_resolved: https://cast.egofm.de/egofmchillout.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 128
+  - url: https://cast.egofm.de/egofmchillout.mp3
+    codec: MP3
+    bitrate: 128

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:29:48
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e806e30f-bade-43a4-b9ab-e14230ef50de
-streams:
-  - url: 'http://185.11.164.106:35022/stream?type=mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://185.11.164.106:35022/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Local hits and popular music
   notes: 94 FM station based in Leiria, Portugal. Local commercial broadcaster serving district community. Portuguese-language programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e806e30f-bade-43a4-b9ab-e14230ef50de
+  - iprd-pt-radio-94-aa160e18
+streams:
+  - url: http://185.11.164.106:35022/stream?type=mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://185.11.164.106:35022/stream
+    codec: MP3
+    bitrate: 128

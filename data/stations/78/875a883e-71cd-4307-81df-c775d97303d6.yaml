@@ -1,7 +1,7 @@
 stationuuid: 875a883e-71cd-4307-81df-c775d97303d6
 name: 96.5 Inner FM - Melbourne - 96.5 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/3NRAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/3NRAAC.aac
+url: 'http://28903.live.streamtheworld.com:80/3NRAAC.aac'
+url_resolved: 'http://28903.live.streamtheworld.com:80/3NRAAC.aac'
 homepage: https://www.innerfm.org.au/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:21:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-875a883e-71cd-4307-81df-c775d97303d6
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community radio, miscellaneous programming
   notes: Community-based FM radio station serving Melbourne
   sources: internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-875a883e-71cd-4307-81df-c775d97303d6

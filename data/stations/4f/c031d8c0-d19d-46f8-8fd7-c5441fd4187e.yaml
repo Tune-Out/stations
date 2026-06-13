@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 02:34:36
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c031d8c0-d19d-46f8-8fd7-c5441fd4187e
-streams:
-  - url: 'http://str0.creacast.com/magnum?type=.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://str0.creacast.com/magnum'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Music-driven (hits, top 100); talk shows (Magnum Café, Club Magnum, Magnum Drive); news, sports, cinema
   notes: Regional commercial broadcaster covering Alsace, Lorraine, Champagne regions with FM and DAB+ transmitters in Strasbourg, Nancy, Colmar, Besançon, and many other cities. Offers podcasts and separate Magnum 80 stream. Emphasizes community engagement.
   sources: http://www.magnumlaradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-c031d8c0-d19d-46f8-8fd7-c5441fd4187e
+  - iprd-fr-magnum-la-radio-4612c7d0
+streams:
+  - url: http://str0.creacast.com/magnum?type=.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://str0.creacast.com/magnum
+    codec: MP3
+    bitrate: 192

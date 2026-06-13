@@ -19,16 +19,6 @@ lastchangetime: 2026-06-08 22:19:42
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-915a8a9d-9393-46a0-a1a7-42154962a6db
-streams:
-  - url: 'http://195.252.68.166:8200/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://tempo.ipradio.rs:9034/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Music, entertainment, and talk radio; contemporary and popular music programming.
   notes: Tempo Naxi Radio is a Serbian commercial radio station. Part of the Tempo/Naxi radio network operating in Serbia. Provides music and entertainment programming to Serbian audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-915a8a9d-9393-46a0-a1a7-42154962a6db
+streams:
+  - url: http://195.252.68.166:8200/
+    codec: MP3
+    bitrate: 128
+  - url: https://tempo.ipradio.rs:9034/
+    codec: MP3
+    bitrate: 128

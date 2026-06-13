@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:37:46
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-9614550c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://idobihowl.idobi.com/;stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://idobihowl.idobi.com/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Hardcore, metal, new music, alternative rock
   notes: idobi Howl is part of the idobi independent music network based in Washington. Focuses on hardcore, metal, and new alternative music for alternative rock audience.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-9614550c-0601-11e8-ae97-52543be04c81
+  - iprd-us-idobi-howl-f6b05fa5
+streams:
+  - url: http://idobihowl.idobi.com/;stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://idobihowl.idobi.com/
+    codec: MP3
+    bitrate: 128

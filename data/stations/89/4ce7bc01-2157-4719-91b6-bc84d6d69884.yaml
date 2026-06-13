@@ -1,6 +1,6 @@
 stationuuid: 4ce7bc01-2157-4719-91b6-bc84d6d69884
 name: News Talk WOWO
-url: https://provisioning.streamtheworld.com/pls/WOWOAM.pls
+url: 'http://14223.live.streamtheworld.com:80/WOWOAM_SC'
 url_resolved: http://14223.live.streamtheworld.com:3690/WOWOAM_SC
 homepage: https://www.wowo.com/
 favicon: https://wowo.com/wp-content/uploads/2023/07/favicon.png
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4ce7bc01-2157-4719-91b6-bc84d6d69884
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: News, talk, local events, traffic, sports
   notes: WOWO 1190 AM is long-established Fort Wayne, Indiana station; commercial news/talk format; part of iHeartRadio network; local news and community focus
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4ce7bc01-2157-4719-91b6-bc84d6d69884

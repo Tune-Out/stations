@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 2
 geo_lat: 13.685060157552996
 geo_long: 100.6144452095032
-curation: 0.25
-provenance:
-  - radiobrowser-1e1113a5-7de2-4b9f-922c-ff56026f8759
-streams:
-  - url: 'https://rsas.bkk.fm/radio'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://streams.radiomast.io/a0f4514e-9045-4114-a4cf-17eb3246785a'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Rock music; alternative rock, electronic dance music/EDM, dance; 60+ minutes of music per hour via AI automation
   notes: 'Bangkok-based commercial rock radio station. Motto: "THE ROCK... OF THE EARTH!" Self-described format emphasizes continuous music programming with humorous claim of "25 hours a day, 8 days a week for like 375 days per year." Uses AI automation extensively. Available on iOS/Android mobile app plus streaming. 64 kbps AAC. Targets Bangkok metro and Southeast Asia rock music audience.'
   sources: https://bkk.fm/
+curation: 0.25
+provenance:
+  - radiobrowser-1e1113a5-7de2-4b9f-922c-ff56026f8759
+  - iprd-th-bkk-fm-bc2851dc
+streams:
+  - url: https://rsas.bkk.fm/radio
+    codec: AAC
+    bitrate: 64
+  - url: https://streams.radiomast.io/a0f4514e-9045-4114-a4cf-17eb3246785a
+    codec: AAC
+    bitrate: 64

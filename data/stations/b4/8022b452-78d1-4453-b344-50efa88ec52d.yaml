@@ -1,6 +1,6 @@
 stationuuid: 8022b452-78d1-4453-b344-50efa88ec52d
 name: Jack FM Fargo
-url: http://provisioning.streamtheworld.com/pls/KRWKFM.pls
+url: 'http://29306.live.streamtheworld.com:80/KRWKFM_SC'
 url_resolved: http://22973.live.streamtheworld.com/KRWKFM_SC
 homepage: https://jackfmfargo.com/
 favicon: https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2439/files/2020/01/KRWK-hero-728-300.png
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8022b452-78d1-4453-b344-50efa88ec52d
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,7 @@ research:
   format: Jack FM format; adult contemporary, hits, variety
   notes: Commercial radio station KRWK broadcasting at Jack FM Fargo. Part of Jack FM national format network emphasizing "Jack of All Trades" music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8022b452-78d1-4453-b344-50efa88ec52d
+  - iprd-us-krwk-101-9-jack-fm-07136ed4

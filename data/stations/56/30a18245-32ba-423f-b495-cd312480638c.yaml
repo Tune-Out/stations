@@ -22,16 +22,6 @@ lastchangetime: 2026-02-21 06:23:30
 clickcount: 0
 geo_lat: 46.54001850034881
 geo_long: 24.558186618789037
-curation: 0.35
-provenance:
-  - radiobrowser-30a18245-32ba-423f-b495-cd312480638c
-streams:
-  - url: 'http://szekelyradio.top:8000/;'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://szekelyradio.top:8000/;'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Local news, music, cultural programming for Székely minority.
   notes: Local community radio serving the Székely (Szekler) ethnic Hungarian minority in Transylvania. Founded as community service for ethnic minority. 96 kbps MP3 stream.
   sources: http://szekelyradio.top/ (limited content; internal knowledge only)
+curation: 0.35
+provenance:
+  - radiobrowser-30a18245-32ba-423f-b495-cd312480638c
+streams:
+  - url: http://szekelyradio.top:8000/;
+    codec: MP3
+    bitrate: 96
+  - url: http://szekelyradio.top:8000/;
+    codec: MP3
+    bitrate: 64

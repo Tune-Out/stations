@@ -1,6 +1,6 @@
 stationuuid: 81766e71-c96a-11e8-a54a-52543be04c81
 name: Wave.fm
-url: http://provisioning.streamtheworld.com/pls/CIWVFM.pls
+url: 'http://18533.live.streamtheworld.com:80/CIWVFM_SC'
 url_resolved: http://14993.live.streamtheworld.com:3690/CIWVFM_SC
 homepage: http://wave.fm/
 favicon: ""
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:14:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-81766e71-c96a-11e8-a54a-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Jazz, smooth jazz, adult contemporary.
   notes: WAVE.FM carries iHeartRadio's jazz programming. Tags indicate focus on smooth jazz format, targeting mature demographic.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-81766e71-c96a-11e8-a54a-52543be04c81

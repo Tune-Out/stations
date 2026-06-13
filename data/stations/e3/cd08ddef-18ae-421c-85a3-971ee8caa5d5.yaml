@@ -28,16 +28,6 @@ lastchangetime: 2026-01-15 07:56:58
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-cd08ddef-18ae-421c-85a3-971ee8caa5d5
-streams:
-  - url: 'http://stream2.soundflux.eu:8440/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream2.soundflux.eu:8440/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +37,13 @@ research:
   format: Deep house, tech house, techno, electronic dance music
   notes: RES FM is a Portuguese electronic music radio station specializing in deep house, tech house, and underground electronic music. Bilingual programming in Portuguese and English. Focuses on underground dance music culture and electronic music community.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-cd08ddef-18ae-421c-85a3-971ee8caa5d5
+streams:
+  - url: http://stream2.soundflux.eu:8440/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://stream2.soundflux.eu:8440/stream
+    codec: MP3
+    bitrate: 128

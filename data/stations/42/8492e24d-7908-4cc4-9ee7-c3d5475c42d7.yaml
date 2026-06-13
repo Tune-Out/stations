@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 08:26:33
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-8492e24d-7908-4cc4-9ee7-c3d5475c42d7
-streams:
-  - url: 'https://7rays.stream.laut.fm/7rays'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://7rays.stream.laut.fm/7rays'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,14 @@ research:
   format: Ambient, chillout, meditation, healing, and new age music
   notes: Ukrainian internet radio station specializing in ambient, chillout, meditation, and healing music. Promotes relaxation and wellness. Streams via Laut.FM platform. Based in Lviv.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-8492e24d-7908-4cc4-9ee7-c3d5475c42d7
+  - iprd-ua-seven-rays-82d754ca
+streams:
+  - url: https://7rays.stream.laut.fm/7rays
+    codec: MP3
+    bitrate: 128
+  - url: http://7rays.stream.laut.fm/7rays
+    codec: MP3
+    bitrate: 128

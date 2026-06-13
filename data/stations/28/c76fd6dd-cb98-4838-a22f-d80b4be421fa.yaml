@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: 33.77702710790661
 geo_long: -84.38694256814432
-curation: 0.50
-provenance:
-  - radiobrowser-c76fd6dd-cb98-4838-a22f-d80b4be421fa
-streams:
-  - url: 'http://ice64.securenetsystems.net/BILTMORE'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice3.securenetsystems.net/BILTMORE?clientType=web&host=webapp.US&modTime=1722555913800&profileid=8976948983&terminalid=159&territory=US&us_privacy=1-N-&callLetters=BILTMORE-FL&devicename=web-desktop&stationid=8433&dist=iheart&subscription_type=free&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fbiltmore-radio-8433%2F'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Classical and heritage music; estate programming
   notes: "Non-commercial radio station operated by Biltmore Estate (historic mansion in North Carolina); classical music and heritage content; serves visitors and preservationists; broadcasts from Asheville, North Carolina area (coordinates: 33.777°N 84.387°W)."
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-c76fd6dd-cb98-4838-a22f-d80b4be421fa
+streams:
+  - url: http://ice64.securenetsystems.net/BILTMORE
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice3.securenetsystems.net/BILTMORE?clientType=web&host=webapp.US&modTime=1722555913800&profileid=8976948983&terminalid=159&territory=US&us_privacy=1-N-&callLetters=BILTMORE-FL&devicename=web-desktop&stationid=8433&dist=iheart&subscription_type=free&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fbiltmore-radio-8433%2F
+    codec: AAC+
+    bitrate: 32

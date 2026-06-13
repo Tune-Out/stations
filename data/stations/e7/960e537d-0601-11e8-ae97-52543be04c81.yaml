@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 08:51:19
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960e537d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Rock and alternative music
   notes: Regional German radio broadcaster; SH variant serves Schleswig-Holstein; rock and alternative music focus; part of Radio BOB! network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960e537d-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer/
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer
+    codec: MP3

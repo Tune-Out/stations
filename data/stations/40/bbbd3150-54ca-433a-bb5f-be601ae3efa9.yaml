@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:39:08
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-bbbd3150-54ca-433a-bb5f-be601ae3efa9
-streams:
-  - url: 'https://ice6.securenetsystems.net/INTRADIO'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice6.securenetsystems.net/INTRADIO?type=.mp3'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Music programming, Hindi language content
   notes: Limited public information available; appears to serve South Asian diaspora communities in the US.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bbbd3150-54ca-433a-bb5f-be601ae3efa9
+streams:
+  - url: https://ice6.securenetsystems.net/INTRADIO
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice6.securenetsystems.net/INTRADIO?type=.mp3
+    codec: AAC+
+    bitrate: 32

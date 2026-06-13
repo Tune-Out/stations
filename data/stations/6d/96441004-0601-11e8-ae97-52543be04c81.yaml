@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:54:35
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-96441004-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.wkdu.org/listen.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://streams.wkdu.org/listen.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,15 @@ research:
   format: eclectic programming, indie rock, alternative, college radio format
   notes: student-run college radio station licensed to Philadelphia, Pennsylvania on 91.7 FM; operated by Drexel University; free-form programming reflecting student interests and community engagement
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-96441004-0601-11e8-ae97-52543be04c81
+  - iprd-us-wkdu-91-7-drexel-university-95dc1153
+  - iprd-us-wkdu-91-7-drexel-university-d62ab8ff
+streams:
+  - url: http://streams.wkdu.org/listen.aac
+    codec: AAC
+    bitrate: 128
+  - url: http://streams.wkdu.org/listen.mp3
+    codec: MP3
+    bitrate: 128

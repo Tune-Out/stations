@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 2
 geo_lat: 48.1776994
 geo_long: 16.2877707
-curation: 0.55
-provenance:
-  - radiobrowser-ea50b1cd-b465-4935-99c5-3c7c0def4495
-streams:
-  - url: 'https://orf-live.ors-shoutcast.at/campus-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://orf-live.ors-shoutcast.at/campus-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: Campus radio, experimental radio, pop, world music
   notes: ORF Ö1 Campus is a public radio station run by Austrian Broadcasting Company (ORF). Campus radio format with experimental programming, pop, and world music focus. Based in Vienna.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-ea50b1cd-b465-4935-99c5-3c7c0def4495
+streams:
+  - url: https://orf-live.ors-shoutcast.at/campus-q2a
+    codec: MP3
+    bitrate: 192
+  - url: https://orf-live.ors-shoutcast.at/campus-q1a
+    codec: MP3
+    bitrate: 128

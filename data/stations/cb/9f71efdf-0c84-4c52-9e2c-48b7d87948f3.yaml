@@ -1,7 +1,7 @@
 stationuuid: 9f71efdf-0c84-4c52-9e2c-48b7d87948f3
 name: TMC Belo Horizonte
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac
+url: 'https://24233.live.streamtheworld.com:443/RT_BHAAC.aac'
+url_resolved: 'https://24233.live.streamtheworld.com:443/RT_BHAAC.aac'
 homepage: https://tmc.com.br/belo-horizonte/
 favicon: https://static.mytuner.mobi/media/tvos_radios/790/transamerica-belo-horizonte.15dd3e62.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-02-02 17:21:01
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9f71efdf-0c84-4c52-9e2c-48b7d87948f3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Music, news, and sports programming.
   notes: Commercial radio station operated by Transamerica; news, sports, and music format.
   sources: https://tmc.com.br/belo-horizonte/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-9f71efdf-0c84-4c52-9e2c-48b7d87948f3

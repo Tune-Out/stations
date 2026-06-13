@@ -22,24 +22,6 @@ lastchangetime: 2026-01-15 01:36:04
 clickcount: 0
 geo_lat: 47.379373218513365
 geo_long: 8.540630936622621
-curation: 0.60
-provenance:
-  - radiobrowser-86704d8f-918e-4e34-ad86-a6a89b9a9b15
-streams:
-  - url: 'https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.pls'
-    url_resolved: 'https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://rundfunkfm.broadcast.brandsarelive.com:8020/radio.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.m3u'
-    url_resolved: 'https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3'
-    codec: MP3
-    bitrate: 170
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -49,3 +31,22 @@ research:
   format: "Two rotating 12-hour cycles: Circle A (Atmosphere) with curated listening music; Circle B (Rhythm) with dance music; themed daily shows (Home Clubbing, Nightshift, Morning Glory, The Flow)"
   notes: Founded 2000 by grassroots music enthusiasts; 45-day summer festival (July-Sept) at Landesmuseum Zurich with 100+ DJs and satellite venues (~150 bars/restaurants/shops); "radio von und für Musikliebhaber/innen" (radio by and for music lovers); DAB+ and webstream since 2015.
   sources: https://rundfunk.fm/
+curation: 0.6
+provenance:
+  - radiobrowser-86704d8f-918e-4e34-ad86-a6a89b9a9b15
+  - iprd-ch-rundfunk-fm-cf2257b0
+streams:
+  - url: https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.pls
+    url_resolved: https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://rundfunkfm.broadcast.brandsarelive.com:8020/radio.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.m3u
+    url_resolved: https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3
+    codec: MP3
+    bitrate: 320
+  - url: http://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3
+    codec: MP3
+    bitrate: 170

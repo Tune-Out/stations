@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0762e803-6521-4d0f-a652-08f6933ab67d
-streams:
-  - url: 'http://live.yarravalleyfm.org.au:8080/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://live.yarravalleyfm.org.au:8443/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,15 @@ research:
   format: Community radio with varied programming
   notes: Community radio station serving Yarra Valley area (famous Australian wine region); operates as volunteer-run community broadcaster with local focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0762e803-6521-4d0f-a652-08f6933ab67d
+  - iprd-au-3vyv-99-1-40da73b1
+  - iprd-au-yarra-valley-fm-188b42ad
+streams:
+  - url: http://live.yarravalleyfm.org.au:8080/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://live.yarravalleyfm.org.au:8443/stream
+    codec: MP3
+    bitrate: 128

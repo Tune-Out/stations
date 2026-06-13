@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:17:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9616b635-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radioespace.ice.infomaniak.ch/radioespace-high.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://radioespace.ice.infomaniak.ch/radioespace-high.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,15 @@ research:
   format: General interest music and talk programming; community-focused format
   notes: Community radio station in France; based in Auvergne-Rhône-Alpes region; 275 listener votes
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9616b635-0601-11e8-ae97-52543be04c81
+  - iprd-fr-radio-espace-2a7c03d5
+  - iprd-fr-radio-espace-dabd6534
+streams:
+  - url: http://radioespace.ice.infomaniak.ch/radioespace-high.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://radioespace.ice.infomaniak.ch/radioespace-high.mp3
+    codec: MP3
+    bitrate: 192

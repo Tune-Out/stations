@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: 47.031618175944175
 geo_long: -65.49207687377931
-curation: -0.10
-provenance:
-  - radiobrowser-086126e6-76a1-445c-b710-ce65e8ffdcea
-streams:
-  - url: 'http://newcap.leanstream.co/CHHIFM'
-    codec: AAC
-    bitrate: 132
-  - url: 'http://newcap.leanstream.co/CHHIFM'
-    codec: AAC
-    bitrate: 131
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Classic hits / oldies (70s, 80s, 90s music)
   notes: Rebranded as "Rewind 95.9" offering 70s/80s/90s format. Part of Stingray network serving Miramichi region. Launched format change as noted in tags.
   sources: https://rewind959.ca/, internal knowledge
+curation: -0.1
+provenance:
+  - radiobrowser-086126e6-76a1-445c-b710-ce65e8ffdcea
+  - iprd-ca-chhi-95-9-sun-fm-fcd86df1
+streams:
+  - url: http://newcap.leanstream.co/CHHIFM
+    codec: AAC
+    bitrate: 132
+  - url: http://newcap.leanstream.co/CHHIFM
+    codec: AAC
+    bitrate: 131

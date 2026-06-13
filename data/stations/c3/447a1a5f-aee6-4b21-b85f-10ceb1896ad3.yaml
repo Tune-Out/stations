@@ -1,7 +1,7 @@
 stationuuid: 447a1a5f-aee6-4b21-b85f-10ceb1896ad3
 name: Alpha FM 101.7 MHz (São Paulo - SP)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac
+url: 'https://26653.live.streamtheworld.com:443/RADIO_ALPHAFM_ADP.aac'
+url_resolved: 'https://26653.live.streamtheworld.com:443/RADIO_ALPHAFM_ADP.aac'
 homepage: https://www.alphafm.com.br/
 favicon: https://cdn-profiles.tunein.com/s8129/images/logod.jpg
 tags: []
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 37
 geo_lat: -23.557886016076367
 geo_long: -46.66001647710801
-curation: -0.05
-provenance:
-  - radiobrowser-447a1a5f-aee6-4b21-b85f-10ceb1896ad3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,6 @@ research:
   format: Light music, adult contemporary, and Brazilian popular music (MPB, sertanejo, pop); entertainment and information programming
   notes: Commercial FM station in São Paulo metropolitan area on 101.7 MHz. One of the major stations in Brazil. Broadcasts music and talk programming to mass Brazilian audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-447a1a5f-aee6-4b21-b85f-10ceb1896ad3

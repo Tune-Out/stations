@@ -20,20 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-b1b48722-cf72-4ce0-9b36-34cd43275a0a
-streams:
-  - url: 'https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8'
-    codec: AAC
-    bitrate: 64
-    hls: true
-  - url: 'http://icecast.rtl.fr/rtl-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast.rtl.fr/rtl-1-44-128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +29,25 @@ research:
   format: Classical music; specialty classical format (despite general RTL commercial brand)
   notes: RTL (rtl.fr); France's major commercial radio station; part of RTL Groupe (Bertelsmann); primarily news/talk/music but this stream features classical format; one of France's most-listened stations
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-b1b48722-cf72-4ce0-9b36-34cd43275a0a
+  - iprd-fr-rtl-ec69e6db
+  - iprd-fr-rtl-18512127
+  - iprd-fr-rtl-aa122ed2
+  - iprd-fr-rtl-7aa907d0
+  - iprd-fr-rtl-4cf3226b
+  - iprd-fr-rtl-af50003f
+  - iprd-fr-rtl-90fa6d58
+  - iprd-fr-rtl-9d4456f0
+streams:
+  - url: https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
+    codec: AAC
+    bitrate: 64
+    hls: true
+  - url: http://icecast.rtl.fr/rtl-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast.rtl.fr/rtl-1-44-128
+    codec: MP3
+    bitrate: 128

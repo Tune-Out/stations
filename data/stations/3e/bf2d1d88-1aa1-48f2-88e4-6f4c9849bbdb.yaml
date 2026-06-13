@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bf2d1d88-1aa1-48f2-88e4-6f4c9849bbdb
-streams:
-  - url: 'http://radio.oldxit.ru:8030/radio?11765309886134812'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://radio.oldxit.ru:8030/radio'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: General programming
   notes: Radio RiperAM is a Russian internet radio station providing streaming audio content to online audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bf2d1d88-1aa1-48f2-88e4-6f4c9849bbdb
+  - iprd-ru-radio-oldkhit-9f0393a2
+streams:
+  - url: http://radio.oldxit.ru:8030/radio?11765309886134812
+    codec: MP3
+    bitrate: 320
+  - url: http://radio.oldxit.ru:8030/radio
+    codec: MP3
+    bitrate: 320

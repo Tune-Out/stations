@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:11:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96471cd4-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://sr3.inmystream.info:8002/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://sr7.inmystream.it/proxy/vanessa?mp=/stream&1769754430506'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Pop music and contemporary hits, 192kbps MP3
   notes: Regional commercial radio station based in Venice, Veneto region. Focuses on pop and contemporary music for local and regional audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96471cd4-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-vanessa-5244f261
+streams:
+  - url: http://sr3.inmystream.info:8002/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://sr7.inmystream.it/proxy/vanessa?mp=/stream&1769754430506
+    codec: MP3
+    bitrate: 192

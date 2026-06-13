@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 06:24:38
 clickcount: 1
 geo_lat: -26.8174738448944
 geo_long: -65.20145416259767
-curation: -0.05
-provenance:
-  - radiobrowser-3dbda587-229f-4d9c-9149-7a48daeba6ef
-streams:
-  - url: 'https://ssl.radiosnethosting.com/index.php?port=9808'
-    codec: MP3
-  - url: 'https://ssl.radiosnethosting.com/index.php?port=9244'
-    codec: MP3
-  - url: 'https://ssl.radiosnethosting.com/index.php?port=8004'
-    codec: MP3
-  - url: 'https://ssl.radiosnethosting.com/index.php?port=9072'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +30,16 @@ research:
   format: Music and entertainment programming
   notes: Local station serving Tucumán in northwestern Argentina
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3dbda587-229f-4d9c-9149-7a48daeba6ef
+  - iprd-ar-radio-gualamba-93-7-9b95df7f
+streams:
+  - url: https://ssl.radiosnethosting.com/index.php?port=9808
+    codec: MP3
+  - url: https://ssl.radiosnethosting.com/index.php?port=9244
+    codec: MP3
+  - url: https://ssl.radiosnethosting.com/index.php?port=8004
+    codec: MP3
+  - url: https://ssl.radiosnethosting.com/index.php?port=9072
+    codec: MP3

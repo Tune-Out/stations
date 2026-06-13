@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 02:39:23
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-e906b683-06cf-42bd-b765-55d950af29c0
-streams:
-  - url: 'http://stream.techno.fm/radio1-320k.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://stream.techno.fm/radio1-192k.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.techno.fm/radio1-96k.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +31,16 @@ research:
   format: 24/7 underground techno, house, acid techno, and electronic music; DJ mixes and podcasts
   notes: Non-commercial platform with shows like Drumcode Radio Live and RAVE on sistaz (supporting female artists); international club recordings and producer sets
   sources: https://techno.fm/
+curation: 0.5
+provenance:
+  - radiobrowser-e906b683-06cf-42bd-b765-55d950af29c0
+streams:
+  - url: http://stream.techno.fm/radio1-320k.mp3
+    codec: MP3
+    bitrate: 320
+  - url: http://stream.techno.fm/radio1-192k.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.techno.fm/radio1-96k.mp3
+    codec: MP3
+    bitrate: 96

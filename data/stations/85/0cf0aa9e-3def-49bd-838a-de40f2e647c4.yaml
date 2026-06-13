@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:08:10
 clickcount: 2
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.30
-provenance:
-  - radiobrowser-0cf0aa9e-3def-49bd-838a-de40f2e647c4
-streams:
-  - url: 'https://0n-deutschrock.radionetz.de/0n-deutschrock.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,28 @@ research:
   format: Deutsch rock, hard rock, alternative rock, and metal programming
   notes: '0 N (Zero Nord) is a commercial online radio station operated by entire media, a German private media company. Part of a 56+ channel network spanning multiple genres and decades. Features live DJs and curated Deutsch rock/hard rock content. Tagline: "Your choice, your music!" emphasizing listener autonomy.'
   sources: http://www.0nradio.com/
+curation: 0.3
+provenance:
+  - radiobrowser-0cf0aa9e-3def-49bd-838a-de40f2e647c4
+  - iprd-de-on-radio-deutsch-rock-25687f4f
+  - iprd-de-on-radio-deutsch-rock-d2c8926d
+  - iprd-de-on-radio-edm-99cdc377
+  - iprd-de-on-radio-edm-005bfe79
+  - iprd-de-on-radio-fresh-2ef01573
+  - iprd-de-on-radio-fresh-9e73753f
+  - iprd-de-on-radio-games-294f6894
+  - iprd-de-on-radio-games-ae913e34
+  - iprd-de-on-radio-grand-prix-a4712b3d
+  - iprd-de-on-radio-grand-prix-66b84405
+  - iprd-de-on-radio-kids-3456c936
+  - iprd-de-on-radio-kids-5ae878a7
+  - iprd-de-on-radio-kult-07be16d7
+  - iprd-de-on-radio-kult-f65f5f6a
+  - iprd-de-on-radio-weihnachten-e38cd7ae
+streams:
+  - url: https://0n-deutschrock.radionetz.de/0n-deutschrock.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3
+    codec: MP3
+    bitrate: 128

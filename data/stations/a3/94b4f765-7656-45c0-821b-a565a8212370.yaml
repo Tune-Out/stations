@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:40:20
 clickcount: 0
 geo_lat: 52.16005965826425
 geo_long: 11.635894775390629
-curation: 0.35
-provenance:
-  - radiobrowser-94b4f765-7656-45c0-821b-a565a8212370
-streams:
-  - url: 'https://stream.laut.fm/klangruinen'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://laut.fm/klangruinen'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Punk rock music, alternative programming
   notes: German independent online radio station (Klang Ruinen) based in Magdeburg; focuses on punk rock and alternative music; streamed via laut.fm community platform.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-94b4f765-7656-45c0-821b-a565a8212370
+streams:
+  - url: https://stream.laut.fm/klangruinen
+    codec: MP3
+    bitrate: 128
+  - url: https://laut.fm/klangruinen
+    codec: MP3
+    bitrate: 128

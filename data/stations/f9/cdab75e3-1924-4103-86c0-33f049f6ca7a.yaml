@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-cdab75e3-1924-4103-86c0-33f049f6ca7a
-streams:
-  - url: 'https://popradio.stweb.tv/popradio/live/playlist.m3u8'
-    codec: AAC
-    bitrate: 98
-    hls: true
-  - url: 'https://popradio.stweb.tv/popradio/live/chunks.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +28,15 @@ research:
   format: Pop music; contemporary hits; Argentine pop.
   notes: Commercial radio station broadcasting on 101.5 FM in Argentina. Focuses on pop music for general audiences. Offers HLS streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cdab75e3-1924-4103-86c0-33f049f6ca7a
+  - iprd-ar-radio-pop-101-5-e0e56d1c
+streams:
+  - url: https://popradio.stweb.tv/popradio/live/playlist.m3u8
+    codec: AAC
+    bitrate: 98
+    hls: true
+  - url: https://popradio.stweb.tv/popradio/live/chunks.m3u8
+    codec: UNKNOWN
+    hls: true

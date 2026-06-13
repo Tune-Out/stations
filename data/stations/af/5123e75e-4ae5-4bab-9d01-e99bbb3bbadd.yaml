@@ -25,16 +25,6 @@ lastchangetime: 2026-02-18 14:12:08
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-5123e75e-4ae5-4bab-9d01-e99bbb3bbadd
-streams:
-  - url: 'http://stream.radioparadise.com/beyond-320'
-    codec: AAC
-    bitrate: 320
-  - url: 'http://stream.radioparadise.com/beyond-128'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +34,13 @@ research:
   format: Curated alternative rock, electronic, folk, indie, and world music
   notes: Independent listener-supported internet radio station based in California; known for eclectic music curation and high-quality programming; listener-funded non-commercial model.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-5123e75e-4ae5-4bab-9d01-e99bbb3bbadd
+streams:
+  - url: http://stream.radioparadise.com/beyond-320
+    codec: AAC
+    bitrate: 320
+  - url: http://stream.radioparadise.com/beyond-128
+    codec: AAC
+    bitrate: 128

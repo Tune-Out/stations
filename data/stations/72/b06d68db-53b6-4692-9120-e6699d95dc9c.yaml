@@ -1,7 +1,7 @@
 stationuuid: b06d68db-53b6-4692-9120-e6699d95dc9c
 name: Classical KDFC
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac
+url: 'https://16603.live.streamtheworld.com:443/KDFCFMAAC.aac'
+url_resolved: 'https://16603.live.streamtheworld.com:443/KDFCFMAAC.aac'
 homepage: https://www.kdfc.com/
 favicon: https://radiostationusa.fm/assets/image/radio/180/KDFCFM.png
 tags:
@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 23:52:39
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-b06d68db-53b6-4692-9120-e6699d95dc9c
-streams:
-  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://provisioning.streamtheworld.com/pls/KDFCFM5.pls'
-    url_resolved: 'http://18243.live.streamtheworld.com:3690/KDFCFM5_SC'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,15 @@ research:
   format: 24/7 classical music with hosted programs, concert broadcasts, and curated playlists
   notes: KDFC began broadcasting in 1948 as a commercial classical station serving the San Francisco Bay Area; for decades one of the few remaining full-time commercial classical stations in the U.S., it shifted to a non-commercial, listener-supported model in 2011 after USC purchased the broadcast rights and integrated it with KUSC (Los Angeles); the stations now operate as the Classical California network, simulcast across multiple frequencies including 90.3 FM San Francisco, 89.9 FM Angwin/Napa, and 92.5 FM Ukiah; hosts have included Hoyt Smith, Rik Malone, Dianne Nicolini, and Jeffrey Freymann; broadcasts San Francisco Symphony, San Francisco Opera, and other Bay Area cultural institutions.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-b06d68db-53b6-4692-9120-e6699d95dc9c
+  - iprd-us-classical-kdfc-dc6ef251
+streams:
+  - url: 'https://16603.live.streamtheworld.com:443/KDFCFMAAC.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://29313.live.streamtheworld.com:80/KDFCFM5_SC'
+    url_resolved: http://18243.live.streamtheworld.com:3690/KDFCFM5_SC
+    codec: AAC+
+    bitrate: 96

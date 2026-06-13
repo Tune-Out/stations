@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:57:08
 clickcount: 11
 geo_lat: 47.0544106
 geo_long: 15.4614499
-curation: 0.65
-provenance:
-  - radiobrowser-f0787305-4e27-4494-b5ae-8f9082301f1a
-streams:
-  - url: 'http://orf-live.ors-shoutcast.at/stm-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://orf-live.ors-shoutcast.at/stm-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: "Regional full-service public radio: Austrian/Schlager/oldies-leaning popular music, hourly news, traffic, weather, regional reporting, sport and folk culture"
   notes: Radio Steiermark is one of nine ORF Bundesland (regional) stations, broadcast from the Landesstudio in Graz; it is consistently among the most-listened regional stations in Austria and serves as the area's main source of regional news and emergency information (Katwarn/civil-protection partner) alongside ORF television (ORF 2 Steiermark) and the orf.at portal. As part of ORF it is bound by the public-service remit of objectivity, plurality, and federalism set out in the ORF-Gesetz.
   sources: https://steiermark.orf.at/player/, internal knowledge of ORF
+curation: 0.65
+provenance:
+  - radiobrowser-f0787305-4e27-4494-b5ae-8f9082301f1a
+  - iprd-at-orf-radio-steiermark-f078c262
+streams:
+  - url: http://orf-live.ors-shoutcast.at/stm-q2a
+    codec: MP3
+    bitrate: 192
+  - url: http://orf-live.ors-shoutcast.at/stm-q1a
+    codec: MP3
+    bitrate: 128

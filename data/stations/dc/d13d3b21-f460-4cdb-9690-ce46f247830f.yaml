@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-d13d3b21-f460-4cdb-9690-ce46f247830f
-streams:
-  - url: 'http://n01.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABhBO5yeUAhfsJOCv6Zdl9QA'
-    codec: MP3
-  - url: 'http://n01.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABhBPPq2QAgtFa9ZK1B4aqYA'
-    codec: MP3
-  - url: 'http://stream.radiojar.com/atr1e8aswa5tv.m3u'
-    url_resolved: 'http://n01.radiojar.com/atr1e8aswa5tv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +29,15 @@ research:
   format: Classical music radio station; specialized in classical and art music programming.
   notes: French non-commercial radio focusing on classical music and cultural content.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-d13d3b21-f460-4cdb-9690-ce46f247830f
+  - iprd-fr-size-radio-5ef5a013
+streams:
+  - url: http://n01.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABhBO5yeUAhfsJOCv6Zdl9QA
+    codec: MP3
+  - url: http://n01.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABhBPPq2QAgtFa9ZK1B4aqYA
+    codec: MP3
+  - url: http://stream.radiojar.com/atr1e8aswa5tv.m3u
+    url_resolved: http://n01.radiojar.com/atr1e8aswa5tv
+    codec: MP3

@@ -25,16 +25,6 @@ lastchangetime: 2026-05-02 18:49:30
 clickcount: 0
 geo_lat: 20.064117086836184
 geo_long: -97.05536842346191
-curation: -0.05
-provenance:
-  - radiobrowser-917d3036-6706-4c9a-af35-d4e681e06b04
-streams:
-  - url: 'http://cento02.mipanelradio.com/proxy/abadillo'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://cento02.mipanelradio.com/proxy/abadillo?mp=/;'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: contemporary hits radio (Top 40, pop music in Spanish and English)
   notes: Part of LOS40 network; commercial contemporary hits format targeting youth audience
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-917d3036-6706-4c9a-af35-d4e681e06b04
+  - iprd-mx-los40-89-9-xhhu-a331a37f
+streams:
+  - url: http://cento02.mipanelradio.com/proxy/abadillo
+    codec: MP3
+    bitrate: 64
+  - url: https://cento02.mipanelradio.com/proxy/abadillo?mp=/;
+    codec: MP3
+    bitrate: 64

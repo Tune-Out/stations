@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:47:33
 clickcount: 41
 geo_lat: null
 geo_long: null
-curation: 0.10
-provenance:
-  - radiobrowser-96414555-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://broadcast.ice.infomaniak.ch/aswat-high.mp3?.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://broadcast.ice.infomaniak.ch/aswat-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,15 @@ research:
   format: Community-oriented programming, diverse content serving local audiences.
   notes: Casablanca-based Moroccan community radio station; Arabic-language programming; operates as non-commercial community broadcasting; part of broader Moroccan community radio landscape.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-96414555-0601-11e8-ae97-52543be04c81
+  - iprd-ma-aswat-radio-aba3f36e
+  - iprd-ma-radio-aswat-104-3-51c51830
+streams:
+  - url: http://broadcast.ice.infomaniak.ch/aswat-high.mp3?.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://broadcast.ice.infomaniak.ch/aswat-high.mp3
+    codec: MP3
+    bitrate: 128

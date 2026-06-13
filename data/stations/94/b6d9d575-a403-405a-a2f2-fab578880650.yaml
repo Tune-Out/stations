@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:26:25
 clickcount: 0
 geo_lat: 41.99616627561355
 geo_long: 21.426716744899753
-curation: 0.25
-provenance:
-  - radiobrowser-b6d9d575-a403-405a-a2f2-fab578880650
-streams:
-  - url: 'https://radiostream.neotel.mk/samomk'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://radiostream.neotel.mk/samomk'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Macedonian contemporary, jazz, pop, rock music
   notes: Samo MK is a radio station in North Macedonia broadcasting Macedonian music including contemporary, jazz, pop, and rock genres. Serves Macedonian-speaking audiences.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-b6d9d575-a403-405a-a2f2-fab578880650
+streams:
+  - url: https://radiostream.neotel.mk/samomk
+    codec: MP3
+    bitrate: 256
+  - url: http://radiostream.neotel.mk/samomk
+    codec: MP3
+    bitrate: 256

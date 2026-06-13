@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a82a268b-bd3f-4ae0-b081-96b87d7fb6e8
-streams:
-  - url: 'https://streaming3.locucionar.com/proxy/infopico999?mp=%2Fstream'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://streaming3.locucionar.com/proxy/infopico999?mp=/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Full service commercial radio; news and information programming
   notes: InfoPico Radio 99.9 is a commercial FM radio station based in General Pico, La Pampa Province, Argentina. Serves the local community with news, information, and general radio programming. Part of regional Argentinean radio network.
   sources: https://www.infopico.com/radio/, internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a82a268b-bd3f-4ae0-b081-96b87d7fb6e8
+streams:
+  - url: https://streaming3.locucionar.com/proxy/infopico999?mp=%2Fstream
+    codec: MP3
+    bitrate: 64
+  - url: https://streaming3.locucionar.com/proxy/infopico999?mp=/stream
+    codec: MP3
+    bitrate: 64

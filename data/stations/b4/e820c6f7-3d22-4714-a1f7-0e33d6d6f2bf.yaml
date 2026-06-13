@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 06:20:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-e820c6f7-3d22-4714-a1f7-0e33d6d6f2bf
-streams:
-  - url: 'http://stream.zeno.fm/wrwfdegzvk8uv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/wrwfdegzvk8uv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +33,11 @@ research:
   format: Classic funk/soul jazz from artists like Grant Green, Lonnie Smith, Lou Donaldson, and Grover Washington Jr.
   notes: Operated by independent broadcaster through Zeno.FM streaming platform; accepts PayPal donations; maintains musizmanradio.com
   sources: https://zeno.fm/radio/kjgr-jazz-grooves/
+curation: 0.55
+provenance:
+  - radiobrowser-e820c6f7-3d22-4714-a1f7-0e33d6d6f2bf
+streams:
+  - url: http://stream.zeno.fm/wrwfdegzvk8uv
+    codec: MP3
+  - url: https://stream.zeno.fm/wrwfdegzvk8uv
+    codec: MP3

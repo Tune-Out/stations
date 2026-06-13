@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 01:19:59
 clickcount: 0
 geo_lat: 29.09634191606591
 geo_long: -110.96886634826662
-curation: -0.05
-provenance:
-  - radiobrowser-6bc36d14-bedc-4560-aba1-e617407a1af7
-streams:
-  - url: 'https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8'
-    codec: AAC
-    bitrate: 131
-    hls: true
-  - url: 'https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +33,15 @@ research:
   format: Latin pop, reggaeton, urban music, mainstream pop
   notes: Mexican commercial radio station XHEDL-FM (Radio Activa 89.7 FM) in Hermosillo, Sonora. Operated by Grupo RADIOSA broadcasting via iHeartMedia platform. Targets urban and youth audiences with Latin pop, reggaeton, and contemporary Spanish music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6bc36d14-bedc-4560-aba1-e617407a1af7
+streams:
+  - url: https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
+    codec: AAC
+    bitrate: 131
+    hls: true
+  - url: https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true

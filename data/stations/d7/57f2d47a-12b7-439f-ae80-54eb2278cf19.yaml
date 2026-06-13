@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-57f2d47a-12b7-439f-ae80-54eb2278cf19
-streams:
-  - url: 'https://livestreaming3.esradio.fm/stream64.mp3'
-    codec: MP3
-    bitrate: 56
-  - url: 'http://livestreaming3.esradio.fm/stream64.mp3'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: News, opinion, current affairs, political commentary, talk radio; Spanish general programming
   notes: Spanish commercial news and opinion radio part of Libertad Digital media group. Known for conservative and libertarian editorial stance. Spanish general interest format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-57f2d47a-12b7-439f-ae80-54eb2278cf19
+  - iprd-es-esradio-madrid-47d8533b
+streams:
+  - url: https://livestreaming3.esradio.fm/stream64.mp3
+    codec: MP3
+    bitrate: 56
+  - url: http://livestreaming3.esradio.fm/stream64.mp3
+    codec: MP3
+    bitrate: 56

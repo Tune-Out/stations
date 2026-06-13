@@ -1,7 +1,7 @@
 stationuuid: e4b272d4-de36-403b-845b-0cd416de0f84
 name: La Mejor Tampico - 100.1 FM - XHJT-FM - MVS Radio - Tampico, TM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHJT_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHJT_SC
+url: 'https://18213.live.streamtheworld.com:443/XHJT_SC'
+url_resolved: 'https://18213.live.streamtheworld.com:443/XHJT_SC'
 homepage: https://www.lamejor.com.mx/tampico/
 favicon: https://www.lamejor.com.mx/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:21:20
 clickcount: 1
 geo_lat: 22.23325471469895
 geo_long: -97.86221981048584
-curation: -0.05
-provenance:
-  - radiobrowser-e4b272d4-de36-403b-845b-0cd416de0f84
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,8 @@ research:
   format: Banda, banda norteña, and regional Mexican music.
   notes: '"La Mejor" (The Best) 100.1 FM in Tampico is part of the MVS Radio network. Specializes in banda and regional Mexican music (música regional mexicana) popular in northern Mexico.'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e4b272d4-de36-403b-845b-0cd416de0f84
+  - iprd-mx-fm-globo-poza-rica-102-7-1020-xhpr-xepr-2503f9f5
+  - iprd-mx-la-mejor-97-1-xhpe-c5335550

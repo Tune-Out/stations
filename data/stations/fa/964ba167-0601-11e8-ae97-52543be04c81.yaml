@@ -1,6 +1,6 @@
 stationuuid: 964ba167-0601-11e8-ae97-52543be04c81
 name: WGEE 93.5 & 99.7 "Duke FM" New London, WI
-url: http://provisioning.streamtheworld.com/pls/WGEEFMAAC.pls
+url: 'http://15693.live.streamtheworld.com:80/WGEEFMAAC_SC'
 url_resolved: http://14543.live.streamtheworld.com:3690/WGEEFMAAC_SC
 homepage: http://duke.fm/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2170/squareIcon.png?r=97218
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:28:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964ba167-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music; dual-frequency (93.5 and 99.7 FM); serves Appleton, Oshkosh, Green Bay markets
   notes: Station call letters WGEE; branded as "Duke FM"; established commercial country station covering Wisconsin Fox Valley region
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964ba167-0601-11e8-ae97-52543be04c81

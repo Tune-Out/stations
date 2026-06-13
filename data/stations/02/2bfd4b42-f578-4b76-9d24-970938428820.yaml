@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 05:54:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2bfd4b42-f578-4b76-9d24-970938428820
-streams:
-  - url: 'https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.exclusive.radio/er/alicecooper/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,13 @@ research:
   format: Alice Cooper exclusive programming; classic rock hits
   notes: International internet radio platform based in Dubai, UAE, offering dedicated artist and genre-specific streams. Alice Cooper channel features the American rock legend's complete discography and hits. Part of broader Exclusive Radio network with numerous artist-focused channels.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2bfd4b42-f578-4b76-9d24-970938428820
+  - iprd-ae-alice-cooper-6bf43a4f
+  - iprd-ae-alice-cooper-hits-ee16f9b0
+streams:
+  - url: https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio
+    codec: MP3
+  - url: https://streaming.exclusive.radio/er/alicecooper/icecast.audio
+    codec: MP3

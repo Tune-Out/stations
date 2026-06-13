@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3d4a81c5-d6af-4cf9-bd6c-020a46bf5e26
-streams:
-  - url: 'http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Afro-jazz fusion; African jazz traditions; world jazz and global jazz influences
   notes: Specialized webradio format from JazzRadio network (France); focuses on afro-jazz and African jazz fusion music; part of broader jazz radio programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3d4a81c5-d6af-4cf9-bd6c-020a46bf5e26
+  - iprd-fr-jazz-radio-afro-e2930bab
+streams:
+  - url: http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:37:06
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-9bb3c006-3495-4f59-b3bd-eed3a549b1cf
-streams:
-  - url: 'http://lhttp.qingting.fm/live/5022338/64k.mp3'
-    codec: MP3
-  - url: 'https://stream.hrbtv.net/gdpl/playlist.m3u8'
-    codec: UNKNOWN
-    bitrate: 48
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: classical music, symphonies, concertos, opera
   notes: State-owned public broadcaster specializing in classical music; serves Harbin and northeast China region
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-9bb3c006-3495-4f59-b3bd-eed3a549b1cf
+  - iprd-cn-harbin-classical-music-radio-50542e07
+  - iprd-cn-harbin-classical-music-radio-18da7e4a
+streams:
+  - url: http://lhttp.qingting.fm/live/5022338/64k.mp3
+    codec: MP3
+  - url: https://stream.hrbtv.net/gdpl/playlist.m3u8
+    codec: UNKNOWN
+    bitrate: 48
+    hls: true

@@ -32,18 +32,6 @@ lastchangetime: 2026-01-15 01:46:17
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-706b72b4-792a-4be4-a4e6-c245aae5ffc2
-streams:
-  - url: 'http://stream.laut.fm/radioparty'
-    url_resolved: 'http://radioparty.stream.laut.fm/radioparty?t302=2026-01-15_01-44-46&uuid=7f9c111e-4599-4d16-8724-36bc9b3db543'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/radioparty.pls'
-    url_resolved: 'http://radioparty.stream.laut.fm/radioparty?pl=pls&t302=2026-01-15_05-01-19&uuid=15f77ef3-38ed-4e3a-b81c-2232ad1d3a21'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -53,3 +41,15 @@ research:
   format: 24/7 party music mixing 80s/90s discofox oldies, house, pop, rock, schlager, techno, trance, and top 40/2000s club music; "hands up hardstyle" dance focus with emphasis on party atmosphere.
   notes: German community radio via laut.fm; operates across Deutschland and NRW; 24/7 continuous party music mix combining Euro-dance, house, hardstyle, trance, and classic party formats.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-706b72b4-792a-4be4-a4e6-c245aae5ffc2
+streams:
+  - url: http://stream.laut.fm/radioparty
+    url_resolved: http://radioparty.stream.laut.fm/radioparty?t302=2026-01-15_01-44-46&uuid=7f9c111e-4599-4d16-8724-36bc9b3db543
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/radioparty.pls
+    url_resolved: http://radioparty.stream.laut.fm/radioparty?pl=pls&t302=2026-01-15_05-01-19&uuid=15f77ef3-38ed-4e3a-b81c-2232ad1d3a21
+    codec: MP3
+    bitrate: 128

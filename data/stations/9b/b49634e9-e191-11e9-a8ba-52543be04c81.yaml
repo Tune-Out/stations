@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-b49634e9-e191-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-rapfeature-128-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-rapfeature-64-aac'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Rap, hip-hop, urban music programming
   notes: Commercial online radio channel of bigFM network (Germany); specialized rap/hip-hop stream; part of larger German radio conglomerate
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-b49634e9-e191-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-rapfeature-128-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-rapfeature-64-aac
+    codec: MP3

@@ -29,25 +29,6 @@ lastchangetime: 2026-01-15 02:18:30
 clickcount: 2
 geo_lat: 40.21946678644641
 geo_long: -74.01317596435548
-curation: 0.55
-provenance:
-  - radiobrowser-10a9a02e-f52c-4a27-8dd6-4d00996593a4
-streams:
-  - url: 'https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_ambient/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.theindiebeat.fm/listen/nham/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.theindiebeat.fm/listen/the_indie_beat_radio_pop/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_rock/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_jazz/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -57,3 +38,22 @@ research:
   format: Ambient, ambient techno, dark ambient, deep ambient; indie and independent music; experimental and diverse programming
   notes: '"Discover independent music from artists in the Fediverse"; mission statement "MAKE ART NOT BILLIONAIRES"; open-source community radio model; 4,792+ tracks from independent artists; operates Ambient Channel and multiple genre channels; Azura streaming platform; serves global community via internet'
   sources: https://theindiebeat.fm/ambient/
+curation: 0.55
+provenance:
+  - radiobrowser-10a9a02e-f52c-4a27-8dd6-4d00996593a4
+streams:
+  - url: https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_ambient/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.theindiebeat.fm/listen/nham/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.theindiebeat.fm/listen/the_indie_beat_radio_pop/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_rock/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_jazz/radio.mp3
+    codec: MP3
+    bitrate: 128

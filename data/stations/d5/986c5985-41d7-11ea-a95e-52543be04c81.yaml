@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:02:42
 clickcount: 217
 geo_lat: null
 geo_long: null
-curation: 0.10
-provenance:
-  - radiobrowser-986c5985-41d7-11ea-a95e-52543be04c81
-streams:
-  - url: 'http://shoutcast.radio24.it:8000/'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://shoutcast2.radio24.it:8000/;'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: news/talk with strong focus on economics, finance, politics, and current affairs; signature shows include "24 Mattino", "La Zanzara", "Effetto Giorno", "Focus Economia"
   notes: launched 4 October 1999; first all-talk private radio in Italy; runs irreverent talk show "La Zanzara" with Giuseppe Cruciani that has drawn occasional controversy; broadcasts business news bulletins around the clock
   sources: https://www.radio24.ilsole24ore.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-986c5985-41d7-11ea-a95e-52543be04c81
+  - iprd-it-radio-24-a2e2dc2f
+  - iprd-it-radio-24-3e665080
+streams:
+  - url: http://shoutcast.radio24.it:8000/
+    codec: AAC+
+    bitrate: 48
+  - url: http://shoutcast2.radio24.it:8000/;
+    codec: MP3
+    bitrate: 64

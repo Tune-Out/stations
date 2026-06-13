@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 03:29:48
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-96127e90-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.srg-ssr.ch/reteuno/aacp_32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/reteuno/aac/48'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://stream.srg-ssr.ch/m/reteuno/mp3_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,15 @@ research:
   format: General interest public radio; news, information, culture, music programming.
   notes: RSI Rete Uno is the flagship channel of RSI, the Italian-language service of SRG SSR (Swiss Broadcasting Corporation). Provides comprehensive public service programming with news, current affairs, cultural content, and music. Non-commercial, license-fee funded.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-96127e90-0601-11e8-ae97-52543be04c81
+  - iprd-ch-rsi-rete-uno-00125cef
+streams:
+  - url: http://stream.srg-ssr.ch/reteuno/aacp_32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/reteuno/aac/48
+    codec: AAC
+    bitrate: 48
+  - url: http://stream.srg-ssr.ch/m/reteuno/mp3_128
+    codec: MP3
+    bitrate: 128

@@ -23,22 +23,6 @@ lastchangetime: 2026-01-14 23:31:23
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9617d67b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://an02.cdn.eurozet.pl/ant-web.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://an01.cdn.eurozet.pl/ant-kat.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +32,21 @@ research:
   format: Rock and metal music format covering classic rock, hard rock, alternative, metal, grunge and modern Polish rock, with specialist evening shows on subgenres (metal, indie, blues), rock news and concert coverage
   notes: Antyradio launched on 26 March 2007 in Warsaw on 94.0 MHz as a rock alternative to mainstream pop CHR stations; the brand was created by Eurozet (then Polish-French ownership) to fill a gap left after Radio Wawa's reformatting; the network has since expanded to FM transmitters in Warsaw, Kraków, Łódź, Poznań, Wrocław and other cities plus nationwide reach via DAB+, the antyradio.pl player and mobile apps; signature slogan "Antyradio. Tu jest rock"; in 2019 Eurozet (including Antyradio, Radio Zet, Radio Plus and Meloradio) was sold by Lagardère Active to Czech Media Invest; the network is known for irreverent, edgy on-air branding and for hosting Polish rock concerts and festivals.
   sources: internal knowledge only (homepage fetch blocked)
+curation: 0.3
+provenance:
+  - radiobrowser-9617d67b-0601-11e8-ae97-52543be04c81
+  - iprd-pl-antyradio-6ed6dcaa
+  - iprd-pl-antyradio-3d83eebb
+streams:
+  - url: https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx
+    codec: AAC
+    bitrate: 128
+  - url: https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
+    codec: MP3
+    bitrate: 128
+  - url: https://an02.cdn.eurozet.pl/ant-web.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://an01.cdn.eurozet.pl/ant-kat.mp3
+    codec: MP3
+    bitrate: 128

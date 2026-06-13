@@ -1,6 +1,6 @@
 stationuuid: 6ecc3205-800f-4d55-b52a-d51f230bfd62
 name: Dr. Charles Stanley Radio
-url: https://provisioning.streamtheworld.com/pls/ITRN.pls
+url: 'http://26423.live.streamtheworld.com:80/ITRN_SC'
 url_resolved: http://22213.live.streamtheworld.com/ITRN_SC
 homepage: https://www.intouch.org/listen/charles-stanley-radio
 favicon: https://www.intouch.org/assets/images/247_radio_540x540.jpeg
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6ecc3205-800f-4d55-b52a-d51f230bfd62
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -31,3 +28,6 @@ research:
   format: Teaching messages, sermons, and religious counsel from Rev. Dr. Charles Stanley
   notes: In Touch Ministries operates this radio platform to broadcast sermons and spiritual teaching from longtime evangelical pastor Dr. Charles Stanley; U.S. based ministry
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6ecc3205-800f-4d55-b52a-d51f230bfd62

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:44:15
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-ee04add0-4028-49ca-b59d-57a74e5e4a77
-streams:
-  - url: 'https://comodin.uy/radio/8000/320.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://comodin.uy/radio/8000/128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Latin American and popular music from Argentina, Brazil, and Uruguay
   notes: Independent community radio station based in Montevideo, Uruguay; celebrates Latin American musical culture from Río Plata region; independent/community operation
   sources: https://fediverse.blog/, internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-ee04add0-4028-49ca-b59d-57a74e5e4a77
+  - iprd-uy-radio-pipi-cucu-ec5a7542
+streams:
+  - url: https://comodin.uy/radio/8000/320.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://comodin.uy/radio/8000/128.mp3
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:41:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-963777e6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.segenswelle.de:8000/plautdietsch-aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://www.segenswelle.de:8000/plautdietsch'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +32,15 @@ research:
   format: Christian contemporary music and religious programming in Plautdietsch language
   notes: Historically serves Mennonite and Russian-German diaspora communities; Plautdietsch is a Low German dialect spoken by Anabaptist groups; station founded to serve dispersed Plautdietsch speakers across Europe
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-963777e6-0601-11e8-ae97-52543be04c81
+  - iprd-de-sw-radio-plautdietsch-1a02b8eb
+  - iprd-de-sw-radio-plautdietsch-b58e9e56
+streams:
+  - url: http://www.segenswelle.de:8000/plautdietsch-aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://www.segenswelle.de:8000/plautdietsch
+    codec: MP3
+    bitrate: 64

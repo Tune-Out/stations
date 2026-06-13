@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9633ddcb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.camfm.co.uk/camfm'
-    codec: MP3
-  - url: 'https://stream.camfm.co.uk/camfm'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +31,12 @@ research:
   format: Eclectic student programming including music variety (1970s-present, pop, eclectic), sports news, pop culture, current affairs, and community content
   notes: Cam FM is Cambridge's established student radio station broadcasting on 97.2 FM. Notable shows include "Hello, It's Michael..." (music), "Polyjamory" (eclectic genres), "On the Limit" (sports), and community-driven content.
   sources: http://www.camfm.co.uk/
+curation: 0.35
+provenance:
+  - radiobrowser-9633ddcb-0601-11e8-ae97-52543be04c81
+  - iprd-gb-cambridge-university-student-radio-bf0ab486
+streams:
+  - url: http://stream.camfm.co.uk/camfm
+    codec: MP3
+  - url: https://stream.camfm.co.uk/camfm
+    codec: MP3

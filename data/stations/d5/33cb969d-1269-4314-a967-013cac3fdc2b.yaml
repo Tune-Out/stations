@@ -23,16 +23,6 @@ lastchangetime: 2026-05-20 02:54:06
 clickcount: 2
 geo_lat: 46.769523113066874
 geo_long: 23.58981639146805
-curation: -0.05
-provenance:
-  - radiobrowser-33cb969d-1269-4314-a967-013cac3fdc2b
-streams:
-  - url: 'https://hs1.radiolibertymp.ro/listen/lmpchill/stream.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://hs1.radiolibertymp.ro/listen/lmpchill/stream.mp3?refresh=1700228324588'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Chill/ambient, dance, house, relax; 24/7 streaming
   notes: Chillout-focused channel from LibertyMP offering ambient, dance, and house music for relaxation.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-33cb969d-1269-4314-a967-013cac3fdc2b
+streams:
+  - url: https://hs1.radiolibertymp.ro/listen/lmpchill/stream.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://hs1.radiolibertymp.ro/listen/lmpchill/stream.mp3?refresh=1700228324588
+    codec: MP3
+    bitrate: 256

@@ -22,20 +22,6 @@ lastchangetime: 2026-01-14 23:51:17
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-1808aee1-b1b0-4034-a110-7f28607cdf11
-streams:
-  - url: 'http://65.109.81.84:9851/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast4.asurahosting.com:2199/tunein/sleeprad.pls'
-    url_resolved: 'http://65.109.81.84:9851/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +31,18 @@ research:
   format: Commercial specialty; sleep, relaxation, ambient, meditation, sleep therapy music
   notes: New Zealand-based wellness broadcaster; specialized sleep and relaxation format; ambient soundscapes for relaxation and sleep
   sources: https://www.sleepradio.co.nz/
+curation: 0.3
+provenance:
+  - radiobrowser-1808aee1-b1b0-4034-a110-7f28607cdf11
+  - iprd-nz-sleep-radio-091ccbbc
+streams:
+  - url: http://65.109.81.84:9851/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://cast4.asurahosting.com:2199/tunein/sleeprad.pls
+    url_resolved: http://65.109.81.84:9851/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745
+    codec: MP3
+    bitrate: 128

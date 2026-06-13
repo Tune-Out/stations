@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0b696180-1aa1-4210-b401-f3946eb72b30
-streams:
-  - url: 'https://servidor36-4.brlogic.com:8474/live?source=website'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://servidor36-4.brlogic.com:8474/live'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Municipal community radio with local news, events, and civic programming.
   notes: "\"A RÁDIO DA CIDADE\" (The City's Radio) operated by local municipal government; covers local festivals, civic campaigns, health awareness, and community events; digital-first approach with web and mobile apps."
   sources: https://santabarbarafm.com/
+curation: 0.35
+provenance:
+  - radiobrowser-0b696180-1aa1-4210-b401-f3946eb72b30
+streams:
+  - url: https://servidor36-4.brlogic.com:8474/live?source=website
+    codec: AAC+
+    bitrate: 96
+  - url: https://servidor36-4.brlogic.com:8474/live
+    codec: AAC+
+    bitrate: 96

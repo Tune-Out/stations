@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 08:29:20
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-962b7a72-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://audio.streamshow.it:8006/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://audio.streamshow.it/proxy/radiocarina?mp=/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Adult contemporary, pop, and Top 40 music; local music programming
   notes: Radio Carina is a commercial regional radio station serving the Basilicata region in southern Italy, based in Potenza. Focuses on pop, adult contemporary, and Top 40 music with emphasis on local artists and community programming. 128kbps streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-962b7a72-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-carina-e25dbc7b
+streams:
+  - url: http://audio.streamshow.it:8006/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://audio.streamshow.it/proxy/radiocarina?mp=/stream
+    codec: MP3
+    bitrate: 128

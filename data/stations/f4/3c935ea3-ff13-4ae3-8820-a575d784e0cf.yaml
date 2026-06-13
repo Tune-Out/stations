@@ -1,7 +1,7 @@
 stationuuid: 3c935ea3-ff13-4ae3-8820-a575d784e0cf
 name: WIZM-AM NewsTalk 1410
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WIZMAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WIZMAMAAC.aac
+url: 'https://17573.live.streamtheworld.com:443/WIZMAMAAC.aac'
+url_resolved: 'https://17573.live.streamtheworld.com:443/WIZMAMAAC.aac'
 homepage: https://www.wizmnews.com/
 favicon: https://www.wizmnews.com/wp-content/uploads/2018/09/wizmfav.ico
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 00:33:22
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3c935ea3-ff13-4ae3-8820-a575d784e0cf
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: News/talk/information radio (NewsTalk format)
   notes: Licensed AM 1410 station in Tomah, WI; commercial news-talk format; operates via iHeartRadio platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3c935ea3-ff13-4ae3-8820-a575d784e0cf

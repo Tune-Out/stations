@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 06:33:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2cfdbe7e-1859-4009-9583-31b29eab42ac
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/1152/64k.mp3'
-    codec: MP3
-  - url: 'http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +31,12 @@ research:
   format: economic news, entertainment, and information programming
   notes: State-funded municipal broadcaster serving Ningbo, major port city in Zhejiang. "经济广播" (economic broadcast) indicates focus on business/economic content. Part of China's centralized public broadcasting system.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-2cfdbe7e-1859-4009-9583-31b29eab42ac
+streams:
+  - url: https://lhttp.qtfm.cn/live/1152/64k.mp3
+    codec: MP3
+  - url: http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
+    codec: UNKNOWN
+    hls: true

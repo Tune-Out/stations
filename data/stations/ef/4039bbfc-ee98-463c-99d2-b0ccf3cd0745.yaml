@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 05:27:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4039bbfc-ee98-463c-99d2-b0ccf3cd0745
-streams:
-  - url: 'https://play.charivari.com/relax/web/'
-    codec: AAC
-  - url: 'https://play.charivari.com/relax/webmp3/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Relaxation, ambient, chill music
   notes: Charivari Relax is relaxation/ambient stream from Charivari radio network; German-language broadcasting; focuses on calm, background music for relaxation.
   sources: https://www.charivari.com/
+curation: -0.05
+provenance:
+  - radiobrowser-4039bbfc-ee98-463c-99d2-b0ccf3cd0745
+streams:
+  - url: https://play.charivari.com/relax/web/
+    codec: AAC
+  - url: https://play.charivari.com/relax/webmp3/
+    codec: MP3
+    bitrate: 128

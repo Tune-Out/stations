@@ -1,7 +1,7 @@
 stationuuid: f0b5fe2f-7062-47e7-935a-4b1dc7d63184
 name: Nova All Stars (AAC+ 48k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_ALL_STARS_AAC48.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_ALL_STARS_AAC48.aac
+url: 'http://23093.live.streamtheworld.com:80/NOVA_ALL_STARS_AAC48.aac'
+url_resolved: 'http://23093.live.streamtheworld.com:80/NOVA_ALL_STARS_AAC48.aac'
 homepage: https://novafm.com.au/station/novaallstars
 favicon: https://i.ibb.co/VpwdNPWp/All-Stars-corp-site.webp
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-30 02:13:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f0b5fe2f-7062-47e7-935a-4b1dc7d63184
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Popular contemporary music.
   notes: Part of Nova FM's network of branded streams; Australian commercial radio station; All Stars format features varied popular music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f0b5fe2f-7062-47e7-935a-4b1dc7d63184

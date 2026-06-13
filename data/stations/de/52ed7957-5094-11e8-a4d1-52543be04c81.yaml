@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 03:05:15
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-52ed7957-5094-11e8-a4d1-52543be04c81
-streams:
-  - url: 'http://stream.landeswelle.de/lwt/aac-48/lil/'
-    url_resolved: 'https://edge71.streamonkey.net/landeswelle-west?aggregator=rewrite/aac-48/lil/'
-    codec: AAC
-  - url: 'http://stream.landeswelle.de/lwt/mp3-128/lil/'
-    url_resolved: 'https://edge81.streamonkey.net/landeswelle-west?aggregator=rewrite/mp3-128/lil/'
-    codec: AAC
-  - url: 'http://stream.landeswelle.de/lwt/mp3-192/rin/stream.mp3'
-    url_resolved: 'https://edge71.streamonkey.net/landeswelle-west?aggregator=rewrite/mp3-192/rin/stream.mp3'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +30,19 @@ research:
   format: Regional public broadcasting with local news, information, and music programming
   notes: Public regional radio broadcaster serving the state of Thuringia in eastern Germany
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-52ed7957-5094-11e8-a4d1-52543be04c81
+  - iprd-de-landeswelle-th-ringen-b0d512ab
+  - iprd-de-landeswelle-th-ringen-2f120a58
+  - iprd-de-landeswelle-th-ringen-3618516d
+streams:
+  - url: http://stream.landeswelle.de/lwt/aac-48/lil/
+    url_resolved: https://edge71.streamonkey.net/landeswelle-west?aggregator=rewrite/aac-48/lil/
+    codec: AAC
+  - url: http://stream.landeswelle.de/lwt/mp3-128/lil/
+    url_resolved: https://edge81.streamonkey.net/landeswelle-west?aggregator=rewrite/mp3-128/lil/
+    codec: AAC
+  - url: http://stream.landeswelle.de/lwt/mp3-192/rin/stream.mp3
+    url_resolved: https://edge71.streamonkey.net/landeswelle-west?aggregator=rewrite/mp3-192/rin/stream.mp3
+    codec: AAC

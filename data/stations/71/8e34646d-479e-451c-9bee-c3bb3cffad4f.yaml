@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8e34646d-479e-451c-9bee-c3bb3cffad4f
-streams:
-  - url: 'https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac'
-    codec: AAC+
-    bitrate: 95
-  - url: 'https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Top 2000 feature; popular music.
   notes: Joe is a commercial Belgian radio station operated by DPG Media; part of DPG's radio portfolio.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8e34646d-479e-451c-9bee-c3bb3cffad4f
+streams:
+  - url: https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac
+    codec: AAC+
+    bitrate: 95
+  - url: https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3
+    codec: MP3
+    bitrate: 128

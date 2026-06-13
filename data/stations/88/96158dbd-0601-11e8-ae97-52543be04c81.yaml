@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:13:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96158dbd-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://country-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://country-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Country music programming; American and international country genres
   notes: German-based internet radio network (RauteMusik = "Grid Music") operating multiple genre-specific channels. Country channel specializes in country music, primarily featuring American country and related genres. RauteMusik operates community-style internet radio with diverse genre programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96158dbd-0601-11e8-ae97-52543be04c81
+  - iprd-de-rautemusik-country-d7b223a2
+streams:
+  - url: http://country-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: https://country-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

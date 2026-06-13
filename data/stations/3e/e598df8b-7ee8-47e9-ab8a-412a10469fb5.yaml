@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 06:00:01
 clickcount: 4
 geo_lat: 54.57206165565852
 geo_long: -1.0546875000000002
-curation: 0.30
-provenance:
-  - radiobrowser-e598df8b-7ee8-47e9-ab8a-412a10469fb5
-streams:
-  - url: 'https://radio.hearme.fm:8000/stream'
-    codec: MP3
-  - url: 'https://radio.hearme.fm:8030/stream'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: 2010s pop music streaming; curated playlists of contemporary and recent hits
   notes: Online-only streaming service specializing in 2010s pop music; accessible globally via hearme.fm
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-e598df8b-7ee8-47e9-ab8a-412a10469fb5
+streams:
+  - url: https://radio.hearme.fm:8000/stream
+    codec: MP3
+  - url: https://radio.hearme.fm:8030/stream
+    codec: MP3

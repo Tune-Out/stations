@@ -1,7 +1,7 @@
 stationuuid: 39e16e55-df39-42fd-a7d7-36afefaef7ff
 name: Triple A - Brisbane - 98.9 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/989FMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/989FMAAC.aac
+url: 'http://23153.live.streamtheworld.com:80/989FMAAC.aac'
+url_resolved: 'http://23153.live.streamtheworld.com:80/989FMAAC.aac'
 homepage: https://triplea.org.au/
 favicon: https://i.ibb.co/QDTFKFr/61ef95afbc72e9f273be9b7e.webp
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:16:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-39e16e55-df39-42fd-a7d7-36afefaef7ff
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -35,3 +32,6 @@ research:
   format: Community radio; country music; Indigenous content and programming
   notes: Australian community radio station serving Brisbane area. Focus on Indigenous programming and country music. Non-commercial community broadcaster supported by audience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-39e16e55-df39-42fd-a7d7-36afefaef7ff

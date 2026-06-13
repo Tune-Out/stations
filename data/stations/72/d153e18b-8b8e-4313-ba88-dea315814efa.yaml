@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-d153e18b-8b8e-4313-ba88-dea315814efa
-streams:
-  - url: 'http://kea.cdnstream.com/1893_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://kea.cdnstream.com/1893_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: unknown
@@ -38,3 +28,13 @@ research:
   format: Crime fiction, detective stories, spoken word
   notes: Stream focused on crime and detective programming. Limited public information available; may be internet-only streaming service or branded content platform.
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-d153e18b-8b8e-4313-ba88-dea315814efa
+streams:
+  - url: http://kea.cdnstream.com/1893_128
+    codec: MP3
+    bitrate: 128
+  - url: https://kea.cdnstream.com/1893_128
+    codec: MP3
+    bitrate: 128

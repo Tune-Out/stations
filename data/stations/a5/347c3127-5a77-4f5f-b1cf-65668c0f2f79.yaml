@@ -1,7 +1,7 @@
 stationuuid: 347c3127-5a77-4f5f-b1cf-65668c0f2f79
 name: Arrow Bluesbox Radio
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX.mp3
+url: 'https://25323.live.streamtheworld.com:443/ARROWBLUESBOX.mp3'
+url_resolved: 'https://25323.live.streamtheworld.com:443/ARROWBLUESBOX.mp3'
 homepage: https://arrowbluesbox.nl/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-04-09 11:49:45
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-347c3127-5a77-4f5f-b1cf-65668c0f2f79
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -31,3 +28,6 @@ research:
   format: Blues and blues-related music programming
   notes: Dutch internet radio channel dedicated to blues music; part of Arrow's streaming offerings; operated via StreamTheWorld CDN
   sources: https://arrowbluesbox.nl/
+curation: 0.35
+provenance:
+  - radiobrowser-347c3127-5a77-4f5f-b1cf-65668c0f2f79

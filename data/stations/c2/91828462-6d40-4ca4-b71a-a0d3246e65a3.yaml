@@ -1,7 +1,7 @@
 stationuuid: 91828462-6d40-4ca4-b71a-a0d3246e65a3
 name: Radio Hauraki
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC
+url: 'https://28863.live.streamtheworld.com:443/NZME_04AAC_SC'
+url_resolved: 'https://28863.live.streamtheworld.com:443/NZME_04AAC_SC'
 homepage: https://www.hauraki.co.nz/
 favicon: https://www.hauraki.co.nz/content/music/images/interface/icons/hauraki/apple-touch-icon.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-03-12 13:30:10
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-91828462-6d40-4ca4-b71a-a0d3246e65a3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Rock, pop, and alternative music with on-air personalities
   notes: Long-established New Zealand commercial radio station specializing in rock and pop music content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-91828462-6d40-4ca4-b71a-a0d3246e65a3

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:09:01
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 1.00
-provenance:
-  - radiobrowser-961c8b8a-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: Classical music concerts and recordings from Radio France concert halls
   notes: Part of Radio France's multi-channel webradio offering; focuses on live concert recordings from Radio France venues; national French cultural broadcaster
   sources: https://www.francemusique.fr/webradio-concerts-radio-france/, internal knowledge
+curation: 1
+provenance:
+  - radiobrowser-961c8b8a-0601-11e8-ae97-52543be04c81
+  - iprd-fr-france-musique-concerts-radio-france-2d49ed25
+  - iprd-fr-france-musique-concerts-radio-france-32ee3f14
+streams:
+  - url: http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
+    codec: MP3
+    bitrate: 128

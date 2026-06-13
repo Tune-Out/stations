@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 04:06:37
 clickcount: 1
 geo_lat: 47.42779257715439
 geo_long: 9.37776376544361
-curation: 0.20
-provenance:
-  - radiobrowser-c9b6d938-31fa-4276-ae8a-4313c4a9cf96
-streams:
-  - url: 'https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728'
-    codec: MP3
-  - url: 'https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687795894'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Pop and rock music, contemporary hits
   notes: Commercial radio station in German-speaking Switzerland, operating in Sankt Gallen region. Part of CH Media network that operates regional stations across Swiss cantons. Focuses on pop-rock format targeting young adult demographics.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-c9b6d938-31fa-4276-ae8a-4313c4a9cf96
+streams:
+  - url: https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728
+    codec: MP3
+  - url: https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687795894
+    codec: MP3

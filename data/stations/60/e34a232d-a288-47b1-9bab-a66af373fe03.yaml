@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:20:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-e34a232d-a288-47b1-9bab-a66af373fe03
-streams:
-  - url: 'http://cast.egofm.de/egofmhalloffame.mp3?ar-distributor=ffa0'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast.egofm.de/egofmhalloffame.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,16 @@ research:
   format: Classic rock music programming
   notes: egoFM Hall of Fame channel specialized in classic rock. German-language commercial station based in Bavaria.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-e34a232d-a288-47b1-9bab-a66af373fe03
+  - iprd-de-egofm-fame-a6909512
+  - iprd-de-egofm-fame-3a97d981
+  - iprd-de-egofm-fame-f5299a99
+streams:
+  - url: http://cast.egofm.de/egofmhalloffame.mp3?ar-distributor=ffa0
+    codec: MP3
+    bitrate: 128
+  - url: https://cast.egofm.de/egofmhalloffame.mp3
+    codec: MP3
+    bitrate: 128

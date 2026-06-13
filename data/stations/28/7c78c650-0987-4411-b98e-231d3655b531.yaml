@@ -20,19 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7c78c650-0987-4411-b98e-231d3655b531
-streams:
-  - url: 'http://stream.laut.fm/gamefm-rap'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/hardstyle-music'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/gamefm-schlager'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +29,16 @@ research:
   format: Rap music, hip-hop, urban music
   notes: Online-only rap music station operating on laut.fm platform, a popular German radio streaming community. Broadcasts rap and hip-hop content to German-speaking audiences interested in urban music genres.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7c78c650-0987-4411-b98e-231d3655b531
+streams:
+  - url: http://stream.laut.fm/gamefm-rap
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/hardstyle-music
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/gamefm-schlager
+    codec: MP3
+    bitrate: 128

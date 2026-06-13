@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 00:23:35
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-961a35ee-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://media.govoritmoskva.ru:8880/ru64.mp3'
-    codec: MP3
-  - url: 'https://media.govoritmoskva.ru/radio/rufm.mp3'
-    codec: MP3
-  - url: 'https://media.govoritmoskva.ru/radio/ru64.mp3'
-    codec: MP3
-  - url: 'http://media.govoritmoskva.ru:8880/ru32.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +32,16 @@ research:
   format: News-talk radio — hourly bulletins, phone-ins, political and social commentary, expert interviews, with flagship shows historically associated with Sergei Dorenko ("Подъём", "Доренко") and Roman Babayan
   notes: The name revives the historic Soviet-era radio call sign "Говорит Москва" first used in 1922 by Moscow's Sokolniki station; the current commercial station relaunched on FM 94.8 MHz in Moscow on 2 September 2013 under chief editor Sergei Dorenko (1959-2019), the prominent "TV killer" of the 1990s; after Dorenko's death the station continued under editors Roman Babayan and Sergei Doroganev with a strongly pro-government, anti-Western editorial line that intensified after Russia's 2022 invasion of Ukraine; presenters including Babayan have been sanctioned by the EU, UK and Ukraine for propaganda activities.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-961a35ee-0601-11e8-ae97-52543be04c81
+  - iprd-ru-govorit-moskva-fd3bf7e3
+streams:
+  - url: http://media.govoritmoskva.ru:8880/ru64.mp3
+    codec: MP3
+  - url: https://media.govoritmoskva.ru/radio/rufm.mp3
+    codec: MP3
+  - url: https://media.govoritmoskva.ru/radio/ru64.mp3
+    codec: MP3
+  - url: http://media.govoritmoskva.ru:8880/ru32.mp3
+    codec: MP3

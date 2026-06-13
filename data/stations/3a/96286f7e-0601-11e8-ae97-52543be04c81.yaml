@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:04:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96286f7e-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icy.unitedradio.it/RadioBAU.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/RadioBAU.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Talk, music, entertainment
   notes: Italian commercial radio affiliated with Mediaset media group; talk and music format in Lombardy
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96286f7e-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-bau-co-88996d10
+streams:
+  - url: http://icy.unitedradio.it/RadioBAU.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/RadioBAU.mp3
+    codec: MP3
+    bitrate: 128

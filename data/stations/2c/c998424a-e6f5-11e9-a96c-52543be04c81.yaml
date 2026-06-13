@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:53:10
 clickcount: 34
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-c998424a-e6f5-11e9-a96c-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/mouv-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://direct.mouv.fr/live/mouv-lofi.mp3'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: Contemporary music, hip-hop, rap, electronic, pop, youth-oriented programming
   notes: Mouv' is a France-based public radio station operated by Radio France; focused on contemporary music and youth culture; AAC streaming available
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-c998424a-e6f5-11e9-a96c-52543be04c81
+  - iprd-fr-mouv-1685f542
+  - iprd-fr-mouv-71a37730
+streams:
+  - url: http://icecast.radiofrance.fr/mouv-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://direct.mouv.fr/live/mouv-lofi.mp3
+    codec: MP3
+    bitrate: 32

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:35:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-decfa35c-678a-11e8-b15b-52543be04c81
-streams:
-  - url: 'http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E4DCFE'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Conservative talk radio; news talk programming; political commentary aligned with conservative ideology
   notes: 94.3 FM The Talker is a commercial conservative talk radio station serving northeastern Pennsylvania. Programming emphasizes conservative political viewpoints and news/talk format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-decfa35c-678a-11e8-b15b-52543be04c81
+  - iprd-us-wtrw-94-3-the-talker-d89e1254
+streams:
+  - url: http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E4DCFE
+    codec: AAC+
+    bitrate: 32
+  - url: http://ice6.securenetsystems.net/WTRW?&playSessionID=D0AB2839-9D72-BA7B-94094742B6E
+    codec: AAC+
+    bitrate: 32

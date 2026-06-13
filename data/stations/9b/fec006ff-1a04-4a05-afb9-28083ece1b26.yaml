@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 02:49:44
 clickcount: 0
 geo_lat: 17.061297601563837
 geo_long: -96.72539234161376
-curation: -0.05
-provenance:
-  - radiobrowser-fec006ff-1a04-4a05-afb9-28083ece1b26
-streams:
-  - url: 'http://ororadio2.serverroom.us:4638/'
-    codec: MP3
-    bitrate: 32
-  - url: 'http://ororadio2.serverroom.us:4638/;'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Pop, Latin pop, pop-dance, Latin music, urban music; youth programming
   notes: Commercial FM broadcaster on 98.5 frequency (XHNR-FM call sign). Part of Exa FM national network operating under MVS Radio/Organización Radiofónica de Oaxaca. Station brands itself as "la estación naranja" (the orange station) and "la estación exacta." Targets youth audience with contemporary pop and Latin programming. Based in Oaxaca, Mexico.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fec006ff-1a04-4a05-afb9-28083ece1b26
+  - iprd-mx-exa-98-5-xhnr-ae492336
+streams:
+  - url: http://ororadio2.serverroom.us:4638/
+    codec: MP3
+    bitrate: 32
+  - url: http://ororadio2.serverroom.us:4638/;
+    codec: MP3
+    bitrate: 32

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 00:29:52
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c1dd2897-bd81-40e0-b2c8-94984a590375
-streams:
-  - url: 'http://lhttp.qingting.fm/live/1085/64k.mp3'
-    codec: MP3
-  - url: 'https://lhttp.qingting.fm/live/1085/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -39,3 +31,14 @@ research:
   format: Sports news and commentary
   notes: State-operated sports radio station in Dalian, a major port city in Liaoning Province. Part of government broadcasting infrastructure.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c1dd2897-bd81-40e0-b2c8-94984a590375
+  - iprd-cn-dlr-3-dalian-sports-broadcasting-105-7-cba8fec4
+  - iprd-cn-dlr-7-dalian-xinchengrural-broadcasting-95-6-e570e059
+  - iprd-cn-dalian-sports-broadcasting-105-7-ba99a339
+streams:
+  - url: http://lhttp.qingting.fm/live/1085/64k.mp3
+    codec: MP3
+  - url: https://lhttp.qingting.fm/live/1085/64k.mp3
+    codec: MP3

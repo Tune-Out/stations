@@ -27,16 +27,6 @@ lastchangetime: 2026-06-01 16:15:15
 clickcount: 4
 geo_lat: 6.5553674
 geo_long: -0.772545
-curation: -0.05
-provenance:
-  - radiobrowser-0b131b22-8f31-4f6d-9f4f-d3464da969eb
-streams:
-  - url: 'https://mmg.streamguys1.com/NhyiraFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://mmg.streamguys1.com/NhyiraFM-mp3?key=b37c365ed033b3e65a85fc860f6611ee8562838eeb6e0489764968a4153d826217219cfacc395f2cc2389573fb59870a&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609844395217%3B&aw_0_req.gdpr=true&us_privacy=1YNN'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,13 @@ research:
   format: Afrobeats, hiplife, highlife, news, talk, sports, business programming
   notes: Kumasi-based FM station; popular in Ashanti Region; broadcasts in Akan (Twi) and English; notable for Mr Crosby programming; covers news, politics, sports, entertainment, and business content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0b131b22-8f31-4f6d-9f4f-d3464da969eb
+streams:
+  - url: https://mmg.streamguys1.com/NhyiraFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1
+    codec: MP3
+    bitrate: 128
+  - url: https://mmg.streamguys1.com/NhyiraFM-mp3?key=b37c365ed033b3e65a85fc860f6611ee8562838eeb6e0489764968a4153d826217219cfacc395f2cc2389573fb59870a&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609844395217%3B&aw_0_req.gdpr=true&us_privacy=1YNN
+    codec: MP3
+    bitrate: 128

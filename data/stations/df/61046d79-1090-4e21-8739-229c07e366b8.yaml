@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:37:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-61046d79-1090-4e21-8739-229c07e366b8
-streams:
-  - url: 'https://topradio-de-hz-fal-stream10-cluster01.radiohost.de/brf_mp3-128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: diverse programming serving Berlin metropolitan area
   notes: 91.4 FM; part of Berlin's public broadcasting system serving the capital region
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-61046d79-1090-4e21-8739-229c07e366b8
+  - iprd-de-berliner-rundfunk-91-4-b5dfb474
+streams:
+  - url: https://topradio-de-hz-fal-stream10-cluster01.radiohost.de/brf_mp3-128
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/
+    codec: MP3
+    bitrate: 128

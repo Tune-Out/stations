@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-e47d51c0-bb01-49f1-894b-903a2bf343aa
-streams:
-  - url: 'http://195.201.9.210:1541/stream/2/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://lead-server.de:1551/stream/2/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -39,3 +29,13 @@ research:
   format: Video game music, chiptune, electronic music; retro gaming culture soundtrack programming
   notes: Specialized internet radio dedicated to classic video game music and soundtracks. Based in Germany. MP3 128kbps stream serves global audience of retro gaming enthusiasts. Electronic music format with strong chiptune/8-bit focus.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-e47d51c0-bb01-49f1-894b-903a2bf343aa
+streams:
+  - url: http://195.201.9.210:1541/stream/2/
+    codec: MP3
+    bitrate: 128
+  - url: https://lead-server.de:1551/stream/2/
+    codec: MP3
+    bitrate: 128

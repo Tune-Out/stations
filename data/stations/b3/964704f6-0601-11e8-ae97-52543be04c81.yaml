@@ -1,6 +1,6 @@
 stationuuid: 964704f6-0601-11e8-ae97-52543be04c81
 name: Nova Brasil FM Brasília, DF (ZYC476, 97,5 MHz)
-url: http://provisioning.streamtheworld.com/pls/NOVABRASIL_BSBAAC.pls
+url: 'http://27573.live.streamtheworld.com:80/NOVABRASIL_BSBAAC_SC'
 url_resolved: http://27393.live.streamtheworld.com/NOVABRASIL_BSBAAC_SC
 homepage: http://brasilia.novabrasilfm.com.br/
 favicon: http://brasilia.novabrasilfm.com.br/images/apple-touch-icon.png?1725267621
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:17:37
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964704f6-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Brazilian pop music, MPB (Música Popular Brasileira), and contemporary Brazilian music.
   notes: Commercial FM station operating on 97.5 MHz (ZYC476) in Brasília. Part of Nova Brasil network focused on Brazilian music and popular culture. Plays local and contemporary Brazilian hits, folk traditions, and music-oriented programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964704f6-0601-11e8-ae97-52543be04c81

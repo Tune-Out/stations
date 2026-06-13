@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-8501f14b-e130-4328-80a7-85acaff0a645
-streams:
-  - url: 'http://radio.stereoscenic.com/ama-h'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://radio.stereoscenic.com/ama-s'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Ambient music, minimalism, soundscapes, meditative electronic
   notes: a.m. ambient broadcasts 24/7 ambient and meditative music. Independent internet radio station focused on relaxation.
   sources: https://amambient.com/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-8501f14b-e130-4328-80a7-85acaff0a645
+  - iprd-us-a-m-ambient-3c00d42d
+streams:
+  - url: http://radio.stereoscenic.com/ama-h
+    codec: MP3
+    bitrate: 256
+  - url: http://radio.stereoscenic.com/ama-s
+    codec: MP3
+    bitrate: 128

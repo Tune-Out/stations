@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:28:23
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ffc0129a-0592-4b97-80ec-bc5e8cc921d2
-streams:
-  - url: 'https://streams.radio21.de/thewolf-nordhessen/aac-64/streams.radio21.de/'
-    codec: AAC
-  - url: 'https://streams.radio21.de/thewolf-nordhessen/mp3-256/streams.radio21.de/'
-    codec: MP3
-  - url: 'https://streams.radio21.de/thewolf-nordhessen/mp3-128/streams.radio21.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Country music, classic country, and country pop
   notes: The WOLF is a commercial country music radio station serving Northern Hesse (Nordhessen) region around Kassel, Germany.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ffc0129a-0592-4b97-80ec-bc5e8cc921d2
+streams:
+  - url: https://streams.radio21.de/thewolf-nordhessen/aac-64/streams.radio21.de/
+    codec: AAC
+  - url: https://streams.radio21.de/thewolf-nordhessen/mp3-256/streams.radio21.de/
+    codec: MP3
+  - url: https://streams.radio21.de/thewolf-nordhessen/mp3-128/streams.radio21.de/
+    codec: MP3

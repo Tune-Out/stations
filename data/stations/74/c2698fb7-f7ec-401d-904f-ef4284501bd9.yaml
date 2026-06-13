@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:16:50
 clickcount: 20
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-c2698fb7-f7ec-401d-904f-ef4284501bd9
-streams:
-  - url: 'http://live02.rfi.fr/rfiafrique-96k.mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: News, current affairs, documentaries, and programs focused on Africa and international topics
   notes: RFI-Afrique is the African service of Radio France International, part of France Médias Monde. Founded 1975. Provides in-depth coverage of African political, social, and cultural issues in French. Part of France's public broadcasting mission globally.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-c2698fb7-f7ec-401d-904f-ef4284501bd9
+  - iprd-fr-rfi-afrique-f68f5775
+  - iprd-fr-radio-france-internationale-fee57058
+streams:
+  - url: http://live02.rfi.fr/rfiafrique-96k.mp3
+    codec: MP3
+    bitrate: 96
+  - url: https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+    codec: MP3
+    bitrate: 64

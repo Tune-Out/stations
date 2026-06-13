@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5788f7c7-e177-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://stream.antenne1.de/top40/livestream1.aac'
-    codec: AAC
-  - url: 'http://stream.antenne1.de/top40/livestream2.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: contemporary hits radio (Top 40); pop music, dance, current chart hits
   notes: German commercial radio station operating Top 40 format. Antenne 1 is a major Regiocast-affiliated network with presence across multiple German cities. Top 40 stream focuses on current chart hits and mainstream pop music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5788f7c7-e177-11e9-a8ba-52543be04c81
+streams:
+  - url: http://stream.antenne1.de/top40/livestream1.aac
+    codec: AAC
+  - url: http://stream.antenne1.de/top40/livestream2.mp3
+    codec: MP3

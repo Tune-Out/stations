@@ -19,58 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-5d308c37-dfbb-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://mp3.ffh.de/ffhchannels/voting.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://streams.ffh.de/ffhchannels/aac/top40.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://mp3.ffh.de/ffhchannels/lounge.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://streams.ffh.de/ffhchannels/aac/deutsch.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://streams.ffh.de/ffhchannels/aac/summerfeeling.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://streams.ffh.de/ffhchannels/aac/brandneu.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://streams.ffh.de/ffhchannels/aac/xmas.aac'
-    codec: AAC+
-    bitrate: 47
-  - url: 'http://streams.ffh.de/ffhchannels/aac/eurodance.aac'
-    codec: AAC+
-    bitrate: 47
-  - url: 'http://streams.ffh.de/ffhchannels/aac/acoustichits.aac'
-    codec: AAC+
-    bitrate: 47
-  - url: 'http://streams.ffh.de/ffhchannels/aac/party.aac'
-    codec: AAC+
-    bitrate: 47
-  - url: 'http://streams.ffh.de/ffhchannels/mp3/summerfeeling.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.ffh.de/ffhchannels/mp3/80er.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.ffh.de/ffhchannels/mp3/top40.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.ffh.de/ffhchannels/mp3/acoustichits.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.ffh.de/ffhchannels/mp3/brandneu.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.ffh.de/ffhchannels/mp3/90er.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -80,3 +28,55 @@ research:
   format: Hit radio with pop, dance, and contemporary music; "Summer Feeling" is seasonal playlist stream
   notes: FFH is one of Germany's largest commercial/public radio stations, founded 1980s as part of the public broadcasting framework. Offers music-focused programming with entertainment and service elements. The "Summer Feeling" channel is a thematic variant of their main broadcast.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-5d308c37-dfbb-11e9-a8ba-52543be04c81
+streams:
+  - url: http://mp3.ffh.de/ffhchannels/voting.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://streams.ffh.de/ffhchannels/aac/top40.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://mp3.ffh.de/ffhchannels/lounge.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://streams.ffh.de/ffhchannels/aac/deutsch.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://streams.ffh.de/ffhchannels/aac/summerfeeling.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://streams.ffh.de/ffhchannels/aac/brandneu.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://streams.ffh.de/ffhchannels/aac/xmas.aac
+    codec: AAC+
+    bitrate: 47
+  - url: http://streams.ffh.de/ffhchannels/aac/eurodance.aac
+    codec: AAC+
+    bitrate: 47
+  - url: http://streams.ffh.de/ffhchannels/aac/acoustichits.aac
+    codec: AAC+
+    bitrate: 47
+  - url: http://streams.ffh.de/ffhchannels/aac/party.aac
+    codec: AAC+
+    bitrate: 47
+  - url: http://streams.ffh.de/ffhchannels/mp3/summerfeeling.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.ffh.de/ffhchannels/mp3/80er.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.ffh.de/ffhchannels/mp3/top40.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.ffh.de/ffhchannels/mp3/acoustichits.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.ffh.de/ffhchannels/mp3/brandneu.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.ffh.de/ffhchannels/mp3/90er.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 12276b49-20a1-4b2a-9e25-76910e6ff27a
 name: Langkawi FM
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3
+url: 'http://28093.live.streamtheworld.com:80/LANGKAWI_FM.mp3'
+url_resolved: 'http://28093.live.streamtheworld.com:80/LANGKAWI_FM.mp3'
 homepage: https://langkawifm.rtm.gov.my/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-12276b49-20a1-4b2a-9e25-76910e6ff27a
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -31,3 +28,6 @@ research:
   format: General interest, music, and news programming; public service broadcast
   notes: Operated by RTM (Radio Televisyen Malaysia), the national public broadcaster. Provides coverage to Langkawi island and broader Malaysia. Part of state-funded public service broadcasting ecosystem.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-12276b49-20a1-4b2a-9e25-76910e6ff27a

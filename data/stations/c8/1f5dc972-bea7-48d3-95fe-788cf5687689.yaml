@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1f5dc972-bea7-48d3-95fe-788cf5687689
-streams:
-  - url: 'https://yesfmzamboanga.radioca.st/tunein/yesfmzamboanga-stream.pls'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://yesfmzamboanga.radioca.st:2199/tunein/yesfmzamboanga-stream.pls'
-    url_resolved: 'http://proxima.shoutca.st:8313/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Music radio, "The Best" contemporary hits
   notes: Commercial radio station part of Yes FM network operating in Zamboanga, Philippines; 102.7 FM frequency; branded as "Yes The Best"; provides local programming for the Zamboanga region
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1f5dc972-bea7-48d3-95fe-788cf5687689
+streams:
+  - url: https://yesfmzamboanga.radioca.st/tunein/yesfmzamboanga-stream.pls
+    codec: MP3
+    bitrate: 96
+  - url: http://yesfmzamboanga.radioca.st:2199/tunein/yesfmzamboanga-stream.pls
+    url_resolved: http://proxima.shoutca.st:8313/stream
+    codec: MP3
+    bitrate: 96

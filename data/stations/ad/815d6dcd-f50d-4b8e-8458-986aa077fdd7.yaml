@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 1
 geo_lat: 43.655552457621845
 geo_long: -79.38446044921876
-curation: 0.35
-provenance:
-  - radiobrowser-815d6dcd-f50d-4b8e-8458-986aa077fdd7
-streams:
-  - url: 'http://ec4.yesstreaming.net:1990/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ec4.yesstreaming.net:1990/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Tamil language programming; music, news, cultural content for Tamil diaspora community
   notes: HD3 subchannel of CIRV-FM (88.9 FM), a Toronto community radio station. Thaalam FM serves the Tamil diaspora with programming in Tamil language. Community-run, non-commercial platform for multicultural engagement.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-815d6dcd-f50d-4b8e-8458-986aa077fdd7
+streams:
+  - url: http://ec4.yesstreaming.net:1990/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://ec4.yesstreaming.net:1990/stream
+    codec: MP3
+    bitrate: 128

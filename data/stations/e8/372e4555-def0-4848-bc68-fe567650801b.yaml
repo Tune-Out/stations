@@ -19,18 +19,6 @@ lastchangetime: 2026-05-20 14:05:06
 clickcount: 1
 geo_lat: -27.005578937831388
 geo_long: -51.15335226058961
-curation: 0.35
-provenance:
-  - radiobrowser-372e4555-def0-4848-bc68-fe567650801b
-streams:
-  - url: 'https://5a2b083e9f360.streamlock.net/radiovideira/radiovideira.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 139
-    hls: true
-  - url: 'https://5a2b083e9f360.streamlock.net/radiovideira/radiovideira.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 135
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +28,15 @@ research:
   format: Community radio with varied local programming.
   notes: Community FM radio station in Videira, Santa Catarina state, Brazil at 88.5 FM. Serves local municipal community with information and entertainment programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-372e4555-def0-4848-bc68-fe567650801b
+streams:
+  - url: https://5a2b083e9f360.streamlock.net/radiovideira/radiovideira.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 139
+    hls: true
+  - url: https://5a2b083e9f360.streamlock.net/radiovideira/radiovideira.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 135
+    hls: true

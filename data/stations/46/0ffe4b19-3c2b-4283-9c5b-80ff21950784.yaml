@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0ffe4b19-3c2b-4283-9c5b-80ff21950784
-streams:
-  - url: 'https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3?ver=402073'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: soul, disco, dance; shows include "Running With The Night", "Soulshow Classics", "OldSkool Soulshow" (1981-1987 archives)
   notes: Independent non-commercial station founded by Ferry Maat; features "the finest tracks from the extensive collection of import records formerly heard on the Soulshow"; 24/7 online streaming; historical roots in Dutch radio (TROS Hilversum 3, Radio Veronica)
   sources: https://soulshow.nl/
+curation: 0.35
+provenance:
+  - radiobrowser-0ffe4b19-3c2b-4283-9c5b-80ff21950784
+streams:
+  - url: https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3?ver=402073
+    codec: MP3
+    bitrate: 128

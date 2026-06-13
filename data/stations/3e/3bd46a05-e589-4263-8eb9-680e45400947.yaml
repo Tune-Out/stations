@@ -24,19 +24,6 @@ lastchangetime: 2026-01-14 23:51:52
 clickcount: 5
 geo_lat: 37.997
 geo_long: 23.715
-curation: 0.65
-provenance:
-  - radiobrowser-3bd46a05-e589-4263-8eb9-680e45400947
-streams:
-  - url: 'https://blueswave.radio:8100/hifiblues'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://blueswave.radio:8100/icyblues'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://blueswave.radio:8000/blueswave'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +33,16 @@ research:
   format: Blues and rock music 24/7 with 10+ DJ-curated shows spanning 1960s to today; multiple quality streams including FLAC.
   notes: "Independent internet radio broadcaster based in Athens, Greece. Mission: \"Broadcasting from Athens Greece, BluesWave Radio plays the best selections from all the genres of Blues and Rock music, ranging from the 60's to today.\" Notable shows include \"The Blues Rock Show,\" \"Blues Café,\" \"Milk and Whiskey,\" \"The Flower Power Hour,\" \"The R & B Experience,\" \"Blue Suede Connection.\" Also features blog with music news and historical record features."
   sources: https://blueswave.radio/
+curation: 0.65
+provenance:
+  - radiobrowser-3bd46a05-e589-4263-8eb9-680e45400947
+streams:
+  - url: https://blueswave.radio:8100/hifiblues
+    codec: AAC
+    bitrate: 320
+  - url: https://blueswave.radio:8100/icyblues
+    codec: AAC
+    bitrate: 128
+  - url: https://blueswave.radio:8000/blueswave
+    codec: MP3
+    bitrate: 192

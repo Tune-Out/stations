@@ -1,7 +1,7 @@
 stationuuid: 5625b245-3468-41f8-bebd-bac78dfe1988
 name: FIVEAA - Adelaide - 1395 AM (AAC+ 128k)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC128.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC128.aac
+url: 'http://28853.live.streamtheworld.com:80/FIVEAA_AAC128.aac'
+url_resolved: 'http://28853.live.streamtheworld.com:80/FIVEAA_AAC128.aac'
 homepage: https://fiveaa.com.au/
 favicon: https://i.ibb.co/xqMmC5Js/429578801-955669969442306-6041824550738386823-n.jpg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 08:26:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5625b245-3468-41f8-bebd-bac78dfe1988
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,7 @@ research:
   format: Talkback, talk radio, call-in shows, news, current affairs.
   notes: Commercial talkback/talk radio serving Adelaide on 1395 AM (formerly 5AA). Part of Australian commercial radio network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5625b245-3468-41f8-bebd-bac78dfe1988
+  - iprd-au-5aa-1395-3c287ff8

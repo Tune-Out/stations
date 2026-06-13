@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:12:24
 clickcount: 1
 geo_lat: 47.25108488245543
 geo_long: 11.40106201171875
-curation: 0.00
-provenance:
-  - radiobrowser-08ff5099-5c3b-4088-b655-8d9b8c637866
-streams:
-  - url: 'https://radiovm1.fluidstream.eu/radiovm1.mp3'
-    codec: MP3
-  - url: 'https://radiovm1.fluidstream.eu/radiovm1_a1.mp3'
-    codec: MP3
-  - url: 'https://radiovm1.fluidstream.eu/radiovm1_a2.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Austrian Volksmusik, folk, schlager, regional Tyrolean content
   notes: Regional radio serving Tyrol; focuses on traditional Alpine music, local culture, and heritage. Schlager and folk-oriented programming.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-08ff5099-5c3b-4088-b655-8d9b8c637866
+streams:
+  - url: https://radiovm1.fluidstream.eu/radiovm1.mp3
+    codec: MP3
+  - url: https://radiovm1.fluidstream.eu/radiovm1_a1.mp3
+    codec: MP3
+  - url: https://radiovm1.fluidstream.eu/radiovm1_a2.mp3
+    codec: MP3

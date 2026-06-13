@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:14:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-a4a6f1f9-64e4-4700-bc09-72fae0cf6b5c
-streams:
-  - url: 'https://centova.rockhost.com/proxy/dotcompl?mp=/92zew'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://centova.rockhost.com/proxy/dotcompl?mp=/wnsp'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Adult album alternative (AAA); indie rock, alternative, eclectic music.
   notes: Community or independent radio station based in Fairhope, Alabama; college/indie radio format.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-a4a6f1f9-64e4-4700-bc09-72fae0cf6b5c
+  - iprd-us-wzew-92zew-25327d23
+  - iprd-us-wnsp-d6ca7a20
+streams:
+  - url: https://centova.rockhost.com/proxy/dotcompl?mp=/92zew
+    codec: MP3
+    bitrate: 128
+  - url: https://centova.rockhost.com/proxy/dotcompl?mp=/wnsp
+    codec: MP3
+    bitrate: 64

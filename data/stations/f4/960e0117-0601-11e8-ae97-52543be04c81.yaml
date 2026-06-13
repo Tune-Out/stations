@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 05:32:55
 clickcount: 18
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.75
-provenance:
-  - radiobrowser-960e0117-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://somafm.com/poptron130.pls'
-    url_resolved: 'https://ice5.somafm.com/poptron-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/poptron32.pls'
-    url_resolved: 'https://ice2.somafm.com/poptron-32-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://somafm.com/poptron.pls'
-    url_resolved: 'https://ice2.somafm.com/poptron-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -48,3 +32,24 @@ research:
   format: Electropop and indie dance pop channel ("Indie Dance Rock with the occasional 80s flashback")
   notes: SomaFM is a San Francisco-based independent listener-supported internet broadcaster founded in 2000 by Rusty Hodge; it operates over 30 commercial-free channels, of which PopTron focuses on electropop, synthpop and indie dance, and the network is funded entirely by listener donations and merchandise.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-960e0117-0601-11e8-ae97-52543be04c81
+  - iprd-us-somafm-poptron-9c7225bc
+  - iprd-us-somafm-poptron-d99dc319
+  - iprd-us-somafm-poptron-5e17e3e5
+  - iprd-us-somafm-poptron-91959f23
+  - iprd-us-somafm-poptron-0ba13f41
+streams:
+  - url: https://somafm.com/poptron130.pls
+    url_resolved: https://ice5.somafm.com/poptron-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/poptron32.pls
+    url_resolved: https://ice2.somafm.com/poptron-32-aac
+    codec: AAC
+    bitrate: 32
+  - url: https://somafm.com/poptron.pls
+    url_resolved: https://ice2.somafm.com/poptron-128-mp3
+    codec: MP3
+    bitrate: 128

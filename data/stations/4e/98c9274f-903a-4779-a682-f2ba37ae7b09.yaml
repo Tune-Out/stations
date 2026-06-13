@@ -26,14 +26,6 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 12
 geo_lat: -26.237540061743104
 geo_long: 27.8948986530304
-curation: 0.35
-provenance:
-  - radiobrowser-98c9274f-903a-4779-a682-f2ba37ae7b09
-streams:
-  - url: 'https://edge.iono.fm/xice/51_high.aac'
-    codec: AAC
-  - url: 'https://edge.iono.fm/xice/51_medium.aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +35,12 @@ research:
   format: community talk-and-music with shows such as "The Late Night Affair", "Classic 9@9" and "Top 20", plus podcasts and community campaigns
   notes: One of South Africa's largest community radio stations, broadcasting from Soweto and celebrating its 30th anniversary (founded c. 1995); covers issues such as load shedding, the National Health Insurance debate, music licensing and public-health (U=U) initiatives, and runs community projects like the Back2School-Shoes-Campaign
   sources: https://www.jozifm.co.za/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-98c9274f-903a-4779-a682-f2ba37ae7b09
+  - iprd-za-jozi-fm-d7265346
+streams:
+  - url: https://edge.iono.fm/xice/51_high.aac
+    codec: AAC
+  - url: https://edge.iono.fm/xice/51_medium.aac
+    codec: AAC

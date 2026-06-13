@@ -19,28 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-64bf0dd8-a314-4ed9-9d9e-cee2c03721c3
-streams:
-  - url: 'https://stream.starfm.de/newmetal/mp3-192/iradio'
-    codec: MP3
-  - url: 'https://stream.starfm.de/newrock/mp3-192/iradio'
-    codec: MP3
-  - url: 'https://stream.starfm.de/90srock/mp3-192/iradio'
-    codec: MP3
-  - url: 'https://stream.starfm.de/blues/mp3-192/iradio'
-    codec: MP3
-  - url: 'https://stream.starfm.de/classic/mp3-192/iradio'
-    codec: MP3
-  - url: 'https://stream.starfm.de/ballads/mp3-192/iradio'
-    codec: MP3
-  - url: 'https://stream.starfm.de/festival/mp3-192/iradio'
-    codec: MP3
-  - url: 'https://stream.starfm.de/80srock/mp3-192/iradio'
-    codec: MP3
-  - url: 'https://stream.starfm.de/xmas/mp3-192/iradio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -50,3 +28,25 @@ research:
   format: New and contemporary metal music; heavy rock programming
   notes: Star FM - New Metal is a specialty channel within Star FM's network, focusing on contemporary metal releases and new metal bands. German-based commercial station catering to the metal music community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-64bf0dd8-a314-4ed9-9d9e-cee2c03721c3
+streams:
+  - url: https://stream.starfm.de/newmetal/mp3-192/iradio
+    codec: MP3
+  - url: https://stream.starfm.de/newrock/mp3-192/iradio
+    codec: MP3
+  - url: https://stream.starfm.de/90srock/mp3-192/iradio
+    codec: MP3
+  - url: https://stream.starfm.de/blues/mp3-192/iradio
+    codec: MP3
+  - url: https://stream.starfm.de/classic/mp3-192/iradio
+    codec: MP3
+  - url: https://stream.starfm.de/ballads/mp3-192/iradio
+    codec: MP3
+  - url: https://stream.starfm.de/festival/mp3-192/iradio
+    codec: MP3
+  - url: https://stream.starfm.de/80srock/mp3-192/iradio
+    codec: MP3
+  - url: https://stream.starfm.de/xmas/mp3-192/iradio
+    codec: MP3

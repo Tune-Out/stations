@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 3
 geo_lat: 45.804295326369555
 geo_long: 3.0761718750000004
-curation: -0.05
-provenance:
-  - radiobrowser-7c2bdd5a-81e4-49ec-9128-dd7d3a6e2db2
-streams:
-  - url: 'https://stream.maxifrance.radio/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.maxifrance.radio/stream?nocache=52665#'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Chansons françaises, pop, rock, variety hits
   notes: Maxi France radio is a commercial internet radio station specializing in French music and popular hits. Emphasizes French chansons, pop, and rock music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7c2bdd5a-81e4-49ec-9128-dd7d3a6e2db2
+streams:
+  - url: https://stream.maxifrance.radio/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.maxifrance.radio/stream?nocache=52665#
+    codec: MP3
+    bitrate: 128

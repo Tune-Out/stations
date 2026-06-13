@@ -26,16 +26,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-0bf18fa7-26b0-43b4-a67f-1d1c349a098a
-streams:
-  - url: 'http://radio7.pro-fhi.net:9004/2'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://radio7.pro-fhi.net:9004/1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +35,13 @@ research:
   format: Ad-free electronic music specializing in "a subtile mixture of Electro, Pop, ElectroPop, TripHop, Indie and House"
   notes: Independent French internet radio station founded to deliver electronic music "sans aucune pub" (without advertising). Global reach via internet streaming with iOS/Android apps. Donation-supported model. Secondary channel (plusfm Chill) features Trip Hop, Lounge, and Indie.
   sources: https://www.plusfm.net/fr/
+curation: 0.55
+provenance:
+  - radiobrowser-0bf18fa7-26b0-43b4-a67f-1d1c349a098a
+streams:
+  - url: http://radio7.pro-fhi.net:9004/2
+    codec: AAC
+    bitrate: 64
+  - url: http://radio7.pro-fhi.net:9004/1
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-f2e5b99e-424b-4ac2-bf13-b4840fe91aee
-streams:
-  - url: 'http://npr-ice.streamguys1.com/live.aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://npr-ice.streamguys1.com/live.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: News and talk radio including NPR's flagship news programs (Morning Edition, All Things Considered, BBC World Service, etc.) and analysis
   notes: NPR News Radio 107.7 FM (catalog may show Saudi Arabia as location code, possibly a streaming locale or error) carries NPR's news-focused programming including award-winning journalism and international news coverage; streams nationally-distributed news programs; available as live stream for global English-speaking audiences; funded by public contribution and member support, maintaining editorial independence
   sources: https://www.npr.org/sections/news/, internal knowledge of US public radio
+curation: 0.75
+provenance:
+  - radiobrowser-f2e5b99e-424b-4ac2-bf13-b4840fe91aee
+streams:
+  - url: http://npr-ice.streamguys1.com/live.aac
+    codec: AAC
+    bitrate: 64
+  - url: http://npr-ice.streamguys1.com/live.aac
+    codec: AAC+
+    bitrate: 64

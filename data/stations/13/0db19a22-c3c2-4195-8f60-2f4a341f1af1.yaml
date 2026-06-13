@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 00:07:55
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-0db19a22-c3c2-4195-8f60-2f4a341f1af1
-streams:
-  - url: 'http://lhttp.qingting.fm/live/5021555/64k.mp3?'
-    codec: MP3
-  - url: 'http://lhttp.qingting.fm/live/5021555/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Oldies and nostalgic music; curated selections from Chinese music history
   notes: Station on the Qingting FM platform, a major Chinese internet radio service. Focus on nostalgic and classic Chinese music targeting listeners in Hebei Province.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-0db19a22-c3c2-4195-8f60-2f4a341f1af1
+  - iprd-cn-gaoyang-people-s-broadcasting-station-b9e4545e
+streams:
+  - url: http://lhttp.qingting.fm/live/5021555/64k.mp3?
+    codec: MP3
+  - url: http://lhttp.qingting.fm/live/5021555/64k.mp3
+    codec: MP3

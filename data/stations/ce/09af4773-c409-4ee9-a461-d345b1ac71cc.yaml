@@ -1,6 +1,6 @@
 stationuuid: 09af4773-c409-4ee9-a461-d345b1ac71cc
 name: CBC Radio One - Moncton, NB (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CBAMFM_CBC.pls
+url: 'https://18863.live.streamtheworld.com:443/CBAMFM_CBC_SC'
 url_resolved: https://14123.live.streamtheworld.com/CBAMFM_CBC_SC
 homepage: https://www.cbc.ca/news/canada/new-brunswick
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 05:07:10
 clickcount: 1
 geo_lat: 46.09699548632776
 geo_long: -64.78603363037111
-curation: 0.50
-provenance:
-  - radiobrowser-09af4773-c409-4ee9-a461-d345b1ac71cc
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: News, features, and current affairs
   notes: CBC Radio One is Canada's major English-language public radio network; Moncton, NB location serves Atlantic Canada; part of federal public broadcasting system; focused on news and features programming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-09af4773-c409-4ee9-a461-d345b1ac71cc

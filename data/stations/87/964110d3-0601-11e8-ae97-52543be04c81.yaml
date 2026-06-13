@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:13:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-964110d3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://s7.viastreaming.net:9140/;?_=0.4072272014147833'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://s7.viastreaming.net:9140/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Smart rock programming with hyperlocal news; online streaming
   notes: 'Community radio station with emphasis on disaster response, fire recovery, and local governance. Tagline: "On the air … on the web … on the beach." Active coverage of Woolsey Fire and Sandy Fire emergencies.'
   sources: http://www.radiomalibu.net/
+curation: 0.35
+provenance:
+  - radiobrowser-964110d3-0601-11e8-ae97-52543be04c81
+  - iprd-us-kbuu-lp-97-5-7352821a
+streams:
+  - url: http://s7.viastreaming.net:9140/;?_=0.4072272014147833
+    codec: MP3
+    bitrate: 128
+  - url: http://s7.viastreaming.net:9140/;
+    codec: MP3
+    bitrate: 128

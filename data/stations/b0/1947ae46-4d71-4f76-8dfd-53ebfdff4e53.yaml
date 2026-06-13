@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:02:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1947ae46-4d71-4f76-8dfd-53ebfdff4e53
-streams:
-  - url: 'http://s2.e-resellers.gr:8020/stream?type=http&nocache=103230'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://sh.onweb.gr:7060/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Mainstream pop and contemporary hit radio.
   notes: Radio Polis 99.4 broadcasts from Larissa in central Greece. Offers mainstream contemporary music programming and popular entertainment for regional listeners.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1947ae46-4d71-4f76-8dfd-53ebfdff4e53
+  - iprd-gr-polis-99-4-f326b3c0
+streams:
+  - url: http://s2.e-resellers.gr:8020/stream?type=http&nocache=103230
+    codec: MP3
+    bitrate: 192
+  - url: https://sh.onweb.gr:7060/stream
+    codec: MP3
+    bitrate: 128

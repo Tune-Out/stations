@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-fb50e3c6-14a6-43fd-bd68-afb1d26f54ef
-streams:
-  - url: 'http://195.150.20.9/GOLD'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.rmfon.pl/n/gold.pls'
-    url_resolved: 'https://rs203-krk-cyfronet.rmfstream.pl/rmf_gold'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,15 @@ research:
   format: Golden oldies - classics from 1960s, 1970s, 1980s, 1990s ("klasyka lat 60., 70., 80. i 90.")
   notes: Part of RMF network (includes RMF FM, RMF MAXX, RMF Classic, RMF24). Streams via RMF ON platform. Premium ad-free option available ("RMF bez reklam"). Podcasts and playlist functionality offered.
   sources: rmfon.pl official website
+curation: 0.2
+provenance:
+  - radiobrowser-fb50e3c6-14a6-43fd-bd68-afb1d26f54ef
+  - iprd-pl-rmf-gold-0aeec2f8
+streams:
+  - url: http://195.150.20.9/GOLD
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.rmfon.pl/n/gold.pls
+    url_resolved: https://rs203-krk-cyfronet.rmfstream.pl/rmf_gold
+    codec: MP3
+    bitrate: 128

@@ -21,34 +21,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-77e606ea-bf7d-11e9-8502-52543be04c81
-streams:
-  - url: 'http://bigrradio-edge1.cdnstream.com/5146_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5156_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=178685.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5155_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=177794.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5168_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=180307.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5157_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=179472.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5169_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=180023.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5154_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=178302.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5158_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=179032.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -58,3 +30,39 @@ research:
   format: 1980s heavy metal and rock music; curated metal library
   notes: US-based online radio (bestnetradio.com); specializes in 80s metal era music; web streaming service with themed music channels
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-77e606ea-bf7d-11e9-8502-52543be04c81
+  - iprd-us-best-net-radio-80s-metal-e9dc9c48
+  - iprd-us-best-net-radio-classic-rnb-1fc59bd8
+  - iprd-us-best-net-radio-classic-rock-f934c95d
+  - iprd-us-best-net-radio-coffee-house-bac8acac
+  - iprd-us-best-net-radio-country-mix-7925abe4
+  - iprd-us-best-net-radio-country-oldies-0bbd4965
+  - iprd-us-best-net-radio-the-bomb-beats-f10f13a6
+  - iprd-us-best-net-radio-the-mix-6e5c3861
+streams:
+  - url: http://bigrradio-edge1.cdnstream.com/5146_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5156_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=178685.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5155_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=177794.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5168_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=180307.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5157_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=179472.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5169_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=180023.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5154_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=178302.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5158_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=179032.mp3
+    codec: MP3
+    bitrate: 128

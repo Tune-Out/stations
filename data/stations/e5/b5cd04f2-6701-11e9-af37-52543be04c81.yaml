@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:03:21
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b5cd04f2-6701-11e9-af37-52543be04c81
-streams:
-  - url: 'http://mbsradio.leanstream.co/CHERFM-MP3'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://mbsradio.leanstream.co/CHERFM-MP3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: classic rock, rock music, canadian programming
   notes: CHER 98.3 "MAX FM" Sydney, NS is a commercial classic rock radio station in Sydney, Nova Scotia, Canada. Branded as MAX FM 98.3 targeting classic rock audience in the Cape Breton region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b5cd04f2-6701-11e9-af37-52543be04c81
+  - iprd-ca-cher-98-3-max-4c148226
+streams:
+  - url: http://mbsradio.leanstream.co/CHERFM-MP3
+    codec: MP3
+    bitrate: 64
+  - url: https://mbsradio.leanstream.co/CHERFM-MP3
+    codec: MP3
+    bitrate: 64

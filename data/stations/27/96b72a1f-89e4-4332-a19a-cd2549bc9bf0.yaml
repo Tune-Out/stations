@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:24:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-96b72a1f-89e4-4332-a19a-cd2549bc9bf0
-streams:
-  - url: 'http://live.cast-control.eu:9102/stream?type=http&nocache=144'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://live.cast-control.eu:9102/;'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: News and information-focused with music, featuring regional and national news, sports coverage, and cultural programming.
   notes: Established 1997. One of the most popular radio stations in the Patras region. Known for friendly hosts and DJs; delivers authentic Greek radio experience blending news, sports, and music.
   sources: https://www.e-radio.gr/Radio-Patra-1065-Patras-i716/live
+curation: 0
+provenance:
+  - radiobrowser-96b72a1f-89e4-4332-a19a-cd2549bc9bf0
+  - iprd-gr-patra-106-5-dc917520
+streams:
+  - url: http://live.cast-control.eu:9102/stream?type=http&nocache=144
+    codec: MP3
+    bitrate: 320
+  - url: http://live.cast-control.eu:9102/;
+    codec: MP3
+    bitrate: 320

@@ -20,10 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6a3c2435-6ba0-465c-84ee-fe68a07cef17
-duplicate_of: 228f33e4-3d24-4504-98d7-ad16d9753438
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +29,7 @@ research:
   format: "Classic country music (likely classic-era country: 1950s-1980s artists such as Johnny Cash, Hank Williams, Patsy Cline, Merle Haggard, Willie Nelson)"
   notes: The "Afghanistan" country tag is almost certainly an artefact of the radio-browser submission metadata rather than an actual Afghan station - classic country radio has effectively no presence in Afghanistan; the stream URL (185.33.21.112) is hosted on a European/CDN address commonly used by white-label internet radio aggregators; no homepage is listed and the station name is generic, making positive identification of operator impossible; presumed to be a hobbyist or small-scale internet station rebroadcasting classic-country library tracks.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6a3c2435-6ba0-465c-84ee-fe68a07cef17
+duplicate_of: 228f33e4-3d24-4504-98d7-ad16d9753438

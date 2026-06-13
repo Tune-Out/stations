@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 03:49:38
 clickcount: 1
 geo_lat: 0.830076028170638
 geo_long: -77.63458428263682
-curation: 0.35
-provenance:
-  - radiobrowser-5deae150-9e15-4352-bcc5-3b8e9f0011ce
-streams:
-  - url: 'https://radiolatina.info/8170/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radiolatina.info/8172/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: Talk, local news, sports, music, culture programming
   notes: Local FM station (HJB29, 89.1 MHz) serving Ipiales, Colombia; focus on regional sports and community culture
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5deae150-9e15-4352-bcc5-3b8e9f0011ce
+streams:
+  - url: https://radiolatina.info/8170/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://radiolatina.info/8172/stream
+    codec: MP3
+    bitrate: 128

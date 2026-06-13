@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 15
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.55
-provenance:
-  - radiobrowser-9fe19f6a-6e9c-4c58-bdf1-4d8431934d09
-duplicate_of: 9617a958-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://stream.radioparadise.com/flac'
-    codec: OGG
-    bitrate: 1441
-  - url: 'http://stream.radioparadise.com/flac'
-    codec: OGG
-    bitrate: 1441
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +31,14 @@ research:
   format: human-curated eclectic mix of rock, alternative, indie, world, electronica, classic rock and jazz with no advertising; this stream is the Main Mix in lossless FLAC
   notes: Radio Paradise was founded in 2000 in Paradise, California by former commercial-radio programmer Bill Goldsmith and his wife Rebecca, and is one of the longest-running and most respected listener-supported internet radio stations; it operates without advertising and funds itself entirely through listener donations; the Main Mix is its flagship channel and is offered in multiple bitrates including high-quality FLAC (around 1.4 Mbps) for audiophiles; the station was forced to relocate operations after the 2018 Camp Fire destroyed much of Paradise, CA, and continues to operate from northern California; widely covered as a benchmark for non-commercial internet radio.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-9fe19f6a-6e9c-4c58-bdf1-4d8431934d09
+duplicate_of: 9617a958-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://stream.radioparadise.com/flac
+    codec: OGG
+    bitrate: 1441
+  - url: http://stream.radioparadise.com/flac
+    codec: OGG
+    bitrate: 1441

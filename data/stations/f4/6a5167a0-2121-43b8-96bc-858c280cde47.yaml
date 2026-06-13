@@ -1,7 +1,7 @@
 stationuuid: 6a5167a0-2121-43b8-96bc-858c280cde47
 name: 2SEA - Eden - 104.7 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2SEA_EDENAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2SEA_EDENAAC.aac
+url: 'http://28793.live.streamtheworld.com:80/2SEA_EDENAAC.aac'
+url_resolved: 'http://28793.live.streamtheworld.com:80/2SEA_EDENAAC.aac'
 homepage: https://www.2sea.com.au/
 favicon: https://i.ibb.co/y4WB5LF/60fd487a6ce288da14fc2751.jpg
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 01:22:50
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6a5167a0-2121-43b8-96bc-858c280cde47
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -36,3 +33,6 @@ research:
   format: Community radio with music, news, talk, and local information
   notes: 104.7 FM operates as community radio serving the southern New South Wales coast. Provides local news, music, and community talk programming to enhance local engagement and social cohesion.
   sources: https://www.2sea.com.au/, internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6a5167a0-2121-43b8-96bc-858c280cde47

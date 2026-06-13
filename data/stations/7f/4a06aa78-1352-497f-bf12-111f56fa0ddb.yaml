@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-4a06aa78-1352-497f-bf12-111f56fa0ddb
-streams:
-  - url: 'http://eco.onestreaming.com:8316/stream?type=http&nocache=22964'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://eco.onestreaming.com:8316/stream?type=http&nocache=55775'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Folk, Greek pop, news, talk; local regional radio
   notes: Σαντορίνη (Santorini FM) is a commercial local radio station serving the island of Santorini, Greece, with programming featuring Greek folk music, pop, news, and community talk.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-4a06aa78-1352-497f-bf12-111f56fa0ddb
+  - iprd-gr-sanatorine-4bcfff12
+streams:
+  - url: http://eco.onestreaming.com:8316/stream?type=http&nocache=22964
+    codec: MP3
+    bitrate: 128
+  - url: http://eco.onestreaming.com:8316/stream?type=http&nocache=55775
+    codec: MP3
+    bitrate: 128

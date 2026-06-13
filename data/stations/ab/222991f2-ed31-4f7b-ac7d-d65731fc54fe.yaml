@@ -1,6 +1,6 @@
 stationuuid: 222991f2-ed31-4f7b-ac7d-d65731fc54fe
 name: KINK Classics
-url: http://playerservices.streamtheworld.com/pls/KINK_DNA.pls
+url: 'http://28973.live.streamtheworld.com:80/KINK_DNA_SC'
 url_resolved: http://22613.live.streamtheworld.com/KINK_DNA_SC
 homepage: https://kink.nl/
 favicon: https://kink.nl/static/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:15:22
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-222991f2-ed31-4f7b-ac7d-d65731fc54fe
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Non-stop alternative rock classics, indie music, podcasts
   notes: Based in Amsterdam; community-run station; part of Dutch independent broadcasting landscape; emphasizes alternative and indie music culture
   sources: https://kink.nl/, internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-222991f2-ed31-4f7b-ac7d-d65731fc54fe

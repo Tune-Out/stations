@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:59:11
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-76b129aa-45cc-46cf-b6b2-1fde08a2c8f9
-streams:
-  - url: 'https://icecast.radiofrance.fr/fippop-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://icecast.radiofrance.fr/fippop-hifi.aac?id=radiofrance'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Curated pop, rock and indie webradio — one of seven thematic FIP webradios spun off from the main FIP eclectic-music station
   notes: FIP (originally "France Inter Paris") was founded in 1971 as a Parisian companion station to France Inter, evolving into Radio France's celebrated eclectic music network broadcast on FM in major French cities; the FIP Pop webradio is part of the digital expansion of the FIP brand alongside FIP Rock, FIP Jazz, FIP Groove, FIP Monde, FIP Electro and FIP Reggae; commercial-free, with the distinctive FIP "voix" (whispered female announcers) tradition.
   sources: internal knowledge of Radio France and FIP
+curation: 0.8
+provenance:
+  - radiobrowser-76b129aa-45cc-46cf-b6b2-1fde08a2c8f9
+  - iprd-fr-fip-pop-2fed63ea
+  - iprd-fr-fip-pop-3ab3cc08
+streams:
+  - url: https://icecast.radiofrance.fr/fippop-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: https://icecast.radiofrance.fr/fippop-hifi.aac?id=radiofrance
+    codec: AAC
+    bitrate: 192

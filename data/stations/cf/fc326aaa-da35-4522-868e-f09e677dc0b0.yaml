@@ -1,6 +1,6 @@
 stationuuid: fc326aaa-da35-4522-868e-f09e677dc0b0
 name: CHTG-FM 92.9 "The Grand" Caledonia, ON
-url: http://provisioning.streamtheworld.com/pls/CHTGFMAAC.pls
+url: 'http://26283.live.streamtheworld.com:80/CHTGFMAAC_SC'
 url_resolved: http://26283.live.streamtheworld.com:3690/CHTGFMAAC_SC
 homepage: https://www.929thegrand.fm/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:34:41
 clickcount: 1
 geo_lat: 43.07079388428422
 geo_long: -79.94888305664062
-curation: -0.10
-provenance:
-  - radiobrowser-fc326aaa-da35-4522-868e-f09e677dc0b0
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic hits, adult contemporary
   notes: Canadian commercial FM radio station CHTG-FM operating on 92.9 FM in Caledonia, Ontario, branded as "The Grand." Plays classic hits and adult contemporary music.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-fc326aaa-da35-4522-868e-f09e677dc0b0

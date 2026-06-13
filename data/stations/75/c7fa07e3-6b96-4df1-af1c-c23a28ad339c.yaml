@@ -1,7 +1,7 @@
 stationuuid: c7fa07e3-6b96-4df1-af1c-c23a28ad339c
 name: Radio10
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
+url: 'http://28563.live.streamtheworld.com:80/RADIO10.mp3'
+url_resolved: 'http://28563.live.streamtheworld.com:80/RADIO10.mp3'
 homepage: https://www.radio10.nl/
 favicon: https://www.radio10.nl/favicon.ico
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 06:59:17
 clickcount: 19
 geo_lat: 52.0099791957639
 geo_long: 5.053539276123048
-curation: -0.05
-provenance:
-  - radiobrowser-c7fa07e3-6b96-4df1-af1c-c23a28ad339c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,8 @@ research:
   format: Adult contemporary / classic hits playing predominantly Dutch and international gold tracks.
   notes: Radio 10 launched in 1995 as Radio 10 Gold under Lex Harding, went through ownership by Wegener and SBS before being acquired by Talpa in 2014; in 2018 it was awarded an FM frequency package after de Mol's Sky Radio/Talpa merger; it is regularly the most-listened-to commercial station in the Netherlands and runs flagship shows like the Top 4000 each December.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c7fa07e3-6b96-4df1-af1c-c23a28ad339c
+  - iprd-nl-radio-10-f71099df
+  - iprd-nl-radio-10-9bffb346

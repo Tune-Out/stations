@@ -1,6 +1,6 @@
 stationuuid: 961c3bbb-0601-11e8-ae97-52543be04c81
 name: WPNR 90.7 "Utica College Pioneer Radio" Utica, NY
-url: http://provisioning.streamtheworld.com/pls/WPNRFMAAC.pls
+url: 'http://27063.live.streamtheworld.com:80/WPNRFMAAC_SC'
 url_resolved: http://23103.live.streamtheworld.com:3690/WPNRFMAAC_SC
 homepage: http://www.pioneerradio.org/
 favicon: http://www.pioneerradio.org/favicon.ico
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961c3bbb-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -34,3 +31,6 @@ research:
   format: Variety, student-produced programming, college radio format with student DJs and community voices.
   notes: Community and college radio operated by Utica College students; serves both campus and Utica community; founded as student-run station.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-961c3bbb-0601-11e8-ae97-52543be04c81

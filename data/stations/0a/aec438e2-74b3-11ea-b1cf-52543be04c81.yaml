@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 08:40:44
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-aec438e2-74b3-11ea-b1cf-52543be04c81
-streams:
-  - url: 'http://stream.radyoodtu.com.tr/;'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://stream.radyoodtu.com.tr/rock'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +34,14 @@ research:
   format: Rock, classic rock, hard rock, heavy metal
   notes: ODTU Radyo is a community/student radio station operated by Middle East Technical University in Ankara. The Rock channel streams rock, classic rock, hard rock, and heavy metal music.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-aec438e2-74b3-11ea-b1cf-52543be04c81
+  - iprd-tr-radyo-odtu-rock-15baf67d
+streams:
+  - url: http://stream.radyoodtu.com.tr/;
+    codec: AAC+
+    bitrate: 48
+  - url: http://stream.radyoodtu.com.tr/rock
+    codec: MP3
+    bitrate: 128

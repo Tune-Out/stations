@@ -25,15 +25,6 @@ lastchangetime: 2026-01-15 05:05:13
 clickcount: 1
 geo_lat: 51.66219928277666
 geo_long: -0.40566868128393946
-curation: 0.35
-provenance:
-  - radiobrowser-f0a972ea-9378-436b-b31d-9c9c79555acd
-streams:
-  - url: 'http://91.232.4.33:9454/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.zeno.fm/z5artz4g2wzuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +34,13 @@ research:
   format: Hardstyle, trance, hands-up, and electronic dance music
   notes: Banita Maxx Radio is a non-commercial online station based in Bedfordshire, UK, serving the Polish diaspora community. It specializes in hardstyle, trance, and EDM music, broadcasting in both English and Polish. Maintains cultural connections to Poland while serving the UK-based Polish community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f0a972ea-9378-436b-b31d-9c9c79555acd
+  - iprd-gb-banita-maxx-radio-2d3e29f9
+streams:
+  - url: http://91.232.4.33:9454/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.zeno.fm/z5artz4g2wzuv
+    codec: MP3

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 6
 geo_lat: 55.75553237074231
 geo_long: 37.62336730957032
-curation: -0.10
-provenance:
-  - radiobrowser-92ec65ea-0324-4d45-bc55-d66955af4a1f
-streams:
-  - url: 'https://choco.hostingradio.ru:10010/fm'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://choco.hostingradio.ru:10010/fm'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Covers, remakes, and hits; contemporary Russian pop music
   notes: Moscow-based commercial radio station Радио Шоколад (Radio Chocolate) provides cover songs and hit remakes in Russian and English. Operates from Moscow with bilingual programming.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-92ec65ea-0324-4d45-bc55-d66955af4a1f
+  - iprd-ru-radio-chocolate-614baa08
+streams:
+  - url: https://choco.hostingradio.ru:10010/fm
+    codec: MP3
+    bitrate: 128
+  - url: http://choco.hostingradio.ru:10010/fm
+    codec: MP3
+    bitrate: 128

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 03:31:41
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-05232733-7804-47c4-b9d8-b570739900c7
-duplicate_of: 7b6aca3d-dfa3-47dd-9f57-820b04c3f339
-streams:
-  - url: 'https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8?id=radiofrance'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Heavy metal and metal subgenres; specialized music channel within Radio France.
   notes: Fip Metal is a dedicated channel within Radio France's multi-channel Fip network, launched 1980s. Public broadcaster state-owned by French government. Serves niche metal audience.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-05232733-7804-47c4-b9d8-b570739900c7
+duplicate_of: 7b6aca3d-dfa3-47dd-9f57-820b04c3f339
+streams:
+  - url: https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8?id=radiofrance
+    codec: UNKNOWN
+    hls: true

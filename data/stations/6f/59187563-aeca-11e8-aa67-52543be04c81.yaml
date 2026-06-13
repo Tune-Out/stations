@@ -21,27 +21,6 @@ lastchangetime: 2026-01-15 02:50:58
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-59187563-aeca-11e8-aa67-52543be04c81
-streams:
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndrkultur/live/aac/192/stream.aac'
-    codec: AAC
-    bitrate: 256
-  - url: 'https://f131.rndfnk.com/ard/ndr/ndrkultur/live/aac/192/stream.aac?aggregator=web&cid=01FBQ2EJ6T7QK3WENQ5KT9S2FB&sid=2aWrl15TtQvWg6RQ9hvrVfdh99E&token=cgylLQKukz6c0ajNCSHCboafG1Q474A1QN0WA3_K3Hg&tvf=4vGFz6J7pxdmMTMxLnJuZGZuay5jb20'
-    codec: AAC
-    bitrate: 256
-  - url: 'http://icecast.ndr.de/ndr/ndrkultur/live/aac/192/stream.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndrkultur/live/aac/192/stream.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3?1728425224079&aggregator=web'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -51,3 +30,25 @@ research:
   format: Cultural radio — classical music, jazz, opera, audio drama (Hörspiel), literature, philosophy, arts journalism, and cultural news
   notes: NDR Kultur is the dedicated culture and classical music channel of Norddeutscher Rundfunk, the ARD member serving four northern German states; broadcast on FM and DAB+ across northern Germany and the DAB+ national multiplex, plus DVB and online; flagship programmes include "Klassisch in den Tag," "Am Morgen vorgelesen," "Neue CDs," and arts magazine "Journal" along with extensive Hörspiel (radio drama) tradition that is a hallmark of German public radio; NDR is governed by an independent Rundfunkrat (Broadcasting Council) representing civil society and is bound by the public-service Staatsvertrag requiring political balance and independence from government.
   sources: internal knowledge (NDR homepage fetch blocked)
+curation: 0.7
+provenance:
+  - radiobrowser-59187563-aeca-11e8-aa67-52543be04c81
+  - iprd-de-ndr-kultur-f19771c4
+streams:
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndrkultur/live/aac/192/stream.aac
+    codec: AAC
+    bitrate: 256
+  - url: https://f131.rndfnk.com/ard/ndr/ndrkultur/live/aac/192/stream.aac?aggregator=web&cid=01FBQ2EJ6T7QK3WENQ5KT9S2FB&sid=2aWrl15TtQvWg6RQ9hvrVfdh99E&token=cgylLQKukz6c0ajNCSHCboafG1Q474A1QN0WA3_K3Hg&tvf=4vGFz6J7pxdmMTMxLnJuZGZuay5jb20
+    codec: AAC
+    bitrate: 256
+  - url: http://icecast.ndr.de/ndr/ndrkultur/live/aac/192/stream.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndrkultur/live/aac/192/stream.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3?1728425224079&aggregator=web
+    codec: MP3
+    bitrate: 128

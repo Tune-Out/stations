@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 04:09:15
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f757f4d3-b97c-11e9-acb2-52543be04c81
-duplicate_of: 97d43565-b97d-11e9-acb2-52543be04c81
-streams:
-  - url: 'https://stream.radio-nordseewelle.de/live/mp3-192/'
-    codec: MP3
-  - url: 'http://stream.radio-nordseewelle.de/live/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: Adult contemporary pop with strong regional news, weather (especially tides and ferry info), traffic, and local content for the East Frisian/North Sea coast region
   notes: Radio Nordseewelle launched on 1 September 2009 as a private regional station for the East Frisian region of Lower Saxony, broadcasting on FM (96.0/98.6/100.8 etc.) from studios in Norden and Aurich; programming emphasises locally relevant content such as North Sea weather, tide tables, and ferry connections to the East Frisian islands alongside mainstream pop oldies and current hits; it operates under a private commercial licence from the Niedersächsische Landesmedienanstalt (NLM) and is funded by advertising.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f757f4d3-b97c-11e9-acb2-52543be04c81
+duplicate_of: 97d43565-b97d-11e9-acb2-52543be04c81
+streams:
+  - url: https://stream.radio-nordseewelle.de/live/mp3-192/
+    codec: MP3
+  - url: http://stream.radio-nordseewelle.de/live/mp3-192
+    codec: MP3

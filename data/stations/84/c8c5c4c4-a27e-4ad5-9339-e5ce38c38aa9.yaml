@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-c8c5c4c4-a27e-4ad5-9339-e5ce38c38aa9
-streams:
-  - url: 'http://r5.zetcast.net/flac'
-    codec: OGG
-    bitrate: 1411
-  - url: 'https://cdn1.zetcast.net/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,13 @@ research:
   format: "\"A high quality and extremely eclectic mix of genres & generations\" from 60° North, with day-parts themed around Shetland's daylight and seasons"
   notes: Day-part schedule includes Northern Skies (overnight indie chilled), Morning Light, Sea Breeze, High Tide, Ocean Waves, Darkening Hours and The Beacon; offered streams ranging from 64 kbps up to 1411 kbps lossless FLAC, with this particular entry being the FLAC feed; podcast archive maintained on Mixcloud; framed entirely around the Shetland Islands' identity at latitude 60° North rather than around mainstream UK broadcasting structures.
   sources: https://60north.radio/
+curation: 0.5
+provenance:
+  - radiobrowser-c8c5c4c4-a27e-4ad5-9339-e5ce38c38aa9
+streams:
+  - url: http://r5.zetcast.net/flac
+    codec: OGG
+    bitrate: 1411
+  - url: https://cdn1.zetcast.net/stream
+    codec: MP3
+    bitrate: 320

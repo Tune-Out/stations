@@ -23,23 +23,6 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 211
 geo_lat: null
 geo_long: null
-curation: 1.00
-provenance:
-  - radiobrowser-6a1440b2-e6f0-11e9-a96c-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/franceculture-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://icecast.radiofrance.fr/franceculture-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBose'
-    codec: AAC
-    bitrate: 107
-    hls: true
-  - url: 'http://direct.franceculture.fr/live/franceculture-lofi.mp3'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -49,3 +32,22 @@ research:
   format: cultural/talk public radio — documentaries, debates, literary readings, philosophy, history, science, drama, and in-depth news magazines; very little music programming
   notes: founded 1963 as France Culture (lineage traces to RTF's "Programme National"); broadcasts nationally on FM and DAB+; sister stations include France Inter, France Info, France Musique, France Bleu, and Mouv'; flagship intellectual broadcaster of the French public radio system; homepage redirects from franceculture.fr to radiofrance.fr/franceculture
   sources: https://www.franceculture.fr/ (redirects to https://www.radiofrance.fr/franceculture), internal knowledge
+curation: 1
+provenance:
+  - radiobrowser-6a1440b2-e6f0-11e9-a96c-52543be04c81
+  - iprd-fr-france-culture-e7bbd6c4
+  - iprd-fr-france-culture-92045205
+streams:
+  - url: http://icecast.radiofrance.fr/franceculture-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: https://icecast.radiofrance.fr/franceculture-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBose
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: http://direct.franceculture.fr/live/franceculture-lofi.mp3
+    codec: MP3
+    bitrate: 32

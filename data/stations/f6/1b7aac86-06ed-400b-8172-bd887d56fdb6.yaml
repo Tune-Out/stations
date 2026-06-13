@@ -1,7 +1,7 @@
 stationuuid: 1b7aac86-06ed-400b-8172-bd887d56fdb6
 name: Sunshine FM - Buderim - 104.9 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/4SFM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/4SFM.mp3
+url: 'http://14533.live.streamtheworld.com:80/4SFM.mp3'
+url_resolved: 'http://14533.live.streamtheworld.com:80/4SFM.mp3'
 homepage: https://www.sunshinefm.com.au/
 favicon: https://i.ibb.co/YdcvrYY/6053e9d992a2ec1e0db51bb7.webp
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 00:44:56
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1b7aac86-06ed-400b-8172-bd887d56fdb6
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -36,3 +33,6 @@ research:
   format: Adult contemporary, community talk, local news and information
   notes: Licensed community radio station on 104.9 FM in Buderim, Queensland. Focuses on local community engagement and information services.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1b7aac86-06ed-400b-8172-bd887d56fdb6

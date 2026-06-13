@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:03:36
 clickcount: 6
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.05
-provenance:
-  - radiobrowser-daa600d2-3d8d-4e7b-9974-90b5be49b40e
-streams:
-  - url: 'https://0n-heavymetal.radionetz.de/0n-heavymetal.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-heavymetal.radionetz.de/0n-heavymetal.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Heavy metal, hard rock, and metal music
   notes: German online radio station part of 0nradio family; dedicated to heavy metal and hard rock music; operated in Bavaria; targets dedicated metal music audience
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-daa600d2-3d8d-4e7b-9974-90b5be49b40e
+streams:
+  - url: https://0n-heavymetal.radionetz.de/0n-heavymetal.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-heavymetal.radionetz.de/0n-heavymetal.mp3
+    codec: MP3
+    bitrate: 128

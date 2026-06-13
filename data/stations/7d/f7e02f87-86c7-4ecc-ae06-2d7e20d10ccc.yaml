@@ -24,14 +24,6 @@ lastchangetime: 2026-01-15 08:27:56
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-f7e02f87-86c7-4ecc-ae06-2d7e20d10ccc
-streams:
-  - url: 'http://radios.rtbf.be/wr-c21-blues-128.mp3'
-    codec: MP3
-  - url: 'https://radios.rtbf.be/wr-c21-blues-128.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +33,12 @@ research:
   format: All-blues web stream — classic, modern, electric and acoustic blues
   notes: Classic 21 is RTBF's classic-rock FM and DAB+ network (founded 2004 as part of the RTBF "Pure FM / Musiq3 / Classic 21" reorganisation); "Classic 21 Blues" is one of its themed web sub-channels alongside Classic 21 60s, 70s, 80s, Route 66, Métal etc., curated by Classic 21's specialist presenters and benefiting from RTBF's broader music library.
   sources: internal knowledge only, http://www.rtbfradioplayer.be/
+curation: 0.65
+provenance:
+  - radiobrowser-f7e02f87-86c7-4ecc-ae06-2d7e20d10ccc
+  - iprd-be-classic-21-blues-674d491a
+streams:
+  - url: http://radios.rtbf.be/wr-c21-blues-128.mp3
+    codec: MP3
+  - url: https://radios.rtbf.be/wr-c21-blues-128.mp3
+    codec: MP3

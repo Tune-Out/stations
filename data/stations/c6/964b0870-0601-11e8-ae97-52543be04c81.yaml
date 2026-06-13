@@ -1,6 +1,6 @@
 stationuuid: 964b0870-0601-11e8-ae97-52543be04c81
 name: WQQO-HD2 "Talk 100.7 Radio" Sylvania, OH
-url: http://provisioning.streamtheworld.com/pls/WQQOHD2AAC.pls
+url: 'http://18153.live.streamtheworld.com:80/WQQOHD2AAC_SC'
 url_resolved: http://29263.live.streamtheworld.com:3690/WQQOHD2AAC_SC
 homepage: http://www.talkradio1007.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3365/squareIcon.png?r=92975
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:56:58
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964b0870-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Talk radio format with news and conversation programming.
   notes: HD2 subchannel of 100.7 FM. Serves the greater Toledo metropolitan area with talk-based content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964b0870-0601-11e8-ae97-52543be04c81

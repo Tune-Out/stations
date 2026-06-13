@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:40:59
 clickcount: 1
 geo_lat: 53.687911696522576
 geo_long: -1.5767741203308108
-curation: 0.35
-provenance:
-  - radiobrowser-48683066-a5a0-48be-805e-76ab6ffc15c6
-streams:
-  - url: 'https://securestreams2.autopo.st:1234/stream#.mp3?1702339792481'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://securestreams2.autopo.st:1234/stream#.mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Community radio; music and entertainment shows; local sponsors and community focus
   notes: Independent community broadcaster with tagline "Your Station Your Music"; runs Rhubarb Cares initiative; licensed community radio station.
   sources: https://www.rhubarbradio.co.uk/
+curation: 0.35
+provenance:
+  - radiobrowser-48683066-a5a0-48be-805e-76ab6ffc15c6
+streams:
+  - url: https://securestreams2.autopo.st:1234/stream#.mp3?1702339792481
+    codec: MP3
+    bitrate: 160
+  - url: https://securestreams2.autopo.st:1234/stream#.mp3
+    codec: MP3
+    bitrate: 160

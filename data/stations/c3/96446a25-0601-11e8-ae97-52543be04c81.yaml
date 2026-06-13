@@ -1,6 +1,6 @@
 stationuuid: 96446a25-0601-11e8-ae97-52543be04c81
 name: XHCDU-FM "Super Estelar 92.9" Ciudad Acuna, CO
-url: http://provisioning.streamtheworld.com/pls/XHCDUFMAAC.pls
+url: 'http://14623.live.streamtheworld.com:80/XHCDUFMAAC_SC'
 url_resolved: http://14993.live.streamtheworld.com/XHCDUFMAAC_SC
 homepage: http://superestelar929.com.mx/
 favicon: http://superestelar929.com.mx/favicon.ico
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:26:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96446a25-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Grupera and regional Mexican music; "Super Estelar" branded programming featuring traditional and contemporary Mexican regional formats.
   notes: Mexican commercial FM radio station (92.9 FM) licensed for Ciudad Acuña, Coahuila. Specializes in grupera and regional Mexican music (música regional mexicana). Branded "Super Estelar" (Super Star). No apparent political or religious affiliations; entertainment-focused commercial broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96446a25-0601-11e8-ae97-52543be04c81
+  - iprd-mx-super-estelar-92-9-xhcdu-a8540ea2

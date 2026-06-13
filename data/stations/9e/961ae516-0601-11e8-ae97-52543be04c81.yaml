@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:56:58
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961ae516-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live.guerrillaradio.ro:8010/guerrilla.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://live.guerrillaradio.ro:8443/guerrilla.aac'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Rock, indie rock, classic rock, post-punk, and alternative music; counterculture and music-focused programming
   notes: Radio Guerrilla is an independent Romanian rock and alternative music station, launched around 2000-2005 (exact founding unclear). The name "Guerrilla" and tagline "La única radio con cojones" (The only radio with guts - Spanish language slogan on a Romanian station) reflects rebellious, anti-establishment positioning. Known for championing Romanian and Eastern European rock artists, indie acts, and alternative music. Broadcasts in Romanian at 96 kbps AAC+. Streams via live.guerrillaradio.ro. Station has developed cult following among Romanian rock enthusiasts. No major regulatory sanctions. Editorial line emphasizes artistic independence and creative freedom.
   sources: http://guerrillaradio.ro/
+curation: 0.35
+provenance:
+  - radiobrowser-961ae516-0601-11e8-ae97-52543be04c81
+  - iprd-ro-radio-guerrilla-41bd47d3
+streams:
+  - url: http://live.guerrillaradio.ro:8010/guerrilla.aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://live.guerrillaradio.ro:8443/guerrilla.aac
+    codec: AAC+
+    bitrate: 96

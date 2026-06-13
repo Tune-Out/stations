@@ -1,6 +1,6 @@
 stationuuid: 9649d8d5-0601-11e8-ae97-52543be04c81
 name: WWQQ 101.3 Wilmington, NC
-url: http://provisioning.streamtheworld.com/pls/WWQQFMAAC.pls
+url: 'http://27153.live.streamtheworld.com:80/WWQQFMAAC_SC'
 url_resolved: http://26193.live.streamtheworld.com:3690/WWQQFMAAC_SC
 homepage: http://www.wwqq101.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3355/squareIcon.png?r=96267
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:48:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9649d8d5-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music format
   notes: WWQQ 101.3 FM is a commercial country music radio station serving Wilmington, North Carolina. Broadcasts country format to southeastern North Carolina coastal region. Regional commercial broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9649d8d5-0601-11e8-ae97-52543be04c81

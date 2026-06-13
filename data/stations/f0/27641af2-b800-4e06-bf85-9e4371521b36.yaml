@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 03:47:10
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-27641af2-b800-4e06-bf85-9e4371521b36
-streams:
-  - url: 'http://stream.srg-ssr.ch/drsmw/aacp_32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/srfmw/aac/48'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream.srg-ssr.ch/m/drsmw/aacp_96'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +34,16 @@ research:
   format: Volksmusik (folk music), traditional music, regional culture and folklore
   notes: SRF Musikwelle specializes in Swiss/Alpine folk and traditional music. SRF is part of SRG SSR, Switzerland's public media funded by license fees and taxes.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-27641af2-b800-4e06-bf85-9e4371521b36
+  - iprd-ch-radio-srf-musikwelle-0da5f859
+  - iprd-ch-radio-srf-musikwelle-844852a9
+streams:
+  - url: http://stream.srg-ssr.ch/drsmw/aacp_32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/srfmw/aac/48
+    codec: AAC
+    bitrate: 128
+  - url: http://stream.srg-ssr.ch/m/drsmw/aacp_96
+    codec: AAC
+    bitrate: 96

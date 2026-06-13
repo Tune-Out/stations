@@ -22,16 +22,6 @@ lastchangetime: 2026-02-23 20:41:41
 clickcount: 0
 geo_lat: -10.584346684804618
 geo_long: -37.41943359375001
-curation: -0.05
-provenance:
-  - radiobrowser-9c7a386f-8575-4f60-baae-f8c6db926fce
-streams:
-  - url: 'https://str1.streamhostpg.com.br:8124/stream?1771879202034'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://str1.streamhostpg.com.br:8124/stream'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: news/jornalismo, sports coverage (futebol), flashback music, talk
   notes: Commercial FM station (91.3 FM) in Sergipe, Brazil; emphasizes news journalism and sports broadcasting with music programming; serves local and regional audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9c7a386f-8575-4f60-baae-f8c6db926fce
+streams:
+  - url: https://str1.streamhostpg.com.br:8124/stream?1771879202034
+    codec: AAC+
+    bitrate: 96
+  - url: https://str1.streamhostpg.com.br:8124/stream
+    codec: AAC+
+    bitrate: 96

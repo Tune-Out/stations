@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:33:22
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-636773fa-8503-4cee-8c16-c7e343e510b3
-streams:
-  - url: 'http://icestreaming.rai.it/4.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S2444220/HM9xhFhA0riM/icecast'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: Italian music and cultural programming; all-Italian repertoire focus
   notes: Part of Rai's network of public radio stations; funded by Italian state broadcasting; established public service broadcaster
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-636773fa-8503-4cee-8c16-c7e343e510b3
+  - iprd-it-rai-radio-tutta-italiana-c4f241b7
+streams:
+  - url: http://icestreaming.rai.it/4.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S2444220/HM9xhFhA0riM/icecast
+    codec: MP3
+    bitrate: 256

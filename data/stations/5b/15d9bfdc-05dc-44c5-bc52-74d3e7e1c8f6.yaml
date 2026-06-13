@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-15d9bfdc-05dc-44c5-bc52-74d3e7e1c8f6
-streams:
-  - url: 'http://fr1.streamhosting.ch/lounge128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://fr1.streamhosting.ch/lounge128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,15 @@ research:
   format: Lounge music, funk, jazz
   notes: Web-based radio service streaming lounge, funk, and jazz content for adult contemporary listeners.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-15d9bfdc-05dc-44c5-bc52-74d3e7e1c8f6
+  - iprd-ch-lounge-radio-com-2b19e6e4
+  - iprd-ro-golounge-a80c23a1
+streams:
+  - url: http://fr1.streamhosting.ch/lounge128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://fr1.streamhosting.ch/lounge128.mp3
+    codec: MP3
+    bitrate: 128

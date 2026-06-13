@@ -1,7 +1,7 @@
 stationuuid: d1262f5e-7f24-4190-8865-fd1fafb2bed4
 name: Power100 100.7MHz FM Townsville QLD First in Local News and Music 20220701
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC
+url: 'https://13743.live.streamtheworld.com:443/TOW_POWER100AAC_SC'
+url_resolved: 'https://13743.live.streamtheworld.com:443/TOW_POWER100AAC_SC'
 homepage: https://www.power100.com.au/
 favicon: https://www.power100.com.au/wp-content/uploads/sites/19/2022/10/cropped-nql_tsv_p10_512x512-favicon.png?w=180
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 1
 geo_lat: -19.26028266954425
 geo_long: 146.8146030405658
-curation: 0.35
-provenance:
-  - radiobrowser-d1262f5e-7f24-4190-8865-fd1fafb2bed4
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Contemporary hits with local news, weather, sports, and community events
   notes: Local commercial broadcaster serving Townsville with shows including Wildy, Karina, Nathan, Jonesy & Amanda; acknowledges Traditional Custodians in mission statement
   sources: https://www.power100.com.au/
+curation: 0.35
+provenance:
+  - radiobrowser-d1262f5e-7f24-4190-8865-fd1fafb2bed4

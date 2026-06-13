@@ -21,39 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-91bd2aaa-ff1f-4c54-bd71-06ac697dca15
-streams:
-  - url: 'http://drive.uber.radio/uber/crandreabocelli/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crmariacallas/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crandreabocelli/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crandreabocelli/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crnewreleases/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crcalm/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crsimonrattle/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crkiritekanawa/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crhandel/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crnigelkennedy/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crverdi/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crlanglang/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crschubert/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crjulianbream/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -63,3 +30,36 @@ research:
   format: Classical music and opera, curated Andrea Bocelli programming channel
   notes: Internet radio station branded around Andrea Bocelli's classical and operatic repertoire. Non-commercial streaming service. Hosted on Uber Radio platform.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-91bd2aaa-ff1f-4c54-bd71-06ac697dca15
+streams:
+  - url: http://drive.uber.radio/uber/crandreabocelli/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crmariacallas/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crandreabocelli/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crandreabocelli/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crnewreleases/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crcalm/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crsimonrattle/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crkiritekanawa/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crhandel/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crnigelkennedy/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crverdi/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crlanglang/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crschubert/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crjulianbream/icecast.audio
+    codec: MP3

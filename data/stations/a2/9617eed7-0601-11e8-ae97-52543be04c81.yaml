@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:19:54
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9617eed7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream2.radiohbr.de:8080/stream.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://stream1.radiohbr.de/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,15 @@ research:
   format: Bible teaching, Christian preaching, spiritual radio programming
   notes: Non-commercial German Christian radio station operated by Missionswerk Heukelbach (Heukelbach Mission), an evangelical Christian ministry. Broadcasts Bible teaching, messages, and Christian content in German. Founded as missionary broadcast ministry.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9617eed7-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-hbr-a37f801c
+  - iprd-de-radio-hbr-31250e42
+streams:
+  - url: http://stream2.radiohbr.de:8080/stream.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://stream1.radiohbr.de/stream.mp3
+    codec: MP3
+    bitrate: 128

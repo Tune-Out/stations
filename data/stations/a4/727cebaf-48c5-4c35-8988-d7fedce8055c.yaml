@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 00:22:18
 clickcount: 1
 geo_lat: 43.41701888881106
 geo_long: 24.61967468261719
-curation: -0.10
-provenance:
-  - radiobrowser-727cebaf-48c5-4c35-8988-d7fedce8055c
-streams:
-  - url: 'http://icecast.luxnet.ua/lux'
-    url_resolved: 'http://lux.radio.tvstitch.com/kyiv/lux_adv_sd'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +33,16 @@ research:
   format: Contemporary hits, Ukrainian hits, pop music, lifestyle content; showbiz, entertainment, fashion
   notes: Ukrainian commercial broadcaster founded in Lviv. Part of media group operating SWEET.TV streaming platform. Targets adult listeners with contemporary music and entertainment content. Broadcasts in Ukrainian and Russian. Multiple channel formats. Active on all major social platforms and YouTube. 128 kbps AAC stream.
   sources: https://lux.fm/
+curation: -0.1
+provenance:
+  - radiobrowser-727cebaf-48c5-4c35-8988-d7fedce8055c
+  - iprd-ua-lux-fm-e95ac74b
+streams:
+  - url: http://icecast.luxnet.ua/lux
+    url_resolved: http://lux.radio.tvstitch.com/kyiv/lux_adv_sd
+    codec: AAC
+    bitrate: 128
+  - url: https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true

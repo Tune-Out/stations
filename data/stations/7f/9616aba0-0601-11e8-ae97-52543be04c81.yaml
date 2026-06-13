@@ -24,22 +24,6 @@ lastchangetime: 2026-01-15 08:48:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9616aba0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284321-2_aac_high.m3u'
-    url_resolved: 'http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284321-2_mp3_low.m3u'
-    url_resolved: 'http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284321-2_mp3_high.m3u'
-    url_resolved: 'http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -49,3 +33,22 @@ research:
   format: Black music, dance, pop, rock, and mix programming with contemporary focus.
   notes: MDR Jump is the youth-oriented division of MDR, East German public broadcaster. "In The Mix" channel features diverse music (black, dance, pop, rock). Part of ARD public broadcasting network. No commercial advertising.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9616aba0-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-jump-in-the-mix-5c65bb5f
+  - iprd-de-mdr-jump-in-the-mix-b8467acc
+  - iprd-de-mdr-jump-in-the-mix-28a892e3
+streams:
+  - url: http://avw.mdr.de/streams/284321-2_aac_high.m3u
+    url_resolved: http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284321-2_mp3_low.m3u
+    url_resolved: http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284321-2_mp3_high.m3u
+    url_resolved: http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

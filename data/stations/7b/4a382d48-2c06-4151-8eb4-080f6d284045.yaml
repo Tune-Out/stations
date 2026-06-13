@@ -28,19 +28,6 @@ lastchangetime: 2026-01-15 03:03:48
 clickcount: 5
 geo_lat: 35.504584777379435
 geo_long: 24.01786476373673
-curation: 0.35
-provenance:
-  - radiobrowser-4a382d48-2c06-4151-8eb4-080f6d284045
-streams:
-  - url: 'https://s15.myradiostream.com/:13980/listen.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://176.31.118.39:13980/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://s15.myradiostream.com/13980/listen.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -50,3 +37,17 @@ research:
   format: Electronic dance music, house, nu disco, nu funk, electronica, indie pop, trip-hop; English and Greek programming
   notes: Greek independent radio specialized in electronic and alternative genres; serves young adult audience interested in indie and electronic music
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4a382d48-2c06-4151-8eb4-080f6d284045
+  - iprd-gr-d-code-96-2-6ff4d0a1
+streams:
+  - url: https://s15.myradiostream.com/:13980/listen.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://176.31.118.39:13980/
+    codec: MP3
+    bitrate: 192
+  - url: https://s15.myradiostream.com/13980/listen.mp3
+    codec: MP3
+    bitrate: 192

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:49:38
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e27a9406-b0ad-46c0-906d-596ce3394418
-streams:
-  - url: 'https://millenniumhits.out.airtime.pro:8000/millenniumhits_a?fbclid=IwAR0qP_F8RgDCq3gX8g7U8Dmm_uZedtPrqxCf8iIDAW5Jcd5ktA0XMs6BJu4'
-    codec: MP3
-    bitrate: 48
-  - url: 'http://millenniumhits.out.airtime.pro:8000/millenniumhits_a'
-    codec: MP3
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: religious
@@ -41,3 +31,14 @@ research:
   format: 24/7 Krishna devotional content - bhajans, kirtans, mantra chants (Hare Krishna Mahamantra), discourses (pravachan) and recitations from the Bhagavad Gita and Bhagavata Purana
   notes: Radio Krishna is an internet devotional radio station listed on radio.garden as based in Mumbai and operated by Bhaktiworld Media; the "Hindu" tag and the station's name reflect its dedication to Lord Krishna, the central deity of the Vaishnavite bhakti tradition; programming consists of Krishna-centric bhajans and kirtans (devotional song), mantra chanting and spoken discourses, in the lineage of broader Bhakti Movement media projects in India; the station listed in radio-browser uses an airtime.pro stream and is one of dozens of small Krishna-devotional internet radios serving the global Hare Krishna and ISKCON-influenced diaspora.
   sources: https://radio.garden/listen/2b-radio-krishna/sxb6cxJs
+curation: 0.35
+provenance:
+  - radiobrowser-e27a9406-b0ad-46c0-906d-596ce3394418
+  - iprd-in-2b-radio-sangam-krishna-32e546e9
+streams:
+  - url: https://millenniumhits.out.airtime.pro:8000/millenniumhits_a?fbclid=IwAR0qP_F8RgDCq3gX8g7U8Dmm_uZedtPrqxCf8iIDAW5Jcd5ktA0XMs6BJu4
+    codec: MP3
+    bitrate: 48
+  - url: http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
+    codec: MP3
+    bitrate: 48

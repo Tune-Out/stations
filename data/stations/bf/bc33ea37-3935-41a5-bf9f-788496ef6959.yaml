@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-bc33ea37-3935-41a5-bf9f-788496ef6959
-streams:
-  - url: 'https://kathy.torontocast.com:3350/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://kathy.torontocast.com:3350/;?shoutcast'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: J-hip-hop and Japanese hip-hop music streaming
   notes: Part of Asia Dream Radio network; specialized format for Japanese hip-hop genre despite Japan country code listing
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-bc33ea37-3935-41a5-bf9f-788496ef6959
+streams:
+  - url: https://kathy.torontocast.com:3350/;
+    codec: MP3
+    bitrate: 128
+  - url: https://kathy.torontocast.com:3350/;?shoutcast
+    codec: MP3
+    bitrate: 128

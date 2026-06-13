@@ -1,6 +1,6 @@
 stationuuid: 9648a538-0601-11e8-ae97-52543be04c81
 name: WHHT "Nash Icon 103.7" Cave City, KY
-url: http://provisioning.streamtheworld.com/pls/WHHT_FMAAC.pls
+url: 'http://17553.live.streamtheworld.com:80/WHHT_FMAAC_SC'
 url_resolved: http://17993.live.streamtheworld.com/WHHT_FMAAC_SC
 homepage: http://www.1037nash.com/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:10:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648a538-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music; commercial country format
   notes: US commercial radio station FM 103.7 serving Cave City and Bowling Green, Kentucky area. Country music format branded as "Nash Icon".
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648a538-0601-11e8-ae97-52543be04c81

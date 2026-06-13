@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-b4f0bb6e-8ecd-465f-b86f-5bb622de353f
-streams:
-  - url: 'https://diffusion.lafrap.fr/sun-jazz.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://diffusion.lafrap.fr/sun-jazz.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Jazz music, independent programming with listener-selected content
   notes: SUN Jazz (Le Son Unique) is a non-commercial, independent, ad-free French webradio. Described as "un média indépendant et sans publicité, avec une programmation à la fois exigeante et accessible" (independent media without ads, with demanding and accessible programming). Interactive model where users select upcoming tracks. Part of larger SUN network.
   sources: https://www.lesonunique.com/
+curation: 0.65
+provenance:
+  - radiobrowser-b4f0bb6e-8ecd-465f-b86f-5bb622de353f
+  - iprd-fr-sun-jazz-81325aa6
+streams:
+  - url: https://diffusion.lafrap.fr/sun-jazz.mp3
+    codec: MP3
+    bitrate: 320
+  - url: http://diffusion.lafrap.fr/sun-jazz.mp3
+    codec: MP3
+    bitrate: 320

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 64
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-433d25b8-5f8f-11e9-a622-52543be04c81
-streams:
-  - url: 'http://dreamsiteradiocp2.com:2199/tunein/rmburundi2-stream.pls'
-    url_resolved: 'http://57.129.49.167:8082/stream'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://dreamsiteradiocp.com:8058/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: religious
@@ -42,3 +31,15 @@ research:
   format: Catholic religious programming - prayer, rosary, Mass, catechesis, Bible reflection, talk and family / health programmes, plus sacred music
   notes: Radio Maria Burundi is part of the World Family of Radio Maria, a worldwide network of more than 80 listener-supported Catholic stations whose stated four pillars are prayer, evangelisation, catechesis, and human promotion ("preghiera, evangelizzazione, catechesi, promozione umana"); the network was founded as a parish radio in Arcellasco d'Erba (Italy) in 1983 and went international in the 1990s; the Burundi affiliate broadcasts on FM across multiple provinces and operates as a non-profit funded by listener donations rather than advertising; like other Radio Maria stations it is editorially aligned with the Catholic magisterium and has, in some African countries, been criticised by governments for coverage of social and human-rights issues, though no specific sanction against the Burundian station is widely documented.
   sources: internal knowledge (http://www.radiomaria.bi/ returned HTTP 403)
+curation: 0.55
+provenance:
+  - radiobrowser-433d25b8-5f8f-11e9-a622-52543be04c81
+  - iprd-bi-radio-maria-98-4-31422179
+streams:
+  - url: http://dreamsiteradiocp2.com:2199/tunein/rmburundi2-stream.pls
+    url_resolved: http://57.129.49.167:8082/stream
+    codec: AAC+
+    bitrate: 32
+  - url: http://dreamsiteradiocp.com:8058/stream
+    codec: MP3
+    bitrate: 64

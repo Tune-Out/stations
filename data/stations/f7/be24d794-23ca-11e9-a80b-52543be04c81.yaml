@@ -1,6 +1,6 @@
 stationuuid: be24d794-23ca-11e9-a80b-52543be04c81
 name: Kink 192k mp3
-url: http://provisioning.streamtheworld.com/pls/KINK.pls
+url: 'http://22663.live.streamtheworld.com:80/KINK_SC'
 url_resolved: http://25273.live.streamtheworld.com/KINK_SC
 homepage: https://kinkfm.nl/
 favicon: https://kinkfm.nl/static/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:25:16
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-be24d794-23ca-11e9-a80b-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Music-focused with genre-specific channels (KINK, KINK 80's, KINK 90's, KINK DISTORTION); live sessions, playlists, podcasts, news
   notes: '"VIA DAB+ IN HEEL NEDERLAND" (nationwide DAB+ coverage). Operates KINK Store merchandise and KINK Presents events; active in festival coverage.'
   sources: https://kink.nl/
+curation: -0.05
+provenance:
+  - radiobrowser-be24d794-23ca-11e9-a80b-52543be04c81

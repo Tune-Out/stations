@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:28:39
 clickcount: 201
 geo_lat: 40.75166
 geo_long: -73.97538
-curation: 0.80
-provenance:
-  - radiobrowser-6eff3484-4ab4-4d36-bf27-9172c5aac15c
-streams:
-  - url: 'https://icecast.walmradio.com:8443/christmas_opus'
-    codec: OGG
-    bitrate: 192
-  - url: 'https://icecast.walmradio.com:8443/christmas'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Christmas vintage vinyl recordings (carols, big band, crooner-era and classic Christmas LPs ripped from physical vinyl); presented in high-quality 320 kbps audio
   notes: WALM Radio operates a small family of curated streams (Christmas Vinyl HD, Classic Vinyl HD, Vintage Christian Radio, Old Time Radio, Christmas Carols, etc.) emphasizing audiophile-grade digitized vinyl. The Christmas Vinyl HD stream runs year-round and is a perennial favorite on the radio-browser directory (very high vote count despite modest clickcount). Site emphasizes "crystal-clear audio quality" and premium streaming bitrates.
   sources: https://walmradio.com/christmas, internal knowledge
+curation: 0.7
+provenance:
+  - radiobrowser-6eff3484-4ab4-4d36-bf27-9172c5aac15c
+  - iprd-us-christmas-vinyl-hd-6a149d7f
+streams:
+  - url: https://icecast.walmradio.com:8443/christmas_opus
+    codec: OGG
+    bitrate: 192
+  - url: https://icecast.walmradio.com:8443/christmas
+    codec: MP3
+    bitrate: 320

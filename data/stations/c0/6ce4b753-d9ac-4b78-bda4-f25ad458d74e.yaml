@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6ce4b753-d9ac-4b78-bda4-f25ad458d74e
-streams:
-  - url: 'http://live2.i-turnradio.nl/stream4'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://live.i-turnradio.nl:8035/;?type=http&nocache=1741419755'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://live.i-turnradio.nl/live'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +28,17 @@ research:
   format: Community radio programming.
   notes: Local radio station in the Netherlands offering online streaming via i-turnradio.nl.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6ce4b753-d9ac-4b78-bda4-f25ad458d74e
+  - iprd-nl-i-turn-radio-3b114c8a
+streams:
+  - url: http://live2.i-turnradio.nl/stream4
+    codec: AAC
+    bitrate: 48
+  - url: https://live.i-turnradio.nl:8035/;?type=http&nocache=1741419755
+    codec: MP3
+    bitrate: 192
+  - url: http://live.i-turnradio.nl/live
+    codec: MP3
+    bitrate: 160

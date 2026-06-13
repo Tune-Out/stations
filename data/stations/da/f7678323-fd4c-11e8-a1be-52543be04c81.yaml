@@ -22,22 +22,6 @@ lastchangetime: 2026-01-14 23:45:48
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f7678323-fd4c-11e8-a1be-52543be04c81
-streams:
-  - url: 'https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Cross%20Country%20Christmas'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://cbnradio.streamguys1.com/country-christmas-128K?app=cbnplayer'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Christmas'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streams.cbnradio.com/christmas-128K?app=cbnplayer'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -47,3 +31,24 @@ research:
   format: Praise, contemporary Christian, gospel, southern gospel; Christmas-themed programming; news (CBN News, Faith Nation, Jerusalem Dateline); children's content (Superbook)
   notes: Non-commercial religious broadcaster; part of large Christian ministry network; "Where the Worship Never Stops"; 481 votes on directory listing
   sources: https://cbn.com/radio?radio_station=23169
+curation: 0.35
+provenance:
+  - radiobrowser-f7678323-fd4c-11e8-a1be-52543be04c81
+  - iprd-us-cbn-cross-country-6d885346
+  - iprd-us-cbn-cross-country-christmas-a664173e
+  - iprd-us-cbn-cross-country-christmas-0c9296f6
+  - iprd-us-cbn-radio-christmas-12ba2ac2
+  - iprd-us-cbn-selah-80c8b151
+streams:
+  - url: https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Cross%20Country%20Christmas
+    codec: MP3
+    bitrate: 128
+  - url: http://cbnradio.streamguys1.com/country-christmas-128K?app=cbnplayer
+    codec: MP3
+    bitrate: 128
+  - url: https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Christmas
+    codec: MP3
+    bitrate: 128
+  - url: https://streams.cbnradio.com/christmas-128K?app=cbnplayer
+    codec: MP3
+    bitrate: 128

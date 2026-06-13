@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e2d0b790-de9c-11e8-a9cc-52543be04c81
-streams:
-  - url: 'http://www.lmp.d2g.com:8020/listen.pls'
-    url_resolved: 'http://www.lmp.d2g.com:8020/;'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.lmp.d2g.com:8040/listen.pls'
-    url_resolved: 'http://www.lmp.d2g.com:8040/;'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +28,15 @@ research:
   format: 8-bit music, chiptune, demoscene audio; experimental electronic synthesis
   notes: Station dedicated to demoscene music culture (subculture originating from 1980s-90s computer graphics/music scene). Plays chiptune and tracker music from demoscene composers. Community-run with strong ties to retro computing and demo-production communities. Country unknown but presumed UK based on "UK" in station name.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e2d0b790-de9c-11e8-a9cc-52543be04c81
+streams:
+  - url: http://www.lmp.d2g.com:8020/listen.pls
+    url_resolved: http://www.lmp.d2g.com:8020/;
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.lmp.d2g.com:8040/listen.pls
+    url_resolved: http://www.lmp.d2g.com:8040/;
+    codec: MP3
+    bitrate: 256

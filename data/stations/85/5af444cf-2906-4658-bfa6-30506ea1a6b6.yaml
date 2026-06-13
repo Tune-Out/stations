@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-5af444cf-2906-4658-bfa6-30506ea1a6b6
-streams:
-  - url: 'http://radio.dline-media.com/powerhit128'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://radio.dline-media.com/powerhit128'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Contemporary hit radio (CHR) featuring Top 100 hits, dance, classic hits, and modern pop; broadcast in English and Russian
   notes: Major Russian commercial radio station; part of Russian entertainment landscape; emphasizes chart hits and dance music; available online and via radio broadcasts
   sources: https://powerhitradio.ru/
+curation: -0.1
+provenance:
+  - radiobrowser-5af444cf-2906-4658-bfa6-30506ea1a6b6
+streams:
+  - url: http://radio.dline-media.com/powerhit128
+    codec: AAC+
+    bitrate: 128
+  - url: https://radio.dline-media.com/powerhit128
+    codec: AAC+
+    bitrate: 128

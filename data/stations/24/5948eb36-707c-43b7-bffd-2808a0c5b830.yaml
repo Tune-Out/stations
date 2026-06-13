@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: 44.23417973259564
 geo_long: -79.46411132812501
-curation: -0.05
-provenance:
-  - radiobrowser-5948eb36-707c-43b7-bffd-2808a0c5b830
-streams:
-  - url: 'https://torres-media.streamb.live/SB00191'
-    codec: AAC+
-    bitrate: 49
-  - url: 'https://torres-media.streamb.live/SB00191?starttime=1692206600'
-    codec: AAC+
-    bitrate: 49
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Country music; FM 93.7 traditional commercial country format
   notes: Licensed commercial station serving greater Toronto area/York Region; operates under Torres Media/Stingray Music network affiliation.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5948eb36-707c-43b7-bffd-2808a0c5b830
+  - iprd-ca-ckou-93-7-38833ac7
+streams:
+  - url: https://torres-media.streamb.live/SB00191
+    codec: AAC+
+    bitrate: 49
+  - url: https://torres-media.streamb.live/SB00191?starttime=1692206600
+    codec: AAC+
+    bitrate: 49

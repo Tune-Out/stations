@@ -22,19 +22,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: -5.829791833588059
 geo_long: -35.21255493164063
-curation: -0.05
-provenance:
-  - radiobrowser-f8dad9f0-2871-4edb-a9f8-1fbb8f6c02bd
-streams:
-  - url: 'https://radios.braviahost.com.br:8000/radio.mp3?1732983388728'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://radios.braviahost.com.br:8000/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radios.braviahost.com.br:8000/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: MPB (Música Popular Brasileira), pop music, pop rock
   notes: Brazilian commercial FM radio station based in Natal, capital of Rio Grande do Norte state; features Brazilian popular music, contemporary pop, and pop-rock; serves northeastern Brazil region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f8dad9f0-2871-4edb-a9f8-1fbb8f6c02bd
+streams:
+  - url: https://radios.braviahost.com.br:8000/radio.mp3?1732983388728
+    codec: MP3
+    bitrate: 128
+  - url: http://radios.braviahost.com.br:8000/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://radios.braviahost.com.br:8000/radio.mp3
+    codec: MP3
+    bitrate: 128

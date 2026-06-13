@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 04:51:21
 clickcount: 0
 geo_lat: 28.193014289371305
 geo_long: -105.47269821166992
-curation: -0.05
-provenance:
-  - radiobrowser-44a8e6e5-7e16-4958-82f3-5a85afd837ef
-streams:
-  - url: 'https://ssl.sigmaradio.stream:9004/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://ssl.sigmaradio.stream:9004/stream'
-    codec: MP3
-    bitrate: 75
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Top 40, pop, Latin pop, entertainment, youth-oriented music
   notes: Mexican commercial FM radio station broadcasting on 100.5 FM from Delicias, Chihuahua. Call sign XHBZ-FM. Part of Sigma Radio network. Plays pop, Latin pop, and top 40 music in Spanish and English for youth audience across northern Mexico and North America.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-44a8e6e5-7e16-4958-82f3-5a85afd837ef
+streams:
+  - url: https://ssl.sigmaradio.stream:9004/stream
+    codec: MP3
+    bitrate: 96
+  - url: https://ssl.sigmaradio.stream:9004/stream
+    codec: MP3
+    bitrate: 75

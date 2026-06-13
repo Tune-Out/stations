@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 54
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-85c799b3-d91f-4f60-b91a-723e4a04acf5
-streams:
-  - url: 'http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/'
-    codec: MP3
-  - url: 'http://streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Specialized hip-hop and rap station featuring classic 1990s rap and old school hip-hop with artists like Snoop Dogg, Notorious B.I.G., and LL Cool J.
   notes: Commercial digital radio station part of 90s90s network with genre-specific stations including House, Techno, Grunge, and Britpop. Operating across Germany with regional stations in Baden-Württemberg, Hessen, NRW, and Sachsen. Notable shows include Rob Green Morning, Robs MIX UP, and BLD Weekend. Positioned as celebrating 1990s culture through music and entertainment.
   sources: https://www.90s90s.de/radios/hiphop-rap
+curation: 0.4
+provenance:
+  - radiobrowser-85c799b3-d91f-4f60-b91a-723e4a04acf5
+streams:
+  - url: http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/
+    codec: MP3
+  - url: http://streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de/
+    codec: MP3

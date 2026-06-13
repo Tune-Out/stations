@@ -21,30 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 58
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-961ac56b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://stream.srg-ssr.ch/rsj/aacp_96.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsj/aac/96'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream.srg-ssr.ch/m/rsj/aacp_96'
-    codec: AAC
-    bitrate: 96
-  - url: 'http://www.radioswissjazz.ch/live/aacp32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsj/aac/48'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://stream.srg-ssr.ch/m/rsj/aacp_32'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://stream.srg-ssr.ch/m/rsj/mp3_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.srg-ssr.ch/m/rsj/mp3_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -54,3 +30,29 @@ research:
   format: 24-hour curated jazz music — classic, mainstream, contemporary jazz with minimal speech
   notes: One of three SRG SSR digital-only music streams (alongside Radio Swiss Pop and Radio Swiss Classic) launched in 2007; based in Bern; available via DAB+ across Switzerland, satellite, and internet; features no advertising or DJ chatter — purely music with track database accessible online; SRG SSR is Switzerland's federally-mandated public service broadcaster operating in all four national languages.
   sources: http://www.radioswissjazz.ch/, internal knowledge
+curation: 0.75
+provenance:
+  - radiobrowser-961ac56b-0601-11e8-ae97-52543be04c81
+  - iprd-ch-radio-swiss-jazz-63b6fd76
+  - iprd-ch-radio-swiss-jazz-a3ab8883
+streams:
+  - url: https://stream.srg-ssr.ch/rsj/aacp_96.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsj/aac/96
+    codec: AAC
+    bitrate: 128
+  - url: http://stream.srg-ssr.ch/m/rsj/aacp_96
+    codec: AAC
+    bitrate: 96
+  - url: http://www.radioswissjazz.ch/live/aacp32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/rsj/aac/48
+    codec: AAC
+    bitrate: 48
+  - url: http://stream.srg-ssr.ch/m/rsj/aacp_32
+    codec: AAC
+    bitrate: 48
+  - url: http://stream.srg-ssr.ch/m/rsj/mp3_128
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.srg-ssr.ch/m/rsj/mp3_128
+    codec: MP3
+    bitrate: 128

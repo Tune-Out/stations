@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:49:44
 clickcount: 1
 geo_lat: 45.497491709193746
 geo_long: -73.57543945312501
-curation: 0.25
-provenance:
-  - radiobrowser-f76b8625-7cc5-4fe3-ba11-de80c6563d6a
-streams:
-  - url: 'https://listen.radioking.com/radio/228241/stream/271810'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://listen.radioking.com/radio/228241/stream/271804'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Classical music specialist; 24/7 classical music programming; French-language broadcast
   notes: Montreal-based commercial classical music station (call letters CJSQ); operates in Quebec; 320k high-quality MP3 bitrate; targets francophone classical listeners
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-f76b8625-7cc5-4fe3-ba11-de80c6563d6a
+  - iprd-ca-cjsq-radio-classique-92-7-a362b1aa
+streams:
+  - url: https://listen.radioking.com/radio/228241/stream/271810
+    codec: MP3
+    bitrate: 320
+  - url: https://listen.radioking.com/radio/228241/stream/271804
+    codec: MP3
+    bitrate: 128

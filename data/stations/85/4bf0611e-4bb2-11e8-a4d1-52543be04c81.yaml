@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:40:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4bf0611e-4bb2-11e8-a4d1-52543be04c81
-streams:
-  - url: 'http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -40,3 +30,13 @@ research:
   format: Television and video streaming; drama series, entertainment, and local content.
   notes: Shangyu TV Series TV is a local television and streaming service in Zhejiang Province, China. Part of Chinese state broadcasting infrastructure. Broadcasts TV dramas, series, and entertainment content via HLS video streaming to regional audience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4bf0611e-4bb2-11e8-a4d1-52543be04c81
+streams:
+  - url: http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+    codec: UNKNOWN
+    hls: true

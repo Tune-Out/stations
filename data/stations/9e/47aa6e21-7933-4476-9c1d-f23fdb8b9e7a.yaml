@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:39:47
 clickcount: 17
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-47aa6e21-7933-4476-9c1d-f23fdb8b9e7a
-streams:
-  - url: 'https://online.nasheradio.ua/NasheRadio_HD'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://online.nasheradio.ua/NasheRadio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Contemporary Ukrainian-language music; flagship show "Ранковий Двіж" (Morning Drive) 8-11 AM weekdays; "Топ-10 Знай Наших" chart
   notes: Наше Радіо (Our Radio) launched 2004 as Ukraine's first all-Ukrainian-music station; broadcasts on FM across multiple Ukrainian cities (107.9 in Kyiv among others); owned by TAVR Media group whose portfolio includes Hit FM, Radio ROKS, KISS FM, Melody FM, and Radio Jazz; since the 2022 Russian invasion the station has prominently solicited donations to support Ukrainian defense and music industry.
   sources: https://www.nasheradio.ua/, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-47aa6e21-7933-4476-9c1d-f23fdb8b9e7a
+  - iprd-ua-nashe-radio-107-9-23b1f6e8
+streams:
+  - url: https://online.nasheradio.ua/NasheRadio_HD
+    codec: MP3
+    bitrate: 320
+  - url: http://online.nasheradio.ua/NasheRadio
+    codec: MP3
+    bitrate: 128

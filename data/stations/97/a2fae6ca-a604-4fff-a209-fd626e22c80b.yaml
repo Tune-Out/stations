@@ -1,7 +1,7 @@
 stationuuid: a2fae6ca-a604-4fff-a209-fd626e22c80b
 name: 93.7 Edge FM Bega
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/2BARAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/2BARAAC.aac
+url: 'https://23163.live.streamtheworld.com:443/2BARAAC.aac'
+url_resolved: 'https://23163.live.streamtheworld.com:443/2BARAAC.aac'
 homepage: https://edgefm.org.au/
 favicon: https://edgefm.org.au/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:54:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a2fae6ca-a604-4fff-a209-fd626e22c80b
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community radio with diverse programming including local news, music, and cultural content.
   notes: Licensed community broadcaster serving Bega area. Part of Australia's community radio network. 93.7 FM frequency.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a2fae6ca-a604-4fff-a209-fd626e22c80b

@@ -22,16 +22,6 @@ lastchangetime: 2026-05-13 17:12:01
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-726d2fdb-1089-4942-b4ad-667aacf08f62
-streams:
-  - url: 'https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/192/seglist.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/96/seglist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,18 @@ research:
   format: Classical music 24/7; orchestral works, chamber music, opera, contemporary classical
   notes: Founded as part of BR's classical service; ARD is publicly funded through mandatory broadcasting fees; professional orchestras and ensembles featured
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-726d2fdb-1089-4942-b4ad-667aacf08f62
+  - iprd-de-br-klassik-c873a71b
+  - iprd-de-br-klassik-399187fb
+  - iprd-de-br-klassik-4c1ca53e
+  - iprd-de-br-klassik-03371056
+  - iprd-de-br-klassik-b88d2957
+streams:
+  - url: https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/192/seglist.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/96/seglist.m3u8
+    codec: UNKNOWN
+    hls: true

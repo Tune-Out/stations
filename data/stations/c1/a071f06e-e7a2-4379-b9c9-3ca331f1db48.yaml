@@ -25,17 +25,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 2
 geo_lat: -26.90732677192531
 geo_long: -49.06795132027803
-curation: -0.05
-provenance:
-  - radiobrowser-a071f06e-e7a2-4379-b9c9-3ca331f1db48
-streams:
-  - url: 'https://radio.saopaulo01.com.br:10937/aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://ice.fabricahost.com.br/jpblumenau'
-    url_resolved: 'https://f108.fabricahost.com.br/jpblumenau?f=1768464027N01KF0AQ438AT4MFMBHEV2NP5QH&tid=01KF0AQ438FRZFWMDPREG5YT3S'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +34,14 @@ research:
   format: Brazilian pop, contemporary hits, dance, electronic, eurodance, top 40
   notes: Jovem Pan FM Blumenau is a Brazilian commercial affiliate of the Jovem Pan network; specializes in contemporary hits and dance music targeting youth audience in Santa Catarina.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a071f06e-e7a2-4379-b9c9-3ca331f1db48
+streams:
+  - url: https://radio.saopaulo01.com.br:10937/aac
+    codec: AAC+
+    bitrate: 128
+  - url: https://ice.fabricahost.com.br/jpblumenau
+    url_resolved: https://f108.fabricahost.com.br/jpblumenau?f=1768464027N01KF0AQ438AT4MFMBHEV2NP5QH&tid=01KF0AQ438FRZFWMDPREG5YT3S
+    codec: AAC
+    bitrate: 48

@@ -1,7 +1,7 @@
 stationuuid: 7fd9bc99-71a2-4553-ba57-950977968bd5
 name: Sublime Sunday Chill
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WEB23_AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WEB23_AAC.aac
+url: 'https://22333.live.streamtheworld.com:443/WEB23_AAC.aac'
+url_resolved: 'https://22333.live.streamtheworld.com:443/WEB23_AAC.aac'
 homepage: https://sublime.nl/
 favicon: https://api.mediahuisradio.nl/media/rhtd3pgb/sublime-header.png?format=webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-23 13:47:22
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7fd9bc99-71a2-4553-ba57-950977968bd5
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Chill music, relaxation, ambient
   notes: Dutch commercial internet radio station focused on chill and ambient music; Sunday Chill is branded stream from Sublime.nl; targets relaxation-focused listeners.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7fd9bc99-71a2-4553-ba57-950977968bd5

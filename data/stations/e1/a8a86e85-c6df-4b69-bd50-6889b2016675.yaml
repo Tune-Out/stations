@@ -1,6 +1,6 @@
 stationuuid: a8a86e85-c6df-4b69-bd50-6889b2016675
 name: El Fonógrafo - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AM_SC
+url: 'https://18163.live.streamtheworld.com:443/XEN_AM_SC'
 url_resolved: https://18853.live.streamtheworld.com:443/XEN_AM_SC
 homepage: https://www.radiocentroelfonografo.com/
 favicon: https://editorial.radiocentro1030.mx/wp-content/uploads/2025/02/ic_RC1030.png
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-14 23:22:02
 clickcount: 6
 geo_lat: 19.43328848035734
 geo_long: -99.1328251361847
-curation: -0.05
-provenance:
-  - radiobrowser-a8a86e85-c6df-4b69-bd50-6889b2016675
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Latin pop, "música del recuerdo" (music of memories), Spanish-language pop and romantic music; AM 690 format targeting nostalgia-oriented audiences
   notes: El Fonógrafo is one of the iconic stations of Grupo Radio Centro, broadcasting on AM 690 (XEN-AM) in Mexico City since the mid-20th century. Known for "música del recuerdo" format featuring classic Latin pop and nostalgic hits. Part of major Mexican broadcasting group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a8a86e85-c6df-4b69-bd50-6889b2016675

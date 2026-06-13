@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 08:12:44
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-96252946-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.stv.livebox.sk/devin_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast.stv.livebox.sk/devin_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +34,14 @@ research:
   format: cultural and arts station with classical music, opera, radio drama, literary readings, jazz and world music
   notes: Founded in 1957 as the cultural programme of Czechoslovak Radio's Slovak service, Radio Devin is named after Devin Castle and has long been the cultural flagship of Slovak public radio; signature programmes include "Parnas" (literary readings), "Ars litera", "Operne Radio Devin" and the "Rozhlasove hry" radio-drama strand; following the 2024-2025 dissolution of RTVS by the Robert Fico government and its replacement by STVR, the station continues to broadcast with the slogan "naladime vas na to najlepsie z umenia a kultury".
   sources: https://devin.stvr.sk/, internal knowledge
+curation: 0.6
+provenance:
+  - radiobrowser-96252946-0601-11e8-ae97-52543be04c81
+  - iprd-sk-sro3-radio-devin-82157ac9
+streams:
+  - url: http://icecast.stv.livebox.sk/devin_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast.stv.livebox.sk/devin_128.mp3
+    codec: MP3
+    bitrate: 128

@@ -21,21 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-787ae3de-f3bf-4c5e-8075-77a93c072c4f
-streams:
-  - url: 'http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8'
-    codec: AAC
-    bitrate: 64
-    hls: true
-  - url: 'https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://rockfm.cope.stream.flumotion.com/cope/rockfm-low.mp3.m3u'
-    url_resolved: 'http://flucast-bl04.flumotion.com/cope/rockfm-low.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +30,21 @@ research:
   format: Rock music programming
   notes: Spanish commercial radio station specializing in rock music. Part of the COPE network operated by Atresmedia.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-787ae3de-f3bf-4c5e-8075-77a93c072c4f
+  - iprd-es-rock-fm-d848cb43
+  - iprd-es-rock-fm-662c205e
+  - iprd-es-rock-fm-094f37d2
+streams:
+  - url: http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8
+    codec: AAC
+    bitrate: 64
+    hls: true
+  - url: https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
+    codec: MP3
+    bitrate: 96
+  - url: http://rockfm.cope.stream.flumotion.com/cope/rockfm-low.mp3.m3u
+    url_resolved: http://flucast-bl04.flumotion.com/cope/rockfm-low.mp3
+    codec: MP3
+    bitrate: 96

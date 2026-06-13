@@ -21,14 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-c848de49-f81d-48a2-880e-40315ec1f5eb
-streams:
-  - url: 'http://stream.zeno.fm/eequgfw72hhvv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/eequgfw72hhvv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +30,11 @@ research:
   format: Gospel music, Christian programming, spiritual content
   notes: Heaven FM is a gospel radio station serving Tanzania, primarily the Dar es Salaam region. Uses zeno.fm community radio hosting platform. Broadcasts in Swahili language for local African audience. Non-commercial Christian radio format.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-c848de49-f81d-48a2-880e-40315ec1f5eb
+streams:
+  - url: http://stream.zeno.fm/eequgfw72hhvv
+    codec: MP3
+  - url: https://stream.zeno.fm/eequgfw72hhvv
+    codec: MP3

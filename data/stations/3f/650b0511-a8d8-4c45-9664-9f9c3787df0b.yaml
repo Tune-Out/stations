@@ -19,18 +19,6 @@ lastchangetime: 2026-05-08 14:00:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-650b0511-a8d8-4c45-9664-9f9c3787df0b
-streams:
-  - url: 'https://rewoundradio.com/rewound5001.pls'
-    url_resolved: 'http://71.125.37.66:5001/rewound'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rewoundradio.com:8000/listen.pls'
-    url_resolved: 'http://71.125.37.66:8000/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +28,16 @@ research:
   format: Retro and classic music format; independent online radio station.
   notes: Rewound Radio is an independent non-commercial online radio station in the United States offering retro and classic music programming. Community-oriented indie broadcaster.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-650b0511-a8d8-4c45-9664-9f9c3787df0b
+  - iprd-us-rewound-radio-a2b59ab6
+streams:
+  - url: https://rewoundradio.com/rewound5001.pls
+    url_resolved: http://71.125.37.66:5001/rewound
+    codec: MP3
+    bitrate: 128
+  - url: http://rewoundradio.com:8000/listen.pls
+    url_resolved: http://71.125.37.66:8000/stream
+    codec: MP3
+    bitrate: 128

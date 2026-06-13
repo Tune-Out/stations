@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 04:30:45
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-13935adc-0cdf-429c-bc79-cff630a4e4db
-streams:
-  - url: 'https://stream.zeno.fm/5dfkzqm70s8uv'
-    codec: MP3
-  - url: 'https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +30,11 @@ research:
   format: Music-focused community programming including dance, rock, country, indie, vinyl retrospectives, podcasts
   notes: 'Madrid-based community radio broadcasting programs from multiple free radios and podcasters. Mission: "Broadcasting different programs from different free radios and Podcasts and songs by artists and groups that want to make themselves known. Always the best music." Co-founded Dana el Podcast Solidario charity channel supporting DANA flood victims in 2024.'
   sources: https://onda-wantuki-wc.webnode.es/
+curation: 0.5
+provenance:
+  - radiobrowser-13935adc-0cdf-429c-bc79-cff630a4e4db
+streams:
+  - url: https://stream.zeno.fm/5dfkzqm70s8uv
+    codec: MP3
+  - url: https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ
+    codec: MP3

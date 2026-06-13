@@ -1,7 +1,7 @@
 stationuuid: da3527f7-b71e-49e0-a9d5-57102350ffc5
 name: Bloomberg Radio Boston
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAMAAC.aac
+url: 'https://14153.live.streamtheworld.com:443/WRCAAMAAC.aac'
+url_resolved: 'https://14153.live.streamtheworld.com:443/WRCAAMAAC.aac'
 homepage: https://www.bloombergradio.com/
 favicon: https://www.bloombergradio.com/content/plugins/bloomberg-favicon/dist/img/amber-120x120.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-da3527f7-b71e-49e0-a9d5-57102350ffc5
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: 24/7 business and financial news, market reports, interviews with newsmakers and executives; flagship shows Bloomberg Daybreak, Bloomberg Surveillance, Balance of Power and Bloomberg Law
   notes: Bloomberg Radio Boston is the local Bloomberg Business affiliate serving the Greater Boston market on 1330 AM (WRCA, Watertown MA) and via simulcast on FM translators including 92.9 FM (W225BG), feeding into the Bloomberg Radio national network (also on SiriusXM 121 and 500+ US affiliates); WRCA is licensed to Beasley Broadcast Group / Alpha Media-era owners and carries the Bloomberg Business format under a multi-year programming agreement; the network describes itself as "the world's only global 24-hour business radio station" with newsroom support from "more than 2700 journalists and analysts in more than 120 countries."
   sources: https://www.bloombergradio.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-da3527f7-b71e-49e0-a9d5-57102350ffc5

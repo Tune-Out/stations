@@ -22,26 +22,6 @@ lastchangetime: 2026-01-15 06:45:24
 clickcount: 62
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9e3b0f8e-95d3-11e9-a605-52543be04c81
-streams:
-  - url: 'https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u'
-    url_resolved: 'https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_mv.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -51,3 +31,23 @@ research:
   format: Adult contemporary pop/rock with news bulletins, regional programming, traffic and service info; a hot-AC public-radio sound widely regarded as Germany's most-listened-to radio station
   notes: NDR 2 has historically been one of the highest-reach radio stations in Germany, regularly competing with WDR 2 and Bayern 3 for the national listenership crown. NDR itself was founded 1956 (split from NWDR) and is jointly funded and governed by its four member states; HQ in Hamburg. Like all ARD stations, NDR is constitutionally bound to editorial independence and a public-service remit ("Grundversorgung"); a Rundfunkrat (broadcasting council) including civil society representatives oversees programming. NDR 2 also produces regional opt-outs ("Regionalfenster") for the four NDR states. As public-service media NDR has occasionally been the focus of debate over the licence fee and political-balance criticisms but operates independently of party control.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-9e3b0f8e-95d3-11e9-a605-52543be04c81
+streams:
+  - url: https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u
+    url_resolved: https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_mv.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

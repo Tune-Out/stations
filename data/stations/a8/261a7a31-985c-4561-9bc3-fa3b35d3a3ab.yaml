@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 03:08:33
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-261a7a31-985c-4561-9bc3-fa3b35d3a3ab
-streams:
-  - url: 'https://stream-149.zeno.fm/4luag56o066uv'
-    codec: MP3
-  - url: 'https://stream-156.zeno.fm/4luag56o066uv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Unknown music/entertainment programming
   notes: Emaar FM is a Syrian radio station broadcasting on Zeno.fm platform. Limited information available about specific programming, format, or organizational structure.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-261a7a31-985c-4561-9bc3-fa3b35d3a3ab
+streams:
+  - url: https://stream-149.zeno.fm/4luag56o066uv
+    codec: MP3
+  - url: https://stream-156.zeno.fm/4luag56o066uv
+    codec: MP3

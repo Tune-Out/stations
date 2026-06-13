@@ -1,7 +1,7 @@
 stationuuid: e32ebf5b-ae03-42ff-911f-462120807edb
 name: CKOB "FM 106.9 Mauricie" Trois-Rivieres, QC
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.m3u8
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.m3u8
+url: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
+url_resolved: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
 homepage: https://www.fm1069.ca/
 favicon: https://cdn.cogecolive.com/websites-public/logo_1069_2021_color_default.svg
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:25:32
 clickcount: 0
 geo_lat: 46.342874890945
 geo_long: -72.54083633422853
-curation: 0.30
-provenance:
-  - radiobrowser-e32ebf5b-ae03-42ff-911f-462120807edb
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Talk radio format, news, analysis, sports coverage
   notes: "CKOB-FM 106.9 MHz, licensed Trois-Rivières, Quebec; French-language talk format with stereo broadcasts; operates as one of few full-time FM talk stations in North America with French programming; history: started as CHLN on AM 1420 October 17, 1937; moved to FM August 20, 2007; address: 1350 Rue Royale, Trois-Rivières"
   sources: https://en.wikipedia.org/wiki/CKOB-FM, https://www.fm1069.ca/
+curation: 0.3
+provenance:
+  - radiobrowser-e32ebf5b-ae03-42ff-911f-462120807edb

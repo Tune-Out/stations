@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 04:16:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-20f7728c-1d68-47ba-8f5a-b3627f8354b7
-duplicate_of: bf7a7180-2465-48d2-983c-3bc182ba0c83
-streams:
-  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR'
-    codec: AAC
-    bitrate: 262
-    hls: true
-  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8'
-    codec: AAC
-    bitrate: 259
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -44,3 +31,16 @@ research:
   format: 24/7 classical music
   notes: One of three national classical music networks operated by RTP, the Portuguese public broadcaster. Antena 2 provides art music, symphonic works, opera, and cultural programming. Founded in 1968 as Portugal's first dedicated classical radio station.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-20f7728c-1d68-47ba-8f5a-b3627f8354b7
+duplicate_of: bf7a7180-2465-48d2-983c-3bc182ba0c83
+streams:
+  - url: http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+    codec: AAC
+    bitrate: 262
+    hls: true
+  - url: http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
+    codec: AAC
+    bitrate: 259
+    hls: true

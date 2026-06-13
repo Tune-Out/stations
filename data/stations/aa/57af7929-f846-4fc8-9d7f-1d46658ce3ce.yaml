@@ -1,7 +1,7 @@
 stationuuid: 57af7929-f846-4fc8-9d7f-1d46658ce3ce
 name: 92 KQRS
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KQRSFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KQRSFMAAC.aac
+url: 'https://14933.live.streamtheworld.com:443/KQRSFMAAC.aac'
+url_resolved: 'https://14933.live.streamtheworld.com:443/KQRSFMAAC.aac'
 homepage: https://www.92kqrs.com/
 favicon: https://www.92kqrs.com/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:41:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-57af7929-f846-4fc8-9d7f-1d46658ce3ce
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic rock format with focus on classic rock hits and album tracks
   notes: Commercial FM station (92.9 KQRS) serving Twin Cities. Classic rock format is dominant in Minneapolis market, with focus on classic rock hits from 1960s-1980s.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-57af7929-f846-4fc8-9d7f-1d46658ce3ce

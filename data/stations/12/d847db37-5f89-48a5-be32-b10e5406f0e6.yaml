@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d847db37-5f89-48a5-be32-b10e5406f0e6
-streams:
-  - url: 'https://stream.mixadance.fm/mixadancejazz'
-    codec: AAC+
-    bitrate: 80
-  - url: 'https://stream.mixadance.fm/mixadance'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Multi-channel electronic music network (EDM/house flagship plus tropical chillout Radio Samui, fitness tracks, royalty-free AI music, ambient/downtempo, and jazz/lounge channels)
   notes: Russia-registered internet radio operating since October 14, 2004; self-describes as "your global destination for premium electronic music" with channels "for every mood and activity"; offers PWA installation and a DJ stream archive on YouTube; no terrestrial broadcast — internet-only.
   sources: https://2026.mixadance.fm/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-d847db37-5f89-48a5-be32-b10e5406f0e6
+  - iprd-ru-mixadance-fm-a78cea10
+  - iprd-ru-mixadance-fm-f95037a3
+streams:
+  - url: https://stream.mixadance.fm/mixadancejazz
+    codec: AAC+
+    bitrate: 80
+  - url: https://stream.mixadance.fm/mixadance
+    codec: MP3
+    bitrate: 192

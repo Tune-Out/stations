@@ -1,7 +1,7 @@
 stationuuid: 6f4bfc91-5fdc-459a-a379-b78fac19ca75
 name: ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
+url: 'https://14223.live.streamtheworld.com:443/XEESTAMAAC.aac'
+url_resolved: 'https://14223.live.streamtheworld.com:443/XEESTAMAAC.aac'
 homepage: https://www.ondasdevida1440.com/
 favicon: https://cdn-profiles.tunein.com/s18771/images/logod.jpg
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-19 15:50:41
 clickcount: 0
 geo_lat: 19.43003057756082
 geo_long: -99.13032531738284
-curation: -0.05
-provenance:
-  - radiobrowser-6f4bfc91-5fdc-459a-a379-b78fac19ca75
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Mixed format with Christian messages, spiritual content, music (hits, pop, rock, norteño); hosted by Moi Merino
   notes: XEEST-AM, 1440 AM; owned and operated by Grupo Siete; combines secular hits and pop with Christian messaging and musical format; significant religious orientation; serves Mexico City's wide geographic valley region
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6f4bfc91-5fdc-459a-a379-b78fac19ca75

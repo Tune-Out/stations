@@ -19,14 +19,6 @@ lastchangetime: 2026-03-12 13:17:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9f4dfc00-3b97-49c0-b98e-e324630e7af8
-streams:
-  - url: 'https://stream.zeno.fm/1noxhem5qpkuv'
-    codec: MP3
-  - url: 'https://stream-42.zeno.fm/1noxhem5qpkuv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: commercial radio with music and entertainment programming
   notes: Win Radio Davao is a commercial radio station based in Davao City, Philippines. Serves the local community with music and entertainment content. Part of the competitive Philippine radio broadcasting market.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9f4dfc00-3b97-49c0-b98e-e324630e7af8
+streams:
+  - url: https://stream.zeno.fm/1noxhem5qpkuv
+    codec: MP3
+  - url: https://stream-42.zeno.fm/1noxhem5qpkuv
+    codec: MP3

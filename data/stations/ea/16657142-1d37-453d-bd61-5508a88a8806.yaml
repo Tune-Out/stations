@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-16657142-1d37-453d-bd61-5508a88a8806
-streams:
-  - url: 'http://eagle.streemlion.com:4157/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://eagle.streemlion.com:2199/tunein/psychedelicj.pls'
-    url_resolved: 'http://eagle.streemlion.com:4157/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +28,15 @@ research:
   format: "1960s psychedelic, garage bands, psych, folk, jazz, and surf music. Mission: \"You'll hear music that you haven't heard in 50 years...You'll LOVE our station! We also support new artists.\""
   notes: 'Non-commercial North Carolina-based internet radio. Station states: "The songs on this station are not just random or selected by AI." Features curated psychedelic music, vintage recordings, and supports new artists. Footer: "The World Is Listening, are you?"'
   sources: https://www.psychedelicjukebox.com/
+curation: 0.6
+provenance:
+  - radiobrowser-16657142-1d37-453d-bd61-5508a88a8806
+  - iprd-us-psychedelic-jukebox-c043b08c
+streams:
+  - url: http://eagle.streemlion.com:4157/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://eagle.streemlion.com:2199/tunein/psychedelicj.pls
+    url_resolved: http://eagle.streemlion.com:4157/stream
+    codec: MP3
+    bitrate: 128

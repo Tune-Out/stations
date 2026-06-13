@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-3c4caeb0-56ce-11e8-b0ce-52543be04c81
-streams:
-  - url: 'https://www.radioking.com/play/tsugi-radio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://listen.radioking.com/radio/1906/stream/6029'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Electronic, techno, house, bass music, ambient, disco, hardcore, global club, nu jazz, and indie with DJ sets and podcasts
   notes: Founded 2007 as independent music media. Positioned as "à l'affût des nouvelles tendances musicales" (on the lookout for new musical trends). Features live broadcasts from venues like Glazart nightclub, DJ set recordings, and music discovery programming focused on emerging artists and underground scenes.
   sources: https://www.tsugi.fr/tsugi-radio/
+curation: 0.5
+provenance:
+  - radiobrowser-3c4caeb0-56ce-11e8-b0ce-52543be04c81
+  - iprd-fr-tsugi-radio-5e9e8460
+streams:
+  - url: https://www.radioking.com/play/tsugi-radio
+    codec: MP3
+    bitrate: 128
+  - url: https://listen.radioking.com/radio/1906/stream/6029
+    codec: MP3
+    bitrate: 128

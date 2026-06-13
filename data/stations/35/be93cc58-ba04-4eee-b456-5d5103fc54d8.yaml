@@ -22,36 +22,6 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-be93cc58-ba04-4eee-b456-5d5103fc54d8
-streams:
-  - url: 'https://airtime.dclm.org/radio/8070/hausa'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://studio.dclm.org/radio/8145/efik'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://airtime.dclm.org/radio/8110/portuguese'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://studio.dclm.org/radio/8125/ebira'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://studio.dclm.org/radio/8135/twi'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://airtime.dclm.org/radio/8000/live'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://airtime.dclm.org/radio/8140/ewe'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://airtime.dclm.org/radio/8060/yoruba'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://studio.dclm.org/listen/urhobo/urhobo'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: religious
@@ -61,3 +31,33 @@ research:
   format: Christian preaching, teaching, and gospel music in Hausa language; spiritual and religious content
   notes: DCLM (Deeper Christian Life Ministry) provides multilingual Christian broadcasting with slogan "Achieving Heaven's Goal." Hausa service targets West African Christian audience, particularly in Nigeria/Niger regions. Non-commercial religious broadcaster. Operates both radio and webcast platforms in numerous African languages. Serves Deeper Life Church and broader evangelical communities in Hausa-speaking regions.
   sources: https://radio.dclm.org/hausa, https://radio.dclm.org/
+curation: 0.35
+provenance:
+  - radiobrowser-be93cc58-ba04-4eee-b456-5d5103fc54d8
+streams:
+  - url: https://airtime.dclm.org/radio/8070/hausa
+    codec: MP3
+    bitrate: 64
+  - url: https://studio.dclm.org/radio/8145/efik
+    codec: MP3
+    bitrate: 64
+  - url: https://airtime.dclm.org/radio/8110/portuguese
+    codec: MP3
+    bitrate: 64
+  - url: https://studio.dclm.org/radio/8125/ebira
+    codec: MP3
+    bitrate: 64
+  - url: https://studio.dclm.org/radio/8135/twi
+    codec: MP3
+    bitrate: 64
+  - url: https://airtime.dclm.org/radio/8000/live
+    codec: MP3
+    bitrate: 64
+  - url: https://airtime.dclm.org/radio/8140/ewe
+    codec: MP3
+    bitrate: 64
+  - url: https://airtime.dclm.org/radio/8060/yoruba
+    codec: MP3
+    bitrate: 64
+  - url: https://studio.dclm.org/listen/urhobo/urhobo
+    codec: MP3

@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 05:17:36
 clickcount: 2
 geo_lat: 50.90352237111368
 geo_long: 4.117700248493584
-curation: 0.55
-provenance:
-  - radiobrowser-5ebbc7bb-b3e3-4a5c-b660-cb7ab2615ac4
-streams:
-  - url: 'http://quincy.torontocast.com:1920/stream'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://quincy.torontocast.com:1925/stream'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://c30.radioboss.fm/stream/1031'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://quincy.torontocast.com:1910/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -48,3 +32,21 @@ research:
   format: Instrumental big band, easy listening, jazz, and background music programming 24/7.
   notes: Non-commercial streaming service from Belgium offering instrumental music for relaxation and background listening. Specializes in big band era, easy listening classics, and smooth instrumental genres.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-5ebbc7bb-b3e3-4a5c-b660-cb7ab2615ac4
+  - iprd-be-instrumentals-forever-67e1d396
+  - iprd-be-instrumentals-forever-b686d16f
+streams:
+  - url: http://quincy.torontocast.com:1920/stream
+    codec: AAC
+    bitrate: 64
+  - url: https://quincy.torontocast.com:1925/stream
+    codec: AAC
+    bitrate: 64
+  - url: https://c30.radioboss.fm/stream/1031
+    codec: MP3
+    bitrate: 128
+  - url: http://quincy.torontocast.com:1910/stream
+    codec: MP3
+    bitrate: 128

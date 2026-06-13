@@ -24,17 +24,6 @@ lastchangetime: 2026-01-15 05:35:49
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-963da6cd-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.rmgoldserver.eu:8963/'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://www.radiomonique.nl/winamp_RM_192.pls'
-    url_resolved: 'https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -44,3 +33,16 @@ research:
   format: Oldies, 1960s-1980s hits, classic pop and rock
   notes: Long-established Dutch community radio station featuring golden oldies from the 1960s, 1970s, and 1980s; traditionally associated with pirate radio heritage.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-963da6cd-0601-11e8-ae97-52543be04c81
+  - iprd-nl-radio-monique-963-gold-1e400437
+  - iprd-nl-radio-monique-963-gold-6ebe5e4d
+streams:
+  - url: http://www.rmgoldserver.eu:8963/
+    codec: MP3
+    bitrate: 320
+  - url: http://www.radiomonique.nl/winamp_RM_192.pls
+    url_resolved: https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3
+    codec: MP3
+    bitrate: 192

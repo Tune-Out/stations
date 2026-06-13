@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b7c565e4-dc41-46fc-bb60-101c1a6ddfb9
-streams:
-  - url: 'http://18.141.67.248:8038/stream/1/'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://bacolodstream.brigadanews.ph/'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: News programming with focus on local and regional news for Bacolod area.
   notes: Part of Brigada News broadcast network serving the Philippines; provides local news coverage.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b7c565e4-dc41-46fc-bb60-101c1a6ddfb9
+streams:
+  - url: http://18.141.67.248:8038/stream/1/
+    codec: MP3
+    bitrate: 320
+  - url: https://bacolodstream.brigadanews.ph/
+    codec: MP3
+    bitrate: 320

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:35:43
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-5616302c-f613-4feb-90e9-ad89cda89493
-streams:
-  - url: 'https://streaming.shoutcast.com/decibelia'
-    codec: AAC
-    bitrate: 96
-  - url: 'http://master.shoutcast.com:8000/decibelia'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Electronic music focused with electro house, hardstyle, and dance music; digital-only platform
   notes: Spain-based (domain .es); currently available only on app and web; accepts listener voice messages via WhatsApp ("Puedes enviar una nota de voz por WhatsApp y si nos mola, ¡sonarás en la radio!"); active social media presence
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-5616302c-f613-4feb-90e9-ad89cda89493
+streams:
+  - url: https://streaming.shoutcast.com/decibelia
+    codec: AAC
+    bitrate: 96
+  - url: http://master.shoutcast.com:8000/decibelia
+    codec: AAC
+    bitrate: 96

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 40.38311575089747
 geo_long: -75.23211658000947
-curation: 0.35
-provenance:
-  - radiobrowser-b3ffbe5c-dd1f-465c-b60f-4858286fff4b
-streams:
-  - url: 'http://69.30.218.190:31608/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://69.30.218.190:31608/;'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -38,3 +28,13 @@ research:
   format: Music-focused streaming radio; "A unique blend of Music"
   notes: Internet radio community station serving Bucks County and beyond since 2016; global streaming reach
   sources: https://ribwebradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-b3ffbe5c-dd1f-465c-b60f-4858286fff4b
+streams:
+  - url: http://69.30.218.190:31608/
+    codec: MP3
+    bitrate: 192
+  - url: http://69.30.218.190:31608/;
+    codec: MP3
+    bitrate: 192

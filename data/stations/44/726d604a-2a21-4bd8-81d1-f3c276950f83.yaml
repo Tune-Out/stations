@@ -22,31 +22,6 @@ lastchangetime: 2026-01-20 14:30:15
 clickcount: 0
 geo_lat: 51.48717412649661
 geo_long: 6.870505213737489
-curation: 0.30
-provenance:
-  - radiobrowser-726d604a-2a21-4bd8-81d1-f3c276950f83
-streams:
-  - url: 'https://mixtape.cast.addradio.de/mixtape/80er/high/stream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://addrad.io/4459jsj'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://mixtape.cast.addradio.de/mixtape/oldie/high/stream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://addrad.io/445g61r'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://mixtape.cast.addradio.de/mixtape/90er/high/stream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://mixtape.cast.addradio.de/mixtape/schlager/high/stream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://mixtape-live.cast.addradio.de/mixtape/live/mp3/high'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -56,3 +31,28 @@ research:
   format: 1980s hits and retrospective programming focused exclusively on 1980s music era
   notes: Part of add radio network in Germany; specialized nostalgia format devoted to 1980s music hits; based in North Rhine-Westphalia region
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-726d604a-2a21-4bd8-81d1-f3c276950f83
+streams:
+  - url: https://mixtape.cast.addradio.de/mixtape/80er/high/stream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://addrad.io/4459jsj
+    codec: MP3
+    bitrate: 192
+  - url: https://mixtape.cast.addradio.de/mixtape/oldie/high/stream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://addrad.io/445g61r
+    codec: MP3
+    bitrate: 192
+  - url: https://mixtape.cast.addradio.de/mixtape/90er/high/stream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://mixtape.cast.addradio.de/mixtape/schlager/high/stream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://mixtape-live.cast.addradio.de/mixtape/live/mp3/high
+    codec: MP3
+    bitrate: 192

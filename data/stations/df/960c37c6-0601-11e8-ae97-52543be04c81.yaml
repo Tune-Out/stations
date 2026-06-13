@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:32:00
 clickcount: 290
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-960c37c6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cadena100-cope.flumotion.com/chunks.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: adult contemporary / pop music station with named-host dayparts and music events
   notes: Headquartered C/ Alfonso XI 4, Madrid. Tagline 'La mejor variedad musical'. Sister stations within COPE group include Rock FM, MegaStar FM and Trece TV. Runs 'CADENA 100 Por Ellas' solidarity events (breast cancer awareness) and the annual 'Cadena 100 Concert'. Reported around 1.8 million daily listeners.
   sources: http://www.cadena100.es/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-960c37c6-0601-11e8-ae97-52543be04c81
+  - iprd-es-cadena-100-a3246053
+  - iprd-es-cadena-100-854ca6a0
+streams:
+  - url: http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://cadena100-cope.flumotion.com/chunks.m3u8
+    codec: UNKNOWN
+    hls: true

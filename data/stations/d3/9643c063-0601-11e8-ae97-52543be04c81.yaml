@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 03:27:43
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-9643c063-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://nr11.newradio.it:8116/;stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://nr11.newradio.it/proxy/belviso2?mp=/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://nr11.newradio.it:8116/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,17 @@ research:
   format: Pop and contemporary hits music, entertainment
   notes: Regional commercial station based in Bari, Puglia. Part of New Radio Italia network. Targets younger audiences with pop and dance music.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-9643c063-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-popizz-46f749d5
+streams:
+  - url: http://nr11.newradio.it:8116/;stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://nr11.newradio.it/proxy/belviso2?mp=/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://nr11.newradio.it:8116/;
+    codec: MP3
+    bitrate: 128

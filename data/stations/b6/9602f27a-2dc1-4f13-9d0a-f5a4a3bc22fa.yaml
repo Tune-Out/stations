@@ -23,19 +23,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 0
 geo_lat: 55.732668130927415
 geo_long: 37.627508640289314
-curation: -0.10
-provenance:
-  - radiobrowser-9602f27a-2dc1-4f13-9d0a-f5a4a3bc22fa
-streams:
-  - url: 'http://62.183.34.109:8000/radio107.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://62.183.34.109:8000/radio107.mp3?1708780492299'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://62.183.34.109:8000/radio107.mp3?1702219488275'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,16 @@ research:
   format: Dance, eurodance, top 100 hits, contemporary dance music
   notes: Commercial FM station; Moscow-based dance and eurodance specialist; top 40/100 hits format; English and Russian programming
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-9602f27a-2dc1-4f13-9d0a-f5a4a3bc22fa
+streams:
+  - url: http://62.183.34.109:8000/radio107.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://62.183.34.109:8000/radio107.mp3?1708780492299
+    codec: MP3
+    bitrate: 128
+  - url: http://62.183.34.109:8000/radio107.mp3?1702219488275
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:45:26
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962d89b8-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icy.unitedradio.it/Jovanotti.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/Jovanotti.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: pop music, contemporary hits
   notes: Music channel dedicated to Jovanotti, a notable Italian DJ and personality; operated under United Radio platform by Mediaset, Italy's largest private media company.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962d89b8-0601-11e8-ae97-52543be04c81
+  - iprd-it-music-star-jovanotti-795e9905
+streams:
+  - url: http://icy.unitedradio.it/Jovanotti.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/Jovanotti.mp3
+    codec: MP3
+    bitrate: 128

@@ -23,18 +23,6 @@ lastchangetime: 2026-02-07 12:00:10
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-83accca7-b878-419d-a506-3d21ef2f250f
-streams:
-  - url: 'https://somafm.com/nossl/synphaera130.pls'
-    url_resolved: 'http://ice3.somafm.com/synphaera-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/synphaera256.pls'
-    url_resolved: 'https://ice1.somafm.com/synphaera-256-mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +32,17 @@ research:
   format: Ambient, electronic, space-themed instrumental music; curated soundscapes for concentration and relaxation
   notes: SomaFM is San Francisco-based listener-supported radio without advertisements; founded 2000; Synphaera channel specializes in ambient electronic and space music; known for high audio quality (256 kbps); community-supported model.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-83accca7-b878-419d-a506-3d21ef2f250f
+  - iprd-us-somafm-synphaera-radio-64443cc8
+  - iprd-us-somafm-synphaera-radio-46fdb312
+streams:
+  - url: https://somafm.com/nossl/synphaera130.pls
+    url_resolved: http://ice3.somafm.com/synphaera-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/synphaera256.pls
+    url_resolved: https://ice1.somafm.com/synphaera-256-mp3
+    codec: MP3
+    bitrate: 256

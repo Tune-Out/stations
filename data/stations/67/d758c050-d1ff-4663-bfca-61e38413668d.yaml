@@ -21,22 +21,6 @@ lastchangetime: 2026-01-15 01:16:53
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-d758c050-d1ff-4663-bfca-61e38413668d
-streams:
-  - url: 'https://ssl-1.radiohost.pl:9563/stream?ver=987766'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://ssl-1.radiohost.pl:7214/stream?ver=661798'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://ssl-1.radiohost.pl:9569/stream'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://s0.radiohost.pl:9569/;'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +30,22 @@ research:
   format: Ambient, space, downtempo, and electronic music; thematic programming
   notes: Specialized channel within Radio Mirage network; focuses on space and ambient music genres
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-d758c050-d1ff-4663-bfca-61e38413668d
+  - iprd-pl-radio-mirage-italo-dance-87c7e621
+  - iprd-pl-radio-mirage-prywatka-channel-8ce65845
+  - iprd-pl-radio-mirage-space-channel-20b8505c
+streams:
+  - url: https://ssl-1.radiohost.pl:9563/stream?ver=987766
+    codec: MP3
+    bitrate: 256
+  - url: https://ssl-1.radiohost.pl:7214/stream?ver=661798
+    codec: MP3
+    bitrate: 256
+  - url: https://ssl-1.radiohost.pl:9569/stream
+    codec: MP3
+    bitrate: 256
+  - url: http://s0.radiohost.pl:9569/;
+    codec: MP3
+    bitrate: 256

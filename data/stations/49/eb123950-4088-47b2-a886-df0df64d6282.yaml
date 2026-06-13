@@ -20,17 +20,6 @@ lastcheckok: true
 lastchangetime: 2026-03-18 14:49:34
 clickcount: 1
 geo_lat: null
-curation: 0.60
-provenance:
-  - radiobrowser-eb123950-4088-47b2-a886-df0df64d6282
-streams:
-  - url: 'https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8?adap=audio&aco=aac'
-    codec: AAC
-    bitrate: 64
-    hls: true
-  - url: 'https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h?_hdr=0'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +29,38 @@ research:
   format: Music, culture, entertainment (NRK specialty channel)
   notes: NRK P1+ (P1 Plus) is NRK's digital-first channel, complementing main P1 with alternative music and cultural content. Norwegian public broadcaster, established 1933, funded via license fees. Targets younger audience seeking curated cultural programming.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-eb123950-4088-47b2-a886-df0df64d6282
+  - iprd-no-nrk-jazz-9f54a3da
+  - iprd-no-nrk-jazz-efba0c28
+  - iprd-no-nrk-p1-buskerud-3ec3cb22
+  - iprd-no-nrk-p1-finnmark-dfa02f42
+  - iprd-no-nrk-p1-hedmark-og-oppland-3ca5ab60
+  - iprd-no-nrk-p1-hordaland-1ffd240c
+  - iprd-no-nrk-p1-more-og-romsdal-ed681d66
+  - iprd-no-nrk-p1-nordland-bc8ac862
+  - iprd-no-nrk-p1-ostfold-0d86c2cc
+  - iprd-no-nrk-p1-rogaland-03ba32ac
+  - iprd-no-nrk-p1-sogn-og-fjordane-049834ea
+  - iprd-no-nrk-p1-sorlandet-ed750590
+  - iprd-no-nrk-p1-telemark-055bc808
+  - iprd-no-nrk-p1-troms-8680bf3b
+  - iprd-no-nrk-p1-trondelag-51791ae7
+  - iprd-no-nrk-p1-trondelag-4f3e3252
+  - iprd-no-nrk-p1-vestfold-849f09d6
+  - iprd-no-nrk-p1-8eb6c0c6
+  - iprd-no-nrk-p1-0d9e1946
+  - iprd-no-nrk-p13-311fcb6b
+  - iprd-no-nrk-p13-df9a5acf
+  - iprd-no-nrk-p2-5db21ee3
+  - iprd-no-nrk-sport-30cb0a3e
+  - iprd-no-nrk-super-fddbacbc
+streams:
+  - url: https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8?adap=audio&aco=aac
+    codec: AAC
+    bitrate: 64
+    hls: true
+  - url: https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h?_hdr=0
+    codec: MP3
+    bitrate: 192

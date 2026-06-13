@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 07:40:19
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-ecc988d8-94ff-11e8-a767-52543be04c81
-streams:
-  - url: 'https://stream.darkedge.ro:8002/stream/4/'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://stream.darkedge.ro:8000/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.darkedge.ro:8002/stream/1/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +30,17 @@ research:
   format: Metal, rock, and hard rock music formats; deathcore, extreme metal, djent focus
   notes: Bucharest-based internet radio station specializing in harder rock and metal subgenres. Community-driven listener-supported model with multiple theme channels.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-ecc988d8-94ff-11e8-a767-52543be04c81
+  - iprd-ro-dark-edge-radio-99d7644d
+streams:
+  - url: https://stream.darkedge.ro:8002/stream/4/
+    codec: AAC+
+    bitrate: 32
+  - url: http://stream.darkedge.ro:8000/
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.darkedge.ro:8002/stream/1/
+    codec: MP3
+    bitrate: 128

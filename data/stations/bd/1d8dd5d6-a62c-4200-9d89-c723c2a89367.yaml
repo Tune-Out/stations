@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:20:09
 clickcount: 1
 geo_lat: 50.897
 geo_long: 14.8077
-curation: 0.35
-provenance:
-  - radiobrowser-1d8dd5d6-a62c-4200-9d89-c723c2a89367
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: Test stream for Dolby Atmos audio format; synth-pop music
   notes: This appears to be an official ARD/WDR test stream for Dolby Atmos spatial audio technology. Hosted on Dolby/AWS infrastructure. The homepage link to a Mastodon account suggests experimental/hobby status. Music classified as synth-pop.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1d8dd5d6-a62c-4200-9d89-c723c2a89367

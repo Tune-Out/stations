@@ -1,7 +1,7 @@
 stationuuid: 1ad6a94f-ab95-42aa-aee6-4e1c61f055b7
 name: Mucha Radio 94.7
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/MUCHA_RADIO.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/MUCHA_RADIO.mp3
+url: 'https://24463.live.streamtheworld.com:443/MUCHA_RADIO.mp3'
+url_resolved: 'https://24463.live.streamtheworld.com:443/MUCHA_RADIO.mp3'
 homepage: https://mucharadio.com.ar/
 favicon: https://mucharadio.com.ar/wp-content/uploads/2021/05/mucha_radio.png
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 08:24:53
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1ad6a94f-ab95-42aa-aee6-4e1c61f055b7
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Pop, Latin pop, cumbia, classic hits
   notes: Mucha Radio 94.7 is an Argentine commercial radio station. Programming includes contemporary pop, Latin pop, and cumbia music.
   sources: https://mucharadio.com.ar/
+curation: -0.05
+provenance:
+  - radiobrowser-1ad6a94f-ab95-42aa-aee6-4e1c61f055b7

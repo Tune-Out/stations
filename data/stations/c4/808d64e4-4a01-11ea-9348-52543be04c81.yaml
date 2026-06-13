@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 05:28:02
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-808d64e4-4a01-11ea-9348-52543be04c81
-streams:
-  - url: 'http://rs1.radiostreamer.com:8000/listen.pls'
-    url_resolved: 'http://rs1.radiostreamer.com:8000/;'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://rs1.radiostreamer.com:8000/listen.pls;?type=http&nocache=1353'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +30,15 @@ research:
   format: News, civic education, dialogue, youth and development programming including "L'invité du jour", "Dialogue entre Congolais", "Okapi service", and "100% Jeunes"
   notes: Launched 25 February 2002 as part of MONUC (later MONUSCO) peacekeeping mandate; widely regarded as the most listened-to radio station in DRC, with FM relays in Kinshasa (103.5), Goma (95.5), Bukavu (95.3), Lubumbashi (95.8) and others; named after the okapi, DRC's national animal; multiple journalists have been killed in the line of duty, notably Serge Maheshe (2007) and Didace Namujimbo (2008); functions as an independent news source balancing development journalism with peace-building.
   sources: http://www.radiookapi.net/, internal knowledge
+curation: 0.6
+provenance:
+  - radiobrowser-808d64e4-4a01-11ea-9348-52543be04c81
+  - iprd-cd-radio-okapi-ae9aa978
+streams:
+  - url: http://rs1.radiostreamer.com:8000/listen.pls
+    url_resolved: http://rs1.radiostreamer.com:8000/;
+    codec: MP3
+    bitrate: 96
+  - url: http://rs1.radiostreamer.com:8000/listen.pls;?type=http&nocache=1353
+    codec: MP3
+    bitrate: 96

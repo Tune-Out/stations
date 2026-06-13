@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-44cf130b-2d7c-4fdc-85f0-b9189c11a2a0
-streams:
-  - url: 'https://vistaradio.streamb.live/SB00087?=&&___cb=750829174267127'
-    codec: AAC+
-    bitrate: 57
-  - url: 'https://vistaradio.streamb.live/SB00087'
-    codec: AAC+
-    bitrate: 57
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Contemporary hits (CHR) and community programming
   notes: 94.1 Juice FM is a commercial station in Kingston, Ontario operated by Vista Radio; formerly CKCV call letters; focuses on music and entertainment for young audience
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-44cf130b-2d7c-4fdc-85f0-b9189c11a2a0
+  - iprd-ca-ckcv-94-1-c358fdba
+streams:
+  - url: https://vistaradio.streamb.live/SB00087?=&&___cb=750829174267127
+    codec: AAC+
+    bitrate: 57
+  - url: https://vistaradio.streamb.live/SB00087
+    codec: AAC+
+    bitrate: 57

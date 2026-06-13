@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 00:57:53
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-3b232427-05ab-4193-af6e-b19bf8e78963
-streams:
-  - url: 'https://icecast.omroep.nl/radio4-bb-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://icecast.omroep.nl/radio4-sb-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://icecast.omroep.nl/radio4-bb-mp3.m3u'
-    url_resolved: 'https://icecast.omroep.nl:80/radio4-bb-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -45,3 +31,19 @@ research:
   format: Classical music, art, culture, and documentaries; live concert broadcasts; cultural spoken word.
   notes: Founded as part of Dutch public radio system. Radio 4 is premier station for classical music, jazz, and cultural programming. National reach via terrestrial and streaming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-3b232427-05ab-4193-af6e-b19bf8e78963
+  - iprd-nl-npo-radio-4-17c1239f
+  - iprd-nl-npo-radio-4-72fde591
+streams:
+  - url: https://icecast.omroep.nl/radio4-bb-aac
+    codec: AAC
+    bitrate: 64
+  - url: http://icecast.omroep.nl/radio4-sb-aac
+    codec: AAC
+    bitrate: 32
+  - url: https://icecast.omroep.nl/radio4-bb-mp3.m3u
+    url_resolved: https://icecast.omroep.nl:80/radio4-bb-mp3
+    codec: MP3
+    bitrate: 192

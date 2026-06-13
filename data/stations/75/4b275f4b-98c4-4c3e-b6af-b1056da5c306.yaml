@@ -22,18 +22,6 @@ lastchangetime: 2026-02-02 08:37:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-4b275f4b-98c4-4c3e-b6af-b1056da5c306
-streams:
-  - url: 'http://sa46.scastream.com.au/live/drumnbass.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 65
-    hls: true
-  - url: 'https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 65
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,15 @@ research:
   format: Specialized streaming radio channel dedicated to drum and bass electronic dance music; HLS streaming
   notes: LiSTNR Drum & Bass is a specialized streaming channel operated by LiSTNR, an Australian online radio platform. Dedicated to drum and bass electronic music genre, delivered via HLS adaptive streaming technology at 65kbps AAC+ quality. Curates drum and bass tracks and mixes for niche EDM audience.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-4b275f4b-98c4-4c3e-b6af-b1056da5c306
+streams:
+  - url: http://sa46.scastream.com.au/live/drumnbass.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 65
+    hls: true
+  - url: https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 65
+    hls: true

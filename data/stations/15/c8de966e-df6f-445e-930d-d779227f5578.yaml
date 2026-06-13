@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: -30.69343064607602
 geo_long: 30.454101562500004
-curation: -0.05
-provenance:
-  - radiobrowser-c8de966e-df6f-445e-930d-d779227f5578
-streams:
-  - url: 'https://vm65162.streamerr.co/listen/megazone_south/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://vm65162.streamerr.co/listen/megazone_south/radio.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +28,12 @@ research:
   format: Multi-genre streaming radio
   notes: Megazone is a streaming audio and music platform operating in South Africa. No major governmental or religious affiliations known; regional focus on South African audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c8de966e-df6f-445e-930d-d779227f5578
+streams:
+  - url: https://vm65162.streamerr.co/listen/megazone_south/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://vm65162.streamerr.co/listen/megazone_south/radio.mp3
+    codec: MP3

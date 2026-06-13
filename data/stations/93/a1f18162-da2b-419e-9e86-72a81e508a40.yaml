@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 04:22:03
 clickcount: 7
 geo_lat: 51.483271518473224
 geo_long: 7.218933091498912
-curation: 0.50
-provenance:
-  - radiobrowser-a1f18162-da2b-419e-9e86-72a81e508a40
-streams:
-  - url: 'https://stream.punkrockers-radio.de:8443/ogg?1727422503'
-    codec: OGG
-    bitrate: 192
-  - url: 'http://stream.punkrockers-radio.de:8000/mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Punk rock, post-hardcore, ska, and related alternative rock music programming
   notes: Punkrockers Radio is a German internet radio station dedicated to punk rock, ska, and post-hardcore music. The station serves the global punk rock community with programming emphasizing underground and alternative rock genres, based in Germany.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-a1f18162-da2b-419e-9e86-72a81e508a40
+  - iprd-de-punkrockers-radio-e2b7d2ee
+streams:
+  - url: https://stream.punkrockers-radio.de:8443/ogg?1727422503
+    codec: OGG
+    bitrate: 192
+  - url: http://stream.punkrockers-radio.de:8000/mp3
+    codec: MP3
+    bitrate: 192

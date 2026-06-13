@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:51:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4a46b037-bec0-4bb0-b826-51e5fa9ee724
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/RAEW/mp3/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/RAEW/aac/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: News, current affairs, and information programming for international audiences
   notes: ABC Radio Australia is the international service of the Australian Broadcasting Corporation
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4a46b037-bec0-4bb0-b826-51e5fa9ee724
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/RAEW/mp3/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/RAEW/aac/
+    codec: AAC+
+    bitrate: 56

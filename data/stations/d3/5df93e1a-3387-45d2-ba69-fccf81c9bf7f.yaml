@@ -1,7 +1,7 @@
 stationuuid: 5df93e1a-3387-45d2-ba69-fccf81c9bf7f
 name: TraXXFM [90.3 / 100.1]
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC
+url: 'https://22253.live.streamtheworld.com:443/TRAXX_FMAAC_SC'
+url_resolved: 'https://22253.live.streamtheworld.com:443/TRAXX_FMAAC_SC'
 homepage: https://traxxfm.rtm.gov.my/
 favicon: https://cdn.instant.audio/images/logos/radioonline-my/traxx-kuala-lumpur.png
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 00:35:26
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5df93e1a-3387-45d2-ba69-fccf81c9bf7f
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -33,3 +30,6 @@ research:
   format: Mainstream commercial music and entertainment
   notes: TraXX FM operates on 90.3 and 100.1 FM frequencies under Malaysia's state broadcaster RTM
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5df93e1a-3387-45d2-ba69-fccf81c9bf7f

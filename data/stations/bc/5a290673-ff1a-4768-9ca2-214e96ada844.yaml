@@ -21,49 +21,6 @@ lastchangetime: 2026-01-15 02:44:44
 clickcount: 3
 geo_lat: 39.51968465228765
 geo_long: -119.79560852050784
-curation: 0.30
-provenance:
-  - radiobrowser-5a290673-ff1a-4768-9ca2-214e96ada844
-streams:
-  - url: 'http://bigrradio-edge1.cdnstream.com/5156_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5195_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5204_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio-edge1.cdnstream.com/5182_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio-edge1.cdnstream.com/5184_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5198_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5186_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5199_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5200_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5208_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5196_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5188_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://bigrradio.cdnstream1.com/5193_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -73,3 +30,57 @@ research:
   format: Ambient, smooth jazz, coffee-house music, and easy-listening programming
   notes: Big R Radio operates multiple specialty online music streams (Coffee House, Deep House, Soft Jazz, etc.) serving niche audiences seeking curated ambient and relaxation music; Coffee House stream emphasizes background music suitable for coffee shops and relaxing environments
   sources: http://www.bigrradio.com/, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-5a290673-ff1a-4768-9ca2-214e96ada844
+  - iprd-us-big-r-radio-70s-7d1a0e30
+  - iprd-us-big-r-radio-80s-96bc8066
+  - iprd-us-big-r-radio-80s-metal-b43a0c1c
+  - iprd-us-big-r-radio-90s-32622c73
+  - iprd-us-big-r-radio-country-gold-47798eba
+  - iprd-us-big-r-radio-country-mix-023bcbc9
+  - iprd-us-big-r-radio-golden-oldies-1a24e0df
+  - iprd-us-big-r-radio-gospel-channel-f411eeed
+  - iprd-us-big-r-radio-grunge-76751ea9
+  - iprd-us-big-r-radio-rock-top-40-cdf18477
+  - iprd-us-big-r-radio-the-wave-5d60b9c8
+streams:
+  - url: http://bigrradio-edge1.cdnstream.com/5156_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5195_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5204_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio-edge1.cdnstream.com/5182_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio-edge1.cdnstream.com/5184_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5198_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5186_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5199_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5200_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5208_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5196_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5188_128
+    codec: MP3
+    bitrate: 128
+  - url: http://bigrradio.cdnstream1.com/5193_128
+    codec: MP3
+    bitrate: 128

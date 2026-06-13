@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 06:42:26
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-960c36e6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.echoesofbluemars.org:8000/bluemars'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.echoesofbluemars.org:8000/cryosleep.m3u'
-    url_resolved: 'http://streams.echoesofbluemars.org:8000/cryosleep'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +31,16 @@ research:
   format: 24/7 atmospheric and space ambient music with three sister channels (Bluemars, Cryosleep, Voices from Within)
   notes: Echoes of Bluemars is a long-running independent internet radio project dating to the mid-2000s, conceived as the "music of an imaginary terraformed Mars colony"; its three channels (Bluemars, the rhythmic Cryosleep, and the choral Voices from Within) play uninterrupted ambient works from independent and label artists with no DJ chatter or advertising, funded entirely by listener donations and curated by ambient composer Cousin Silas alongside other contributors; the station is widely cited in ambient-music communities and remains a touchstone of the SomaFM/Drone Zone era of online radio.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-960c36e6-0601-11e8-ae97-52543be04c81
+  - iprd-us-cryosleep-1e0b7171
+  - iprd-us-echoes-of-bluemars-81a3c3ac
+streams:
+  - url: http://streams.echoesofbluemars.org:8000/bluemars
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.echoesofbluemars.org:8000/cryosleep.m3u
+    url_resolved: http://streams.echoesofbluemars.org:8000/cryosleep
+    codec: MP3
+    bitrate: 128

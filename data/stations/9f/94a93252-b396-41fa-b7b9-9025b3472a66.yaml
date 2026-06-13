@@ -1,7 +1,7 @@
 stationuuid: 94a93252-b396-41fa-b7b9-9025b3472a66
 name: WTUZ FM 99.9Uhrichsville, Ohio
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/WTUZFMAAC_SC
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/WTUZFMAAC_SC
+url: 'http://18313.live.streamtheworld.com:80/WTUZFMAAC_SC'
+url_resolved: 'http://18313.live.streamtheworld.com:80/WTUZFMAAC_SC'
 homepage: https://wtuz.com/
 favicon: https://wtuz.com/favicon.ico
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-94a93252-b396-41fa-b7b9-9025b3472a66
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,6 @@ research:
   format: country music; local news; sports; community announcements
   notes: WTUZ FM 99.9 is a country music station in New Philadelphia, Ohio, serving Tuscarawas County. Community-focused broadcaster with local high school sports, event coverage, obituary services, and garage sale announcements. Established as independent operation.
   sources: https://wtuz.com/
+curation: 0.35
+provenance:
+  - radiobrowser-94a93252-b396-41fa-b7b9-9025b3472a66

@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 06:02:43
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-963a9046-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://5.135.39.189:8060/;'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://ssl1.azotosolutions.com:8060/;'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Dance, house, pop, top 40, and news
   notes: Italian commercial radio station based in Bologna, Emilia-Romagna region. Focuses on dance music, house, and contemporary pop hits alongside news programming. Targets younger urban audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-963a9046-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-venere-81f6afea
+streams:
+  - url: http://5.135.39.189:8060/;
+    codec: AAC+
+    bitrate: 128
+  - url: http://ssl1.azotosolutions.com:8060/;
+    codec: AAC+
+    bitrate: 128

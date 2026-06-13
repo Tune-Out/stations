@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 05:33:41
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1d6d9870-b554-4919-a0a9-93457d3de6da
-streams:
-  - url: 'https://astreaming.edi.ro:8443/VirginRadio_aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://virginradio.ro/VirginRadioRomania-live.m3u'
-    url_resolved: 'http://astreaming.virginradio.ro:8000/virgin_aacp_64k'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +34,16 @@ research:
   format: Contemporary hit radio (CHR), pop, dance, hip-hop, R&B, and Romanian pop
   notes: Virgin Radio Romania is a commercial pop/CHR station broadcasting in Bucharest and other Romanian cities under license from Virgin Enterprises Limited (the brand-licensing arm of Sir Richard Branson's Virgin Group). It was relaunched under the Virgin Radio brand in 2014 after previously operating as Radio 21. The station targets a young urban demographic with a music mix of international and Romanian pop, dance, hip-hop, and R&B, complemented by the morning Breakfast show, midday talk show "Tic Talk cu Oana Tache", and the HOT 30 and DanceFloor charts.
   sources: https://virginradio.ro/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-1d6d9870-b554-4919-a0a9-93457d3de6da
+  - iprd-ro-virgin-radio-864e92b7
+  - iprd-ro-virgin-radio-65c8fe03
+streams:
+  - url: https://astreaming.edi.ro:8443/VirginRadio_aac
+    codec: AAC
+    bitrate: 128
+  - url: http://virginradio.ro/VirginRadioRomania-live.m3u
+    url_resolved: http://astreaming.virginradio.ro:8000/virgin_aacp_64k
+    codec: AAC
+    bitrate: 64

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:27:53
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961837b1-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://listen.181fm.com/181-goodtime_128k.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://listen.181fm.com/181-goodtime_128k.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Oldies; classic pop, rock hits from 1950s-1980s era
   notes: 181.FM is a major internet radio network offering multiple format channels, including this "Good Time Oldies Radio" variant. Commercial ad-supported service. References Waynesboro suggest regional association, though primarily internet-based. 128 kbps MP3 streaming for global audience. Part of the 181.FM portfolio of 40+ distinct music format channels.
   sources: http://www.181.fm/
+curation: -0.05
+provenance:
+  - radiobrowser-961837b1-0601-11e8-ae97-52543be04c81
+  - iprd-us-181-fm-good-time-oldies-radio-67fa8e28
+streams:
+  - url: http://listen.181fm.com/181-goodtime_128k.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://listen.181fm.com/181-goodtime_128k.mp3
+    codec: MP3
+    bitrate: 128

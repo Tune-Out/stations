@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 1
 geo_lat: 34.0565825
 geo_long: -118.2555661
-curation: 0.55
-provenance:
-  - radiobrowser-2d0403e9-2d8f-4a6a-8a55-0720bb80bfb8
-streams:
-  - url: 'https://kathy.torontocast.com:2695/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://kathy.torontocast.com:2690/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +34,14 @@ research:
   format: Indie rock, alternative rock, alternative wave, EDM, indie pop, punk
   notes: Indie X FM is an independent internet radio station based in California; listener-supported streaming; focuses on alternative and indie music; community-oriented online broadcaster.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-2d0403e9-2d8f-4a6a-8a55-0720bb80bfb8
+  - iprd-us-indie-x-fm-7798ee33
+streams:
+  - url: https://kathy.torontocast.com:2695/stream
+    codec: MP3
+    bitrate: 320
+  - url: http://kathy.torontocast.com:2690/stream
+    codec: MP3
+    bitrate: 320

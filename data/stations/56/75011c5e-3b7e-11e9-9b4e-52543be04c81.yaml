@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:22:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-75011c5e-3b7e-11e9-9b4e-52543be04c81
-streams:
-  - url: 'http://nr6.newradio.it:9213/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://nr6.newradio.it/proxy/rgelmett?mp=/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Mixed-format station with music, local and national news, family-oriented programming.
   notes: 'Independent community broadcaster registered as ASD APS (sports and social promotion association). Registered with Tribunal of Verona (02-08-2022). Mission: "Una Voce per la Gente" (A Voice for the People). Notable shows include "Discology," "My Rock and Soul," and "5 in Condotta."'
   sources: http://www.radiostudioverona.it/
+curation: 0.35
+provenance:
+  - radiobrowser-75011c5e-3b7e-11e9-9b4e-52543be04c81
+  - iprd-it-radio-studio-verona-6b268f30
+streams:
+  - url: http://nr6.newradio.it:9213/;
+    codec: MP3
+    bitrate: 128
+  - url: https://nr6.newradio.it/proxy/rgelmett?mp=/stream
+    codec: MP3
+    bitrate: 128

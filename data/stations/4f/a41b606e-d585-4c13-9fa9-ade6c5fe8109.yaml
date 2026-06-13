@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 00:33:22
 clickcount: 0
 geo_lat: 46.87405459316043
 geo_long: -96.79504394531251
-curation: 0.35
-provenance:
-  - radiobrowser-a41b606e-d585-4c13-9fa9-ade6c5fe8109
-streams:
-  - url: 'https://ice.romanport.com/knds'
-    codec: AAC
-  - url: 'https://p.scdn.co/mp3-preview/632457e56dfcfd2537daf7031449c28aa2c25a90'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +32,11 @@ research:
   format: College radio with diverse programming
   notes: Non-commercial college radio station operated by North Dakota State University serving campus and Bismarck area.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a41b606e-d585-4c13-9fa9-ade6c5fe8109
+streams:
+  - url: https://ice.romanport.com/knds
+    codec: AAC
+  - url: https://p.scdn.co/mp3-preview/632457e56dfcfd2537daf7031449c28aa2c25a90
+    codec: MP3

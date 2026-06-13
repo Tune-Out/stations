@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:16:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-c72c8602-5359-4b23-95a8-a7c2b4d067de
-streams:
-  - url: 'https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: exclusively Korean traditional music (gugak), including classical, folk, and contemporary gugak
   notes: GugakFM is a specialized public radio channel broadcasting Korean traditional music (gugak). Operated by South Korean public broadcasting infrastructure. Focuses on preservation and promotion of Korea's intangible cultural heritage.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-c72c8602-5359-4b23-95a8-a7c2b4d067de
+  - iprd-kr-gugak-99-1-46015307
+streams:
+  - url: https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8
+    codec: UNKNOWN
+    hls: true

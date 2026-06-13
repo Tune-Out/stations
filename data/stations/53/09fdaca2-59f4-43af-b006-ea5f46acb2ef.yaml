@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-09fdaca2-59f4-43af-b006-ea5f46acb2ef
-streams:
-  - url: 'http://everestcast.streams.ovh:1940/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://everestcast.streams.ovh:1940/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Music therapy and healing music programming.
   notes: Athens-based internet radio station "Μουσικοθεραπεία" (Music Therapy) with focus on therapeutic and relaxing music; hosted on Blogger blog platform; 320 kbps high-quality streams.
   sources: https://moysikotherapeia.blogspot.com/
+curation: 0.35
+provenance:
+  - radiobrowser-09fdaca2-59f4-43af-b006-ea5f46acb2ef
+streams:
+  - url: http://everestcast.streams.ovh:1940/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://everestcast.streams.ovh:1940/stream
+    codec: MP3
+    bitrate: 320

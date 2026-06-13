@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 06:45:24
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961398db-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://rcf.streamakaci.com/rcf74.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rcf.streamakaci.com/rcf76.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rcf.streamakaci.com/rcf43.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +31,19 @@ research:
   format: Christian programming, faith and values content, community talk
   notes: RCF Haute-Savoie is a regional station of RCF (Radios Chrétiennes Francophones), a French Christian radio network founded 1982. Non-commercial non-profit model. Broadcasts Christian programming and community content in the Alpine Haute-Savoie department of France.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-961398db-0601-11e8-ae97-52543be04c81
+  - iprd-fr-rcf-haute-loire-4bc60242
+  - iprd-fr-rcf-haute-normandie-98463d3e
+  - iprd-fr-rcf-haute-savoie-85350838
+streams:
+  - url: http://rcf.streamakaci.com/rcf74.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://rcf.streamakaci.com/rcf76.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://rcf.streamakaci.com/rcf43.mp3
+    codec: MP3
+    bitrate: 128

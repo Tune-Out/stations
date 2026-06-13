@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:28:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9627e313-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://mp3.rtvslo.si/mmr'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://mp3.rtvslo.si/mmr'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: News, music, cultural programming in Hungarian; minority language service
   notes: Public radio service for Hungarian minority in Slovenia; part of RTV SLO public broadcaster; serves Slovenian Hungarian community
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9627e313-0601-11e8-ae97-52543be04c81
+  - iprd-si-mmr-74a6fdb0
+streams:
+  - url: http://mp3.rtvslo.si/mmr
+    codec: AAC
+    bitrate: 192
+  - url: https://mp3.rtvslo.si/mmr
+    codec: AAC
+    bitrate: 192

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:40:24
 clickcount: 4
 geo_lat: 46.752301599321775
 geo_long: 18.39995384216309
-curation: 0.35
-provenance:
-  - radiobrowser-01487972-88a0-4ed7-91b2-0727aa9f1810
-streams:
-  - url: 'https://chill.out.airtime.pro/chill_a'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://chill.out.airtime.pro:8000/chill_a'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Chill, chillout, psychedelic, psychill (psychedelic chill)
   notes: RadiOzora is a Hungarian internet radio network specializing in chill and ambient music. Chill channel features relaxation and psychill programming.
   sources: https://radiozora.fm/
+curation: 0.35
+provenance:
+  - radiobrowser-01487972-88a0-4ed7-91b2-0727aa9f1810
+  - iprd-hu-radiozora-chill-927d2756
+streams:
+  - url: https://chill.out.airtime.pro/chill_a
+    codec: MP3
+    bitrate: 192
+  - url: http://chill.out.airtime.pro:8000/chill_a
+    codec: MP3
+    bitrate: 192

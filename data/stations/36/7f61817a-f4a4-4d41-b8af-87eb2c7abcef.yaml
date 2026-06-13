@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 03:57:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7f61817a-f4a4-4d41-b8af-87eb2c7abcef
-streams:
-  - url: 'http://azure.bullantcomm.com:8030/HD'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://azure.bullantcomm.com:8030/SD'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://azure.bullantcomm.com:8030/Mobile'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -44,3 +31,16 @@ research:
   format: Community radio with local and Indigenous content
   notes: 4RR FM is a community radio station in Charleville, Queensland, serving Indigenous and local communities. Programs local talk, music, and community content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7f61817a-f4a4-4d41-b8af-87eb2c7abcef
+streams:
+  - url: http://azure.bullantcomm.com:8030/HD
+    codec: MP3
+    bitrate: 128
+  - url: http://azure.bullantcomm.com:8030/SD
+    codec: MP3
+    bitrate: 64
+  - url: http://azure.bullantcomm.com:8030/Mobile
+    codec: MP3
+    bitrate: 32

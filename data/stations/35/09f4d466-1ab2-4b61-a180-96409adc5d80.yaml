@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 07:43:38
 clickcount: 158
 geo_lat: 37.39296391002509
 geo_long: -5.995470719346408
-curation: -0.05
-provenance:
-  - radiobrowser-09f4d466-1ab2-4b61-a180-96409adc5d80
-streams:
-  - url: 'http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://sevilla.copesedes.stream.flumotion.com/copesedes/sevilla.mp3.m3u'
-    url_resolved: 'http://wecast-bl02.flumotion.com/copesedes/sevilla.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Local news, talk, sports and religious programming — Sevilla regional opt-out ("COPE Más Sevilla") of the COPE network with local news, magazine shows and Real Betis / Sevilla FC football coverage, combined with national COPE programming
   notes: COPE describes itself as "un medio católico, comercial y generalista" (a Catholic, commercial, and general-interest outlet) emerging from "Iglesias diocesanas y de dos órdenes religiosas en España". One of Spain's three big talk-radio networks alongside Cadena SER and Onda Cero. Sister brands include TV channel TRECE, music stations Cadena 100, RockFM, and MegaStar FM. The "COPE Más" stations are secondary local frequencies devoted to local programming.
   sources: https://www.cope.es/directos/cope-mas-sevilla, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-09f4d466-1ab2-4b61-a180-96409adc5d80
+streams:
+  - url: http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3
+    codec: MP3
+    bitrate: 96
+  - url: http://sevilla.copesedes.stream.flumotion.com/copesedes/sevilla.mp3.m3u
+    url_resolved: http://wecast-bl02.flumotion.com/copesedes/sevilla.mp3
+    codec: MP3
+    bitrate: 96

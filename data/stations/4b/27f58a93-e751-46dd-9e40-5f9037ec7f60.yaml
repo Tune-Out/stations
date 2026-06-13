@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 04:12:35
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-27f58a93-e751-46dd-9e40-5f9037ec7f60
-streams:
-  - url: 'http://c22.radioboss.fm:8100/stream'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://c22.radioboss.fm:18100/live'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +34,14 @@ research:
   format: Classical music, Baroque, world music, cultural programming
   notes: Filarmonía operates as OCR-4V channel (102.7 MHz FM, Lima) under IRTP public broadcasting. Emphasizes classical music heritage and cultural programming for Peruvian audience.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-27f58a93-e751-46dd-9e40-5f9037ec7f60
+  - iprd-pe-radio-filarmonia-102-7-570dd721
+streams:
+  - url: http://c22.radioboss.fm:8100/stream
+    codec: MP3
+    bitrate: 256
+  - url: https://c22.radioboss.fm:18100/live
+    codec: MP3
+    bitrate: 192

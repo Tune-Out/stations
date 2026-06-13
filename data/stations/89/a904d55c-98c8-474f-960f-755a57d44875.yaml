@@ -1,7 +1,7 @@
 stationuuid: a904d55c-98c8-474f-960f-755a57d44875
 name: Bay FM - Redland City, Brisbane - 100.3 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/4BAY.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/4BAY.mp3
+url: 'http://23153.live.streamtheworld.com:80/4BAY.mp3'
+url_resolved: 'http://23153.live.streamtheworld.com:80/4BAY.mp3'
 homepage: https://www.bayfm.org.au/
 favicon: https://i.ibb.co/FHfnXjr/627bbae51799f5e4dd566a8c.webp
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:59:24
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a904d55c-98c8-474f-960f-755a57d44875
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -35,3 +32,6 @@ research:
   format: Classic rock and community-focused programming
   notes: Licensed community radio station serving Redland City and Brisbane bayside suburbs on 100.3 FM. Volunteer-run with emphasis on classic rock music and local community content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a904d55c-98c8-474f-960f-755a57d44875

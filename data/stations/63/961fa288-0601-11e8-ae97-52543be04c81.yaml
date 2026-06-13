@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:35:17
 clickcount: 131
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-961fa288-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radio.stereoscenic.com/asp-h'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://radio.stereoscenic.com/asp-s'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,15 @@ research:
   format: curated ambient music, ad-free, beat-free; 24/7 stream
   notes: One of several ambient sister-stations under the Stereoscenic banner (a.m. ambient, Ambient Modern). Self-describes as "internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark." Long-running independent stream popular in the ambient/sleep-music niche; also distributed via Spotify and Roku.
   sources: http://ambientsleepingpill.com/, internal knowledge
+curation: 0.75
+provenance:
+  - radiobrowser-961fa288-0601-11e8-ae97-52543be04c81
+  - iprd-us-ambient-sleeping-pill-5e13b7c1
+  - iprd-us-ambient-sleeping-pill-be43a882
+streams:
+  - url: http://radio.stereoscenic.com/asp-h
+    codec: MP3
+    bitrate: 256
+  - url: http://radio.stereoscenic.com/asp-s
+    codec: MP3
+    bitrate: 128

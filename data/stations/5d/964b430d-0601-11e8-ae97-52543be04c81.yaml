@@ -1,6 +1,6 @@
 stationuuid: 964b430d-0601-11e8-ae97-52543be04c81
 name: WSBA "News Talk 93.9 & 910" York, PA
-url: http://provisioning.streamtheworld.com/pls/WSBAAMAAC.pls
+url: 'http://18323.live.streamtheworld.com:80/WSBAAMAAC_SC'
 url_resolved: http://26443.live.streamtheworld.com/WSBAAMAAC_SC
 homepage: http://www.newstalkwsba.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3321/squareIcon.png?r=96007
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:46:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-964b430d-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: News, talk radio, local news, national news feeds, sports talk
   notes: "Licensed FM/AM combo (93.9 FM and 910 AM) in south-central Pennsylvania. Community-owned local news and talk format serving York and greater Harrisburg region. Note: tags reference NYC but station broadcasts in Pennsylvania; likely data artifact."
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-964b430d-0601-11e8-ae97-52543be04c81

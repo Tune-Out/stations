@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-71470a65-8611-4997-b3c5-a80e451b56c7
-streams:
-  - url: 'http://18.141.67.248:8076/stream/1/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://roxascapizstream.brigadanews.ph/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: News, current affairs, and talk programming
   notes: Filipino commercial news and talk radio station serving Roxas City and Iloilo province. Part of Brigada News Network. Focuses on local news, community information, and public affairs.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-71470a65-8611-4997-b3c5-a80e451b56c7
+streams:
+  - url: http://18.141.67.248:8076/stream/1/
+    codec: MP3
+    bitrate: 128
+  - url: https://roxascapizstream.brigadanews.ph/
+    codec: MP3
+    bitrate: 128

@@ -29,16 +29,6 @@ lastchangetime: 2026-01-15 04:25:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5058d941-f8c4-41f4-ba2b-b0c0388d224e
-streams:
-  - url: 'https://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -48,3 +38,14 @@ research:
   format: Retro music from 1960s–1990s, Spanish ballads; focuses on nostalgia and positive messaging
   notes: 'San Felipe-based station (95.1 FM and online). Delivers "culture, friendship, news, healthy entertainment, a positive message and the wonderful gift of hearing songs that thrill and fill the Soul." Tagline: "La radio con memoria" (The radio with memory).'
   sources: fmdelosrecuerdos.cl, tunein.com, onlineradiobox.com
+curation: -0.05
+provenance:
+  - radiobrowser-5058d941-f8c4-41f4-ba2b-b0c0388d224e
+  - iprd-cl-fm-de-los-recuerdos-95-1-f74a1743
+streams:
+  - url: https://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
+    codec: MP3
+    bitrate: 128
+  - url: http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
+    codec: MP3
+    bitrate: 128

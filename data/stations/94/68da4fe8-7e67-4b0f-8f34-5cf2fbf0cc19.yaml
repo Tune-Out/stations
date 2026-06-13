@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: 45.95745107300112
 geo_long: -66.64924621582033
-curation: -0.10
-provenance:
-  - radiobrowser-68da4fe8-7e67-4b0f-8f34-5cf2fbf0cc19
-streams:
-  - url: 'http://newcap.leanstream.co/CIHIFM'
-    codec: AAC
-    bitrate: 132
-  - url: 'http://newcap.leanstream.co/CIHIFM'
-    codec: AAC
-    bitrate: 130
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Classic hits, adult contemporary
   notes: Canadian commercial radio station CIHI-FM in Fredericton, NB; recently rebranded as "Rewind 93.1" with classic hits format; part of Stingray network.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-68da4fe8-7e67-4b0f-8f34-5cf2fbf0cc19
+  - iprd-ca-cihi-up-93-1-e887fca7
+streams:
+  - url: http://newcap.leanstream.co/CIHIFM
+    codec: AAC
+    bitrate: 132
+  - url: http://newcap.leanstream.co/CIHIFM
+    codec: AAC
+    bitrate: 130

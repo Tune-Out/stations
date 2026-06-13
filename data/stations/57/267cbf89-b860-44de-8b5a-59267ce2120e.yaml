@@ -19,15 +19,6 @@ lastchangetime: 2026-02-07 21:15:13
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-267cbf89-b860-44de-8b5a-59267ce2120e
-streams:
-  - url: 'https://amoris.sknt.ru/goa'
-    codec: AAC
-    bitrate: 160
-  - url: 'http://amoris.sknt.ru/goa.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -37,3 +28,14 @@ research:
   format: Goa psychedelic trance; electronic dance music specialization
   notes: Specialized channel offering Goa psy trance; part of broader Russian electronic music streaming infrastructure
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-267cbf89-b860-44de-8b5a-59267ce2120e
+  - iprd-ru-anima-amoris-goa-psy-trance-765d0b35
+  - iprd-ru-anima-amoris-trance-5f08706f
+streams:
+  - url: https://amoris.sknt.ru/goa
+    codec: AAC
+    bitrate: 160
+  - url: http://amoris.sknt.ru/goa.mp3
+    codec: MP3

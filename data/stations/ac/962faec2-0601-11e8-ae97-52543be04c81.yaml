@@ -29,16 +29,6 @@ lastchangetime: 2026-01-15 01:47:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-962faec2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://eu4.fastcast4u.com:5248/;stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://eu4.fastcast4u.com:5248/;&type=mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -48,3 +38,13 @@ research:
   format: Classic rock, alternative rock, hard rock, heavy metal, hair metal, punk rock, indie rock, rock ballads.
   notes: Commercial Greek radio station specializing in rock and metal music from the 1980s onwards. 128 kbps MP3 stream.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-962faec2-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://eu4.fastcast4u.com:5248/;stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://eu4.fastcast4u.com:5248/;&type=mp3
+    codec: MP3
+    bitrate: 128

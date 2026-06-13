@@ -1,7 +1,7 @@
 stationuuid: 9fbd3446-dc82-11e8-a9cc-52543be04c81
 name: Newstalk ZB Christchurch
 url: http://streaming.radiomyway.co.nz/zbchalt.pls
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.m3u8
+url_resolved: 'http://28893.live.streamtheworld.com:80/NZME_41AAC/HLS/playlist.m3u8'
 homepage: https://www.newstalkzb.co.nz/
 favicon: https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 08:14:52
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9fbd3446-dc82-11e8-a9cc-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,8 @@ research:
   format: news, talk, sport, and opinion — Christchurch-region feed of Newstalk ZB carrying national programming (Mike Hosking Breakfast, Kerre Woodham Mornings, Heather du Plessis-Allan Drive, etc.) plus local Christchurch news, weather, traffic, and advertising
   notes: Newstalk ZB traces its lineage to 1ZB Auckland (launched 1937 by the New Zealand Broadcasting Service); the modern Newstalk ZB news-talk format was established in 1987 under Radio New Zealand Commercial, sold to The Radio Network (TRN) in 1996, and the network is now operated by NZME after a 2014 demerger from APN News & Media; the network's flagship hosts (notably Mike Hosking, Heather du Plessis-Allan and the late Sir Paul Holmes) are widely regarded as politically centre-right; the Christchurch local outlet broadcasts on 1098 AM and 100.9 FM with regional news inserts
   sources: internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-9fbd3446-dc82-11e8-a9cc-52543be04c81
+  - iprd-nz-newstalk-zb-auckland-a8bca544
+  - iprd-nz-newstalk-zb-christchurch-9f51b3b3

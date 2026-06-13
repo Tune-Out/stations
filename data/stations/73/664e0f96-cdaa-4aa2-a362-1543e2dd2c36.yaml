@@ -29,19 +29,6 @@ lastchangetime: 2026-01-15 07:56:58
 clickcount: 42
 geo_lat: 52.40381637769898
 geo_long: 13.654156700704457
-curation: -0.10
-provenance:
-  - radiobrowser-664e0f96-cdaa-4aa2-a362-1543e2dd2c36
-streams:
-  - url: 'http://radio.nius.de/live'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radio.nius.de/live'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://nius--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/nius/live/mp3/high'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -51,3 +38,16 @@ research:
   format: News, talk, and pop music from 1980s-2000s era; mix of news/talk content with hit music.
   notes: Berlin-based German online radio station; format combines news/world news coverage with pop and hit music from 1980s-2000s decades; commercial operation with online streaming.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-664e0f96-cdaa-4aa2-a362-1543e2dd2c36
+streams:
+  - url: http://radio.nius.de/live
+    codec: MP3
+    bitrate: 192
+  - url: https://radio.nius.de/live
+    codec: MP3
+    bitrate: 192
+  - url: https://nius--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/nius/live/mp3/high
+    codec: MP3
+    bitrate: 192

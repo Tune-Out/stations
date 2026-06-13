@@ -24,51 +24,6 @@ lastchangetime: 2026-01-15 06:09:44
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-f5f6ae79-b919-497b-a10f-720ea7cdc7bc
-streams:
-  - url: 'https://s1-webradio.rockantenne.de/deutschrock/stream/aacp'
-    codec: AAC
-  - url: 'http://mp3channels.webradio.rockantenne.de/punkrock.aac'
-    codec: AAC
-  - url: 'https://stream.rockantenne.de/rockabilly/stream/aacp'
-    codec: AAC
-  - url: 'http://www.rockantenne.de/webradio/rockantenne.aac.pls'
-    url_resolved: 'http://stream.rockantenne.de/rockantenne.aac'
-    codec: AAC
-  - url: 'https://s3-webradio.rockantenne.de/gothic'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.rockantenne.de/webradio/channels/deutschrock.m3u'
-    url_resolved: 'http://stream.rockantenne.de/deutschrock'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.rockantenne.de/webradio/channels/melodic-rock.m3u'
-    url_resolved: 'http://stream.rockantenne.de/melodic-rock'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.rockantenne.de/country-antenne/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.rockantenne.de/70er-rock/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3channels.webradio.rockantenne.de/rockantenne'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3channels.webradio.rockantenne.de/heavy-metal'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.rockantenne.de/lagerfeuer-rock/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.rockantenne.de/rock-antenne-party-rock/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.rockantenne.de/90er-rock/stream/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -78,3 +33,49 @@ research:
   format: Gothic, dark wave, EBM, metal, punk, and alternative rock
   notes: German commercial radio with specialized gothic/alternative music channel. Part of Rock Antenne network offering various rock and alternative subgenres.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-f5f6ae79-b919-497b-a10f-720ea7cdc7bc
+  - iprd-de-cuterdio-4-73e2d42f
+streams:
+  - url: https://s1-webradio.rockantenne.de/deutschrock/stream/aacp
+    codec: AAC
+  - url: http://mp3channels.webradio.rockantenne.de/punkrock.aac
+    codec: AAC
+  - url: https://stream.rockantenne.de/rockabilly/stream/aacp
+    codec: AAC
+  - url: http://www.rockantenne.de/webradio/rockantenne.aac.pls
+    url_resolved: http://stream.rockantenne.de/rockantenne.aac
+    codec: AAC
+  - url: https://s3-webradio.rockantenne.de/gothic
+    codec: MP3
+    bitrate: 128
+  - url: http://www.rockantenne.de/webradio/channels/deutschrock.m3u
+    url_resolved: http://stream.rockantenne.de/deutschrock
+    codec: MP3
+    bitrate: 128
+  - url: http://www.rockantenne.de/webradio/channels/melodic-rock.m3u
+    url_resolved: http://stream.rockantenne.de/melodic-rock
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.rockantenne.de/country-antenne/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.rockantenne.de/70er-rock/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3channels.webradio.rockantenne.de/rockantenne
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3channels.webradio.rockantenne.de/heavy-metal
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.rockantenne.de/lagerfeuer-rock/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.rockantenne.de/rock-antenne-party-rock/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.rockantenne.de/90er-rock/stream/mp3
+    codec: MP3
+    bitrate: 128

@@ -22,19 +22,6 @@ lastchangetime: 2026-05-04 18:08:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5c694204-546d-471b-b043-306e2efe3d25
-streams:
-  - url: 'https://mobile-radio.ponyradio.de/'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://hd-radio.ponyradio.de/'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://sd-radio.ponyradio.de/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,16 @@ research:
   format: 1990s music, 90er hits, nostalgia music
   notes: German online radio station specializing in 1990s music ("90er"). Part of the Trigger.FM radio network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5c694204-546d-471b-b043-306e2efe3d25
+streams:
+  - url: https://mobile-radio.ponyradio.de/
+    codec: AAC
+    bitrate: 64
+  - url: https://hd-radio.ponyradio.de/
+    codec: MP3
+    bitrate: 256
+  - url: https://sd-radio.ponyradio.de/
+    codec: MP3
+    bitrate: 128

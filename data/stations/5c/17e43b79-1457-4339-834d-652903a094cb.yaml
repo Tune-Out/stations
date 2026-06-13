@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 01:08:58
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-17e43b79-1457-4339-834d-652903a094cb
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/christmas96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/christmas96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Christmas music; seasonal programming variant of Radio Record.
   notes: Themed stream from Radio Record, one of Russia's major commercial radio stations based in Saint Petersburg. Christmas-specific variant of the main station.
   sources: http://radiorecord.ru/, internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-17e43b79-1457-4339-834d-652903a094cb
+  - iprd-ru-radio-rekord-christmas-889ccc86
+streams:
+  - url: http://radiorecord.hostingradio.ru/christmas96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/christmas96.aacp
+    codec: AAC

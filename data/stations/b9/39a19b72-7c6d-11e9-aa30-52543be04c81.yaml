@@ -25,18 +25,6 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 5
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.65
-provenance:
-  - radiobrowser-39a19b72-7c6d-11e9-aa30-52543be04c81
-streams:
-  - url: 'https://somafm.com/beatblender130.pls'
-    url_resolved: 'https://ice6.somafm.com/beatblender-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/beatblender.pls'
-    url_resolved: 'https://ice6.somafm.com/beatblender-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +34,17 @@ research:
   format: 24/7 curated beat blender stream featuring deep house, downtempo electronica, chillout and downtempo electronic production
   notes: SomaFM is a listener-supported, non-profit independent internet radio station founded in 1999 and operated by Soma Networks in San Francisco; Beat Blender is one of SomaFM's 20+ genre-specific channels, programmed by real DJs with focus on mellow, deep house and downtempo electronic music; SomaFM operates without advertising through direct listener donations and grants, maintaining an independent ethos and commitment to creative freedom; the network has won numerous awards for its curation and has inspired similar listener-supported radio projects worldwide.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-39a19b72-7c6d-11e9-aa30-52543be04c81
+  - iprd-us-somafm-beat-blender-cdce33f5
+  - iprd-us-somafm-beat-blender-7cd99a04
+streams:
+  - url: https://somafm.com/beatblender130.pls
+    url_resolved: https://ice6.somafm.com/beatblender-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/beatblender.pls
+    url_resolved: https://ice6.somafm.com/beatblender-128-mp3
+    codec: MP3
+    bitrate: 128

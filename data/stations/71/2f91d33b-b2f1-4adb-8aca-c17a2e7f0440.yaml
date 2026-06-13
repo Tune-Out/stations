@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:52:51
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2f91d33b-b2f1-4adb-8aca-c17a2e7f0440
-streams:
-  - url: 'http://vladfm.ru:8000/vfm?1702126392317'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://vladfm.ru:8000/vfm'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Dance music, electronic programming
   notes: Regional Russian commercial station serving Vladivostok region with dance and electronic music format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2f91d33b-b2f1-4adb-8aca-c17a2e7f0440
+streams:
+  - url: http://vladfm.ru:8000/vfm?1702126392317
+    codec: MP3
+    bitrate: 128
+  - url: http://vladfm.ru:8000/vfm
+    codec: MP3
+    bitrate: 128

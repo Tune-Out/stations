@@ -1,6 +1,6 @@
 stationuuid: 96443011-0601-11e8-ae97-52543be04c81
 name: KRMW "94.9 Radio Jon Deek" Cedarville, AR
-url: http://provisioning.streamtheworld.com/pls/KRMWFM.pls
+url: 'http://18373.live.streamtheworld.com:80/KRMWFM_SC'
 url_resolved: http://27163.live.streamtheworld.com/KRMWFM_SC
 homepage: http://www.949radiojondeek.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3138/squareIcon.png?r=94447
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:34:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96443011-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult alternative commercial radio at 94.9 FM
   notes: Commercial station at 94.9 FM branded as "Radio Jon Deek" serving Northwest Arkansas region (Cedarville, Fayetteville, Fort Smith).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96443011-0601-11e8-ae97-52543be04c81

@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-026accc4-313a-11e9-8f31-52543be04c81
-streams:
-  - url: 'http://sclasica-stream.sytes.net:8012/;'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://77.73.69.238:8000/stream'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +34,15 @@ research:
   format: Retro music, 1960s-1980s, Spanish ballads, romantic music, nostalgia
   notes: Colombian commercial radio station specializing in classic and retro music; focuses on 1960s-1980s hits, romantic ballads (baladas en español), and classic Colombian music; serves Bogotá and surrounding regions
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-026accc4-313a-11e9-8f31-52543be04c81
+  - iprd-co-super-cl-sica-ce232b0e
+  - iprd-co-super-cl-sica-fd226446
+streams:
+  - url: http://sclasica-stream.sytes.net:8012/;
+    codec: AAC+
+    bitrate: 96
+  - url: http://77.73.69.238:8000/stream
+    codec: MP3
+    bitrate: 56

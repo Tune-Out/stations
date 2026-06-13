@@ -1,7 +1,7 @@
 stationuuid: f99c30e5-4d28-4c48-8517-136e94cc3ebd
 name: 96.5 Inner FM - Melbourne - 96.5 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/3NR.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/3NR.mp3
+url: 'http://28803.live.streamtheworld.com:80/3NR.mp3'
+url_resolved: 'http://28803.live.streamtheworld.com:80/3NR.mp3'
 homepage: https://www.innerfm.org.au/
 favicon: https://i.ibb.co/9mxTnSz/627c4f123de77874b3705136.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:23:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f99c30e5-4d28-4c48-8517-136e94cc3ebd
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community music and speech programming; varied cultural formats
   notes: Community radio station broadcasting on 96.5 FM from Melbourne, Victoria. Non-profit, volunteer-run community broadcaster serving inner-Melbourne suburbs with diverse music, arts, and community programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f99c30e5-4d28-4c48-8517-136e94cc3ebd

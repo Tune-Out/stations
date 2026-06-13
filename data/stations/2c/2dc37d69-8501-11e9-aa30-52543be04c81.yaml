@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2dc37d69-8501-11e9-aa30-52543be04c81
-streams:
-  - url: 'http://lhttp.qingting.fm/live/20160/64k.mp3'
-    codec: MP3
-  - url: 'https://lhttp.qingting.fm/live/20160/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -38,3 +30,11 @@ research:
   format: News and current affairs, regional programming
   notes: State broadcaster operating television, radio, and digital services since Shenzhen's media modernization. Programming includes "First Scene" news, "Shenzhen News", "Noon 30 Minutes".
   sources: http://www.szmg.com.cn/
+curation: 0.35
+provenance:
+  - radiobrowser-2dc37d69-8501-11e9-aa30-52543be04c81
+streams:
+  - url: http://lhttp.qingting.fm/live/20160/64k.mp3
+    codec: MP3
+  - url: https://lhttp.qingting.fm/live/20160/64k.mp3
+    codec: MP3

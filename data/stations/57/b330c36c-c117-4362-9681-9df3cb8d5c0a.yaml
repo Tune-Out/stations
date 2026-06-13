@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:52:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b330c36c-c117-4362-9681-9df3cb8d5c0a
-streams:
-  - url: 'http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8?'
-    codec: UNKNOWN
-    hls: true
-  - url: 'http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +30,14 @@ research:
   format: Entertainment and general interest programming
   notes: 江苏金陵之声 (Jiangsu Jinling Voice) is operated by the Jiangsu Radio Broadcasting Group, part of China's state-controlled media system. Serves audiences in Jiangsu province with entertainment and information programming.
   sources: http://www.vojs.cn/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-b330c36c-c117-4362-9681-9df3cb8d5c0a
+  - iprd-cn-kiangsu-voice-of-kingling-radio-87ab0912
+streams:
+  - url: http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8?
+    codec: UNKNOWN
+    hls: true
+  - url: http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
+    codec: UNKNOWN
+    hls: true

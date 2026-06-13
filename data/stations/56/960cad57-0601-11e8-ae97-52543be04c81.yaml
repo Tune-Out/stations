@@ -24,18 +24,6 @@ lastchangetime: 2026-01-15 01:13:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-960cad57-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming01.sr-online.de/sr2_2.m3u'
-    url_resolved: 'http://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3?aggregator=custom1'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming01.sr-online.de/sr2_1.m3u'
-    url_resolved: 'http://liveradio.sr.de/sr/sr2/mp3/64/stream.mp3?aggregator=custom1'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +33,17 @@ research:
   format: Classical music, culture, arts, literature, philosophy, and educational programming.
   notes: SR 2 KulturRadio is the culture and classical music channel of SR, the public broadcaster for the Saarland state. Member of ARD broadcasting consortium. Focuses on high-quality cultural and educational content.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-960cad57-0601-11e8-ae97-52543be04c81
+  - iprd-de-sr-2-kulturradio-f17c0170
+  - iprd-de-sr-2-kulturradio-559aa6ca
+streams:
+  - url: http://streaming01.sr-online.de/sr2_2.m3u
+    url_resolved: http://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3?aggregator=custom1
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming01.sr-online.de/sr2_1.m3u
+    url_resolved: http://liveradio.sr.de/sr/sr2/mp3/64/stream.mp3?aggregator=custom1
+    codec: MP3
+    bitrate: 64

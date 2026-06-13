@@ -27,14 +27,6 @@ lastchangetime: 2026-01-15 00:04:28
 clickcount: 2
 geo_lat: 19.415794529546016
 geo_long: -99.07050132751466
-curation: 0.55
-provenance:
-  - radiobrowser-6ae06700-1446-4ead-867d-524e3f7bdcbe
-streams:
-  - url: 'http://giss.tv:8001/radio_automata.ogg'
-    codec: OGG
-  - url: 'https://giss.tv:667/radio_automata.ogg'
-    codec: OGG
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -44,3 +36,11 @@ research:
   format: Eclectic indie/alternative; garage punk, blues, fusion, reggae, hip-hop, rock; Creative Commons music focus
   notes: Radio Autómata Mexico City broadcasts diverse independent and garage programming. Educational and Creative Commons focused community radio from CDMX.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-6ae06700-1446-4ead-867d-524e3f7bdcbe
+streams:
+  - url: http://giss.tv:8001/radio_automata.ogg
+    codec: OGG
+  - url: https://giss.tv:667/radio_automata.ogg
+    codec: OGG

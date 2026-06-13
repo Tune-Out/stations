@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b9956ea2-9e38-4b06-856c-835a412d5748
-streams:
-  - url: 'http://stream.rcast.net/67426'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://free.rcast.net/67426'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: pop music, entertainment, Italian hits
   notes: Italian commercial radio station broadcasting pop and music-focused programming; named after the historic Vomero neighborhood in Naples; serves Italian audience via streaming and terrestrial broadcast.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b9956ea2-9e38-4b06-856c-835a412d5748
+streams:
+  - url: http://stream.rcast.net/67426
+    codec: MP3
+    bitrate: 128
+  - url: https://free.rcast.net/67426
+    codec: MP3
+    bitrate: 128

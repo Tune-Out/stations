@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-18072785-9b30-4b06-a8b3-3c9c3596983b
-streams:
-  - url: 'https://rs33.stream24.net/joke-fm.mp3'
-    codec: MP3
-  - url: 'http://rs33.stream24.net/joke-fm.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -37,3 +29,11 @@ research:
   format: Comedy programming, comedians, humor-focused entertainment.
   notes: German commercial radio station specializing in comedy content; JOKE FM format; serves German market with entertainment and comedy focus.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-18072785-9b30-4b06-a8b3-3c9c3596983b
+streams:
+  - url: https://rs33.stream24.net/joke-fm.mp3
+    codec: MP3
+  - url: http://rs33.stream24.net/joke-fm.mp3
+    codec: MP3

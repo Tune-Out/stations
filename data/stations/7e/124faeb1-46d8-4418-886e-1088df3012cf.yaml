@@ -1,7 +1,7 @@
 stationuuid: 124faeb1-46d8-4418-886e-1088df3012cf
 name: LOS40 Puerto Vallarta - 91.1 FM - XHPTOJ-FM - Radiópolis - Puerto Vallarta, Jalisco
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VALLARTAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VALLARTAAAC.aac
+url: 'https://17563.live.streamtheworld.com:443/LOS40_VALLARTAAAC.aac'
+url_resolved: 'https://17563.live.streamtheworld.com:443/LOS40_VALLARTAAAC.aac'
 homepage: https://los40.com.mx/
 favicon: https://i.postimg.cc/Nfm7z1vf/LOS40-Puerto-Vallarta.png
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 04:31:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-124faeb1-46d8-4418-886e-1088df3012cf
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Contemporary Hits Radio (CHR); Spanish and English pop music; Top 40 format with entertainment and lifestyle content
   notes: Part of international LOS40 network (Spanish media group with stations across Latin America); operates on 91.1 FM in Puerto Vallarta; target demographic is juvenil (youth); music in Spanish and English; includes entertainment programming; branded as "XHPTOJ-FM" on official registry.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-124faeb1-46d8-4418-886e-1088df3012cf

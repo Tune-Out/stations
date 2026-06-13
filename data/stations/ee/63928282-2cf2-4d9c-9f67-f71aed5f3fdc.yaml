@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: 37.966772702383174
 geo_long: 23.641346902333183
-curation: -0.05
-provenance:
-  - radiobrowser-63928282-2cf2-4d9c-9f67-f71aed5f3fdc
-streams:
-  - url: 'https://stream.radiojar.com/h693vkmhe5uvv'
-    codec: MP3
-  - url: 'http://n0e.radiojar.com/h693vkmhe5uvv?rj-ttl=5'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: General entertainment and music format
   notes: Greek online radio station based in Athens. Limited public information available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-63928282-2cf2-4d9c-9f67-f71aed5f3fdc
+streams:
+  - url: https://stream.radiojar.com/h693vkmhe5uvv
+    codec: MP3
+  - url: http://n0e.radiojar.com/h693vkmhe5uvv?rj-ttl=5
+    codec: MP3

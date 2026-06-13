@@ -1,7 +1,7 @@
 stationuuid: 35192ec4-e851-4ce3-a828-89992e99ba49
 name: One World Radio
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3
+url: 'https://22733.live.streamtheworld.com:443/OWR_INTERNATIONAL.mp3'
+url_resolved: 'https://22733.live.streamtheworld.com:443/OWR_INTERNATIONAL.mp3'
 homepage: https://global.tomorrowland.com/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-35192ec4-e851-4ce3-a828-89992e99ba49
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Electronic dance music (EDM), house, trance, progressive house from DJ sets and festival audio streams.
   notes: One World Radio operates as the official radio stream of Tomorrowland, the world's largest electronic dance music festival held annually in Boom, Belgium. Station broadcasts curated DJ sets, artist interviews, and exclusive content tied to the Tomorrowland festival brand and community. Serves international audience via streaming.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-35192ec4-e851-4ce3-a828-89992e99ba49

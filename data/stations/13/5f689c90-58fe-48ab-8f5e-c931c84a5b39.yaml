@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5f689c90-58fe-48ab-8f5e-c931c84a5b39
-streams:
-  - url: 'http://play.global.audio/city_low.ogg'
-    codec: OGG
-  - url: 'http://play.global.audio/city64'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +28,12 @@ research:
   format: Pop, contemporary hits, entertainment, talk
   notes: Bulgarian commercial radio station. Part of the City.bg media network providing music and entertainment content to Bulgarian audience.
   sources: https://www.city.bg/
+curation: -0.05
+provenance:
+  - radiobrowser-5f689c90-58fe-48ab-8f5e-c931c84a5b39
+streams:
+  - url: http://play.global.audio/city_low.ogg
+    codec: OGG
+  - url: http://play.global.audio/city64
+    codec: MP3
+    bitrate: 64

@@ -22,33 +22,6 @@ lastchangetime: 2026-01-15 06:28:17
 clickcount: 1
 geo_lat: 53.5403073915002
 geo_long: -3.5156250000000004
-curation: 0.60
-provenance:
-  - radiobrowser-11a0a369-9c4b-4e26-8f95-27b628653c83
-streams:
-  - url: 'https://radio.hearme.fm:8040/stream'
-    codec: MP3
-  - url: 'https://radio.hearme.fm:8230/stream'
-    codec: MP3
-  - url: 'http://hearme.fm:10003/stream'
-    url_resolved: 'https://radio.hearme.fm:9050/stream'
-    codec: MP3
-  - url: 'https://radio.hearme.fm:8100/stream'
-    codec: MP3
-  - url: 'http://hearme.fm:8258/stream'
-    codec: MP3
-  - url: 'https://radio.hearme.fm:8310/stream'
-    codec: MP3
-  - url: 'https://radio.hearme.fm:8130/stream'
-    codec: MP3
-  - url: 'https://radio.hearme.fm:8240/stream'
-    codec: MP3
-  - url: 'https://radio.hearme.fm:8050/stream'
-    codec: MP3
-  - url: 'https://radio.hearme.fm:8270/stream'
-    codec: MP3
-  - url: 'https://radio.hearme.fm:8140/stream'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -58,3 +31,30 @@ research:
   format: Non-commercial internet radio station specializing exclusively in 2000s-era pop music.
   notes: UK-based non-commercial internet radio station operated via hearme.fm platform. Specializes in 2000s pop music nostalgia with curated programming for listeners interested in early 2000s pop hits.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-11a0a369-9c4b-4e26-8f95-27b628653c83
+streams:
+  - url: https://radio.hearme.fm:8040/stream
+    codec: MP3
+  - url: https://radio.hearme.fm:8230/stream
+    codec: MP3
+  - url: http://hearme.fm:10003/stream
+    url_resolved: https://radio.hearme.fm:9050/stream
+    codec: MP3
+  - url: https://radio.hearme.fm:8100/stream
+    codec: MP3
+  - url: http://hearme.fm:8258/stream
+    codec: MP3
+  - url: https://radio.hearme.fm:8310/stream
+    codec: MP3
+  - url: https://radio.hearme.fm:8130/stream
+    codec: MP3
+  - url: https://radio.hearme.fm:8240/stream
+    codec: MP3
+  - url: https://radio.hearme.fm:8050/stream
+    codec: MP3
+  - url: https://radio.hearme.fm:8270/stream
+    codec: MP3
+  - url: https://radio.hearme.fm:8140/stream
+    codec: MP3

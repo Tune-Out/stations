@@ -1,6 +1,6 @@
 stationuuid: 962217bc-0601-11e8-ae97-52543be04c81
 name: CHKX "KX-94.7" Hamilton, ON
-url: http://provisioning.streamtheworld.com/pls/CHKXFMAAC.pls
+url: 'http://29306.live.streamtheworld.com:80/CHKXFMAAC_SC'
 url_resolved: http://16613.live.streamtheworld.com/CHKXFMAAC_SC
 homepage: http://www.kx947.fm/
 favicon: https://www.kx947.fm/templates/template_kx947_2024/favicon.ico
@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962217bc-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://provisioning.streamtheworld.com/pls/CHKXFMAAC.pls'
-    url_resolved: 'http://16613.live.streamtheworld.com/CHKXFMAAC_SC'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://provisioning.streamtheworld.com/pls/CHKXFMAAC.pls'
-    url_resolved: 'http://14103.live.streamtheworld.com:3690/CHKXFMAAC_SC'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,15 @@ research:
   format: Country music; contemporary and classic country hits
   notes: Canadian FM 94.7 station in Hamilton; commercial country format; callsign CHKX
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962217bc-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://29306.live.streamtheworld.com:80/CHKXFMAAC_SC'
+    url_resolved: http://16613.live.streamtheworld.com/CHKXFMAAC_SC
+    codec: AAC+
+    bitrate: 32
+  - url: 'http://27283.live.streamtheworld.com:80/CHKXFMAAC_SC'
+    url_resolved: http://14103.live.streamtheworld.com:3690/CHKXFMAAC_SC
+    codec: AAC+
+    bitrate: 32

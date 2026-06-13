@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:57:53
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-379d25e3-eb8d-11e9-a96c-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/francemusiquelabo-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: La B.O. (The Soundtrack) channel featuring film music and movie soundtracks
   notes: France Musique is part of Radio France, France's national public radio broadcaster. La B.O. is a dedicated channel for film and movie soundtrack programming. High-fidelity AAC streaming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-379d25e3-eb8d-11e9-a96c-52543be04c81
+  - iprd-fr-france-musique-la-b-o-f3569a14
+  - iprd-fr-france-musique-la-b-o-a3801c48
+streams:
+  - url: http://icecast.radiofrance.fr/francemusiquelabo-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac
+    codec: AAC
+    bitrate: 192

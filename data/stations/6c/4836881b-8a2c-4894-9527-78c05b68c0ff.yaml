@@ -1,7 +1,7 @@
 stationuuid: 4836881b-8a2c-4894-9527-78c05b68c0ff
 name: Olimpica Stereo 90.5 Fm Monteria
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MONTERIAAAC_SC?1715699972
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MONTERIAAAC_SC?1715699972
+url: 'https://24223.live.streamtheworld.com:443/OLP_MONTERIAAAC_SC?1715699972'
+url_resolved: 'https://24223.live.streamtheworld.com:443/OLP_MONTERIAAAC_SC?1715699972'
 homepage: http://olimpicastereo.com.co/
 favicon: http://olimpicastereo.com.co/icon?b8748d2f62517688
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:07:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4836881b-8a2c-4894-9527-78c05b68c0ff
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Latin music programming.
   notes: Olimpica Stereo 90.5 FM Montería is a commercial radio station based in Montería, Colombia, broadcasting Latin and popular music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4836881b-8a2c-4894-9527-78c05b68c0ff

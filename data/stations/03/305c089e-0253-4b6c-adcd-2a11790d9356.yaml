@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-305c089e-0253-4b6c-adcd-2a11790d9356
-streams:
-  - url: 'http://cast3.radiohost.ovh:8280/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://tls-chrome.live24.gr/171?http://cast3.radiohost.ovh:8280/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Greek folk music, Greek pop, contemporary Greek music
   notes: '"Σφαίρα" means "Sphere" in Greek; 101.6 FM serves Larisa and surrounding Thessaly region; locally-oriented format with emphasis on Greek traditional and popular music'
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-305c089e-0253-4b6c-adcd-2a11790d9356
+streams:
+  - url: http://cast3.radiohost.ovh:8280/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://tls-chrome.live24.gr/171?http://cast3.radiohost.ovh:8280/stream
+    codec: MP3
+    bitrate: 128

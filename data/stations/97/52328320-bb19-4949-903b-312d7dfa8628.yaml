@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:10:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-52328320-bb19-4949-903b-312d7dfa8628
-streams:
-  - url: 'https://live-bauerie.sharp-stream.com/SW'
-    codec: AAC+
-    bitrate: 89
-  - url: 'https://edge.audioxi.com/SW'
-    codec: AAC+
-    bitrate: 88
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Commercial contemporary radio with multiple format options including SPIN SouthWest (main), SPIN K-POP, and SPIN 00s; "more music" format emphasis
   notes: Part of larger SPIN radio network operated by Bauer Media; features shows like "Jamie & Faye's Secret Sound" and "SPIN Cash Machine"; multi-stream format options
   sources: https://www.spinsouthwest.com/
+curation: -0.05
+provenance:
+  - radiobrowser-52328320-bb19-4949-903b-312d7dfa8628
+  - iprd-ie-spin-south-west-94-7-79c11ca1
+streams:
+  - url: https://live-bauerie.sharp-stream.com/SW
+    codec: AAC+
+    bitrate: 89
+  - url: https://edge.audioxi.com/SW
+    codec: AAC+
+    bitrate: 88

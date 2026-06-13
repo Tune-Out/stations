@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 03:05:15
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-34975b12-c845-4a2f-b39d-5acb25b10855
-streams:
-  - url: 'http://s4.citrus3.com:8366/stream'
-    codec: AAC
-    bitrate: 256
-  - url: 'https://s4.citrus3.com:8366/stream'
-    codec: AAC
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -45,3 +35,13 @@ research:
   format: Dance, indie, alternative and hit music from 1990s-present
   notes: Community radio station broadcasting from Brighton, UK. Format mixes 90s/00s dance, indie, and contemporary hits. Community-oriented with emphasis on local engagement and grassroots music promotion. Small but dedicated listener base.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-34975b12-c845-4a2f-b39d-5acb25b10855
+streams:
+  - url: http://s4.citrus3.com:8366/stream
+    codec: AAC
+    bitrate: 256
+  - url: https://s4.citrus3.com:8366/stream
+    codec: AAC
+    bitrate: 256

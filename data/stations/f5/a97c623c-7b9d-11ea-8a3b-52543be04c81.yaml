@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 07:21:49
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a97c623c-7b9d-11ea-8a3b-52543be04c81
-streams:
-  - url: 'http://crystalout.surfernetwork.com:8001/KXBZ_MP3'
-    codec: MP3
-  - url: 'https://crystalout.surfernetwork.com:8001/KXBZ_MP3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: Country music, American Country Countdown, local news via KMAN partnership
   notes: B104.7 operates as "Manhattan's Hometown Country Station — Bringin' B Country to the Flint Hills for Over 25 Years." Commercial station owned by Manhattan Broadcasting Company serving the Flint Hills area of Kansas. Includes partnership with KMAN News Radio for news programming.
   sources: https://b1047.com/
+curation: -0.05
+provenance:
+  - radiobrowser-a97c623c-7b9d-11ea-8a3b-52543be04c81
+  - iprd-us-kxbz-b104-7-3d1edebd
+  - iprd-us-kxbz-b107-5-country-85e8882a
+streams:
+  - url: http://crystalout.surfernetwork.com:8001/KXBZ_MP3
+    codec: MP3
+  - url: https://crystalout.surfernetwork.com:8001/KXBZ_MP3
+    codec: MP3

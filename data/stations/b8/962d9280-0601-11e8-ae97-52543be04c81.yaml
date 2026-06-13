@@ -1,6 +1,6 @@
 stationuuid: 962d9280-0601-11e8-ae97-52543be04c81
 name: KLYY "Jose FM 97.5 & 103.1" Riverside, CA
-url: http://provisioning.streamtheworld.com/pls/KLYYFMAAC.pls
+url: 'http://18253.live.streamtheworld.com:80/KLYYFMAAC_SC'
 url_resolved: http://17803.live.streamtheworld.com/KLYYFMAAC_SC
 homepage: http://jose.entravision.com/los-angeles/
 favicon: ""
@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 01:53:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962d9280-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://provisioning.streamtheworld.com/pls/KLYYFMAAC.pls'
-    url_resolved: 'http://17803.live.streamtheworld.com/KLYYFMAAC_SC'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://provisioning.streamtheworld.com/pls/KLYYFMAAC.pls'
-    url_resolved: 'http://18253.live.streamtheworld.com:3690/KLYYFMAAC_SC'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +30,15 @@ research:
   format: Spanish-language adult hits and contemporary hits radio
   notes: Jose FM is a major Spanish-language radio brand operated by Entravision Communications; broadcasts on 97.5 and 103.1 FM in the Los Angeles and Riverside areas.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962d9280-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://18253.live.streamtheworld.com:80/KLYYFMAAC_SC'
+    url_resolved: http://17803.live.streamtheworld.com/KLYYFMAAC_SC
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://18253.live.streamtheworld.com:80/KLYYFMAAC_SC'
+    url_resolved: http://18253.live.streamtheworld.com:3690/KLYYFMAAC_SC
+    codec: AAC+
+    bitrate: 64

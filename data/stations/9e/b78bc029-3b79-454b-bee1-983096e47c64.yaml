@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 00:53:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-b78bc029-3b79-454b-bee1-983096e47c64
-streams:
-  - url: 'http://audio-ogg.ibiblio.org:8000/wcpe.ogg'
-    codec: OGG
-  - url: 'http://audio-ice1.ibiblio.org:8000/wcpe48.aac'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +31,12 @@ research:
   format: 24/7 classical music and related arts programming.
   notes: WCPE "The Classical Station" is a non-commercial, listener-supported classical music station broadcasting from North Carolina. Educational mission focused on classical music, opera, and related performing arts.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-b78bc029-3b79-454b-bee1-983096e47c64
+streams:
+  - url: http://audio-ogg.ibiblio.org:8000/wcpe.ogg
+    codec: OGG
+  - url: http://audio-ice1.ibiblio.org:8000/wcpe48.aac
+    codec: AAC+
+    bitrate: 48

@@ -1,6 +1,6 @@
 stationuuid: 963336db-0601-11e8-ae97-52543be04c81
 name: WSJR "Nash FM 93.7" Dallas, PA
-url: http://provisioning.streamtheworld.com/pls/WSJRFMAAC.pls
+url: 'http://26143.live.streamtheworld.com:80/WSJRFMAAC_SC'
 url_resolved: http://19263.live.streamtheworld.com/WSJRFMAAC_SC
 homepage: http://www.nashfm937.com/
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WSJR_%28Nash_FM_93.7%29_logo.png/200px-WSJR_%28Nash_FM_93.7%29_logo.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:22:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-963336db-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music, contemporary country hits, country news and information
   notes: Commercial FM radio station (93.7 FM) serving the Scranton/Wilkes-Barre market in Pennsylvania; branded as Nash FM with contemporary country format; owned by Cumulus Media
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-963336db-0601-11e8-ae97-52543be04c81

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-0cf68d28-6917-11e9-af37-52543be04c81
-streams:
-  - url: 'https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-0'
-    codec: MP3
-  - url: 'https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-01'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: 1980s hits and music; "Best 80s" collection
   notes: Regional German broadcaster RPR1 operates specialized decade-focused channel; commercial radio with streaming; 128 kbps MP3 codec
   sources: https://www.rpr1.de/webradio/best-80s
+curation: 0.3
+provenance:
+  - radiobrowser-0cf68d28-6917-11e9-af37-52543be04c81
+  - iprd-de-rpr1-best-80s-9cf68473
+  - iprd-de-rpr1-best-of-80s-5d45650c
+streams:
+  - url: https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-0
+    codec: MP3
+  - url: https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-01
+    codec: MP3

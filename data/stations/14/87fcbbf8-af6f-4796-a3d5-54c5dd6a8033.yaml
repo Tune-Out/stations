@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-87fcbbf8-af6f-4796-a3d5-54c5dd6a8033
-streams:
-  - url: 'http://c13.radioboss.fm:18053/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://c13.radioboss.fm:18053/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +34,13 @@ research:
   format: Gospel music, Christian teaching, talk, worship
   notes: Kampala-based Christian radio station in Uganda providing gospel music, biblical teaching, and inspirational content. Non-profit ministry serving Christian communities across East Africa. Available in English and Luganda.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-87fcbbf8-af6f-4796-a3d5-54c5dd6a8033
+streams:
+  - url: http://c13.radioboss.fm:18053/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://c13.radioboss.fm:18053/stream
+    codec: MP3
+    bitrate: 128

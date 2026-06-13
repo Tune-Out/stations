@@ -27,22 +27,6 @@ lastchangetime: 2026-01-15 01:42:05
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d00d02b5-16cc-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://streaming5.elitecomunicacion.es:8082/live32.aac'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://streaming5.elitecomunicacion.es:8030/live.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://streaming5.elitecomunicacion.es:8082/live.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streaming2.elitecomunicacion.es:8082/live.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -52,3 +36,22 @@ research:
   format: CHR / Top 40 with a heavy focus on Latin urban music — reggaeton, pop latino, trap, dance and dembow hits.
   notes: Chocolate FM is an independent Spanish music station broadcasting from Málaga in Andalusia and streaming worldwide via multiple bitrates (HD, normal and mobile/low-bandwidth, as in this 32 kbps AAC+ feed). Its programming tagline "¡Y dime que te gusta!" ("And tell me what you like!") emphasises listener interactivity, and the station is recognisable for its tightly looped reggaeton, Latin trap and contemporary pop hits aimed at a younger demographic. Streaming infrastructure is provided by Elite Comunicación.
   sources: https://www.chocolatefm.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-d00d02b5-16cc-11e9-a80b-52543be04c81
+  - iprd-es-chocolate-fm-eeaf8339
+  - iprd-es-chocolate-fm-4e9ec956
+  - iprd-es-chocolate-fm-29dccc1f
+streams:
+  - url: http://streaming5.elitecomunicacion.es:8082/live32.aac
+    codec: AAC+
+    bitrate: 32
+  - url: http://streaming5.elitecomunicacion.es:8030/live.mp3
+    codec: MP3
+    bitrate: 320
+  - url: http://streaming5.elitecomunicacion.es:8082/live.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://streaming2.elitecomunicacion.es:8082/live.mp3
+    codec: MP3
+    bitrate: 192

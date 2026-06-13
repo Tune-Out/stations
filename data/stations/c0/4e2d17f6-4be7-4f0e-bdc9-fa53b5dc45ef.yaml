@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:05:28
 clickcount: 1
 geo_lat: 44.994454731044975
 geo_long: -93.30112338066102
-curation: 0.55
-provenance:
-  - radiobrowser-4e2d17f6-4be7-4f0e-bdc9-fa53b5dc45ef
-streams:
-  - url: 'https://kbem-live.streamguys1.com/kbem_aac'
-    codec: AAC
-    bitrate: 95
-  - url: 'http://kbem-live.streamguys1.com/kbem_aac'
-    codec: AAC
-    bitrate: 95
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Jazz music with focus on various jazz subgenres; traffic reporting
   notes: 88.1 FM KBEM is a community station dedicated to jazz broadcasting in Minneapolis. Non-commercial, listener-supported public station.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-4e2d17f6-4be7-4f0e-bdc9-fa53b5dc45ef
+streams:
+  - url: https://kbem-live.streamguys1.com/kbem_aac
+    codec: AAC
+    bitrate: 95
+  - url: http://kbem-live.streamguys1.com/kbem_aac
+    codec: AAC
+    bitrate: 95

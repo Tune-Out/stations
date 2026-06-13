@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 00:25:41
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e6679bff-c3bc-4069-8175-71aac8ffeed8
-streams:
-  - url: 'http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8'
-    codec: AAC
-    bitrate: 129
-    hls: true
-  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8'
-    codec: AAC
-    bitrate: 129
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +32,16 @@ research:
   format: News, current affairs, music, agricultural programming, regional content
   notes: "AIR Kozhikode is part of state broadcaster Prasar Bharati's nationwide network. Autonomous statutory body established by Parliament. Mission: \"Provide a fair and balanced flow of information on matters of public interest, free from opinion or bias.\""
   sources: https://prasarbharati.gov.in/ (fetched content)
+curation: 0.35
+provenance:
+  - radiobrowser-e6679bff-c3bc-4069-8175-71aac8ffeed8
+  - iprd-in-air-kozhikode-real-103-6-bf9044e9
+streams:
+  - url: http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8
+    codec: AAC
+    bitrate: 129
+    hls: true
+  - url: https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8
+    codec: AAC
+    bitrate: 129
+    hls: true

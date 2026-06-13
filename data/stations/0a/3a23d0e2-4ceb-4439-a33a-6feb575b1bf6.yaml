@@ -21,22 +21,6 @@ lastchangetime: 2026-01-14 23:44:14
 clickcount: 6
 geo_lat: 45.82114340079471
 geo_long: 15.977947690679043
-curation: 0.35
-provenance:
-  - radiobrowser-3a23d0e2-4ceb-4439-a33a-6feb575b1bf6
-streams:
-  - url: 'https://stream.otvoreni.hr/otvoreni'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://stream2.otvoreni.hr/otvoreni'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://stream.otvoreni.hr/otvoreni'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://stream.otvoreni.hr/stream48'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -46,3 +30,24 @@ research:
   format: Mixed programming, community-oriented content; cultural and social programming
   notes: Name means "Open" in Croatian; appears to be independent community radio with focus on local Croatian culture; low bitrate and grassroots operation suggests non-commercial structure.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3a23d0e2-4ceb-4439-a33a-6feb575b1bf6
+  - iprd-hr-otvoreni-live-6e150c8c
+  - iprd-hr-otvoreni-live-ab846059
+  - iprd-hr-otvoreni-radio-a539225e
+  - iprd-hr-otvoreni-radio-u-ivo-a088ef48
+  - iprd-hr-otvoreni-103-3-2c91750c
+streams:
+  - url: https://stream.otvoreni.hr/otvoreni
+    codec: AAC
+    bitrate: 48
+  - url: https://stream2.otvoreni.hr/otvoreni
+    codec: AAC
+    bitrate: 48
+  - url: http://stream.otvoreni.hr/otvoreni
+    codec: AAC
+    bitrate: 48
+  - url: https://stream.otvoreni.hr/stream48
+    codec: AAC
+    bitrate: 48

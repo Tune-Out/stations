@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-531287e0-50bd-42b3-b2a7-a384e1cf4a16
-streams:
-  - url: 'https://radio.lancom.gr:9012/stream5?1700927157379'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.lancom.gr:9012/stream5'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: top 40 hits, pop, contemporary music
   notes: City 106.1 is a commercial radio station broadcasting in Greece. Focuses on contemporary pop and top 40 hits. Part of Greece's commercial radio sector.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-531287e0-50bd-42b3-b2a7-a384e1cf4a16
+streams:
+  - url: https://radio.lancom.gr:9012/stream5?1700927157379
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.lancom.gr:9012/stream5
+    codec: MP3
+    bitrate: 128

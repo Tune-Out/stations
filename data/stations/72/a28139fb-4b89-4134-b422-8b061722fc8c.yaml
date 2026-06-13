@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 1
 geo_lat: 48.137
 geo_long: 11.576
-curation: 0.65
-provenance:
-  - radiobrowser-a28139fb-4b89-4134-b422-8b061722fc8c
-streams:
-  - url: 'https://motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik'
-    codec: OGG
-  - url: 'http://stream.motherearthradio.de/listen/motherearth_klassik/motherearth.klassik.aac'
-    url_resolved: 'https://stream.motherearthradio.de/listen/motherearth_klassik/motherearth.klassik.aac'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +31,16 @@ research:
   format: Classical and instrumental music in hi-res (192 kHz/24-bit FLAC via native apps; 96 kHz web).
   notes: 'Founded 2020. Curated by former BR (Bavarian Broadcasting) engineer with 30 years experience. Ethos: "Kuratiert statt algorithmisch. Hi-Res statt komprimiert. Vinyl statt Digital" (Curated not algorithmic. Hi-Res not compressed. Vinyl not digital). Four channels: Main, Jazz, Classical, Instrumental. No MP3, charts, algorithms, or AI. Free web listening; paid native apps (€16.99–€24.99); optional donations; ad-free.'
   sources: https://motherearthradio.de/
+curation: 0.65
+provenance:
+  - radiobrowser-a28139fb-4b89-4134-b422-8b061722fc8c
+streams:
+  - url: https://motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik
+    codec: OGG
+  - url: http://stream.motherearthradio.de/listen/motherearth_klassik/motherearth.klassik.aac
+    url_resolved: https://stream.motherearthradio.de/listen/motherearth_klassik/motherearth.klassik.aac
+    codec: AAC
+    bitrate: 320
+  - url: https://motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik.mp3
+    codec: MP3
+    bitrate: 320

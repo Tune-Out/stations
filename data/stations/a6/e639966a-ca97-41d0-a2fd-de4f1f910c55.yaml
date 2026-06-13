@@ -1,7 +1,7 @@
 stationuuid: e639966a-ca97-41d0-a2fd-de4f1f910c55
 name: 538 Party (AAC Stream)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16AAC.aac
+url: 'https://22673.live.streamtheworld.com:443/TLPSTR16AAC.aac'
+url_resolved: 'https://22673.live.streamtheworld.com:443/TLPSTR16AAC.aac'
 homepage: https://www.radio.de/s/538party
 favicon: https://www.radio.de/assets/fav/apple-touch-icon.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e639966a-ca97-41d0-a2fd-de4f1f910c55
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Dance, party and electronic music programming
   notes: 538 is Dutch commercial radio station known for party and dance music; major music programming network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e639966a-ca97-41d0-a2fd-de4f1f910c55

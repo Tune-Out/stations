@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 00:35:25
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-b03ffb8a-28f0-4636-8525-be68f086fd4c
-streams:
-  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8'
-    codec: AAC
-    bitrate: 238
-    hls: true
-  - url: 'https://live-radio01.mediahubaustralia.com/4FMW/aac/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -43,3 +32,14 @@ research:
   format: Classical music, orchestral works, and related programming
   notes: ABC Classic (formerly ABC FM) is Australia's premier classical music station, part of the publicly-funded ABC network established 1932. Reaches all Australian states via terrestrial and digital broadcasting.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-b03ffb8a-28f0-4636-8525-be68f086fd4c
+streams:
+  - url: https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8
+    codec: AAC
+    bitrate: 238
+    hls: true
+  - url: https://live-radio01.mediahubaustralia.com/4FMW/aac/
+    codec: AAC+
+    bitrate: 56

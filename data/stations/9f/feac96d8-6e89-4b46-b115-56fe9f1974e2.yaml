@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-feac96d8-6e89-4b46-b115-56fe9f1974e2
-streams:
-  - url: 'http://stream.laut.fm/bluewolf-radio'
-    url_resolved: 'http://bluewolf-radio.stream.laut.fm/bluewolf-radio?t302=2026-01-15_03-57-14&uuid=92a7a0c3-f100-4fb2-b34a-eaf2537ac47c'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/bluewolf-radio'
-    url_resolved: 'https://bluewolf-radio.stream.laut.fm/bluewolf-radio?t302=2026-01-15_05-34-50&uuid=a21a7566-3bd5-4b51-8041-0f87da546120'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +28,15 @@ research:
   format: Music programming; internet streaming
   notes: Independent online radio station hosted on laut.fm (German indie radio platform). Streams music content to audiences via internet radio.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-feac96d8-6e89-4b46-b115-56fe9f1974e2
+streams:
+  - url: http://stream.laut.fm/bluewolf-radio
+    url_resolved: http://bluewolf-radio.stream.laut.fm/bluewolf-radio?t302=2026-01-15_03-57-14&uuid=92a7a0c3-f100-4fb2-b34a-eaf2537ac47c
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/bluewolf-radio
+    url_resolved: https://bluewolf-radio.stream.laut.fm/bluewolf-radio?t302=2026-01-15_05-34-50&uuid=a21a7566-3bd5-4b51-8041-0f87da546120
+    codec: MP3
+    bitrate: 128

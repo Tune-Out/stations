@@ -22,31 +22,6 @@ lastchangetime: 2026-01-14 23:17:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9647e74f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://listen.radiogora.ru:8000/rednoise128'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://listen.radiogora.ru:8000/oldies128'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://listen.radiogora.ru:8000/hitmix128'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://listen.radiogora.ru:8000/groovecafe320'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://listen.radiogora.ru:8000/etc128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://listen.radiogora.ru:8000/electro128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://listen.radiogora.ru:8000/atd128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -56,3 +31,35 @@ research:
   format: Electronic music at high bitrate (320 kbps MP3).
   notes: RadioGora is a Russian internet radio platform offering RedNoise channel (electronic music stream). Limited public information available on ownership and organizational structure beyond the radiogora.ru streaming service.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9647e74f-0601-11e8-ae97-52543be04c81
+  - iprd-ru-radiogora-atd-2026681b
+  - iprd-ru-radiogora-electro-baaec4ec
+  - iprd-ru-radiogora-et-cetera-f9b15092
+  - iprd-ru-radiogora-groove-cafe-c81dc33d
+  - iprd-ru-radiogora-hitmix-026f50a1
+  - iprd-ru-radiogora-oldies-ae627c26
+  - iprd-ru-radiogora-rednoise-d78b3f3e
+streams:
+  - url: http://listen.radiogora.ru:8000/rednoise128
+    codec: MP3
+    bitrate: 320
+  - url: http://listen.radiogora.ru:8000/oldies128
+    codec: MP3
+    bitrate: 320
+  - url: http://listen.radiogora.ru:8000/hitmix128
+    codec: MP3
+    bitrate: 320
+  - url: http://listen.radiogora.ru:8000/groovecafe320
+    codec: MP3
+    bitrate: 320
+  - url: http://listen.radiogora.ru:8000/etc128
+    codec: MP3
+    bitrate: 128
+  - url: http://listen.radiogora.ru:8000/electro128
+    codec: MP3
+    bitrate: 128
+  - url: http://listen.radiogora.ru:8000/atd128
+    codec: MP3
+    bitrate: 128

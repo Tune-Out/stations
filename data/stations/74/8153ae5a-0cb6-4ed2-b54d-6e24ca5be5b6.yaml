@@ -1,7 +1,7 @@
 stationuuid: 8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6
 name: LOVE 972
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac
+url: 'https://28303.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/565f20a2-98d0-4fd4-9a77-556fb37c38ad/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/38dfdce5-583e-4fdc-adf2-ade20025e6d0/audio/direct/t1637029113/Geoblock_replacement_audio_for_US_market.mp3?t=1637029113'
+url_resolved: 'https://28303.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/565f20a2-98d0-4fd4-9a77-556fb37c38ad/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/38dfdce5-583e-4fdc-adf2-ade20025e6d0/audio/direct/t1637029113/Geoblock_replacement_audio_for_US_market.mp3?t=1637029113'
 homepage: https://www.melisten.sg/radio/love-972
 favicon: https://www16.mediacorp.sg/melisten/radiostation-logos/love-972.png
 tags: []
@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 16
 geo_lat: 1.295374248016841
 geo_long: 103.79224330186848
-curation: 0.35
-provenance:
-  - radiobrowser-8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6
-streams:
-  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://28333.live.streamtheworld.com/LOVE972FM_PREM.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +30,13 @@ research:
   format: Mandarin adult contemporary music, lifestyle talk, soft hits, and personality-driven daytime shows
   notes: LOVE 972 broadcasts on 97.2 FM in Singapore as Mediacorp's Mandarin adult-contemporary station, launched in 1994 as a Mandarin oldies/lite-music network and rebranded over time; tagline "Love at 97.2"; programming features popular Mandarin DJs and lifestyle content tailored to Chinese Singaporean adults; available on the meLISTEN platform (Mediacorp's streaming portal); Mediacorp itself traces back to Radio Singapore (1936) and Singapore Broadcasting Corporation, and was corporatized in 1994 and is the dominant broadcaster in Singapore alongside the SPH Media radio assets it absorbed in 2024.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6
+streams:
+  - url: 'https://28303.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/565f20a2-98d0-4fd4-9a77-556fb37c38ad/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/38dfdce5-583e-4fdc-adf2-ade20025e6d0/audio/direct/t1637029113/Geoblock_replacement_audio_for_US_market.mp3?t=1637029113'
+    codec: AAC+
+    bitrate: 64
+  - url: https://28333.live.streamtheworld.com/LOVE972FM_PREM.aac
+    codec: AAC+
+    bitrate: 64

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:14:22
 clickcount: 6
 geo_lat: 59.33253275786533
 geo_long: 18.061523437500004
-curation: -0.05
-provenance:
-  - radiobrowser-22567e75-4c10-4dde-9c51-5940b128f6cb
-streams:
-  - url: 'https://fm02-ice.stream.khz.se/fm02_mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://fm02-ice.stream.khz.se/fm02_mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Rock music, primarily classic rock, modern rock, and hard rock programming
   notes: Bandit ÍRock is part of the I Like Radio network in Sweden, a commercial radio operation. The station focuses on rock music across all eras. Part of Sweden's commercial radio landscape serving Swedish-speaking audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-22567e75-4c10-4dde-9c51-5940b128f6cb
+streams:
+  - url: https://fm02-ice.stream.khz.se/fm02_mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://fm02-ice.stream.khz.se/fm02_mp3
+    codec: MP3
+    bitrate: 128

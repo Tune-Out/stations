@@ -25,16 +25,6 @@ lastchangetime: 2026-01-14 23:37:16
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.30
-provenance:
-  - radiobrowser-dd43a0ed-cf2d-46be-b713-7ddd95859424
-streams:
-  - url: 'https://0n-newwave.radionetz.de/0n-newwave.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-newwave.radionetz.de/0n-newwave.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: new wave, alternative, 80s music, synthpop, post-punk revival; specialized genre channel
   notes: '"0 N" (Zero N / ON) brand positioning new wave; based in Bayern (Bavaria); part of Radionetz streaming network; German focus on 80s new wave scene and electronic/synth music of that era; tagline "Your choice, your music"; online-only streaming service'
   sources: http://www.0nradio.com/
+curation: 0.3
+provenance:
+  - radiobrowser-dd43a0ed-cf2d-46be-b713-7ddd95859424
+streams:
+  - url: https://0n-newwave.radionetz.de/0n-newwave.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-newwave.radionetz.de/0n-newwave.mp3
+    codec: MP3
+    bitrate: 128

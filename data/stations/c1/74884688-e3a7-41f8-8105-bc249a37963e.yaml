@@ -30,16 +30,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-74884688-e3a7-41f8-8105-bc249a37963e
-streams:
-  - url: 'http://s1.yumicoradio.net:8000/stream_aac64'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://yumicoradio.net/stream'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -49,3 +39,13 @@ research:
   audience: Global niche audience of vaporwave / anime-aesthetic / Japanese-music fans; multilingual (English, French, Japanese)
   notes: Yumi Co. Radio is a small French-based internet radio dedicated to Japanese-tinged retro and modern dance music — Showa-era 80s city pop, future funk, nu-disco, vaporwave and chillwave/anime-groove. It is a community/hobby project rather than a commercial broadcaster, distributed only via its own website stream and social channels (Discord, Twitter); listener support tends to be via donations/merchandise rather than advertising. No corporate parent, religious or political affiliation. Sits alongside similar scene stations (Nightwave Plaza, Plaza One) catering to the post-Macintosh Plus vaporwave community.
   sources: internal knowledge of the vaporwave / city-pop online radio scene (homepage returned HTTP 403)
+curation: 0.35
+provenance:
+  - radiobrowser-74884688-e3a7-41f8-8105-bc249a37963e
+streams:
+  - url: http://s1.yumicoradio.net:8000/stream_aac64
+    codec: AAC
+    bitrate: 64
+  - url: https://yumicoradio.net/stream
+    codec: MP3
+    bitrate: 256

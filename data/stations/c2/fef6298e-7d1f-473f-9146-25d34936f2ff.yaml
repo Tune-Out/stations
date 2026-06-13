@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 04:29:57
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fef6298e-7d1f-473f-9146-25d34936f2ff
-streams:
-  - url: 'http://163.10.186.70:8002/stream'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +30,14 @@ research:
   format: cultural, educational, community programming, university content
   notes: University radio station operated by UNLP, a prominent Argentine national university in La Plata. Serves both campus and local community with educational and cultural programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-fef6298e-7d1f-473f-9146-25d34936f2ff
+  - iprd-ar-radio-universidad-89-1-434dc0c3
+  - iprd-mx-620-xenk-24bea504
+streams:
+  - url: http://163.10.186.70:8002/stream
+    codec: AAC
+    bitrate: 128
+  - url: https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3
+    codec: MP3

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:52:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-05d5a867-deea-4957-a810-7eefcaf508cd
-streams:
-  - url: 'https://stream.laut.fm/forever80'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/forever80-pop'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: 1980s music and dance tracks
   notes: Italian community radio station specializing in 1980s pop, disco, and dance music with focus on nostalgic '80s era content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-05d5a867-deea-4957-a810-7eefcaf508cd
+streams:
+  - url: https://stream.laut.fm/forever80
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/forever80-pop
+    codec: MP3
+    bitrate: 128

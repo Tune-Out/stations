@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:11:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0ca0ddc0-68c4-404a-854e-a8822402063d
-streams:
-  - url: 'http://radio12.shoutcast.net.au:2020/stream/8008'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio12.shoutcast.net.au:2020/stream/8008'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Community radio, mixed programming
   notes: 89.1 FM community radio station serving Cairns, Queensland. Community-run with mixed music and local interest programming.
   sources: https://www.cairnsfm891.org.au/
+curation: 0.35
+provenance:
+  - radiobrowser-0ca0ddc0-68c4-404a-854e-a8822402063d
+streams:
+  - url: http://radio12.shoutcast.net.au:2020/stream/8008
+    codec: MP3
+    bitrate: 128
+  - url: https://radio12.shoutcast.net.au:2020/stream/8008
+    codec: MP3
+    bitrate: 128

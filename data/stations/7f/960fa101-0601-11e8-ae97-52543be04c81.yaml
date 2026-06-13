@@ -1,6 +1,6 @@
 stationuuid: 960fa101-0601-11e8-ae97-52543be04c81
 name: WDZQ 95.1 "Q 95" Decatur, IL
-url: http://provisioning.streamtheworld.com/pls/WDZQFMAAC.pls
+url: 'http://26153.live.streamtheworld.com:80/WDZQFMAAC_SC'
 url_resolved: http://14843.live.streamtheworld.com/WDZQFMAAC_SC
 homepage: http://www.nowdecatur.com/95q/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2357/squareIcon.png?r=80320
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:38:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960fa101-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music exclusively. Regional and national country hits.
   notes: WDZQ 95.1 FM "Q 95" is a commercial country music station licensed to Decatur, Illinois. Part of regional broadcasting operations. Serves central Illinois with country music, local news, and entertainment programming for the Decatur market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960fa101-0601-11e8-ae97-52543be04c81

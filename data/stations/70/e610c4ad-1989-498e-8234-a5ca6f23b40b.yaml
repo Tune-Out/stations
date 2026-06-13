@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:38:47
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-e610c4ad-1989-498e-8234-a5ca6f23b40b
-streams:
-  - url: 'https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: pop, rock and indie music with comedy, satire and personality-driven daytime shows
   notes: Rai Radio 2 is one of three historic RAI radio channels, tracing its lineage to the Secondo Programma launched in 1951, and today positions itself as RAI's pop / entertainment / humour-oriented network, home to long-running shows such as Caterpillar, 610 (Sei Uno Zero) and Il Ruggito del Coniglio; it broadcasts nationally on FM, DAB+ and via the RaiPlay Sound digital platform.
   sources: https://www.raiplaysound.it/radio2, internal knowledge
+curation: 0.65
+provenance:
+  - radiobrowser-e610c4ad-1989-498e-8234-a5ca6f23b40b
+streams:
+  - url: https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
+    codec: MP3
+    bitrate: 256
+  - url: http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
+    codec: MP3
+    bitrate: 256

@@ -1,7 +1,7 @@
 stationuuid: 0e953020-69f5-4152-99df-5781e4c15871
 name: 91.1 Hot FM - Maroochydore - 91.1 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91AAC.aac
+url: 'http://17853.live.streamtheworld.com:80/MAR_HOT91AAC.aac'
+url_resolved: 'http://17853.live.streamtheworld.com:80/MAR_HOT91AAC.aac'
 homepage: https://www.911hotfm.com.au/
 favicon: https://i.ibb.co/PT2y24d/660cd9d8f92263caeef96248.webp
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 06:02:42
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0e953020-69f5-4152-99df-5781e4c15871
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Contemporary hit radio
   notes: Australian commercial FM at 91.1 MHz in Maroochydore with CHR format.
   sources: https://www.911hotfm.com.au/
+curation: -0.05
+provenance:
+  - radiobrowser-0e953020-69f5-4152-99df-5781e4c15871

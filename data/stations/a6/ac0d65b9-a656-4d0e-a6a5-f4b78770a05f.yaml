@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-ac0d65b9-a656-4d0e-a6a5-f4b78770a05f
-streams:
-  - url: 'http://stream-36.zeno.fm/rf64mx02qa0uv?zs=omRb6KEjQ3u0-JsaJKdhQg'
-    codec: MP3
-  - url: 'https://stream-34.zeno.fm/rf64mx02qa0uv?zs=-xjlLLwRS8uKrffFxK4vLA'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -37,3 +29,11 @@ research:
   format: Continuous music dedicated to Amr Diab — Egyptian and pan-Arab pop ("Mediterranean music" / Arabic pop)
   notes: Diab FM is an internet-only station devoted to the catalog of Amr Diab, widely regarded as the most successful Arab pop artist of the modern era and pioneer of the "Mediterranean music" sound that blended Egyptian / Arab melodies with Western pop, dance and Latin/flamenco influences; the stream is delivered via Zeno.FM (a popular self-serve internet radio platform) and aggregated by Liveradiu, suggesting a small independent operator rather than an official broadcaster; format is 24/7 Amr Diab tracks with no on-air talent.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-ac0d65b9-a656-4d0e-a6a5-f4b78770a05f
+streams:
+  - url: http://stream-36.zeno.fm/rf64mx02qa0uv?zs=omRb6KEjQ3u0-JsaJKdhQg
+    codec: MP3
+  - url: https://stream-34.zeno.fm/rf64mx02qa0uv?zs=-xjlLLwRS8uKrffFxK4vLA
+    codec: MP3

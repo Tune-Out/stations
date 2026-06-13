@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 00:35:26
 clickcount: 16
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-996ea893-621d-11e9-a622-52543be04c81
-streams:
-  - url: 'http://nashe.streamr.ru/nashe-128.mp3'
-    codec: MP3
-  - url: 'https://nashe1.hostingradio.ru:80/nashe-128.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Russian rock and alternative music with artist interviews, live performances, and listener call-ins
   notes: Launched 14 December 1998 by journalist Mikhail Kozyrev as the first Russian-language rock station; flagship of Multimedia Holding (also owns ROCK FM, Jazz FM, Radio ULTRA); organises the long-running "Нашествие" (Invasion) open-air rock festival and the annual "Чартова дюжина" awards; registered as electronic periodical Cert. ФС77-45878 (2011), chief editor Y.A. Solovyeva.
   sources: https://www.nashe.ru/, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-996ea893-621d-11e9-a622-52543be04c81
+  - iprd-ru-nashe-radio-789acf9f
+streams:
+  - url: http://nashe.streamr.ru/nashe-128.mp3
+    codec: MP3
+  - url: https://nashe1.hostingradio.ru:80/nashe-128.mp3
+    codec: MP3

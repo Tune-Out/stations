@@ -1,6 +1,6 @@
 stationuuid: 964321c8-0601-11e8-ae97-52543be04c81
 name: XHPI-FM "Amor 93.1" Guadalajara, JA
-url: http://provisioning.streamtheworld.com/pls/XHPIFMAAC.pls
+url: 'http://18853.live.streamtheworld.com:80/XHPIFMAAC_SC'
 url_resolved: http://15313.live.streamtheworld.com:3690/XHPIFMAAC_SC
 homepage: https://amorfm.mx/amor-nacional/amor-guadalajara/programacion-amor-guadalajara/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:12:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964321c8-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Romantic music (música romántica), love songs, adult contemporary
   notes: XHPI-FM broadcasts as Amor 93.1 FM in Guadalajara, Jalisco Mexico; commercial station specializing in romantic ballads and love songs for adult listeners
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964321c8-0601-11e8-ae97-52543be04c81

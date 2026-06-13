@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:30:45
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-167a2e31-0021-4b13-a6af-b175130be1af
-streams:
-  - url: 'http://stream.laut.fm/coolradio'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://laut.fm/coolradio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Classic rock, rock legends, classic hits from 1960s-1980s+; curator-driven playlist
   notes: German rock radio station hosted on laut.fm community radio platform; specializes in classic rock and heritage rock programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-167a2e31-0021-4b13-a6af-b175130be1af
+  - iprd-de-coolradio-classic-rock-e9f809a6
+  - iprd-de-coolradio-classic-rock-815e1322
+streams:
+  - url: http://stream.laut.fm/coolradio
+    codec: MP3
+    bitrate: 128
+  - url: https://laut.fm/coolradio
+    codec: MP3
+    bitrate: 128

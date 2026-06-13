@@ -28,16 +28,6 @@ lastchangetime: 2026-01-15 08:47:21
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-32fed468-cfe3-11e9-a861-52543be04c81
-streams:
-  - url: 'https://premium.shoutcastsolutions.com/radio/8050/256.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://azuracast.ssl-stream.com/radio/8050/256.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -47,3 +37,14 @@ research:
   format: deep-cut 1980s music — "New Wave, Synthpop, Indie, Power Pop and Alt. Rock" from 1978–1991, deliberately avoiding mainstream hits
   notes: 80s Forever describes itself with the tagline "We Keep The 80s Alive!" and explicitly states "we mostly steer clear of the widely recognized hits of the 80s," focusing instead on "forgotten and unknown musical gems"; "Made with ♥ in Switzerland"; the station is operator-funded with optional listener donations and merchandise downloads; offers song-history tracking and a listener request/playlist system; broadcasts globally as a 256 kbps MP3 stream via Shoutcast.
   sources: https://www.80sforever.radio/, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-32fed468-cfe3-11e9-a861-52543be04c81
+  - iprd-ch-80s-forever-we-keep-the-80s-alive-4dbde7e1
+streams:
+  - url: https://premium.shoutcastsolutions.com/radio/8050/256.mp3
+    codec: MP3
+    bitrate: 256
+  - url: http://azuracast.ssl-stream.com/radio/8050/256.mp3
+    codec: MP3
+    bitrate: 256

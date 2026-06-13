@@ -1,6 +1,6 @@
 stationuuid: 964b45d8-0601-11e8-ae97-52543be04c81
 name: WHOT 101.1 "Hot 101" Youngstown, OH
-url: http://provisioning.streamtheworld.com/pls/WHOTFMAAC.pls
+url: 'http://17573.live.streamtheworld.com:80/WHOTFMAAC_SC'
 url_resolved: http://27273.live.streamtheworld.com:3690/WHOTFMAAC_SC
 homepage: http://www.hot101.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3220/squareIcon.png?r=86089
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964b45d8-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary hits radio (Top 40).
   notes: Licensed 101.1 FM Youngstown, Ohio market. Commercial Top 40/contemporary hits station. Format focuses on contemporary music and chart hits. Part of Cumulus Media commercial network. Serves Ohio metropolitan area with music and entertainment.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964b45d8-0601-11e8-ae97-52543be04c81

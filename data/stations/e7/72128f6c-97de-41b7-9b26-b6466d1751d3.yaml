@@ -1,7 +1,7 @@
 stationuuid: 72128f6c-97de-41b7-9b26-b6466d1751d3
 name: KCIE 90.5 fm
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC
+url: 'https://18443.live.streamtheworld.com:443/KANWFM_SC'
+url_resolved: 'https://18443.live.streamtheworld.com:443/KANWFM_SC'
 homepage: https://www.kcieradio.com/
 favicon: https://radiostationusa.fm/assets/image/radio/180/KCIE-FM.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:04:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-72128f6c-97de-41b7-9b26-b6466d1751d3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -34,3 +31,7 @@ research:
   format: Public radio programming
   notes: Public radio station on 90.5 FM serving Dulce, New Mexico; part of U.S. public broadcasting system
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-72128f6c-97de-41b7-9b26-b6466d1751d3
+  - iprd-us-kcie-90-5-fm-fb8a2a26

@@ -1,7 +1,7 @@
 stationuuid: ee4ec1b6-fdb1-4ef7-97ea-a2f9fd120793
 name: Coles Radio (Victoria) (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_VIC.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_VIC.mp3
+url: 'http://23093.live.streamtheworld.com:80/COLES_CONSUMER_VIC.mp3'
+url_resolved: 'http://23093.live.streamtheworld.com:80/COLES_CONSUMER_VIC.mp3'
 homepage: https://www.coles.com.au/help/coles-radio
 favicon: https://i.ibb.co/4RfQ4HX9/images.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-29 09:22:56
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ee4ec1b6-fdb1-4ef7-97ea-a2f9fd120793
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary music mix and pop music programming
   notes: Coles Radio is a branded music streaming service operated by Australia's major supermarket chain Coles. Provides contemporary music mix and pop music to customers and website visitors.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ee4ec1b6-fdb1-4ef7-97ea-a2f9fd120793

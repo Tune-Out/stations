@@ -24,19 +24,6 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 22
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-6a7508a9-27ab-11e8-91bf-52543be04c81
-streams:
-  - url: 'https://kexp.streamguys1.com/kexp160.aac'
-    codec: AAC
-    bitrate: 162
-  - url: 'http://live-aacplus-64.kexp.org/kexp64.aac'
-    codec: AAC+
-    bitrate: 65
-  - url: 'http://live-mp3-128.kexp.org/kexp128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +33,18 @@ research:
   format: Alternative rock, indie, live sessions, music programming; listener-supported
   notes: Independent public radio station founded 1972; known for live in-studio sessions and emerging artist support; listener-supported
   sources: internal knowledge only
+curation: 0.75
+provenance:
+  - radiobrowser-6a7508a9-27ab-11e8-91bf-52543be04c81
+  - iprd-us-kexp-90-3-c00664af
+  - iprd-us-kexp-90-3-660e6e21
+streams:
+  - url: https://kexp.streamguys1.com/kexp160.aac
+    codec: AAC
+    bitrate: 162
+  - url: http://live-aacplus-64.kexp.org/kexp64.aac
+    codec: AAC+
+    bitrate: 65
+  - url: http://live-mp3-128.kexp.org/kexp128.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:48:00
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-bab49f31-13b2-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.omroep.nl/3fm-bb-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://icecast.omroep.nl/3fm-sb-aac'
-    codec: AAC
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: Contemporary hit / alternative pop-rock youth network — current chart, indie, dance, "3FM Talent" emerging-artist showcase; slogan "We Want More"
   notes: NPO 3FM launched in 1985 as "Radio 3" (its lineage goes back to Hilversum 3, 1965), rebranded 3FM in 1995 and prefixed "NPO" in 2014; broadcasts on FM, DAB+ and online; signature events include the annual "3FM Serious Request — The Lifeline" charity marathon for the Red Cross (3FM DJs go on a fast in a glass studio), Radioloog, and the "3FM Awards"; like other NPO channels it has faced years of audience erosion to commercial youth-oriented stations and successive format relaunches; editorial independence from government is legally protected but funding is set by parliament.
   sources: https://www.npo3fm.nl/, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-bab49f31-13b2-11e8-ae97-52543be04c81
+  - iprd-nl-npo-3fm-b4ac8706
+  - iprd-nl-npo-3fm-1f8a9096
+streams:
+  - url: http://icecast.omroep.nl/3fm-bb-aac
+    codec: AAC
+    bitrate: 64
+  - url: http://icecast.omroep.nl/3fm-sb-aac
+    codec: AAC
+    bitrate: 32

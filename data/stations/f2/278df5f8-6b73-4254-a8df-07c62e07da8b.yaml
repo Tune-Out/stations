@@ -1,6 +1,6 @@
 stationuuid: 278df5f8-6b73-4254-a8df-07c62e07da8b
 name: CBC Music Eastern (Toronto) MP3 Stream
-url: https://playerservices.streamtheworld.com/pls/CBLFM_CBC.pls
+url: 'https://26373.live.streamtheworld.com:443/CBLFM_CBC_SC'
 url_resolved: https://18303.live.streamtheworld.com/CBLFM_CBC_SC
 homepage: https://www.cbc.ca/music
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png
@@ -25,18 +25,6 @@ lastchangetime: 2026-01-15 00:34:47
 clickcount: 5
 geo_lat: 43.644785145738815
 geo_long: -79.38799023628236
-curation: 0.55
-provenance:
-  - radiobrowser-278df5f8-6b73-4254-a8df-07c62e07da8b
-streams:
-  - url: 'https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8'
-    codec: AAC
-    bitrate: 48
-    hls: true
-  - url: 'https://playerservices.streamtheworld.com/pls/CBLFM_CBC.pls'
-    url_resolved: 'https://18303.live.streamtheworld.com/CBLFM_CBC_SC'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +34,15 @@ research:
   format: Eclectic music programming — blues, classical, folk, jazz, and diverse genres; music discovery emphasis
   notes: Part of CBC Music (Canadian Broadcasting Corporation Music division); Toronto/Eastern region stream; multi-platform (radio, mobile, web); publicly-funded Canadian broadcaster; music education and discovery focus; streaming multiple genre-specific channels
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-278df5f8-6b73-4254-a8df-07c62e07da8b
+streams:
+  - url: https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8
+    codec: AAC
+    bitrate: 48
+    hls: true
+  - url: 'https://26373.live.streamtheworld.com:443/CBLFM_CBC_SC'
+    url_resolved: https://18303.live.streamtheworld.com/CBLFM_CBC_SC
+    codec: MP3
+    bitrate: 128

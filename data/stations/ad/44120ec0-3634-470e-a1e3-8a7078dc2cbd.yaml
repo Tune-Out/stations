@@ -1,7 +1,7 @@
 stationuuid: 44120ec0-3634-470e-a1e3-8a7078dc2cbd
 name: 104.7 KCLD
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KCLDAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KCLDAAC.aac
+url: 'https://26113.live.streamtheworld.com:443/KCLDAAC.aac'
+url_resolved: 'https://26113.live.streamtheworld.com:443/KCLDAAC.aac'
 homepage: https://1047kcld.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2057/squareIcon.png?r=59163
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:37:59
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-44120ec0-3634-470e-a1e3-8a7078dc2cbd
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Top 40 / Pop music; contemporary hits radio format
   notes: KCLD 104.7 FM is a commercial Top 40 / Contemporary Hits Radio (CHR) station serving St. Cloud, Minnesota. Standard commercial US radio format targeting younger pop music audience. Streams via StreamTheWorld platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-44120ec0-3634-470e-a1e3-8a7078dc2cbd

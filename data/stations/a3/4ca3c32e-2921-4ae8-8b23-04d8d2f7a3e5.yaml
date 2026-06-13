@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 06:17:50
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4ca3c32e-2921-4ae8-8b23-04d8d2f7a3e5
-duplicate_of: 961c96ef-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://nashe1.hostingradio.ru:80/rock-128.mp3'
-    codec: MP3
-  - url: 'https://nashe1.hostingradio.ru:80/rock-128.mp3?wcid=10ed2ab6-e2e8-4384-aca0-34a1a6cbbc6e&stationId=rock-main'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Rock music, contemporary hits
   notes: Commercial rock music radio station operating across Russia with online streaming. Focuses on rock genre and contemporary music.
   sources: https://www.rockfm.ru/
+curation: -0.05
+provenance:
+  - radiobrowser-4ca3c32e-2921-4ae8-8b23-04d8d2f7a3e5
+duplicate_of: 961c96ef-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://nashe1.hostingradio.ru:80/rock-128.mp3
+    codec: MP3
+  - url: https://nashe1.hostingradio.ru:80/rock-128.mp3?wcid=10ed2ab6-e2e8-4384-aca0-34a1a6cbbc6e&stationId=rock-main
+    codec: MP3

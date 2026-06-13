@@ -1,7 +1,7 @@
 stationuuid: c0948424-6967-4706-997e-24132230fb09
 name: EXA FM 89.9 (Puerto Vallarta) - 89.9 FM - XHCCBB-FM - Álica Medios - Puerto Vallarta, Jalisco
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBB.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBB.mp3
+url: 'https://14013.live.streamtheworld.com:443/XHCCBB.mp3'
+url_resolved: 'https://14013.live.streamtheworld.com:443/XHCCBB.mp3'
 homepage: https://exafm.com/plaza/puerto-vallarta/
 favicon: https://cdn-profiles.tunein.com/s323832/images/logod.jpg
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-14 23:16:26
 clickcount: 3
 geo_lat: 20.641903413542163
 geo_long: -105.22061347961429
-curation: -0.05
-provenance:
-  - radiobrowser-c0948424-6967-4706-997e-24132230fb09
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Pop music, top 40, contemporary hits in Spanish and English
   notes: EXA FM is a commercial pop and top 40 station broadcasting on 89.9 FM from Puerto Vallarta, Jalisco. Part of the MVS Radio network. Known as "La Estación Naranja" (The Orange Station). Broadcasts in Bahía de Banderas region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c0948424-6967-4706-997e-24132230fb09

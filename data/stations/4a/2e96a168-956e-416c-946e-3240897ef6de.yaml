@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:57:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2e96a168-956e-416c-946e-3240897ef6de
-streams:
-  - url: 'https://radio02.ferozo.com/proxy/ra02000290?mp=/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://edge04.radiohdvivo.com/radiofonica'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Pop music, contemporary hits format
   notes: Radiofónica 100.7 is commercial pop music station serving Rosario, Argentina. Spanish-language format targeting pop music listeners. 128 kbps MP3 streaming. Commercial Argentine broadcaster providing pop and contemporary music format for adult audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2e96a168-956e-416c-946e-3240897ef6de
+streams:
+  - url: https://radio02.ferozo.com/proxy/ra02000290?mp=/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://edge04.radiohdvivo.com/radiofonica
+    codec: MP3
+    bitrate: 128

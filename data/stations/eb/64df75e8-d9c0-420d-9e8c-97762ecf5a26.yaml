@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 04:00:03
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-64df75e8-d9c0-420d-9e8c-97762ecf5a26
-streams:
-  - url: 'https://kathy.torontocast.com:2790/blrxiuzl/2/wmp.asx'
-    url_resolved: 'https://kathy.torontocast.com:1485/stream'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +34,15 @@ research:
   format: Heavy metal, hard rock, rock music; includes classical rock elements
   notes: metalrock.fm is a Canadian internet radio station featuring heavy metal, hard rock, and classical rock music. Serves a global audience of metal and rock enthusiasts.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-64df75e8-d9c0-420d-9e8c-97762ecf5a26
+  - iprd-ca-metalrock-fm-8024ad92
+streams:
+  - url: https://kathy.torontocast.com:2790/blrxiuzl/2/wmp.asx
+    url_resolved: https://kathy.torontocast.com:1485/stream
+    codec: AAC
+    bitrate: 64
+  - url: http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:06:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-960ab1c6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.wfmt.com/main-mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://wowza.wfmt.com/live/smil:wfmt.smil/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Classical music, fine arts programming. 98.7 FM FM radio station serving Chicago area with 128 kbps MP3 streaming.
   notes: Established classical music station in Chicago with heritage classical radio programming and fine arts support.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-960ab1c6-0601-11e8-ae97-52543be04c81
+  - iprd-us-wfmt-98-7-4b072c17
+  - iprd-us-wfmt-98-7-1dd698fe
+streams:
+  - url: http://stream.wfmt.com/main-mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://wowza.wfmt.com/live/smil:wfmt.smil/playlist.m3u8
+    codec: UNKNOWN
+    hls: true

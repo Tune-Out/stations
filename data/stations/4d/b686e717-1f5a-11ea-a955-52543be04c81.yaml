@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 07:15:00
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b686e717-1f5a-11ea-a955-52543be04c81
-duplicate_of: 960581f1-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://munichhh.stream.vip/live/mp3-320/'
-    codec: MP3
-  - url: 'http://munichhh.stream.vip/live/mp3-320'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Hard rock, AOR, melodic rock, classic rock hits
   notes: Online streaming radio station based in Munich; specializes in hard rock and AOR format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b686e717-1f5a-11ea-a955-52543be04c81
+duplicate_of: 960581f1-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://munichhh.stream.vip/live/mp3-320/
+    codec: MP3
+  - url: http://munichhh.stream.vip/live/mp3-320
+    codec: MP3

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:16:54
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-960986f3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/CTRW/mp3/;*.mp3'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/CTRW/aac/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Country music format with news, current affairs, local programming
   notes: ABC Country is a national thematic stream of the Australian Broadcasting Corporation, a publicly-funded national broadcaster. Part of ABC Radio's multi-channel offering. Specializes in country music and Australian rural content. Non-commercial, free-to-air public radio service.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-960986f3-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-country-5ae7ce30
+  - iprd-au-abc-country-0324054b
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/CTRW/mp3/;*.mp3
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/CTRW/aac/
+    codec: AAC+
+    bitrate: 56

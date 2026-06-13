@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 04:21:19
 clickcount: 20
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-84485b3d-695c-405d-8d55-b5c0f7f78f2f
-streams:
-  - url: 'http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8'
-    codec: AAC
-    bitrate: 95
-    hls: true
-  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8'
-    codec: AAC
-    bitrate: 95
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +30,16 @@ research:
   format: Public radio with music, news, information, and cultural programming in Malayalam
   notes: AIR Kochi is regional station of All India Radio serving Kerala state; "FM Rainbow" is contemporary programming strand; Prasar Bharati is autonomous public corporation for Indian broadcasting; HLS streaming via Bitgravity CDN
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-84485b3d-695c-405d-8d55-b5c0f7f78f2f
+  - iprd-in-air-kochi-rainbow-6c672a22
+streams:
+  - url: http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8
+    codec: AAC
+    bitrate: 95
+    hls: true
+  - url: https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8
+    codec: AAC
+    bitrate: 95
+    hls: true

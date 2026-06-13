@@ -22,16 +22,6 @@ lastchangetime: 2026-03-30 02:06:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-5553fdc7-4a4c-4699-83f2-d912342ae0b8
-streams:
-  - url: 'http://kidspublicradio2.got.net:8000/pipsqueaks'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://kidspublicradio2.got.net:8000/lullaby'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: "Four channels: Pipsqueaks (younger children), Jabberwocky (older children), Lullaby (sleep content), Cosquillas (Spanish-language). Programming includes music, news, stories, comedy, lullabies, educational content."
   notes: Ad-free, commercial-free public audio network described as "made for and with children." Mission emphasizes "a commitment to quality, a love of many cultures, and a profound respect for the intelligence of children." Site states "we give kids a voice."
   sources: https://www.kidspublicradio.org/
+curation: 0.5
+provenance:
+  - radiobrowser-5553fdc7-4a4c-4699-83f2-d912342ae0b8
+streams:
+  - url: http://kidspublicradio2.got.net:8000/pipsqueaks
+    codec: MP3
+    bitrate: 128
+  - url: http://kidspublicradio2.got.net:8000/lullaby
+    codec: MP3
+    bitrate: 128

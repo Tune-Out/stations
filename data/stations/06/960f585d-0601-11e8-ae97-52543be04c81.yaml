@@ -22,21 +22,6 @@ lastchangetime: 2026-01-15 05:25:41
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-960f585d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk/A/A06H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A06H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk/A/A06H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +31,19 @@ research:
   format: Regional news, cultural content, music, speech programming
   notes: P4 is DR's regional channel network; P4 Bornholm serves the Danish island of Bornholm. Part of DR's public broadcasting mandate to serve all regions of Denmark.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-960f585d-0601-11e8-ae97-52543be04c81
+  - iprd-dk-dr-p4-bornholm-ef35af52
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk/A/A06H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A06H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk/A/A06H.mp3
+    codec: MP3
+    bitrate: 128

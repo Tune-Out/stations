@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 04:22:41
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-cd43795e-4fc0-416b-8ce5-8d9bca59e4f3
-streams:
-  - url: 'https://stream.radioachterhoek.nl/index.html?sid=1'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream.radioachterhoek.nl/live'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -45,3 +35,14 @@ research:
   format: Folk music, schlager, and volksmusik (traditional Central European folk)
   notes: Community radio station in the Achterhoek region of Netherlands, near German border. Broadcasts traditional folk music including Dutch folk, German schlager, and Central European volksmusik traditions. Multicultural programming reflecting the border region.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-cd43795e-4fc0-416b-8ce5-8d9bca59e4f3
+  - iprd-nl-radioachterhoek-nl-5b1aee44
+streams:
+  - url: https://stream.radioachterhoek.nl/index.html?sid=1
+    codec: MP3
+    bitrate: 320
+  - url: https://stream.radioachterhoek.nl/live
+    codec: MP3
+    bitrate: 320

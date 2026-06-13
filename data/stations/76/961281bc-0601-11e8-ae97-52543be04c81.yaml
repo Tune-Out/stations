@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:08:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-961281bc-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming.jcu.edu:8000/wjcu-aac-hi'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://streaming.jcu.edu:8000/wjcu-mp3-hi'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,15 @@ research:
   format: Eclectic mix including jazz, blues, rock, indie, college radio
   notes: Founded 1957. WJCU 88.7 FM is the non-commercial college radio station of John Carroll University, a Jesuit institution in University Heights, Ohio. Part of Cleveland's diverse radio landscape serving both campus and community.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-961281bc-0601-11e8-ae97-52543be04c81
+  - iprd-us-wjcu-88-7-john-carroll-university-f5274cb2
+  - iprd-us-wjcu-88-7-john-carroll-university-3355ce77
+streams:
+  - url: http://streaming.jcu.edu:8000/wjcu-aac-hi
+    codec: AAC+
+    bitrate: 128
+  - url: http://streaming.jcu.edu:8000/wjcu-mp3-hi
+    codec: MP3
+    bitrate: 128

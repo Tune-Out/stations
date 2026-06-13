@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 07:59:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5f8f50c8-6876-44b0-a1f0-6a17e9f6ada9
-streams:
-  - url: 'http://stream.laut.fm/radiocontactitaly'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.laut.fm/radiocontactitaly.pls'
-    url_resolved: 'https://radiocontactitaly.stream.laut.fm/radiocontactitaly?pl=pls&t302=2026-06-07_14-11-36&uuid=ee0edac3-dab5-43f3-8f5c-cab006a9ef6a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +30,15 @@ research:
   format: Contemporary pop and commercial music streaming
   notes: Italian-based commercial station streaming via laut.fm platform. Operates with 128 kbps MP3 stream.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5f8f50c8-6876-44b0-a1f0-6a17e9f6ada9
+  - iprd-it-radio-contact-italy-8e5af161
+streams:
+  - url: http://stream.laut.fm/radiocontactitaly
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.laut.fm/radiocontactitaly.pls
+    url_resolved: https://radiocontactitaly.stream.laut.fm/radiocontactitaly?pl=pls&t302=2026-06-07_14-11-36&uuid=ee0edac3-dab5-43f3-8f5c-cab006a9ef6a
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:25:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-51e03469-1739-4ae3-8b77-6d9d74223570
-streams:
-  - url: 'https://cast.ner.gov.tw/6'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast.ner.gov.tw/7'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: Educational and cultural programming for Taiwan's educational mission.
   notes: "\"教育廣播電臺-臺東分臺FM-1\" (National Education Radio - Taitung Branch FM-1). Part of Taiwan's national educational broadcasting network emphasizing educational content and cultural programming. MP3 128 kbps streaming from Taitung area."
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-51e03469-1739-4ae3-8b77-6d9d74223570
+  - iprd-tw-educational-radio-station-taitung-branch-fm-32ef6d0a
+  - iprd-tw-educational-radio-station-taitung-branch-fm-2-e4f200c8
+streams:
+  - url: https://cast.ner.gov.tw/6
+    codec: MP3
+    bitrate: 128
+  - url: https://cast.ner.gov.tw/7
+    codec: MP3
+    bitrate: 128

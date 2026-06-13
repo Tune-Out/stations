@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:32:14
 clickcount: 11
 geo_lat: 46.6218851
 geo_long: 14.2988966
-curation: 0.65
-provenance:
-  - radiobrowser-f9bc912f-dbd7-4a75-b3af-1a77c2231098
-streams:
-  - url: 'https://orf-live.ors-shoutcast.at/ktn-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://ors-sn02.ors-shoutcast.at/ktn-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: "Regional full-service public radio: Austrian Schlager / oldies / popular music, hourly news, weather, traffic, regional reporting, sport, folk and minority-language programming"
   notes: ORF Radio Kärnten is one of nine ORF Bundesland regional stations, broadcast from the Landesstudio in Klagenfurt. It is notable for carrying Radio dva / Radio Agora content and other Slovenian-language slots ("Slovenski spored") under the public-service minority-language remit, reflecting Carinthia's bilingual heritage; it is also the area's lead source for severe-weather and civil-protection broadcasts. Like all ORF regional stations it is bound by the statutory obligations of objectivity, plurality, and federalism in the ORF-Gesetz.
   sources: https://kaernten.orf.at/player, internal knowledge of ORF
+curation: 0.65
+provenance:
+  - radiobrowser-f9bc912f-dbd7-4a75-b3af-1a77c2231098
+  - iprd-at-orf-radio-k-rnten-c0acc372
+  - iprd-at-orf-radio-k-rnten-c0e73d4e
+streams:
+  - url: https://orf-live.ors-shoutcast.at/ktn-q2a
+    codec: MP3
+    bitrate: 192
+  - url: http://ors-sn02.ors-shoutcast.at/ktn-q1a
+    codec: MP3
+    bitrate: 128

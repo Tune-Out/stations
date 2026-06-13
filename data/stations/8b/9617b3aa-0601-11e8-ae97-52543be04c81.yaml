@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:28:27
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-9617b3aa-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://gene-wr09.ice.infomaniak.ch/gene-wr09.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://gene-wr09.ice.infomaniak.ch/gene-wr09.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Hip-hop, rap, R&B, soul, funk, afrobeat, drill, trap, reggaeton, dancehall; multiple specialized themed channels; news and lifestyle content.
   notes: Major French commercial radio station dedicated to hip-hop and urban music; operates digital streams (Freestyle is one of multiple Generations channels); artist-specific stations (Booba, Jul, Ninho, etc.); competitive contests and live content.
   sources: http://generations.fr/
+curation: 0.3
+provenance:
+  - radiobrowser-9617b3aa-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-freestyle-4a51c9b2
+  - iprd-fr-generations-freestyle-f3b463bb
+streams:
+  - url: http://gene-wr09.ice.infomaniak.ch/gene-wr09.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://gene-wr09.ice.infomaniak.ch/gene-wr09.mp3
+    codec: MP3
+    bitrate: 128

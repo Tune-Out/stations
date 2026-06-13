@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:05:28
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-1452756b-4549-4d20-949e-ce54075fe742
-streams:
-  - url: 'https://boisestate.streamguys1.com/Jazz-aac-256k-icy.aac'
-    codec: AAC
-    bitrate: 256
-  - url: 'https://boisestate.streamguys1.com/Music1-aac-128k-icy'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: Classical music programming and NPR content
   notes: BSPR Music (KBSU) is part of Boise State Public Radio, a public broadcaster affiliated with NPR. The Music stream specializes in classical music programming. Founded to serve educational and cultural needs of Boise community.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-1452756b-4549-4d20-949e-ce54075fe742
+streams:
+  - url: https://boisestate.streamguys1.com/Jazz-aac-256k-icy.aac
+    codec: AAC
+    bitrate: 256
+  - url: https://boisestate.streamguys1.com/Music1-aac-128k-icy
+    codec: AAC+
+    bitrate: 128

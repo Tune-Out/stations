@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-437bac02-f834-471c-b365-e77cd702f163
-streams:
-  - url: 'https://stream.zeno.fm/hf2gsfm1mp8uv'
-    codec: MP3
-  - url: 'http://stream.zeno.fm/hf2gsfm1mp8uv?1649692370879'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -37,3 +29,11 @@ research:
   format: Classical music, Spanish ballads, traditional music
   notes: Peruvian webradio station; classical and traditional Spanish music focus; hosted on Zeno.fm platform; no public website available.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-437bac02-f834-471c-b365-e77cd702f163
+streams:
+  - url: https://stream.zeno.fm/hf2gsfm1mp8uv
+    codec: MP3
+  - url: http://stream.zeno.fm/hf2gsfm1mp8uv?1649692370879
+    codec: MP3

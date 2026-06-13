@@ -1,6 +1,6 @@
 stationuuid: 962321ad-0601-11e8-ae97-52543be04c81
 name: WBAL "News Radio1090" Baltimore, MD
-url: http://provisioning.streamtheworld.com/pls/WBALAMAAC.pls
+url: 'http://29324.live.streamtheworld.com:80/WBALAMAAC_SC'
 url_resolved: http://18503.live.streamtheworld.com/WBALAMAAC_SC
 homepage: http://www.wbal.com/
 favicon: https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2100/2020/10/12160146/wbal-favicon-150x150.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:52:51
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962321ad-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: news/talk format with local and national content; weather, traffic, sports coverage
   notes: WBAL has operated since 1922 as a major Baltimore news radio station; AM 1090 is a full-power commercial broadcaster; acquired by Entercom (now Audacy) in consolidation of regional radio assets; serves Maryland/DC region
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962321ad-0601-11e8-ae97-52543be04c81

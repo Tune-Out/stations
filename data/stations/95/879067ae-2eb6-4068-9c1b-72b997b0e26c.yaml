@@ -1,7 +1,7 @@
 stationuuid: 879067ae-2eb6-4068-9c1b-72b997b0e26c
 name: Red River Radio - HD 3 News/Talk
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3?uuid=1rkt6177s
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3?uuid=1rkt6177s
+url: 'https://17793.live.streamtheworld.com:443/KDAQHD3.mp3?uuid=1rkt6177s'
+url_resolved: 'https://17793.live.streamtheworld.com:443/KDAQHD3.mp3?uuid=1rkt6177s'
 homepage: https://www.redriverradio.org/
 favicon: https://npr.brightspotcdn.com/dims4/default/4c692f3/2147483647/strip/true/crop/297x115+0+0/resize/534x206!/format/webp/quality/90/?url=http://npr-brightspot.s3.amazonaws.com/ab/c9/8f32bbde488d84abe0e88d7e7fb0/rrr-logo-fid.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 06:30:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-879067ae-2eb6-4068-9c1b-72b997b0e26c
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: News and talk programming with NPR news service
   notes: NPR member station serving the Red River Valley. Non-commercial educational broadcaster providing news, talk, and public affairs programming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-879067ae-2eb6-4068-9c1b-72b997b0e26c

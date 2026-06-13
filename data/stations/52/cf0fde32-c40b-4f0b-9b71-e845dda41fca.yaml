@@ -24,16 +24,6 @@ lastchangetime: 2026-05-21 12:30:31
 clickcount: 0
 geo_lat: 23.739903660032216
 geo_long: -99.1439723968506
-curation: -0.10
-provenance:
-  - radiobrowser-cf0fde32-c40b-4f0b-9b71-e845dda41fca
-streams:
-  - url: 'https://cast1.my-control-panel.com/proxy/exavictoria/stream/'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://cast1.my-control-panel.com/proxy/exavictoria/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Contemporary hits, pop music in Spanish and English; youth-oriented programming with live shows
   notes: Part of ORT Radio network based in Ciudad Victoria; branded "EXA FM" and part of larger EXA network; "la estación exacta"; strong presence across Latin America with 70+ stations in 9 countries; known for tagline "Ponte EXA"
   sources: exafm.com
+curation: -0.1
+provenance:
+  - radiobrowser-cf0fde32-c40b-4f0b-9b71-e845dda41fca
+streams:
+  - url: https://cast1.my-control-panel.com/proxy/exavictoria/stream/
+    codec: MP3
+    bitrate: 64
+  - url: https://cast1.my-control-panel.com/proxy/exavictoria/stream
+    codec: MP3
+    bitrate: 64

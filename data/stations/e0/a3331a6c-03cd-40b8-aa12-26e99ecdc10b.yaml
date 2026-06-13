@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-a3331a6c-03cd-40b8-aa12-26e99ecdc10b
-streams:
-  - url: 'https://stream.radio.co/sa7336b687/listen'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://stream.radio.co/sa7336b687/listen?ver=712690'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: Classic soul, funk, jazz, northern soul, and modern soul music.
   notes: Independent UK-based internet radio station dedicated to soul, funk, and jazz genres with emphasis on northern soul tradition.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-a3331a6c-03cd-40b8-aa12-26e99ecdc10b
+streams:
+  - url: https://stream.radio.co/sa7336b687/listen
+    codec: AAC
+    bitrate: 192
+  - url: https://stream.radio.co/sa7336b687/listen?ver=712690
+    codec: AAC
+    bitrate: 192

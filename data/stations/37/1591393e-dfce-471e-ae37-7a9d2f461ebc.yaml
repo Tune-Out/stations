@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-1591393e-dfce-471e-ae37-7a9d2f461ebc
-streams:
-  - url: 'https://www.zestream.eu/listen/radiobrassens/radio.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://www.zestream.eu:8010/radiobrassens.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Jazz, French chanson, traditional music
   notes: French independent radio dedicated to jazz and French classical music heritage; honors the legacy of singer-songwriter Georges Brassens.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-1591393e-dfce-471e-ae37-7a9d2f461ebc
+streams:
+  - url: https://www.zestream.eu/listen/radiobrassens/radio.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://www.zestream.eu:8010/radiobrassens.mp3
+    codec: MP3
+    bitrate: 128

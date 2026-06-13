@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 05:09:56
 clickcount: 1
 geo_lat: 52.46030323309939
 geo_long: -113.73529672622682
-curation: 0.35
-provenance:
-  - radiobrowser-a91622c6-5103-4929-882f-7a2f69356ad0
-duplicate_of: ac9ebe31-84f3-4e32-8287-a2d0edfc97ed
-streams:
-  - url: 'https://goldenwest.leanstream.co/CJUVFM-MP3'
-    codec: MP3
-    bitrate: 56
-  - url: 'https://goldenwest.leanstream.co/CJUVFM-MP3?args=tunein_02'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: Classic hits, oldies music, local community programming
   notes: Commercial radio station serving Lacombe, Alberta; FM 94.1; operated by Golden West Broadcasting, one of Canada's largest private radio operators; known as "Sunny 94"; focuses on classic hits and oldies
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a91622c6-5103-4929-882f-7a2f69356ad0
+duplicate_of: ac9ebe31-84f3-4e32-8287-a2d0edfc97ed
+streams:
+  - url: https://goldenwest.leanstream.co/CJUVFM-MP3
+    codec: MP3
+    bitrate: 56
+  - url: https://goldenwest.leanstream.co/CJUVFM-MP3?args=tunein_02
+    codec: MP3
+    bitrate: 56

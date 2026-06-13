@@ -1,7 +1,7 @@
 stationuuid: d6994377-ac12-4ab3-a786-b6b03bcfc38d
 name: STA FM - Inverell - 91.9 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2STAAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2STAAAC.aac
+url: 'http://28793.live.streamtheworld.com:80/2STAAAC.aac'
+url_resolved: 'http://28793.live.streamtheworld.com:80/2STAAAC.aac'
 homepage: https://stafm.com.au/
 favicon: https://i.ibb.co/xSktSwm/Primary-Logo-PNG-500px.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:06:44
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d6994377-ac12-4ab3-a786-b6b03bcfc38d
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community music and information
   notes: Community radio station licensed to serve Inverell on 91.9 FM in rural NSW.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d6994377-ac12-4ab3-a786-b6b03bcfc38d

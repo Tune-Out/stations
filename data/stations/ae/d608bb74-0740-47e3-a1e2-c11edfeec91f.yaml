@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 02:02:21
 clickcount: 88
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-d608bb74-0740-47e3-a1e2-c11edfeec91f
-streams:
-  - url: 'http://mp3channels.webradio.rockantenne.de/alternative.aac'
-    codec: AAC
-  - url: 'https://stream.rockantenne.de/alternative/stream/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +30,12 @@ research:
   format: Alternative rock stream — one of 30+ themed sub-channels (Classic Rock, Heavy Metal, Punk, Country, etc.); this stream focuses on alternative/indie rock
   notes: ROCK ANTENNE is one of Germany's leading commercial rock radio brands, headquartered in Ismaning, Bavaria. Launched in 1998. Tagline "Der beste Rock nonstop!" Sponsors major festivals (Rock im Park, Nova Rock). Operates extensive digital and podcast platforms, including the RIDE ONline motorcycle community.
   sources: https://www.rockantenne.de/, internal knowledge of German commercial radio
+curation: 0.55
+provenance:
+  - radiobrowser-d608bb74-0740-47e3-a1e2-c11edfeec91f
+streams:
+  - url: http://mp3channels.webradio.rockantenne.de/alternative.aac
+    codec: AAC
+  - url: https://stream.rockantenne.de/alternative/stream/mp3
+    codec: MP3
+    bitrate: 128

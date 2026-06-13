@@ -27,14 +27,6 @@ lastchangetime: 2026-01-15 08:31:59
 clickcount: 2
 geo_lat: 49.47817533209903
 geo_long: 8.422199730637647
-curation: -0.05
-provenance:
-  - radiobrowser-e93bb934-91f1-4a32-ba6a-512105341597
-streams:
-  - url: 'https://stream.rpr1.de/trier/mp3-128/radiobrowser'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-trier-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +36,12 @@ research:
   format: 80s, 90s, Top 40, pop music with news, traffic, and weather programming
   notes: RPR1. Trier is a regional German commercial radio station serving the Trier area in Rheinland-Pfalz. Broadcasts pop hits from the 1980s-1990s and contemporary Top 40 music, plus local news, traffic, and weather information in German.
   sources: rpr1.de, internal knowledge of German regional radio
+curation: -0.05
+provenance:
+  - radiobrowser-e93bb934-91f1-4a32-ba6a-512105341597
+  - iprd-de-rpr1-trier-a5113519
+streams:
+  - url: https://stream.rpr1.de/trier/mp3-128/radiobrowser
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-trier-128-mp3
+    codec: MP3

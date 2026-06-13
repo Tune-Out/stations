@@ -25,17 +25,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-29 19:11:19
 clickcount: 3
-curation: 0.60
-provenance:
-  - radiobrowser-22979789-2910-4f02-a352-d0b50072c0e6
-streams:
-  - url: 'http://radio.shirayuki.org:9200/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://yggdrasilradio.com/yggdrasilradio_mp3_128kbps.pls'
-    url_resolved: 'http://radio.shirayuki.org:9200/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -45,3 +34,14 @@ research:
   format: Specialized programming featuring anime soundtracks, Japanese pop/rock, Korean pop music.
   notes: Independent internet radio station run by enthusiasts. Based in Minnesota. Focuses on Asian pop culture content. No major controversies noted.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-22979789-2910-4f02-a352-d0b50072c0e6
+streams:
+  - url: http://radio.shirayuki.org:9200/
+    codec: MP3
+    bitrate: 128
+  - url: https://yggdrasilradio.com/yggdrasilradio_mp3_128kbps.pls
+    url_resolved: http://radio.shirayuki.org:9200/
+    codec: MP3
+    bitrate: 128

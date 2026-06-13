@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:05:57
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-ccbabb20-ffce-4b81-ab21-1522077dc2c3
-duplicate_of: 9933fbb1-5cbb-40d5-93fc-a85329624b04
-streams:
-  - url: 'https://drive.uber.radio/uber/crmalcolmsargent/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crmalcolmsargent/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crmalcolmsargent/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Classical music exclusively; dedicated channel featuring Malcolm Sargent's recordings and conducting archive.
   notes: Part of Classical Radio network offering dedicated channels by conductor/composer; focuses on Malcolm Sargent's BBC conducting archive and classical symphony programming.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-ccbabb20-ffce-4b81-ab21-1522077dc2c3
+duplicate_of: 9933fbb1-5cbb-40d5-93fc-a85329624b04
+streams:
+  - url: https://drive.uber.radio/uber/crmalcolmsargent/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crmalcolmsargent/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crmalcolmsargent/icecast.audio
+    codec: MP3

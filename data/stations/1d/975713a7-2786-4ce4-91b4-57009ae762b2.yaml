@@ -23,16 +23,6 @@ lastchangetime: 2026-02-24 11:58:01
 clickcount: 1
 geo_lat: -23.82429504217794
 geo_long: -47.94433593750001
-curation: 0.35
-provenance:
-  - radiobrowser-975713a7-2786-4ce4-91b4-57009ae762b2
-streams:
-  - url: 'https://aparecida.jmvstream.com/stream?1771934151722'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://aparecida.jmvstream.com/stream'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,14 @@ research:
   format: Catholic music, Christian programming, MPB
   notes: Radio run by the National Sanctuary of Aparecida, Catholic pilgrimage site in São Paulo, broadcasting Christian music and Catholic content
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-975713a7-2786-4ce4-91b4-57009ae762b2
+  - iprd-br-radio-aparecida-104-3-3587bfc9
+streams:
+  - url: https://aparecida.jmvstream.com/stream?1771934151722
+    codec: AAC+
+    bitrate: 128
+  - url: https://aparecida.jmvstream.com/stream
+    codec: AAC+
+    bitrate: 128

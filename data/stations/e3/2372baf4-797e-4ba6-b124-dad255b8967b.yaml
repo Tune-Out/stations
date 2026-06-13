@@ -1,7 +1,7 @@
 stationuuid: 2372baf4-797e-4ba6-b124-dad255b8967b
 name: Antena 8 100.1 FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac
+url: 'https://18533.live.streamtheworld.com:443/ANT8AAC.aac'
+url_resolved: 'https://18533.live.streamtheworld.com:443/ANT8AAC.aac'
 homepage: https://www.antena8.com/
 favicon: https://www.antena8.com/wp-content/uploads/2019/04/logo-antena-peque.png
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 06:06:20
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-2372baf4-797e-4ba6-b124-dad255b8967b
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Commercial hits and contemporary music (90s, 2000s, 2010s); news and entertainment
   notes: 'Commercial radio broadcaster in Panama under Grupo Grada; tagline "La radio como debe ser" (Radio as it should be); strong YouTube presence (969K followers); based at Av. Ricardo Miró, El Carmen, Panama City; contact: ventas@grupograda.com, 275-5850.'
   sources: https://www.antena8.com/
+curation: -0.1
+provenance:
+  - radiobrowser-2372baf4-797e-4ba6-b124-dad255b8967b

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 07:41:05
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d280637d-8b7e-11e9-ad01-52543be04c81
-streams:
-  - url: 'http://www.mdifm.ro/listen_mdifm.pls'
-    url_resolved: 'http://stream.mdifm.ro:8000/'
-    codec: AAC+
-    bitrate: 192
-  - url: 'http://stream.mdifm.ro:8000/live'
-    codec: AAC+
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Pop music.
   notes: Local commercial radio station serving Targoviste area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d280637d-8b7e-11e9-ad01-52543be04c81
+streams:
+  - url: http://www.mdifm.ro/listen_mdifm.pls
+    url_resolved: http://stream.mdifm.ro:8000/
+    codec: AAC+
+    bitrate: 192
+  - url: http://stream.mdifm.ro:8000/live
+    codec: AAC+
+    bitrate: 192

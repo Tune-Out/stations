@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3ae1555a-cc61-478d-a092-2b73af5b431b
-streams:
-  - url: 'https://stream02.radioplayback.dk/stream'
-    codec: MP3
-  - url: 'http://stream02.radioplayback.dk/stream'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -36,3 +28,12 @@ research:
   format: 100% hit music from past 6 decades; daily shows including "Bekker på Toppen", "Fat i 80'erne", "Dansktimen"
   notes: Web radio station emphasizing "forgotten and disappeared hits that NONE of the other radio stations" provide; motto "VI ELSKER MUSIKKEN DØGNET RUNDT" (we love music around the clock); distributed via MyTuner, Sonos, Radio.dk, Streema, mobile apps.
   sources: http://www.radioplayback.dk/
+curation: 0.35
+provenance:
+  - radiobrowser-3ae1555a-cc61-478d-a092-2b73af5b431b
+  - iprd-dk-radio-playback-8dcc5924
+streams:
+  - url: https://stream02.radioplayback.dk/stream
+    codec: MP3
+  - url: http://stream02.radioplayback.dk/stream
+    codec: MP3

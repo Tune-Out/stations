@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 04:13:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-8d4c4352-fe20-4d70-848e-564d39430b42
-streams:
-  - url: 'http://live.kboo.fm:8000/high.m3u'
-    url_resolved: 'http://live.kboo.fm:8000/high'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://listen.kboo.fm:8000/mobile'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +30,15 @@ research:
   format: Freeform, eclectic programming with alternative music, spoken word, and community-focused content
   notes: KBOO 90.7 FM is a volunteer-run, listener-supported community radio station in Portland, Oregon. Known for freeform programming and alternative format since 1975, serving the Portland metro area with diverse, independent programming.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-8d4c4352-fe20-4d70-848e-564d39430b42
+  - iprd-us-kboo-90-7-cdd6c3de
+streams:
+  - url: http://live.kboo.fm:8000/high.m3u
+    url_resolved: http://live.kboo.fm:8000/high
+    codec: MP3
+    bitrate: 192
+  - url: http://listen.kboo.fm:8000/mobile
+    codec: MP3
+    bitrate: 64

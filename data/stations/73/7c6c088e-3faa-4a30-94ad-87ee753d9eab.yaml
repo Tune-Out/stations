@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7c6c088e-3faa-4a30-94ad-87ee753d9eab
-streams:
-  - url: 'http://stream1.slowradio.com/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream1.slowradio.com/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Slow music, ambient, relaxation programming
   notes: Commercial online radio station; focuses on slow-tempo, relaxing music content for stress relief and background listening; US-based operations; targets wellness and meditation audiences
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7c6c088e-3faa-4a30-94ad-87ee753d9eab
+  - iprd-nl-slow-radio-gold-79df90ed
+streams:
+  - url: http://stream1.slowradio.com/
+    codec: MP3
+    bitrate: 192
+  - url: https://stream1.slowradio.com/
+    codec: MP3
+    bitrate: 192

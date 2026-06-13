@@ -21,17 +21,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fa2c3e8b-647b-4cfc-a7e3-9d0e9df95ae5
-streams:
-  - url: 'http://streaming.exclusive.radio/er/andreabocelli/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.exclusive.radio/er/andreabocelli/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/er/andreabocelli/icecast.audio'
-    codec: MP3
-  - url: 'http://streaming.exclusive.radio/er/celinedion/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,16 @@ research:
   format: classical music streaming, Andrea Bocelli artist station
   notes: Part of YouRadio platform (UAE-based). Streams curated Andrea Bocelli classical repertoire.
   sources: you.radio (limited information available)
+curation: 0.35
+provenance:
+  - radiobrowser-fa2c3e8b-647b-4cfc-a7e3-9d0e9df95ae5
+  - iprd-ae-andrea-bocelli-f1975af7
+  - iprd-ae-celine-dion-a6c7da6d
+streams:
+  - url: http://streaming.exclusive.radio/er/andreabocelli/icecast.audio
+    codec: MP3
+  - url: https://streaming.exclusive.radio/er/andreabocelli/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/er/andreabocelli/icecast.audio
+    codec: MP3
+  - url: http://streaming.exclusive.radio/er/celinedion/icecast.audio
+    codec: MP3

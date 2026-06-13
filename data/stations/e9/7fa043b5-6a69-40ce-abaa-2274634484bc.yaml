@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 37
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7fa043b5-6a69-40ce-abaa-2274634484bc
-streams:
-  - url: 'https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/'
-    codec: MP3
-  - url: 'https://stream.streambase.ch/radiopilatus/mp3-192/direct/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,12 @@ research:
   format: General interest music and information radio; entertainment and music programming for regional audience
   notes: Commercial radio station in Switzerland (Canton of Lucerne region — Pilatus is Mount Pilatus, geographic feature). Part of CH Media network of Swiss radio stations. Serves Central Swiss and German-speaking audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7fa043b5-6a69-40ce-abaa-2274634484bc
+  - iprd-ch-radio-pilatus-db5caa02
+streams:
+  - url: https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/
+    codec: MP3
+  - url: https://stream.streambase.ch/radiopilatus/mp3-192/direct/
+    codec: MP3

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:34:44
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-48b09cf5-f7ec-11e8-a471-52543be04c81
-streams:
-  - url: 'http://radiostreaming.ert.gr/ert-patra'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://radiostreaming.ert.gr/ert-patra'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: News, public affairs, culture, music; national and regional public radio.
   notes: ERT is Greece's public radio and television broadcaster. Patra station serves the Peloponnese region on multiple frequencies (92.5, 93.9, 89.9 FM).
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-48b09cf5-f7ec-11e8-a471-52543be04c81
+  - iprd-gr-ert-patra-89-9-92-5-93-9-65cf606e
+streams:
+  - url: http://radiostreaming.ert.gr/ert-patra
+    codec: MP3
+    bitrate: 256
+  - url: https://radiostreaming.ert.gr/ert-patra
+    codec: MP3
+    bitrate: 256

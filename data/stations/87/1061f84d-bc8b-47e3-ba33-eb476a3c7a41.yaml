@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-1061f84d-bc8b-47e3-ba33-eb476a3c7a41
-streams:
-  - url: 'https://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Classical music, soul music programming
   notes: French internet radio station (Infomaniak hosting). Focus on classical music and soul music. Limited information available; no active homepage found.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-1061f84d-bc8b-47e3-ba33-eb476a3c7a41
+  - iprd-fr-generations-soul-df070b2b
+streams:
+  - url: https://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3
+    codec: MP3
+    bitrate: 128

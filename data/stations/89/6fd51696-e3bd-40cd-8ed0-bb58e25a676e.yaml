@@ -21,16 +21,6 @@ lastchangetime: 2026-02-22 06:46:52
 clickcount: 0
 geo_lat: 45.957476433686374
 geo_long: 23.569181259666447
-curation: -0.05
-provenance:
-  - radiobrowser-6fd51696-e3bd-40cd-8ed0-bb58e25a676e
-streams:
-  - url: 'http://s6.myradiostream.com:47330/;'
-    codec: UNKNOWN
-    bitrate: 128
-  - url: 'https://s6.myradiostream.com/:47330/listen.mp3'
-    codec: UNKNOWN
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Local news, music, entertainment
   notes: Local Romanian FM 90.1 station serving Sebeș municipality; focuses on local news coverage and music programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6fd51696-e3bd-40cd-8ed0-bb58e25a676e
+streams:
+  - url: http://s6.myradiostream.com:47330/;
+    codec: UNKNOWN
+    bitrate: 128
+  - url: https://s6.myradiostream.com/:47330/listen.mp3
+    codec: UNKNOWN
+    bitrate: 128

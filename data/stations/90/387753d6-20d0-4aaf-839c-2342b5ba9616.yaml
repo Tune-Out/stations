@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:29:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-387753d6-20d0-4aaf-839c-2342b5ba9616
-streams:
-  - url: 'https://c22.radioboss.fm:8144/GamePlay'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://c22.radioboss.fm:8144/GamePlay'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: 8-bit and 16-bit video game music, chiptune, and retro game soundtracks
   notes: Online community-driven radio station focused exclusively on video game music and chiptune. Hosted on VK (VKontakte), Russia's primary social network. Target audience is gaming enthusiasts globally. Homepage is a VK community page rather than dedicated website.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-387753d6-20d0-4aaf-839c-2342b5ba9616
+  - iprd-ru-radio-gameplay-838a05df
+streams:
+  - url: https://c22.radioboss.fm:8144/GamePlay
+    codec: MP3
+    bitrate: 128
+  - url: http://c22.radioboss.fm:8144/GamePlay
+    codec: MP3
+    bitrate: 128

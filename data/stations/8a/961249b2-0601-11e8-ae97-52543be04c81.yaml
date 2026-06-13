@@ -23,30 +23,6 @@ lastchangetime: 2026-01-15 04:15:07
 clickcount: 2
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.70
-provenance:
-  - radiobrowser-961249b2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://somafm.com/sonicuniverse130.pls'
-    url_resolved: 'https://ice2.somafm.com/sonicuniverse-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/sonicuniverse64.pls'
-    url_resolved: 'https://ice6.somafm.com/sonicuniverse-64-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://somafm.com/sonicuniverse32.pls'
-    url_resolved: 'https://ice2.somafm.com/sonicuniverse-32-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://somafm.com/sonicuniverse256.pls'
-    url_resolved: 'https://ice5.somafm.com/sonicuniverse-256-mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://somafm.com/sonicuniverse.pls'
-    url_resolved: 'https://ice5.somafm.com/sonicuniverse-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -56,3 +32,32 @@ research:
   format: Eclectic, avant-garde, electronic, experimental jazz; ad-free curated stream
   notes: SomaFM is a long-running non-commercial web radio network (est. 1999) based in San Francisco Bay Area; Sonic Universe channel focuses on experimental electronic, ambient, and jazz music; listener-funded with mission to provide ad-free quality streaming
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-961249b2-0601-11e8-ae97-52543be04c81
+  - iprd-us-somafm-sonic-universe-9cb0dded
+  - iprd-us-somafm-sonic-universe-34014b52
+  - iprd-us-somafm-sonic-universe-82f98371
+  - iprd-us-somafm-sonic-universe-70439217
+  - iprd-us-somafm-sonic-universe-b10621cd
+streams:
+  - url: https://somafm.com/sonicuniverse130.pls
+    url_resolved: https://ice2.somafm.com/sonicuniverse-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/sonicuniverse64.pls
+    url_resolved: https://ice6.somafm.com/sonicuniverse-64-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://somafm.com/sonicuniverse32.pls
+    url_resolved: https://ice2.somafm.com/sonicuniverse-32-aac
+    codec: AAC
+    bitrate: 32
+  - url: https://somafm.com/sonicuniverse256.pls
+    url_resolved: https://ice5.somafm.com/sonicuniverse-256-mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://somafm.com/sonicuniverse.pls
+    url_resolved: https://ice5.somafm.com/sonicuniverse-128-mp3
+    codec: MP3
+    bitrate: 128

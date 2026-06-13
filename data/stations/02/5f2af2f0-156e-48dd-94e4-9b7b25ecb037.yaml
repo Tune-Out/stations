@@ -19,16 +19,6 @@ lastchangetime: 2026-03-06 18:21:25
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-5f2af2f0-156e-48dd-94e4-9b7b25ecb037
-streams:
-  - url: 'https://streaming.hotmixradio.com/hotmix-frenchy-fr-mp3?'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.hotmixradio.com/hotmix-frenchy-fr-mp3?provider=radiobrowser'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Electronic, dance, pop, contemporary hits
   notes: French commercial station specialized in electronic/dance music with French content
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-5f2af2f0-156e-48dd-94e4-9b7b25ecb037
+streams:
+  - url: https://streaming.hotmixradio.com/hotmix-frenchy-fr-mp3?
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.hotmixradio.com/hotmix-frenchy-fr-mp3?provider=radiobrowser
+    codec: MP3
+    bitrate: 128

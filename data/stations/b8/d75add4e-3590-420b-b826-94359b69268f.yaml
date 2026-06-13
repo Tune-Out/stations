@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 01:12:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d75add4e-3590-420b-b826-94359b69268f
-streams:
-  - url: 'https://panel5.soydigital.fm/8024/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://panel5.soydigital.fm/8024/live?1678446871465'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://panel5.soydigital.fm/8024/live?1678447316174'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,16 @@ research:
   format: News, talk, sports, entertainment radio.
   notes: Radio service of Canal 4 Tenerife media company. News/talk/sports format serving Canary Islands.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d75add4e-3590-420b-b826-94359b69268f
+streams:
+  - url: https://panel5.soydigital.fm/8024/live
+    codec: MP3
+    bitrate: 128
+  - url: https://panel5.soydigital.fm/8024/live?1678446871465
+    codec: MP3
+    bitrate: 128
+  - url: https://panel5.soydigital.fm/8024/live?1678447316174
+    codec: MP3
+    bitrate: 128

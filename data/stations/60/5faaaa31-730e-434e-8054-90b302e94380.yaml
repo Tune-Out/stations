@@ -1,7 +1,7 @@
 stationuuid: 5faaaa31-730e-434e-8054-90b302e94380
 name: 3MGB Wilderness Radio - Mallacoota / Genoa - 101.7 FM / 96.9 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/3MGBAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/3MGBAAC.aac
+url: 'http://23193.live.streamtheworld.com:80/3MGBAAC.aac'
+url_resolved: 'http://23193.live.streamtheworld.com:80/3MGBAAC.aac'
 homepage: https://www.3mgb.org.au/
 favicon: https://i.ibb.co/prBtYrH/299624380-5523963844308352-2784318263964882691-n.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:56:58
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5faaaa31-730e-434e-8054-90b302e94380
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,7 @@ research:
   format: Community radio, information, music, local news
   notes: 3MGB is a community radio license holder operating in the Mallacoota and Genoa region of Victoria, Australia. Serves local community with news, music, and emergency information.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5faaaa31-730e-434e-8054-90b302e94380
+  - iprd-au-3mgb-101-7-f541da30

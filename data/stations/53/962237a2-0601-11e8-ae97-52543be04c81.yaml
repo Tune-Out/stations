@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 08:51:19
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962237a2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls'
-    url_resolved: 'http://15693.live.streamtheworld.com/CKBLFMAAC_SC'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls'
-    url_resolved: 'http://26353.live.streamtheworld.com:3690/CKBLFMAAC_SC'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +31,15 @@ research:
   format: Country music
   notes: Commercial country music radio station CKBL-FM 92.9 based in Saskatoon, Saskatchewan; branded as "The Bull"; serves prairie provinces audience; part of Canadian commercial broadcasting landscape
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962237a2-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls
+    url_resolved: http://15693.live.streamtheworld.com/CKBLFMAAC_SC
+    codec: AAC+
+    bitrate: 32
+  - url: https://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls
+    url_resolved: http://26353.live.streamtheworld.com:3690/CKBLFMAAC_SC
+    codec: AAC+
+    bitrate: 32

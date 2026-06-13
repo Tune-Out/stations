@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:13:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-d57a80dc-904b-49fc-82d1-986381b5afd2
-streams:
-  - url: 'https://icy.unitedradio.it/Ferro.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icy.unitedradio.it/Ferro.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Dedicated channel featuring Italian pop artist Tiziano Ferro's music and discography.
   notes: RMC Music Star Tiziano Ferro is a specialized channel under Radio Monte Carlo, an Italian commercial broadcaster. The channel focuses exclusively on the work of acclaimed Italian pop singer Tiziano Ferro.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-d57a80dc-904b-49fc-82d1-986381b5afd2
+  - iprd-it-music-star-tiziano-ferro-013db950
+streams:
+  - url: https://icy.unitedradio.it/Ferro.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icy.unitedradio.it/Ferro.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: fea07be9-a48d-4a92-a42b-dcaf413b1c54
 name: Nova 106.9 - Brisbane - 106.9 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069.mp3
+url: 'http://23163.live.streamtheworld.com:80/NOVA_1069.mp3'
+url_resolved: 'http://23163.live.streamtheworld.com:80/NOVA_1069.mp3'
 homepage: https://www.novafm.com.au/brisbane
 favicon: https://i.ibb.co/n6jJk2m/Brand-Tile-N1069.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-fea07be9-a48d-4a92-a42b-dcaf413b1c54
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Adult contemporary, top 40 pop hits, breakfast/drive shows
   notes: Nova 106.9 Brisbane is a major Australian commercial radio station part of ARN (Australian Radio Network), now owned by Nine Entertainment Co. Flagship station in Nova network serving Brisbane and surrounding Queensland regions. Targets adult demographic (25-54) with top 40 hits and contemporary pop. High-rating commercial station with major market presence. Operates under Australian Broadcasting Authority regulations. NOVA brand represents contemporary hits format across Australian markets.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fea07be9-a48d-4a92-a42b-dcaf413b1c54

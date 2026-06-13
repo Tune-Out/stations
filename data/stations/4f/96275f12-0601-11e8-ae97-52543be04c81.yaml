@@ -24,15 +24,6 @@ lastchangetime: 2026-01-15 05:58:02
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-96275f12-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.kaaosradio.fi:8000/stream.m3u'
-    url_resolved: 'http://stream.kaaosradio.fi:8000/stream'
-    codec: MP3
-  - url: 'http://stream.kaaosradio.fi:8000/chill'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +33,14 @@ research:
   format: 24-hour electronic, hardcore techno, and electronic music programming
   notes: Community-driven station dedicated to underground electronic and techno music. Operates 24/7 streaming.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-96275f12-0601-11e8-ae97-52543be04c81
+  - iprd-fi-kaaosradio-24h-848c2e33
+  - iprd-fi-kaaosradio-24h-chill-85165605
+streams:
+  - url: http://stream.kaaosradio.fi:8000/stream.m3u
+    url_resolved: http://stream.kaaosradio.fi:8000/stream
+    codec: MP3
+  - url: http://stream.kaaosradio.fi:8000/chill
+    codec: MP3

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:05:50
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9606872b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ods.ice.infomaniak.ch/ods-high.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://ods.ice.infomaniak.ch/ods-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Adult contemporary music with regional news, weather, traffic, and community programming for the Alpes-region
   notes: ODS Radio was founded in 1981 in the Haute-Savoie region of France and is one of the most established independent regional commercial radio stations in the French Alps; broadcasts on multiple FM frequencies across the Annecy / Lake Geneva / Mont Blanc area; programming targets a mainstream adult audience with a mix of music, local news, and regional sport coverage including coverage of nearby ski resorts.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9606872b-0601-11e8-ae97-52543be04c81
+  - iprd-fr-ods-radio-e4714e0a
+  - iprd-fr-ods-radio-232d2fbc
+streams:
+  - url: http://ods.ice.infomaniak.ch/ods-high.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://ods.ice.infomaniak.ch/ods-high.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 981f822f-198c-490f-a635-5489d9708765
 name: Rádio Renascença
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3
+url: 'http://27783.live.streamtheworld.com:80/RADIO_RENASCENCA.mp3'
+url_resolved: 'http://27783.live.streamtheworld.com:80/RADIO_RENASCENCA.mp3'
 homepage: https://rr.sapo.pt/
 favicon: https://assets.web.sapo.io/sapologos/touchicon/generic/touch-icon-60.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:52:39
 clickcount: 2
 geo_lat: 38.72103691251018
 geo_long: -9.14761732013848
-curation: -0.05
-provenance:
-  - radiobrowser-981f822f-198c-490f-a635-5489d9708765
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: News, talk shows, and journalism programming
   notes: Portuguese commercial radio station based in Lisbon, Portugal. Long-established news and talk-focused broadcaster providing journalism and current affairs programming in Portuguese. Part of SAPO digital media ecosystem.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-981f822f-198c-490f-a635-5489d9708765

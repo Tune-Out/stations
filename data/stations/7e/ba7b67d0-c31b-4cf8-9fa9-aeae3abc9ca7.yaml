@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:42:10
 clickcount: 0
 geo_lat: 28.65148613297423
 geo_long: -106.08159032922876
-curation: -0.05
-provenance:
-  - radiobrowser-ba7b67d0-c31b-4cf8-9fa9-aeae3abc9ca7
-streams:
-  - url: 'https://ss1.audiorama.com.mx:6646/'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://ss1.audiorama.com.mx:6646/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Banda and regional Mexican music (grupera, banda tradicional, norteña)
   notes: La Bestia Grupera is part of Grupo Audiorama's network; broadcasts on 99.3 FM in Chihuahua state specializing in traditional and contemporary Mexican regional music including banda and grupera styles
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ba7b67d0-c31b-4cf8-9fa9-aeae3abc9ca7
+  - iprd-mx-la-bestia-grupera-99-3-xhrpc-54c65010
+streams:
+  - url: https://ss1.audiorama.com.mx:6646/
+    codec: MP3
+    bitrate: 96
+  - url: https://ss1.audiorama.com.mx:6646/stream
+    codec: MP3
+    bitrate: 96

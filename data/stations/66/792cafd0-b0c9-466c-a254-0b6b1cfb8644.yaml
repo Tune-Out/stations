@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-792cafd0-b0c9-466c-a254-0b6b1cfb8644
-streams:
-  - url: 'http://176.58.122.60:8000/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.radiomustathens.com/must-x?app=true&refer='
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Dance and electronic music programming
   notes: Greek commercial radio station specializing in dance and electronic music; broadcast from Athens
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-792cafd0-b0c9-466c-a254-0b6b1cfb8644
+  - iprd-gr-must-3488c682
+streams:
+  - url: http://176.58.122.60:8000/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.radiomustathens.com/must-x?app=true&refer=
+    codec: MP3
+    bitrate: 192

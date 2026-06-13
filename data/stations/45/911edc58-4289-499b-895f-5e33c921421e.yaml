@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-911edc58-4289-499b-895f-5e33c921421e
-streams:
-  - url: 'https://sr15.inmystream.it/stream/lattemiele'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://sr15.inmystream.it:8000/stream'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Italian and international pop spanning the 1970s to present; "il miglior repertorio musicale 24 ore su 24"; mix of music, talk segments, horoscope, and event coverage
   notes: LatteMiele launched in 1989 in Mondovi (Piedmont) and grew into a regional FM and DAB+ network covering northern Italy with multiple shows including Wake up, Gli sveglioni, L'indiano, Arena Lattemiele, and Latte e Stelle; the station partners with major Italian music events including Sanremo and Eurovision and operates podcasts and social media
   sources: https://www.lattemiele.com/, internal knowledge of Italian regional broadcasting
+curation: -0.05
+provenance:
+  - radiobrowser-911edc58-4289-499b-895f-5e33c921421e
+streams:
+  - url: https://sr15.inmystream.it/stream/lattemiele
+    codec: MP3
+    bitrate: 256
+  - url: https://sr15.inmystream.it:8000/stream
+    codec: MP3
+    bitrate: 256

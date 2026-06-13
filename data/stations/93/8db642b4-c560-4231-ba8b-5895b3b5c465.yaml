@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8db642b4-c560-4231-ba8b-5895b3b5c465
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'https://live-icy.dr.dk/A/A24H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Music programming; "Musik uden stop" (music without interruption); includes heritage shows like "Singlepladen"
   notes: Regional station within Denmark's national P1-P8 radio network; part of public service broadcasting
   sources: https://www.dr.dk/lyd/p5
+curation: 0.35
+provenance:
+  - radiobrowser-8db642b4-c560-4231-ba8b-5895b3b5c465
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: https://live-icy.dr.dk/A/A24H.mp3
+    codec: MP3
+    bitrate: 128

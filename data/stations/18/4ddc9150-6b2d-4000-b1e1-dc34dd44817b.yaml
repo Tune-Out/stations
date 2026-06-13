@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:24:51
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-4ddc9150-6b2d-4000-b1e1-dc34dd44817b
-streams:
-  - url: 'http://gr.fluidstream.eu/gr1.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://gr.fluidstream.eu/gr1.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: "24-hour news and talk radio with specialized programming: IL TIMONE (current affairs), TUTTI NE PARLANO (morning magazine), SPORT CLUB (sports analysis), NEXT ECONOMY (finance), MAPPAMONDO (international affairs)"
   notes: 'Milan-based commercial news station licensed as "testata giornalistica" (registered press publication); ROC registration n. 3359. Mission statement: "Giornale Radio, la radio libera di informare" (the free radio to inform). Emphasizes participatory audience model: "also you are Giornale Radio!" Operates web streaming, podcasts, and mobile app across multiple channels.'
   sources: https://giornaleradio.fm/pop/
+curation: 0.2
+provenance:
+  - radiobrowser-4ddc9150-6b2d-4000-b1e1-dc34dd44817b
+  - iprd-it-giornale-radio-1cfe6bc8
+streams:
+  - url: http://gr.fluidstream.eu/gr1.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://gr.fluidstream.eu/gr1.mp3
+    codec: MP3
+    bitrate: 192

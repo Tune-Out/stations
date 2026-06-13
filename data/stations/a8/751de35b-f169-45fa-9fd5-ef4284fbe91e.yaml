@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-751de35b-f169-45fa-9fd5-ef4284fbe91e
-streams:
-  - url: 'https://antares.dribbcast.com/proxy/apop?mp=/s'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://antares.dribbcast.com/proxy/apop?mp=/s?'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,15 @@ research:
   format: Asian pop, rock, and contemporary music. Multilingual programming in Chinese, Japanese, Korean.
   notes: Based in China (Liaoning). Online radio serving East Asian market with popular music. Small independent operator with limited public information.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-751de35b-f169-45fa-9fd5-ef4284fbe91e
+  - iprd-cn-big-b-radio-asian-music-station-e168e277
+  - iprd-us-big-b-radio-asian-pop-70671b73
+streams:
+  - url: https://antares.dribbcast.com/proxy/apop?mp=/s
+    codec: MP3
+    bitrate: 128
+  - url: https://antares.dribbcast.com/proxy/apop?mp=/s?
+    codec: MP3
+    bitrate: 128

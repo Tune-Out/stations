@@ -20,19 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: 41.02446333535115
 geo_long: -102.996826171875
-curation: 0.20
-provenance:
-  - radiobrowser-df8ca5a9-0a2b-4bfc-a5dd-b9af4b2b4ebf
-streams:
-  - url: 'https://strm112.1.fm/moviesoundtracks_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strm112.1.fm/moviesoundtracks_mobile_mp3?'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://strm112.1.fm/moviesoundtracks_mobile_mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +29,17 @@ research:
   format: Movie soundtracks, original scores, OST programming; "Movie Soundtracks Hits Radio" branding
   notes: Part of 1.FM network; global streaming via mobile and web; curated soundtrack catalog
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-df8ca5a9-0a2b-4bfc-a5dd-b9af4b2b4ebf
+  - iprd-ch-1-fm-movie-soundtrack-5f348eb0
+streams:
+  - url: https://strm112.1.fm/moviesoundtracks_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strm112.1.fm/moviesoundtracks_mobile_mp3?
+    codec: MP3
+    bitrate: 192
+  - url: http://strm112.1.fm/moviesoundtracks_mobile_mp3
+    codec: MP3
+    bitrate: 192

@@ -1,6 +1,6 @@
 stationuuid: 9648a6cd-0601-11e8-ae97-52543be04c81
 name: WNIS "News Talk 790" Norfolk, VA
-url: http://provisioning.streamtheworld.com/pls/WNISAMAAC.pls
+url: 'http://18153.live.streamtheworld.com:80/WNISAMAAC_SC'
 url_resolved: http://29243.live.streamtheworld.com:3690/WNISAMAAC_SC
 homepage: http://www.wnis.com/
 favicon: https://wnis.com/wp-content/uploads/2020/05/cropped-wnis_favicon-180x180.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:44:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648a6cd-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: News, talk, and conversation programming
   notes: WNIS is a long-established commercial news-talk radio station serving Norfolk, Virginia on AM 790 frequency. Affiliated with iHeartMedia network. Focuses on news, talk shows, and regional programming for the Hampton Roads area. Traditional talk radio format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648a6cd-0601-11e8-ae97-52543be04c81
+  - iprd-us-wnis-news-talk-790-936db15b

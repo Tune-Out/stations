@@ -1,7 +1,7 @@
 stationuuid: 7bbd7a46-d9ab-4f82-b129-34fa8be1bab2
 name: AM 740 KVOR
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KVORAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KVORAMAAC.aac
+url: 'https://14093.live.streamtheworld.com:443/KVORAMAAC.aac'
+url_resolved: 'https://14093.live.streamtheworld.com:443/KVORAMAAC.aac'
 homepage: https://www.kvor.com/
 favicon: https://www.kvor.com/favicon.ico
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:18:42
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7bbd7a46-d9ab-4f82-b129-34fa8be1bab2
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: AM 740 news and talk radio
   notes: KVOR is a commercial AM radio station in Colorado Springs, Colorado. News and talk format serving the Colorado Springs metropolitan area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7bbd7a46-d9ab-4f82-b129-34fa8be1bab2

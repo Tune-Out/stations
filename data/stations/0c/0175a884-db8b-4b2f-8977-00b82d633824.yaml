@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0175a884-db8b-4b2f-8977-00b82d633824
-streams:
-  - url: 'https://radio.latina.red/radiokurruf.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.latina.red/radiokurruf.mp3?_=1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Community/educational radio
   notes: Radio Kurruf operates as a non-profit community station; "Kurruf" suggests Mapuche indigenous connection; part of broader community/activist radio movement in Chile
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0175a884-db8b-4b2f-8977-00b82d633824
+streams:
+  - url: https://radio.latina.red/radiokurruf.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.latina.red/radiokurruf.mp3?_=1
+    codec: MP3
+    bitrate: 128

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:05:50
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-07b28e11-a8da-47ee-a96a-8930192c8163
-streams:
-  - url: 'https://african1paris.ice.infomaniak.ch/african1paris-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://african1paris.ice.infomaniak.ch/african1paris-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: African music, news, and talk programming
   notes: Africa Radio is a Parisian radio station dedicated to African music, culture, and news; targets diaspora and Africa-interested audiences
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-07b28e11-a8da-47ee-a96a-8930192c8163
+  - iprd-fr-africa-n-1-496eecaa
+streams:
+  - url: https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+    codec: MP3
+    bitrate: 128

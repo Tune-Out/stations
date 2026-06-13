@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 08:26:33
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-b8f2ef5c-eaac-499c-b006-6a2fd276efb1
-streams:
-  - url: 'https://www.dagnysjukebox.se/wp-content/uploads/dagnysjukebox.m3u'
-    url_resolved: 'https://stream4.rcast.net/73224'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.dagnysjukebox.se/wp-content/uploads/listen.asx'
-    url_resolved: 'https://stream4.rcast.net/73224'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +31,15 @@ research:
   format: Rock, rockabilly, classic and vintage rock music
   notes: Swedish independent station focusing on rock and rockabilly genres. Online-only broadcast model. Features curated music programming with dedicated website and Android app availability.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-b8f2ef5c-eaac-499c-b006-6a2fd276efb1
+streams:
+  - url: https://www.dagnysjukebox.se/wp-content/uploads/dagnysjukebox.m3u
+    url_resolved: https://stream4.rcast.net/73224
+    codec: MP3
+    bitrate: 128
+  - url: https://www.dagnysjukebox.se/wp-content/uploads/listen.asx
+    url_resolved: https://stream4.rcast.net/73224
+    codec: MP3
+    bitrate: 128

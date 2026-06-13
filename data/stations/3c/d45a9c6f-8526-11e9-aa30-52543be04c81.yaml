@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d45a9c6f-8526-11e9-aa30-52543be04c81
-streams:
-  - url: 'https://wg.cdn.tibus.net/Live95fm'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Adult contemporary music, local news, talk, and current affairs
   notes: Commercial local radio station in Limerick, Ireland. Serves the Limerick region with local programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d45a9c6f-8526-11e9-aa30-52543be04c81
+  - iprd-ie-live-95-153cb06c
+streams:
+  - url: https://wg.cdn.tibus.net/Live95fm
+    codec: AAC
+    bitrate: 128
+  - url: https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350
+    codec: AAC
+    bitrate: 128

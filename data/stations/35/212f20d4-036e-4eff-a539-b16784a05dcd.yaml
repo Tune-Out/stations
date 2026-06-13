@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:12:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-212f20d4-036e-4eff-a539-b16784a05dcd
-streams:
-  - url: 'https://c22.radioboss.fm/stream/186'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://c22.radioboss.fm/stream/186'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: General entertainment and music radio serving the Saint Petersburg area.
   notes: Royal Radio 96.8 FM is a commercial radio station based in Saint Petersburg, Russia. Offers general entertainment and music programming to the Saint Petersburg metropolitan area audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-212f20d4-036e-4eff-a539-b16784a05dcd
+  - iprd-ru-royal-radio-96-8-c536e995
+streams:
+  - url: https://c22.radioboss.fm/stream/186
+    codec: MP3
+    bitrate: 128
+  - url: http://c22.radioboss.fm/stream/186
+    codec: MP3
+    bitrate: 128

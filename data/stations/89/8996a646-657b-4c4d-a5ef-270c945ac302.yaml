@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-8996a646-657b-4c4d-a5ef-270c945ac302
-streams:
-  - url: 'http://streams.rsa-sachsen.de/rsa-beatles/aac-64/mediaplayerrsa'
-    codec: AAC
-  - url: 'http://rsa.streamabc.net/regc-rsasachsenbeatles9332348-mp3-192-8776045?sABC=66r970p8%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1726574792'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +29,11 @@ research:
   format: Beatles music; 1960s oldies hits; single-artist focus streaming
   notes: R.SA Beatles is a specialized Beatles-focused channel from R.SA, a major German regional station broadcasting from Saxony.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-8996a646-657b-4c4d-a5ef-270c945ac302
+streams:
+  - url: http://streams.rsa-sachsen.de/rsa-beatles/aac-64/mediaplayerrsa
+    codec: AAC
+  - url: http://rsa.streamabc.net/regc-rsasachsenbeatles9332348-mp3-192-8776045?sABC=66r970p8%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1726574792
+    codec: MP3

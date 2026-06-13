@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:07:14
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9618739f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://centova.radio.com.pt:9478/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://centova.radio.com.pt/proxy/478?mp=/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Contemporary pop, Top 40, DJ-driven programming
   notes: Commercial pop radio station based in Porto, Portugal.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9618739f-0601-11e8-ae97-52543be04c81
+  - iprd-pt-radio-nova-era-192902cc
+streams:
+  - url: http://centova.radio.com.pt:9478/
+    codec: MP3
+    bitrate: 128
+  - url: https://centova.radio.com.pt/proxy/478?mp=/stream
+    codec: MP3
+    bitrate: 128

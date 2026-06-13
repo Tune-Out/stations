@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:01:40
 clickcount: 0
 geo_lat: 45.29760564466108
 geo_long: 10.475356171961844
-curation: 0.35
-provenance:
-  - radiobrowser-7752d693-7357-4acd-95d7-45d2adde993b
-streams:
-  - url: 'https://live.radioalfalombardia.it:9871/'
-    codec: MP3
-  - url: 'http://217.61.166.190:9871/'
-    codec: MP3
-  - url: 'http://live.radioalfalombardia.it:9871/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Music, local news, approximately ten daily self-produced segments/rubrics
   notes: 'Established 1977 by volunteer association. Mission: "Associazione Radio Alfa è composta da un gruppo di volontari che quotidianamente e gratuitamente offrono il proprio impegno". Available on FM, website, mobile app, social media (Facebook, Instagram, YouTube, WhatsApp).'
   sources: https://www.radioalfalombardia.it/
+curation: 0.35
+provenance:
+  - radiobrowser-7752d693-7357-4acd-95d7-45d2adde993b
+streams:
+  - url: https://live.radioalfalombardia.it:9871/
+    codec: MP3
+  - url: http://217.61.166.190:9871/
+    codec: MP3
+  - url: http://live.radioalfalombardia.it:9871/
+    codec: MP3

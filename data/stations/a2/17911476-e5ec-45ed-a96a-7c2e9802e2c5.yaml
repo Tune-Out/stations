@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 08:14:52
 clickcount: 4
 geo_lat: 47.035999777775466
 geo_long: 15.406951904296877
-curation: 0.20
-provenance:
-  - radiobrowser-17911476-e5ec-45ed-a96a-7c2e9802e2c5
-streams:
-  - url: 'https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8'
-    codec: AAC
-    bitrate: 1828
-    hls: true
-  - url: 'http://live.antenne.at/as'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,15 @@ research:
   format: Hit/pop music, news, local content, advertising-free (werbefrei) version available
   notes: Part of Antenne Austria broadcasting group. Broadcast covers Styria region with strong local focus. "Werbefrei" indicates ad-free tier available.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-17911476-e5ec-45ed-a96a-7c2e9802e2c5
+  - iprd-at-antenne-steiermark-692ed085
+streams:
+  - url: https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+    codec: AAC
+    bitrate: 1828
+    hls: true
+  - url: http://live.antenne.at/as
+    codec: MP3
+    bitrate: 128

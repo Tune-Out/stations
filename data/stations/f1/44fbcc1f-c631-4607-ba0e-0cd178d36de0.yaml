@@ -24,15 +24,6 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-44fbcc1f-c631-4607-ba0e-0cd178d36de0
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/20500092/64k.mp3'
-    codec: MP3
-  - url: 'http://live.ximalaya.com/radio-first-page-app/live/613/64.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +33,12 @@ research:
   format: Pop music, contemporary hits, electronic music, entertainment
   notes: Provincial public broadcaster in Jiangxi, eastern China; operates under state media umbrella
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-44fbcc1f-c631-4607-ba0e-0cd178d36de0
+streams:
+  - url: https://lhttp.qtfm.cn/live/20500092/64k.mp3
+    codec: MP3
+  - url: http://live.ximalaya.com/radio-first-page-app/live/613/64.m3u8
+    codec: UNKNOWN
+    hls: true

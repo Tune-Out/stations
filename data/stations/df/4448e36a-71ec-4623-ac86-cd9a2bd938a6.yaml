@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:18:44
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-4448e36a-71ec-4623-ac86-cd9a2bd938a6
-streams:
-  - url: 'http://freshgrass.streamguys1.com/ss1-128mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://freshgrass.streamguys1.com/ss1-128mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,15 @@ research:
   format: Classic folk music from American and international traditions; acoustic-focused programming.
   notes: Folk Alley is a curated stream of classic folk music available through StreamGuys; maintains extensive archive of American folk traditions and acoustic music heritage; operates as cultural preservation service.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-4448e36a-71ec-4623-ac86-cd9a2bd938a6
+  - iprd-us-folk-alley-classic-4029e947
+  - iprd-us-folk-alley-freshgrass-84a2db22
+streams:
+  - url: http://freshgrass.streamguys1.com/ss1-128mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://freshgrass.streamguys1.com/ss1-128mp3
+    codec: MP3
+    bitrate: 128

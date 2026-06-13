@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 05:46:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b591479f-e323-4fae-89be-23a3925c654a
-streams:
-  - url: 'https://stream-icy.bauermedia.pt/m80.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream-icy.bauermedia.pt/m80.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Music-focused station with pop, rock, and variety programming; talk shows and podcasts
   notes: "Part of Bauer Media's Portuguese portfolio. Positioning: \"De longe, a música da sua vida\" (From afar, the music of your life). Available via FM, web streaming, and mobile apps."
   sources: https://m80.pt/
+curation: -0.05
+provenance:
+  - radiobrowser-b591479f-e323-4fae-89be-23a3925c654a
+streams:
+  - url: https://stream-icy.bauermedia.pt/m80.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://stream-icy.bauermedia.pt/m80.mp3
+    codec: MP3
+    bitrate: 128

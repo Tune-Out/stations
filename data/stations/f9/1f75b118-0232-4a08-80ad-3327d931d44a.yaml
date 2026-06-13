@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:39:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1f75b118-0232-4a08-80ad-3327d931d44a
-streams:
-  - url: 'http://stream.u2radio.com:9998/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://eu2.fastcast4u.com/proxy/exitinte?mp=/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: 24/7 U2 music, news, and fan content; ZOO Station is U2's 1991 album opener
   notes: U2 Radio operates ZOO Station Radio exclusively focused on U2 discography and related content. Based in Georgia, US. Free streaming service for U2 enthusiasts worldwide.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1f75b118-0232-4a08-80ad-3327d931d44a
+streams:
+  - url: http://stream.u2radio.com:9998/
+    codec: MP3
+    bitrate: 128
+  - url: https://eu2.fastcast4u.com/proxy/exitinte?mp=/;
+    codec: MP3
+    bitrate: 128

@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 04:15:53
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-963b6418-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284281-0_aac_high.m3u'
-    url_resolved: 'http://mdr-284281-0.cast.mdr.de/mdr/284281/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284281-0_mp3_high.m3u'
-    url_resolved: 'http://mdr-284281-0.cast.mdr.de/mdr/284281/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284281-0_mp3_low.m3u'
-    url_resolved: 'http://mdr-284281-0.cast.mdr.de/mdr/284281/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +31,22 @@ research:
   format: Live sports events
   notes: MDR Sachsen Event is a specialized sports stream from Mitteldeutscher Rundfunk, the public broadcaster for central Germany (Saxony, Saxony-Anhalt, Thuringia). MDR is a public-law broadcasting entity funded by license fees and part of ARD system. Event stream provides live coverage of regional and major sporting events.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-963b6418-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-sachsen-event-11eddc39
+  - iprd-de-mdr-sachsen-event-00443a0e
+  - iprd-de-mdr-sachsen-event-520d06cf
+streams:
+  - url: http://avw.mdr.de/streams/284281-0_aac_high.m3u
+    url_resolved: http://mdr-284281-0.cast.mdr.de/mdr/284281/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284281-0_mp3_high.m3u
+    url_resolved: http://mdr-284281-0.cast.mdr.de/mdr/284281/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284281-0_mp3_low.m3u
+    url_resolved: http://mdr-284281-0.cast.mdr.de/mdr/284281/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 1
 geo_lat: 24.80224521878665
 geo_long: -107.3932456970215
-curation: -0.05
-provenance:
-  - radiobrowser-15696ffb-41b3-446f-b784-83f69fdd3040
-streams:
-  - url: 'https://icy.gvstream.live/gpm-cq.aac'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://hls.gvstream.live/gpm/cq-audio.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 32
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: "Regional Mexican music: banda, banda norteña, grupera, traditional Mexican music, música regional mexicana"
   notes: XHECQ-FM 104.1 FM Culiacán; part of La Mejor ("The Best") network; branded "La Mejor Aquí Nomás" ("The Best Right Here"); served by GPM radio group
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-15696ffb-41b3-446f-b784-83f69fdd3040
+streams:
+  - url: https://icy.gvstream.live/gpm-cq.aac
+    codec: AAC+
+    bitrate: 32
+  - url: https://hls.gvstream.live/gpm/cq-audio.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 32
+    hls: true

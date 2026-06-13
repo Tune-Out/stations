@@ -24,17 +24,6 @@ lastchangetime: 2026-01-14 23:16:26
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-962cd16b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://60766ff53d5e6.streamlock.net/liveALR1/mp4:LR1/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'http://lr1mp1.latvijasradio.lv:8012/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +33,15 @@ research:
   format: News, current affairs, talk, analysis, cultural programmes and discussion in Latvian; the network's main news/information channel.
   notes: Latvijas Radio traces its history back to 1925, making it one of the oldest broadcasters in Europe; LR1 is the flagship news-and-talk channel of the five-station Latvijas Radio family (LR1 news/talk, LR2 popular music, LR3 Klasika classical/culture, LR4 Domas laukums Russian-language, LR5 Pieci.lv youth); since 2020 oversight has shifted to the Public Electronic Media Council (SEPLP) and content is published jointly with Latvijas Televizija via the LSM portal; widely seen as a key Latvian-language public-service news outlet, especially during regional security debates following Russia's invasion of Ukraine.
   sources: internal knowledge only (lr1.lsm.lv and lsm.lv returned HTTP 403 to WebFetch)
+curation: 0.4
+provenance:
+  - radiobrowser-962cd16b-0601-11e8-ae97-52543be04c81
+  - iprd-lv-latvijas-radio-1-e045ab8b
+streams:
+  - url: https://60766ff53d5e6.streamlock.net/liveALR1/mp4:LR1/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: http://lr1mp1.latvijasradio.lv:8012/;
+    codec: MP3
+    bitrate: 128

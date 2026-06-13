@@ -20,18 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-cce1e1a1-8705-4890-8129-01c0711e7ef8
-streams:
-  - url: 'https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8'
-    codec: UNKNOWN
-    bitrate: 64
-    hls: true
-  - url: 'https://streamradio.novotempo.com/CDN-RADIO-ES/smil:rntMontevideoUY.smil/playlist.m3u8'
-    codec: UNKNOWN
-    bitrate: 64
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: religious
@@ -41,3 +29,16 @@ research:
   format: Religious programming with Adventist theology and spiritual content
   notes: '"Radio Nuevo Tiempo" (New Time Radio) is Seventh-day Adventist broadcast ministry operating across Latin America with stations in multiple countries including Uruguay. Montevideo-based stream serving Uruguayan Adventist community. Non-profit religious broadcaster.'
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-cce1e1a1-8705-4890-8129-01c0711e7ef8
+  - iprd-uy-radio-nuevo-tiempo-101-3-753e0af7
+streams:
+  - url: https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8
+    codec: UNKNOWN
+    bitrate: 64
+    hls: true
+  - url: https://streamradio.novotempo.com/CDN-RADIO-ES/smil:rntMontevideoUY.smil/playlist.m3u8
+    codec: UNKNOWN
+    bitrate: 64
+    hls: true

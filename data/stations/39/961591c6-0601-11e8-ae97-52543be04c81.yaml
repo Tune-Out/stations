@@ -24,15 +24,6 @@ lastchangetime: 2026-01-15 07:42:27
 clickcount: 23
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-961591c6-0601-11e8-ae97-52543be04c81
-duplicate_of: 96451b5b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/live/mp3-320/audio/'
-    codec: MP3
-  - url: 'https://streams.fluxfm.de/live/mp3-320/audio/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -42,3 +33,12 @@ research:
   format: 30+ dedicated channels including electronic, indie, hip-hop, jazz, metal, chillout, decades-specific (60s-90s, 2000s); magazine programs, interviews, podcasts, live events
   notes: 'Berlin-based community/independent radio with diverse multi-genre programming. Emphasizes community engagement ("Become part of the Flux Community"). Offers eclectic channels: FluxFM (main), FluxFM Finest, Clubsandwich, Techno Underground, Sound of Berlin, and others. Features magazines like Kiez und Kids, Was für ein Leben, FluxFM Cosmorama. Multi-platform streaming with dedicated podcasts.'
   sources: https://www.fluxfm.de/, internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-961591c6-0601-11e8-ae97-52543be04c81
+duplicate_of: 96451b5b-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.fluxfm.de/live/mp3-320/audio/
+    codec: MP3
+  - url: https://streams.fluxfm.de/live/mp3-320/audio/
+    codec: MP3

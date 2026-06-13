@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e2af125a-58df-4264-9d82-589d96a7ab39
-streams:
-  - url: 'https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +29,14 @@ research:
   format: Local news, community information, and regional programming; 128 kbps MP3 stream
   notes: Switzerland's Radio Fribourg serves the Fribourg/Friborg canton; French-language community radio; local news focus; regional broadcasting; part of Swiss community radio landscape
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e2af125a-58df-4264-9d82-589d96a7ab39
+  - iprd-ch-radio-fribourg-b4e73578
+streams:
+  - url: https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
+    codec: MP3
+    bitrate: 128

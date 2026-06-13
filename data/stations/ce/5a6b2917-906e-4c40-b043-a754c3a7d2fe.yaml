@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-5a6b2917-906e-4c40-b043-a754c3a7d2fe
-streams:
-  - url: 'https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Jazz, groove, soul music
   notes: Part of JazzRadio.fr network offering specialized jazz and soul channels; France-based commercial streaming platform.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-5a6b2917-906e-4c40-b043-a754c3a7d2fe
+  - iprd-fr-jazz-radio-groove-a1567425
+streams:
+  - url: https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
+    codec: MP3
+    bitrate: 128

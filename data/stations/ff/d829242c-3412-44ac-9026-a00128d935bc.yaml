@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 03:40:06
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-d829242c-3412-44ac-9026-a00128d935bc
-streams:
-  - url: 'https://radiodancefloor.it/dancefloor_pls.pls'
-    url_resolved: 'http://streaming.radiodancefloor.it:443/'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://audio.radiodancefloor.it/dancefloor.mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +34,14 @@ research:
   format: '"La radio dance anni 90" — non-stop 90s dance, eurodance, electronica and power-pop with curated shows'
   notes: Themed programming includes "90's Selection", "Dancefloor Parade" (official 1990s charts), "Timeline" (dance history contextualised with 90s events), "Re-Tape – Mix-Tape" DJ mixes, and the party-format "Mastercek 90"; tagline "Ascoltaci dove e come vuoi" reflects multi-platform streaming via TuneIn and custom players.
   sources: https://www.radiodancefloor.it/
+curation: 0.25
+provenance:
+  - radiobrowser-d829242c-3412-44ac-9026-a00128d935bc
+streams:
+  - url: https://radiodancefloor.it/dancefloor_pls.pls
+    url_resolved: http://streaming.radiodancefloor.it:443/
+    codec: MP3
+    bitrate: 96
+  - url: https://audio.radiodancefloor.it/dancefloor.mp3
+    codec: MP3
+    bitrate: 96

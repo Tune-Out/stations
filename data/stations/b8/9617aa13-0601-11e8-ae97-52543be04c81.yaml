@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 07:52:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9617aa13-0601-11e8-ae97-52543be04c81
-duplicate_of: 9613eaef-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: R&B, soul, funk, gold hits
   notes: R&B-focused channel of Generations, a major French music radio group. Targets adult audiences with classic and contemporary R&B, soul, and funk music. Part of larger Generations network of genre-specific stations.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9617aa13-0601-11e8-ae97-52543be04c81
+duplicate_of: 9613eaef-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac
+    codec: AAC+
+    bitrate: 64

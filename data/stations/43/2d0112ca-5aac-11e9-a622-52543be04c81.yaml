@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-2d0112ca-5aac-11e9-a622-52543be04c81
-streams:
-  - url: 'http://dreamsiteradiocp.com:8028/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://dreamsiteradiocp2.com:2199/tunein/rmphilippine-stream.pls'
-    url_resolved: 'http://57.129.49.167:8052/stream'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: religious
@@ -42,3 +31,15 @@ research:
   format: Religious talk, Catholic teachings, prayer, spiritual guidance, Catholic news and announcements.
   notes: Part of international Radio Maria network established by a Catholic lay organization. Focuses on evangelization and Catholic catechesis. Non-commercial Catholic radio service.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-2d0112ca-5aac-11e9-a622-52543be04c81
+  - iprd-ph-radio-maria-47271183
+streams:
+  - url: http://dreamsiteradiocp.com:8028/stream
+    codec: MP3
+    bitrate: 64
+  - url: http://dreamsiteradiocp2.com:2199/tunein/rmphilippine-stream.pls
+    url_resolved: http://57.129.49.167:8052/stream
+    codec: MP3
+    bitrate: 32

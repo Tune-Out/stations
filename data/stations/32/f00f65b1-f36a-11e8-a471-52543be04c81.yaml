@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 23:55:28
 clickcount: 4
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.40
-provenance:
-  - radiobrowser-f00f65b1-f36a-11e8-a471-52543be04c81
-streams:
-  - url: 'https://0n-electro.radionetz.de/0n-electro.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-electro.radionetz.de/0n-electro.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: Electro, dance, deep house, techno, tech house, electronic music
   notes: Based in Bavaria; specialized electronic music radio focused on club and dance genres
   sources: http://www.0nradio.com/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-f00f65b1-f36a-11e8-a471-52543be04c81
+  - iprd-de-on-radio-electro-03215629
+  - iprd-de-on-radio-electro-e2b8301e
+streams:
+  - url: https://0n-electro.radionetz.de/0n-electro.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-electro.radionetz.de/0n-electro.mp3
+    codec: MP3
+    bitrate: 128

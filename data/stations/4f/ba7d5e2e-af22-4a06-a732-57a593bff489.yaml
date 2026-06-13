@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 04:44:02
 clickcount: 0
 geo_lat: 19.700921580349096
 geo_long: -103.46477508544923
-curation: 0.50
-provenance:
-  - radiobrowser-ba7d5e2e-af22-4a06-a732-57a593bff489
-streams:
-  - url: 'https://sp2.servidorrprivado.com/8136/ciudadguzman'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://sp2.servidorrprivado.com/8136/cdadguzman'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -43,3 +33,13 @@ research:
   format: Cultural programming, government public service, local news
   notes: Operated by Jalisco State Government; XHCGJ-FM 107.1 FM serves Ciudad Guzmán; public radio emphasizing cultural and civic programming
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-ba7d5e2e-af22-4a06-a732-57a593bff489
+streams:
+  - url: https://sp2.servidorrprivado.com/8136/ciudadguzman
+    codec: MP3
+    bitrate: 320
+  - url: https://sp2.servidorrprivado.com/8136/cdadguzman
+    codec: MP3
+    bitrate: 320

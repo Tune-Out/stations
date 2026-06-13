@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:28:27
 clickcount: 0
 geo_lat: 44.599
 geo_long: 2.033
-curation: 0.35
-provenance:
-  - radiobrowser-bc3c5254-d607-45dc-91e9-dd38de1c8f7f
-streams:
-  - url: 'https://direct.radiopresence.com/radio-presence-figeac'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://direct.radiopresence.com/radio-presence-figeac'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Christian/Catholic radio; spiritual programming, music, ministry content.
   notes: French Christian radio station based in Figeac (Lot department); affiliated with Radió Présence Catholic network; serves Catholic community with spiritual and educational programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bc3c5254-d607-45dc-91e9-dd38de1c8f7f
+  - iprd-fr-radio-pr-sence-figeac-53fc8af1
+streams:
+  - url: https://direct.radiopresence.com/radio-presence-figeac
+    codec: MP3
+    bitrate: 128
+  - url: http://direct.radiopresence.com/radio-presence-figeac
+    codec: MP3
+    bitrate: 128

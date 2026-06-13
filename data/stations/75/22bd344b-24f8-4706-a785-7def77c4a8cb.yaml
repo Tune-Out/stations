@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:13:27
 clickcount: 1
 geo_lat: 51.686748251515425
 geo_long: 5.782665610313416
-curation: 0.35
-provenance:
-  - radiobrowser-22bd344b-24f8-4706-a785-7def77c4a8cb
-streams:
-  - url: 'https://loa.beheerstream.nl:8048/listen.pls?sid=1'
-    url_resolved: 'http://loa.beheerstream.nl:8048/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://nlpo.stream.vip/cuijkrad/mp3-192/nlpo/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Local news, local radio content, various music
   notes: Community-focused local radio station serving the Land van Cuijk region in the Meuse/Cuijk area of North Brabant. Emphasizes local news and community programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-22bd344b-24f8-4706-a785-7def77c4a8cb
+streams:
+  - url: https://loa.beheerstream.nl:8048/listen.pls?sid=1
+    url_resolved: http://loa.beheerstream.nl:8048/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://nlpo.stream.vip/cuijkrad/mp3-192/nlpo/
+    codec: MP3

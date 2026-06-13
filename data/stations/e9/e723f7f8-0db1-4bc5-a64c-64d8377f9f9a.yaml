@@ -21,24 +21,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 141
 geo_lat: 48.1776994
 geo_long: 16.2877707
-curation: 0.55
-provenance:
-  - radiobrowser-e723f7f8-0db1-4bc5-a64c-64d8377f9f9a
-streams:
-  - url: 'https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8'
-    codec: AAC
-    bitrate: 300
-    hls: true
-  - url: 'https://orf-live-oe3.mdn.ors.at/out/u/oe3/q3a/manifest.m3u8'
-    codec: AAC
-    bitrate: 134
-    hls: true
-  - url: 'https://orf-live.ors-shoutcast.at/oe3-q2a'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://ors-sn03.ors-shoutcast.at/oe3-q1a'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -48,3 +30,23 @@ research:
   format: Mainstream contemporary hit radio / pop with news, weather, traffic, sports, and entertainment; Austria's most-listened-to radio station with very high market share
   notes: Launched 1967 as Ö3 (third ORF programme); rebranded as Hitradio Ö3; consistently the highest-rated radio station in Austria with daily reach historically around 30%+ of population; organises and broadcasts major events such as the Ö3 Disco, Nova Rock co-promotion, and Donauinselfest coverage; hybrid public broadcaster which does carry advertising under ORF's commercial mandate
   sources: https://oe3.orf.at/ (WebFetch), internal knowledge
+curation: 0.55
+provenance:
+  - radiobrowser-e723f7f8-0db1-4bc5-a64c-64d8377f9f9a
+  - iprd-at-orf-hitradio-3-f5e8cf89
+  - iprd-at-hitradio-oe3-c9021e8c
+streams:
+  - url: https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8
+    codec: AAC
+    bitrate: 300
+    hls: true
+  - url: https://orf-live-oe3.mdn.ors.at/out/u/oe3/q3a/manifest.m3u8
+    codec: AAC
+    bitrate: 134
+    hls: true
+  - url: https://orf-live.ors-shoutcast.at/oe3-q2a
+    codec: MP3
+    bitrate: 192
+  - url: https://ors-sn03.ors-shoutcast.at/oe3-q1a
+    codec: MP3
+    bitrate: 128

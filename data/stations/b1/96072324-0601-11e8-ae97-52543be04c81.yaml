@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 01:18:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96072324-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3'
-    codec: MP3
-  - url: 'http://icecast.err.ee/raadiotallinn.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -38,3 +30,12 @@ research:
   format: Music variety station with hourly news, BBC and RFI evening programming
   notes: Part of Estonia's national public broadcaster ERR; daytime music format with diverse selection; offers segamatut muusikavalikut (uninterrupted music selection) across genres
   sources: http://raadiotallinn.err.ee/
+curation: 0.35
+provenance:
+  - radiobrowser-96072324-0601-11e8-ae97-52543be04c81
+  - iprd-ee-err-raadio-tallinn-103-5-562aa637
+streams:
+  - url: http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
+    codec: MP3
+  - url: http://icecast.err.ee/raadiotallinn.mp3
+    codec: MP3

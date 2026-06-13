@@ -23,33 +23,6 @@ lastchangetime: 2026-01-15 06:01:29
 clickcount: 16
 geo_lat: 39.53116084718482
 geo_long: -94.59228515625
-curation: 0.30
-provenance:
-  - radiobrowser-a030301c-2fcc-4621-94f6-e09002c47fc1
-streams:
-  - url: 'http://www.star104.net/stream/oldies.pls'
-    url_resolved: 'http://streaming.live365.com/b09584_64aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://www.star104.net/stream/atwork-mp3.pls'
-    url_resolved: 'http://streaming.live365.com/b30572_128mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://www.star104.net/stream/classicrock-mp3.pls'
-    url_resolved: 'http://streaming.live365.com/b47785_128mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://www.star104.net/stream/oldies-mp3.pls'
-    url_resolved: 'http://streaming.live365.com/b09584_128mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://www.star104.net/stream/comedy-mp3.pls'
-    url_resolved: 'http://streaming.live365.com/b42761_64mp3'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://streaming.live365.com/b42761_64mp3'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -59,3 +32,30 @@ research:
   format: Stand-up and vintage comedy, talk and spoken word — one of multiple Radiostorm channels alongside classic rock, oldies and work/background streams
   notes: Self-describes as "Live and Local Internet Radio"; Comedy 104 is the comedy-format channel within the Radiostorm.com network of streams (which also runs classic rock, oldies and work/background music channels); volunteer-operated with donations supporting music royalties ("80% of operating costs") and studio equipment; notable shows include "Marshall Barber's Rockhouse"; tags refer to "Canada's Best Comedy and Talk" reflecting carried syndicated content rather than ownership.
   sources: http://www.radiostorm.com/
+curation: -0.05
+provenance:
+  - radiobrowser-a030301c-2fcc-4621-94f6-e09002c47fc1
+streams:
+  - url: http://www.star104.net/stream/oldies.pls
+    url_resolved: http://streaming.live365.com/b09584_64aac
+    codec: AAC+
+    bitrate: 128
+  - url: http://www.star104.net/stream/atwork-mp3.pls
+    url_resolved: http://streaming.live365.com/b30572_128mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://www.star104.net/stream/classicrock-mp3.pls
+    url_resolved: http://streaming.live365.com/b47785_128mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://www.star104.net/stream/oldies-mp3.pls
+    url_resolved: http://streaming.live365.com/b09584_128mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://www.star104.net/stream/comedy-mp3.pls
+    url_resolved: http://streaming.live365.com/b42761_64mp3
+    codec: MP3
+    bitrate: 96
+  - url: http://streaming.live365.com/b42761_64mp3
+    codec: MP3
+    bitrate: 96

@@ -23,20 +23,6 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960e16d8-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.surfmusik.de/m3u/radio-wmw,10992.m3u'
-    url_resolved: 'https://stream.lokalradio.nrw/4459h6k'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.lokalradio.nrw/4459h82?t=1779106053988'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://rnrw.cast.addradio.de/rnrw-01a8/deinevent/high/stream.mp3?1707016884'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -46,3 +32,17 @@ research:
   format: Adult contemporary, top 40, contemporary hits
   notes: Commercial local radio station serving North Rhine-Westphalia region; streams via lokalradio.nrw network; targets adult contemporary listeners with mainstream pop music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960e16d8-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://www.surfmusik.de/m3u/radio-wmw,10992.m3u
+    url_resolved: https://stream.lokalradio.nrw/4459h6k
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.lokalradio.nrw/4459h82?t=1779106053988
+    codec: MP3
+    bitrate: 128
+  - url: https://rnrw.cast.addradio.de/rnrw-01a8/deinevent/high/stream.mp3?1707016884
+    codec: MP3
+    bitrate: 128

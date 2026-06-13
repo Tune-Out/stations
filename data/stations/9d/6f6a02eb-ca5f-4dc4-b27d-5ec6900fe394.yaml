@@ -21,16 +21,6 @@ lastchangetime: 2026-01-23 18:42:54
 clickcount: 3
 geo_lat: 52.509081267393704
 geo_long: 13.27554523944855
-curation: 0.50
-provenance:
-  - radiobrowser-6f6a02eb-ca5f-4dc4-b27d-5ec6900fe394
-streams:
-  - url: 'https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://f121.rndfnk.com/ard/rbb/inforadio/live/mp3/128/stream.mp3?cid=01FC1WYDPN76K6HSCD8QCR9D3S&sid=2QcLzffN32wHfW1lVCzlxHze7qi&token=pGWtFx8DdsdTygJQfppoygwrmQAJ9neXn-Oapylzh_E&tvf=RIPifb2zZBdmMTIxLnJuZGZuay5jb20'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,14 @@ research:
   format: News, information, current affairs, and public affairs programming; 24-hour news and talk format
   notes: Public broadcaster INFORADIO operated by rbb (Rundfunk Berlin-Brandenburg), a regional public broadcasting service in Germany; funded through broadcast license fees; part of ARD (public broadcasting consortium); focuses on news, current events, and public interest programming
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-6f6a02eb-ca5f-4dc4-b27d-5ec6900fe394
+  - iprd-de-rbb-24-inforadio-99a96fbf
+streams:
+  - url: https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
+    codec: MP3
+    bitrate: 128
+  - url: https://f121.rndfnk.com/ard/rbb/inforadio/live/mp3/128/stream.mp3?cid=01FC1WYDPN76K6HSCD8QCR9D3S&sid=2QcLzffN32wHfW1lVCzlxHze7qi&token=pGWtFx8DdsdTygJQfppoygwrmQAJ9neXn-Oapylzh_E&tvf=RIPifb2zZBdmMTIxLnJuZGZuay5jb20
+    codec: MP3
+    bitrate: 128

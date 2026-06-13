@@ -1,6 +1,6 @@
 stationuuid: 9641f84c-0601-11e8-ae97-52543be04c81
 name: WKZO 590 & 106.9 Kalamazoo, MI
-url: http://provisioning.streamtheworld.com/pls/WKZOAMAAC.pls
+url: 'http://27033.live.streamtheworld.com:80/WKZOAMAAC_SC'
 url_resolved: http://18303.live.streamtheworld.com/WKZOAMAAC_SC
 homepage: http://wkzo.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2165/squareIcon.png?r=58913
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:00:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9641f84c-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: News and talk radio format
   notes: WKZO 590 AM & 106.9 FM is a commercial news and talk radio station serving the Kalamazoo, Michigan market. Provides local news, talk programming, and community affairs to southwestern Michigan audience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9641f84c-0601-11e8-ae97-52543be04c81

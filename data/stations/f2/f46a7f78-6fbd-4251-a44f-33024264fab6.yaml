@@ -19,16 +19,6 @@ lastchangetime: 2026-04-08 14:35:49
 clickcount: 0
 geo_lat: 61.52898037186649
 geo_long: 23.631591796875004
-curation: -0.05
-provenance:
-  - radiobrowser-f46a7f78-6fbd-4251-a44f-33024264fab6
-streams:
-  - url: 'https://st.downtime.fi/sun.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://st.downtime.fi/sun.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Commercial radio; varied programming.
   notes: Radio Sun is a Finnish commercial radio station serving the Pirkanmaa region with diverse programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f46a7f78-6fbd-4251-a44f-33024264fab6
+  - iprd-fi-radio-sun-2051915e
+streams:
+  - url: https://st.downtime.fi/sun.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://st.downtime.fi/sun.mp3
+    codec: MP3
+    bitrate: 128

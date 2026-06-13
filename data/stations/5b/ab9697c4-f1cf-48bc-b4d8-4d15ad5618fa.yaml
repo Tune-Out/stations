@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 08:38:09
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-ab9697c4-f1cf-48bc-b4d8-4d15ad5618fa
-streams:
-  - url: 'https://radio.nia.nc/radio/8020/lofi-hq-stream.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://radio.nia.nc/radio/8020/lofi-hq-stream.aac?1734100301'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,13 @@ research:
   format: 24/7 chill, deep house, deep tech, minimal, electronica on weekdays; tech house, house progressive, psy progressive on weekends; daily mixes and live events
   notes: New Caledonian online radio; tagline "underground electronic radio"; features daily mixes and live events; Lo-Fi programming stream available
   sources: https://nia.nc/
+curation: 0.5
+provenance:
+  - radiobrowser-ab9697c4-f1cf-48bc-b4d8-4d15ad5618fa
+streams:
+  - url: https://radio.nia.nc/radio/8020/lofi-hq-stream.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://radio.nia.nc/radio/8020/lofi-hq-stream.aac?1734100301
+    codec: AAC
+    bitrate: 128

@@ -21,21 +21,6 @@ lastchangetime: 2026-01-15 00:05:50
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ceddaaf9-e322-4ceb-a3e9-d2025f9f9747
-streams:
-  - url: 'http://live.itsybitsy.ro:8000/itsybitsy'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://www.itsybitsy.ro/listen.pls'
-    url_resolved: 'http://live.itsybitsy.ro:8000/itsybitsy'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://itsybitsy.ro/listen.pls'
-    url_resolved: 'http://live.itsybitsy.ro:8000/itsybitsy'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +30,19 @@ research:
   format: kids radio, children's music, educational content, nursery rhymes, children's stories
   notes: Romanian children's radio station providing family-friendly programming for kids; music and entertainment designed for young audiences.
   sources: http://itsybitsy.ro/
+curation: -0.05
+provenance:
+  - radiobrowser-ceddaaf9-e322-4ceb-a3e9-d2025f9f9747
+  - iprd-ro-itsy-bitsy-082a1b17
+streams:
+  - url: http://live.itsybitsy.ro:8000/itsybitsy
+    codec: AAC+
+    bitrate: 32
+  - url: http://www.itsybitsy.ro/listen.pls
+    url_resolved: http://live.itsybitsy.ro:8000/itsybitsy
+    codec: AAC+
+    bitrate: 32
+  - url: http://itsybitsy.ro/listen.pls
+    url_resolved: http://live.itsybitsy.ro:8000/itsybitsy
+    codec: AAC+
+    bitrate: 32

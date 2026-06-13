@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a052582e-4937-40e9-a08f-0f5eda92d0d2
-streams:
-  - url: 'https://ddreins.stream.laut.fm/ddr_eins?t302=2021-04-10_23-03-54&uuid=43c8d3cf-54c4-4ee1-b109-b667d8878cc4'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://laut.fm/ddr_eins'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,15 @@ research:
   format: Specializes in DDR classics, German oldies, and East German historical recordings. Features interviews with DDR musicians and personalities, period jingles, and popular hits from DDR era designed to reconnect audiences with East German cultural history.
   notes: Nostalgia-focused internet radio celebrating East German/DDR musical heritage and culture. Available online and FM. Community-oriented with listener interaction via email for requests and feedback. Streams via laut.fm (ddreins.stream.laut.fm). Audience spans those with personal/cultural connections to DDR era.
   sources: https://www.allradio.net/radio/5886
+curation: 0.35
+provenance:
+  - radiobrowser-a052582e-4937-40e9-a08f-0f5eda92d0d2
+  - iprd-de-ddr-eins-984ade66
+  - iprd-de-ddr-eins-f4fef557
+streams:
+  - url: https://ddreins.stream.laut.fm/ddr_eins?t302=2021-04-10_23-03-54&uuid=43c8d3cf-54c4-4ee1-b109-b667d8878cc4
+    codec: MP3
+    bitrate: 128
+  - url: https://laut.fm/ddr_eins
+    codec: MP3
+    bitrate: 128

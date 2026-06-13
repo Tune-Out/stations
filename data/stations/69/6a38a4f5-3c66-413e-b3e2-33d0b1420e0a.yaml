@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 03:31:41
 clickcount: 2
 geo_lat: 43.67140963227334
 geo_long: -79.37995970249177
-curation: -0.05
-provenance:
-  - radiobrowser-6a38a4f5-3c66-413e-b3e2-33d0b1420e0a
-streams:
-  - url: 'https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 48
-    hls: true
-  - url: 'https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 47
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +31,16 @@ research:
   format: Top 40 contemporary hits radio
   notes: CKIS (call letters), branded as KiSS 92.5, is a commercial radio station owned by Rogers Media broadcasting on 92.5 FM in Toronto. Operates with a contemporary hits (Top 40) format, serving the GTA. Part of Rogers Communications' broadcast network. Features personality-driven morning shows and live event coverage.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6a38a4f5-3c66-413e-b3e2-33d0b1420e0a
+  - iprd-ca-ckis-kiss-92-5-561eec59
+streams:
+  - url: https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 48
+    hls: true
+  - url: https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 47
+    hls: true

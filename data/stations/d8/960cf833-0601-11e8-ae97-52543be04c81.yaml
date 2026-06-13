@@ -26,33 +26,6 @@ lastchangetime: 2026-01-15 05:24:52
 clickcount: 96
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.75
-provenance:
-  - radiobrowser-960cf833-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://somafm.com/groovesalad130.pls'
-    url_resolved: 'https://ice5.somafm.com/groovesalad-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/groovesalad64.pls'
-    url_resolved: 'https://ice2.somafm.com/groovesalad-64-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://somafm.com/groovesalad16.pls'
-    url_resolved: 'https://ice1.somafm.com/groovesalad-16-aac'
-    codec: AAC
-    bitrate: 16
-  - url: 'https://somafm.com/groovesalad256.pls'
-    url_resolved: 'https://ice6.somafm.com/groovesalad-256-mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://somafm.com/groovesalad.pls'
-    url_resolved: 'https://ice5.somafm.com/groovesalad-128-mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8'
-    codec: MP4
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -62,3 +35,34 @@ research:
   format: '"A nicely chilled plate of ambient/downtempo beats and grooves" — curated ambient, downtempo, chillout, lounge electronica (Kruder & Dorfmeister, Fila Brazillia, Groove Armada, Nightmares On Wax, etc.)'
   notes: "Groove Salad is SomaFM's flagship and most popular channel. SomaFM is one of the longest-running independent commercial-free internet radio operations (25+ years as of 2026). It runs 30+ themed channels, is entirely listener-supported, and was an early advocate against SoundExchange royalty rules that nearly killed small webcasters in the mid-2000s. Mission phrasing used on site: \"Commercial-free, Listener-supported Radio.\""
   sources: https://somafm.com/groovesalad/, internal knowledge
+curation: 0.65
+provenance:
+  - radiobrowser-960cf833-0601-11e8-ae97-52543be04c81
+  - iprd-us-somafm-groove-salad-42582427
+  - iprd-us-somafm-groove-salad-253d9d46
+  - iprd-us-somafm-groove-salad-13a61e62
+  - iprd-us-somafm-groove-salad-147d6975
+streams:
+  - url: https://somafm.com/groovesalad130.pls
+    url_resolved: https://ice5.somafm.com/groovesalad-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/groovesalad64.pls
+    url_resolved: https://ice2.somafm.com/groovesalad-64-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://somafm.com/groovesalad16.pls
+    url_resolved: https://ice1.somafm.com/groovesalad-16-aac
+    codec: AAC
+    bitrate: 16
+  - url: https://somafm.com/groovesalad256.pls
+    url_resolved: https://ice6.somafm.com/groovesalad-256-mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://somafm.com/groovesalad.pls
+    url_resolved: https://ice5.somafm.com/groovesalad-128-mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
+    codec: MP4
+    hls: true

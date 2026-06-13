@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 62
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-431eb0c9-c84c-11e8-a54a-52543be04c81
-streams:
-  - url: 'http://ngcdn002.cnr.cn/live/jjzs/index.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://satellitepull.cnr.cn/live/wxjjzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908108209742&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://ngcdn002.cnr.cn/live/jjzs/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -45,3 +32,18 @@ research:
   format: 24-hour economic, business and financial news channel ("Economic Voice" / Business Radio) - market news, macroeconomic commentary, consumer/finance shows, policy explainers
   notes: CNR-2 (Jingji Zhi Sheng, 经济之声 - "Voice of Economy") launched 1986 as China's first national economics-focused radio channel under China National Radio. In March 2018, CNR was merged with CCTV and China Radio International to form China Media Group (CMG, also called "Voice of China"), the world's largest broadcasting organisation by audience. As state media its editorial line aligns with CCP policy; programming amplifies official economic statistics, central bank announcements, and pro-market reform messaging consistent with party directives. Notable programmes include "天下财经" (Tianxia Caijing / World Finance) and "交易实况" (Trading Live). The channel broadcasts on AM, FM, shortwave and online nationwide.
   sources: internal knowledge only, http://www.cnr.cn/
+curation: 0.45
+provenance:
+  - radiobrowser-431eb0c9-c84c-11e8-a54a-52543be04c81
+  - iprd-cn-cnr-2-economic-voice-27ef0a69
+  - iprd-cn-cnr-2-economic-voice-d29664ea
+streams:
+  - url: http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://satellitepull.cnr.cn/live/wxjjzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908108209742&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+    codec: UNKNOWN
+    hls: true
+  - url: https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+    codec: UNKNOWN
+    hls: true

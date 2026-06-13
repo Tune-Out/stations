@@ -22,25 +22,6 @@ lastchangetime: 2026-01-15 04:12:35
 clickcount: 176
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-0b80555f-eb5c-4fce-94d2-109eec7bee6b
-streams:
-  - url: 'https://icecast.radiofrance.fr/franceinter-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://direct.franceinter.fr/live/franceinter-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://icecast.radiofrance.fr/franceinter-hifi.aac?id=radiofrance'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://icecast.radiofrance.fr/franceinter-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://direct.franceinter.fr/live/franceinter-lofi.mp3'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -50,3 +31,23 @@ research:
   format: generalist public radio - news, talk, cultural programming, interviews, debates, drama, comedy and some music
   notes: Founded 1947 (under various names), France Inter is the flagship generalist station of Radio France and consistently the most-listened-to radio station in France since 2019, surpassing RTL. Carries flagship morning news show "Le 7/9", "La Marche de l'histoire", "Le Masque et la Plume" and many widely cited cultural programs. Considered center-left leaning by media analysts but operates under public-service impartiality mandate. Financed historically by the redevance audiovisuelle (abolished 2022) and now by state budget allocation.
   sources: https://www.franceinter.fr/ (redirects to radiofrance.fr/franceinter), internal knowledge
+curation: 0.8
+provenance:
+  - radiobrowser-0b80555f-eb5c-4fce-94d2-109eec7bee6b
+  - iprd-fr-france-inter-94f3efb2
+streams:
+  - url: https://icecast.radiofrance.fr/franceinter-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://direct.franceinter.fr/live/franceinter-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: https://icecast.radiofrance.fr/franceinter-hifi.aac?id=radiofrance
+    codec: AAC
+    bitrate: 192
+  - url: http://icecast.radiofrance.fr/franceinter-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://direct.franceinter.fr/live/franceinter-lofi.mp3
+    codec: MP3
+    bitrate: 32

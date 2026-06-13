@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96418b24-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://statslive.infomaniak.ch/playlist/freqplus/freqplus-high.aac/playlist.pls'
-    url_resolved: 'https://freqplus.ice.infomaniak.ch/freqplus-high.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://statslive.infomaniak.ch/playlist/freqplus/freqplus-high.mp3/playlist.pls'
-    url_resolved: 'https://freqplus.ice.infomaniak.ch/freqplus-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +30,17 @@ research:
   format: Music and entertainment programming
   notes: Regional commercial radio station in eastern France, operating since at least 2008 (per registry history).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96418b24-0601-11e8-ae97-52543be04c81
+  - iprd-fr-fr-quence-plus-4083cb44
+  - iprd-fr-fr-quence-plus-da087113
+streams:
+  - url: http://statslive.infomaniak.ch/playlist/freqplus/freqplus-high.aac/playlist.pls
+    url_resolved: https://freqplus.ice.infomaniak.ch/freqplus-high.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://statslive.infomaniak.ch/playlist/freqplus/freqplus-high.mp3/playlist.pls
+    url_resolved: https://freqplus.ice.infomaniak.ch/freqplus-high.mp3
+    codec: MP3
+    bitrate: 128

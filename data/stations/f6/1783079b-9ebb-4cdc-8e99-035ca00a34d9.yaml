@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:08:33
 clickcount: 1
 geo_lat: 48.13721918556799
 geo_long: 11.574804782867432
-curation: -0.05
-provenance:
-  - radiobrowser-1783079b-9ebb-4cdc-8e99-035ca00a34d9
-streams:
-  - url: 'http://rs24.stream24.net/lounge'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://rs24.stream24.net/lounge?1388180908497.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Commercial specialty lounge station; relaxation music, chillout, background music for urban professionals
   notes: Munich-based station; 95.5 FM; Bavarian cultural market; Charivari brand known for contemporary and lifestyle programming
   sources: https://www.charivari.de/
+curation: -0.05
+provenance:
+  - radiobrowser-1783079b-9ebb-4cdc-8e99-035ca00a34d9
+streams:
+  - url: http://rs24.stream24.net/lounge
+    codec: MP3
+    bitrate: 128
+  - url: http://rs24.stream24.net/lounge?1388180908497.mp3
+    codec: MP3
+    bitrate: 128

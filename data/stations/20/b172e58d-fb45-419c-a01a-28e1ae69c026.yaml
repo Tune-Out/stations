@@ -21,10 +21,6 @@ lastchangetime: 2026-01-15 08:50:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b172e58d-fb45-419c-a01a-28e1ae69c026
-duplicate_of: c77430eb-454e-43ca-a7da-92d29c471db5
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +30,7 @@ research:
   format: Music streaming; Hindi language audio content
   notes: AmListen is hosted on Zeno.fm, a commercial online radio streaming platform. Stream URL is a Zeno.fm stream endpoint with JWT authentication token. The station appears to focus on Hindi-language music content for Indian audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b172e58d-fb45-419c-a01a-28e1ae69c026
+duplicate_of: c77430eb-454e-43ca-a7da-92d29c471db5

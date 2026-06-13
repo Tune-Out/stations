@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 01:02:30
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-253ad8ac-b75a-4e9c-8700-0a9abde11cb8
-streams:
-  - url: 'http://radiocentar.hr:8282/stream.aac'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://radiocentar.hr:8282/mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Mixed format with local news, folk, pop, rock, and information programming
   notes: Poreč, Croatia-based local commercial station; broadcasts on 89.6 MHz and 93.6 MHz; emphasizes local news (every weekday/Saturday at 11, 14, 18 hours) and regional community engagement; includes Croatian Radio news and international music charts.
   sources: https://www.radiocentar.hr/
+curation: 0.4
+provenance:
+  - radiobrowser-253ad8ac-b75a-4e9c-8700-0a9abde11cb8
+  - iprd-hr-radio-centar-studio-pore-0f19e4a9
+streams:
+  - url: http://radiocentar.hr:8282/stream.aac
+    codec: AAC+
+    bitrate: 320
+  - url: http://radiocentar.hr:8282/mp3
+    codec: MP3
+    bitrate: 192

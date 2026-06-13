@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-54867e97-1294-47bc-82c1-7d2e8fe26b51
-streams:
-  - url: 'https://fwd.autopo.st/powerofworshipradio'
-    codec: AAC
-  - url: 'https://fwd.autopo.st/powerofworshipradio?_=484910'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -36,3 +28,11 @@ research:
   format: Christian worship, inspirational music, and religious programming
   notes: Power of Worship Radio is a non-commercial Christian radio station based in South Carolina, dedicated to worship music and inspirational religious content. The station serves Christian audiences seeking devotional and spiritual audio programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-54867e97-1294-47bc-82c1-7d2e8fe26b51
+streams:
+  - url: https://fwd.autopo.st/powerofworshipradio
+    codec: AAC
+  - url: https://fwd.autopo.st/powerofworshipradio?_=484910
+    codec: AAC

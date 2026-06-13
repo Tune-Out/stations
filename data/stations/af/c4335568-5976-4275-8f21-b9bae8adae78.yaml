@@ -1,7 +1,7 @@
 stationuuid: c4335568-5976-4275-8f21-b9bae8adae78
 name: CBN São Paulo
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC_SC
+url: 'https://26683.live.streamtheworld.com:443/CBN_SPAAC_SC'
+url_resolved: 'https://26683.live.streamtheworld.com:443/CBN_SPAAC_SC'
 homepage: https://cbn.globoradio.globo.com/programas/cbn-sao-paulo/CBN-SAO-PAULO.htm
 favicon: https://s2-cbn.glbimg.com/9iL7CIlonSiXiwu6g2WEijQIl9I=/57x57/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2021/z/M/JpDF4cRs6ZHPip8YMKNw/cbn.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 00:04:28
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c4335568-5976-4275-8f21-b9bae8adae78
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: 24-hour all-news talk radio with sports coverage, market reports, interviews, and analysis
   notes: CBN São Paulo is the São Paulo flagship of Central Brasileira de Notícias (CBN), Brazil's pioneering all-news radio network launched in 1991 by Sistema Globo de Rádio under the slogan "A rádio que toca notícia"; CBN São Paulo broadcasts on 90.5 FM (formerly AM 780) and produces national programming such as Jornal da CBN alongside local hourly newscasts; part of Grupo Globo, Brazil's largest media conglomerate.
   sources: https://cbn.globoradio.globo.com/programas/cbn-sao-paulo/CBN-SAO-PAULO.htm (fetch blocked), internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-c4335568-5976-4275-8f21-b9bae8adae78

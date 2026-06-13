@@ -24,26 +24,6 @@ lastchangetime: 2026-01-15 01:11:29
 clickcount: 34
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.80
-provenance:
-  - radiobrowser-9614b5e5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://somafm.com/u80s130.pls'
-    url_resolved: 'https://ice5.somafm.com/u80s-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/u80s32.pls'
-    url_resolved: 'https://ice2.somafm.com/u80s-32-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://somafm.com/u80s256.pls'
-    url_resolved: 'https://ice6.somafm.com/u80s-256-mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://somafm.com/u80s.pls'
-    url_resolved: 'https://ice6.somafm.com/u80s-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -53,3 +33,28 @@ research:
   format: Early 80s UK Synthpop and New Wave; features Human League, Depeche Mode, Thompson Twins, A Flock of Seagulls, New Order, Ultravox, and lesser-known synthpop artists.
   notes: SomaFM Underground 80s is part of SomaFM, a non-commercial listener-supported radio network founded in 2000. Commercial-free streaming. Specialty channel focused on 1980s UK synthpop and new wave music. Multiple bitrate/codec options available. Monthly supporter model.
   sources: https://somafm.com/u80s/
+curation: 0.6
+provenance:
+  - radiobrowser-9614b5e5-0601-11e8-ae97-52543be04c81
+  - iprd-us-somafm-underground-80s-7357f1f2
+  - iprd-us-somafm-underground-80s-2c66b854
+  - iprd-us-somafm-underground-80s-e5e73f25
+  - iprd-us-somafm-underground-80s-d3bb6a19
+  - iprd-us-somafm-underground-80s-93ae117e
+streams:
+  - url: https://somafm.com/u80s130.pls
+    url_resolved: https://ice5.somafm.com/u80s-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/u80s32.pls
+    url_resolved: https://ice2.somafm.com/u80s-32-aac
+    codec: AAC
+    bitrate: 32
+  - url: https://somafm.com/u80s256.pls
+    url_resolved: https://ice6.somafm.com/u80s-256-mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://somafm.com/u80s.pls
+    url_resolved: https://ice6.somafm.com/u80s-128-mp3
+    codec: MP3
+    bitrate: 128

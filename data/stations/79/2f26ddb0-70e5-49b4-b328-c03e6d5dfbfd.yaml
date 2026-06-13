@@ -29,16 +29,6 @@ lastchangetime: 2026-02-06 09:56:48
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-2f26ddb0-70e5-49b4-b328-c03e6d5dfbfd
-streams:
-  - url: 'https://s1.free-shoutcast.com/stream/18150'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://s1.free-shoutcast.com:18150/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -48,3 +38,13 @@ research:
   format: 1980s, 1990s, 2000s hits; oldies; DJ mixes; "The Best of 80's"; dance, pop, rock
   notes: Based in Constanta, Romania; streams via free-shoutcast; multilingual programming; curated oldies and retro-focused format
   sources: WebSearch "LexSquad Radio Station Romania 80s 90s retro music"
+curation: 0.5
+provenance:
+  - radiobrowser-2f26ddb0-70e5-49b4-b328-c03e6d5dfbfd
+streams:
+  - url: https://s1.free-shoutcast.com/stream/18150
+    codec: MP3
+    bitrate: 128
+  - url: http://s1.free-shoutcast.com:18150/
+    codec: MP3
+    bitrate: 128

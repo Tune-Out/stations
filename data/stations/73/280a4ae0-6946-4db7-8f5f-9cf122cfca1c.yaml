@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-280a4ae0-6946-4db7-8f5f-9cf122cfca1c
-streams:
-  - url: 'https://eilo.org/streamer.php?ch=techno'
-    codec: MP3
-  - url: 'https://eilo.org/streamer.php?ch=trance'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +29,11 @@ research:
   format: Techno, electronic dance music, house
   notes: Bulgarian internet radio specializing in techno and electronic music; operates from Sofia; serves global electronic music audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-280a4ae0-6946-4db7-8f5f-9cf122cfca1c
+streams:
+  - url: https://eilo.org/streamer.php?ch=techno
+    codec: MP3
+  - url: https://eilo.org/streamer.php?ch=trance
+    codec: MP3

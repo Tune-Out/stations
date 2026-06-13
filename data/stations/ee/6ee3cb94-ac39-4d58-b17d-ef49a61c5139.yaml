@@ -1,7 +1,7 @@
 stationuuid: 6ee3cb94-ac39-4d58-b17d-ef49a61c5139
 name: Edge FM - Bega Valley Community Radio - 93.7 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2BAR.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2BAR.mp3
+url: 'http://28863.live.streamtheworld.com:80/2BAR.mp3'
+url_resolved: 'http://28863.live.streamtheworld.com:80/2BAR.mp3'
 homepage: https://edgefm.org.au/
 favicon: https://edgefm.org.au/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:05:36
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-6ee3cb94-ac39-4d58-b17d-ef49a61c5139
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Eclectic music (blues, jazz, rock, metal, world, electronica); specialty shows covering arts, theatre, technology, politics
   notes: Non-profit community broadcaster on 93.7 FM in Bega Valley, NSW; funded by Department of Broadband, Communications and Digital Economy via Community Broadcasting Foundation; hosts local presenter shows and radiothon fundraising events; emphasizes Indigenous cultural acknowledgment
   sources: https://edgefm.org.au/
+curation: 0.5
+provenance:
+  - radiobrowser-6ee3cb94-ac39-4d58-b17d-ef49a61c5139

@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b43b5ddd-a053-408f-b3f1-2668ac0cd5d4
-streams:
-  - url: 'http://live2.infonetmedia.si:8000/Maxi'
-    codec: MP3
-  - url: 'https://live.radio.si/Maxi?t=1722577989752'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: General format radio; contemporary pop, news, information, entertainment.
   notes: Slovenian commercial radio station; operates from Ljubljana; part of regional Slovenian broadcast network serving Central Europe.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b43b5ddd-a053-408f-b3f1-2668ac0cd5d4
+streams:
+  - url: http://live2.infonetmedia.si:8000/Maxi
+    codec: MP3
+  - url: https://live.radio.si/Maxi?t=1722577989752
+    codec: MP3

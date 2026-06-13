@@ -30,22 +30,6 @@ lastchangetime: 2026-03-18 01:50:21
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9c4eb345-7fd5-4020-af13-97a5f82ebdb8
-streams:
-  - url: 'https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadioHD'
-    codec: OGG
-    bitrate: 320
-  - url: 'https://radio.serrebiradio.com/listen/serrebiradio/low'
-    codec: OGG
-    bitrate: 48
-  - url: 'https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://radio.serrebiradio.com:8000/SerrebiRadio'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -55,3 +39,19 @@ research:
   format: Electronic dance music (EDM, trance, house, dubstep, hardstyle, progressive, hardcore)
   notes: Canadian internet radio station specializing in electronic and dance music programming.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9c4eb345-7fd5-4020-af13-97a5f82ebdb8
+streams:
+  - url: https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadioHD
+    codec: OGG
+    bitrate: 320
+  - url: https://radio.serrebiradio.com/listen/serrebiradio/low
+    codec: OGG
+    bitrate: 48
+  - url: https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
+    codec: MP3
+    bitrate: 320
+  - url: http://radio.serrebiradio.com:8000/SerrebiRadio
+    codec: MP3
+    bitrate: 320

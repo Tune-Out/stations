@@ -23,14 +23,6 @@ lastchangetime: 2026-04-16 21:43:13
 clickcount: 0
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.55
-provenance:
-  - radiobrowser-f8cb5a6f-6767-44a8-9cbe-28532bfc7db4
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/alternative/stream.mp3?quality=1'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/radioalt/mp3-320/streams.fluxfm.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +32,12 @@ research:
   format: Alternative rock; indie rock; contemporary music; music-only programming format.
   notes: FluxFM is a Berlin-based independent community radio station. Operates multiple music channels including alternative rock, 60s, and other genres via Radiosphere streaming platform. Founded in 1989, known for independent and alternative programming.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-f8cb5a6f-6767-44a8-9cbe-28532bfc7db4
+  - iprd-de-fluxfm-radio-alternative-a57b0821
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/alternative/stream.mp3?quality=1
+    codec: MP3
+  - url: http://streams.fluxfm.de/radioalt/mp3-320/streams.fluxfm.de/
+    codec: MP3

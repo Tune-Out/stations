@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 03:33:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-14130056-120c-11e9-a80b-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -33,3 +30,7 @@ research:
   format: Continuous automated weather broadcasts, emergency alerts, and environmental information on VHF radio (162.550 MHz)
   notes: Part of NOAA Weather Radio All Hazards (NWR) network. Continuous automated service providing local weather, hydrology, marine conditions, and emergency alerts. No commercial programming. KHB36 transmitter covers Manassas area in Loudoun/Prince William counties, Virginia.
   sources: internal knowledge only (NOAA homepage returned 403 Forbidden)
+curation: 0.35
+provenance:
+  - radiobrowser-14130056-120c-11e9-a80b-52543be04c81
+  - iprd-us-khb36-162-550-noaa-weather-radio-fa1d45e1

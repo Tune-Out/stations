@@ -21,37 +21,6 @@ lastchangetime: 2026-01-15 01:52:51
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9645c7e9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://mp3ad.radiob2rolandkaiser.c.nmdn.net/radiob2rolandkaiser/livestream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://mp3ad.radiob2schlagermixx.c.nmdn.net/radiob2schlagermixx/livestream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://mp3ad.radiob2helenefischer.c.nmdn.net/radiob2helenefischer/livestream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://mp3ad.radiob2andreaberg.c.nmdn.net/radiob2andreaberg/livestream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radiob2-national.cast.addradio.de/radiob2/national/mp3/high/stream.mp3?ar-distributor=f0b7&token=c3RhcnRUaW1lPTIwMTkwMjA2MTE0ODAxJmVuZFRpbWU9MjAxOTAyMDYxMzQ4MDEmaXB2ND0xODEuMjI2LjE1OS43MS8yNCZkaWdlc3Q9N2U1MmQxYTAwY2EzMGMwZDBhNzczZTg2OTVlZTBhZGU'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://mp3ad.radiob2ostschlager.c.nmdn.net/radiob2ostschlager/livestream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://mp3ad.radiob2volksmusik.c.nmdn.net/radiob2volksmusik/livestream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://mp3ad.radiob2kultschlager.c.nmdn.net/radiob2kultschlager/livestream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mp3ad.radiob2.c.nmdn.net/ps-radiob2national/livestream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -61,3 +30,34 @@ research:
   format: schlager, German folk hits, traditional German music; cultural music programming
   notes: Commercial radio station based in Berlin, Germany. Specializes in Kultschlager (cultural Schlager music) programming. Focuses on traditional German popular music, folk hits, and schlager genre. Community-oriented format with cultural significance in Berlin region.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9645c7e9-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://mp3ad.radiob2rolandkaiser.c.nmdn.net/radiob2rolandkaiser/livestream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://mp3ad.radiob2schlagermixx.c.nmdn.net/radiob2schlagermixx/livestream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://mp3ad.radiob2helenefischer.c.nmdn.net/radiob2helenefischer/livestream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://mp3ad.radiob2andreaberg.c.nmdn.net/radiob2andreaberg/livestream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://radiob2-national.cast.addradio.de/radiob2/national/mp3/high/stream.mp3?ar-distributor=f0b7&token=c3RhcnRUaW1lPTIwMTkwMjA2MTE0ODAxJmVuZFRpbWU9MjAxOTAyMDYxMzQ4MDEmaXB2ND0xODEuMjI2LjE1OS43MS8yNCZkaWdlc3Q9N2U1MmQxYTAwY2EzMGMwZDBhNzczZTg2OTVlZTBhZGU
+    codec: MP3
+    bitrate: 192
+  - url: http://mp3ad.radiob2ostschlager.c.nmdn.net/radiob2ostschlager/livestream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://mp3ad.radiob2volksmusik.c.nmdn.net/radiob2volksmusik/livestream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://mp3ad.radiob2kultschlager.c.nmdn.net/radiob2kultschlager/livestream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://mp3ad.radiob2.c.nmdn.net/ps-radiob2national/livestream.mp3
+    codec: MP3
+    bitrate: 128

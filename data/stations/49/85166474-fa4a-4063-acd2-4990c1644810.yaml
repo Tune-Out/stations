@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 02:07:59
 clickcount: 7
 geo_lat: 60.17104172424049
 geo_long: 24.94128227233887
-curation: -0.05
-provenance:
-  - radiobrowser-85166474-fa4a-4063-acd2-4990c1644810
-duplicate_of: 348c186a-e554-4376-950c-12c78027050d
-streams:
-  - url: 'https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein'
-    codec: AAC
-    bitrate: 63
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Pop music programming
   notes: Finnish commercial FM radio station; part of Bauer Media Group; serves Finnish market with pop music; AAC streaming at 63kbps
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-85166474-fa4a-4063-acd2-4990c1644810
+duplicate_of: 348c186a-e554-4376-950c-12c78027050d
+streams:
+  - url: https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+    codec: AAC
+    bitrate: 64
+  - url: https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+    codec: AAC
+    bitrate: 63

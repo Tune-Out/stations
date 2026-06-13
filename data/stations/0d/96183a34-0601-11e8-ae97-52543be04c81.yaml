@@ -23,20 +23,6 @@ lastchangetime: 2026-01-15 04:06:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-96183a34-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stm.rthk.hk/radio4'
-    codec: MP3
-  - url: 'http://stm.rthk.hk/radio3'
-    codec: MP3
-  - url: 'http://stm1.rthk.hk/radio5'
-    codec: MP3
-  - url: 'http://stm.rthk.hk/radio2'
-    codec: MP3
-  - url: 'http://stm.rthk.hk/radio1'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -46,3 +32,22 @@ research:
   format: Educational and current affairs programming in Cantonese and English
   notes: RTHK Radio 4 is a public radio channel serving Hong Kong with educational and informational content
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-96183a34-0601-11e8-ae97-52543be04c81
+  - iprd-hk-rthk-radio-1-92-6-000b6472
+  - iprd-hk-rthk-radio-2-94-8-a709fe64
+  - iprd-hk-rthk-radio-3-567-224f940e
+  - iprd-hk-rthk-radio-4-97-6-6312955c
+  - iprd-hk-rthk-radio-5-783-04fdf5d0
+streams:
+  - url: http://stm.rthk.hk/radio4
+    codec: MP3
+  - url: http://stm.rthk.hk/radio3
+    codec: MP3
+  - url: http://stm1.rthk.hk/radio5
+    codec: MP3
+  - url: http://stm.rthk.hk/radio2
+    codec: MP3
+  - url: http://stm.rthk.hk/radio1
+    codec: MP3

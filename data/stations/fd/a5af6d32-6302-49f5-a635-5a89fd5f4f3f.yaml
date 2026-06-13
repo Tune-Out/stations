@@ -1,7 +1,7 @@
 stationuuid: a5af6d32-6302-49f5-a635-5a89fd5f4f3f
 name: 93.3 The Drive
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WPBGFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WPBGFM.mp3
+url: 'https://18493.live.streamtheworld.com:443/WPBGFM.mp3'
+url_resolved: 'https://18493.live.streamtheworld.com:443/WPBGFM.mp3'
 homepage: https://www.933thedrive.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2006/squareIcon.png?r=56300
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a5af6d32-6302-49f5-a635-5a89fd5f4f3f
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Contemporary hit radio (CHR); variety hits and music
   notes: FM station (93.3) in Peoria, Illinois. Call sign WPBG. Branded as "The Drive" suggesting commute-focused programming. Available via iHeartRadio streaming platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a5af6d32-6302-49f5-a635-5a89fd5f4f3f

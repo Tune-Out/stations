@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 2
 geo_lat: 55.756629744446656
 geo_long: -4.288315773010255
-curation: 0.35
-provenance:
-  - radiobrowser-f976018d-6397-4606-b0d0-957fd69a18ac
-streams:
-  - url: 'http://mscp3.live-streams.nl:8340/jazz-high.aac'
-    codec: AAC
-    bitrate: 320
-  - url: 'http://radio.linn.co.uk:8000/autodj'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://radio.linn.co.uk:8000/autodj.m3u'
-    url_resolved: 'http://radio.linn.co.uk:8000/autodj'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +31,20 @@ research:
   format: 24/7 jazz music; curated programming featuring classic and contemporary jazz
   notes: Operated by Linn, a prestigious Scottish electronics/hi-fi company founded 1973; available as internet radio channel; part of Linn's music streaming ecosystem
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f976018d-6397-4606-b0d0-957fd69a18ac
+  - iprd-gb-linn-jazz-a3a389a0
+  - iprd-gb-naim-jazz-f48ad1e7
+  - iprd-gb-linn-classical-radio-8c269da4
+streams:
+  - url: http://mscp3.live-streams.nl:8340/jazz-high.aac
+    codec: AAC
+    bitrate: 320
+  - url: http://radio.linn.co.uk:8000/autodj
+    codec: MP3
+    bitrate: 320
+  - url: http://radio.linn.co.uk:8000/autodj.m3u
+    url_resolved: http://radio.linn.co.uk:8000/autodj
+    codec: MP3
+    bitrate: 320

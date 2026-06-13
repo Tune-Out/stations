@@ -19,17 +19,6 @@ lastchangetime: 2026-01-24 08:16:00
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f24c9e39-de63-4c11-888a-d749296a8868
-streams:
-  - url: 'https://1zwolle.nl/stream/live.pls'
-    url_resolved: 'https://stream.and-stuff.nl:8443/live-1zwolle'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream.and-stuff.nl:8443/live-1zwolle'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -39,3 +28,14 @@ research:
   format: Regional and local programming
   notes: Dutch regional radio station serving the Zwolle municipality and surrounding area. Local news and programming focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f24c9e39-de63-4c11-888a-d749296a8868
+streams:
+  - url: https://1zwolle.nl/stream/live.pls
+    url_resolved: https://stream.and-stuff.nl:8443/live-1zwolle
+    codec: MP3
+    bitrate: 320
+  - url: https://stream.and-stuff.nl:8443/live-1zwolle
+    codec: MP3
+    bitrate: 320

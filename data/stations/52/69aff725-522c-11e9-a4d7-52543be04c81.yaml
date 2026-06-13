@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:51:20
 clickcount: 14
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-69aff725-522c-11e9-a4d7-52543be04c81
-streams:
-  - url: 'https://stream.tmwradio.com/bianconera.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream.tmwradio.com/bianconera.aac?FLID=1'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Sports talk and news radio focused entirely on Juventus FC — match commentary, post-game analysis, interviews, podcasts and supporter call-ins; tagline "L'unica che conta!" (The only one that matters)
   notes: Radio Bianconera is run from Turin and bills itself as "la voce dei tifosi bianconeri" (the voice of Juventus supporters), delivering "Notizie, dirette, interviste e approfondimenti sul mondo bianconero, raccontati con passione e competenza" via a digital-only multi-platform footprint (web stream, TV component, mobile apps, social media). It is one of several team-affiliated fan broadcasters in the Italian football ecosystem (alongside Radio Bianconera's Inter, Milan and Roma equivalents) and is editorially independent of Juventus FC itself, operating as a partisan commercial sports-talk service.
   sources: http://www.radiobianconera.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-69aff725-522c-11e9-a4d7-52543be04c81
+  - iprd-it-radio-bianconera-f53c1b93
+streams:
+  - url: https://stream.tmwradio.com/bianconera.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream.tmwradio.com/bianconera.aac?FLID=1
+    codec: AAC+
+    bitrate: 64

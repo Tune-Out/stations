@@ -1,7 +1,7 @@
 stationuuid: 8bbf0a68-dc10-49d7-8f32-db79985f35b7
 name: KRR - Kandos - 98.7 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3
+url: 'http://28803.live.streamtheworld.com:80/2KRR.mp3'
+url_resolved: 'http://28803.live.streamtheworld.com:80/2KRR.mp3'
 homepage: https://krrfm.org.au/
 favicon: https://i.ibb.co/symGjB1/60fd3dca11a963a6033d557a.jpg
 tags:
@@ -27,9 +27,6 @@ lastchangetime: 2026-01-15 05:37:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-8bbf0a68-dc10-49d7-8f32-db79985f35b7
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +36,6 @@ research:
   format: Music-oriented with country, bluegrass, jazz, rock, and classic hits from 1950s-present; local news and community information.
   notes: Operating since 1993; volunteer-run community radio on 98.7 FM with over thirty volunteer announcers; "run by the community, for the community"; focuses on entertaining and informing listeners with local news and events.
   sources: https://krrfm.org.au/
+curation: 0.5
+provenance:
+  - radiobrowser-8bbf0a68-dc10-49d7-8f32-db79985f35b7

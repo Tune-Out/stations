@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 05:28:02
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-96288fcc-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://bigrradio.cdnstream1.com/5183_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://bigrradio.cdnstream1.com/5183_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: 24/7 curated 80s and 90s pop hits, classic pop music from 1980-2000 era
   notes: BigR Radio operates a network of themed internet radio channels offering commercial-free or ad-supported streaming; the "80s and 90s Pop Mix" channel is one of dozens of genre-specific streams; listener-supported model with optional premium membership; based in Washington state; no terrestrial broadcast, internet-only; targets listeners seeking nostalgia programming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-96288fcc-0601-11e8-ae97-52543be04c81
+  - iprd-us-big-r-radio-80s-and-90s-pop-mix-739b852a
+streams:
+  - url: http://bigrradio.cdnstream1.com/5183_128
+    codec: MP3
+    bitrate: 128
+  - url: https://bigrradio.cdnstream1.com/5183_128
+    codec: MP3
+    bitrate: 128

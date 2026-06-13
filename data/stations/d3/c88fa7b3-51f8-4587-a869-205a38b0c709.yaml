@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c88fa7b3-51f8-4587-a869-205a38b0c709
-streams:
-  - url: 'https://funasia.streamguys1.com/live-1'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://funasia.streamguys1.com/live-1?_=1596332823914'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: South Asian music, talk shows, entertainment in Hindi, Telugu, Tamil, Punjabi; 24/7 streaming; podcasts and interviews
   notes: '"Premier South Asian radio and entertainment destination in Dallas-Fort Worth" per mission statement; operates multi-language network (FM 104.9, AM 700 DFW); serves South Asian communities across North America and UAE with cultural programming and community connection; offers mobile app, live streaming, community events, marketplace advertising.'
   sources: https://funasia.net/
+curation: 0.35
+provenance:
+  - radiobrowser-c88fa7b3-51f8-4587-a869-205a38b0c709
+  - iprd-us-kzmp-104-9-funasia-018bbd00
+streams:
+  - url: https://funasia.streamguys1.com/live-1
+    codec: MP3
+    bitrate: 128
+  - url: https://funasia.streamguys1.com/live-1?_=1596332823914
+    codec: MP3
+    bitrate: 128

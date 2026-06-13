@@ -22,21 +22,6 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-1def7d71-46ce-45e8-b4f5-e3e3ccc38ee7
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk/A/A11H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A11H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk:8000/A/A11H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +31,19 @@ research:
   format: Regional adult-contemporary public radio — Danish and international pop hits with strong regional news, traffic, weather, sport and listener service for Zealand
   notes: P4 is DR's most-listened-to radio network nationally, split into 11 regional channels of which DR P4 Sjælland is one, broadcasting from DR's regional studio in Næstved and Roskilde with daily regional windows (morning, midday, afternoon) opted out of the shared national P4 schedule; the channel's main FM frequencies cover Zealand outside the capital area; DR's overall public-service remit, codified in its public-service contract with the Ministry of Culture, requires impartial news, Danish cultural content and broad demographic reach; recent years have seen significant DR budget cuts (notably the 2018 media agreement reducing DR's funding ~20%) and a 2022 transition from licence fee to tax funding that has been politically contentious.
   sources: internal knowledge of DR and Danish public broadcasting
+curation: 0.65
+provenance:
+  - radiobrowser-1def7d71-46ce-45e8-b4f5-e3e3ccc38ee7
+  - iprd-dk-dr-p4-sj-lland-3f7e7193
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk/A/A11H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A11H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk:8000/A/A11H.mp3
+    codec: MP3
+    bitrate: 128

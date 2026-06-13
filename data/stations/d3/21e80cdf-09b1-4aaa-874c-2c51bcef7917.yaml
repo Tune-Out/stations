@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:15:05
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-21e80cdf-09b1-4aaa-874c-2c51bcef7917
-streams:
-  - url: 'http://synthesizergreatest.stream.laut.fm/synthesizergreatest'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://synthesizergreatest.stream.laut.fm/synthesizergreatest'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +32,16 @@ research:
   format: Pop and rock music; dedicated synthesizer and electronic music programming
   notes: Hosted on Laut.FM platform; community radio format; tags include pop and rock genres
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-21e80cdf-09b1-4aaa-874c-2c51bcef7917
+  - iprd-de-laut-fm-synthesizer-greatest-d654f97b
+  - iprd-de-sg-radio-7b62f49c
+  - iprd-de-synthesizer-greatest-450db39c
+streams:
+  - url: http://synthesizergreatest.stream.laut.fm/synthesizergreatest
+    codec: MP3
+    bitrate: 128
+  - url: https://synthesizergreatest.stream.laut.fm/synthesizergreatest
+    codec: MP3
+    bitrate: 128

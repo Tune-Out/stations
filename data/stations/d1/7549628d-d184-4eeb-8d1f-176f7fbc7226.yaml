@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7549628d-d184-4eeb-8d1f-176f7fbc7226
-streams:
-  - url: 'http://eagle.streemlion.com:4040/listen.pls?sid=1'
-    url_resolved: 'http://eagle.streemlion.com:4040/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://eagle.streemlion.com:4040/stream?icy=http'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +29,15 @@ research:
   format: Progressive rock specialty internet radio station.
   notes: Independent Canadian internet radio focused on progressive rock genre. Non-commercial community operation.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7549628d-d184-4eeb-8d1f-176f7fbc7226
+  - iprd-ca-prog-frog-3796f9cb
+streams:
+  - url: http://eagle.streemlion.com:4040/listen.pls?sid=1
+    url_resolved: http://eagle.streemlion.com:4040/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://eagle.streemlion.com:4040/stream?icy=http
+    codec: MP3
+    bitrate: 128

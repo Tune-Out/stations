@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:19:59
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-af09ff77-4309-4808-8f78-171f939c2434
-streams:
-  - url: 'https://noasrv.caster.fm:10034/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://i1.echofm.online:8443/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Russian-language news, political talk, interviews, commentary, investigative journalism and cultural programming with prominent independent journalists and exiled hosts
   notes: '"Эхо" (Ekho / Echo) is the in-exile successor of the legendary Moscow station "Эхо Москвы" (Echo of Moscow), founded 1990 and forcibly shut down by Russian authorities in March 2022 after refusing to follow Kremlin censorship of the Ukraine war. The station relaunched as echofm.online in 2022 from outside Russia (initially Berlin/Tbilisi-based), led by former Echo of Moscow journalists including Maxim Kurnikov and with continuing involvement of long-time figures around former editor-in-chief Alexei Venediktov. Russian authorities have labelled the project a "foreign agent" and its main websites are blocked on Russian ISPs, with the station distributing primarily via web stream, podcasts, YouTube, Telegram and TikTok. It is fully blocked inside the Russian Federation but widely listened to by diaspora and dissenting domestic audiences.'
   sources: https://echofm.online/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-af09ff77-4309-4808-8f78-171f939c2434
+streams:
+  - url: https://noasrv.caster.fm:10034/stream
+    codec: MP3
+    bitrate: 96
+  - url: https://i1.echofm.online:8443/stream
+    codec: MP3
+    bitrate: 64

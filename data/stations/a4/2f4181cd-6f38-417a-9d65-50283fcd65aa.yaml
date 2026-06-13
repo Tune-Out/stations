@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 07:10:26
 clickcount: 2
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.60
-provenance:
-  - radiobrowser-2f4181cd-6f38-417a-9d65-50283fcd65aa
-streams:
-  - url: 'https://audio-geo.radioparadise.com/chan/42/x/4254/4/b/4254-0.flac?ngsw-bypass=true'
-    codec: FLAC
-  - url: 'http://stream.radioparadise.com/serenity'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +31,12 @@ research:
   format: Peaceful, serene, downtempo music; curated mellow selections
   notes: Radio Paradise is a listener-supported internet radio network founded 1998 in Northern California; known for high-quality music curation and free streaming without commercials; community-supported model.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-2f4181cd-6f38-417a-9d65-50283fcd65aa
+streams:
+  - url: https://audio-geo.radioparadise.com/chan/42/x/4254/4/b/4254-0.flac?ngsw-bypass=true
+    codec: FLAC
+  - url: http://stream.radioparadise.com/serenity
+    codec: AAC
+    bitrate: 64

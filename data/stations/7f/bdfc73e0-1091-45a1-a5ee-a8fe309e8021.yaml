@@ -22,15 +22,6 @@ lastchangetime: 2026-01-14 23:27:48
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-bdfc73e0-1091-45a1-a5ee-a8fe309e8021
-streams:
-  - url: 'https://free.rcast.net/66407'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://188.165.11.30:4420/live.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,13 @@ research:
   format: Hi-energy/Italo disco/New Italo disco - specialized dance music programming
   notes: Magic Disco Radio is a Hungarian internet and online radio station specializing in Italo disco and new Italo disco music, a revived dance music genre popular in Europe with 1980s-inspired electronic production.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-bdfc73e0-1091-45a1-a5ee-a8fe309e8021
+  - iprd-hu-magic-disco-radio-bc3b4b14
+streams:
+  - url: https://free.rcast.net/66407
+    codec: MP3
+    bitrate: 256
+  - url: http://188.165.11.30:4420/live.mp3
+    codec: MP3

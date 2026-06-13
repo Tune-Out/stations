@@ -21,15 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-dd8e1295-e693-4874-b464-c2f2a804e318
-duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
-streams:
-  - url: 'http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +30,12 @@ research:
   format: Dedicated channel streaming classical guitar music performed by John Williams.
   notes: Classical Radio World is an internet-based radio service offering curated channels of classical music by composer or performer. This channel focuses exclusively on guitarist John Williams.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-dd8e1295-e693-4874-b464-c2f2a804e318
+duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
+streams:
+  - url: http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio
+    codec: MP3

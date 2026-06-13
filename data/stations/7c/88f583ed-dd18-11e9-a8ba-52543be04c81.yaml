@@ -19,34 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-88f583ed-dd18-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.deltaradio.de/dance/aac-64'
-    codec: AAC
-  - url: 'http://streams.deltaradio.de/party/aac-64'
-    codec: AAC
-  - url: 'http://streams.deltaradio.de/hh/aac-64'
-    codec: AAC
-  - url: 'http://streams.deltaradio.de/x-mas/aac-64'
-    codec: AAC
-  - url: 'http://streams.deltaradio.de/delta-unplugged/aac-64'
-    codec: AAC
-  - url: 'http://streams.deltaradio.de/kpop/aac-64'
-    codec: AAC
-  - url: 'http://streams.deltaradio.de/delta-unplugged/mp3-192'
-    codec: MP3
-  - url: 'http://streams.deltaradio.de/kpop/mp3-192'
-    codec: MP3
-  - url: 'http://streams.deltaradio.de/dance/mp3-192'
-    codec: MP3
-  - url: 'http://streams.deltaradio.de/party/mp3-192'
-    codec: MP3
-  - url: 'http://streams.deltaradio.de/hh/mp3-192'
-    codec: MP3
-  - url: 'http://streams.deltaradio.de/x-mas/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -56,3 +28,31 @@ research:
   format: Acoustic versions, unplugged performances, and stripped-down music programming
   notes: Delta Radio is a commercial German radio station; "Unplugged" is a specialized channel offering acoustic performances and intimate arrangements; operates within German private radio regulatory framework; primary station based in Munich area
   sources: http://www.deltaradio.de/
+curation: 0.3
+provenance:
+  - radiobrowser-88f583ed-dd18-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.deltaradio.de/dance/aac-64
+    codec: AAC
+  - url: http://streams.deltaradio.de/party/aac-64
+    codec: AAC
+  - url: http://streams.deltaradio.de/hh/aac-64
+    codec: AAC
+  - url: http://streams.deltaradio.de/x-mas/aac-64
+    codec: AAC
+  - url: http://streams.deltaradio.de/delta-unplugged/aac-64
+    codec: AAC
+  - url: http://streams.deltaradio.de/kpop/aac-64
+    codec: AAC
+  - url: http://streams.deltaradio.de/delta-unplugged/mp3-192
+    codec: MP3
+  - url: http://streams.deltaradio.de/kpop/mp3-192
+    codec: MP3
+  - url: http://streams.deltaradio.de/dance/mp3-192
+    codec: MP3
+  - url: http://streams.deltaradio.de/party/mp3-192
+    codec: MP3
+  - url: http://streams.deltaradio.de/hh/mp3-192
+    codec: MP3
+  - url: http://streams.deltaradio.de/x-mas/mp3-192
+    codec: MP3

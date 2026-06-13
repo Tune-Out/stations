@@ -1,6 +1,6 @@
 stationuuid: bfaefd13-72f9-479a-8362-5e12b1a0fc62
 name: MATCH 99.3 (CDMX) - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFMAAC.aac
+url: 'https://14103.live.streamtheworld.com:443/XHPOPFMAAC.aac'
 url_resolved: https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac
 homepage: https://matchmx.fm/
 favicon: https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-14 23:41:54
 clickcount: 3
 geo_lat: 19.435762216933128
 geo_long: -99.1322135925293
-curation: -0.10
-provenance:
-  - radiobrowser-bfaefd13-72f9-479a-8362-5e12b1a0fc62
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Commercial pop, top-40, and hits radio (99.3 FM Mexico City).
   notes: XHPOP-FM branded as "MATCH 99.3"; operated by Grupo ACIR (now iHeartMedia); served Mexico City Valley; covers pop music, entertainment, and top-40 hits for Latin American market.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-bfaefd13-72f9-479a-8362-5e12b1a0fc62

@@ -26,16 +26,6 @@ lastchangetime: 2026-01-14 23:27:13
 clickcount: 0
 geo_lat: 39.638544182137466
 geo_long: 22.416298985481266
-curation: 0.25
-provenance:
-  - radiobrowser-d168c5ba-9bf4-47c7-9609-b5134c90b62d
-streams:
-  - url: 'https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://solid24.streamupsolutions.com:8010/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Blues, jazz, rock music
   notes: Bar Legend Radio is a Greek internet radio station based in Larisa. Specializes in blues, jazz, and rock music with bilingual programming in Greek and English. Commercial broadcaster.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-d168c5ba-9bf4-47c7-9609-b5134c90b62d
+  - iprd-gr-bar-legend-radio-c6b429c5
+streams:
+  - url: https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream
+    codec: MP3
+    bitrate: 320
+  - url: http://solid24.streamupsolutions.com:8010/stream
+    codec: MP3
+    bitrate: 320

@@ -21,23 +21,6 @@ lastchangetime: 2026-01-15 03:04:28
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-961267ef-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.rsa-sachsen.de/rsa-live/aac-64/streams.rsa-sachsen.de/play.pls'
-    url_resolved: 'http://rsa.streamabc.net/regc-rsalive-aacplus-64-7288763?sABC=696861p8%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768448456'
-    codec: AAC
-  - url: 'http://streams.rsa-sachsen.de/rsa-live/mp3-192/rsamediaplayer'
-    codec: MP3
-  - url: 'https://streams.rsa-sachsen.de/rsa-live/mp3-192/streams.rsa-sachsen.de/play.m3u'
-    url_resolved: 'https://rsa.streamabc.net/regc-rsalive-mp3-192-5989815?sABC=696845q7%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768441303'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/rsa-live/mp3-128/streams.rsa-sachsen.de/'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/rsa-live/mp3-128/streams.rsa-sachsen.de/play.pls'
-    url_resolved: 'http://rsa.streamabc.net/regc-rsalive-mp3-128-4032278?sABC=696898qo%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768462555'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -47,3 +30,20 @@ research:
   format: Contemporary hits, pop, rock, news and information
   notes: R.SA (Radio Sachsen) is a German radio station licensed in Saxony and operates as a public/commercial mixed model. Part of regional broadcasting landscape in former East Germany. Focuses on music and local news programming for Saxon audience.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-961267ef-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.rsa-sachsen.de/rsa-live/aac-64/streams.rsa-sachsen.de/play.pls
+    url_resolved: http://rsa.streamabc.net/regc-rsalive-aacplus-64-7288763?sABC=696861p8%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768448456
+    codec: AAC
+  - url: http://streams.rsa-sachsen.de/rsa-live/mp3-192/rsamediaplayer
+    codec: MP3
+  - url: https://streams.rsa-sachsen.de/rsa-live/mp3-192/streams.rsa-sachsen.de/play.m3u
+    url_resolved: https://rsa.streamabc.net/regc-rsalive-mp3-192-5989815?sABC=696845q7%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768441303
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/rsa-live/mp3-128/streams.rsa-sachsen.de/
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/rsa-live/mp3-128/streams.rsa-sachsen.de/play.pls
+    url_resolved: http://rsa.streamabc.net/regc-rsalive-mp3-128-4032278?sABC=696898qo%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768462555
+    codec: MP3

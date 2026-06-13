@@ -22,17 +22,6 @@ lastchangetime: 2026-04-20 14:46:39
 clickcount: 0
 geo_lat: 46.068395436448355
 geo_long: 23.571081161499023
-curation: 0.35
-provenance:
-  - radiobrowser-6c46d161-677d-4cb2-a8a7-3af8987cf68f
-streams:
-  - url: 'https://radio.sonicpanel.ro/8042/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.zeno.fm/mdupctf7zxhvv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/yrs7fychej9vv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Dance, house, manele, party music (petrecere), and popular (populară) Romanian music
   notes: Romanian online radio specializing in dance, house, and manele music. Community-oriented through xat.com platform presence. Targets party and entertainment audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6c46d161-677d-4cb2-a8a7-3af8987cf68f
+streams:
+  - url: https://radio.sonicpanel.ro/8042/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.zeno.fm/mdupctf7zxhvv
+    codec: MP3
+  - url: https://stream.zeno.fm/yrs7fychej9vv
+    codec: MP3

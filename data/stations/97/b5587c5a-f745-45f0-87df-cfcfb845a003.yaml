@@ -21,19 +21,6 @@ lastchangetime: 2026-01-17 03:30:01
 clickcount: 1
 geo_lat: -36.89493
 geo_long: 174.93232
-curation: 0.50
-provenance:
-  - radiobrowser-b5587c5a-f745-45f0-87df-cfcfb845a003
-streams:
-  - url: 'https://listen.eastfm.nz/stream.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://listen.eastfm.nz/stream-aac-64'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://listen.eastfm.nz/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +30,17 @@ research:
   format: diverse music (rock, pop, blues, jazz, country, soul, alternative) plus shows
   notes: "Volunteer-operated community radio serving East Auckland. Mission: \"We're here to entertain and inform the East Auckland community.\" Also broadcasts via iHeartRadio. Notable shows include The Midnight Rambler and Floydian Slip. Geographic reach: Maraetai to Mt. Wellington, Howick to Manukau."
   sources: https://www.eastfm.nz/
+curation: 0.5
+provenance:
+  - radiobrowser-b5587c5a-f745-45f0-87df-cfcfb845a003
+  - iprd-nz-east-fm-537eb52f
+streams:
+  - url: https://listen.eastfm.nz/stream.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://listen.eastfm.nz/stream-aac-64
+    codec: AAC+
+    bitrate: 64
+  - url: https://listen.eastfm.nz/stream.mp3
+    codec: MP3
+    bitrate: 128

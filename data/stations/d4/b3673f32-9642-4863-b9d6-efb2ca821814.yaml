@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: 51.92644178193624
 geo_long: 4.439678192138673
-curation: 0.40
-provenance:
-  - radiobrowser-b3673f32-9642-4863-b9d6-efb2ca821814
-streams:
-  - url: 'http://79.143.187.96:8035/;'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://stream13.shoutcastsolutions.com/proxy/radioamerika?mp=/stream'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Eclectic mix of americana, oldies, pop, and diverse music genres
   notes: Community/local broadcaster from Rotterdam, Netherlands with tagline "De klanken van de randstad" (The sounds of the Randstad). Programming includes morning drive-time shows, personality-driven afternoon programs like "Platenprak" and "Afternoon Delight," and retrospective music shows such as "Muziek Door De Jaren Heen" and "Muziek Van Toen En Nu."
   sources: https://www.radioamerika.nl/
+curation: 0.4
+provenance:
+  - radiobrowser-b3673f32-9642-4863-b9d6-efb2ca821814
+streams:
+  - url: http://79.143.187.96:8035/;
+    codec: MP3
+    bitrate: 256
+  - url: https://stream13.shoutcastsolutions.com/proxy/radioamerika?mp=/stream
+    codec: MP3
+    bitrate: 256

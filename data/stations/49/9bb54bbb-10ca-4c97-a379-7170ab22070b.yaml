@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 08:20:38
 clickcount: 2
 geo_lat: 13.09578051624992
 geo_long: -59.60954189300538
-curation: -0.05
-provenance:
-  - radiobrowser-9bb54bbb-10ca-4c97-a379-7170ab22070b
-streams:
-  - url: 'https://ice66.securenetsystems.net/VOB929'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://ice66.securenetsystems.net/VOB929.m3u'
-    url_resolved: 'https://ice66.securenetsystems.net:80/VOB929'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,15 @@ research:
   format: Variety format, contemporary music, news, entertainment; general commercial radio.
   notes: VOB 92.9 FM is Barbados's flagship commercial radio station operated by Starcom Network. Broadcasts from Bridgetown serving entire island nation. Variety programming including contemporary music, news, talk, sports, and entertainment. Major media presence in Caribbean region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9bb54bbb-10ca-4c97-a379-7170ab22070b
+  - iprd-bb-voice-of-barbados-92-9-9cf9bf6d
+streams:
+  - url: https://ice66.securenetsystems.net/VOB929
+    codec: AAC+
+    bitrate: 48
+  - url: https://ice66.securenetsystems.net/VOB929.m3u
+    url_resolved: https://ice66.securenetsystems.net:80/VOB929
+    codec: AAC+
+    bitrate: 48

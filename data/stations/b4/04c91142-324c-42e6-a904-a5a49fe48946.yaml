@@ -1,7 +1,7 @@
 stationuuid: 04c91142-324c-42e6-a904-a5a49fe48946
 name: Gove FM - Nhulunbuy - 106.9 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/8EARAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/8EARAAC.aac
+url: 'http://28793.live.streamtheworld.com:80/8EARAAC.aac'
+url_resolved: 'http://28793.live.streamtheworld.com:80/8EARAAC.aac'
 homepage: https://www.govefm.com.au/
 favicon: https://i.ibb.co/7xD4wbj4/274663470-10159198533677763-3441138051921838720-n.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:21:49
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-04c91142-324c-42e6-a904-a5a49fe48946
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community radio with music and local programming
   notes: 106.9 FM serving Nhulunbuy (Yolngu community area) in remote Northern Territory; community radio license; important cultural and informational service for remote Australian settlement.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-04c91142-324c-42e6-a904-a5a49fe48946

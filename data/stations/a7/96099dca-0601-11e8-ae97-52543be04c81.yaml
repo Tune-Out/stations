@@ -23,20 +23,6 @@ lastchangetime: 2026-01-15 08:22:40
 clickcount: 30
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-96099dca-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8'
-    codec: AAC
-    bitrate: 238
-    hls: true
-  - url: 'http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/2FMW/aac/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +32,19 @@ research:
   format: Classical music, fine arts, opera, ballet, orchestral
   notes: ABC Classic FM (previously ABC Radio 2) is the classical music service of the Australian Broadcasting Corporation; operates nationwide; founded 1975
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-96099dca-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-classic-b8cc8c58
+  - iprd-au-abc-classic-cc251233
+streams:
+  - url: https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8
+    codec: AAC
+    bitrate: 238
+    hls: true
+  - url: http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/2FMW/aac/
+    codec: AAC+
+    bitrate: 56

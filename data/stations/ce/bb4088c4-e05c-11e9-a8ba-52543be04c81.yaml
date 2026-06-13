@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-bb4088c4-e05c-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://stream.antenne1.de/90er/livestream1.aac'
-    codec: AAC
-  - url: 'http://stream.antenne1.de/80er/livestream1.aac'
-    codec: AAC
-  - url: 'http://stream.antenne1.de/80er/livestream2.mp3'
-    codec: MP3
-  - url: 'http://stream.antenne1.de/90er/livestream2.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +28,15 @@ research:
   format: 1980s hits and classic music from the 80s era
   notes: Hitradio Antenne 1 is a major German commercial radio network; 80er stream specializes in 1980s music; country marked as unknown in database but likely Germany
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bb4088c4-e05c-11e9-a8ba-52543be04c81
+streams:
+  - url: http://stream.antenne1.de/90er/livestream1.aac
+    codec: AAC
+  - url: http://stream.antenne1.de/80er/livestream1.aac
+    codec: AAC
+  - url: http://stream.antenne1.de/80er/livestream2.mp3
+    codec: MP3
+  - url: http://stream.antenne1.de/90er/livestream2.mp3
+    codec: MP3

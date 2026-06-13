@@ -1,6 +1,6 @@
 stationuuid: 96491733-0601-11e8-ae97-52543be04c81
 name: KHHM "Hot 103.5" Sacramento, CA
-url: http://provisioning.streamtheworld.com/pls/KHHMFMAAC.pls
+url: 'http://16643.live.streamtheworld.com:80/KHHMFMAAC_SC'
 url_resolved: http://16643.live.streamtheworld.com:3690/KHHMFMAAC_SC
 homepage: http://www.hot1035.com/
 favicon: ""
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 04:41:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96491733-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Rhythmic contemporary hits format with top 40 and popular music
   notes: Commercial radio station in Sacramento market on 103.5 FM. Rhythmic contemporary format targeting adult urban demographics.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96491733-0601-11e8-ae97-52543be04c81

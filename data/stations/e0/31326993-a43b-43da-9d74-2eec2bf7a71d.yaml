@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 07:11:09
 clickcount: 0
 geo_lat: 48.137
 geo_long: 11.576
-curation: 0.60
-provenance:
-  - radiobrowser-31326993-a43b-43da-9d74-2eec2bf7a71d
-streams:
-  - url: 'https://motherearth.streamserver24.com/listen/motherearth_instrumental/motherearth.instrumental'
-    codec: OGG
-  - url: 'https://motherearth.streamserver24.com/listen/motherearth_instrumental/motherearth.instrumental.aac'
-    codec: AAC
-    bitrate: 320
-  - url: 'http://stream.motherearthradio.de/listen/motherearth_instrumental/motherearth.instrumental.aac'
-    url_resolved: 'https://stream.motherearthradio.de/listen/motherearth_instrumental/motherearth.instrumental.aac'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://motherearth.streamserver24.com/listen/motherearth_instrumental/motherearth.instrumental.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -47,3 +31,19 @@ research:
   format: Instrumental music, relaxation, background music in lossless audio quality
   notes: 'Non-commercial internet radio established 2020 in Munich. Curated instrumental channel emphasizing audio quality (320 kbps AAC). One of four channels from Mother Earth Radio Network (Main, Jazz, Classical, Instrumental). Mission: "Kuratiert statt algorithmisch. Hi-Res statt komprimiert. Vinyl statt Digital" (Curated not algorithmic; Hi-Res not compressed; Vinyl not digital). No ads, no jingles. One-time app purchase model.'
   sources: https://motherearthradio.de/
+curation: 0.6
+provenance:
+  - radiobrowser-31326993-a43b-43da-9d74-2eec2bf7a71d
+streams:
+  - url: https://motherearth.streamserver24.com/listen/motherearth_instrumental/motherearth.instrumental
+    codec: OGG
+  - url: https://motherearth.streamserver24.com/listen/motherearth_instrumental/motherearth.instrumental.aac
+    codec: AAC
+    bitrate: 320
+  - url: http://stream.motherearthradio.de/listen/motherearth_instrumental/motherearth.instrumental.aac
+    url_resolved: https://stream.motherearthradio.de/listen/motherearth_instrumental/motherearth.instrumental.aac
+    codec: AAC
+    bitrate: 320
+  - url: https://motherearth.streamserver24.com/listen/motherearth_instrumental/motherearth.instrumental.mp3
+    codec: MP3
+    bitrate: 320

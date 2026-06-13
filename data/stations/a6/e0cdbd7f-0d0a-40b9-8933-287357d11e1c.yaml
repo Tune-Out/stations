@@ -1,7 +1,7 @@
 stationuuid: e0cdbd7f-0d0a-40b9-8933-287357d11e1c
 name: Nash FM 92.3 KRST
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KRSTFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KRSTFMAAC.aac
+url: 'https://14943.live.streamtheworld.com:443/KRSTFMAAC.aac'
+url_resolved: 'https://14943.live.streamtheworld.com:443/KRSTFMAAC.aac'
 homepage: https://www.nashfm923krst.com/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:29:43
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e0cdbd7f-0d0a-40b9-8933-287357d11e1c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music programming via iHeartRadio platform
   notes: Commercial country music station operating as KRST 92.3 FM in Albuquerque, New Mexico. Distributed through iHeartRadio's StreamTheWorld platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e0cdbd7f-0d0a-40b9-8933-287357d11e1c

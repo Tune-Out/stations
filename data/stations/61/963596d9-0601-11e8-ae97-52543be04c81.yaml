@@ -1,6 +1,6 @@
 stationuuid: 963596d9-0601-11e8-ae97-52543be04c81
 name: KMJ "News Talk" 580 AM Fresno, CA
-url: http://playerservices.streamtheworld.com/pls/KMJAMAAC.pls
+url: 'http://14013.live.streamtheworld.com:80/KMJAMAAC_SC'
 url_resolved: http://18433.live.streamtheworld.com/KMJAMAAC_SC
 homepage: http://www.kmjnow.com/
 favicon: https://www.kmjnow.com/wp-content/uploads/sites/461/2015/04/mastheadkmjnowlogo1.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 06:11:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-963596d9-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News, talk, and information programming
   notes: KMJ 580 AM is a commercial news/talk station serving the Fresno market in California
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-963596d9-0601-11e8-ae97-52543be04c81

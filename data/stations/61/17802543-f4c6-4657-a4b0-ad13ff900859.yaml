@@ -1,7 +1,7 @@
 stationuuid: 17802543-f4c6-4657-a4b0-ad13ff900859
 name: Novabrasil FM Fortaleza, CE
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac
+url: 'https://27353.live.streamtheworld.com:443/NOVABRASIL_FORAAC.aac'
+url_resolved: 'https://27353.live.streamtheworld.com:443/NOVABRASIL_FORAAC.aac'
 homepage: https://novabrasilfm.com.br/
 favicon: https://novabrasilfm.com.br/app/uploads/2025/03/cropped-favicon-1-180x180.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:06:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-17802543-f4c6-4657-a4b0-ad13ff900859
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,7 @@ research:
   format: Brazilian music (MPB), pop, and local news in Portuguese.
   notes: Part of the Nova Brasil FM network broadcasting contemporary Brazilian music and regional news. Part of Globo media group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-17802543-f4c6-4657-a4b0-ad13ff900859
+  - iprd-br-novabrasil-89-7-s-o-paulo-2fbe5542

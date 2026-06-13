@@ -1,7 +1,7 @@
 stationuuid: 55de0ad0-dcc9-4dcc-9dfc-6ffea3bcc9e9
 name: WVLI 92.7 fm
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WVLIFMAAC.aac?
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WVLIFMAAC.aac?
+url: 'https://18063.live.streamtheworld.com:443/WVLIFMAAC.aac'
+url_resolved: 'https://18063.live.streamtheworld.com:443/WVLIFMAAC.aac'
 homepage: https://wvli927.com/
 favicon: https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2787/files/2021/02/footer-logo-wvli.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:55:30
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-55de0ad0-dcc9-4dcc-9dfc-6ffea3bcc9e9
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Oldies music format with classic hits from 1950s-1980s
   notes: Commercial FM station (92.7) specializing in oldies format; AAC+ 64 kbps stream; typical classic hits format
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-55de0ad0-dcc9-4dcc-9dfc-6ffea3bcc9e9
+  - iprd-us-wvli-92-7-the-valley-bef83b5d

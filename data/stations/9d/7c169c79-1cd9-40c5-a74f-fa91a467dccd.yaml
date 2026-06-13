@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7c169c79-1cd9-40c5-a74f-fa91a467dccd
-streams:
-  - url: 'https://ice.actve.net/dance-radio128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ice.actve.net/dance-radio128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Dance music, electronic music, remixes; FM 89.0 broadcast plus online streaming.
   notes: Dance rádio cz is a Czech commercial radio station broadcasting dance and electronic music on FM 89.0 in Prague with online streaming capabilities.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7c169c79-1cd9-40c5-a74f-fa91a467dccd
+  - iprd-cz-dance-radio-89-0-bb0279a3
+  - iprd-cz-dance-radio-89-0-4c156bf3
+streams:
+  - url: https://ice.actve.net/dance-radio128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://ice.actve.net/dance-radio128.mp3
+    codec: MP3
+    bitrate: 128

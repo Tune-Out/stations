@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96453752-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://station-sound.ru:8000/pt-2'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://station-sound.ru:8000/pt-2?85341000'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Atmospheric, breakbeat, progressive music, electronic and ambient electronica.
   notes: Russian internet radio station specializing in atmospheric and progressive electronic music, featuring breaks and progressive genres.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96453752-0601-11e8-ae97-52543be04c81
+  - iprd-ru-atm-fm-c9c47681
+streams:
+  - url: http://station-sound.ru:8000/pt-2
+    codec: MP3
+    bitrate: 128
+  - url: http://station-sound.ru:8000/pt-2?85341000
+    codec: MP3
+    bitrate: 128

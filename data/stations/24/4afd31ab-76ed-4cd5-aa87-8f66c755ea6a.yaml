@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:17:08
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4afd31ab-76ed-4cd5-aa87-8f66c755ea6a
-streams:
-  - url: 'https://ice24.securenetsystems.net/WFDM'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://ice24.securenetsystems.net/WFDM'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Talk radio format
   notes: Franklin, Indiana-based talk radio station; community-oriented talk programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4afd31ab-76ed-4cd5-aa87-8f66c755ea6a
+  - iprd-us-freedom-95-wfdm-11ed1275
+  - iprd-us-wxlw-950-freedom-95-13815876
+streams:
+  - url: https://ice24.securenetsystems.net/WFDM
+    codec: AAC+
+    bitrate: 32
+  - url: http://ice24.securenetsystems.net/WFDM
+    codec: AAC+
+    bitrate: 32

@@ -1,7 +1,7 @@
 stationuuid: abaa1326-0f86-42a0-a576-06eb0af12cd4
 name: 3MGB Wilderness Radio - Mallacoota / Genoa - 101.7 FM / 96.9 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/3MGB.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/3MGB.mp3
+url: 'http://14533.live.streamtheworld.com:80/3MGB.mp3'
+url_resolved: 'http://14533.live.streamtheworld.com:80/3MGB.mp3'
 homepage: https://www.3mgb.org.au/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:17:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-abaa1326-0f86-42a0-a576-06eb0af12cd4
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,7 @@ research:
   format: Blues, rock, folk, jazz, classical, golden oldies, funk, indie; local content
   notes: '3MGB is an entirely volunteer-run community broadcaster serving remote Far East Gippsland. Operates on 101.7 FM (Mallacoota) and 96.9 FM (Genoa). Mission: "your voice in the wilderness." Relies on $10/year membership and donations. Recruits and trains volunteer presenters, emphasizes local chat and community interviews.'
   sources: WebFetch from 3mgb.org.au
+curation: 0.5
+provenance:
+  - radiobrowser-abaa1326-0f86-42a0-a576-06eb0af12cd4
+  - iprd-au-3mgb-101-7-f541da30

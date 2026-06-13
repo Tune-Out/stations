@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-c1356aca-de00-4ad5-aae2-8195b6af3bc1
-streams:
-  - url: 'http://live.trusl.com:1170/;?type=http&nocache=0'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://live.trusl.com:1170/;'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: News, music, talk shows; classical music programming
   notes: Broadcasting on 98.2 MHz and 98.4 MHz islandwide in Sri Lanka. One of Sri Lanka's most popular radio stations; was exclusive broadcaster for ICC T20 Cricket World Cup 2014.
   sources: wikipedia.org, siyathafm.lk, tunein.com
+curation: 0.5
+provenance:
+  - radiobrowser-c1356aca-de00-4ad5-aae2-8195b6af3bc1
+streams:
+  - url: http://live.trusl.com:1170/;?type=http&nocache=0
+    codec: AAC+
+    bitrate: 64
+  - url: http://live.trusl.com:1170/;
+    codec: AAC+
+    bitrate: 64

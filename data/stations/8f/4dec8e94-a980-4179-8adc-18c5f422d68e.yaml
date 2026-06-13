@@ -1,7 +1,7 @@
 stationuuid: 4dec8e94-a980-4179-8adc-18c5f422d68e
 name: Cadena Ser - Radio León
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3
+url: 'http://25683.live.streamtheworld.com:80/CADENASER_ALT2.mp3'
+url_resolved: 'http://25683.live.streamtheworld.com:80/CADENASER_ALT2.mp3'
 homepage: https://cadenaser.com/emisora/radio_leon/
 favicon: https://cadenaser.com/pf/resources/img/favicon.png?d=320
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4dec8e94-a980-4179-8adc-18c5f422d68e
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: General interest radio with news, talk, and music programming; local León-focused content.
   notes: Spanish commercial radio station part of Cadena SER network, Spain's largest radio broadcaster. Owned by PRISA media group. Provides local León programming alongside national SER network content. Focus on news, information, and general interest talk format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4dec8e94-a980-4179-8adc-18c5f422d68e

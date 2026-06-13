@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:37:06
 clickcount: 1
 geo_lat: 44.62536445012066
 geo_long: -79.43355560302736
-curation: 0.35
-provenance:
-  - radiobrowser-b8876686-5fea-40c1-9890-982f628e233b
-streams:
-  - url: 'http://bayshore-ais.leanstream.co/CISOFM'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://bayshore-ais.leanstream.co/CISOFM-MP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Modern rock, contemporary hits, active rock programming
   notes: CISO-FM operates as "MAX FM" in Orillia, Ontario; commercial station with modern rock format; serves the Simcoe County and surrounding regions; supports local community events and programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b8876686-5fea-40c1-9890-982f628e233b
+streams:
+  - url: http://bayshore-ais.leanstream.co/CISOFM
+    codec: AAC
+    bitrate: 64
+  - url: http://bayshore-ais.leanstream.co/CISOFM-MP3
+    codec: MP3
+    bitrate: 128

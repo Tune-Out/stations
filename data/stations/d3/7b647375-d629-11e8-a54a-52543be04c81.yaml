@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:15:05
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7b647375-d629-11e8-a54a-52543be04c81
-streams:
-  - url: 'https://streaming.radiostreamlive.com/radionatale_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://streaming.radiostreamlive.com/radionatale_devices'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: Christmas music; holiday songs; festive carols; seasonal programming
   notes: Finnish internet radio station dedicated to Christmas and holiday music; based in Rovaniemi, Finnish Lapland; operates year-round with Christmas music focus; 128 kbps MP3; popular for holiday ambiance.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7b647375-d629-11e8-a54a-52543be04c81
+  - iprd-fi-radio-natale-bc8ac1bd
+streams:
+  - url: https://streaming.radiostreamlive.com/radionatale_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
+    codec: AAC+
+    bitrate: 32
+  - url: https://streaming.radiostreamlive.com/radionatale_devices
+    codec: MP3
+    bitrate: 128

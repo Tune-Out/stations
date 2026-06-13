@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 04:13:13
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-a256200d-2ec4-11e9-8f31-52543be04c81
-streams:
-  - url: 'https://stream.kalx.berkeley.edu:8443/kalx.flac'
-    codec: OGG
-  - url: 'http://stream.kalx.berkeley.edu:8000/kalx-320.aac.m3u'
-    url_resolved: 'https://stream.kalx.berkeley.edu:8443/kalx-320.aac'
-    codec: AAC+
-    bitrate: 320
-  - url: 'https://stream.kalx.berkeley.edu:8443/kalx-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +31,17 @@ research:
   format: free-form, eclectic; student-curated programming including music, talk, experimental
   notes: Established student-operated radio station; known for alternative and diverse music programming
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-a256200d-2ec4-11e9-8f31-52543be04c81
+  - iprd-us-kalx-90-7-04df7a92
+streams:
+  - url: https://stream.kalx.berkeley.edu:8443/kalx.flac
+    codec: OGG
+  - url: http://stream.kalx.berkeley.edu:8000/kalx-320.aac.m3u
+    url_resolved: https://stream.kalx.berkeley.edu:8443/kalx-320.aac
+    codec: AAC+
+    bitrate: 320
+  - url: https://stream.kalx.berkeley.edu:8443/kalx-128.mp3
+    codec: MP3
+    bitrate: 128

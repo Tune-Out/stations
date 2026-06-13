@@ -22,25 +22,6 @@ lastchangetime: 2026-01-15 06:29:43
 clickcount: 2
 geo_lat: 55.51696967021944
 geo_long: 10.678710937500002
-curation: 0.55
-provenance:
-  - radiobrowser-871abc60-a5c2-459a-8294-b615f7b153b8
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.dr.dk/A/A04H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A04H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk/A/A04H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk/A/A04H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A04H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -50,3 +31,23 @@ research:
   format: Classical music; P2 is DR's classical music channel featuring orchestral, chamber, and art music programming.
   notes: DR P2 is the classical music channel of the Danish public broadcaster, funded by licence fees. Based in Denmark; streams 128 kbps MP3.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-871abc60-a5c2-459a-8294-b615f7b153b8
+  - iprd-dk-dr-p2-1adda124
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.dr.dk/A/A04H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A04H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk/A/A04H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk/A/A04H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A04H.mp3
+    codec: MP3
+    bitrate: 128

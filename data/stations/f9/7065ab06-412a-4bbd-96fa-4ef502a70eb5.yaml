@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:13:13
 clickcount: 0
 geo_lat: 34.68262906196784
 geo_long: 33.02777913012592
-curation: 0.05
-provenance:
-  - radiobrowser-7065ab06-412a-4bbd-96fa-4ef502a70eb5
-streams:
-  - url: 'http://93.109.209.123:9080/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://194.154.128.242:9090/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: religious
@@ -41,3 +31,13 @@ research:
   format: Religious services, Orthodox liturgies, theological education, ecclesiastical announcements, pastoral ministry.
   notes: Cyprus radio station operated by the Holy Orthodox Metropolitan Church of Limassol. Broadcasts Eastern Orthodox Christian religious programming in Greek language. Station is part of the Cyprus Orthodox ecclesiastical network with tags including "christian orthodox", "ecclesia", "orthodox", "orthodox christian", "orthodox church" and Greek terms "ορθοδοξία" (Orthodox) and "χριστιανισμός" (Christianity).
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-7065ab06-412a-4bbd-96fa-4ef502a70eb5
+streams:
+  - url: http://93.109.209.123:9080/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://194.154.128.242:9090/stream.mp3
+    codec: MP3
+    bitrate: 128

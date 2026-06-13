@@ -1,7 +1,7 @@
 stationuuid: 27cb8fd9-9763-4e0b-973a-6e9a0d93d471
 name: Om Radio Singapore
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/OMRADIO_S01AAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/OMRADIO_S01AAC_SC
+url: 'https://18253.live.streamtheworld.com:443/OMRADIO_S01AAC_SC'
+url_resolved: 'https://18253.live.streamtheworld.com:443/OMRADIO_S01AAC_SC'
 homepage: ""
 favicon: https://onlineradiohub.com/wp-content/uploads/2024/01/om-radio.jpg
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 03:14:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-27cb8fd9-9763-4e0b-973a-6e9a0d93d471
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Tamil-language radio programming.
   notes: Tamil-language streaming radio service operating via StreamTheWorld platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-27cb8fd9-9763-4e0b-973a-6e9a0d93d471

@@ -1,7 +1,7 @@
 stationuuid: 1a14853c-0c81-4e05-a73a-9b8bcaccf340
 name: 95.5 GLO
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WGLOFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WGLOFMAAC.aac
+url: 'https://18063.live.streamtheworld.com:443/WGLOFMAAC.aac'
+url_resolved: 'https://18063.live.streamtheworld.com:443/WGLOFMAAC.aac'
 homepage: https://www.955glo.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3207/squareIcon.png?r=95027
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:13:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1a14853c-0c81-4e05-a73a-9b8bcaccf340
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic Rock music
   notes: WGLO-FM (95.5 GLO) is a commercial radio station in Illinois serving the Pekin area with classic rock programming for adult listeners.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1a14853c-0c81-4e05-a73a-9b8bcaccf340

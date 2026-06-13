@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 01:13:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-962efc42-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://91.121.38.216:8028/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.shoutcastitalia.com/proxy/domusnovas?mp=/stream?ext=.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: 70s/80s pop and classic hits with talk programming
   notes: Local Sardinian commercial radio station; named after town of Domusnovas; focuses on nostalgic music and community talk.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-962efc42-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-domusnovas-69c0a4e4
+streams:
+  - url: http://91.121.38.216:8028/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://www.shoutcastitalia.com/proxy/domusnovas?mp=/stream?ext=.mp3
+    codec: MP3
+    bitrate: 128

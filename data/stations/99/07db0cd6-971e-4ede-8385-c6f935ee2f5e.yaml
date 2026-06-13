@@ -1,7 +1,7 @@
 stationuuid: 07db0cd6-971e-4ede-8385-c6f935ee2f5e
 name: Sabah FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac
+url: 'https://22253.live.streamtheworld.com:443/SABAH_FMAAC.aac'
+url_resolved: 'https://22253.live.streamtheworld.com:443/SABAH_FMAAC.aac'
 homepage: https://sabahfm.rtm.gov.my/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-07db0cd6-971e-4ede-8385-c6f935ee2f5e
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -31,3 +28,6 @@ research:
   format: Entertainment, news, cultural programming; public radio
   notes: Sabah FM operates as RTM's regional station for Sabah state; serves local population with news, music, and cultural content as part of Malaysian public broadcasting.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-07db0cd6-971e-4ede-8385-c6f935ee2f5e

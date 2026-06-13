@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 05:31:15
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6cc56283-c466-11e9-8502-52543be04c81
-streams:
-  - url: 'http://kara.fast-serv.com:8358/listen.pls'
-    url_resolved: 'http://kara.fast-serv.com:8358/'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://65.108.105.26:8516/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +31,14 @@ research:
   format: Old-time radio archive and reproductions; classic programs from the 1920s-1940s era
   notes: Specializes in restoration and broadcast of public-domain and licensed vintage radio programming; preserves cultural history of early American radio
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6cc56283-c466-11e9-8502-52543be04c81
+streams:
+  - url: http://kara.fast-serv.com:8358/listen.pls
+    url_resolved: http://kara.fast-serv.com:8358/
+    codec: AAC+
+    bitrate: 48
+  - url: http://65.108.105.26:8516/stream
+    codec: MP3
+    bitrate: 192

@@ -1,7 +1,7 @@
 stationuuid: 32f2eb10-b498-4c85-96aa-7d9c266d9910
 name: NRJ België
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser
+url: 'https://25533.live.streamtheworld.com:443/NRJBELGIE.mp3?dist=radiobrowser'
+url_resolved: 'https://25533.live.streamtheworld.com:443/NRJBELGIE.mp3?dist=radiobrowser'
 homepage: https://nl.nrj.be/
 favicon: https://nl.nrj.be/images/favicon/apple-touch-icon.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:17:03
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-32f2eb10-b498-4c85-96aa-7d9c266d9910
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,7 @@ research:
   format: Top 40 hits and contemporary pop music programming.
   notes: NRJ België is the Belgian branch of NRJ Group, a major European commercial radio network. Broadcasts in Dutch to Dutch-speaking Belgium with Top 40 and contemporary hit music format. Part of the larger NRJ international network.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-32f2eb10-b498-4c85-96aa-7d9c266d9910
+  - iprd-be-nrj-belgi-43029d2d

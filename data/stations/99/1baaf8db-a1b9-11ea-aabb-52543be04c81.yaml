@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-1baaf8db-a1b9-11ea-aabb-52543be04c81
-streams:
-  - url: 'http://pool.anison.fm:9000/AniSonFM(320)'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://pool.anison.fm:9000/AniSonFM(320)?'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Japanese anime music and original soundtrack programming.
   notes: Anison.FM specializes exclusively in anime music (anison/アニソン). Offers curated streaming of Japanese anime opening/closing themes and soundtrack music. Serves global otaku and anime enthusiast communities.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-1baaf8db-a1b9-11ea-aabb-52543be04c81
+  - iprd-cn-anison-anime-music-station-17f2bace
+streams:
+  - url: http://pool.anison.fm:9000/AniSonFM(320)
+    codec: MP3
+    bitrate: 320
+  - url: http://pool.anison.fm:9000/AniSonFM(320)?
+    codec: MP3
+    bitrate: 320

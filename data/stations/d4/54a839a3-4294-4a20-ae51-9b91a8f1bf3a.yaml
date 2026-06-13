@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:28:39
 clickcount: 0
 geo_lat: 38.858871188491314
 geo_long: -104.96131896972658
-curation: -0.05
-provenance:
-  - radiobrowser-54a839a3-4294-4a20-ae51-9b91a8f1bf3a
-streams:
-  - url: 'http://ice6.securenetsystems.net/KRDO'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice6.securenetsystems.net/KRDO'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: News, talk, and current affairs
   notes: KRDO (News Radio) is a commercial news/talk station serving the Colorado Springs area. Broadcast on AM and online.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-54a839a3-4294-4a20-ae51-9b91a8f1bf3a
+  - iprd-us-krdo-bba30e1d
+streams:
+  - url: http://ice6.securenetsystems.net/KRDO
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice6.securenetsystems.net/KRDO
+    codec: AAC+
+    bitrate: 32

@@ -1,7 +1,7 @@
 stationuuid: b82549f7-d7b5-4bd5-b592-aee27c0178b1
 name: MATCH 90.1 (Puebla) - 90.1 FM - XHRS-FM - Grupo ACIR - Puebla, Puebla
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSFMAAC.aac
+url: 'https://19273.live.streamtheworld.com:443/XHRSFMAAC.aac'
+url_resolved: 'https://19273.live.streamtheworld.com:443/XHRSFMAAC.aac'
 homepage: https://www.iheart.com/live/match-901-puebla-8041/
 favicon: https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1df8
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-03-05 12:11:34
 clickcount: 2
 geo_lat: 19.046465250976414
 geo_long: -98.19906234741212
-curation: -0.10
-provenance:
-  - radiobrowser-b82549f7-d7b5-4bd5-b592-aee27c0178b1
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Pop hits, youth-oriented music programming
   notes: XHRS-FM "Match 90.1" in Puebla, Mexico; Grupo ACIR station; distributed via iHeartRadio; Spanish-language pop music
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-b82549f7-d7b5-4bd5-b592-aee27c0178b1

@@ -1,7 +1,7 @@
 stationuuid: 88397f70-fe8d-4399-ba30-dfefbd275227
 name: 538 90s AAC
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac
+url: 'https://29023.live.streamtheworld.com:443/TLPSTR21AAC.aac'
+url_resolved: 'https://29023.live.streamtheworld.com:443/TLPSTR21AAC.aac'
 homepage: https://www.538.nl/538-90s-de-lekkerste-hits-uit-de-jaren-90-hoor-je-op-het-themastation-90s-op
 favicon: https://www.538.nl/favicon.ico
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-88397f70-fe8d-4399-ba30-dfefbd275227
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: 90s pop, dance, and hit music retrospective programming
   notes: 538 is a major Dutch commercial radio brand founded in the 1980s; 538 90s is a thematic stream of popular 1990s hits, part of TALPA's portfolio which includes TV and radio assets.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-88397f70-fe8d-4399-ba30-dfefbd275227

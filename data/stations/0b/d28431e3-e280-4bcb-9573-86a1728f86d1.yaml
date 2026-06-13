@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 01:00:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d28431e3-e280-4bcb-9573-86a1728f86d1
-streams:
-  - url: 'http://lhttp.qingting.fm/live/5053/64k.mp3'
-    codec: MP3
-  - url: 'http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -39,3 +30,13 @@ research:
   format: traffic updates, news, public service broadcasting
   notes: Shaoxing is a prefecture-level city in Zhejiang Province, China; operates via QINGTING FM platform
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d28431e3-e280-4bcb-9573-86a1728f86d1
+  - iprd-cn-shaoxing-traffic-broadcasting-94-1-07358ae2
+streams:
+  - url: http://lhttp.qingting.fm/live/5053/64k.mp3
+    codec: MP3
+  - url: http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
+    codec: UNKNOWN
+    hls: true

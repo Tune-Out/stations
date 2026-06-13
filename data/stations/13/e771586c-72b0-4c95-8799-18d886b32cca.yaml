@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:37:59
 clickcount: 1
 geo_lat: 38.03476314805147
 geo_long: -84.50503617525102
-curation: 0.70
-provenance:
-  - radiobrowser-e771586c-72b0-4c95-8799-18d886b32cca
-streams:
-  - url: 'https://wuky.streamguys1.com/wuky'
-    codec: AAC
-    bitrate: 98
-  - url: 'https://wuky.streamguys1.com/HD2'
-    codec: AAC
-    bitrate: 98
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: NPR-affiliated public radio; rock, folk, and alternative music programming; adult album alternative (AAA) format
   notes: University of Kentucky public radio station. NPR member and affiliate. Located in Lexington, Kentucky. Broadcasts to central/eastern Kentucky region. 98 kbps AAC stream. Student-run and community-supported.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-e771586c-72b0-4c95-8799-18d886b32cca
+streams:
+  - url: https://wuky.streamguys1.com/wuky
+    codec: AAC
+    bitrate: 98
+  - url: https://wuky.streamguys1.com/HD2
+    codec: AAC
+    bitrate: 98

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:35:25
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960f6740-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://31.192.216.8/RMF5'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://www.rmfon.pl/n/rmf5.pls'
-    url_resolved: 'https://rs201-krk.rmfstream.pl/rmf_5'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Soft pop and easy listening
   notes: '"RMF 5 Lagodne Przeboje" (RMF 5 Gentle Hits); Polish commercial radio station operated by RMF network; soft pop and easy listening format.'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960f6740-0601-11e8-ae97-52543be04c81
+  - iprd-pl-rmf-5-lagodne-przeboje-00ff83c4
+streams:
+  - url: http://31.192.216.8/RMF5
+    codec: AAC+
+    bitrate: 64
+  - url: http://www.rmfon.pl/n/rmf5.pls
+    url_resolved: https://rs201-krk.rmfstream.pl/rmf_5
+    codec: MP3
+    bitrate: 128

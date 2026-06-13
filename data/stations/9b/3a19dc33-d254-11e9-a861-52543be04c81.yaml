@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-3a19dc33-d254-11e9-a861-52543be04c81
-streams:
-  - url: 'http://ostseewelle-west.cast.addradio.de/ostseewelle/west/mp3/high'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://streamosw.ir-media-tec.com/weihnachtshits/mp3-128'
-    codec: MP3
-  - url: 'http://streamosw.ir-media-tec.com/chillout/mp3-128'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Christmas and holiday music programming (Weihnachts Hits = Christmas Hits)
   notes: Ostseewelle is a German commercial radio station operating in northern regions. "Weihnachts Hits" is a specialized seasonal programming stream featuring Christmas and holiday music. Station broadcasts via internet streaming to German-speaking audiences during holiday season.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-3a19dc33-d254-11e9-a861-52543be04c81
+streams:
+  - url: http://ostseewelle-west.cast.addradio.de/ostseewelle/west/mp3/high
+    codec: MP3
+    bitrate: 192
+  - url: http://streamosw.ir-media-tec.com/weihnachtshits/mp3-128
+    codec: MP3
+  - url: http://streamosw.ir-media-tec.com/chillout/mp3-128
+    codec: MP3

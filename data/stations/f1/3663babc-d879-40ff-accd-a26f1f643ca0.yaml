@@ -19,15 +19,6 @@ lastchangetime: 2026-04-14 10:47:34
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-3663babc-d879-40ff-accd-a26f1f643ca0
-streams:
-  - url: 'http://148.72.153.65:9226/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream-152.zeno.fm/dphe9050afhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkcGhlOTA1MGFmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJUWWpCbjdaUllXNFU4NUd0bUQ1dmciLCJpYXQiOjE3NzQ1OTc2MzksImV4cCI6MTc3NDU5NzY5OX0.KD6hwzK2nrHDXy4Z0gRjPrO7MBUih5O7vgSla7WdQgE'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: unknown
@@ -37,3 +28,12 @@ research:
   format: Unknown format; 64 kbps AAC+.
   notes: MORe - Mindanao is a Philippines-based radio service. Primary information source is Facebook; limited accessible information available.
   sources: internal knowledge only
+curation: 0.05
+provenance:
+  - radiobrowser-3663babc-d879-40ff-accd-a26f1f643ca0
+streams:
+  - url: http://148.72.153.65:9226/stream
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream-152.zeno.fm/dphe9050afhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkcGhlOTA1MGFmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJUWWpCbjdaUllXNFU4NUd0bUQ1dmciLCJpYXQiOjE3NzQ1OTc2MzksImV4cCI6MTc3NDU5NzY5OX0.KD6hwzK2nrHDXy4Z0gRjPrO7MBUih5O7vgSla7WdQgE
+    codec: MP3

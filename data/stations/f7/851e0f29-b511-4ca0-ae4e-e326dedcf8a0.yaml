@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-851e0f29-b511-4ca0-ae4e-e326dedcf8a0
-streams:
-  - url: 'https://server.laradio.online/proxy/radiokermes?mp=/stream&1706361379922'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://server.laradio.online/proxy/radiokermes?mp=/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Music and entertainment programming
   notes: Radio Kermes is an Argentine internet radio station providing music and entertainment content to Argentine audiences.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-851e0f29-b511-4ca0-ae4e-e326dedcf8a0
+  - iprd-ar-radio-kerm-s-106-1-7ab7c416
+streams:
+  - url: https://server.laradio.online/proxy/radiokermes?mp=/stream&1706361379922
+    codec: MP3
+    bitrate: 128
+  - url: https://server.laradio.online/proxy/radiokermes?mp=/stream
+    codec: MP3
+    bitrate: 128

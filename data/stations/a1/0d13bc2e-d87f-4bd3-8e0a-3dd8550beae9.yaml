@@ -1,7 +1,7 @@
 stationuuid: 0d13bc2e-d87f-4bd3-8e0a-3dd8550beae9
 name: Studio 93.1 (Mazatlán) - 93.1 FM -XHMZT-FM - Grupo Siete - Mazatlán, Sinaloa
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMZTFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMZTFMAAC.aac
+url: 'https://14223.live.streamtheworld.com:443/XHMZTFMAAC.aac'
+url_resolved: 'https://14223.live.streamtheworld.com:443/XHMZTFMAAC.aac'
 homepage: https://studio931.mx/
 favicon: https://studio931.mx/wp-content/uploads/2024/12/cropped-ok-that4x-8-1-180x180.webp
 tags:
@@ -27,9 +27,6 @@ lastchangetime: 2026-01-15 02:01:25
 clickcount: 0
 geo_lat: 23.23310685750721
 geo_long: -106.41520500183108
-curation: -0.10
-provenance:
-  - radiobrowser-0d13bc2e-d87f-4bd3-8e0a-3dd8550beae9
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +36,6 @@ research:
   format: Adult contemporary, adult hits, classics in Spanish and English; retro and music del recuerdo (memory music)
   notes: Studio 93.1 (XHMZT-FM) is an adult contemporary and oldies-focused station based in Mazatlán, Sinaloa, operated by Grupo Siete. Focuses on classic hits in Spanish and English. Professional website and modern streaming infrastructure (StreamTheWorld). Promotes music heritage and nostalgia programming.
   sources: https://studio931.mx/
+curation: -0.1
+provenance:
+  - radiobrowser-0d13bc2e-d87f-4bd3-8e0a-3dd8550beae9

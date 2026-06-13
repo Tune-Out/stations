@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:17:03
 clickcount: 25
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-3653b75c-0116-11ea-bbf2-52543be04c81
-streams:
-  - url: 'http://cast.magicstreams.gr:9125/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast.magicstreams.gr/sc/psychill/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Psytrance and ambient music streaming with 24/7 non-stop music; chill/chillout focus; includes psybient and psydub subgenres
   notes: Greek-based (Hellas) internet radio operating 2 stations with 24/7 programming. Streams at 128 kbps MP3 from magic.streams.gr. Specializes in psychedelic electronic music including psytrance, psybient, psydub, and chill ambient. Content promoted through Mixcloud. Available on Android/iOS apps and multiple streaming platforms (TuneIn, RadioBox, Radio.net).
   sources: https://www.psyndora.com/
+curation: 0.4
+provenance:
+  - radiobrowser-3653b75c-0116-11ea-bbf2-52543be04c81
+  - iprd-gr-psyndora-chillout-f44e78b0
+streams:
+  - url: http://cast.magicstreams.gr:9125/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://cast.magicstreams.gr/sc/psychill/stream
+    codec: MP3
+    bitrate: 128

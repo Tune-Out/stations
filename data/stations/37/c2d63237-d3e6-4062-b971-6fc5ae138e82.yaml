@@ -24,14 +24,6 @@ lastchangetime: 2026-01-17 15:53:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c2d63237-d3e6-4062-b971-6fc5ae138e82
-streams:
-  - url: 'https://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/'
-    codec: MP3
-  - url: 'http://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +33,11 @@ research:
   format: Hard rock, heavy metal, and related music exclusively
   notes: "\"Harte Saite\" (\"hard string\") is Radio BOB!'s dedicated heavy music channel; based in Hessen, Germany"
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c2d63237-d3e6-4062-b971-6fc5ae138e82
+streams:
+  - url: https://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/
+    codec: MP3
+  - url: http://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/
+    codec: MP3

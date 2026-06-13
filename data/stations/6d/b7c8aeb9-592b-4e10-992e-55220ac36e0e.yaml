@@ -24,18 +24,6 @@ lastchangetime: 2026-01-20 19:43:44
 clickcount: 0
 geo_lat: 26.095080623367004
 geo_long: -98.2711172103882
-curation: -0.05
-provenance:
-  - radiobrowser-b7c8aeb9-592b-4e10-992e-55220ac36e0e
-streams:
-  - url: 'https://live.amperwave.net/manifest/rcomm-xhavofmaac-hlsc4.m3u8?source=v7player'
-    codec: AAC+
-    bitrate: 64
-    hls: true
-  - url: 'https://live.amperwave.net/manifest/rcomm-xhavofmaac-hlsc4.m3u8?source=v7player&user-id=ecee90d54151'
-    codec: AAC+
-    bitrate: 64
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +33,15 @@ research:
   format: International/Latin music, Spanish contemporary hits, pop latino, reggaeton, talk, news (DIGINEWS)
   notes: XHAVO-FM, 101.5 FM, Reynosa-Tamaulipas; part of Radio United LLC; also branded as "Radio Para Mi"; targets Rio Grande Valley and cross-border audience; on-air talent includes Christian Mata, Gloria Light, Daenna Guerra, Perla Montemayor, Danny Castillon.
   sources: https://www.clubdigital1015.com/
+curation: -0.05
+provenance:
+  - radiobrowser-b7c8aeb9-592b-4e10-992e-55220ac36e0e
+streams:
+  - url: https://live.amperwave.net/manifest/rcomm-xhavofmaac-hlsc4.m3u8?source=v7player
+    codec: AAC+
+    bitrate: 64
+    hls: true
+  - url: https://live.amperwave.net/manifest/rcomm-xhavofmaac-hlsc4.m3u8?source=v7player&user-id=ecee90d54151
+    codec: AAC+
+    bitrate: 64
+    hls: true

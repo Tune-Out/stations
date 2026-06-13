@@ -25,29 +25,6 @@ lastchangetime: 2026-01-14 23:45:01
 clickcount: 62
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9639c07d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_mv.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/mecklenburgvorpommern/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -57,3 +34,27 @@ research:
   format: Full-service news, current affairs, culture and background reporting ("Kulturradio"-adjacent info channel) with regional Niedersachsen windows
   notes: NDR Info is NDR's flagship rolling-news and current-affairs channel, launched 1994 as a 24/7 information station modelled on BBC-style "all-news/all-talk" public radio. It carries hourly news, in-depth political and economic features, parliamentary coverage, the well-regarded business programme "Wirtschaft kompakt", science magazine "Logo - Das Wissenschaftsmagazin", and the long-running maritime weather forecast "Seewetterbericht" (a public-service duty inherited from German radio history). The Niedersachsen variant carries Lower Saxony regional opt-outs for local news. NDR was founded 1956 with HQ in Hamburg; it is co-funded by Hamburg, Lower Saxony, Schleswig-Holstein and Mecklenburg-Vorpommern. As ARD public-service media, programming is supervised by a Rundfunkrat (broadcasting council) including civil-society representatives; the station is bound by a legal mandate for impartial, comprehensive information ("Grundversorgung").
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-9639c07d-0601-11e8-ae97-52543be04c81
+  - iprd-de-ndr-info-f772ea53
+streams:
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_mv.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndrinfo/mecklenburgvorpommern/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -30,16 +30,6 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 6
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.25
-provenance:
-  - radiobrowser-b8e70464-2f37-45cb-8069-512206b6d7f7
-streams:
-  - url: 'https://0n-greatesthits.radionetz.de/0n-greatesthits.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +39,15 @@ research:
   format: Multi-genre internet radio with 50+ specialty channels (pop, rock, dance, hits, classical, jazz, 80s-2010s hits)
   notes: Based in Hof, Bayern, operates multiple branded channels including "0 N - Greatest Hits" with emphasis on listener choice ("Your choice, your music!"). Private commercial operation with GDPR-compliant website.
   sources: http://www.0nradio.com/
+curation: 0.25
+provenance:
+  - radiobrowser-b8e70464-2f37-45cb-8069-512206b6d7f7
+  - iprd-de-on-radio-greatest-hits-9a192647
+  - iprd-de-on-radio-greatest-hits-9f6c41ff
+streams:
+  - url: https://0n-greatesthits.radionetz.de/0n-greatesthits.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3
+    codec: MP3
+    bitrate: 128

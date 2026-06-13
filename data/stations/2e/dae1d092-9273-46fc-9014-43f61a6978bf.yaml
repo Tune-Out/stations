@@ -24,19 +24,6 @@ lastchangetime: 2026-01-14 23:17:40
 clickcount: 8
 geo_lat: 51.90274232936558
 geo_long: 4.460068345069886
-curation: 0.50
-provenance:
-  - radiobrowser-dae1d092-9273-46fc-9014-43f61a6978bf
-streams:
-  - url: 'https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3'
-    codec: MP3
-    bitrate: 160
-  - url: 'http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +33,17 @@ research:
   format: News, regional news, traffic news, interviews, 80s/90s music, music variety; regional public radio format
   notes: Dutch regional public radio station serving Rotterdam and Zuid-Holland area. Part of Dutch public broadcasting system. Focus on regional news, traffic updates, interviews, and classic music from 1980s-1990s. Community-focused public broadcaster serving local audience.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-dae1d092-9273-46fc-9014-43f61a6978bf
+  - iprd-nl-rtv-rijnmond-radio-0ef14419
+streams:
+  - url: https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp
+    codec: AAC+
+    bitrate: 128
+  - url: https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+    codec: MP3
+    bitrate: 160
+  - url: http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+    codec: MP3
+    bitrate: 160

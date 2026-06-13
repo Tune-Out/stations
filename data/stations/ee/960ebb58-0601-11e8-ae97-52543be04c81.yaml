@@ -23,25 +23,6 @@ lastchangetime: 2026-01-15 06:00:57
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-960ebb58-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streaming01.sr-online.de/unserding_2.m3u'
-    url_resolved: 'http://liveradio.sr.de/sr/ud/mp3/128/stream.mp3?aggregator=custom1'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming02.sr-online.de/unserding-zukunft.m3u'
-    url_resolved: 'http://liveradio.sr.de/sr/udc2/mp3/128/stream.mp3?aggregator=custom1'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming02.sr-online.de/unserding-schwarz.m3u'
-    url_resolved: 'http://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=custom1'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://sr.audiostream.io/sr/1012/mp3/56/ud'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -51,3 +32,24 @@ research:
   format: Youth-oriented pop music and contemporary programming
   notes: UnserDing is a youth-focused public radio station operated by Saarländischer Rundfunk (SR), part of the ARD public broadcasting network in Germany. Targets young audiences with contemporary pop music and youth programming in Saarland.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-960ebb58-0601-11e8-ae97-52543be04c81
+  - iprd-de-unserding-6483cdc7
+  - iprd-de-unserding-9f739d68
+streams:
+  - url: http://streaming01.sr-online.de/unserding_2.m3u
+    url_resolved: http://liveradio.sr.de/sr/ud/mp3/128/stream.mp3?aggregator=custom1
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming02.sr-online.de/unserding-zukunft.m3u
+    url_resolved: http://liveradio.sr.de/sr/udc2/mp3/128/stream.mp3?aggregator=custom1
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming02.sr-online.de/unserding-schwarz.m3u
+    url_resolved: http://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=custom1
+    codec: MP3
+    bitrate: 128
+  - url: http://sr.audiostream.io/sr/1012/mp3/56/ud
+    codec: MP3
+    bitrate: 64

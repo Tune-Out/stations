@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 3
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.35
-provenance:
-  - radiobrowser-98c90ccb-3a90-11e9-9b4e-52543be04c81
-streams:
-  - url: 'https://1a-chillout.radionetz.de/1a-chillout.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-chillout.radionetz.de/1a-chillout.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Ambient, chillout, easy listening, electronic music; relaxation and background music
   notes: 1A Radio is a German online radio platform offering curated streams of ambient, chillout, and electronic music. Part of the broader German digital radio ecosystem.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-98c90ccb-3a90-11e9-9b4e-52543be04c81
+  - iprd-de-1a-chillout-d901cc08
+  - iprd-de-1a-chillout-ce64b854
+streams:
+  - url: https://1a-chillout.radionetz.de/1a-chillout.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-chillout.radionetz.de/1a-chillout.mp3
+    codec: MP3
+    bitrate: 128

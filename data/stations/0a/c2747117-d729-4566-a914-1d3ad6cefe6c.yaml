@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c2747117-d729-4566-a914-1d3ad6cefe6c
-streams:
-  - url: 'https://greudedifuzat.ro/listen.pls'
-    url_resolved: 'http://greudedifuzat.ro/stream/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://greudedifuzat.ro/stream/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +28,14 @@ research:
   format: Community radio with alternative programming; cultural and social content
   notes: Romanian community radio station with non-commercial, independent programming model.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c2747117-d729-4566-a914-1d3ad6cefe6c
+streams:
+  - url: https://greudedifuzat.ro/listen.pls
+    url_resolved: http://greudedifuzat.ro/stream/
+    codec: MP3
+    bitrate: 128
+  - url: https://greudedifuzat.ro/stream/
+    codec: MP3
+    bitrate: 128

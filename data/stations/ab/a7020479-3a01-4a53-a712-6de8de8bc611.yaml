@@ -1,7 +1,7 @@
 stationuuid: a7020479-3a01-4a53-a712-6de8de8bc611
 name: Exa FM Tijuana - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, BC
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+url: 'https://27263.live.streamtheworld.com:443/XHGLXAAC.aac'
+url_resolved: 'https://27263.live.streamtheworld.com:443/XHGLXAAC.aac'
 homepage: https://www.exafm.com/sdtj/
 favicon: https://www.exafm.com/favicon.ico
 tags:
@@ -27,9 +27,6 @@ lastchangetime: 2026-01-15 05:31:14
 clickcount: 1
 geo_lat: 32.50266811708983
 geo_long: -116.96791648864748
-curation: -0.10
-provenance:
-  - radiobrowser-a7020479-3a01-4a53-a712-6de8de8bc611
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +36,6 @@ research:
   format: Latin pop, urban music, contemporary Spanish-language hits
   notes: XHGLX-FM (91.7 FM) operated by MVS Radio; La Estación Exacta slogan refers to format precision; part of major Mexican broadcasting group
   sources: https://www.exafm.com/sdtj/
+curation: -0.1
+provenance:
+  - radiobrowser-a7020479-3a01-4a53-a712-6de8de8bc611

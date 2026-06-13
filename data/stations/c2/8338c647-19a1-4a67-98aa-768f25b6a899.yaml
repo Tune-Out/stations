@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 03:08:34
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-8338c647-19a1-4a67-98aa-768f25b6a899
-duplicate_of: 603a1f71-33b4-4c0d-93b3-d53a793dc3fa
-streams:
-  - url: 'https://stream1.cprnetwork.org/cpr3_lo'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://stream1.cprnetwork.org/cpr3_lo'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Indie and alternative rock music with listener-supported public radio programming.
   notes: Part of Colorado Public Radio serving the Denver/Front Range region (Greenwood Village, CO). Public radio station operating on 102.3 FM with indie rock and alternative music format. Operates as non-profit member-supported public broadcasting station. Distributes through CPR/NPR network platforms with low bitrate (64 kbps) streaming for accessibility.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-8338c647-19a1-4a67-98aa-768f25b6a899
+duplicate_of: 603a1f71-33b4-4c0d-93b3-d53a793dc3fa
+streams:
+  - url: https://stream1.cprnetwork.org/cpr3_lo
+    codec: MP3
+    bitrate: 64
+  - url: http://stream1.cprnetwork.org/cpr3_lo
+    codec: MP3
+    bitrate: 64

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:31:29
 clickcount: 4
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.35
-provenance:
-  - radiobrowser-f1771246-bf9c-11e9-8502-52543be04c81
-streams:
-  - url: 'https://1a-relax.radionetz.de/1a-relax.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-relax.radionetz.de/1a-relax.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Continuous ambient, chillout, easy listening, and electronic music for relaxation.
   notes: Specialized relax stream from 1A Radio network, focused on background music for work and leisure. Commercial format with 128 kbps MP3 stream.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f1771246-bf9c-11e9-8502-52543be04c81
+  - iprd-de-1a-relax-a31a02f9
+  - iprd-de-1a-relax-bd011e3e
+streams:
+  - url: https://1a-relax.radionetz.de/1a-relax.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-relax.radionetz.de/1a-relax.mp3
+    codec: MP3
+    bitrate: 128

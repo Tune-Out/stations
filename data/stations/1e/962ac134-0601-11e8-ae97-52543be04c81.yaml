@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 04:44:02
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-962ac134-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://rtlberlin.streamabc.net/rtlb-wellness-aacplus-64-2835105?sABC=6752ns14%230%23724nsr480r9ps6r95pqn750064rp0o5r%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1733472020'
-    codec: AAC
-  - url: 'http://www.surfmusik.de/m3u/station/105-5-spreeradio,962.m3u'
-    url_resolved: 'https://stream.spreeradio.de/spree-live/mp3-128/surfmusikDE/'
-    codec: MP3
-  - url: 'http://stream.spreeradio.de/spree-live/mp3-192/radio-browser.info/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: hits and magazine-style talk radio with specialty shows ("Jochen Trus am Morgen", "Song-Duell", "Flashback")
   notes: Berlin-based commercial radio station; operates morning shows, song competitions, and listener engagement programs including sports sponsorships and community initiatives ("Wir kämpfen für Berliner Vereine"); emphasizes local entertainment and consumer information rather than news focus.
   sources: https://www.spreeradio.de/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-962ac134-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://rtlberlin.streamabc.net/rtlb-wellness-aacplus-64-2835105?sABC=6752ns14%230%23724nsr480r9ps6r95pqn750064rp0o5r%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1733472020
+    codec: AAC
+  - url: http://www.surfmusik.de/m3u/station/105-5-spreeradio,962.m3u
+    url_resolved: https://stream.spreeradio.de/spree-live/mp3-128/surfmusikDE/
+    codec: MP3
+  - url: http://stream.spreeradio.de/spree-live/mp3-192/radio-browser.info/
+    codec: MP3

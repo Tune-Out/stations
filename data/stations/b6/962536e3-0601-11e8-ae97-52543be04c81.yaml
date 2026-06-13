@@ -1,6 +1,6 @@
 stationuuid: 962536e3-0601-11e8-ae97-52543be04c81
 name: KUFM 89.1 "Montana Public Radio" Missoula, MT
-url: http://provisioning.streamtheworld.com/pls/KUFMFMAAC.pls
+url: 'http://14103.live.streamtheworld.com:80/KUFMFMAAC_SC'
 url_resolved: http://14103.live.streamtheworld.com/KUFMFMAAC_SC
 homepage: http://mtpr.org/
 favicon: https://npr.brightspotcdn.com/dims4/default/f893a26/2147483647/strip/true/crop/2000x1050+0+475/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F5c%2Ffd4ceb9c44f98e934887049b7de2%2Fgrizzly-logo-text-flat.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:17:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-962536e3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: News, current affairs, music, cultural programming, educational content
   notes: KUFM 89.1 FM; member of NPR network; serves Missoula and surrounding Montana communities with public radio programming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-962536e3-0601-11e8-ae97-52543be04c81

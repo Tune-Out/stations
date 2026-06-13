@@ -1,7 +1,7 @@
 stationuuid: 33dcc858-9bab-42f1-b55b-11ae9c2f0fc0
 name: Exa FM Veracruz - 93.3 FM - XHPS-FM - MVS Radio - Veracruz, VE
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFM_SC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFM_SC.aac
+url: 'https://18303.live.streamtheworld.com:443/XHPSFM_SC'
+url_resolved: 'https://18303.live.streamtheworld.com:443/XHPSFM_SC'
 homepage: https://www.exafm.com/veracruz/
 favicon: https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 08:37:28
 clickcount: 0
 geo_lat: 19.154046595114284
 geo_long: -96.10883295536044
-curation: -0.05
-provenance:
-  - radiobrowser-33dcc858-9bab-42f1-b55b-11ae9c2f0fc0
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Pop, Latin pop, pop rock, urban music, Top 40 hits; contemporary youth music and live events.
   notes: Commercial FM station (XHPS-FM, 93.3) in Veracruz serving youth audience. Part of MVS Radio network (major Mexican broadcaster). Features live concerts and events. Strong social media presence.
   sources: https://onlineradiobox.com/mx/exa933/, https://tunein.com/radio/Exa-FM-933-Veracruz-s90984/, https://www.instagram.com/exaveracruz/
+curation: -0.05
+provenance:
+  - radiobrowser-33dcc858-9bab-42f1-b55b-11ae9c2f0fc0

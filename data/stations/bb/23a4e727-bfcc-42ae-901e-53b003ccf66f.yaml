@@ -21,97 +21,6 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-23a4e727-bfcc-42ae-901e-53b003ccf66f
-streams:
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s45169&formats=mp3'
-    url_resolved: 'http://10233.cloudrad.io:9036/live'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s244379&formats=aac'
-    url_resolved: 'https://stream.laclassica.be:18023/stream2'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s78631&formats=aac'
-    url_resolved: 'https://vm.motionfm.com/motionthree_aacp'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s252387&formats=mp3'
-    url_resolved: 'http://65.21.202.84:8519/stream/'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s97243&formats=aac,ogg,mp3&partnerId=16&serial=afe4c1a95cc7f3a92c47dbad1b283293'
-    url_resolved: 'https://stream.radiohelsinki.fi/stream'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s191877&formats=mp3'
-    url_resolved: 'https://quincy.torontocast.com:2045/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s254784'
-    url_resolved: 'http://onair.radiosieve.it:8126/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://opml.radiotime.com/Tune.ashx?id=s214979'
-    url_resolved: 'http://eilo.org:8000/progressive'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s24750'
-    url_resolved: 'http://usa6.fastcast4u.com/proxy/chsrbroa?mp=/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s126793'
-    url_resolved: 'https://listen.181fm.com/181-smoothac_128k.mp3?noPreRoll=true'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s224284'
-    url_resolved: 'https://online.classicradio.ua/ClassicRadio'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s24644'
-    url_resolved: 'https://live.umfm.com:8015/stream/2;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s21198&formats=mp3'
-    url_resolved: 'http://quarrel.str3am.com:7270/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s17623'
-    url_resolved: 'http://urccs.lorini.net:2070/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s117843&'
-    url_resolved: 'http://komplex2.psyradio.org:8020/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s102873'
-    url_resolved: 'http://188.40.62.20:8090/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s247000'
-    url_resolved: 'https://stream.radio.co/s025ead1b9/listen'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s9176&partnerId=16'
-    url_resolved: 'http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/low?aggregator=tunein'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s298784&formats=mp3,aac,wma,ogg&partnerId=xwhZkVKi&filter=s:popular'
-    url_resolved: 'http://stream.zeno.fm/1nx2aume9zquv'
-    codec: MP3
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s119938&formats=aac,ogg,mp3,wmpro,wma,wmvoice&partnerId=16&serial=57d77e071644eeffd9ee3839f4833ecc'
-    url_resolved: 'https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1768459376&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s119938&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g2748&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=%5ben%2c+nl%5d&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2'
-    codec: MP3
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s301460&partnerId=16&'
-    url_resolved: 'https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1768441310&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s301460&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g2759&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a40207&aw_0_1st.bandId=16'
-    codec: MP3
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s205522&partnerId=16'
-    url_resolved: 'https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1768433575&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s205522&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a40075%2ca40276&aw_0_1st.bandId=16'
-    codec: MP3
-  - url: 'http://opml.radiotime.com/Tune.ashx?id=s26919&formats=aac,ogg,mp3&partnerId=16&serial=d2a350cb54e30cc597ff0033ec901040'
-    url_resolved: 'https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1768452219&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s26919&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g2723&aw_0_1st.class=sports&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a37777%2ca33296%2ca38045&aw_0_1st.bandId=1'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -121,3 +30,97 @@ research:
   format: News, information, current affairs, talk radio; 24/7 news programming
   notes: Inforadio vom rbb is German public information radio operated by RBB public broadcaster (Berlin-Brandenburg). Part of ARD public broadcasting network. Provides comprehensive news and current affairs coverage. Free stream indicates public service model. Inforadio dedicated to news and information programming.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-23a4e727-bfcc-42ae-901e-53b003ccf66f
+  - iprd-ba-radio-bir-76a76db7
+  - iprd-ca-chsr-97-9-73fee1b9
+  - iprd-us-wmpg-90-9-38ade12a
+streams:
+  - url: http://opml.radiotime.com/Tune.ashx?id=s45169&formats=mp3
+    url_resolved: http://10233.cloudrad.io:9036/live
+    codec: AAC+
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s244379&formats=aac
+    url_resolved: https://stream.laclassica.be:18023/stream2
+    codec: AAC+
+    bitrate: 64
+  - url: http://opml.radiotime.com/Tune.ashx?id=s78631&formats=aac
+    url_resolved: https://vm.motionfm.com/motionthree_aacp
+    codec: AAC+
+    bitrate: 64
+  - url: http://opml.radiotime.com/Tune.ashx?id=s252387&formats=mp3
+    url_resolved: http://65.21.202.84:8519/stream/
+    codec: MP3
+    bitrate: 320
+  - url: http://opml.radiotime.com/Tune.ashx?id=s97243&formats=aac,ogg,mp3&partnerId=16&serial=afe4c1a95cc7f3a92c47dbad1b283293
+    url_resolved: https://stream.radiohelsinki.fi/stream
+    codec: MP3
+    bitrate: 256
+  - url: http://opml.radiotime.com/Tune.ashx?id=s191877&formats=mp3
+    url_resolved: https://quincy.torontocast.com:2045/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://opml.radiotime.com/Tune.ashx?id=s254784
+    url_resolved: http://onair.radiosieve.it:8126/
+    codec: MP3
+    bitrate: 192
+  - url: https://opml.radiotime.com/Tune.ashx?id=s214979
+    url_resolved: http://eilo.org:8000/progressive
+    codec: MP3
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s24750
+    url_resolved: http://usa6.fastcast4u.com/proxy/chsrbroa?mp=/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s126793
+    url_resolved: https://listen.181fm.com/181-smoothac_128k.mp3?noPreRoll=true
+    codec: MP3
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s224284
+    url_resolved: https://online.classicradio.ua/ClassicRadio
+    codec: MP3
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s24644
+    url_resolved: https://live.umfm.com:8015/stream/2;
+    codec: MP3
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s21198&formats=mp3
+    url_resolved: http://quarrel.str3am.com:7270/
+    codec: MP3
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s17623
+    url_resolved: http://urccs.lorini.net:2070/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s117843&
+    url_resolved: http://komplex2.psyradio.org:8020/
+    codec: MP3
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s102873
+    url_resolved: http://188.40.62.20:8090/
+    codec: MP3
+    bitrate: 128
+  - url: http://opml.radiotime.com/Tune.ashx?id=s247000
+    url_resolved: https://stream.radio.co/s025ead1b9/listen
+    codec: MP3
+    bitrate: 96
+  - url: http://opml.radiotime.com/Tune.ashx?id=s9176&partnerId=16
+    url_resolved: http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/low?aggregator=tunein
+    codec: MP3
+    bitrate: 64
+  - url: http://opml.radiotime.com/Tune.ashx?id=s298784&formats=mp3,aac,wma,ogg&partnerId=xwhZkVKi&filter=s:popular
+    url_resolved: http://stream.zeno.fm/1nx2aume9zquv
+    codec: MP3
+  - url: http://opml.radiotime.com/Tune.ashx?id=s119938&formats=aac,ogg,mp3,wmpro,wma,wmvoice&partnerId=16&serial=57d77e071644eeffd9ee3839f4833ecc
+    url_resolved: https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1768459376&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s119938&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g2748&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=%5ben%2c+nl%5d&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2
+    codec: MP3
+  - url: http://opml.radiotime.com/Tune.ashx?id=s301460&partnerId=16&
+    url_resolved: https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1768441310&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s301460&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g2759&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a40207&aw_0_1st.bandId=16
+    codec: MP3
+  - url: http://opml.radiotime.com/Tune.ashx?id=s205522&partnerId=16
+    url_resolved: https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1768433575&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s205522&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a40075%2ca40276&aw_0_1st.bandId=16
+    codec: MP3
+  - url: http://opml.radiotime.com/Tune.ashx?id=s26919&formats=aac,ogg,mp3&partnerId=16&serial=d2a350cb54e30cc597ff0033ec901040
+    url_resolved: https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1768452219&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s26919&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g2723&aw_0_1st.class=sports&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a37777%2ca33296%2ca38045&aw_0_1st.bandId=1
+    codec: MP3

@@ -1,7 +1,7 @@
 stationuuid: 9fe569d6-c2bb-4be1-887d-5b8f349013fa
 name: Star 104.5 - Gosford - 104.5 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/STARFM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/STARFM.mp3
+url: 'http://14533.live.streamtheworld.com:80/STARFM.mp3'
+url_resolved: 'http://14533.live.streamtheworld.com:80/STARFM.mp3'
 homepage: https://www.star1045.com.au/
 favicon: https://i.ibb.co/0jVLtLc/song-cover-missing.jpg
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 00:18:06
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9fe569d6-c2bb-4be1-887d-5b8f349013fa
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Adult contemporary and top 40 popular music format
   notes: Australian commercial FM radio station serving the Gosford/Central Coast region; part of Southern Cross Austereo network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9fe569d6-c2bb-4be1-887d-5b8f349013fa

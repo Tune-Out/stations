@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-3ef1064d-ecaf-4786-aa35-25d7bb752402
-streams:
-  - url: 'http://icecast.thisisdax.com/CapitalNottinghamshire'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://icecast.thisisdax.com/CapitalNottinghamshireMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Contemporary hits, pop, chart music
   notes: Capital FM Nottinghamshire is a regional commercial radio station in the UK, part of the Capital FM network operated by Global Media & Entertainment. Part of broader UK radio group. Broadcasts contemporary pop, hits, and chart music to East Midlands region.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-3ef1064d-ecaf-4786-aa35-25d7bb752402
+streams:
+  - url: http://icecast.thisisdax.com/CapitalNottinghamshire
+    codec: AAC
+    bitrate: 48
+  - url: http://icecast.thisisdax.com/CapitalNottinghamshireMP3
+    codec: MP3
+    bitrate: 128

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:55:05
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96410ad2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://nr4.newradio.it:9400/;stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://nr4.newradio.it:9400/listen.pls'
-    url_resolved: 'http://nr4.newradio.it:9400/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,16 @@ research:
   format: Adult contemporary music streaming; Italian web radio
   notes: iWebRadio is an Italian web radio streaming service serving listeners in Reggio Calabria, Calabria and beyond via their website and official mobile apps. Commercial platform.
   sources: https://www.iwebradio.fm/, internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96410ad2-0601-11e8-ae97-52543be04c81
+  - iprd-it-iwebradio-31a6be66
+  - iprd-it-iwebradio-ab0b4a16
+streams:
+  - url: http://nr4.newradio.it:9400/;stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://nr4.newradio.it:9400/listen.pls
+    url_resolved: http://nr4.newradio.it:9400/stream
+    codec: MP3
+    bitrate: 128

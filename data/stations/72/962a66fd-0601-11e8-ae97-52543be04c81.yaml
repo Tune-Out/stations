@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:38:10
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962a66fd-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/ccountry_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strmreg.1.fm/ccountry_mobile_mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Classic country hits from the 1950s through 1990s, including legends like Johnny Cash, Willie Nelson, Dolly Parton and George Strait
   notes: 1.FM is a Swiss-based internet radio network operating dozens of themed channels including Absolute Top 40, Otto's Baroque Musick, and various genre streams; founded in 1999, it pioneered streaming radio and operates entirely as an online (non-terrestrial) commercial broadcaster funded by advertising and premium subscriptions; the Classic Country Radio channel is one of its most popular streams worldwide; site now redirects to radio.1cloud.fm.
   sources: https://www.1.fm/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-962a66fd-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-classic-country-radio-735bcd32
+streams:
+  - url: http://strm112.1.fm/ccountry_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strmreg.1.fm/ccountry_mobile_mp3
+    codec: MP3
+    bitrate: 192

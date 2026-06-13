@@ -1,7 +1,7 @@
 stationuuid: cd6d66e4-adc0-4284-9392-f1a1f87091d9
 name: KFM 94.5
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3
+url: 'https://27873.live.streamtheworld.com:443/KFM.mp3'
+url_resolved: 'https://27873.live.streamtheworld.com:443/KFM.mp3'
 homepage: http://www.kfm.co.za/
 favicon: https://www.primediaplus.com/favicon.ico
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 56
 geo_lat: -33.927294739093114
 geo_long: 18.42520299228287
-curation: -0.05
-provenance:
-  - radiobrowser-cd6d66e4-adc0-4284-9392-f1a1f87091d9
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,7 @@ research:
   format: Pop and rock music radio with contemporary hits and classic rock
   notes: Licensed station broadcasting on 94.5 FM in Cape Town; operated by Primedia, one of South Africa's largest independent media companies; commercial station with advertising model; serves urban English-speaking audience in the Western Cape; broadcasts pop and rock music programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cd6d66e4-adc0-4284-9392-f1a1f87091d9
+  - iprd-za-kfm-94-5-a6ad997f

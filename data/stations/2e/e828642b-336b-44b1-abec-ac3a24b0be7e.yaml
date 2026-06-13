@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 06:32:26
 clickcount: 3
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.65
-provenance:
-  - radiobrowser-e828642b-336b-44b1-abec-ac3a24b0be7e
-streams:
-  - url: 'http://stream-uk1.radioparadise.com/flacm'
-    codec: OGG
-    bitrate: 1442
-  - url: 'https://stream.radioparadise.com/flacm'
-    codec: OGG
-    bitrate: 1442
-  - url: 'http://stream-tx3.radioparadise.com/rp_192m.ogg'
-    codec: OGG
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +31,16 @@ research:
   format: Eclectic mix of music across genres (rock, indie, electronic, world, jazz, folk, hip-hop); listener-curated and DJ-selected.
   notes: Founded 1994 in Mendocino County, California. Independent non-commercial internet radio station providing free streaming to global audience. Known for high-quality audio and eclectic programming curated by founder Bill Goldsmith. Fully listener-supported.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-e828642b-336b-44b1-abec-ac3a24b0be7e
+streams:
+  - url: http://stream-uk1.radioparadise.com/flacm
+    codec: OGG
+    bitrate: 1442
+  - url: https://stream.radioparadise.com/flacm
+    codec: OGG
+    bitrate: 1442
+  - url: http://stream-tx3.radioparadise.com/rp_192m.ogg
+    codec: OGG
+    bitrate: 192

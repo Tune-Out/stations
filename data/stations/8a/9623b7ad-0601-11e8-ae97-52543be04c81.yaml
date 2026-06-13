@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:12:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-9623b7ad-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/8LRW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/8LRW/mp3/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -43,3 +33,15 @@ research:
   format: news, current affairs, talk, local information, music
   notes: ABC is Australia's national public broadcaster funded by government; Darwin station provides regional news, local events, and community information to Northern Territory; established service with high editorial standards.
   sources: http://www.abc.net.au/, internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-9623b7ad-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-local-radio-105-7-darwin-80c637fc
+  - iprd-au-abc-local-radio-105-7-darwin-d2f3538b
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/8LRW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/8LRW/mp3/
+    codec: AAC+
+    bitrate: 56

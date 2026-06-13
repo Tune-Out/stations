@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 04:32:05
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2305ca67-704f-4590-a904-526e61d29be2
-streams:
-  - url: 'http://s2.audiostream.hu/juventus_192k'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://s2.audiostream.hu/juventus_192k'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://youventusradio.hu/stream_96k'
-    url_resolved: 'http://s2.audiostream.hu/juventus_96k'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +31,17 @@ research:
   format: Pop music and contemporary hits
   notes: Commercial radio station in Hungary featuring pop music and entertainment programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2305ca67-704f-4590-a904-526e61d29be2
+streams:
+  - url: http://s2.audiostream.hu/juventus_192k
+    codec: MP3
+    bitrate: 192
+  - url: https://s2.audiostream.hu/juventus_192k
+    codec: MP3
+    bitrate: 192
+  - url: https://youventusradio.hu/stream_96k
+    url_resolved: http://s2.audiostream.hu/juventus_96k
+    codec: MP3
+    bitrate: 96

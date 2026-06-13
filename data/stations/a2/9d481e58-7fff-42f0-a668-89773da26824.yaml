@@ -1,7 +1,7 @@
 stationuuid: 9d481e58-7fff-42f0-a668-89773da26824
 name: LOS40 102.7 (GDL) - 102.7 FM - XEHL-FM - Radiópolis - Guadalajara, Jalisco
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_GDLAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_GDLAAC.aac
+url: 'https://26223.live.streamtheworld.com:443/LOS40_GDLAAC.aac'
+url_resolved: 'https://26223.live.streamtheworld.com:443/LOS40_GDLAAC.aac'
 homepage: https://los40.com.mx/
 favicon: https://cdn-profiles.tunein.com/s2753/images/logod.jpg
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 08:25:40
 clickcount: 0
 geo_lat: 20.67382998001565
 geo_long: -103.33997726440433
-curation: -0.05
-provenance:
-  - radiobrowser-9d481e58-7fff-42f0-a668-89773da26824
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Top 40 pop music with Spanish and English tracks; contemporary hits
   notes: XEHL-FM call sign; part of the LOS40 media network; primarily Spanish-language with English pop content
   sources: https://los40.com.mx/
+curation: -0.05
+provenance:
+  - radiobrowser-9d481e58-7fff-42f0-a668-89773da26824

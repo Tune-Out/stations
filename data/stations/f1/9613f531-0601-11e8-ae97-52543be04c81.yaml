@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:38:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9613f531-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://generations-thema.ice.infomaniak.ch/generations-thema.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://generations-thema.ice.infomaniak.ch/generations-thema.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Pop and mainstream music; contemporary hits
   notes: French commercial radio station (Generations brand); popular in France for contemporary music
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9613f531-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-2015-c3482df6
+  - iprd-fr-generations-2015-2b37b66f
+streams:
+  - url: http://generations-thema.ice.infomaniak.ch/generations-thema.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://generations-thema.ice.infomaniak.ch/generations-thema.mp3
+    codec: MP3
+    bitrate: 128

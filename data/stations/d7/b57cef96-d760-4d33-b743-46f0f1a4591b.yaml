@@ -21,14 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 6
 geo_lat: 51.70157565688055
 geo_long: -3.040874004364014
-curation: -0.05
-provenance:
-  - radiobrowser-b57cef96-d760-4d33-b743-46f0f1a4591b
-streams:
-  - url: 'https://stream4.themediasite.co.uk/stream/danceclassics'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://stream4.themediasite.co.uk/stream/danceclassics'
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Dance and house music from the 1990s and early 2000s.
   notes: Internet radio station dedicated to dance classics from the 90s era.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b57cef96-d760-4d33-b743-46f0f1a4591b
+streams:
+  - url: https://stream4.themediasite.co.uk/stream/danceclassics
+    codec: AAC
+    bitrate: 192
+  - url: https://stream4.themediasite.co.uk/stream/danceclassics

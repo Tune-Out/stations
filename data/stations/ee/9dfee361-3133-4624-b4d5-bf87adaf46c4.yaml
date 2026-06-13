@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 14
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9dfee361-3133-4624-b4d5-bf87adaf46c4
-streams:
-  - url: 'https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: Classical music, opera, sacred music, jazz, contemporary classical, plus cultural news and live concerts (including the BR Symphony Orchestra and BR Chor)
   notes: BR-Klassik launched in 1949 as Bayern 4 / Bayern 4 Klassik before adopting the BR-Klassik name in 2010; operated by Bayerischer Rundfunk, a public-law broadcaster financed by the German household broadcasting fee (Rundfunkbeitrag); the channel is widely regarded as one of Europe's leading classical music networks and houses the renowned Symphonieorchester des Bayerischen Rundfunks and the BR Chor.
   sources: internal knowledge
+curation: 0.7
+provenance:
+  - radiobrowser-9dfee361-3133-4624-b4d5-bf87adaf46c4
+streams:
+  - url: https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
+    codec: MP3
+    bitrate: 256
+  - url: https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
+    codec: MP3
+    bitrate: 128

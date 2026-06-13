@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a9db01c2-247f-11e8-91bf-52543be04c81
-streams:
-  - url: 'http://mp3.wunschradio.de/wunschradio.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://radiostreamserver.de/wunschradio.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,15 @@ research:
   format: Music request radio; pop, rock, schlager, musicals; listener participation via requests
   notes: 'wunschradio.fm is a non-commercial community radio station emphasizing listener music requests. Tagline: "Musikwunsch kostenlos im Radio" (free music requests on radio). Operates across DACH region with multiple genre-specific channels (main pop/rock, top 100 charts, schlager/party, musicals). Features interactive wish-request system and community engagement (chat, polls, photo/video sharing).'
   sources: http://wunschradio.de/
+curation: 0.35
+provenance:
+  - radiobrowser-a9db01c2-247f-11e8-91bf-52543be04c81
+  - iprd-de-wunschradio-fm-5d0b39ca
+  - iprd-de-wunschradio-fm-5bba0022
+streams:
+  - url: http://mp3.wunschradio.de/wunschradio.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://radiostreamserver.de/wunschradio.mp3
+    codec: MP3
+    bitrate: 320

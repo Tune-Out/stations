@@ -20,18 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ece6cfbc-aa87-4b1b-9af5-7d2a6d983133
-streams:
-  - url: 'https://loveradiobacolod.radioca.st/listen.pls'
-    url_resolved: 'http://loveradiobacolod.radioca.st:8088/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://loveradiobacolod.radioca.st:2199/tunein/loveradiobacolod-stream.pls'
-    url_resolved: 'http://148.251.43.149:8088/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +29,15 @@ research:
   format: Contemporary pop and music programming
   notes: Commercial FM station serving Bacolod, Philippines; part of Love Radio network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ece6cfbc-aa87-4b1b-9af5-7d2a6d983133
+streams:
+  - url: https://loveradiobacolod.radioca.st/listen.pls
+    url_resolved: http://loveradiobacolod.radioca.st:8088/stream
+    codec: MP3
+    bitrate: 64
+  - url: http://loveradiobacolod.radioca.st:2199/tunein/loveradiobacolod-stream.pls
+    url_resolved: http://148.251.43.149:8088/stream
+    codec: MP3
+    bitrate: 64

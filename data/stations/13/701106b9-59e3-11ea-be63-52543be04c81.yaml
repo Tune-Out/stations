@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 03:26:15
 clickcount: 31
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.65
-provenance:
-  - radiobrowser-701106b9-59e3-11ea-be63-52543be04c81
-streams:
-  - url: 'https://somafm.com/reggae32.pls'
-    url_resolved: 'https://ice6.somafm.com/reggae-32-aac'
-    codec: AAC
-    bitrate: 32
-  - url: 'https://somafm.com/reggae256.pls'
-    url_resolved: 'https://ice6.somafm.com/reggae-256-mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://somafm.com/reggae.pls'
-    url_resolved: 'https://ice1.somafm.com/reggae-128-mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -48,3 +32,30 @@ research:
   format: Reggae, ska, rocksteady classic and deep tracks; DJ-curated by Dion
   notes: Commercial-free, listener-supported radio; celebrating 25+ years; curator plays rare vinyl, CD, and digital collections; supported by listener donations and merchandise sales
   sources: https://somafm.com/reggae/
+curation: 0.65
+provenance:
+  - radiobrowser-701106b9-59e3-11ea-be63-52543be04c81
+  - iprd-us-christmas-lounge-3309903a
+  - iprd-us-groove-salad-937fc351
+  - iprd-us-jolly-ol-soul-071f02d6
+  - iprd-us-n5md-radio-8b1f53da
+  - iprd-us-somafm-xmas-in-frisko-f6d3fee9
+  - iprd-us-somafm-black-rock-95cb9893
+  - iprd-us-somafm-black-rock-31803bc9
+  - iprd-us-somafm-heavyweight-reggae-31ee8596
+  - iprd-us-somafm-heavyweight-reggae-b74a2bbe
+  - iprd-us-somafm-xmas-in-friskko-0a343502
+  - iprd-us-underground-80s-7744052f
+streams:
+  - url: https://somafm.com/reggae32.pls
+    url_resolved: https://ice6.somafm.com/reggae-32-aac
+    codec: AAC
+    bitrate: 32
+  - url: https://somafm.com/reggae256.pls
+    url_resolved: https://ice6.somafm.com/reggae-256-mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://somafm.com/reggae.pls
+    url_resolved: https://ice1.somafm.com/reggae-128-mp3
+    codec: MP3
+    bitrate: 160

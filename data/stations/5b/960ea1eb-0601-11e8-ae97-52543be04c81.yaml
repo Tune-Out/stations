@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 03:05:57
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-960ea1eb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://listen.hardbase.fm/tunein-aac-hd-pls'
-    codec: AAC
-    bitrate: 256
-  - url: 'http://listen.hardbase.fm/tunein-aacisdn'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://mp3.stream.tb-group.fm/hb.mp3?'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -45,3 +32,16 @@ research:
   format: hardstyle, hardcore, jumpstyle, rawstyle and hard dance with live DJ shows, listener greetings and a Discord community
   notes: HardBase.FM is the hardstyle/hardcore branch of the TB Group's "We aRe oNe" network of German electronic-music web radios, founded by Tony Bauer (TB) in the mid-2000s; the network is non-commercial in look and feel, with a strong community focus (listener greetings, Discord, weekly DJ shows) and a German-language interface; sample current programming includes Rawstyle Mansion and Hard Bass mixes.
   sources: http://www.hardbase.fm/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-960ea1eb-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://listen.hardbase.fm/tunein-aac-hd-pls
+    codec: AAC
+    bitrate: 256
+  - url: http://listen.hardbase.fm/tunein-aacisdn
+    codec: AAC
+    bitrate: 48
+  - url: http://mp3.stream.tb-group.fm/hb.mp3?
+    codec: MP3
+    bitrate: 192

@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 07:48:53
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c6dbc068-03f6-486e-bf74-bbd13c75d1c2
-streams:
-  - url: 'http://stream.svobodny-vysilac.cz:8000/live.ogg'
-    codec: OGG
-  - url: 'http://stream.svobodny-vysilac.cz:8000/live.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +30,13 @@ research:
   format: Community radio format
   notes: Svobodný vysílač ("Free Broadcaster") is a community radio station in Czechia. The name reflects its non-commercial, independent community radio ethos. Broadcasts in Czech.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c6dbc068-03f6-486e-bf74-bbd13c75d1c2
+  - iprd-cz-svobodny-vysilac-85226ea6
+streams:
+  - url: http://stream.svobodny-vysilac.cz:8000/live.ogg
+    codec: OGG
+  - url: http://stream.svobodny-vysilac.cz:8000/live.mp3
+    codec: MP3
+    bitrate: 128

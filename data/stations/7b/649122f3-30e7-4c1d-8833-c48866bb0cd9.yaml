@@ -1,7 +1,7 @@
 stationuuid: 649122f3-30e7-4c1d-8833-c48866bb0cd9
 name: Tropicana Barranquilla
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TR_BARRANQUILLA_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TR_BARRANQUILLA_SC
+url: 'https://27363.live.streamtheworld.com:443/TR_BARRANQUILLA_SC'
+url_resolved: 'https://27363.live.streamtheworld.com:443/TR_BARRANQUILLA_SC'
 homepage: https://envivo.tropicanafm.com/emisora/barranquilla/
 favicon: http://cdn-profiles.tunein.com/s188221/images/logod.jpg?t=638906937190000000
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-04-17 20:22:48
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-649122f3-30e7-4c1d-8833-c48866bb0cd9
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Tropical music and popular music programming
   notes: Tropicana FM regional station serving Barranquilla. Part of Tropicana FM network with multiple Colombian regional operations. Commercial broadcaster specializing in tropical and Latin music formats.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-649122f3-30e7-4c1d-8833-c48866bb0cd9

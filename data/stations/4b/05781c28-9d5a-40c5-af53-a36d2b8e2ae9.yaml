@@ -25,14 +25,6 @@ lastchangetime: 2026-01-15 03:38:06
 clickcount: 1
 geo_lat: 59.435916332831006
 geo_long: 24.746360778808597
-curation: -0.05
-provenance:
-  - radiobrowser-05781c28-9d5a-40c5-af53-a36d2b8e2ae9
-streams:
-  - url: 'https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92'
-    codec: MP3
-  - url: 'https://stream.skymedia.ee/live/Legendaarne'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +34,11 @@ research:
   format: Hip-hop, rap, urban music
   notes: Estonian internet radio station part of Sky media platform, specializing in hip-hop and rap music
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-05781c28-9d5a-40c5-af53-a36d2b8e2ae9
+streams:
+  - url: https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92
+    codec: MP3
+  - url: https://stream.skymedia.ee/live/Legendaarne
+    codec: MP3

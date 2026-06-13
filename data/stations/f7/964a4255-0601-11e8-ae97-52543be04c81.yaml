@@ -1,6 +1,6 @@
 stationuuid: 964a4255-0601-11e8-ae97-52543be04c81
 name: WNCY 100.3 "Y100 Country" Neenah-Menasha, WI
-url: http://provisioning.streamtheworld.com/pls/WNCYFMAAC.pls
+url: 'http://26353.live.streamtheworld.com:80/WNCYFMAAC_SC'
 url_resolved: http://17563.live.streamtheworld.com:3690/WNCYFMAAC_SC
 homepage: http://wncy.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2168/squareIcon.png?r=59003
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:32:41
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964a4255-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: Country music
   notes: WNCY 100.3 FM branded as Y100; serves the Fox Valley and Green Bay region of northeastern Wisconsin
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964a4255-0601-11e8-ae97-52543be04c81
+  - iprd-us-wncy-100-3-y100-country-1e93fb7d

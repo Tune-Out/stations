@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 06:14:42
 clickcount: 19
 geo_lat: 50.48296656203639
 geo_long: 30.4828816652298
-curation: 0.20
-provenance:
-  - radiobrowser-4748a2a9-2f27-4e4d-a15f-a91448a75830
-streams:
-  - url: 'https://online.radioroks.ua/RadioROKS_HD'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://online.radioroks.ua/RadioROKS_HD'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Rock-formatted commercial station featuring classic rock, hard rock, heavy metal, and Ukrainian rock with sub-channels for Ukrainian Rock, New Rock, Classic Rock, Hard 'n' Heavy, and Rock Ballads
   notes: Launched in 2003 as Ukraine's first rock-format radio station, operated by TAVR Media, one of Ukraine's largest commercial radio holdings (also operating Hit FM, KISS FM, Melodiya FM, Relax FM, Radio Jazz, Nashe Radio, Classic Radio, Radio Bayraktar, and Flash Radio); broadcasts on FM frequencies across many Ukrainian cities and continued operating during the 2022 Russian invasion.
   sources: https://play.tavr.media/radioroks/, internal knowledge
+curation: 0.2
+provenance:
+  - radiobrowser-4748a2a9-2f27-4e4d-a15f-a91448a75830
+  - iprd-ua-radio-roks-hd-a88741a8
+streams:
+  - url: https://online.radioroks.ua/RadioROKS_HD
+    codec: MP3
+    bitrate: 320
+  - url: http://online.radioroks.ua/RadioROKS_HD
+    codec: MP3
+    bitrate: 320

@@ -20,16 +20,6 @@ lastchangetime: 2026-05-26 02:14:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-44d3c1eb-de24-4efd-ba0d-52512ebdd611
-streams:
-  - url: 'https://metallica.hostingradio.ru/metallica96.aacp'
-    codec: AAC+
-    bitrate: 96000
-  - url: 'https://metallica.hostingradio.ru/metallica96.aacp'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Metal, heavy metal, hard rock; Metallica-focused streaming channel
   notes: Russian streaming service with metal music specialization; part of broader internet radio ecosystem.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-44d3c1eb-de24-4efd-ba0d-52512ebdd611
+streams:
+  - url: https://metallica.hostingradio.ru/metallica96.aacp
+    codec: AAC+
+    bitrate: 96000
+  - url: https://metallica.hostingradio.ru/metallica96.aacp
+    codec: AAC+
+    bitrate: 96

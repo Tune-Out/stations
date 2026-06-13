@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 05:27:18
 clickcount: 1
 geo_lat: -51.721583890010585
 geo_long: -57.81005859375001
-curation: 0.50
-provenance:
-  - radiobrowser-97887f52-540f-409e-a625-967e4698d829
-streams:
-  - url: 'https://streaming.broadcastradio.com:8332/flklnd'
-    codec: MP3
-  - url: 'https://streaming.broadcastradio.com:8332/flklnd?1721893143541='
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +31,11 @@ research:
   format: news, information, entertainment; BBC programming
   notes: Primary public broadcaster for the Falkland Islands. Broadcasts over FM (88.2, 88.4, 88.6, 88.9 MHz) and medium wave (530 AM). Operates from Stanley. Provides "news, information and entertainment" with emphasis on local community news and weather. BBC World Service content included. Online streaming since 2012 expansion. Subject to Falkland Islands media regulations including Governance and Media Trust Ordinance.
   sources: https://radio.co.fk/
+curation: 0.5
+provenance:
+  - radiobrowser-97887f52-540f-409e-a625-967e4698d829
+streams:
+  - url: https://streaming.broadcastradio.com:8332/flklnd
+    codec: MP3
+  - url: https://streaming.broadcastradio.com:8332/flklnd?1721893143541=
+    codec: MP3

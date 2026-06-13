@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 01:30:19
 clickcount: 20
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962848be-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://onair18.xdevel.com:8062/;'
-    codec: AAC+
-  - url: 'https://router.xdevel.com/audio4s975355-254/stream/icecast.audio'
-    codec: AAC+
-  - url: 'https://stream2.xdevel.com/audio1s975355-54/stream/icecast.audio'
-    codec: AAC+
-  - url: 'http://stream1.xdevel.com/audio7s975355-282/stream/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +31,16 @@ research:
   format: Contemporary pop music radio programming
   notes: Regional Italian commercial radio station based in Carpi, Emilia-Romagna; AAC+ streaming; available via web and mobile platforms
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962848be-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-bruno-d731a048
+streams:
+  - url: http://onair18.xdevel.com:8062/;
+    codec: AAC+
+  - url: https://router.xdevel.com/audio4s975355-254/stream/icecast.audio
+    codec: AAC+
+  - url: https://stream2.xdevel.com/audio1s975355-54/stream/icecast.audio
+    codec: AAC+
+  - url: http://stream1.xdevel.com/audio7s975355-282/stream/icecast.audio
+    codec: MP3

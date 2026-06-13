@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d7ecda7e-1767-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://radiono1.ice.infomaniak.ch/radiono1-48.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://radiono1.ice.infomaniak.ch/radiono1-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Local and regional programming with community focus serving Loiret and Nièvre regions.
   notes: Regional commercial station serving central France (Loiret and Nièvre departments). Streams via Infomaniak infrastructure at 128 kbps MP3. French local radio format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d7ecda7e-1767-11e9-a80b-52543be04c81
+  - iprd-fr-radio-num-ro-1-991c83f2
+  - iprd-fr-radio-num-ro-1-1c09e162
+streams:
+  - url: http://radiono1.ice.infomaniak.ch/radiono1-48.aac
+    codec: AAC+
+    bitrate: 48
+  - url: http://radiono1.ice.infomaniak.ch/radiono1-128.mp3
+    codec: MP3
+    bitrate: 128

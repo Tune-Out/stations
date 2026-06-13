@@ -22,16 +22,6 @@ lastchangetime: 2026-05-12 07:21:45
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c925e1b0-318d-48c9-98d7-c355dd971757
-streams:
-  - url: 'https://lhttp-hw.qtfm.cn/live/3984/64k.mp3'
-    codec: MP3
-  - url: 'https://zjtv-wshls.homecdn.com/live/64522.m3u8'
-    codec: UNKNOWN
-    bitrate: 169
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -41,3 +31,13 @@ research:
   format: News and comprehensive local/provincial programming
   notes: 镇江综合广播 is the integrated news and information channel of Zhenjiang municipal broadcasting, part of China's state-controlled media system.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c925e1b0-318d-48c9-98d7-c355dd971757
+streams:
+  - url: https://lhttp-hw.qtfm.cn/live/3984/64k.mp3
+    codec: MP3
+  - url: https://zjtv-wshls.homecdn.com/live/64522.m3u8
+    codec: UNKNOWN
+    bitrate: 169
+    hls: true

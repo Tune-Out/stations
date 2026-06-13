@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 02:02:21
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5e18d81a-1489-4527-bf36-2658eddbc416
-streams:
-  - url: 'https://stream3.themediasite.co.uk:8302/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream3.themediasite.co.uk/stream/danceanthems'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Dance music, 90s/00s hits, dance anthems, old skool rave and house music.
   notes: UK-based commercial internet radio station specializing in dance music with emphasis on 90s/00s era tracks and dance anthems. "Old skool" tag indicates focus on classic UK rave and house music from late 1980s-1990s. Ad-supported commercial model serving dance music community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5e18d81a-1489-4527-bf36-2658eddbc416
+streams:
+  - url: https://stream3.themediasite.co.uk:8302/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://stream3.themediasite.co.uk/stream/danceanthems
+    codec: MP3
+    bitrate: 192

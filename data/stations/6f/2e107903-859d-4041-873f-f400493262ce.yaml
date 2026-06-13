@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 5
 geo_lat: 48.85269803464278
 geo_long: 2.34884262084961
-curation: -0.05
-provenance:
-  - radiobrowser-2e107903-859d-4041-873f-f400493262ce
-streams:
-  - url: 'https://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Nouveautés (new releases); contemporary hit music.
   notes: French commercial radio station; "Nouveautés" service features new and contemporary music releases; based in Paris region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2e107903-859d-4041-873f-f400493262ce
+  - iprd-fr-m-radio-nouvelle-sc-ne-ff75d3b9
+streams:
+  - url: https://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
+    codec: MP3
+    bitrate: 128

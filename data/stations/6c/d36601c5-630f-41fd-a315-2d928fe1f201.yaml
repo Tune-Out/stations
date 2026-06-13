@@ -20,16 +20,6 @@ lastchangetime: 2026-05-17 14:43:46
 clickcount: 1
 geo_lat: 46.76953413589493
 geo_long: 23.58982175588608
-curation: 0.30
-provenance:
-  - radiobrowser-d36601c5-630f-41fd-a315-2d928fe1f201
-streams:
-  - url: 'https://azura.ebsmedia.ro/listen/fresco/fresco128.mp3?refresh=1779028960370'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.ebsmedia.ro/listen/fresco/fresco128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Diverse music with multiple specialty streams; Italo music specialty; hosted shows ("Breakfast Show", "City Drive", "Focus EBS")
   notes: 'Commercial station broadcasting on FM 90.4. Tagline: "With You Sounds Better" / "Cluj Sounds Better." Features 17 curated music channels including Italo, Country, Electro, Jazz, Blues, Classical, Romanian Gold. Available on 12+ streaming platforms.'
   sources: https://ebsradio.ro/
+curation: 0.3
+provenance:
+  - radiobrowser-d36601c5-630f-41fd-a315-2d928fe1f201
+streams:
+  - url: https://azura.ebsmedia.ro/listen/fresco/fresco128.mp3?refresh=1779028960370
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.ebsmedia.ro/listen/fresco/fresco128.mp3
+    codec: MP3
+    bitrate: 128

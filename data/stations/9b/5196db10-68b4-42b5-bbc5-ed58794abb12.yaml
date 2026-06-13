@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: 50.93372129987297
 geo_long: 6.96643231381478
-curation: 0.50
-provenance:
-  - radiobrowser-5196db10-68b4-42b5-bbc5-ed58794abb12
-streams:
-  - url: 'http://wdr-sportschau-liga1konferenz.icecastssl.wdr.de/wdr/sportschau/liga1konferenz/mp3/high'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-sportschau-liga1konferenz.icecastssl.wdr.de/wdr/sportschau/liga1konferenz/mp3/high'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -38,3 +28,13 @@ research:
   format: Live sports broadcasting, 1. Fußball Bundesliga (German top-flight football league) match coverage
   notes: WDR Sportschau is a public broadcaster stream from Westdeutscher Rundfunk (WDR), part of ARD, broadcasting live German Bundesliga football conference with comprehensive coverage of all matches.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-5196db10-68b4-42b5-bbc5-ed58794abb12
+streams:
+  - url: http://wdr-sportschau-liga1konferenz.icecastssl.wdr.de/wdr/sportschau/liga1konferenz/mp3/high
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-sportschau-liga1konferenz.icecastssl.wdr.de/wdr/sportschau/liga1konferenz/mp3/high
+    codec: MP3
+    bitrate: 128

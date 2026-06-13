@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:53:32
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3c789d84-ba8a-43d2-9d76-d7c9105a8591
-streams:
-  - url: 'http://radiovest.cast.addradio.de/radiovest/simulcast/high/stream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://radiovest.cast.addradio.de/radiovest/simulcast/high/stream.mp3?ar-purpose=web&ar-distributor=f0d1'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Mixed local radio with news, local reporting, entertainment, interactive segments; Discofox and Schlager music emphasis
   notes: 'Community-focused local broadcaster serving the Kreis Recklinghausen since establishment as commercial station. Notable shows: "Radio Vest am Morgen" (morning show). Offers podcasts (true crime, coaching), community services, and multiple distribution channels. Mission: position as community-focused local broadcaster providing news, entertainment, and practical services to residents.'
   sources: https://www.radiovest.de/index.html
+curation: 0.35
+provenance:
+  - radiobrowser-3c789d84-ba8a-43d2-9d76-d7c9105a8591
+streams:
+  - url: http://radiovest.cast.addradio.de/radiovest/simulcast/high/stream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://radiovest.cast.addradio.de/radiovest/simulcast/high/stream.mp3?ar-purpose=web&ar-distributor=f0d1
+    codec: MP3
+    bitrate: 192

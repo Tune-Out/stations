@@ -1,7 +1,7 @@
 stationuuid: 7ad16798-bf21-4d53-af63-8f0cf9737268
 name: WRVO 2
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD2.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD2.mp3
+url: 'https://18423.live.streamtheworld.com:443/WRVOHD2.mp3'
+url_resolved: 'https://18423.live.streamtheworld.com:443/WRVOHD2.mp3'
 homepage: https://www.wrvo.org/
 favicon: https://www.wrvo.org/apple-touch-icon.png
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 0
 geo_lat: 43.45890015705449
 geo_long: -76.4923095703125
-curation: 0.50
-provenance:
-  - radiobrowser-7ad16798-bf21-4d53-af63-8f0cf9737268
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -33,3 +30,6 @@ research:
   format: Independent productions, experimental audio, found sound, alternative content
   notes: Public radio station in Oswego, New York; HD2 stream dedicated to independent and experimental audio programming
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-7ad16798-bf21-4d53-af63-8f0cf9737268

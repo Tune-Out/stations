@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4f7f32f3-5d60-43ed-99aa-ea3a563918f3
-streams:
-  - url: 'https://bonneville.cdnstream1.com/2699_48.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://bonneville.cdnstream1.com/2699_48.aac?aw_0_1st.playerid=Tuner&newListeningSessionID=658c86850078d62d_39374685_ogA0dE7B_MjE2LjIzNS44MC43Njo4MA%21%21_000000CVqR9'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Sports talk radio; Arizona Cardinals, Phoenix Suns, Arizona Diamondbacks, and Phoenix Coyotes coverage.
   notes: KMVP 98.7 Arizona Sports is a commercial sports talk station in Phoenix operated by Bonneville International. Covers Arizona professional sports teams including NFL, NBA, MLB, and NHL franchises. Major sports radio outlet for Arizona market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4f7f32f3-5d60-43ed-99aa-ea3a563918f3
+  - iprd-us-kmvp-98-7-arizona-sports-a3fae41d
+streams:
+  - url: https://bonneville.cdnstream1.com/2699_48.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://bonneville.cdnstream1.com/2699_48.aac?aw_0_1st.playerid=Tuner&newListeningSessionID=658c86850078d62d_39374685_ogA0dE7B_MjE2LjIzNS44MC43Njo4MA%21%21_000000CVqR9
+    codec: AAC+
+    bitrate: 64

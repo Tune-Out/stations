@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 08:18:45
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-bcc2363f-d35e-42cc-9437-68881134d908
-streams:
-  - url: 'https://media.streambrothers.com:8342/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://sc.abc.com.py:8000/stream'
-    codec: MP3
-    bitrate: 32
-  - url: 'http://sc.abc.com.py:8000/stream?us_privacy=1YNY'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +32,17 @@ research:
   format: News, sports, and current affairs programming; news-focused AM radio station
   notes: 730 AM is a major news and sports station in Paraguay; part of ABC media conglomerate; serves as important news source for Asuncion region
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bcc2363f-d35e-42cc-9437-68881134d908
+  - iprd-py-radio-abc-cardinal-730-5e31b9f5
+streams:
+  - url: https://media.streambrothers.com:8342/stream
+    codec: MP3
+    bitrate: 64
+  - url: http://sc.abc.com.py:8000/stream
+    codec: MP3
+    bitrate: 32
+  - url: http://sc.abc.com.py:8000/stream?us_privacy=1YNY
+    codec: MP3
+    bitrate: 32

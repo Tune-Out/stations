@@ -1,7 +1,7 @@
 stationuuid: f0e3d8ae-6f16-4be3-b490-69b1bacab9cf
 name: Radio Adelaide - Adelaide - 101.5 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ADE.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ADE.mp3
+url: 'http://14533.live.streamtheworld.com:80/RADIO_ADE.mp3'
+url_resolved: 'http://14533.live.streamtheworld.com:80/RADIO_ADE.mp3'
 homepage: https://radioadelaide.org.au/
 favicon: https://i.ibb.co/BtJhRPH/5d268edc4922247cab506df7.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f0e3d8ae-6f16-4be3-b490-69b1bacab9cf
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Diverse community programming including music, talk, local news, and community information.
   notes: Licensed community radio station (101.5 FM) serving Adelaide since 1972; operated by volunteer-driven organization.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f0e3d8ae-6f16-4be3-b490-69b1bacab9cf

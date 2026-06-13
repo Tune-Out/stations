@@ -20,10 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-5d9e440c-d634-4473-b56c-8f505ed33302
-duplicate_of: e2011342-2b07-40b7-a64d-af695146085b
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -33,3 +29,7 @@ research:
   format: Classical music audio stream (likely mislabeled or metadata error in catalog)
   notes: Station metadata indicates "aljazeera" name but "classical" tag and stream from Alibaba CDN. Possible mislabeling in catalog. Without accessible homepage, nature and operator cannot be confirmed with certainty. May be state-affiliated if connected to Al Jazeera.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-5d9e440c-d634-4473-b56c-8f505ed33302
+duplicate_of: e2011342-2b07-40b7-a64d-af695146085b

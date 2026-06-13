@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 00:50:24
 clickcount: 1
 geo_lat: 40.71619268226615
 geo_long: -74.03387620665374
-curation: 0.00
-provenance:
-  - radiobrowser-db8f3c40-8be6-4a3c-8767-ffcfae50b8dc
-streams:
-  - url: 'http://stream.deep.friskyradio.com/deep_mp3_high'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://deep.friskyradio.com/friskydeep_aachi'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: Deep house, progressive house, trance, techno; 24/7 streaming
   notes: Frisky Radio operates multiple genre-specific channels; Deep stream features progressive house and deep house; based in New York
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-db8f3c40-8be6-4a3c-8767-ffcfae50b8dc
+  - iprd-us-frisky-deep-ab6a7d3c
+streams:
+  - url: http://stream.deep.friskyradio.com/deep_mp3_high
+    codec: MP3
+    bitrate: 96
+  - url: http://deep.friskyradio.com/friskydeep_aachi
+    codec: MP3
+    bitrate: 96

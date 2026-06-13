@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 06:42:26
 clickcount: 2
 geo_lat: 44.22975177717503
 geo_long: -76.48123741149904
-curation: -0.05
-provenance:
-  - radiobrowser-8217e7a3-7374-4358-ae14-078bd3abfd03
-streams:
-  - url: 'https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 47
-    hls: true
-  - url: 'https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8?environment=web&args=app_03'
-    codec: AAC+
-    bitrate: 47
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,16 @@ research:
   format: active rock, classic rock; 105.7 FM regional station
   notes: Rogers Media-owned station serving Kingston region; branded K-Rock 105.7 with active rock format and local morning shows
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8217e7a3-7374-4358-ae14-078bd3abfd03
+  - iprd-ca-cikr-105-7-7d667cee
+streams:
+  - url: https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 47
+    hls: true
+  - url: https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8?environment=web&args=app_03
+    codec: AAC+
+    bitrate: 47
+    hls: true

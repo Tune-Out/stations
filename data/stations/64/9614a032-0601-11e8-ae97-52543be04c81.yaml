@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 02:47:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9614a032-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radioscoopsaintetienne.ice.infomaniak.ch/radioscoop-stetienne-64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://radioscoopsaintetienne.ice.infomaniak.ch/radioscoop-stetienne-64.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,18 @@ research:
   format: Contemporary hits, pop, and entertainment programming
   notes: Radio Scoop is a French commercial radio network with regional stations. The Saint-Étienne station broadcasts to the Auvergne-Rhône-Alpes region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9614a032-0601-11e8-ae97-52543be04c81
+  - iprd-fr-radio-scoop-annees-80-s-4dc740a3
+  - iprd-fr-radio-scoop-cin-525d004f
+  - iprd-fr-radio-scoop-love-c7f0f1a2
+  - iprd-fr-radio-scoop-play-list-126b8ee0
+  - iprd-fr-radio-scoop-st-tienne-285b69c0
+streams:
+  - url: http://radioscoopsaintetienne.ice.infomaniak.ch/radioscoop-stetienne-64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://radioscoopsaintetienne.ice.infomaniak.ch/radioscoop-stetienne-64.aac
+    codec: AAC+
+    bitrate: 64

@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-bbb33d86-a58b-4ffe-8dfd-b9651067f4e2
-streams:
-  - url: 'http://drive.uber.radio/uber/crandressegovia/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crandressegovia/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -36,3 +28,25 @@ research:
   format: Classical guitar, Andrés Segovia repertoire, acoustic instrumental music
   notes: Internet radio stream specializing in classical guitar music; focuses on Segovia tradition and classical guitar repertoire; appears on radio-addict.com platform serving niche classical music audience; small independent broadcaster
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-bbb33d86-a58b-4ffe-8dfd-b9651067f4e2
+  - iprd-cn-fraternity-radio-b59c062f
+  - iprd-cn-weihai-fashion-radio-1e53199a
+  - iprd-cn-xuanhua-charm-103-2-f80c827d
+  - iprd-cn-hangzhou-linan-broadcasting-98-4-4754594d
+  - iprd-cn-zhuzhou-literary-life-broadcasting-105-7-98b02e4e
+  - iprd-cn-yantai-travel-music-radio-107-2-e69c0737
+  - iprd-cn-xuyi-people-s-broadcasting-station-8cda08d9
+  - iprd-cn-xuecheng-people-s-broadcasting-station-a8aa6cd4
+  - iprd-cn-bengbu-economic-broadcasting-104-2-6f4f3e81
+  - iprd-cn-tongliao-mongolian-radio-93-7-1350-c6d4a35f
+  - iprd-gr-gaga-98-4-f920d8cb
+  - iprd-me-radio-gradanin-0196ebe8
+  - iprd-mn-besttime-f26a415b
+  - iprd-ni-union-nacional-patriotica-105-5-4b9efd63
+streams:
+  - url: http://drive.uber.radio/uber/crandressegovia/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crandressegovia/icecast.audio
+    codec: MP3

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 05:29:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9635ca4c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.norawebstreams.de/nora-80er/mp3-128/homepage/'
-    codec: MP3
-  - url: 'http://streams.norawebstreams.de/nora-80er/mp3-192/streams.norawebstreams.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: 1980s hits and classic rock/pop retrospective (70s-90s). Part of multi-stream network including NORA 60er/70er, Oldies, Party, Christmas.
   notes: Mission "Wir lieben Musik" (We love music). Emphasizes "unforgettable highlights from over 30 years of rock and pop." Multiple decade-specific and theme streams.
   sources: http://www.norawebstreams.de/
+curation: -0.05
+provenance:
+  - radiobrowser-9635ca4c-0601-11e8-ae97-52543be04c81
+  - iprd-de-nora-80er-radio-c0f33a98
+  - iprd-de-nora-80er-stream-34881670
+streams:
+  - url: http://streams.norawebstreams.de/nora-80er/mp3-128/homepage/
+    codec: MP3
+  - url: http://streams.norawebstreams.de/nora-80er/mp3-192/streams.norawebstreams.de/
+    codec: MP3

@@ -1,7 +1,7 @@
 stationuuid: dfa8a823-1782-4dc1-baca-fe59318b291f
 name: Mississippi Publuc Radio
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_56.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_56.mp3
+url: 'https://26423.live.streamtheworld.com:443/WMPNHD3_56.mp3'
+url_resolved: 'https://26423.live.streamtheworld.com:443/WMPNHD3_56.mp3'
 homepage: https://www.mpbonline.org/#page=schedule&day=20241021&provider=Broadcast
 favicon: ""
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-dfa8a823-1782-4dc1-baca-fe59318b291f
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -32,3 +29,6 @@ research:
   format: Public radio programming including news, arts, culture, and classical music
   notes: Mississippi Public Radio (WMPN and related stations) is the public broadcasting service of Mississippi operated by Mississippi Public Broadcasting. Provides NPR programming and cultural content.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-dfa8a823-1782-4dc1-baca-fe59318b291f

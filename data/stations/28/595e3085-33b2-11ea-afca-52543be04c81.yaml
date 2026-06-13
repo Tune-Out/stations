@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:46:22
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-595e3085-33b2-11ea-afca-52543be04c81
-streams:
-  - url: 'https://eu4.fastcast4u.com/proxy/lmarengo?mp=/;'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://eu4.fastcast4u.com/proxy/lmarengo?mp=/1&1700924574342'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Pop, contemporary hits, entertainment
   notes: Small regional Italian commercial radio station based in Villafalletto, Piemonte region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-595e3085-33b2-11ea-afca-52543be04c81
+  - iprd-it-radio-villa-sound-6a7fe61f
+streams:
+  - url: https://eu4.fastcast4u.com/proxy/lmarengo?mp=/;
+    codec: MP3
+    bitrate: 96
+  - url: https://eu4.fastcast4u.com/proxy/lmarengo?mp=/1&1700924574342
+    codec: MP3
+    bitrate: 96

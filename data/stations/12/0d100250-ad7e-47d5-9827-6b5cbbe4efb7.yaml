@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: 7.006361632032991
 geo_long: 100.4670524597168
-curation: 0.35
-provenance:
-  - radiobrowser-0d100250-ad7e-47d5-9827-6b5cbbe4efb7
-streams:
-  - url: 'https://radio10.plathong.net/7590/;stream.mp3?type=http'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://radio10.plathong.net/7590/;stream.mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +29,13 @@ research:
   format: Music programming; general entertainment for Songkhla region
   notes: Thai radio station serving Songkhla Province in southern Thailand; limited public documentation; 160kbps MP3 stream quality.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0d100250-ad7e-47d5-9827-6b5cbbe4efb7
+streams:
+  - url: https://radio10.plathong.net/7590/;stream.mp3?type=http
+    codec: MP3
+    bitrate: 160
+  - url: https://radio10.plathong.net/7590/;stream.mp3
+    codec: MP3
+    bitrate: 160

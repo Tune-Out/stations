@@ -19,37 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fcbd7124-cde1-4d70-ab58-5dd85f9d3c3e
-streams:
-  - url: 'https://streams.radiomast.io/ref-lossless-ogg-flac-stereo'
-    codec: OGG
-    bitrate: 1500
-  - url: 'https://streams.radiomast.io/ref-64k-ogg-opus-stereo'
-    codec: OGG
-    bitrate: 64
-  - url: 'https://streams.radiomast.io/ref-64k-ogg-vorbis-stereo'
-    codec: OGG
-    bitrate: 64
-  - url: 'https://streams.radiomast.io/ref-128k-aaclc-stereo'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://streams.radiomast.io/ref-64k-heaacv2-stereo'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://streams.radiomast.io/ref-64k-heaacv1-stereo'
-    codec: AAC
-    bitrate: 56
-  - url: 'https://streams.radiomast.io/ref-24k-heaacv1-mono'
-    codec: AAC
-    bitrate: 24
-  - url: 'https://streams.radiomast.io/ref-128k-mp3-stereo'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streams.radiomast.io/ref-32k-mp3-mono'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -59,3 +28,34 @@ research:
   format: Test/reference streams; royalty-free music, lossless Ogg FLAC encoding, high-bitrate (1500 kbps); shuffled playlist
   notes: 'Radio Mast is a cloud streaming platform providing infrastructure to the radio industry. Mission: "providing these as a service to the radio community, with the hope of improving the compatibility and interoperability within the streaming audio ecosystem." Reference streams are available 24/7 for QA, codec testing, and player diagnostics.'
   sources: https://www.radiomast.io/reference-streams
+curation: 0.35
+provenance:
+  - radiobrowser-fcbd7124-cde1-4d70-ab58-5dd85f9d3c3e
+streams:
+  - url: https://streams.radiomast.io/ref-lossless-ogg-flac-stereo
+    codec: OGG
+    bitrate: 1500
+  - url: https://streams.radiomast.io/ref-64k-ogg-opus-stereo
+    codec: OGG
+    bitrate: 64
+  - url: https://streams.radiomast.io/ref-64k-ogg-vorbis-stereo
+    codec: OGG
+    bitrate: 64
+  - url: https://streams.radiomast.io/ref-128k-aaclc-stereo
+    codec: AAC
+    bitrate: 128
+  - url: https://streams.radiomast.io/ref-64k-heaacv2-stereo
+    codec: AAC
+    bitrate: 64
+  - url: https://streams.radiomast.io/ref-64k-heaacv1-stereo
+    codec: AAC
+    bitrate: 56
+  - url: https://streams.radiomast.io/ref-24k-heaacv1-mono
+    codec: AAC
+    bitrate: 24
+  - url: https://streams.radiomast.io/ref-128k-mp3-stereo
+    codec: MP3
+    bitrate: 128
+  - url: https://streams.radiomast.io/ref-32k-mp3-mono
+    codec: MP3
+    bitrate: 32

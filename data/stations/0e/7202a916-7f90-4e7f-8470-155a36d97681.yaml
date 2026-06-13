@@ -24,17 +24,6 @@ lastchangetime: 2026-01-15 07:43:38
 clickcount: 19
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-7202a916-7f90-4e7f-8470-155a36d97681
-streams:
-  - url: 'http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/ak/bbc_london.m3u8'
-    codec: AAC+
-    bitrate: 101
-    hls: true
-  - url: 'http://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +33,15 @@ research:
   format: Local speech-led radio for the London area featuring news, current affairs, traffic/travel, sport (especially London football clubs), phone-ins, music, and community storytelling on 94.9 MHz FM, DAB+, BBC Sounds, and digital TV
   notes: BBC Radio London is the BBC's local radio service for Greater London, broadcasting on 94.9 FM, DAB, and online via BBC Sounds; the station has gone through multiple identities — launched 6 October 1970 as BBC Radio London, relaunched as Greater London Radio (GLR) in 1988, then as BBC London Live in 2000, BBC London 94.9 in 2001, and reverting to the BBC Radio London name in 2015; presenters have historically included Robert Elms, Vanessa Feltz, Eddie Nestor, Jo Good, Danny Baker, Gary Crowley, and Jumoké Fashola; in recent years the BBC has subjected BBC Local Radio to controversial cuts under its "Across the BBC" review, with significant programme-sharing introduced from 2023; the station's editorial output is bound by the BBC's public-service remit of impartiality, accuracy, and serving local communities, regulated by Ofcom following the BBC Charter renewal of 2017.
   sources: internal knowledge only (BBC homepage fetch blocked)
+curation: 0.5
+provenance:
+  - radiobrowser-7202a916-7f90-4e7f-8470-155a36d97681
+  - iprd-gb-bbc-radio-london-0efbb014
+streams:
+  - url: http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/ak/bbc_london.m3u8
+    codec: AAC+
+    bitrate: 101
+    hls: true
+  - url: http://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true

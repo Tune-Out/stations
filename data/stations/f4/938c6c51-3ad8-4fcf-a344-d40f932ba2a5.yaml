@@ -23,15 +23,6 @@ lastchangetime: 2026-02-19 15:57:39
 clickcount: 1
 geo_lat: -22.55929515631137
 geo_long: -47.40275502204896
-curation: 0.35
-provenance:
-  - radiobrowser-938c6c51-3ad8-4fcf-a344-d40f932ba2a5
-streams:
-  - url: 'https://radioamc.com.br/stream/amc'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://radioamc.com.br/stream/amcplus'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +32,12 @@ research:
   format: Japanese pop music (J-pop), Japanese rock (J-rock), anime soundtracks, and related content; also podcasts, news, and community engagement.
   notes: 'Non-commercial web radio specializing in anime, manga, and Japanese music culture for Brazilian audiences. Tagline: "Mt+Vc!" Features podcasts, news section, event coverage, and community team. Also operates "Canal START" supplementary content.'
   sources: https://radioamc.com.br/
+curation: 0.35
+provenance:
+  - radiobrowser-938c6c51-3ad8-4fcf-a344-d40f932ba2a5
+streams:
+  - url: https://radioamc.com.br/stream/amc
+    codec: MP3
+    bitrate: 96
+  - url: https://radioamc.com.br/stream/amcplus
+    codec: MP3

@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7b0014cd-de06-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-metal-64-aac'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-metal-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Heavy metal music channel; part of broader RPR1 multi-stream network with 30+ genre channels (80s, 90s dance, German music, etc.)
   notes: Regional commercial broadcaster in Rhineland-Palatinate, Germany. The Heavy Metal stream is one of many themed channels under the RPR1 umbrella. Parent company operates terrestrial FM and digital streaming across multiple platforms (radio.de, radioplayer.de, phonostar.de). Station includes community service initiatives including environmental and youth programs.
   sources: https://www.rpr1.de/
+curation: 0.35
+provenance:
+  - radiobrowser-7b0014cd-de06-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.rpr1.de/rpr-metal-64-aac
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-metal-128-mp3
+    codec: MP3

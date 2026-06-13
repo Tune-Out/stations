@@ -35,16 +35,6 @@ lastchangetime: 2026-01-15 08:34:02
 clickcount: 2
 geo_lat: 50.15390156923213
 geo_long: -5.08495330810547
-curation: 0.40
-provenance:
-  - radiobrowser-dd42ec6d-3c93-4b25-a5f4-5809706dd7ed
-streams:
-  - url: 'http://live.canstream.co.uk:8000/sourcefm.mp3'
-    codec: MP3
-    bitrate: 110
-  - url: 'http://live.canstream.co.uk:8000/sourcefm.mp3?.mp3'
-    codec: MP3
-    bitrate: 110
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -54,3 +44,15 @@ research:
   format: Eclectic mix including classical, folk, electronic, drum & bass, spoken word, and alternative music. Community-focused programming.
   notes: Licensed community radio station serving Cornwall. Wide musical eclecticism reflects local community interests. Part of UK's community radio sector.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-dd42ec6d-3c93-4b25-a5f4-5809706dd7ed
+  - iprd-gb-source-fm-97259586
+  - iprd-gb-source-96-1-1f5191de
+streams:
+  - url: http://live.canstream.co.uk:8000/sourcefm.mp3
+    codec: MP3
+    bitrate: 110
+  - url: http://live.canstream.co.uk:8000/sourcefm.mp3?.mp3
+    codec: MP3
+    bitrate: 110

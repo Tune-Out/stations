@@ -18,16 +18,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
-curation: 0.35
-provenance:
-  - radiobrowser-a2690cef-0049-4fc0-96af-de5dc76e2ac2
-streams:
-  - url: 'https://stream.afc.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://live.afc.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -37,3 +27,13 @@ research:
   format: Funk music specialization; shows include "Pure Funky Grooves", "The Long Versions", "90's at 9"
   notes: 'Founded in 2010, marking 15 years of operation. Community-oriented with multi-platform distribution (YouTube, Instagram, Facebook, Mixcloud, WhatsApp). Mission statement: "Pure Funky Grooves, zonder GELUL" (without nonsense).'
   sources: https://www.afc.fm/
+curation: 0.35
+provenance:
+  - radiobrowser-a2690cef-0049-4fc0-96af-de5dc76e2ac2
+streams:
+  - url: https://stream.afc.fm/
+    codec: MP3
+    bitrate: 192
+  - url: https://live.afc.fm/
+    codec: MP3
+    bitrate: 192

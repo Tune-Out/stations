@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:02:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8c53b9be-26e3-4ada-b1e8-1d117168f084
-streams:
-  - url: 'http://cast4.asurahosting.com/proxy/exaltmed/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://cast4.asurahosting.com/proxy/exaltmed/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Active rock, classic rock, and rock music programming.
   notes: Sydney-based commercial rock radio station with strong local branding. High-quality 320kbps MP3 stream.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8c53b9be-26e3-4ada-b1e8-1d117168f084
+streams:
+  - url: http://cast4.asurahosting.com/proxy/exaltmed/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://cast4.asurahosting.com/proxy/exaltmed/stream
+    codec: MP3
+    bitrate: 320

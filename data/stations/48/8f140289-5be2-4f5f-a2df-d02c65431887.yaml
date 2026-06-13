@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 01:34:09
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-8f140289-5be2-4f5f-a2df-d02c65431887
-duplicate_of: 9c123508-2881-4c12-87eb-87f0b95dffe1
-streams:
-  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +30,16 @@ research:
   format: Regional news, information, music, current affairs, entertainment
   notes: NDR 1 Niedersachsen is a German public radio station operated by Norddeutscher Rundfunk (NDR), part of ARD public broadcasting system. Serves Lower Saxony with mixed format including news, music, and regional programming. Public-funded broadcaster.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-8f140289-5be2-4f5f-a2df-d02c65431887
+duplicate_of: 9c123508-2881-4c12-87eb-87f0b95dffe1
+streams:
+  - url: https://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

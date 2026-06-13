@@ -23,16 +23,6 @@ lastchangetime: 2026-03-30 15:43:00
 clickcount: 1
 geo_lat: 41.83723702627195
 geo_long: -87.63258784191864
-curation: 0.35
-provenance:
-  - radiobrowser-aa9282e9-1821-4b22-8b25-f4fc1b542bcc
-streams:
-  - url: 'https://listen.011fm.com/stream16'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://listen.011fm.com/stream30'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +32,14 @@ research:
   format: 80s hard rock and hair metal with discovery-focused eclectic music
   notes: 'Non-commercial internet radio based in Chicago, Illinois. Station mission states: "We are music people. Just like you. This radio is a mirror of our souls. Our mission is to search out and expose great new music to people who otherwise may never encounter it." "House of Hair" channel focuses on 80s hard rock and hair metal genres.'
   sources: https://011fm.com/
+curation: 0.35
+provenance:
+  - radiobrowser-aa9282e9-1821-4b22-8b25-f4fc1b542bcc
+  - iprd-us-011-fm-holiday-instrumental-cb3f895b
+streams:
+  - url: https://listen.011fm.com/stream16
+    codec: MP3
+    bitrate: 192
+  - url: https://listen.011fm.com/stream30
+    codec: MP3
+    bitrate: 192

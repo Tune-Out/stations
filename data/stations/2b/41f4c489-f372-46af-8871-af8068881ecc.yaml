@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-41f4c489-f372-46af-8871-af8068881ecc
-streams:
-  - url: 'http://secondstream.de:10001/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.secondradio.de/?nc=1769232388160'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: General music and entertainment programming
   notes: German online radio station with motto "Your Music Your Life"; non-terrestrial, internet-only broadcast
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-41f4c489-f372-46af-8871-af8068881ecc
+streams:
+  - url: http://secondstream.de:10001/
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.secondradio.de/?nc=1769232388160
+    codec: MP3
+    bitrate: 192

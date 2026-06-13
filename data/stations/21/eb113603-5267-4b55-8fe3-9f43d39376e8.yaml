@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-eb113603-5267-4b55-8fe3-9f43d39376e8
-streams:
-  - url: 'https://stream85.polskieradio.pl/omniaaxe/k70.stream/chunklist_.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://stream85.polskieradio.pl/omniaaxe/k71.stream/chunklist_.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +29,14 @@ research:
   format: Oldies, nostalgia, classic hits
   notes: Polskie Radio Nostalgia is a station of Poland's public broadcaster Polskie Radio, dedicated to classic and nostalgic music from past decades.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-eb113603-5267-4b55-8fe3-9f43d39376e8
+  - iprd-pl-polskie-radio-rytm-1815a5ad
+streams:
+  - url: https://stream85.polskieradio.pl/omniaaxe/k70.stream/chunklist_.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://stream85.polskieradio.pl/omniaaxe/k71.stream/chunklist_.m3u8
+    codec: UNKNOWN
+    hls: true

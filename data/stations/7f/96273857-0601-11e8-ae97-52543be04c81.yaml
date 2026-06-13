@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:42:25
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96273857-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://s1.nexuscast.com:8141/;'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://149.56.185.82:8141/;stream.nsv'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Beatles music and classic rock programming
   notes: Specialty station dedicated to The Beatles catalog and classic rock era music. Community radio targeting music enthusiasts.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96273857-0601-11e8-ae97-52543be04c81
+  - iprd-us-beatle-radio-0887c972
+streams:
+  - url: http://s1.nexuscast.com:8141/;
+    codec: MP3
+    bitrate: 320
+  - url: http://149.56.185.82:8141/;stream.nsv
+    codec: MP3
+    bitrate: 320

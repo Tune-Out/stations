@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96396413-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://s1.nexuscast.com:8131/;'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://s1.nexuscast.com:8131/;?1477429899301.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,14 @@ research:
   format: Top 40, dance, and pop music
   notes: Community-focused station serving Flagler County; operates as part of Heartbeat Radio network.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96396413-0601-11e8-ae97-52543be04c81
+  - iprd-us-kiss-dance-radio-d7b513bb
+streams:
+  - url: http://s1.nexuscast.com:8131/;
+    codec: MP3
+    bitrate: 320
+  - url: http://s1.nexuscast.com:8131/;?1477429899301.mp3
+    codec: MP3
+    bitrate: 320

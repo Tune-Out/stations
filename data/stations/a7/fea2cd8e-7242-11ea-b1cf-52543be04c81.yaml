@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:59:15
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fea2cd8e-7242-11ea-b1cf-52543be04c81
-streams:
-  - url: 'https://stream.laut.fm/cocoundjambo'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/cocoundjambo'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +32,13 @@ research:
   format: Dance and 90s music
   notes: Community web radio station from Bückeburg, Germany.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-fea2cd8e-7242-11ea-b1cf-52543be04c81
+streams:
+  - url: https://stream.laut.fm/cocoundjambo
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/cocoundjambo
+    codec: MP3
+    bitrate: 128

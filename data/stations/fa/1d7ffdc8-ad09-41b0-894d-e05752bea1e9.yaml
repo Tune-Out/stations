@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1d7ffdc8-ad09-41b0-894d-e05752bea1e9
-streams:
-  - url: 'http://tornagaleones.ddns.net:9000/Flac'
-    codec: OGG
-    bitrate: 320
-  - url: 'http://tornagaleones.ddns.net:9000/Flac.m3u'
-    url_resolved: 'http://tornagaleones.ddns.net:9000/Flac'
-    codec: OGG
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +28,14 @@ research:
   format: Entertainment, music, local programming
   notes: Regional station broadcasting on 105.3 FM in the Aysén region of southern Chile. Focused on local community and entertainment programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-1d7ffdc8-ad09-41b0-894d-e05752bea1e9
+streams:
+  - url: http://tornagaleones.ddns.net:9000/Flac
+    codec: OGG
+    bitrate: 320
+  - url: http://tornagaleones.ddns.net:9000/Flac.m3u
+    url_resolved: http://tornagaleones.ddns.net:9000/Flac
+    codec: OGG
+    bitrate: 320

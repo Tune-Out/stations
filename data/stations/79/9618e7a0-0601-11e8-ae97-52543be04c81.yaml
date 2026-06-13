@@ -1,6 +1,6 @@
 stationuuid: 9618e7a0-0601-11e8-ae97-52543be04c81
 name: Rádio Renascença
-url: http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCA.pls
+url: 'http://25633.live.streamtheworld.com:80/RADIO_RENASCENCA_SC'
 url_resolved: http://22653.live.streamtheworld.com/RADIO_RENASCENCA_SC
 homepage: http://rr.sapo.pt/
 favicon: https://rrsite-images.azureedge.net/favicon/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:40:24
 clickcount: 23
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-9618e7a0-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -34,3 +31,6 @@ research:
   format: News, current affairs, religious programming, music
   notes: Major Portuguese Catholic radio broadcaster with long history. Part of the Catholic Church's media presence in Portugal. Emphasis on national news and current affairs with religious programming component.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-9618e7a0-0601-11e8-ae97-52543be04c81

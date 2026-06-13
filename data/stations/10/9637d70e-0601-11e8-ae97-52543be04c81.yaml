@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 08:14:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9637d70e-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://18.220.54.199:8000/kfmg.ogg.m3u'
-    url_resolved: 'http://18.220.54.199:8000/kfmg.ogg'
-    codec: OGG
-  - url: 'http://18.220.54.199:8002/listen.pls'
-    url_resolved: 'http://18.220.54.199:8002/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -42,3 +31,16 @@ research:
   format: Community radio with diverse music and public affairs programming, variety format
   notes: KFMG-LP 98.9/99.1 FM is a low-power community radio station serving Des Moines, Iowa. Non-commercial educational operation with community volunteer programming. Variety format including music, talk, news, and local community focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9637d70e-0601-11e8-ae97-52543be04c81
+  - iprd-us-kfmg-lp-98-9-99-1-2c57e6c2
+  - iprd-us-kfmg-lp-98-9-99-1-0daab253
+streams:
+  - url: http://18.220.54.199:8000/kfmg.ogg.m3u
+    url_resolved: http://18.220.54.199:8000/kfmg.ogg
+    codec: OGG
+  - url: http://18.220.54.199:8002/listen.pls
+    url_resolved: http://18.220.54.199:8002/;
+    codec: MP3
+    bitrate: 128

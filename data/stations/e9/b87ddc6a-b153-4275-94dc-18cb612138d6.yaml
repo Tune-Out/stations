@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:25:32
 clickcount: 13
 geo_lat: 51.51017744729552
 geo_long: -0.12907326221466067
-curation: 0.25
-provenance:
-  - radiobrowser-b87ddc6a-b153-4275-94dc-18cb612138d6
-streams:
-  - url: 'http://media-ice.musicradio.com/RadioX90sMP3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://media-ice.musicradio.com/RadioX90sMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Digital spin-off of Radio X playing "the biggest anthems from the decade of Grunge and Britpop" — 1990s indie, alternative, and rock (Oasis, Blur, Pulp, Nirvana, Radiohead, Stone Roses, etc.)
   notes: Radio X 90s is a non-broadcast digital extension of Radio X, the UK indie/alternative rock brand acquired by Global from News Corp's Talk Sport stable (formerly XFM, rebranded to Radio X in 2015); available via Global Player app, smart speakers, and online stream; Global is the UK's largest commercial radio operator and a privately held company controlled by Ashley Tabor-King, founded in 2007.
   sources: https://www.radiox.co.uk/90s/, internal knowledge
+curation: 0.25
+provenance:
+  - radiobrowser-b87ddc6a-b153-4275-94dc-18cb612138d6
+streams:
+  - url: http://media-ice.musicradio.com/RadioX90sMP3
+    codec: MP3
+    bitrate: 128
+  - url: https://media-ice.musicradio.com/RadioX90sMP3
+    codec: MP3
+    bitrate: 128

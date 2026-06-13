@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 02:35:55
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-8e068903-fbf8-4fac-aa9d-08b2b8d5eb47
-streams:
-  - url: 'http://classic4u.inlive.co.kr/live/listen.pls'
-    url_resolved: 'http://live07.inlive.co.kr:21110/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://live07.inlive.co.kr:21110/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Classical music streaming
   notes: Part of InLive, a South Korean internet radio service offering multiple music channels including classical. Serves Korean audience.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-8e068903-fbf8-4fac-aa9d-08b2b8d5eb47
+streams:
+  - url: http://classic4u.inlive.co.kr/live/listen.pls
+    url_resolved: http://live07.inlive.co.kr:21110/
+    codec: MP3
+    bitrate: 192
+  - url: http://live07.inlive.co.kr:21110/
+    codec: MP3
+    bitrate: 192

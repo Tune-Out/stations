@@ -27,15 +27,6 @@ lastchangetime: 2026-03-31 20:36:15
 clickcount: 1
 geo_lat: 17.94940288341922
 geo_long: -94.91393566131592
-curation: -0.05
-provenance:
-  - radiobrowser-22506f52-873f-408a-b53c-ec97eea3b767
-streams:
-  - url: 'https://streaming.delsurnet.com:8116/stream/;'
-    codec: AAC+
-    bitrate: 80
-  - url: 'https://cast.tunzilla.com/http://streaming.delsurnet.com:8116/stream'
-    codec: AAC+
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +36,12 @@ research:
   format: Pop music, local news, entertainment
   notes: Commercial station on 94.9 FM serving Acayucan in Veracruz, Mexico
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-22506f52-873f-408a-b53c-ec97eea3b767
+streams:
+  - url: https://streaming.delsurnet.com:8116/stream/;
+    codec: AAC+
+    bitrate: 80
+  - url: https://cast.tunzilla.com/http://streaming.delsurnet.com:8116/stream
+    codec: AAC+

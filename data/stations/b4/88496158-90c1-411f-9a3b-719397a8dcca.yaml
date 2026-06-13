@@ -19,9 +19,6 @@ lastchangetime: 2026-01-15 21:44:05
 clickcount: 133
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-88496158-90c1-411f-9a3b-719397a8dcca
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,7 @@ research:
   format: Gold/oldies - classic hits and pop standards from the 1960s through 1990s, French and international; tagline historically "La vie en chansons"
   notes: Launched 1983 in Lille, became a national network in 1993 after being acquired by NRJ Group. One of the major French commercial FM networks. Homepage URL in catalog is misspelled "nostagie.fr"; the correct domain is nostalgie.fr (fetch returned 403 - likely Cloudflare/anti-bot protection). NRJ Group is one of France's largest private radio groups.
   sources: http://www.nostagie.fr/ (typo in catalog; correct domain nostalgie.fr returned 403), internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-88496158-90c1-411f-9a3b-719397a8dcca
+  - iprd-fr-nostalgie-01b2cd26

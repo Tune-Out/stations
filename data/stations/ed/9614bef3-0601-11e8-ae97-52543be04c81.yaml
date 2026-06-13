@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:23:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9614bef3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.evasionfm.com/Nord77'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream1.evasionfm.com/Sud77'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Music and entertainment programming
   notes: Evasion FM is a French regional internet radio station serving the Seine-et-Marne Nord area in the Île-de-France region; operates on commercial basis providing local programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9614bef3-0601-11e8-ae97-52543be04c81
+  - iprd-fr-evasion-fm-seine-et-marne-nord-e6a1167e
+streams:
+  - url: http://stream.evasionfm.com/Nord77
+    codec: MP3
+    bitrate: 128
+  - url: http://stream1.evasionfm.com/Sud77
+    codec: MP3
+    bitrate: 128

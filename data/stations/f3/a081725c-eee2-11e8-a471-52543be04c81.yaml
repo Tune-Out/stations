@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:23:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a081725c-eee2-11e8-a471-52543be04c81
-streams:
-  - url: 'https://stream.mnr.ch/rnh'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://stream.mnr.ch/rnh-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,15 @@ research:
   format: Gospel music, Christian teaching, inspirational and devotional content
   notes: Radio Neue Hoffnung (New Hope Radio) is a non-commercial evangelical Christian station sponsored by a German missiology organization, German language programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a081725c-eee2-11e8-a471-52543be04c81
+  - iprd-de-radio-neue-hoffnung-f557b3c2
+  - iprd-de-radio-neue-hoffnung-4ae9e571
+streams:
+  - url: https://stream.mnr.ch/rnh
+    codec: AAC+
+    bitrate: 96
+  - url: https://stream.mnr.ch/rnh-mp3
+    codec: MP3
+    bitrate: 192

@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 06:43:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-964592e9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/event01/aac-64/audio/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-event01-aacplus-64-9806072?sABC=69682qo3%230%230r6n2r63589p0102nq2100136q803p71%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768435123'
-    codec: AAC
-  - url: 'http://streams.fluxfm.de/event01/mp3-128/audio/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-event01-mp3-128-7821535?sABC=69688p61%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768459361'
-    codec: MP3
-  - url: 'http://streams.fluxfm.de/event01/mp3-320/audio/play.m3u'
-    url_resolved: 'http://fluxfm.streamabc.net/flx-event01-mp3-320-4988078?sABC=69688831%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768458289'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -45,3 +32,19 @@ research:
   format: curated ambient and meditative music for yoga and wellness
   notes: Moby's Vegan Radio is a specialized channel within FluxFM Berlin's 37+ channel network. Part of the platform's meditation, yoga, and ambient programming alongside chill and relaxation streams. Associated with artist/activist Moby's vegan lifestyle advocacy.
   sources: http://www.fluxfm.de/
+curation: 0.6
+provenance:
+  - radiobrowser-964592e9-0601-11e8-ae97-52543be04c81
+  - iprd-de-fluxfm-moby-s-vegan-radio-9105579f
+  - iprd-de-fluxfm-moby-s-vegan-radio-dfecd81c
+  - iprd-de-fluxfm-moby-s-vegan-radio-9c6d04f8
+streams:
+  - url: http://streams.fluxfm.de/event01/aac-64/audio/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-event01-aacplus-64-9806072?sABC=69682qo3%230%230r6n2r63589p0102nq2100136q803p71%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768435123
+    codec: AAC
+  - url: http://streams.fluxfm.de/event01/mp3-128/audio/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-event01-mp3-128-7821535?sABC=69688p61%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768459361
+    codec: MP3
+  - url: http://streams.fluxfm.de/event01/mp3-320/audio/play.m3u
+    url_resolved: http://fluxfm.streamabc.net/flx-event01-mp3-320-4988078?sABC=69688831%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768458289
+    codec: MP3

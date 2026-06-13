@@ -34,16 +34,6 @@ lastchangetime: 2026-01-15 03:56:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c1d05d02-4974-419c-a9cb-030d9739a052
-streams:
-  - url: 'https://icecast.stv.livebox.sk/rsi_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icecast.stv.livebox.sk/rsi_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -53,3 +43,14 @@ research:
   format: News, culture, international affairs, talk, documentary
   notes: Rádio RSI is a service of STVR, Slovakia's public broadcaster. Multilingual international radio service emphasizing cultural and current affairs programming; available worldwide via streaming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c1d05d02-4974-419c-a9cb-030d9739a052
+  - iprd-sk-sro6-radio-slovakia-international-a17c4842
+streams:
+  - url: https://icecast.stv.livebox.sk/rsi_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://icecast.stv.livebox.sk/rsi_128.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:15:03
 clickcount: 68
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-96181819-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icestreaming.rai.it/2.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://icestreaming.rai.it/2.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: pop music, contemporary hits, comedy and entertainment talk shows; lighter and younger-skewing than the institutional Radio 1 (news) but more mainstream than Radio 3 (culture/classical)
   notes: Rai Radio 2 began broadcasting on 6 October 1924 as one of Italy's three founding national radio networks (originally Programma Nazionale, then Secondo Programma); historically the entertainment channel of Italian public radio, it is the home of long-running satirical programs such as "Il Ruggito del Coniglio" and "Caterpillar" and music shows like "I Sociopatici"; funded by the Italian television licence fee (canone RAI) plus advertising, broadcast on FM nationwide, DAB+, and online streaming; RAI's editorial independence has been a recurring subject of political debate given the Parliamentary oversight model.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-96181819-0601-11e8-ae97-52543be04c81
+  - iprd-it-rai-radio-2-1ead3802
+  - iprd-it-rai-radio-2-762a4311
+streams:
+  - url: http://icestreaming.rai.it/2.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://icestreaming.rai.it/2.mp3
+    codec: MP3
+    bitrate: 256

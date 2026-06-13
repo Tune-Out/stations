@@ -24,17 +24,6 @@ lastchangetime: 2026-01-15 06:00:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a21473af-0d70-4fce-acba-a56c5e6ea249
-duplicate_of: 9c69a400-cc27-4d7f-9c37-389e446b10f0
-streams:
-  - url: 'https://riphel02.radioca.st/stream'
-    codec: AAC+
-    bitrate: 80
-  - url: 'http://riphel02.radioca.st/stream'
-    codec: AAC+
-    bitrate: 80
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +33,14 @@ research:
   format: 1980s and 1990s hits (retro music)
   notes: Retro Hit Radio is an online radio station based in Auckland, New Zealand, specializing in 1980s and 1990s music. Appeals to audiences seeking nostalgic music programming from those decades.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a21473af-0d70-4fce-acba-a56c5e6ea249
+duplicate_of: 9c69a400-cc27-4d7f-9c37-389e446b10f0
+streams:
+  - url: https://riphel02.radioca.st/stream
+    codec: AAC+
+    bitrate: 80
+  - url: http://riphel02.radioca.st/stream
+    codec: AAC+
+    bitrate: 80

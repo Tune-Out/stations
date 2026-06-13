@@ -1,7 +1,7 @@
 stationuuid: 0e65ad7a-b179-4b5d-994b-d351349ee955
 name: Radio Veronica
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac
+url: 'http://23613.live.streamtheworld.com:80/VERONICAAAC.aac'
+url_resolved: 'http://23613.live.streamtheworld.com:80/VERONICAAAC.aac'
 homepage: https://www.radioveronica.nl/
 favicon: https://api.mediahuisradio.nl/media/q0yn3snu/veronica_logo_online_1920x1080.jpg?format=webp
 tags: []
@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 59
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0e65ad7a-b179-4b5d-994b-d351349ee955
-streams:
-  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://19993.live.streamtheworld.com/VERONICA_SC'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,16 @@ research:
   format: Classic hits / oldies music format featuring 1960s-1980s pop, rock and Nederpop, with personality-driven daytime presenter shows and themed retro programming.
   notes: Radio Veronica traces its origins to the pioneering pirate offshore broadcaster Radio Veronica (Vrije Radio Omroep Nederland), which broadcast from the ship "Borkum Riff" and later "Norderney" from 1960 until 31 August 1974, when new Dutch anti-pirate legislation forced it off the air. The Veronica name continued as a legal public broadcaster (VOO) within the Dutch public system from 1976 until it left for commercial television/radio in 1995. The current Radio Veronica re-emerged as a commercial FM station and was eventually acquired by John de Mol's Talpa group, which now operates a portfolio of national Dutch commercial radio brands (Radio 538, Sky Radio, Radio 10 and Veronica). The station broadcasts on FM, DAB+ and online, and is positioned as the "rock-and-pop" oldies brand in the Talpa Radio family. Notable past presenters and themes include the long-running "Top 1000 Allertijden" and tributes to the offshore pirate-radio heritage celebrated each summer.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0e65ad7a-b179-4b5d-994b-d351349ee955
+  - iprd-nl-radio-veronica-65f43307
+  - iprd-nl-radio-veronica-alternative-xl-122eb459
+  - iprd-nl-veronica-top-1000-4d8e6c39
+streams:
+  - url: 'http://23613.live.streamtheworld.com:80/VERONICAAAC.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: https://19993.live.streamtheworld.com/VERONICA_SC
+    codec: MP3
+    bitrate: 128

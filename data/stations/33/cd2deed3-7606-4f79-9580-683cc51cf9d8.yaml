@@ -23,14 +23,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-cd2deed3-7606-4f79-9580-683cc51cf9d8
-streams:
-  - url: 'https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio'
-    codec: MP3
-  - url: 'https://2.mystreaming.net/er/ellafitzgerald/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +32,11 @@ research:
   format: Jazz exclusively featuring Ella Fitzgerald; bebop, swing, standards, and doo-wop recordings
   notes: Dedicated internet radio station exclusively playing music of legendary jazz vocalist Ella Fitzgerald; includes big band, swing, bebop, and vocal standards from her catalog
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-cd2deed3-7606-4f79-9580-683cc51cf9d8
+streams:
+  - url: https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio
+    codec: MP3
+  - url: https://2.mystreaming.net/er/ellafitzgerald/icecast.audio
+    codec: MP3

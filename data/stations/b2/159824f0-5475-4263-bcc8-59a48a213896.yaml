@@ -1,7 +1,7 @@
 stationuuid: 159824f0-5475-4263-bcc8-59a48a213896
 name: Radio 10 80's Hits
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3
+url: 'http://29023.live.streamtheworld.com:80/TLPSTR20.mp3'
+url_resolved: 'http://29023.live.streamtheworld.com:80/TLPSTR20.mp3'
 homepage: http://www.radio10.nl/
 favicon: https://cdn-profiles.tunein.com/s74982/images/logod.png?t=638756566650000000
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 35
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-159824f0-5475-4263-bcc8-59a48a213896
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,8 @@ research:
   format: 1980s and classic hits music; "the greatest hits of all time" (De grootste hits aller tijden); variety radio with DJ shows and competitions.
   notes: Radio 10 is a major Dutch commercial radio station specializing in 1980s hits and classic pop music. Operated by Talpa Network. Offers music, games, news about favorite artists, and radio contests.
   sources: https://www.radio10.nl/
+curation: -0.05
+provenance:
+  - radiobrowser-159824f0-5475-4263-bcc8-59a48a213896
+  - iprd-nl-radio-10-f71099df
+  - iprd-nl-radio-10-9bffb346

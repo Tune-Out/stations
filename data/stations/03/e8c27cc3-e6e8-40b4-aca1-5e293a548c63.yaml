@@ -23,22 +23,6 @@ lastchangetime: 2026-01-14 23:46:56
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e8c27cc3-e6e8-40b4-aca1-5e293a548c63
-streams:
-  - url: 'https://s3.slotex.pl/shoutcast/7046/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://s1.slotex.pl/shoutcast/7432/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s3.slotex.pl/shoutcast/7354/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s1.slotex.pl/shoutcast/7432/stream?sid=1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +32,21 @@ research:
   format: Disco Polo — energetic Polish dance genre with electronic beats, sing-along choruses and festive tradition
   notes: Radio Disco Party specializes exclusively in Disco Polo, a distinctively Polish popular music genre that emerged in the 1980s, characterized by polka-influenced rhythms, electronic instrumentation, accordion samples and sing-along/call-and-response structures. Disco Polo has significant cultural resonance in Poland, particularly in rural and working-class communities, though it has also become fashionable among younger urban audiences in recent years. The station streams at modest bitrate (128 kbps) via Slotex Shoutcast CDN. The website at discoparty.pl presents a modern WordPress interface and maintains playlists and DJ schedules. The genre has sometimes attracted cultural criticism but remains mainstream in Poland and parts of Central Europe.
   sources: https://discoparty.pl/, internal knowledge of Polish Disco Polo music tradition
+curation: -0.05
+provenance:
+  - radiobrowser-e8c27cc3-e6e8-40b4-aca1-5e293a548c63
+  - iprd-pl-discoparty-pl-kanal-club-c02cb3a7
+  - iprd-pl-discoparty-pl-kanal-disco-7900c2cc
+streams:
+  - url: https://s3.slotex.pl/shoutcast/7046/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://s1.slotex.pl/shoutcast/7432/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://s3.slotex.pl/shoutcast/7354/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://s1.slotex.pl/shoutcast/7432/stream?sid=1
+    codec: MP3
+    bitrate: 128

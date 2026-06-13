@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:32:39
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-960a8dd2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://atosradio.com:8001/stream/2/'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://atosradio.com:8001/ATOSRadio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Theatre organ music (instrumental, classical organ from vintage theaters)
   notes: ATOS Theatre Organ Radio is operated by the American Theatre Organ Society, a nonprofit dedicated to preservation and performance of theatre pipe organs; streams organ performances recorded at historic venues
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-960a8dd2-0601-11e8-ae97-52543be04c81
+  - iprd-us-atos-theatre-organ-radio-d95e4a5a
+streams:
+  - url: http://atosradio.com:8001/stream/2/
+    codec: MP3
+    bitrate: 320
+  - url: http://atosradio.com:8001/ATOSRadio
+    codec: MP3
+    bitrate: 128

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-26 14:40:30
 clickcount: 0
 geo_lat: 48.844971412699365
 geo_long: 12.62032985687256
-curation: -0.05
-provenance:
-  - radiobrowser-39285775-ae0d-471f-ac08-f512f112a35a
-streams:
-  - url: 'http://oberkrain.sp.radio.fm/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://oberkrain.sp.radio.fm/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Blasmusik (brass band music) and Oberkrain music programming
   notes: German commercial radio specializing in Blasmusik (brass band music) and Oberkrain style traditional music. Bavarian cultural focus with traditional musical format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-39285775-ae0d-471f-ac08-f512f112a35a
+  - iprd-de-schwany5-oberkrain-09af259d
+streams:
+  - url: http://oberkrain.sp.radio.fm/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://oberkrain.sp.radio.fm/stream
+    codec: MP3
+    bitrate: 320

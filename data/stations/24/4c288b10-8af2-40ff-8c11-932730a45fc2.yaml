@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 08:05:02
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4c288b10-8af2-40ff-8c11-932730a45fc2
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk:8000/A/A14H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Regional public-service radio (AAC/HLS stream) with local news, traffic, weather, regional culture, and adult contemporary music, joining the national P4 network outside regional opt-outs.
   notes: P4 Østjylland is one of eleven DR P4 regional stations and is produced from DR's Aarhus studios; broadcasts on FM and DAB+ as well as the DR LYD streaming platform; DR is governed by an independent board and editorial leadership under the Danish Radio and Television Broadcasting Act, ensuring separation from political direction.
   sources: https://www.dr.dk/lyd/p4, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-4c288b10-8af2-40ff-8c11-932730a45fc2
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk:8000/A/A14H.mp3
+    codec: MP3
+    bitrate: 128

@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 07:12:24
 clickcount: 9
 geo_lat: 40.60526085001808
 geo_long: 22.959824502468113
-curation: 0.20
-provenance:
-  - radiobrowser-97ec5cf7-5423-4b76-952c-62e9e0c82762
-streams:
-  - url: 'https://radio.1055rock.gr:31056/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://radio.1055rock.gr:30000/1055'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: '"TRUE ROCK MUSIC - REAL ROCK ATTITUDE" — classic rock, hard rock, heavy metal and extreme-metal blocks, with shows such as "Best Rock Music" (overnight), "Cocktail" (weekday breakfast), "You Rock!" (local scene) and "Cult Battles" (extreme metal)'
   notes: 1055 Rock broadcasts on 105.5 FM from Thessaloniki, Greece's second-largest city, and is one of the region's longest-standing rock formats; programming foregrounds the Greek rock and metal underground (notably the "You Rock!" local-scene showcase) alongside international classic rock; the station emphasises authentic curation over playlist automation, framed in its self-description as "REAL ROCK ATTITUDE."
   sources: https://1055rock.gr/, internal knowledge
+curation: 0.2
+provenance:
+  - radiobrowser-97ec5cf7-5423-4b76-952c-62e9e0c82762
+  - iprd-gr-1055-rock-105-5-7d7f802b
+streams:
+  - url: https://radio.1055rock.gr:31056/live
+    codec: MP3
+    bitrate: 128
+  - url: http://radio.1055rock.gr:30000/1055
+    codec: MP3
+    bitrate: 128

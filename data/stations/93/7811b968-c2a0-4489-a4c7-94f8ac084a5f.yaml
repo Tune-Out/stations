@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-7811b968-c2a0-4489-a4c7-94f8ac084a5f
-streams:
-  - url: 'https://streams.fluxfm.de/fluxfm-finest/mp3-320/audio/'
-    codec: MP3
-  - url: 'https://streams.fluxfm.de/fluxfmfinest/mp3-320/audio/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -36,3 +28,11 @@ research:
   format: Independent alternative music radio featuring experimental, indie, electronic, and experimental rock; curated artist focus
   notes: FluxFM is a listener-supported, non-commercial independent radio station based in Berlin; known for experimental and alternative music programming; operates multiple stream qualities (FluxFM Finest at 320 kbps MP3); community-supported non-profit model; significant reputation in German independent/college radio scene; serves niche alternative music audience
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-7811b968-c2a0-4489-a4c7-94f8ac084a5f
+streams:
+  - url: https://streams.fluxfm.de/fluxfm-finest/mp3-320/audio/
+    codec: MP3
+  - url: https://streams.fluxfm.de/fluxfmfinest/mp3-320/audio/
+    codec: MP3

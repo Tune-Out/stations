@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 03:20:40
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-31da019f-9f0a-11e9-a787-52543be04c81
-streams:
-  - url: 'http://37.247.98.8/listen.pls?sid=25'
-    url_resolved: 'http://37.247.98.8/stream/25/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://37.247.98.8/listen.pls?sid=22'
-    url_resolved: 'http://37.247.98.8/stream/22/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://37.247.98.8/listen.pls?sid=30'
-    url_resolved: 'http://37.247.98.8/stream/30/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -48,3 +32,20 @@ research:
   format: Golden oldies / retro — Turkish and international hits from the 1960s–1980s
   notes: ALTIN SARKILAR ("Golden Songs") is one of multiple themed channels operated by Radyo Home, a Turkish internet-radio network offering genre-segmented streams (e.g. Türk Sanat, Slow, Arabesk, Pop, Rock, Yabancı). It is internet-only, commercial in nature, and targets adults seeking nostalgic Turkish classical pop (Türk pop, sanat müziği) and Western oldies. Homepage was inaccessible (HTTP 403) at time of research, so deeper details on ownership history and reach are unconfirmed.
   sources: http://www.radyohome.com/, internal knowledge
+curation: 0.05
+provenance:
+  - radiobrowser-31da019f-9f0a-11e9-a787-52543be04c81
+  - iprd-tr-radyo-altin-sarkilar-f985b3df
+streams:
+  - url: http://37.247.98.8/listen.pls?sid=25
+    url_resolved: http://37.247.98.8/stream/25/;
+    codec: MP3
+    bitrate: 128
+  - url: http://37.247.98.8/listen.pls?sid=22
+    url_resolved: http://37.247.98.8/stream/22/;
+    codec: MP3
+    bitrate: 128
+  - url: http://37.247.98.8/listen.pls?sid=30
+    url_resolved: http://37.247.98.8/stream/30/;
+    codec: MP3
+    bitrate: 128

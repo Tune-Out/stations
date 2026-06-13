@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: 51.23263069371812
 geo_long: 3.901380300521851
-curation: -0.05
-provenance:
-  - radiobrowser-7e411d0e-041f-4128-bc85-f785b5ecf7b5
-streams:
-  - url: 'http://mediaserv30.live-streams.nl:8013/medium'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://mediaserv30.live-streams.nl:8013/low'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://mediaserv30.live-streams.nl:8013/high'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +28,16 @@ research:
   format: Music and entertainment programming.
   notes: Zeeland, Netherlands-based commercial broadcaster. Limited publicly available information.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7e411d0e-041f-4128-bc85-f785b5ecf7b5
+streams:
+  - url: http://mediaserv30.live-streams.nl:8013/medium
+    codec: AAC+
+    bitrate: 96
+  - url: http://mediaserv30.live-streams.nl:8013/low
+    codec: AAC+
+    bitrate: 48
+  - url: http://mediaserv30.live-streams.nl:8013/high
+    codec: MP3
+    bitrate: 192

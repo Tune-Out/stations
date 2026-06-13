@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 08:31:17
 clickcount: 23
 geo_lat: null
 geo_long: null
-curation: 0.10
-provenance:
-  - radiobrowser-963fa65f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://antena1.newradio.it/stream?ext=.mp3'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://antena1.newradio.it/stream'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Contemporary pop and rock music; listener-driven content with top-10+ request list; news and entertainment industry coverage
   notes: "Described as \"A rádio online mais ouvida do Brasil\" (Brazil's most-listened-to online radio). Founded 1975. Operates Antena 1 TV, podcasts, and promotional campaigns. Multiplatform distribution: web, Google Play, Apple App Store, Amazon Alexa, Google Assistant, LG/Samsung/Apple TV/Fire TV/Roku smart TV services."
   sources: http://antena1.com.br/
+curation: 0
+provenance:
+  - radiobrowser-963fa65f-0601-11e8-ae97-52543be04c81
+  - iprd-br-antena-1-94-7-s-o-paulo-f7ec7af4
+streams:
+  - url: http://antena1.newradio.it/stream?ext=.mp3
+    codec: AAC+
+    bitrate: 64
+  - url: http://antena1.newradio.it/stream
+    codec: AAC+
+    bitrate: 64

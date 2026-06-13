@@ -1,7 +1,7 @@
 stationuuid: 5440e89d-708d-4336-9b42-fa274ed093b1
 name: Radio La Red AM 910. Ciudad de Buenos Aires
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
+url: 'https://27583.live.streamtheworld.com:443/LA_RED_AM910AAC.aac'
+url_resolved: 'https://27583.live.streamtheworld.com:443/LA_RED_AM910AAC.aac'
 homepage: https://www.lared.am/
 favicon: https://www.lared.am/css-custom/316/favicons/apple-touch-icon.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 20
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5440e89d-708d-4336-9b42-fa274ed093b1
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,9 @@ research:
   format: Contemporary mixed music and news format; news, entertainment, information radio
   notes: La Red AM 910 is a commercial radio station broadcasting on 910 AM from Buenos Aires, Argentina. Provides news, entertainment, and music programming in Spanish for Argentine audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5440e89d-708d-4336-9b42-fa274ed093b1
+  - iprd-ar-radio-la-red-910-531ebe75
+  - iprd-ar-radio-la-red-910-4e049e0c
+  - iprd-ar-radio-la-red-910-d4069a4a

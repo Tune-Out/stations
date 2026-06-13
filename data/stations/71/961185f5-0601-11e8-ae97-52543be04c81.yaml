@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-961185f5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://usa17.fastcast4u.com:5508/listen.pls'
-    url_resolved: 'http://usa17.fastcast4u.com:5508/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://usa17.fastcast4u.com:5508/'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -42,3 +31,15 @@ research:
   format: 24/7 metalcore stream — also crosses into thrash metal, death metal, heavy metal, and industrial; tagline "Loud & Clear !!"
   notes: ChroniX Radio is a long-running internet-only metal radio network originally founded in 1997 by Vince Tracy (as "ChroniX Aggression"), one of the earliest dedicated heavy-metal webcasters; operates multiple genre-specific streams (Aggression, Power, Doom, Metalcore, etc.); the Metalcore channel showcases bands such as Killswitch Engage, As I Lay Dying, August Burns Red, and Trivium; the "CA" country flag in radio-browser is misleading — the network is U.S.-based and globally streamed.
   sources: http://chronixradio.net/
+curation: 0.05
+provenance:
+  - radiobrowser-961185f5-0601-11e8-ae97-52543be04c81
+  - iprd-ca-chronix-radio-metalcore-eff72b29
+streams:
+  - url: http://usa17.fastcast4u.com:5508/listen.pls
+    url_resolved: http://usa17.fastcast4u.com:5508/stream
+    codec: MP3
+    bitrate: 320
+  - url: http://usa17.fastcast4u.com:5508/
+    codec: MP3
+    bitrate: 320

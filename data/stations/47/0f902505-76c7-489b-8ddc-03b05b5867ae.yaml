@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 1
 geo_lat: 49.509605
 geo_long: 5.9415757
-curation: -0.05
-provenance:
-  - radiobrowser-0f902505-76c7-489b-8ddc-03b05b5867ae
-streams:
-  - url: 'http://generationdance.lu/radio/8030/mobile'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://generationdance.lu/radio/8030/hd'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,15 @@ research:
   format: Dance, EDM, eurodance, trance, house, and DJ programming.
   notes: Electronic dance music specialist station based in Luxembourg with strong engagement (8,046 votes).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0f902505-76c7-489b-8ddc-03b05b5867ae
+  - iprd-lu-generation-dance-radio-2e1754c4
+  - iprd-lu-generation-dance-radio-16b1cac1
+streams:
+  - url: http://generationdance.lu/radio/8030/mobile
+    codec: AAC
+    bitrate: 64
+  - url: http://generationdance.lu/radio/8030/hd
+    codec: MP3
+    bitrate: 192

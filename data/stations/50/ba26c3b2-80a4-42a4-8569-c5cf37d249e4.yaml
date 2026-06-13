@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 07:49:33
 clickcount: 1
 geo_lat: 50.737031787347576
 geo_long: -1.950529217720032
-curation: 0.40
-provenance:
-  - radiobrowser-ba26c3b2-80a4-42a4-8569-c5cf37d249e4
-streams:
-  - url: 'https://stream1.hippynet.co.uk/stream/xtrahot/live'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://stream1.hippynet.co.uk/stream/xtrahot/live?_=441643'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -46,3 +36,13 @@ research:
   format: Music-focused with funk, garage, house, reggae, rock, soul; shows include "Xtra Overdrive" (daytime/evening), "The Rave Era with DJ Junk" (9-10pm)
   notes: Xtra Hot is Dorset community radio station part of Hot Radio network. Broadcasts via DAB, online, mobile and smart speakers. Emphasizes community engagement through volunteer opportunities and charity partnership with Beach Appeal initiative serving disabled children.
   sources: https://www.xtrahot.radio/
+curation: 0.4
+provenance:
+  - radiobrowser-ba26c3b2-80a4-42a4-8569-c5cf37d249e4
+streams:
+  - url: https://stream1.hippynet.co.uk/stream/xtrahot/live
+    codec: MP3
+    bitrate: 160
+  - url: https://stream1.hippynet.co.uk/stream/xtrahot/live?_=441643
+    codec: MP3
+    bitrate: 160

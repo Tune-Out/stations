@@ -1,7 +1,7 @@
 stationuuid: c26cbaba-c235-485e-8ffd-297d2e677f0b
 name: EXA FM 100.3 (Campeche) - 100.3 FM - XHMI-FM - NCS (Núcleo Comunicación del Sureste) - Campeche, Campeche
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMIAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHMIAAC.aac
+url: 'https://27053.live.streamtheworld.com:443/XHMIAAC.aac'
+url_resolved: 'https://27053.live.streamtheworld.com:443/XHMIAAC.aac'
 homepage: https://exafm.com/plaza/campeche/
 favicon: https://cdn-profiles.tunein.com/s91430/images/logod.jpg
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 02:29:06
 clickcount: 0
 geo_lat: 19.83934511018452
 geo_long: -90.51833152770998
-curation: -0.05
-provenance:
-  - radiobrowser-c26cbaba-c235-485e-8ffd-297d2e677f0b
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Pop (Spanish and English), Top 40, contemporary hits
   notes: 100.3 FM XHMI-FM Exa FM Campeche. Major Mexican pop/Top 40 network branded as "La Estación Exacta" (The Exact Station) and "La Estación Naranja" (The Orange Station).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c26cbaba-c235-485e-8ffd-297d2e677f0b

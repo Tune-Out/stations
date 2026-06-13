@@ -25,14 +25,6 @@ lastchangetime: 2026-01-15 06:50:59
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-96344664-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.norawebstreams.de/nora-live/mp3-128/homepage/'
-    codec: MP3
-  - url: 'http://streams.norawebstreams.de/nora-live/mp3-192/streams.norawebstreams.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +34,13 @@ research:
   format: Jazz, soul, pop, and rock music; eclectic musical programming with emphasis on jazz and soul genres
   notes: NORA Webstreams is a German platform offering multiple thematic music streams. This stream focuses on jazz, soul, pop, and rock music, serving audiences in the Schleswig-Holstein region of northern Germany. NORA operates as a curated streaming service with emphasis on adult contemporary and jazz-oriented programming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-96344664-0601-11e8-ae97-52543be04c81
+  - iprd-de-nora-webstream-a545a6f7
+  - iprd-de-nora-webstream-36637a66
+streams:
+  - url: http://streams.norawebstreams.de/nora-live/mp3-128/homepage/
+    codec: MP3
+  - url: http://streams.norawebstreams.de/nora-live/mp3-192/streams.norawebstreams.de/
+    codec: MP3

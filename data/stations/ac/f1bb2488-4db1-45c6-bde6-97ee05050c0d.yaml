@@ -1,7 +1,7 @@
 stationuuid: f1bb2488-4db1-45c6-bde6-97ee05050c0d
 name: Talk 99.5
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WZRRFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WZRRFMAAC.aac
+url: 'https://18153.live.streamtheworld.com:443/WZRRFMAAC.aac'
+url_resolved: 'https://18153.live.streamtheworld.com:443/WZRRFMAAC.aac'
 homepage: https://www.talk995.com/
 favicon: https://www.talk995.com/favicon.ico
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:28:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f1bb2488-4db1-45c6-bde6-97ee05050c0d
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News and talk radio programming.
   notes: WZRR FM 99.5 in Birmingham, Alabama, USA. Commercial radio station operated by iHeartMedia. Focuses on news, information, and talk programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f1bb2488-4db1-45c6-bde6-97ee05050c0d

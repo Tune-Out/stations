@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-960c9dbd-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.rabe.ch:8000/livestream/rabe-mid.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.rabe.ch/livestream/rabe-mid.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,15 @@ research:
   format: Diverse music including world/roots, 80s, alternative/indie; news, information, and activism coverage
   notes: Bern-based community radio emphasizing "free radio, new voices and musical diversity"; membership-supported; located Sulgenrain 28, 3007 Bern
   sources: http://www.rabe.ch/
+curation: 0.5
+provenance:
+  - radiobrowser-960c9dbd-0601-11e8-ae97-52543be04c81
+  - iprd-ch-radio-bern-rabe-95-6-d1e1f722
+  - iprd-ch-radio-bern-rabe-95-6-4c157d4c
+streams:
+  - url: http://stream.rabe.ch:8000/livestream/rabe-mid.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.rabe.ch/livestream/rabe-mid.mp3
+    codec: MP3
+    bitrate: 192

@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b294bf46-7c1d-45ba-b852-71c5b26298ac
-streams:
-  - url: 'http://geostream.cdn.shoutdrive.com/sd-aac-hi'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://www.shoutdrive.com/ShoutDRIVE.m3u'
-    url_resolved: 'http://geostream.cdn.shoutdrive.com/sd-aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Dance music specialist featuring deep house, electro house, progressive house genres. 96 kbps AAC+ codec. "Dance Music for North America from Los Angeles". 24/7 streaming.
   notes: Commercial online radio service operating from Los Angeles, focused on dance music and electronic genres for North American audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b294bf46-7c1d-45ba-b852-71c5b26298ac
+  - iprd-us-shoutdrive-b92ffcdf
+streams:
+  - url: http://geostream.cdn.shoutdrive.com/sd-aac-hi
+    codec: AAC+
+    bitrate: 96
+  - url: https://www.shoutdrive.com/ShoutDRIVE.m3u
+    url_resolved: http://geostream.cdn.shoutdrive.com/sd-aac
+    codec: AAC+
+    bitrate: 64

@@ -18,16 +18,6 @@ lastcheckok: true
 lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: 53.22
-curation: 0.35
-provenance:
-  - radiobrowser-a1b0c422-045f-44e0-8ce3-54639edb128f
-streams:
-  - url: 'https://stream.grunn.fm/grunnfm'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.grunnfm.nl/grunnfm'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -37,3 +27,14 @@ research:
   format: Unknown (likely music/entertainment mix)
   notes: Dutch internet radio based in Groningen (northern Netherlands). Minimal public information available. Non-commercial operation based on website structure. Part of local Groningen media landscape.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a1b0c422-045f-44e0-8ce3-54639edb128f
+  - iprd-nl-grunn-fm-b3451f4a
+streams:
+  - url: https://stream.grunn.fm/grunnfm
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.grunnfm.nl/grunnfm
+    codec: MP3
+    bitrate: 192

@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-d88df0fb-cff2-4057-ab71-9208d93be712
-streams:
-  - url: 'http://mp3channels.webradio.antenne.de/hits-fuer-kids.aac'
-    url_resolved: 'http://s2-webradio.antenne.de/hits-fuer-kids.aac'
-    codec: AAC
-  - url: 'http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u'
-    url_resolved: 'http://s2-webradio.antenne.de/hits-fuer-kids'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +28,16 @@ research:
   format: Children's music, family entertainment, kid-friendly hits, educational content
   notes: ANTENNE BAYERN is major commercial radio group in Bavaria; "Hits für Kids" is specialized children's channel; part of diversified German media company with multiple radio stations
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-d88df0fb-cff2-4057-ab71-9208d93be712
+  - iprd-de-antenne-bayern-hits-f-r-kids-393b7b99
+  - iprd-de-antenne-bayern-hits-f-r-kids-bad8db13
+streams:
+  - url: http://mp3channels.webradio.antenne.de/hits-fuer-kids.aac
+    url_resolved: http://s2-webradio.antenne.de/hits-fuer-kids.aac
+    codec: AAC
+  - url: http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u
+    url_resolved: http://s2-webradio.antenne.de/hits-fuer-kids
+    codec: MP3
+    bitrate: 128

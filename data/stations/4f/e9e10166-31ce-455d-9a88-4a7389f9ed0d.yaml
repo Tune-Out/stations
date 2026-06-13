@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e9e10166-31ce-455d-9a88-4a7389f9ed0d
-streams:
-  - url: 'http://puma.streemlion.com:4130/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://puma.streemlion.com:4130/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,13 @@ research:
   format: Bollywood music and Hindi entertainment streaming.
   notes: 4lobos Bollywood Radio streams Bollywood/Hindi music via Streemlion platform. Minimal public information; presumed small independent operation or community broadcaster.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e9e10166-31ce-455d-9a88-4a7389f9ed0d
+streams:
+  - url: http://puma.streemlion.com:4130/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://puma.streemlion.com:4130/stream
+    codec: MP3
+    bitrate: 128

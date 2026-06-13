@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:51:16
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-961363c4-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Jazz programming with focus on French jazz artists and traditions; contemporary and classic jazz music.
   notes: Jazz Radio is a French commercial radio network specializing in jazz music. "Jazzy French" channel focuses specifically on French jazz traditions and French-language jazz content. Station streams from Switzerland (Infomaniak hosting).
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-961363c4-0601-11e8-ae97-52543be04c81
+  - iprd-fr-jazz-radio-jazzy-french-216e9694
+streams:
+  - url: http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3
+    codec: MP3
+    bitrate: 128

@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 08:15:25
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3f7db87c-8f31-4de4-8512-7cbd43d835f0
-streams:
-  - url: 'https://a2.asurahosting.com:6150/radio.mp3?ver=161797'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://nrf1.newradio.it:10346/stream'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://nrf1.newradio.it:10418/stream?ver=261657'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,16 @@ research:
   format: Community broadcaster; hits, pop, musica italiana, morning shows, news, entertainment
   notes: Based in San Marco Argentano and Cosenza; emphasizes community interaction ("Tempo Zero Everyday" talk show). Streaming via mobile apps, TuneIn, and web.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3f7db87c-8f31-4de4-8512-7cbd43d835f0
+streams:
+  - url: https://a2.asurahosting.com:6150/radio.mp3?ver=161797
+    codec: AAC
+    bitrate: 192
+  - url: http://nrf1.newradio.it:10346/stream
+    codec: AAC+
+    bitrate: 96
+  - url: https://nrf1.newradio.it:10418/stream?ver=261657
+    codec: AAC+
+    bitrate: 96

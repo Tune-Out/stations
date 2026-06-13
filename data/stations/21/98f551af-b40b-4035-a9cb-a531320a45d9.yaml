@@ -25,17 +25,6 @@ lastchangetime: 2026-01-18 09:45:52
 clickcount: 5
 geo_lat: 60.172443900933374
 geo_long: 24.93785440921784
-curation: 0.25
-provenance:
-  - radiobrowser-98f551af-b40b-4035-a9cb-a531320a45d9
-streams:
-  - url: 'https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8'
-    codec: AAC
-    bitrate: 262
-    hls: true
-  - url: 'https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +34,14 @@ research:
   format: Blues, funk, groove, jazz, and soul music programming
   notes: Groove FM is a commercial radio station in Finland offering music across soul, jazz, blues, funk, and groove genres; part of Nelonen Media entertainment group; available via Supla streaming platform
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-98f551af-b40b-4035-a9cb-a531320a45d9
+streams:
+  - url: https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8
+    codec: AAC
+    bitrate: 262
+    hls: true
+  - url: https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
+    codec: UNKNOWN
+    hls: true

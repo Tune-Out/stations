@@ -19,22 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3d5ae3c4-6d05-415b-a0eb-d21ca56be0ea
-streams:
-  - url: 'http://waw.ic.smcdn.pl/2380-2.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://waw.ic.smcdn.pl/2380-1.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://waw.ic.smcdn.pl/2380-1.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.stream.smcdn.pl/timeradio-p/2980-1.aac/playlist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +28,37 @@ research:
   format: contemporary hit radio (CHR) - current chart pop, dance and rap with local news, traffic and lifestyle programming ("Hity na czasie")
   notes: Radio Eska is Poland's largest private commercial radio network, founded in 1992 and now operating dozens of city-specific frequencies under a common format; the Warszawa edition is one of the network's flagship outlets serving the capital region; the parent ZPR Media is a major Polish private media group controlled by the Solorz-Konopka family (also linked to Polsat) and operates Supersport, Eska Rock, Eska TV, VOX FM and the SuperExpress tabloid; flagship programming includes the "Gorąca 20" hits countdown, the "Rap 20" chart and morning shows; the network competes with RMF FM and Radio ZET for the mainstream commercial audience.
   sources: https://www.eska.pl/
+curation: 0.35
+provenance:
+  - radiobrowser-3d5ae3c4-6d05-415b-a0eb-d21ca56be0ea
+  - iprd-pl-eska-krakow-df9c1383
+  - iprd-pl-eska-krasnik-4121dd65
+  - iprd-pl-eska-lomza-ff652d0e
+  - iprd-pl-eska-olsztyn-3447c5ec
+  - iprd-pl-eska-ostzeszow-df3a5e60
+  - iprd-pl-eska-pila-a317b363
+  - iprd-pl-eska-plock-1d395746
+  - iprd-pl-eska-poludine-e7da72f5
+  - iprd-pl-eska-przemysl-14946344
+  - iprd-pl-eska-radom-160106e0
+  - iprd-pl-eska-siedlce-5596fb4c
+  - iprd-pl-eska-starachowice-2a4c2696
+  - iprd-pl-eska-szczecinek-f81071b2
+  - iprd-pl-eska-tarnow-7d2eeb99
+  - iprd-pl-eska-torun-91c8b2c3
+  - iprd-pl-eska-warszawa-d349bcf7
+  - iprd-pl-eska-zary-41de4359
+  - iprd-pl-eska-zielona-gora-24e53f87
+streams:
+  - url: http://waw.ic.smcdn.pl/2380-2.aac
+    codec: AAC+
+    bitrate: 48
+  - url: https://waw.ic.smcdn.pl/2380-1.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://waw.ic.smcdn.pl/2380-1.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.stream.smcdn.pl/timeradio-p/2980-1.aac/playlist.m3u8
+    codec: UNKNOWN
+    hls: true

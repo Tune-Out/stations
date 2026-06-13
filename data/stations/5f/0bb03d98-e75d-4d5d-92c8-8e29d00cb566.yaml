@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0bb03d98-e75d-4d5d-92c8-8e29d00cb566
-duplicate_of: 9933fbb1-5cbb-40d5-93fc-a85329624b04
-streams:
-  - url: 'https://drive.uber.radio/uber/crstravinsky/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crstravinsky/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Classical music with emphasis on Stravinsky compositions
   notes: UAE-based commercial classical music streaming service focused on composer Igor Stravinsky; station name "Classical Radio - Stravinsky" reflects specialized repertoire; operated via uber.radio streaming platform; global digital audience via website and app.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0bb03d98-e75d-4d5d-92c8-8e29d00cb566
+duplicate_of: 9933fbb1-5cbb-40d5-93fc-a85329624b04
+streams:
+  - url: https://drive.uber.radio/uber/crstravinsky/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crstravinsky/icecast.audio
+    codec: MP3

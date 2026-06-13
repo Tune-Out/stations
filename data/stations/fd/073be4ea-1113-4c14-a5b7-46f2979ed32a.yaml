@@ -1,7 +1,7 @@
 stationuuid: 073be4ea-1113-4c14-a5b7-46f2979ed32a
 name: 538 Hitzone
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
+url: 'https://22723.live.streamtheworld.com:443/TLPSTR11.mp3'
+url_resolved: 'https://22723.live.streamtheworld.com:443/TLPSTR11.mp3'
 homepage: https://www.538.nl/hitzone
 favicon: https://www.538.nl/favicon.ico
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 5
 geo_lat: 52.387581004277315
 geo_long: 4.853192503595802
-curation: 0.30
-provenance:
-  - radiobrowser-073be4ea-1113-4c14-a5b7-46f2979ed32a
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,6 @@ research:
   format: Contemporary hits, current pop music, Hitzone curated playlist
   notes: 538 Hitzone is part of 538 radio, a major commercial radio brand in the Netherlands owned by SBS; focuses on current chart hits and popular contemporary music
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-073be4ea-1113-4c14-a5b7-46f2979ed32a

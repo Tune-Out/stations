@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:12:26
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-960dc513-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://31.192.216.8/RMFCLASSIC48'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://rs9-krk2.rmfstream.pl/rmf_classic'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Classical music and film soundtracks with cultural talk shows (tagline "Najpiękniejsza Muzyka Filmowa" - The Most Beautiful Film Music)
   notes: Launched in 2001 as the classical/film-music sister of RMF FM (Radio Muzyka Fakty), one of Poland's largest commercial radio brands; broadcasts on FM in major Polish cities (Warsaw 98.3, Krakow 87.8, Wroclaw 99.2) and via Cyfrowy Polsat, Canal+, and rmfon.pl; notable shows include Sniadanie Mistrzow, Muzyka i Medycyna, Klub Pozeraczy Ksiazek, and the Lista Przebojow Muzyki Filmowej (Film Music Hits Chart); operated under Bauer Media Group's Polish radio division.
   sources: http://www.rmfclassic.pl/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-960dc513-0601-11e8-ae97-52543be04c81
+  - iprd-pl-rmf-classic-3fd15527
+streams:
+  - url: http://31.192.216.8/RMFCLASSIC48
+    codec: AAC+
+    bitrate: 48
+  - url: https://rs9-krk2.rmfstream.pl/rmf_classic
+    codec: MP3
+    bitrate: 128

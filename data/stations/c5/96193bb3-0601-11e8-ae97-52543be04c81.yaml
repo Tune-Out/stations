@@ -22,18 +22,6 @@ lastchangetime: 2026-01-14 23:42:51
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96193bb3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.luxnet.ua/radio24'
-    url_resolved: 'http://lux.radio.tvstitch.com/kyiv/max_adv_sd'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://icecast.luxnet.ua/radio24'
-    url_resolved: 'https://lux.radio.tvstitch.com/kyiv/max_adv_sd'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +31,16 @@ research:
   format: Music and news format mixed programming.
   notes: "Station redirects to maximum.fm branding. Based in Kyiv (state: Kyiv)."
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96193bb3-0601-11e8-ae97-52543be04c81
+  - iprd-ua-radio-24-b572af24
+streams:
+  - url: http://icecast.luxnet.ua/radio24
+    url_resolved: http://lux.radio.tvstitch.com/kyiv/max_adv_sd
+    codec: AAC
+    bitrate: 128
+  - url: https://icecast.luxnet.ua/radio24
+    url_resolved: https://lux.radio.tvstitch.com/kyiv/max_adv_sd
+    codec: AAC
+    bitrate: 128

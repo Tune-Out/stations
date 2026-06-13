@@ -1,6 +1,6 @@
 stationuuid: e03db9c8-dc8f-4334-97c1-56e94a4abaae
 name: CBC North - Iqaluit, NU
-url: https://playerservices.streamtheworld.com/pls/CFFBAM_CBC.pls
+url: 'https://27033.live.streamtheworld.com:443/CFFBAM_CBC_SC'
 url_resolved: https://27033.live.streamtheworld.com/CFFBAM_CBC_SC
 homepage: https://www.cbc.ca/news/canada/north
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cbc_radio_one_iqaluit.svg/320px-Cbc_radio_one_iqaluit.svg.png
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 2
 geo_lat: 63.74783779311029
 geo_long: -68.52258682250978
-curation: 0.50
-provenance:
-  - radiobrowser-e03db9c8-dc8f-4334-97c1-56e94a4abaae
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -36,3 +33,6 @@ research:
   format: News, features, indigenous programming, music; bilingual (English/Inuktitut)
   notes: CBC Radio One station in Canada's newest territory; public radio serving Arctic communities
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-e03db9c8-dc8f-4334-97c1-56e94a4abaae

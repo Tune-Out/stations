@@ -1,6 +1,6 @@
 stationuuid: 964251cc-0601-11e8-ae97-52543be04c81
 name: WWWQ 99.7 "Q100" Atlanta, GA
-url: http://provisioning.streamtheworld.com/pls/WWWQFM.pls
+url: 'http://14223.live.streamtheworld.com:80/WWWQFM_SC'
 url_resolved: http://14223.live.streamtheworld.com/WWWQFM_SC
 homepage: http://www.q100atlanta.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3357/squareIcon.png?r=98598
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964251cc-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary hits, top 40, pop music
   notes: Major Atlanta radio station WWWQ (99.7 FM). "Q100" brand.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964251cc-0601-11e8-ae97-52543be04c81

@@ -1,7 +1,7 @@
 stationuuid: b7a35256-ce81-46fb-96aa-2717bf5f0110
 name: Hot 103 Jamz
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSFMAAC.aac
+url: 'https://29312.live.streamtheworld.com:443/KPRSFMAAC.aac'
+url_resolved: 'https://29312.live.streamtheworld.com:443/KPRSFMAAC.aac'
 homepage: https://www.kprs.com/
 favicon: https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/962/2018/03/14144206/cropped-jamz-logo-180x180.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:42:26
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b7a35256-ce81-46fb-96aa-2717bf5f0110
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Urban contemporary music; Hot 103 Jamz brand; news and entertainment
   notes: Licensed FM station KPRS (103.3 FM) owned by iHeartMedia. Major market radio in Kansas City.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b7a35256-ce81-46fb-96aa-2717bf5f0110

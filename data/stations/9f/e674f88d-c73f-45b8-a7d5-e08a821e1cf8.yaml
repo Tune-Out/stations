@@ -24,16 +24,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 3
 geo_lat: 40.73065802094262
 geo_long: -74.07755836595288
-curation: 0.00
-provenance:
-  - radiobrowser-e674f88d-c73f-45b8-a7d5-e08a821e1cf8
-streams:
-  - url: 'https://stream.classics.friskyradio.com/classics_mp3_high'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://stream.classics.friskyradio.com/classics_mp3_high'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Electronic, house, progressive, techno, trance, classic dance music
   notes: Frisky Radio is a US-based internet radio broadcaster with multiple channels including Frisky Classics, dedicated to classic electronic and progressive house music. Part of Frisky Media.
   sources: https://frisky.fm/radio/classics
+curation: 0
+provenance:
+  - radiobrowser-e674f88d-c73f-45b8-a7d5-e08a821e1cf8
+streams:
+  - url: https://stream.classics.friskyradio.com/classics_mp3_high
+    codec: MP3
+    bitrate: 96
+  - url: http://stream.classics.friskyradio.com/classics_mp3_high
+    codec: MP3
+    bitrate: 96

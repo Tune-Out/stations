@@ -1,7 +1,7 @@
 stationuuid: 8949b7a4-8af8-4f0b-b089-82c765d23e2c
 name: MIX En VIVO (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR09_s01AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR09_s01AAC.aac
+url: 'https://18393.live.streamtheworld.com:443/ACIR09_S01AAC.aac'
+url_resolved: 'https://18393.live.streamtheworld.com:443/ACIR09_S01AAC.aac'
 homepage: https://acironline.mx/radio-online/
 favicon: https://i.iheart.com/v3/re/new_assets/5bc5ec96c7977ca1c9302271
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 0
 geo_lat: 19.434019475967336
 geo_long: -99.13384437561037
-curation: 0.25
-provenance:
-  - radiobrowser-8949b7a4-8af8-4f0b-b089-82c765d23e2c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: MIX FM - Alternative rock, indie rock, classic rock, pop, contemporary hits; branded iHeartRadio stream
   notes: Grupo ACIR is Mexico's largest media group. MIX FM is one of their flagship stations, known for alternative and indie rock programming. Hosted via iHeartRadio platform (StreamTheWorld).
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-8949b7a4-8af8-4f0b-b089-82c765d23e2c

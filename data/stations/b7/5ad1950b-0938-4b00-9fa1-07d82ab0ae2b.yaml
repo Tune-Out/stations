@@ -29,16 +29,6 @@ lastchangetime: 2026-01-15 03:39:23
 clickcount: 9
 geo_lat: 45.75292700196324
 geo_long: -0.6351470947265626
-curation: -0.05
-provenance:
-  - radiobrowser-5ad1950b-0938-4b00-9fa1-07d82ab0ae2b
-streams:
-  - url: 'https://hits1-audiomediaradio.radioca.st/hits1'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://radio12.pro-fhi.net/live/Hits%201%20radio'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +38,14 @@ research:
   format: Dance, electronic, house, and top 40 hits; DJs, remixes, and contemporary pop; primarily English-language tracks with French language branding
   notes: Hits 1 is a French commercial online radio station focused on dance, electronic, and EDM programming. Broadcasting location coordinates suggest southwestern France. Operates via the AudioMedia Radio network. Streams in bilingual context (French/English) at 256 kbps MP3. The station's tagline or website indicates focus on contemporary hits and dancefloor music. No major controversies or regulatory issues known. Typical electronic/dance radio format with continuous DJ programming and mix shows.
   sources: https://www.hits1radio.com/
+curation: -0.05
+provenance:
+  - radiobrowser-5ad1950b-0938-4b00-9fa1-07d82ab0ae2b
+  - iprd-fr-hits-1-3c47a6ce
+streams:
+  - url: https://hits1-audiomediaradio.radioca.st/hits1
+    codec: MP3
+    bitrate: 256
+  - url: https://radio12.pro-fhi.net/live/Hits%201%20radio
+    codec: MP3
+    bitrate: 256

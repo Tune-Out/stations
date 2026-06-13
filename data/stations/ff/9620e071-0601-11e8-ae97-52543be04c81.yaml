@@ -1,6 +1,6 @@
 stationuuid: 9620e071-0601-11e8-ae97-52543be04c81
 name: WRJA 88.1 "South Carolina Public Radio" Sumter, SC
-url: http://provisioning.streamtheworld.com/pls/WRJAFMAAC.pls
+url: 'http://26223.live.streamtheworld.com:80/WRJAFMAAC_SC'
 url_resolved: http://26223.live.streamtheworld.com:3690/WRJAFMAAC_SC
 homepage: http://scpublicradio.org/
 favicon: https://www.southcarolinapublicradio.org/apple-touch-icon.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:34:47
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9620e071-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: NPR programming, news, talk, classical music, cultural programming
   notes: 88.1 FM; non-commercial, public radio; serves Sumter, Columbia, Florence areas in South Carolina
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9620e071-0601-11e8-ae97-52543be04c81

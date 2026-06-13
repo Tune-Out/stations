@@ -21,20 +21,6 @@ lastchangetime: 2026-05-09 15:58:42
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a4d4aac5-b19f-4cd0-849f-36823af80a4e
-streams:
-  - url: 'http://philipiptv.freeddns.org:8082/fire-wind-lake'
-    codec: MP3
-    bitrate: 16
-  - url: 'http://philipiptv.freeddns.org:8082/fire'
-    codec: MP3
-    bitrate: 16
-  - url: 'http://philipiptv.freeddns.org:8082/fire-wind-lake.m3u'
-    url_resolved: 'http://philipiptv.freeddns.org:8082/fire-wind-lake'
-    codec: MP3
-    bitrate: 16
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +30,17 @@ research:
   format: Fire and EMS dispatch scanner feed
   notes: Wind Lake Fire Department emergency dispatch audio stream in Wisconsin.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a4d4aac5-b19f-4cd0-849f-36823af80a4e
+streams:
+  - url: http://philipiptv.freeddns.org:8082/fire-wind-lake
+    codec: MP3
+    bitrate: 16
+  - url: http://philipiptv.freeddns.org:8082/fire
+    codec: MP3
+    bitrate: 16
+  - url: http://philipiptv.freeddns.org:8082/fire-wind-lake.m3u
+    url_resolved: http://philipiptv.freeddns.org:8082/fire-wind-lake
+    codec: MP3
+    bitrate: 16

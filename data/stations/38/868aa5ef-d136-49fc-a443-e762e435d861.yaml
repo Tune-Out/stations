@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 07:36:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-868aa5ef-d136-49fc-a443-e762e435d861
-streams:
-  - url: 'https://aircooled.stream.laut.fm/aircooled'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/aircooled'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -44,3 +34,14 @@ research:
   format: Alternative rock, rock, stoner rock
   notes: Community-run station on laut.fm platform from Baden-Württemberg, Germany.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-868aa5ef-d136-49fc-a443-e762e435d861
+  - iprd-de-aircooled-0ecb32a1
+streams:
+  - url: https://aircooled.stream.laut.fm/aircooled
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/aircooled
+    codec: MP3
+    bitrate: 128

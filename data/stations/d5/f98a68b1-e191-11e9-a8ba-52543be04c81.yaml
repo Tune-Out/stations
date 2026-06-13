@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-f98a68b1-e191-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-reggaevibes-128-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-reggaevibes-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-reggaevibes-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Reggae music speciality stream with focus on roots reggae, contemporary reggae, and reggae-influenced electronic music
   notes: bigFM is a major commercial German radio broadcaster operating multiple specialty streams including Dance Radio, HipHop Radio, Party, Charts, Sunset Lounge, and One World Radio. Part of Audiotainment Südwest Media portfolio. Features the flagship bigFM Morningshow and over 30 specialized music streams. Brands itself as "Deutschlands biggste Beats" (Germany's biggest beats).
   sources: https://www.bigfm.de/
+curation: 0.3
+provenance:
+  - radiobrowser-f98a68b1-e191-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-reggaevibes-128-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-reggaevibes-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-reggaevibes-128-mp3
+    codec: MP3

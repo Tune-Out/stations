@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 05:24:15
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-72d365d7-782c-4eab-a938-7b49e1a0fe53
-streams:
-  - url: 'https://streams.rpr1.de/rpr-hiphop-128-mp3'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-hiphop-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Old School Hip Hop (1990s-2000s hip-hop and rap classics)
   notes: RPR1 is a regional commercial radio station in Rhineland-Palatinate with multiple specialized music channels. Old School Hip Hop channel focuses on classic 90s/00s hip-hop.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-72d365d7-782c-4eab-a938-7b49e1a0fe53
+streams:
+  - url: https://streams.rpr1.de/rpr-hiphop-128-mp3
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-hiphop-128-mp3
+    codec: MP3

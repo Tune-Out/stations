@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:52:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-aca8cda1-e3d9-40b0-b9cc-dd7b916f5a4a
-streams:
-  - url: 'http://stream.swifthosting.com.au/;'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream.swifthosting.com.au/;'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Community radio with varied music, talk, and cultural programming
   notes: Licensed community radio station on 88.3 FM in Melbourne's southern suburbs. Operates on volunteer basis serving local area, typical of Australian community radio model.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-aca8cda1-e3d9-40b0-b9cc-dd7b916f5a4a
+streams:
+  - url: http://stream.swifthosting.com.au/;
+    codec: MP3
+    bitrate: 320
+  - url: https://stream.swifthosting.com.au/;
+    codec: MP3
+    bitrate: 320

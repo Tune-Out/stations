@@ -1,7 +1,7 @@
 stationuuid: a4153df9-baf4-4b0e-9d86-98cc1c5453d2
 name: Ké Buena - 97.5 FM - KBNA-FM - Grupo Radio Centro - El Paso, Texas / Ciudad Juárez, Chihuahua
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KBNA975_FMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KBNA975_FMAAC.aac
+url: 'https://14553.live.streamtheworld.com:443/KBNA975_FMAAC.aac'
+url_resolved: 'https://14553.live.streamtheworld.com:443/KBNA975_FMAAC.aac'
 homepage: https://kebuena975.com/
 favicon: https://kebuena975.com/wp-content/uploads/2026/04/cropped-kebuena_975-180x180.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:42:51
 clickcount: 0
 geo_lat: 31.747665090561167
 geo_long: -106.48693531751634
-curation: -0.05
-provenance:
-  - radiobrowser-a4153df9-baf4-4b0e-9d86-98cc1c5453d2
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Regional Mexican music, pop en español, música urbana (urban regional Mexican music).
   notes: Ké Buena 97.5 FM (KBNA-FM) is commercial station on US-Mexico border operated by Grupo Radio Centro. Targets younger, urban Hispanic audience with regional Mexican music, Latin pop, and contemporary Spanish-language programming. Emphasizes entertainment and youth culture appeal.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a4153df9-baf4-4b0e-9d86-98cc1c5453d2

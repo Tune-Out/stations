@@ -27,17 +27,6 @@ lastchangetime: 2026-01-15 02:41:59
 clickcount: 1
 geo_lat: 54.56709837095587
 geo_long: 18.40003967285157
-curation: -0.05
-provenance:
-  - radiobrowser-8be21138-e88f-43c4-8deb-00a9020ae38b
-streams:
-  - url: 'https://stream.24dubstep.pl/radio/8000/mp3_normal'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://stream.24dubstep.pl/public/dubstep/playlist.pls'
-    url_resolved: 'https://stream.24dubstep.pl/listen/dubstep/mp3_best'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +36,14 @@ research:
   format: Dubstep, drum and bass, hardstyle, trap, drill, and electronic dance music
   notes: Polish EDM specialist station based in Pomerania. Offers high-bitrate streaming of dubstep, drum and bass, hardstyle and related electronic genres. International English and Polish-speaking audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8be21138-e88f-43c4-8deb-00a9020ae38b
+streams:
+  - url: https://stream.24dubstep.pl/radio/8000/mp3_normal
+    codec: AAC
+    bitrate: 128
+  - url: https://stream.24dubstep.pl/public/dubstep/playlist.pls
+    url_resolved: https://stream.24dubstep.pl/listen/dubstep/mp3_best
+    codec: MP3
+    bitrate: 320

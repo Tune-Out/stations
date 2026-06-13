@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-506bb2ba-ae1a-11e9-88f4-52543be04c81
-streams:
-  - url: 'http://ic3.radiomonster.fm/dance-320'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://tophits.radiomonster.fm/320.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Commercial specialty; electronic dance music (EDM), house, techno, trance
   notes: Digital-only radio platform offering multiple specialty channels including Dance; international distribution; no specific country of origin recorded
   sources: https://www.radiomonster.fm/
+curation: -0.05
+provenance:
+  - radiobrowser-506bb2ba-ae1a-11e9-88f4-52543be04c81
+  - iprd-de-radiomonster-fm-schlager-kanal-b4af99f3
+streams:
+  - url: http://ic3.radiomonster.fm/dance-320
+    codec: MP3
+    bitrate: 320
+  - url: http://tophits.radiomonster.fm/320.mp3
+    codec: MP3
+    bitrate: 320

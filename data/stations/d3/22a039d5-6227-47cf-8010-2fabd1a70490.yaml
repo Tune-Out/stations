@@ -1,7 +1,7 @@
 stationuuid: 22a039d5-6227-47cf-8010-2fabd1a70490
 name: 94.1 FM - Gold Coast - 94.1 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/941FMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/941FMAAC.aac
+url: 'http://23093.live.streamtheworld.com:80/941FMAAC.aac'
+url_resolved: 'http://23093.live.streamtheworld.com:80/941FMAAC.aac'
 homepage: https://www.941fm.com.au/
 favicon: https://i.ibb.co/C9y429r/60fd44cd11a963a6033d5588.webp
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-22a039d5-6227-47cf-8010-2fabd1a70490
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -36,3 +33,6 @@ research:
   format: Adult contemporary, rock, and community radio; mixed music and community service programming
   notes: Gold Coast-based community radio station; local service with rock and contemporary music focus
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-22a039d5-6227-47cf-8010-2fabd1a70490

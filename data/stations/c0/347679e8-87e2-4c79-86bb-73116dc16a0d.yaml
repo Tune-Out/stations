@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:31:23
 clickcount: 1
 geo_lat: 51.07642128980125
 geo_long: -114.1277414560318
-curation: 0.50
-provenance:
-  - radiobrowser-347679e8-87e2-4c79-86bb-73116dc16a0d
-streams:
-  - url: 'https://cjsw.leanstream.co/CJSWFM'
-    codec: AAC
-    bitrate: 96
-  - url: 'http://stream.cjsw.com/cjsw.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: "Eclectic music: indie pop/rock, punk, metal, experimental, electronic, blues, folk, reggae; notable shows include The Sugar Bowl, Revolutions Per Minute, Rage Cage"
   notes: 90.9 FM campus and community radio station in Calgary, Alberta. Emphasizes volunteer participation and listener engagement. Supports emerging artists. Founded as university-community partnership. Operates podcasts and live streaming.
   sources: https://cjsw.com/
+curation: 0.5
+provenance:
+  - radiobrowser-347679e8-87e2-4c79-86bb-73116dc16a0d
+  - iprd-ca-cjsw-90-9-university-of-calgary-8548a4a5
+streams:
+  - url: https://cjsw.leanstream.co/CJSWFM
+    codec: AAC
+    bitrate: 96
+  - url: http://stream.cjsw.com/cjsw.mp3
+    codec: MP3
+    bitrate: 128

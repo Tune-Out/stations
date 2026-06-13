@@ -21,15 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-bf5b804b-45ba-41ed-a1a7-41e0544e08e9
-streams:
-  - url: 'https://stream.zeno.fm/3ac97ysh6f0uv.aac'
-    codec: MP3
-  - url: 'http://stream.zeno.fm/sfpqezsh6f0uv.m3u'
-    url_resolved: 'http://stream.zeno.fm/sfpqezsh6f0uv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +30,12 @@ research:
   format: 24/7 ambient and nature sounds; meditation music; relaxation programming
   notes: Independent Spanish internet radio specializing in nature soundscapes and meditation. Non-commercial focus on wellness and environmental themes. Hosted on Weebly platform.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-bf5b804b-45ba-41ed-a1a7-41e0544e08e9
+streams:
+  - url: https://stream.zeno.fm/3ac97ysh6f0uv.aac
+    codec: MP3
+  - url: http://stream.zeno.fm/sfpqezsh6f0uv.m3u
+    url_resolved: http://stream.zeno.fm/sfpqezsh6f0uv
+    codec: MP3

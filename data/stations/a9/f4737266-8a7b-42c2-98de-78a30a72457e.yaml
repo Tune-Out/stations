@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 01:02:30
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f4737266-8a7b-42c2-98de-78a30a72457e
-streams:
-  - url: 'https://stream.otvoreni.hr/chill'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://stream.otvoreni.hr/love'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://stream.otvoreni.hr/fitness'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://stream.otvoreni.hr/chill'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +31,22 @@ research:
   format: Hit music ("Samo hitni!"); Feel Good radio with popular music and talk shows
   notes: Commercial FM station in Croatia (91.2, 92.6, 105.6 MHz Zagreb; 40+ locations nationally); also available via streaming, mobile app, cable/IP TV (MAXtv, B.net, A1); tagline "Tvoj Feel Good radio" (Your Feel Good radio); mission "S tobom bilo kad, bilo gdje" (With you anytime, anywhere).
   sources: https://www.otvoreni.hr/
+curation: -0.05
+provenance:
+  - radiobrowser-f4737266-8a7b-42c2-98de-78a30a72457e
+  - iprd-hr-otvoreni-radio-chill-baaabe5d
+  - iprd-hr-otvoreni-radio-fitness-4c3b0bac
+  - iprd-hr-otvoreni-radio-love-5b5cead1
+streams:
+  - url: https://stream.otvoreni.hr/chill
+    codec: AAC
+    bitrate: 48
+  - url: https://stream.otvoreni.hr/love
+    codec: AAC
+    bitrate: 48
+  - url: https://stream.otvoreni.hr/fitness
+    codec: AAC
+    bitrate: 48
+  - url: http://stream.otvoreni.hr/chill
+    codec: AAC
+    bitrate: 48

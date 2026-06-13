@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-63c4bb83-8567-42e3-ad1c-c1968b367ecf
-streams:
-  - url: 'https://styrialounge.out.airtime.pro/styrialounge_a'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://styrialounge.out.airtime.pro:8000/styrialounge_a'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +29,15 @@ research:
   format: Jazz music 24/7.
   notes: Independent internet radio station specializing in jazz music, based in Styria (Steiermark) region of Austria. Lounge/relaxed jazz focus.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-63c4bb83-8567-42e3-ad1c-c1968b367ecf
+  - iprd-at-styrialounge-d6618b89
+  - iprd-at-styrialounge-a77177b0
+streams:
+  - url: https://styrialounge.out.airtime.pro/styrialounge_a
+    codec: MP3
+    bitrate: 192
+  - url: http://styrialounge.out.airtime.pro:8000/styrialounge_a
+    codec: MP3
+    bitrate: 192

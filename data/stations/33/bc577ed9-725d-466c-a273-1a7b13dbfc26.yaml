@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 05:05:52
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-bc577ed9-725d-466c-a273-1a7b13dbfc26
-streams:
-  - url: 'http://icast.connectmedia.hu/5113/live.mp3'
-    codec: MP3
-  - url: 'https://icast.connectmedia.hu/5113/live.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Adult contemporary, top hits, local news; pop-oriented mixed format
   notes: Best FM is a local Hungarian radio station serving Székesfehérvár (Fehérvár), a major city in Fejér County, central Hungary. Format includes local news updates, top 40 hits, and adult contemporary music. MP3 stream with minimal bitrate metadata.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bc577ed9-725d-466c-a273-1a7b13dbfc26
+streams:
+  - url: http://icast.connectmedia.hu/5113/live.mp3
+    codec: MP3
+  - url: https://icast.connectmedia.hu/5113/live.mp3
+    codec: MP3

@@ -1,6 +1,6 @@
 stationuuid: 96447f8b-0601-11e8-ae97-52543be04c81
 name: WQGN 105.5 "Q105" Groton, CT
-url: https://provisioning.streamtheworld.com/pls/WQGNFMAAC.pls
+url: 'http://27263.live.streamtheworld.com:80/WQGNFMAAC_SC'
 url_resolved: http://27063.live.streamtheworld.com:3690/WQGNFMAAC_SC
 homepage: http://www.q105.fm/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3301/squareIcon.png?r=95837
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96447f8b-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary hits/top 40 music format for younger adult demographics.
   notes: WQGN 105.5 FM "Q105" serving southeastern Connecticut (Groton/New London region). Contemporary hits format typical of Audacy-owned CHR (contemporary hits radio) stations. Part of major commercial broadcast group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96447f8b-0601-11e8-ae97-52543be04c81

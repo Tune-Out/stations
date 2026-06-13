@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f34d47b3-e042-46c7-aedf-4b48426397f7
-streams:
-  - url: 'https://sc4.gergosnet.com/pulsHD.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://icecastlb.pulsradio.com/pulstranceHD.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Dance music
   notes: Puls Radio is a French commercial dance music station. Specializes in dance and electronic music programming. Operates as streaming service with focus on dance music community in France.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f34d47b3-e042-46c7-aedf-4b48426397f7
+  - iprd-fr-puls-radio-006d9cd5
+streams:
+  - url: https://sc4.gergosnet.com/pulsHD.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://icecastlb.pulsradio.com/pulstranceHD.mp3
+    codec: MP3
+    bitrate: 192

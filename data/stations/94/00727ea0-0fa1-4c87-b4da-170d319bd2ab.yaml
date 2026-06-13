@@ -1,7 +1,7 @@
 stationuuid: 00727ea0-0fa1-4c87-b4da-170d319bd2ab
 name: Suno Malayalam FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3
+url: 'https://22713.live.streamtheworld.com:443/SUNO917.mp3'
+url_resolved: 'https://22713.live.streamtheworld.com:443/SUNO917.mp3'
 homepage: https://suno.qa/
 favicon: https://suno.qa/favicon.ico
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-00727ea0-0fa1-4c87-b4da-170d319bd2ab
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: 24/7 Malayalam music, news, entertainment, celebrity interviews and event coverage
   notes: Promoted as "Qatar's First Malayalam FM Station," targeting the large Keralite expatriate workforce; broadcasts on 91.7 MHz across Qatar; positions itself as "the heartbeat of the South Indian community in Qatar," with mobile apps, podcasts (Voicecast), and a job-listings service for the diaspora.
   sources: https://suno.qa/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-00727ea0-0fa1-4c87-b4da-170d319bd2ab

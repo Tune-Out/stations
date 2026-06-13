@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 00:25:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d72a7082-444e-45c5-8344-e4b20523c9aa
-streams:
-  - url: 'https://lhttp.qingting.fm/live/4923/64k.mp3'
-    codec: MP3
-  - url: 'http://lhttp.qingting.fm/live/4923/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -38,3 +30,13 @@ research:
   format: Music programming and entertainment
   notes: 徐州音乐广播 (Xuzhou Music Radio) is a state-controlled music broadcasting service operated by Xuzhou Radio and Television Group in Jiangsu province, China. Provides music and entertainment content to local audiences.
   sources: http://www.xzgd.com/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-d72a7082-444e-45c5-8344-e4b20523c9aa
+  - iprd-cn-xuzhou-news-radio-1269-93-0-b52fa63e
+  - iprd-cn-xuzhou-music-broadcasting-91-9-784b18f1
+streams:
+  - url: https://lhttp.qingting.fm/live/4923/64k.mp3
+    codec: MP3
+  - url: http://lhttp.qingting.fm/live/4923/64k.mp3
+    codec: MP3

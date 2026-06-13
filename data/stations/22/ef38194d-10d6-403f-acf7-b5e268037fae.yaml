@@ -23,18 +23,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-ef38194d-10d6-403f-acf7-b5e268037fae
-streams:
-  - url: 'https://stream.revma.ihrhls.com/zc9483/hls.m3u8'
-    codec: AAC
-    bitrate: 24
-    hls: true
-  - url: 'http://stream.revma.ihrhls.com/zc9483/hls.m3u8'
-    codec: AAC
-    bitrate: 24
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +32,15 @@ research:
   format: Curated nu metal and adjacent alt-metal / rap-metal music with no DJ presence (digital-only)
   notes: Nu Metal Radio is one of iHeartRadio's digital-only curated music channels, programmed and operated by iHeartMedia — the largest U.S. radio company — and streamed exclusively via the iHeartRadio app and website rather than over-the-air; the playlist centres on late-1990s and early-2000s nu metal (Korn, Limp Bizkit, Linkin Park, Slipknot, Disturbed, etc.) alongside more recent alt-metal acts; iHeartMedia is a publicly traded commercial media company with a long history of consolidation in the U.S. radio market and emerged from a 2018 bankruptcy restructuring.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-ef38194d-10d6-403f-acf7-b5e268037fae
+streams:
+  - url: https://stream.revma.ihrhls.com/zc9483/hls.m3u8
+    codec: AAC
+    bitrate: 24
+    hls: true
+  - url: http://stream.revma.ihrhls.com/zc9483/hls.m3u8
+    codec: AAC
+    bitrate: 24
+    hls: true

@@ -1,6 +1,6 @@
 stationuuid: 9621c8bf-0601-11e8-ae97-52543be04c81
 name: WUOT | 91.9 FM, Knoxville, TN
-url: http://provisioning.streamtheworld.com/pls/wuotfm.pls
+url: 'http://26223.live.streamtheworld.com:80/WUOTFM_SC'
 url_resolved: http://26223.live.streamtheworld.com/WUOTFM_SC
 homepage: http://www.wuot.org/
 favicon: http://www.wuot.org/apple-touch-icon.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 08:47:21
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9621c8bf-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: Public radio; NPR programming, jazz, classical music, news, cultural content
   notes: University-operated public radio station (WUOT-FM 91.9) based in Knoxville, Tennessee. Part of NPR network. Non-commercial, educational mission. Operated by University of Tennessee.
   sources: http://www.wuot.org/
+curation: 0.65
+provenance:
+  - radiobrowser-9621c8bf-0601-11e8-ae97-52543be04c81

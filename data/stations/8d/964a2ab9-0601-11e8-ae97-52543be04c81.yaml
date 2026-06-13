@@ -1,6 +1,6 @@
 stationuuid: 964a2ab9-0601-11e8-ae97-52543be04c81
 name: KDVV 100.3 "V-100" Topeka, KS
-url: http://provisioning.streamtheworld.com/pls/KDVVFMAAC192.pls
+url: 'http://29312.live.streamtheworld.com:80/KDVVFMAAC192_SC'
 url_resolved: http://22983.live.streamtheworld.com:3690/KDVVFMAAC192_SC
 homepage: http://www.v100rocks.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3076/squareIcon.png?r=93117
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964a2ab9-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Album-oriented rock (AOR); classic rock, progressive rock; 100.3 FM
   notes: Commercial radio station serving Topeka market under "V-100" branding; AOR format emphasizing album cuts and deeper artist catalogs
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964a2ab9-0601-11e8-ae97-52543be04c81

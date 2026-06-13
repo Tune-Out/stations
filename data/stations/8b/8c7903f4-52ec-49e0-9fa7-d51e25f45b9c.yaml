@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 03:00:03
 clickcount: 0
 geo_lat: 40.76494141246851
 geo_long: -74.04785156250001
-curation: 0.35
-provenance:
-  - radiobrowser-8c7903f4-52ec-49e0-9fa7-d51e25f45b9c
-streams:
-  - url: 'http://hfc.streamguys1.com/wqom'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://hfc.streamguys1.com/wqom'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,15 @@ research:
   format: Catholic religious programming, prayers, teachings, and Christian talk radio with spiritual and devotional content.
   notes: Non-commercial Catholic Christian radio operated by The Station of the Cross network. New York-based station streaming through StreamGuys infrastructure. Part of faith-focused broadcasting emphasizing Catholic tradition and Christian messaging. Operates at 48 kbps AAC+ for accessibility. Active in Catholic media evangelization and spiritual community engagement.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8c7903f4-52ec-49e0-9fa7-d51e25f45b9c
+  - iprd-us-icatholicmusic-79a5d75b
+  - iprd-us-icatholicradio-wqom-b3a57ed5
+streams:
+  - url: http://hfc.streamguys1.com/wqom
+    codec: AAC+
+    bitrate: 48
+  - url: https://hfc.streamguys1.com/wqom
+    codec: AAC+
+    bitrate: 48

@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 03:57:28
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-fbb94dc5-f833-11e9-bbf2-52543be04c81
-streams:
-  - url: 'https://proxima.shoutca.st/tunein/frradioq.pls'
-    url_resolved: 'http://proxima.shoutca.st:9045/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://frradioq.radioca.st/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +32,15 @@ research:
   format: Folk music and local culture programming
   notes: Polish local community radio based in Zakopane, located in the Polish Highlands (Tatras region) in southern Poland. Focuses on folk music and local cultural heritage. Community-oriented station serving highland region.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-fbb94dc5-f833-11e9-bbf2-52543be04c81
+  - iprd-pl-radio-alex-105-2-1c1be7e8
+streams:
+  - url: https://proxima.shoutca.st/tunein/frradioq.pls
+    url_resolved: http://proxima.shoutca.st:9045/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://frradioq.radioca.st/stream
+    codec: MP3
+    bitrate: 128

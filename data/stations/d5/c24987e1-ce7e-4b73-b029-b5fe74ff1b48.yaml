@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:09:57
 clickcount: 1
 geo_lat: 16.86858076882462
 geo_long: -99.89336013793944
-curation: 0.35
-provenance:
-  - radiobrowser-c24987e1-ce7e-4b73-b029-b5fe74ff1b48
-streams:
-  - url: 'https://ss1.audiorama.com.mx:6612/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ss1.audiorama.com.mx:6612/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: News, interviews, talk radio, local information, short news updates
   notes: Commercial talk/news radio station VOCES (92.1 FM) based in Acapulco, Guerrero. Part of Grupo Audiorama Comunicaciones network. Focuses on news, interviews, and local community information. "Hablada" format emphasizes talk and news over music.
   sources: http://www.audioramaguerrero.mx/voces/
+curation: 0.35
+provenance:
+  - radiobrowser-c24987e1-ce7e-4b73-b029-b5fe74ff1b48
+  - iprd-mx-voces-92-1-xhacd-b43c0f30
+streams:
+  - url: https://ss1.audiorama.com.mx:6612/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://ss1.audiorama.com.mx:6612/
+    codec: MP3
+    bitrate: 128

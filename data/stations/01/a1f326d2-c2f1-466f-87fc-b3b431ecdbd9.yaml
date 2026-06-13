@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 05:25:41
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a1f326d2-c2f1-466f-87fc-b3b431ecdbd9
-streams:
-  - url: 'http://timesradio.wireless.radio/stream'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://timesradio.wireless.radio/stream'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://timesradio.wireless.radio/stream'
-    codec: AAC
-    bitrate: 127
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +31,18 @@ research:
   format: News, current affairs, analysis, interviews, journalism, talk radio
   notes: Times Radio is a UK news and current affairs radio service operated by The Times of London, News Corporation property; serious journalism focus; targeted at engaged news audience; streaming platform available; data shows Uganda location anomaly (likely data error, actual broadcast UK-based)
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a1f326d2-c2f1-466f-87fc-b3b431ecdbd9
+  - iprd-gb-times-radio-ed756c8b
+  - iprd-gb-times-radio-3c35826f
+streams:
+  - url: http://timesradio.wireless.radio/stream
+    codec: AAC
+    bitrate: 128
+  - url: https://timesradio.wireless.radio/stream
+    codec: AAC
+    bitrate: 128
+  - url: http://timesradio.wireless.radio/stream
+    codec: AAC
+    bitrate: 127

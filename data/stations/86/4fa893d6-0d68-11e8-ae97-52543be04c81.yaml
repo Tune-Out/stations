@@ -1,6 +1,6 @@
 stationuuid: 4fa893d6-0d68-11e8-ae97-52543be04c81
 name: XHSON "Beat" 100.9 FM Mexico City, DF
-url: http://playerservices.streamtheworld.com/pls/XHSONFM.pls
+url: 'http://18303.live.streamtheworld.com:80/XHSONFM_SC'
 url_resolved: http://14223.live.streamtheworld.com:3690/XHSONFM_SC
 homepage: http://beat1009.com.mx/
 favicon: ""
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 04:29:57
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4fa893d6-0d68-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Techno, trance, lounge, and electronic music
   notes: Major Mexico City FM station (100.9); "Beat" brand targets electronic and dance music fans; high-quality streaming via StreamTheWorld; urban youth demographic
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4fa893d6-0d68-11e8-ae97-52543be04c81

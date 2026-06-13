@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 08:12:44
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4e79c0af-4dea-4b83-a850-f11329460dc7
-streams:
-  - url: 'https://n40a-eu.rcs.revma.com/gkfwrhqxbfhvv?rj-ttl=5&rj-tok=AAABnRe7-WsA_lpg8q-UnaVe8w&7252='
-    codec: AAC
-  - url: 'http://orange.live24.gr/orange9320'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://orange.live24.gr/orange9320'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +30,15 @@ research:
   format: Greek music, contemporary Greek songs, and Greek cultural programming.
   notes: Athens-based commercial radio station. Branded as Δίεση (Dieesi/Sharp in Greek musical terminology). Part of Greek commercial broadcasting. Serves Hellenic audience with Greek music format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4e79c0af-4dea-4b83-a850-f11329460dc7
+streams:
+  - url: https://n40a-eu.rcs.revma.com/gkfwrhqxbfhvv?rj-ttl=5&rj-tok=AAABnRe7-WsA_lpg8q-UnaVe8w&7252=
+    codec: AAC
+  - url: http://orange.live24.gr/orange9320
+    codec: MP3
+    bitrate: 128
+  - url: https://orange.live24.gr/orange9320
+    codec: MP3
+    bitrate: 128

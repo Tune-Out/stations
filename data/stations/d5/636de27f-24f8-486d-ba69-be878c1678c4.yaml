@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:26:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-636de27f-24f8-486d-ba69-be878c1678c4
-streams:
-  - url: 'https://stream.salyutfm.ru:4020/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.salyutfm.ru:4020/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Retro and classic hits from 1950s-1970s (melodiya format)
   notes: Salyut FM is a Russian radio network; Melodiya channel specializes in golden-age Soviet and Russian music from 1950s-1970s.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-636de27f-24f8-486d-ba69-be878c1678c4
+streams:
+  - url: https://stream.salyutfm.ru:4020/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.salyutfm.ru:4020/stream
+    codec: MP3
+    bitrate: 128

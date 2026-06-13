@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 08:51:19
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-a7a53336-bb90-4e66-9996-42e2349f0490
-streams:
-  - url: 'https://drive.uber.radio/uber/crvanessamae/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crvanessamae/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +31,11 @@ research:
   format: Classical music programming
   notes: Classical music station branded after violinist Vanessa Mae; operates globally via internet streaming; non-profit classical music broadcasting
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-a7a53336-bb90-4e66-9996-42e2349f0490
+streams:
+  - url: https://drive.uber.radio/uber/crvanessamae/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crvanessamae/icecast.audio
+    codec: MP3

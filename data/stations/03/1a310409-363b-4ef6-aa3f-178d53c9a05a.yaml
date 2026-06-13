@@ -22,17 +22,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 8
 geo_lat: 43.74965137617827
 geo_long: -79.35130000905654
-curation: 0.00
-provenance:
-  - radiobrowser-1a310409-363b-4ef6-aa3f-178d53c9a05a
-streams:
-  - url: 'https://ice64.securenetsystems.net/CKFG.m3u'
-    url_resolved: 'https://ice64.securenetsystems.net:80/CKFG'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice64.securenetsystems.net:80/CKFG'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,14 @@ research:
   format: Hip-hop, R&B, reggae music; commercial Top 40/urban format
   notes: "FM radio station serving Toronto and Greater Toronto Area (coordinates: downtown Toronto). Commercial urban contemporary format focusing on hip-hop and R&B music. Broadcast on 98.7 FM (CKFG call letters)."
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-1a310409-363b-4ef6-aa3f-178d53c9a05a
+streams:
+  - url: https://ice64.securenetsystems.net/CKFG.m3u
+    url_resolved: https://ice64.securenetsystems.net:80/CKFG
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice64.securenetsystems.net:80/CKFG
+    codec: AAC+
+    bitrate: 32

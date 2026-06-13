@@ -22,18 +22,6 @@ lastchangetime: 2026-01-31 08:22:49
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-873cafa6-77ee-46da-9220-c934cf5a8b72
-streams:
-  - url: 'http://sa47.scastream.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
-  - url: 'https://wz7liw.scahw.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,15 @@ research:
   format: "\"Rock 'n' Road Trip\" - curated classic rock and road-trip music programming."
   notes: LiSTNR is an Australian digital radio platform. Rock 'n' Road Trip is a popular genre-focused channel. Streams via HLS.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-873cafa6-77ee-46da-9220-c934cf5a8b72
+streams:
+  - url: http://sa47.scastream.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: https://wz7liw.scahw.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true

@@ -19,17 +19,6 @@ lastchangetime: 2026-01-23 22:16:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-fdda8d22-9789-40da-a94a-d3edd47621ad
-streams:
-  - url: 'https://stream.radiofrance.fr/fbazur/fbazur.m3u8?id=radiofrance'
-    codec: AAC
-    bitrate: 107
-    hls: true
-  - url: 'http://direct.francebleu.fr/live/fbazur-midfi.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +28,16 @@ research:
   format: Regional public radio; news, local information, music, cultural programming
   notes: France Bleu Azur is the regional branch of France Bleu network serving the southern PACA region; part of public broadcaster Radio France; emphasizes local news and regional culture.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-fdda8d22-9789-40da-a94a-d3edd47621ad
+  - iprd-fr-france-bleu-azur-bd976430
+  - iprd-fr-france-bleu-azur-b695d158
+streams:
+  - url: https://stream.radiofrance.fr/fbazur/fbazur.m3u8?id=radiofrance
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: http://direct.francebleu.fr/live/fbazur-midfi.mp3
+    codec: MP3
+    bitrate: 128

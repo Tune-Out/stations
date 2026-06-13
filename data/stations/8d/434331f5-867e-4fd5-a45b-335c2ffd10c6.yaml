@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:39:08
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-434331f5-867e-4fd5-a45b-335c2ffd10c6
-streams:
-  - url: 'https://stream.radiogroup.de/antenne-koblenz/mp3-192/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radiogroup-stream32.radiohost.de//antenne-koblenz_mp3-192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Pop music, local news, local radio format
   notes: Regional commercial radio station serving Koblenz in western Germany with local news and entertainment programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-434331f5-867e-4fd5-a45b-335c2ffd10c6
+streams:
+  - url: https://stream.radiogroup.de/antenne-koblenz/mp3-192/
+    codec: MP3
+    bitrate: 192
+  - url: https://radiogroup-stream32.radiohost.de//antenne-koblenz_mp3-192
+    codec: MP3
+    bitrate: 192

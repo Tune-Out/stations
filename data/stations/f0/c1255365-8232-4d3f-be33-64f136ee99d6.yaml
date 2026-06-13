@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 08:37:27
 clickcount: 2
 geo_lat: 51.7633114981802
 geo_long: 7.968746423721314
-curation: 0.25
-provenance:
-  - radiobrowser-c1255365-8232-4d3f-be33-64f136ee99d6
-streams:
-  - url: 'https://stream.0nlineradio.com/jazz'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.0nlineradio.com/trending-charts'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: "Jazz: acid jazz, classic jazz, cool jazz, smooth jazz"
   notes: German-based internet radio platform specializing in jazz programming. Multiple jazz subgenres.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-c1255365-8232-4d3f-be33-64f136ee99d6
+  - iprd-de-onlineradio-cbfa6f30
+streams:
+  - url: https://stream.0nlineradio.com/jazz
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.0nlineradio.com/trending-charts
+    codec: MP3
+    bitrate: 192

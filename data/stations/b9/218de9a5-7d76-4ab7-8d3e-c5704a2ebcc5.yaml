@@ -20,20 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-218de9a5-7d76-4ab7-8d3e-c5704a2ebcc5
-streams:
-  - url: 'https://streaming.ticktock.radio/tt/1992/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/tt/1992/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.ticktock.radio/tt/2022/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.ticktock.radio/tt/1993/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.ticktock.radio/tt/1994/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/tt/1994/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +29,17 @@ research:
   format: Oldies and retro music programming; music from 1992 and earlier decades
   notes: Independent streaming station specializing in vintage music; curated format focused on 1990s and classic hits
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-218de9a5-7d76-4ab7-8d3e-c5704a2ebcc5
+streams:
+  - url: https://streaming.ticktock.radio/tt/1992/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/tt/1992/icecast.audio
+    codec: MP3
+  - url: https://streaming.ticktock.radio/tt/2022/icecast.audio
+    codec: MP3
+  - url: https://streaming.ticktock.radio/tt/1993/icecast.audio
+    codec: MP3
+  - url: https://streaming.ticktock.radio/tt/1994/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/tt/1994/icecast.audio
+    codec: MP3

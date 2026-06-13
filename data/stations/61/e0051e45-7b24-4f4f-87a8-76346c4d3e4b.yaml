@@ -1,7 +1,7 @@
 stationuuid: e0051e45-7b24-4f4f-87a8-76346c4d3e4b
 name: Power FM - Ballarat - 103.1 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/BAL_POWER_FMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/BAL_POWER_FMAAC.aac
+url: 'http://17843.live.streamtheworld.com:80/BAL_POWER_FMAAC.aac'
+url_resolved: 'http://17843.live.streamtheworld.com:80/BAL_POWER_FMAAC.aac'
 homepage: https://www.powerfmballarat.com.au/
 favicon: https://i.ibb.co/dJyr6hH/61ea4ffddcdc455f530c0411.webp
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 01:13:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e0051e45-7b24-4f4f-87a8-76346c4d3e4b
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Adult contemporary music, contemporary hit radio, talk, comedy
   notes: Commercial FM radio station at 103.1 in Ballarat, Victoria, Australia. Format includes current hits, adult contemporary music, and talk/comedy programming; serves regional audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e0051e45-7b24-4f4f-87a8-76346c4d3e4b

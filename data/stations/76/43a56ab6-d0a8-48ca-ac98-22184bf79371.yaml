@@ -22,15 +22,6 @@ lastchangetime: 2026-01-19 11:14:28
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-43a56ab6-d0a8-48ca-ac98-22184bf79371
-streams:
-  - url: 'https://cast1.asurahosting.com/proxy/arhiepis/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast1.asurahosting.com/proxy/arhiepis/stream'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +31,12 @@ research:
   format: Religious content, information, Orthodox Christian teachings
   notes: Romanian non-commercial religious radio station broadcasting Orthodox Christian content and information programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-43a56ab6-d0a8-48ca-ac98-22184bf79371
+streams:
+  - url: https://cast1.asurahosting.com/proxy/arhiepis/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://cast1.asurahosting.com/proxy/arhiepis/stream
+    codec: MP3

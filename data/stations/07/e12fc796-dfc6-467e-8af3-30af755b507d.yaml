@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 06:48:55
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-e12fc796-dfc6-467e-8af3-30af755b507d
-streams:
-  - url: 'https://streams.egofm.de/egoFMBW-hq'
-    url_resolved: 'https://cast.egofm.de/egofmbw.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streams.egofm.de/egoFMBW-hq'
-    url_resolved: 'http://cast.egofm.de/egofmbw.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +30,15 @@ research:
   format: Alternative music programming; indie, rock, electronic; 128 kbps MP3 HQ stream
   notes: egoFM is German regional station serving Baden-Württemberg; BW variant for regional targeting; operates via egofm.de and streams.egofm.de; German-language programming.
   sources: https://www.egofm.de/
+curation: 0.2
+provenance:
+  - radiobrowser-e12fc796-dfc6-467e-8af3-30af755b507d
+streams:
+  - url: https://streams.egofm.de/egoFMBW-hq
+    url_resolved: https://cast.egofm.de/egofmbw.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 128
+  - url: http://streams.egofm.de/egoFMBW-hq
+    url_resolved: http://cast.egofm.de/egofmbw.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 128

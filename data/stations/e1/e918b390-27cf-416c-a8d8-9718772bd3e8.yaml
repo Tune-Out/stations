@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:39:51
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-e918b390-27cf-416c-a8d8-9718772bd3e8
-streams:
-  - url: 'https://liveradio.sr.de/sr/ud/mp3/256/stream.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://liveradio.sr.de/sr/ud/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: Contemporary hit music and youth-oriented programming
   notes: Public radio station operated by SR (Saarland Broadcasting), part of ARD public broadcaster network. Broadcasts in German to the Saarland region on high-quality 256 kbps stream.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-e918b390-27cf-416c-a8d8-9718772bd3e8
+streams:
+  - url: https://liveradio.sr.de/sr/ud/mp3/256/stream.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://liveradio.sr.de/sr/ud/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

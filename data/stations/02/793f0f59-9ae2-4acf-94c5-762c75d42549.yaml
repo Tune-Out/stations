@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:27:48
 clickcount: 1
 geo_lat: 43.86338328148847
 geo_long: 21.09262347221375
-curation: 0.35
-provenance:
-  - radiobrowser-793f0f59-9ae2-4acf-94c5-762c75d42549
-streams:
-  - url: 'http://213.239.205.210:8046/index.html/'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://213.239.205.210:8046/'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Narodska (folk) music, news, cultural content, local community announcements, themed shows, Radio Song secondary service
   notes: Local/regional Serbian radio station focused on folk heritage preservation and community service; strong emphasis on traditional culture and local news ("Koje kude" section); Šumadijski okrug region
   sources: https://radiolevac.rs/
+curation: 0.35
+provenance:
+  - radiobrowser-793f0f59-9ae2-4acf-94c5-762c75d42549
+  - iprd-rs-radio-levac-90-3-c377cada
+streams:
+  - url: http://213.239.205.210:8046/index.html/
+    codec: MP3
+    bitrate: 256
+  - url: http://213.239.205.210:8046/
+    codec: MP3
+    bitrate: 256

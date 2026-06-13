@@ -1,6 +1,6 @@
 stationuuid: 1b7774bb-0095-4627-98b9-549200b7cfbb
 name: CBC Radio One - Barrie, ON
-url: https://playerservices.streamtheworld.com/pls/CBCOFM_CBC.pls
+url: 'https://26283.live.streamtheworld.com:443/CBCOFM_CBC_SC'
 url_resolved: https://29243.live.streamtheworld.com/CBCOFM_CBC_SC
 homepage: https://www.cbc.ca/lite/radio/live-radio/ontario/barrie
 favicon: https://subscriptions.cbc.ca/newsletter_static/images/1581433263108-cbc-radio-one.png
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 44.380410167983186
 geo_long: -79.67834472656251
-curation: 0.50
-provenance:
-  - radiobrowser-1b7774bb-0095-4627-98b9-549200b7cfbb
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -33,3 +30,7 @@ research:
   format: News, talk, features, documentary; Canadian public radio programming
   notes: CBC Radio One is Canada's national public radio service; Barrie, ON affiliate serves central Ontario. Part of Canadian Broadcasting Corporation funded through federal government appropriations. Provides news, current affairs, features, and documentary programming with emphasis on Canadian content and public service mandate.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-1b7774bb-0095-4627-98b9-549200b7cfbb
+  - iprd-ca-cbla-99-1-cbc-radio-1-96038709

@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: 51.72444668561239
 geo_long: 0.7107543968595565
-curation: 0.50
-provenance:
-  - radiobrowser-4c4b64bb-a6bf-4785-930f-d0bd569ad4bd
-streams:
-  - url: 'http://sc2.radiocaroline.net:8010/listen.pls'
-    url_resolved: 'http://78.129.202.10:8010/;'
-    codec: AAC+
-    bitrate: 52
-  - url: 'http://sc2.radiocaroline.net:8100/listen.pls'
-    url_resolved: 'http://sc2.radiocaroline.net:8100/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +28,15 @@ research:
   format: Eclectic music, indie, alternative, classic hits
   notes: Historic pirate/offshore radio station operating from Maldon, Essex. Radio Caroline is a famous independent radio brand with a long history in UK broadcasting culture.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-4c4b64bb-a6bf-4785-930f-d0bd569ad4bd
+streams:
+  - url: http://sc2.radiocaroline.net:8010/listen.pls
+    url_resolved: http://78.129.202.10:8010/;
+    codec: AAC+
+    bitrate: 52
+  - url: http://sc2.radiocaroline.net:8100/listen.pls
+    url_resolved: http://sc2.radiocaroline.net:8100/;
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:43:25
 clickcount: 2
 geo_lat: 51.43194803627071
 geo_long: 6.774603244613197
-curation: 0.35
-provenance:
-  - radiobrowser-5ef174a6-3380-4cc8-bd8e-7de2320cc9c1
-streams:
-  - url: 'https://frontend.streamonkey.net/wf-radioduisburg/stream/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.lokalradio.nrw/444zbw3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Pop and contemporary hits; local news, traffic, weather, and regional events
   notes: Regional commercial station serving Duisburg since 1952 on FM 102.6 MHz. Part of broader regional radio ecosystem. Emphasizes local news coverage and community connection.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5ef174a6-3380-4cc8-bd8e-7de2320cc9c1
+streams:
+  - url: https://frontend.streamonkey.net/wf-radioduisburg/stream/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.lokalradio.nrw/444zbw3
+    codec: MP3
+    bitrate: 128

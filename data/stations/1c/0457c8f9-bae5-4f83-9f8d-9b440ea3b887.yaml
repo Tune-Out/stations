@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 06:40:25
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0457c8f9-bae5-4f83-9f8d-9b440ea3b887
-streams:
-  - url: 'https://techhouse-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://techhouse-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,13 @@ research:
   format: Tech house, house, EDM, electro house, minimal techno, and related electronic dance music.
   notes: Rautemusik (rm.fm) is major German internet radio platform offering multiple genre-specific channels. TECHHOUSE channel specializes in tech house and related electronic music. Serves global electronic music community with 24/7 streaming. Part of larger Rautemusik network offering diverse electronic music channels. High-quality streaming with international reach.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0457c8f9-bae5-4f83-9f8d-9b440ea3b887
+streams:
+  - url: https://techhouse-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://techhouse-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

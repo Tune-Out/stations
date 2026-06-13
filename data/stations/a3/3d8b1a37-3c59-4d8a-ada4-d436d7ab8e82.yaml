@@ -1,7 +1,7 @@
 stationuuid: 3d8b1a37-3c59-4d8a-ada4-d436d7ab8e82
 name: Los40 Dance
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+url: 'https://27873.live.streamtheworld.com:443/LOS40_DANCE.mp3'
+url_resolved: 'https://27873.live.streamtheworld.com:443/LOS40_DANCE.mp3'
 homepage: https://play.los40.com/emisora/los40_dance/
 favicon: https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png
 tags: []
@@ -17,9 +17,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
-curation: -0.05
-provenance:
-  - radiobrowser-3d8b1a37-3c59-4d8a-ada4-d436d7ab8e82
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -29,3 +26,6 @@ research:
   format: 24/7 electronic dance music and club hits; specialty channel of LOS40 radio network
   notes: LOS40 is a major Spanish commercial radio network with multiple specialty channels. LOS40 Dance is the electronic/dance music variant broadcast via streaming and FM affiliates. Part of PRISA Group media empire.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3d8b1a37-3c59-4d8a-ada4-d436d7ab8e82

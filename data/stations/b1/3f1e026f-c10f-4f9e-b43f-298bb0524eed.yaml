@@ -21,16 +21,6 @@ lastchangetime: 2026-05-25 21:38:50
 clickcount: 0
 geo_lat: 48.79037152263606
 geo_long: 2.4240788044949024
-curation: 0.35
-provenance:
-  - radiobrowser-3f1e026f-c10f-4f9e-b43f-298bb0524eed
-streams:
-  - url: 'https://stric6.streamakaci.com/radioayp.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stric6.streamakaci.com/radioayp.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +30,14 @@ research:
   format: Armenian music, news, and cultural programming in Armenian language
   notes: Community radio serving the Armenian diaspora in the Paris region with programming in Armenian.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3f1e026f-c10f-4f9e-b43f-298bb0524eed
+  - iprd-fr-ayp-fm-f22ab528
+streams:
+  - url: https://stric6.streamakaci.com/radioayp.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://stric6.streamakaci.com/radioayp.mp3
+    codec: MP3
+    bitrate: 192

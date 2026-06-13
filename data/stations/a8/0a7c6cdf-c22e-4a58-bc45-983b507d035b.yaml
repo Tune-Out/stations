@@ -23,15 +23,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-0a7c6cdf-c22e-4a58-bc45-983b507d035b
-streams:
-  - url: 'https://stream.zeno.fm/fr76gzq1kv8uv'
-    codec: AAC
-  - url: 'https://freefmchill.radioca.st/'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +32,12 @@ research:
   format: Chill-out, lounge, and downtempo with an 80s emphasis (one of several Free FM thematic channels)
   notes: Free FM Chill is one of several themed streams in the Free FM (FreeFM World) family of Spanish webradios based in Madrid; the broader Free FM brand operates multiple thematic channels (80s, chill, dance, etc.) primarily as a hobbyist / independent online radio operation.
   sources: internal knowledge only (homepage fetch timed out)
+curation: 0.5
+provenance:
+  - radiobrowser-0a7c6cdf-c22e-4a58-bc45-983b507d035b
+streams:
+  - url: https://stream.zeno.fm/fr76gzq1kv8uv
+    codec: AAC
+  - url: https://freefmchill.radioca.st/
+    codec: MP3
+    bitrate: 320

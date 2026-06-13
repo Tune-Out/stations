@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:24:15
 clickcount: 0
 geo_lat: 50.10868962134672
 geo_long: 8.681945800781252
-curation: -0.05
-provenance:
-  - radiobrowser-c1450051-84bf-44eb-9585-795dc31fb225
-streams:
-  - url: 'https://radiogroup-stream32.radiohost.de/radio-frankfurt_mp3-192'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.radiogroup.de/radio-frankfurt/mp3-192/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Contemporary hits and entertainment with themed blocks including morning show, specialty programs, 80s music stream.
   notes: Part of Radio Group operating multiple regional German stations; broadcasts on UKW/DAB+ frequencies 90.7-105.2 MHz and cable 106.2; audience measured at 344,000 (MA Audio 2025 II).
   sources: https://radiofrankfurt.de/
+curation: -0.05
+provenance:
+  - radiobrowser-c1450051-84bf-44eb-9585-795dc31fb225
+streams:
+  - url: https://radiogroup-stream32.radiohost.de/radio-frankfurt_mp3-192
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.radiogroup.de/radio-frankfurt/mp3-192/
+    codec: MP3
+    bitrate: 192

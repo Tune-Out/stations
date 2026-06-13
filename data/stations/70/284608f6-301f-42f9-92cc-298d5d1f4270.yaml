@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:00:57
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-284608f6-301f-42f9-92cc-298d5d1f4270
-streams:
-  - url: 'https://ice42.securenetsystems.net/KUTC?playSessionID=E3096491-9777-984E-766F5F20F6CFC992'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice42.securenetsystems.net/KUTC'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -40,3 +30,14 @@ research:
   format: '"The Boss" adult contemporary and hits format at 95.7 FM'
   notes: Local radio station serving the mid-Utah region. KUTC operates the "Boss" format focusing on contemporary hits and adult contemporary music.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-284608f6-301f-42f9-92cc-298d5d1f4270
+  - iprd-us-kutc-ad24551f
+streams:
+  - url: https://ice42.securenetsystems.net/KUTC?playSessionID=E3096491-9777-984E-766F5F20F6CFC992
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice42.securenetsystems.net/KUTC
+    codec: AAC+
+    bitrate: 32

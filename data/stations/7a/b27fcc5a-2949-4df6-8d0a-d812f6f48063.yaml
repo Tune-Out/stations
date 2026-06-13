@@ -21,16 +21,6 @@ lastchangetime: 2026-02-02 09:24:54
 clickcount: 1
 geo_lat: 52.25713220944509
 geo_long: -7.112274169921876
-curation: -0.05
-provenance:
-  - radiobrowser-b27fcc5a-2949-4df6-8d0a-d812f6f48063
-streams:
-  - url: 'http://stream.audioxi.com/BEATAAC'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://live-bauerie.sharp-stream.com/BEAT'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Contemporary music and entertainment radio
   notes: Beat 102-103 is a major Irish FM station licensed to Dublin; operates on dual frequencies 102-103 FM
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b27fcc5a-2949-4df6-8d0a-d812f6f48063
+streams:
+  - url: http://stream.audioxi.com/BEATAAC
+    codec: AAC
+    bitrate: 96
+  - url: https://live-bauerie.sharp-stream.com/BEAT
+    codec: MP3
+    bitrate: 128

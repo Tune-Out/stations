@@ -25,14 +25,6 @@ lastchangetime: 2026-04-16 21:43:13
 clickcount: 1
 geo_lat: 52.52
 geo_long: 13.405
-curation: 0.50
-provenance:
-  - radiobrowser-d1e41a1f-ff7c-49b5-b637-adb0d154d66b
-streams:
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/2000er/stream.aac?quality=10'
-    codec: AAC
-  - url: 'https://fluxmusic.api.radiosphere.io/channels/2000er/stream.mp3?quality=10'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +34,11 @@ research:
   format: 2000s-era alternative rock, hip hop, pop, nostalgic programming with 30+ themed channels
   notes: Community-based non-commercial radio station in Berlin with 30+ music channels. Tagline "Become part of the Flux community" emphasizes participatory culture. Multichannel format includes XJAZZ, Elektronik, Indie Disco, and vintage decade channels (60s-90s, 2000er). Available via FM, streaming, and FluxMusic app.
   sources: https://www.fluxfm.de/
+curation: 0.5
+provenance:
+  - radiobrowser-d1e41a1f-ff7c-49b5-b637-adb0d154d66b
+streams:
+  - url: https://fluxmusic.api.radiosphere.io/channels/2000er/stream.aac?quality=10
+    codec: AAC
+  - url: https://fluxmusic.api.radiosphere.io/channels/2000er/stream.mp3?quality=10
+    codec: MP3

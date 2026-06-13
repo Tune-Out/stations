@@ -1,7 +1,7 @@
 stationuuid: 7be97767-b61f-4b51-9ad2-eb78c3fc4ba7
 name: La Mejor Nogales - 96.7 FM - XHNGS-FM - MVS Radio - Nogales, SO
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHNGS_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHNGS_SC
+url: 'https://18303.live.streamtheworld.com:443/XHNGS_SC'
+url_resolved: 'https://18303.live.streamtheworld.com:443/XHNGS_SC'
 homepage: https://lamejor.com.mx/nogales/
 favicon: https://lamejor.com.mx/favicon.ico
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:29:57
 clickcount: 0
 geo_lat: 31.30928637804113
 geo_long: -110.9414863586426
-curation: -0.05
-provenance:
-  - radiobrowser-7be97767-b61f-4b51-9ad2-eb78c3fc4ba7
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Regional Mexican music specializing in banda norteña and traditional Mexican music.
   notes: Commercial station XHNGS-FM operating on 96.7 FM in Nogales, Sonora, Mexico. Part of "La Mejor" (The Best) network owned by MVS Radio. Focus on regional Mexican music, particularly banda and grupera genres. Border city broadcaster serving northern Mexican and southwestern US audiences. Uses "Aquí Nomás" (Just Here) branding.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7be97767-b61f-4b51-9ad2-eb78c3fc4ba7

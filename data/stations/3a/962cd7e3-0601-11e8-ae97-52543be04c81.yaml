@@ -23,34 +23,6 @@ lastchangetime: 2026-01-15 05:51:15
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-962cd7e3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.europeanhitradio.com:8000/Stream_24.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://stream.europeanhitradio.com:8000/Stream_12.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://stream.europeanhitradio.com:8000/Stream_23.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://stream.europeanhitradio.com:8000/Stream_21.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://stream.europeanhitradio.com:8000/ehr.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://stream.europeanhitradio.com:8000/Stream_31.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://stream.europeanhitradio.com:8000/Stream_27.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://stream.europeanhitradio.com:8000/Stream_25.aac'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -60,3 +32,39 @@ research:
   format: Dance and electronic music programming.
   notes: Latvian commercial electronic music station with dance and EDM focus; 4,747 votes.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-962cd7e3-0601-11e8-ae97-52543be04c81
+  - iprd-lv-european-hit-radio-478be853
+  - iprd-lv-european-hit-radio-dance-29cefaee
+  - iprd-lv-european-hit-radio-darbam-214088e7
+  - iprd-lv-european-hit-radio-eurochart-6026a61a
+  - iprd-lv-european-hit-radio-fresh-2f0d19a8
+  - iprd-lv-european-hit-radio-party-service-c40385fa
+  - iprd-lv-european-hit-radio-superhits-ff82e5bc
+  - iprd-lv-european-hit-radio-top-40-ab6f5dd2
+streams:
+  - url: http://stream.europeanhitradio.com:8000/Stream_24.aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://stream.europeanhitradio.com:8000/Stream_12.aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://stream.europeanhitradio.com:8000/Stream_23.aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://stream.europeanhitradio.com:8000/Stream_21.aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://stream.europeanhitradio.com:8000/ehr.aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://stream.europeanhitradio.com:8000/Stream_31.aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://stream.europeanhitradio.com:8000/Stream_27.aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://stream.europeanhitradio.com:8000/Stream_25.aac
+    codec: AAC+
+    bitrate: 96

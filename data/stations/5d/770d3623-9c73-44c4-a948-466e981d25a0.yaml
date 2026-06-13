@@ -23,16 +23,6 @@ lastchangetime: 2026-03-19 11:32:02
 clickcount: 1
 geo_lat: 57.91191974334646
 geo_long: 59.988278614924525
-curation: -0.05
-provenance:
-  - radiobrowser-770d3623-9c73-44c4-a948-466e981d25a0
-streams:
-  - url: 'http://online.ekoradio.ru/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://online.ekoradio.ru/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Pop music and local news
   notes: '"ЭкоРадио" (Eco Radio); local Russian station; broadcasts from Nizhny Tagil'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-770d3623-9c73-44c4-a948-466e981d25a0
+streams:
+  - url: http://online.ekoradio.ru/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://online.ekoradio.ru/stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4c33c80a-c7cc-4b99-9c64-47ae3edeb0cf
-streams:
-  - url: 'http://freshgrass.streamguys1.com/folkalley-64aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://freshgrass.streamguys1.com/folkalley-128mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,15 @@ research:
   format: Folk music, traditional music, American roots music, singer-songwriter
   notes: Folk Alley is a dedicated folk music internet radio station curating traditional and contemporary folk programming; serves folk music enthusiasts and supports folk community; operates as educational non-profit focused on folk tradition.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4c33c80a-c7cc-4b99-9c64-47ae3edeb0cf
+  - iprd-us-folk-alley-fd488dac
+  - iprd-us-folk-alley-229f5d81
+streams:
+  - url: http://freshgrass.streamguys1.com/folkalley-64aac
+    codec: AAC
+    bitrate: 64
+  - url: https://freshgrass.streamguys1.com/folkalley-128mp3
+    codec: MP3
+    bitrate: 128

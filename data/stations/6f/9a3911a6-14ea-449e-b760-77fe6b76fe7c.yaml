@@ -1,7 +1,7 @@
 stationuuid: 9a3911a6-14ea-449e-b760-77fe6b76fe7c
 name: Alleen Klassiek
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SERVICE06.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SERVICE06.mp3
+url: 'https://25243.live.streamtheworld.com:443/SERVICE06.mp3'
+url_resolved: 'https://25243.live.streamtheworld.com:443/SERVICE06.mp3'
 homepage: http://www.alleenklassiek.nl/
 favicon: https://i.postimg.cc/XqS5LZRg/logog.webp
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 03:52:28
 clickcount: 7
 geo_lat: 52.22203700366051
 geo_long: 5.179367065429688
-curation: 0.20
-provenance:
-  - radiobrowser-9a3911a6-14ea-449e-b760-77fe6b76fe7c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Classical music programming (name translates to "Only Classical")
   notes: Dutch classical music internet radio station based in North Holland. Streams at high quality 192 kbps MP3 bitrate. Fokus exclusively on classical music genres.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-9a3911a6-14ea-449e-b760-77fe6b76fe7c

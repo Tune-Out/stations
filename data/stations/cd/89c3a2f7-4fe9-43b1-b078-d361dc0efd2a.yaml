@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-89c3a2f7-4fe9-43b1-b078-d361dc0efd2a
-streams:
-  - url: 'https://uksoutha.streaming.broadcast.radio/sinefm?1716196689781='
-    codec: MP3
-  - url: 'https://uksoutha.streaming.broadcast.radio/sinefm'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Community and commercial radio programming
   notes: UK-based internet radio station; limited public information available
   sources: https://www.sinefm.com/
+curation: 0.35
+provenance:
+  - radiobrowser-89c3a2f7-4fe9-43b1-b078-d361dc0efd2a
+streams:
+  - url: https://uksoutha.streaming.broadcast.radio/sinefm?1716196689781=
+    codec: MP3
+  - url: https://uksoutha.streaming.broadcast.radio/sinefm
+    codec: MP3

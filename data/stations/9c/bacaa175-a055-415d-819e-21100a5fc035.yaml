@@ -1,7 +1,7 @@
 stationuuid: bacaa175-a055-415d-819e-21100a5fc035
 name: Keningau FM
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3
+url: 'http://22243.live.streamtheworld.com:80/KENINGAU_FM.mp3'
+url_resolved: 'http://22243.live.streamtheworld.com:80/KENINGAU_FM.mp3'
 homepage: https://keningaufm.rtm.gov.my/
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-bacaa175-a055-415d-819e-21100a5fc035
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -31,3 +28,6 @@ research:
   format: Local government and community radio programming.
   notes: Part of RTM, Malaysia's national broadcaster. Keningau FM serves the Keningau district of Sabah state. Government-operated public broadcaster.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-bacaa175-a055-415d-819e-21100a5fc035

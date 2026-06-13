@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:17:50
 clickcount: 1
 geo_lat: 51.468351943372085
 geo_long: 6.810150146484375
-curation: 0.65
-provenance:
-  - radiobrowser-171e9c73-4f4f-4ad8-a2e2-eba2b0781270
-streams:
-  - url: 'http://noxx-simulcast.cast.addradio.de/noxx/simulcast/mp3/high'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.lokalradio.nrw/4459jmc'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: Alternative pop, indie rock, alternative music, youth-oriented programming.
   notes: German public radio station operated by WDR as part of ARD. Known for alternative and indie music focus in German radio market.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-171e9c73-4f4f-4ad8-a2e2-eba2b0781270
+streams:
+  - url: http://noxx-simulcast.cast.addradio.de/noxx/simulcast/mp3/high
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.lokalradio.nrw/4459jmc
+    codec: MP3
+    bitrate: 128

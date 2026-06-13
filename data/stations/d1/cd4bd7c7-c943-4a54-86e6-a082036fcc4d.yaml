@@ -24,18 +24,6 @@ lastchangetime: 2026-01-14 23:42:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-cd4bd7c7-c943-4a54-86e6-a082036fcc4d
-streams:
-  - url: 'https://wz2liw.scahw.com.au/live/2ay_128.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
-  - url: 'http://wz2liw.scahw.com.au/live/2ay_128.stream/playlist.m3u8'
-    codec: AAC
-    bitrate: 130
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +33,16 @@ research:
   format: classic hits, news, talk radio
   notes: regional Australian AM station (1494 AM) serving Albury area since establishment; community-focused programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-cd4bd7c7-c943-4a54-86e6-a082036fcc4d
+  - iprd-au-2ay-1494-fe5c7051
+streams:
+  - url: https://wz2liw.scahw.com.au/live/2ay_128.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: http://wz2liw.scahw.com.au/live/2ay_128.stream/playlist.m3u8
+    codec: AAC
+    bitrate: 130
+    hls: true

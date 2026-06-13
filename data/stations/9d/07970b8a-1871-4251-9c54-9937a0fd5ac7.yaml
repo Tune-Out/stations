@@ -1,6 +1,6 @@
 stationuuid: 07970b8a-1871-4251-9c54-9937a0fd5ac7
 name: 101 ESPN
-url: https://provisioning.streamtheworld.com/pls/WXOSFM.pls
+url: 'http://18503.live.streamtheworld.com:80/WXOSFM_SC'
 url_resolved: http://26293.live.streamtheworld.com/WXOSFM_SC
 homepage: https://www.101espn.com/
 favicon: https://live.101espn.com/wp-content/uploads/2018/11/101ESPN-Logo.png
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-07970b8a-1871-4251-9c54-9937a0fd5ac7
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Sports talk radio with live play-by-play coverage; shows include "The Morning After," "BK & Ferrario," "The Fast Lane," "Unsportsmanlike"
   notes: Sports talk station serving St. Louis with coverage of Cardinals, Blues, and Redbirds (ISU). Multi-platform distribution (FM, iOS/Android, Alexa, YouTube, social media). Offers podcasts including Kerbside, Redbird Report, The Spread Zone.
   sources: https://www.101espn.com/
+curation: -0.05
+provenance:
+  - radiobrowser-07970b8a-1871-4251-9c54-9937a0fd5ac7

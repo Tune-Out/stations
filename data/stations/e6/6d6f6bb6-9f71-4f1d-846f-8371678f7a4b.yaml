@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 01:13:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-6d6f6bb6-9f71-4f1d-846f-8371678f7a4b
-streams:
-  - url: 'http://stream.erf.at:8000/erfplus_320'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://stream.erf.at:8000/erfplus_a1'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.erf.at:8000/erfplus_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.erf.at:8000/erfplus_96'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -47,3 +31,19 @@ research:
   format: Christian programming; music and ministry content for evangelical audience
   notes: Austrian evangelical radio broadcaster. "ERF Plus" is specialized stream at 320 kbps. ERF is a non-profit Christian broadcasting organization serving German-speaking regions.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-6d6f6bb6-9f71-4f1d-846f-8371678f7a4b
+streams:
+  - url: http://stream.erf.at:8000/erfplus_320
+    codec: MP3
+    bitrate: 320
+  - url: http://stream.erf.at:8000/erfplus_a1
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.erf.at:8000/erfplus_128
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.erf.at:8000/erfplus_96
+    codec: MP3
+    bitrate: 96

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0951a561-786c-4aff-b0ac-696bf240f1d2
-streams:
-  - url: 'https://listen-nation.sharp-stream.com/hull.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://listen-nation.sharp-stream.com/hull.mp3?aw_0_1st.playerid=BMUK_html5'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Rock and popular music
   notes: Online radio platform based in Uganda, streaming in Luganda.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0951a561-786c-4aff-b0ac-696bf240f1d2
+streams:
+  - url: https://listen-nation.sharp-stream.com/hull.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://listen-nation.sharp-stream.com/hull.mp3?aw_0_1st.playerid=BMUK_html5
+    codec: MP3
+    bitrate: 128

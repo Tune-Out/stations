@@ -1,7 +1,7 @@
 stationuuid: 16aad32f-c2d7-4f66-b6ae-1e691426939c
 name: KMXT
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KMXTFMAAC.aac?dist=onlineradiobox
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KMXTFMAAC.aac?dist=onlineradiobox
+url: 'https://14993.live.streamtheworld.com:443/KMXTFMAAC.aac?dist=onlineradiobox'
+url_resolved: 'https://14993.live.streamtheworld.com:443/KMXTFMAAC.aac?dist=onlineradiobox'
 homepage: http://kmxt.org/
 favicon: http://kmxt.org/apple-touch-icon.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-16aad32f-c2d7-4f66-b6ae-1e691426939c
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -31,3 +28,6 @@ research:
   format: Non-commercial community radio with diverse programming
   notes: Community radio station based in Alaska; provides local programming and cultural content
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-16aad32f-c2d7-4f66-b6ae-1e691426939c

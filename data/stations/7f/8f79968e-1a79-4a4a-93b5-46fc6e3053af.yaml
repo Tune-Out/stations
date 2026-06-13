@@ -1,7 +1,7 @@
 stationuuid: 8f79968e-1a79-4a4a-93b5-46fc6e3053af
 name: Magic 106.1
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WRRXFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WRRXFMAAC.aac
+url: 'https://27153.live.streamtheworld.com:443/WRRXFMAAC.aac'
+url_resolved: 'https://27153.live.streamtheworld.com:443/WRRXFMAAC.aac'
 homepage: https://www.mymagic106.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3320/squareIcon.png?r=95997
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-8f79968e-1a79-4a4a-93b5-46fc6e3053af
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Urban contemporary music; R&B, hip-hop, and soul
   notes: Commercial FM radio station broadcasting on 106.1 MHz serving the Pensacola/Gulf Breeze area of Florida. Urban contemporary format targeting African-American and diverse audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8f79968e-1a79-4a4a-93b5-46fc6e3053af

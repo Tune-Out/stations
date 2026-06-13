@@ -22,16 +22,6 @@ lastchangetime: 2026-01-28 16:18:39
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-45daead0-5c3f-44f4-8bb3-177596bcf8ab
-streams:
-  - url: 'https://cast2.asurahosting.com/proxy/britcom4/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast2.asurahosting.com/proxy/britcom4/stream/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Comedy and stand-up comedy audio content; "Britcom" brand suggests British comedy programming focus
   notes: Britcom 4 streams via Pumpkin FM, a UK-based internet radio network that hosts multiple comedy and entertainment stations. The "4" designation suggests it is one of several Britcom streams (possibly Britcom 1-4 representing different content tiers or archives). Pumpkin FM is a non-profit internet radio platform operated from the UK. The stream quality is 128 kbps MP3. Limited information publicly available on specific programming or hosts.
   sources: https://pumpkinfm.com/
+curation: 0.35
+provenance:
+  - radiobrowser-45daead0-5c3f-44f4-8bb3-177596bcf8ab
+streams:
+  - url: https://cast2.asurahosting.com/proxy/britcom4/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://cast2.asurahosting.com/proxy/britcom4/stream/
+    codec: MP3
+    bitrate: 128

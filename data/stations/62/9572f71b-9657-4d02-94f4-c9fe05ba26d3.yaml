@@ -1,7 +1,7 @@
 stationuuid: 9572f71b-9657-4d02-94f4-c9fe05ba26d3
 name: 2GB - Sydney - 873 AM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
+url: 'http://28793.live.streamtheworld.com:80/2GB.mp3'
+url_resolved: 'http://28793.live.streamtheworld.com:80/2GB.mp3'
 homepage: https://www.2gb.com/
 favicon: https://www.2gb.com/wp-content/uploads/sites/2/2023/01/2GB-1.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:49:40
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9572f71b-9657-4d02-94f4-c9fe05ba26d3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,8 @@ research:
   format: AM news and talkback radio; long-time hosts have included Ray Hadley (mornings), the late Alan Jones (breakfast 2002-2020), Ben Fordham (current breakfast), Chris Smith and Steve Price
   notes: '2GB launched in August 1931 and takes its callsign from the Theosophical Society (G for "Giordano Bruno"); originally owned by Australian Radio Network entities, it was a part of the Macquarie Radio Network under John Singleton and Mark Carnegie, then merged into Macquarie Media which was acquired by Nine Entertainment in 2019; consistently ranked #1 in Sydney ratings for decades and influential in setting Sydney talkback agenda; Alan Jones was sanctioned multiple times by the Australian Communications and Media Authority (ACMA) including over the 2005 Cronulla riots broadcasts'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9572f71b-9657-4d02-94f4-c9fe05ba26d3
+  - iprd-au-2gb-873-07d897c8
+  - iprd-au-2gb-873-acd3f881

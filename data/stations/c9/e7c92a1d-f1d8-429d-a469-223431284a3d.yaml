@@ -1,7 +1,7 @@
 stationuuid: e7c92a1d-f1d8-429d-a469-223431284a3d
 name: Bésame 106.5 FM Cali
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC.aac
+url: 'https://14073.live.streamtheworld.com:443/BESAME_CALIAAC.aac'
+url_resolved: 'https://14073.live.streamtheworld.com:443/BESAME_CALIAAC.aac'
 homepage: https://www.besame.fm/
 favicon: https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 07:15:38
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e7c92a1d-f1d8-429d-a469-223431284a3d
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Romantic ballads, love songs, Latin pop, classic ballads from 1980s, contemporary Latin hits.
   notes: Bésame is a network of romantic radio stations owned by Caracol Radio, a subsidiary of Caracol Televisión. Broadcasts from Cali at 106.5 FM and online. Programming centers on romantic atmospheres and empathy for listeners.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e7c92a1d-f1d8-429d-a469-223431284a3d

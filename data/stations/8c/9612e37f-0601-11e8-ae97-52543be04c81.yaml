@@ -21,24 +21,6 @@ lastchangetime: 2026-01-15 03:04:28
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9612e37f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://radio-teddy.api.radiosphere.io/channels/Livestream/stream.aac?quality=4'
-    codec: AAC
-  - url: 'http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3'
-    codec: MP3
-  - url: 'http://streamtdy.ir-media-tec.com/cool/mp3-128/web/play.mp3'
-    codec: MP3
-  - url: 'https://streamtdy.ir-media-tec.com/kita-kabelsalat/mp3-128/dmhubweb/play.mp3?sabcsid=3024868989&context=fHA6LTE='
-    codec: MP3
-  - url: 'http://streamtdy.ir-media-tec.com/kinderlieder/mp3-128/web/play.mp3'
-    codec: MP3
-  - url: 'https://streamtdy.ir-media-tec.com/zuckowski/mp3-128/dmhubweb/play.mp3?sabcsid=3024868989&context=fHA6LTE='
-    codec: MP3
-  - url: 'http://streamtdy.ir-media-tec.com/disco/mp3-128/web/play.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +30,22 @@ research:
   format: Children's and family radio — hit music, age-appropriate pop, kids' songs, audio plays (Hörspiele), educational segments ("Wissen für Kids"), competitions, and the flagship "Radio TEDDY-Morgenshow"
   notes: Launched in 2005, Radio TEDDY is one of Germany's first and largest commercial children's radio stations, broadcasting terrestrially on FM in the Berlin-Brandenburg region and on DAB+ in several German states (Saxony, Bavaria, Saxony-Anhalt, Thuringia) as well as via national livestream; describes its morning show as "die bunteste Sendung im deutschen Radio"; emphasises family-friendly, advertiser-supported entertainment with educational segments and tie-ins to popular children's media properties such as Benjamin Blümchen; the station has won multiple awards for children's radio in Germany.
   sources: https://www.radioteddy.de/
+curation: -0.05
+provenance:
+  - radiobrowser-9612e37f-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-teddy-livestream-39530189
+streams:
+  - url: https://radio-teddy.api.radiosphere.io/channels/Livestream/stream.aac?quality=4
+    codec: AAC
+  - url: http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3
+    codec: MP3
+  - url: http://streamtdy.ir-media-tec.com/cool/mp3-128/web/play.mp3
+    codec: MP3
+  - url: https://streamtdy.ir-media-tec.com/kita-kabelsalat/mp3-128/dmhubweb/play.mp3?sabcsid=3024868989&context=fHA6LTE=
+    codec: MP3
+  - url: http://streamtdy.ir-media-tec.com/kinderlieder/mp3-128/web/play.mp3
+    codec: MP3
+  - url: https://streamtdy.ir-media-tec.com/zuckowski/mp3-128/dmhubweb/play.mp3?sabcsid=3024868989&context=fHA6LTE=
+    codec: MP3
+  - url: http://streamtdy.ir-media-tec.com/disco/mp3-128/web/play.mp3
+    codec: MP3

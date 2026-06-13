@@ -19,22 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-410493e6-e279-4347-8884-702aabc0defb
-streams:
-  - url: 'https://media-sov.musicradio.com/Global-M-Pride'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://media-the.musicradio.com/Global-M-Pride'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://media-ssl.musicradio.com/Global-M-Pride'
-    codec: AAC
-    bitrate: 48
-  - url: 'https://media-ice.musicradio.com/Global-M-Pride'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +28,19 @@ research:
   format: digital branded stream specializing in LGBTQ+ Pride-themed music and entertainment
   notes: Global Pride is a branded digital stream from Global Media Group, a major UK commercial broadcaster. The stream focuses on LGBTQ+ Pride content and culture.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-410493e6-e279-4347-8884-702aabc0defb
+streams:
+  - url: https://media-sov.musicradio.com/Global-M-Pride
+    codec: AAC
+    bitrate: 48
+  - url: https://media-the.musicradio.com/Global-M-Pride
+    codec: AAC
+    bitrate: 48
+  - url: https://media-ssl.musicradio.com/Global-M-Pride
+    codec: AAC
+    bitrate: 48
+  - url: https://media-ice.musicradio.com/Global-M-Pride
+    codec: AAC
+    bitrate: 48

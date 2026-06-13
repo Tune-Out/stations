@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:24:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-96136f23-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 40+ themed jazz channels including Saxo Jazz, Piano Jazz, Gospel, Soul, Blues, Latin Jazz, Electro Swing
   notes: Founded as a non-stop internet radio station specializing in jazz and related genres. Operates multiple artist-curated channels and themed formats. Available via web, iOS, and Android apps with live streaming and podcasts.
   sources: http://www.jazzradio.fr/radio/webradio/42/saxo-jazz
+curation: 0.3
+provenance:
+  - radiobrowser-96136f23-0601-11e8-ae97-52543be04c81
+  - iprd-fr-jazz-radio-saxo-jazz-ab247e2b
+streams:
+  - url: http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
+    codec: MP3
+    bitrate: 128

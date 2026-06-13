@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:01:29
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-103f4aca-7b61-4169-8ad5-5dd922913024
-streams:
-  - url: 'https://cast4.magicstreams.gr:2200/ssl/rnamozwi?mp=/stream&1668884587044'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cast4.magicstreams.gr:2200/ssl/rnamozwi?mp=/stream&1728716435412'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: General broadcast format; music and news programming; local radio focus on Patras region
   notes: Based in Patras, Achaia; broadcasting on 98 FM from location Δημοκρατίας 137, Οβρυά, 26334, Achaia; operates 24/7 local programming
   sources: https://www.messatida98fm.gr/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-103f4aca-7b61-4169-8ad5-5dd922913024
+streams:
+  - url: https://cast4.magicstreams.gr:2200/ssl/rnamozwi?mp=/stream&1668884587044
+    codec: MP3
+    bitrate: 128
+  - url: https://cast4.magicstreams.gr:2200/ssl/rnamozwi?mp=/stream&1728716435412
+    codec: MP3
+    bitrate: 128

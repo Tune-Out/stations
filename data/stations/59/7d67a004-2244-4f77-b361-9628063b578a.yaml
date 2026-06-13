@@ -22,25 +22,6 @@ lastchangetime: 2026-01-15 07:40:19
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-7d67a004-2244-4f77-b361-9628063b578a
-streams:
-  - url: 'http://server1.radiodanz.com:8030/;'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://server1.radiodanz.com:8020/;'
-    codec: AAC+
-    bitrate: 80
-  - url: 'http://server1.radiodanz.com:8020/'
-    codec: AAC+
-    bitrate: 80
-  - url: 'http://server1.radiodanz.com:8010/;'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://streamssl.radiodanz.com:80/'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -50,3 +31,23 @@ research:
   format: House and dance music, curated by musicologists; emerging artist focus; absolutely 100% free of advertising
   notes: Founded 2005 by Bernardo Passariello, inspired by XM Satellite Radio's BPM station. "The World's Pure Dance Channel" with listener-supported donation model and human-curated programming emphasizing "human touch" rather than algorithmic selection. Global internet reach from Miami.
   sources: https://www.radiodanz.com/
+curation: 0.6
+provenance:
+  - radiobrowser-7d67a004-2244-4f77-b361-9628063b578a
+  - iprd-us-radio-danz-0f707c31
+streams:
+  - url: http://server1.radiodanz.com:8030/;
+    codec: AAC+
+    bitrate: 128
+  - url: http://server1.radiodanz.com:8020/;
+    codec: AAC+
+    bitrate: 80
+  - url: http://server1.radiodanz.com:8020/
+    codec: AAC+
+    bitrate: 80
+  - url: http://server1.radiodanz.com:8010/;
+    codec: AAC+
+    bitrate: 64
+  - url: https://streamssl.radiodanz.com:80/
+    codec: MP3
+    bitrate: 160

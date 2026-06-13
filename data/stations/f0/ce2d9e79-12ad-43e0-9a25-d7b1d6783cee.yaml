@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ce2d9e79-12ad-43e0-9a25-d7b1d6783cee
-streams:
-  - url: 'http://ais-edge50-live365-dal02.cdnstream.com/a63316'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://das-edge11-live365-dal03.cdnstream.com/a63316'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: P-pop (Philippine pop) and OPM (Original Pilipino Music) hits; contemporary Filipino popular music
   notes: MYX P-POP Radio is a streaming service from MYX Global, a Philippines-based digital media company. Focuses on P-pop and OPM hits, targeting Filipino audiences and diaspora communities worldwide. Specializes in contemporary popular music from Filipino artists.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ce2d9e79-12ad-43e0-9a25-d7b1d6783cee
+streams:
+  - url: http://ais-edge50-live365-dal02.cdnstream.com/a63316
+    codec: MP3
+    bitrate: 128
+  - url: http://das-edge11-live365-dal03.cdnstream.com/a63316
+    codec: MP3
+    bitrate: 128

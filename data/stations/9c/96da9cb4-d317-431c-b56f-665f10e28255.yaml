@@ -23,20 +23,6 @@ lastchangetime: 2026-01-15 05:34:17
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-96da9cb4-d317-431c-b56f-665f10e28255
-streams:
-  - url: 'http://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de/'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/70er/mp3-128/streams.rsa-sachsen.de/play.pls'
-    url_resolved: 'http://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=69685n6s%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768446575'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/70er/mp3-192'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de/play.m3u'
-    url_resolved: 'http://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-192-1215651?sABC=6968997q%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768462717'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -46,3 +32,17 @@ research:
   format: 1970s oldies, evergreens, classic hits; dedicated retro music programming.
   notes: R.SA 70er Oldies is a niche format channel from R.SA (Rundfunk Sachsen), a commercial broadcaster in Saxony with specialized programming for 70s music enthusiasts. Operates as part of broader commercial radio group in eastern Germany.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-96da9cb4-d317-431c-b56f-665f10e28255
+streams:
+  - url: http://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de/
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/70er/mp3-128/streams.rsa-sachsen.de/play.pls
+    url_resolved: http://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=69685n6s%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768446575
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/70er/mp3-192
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de/play.m3u
+    url_resolved: http://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-192-1215651?sABC=6968997q%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768462717
+    codec: MP3

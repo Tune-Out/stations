@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 01:42:04
 clickcount: 1
 geo_lat: 42.655425080737515
 geo_long: 23.37346536712757
-curation: -0.10
-provenance:
-  - radiobrowser-7f092679-197b-4503-acd5-9c13f5b75b7c
-streams:
-  - url: 'http://31.13.223.148:8000/fresh.ogg'
-    codec: OGG
-  - url: 'http://193.108.24.21:8000/fresh.m3u'
-    url_resolved: 'http://193.108.24.21:8000/fresh'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Commercial pop and dance music with top 30 hits programming.
   notes: Radio Fresh is a Bulgarian commercial radio station based in Sofia featuring contemporary pop and dance music with a focus on hit singles and chart-topping tracks.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-7f092679-197b-4503-acd5-9c13f5b75b7c
+  - iprd-bg-radio-fresh-be1c0218
+streams:
+  - url: http://31.13.223.148:8000/fresh.ogg
+    codec: OGG
+  - url: http://193.108.24.21:8000/fresh.m3u
+    url_resolved: http://193.108.24.21:8000/fresh
+    codec: MP3
+    bitrate: 128

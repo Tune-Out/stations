@@ -22,33 +22,6 @@ lastchangetime: 2026-01-15 07:20:35
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-1dc6efa7-139b-4314-a990-dc954f55ed67
-streams:
-  - url: 'https://drive.uber.radio/uber/crmozart/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crbrahms/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crliszt/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crliszt/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crtchaikovsky/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crvivaldi/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crvivaldi/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crshostakovich/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crdebussy/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crjohnwilliams/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/crmozart/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crwagner/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/crwagner/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -58,3 +31,30 @@ research:
   format: 24/7 Classical Mozart compositions and related classical works
   notes: Classical Radio is one of the thematic channels offered by AudioAddict, a digital streaming service specializing in curated music channels across multiple genres. The Mozart-focused variant streams curated classical compositions from the Austro-Czech composer's catalog alongside complementary works. AudioAddict operates under a freemium subscription model with ad-supported free tier. All channels stream via the uber.radio platform (AudioAddict's CDN infrastructure). The service targets background/ambient listening in workplace and home environments.
   sources: https://www.classicalradio.com/, internal knowledge of AudioAddict platform
+curation: 0.4
+provenance:
+  - radiobrowser-1dc6efa7-139b-4314-a990-dc954f55ed67
+streams:
+  - url: https://drive.uber.radio/uber/crmozart/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crbrahms/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crliszt/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crliszt/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crtchaikovsky/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crvivaldi/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crvivaldi/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crshostakovich/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crdebussy/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crjohnwilliams/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/crmozart/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crwagner/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/crwagner/icecast.audio
+    codec: MP3

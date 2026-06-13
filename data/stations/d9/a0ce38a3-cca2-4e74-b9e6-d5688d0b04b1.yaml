@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 4
 geo_lat: 51.53474018995002
 geo_long: 7.688970565795899
-curation: 0.35
-provenance:
-  - radiobrowser-a0ce38a3-cca2-4e74-b9e6-d5688d0b04b1
-streams:
-  - url: 'https://antenneunna--di--nacs-ais-lgc--07--cdn.cast.addradio.de/antenneunna/live/mp3/high'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://antenneunna--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/antenneunna/live/mp3/high?ar-distributor=f0a1&_art=dj0yJmlwPTE4OC4xMzYuMzIuMTE4JmlkPWljc2N4bC16c3pkcnp1bWImdD0xNzQ3NDA1MDI5JnM9Nzg2NmYyOWMjZmM2YWE5MDBmOWRhNTA3MzA4MjQ0MGVlOTExYmY5ZjU'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.lokalradio.nrw/445dyj5'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,16 @@ research:
   format: Local hot AC / news radio - local news, traffic, weather and service information for Kreis Unna combined with current pop hits and oldies; "RADIO NRW" rahmenprogramm overnights and supplies national/world news
   notes: Antenne Unna launched in 1991 as one of the first Lokalradios in North Rhine-Westphalia, operating under the state's distinctive Zwei-Säulen-Modell (two-pillar model) which separates commercial operation from editorial responsibility held by a non-profit citizens' association; its license is granted by LfM and renewed periodically. The station broadcasts on 100.6 MHz from Unna and is part of the 44-station Radio NRW network, which is one of Germany's largest local-commercial radio systems.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a0ce38a3-cca2-4e74-b9e6-d5688d0b04b1
+streams:
+  - url: https://antenneunna--di--nacs-ais-lgc--07--cdn.cast.addradio.de/antenneunna/live/mp3/high
+    codec: MP3
+    bitrate: 192
+  - url: https://antenneunna--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/antenneunna/live/mp3/high?ar-distributor=f0a1&_art=dj0yJmlwPTE4OC4xMzYuMzIuMTE4JmlkPWljc2N4bC16c3pkcnp1bWImdD0xNzQ3NDA1MDI5JnM9Nzg2NmYyOWMjZmM2YWE5MDBmOWRhNTA3MzA4MjQ0MGVlOTExYmY5ZjU
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.lokalradio.nrw/445dyj5
+    codec: MP3
+    bitrate: 192

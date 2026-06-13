@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:25:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ff97ca68-d11f-4c3d-ad11-1a770abd1772
-streams:
-  - url: 'https://s10.webradio-hosting.com/proxy/fredradioit/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s10.webradio-hosting.com/proxy/fredradiosar/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Cinema and film festival coverage; 21+ language channels; thematic channels (industry, education, entertainment); interviews, podcasts, festival coverage
   notes: '"The Festival Insider" specializing in international film festivals. Emphasizes diverse representation and celebrates LGBTQIA+ voices in cinema. Licensed through Greek Collective Rights Organizations.'
   sources: http://www.fred.fm/
+curation: 0.35
+provenance:
+  - radiobrowser-ff97ca68-d11f-4c3d-ad11-1a770abd1772
+streams:
+  - url: https://s10.webradio-hosting.com/proxy/fredradioit/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://s10.webradio-hosting.com/proxy/fredradiosar/stream
+    codec: MP3
+    bitrate: 128

@@ -21,19 +21,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-4e681355-3ebb-4b6c-a79a-d7cc81a0afd5
-streams:
-  - url: 'https://listen.reyfm.de/lofi_64kbps.mp3'
-    codec: AAC+
-    bitrate: 63
-  - url: 'https://listen.reyfm.de/lofi_320kbps.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://listen.reyfm.de/lofi_128kbps.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +30,17 @@ research:
   format: Lofi hip-hop, chill, ambient, and relaxation music; specialized streaming channels
   notes: German internet radio station dedicated to lofi aesthetic; offers high-bitrate streaming (320 kbps); modern web-based interface built with Nuxt.js framework
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-4e681355-3ebb-4b6c-a79a-d7cc81a0afd5
+  - iprd-de-reyfm-lofi-20fb73e3
+streams:
+  - url: https://listen.reyfm.de/lofi_64kbps.mp3
+    codec: AAC+
+    bitrate: 63
+  - url: https://listen.reyfm.de/lofi_320kbps.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://listen.reyfm.de/lofi_128kbps.mp3
+    codec: MP3
+    bitrate: 128

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:22:18
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-15a69f7e-168f-4f32-a0ad-2478b5086ffe
-streams:
-  - url: 'http://2bhanuman.out.airtime.pro:8000/2bhanuman_a'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://2bhanuman.out.airtime.pro:8000/2bhanuman_a'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,13 @@ research:
   format: Hindu bhakti / devotional music — Hanuman bhajans, chalisa recitations, and chants
   notes: Bhakti World appears to be a network or family of niche devotional internet radio streams dedicated to individual Hindu deities (this particular feed is the Hanuman channel). It runs on Airtime Pro, the hosted version of the open-source LibreTime / Airtime broadcast platform popular with small community and devotional broadcasters. No corporate parent, ownership data, or registered broadcaster information could be verified; the operator and funding model are unknown. Programming is religious/cultural rather than political and is typical of the dozens of small Indian devotional streams that proliferated in the 2010s.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-15a69f7e-168f-4f32-a0ad-2478b5086ffe
+streams:
+  - url: http://2bhanuman.out.airtime.pro:8000/2bhanuman_a
+    codec: MP3
+    bitrate: 64
+  - url: https://2bhanuman.out.airtime.pro:8000/2bhanuman_a
+    codec: MP3
+    bitrate: 64

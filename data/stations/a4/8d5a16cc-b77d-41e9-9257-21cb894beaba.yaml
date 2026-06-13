@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 04:06:37
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-8d5a16cc-b77d-41e9-9257-21cb894beaba
-streams:
-  - url: 'https://stream.zeno.fm/rhscse2a41zuv'
-    codec: AAC
-  - url: 'https://stream.zeno.fm/x4hneey2vwzuv'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -40,3 +32,11 @@ research:
   format: Indie, alternative, and emerging artists; "a new music discovery radio station dedicated to indie, alternative, and emerging artists from around the world." 24/7 streaming with human curation.
   notes: "Ad-free model supported by listener donations. Motto: \"Less talk, more dancing.\" Emphasizes fresh releases and \"hidden gems you won't hear on mainstream or algorithm-driven platforms.\" Features artist spotlights, top 20 charts, and curated episodes."
   sources: https://www.radiorobotic.com/
+curation: 0.65
+provenance:
+  - radiobrowser-8d5a16cc-b77d-41e9-9257-21cb894beaba
+streams:
+  - url: https://stream.zeno.fm/rhscse2a41zuv
+    codec: AAC
+  - url: https://stream.zeno.fm/x4hneey2vwzuv
+    codec: AAC

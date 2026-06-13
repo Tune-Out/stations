@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:48:00
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962a7679-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/country_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strmreg.1.fm/country_mobile_mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 24/7 contemporary and classic country music — Garth Brooks, Carrie Underwood, Luke Combs, Dolly Parton, Johnny Cash and similar artists
   notes: 1.FM is one of the longest-running internet-radio networks, launched in 1998 and headquartered in Zug, Switzerland, operating roughly 70-80 themed music channels worldwide; "Country One Radio" is its country-music stream, ad-supported via interstitial spots; the network is a private commercial operator and is known for licensing its streams to mobile and smart-speaker platforms.
   sources: http://www.1.fm/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-962a7679-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-country-one-radio-869dccb5
+streams:
+  - url: http://strm112.1.fm/country_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strmreg.1.fm/country_mobile_mp3
+    codec: MP3
+    bitrate: 192

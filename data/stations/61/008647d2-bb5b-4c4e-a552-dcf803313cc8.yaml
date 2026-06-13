@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:18:30
 clickcount: 0
 geo_lat: 55.7912747079624
 geo_long: 37.48793452978135
-curation: 0.55
-provenance:
-  - radiobrowser-008647d2-bb5b-4c4e-a552-dcf803313cc8
-streams:
-  - url: 'https://nashe1.hostingradio.ru/jazz-256'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://nashe1.hostingradio.ru/jazz-256'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Jazz music specializing in traditional and contemporary jazz programming
   notes: Moscow-based internet radio station streaming high-quality jazz (256 kbps); long-running niche jazz-focused broadcaster
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-008647d2-bb5b-4c4e-a552-dcf803313cc8
+  - iprd-ru-radio-jazz-89-1-b0b3aea1
+streams:
+  - url: https://nashe1.hostingradio.ru/jazz-256
+    codec: MP3
+    bitrate: 256
+  - url: http://nashe1.hostingradio.ru/jazz-256
+    codec: MP3
+    bitrate: 256

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:32:55
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-35ad3807-b724-4f15-aa38-12050556f716
-streams:
-  - url: 'https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&amsparams=playerid:SBS_RP_WEB;skey:1602162911;&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1602162911&aw_0_1st.bauer_loggedin=false&awparams=loggedin:false;&aw_0_req.userConsent=false'
-    codec: AAC+
-    bitrate: 56
-  - url: 'https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp?direct=true&listenerid=&aw_0_1st.bauer_listenerid=&amsparams=playerid:BMUK_inpage_html5;skey:1602161945;&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1602161945&aw_0_1st.bauer_loggedin=false&awparams=loggedin:false;&aw_0_req.userConsent=false'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Vintage music specializing in 60s and 70s hits; "Den bästa musiken från 60- och 70-talet" (the best music from the 60s and 70s)
   notes: Commercial station owned by Bauer Media (Yvonne Bauer, Heinz Bauer). Operates "non-stop music" format with listener competitions including "Vinyl FM Topp 60" and "Vinyl FM Topp 70" rankings. Features "Vinylmorgon Med Richard Herrey" and other specialty shows.
   sources: https://radioplay.se/vinylfm/spelare/
+curation: -0.05
+provenance:
+  - radiobrowser-35ad3807-b724-4f15-aa38-12050556f716
+streams:
+  - url: https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&amsparams=playerid:SBS_RP_WEB;skey:1602162911;&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1602162911&aw_0_1st.bauer_loggedin=false&awparams=loggedin:false;&aw_0_req.userConsent=false
+    codec: AAC+
+    bitrate: 56
+  - url: https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp?direct=true&listenerid=&aw_0_1st.bauer_listenerid=&amsparams=playerid:BMUK_inpage_html5;skey:1602161945;&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1602161945&aw_0_1st.bauer_loggedin=false&awparams=loggedin:false;&aw_0_req.userConsent=false
+    codec: AAC+
+    bitrate: 56

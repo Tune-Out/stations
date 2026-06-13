@@ -75,7 +75,9 @@ def score_station(data: dict) -> float:
     homepage = _s(data.get("homepage"))
     name     = _s(data.get("name"))
     tags     = data.get("tags") or []
-    tags_text = " ".join(tags).lower() if isinstance(tags, list) else str(tags)
+    # Coerce every element to str — some upstream catalogs surface numeric
+    # genres (e.g. "80" → int) that break a naive join.
+    tags_text = " ".join(str(t) for t in tags).lower() if isinstance(tags, list) else str(tags)
 
     body = " ".join(filter(None, [nature, notes, format_, operator, affil]))
 

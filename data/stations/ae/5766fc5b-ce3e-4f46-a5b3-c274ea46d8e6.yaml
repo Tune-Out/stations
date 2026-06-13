@@ -1,7 +1,7 @@
 stationuuid: 5766fc5b-ce3e-4f46-a5b3-c274ea46d8e6
 name: ALFA 91.3 (Ciudad de México) - 91.3 FM - XHFAJ-FM - Grupo Radio Centro - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac
+url: 'https://18853.live.streamtheworld.com:443/XHFAJ_FMAAC.aac'
+url_resolved: 'https://18853.live.streamtheworld.com:443/XHFAJ_FMAAC.aac'
 homepage: https://www.alfaenlinea.com/
 favicon: https://i.iheart.com/v3/re/new_assets/5ef0ca067ec97a064f3322c9
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:54:13
 clickcount: 29
 geo_lat: 19.431791067311856
 geo_long: -99.15066719055176
-curation: -0.05
-provenance:
-  - radiobrowser-5766fc5b-ce3e-4f46-a5b3-c274ea46d8e6
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: pop, contemporary music programming
   notes: ALFA 91.3 FM is a youth-focused pop music station in Ciudad de México; part of Grupo Radio Centro broadcasting group
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5766fc5b-ce3e-4f46-a5b3-c274ea46d8e6
+  - iprd-mx-mexico-alfa-91-3-xhfaj-69b2f2b4

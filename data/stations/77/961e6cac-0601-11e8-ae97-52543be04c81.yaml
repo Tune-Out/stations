@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:05:08
 clickcount: 53
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-961e6cac-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream-relay-geo.ntslive.net/stream'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://stream-relay-geo.ntslive.net/stream'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: 24/7 eclectic music radio featuring electronic, ambient, house, techno, indie rock, and world music with DJ sets.
   notes: 'Independent London-based non-commercial internet radio station. Mission statement: "Free. No Ads. 24/7" and "Infinite Mixtapes" for thematic music-only streams. Notable shows include Bell Towers, In Focus, Wave Form, Nitetrax, and curated collections from NTS residents and guest DJs. Available globally via iOS/Android apps, web streaming, and Discord community. Operates as free service with optional "NTS Supporters" membership tier. Features live events, podcasts, merchandise, and field recordings from listeners worldwide.'
   sources: http://www.nts.live/
+curation: 0.65
+provenance:
+  - radiobrowser-961e6cac-0601-11e8-ae97-52543be04c81
+  - iprd-gb-nts-radio-1-6ff1a38a
+streams:
+  - url: http://stream-relay-geo.ntslive.net/stream
+    codec: MP3
+    bitrate: 256
+  - url: https://stream-relay-geo.ntslive.net/stream
+    codec: MP3
+    bitrate: 256

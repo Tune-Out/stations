@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:17:31
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-c3e19107-591e-4b35-a1fc-90045eafc3a7
-streams:
-  - url: 'https://stream.rockantenne.de/young-stars/stream/aacp'
-    codec: AAC
-  - url: 'http://www.rockantenne.de/webradio/channels/young-stars.m3u'
-    url_resolved: 'http://stream.rockantenne.de/young-stars'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,16 @@ research:
   format: Rock music; "Young Stars" variant focusing on emerging/contemporary rock artists
   notes: Commercial rock station part of ANTENNE BAYERN GROUP; "Der beste Rock nonstop"; formats include 70er/80er/90er Rock, Heavy Metal, Punk, Alternative, Indie, Grunge; morning show "ROCK ANTENNE Frühschicht" (5-10 AM weekdays); live concert coverage; festival partnerships (Rock im Park); podcasts; mobile app; Rockcommunity engagement platform; motorcycle culture ("RIDE ONline").
   sources: https://www.rockantenne.de/
+curation: 0.2
+provenance:
+  - radiobrowser-c3e19107-591e-4b35-a1fc-90045eafc3a7
+  - iprd-de-rock-antenne-young-stars-40dac48c
+  - iprd-de-rock-antenne-young-stars-a940c595
+  - iprd-de-rock-antenne-young-stars-2fd0c775
+streams:
+  - url: https://stream.rockantenne.de/young-stars/stream/aacp
+    codec: AAC
+  - url: http://www.rockantenne.de/webradio/channels/young-stars.m3u
+    url_resolved: http://stream.rockantenne.de/young-stars
+    codec: MP3
+    bitrate: 128

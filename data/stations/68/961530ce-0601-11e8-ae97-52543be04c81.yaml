@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:37:16
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-961530ce-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -35,3 +32,7 @@ research:
   format: news, current affairs, international news in Russian language
   notes: RFI is France's international public radio service; Russian service (RFI Russe) broadcasts 24-hour news and current affairs programming in Russian; government-funded public broadcaster.
   sources: http://ru.rfi.fr/
+curation: 0.5
+provenance:
+  - radiobrowser-961530ce-0601-11e8-ae97-52543be04c81
+  - iprd-fr-rfi-russe-1266de71

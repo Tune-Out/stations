@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 08:32:39
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-66ea450e-b57c-4035-90c7-d25860df8c68
-streams:
-  - url: 'https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8'
-    codec: AAC
-    bitrate: 194
-    hls: true
-  - url: 'http://mp3.polskieradio.pl:8904/;.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +30,14 @@ research:
   format: Eclectic music (rock, jazz, alternative, ambitious popular music), cultural journalism, literary radio, current affairs and talk
   notes: Launched on 1 April 1962 as Program III of Polskie Radio, "Trójka" became one of Poland's most celebrated cultural stations, famous for the long-running "Lista Przebojów Programu Trzeciego" (Top 3 chart) and hosts such as Marek Niedźwiecki, Wojciech Mann and Piotr Kaczkowski; in 2020 it suffered a major editorial crisis after the chart's "Twój ból jest lepszy niż mój" Kazik Staszewski episode was censored, triggering mass resignations and accusations of political interference by the then PiS-aligned management. The brand was being repositioned again in 2024–2025 under Polskie Radio's restructuring/liquidation procedures.
   sources: https://trojka.polskieradio.pl/, internal knowledge
+curation: 0.55
+provenance:
+  - radiobrowser-66ea450e-b57c-4035-90c7-d25860df8c68
+streams:
+  - url: https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+    codec: AAC
+    bitrate: 194
+    hls: true
+  - url: http://mp3.polskieradio.pl:8904/;.mp3
+    codec: MP3
+    bitrate: 192

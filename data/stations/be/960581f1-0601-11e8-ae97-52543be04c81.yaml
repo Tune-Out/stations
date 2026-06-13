@@ -22,21 +22,6 @@ lastchangetime: 2026-01-15 02:03:43
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-960581f1-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://munichhh.streamabc.net/munichhh-mhhlive-aacplus-64-1296605'
-    codec: AAC
-  - url: 'http://munichhh.stream.vip/live/mp3-128/radiobrowser'
-    codec: MP3
-  - url: 'http://munichhh.stream.vip/live/mp3-128/'
-    codec: MP3
-  - url: 'http://munichhh.stream.vip/live/mp3-320/'
-    codec: MP3
-  - url: 'http://munichhh.stream.vip/live/mp3-320/play.pls'
-    url_resolved: 'http://munichhh.streamabc.net/munichhh-mhhlive-mp3-320-5827809?sABC=6968874o%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1768458059'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -46,3 +31,18 @@ research:
   format: AOR (Album-Oriented Rock) and melodic rock streaming; 128 kbps MP3
   notes: Internet radio station focused on adult-oriented rock format; Germany-based
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-960581f1-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://munichhh.streamabc.net/munichhh-mhhlive-aacplus-64-1296605
+    codec: AAC
+  - url: http://munichhh.stream.vip/live/mp3-128/radiobrowser
+    codec: MP3
+  - url: http://munichhh.stream.vip/live/mp3-128/
+    codec: MP3
+  - url: http://munichhh.stream.vip/live/mp3-320/
+    codec: MP3
+  - url: http://munichhh.stream.vip/live/mp3-320/play.pls
+    url_resolved: http://munichhh.streamabc.net/munichhh-mhhlive-mp3-320-5827809?sABC=6968874o%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1768458059
+    codec: MP3

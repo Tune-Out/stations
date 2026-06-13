@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:31:23
 clickcount: 3
 geo_lat: 44.949172385920654
 geo_long: -93.09560984373094
-curation: 0.65
-provenance:
-  - radiobrowser-a583847f-2b1f-40a5-a9f2-c3640110248b
-streams:
-  - url: 'https://current.stream.publicradio.org/current.aac'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://current.stream.publicradio.org/current.aac'
-    codec: AAC+
-    bitrate: 47
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: Contemporary and independent music, live music, artist interviews, cultural programming
   notes: The Current (KCMP 89.3 FM) is public radio station operated by Minnesota Public Radio based in Twin Cities. Specializes in independent and contemporary music with strong emphasis on artist development, live performances, and cultural programming. Major community cultural institution in Minnesota.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-a583847f-2b1f-40a5-a9f2-c3640110248b
+streams:
+  - url: https://current.stream.publicradio.org/current.aac
+    codec: AAC+
+    bitrate: 48
+  - url: https://current.stream.publicradio.org/current.aac
+    codec: AAC+
+    bitrate: 47

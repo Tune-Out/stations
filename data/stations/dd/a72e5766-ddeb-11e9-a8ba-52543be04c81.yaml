@@ -19,34 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-a72e5766-ddeb-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-koeln-64-aac'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-simulcast-64-aac'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-koblenz-64-aac'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-ludwigshafen-64-aac'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-trier-64-aac'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-mainz-64-aac'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-ludwigshafen-128-mp3'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-mainz-128-mp3'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-simulcast-128-mp3'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-koblenz-128-mp3'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-mainz-128-mp3?usid=0-0-H-A-D-30'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-kaiserslautern-64-aac'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -56,3 +28,32 @@ research:
   format: News, information, entertainment, music
   notes: RPR1. is a major German regional public radio station serving the Hesse region including Mainz; part of Germany's public broadcasting system.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-a72e5766-ddeb-11e9-a8ba-52543be04c81
+  - iprd-de-rpr1-mainz-frankfurt-67f72872
+streams:
+  - url: http://streams.rpr1.de/rpr-koeln-64-aac
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-simulcast-64-aac
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-koblenz-64-aac
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-ludwigshafen-64-aac
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-trier-64-aac
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-mainz-64-aac
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-ludwigshafen-128-mp3
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-mainz-128-mp3
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-simulcast-128-mp3
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-koblenz-128-mp3
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-mainz-128-mp3?usid=0-0-H-A-D-30
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-kaiserslautern-64-aac
+    codec: MP3

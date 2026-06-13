@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 00:04:28
 clickcount: 7
 geo_lat: 50.85325707417748
 geo_long: 4.402635790952025
-curation: 0.55
-provenance:
-  - radiobrowser-48687ae4-39ad-4eba-b090-d160102f18f2
-streams:
-  - url: 'http://icecast.vrtcdn.be/stubru_untz.aac'
-    codec: AAC
-  - url: 'http://icecast.vrtcdn.be/stubru_untz-high.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +32,13 @@ research:
   format: Electronic, dance, and electronic dance music; youth-oriented format; Belgian public radio.
   notes: VRT's electronic music/youth-oriented channel. Part of Belgian Flemish public broadcasting. UNTZ is branded electronic music stream. Operates from Brussels.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-48687ae4-39ad-4eba-b090-d160102f18f2
+  - iprd-be-studio-brussel-5bfa24e2
+  - iprd-be-studio-brussel-de-tijdloze-fe2db2db
+streams:
+  - url: http://icecast.vrtcdn.be/stubru_untz.aac
+    codec: AAC
+  - url: http://icecast.vrtcdn.be/stubru_untz-high.mp3
+    codec: MP3

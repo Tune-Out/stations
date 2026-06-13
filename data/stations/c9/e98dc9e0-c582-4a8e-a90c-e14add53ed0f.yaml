@@ -23,14 +23,6 @@ lastchangetime: 2026-01-14 23:40:26
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-e98dc9e0-c582-4a8e-a90c-e14add53ed0f
-streams:
-  - url: 'https://stream.deegay.fm/deegay1.mp3'
-    codec: MP3
-  - url: 'https://stream.deegay.fm/deegay1.mp3?id=m7eirxqSZx&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Dance and pop music webstream
   notes: Italian web-based radio station specializing in dance and contemporary pop music; primarily streamed online.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e98dc9e0-c582-4a8e-a90c-e14add53ed0f
+streams:
+  - url: https://stream.deegay.fm/deegay1.mp3
+    codec: MP3
+  - url: https://stream.deegay.fm/deegay1.mp3?id=m7eirxqSZx&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue
+    codec: MP3

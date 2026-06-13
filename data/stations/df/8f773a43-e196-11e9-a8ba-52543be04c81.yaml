@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-8f773a43-e196-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.bigfm.de/bigfm-mashup-64-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-mashup-128-aac'
-    codec: AAC
-  - url: 'http://streams.bigfm.de/bigfm-mashup-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Contemporary hit radio; multiple music streams including pop, dance, hip-hop, electronic, throwback; mashups and curated specialty formats
   notes: "Commercial German radio network operated by Audiotainment Südwest. The \"Mashup\" stream is a specialty format offering mixed genres and remixes. Branded as \"Deutschlands biggste Beats\" (Germany's biggest beats) with over 30 music streams available. Offers flagship morning show (bigFM Morningshow), news, podcasts, event coverage. Available via FM radio, mobile app, radio.de, and radioplayer.de. Youth-oriented brand positioning: \"Lauter, wilder und in your face\" (louder, wilder, in-your-face)."
   sources: https://www.bigfm.de/
+curation: 0.3
+provenance:
+  - radiobrowser-8f773a43-e196-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.bigfm.de/bigfm-mashup-64-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-mashup-128-aac
+    codec: AAC
+  - url: http://streams.bigfm.de/bigfm-mashup-128-mp3
+    codec: MP3

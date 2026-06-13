@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:10:52
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5f2ca6c2-9430-4328-9062-a20db11c7f6c
-streams:
-  - url: 'http://metrovolos882.live24.gr/metrovolos882'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://metrovolos882.live24.gr/metrovolos882'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Greek music exclusively; traditional, contemporary, and modern Greek music
   notes: Χρώμα 88.2 (Chroma 88.2) operates on 88.2 FM in Volos, Greece. Focuses on Greek music programming (Greek music broadcasting). Commercial radio serving Greek-speaking Volos and regional audience. 128 kbps MP3 quality.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5f2ca6c2-9430-4328-9062-a20db11c7f6c
+streams:
+  - url: http://metrovolos882.live24.gr/metrovolos882
+    codec: MP3
+    bitrate: 128
+  - url: https://metrovolos882.live24.gr/metrovolos882
+    codec: MP3
+    bitrate: 128

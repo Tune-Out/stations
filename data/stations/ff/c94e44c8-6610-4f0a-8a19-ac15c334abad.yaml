@@ -1,7 +1,7 @@
 stationuuid: c94e44c8-6610-4f0a-8a19-ac15c334abad
 name: Rádio Cidade - drop80
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/DROP80_S01AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/DROP80_S01AAC.aac
+url: 'http://26573.live.streamtheworld.com:80/DROP80_S01AAC.aac'
+url_resolved: 'http://26573.live.streamtheworld.com:80/DROP80_S01AAC.aac'
 homepage: https://radiocidade.fm/player/index.php
 favicon: https://radiocidade.fm/player/img/drop-80.svg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-03-10 20:25:46
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-c94e44c8-6610-4f0a-8a19-ac15c334abad
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,8 @@ research:
   format: Rock music (1980s focus - "drop80" indicates 80s rock)
   notes: Rádio Cidade drop80 is a rock-focused channel from Rádio Cidade, a major Rio de Janeiro broadcaster. Specializes in 1980s rock music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-c94e44c8-6610-4f0a-8a19-ac15c334abad
+  - iprd-br-r-dio-cidade-102-9-4de60701
+  - iprd-br-r-dio-cidade-102-9-425f0649

@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a2ec8459-ae47-4047-ace7-7095dd3b3da9
-streams:
-  - url: 'http://ic1.smcdn.pl/1530-1.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ic1.smcdn.pl/1530-1.mp3'
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,11 @@ research:
   format: Contemporary pop and hits, entertainment
   notes: Eska 2 Konin is a regional variant of the commercial Eska network in Poland; targets younger demographics with pop and entertainment.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a2ec8459-ae47-4047-ace7-7095dd3b3da9
+streams:
+  - url: http://ic1.smcdn.pl/1530-1.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://ic1.smcdn.pl/1530-1.mp3

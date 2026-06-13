@@ -1,7 +1,7 @@
 stationuuid: 4f1a51e6-429a-4e70-95a7-3895f215b459
 name: La Reina Cartagena 95.5 FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENAAAC.aac
+url: 'https://27383.live.streamtheworld.com:443/RNA_CARTAGENAAAC.aac'
+url_resolved: 'https://27383.live.streamtheworld.com:443/RNA_CARTAGENAAAC.aac'
 homepage: https://lareinadelvallenato.co/
 favicon: https://lareinadelvallenato.co/_next/image?url=https%3A%2F%2Fstrapi-aws-s3-images-lareinadelvallenato-bucket.s3.us-east-1.amazonaws.com%2Flogo_la_reina_2826ff997c.webp&w=384&q=75
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:38:30
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4f1a51e6-429a-4e70-95a7-3895f215b459
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Vallenato music, Caribbean regional music
   notes: Colombian commercial radio La Reina Cartagena 95.5 FM specializes in vallenato and Caribbean music genres. Part of broader "La Reina del Vallenato" network focused on traditional Colombian vallenato accordion music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4f1a51e6-429a-4e70-95a7-3895f215b459

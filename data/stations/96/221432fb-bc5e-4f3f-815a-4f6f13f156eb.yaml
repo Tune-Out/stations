@@ -1,6 +1,6 @@
 stationuuid: 221432fb-bc5e-4f3f-815a-4f6f13f156eb
 name: Bloomberg AM New York, NY
-url: http://provisioning.streamtheworld.com/pls/WBBRNYaac.pls
+url: 'http://20593.live.streamtheworld.com:80/WBBRNYAAC_SC'
 url_resolved: http://20593.live.streamtheworld.com:3690/WBBRNYAAC_SC
 homepage: https://www.bloombergradio.com/
 favicon: https://www.bloombergradio.com/content/plugins/bloomberg-favicon/dist/img/amber-120x120.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:54:20
 clickcount: 21
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-221432fb-bc5e-4f3f-815a-4f6f13f156eb
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: 24/7 business and financial news with signature morning shows ("Bloomberg Daybreak") from New York, Washington D.C., London, and Hong Kong; market coverage and executive interviews
   notes: 'Commercial 24-hour business radio station owned by Bloomberg L.P. with more than 2,700 journalists and analysts in more than 120 countries. Available over-the-air in New York (1130 AM), Boston (92.9 FM), Washington D.C. (99.1 FM), London; SiriusXM Channel 121; streaming via iHeart, TuneIn, Bloomberg Business app, and 500+ U.S. radio stations. Mission statement: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world."'
   sources: https://www.bloombergradio.com/
+curation: -0.05
+provenance:
+  - radiobrowser-221432fb-bc5e-4f3f-815a-4f6f13f156eb

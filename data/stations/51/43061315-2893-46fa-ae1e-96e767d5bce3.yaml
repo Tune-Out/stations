@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 58
 geo_lat: null
 geo_long: null
-curation: 0.15
-provenance:
-  - radiobrowser-43061315-2893-46fa-ae1e-96e767d5bce3
-streams:
-  - url: 'https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8'
-    codec: AAC
-    bitrate: 150
-    hls: true
-  - url: 'https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8'
-    codec: AAC
-    bitrate: 149
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +28,15 @@ research:
   format: Türkçe Pop / Turkish CHR — current and recent Turkish pop, rock and dance hits with the long-running tagline "Türkiye'nin Pop Müzik İstasyonu" ("Turkey's Pop Music Station"); flagship programmes have included the Power Türk Müzik Ödülleri awards show and chart programmes such as "Türkçe Top 20" and "Power Türk Hit Listesi".
   notes: Launched in November 2000 as the Turkish-language sister of Power FM (which had launched in 1993 as one of Turkey's first private FM stations after the 1993 deregulation); Power Türk's annual Power Türk Müzik Ödülleri ("Power Türk Music Awards") became one of the most prominent ceremonies for Turkish-language pop in the 2000s and 2010s; the group has also expanded to TV with Power Türk TV; the stream URL points to PowerApp's HLS infrastructure on powerapp.com.tr.
   sources: https://live.powerapp.com.tr/ (TLS cert mismatch), internal knowledge of the Power Group and Turkish commercial radio
+curation: 0.25
+provenance:
+  - radiobrowser-43061315-2893-46fa-ae1e-96e767d5bce3
+streams:
+  - url: https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+    codec: AAC
+    bitrate: 150
+    hls: true
+  - url: https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+    codec: AAC
+    bitrate: 149
+    hls: true

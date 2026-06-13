@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 02:45:26
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f0bbdd58-945a-4336-8ed6-7784f65946b5
-streams:
-  - url: 'http://streaming.myradio1046.fm/myradio1046'
-    codec: MP3
-  - url: 'https://streaming.myradio1046.fm/myradio1046'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Mainstream Greek pop/laiko and contemporary hit radio with talk segments and music shows
   notes: My Radio 104.6 broadcasts on 104.6 MHz FM in Athens, Greece, with the tagline "Παίζει τα δικά σου!" ("Plays what's yours!"); it is operated by Alter Ego Media, the diversified Greek media group owned by Evangelos Marinakis that also controls Mega Channel TV, the daily newspaper Ta Nea, To Vima, Documento, and other titles; programming centres on Greek mainstream pop and laiko along with daily talk and entertainment slots, and the station maintains a strong social and streaming presence via TuneIn, Instagram and TikTok.
   sources: https://www.myradio1046.fm/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-f0bbdd58-945a-4336-8ed6-7784f65946b5
+  - iprd-gr-my-radio-104-6-229b323a
+streams:
+  - url: http://streaming.myradio1046.fm/myradio1046
+    codec: MP3
+  - url: https://streaming.myradio1046.fm/myradio1046
+    codec: MP3

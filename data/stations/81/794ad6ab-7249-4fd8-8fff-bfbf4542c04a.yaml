@@ -21,16 +21,6 @@ lastchangetime: 2026-05-12 07:19:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-794ad6ab-7249-4fd8-8fff-bfbf4542c04a
-streams:
-  - url: 'https://lhttp-hw.qtfm.cn/live/4605/64k.mp3'
-    codec: MP3
-  - url: 'https://zjtv-wshls.homecdn.com/live/64524.m3u8'
-    codec: UNKNOWN
-    bitrate: 173
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +30,13 @@ research:
   format: Entertainment and music programming
   notes: Chinese regional radio station (镇江文艺广播 = Zhenjiang Arts and Entertainment Radio) serving Zhenjiang in Jiangsu Province. Part of state broadcasting system under China Media Group. Focuses on entertainment and music content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-794ad6ab-7249-4fd8-8fff-bfbf4542c04a
+streams:
+  - url: https://lhttp-hw.qtfm.cn/live/4605/64k.mp3
+    codec: MP3
+  - url: https://zjtv-wshls.homecdn.com/live/64524.m3u8
+    codec: UNKNOWN
+    bitrate: 173
+    hls: true

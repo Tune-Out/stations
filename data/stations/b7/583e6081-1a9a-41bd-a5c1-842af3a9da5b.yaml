@@ -22,20 +22,6 @@ lastchangetime: 2026-01-14 23:58:18
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-583e6081-1a9a-41bd-a5c1-842af3a9da5b
-streams:
-  - url: 'http://74.208.71.58:8078/'
-    codec: MP3
-    bitrate: 24
-  - url: 'http://early1900s.org/radiodismuke/radiodismuke.pls'
-    url_resolved: 'http://stream2.early1900s.org:8000/'
-    codec: MP3
-    bitrate: 24
-  - url: 'http://74.208.228.126:8020/;stream.mp3'
-    codec: MP3
-    bitrate: 24
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -45,3 +31,17 @@ research:
   format: 1920s-1930s jazz, swing, and big band music from original 78 rpm recordings; curated archival content
   notes: Fort Worth, Texas-based non-commercial internet radio station specializing in early jazz era music. Carries obscure and hard-to-find historical recordings. Founded as dedicated archive of pre-1940s music. Small but dedicated listener base.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-583e6081-1a9a-41bd-a5c1-842af3a9da5b
+streams:
+  - url: http://74.208.71.58:8078/
+    codec: MP3
+    bitrate: 24
+  - url: http://early1900s.org/radiodismuke/radiodismuke.pls
+    url_resolved: http://stream2.early1900s.org:8000/
+    codec: MP3
+    bitrate: 24
+  - url: http://74.208.228.126:8020/;stream.mp3
+    codec: MP3
+    bitrate: 24

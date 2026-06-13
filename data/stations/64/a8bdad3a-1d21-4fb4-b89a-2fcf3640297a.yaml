@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a8bdad3a-1d21-4fb4-b89a-2fcf3640297a
-streams:
-  - url: 'http://easyrockboracay.radioca.st/listen.pls?sid=1'
-    url_resolved: 'http://easyrockboracay.radioca.st:8887/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://easyrockboracay.radioca.st:2199/tunein/easyrockboracay-stream.pls'
-    url_resolved: 'http://138.201.198.218:8887/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +28,15 @@ research:
   format: Rock music; English-language rock programming
   notes: Easy Rock Boracay is part of the Easy Rock network, a rock music radio station in the Philippines owned and operated by ABS-CBN Broadcasting Corporation, the Philippines' largest media conglomerate. Boracay is a major resort island in the Visayas region. Station targets both local Filipinos and international tourists with English-language rock music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a8bdad3a-1d21-4fb4-b89a-2fcf3640297a
+streams:
+  - url: http://easyrockboracay.radioca.st/listen.pls?sid=1
+    url_resolved: http://easyrockboracay.radioca.st:8887/stream
+    codec: MP3
+    bitrate: 96
+  - url: http://easyrockboracay.radioca.st:2199/tunein/easyrockboracay-stream.pls
+    url_resolved: http://138.201.198.218:8887/stream
+    codec: MP3
+    bitrate: 96

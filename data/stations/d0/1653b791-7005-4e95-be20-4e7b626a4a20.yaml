@@ -1,7 +1,7 @@
 stationuuid: 1653b791-7005-4e95-be20-4e7b626a4a20
 name: Sky News Australia Radio
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
+url: 'https://22283.live.streamtheworld.com:443/NOVA_SKYNEWSAAC.aac'
+url_resolved: 'https://22283.live.streamtheworld.com:443/NOVA_SKYNEWSAAC.aac'
 homepage: https://www.skynews.com.au/sky-news-radio
 favicon: https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 04:38:30
 clickcount: 43
 geo_lat: -33.94153531741429
 geo_long: 151.0341758204815
-curation: -0.05
-provenance:
-  - radiobrowser-1653b791-7005-4e95-be20-4e7b626a4a20
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: News, discussion, talk radio; political commentary and current affairs; AAC+ 64kbps streaming
   notes: Sky News Australia is commercial news radio service operated by News Corp; carries conservative political perspective; operates in Australia as part of Sky News media group
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1653b791-7005-4e95-be20-4e7b626a4a20

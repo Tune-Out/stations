@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:27:38
 clickcount: 3
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.25
-provenance:
-  - radiobrowser-79232bcc-f372-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-entspannt.radionetz.de/1a-entspannt.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-entspannt.radionetz.de/1a-entspannt.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: Chillout, easy listening, jazz, various relaxation and background music
   notes: 1A Radio is a German commercial radio station based in Bavaria offering relaxing music formats and chillout programming
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-79232bcc-f372-11e8-a471-52543be04c81
+  - iprd-de-1a-entspannt-0ce3e2fa
+  - iprd-de-1a-entspannt-bad08d4e
+streams:
+  - url: https://1a-entspannt.radionetz.de/1a-entspannt.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-entspannt.radionetz.de/1a-entspannt.mp3
+    codec: MP3
+    bitrate: 128

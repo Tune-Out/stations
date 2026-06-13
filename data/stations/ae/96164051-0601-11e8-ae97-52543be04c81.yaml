@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:22:03
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-96164051-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.stv.livebox.sk/litera_128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icecast.stv.livebox.sk/litera_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,14 @@ research:
   format: Cultural and literary station featuring radio plays, dramatic productions, author readings (čítanie), essays, and weekly themed programming
   notes: One of eight national stations under STVR (Slovenská televízia a rozhlas); originally launched within Slovak Radio (Slovenský rozhlas) lineage as the eighth station ("SRo8"), focused on literature, drama and cultural criticism; functions as a venue for the "Zlatý fond Slovenského rozhlasu" (Golden Fund of Slovak Radio) archive of significant Slovak cultural programming; RTVS rebranded to STVR following 2024 government restructuring of Slovak public media under Robert Fico's government, a change criticized by press-freedom organisations
   sources: https://litera.stvr.sk/, internal knowledge of Slovak public broadcasting
+curation: 0.4
+provenance:
+  - radiobrowser-96164051-0601-11e8-ae97-52543be04c81
+  - iprd-sk-sro8-radio-litera-d7f7df0f
+streams:
+  - url: http://icecast.stv.livebox.sk/litera_128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icecast.stv.livebox.sk/litera_128.mp3
+    codec: MP3
+    bitrate: 128

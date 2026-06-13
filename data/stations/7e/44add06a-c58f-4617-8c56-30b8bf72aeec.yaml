@@ -1,7 +1,7 @@
 stationuuid: 44add06a-c58f-4617-8c56-30b8bf72aeec
 name: Radio Concierto Chile
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
+url: 'https://27323.live.streamtheworld.com:443/CONCIERTOAAC_SC'
+url_resolved: 'https://27323.live.streamtheworld.com:443/CONCIERTOAAC_SC'
 homepage: https://www.concierto.cl/
 favicon: https://envivo.concierto.cl/build/assets/conciertochile/img/logo.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-44add06a-c58f-4617-8c56-30b8bf72aeec
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Classical music, concert programming, symphonies, chamber music
   notes: Chilean commercial radio station dedicated to classical music and concert programming. "Concierto" (concert) in Spanish reflects the station's focus on classical music, symphonies, and serious concert music for Chilean audiences.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-44add06a-c58f-4617-8c56-30b8bf72aeec

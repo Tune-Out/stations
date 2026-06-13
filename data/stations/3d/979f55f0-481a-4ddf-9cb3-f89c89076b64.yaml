@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:08:10
 clickcount: 1
 geo_lat: 43.97056837546547
 geo_long: -79.24378395080568
-curation: 0.35
-provenance:
-  - radiobrowser-979f55f0-481a-4ddf-9cb3-f89c89076b64
-streams:
-  - url: 'https://audio-edge-qse4n.yyz.g.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://streams.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Community radio with mixed music and local programming
   notes: CIWS-FM 102.9 "Whistle FM" is a community radio station licensed in Stoufville, Ontario. Broadcasts to the Durham Region community with volunteer-driven programming. Call letters CIWS. Community-owned and operated.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-979f55f0-481a-4ddf-9cb3-f89c89076b64
+streams:
+  - url: https://audio-edge-qse4n.yyz.g.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd
+    codec: AAC
+    bitrate: 64
+  - url: https://streams.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd
+    codec: AAC
+    bitrate: 64

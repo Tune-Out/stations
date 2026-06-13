@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:58:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4dd72a56-f448-4fd4-a240-001ec85607d1
-streams:
-  - url: 'http://live.ximalaya.com/radio-first-page-app/live/2654/64.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://live.ximalaya.com/radio-first-page-app/live/2654/64.m3u8?transcode=ts'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -41,3 +31,13 @@ research:
   format: Information, news, and lifestyle programming in Chinese
   notes: Part of Hainan's official broadcasting infrastructure; targets Haikou metropolitan area and broader province.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4dd72a56-f448-4fd4-a240-001ec85607d1
+streams:
+  - url: http://live.ximalaya.com/radio-first-page-app/live/2654/64.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://live.ximalaya.com/radio-first-page-app/live/2654/64.m3u8?transcode=ts
+    codec: UNKNOWN
+    hls: true

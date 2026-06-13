@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 04:30:45
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-96300267-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ice42.securenetsystems.net/TAMBRIN'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://ice42.securenetsystems.net/TAMBRIN'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: Caribbean music, local news, talk radio, top 40 hits
   notes: Commercial radio station broadcasting on 92.7 FM from Scarborough, Tobago. Serves Trinidad and Tobago community with music, news, and talk programming. Focus on local news and Caribbean music. Online streaming via internet radio.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-96300267-0601-11e8-ae97-52543be04c81
+  - iprd-tt-radio-tambrin-92-7-15bf332c
+streams:
+  - url: http://ice42.securenetsystems.net/TAMBRIN
+    codec: AAC+
+    bitrate: 32
+  - url: https://ice42.securenetsystems.net/TAMBRIN
+    codec: AAC+
+    bitrate: 32

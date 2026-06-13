@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:21:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-b651df37-dbc2-4ebb-88e5-b6ed635dcf14
-streams:
-  - url: 'http://charts.stream.laut.fm/charts'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://charts.stream.laut.fm/charts?t302=2018-03-11_09-44-21&uuid=2f21a568-84d6-459f-ac15-16ed46f1350e'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Gospel music and religious programming
   notes: Radio 31 Charts is a specialized channel available via Laut.fm streaming platform (German-based internet radio service). Focuses on gospel music format. Commercial internet radio channel; gospel tag suggests Christian music and spiritual content focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b651df37-dbc2-4ebb-88e5-b6ed635dcf14
+  - iprd-de-radio-31-charts-34f02006
+  - iprd-de-radio-31-charts-338b1f89
+streams:
+  - url: http://charts.stream.laut.fm/charts
+    codec: MP3
+    bitrate: 128
+  - url: http://charts.stream.laut.fm/charts?t302=2018-03-11_09-44-21&uuid=2f21a568-84d6-459f-ac15-16ed46f1350e
+    codec: MP3
+    bitrate: 128

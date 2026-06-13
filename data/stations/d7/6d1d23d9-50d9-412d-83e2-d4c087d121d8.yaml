@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6d1d23d9-50d9-412d-83e2-d4c087d121d8
-streams:
-  - url: 'http://radio.plaza.one/ogg'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://radio.plaza.one/ogg'
-    codec: OGG
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: 24/7 vaporwave music stream featuring vaporwave, future funk, mallsoft, lofi, and adjacent microgenres
   notes: Nightwave Plaza (plaza.one) is one of the longest-running and most prominent vaporwave streaming radio stations on the internet, launched in the mid-2010s during the genre's online cultural peak; features a distinctive aesthetic-driven website with chiptune-inspired retro web design including a virtual storefront/plaza interface, Japanese kanji decoration, and 80s-90s shopping-mall imagery characteristic of the vaporwave genre; the country tag of "Japan" likely reflects the genre's aesthetic association with Japanese 80s consumer culture rather than the actual broadcast origin (the operator appears to be based outside Japan); offers OGG and MP3 streams; the station has been cited in academic discussions of the vaporwave genre as a cultural touchstone
   sources: https://plaza.one/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-6d1d23d9-50d9-412d-83e2-d4c087d121d8
+streams:
+  - url: http://radio.plaza.one/ogg
+    codec: OGG
+    bitrate: 128
+  - url: https://radio.plaza.one/ogg
+    codec: OGG
+    bitrate: 128

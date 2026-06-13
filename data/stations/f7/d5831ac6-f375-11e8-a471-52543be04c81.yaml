@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 05:07:10
 clickcount: 2
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.05
-provenance:
-  - radiobrowser-d5831ac6-f375-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-rock.radionetz.de/1a-rock.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-rock.radionetz.de/1a-rock.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,15 @@ research:
   format: Alternative rock, classic rock, hard rock, heavy metal, soft rock programming
   notes: Bavaria-based independent radio station; 1A Rock is one of the network's genre-specific channels
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d5831ac6-f375-11e8-a471-52543be04c81
+  - iprd-de-1a-rock-806f9713
+  - iprd-de-1a-rock-c8642a15
+streams:
+  - url: https://1a-rock.radionetz.de/1a-rock.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-rock.radionetz.de/1a-rock.mp3
+    codec: MP3
+    bitrate: 128

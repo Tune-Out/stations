@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 03:22:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-da5eec6b-0515-426c-81ca-d0f4906df828
-streams:
-  - url: 'https://lhttp.qtfm.cn/live/1809/64k.mp3'
-    codec: MP3
-  - url: 'http://live.ximalaya.com/radio-first-page-app/live/606/64.m3u8?transcode=ts'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -40,3 +31,12 @@ research:
   format: News, current affairs, public service information
   notes: Chinese state/public radio broadcaster in Jiangxi province. Focused on comprehensive news coverage and public information broadcasting.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-da5eec6b-0515-426c-81ca-d0f4906df828
+streams:
+  - url: https://lhttp.qtfm.cn/live/1809/64k.mp3
+    codec: MP3
+  - url: http://live.ximalaya.com/radio-first-page-app/live/606/64.m3u8?transcode=ts
+    codec: UNKNOWN
+    hls: true

@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 17
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-b3b6862d-0b2b-4e52-b839-4871a8635f52
-streams:
-  - url: 'http://online.hitfm.ua/HitFM_Best'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://online.hitfm.ua/HitFM_Top'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://195.95.206.17/HitFM'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +28,18 @@ research:
   format: "\"Best\" stream variant of Hit FM playing greatest-hits contemporary pop (Ukrainian and international) rather than the main station's current-hits rotation"
   notes: Hit FM is one of Ukraine's leading commercial music networks, branded "№1 в Україні" (#1 in Ukraine), broadcasting on FM across major Ukrainian cities; the "Best" stream is one of several thematic web sub-streams (alongside Українські хіти and others); flagship show is "Хеппі Ранок" (Happy Morning); operated by TAVR Media alongside Radio ROKS, Kiss FM, Melodia FM, Relax, Radio Jazz, and Lounge FM. Since Russia's 2022 invasion, TAVR stations adopted strict Ukrainian-language quotas and pro-Ukraine programming.
   sources: http://www.hitfm.ua/, internal knowledge
+curation: 0.25
+provenance:
+  - radiobrowser-b3b6862d-0b2b-4e52-b839-4871a8635f52
+  - iprd-ua-hit-fm-6fa1c376
+  - iprd-ua-khit-fm-5a39883a
+streams:
+  - url: http://online.hitfm.ua/HitFM_Best
+    codec: MP3
+    bitrate: 128
+  - url: http://online.hitfm.ua/HitFM_Top
+    codec: MP3
+    bitrate: 128
+  - url: http://195.95.206.17/HitFM
+    codec: MP3
+    bitrate: 128

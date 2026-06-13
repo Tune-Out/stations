@@ -1,7 +1,7 @@
 stationuuid: 7fd1f7d2-c120-4379-b51e-239cdd0ee003
 name: Rock 100.5 The KATT
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KATTFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KATTFMAAC.aac
+url: 'https://14013.live.streamtheworld.com:443/KATTFMAAC.aac'
+url_resolved: 'https://14013.live.streamtheworld.com:443/KATTFMAAC.aac'
 homepage: https://www.katt.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3057/squareIcon.png?r=84689
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:32:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-7fd1f7d2-c120-4379-b51e-239cdd0ee003
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Rock music format; mainstream American rock
   notes: Rock 100.5 The KATT is rock-format station licensed to Oklahoma City, Oklahoma on 100.5 FM. Part of iHeartRadio commercial radio network. Established presence in American market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-7fd1f7d2-c120-4379-b51e-239cdd0ee003

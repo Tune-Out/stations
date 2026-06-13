@@ -19,16 +19,6 @@ lastchangetime: 2026-05-06 06:38:42
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-2bf7945b-edda-4396-a898-d2de54a41553
-streams:
-  - url: 'https://stream.studiomusicstation.nl/radio/8010/radio.mp3?hash=1778049395270'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream.studiomusicstation.nl/radio/8010/radio.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: 'Music-focused radio station with podcast programming. Tagline: "Luister Onze Muziek!" (Listen to Our Music)'
   notes: 'Netherlands-based web radio. Mission: "Overal je favoriete muziek op internet" (Your favorite music everywhere on the internet). Emphasis on accessibility and music distribution.'
   sources: https://studiomusicstation.nl/
+curation: 0.35
+provenance:
+  - radiobrowser-2bf7945b-edda-4396-a898-d2de54a41553
+streams:
+  - url: https://stream.studiomusicstation.nl/radio/8010/radio.mp3?hash=1778049395270
+    codec: MP3
+    bitrate: 320
+  - url: https://stream.studiomusicstation.nl/radio/8010/radio.mp3
+    codec: MP3
+    bitrate: 320

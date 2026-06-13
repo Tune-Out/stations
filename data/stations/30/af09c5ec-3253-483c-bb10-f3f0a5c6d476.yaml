@@ -25,16 +25,6 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 0
 geo_lat: 41.91317113775803
 geo_long: -91.64905645192503
-curation: 0.55
-provenance:
-  - radiobrowser-af09c5ec-3253-483c-bb10-f3f0a5c6d476
-streams:
-  - url: 'http://stream.kcck.org/jazz883kcck'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://stream.kcck.org/jazz883kcck'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -44,3 +34,14 @@ research:
   format: Jazz programming; college radio; public radio format
   notes: KCCK 88.3 FM is the public radio station at University of Northern Iowa; features classic jazz, smooth jazz, and college radio programming; member of public broadcasting network.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-af09c5ec-3253-483c-bb10-f3f0a5c6d476
+  - iprd-us-kcck-jazz-88-3-0c06655b
+streams:
+  - url: http://stream.kcck.org/jazz883kcck
+    codec: MP3
+    bitrate: 160
+  - url: https://stream.kcck.org/jazz883kcck
+    codec: MP3
+    bitrate: 160

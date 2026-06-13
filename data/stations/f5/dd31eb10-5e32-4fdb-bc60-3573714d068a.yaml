@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-dd31eb10-5e32-4fdb-bc60-3573714d068a
-streams:
-  - url: 'https://ice42.securenetsystems.net/WDUN'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://ice42.securenetsystems.net/WDUN?playSessionID=93D84410-B7F0-FF8C-0BA876AE142B1E36'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,15 @@ research:
   format: News/talk radio programming; local news, talk shows
   notes: 550 AM terrestrial+ streaming broadcaster in Gainesville, Georgia (northeast Atlanta area). Commercial news/talk format. AAC+ 64 kbps stream. Limited public information available.
   sources: internal knowledge only (homepage returned 403 Forbidden)
+curation: -0.05
+provenance:
+  - radiobrowser-dd31eb10-5e32-4fdb-bc60-3573714d068a
+  - iprd-us-wdun-news-talk-550-1549b297
+  - iprd-us-wdun-102-9-550-6b19f7dc
+streams:
+  - url: https://ice42.securenetsystems.net/WDUN
+    codec: AAC+
+    bitrate: 64
+  - url: https://ice42.securenetsystems.net/WDUN?playSessionID=93D84410-B7F0-FF8C-0BA876AE142B1E36
+    codec: AAC+
+    bitrate: 64

@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 0
 geo_lat: 21.881533884924423
 geo_long: -102.29533195495608
-curation: -0.05
-provenance:
-  - radiobrowser-2308cd1f-74e0-4620-b66a-51d9fd4c61ba
-streams:
-  - url: 'https://hls.gvstream.live/radiouniversal/lamejor937.stream/playlist.m3u8'
-    codec: UNKNOWN
-    bitrate: 250
-    hls: true
-  - url: 'http://hls.gvstream.live/radiouniversal/lamejor937.stream/playlist.m3u8'
-    codec: UNKNOWN
-    bitrate: 250
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,16 @@ research:
   format: Regional Mexican music; banda, grupera, traditional Mexican music; slogan "La Mejor, Aquí Nomás"
   notes: Commercial FM station operating on 93.7 FM (XHAGT-FM) in Aguascalientes
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2308cd1f-74e0-4620-b66a-51d9fd4c61ba
+  - iprd-mx-la-mejor-93-7-xhagt-f95f0862
+streams:
+  - url: https://hls.gvstream.live/radiouniversal/lamejor937.stream/playlist.m3u8
+    codec: UNKNOWN
+    bitrate: 250
+    hls: true
+  - url: http://hls.gvstream.live/radiouniversal/lamejor937.stream/playlist.m3u8
+    codec: UNKNOWN
+    bitrate: 250
+    hls: true

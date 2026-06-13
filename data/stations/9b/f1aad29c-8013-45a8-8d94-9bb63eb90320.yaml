@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:30:35
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-f1aad29c-8013-45a8-8d94-9bb63eb90320
-streams:
-  - url: 'http://direct.fipradio.fr/live/fipjazz-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: 24/7 jazz web radio — bebop, modern jazz, big-band, soul-jazz, vocal jazz and international jazz, programmed by FIP's music team without ads
   notes: One of Radio France's "webradios musicales" spun off from the cult eclectic-music station FIP (originally "France Inter Paris", launched in 1971 and famed for its softly-spoken female announcers known as "les fipettes"); ad-free and curated rather than algorithmic; sister webradios include FIP Rock, FIP Pop, FIP Groove, FIP Electro, FIP Reggae and FIP Nouveautés
   sources: internal knowledge of Radio France/FIP
+curation: 0.8
+provenance:
+  - radiobrowser-f1aad29c-8013-45a8-8d94-9bb63eb90320
+streams:
+  - url: http://direct.fipradio.fr/live/fipjazz-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance
+    codec: UNKNOWN
+    hls: true

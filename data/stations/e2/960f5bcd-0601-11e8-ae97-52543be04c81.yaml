@@ -23,21 +23,6 @@ lastchangetime: 2026-01-15 04:44:38
 clickcount: 46
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-960f5bcd-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8'
-    codec: AAC
-    bitrate: 324
-    hls: true
-  - url: 'http://live-icy.gss.dr.dk/A/A05H.mp3.m3u'
-    url_resolved: 'http://live-icy.gslb01.dr.dk/A/A05H.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live-icy.gss.dr.dk:8000/A/A05H.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +32,19 @@ research:
   format: Pop, rock, contemporary hits, youth-oriented entertainment
   notes: DR P3 is a public radio station operated by Danmarks Radio (DR), Denmark's public broadcasting corporation. Funded through Danish licence fees with editorial independence. Targets younger audiences with contemporary pop and rock music programming, established as popular youth-focused station.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-960f5bcd-0601-11e8-ae97-52543be04c81
+  - iprd-dk-dr-p3-52239b61
+streams:
+  - url: https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8
+    codec: AAC
+    bitrate: 324
+    hls: true
+  - url: http://live-icy.gss.dr.dk/A/A05H.mp3.m3u
+    url_resolved: http://live-icy.gslb01.dr.dk/A/A05H.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://live-icy.gss.dr.dk:8000/A/A05H.mp3
+    codec: MP3
+    bitrate: 128

@@ -19,14 +19,6 @@ lastchangetime: 2026-05-28 05:29:26
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-60201694-d7b6-4a38-ba3c-6ad8be1fd6fb
-streams:
-  - url: 'https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0QuTkAewm7X_5zLTUONg'
-    codec: MP3
-  - url: 'https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0O7A8AApuzVhj7xc204g'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Unknown; limited metadata available.
   notes: Online radio station based in Taiwan; format and programming unclear from available sources; operates via RadioJar streaming platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-60201694-d7b6-4a38-ba3c-6ad8be1fd6fb
+streams:
+  - url: https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0QuTkAewm7X_5zLTUONg
+    codec: MP3
+  - url: https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0O7A8AApuzVhj7xc204g
+    codec: MP3

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-f567f131-c8dc-4ea2-9cd4-defc9a1ce0e1
-streams:
-  - url: 'http://79.120.77.11:8004/downtempo'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.77.11:8002/downtempo'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +30,15 @@ research:
   format: downtempo, downbeat, electronic; ambient electronic music, IDM, leftfield
   notes: Russian non-commercial internet radio specializing in electronic music and experimental genres. Radio Caprice (radcap.ru) operates 50+ specialized channels. Downtempo/Downbeat channel [3] focuses on slower-tempo electronic music, downtempo, and breakbeat subgenres. High-quality streaming. Community-driven curation.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-f567f131-c8dc-4ea2-9cd4-defc9a1ce0e1
+  - iprd-ru-radio-caprice-downtempo-downbeat-4bf91ab5
+  - iprd-ru-radio-caprice-downtempo-downbeat-1bb69cc2
+streams:
+  - url: http://79.120.77.11:8004/downtempo
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.77.11:8002/downtempo
+    codec: AAC+
+    bitrate: 48

@@ -23,19 +23,6 @@ lastchangetime: 2026-03-28 17:21:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-2f7b99c1-3130-4063-84d1-6db4731f6989
-streams:
-  - url: 'https://das-sa39.cdnstream1.com/5572_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://das-sa39.cdnstream1.com/5601_128'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://das-sa39.cdnstream1.com/5570_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,16 @@ research:
   format: Pop hits, contemporary popular music
   notes: '"LITT Live - Hits" is part of DASH Radio, a curated streaming radio service. Offers contemporary pop music and hit singles targeted at mainstream audiences. Based in California.'
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-2f7b99c1-3130-4063-84d1-6db4731f6989
+streams:
+  - url: https://das-sa39.cdnstream1.com/5572_128
+    codec: MP3
+    bitrate: 128
+  - url: https://das-sa39.cdnstream1.com/5601_128
+    codec: MP3
+    bitrate: 128
+  - url: https://das-sa39.cdnstream1.com/5570_128
+    codec: MP3
+    bitrate: 128

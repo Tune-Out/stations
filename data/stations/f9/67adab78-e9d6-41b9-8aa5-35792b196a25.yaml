@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-67adab78-e9d6-41b9-8aa5-35792b196a25
-streams:
-  - url: 'https://stm1.srvif.com:7042/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stm1.srvif.com:7042/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Mixed format; music, news, talk, sports; regional focus
   notes: La Elegida FM is a radio station based in Río Branco, Cerro Largo Department, Uruguay. "La Elegida" (The Chosen One) serves the northeastern border region of Uruguay with local news, music, and community programming. Part of Uruguay's interior radio landscape.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-67adab78-e9d6-41b9-8aa5-35792b196a25
+streams:
+  - url: https://stm1.srvif.com:7042/;
+    codec: MP3
+    bitrate: 128
+  - url: https://stm1.srvif.com:7042/
+    codec: MP3
+    bitrate: 128

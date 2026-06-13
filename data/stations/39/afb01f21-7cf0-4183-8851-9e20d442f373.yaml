@@ -21,17 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-afb01f21-7cf0-4183-8851-9e20d442f373
-streams:
-  - url: 'http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24'
-    codec: AAC
-    bitrate: 125
-  - url: 'http://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8'
-    codec: AAC+
-    bitrate: 33
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: pop music and contemporary entertainment
   notes: Radio Urbana broadcasts on 106.9 FM in Paraguay; commercial station focusing on pop music and modern content for urban audiences
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-afb01f21-7cf0-4183-8851-9e20d442f373
+streams:
+  - url: http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24
+    codec: AAC
+    bitrate: 125
+  - url: http://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8
+    codec: AAC+
+    bitrate: 33
+    hls: true

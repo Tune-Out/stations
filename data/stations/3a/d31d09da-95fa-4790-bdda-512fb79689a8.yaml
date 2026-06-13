@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 00:49:40
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-d31d09da-95fa-4790-bdda-512fb79689a8
-streams:
-  - url: 'https://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +34,14 @@ research:
   format: Rock, blues, jazz, and disco music programming; specialized music-focused format.
   notes: French web radio; operates 192kbps MP3; emphasis on French rock and music heritage; independent online broadcaster.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-d31d09da-95fa-4790-bdda-512fb79689a8
+  - iprd-fr-la-grosse-radio-rock-4ed3858e
+streams:
+  - url: https://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3
+    codec: MP3
+    bitrate: 192

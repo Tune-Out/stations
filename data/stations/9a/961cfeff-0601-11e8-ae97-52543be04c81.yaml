@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:21:23
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-961cfeff-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/gospel_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strm112.1.fm/gospel_mobile_mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Urban gospel and contemporary gospel music.
   notes: 1.FM operates as international streaming platform with multiple genre channels; gospel service targets faith-based listeners.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-961cfeff-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-all-times-urban-gospel-radio-5be519c4
+streams:
+  - url: http://strm112.1.fm/gospel_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strm112.1.fm/gospel_mobile_mp3
+    codec: MP3
+    bitrate: 192

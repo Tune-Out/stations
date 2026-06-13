@@ -21,16 +21,6 @@ lastchangetime: 2026-02-26 16:25:15
 clickcount: 3
 geo_lat: -20.88146560373321
 geo_long: 55.44842720031739
-curation: -0.05
-provenance:
-  - radiobrowser-b0f323ea-4fce-42f3-85cb-942fd8f728df
-streams:
-  - url: 'https://hitfm.ice.infomaniak.ch/hitfm-192.mp3'
-    codec: MP3
-    bitrate: 160
-  - url: 'http://hitfm.ice.infomaniak.ch/hitfm-192.mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Music and entertainment, Creole and popular music
   notes: Commercial radio station serving Réunion island (French overseas territory in Indian Ocean); broadcasts in French and Creole; based in Saint-Denis
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b0f323ea-4fce-42f3-85cb-942fd8f728df
+  - iprd-fr-hit-fm-reunion-974-c231b835
+streams:
+  - url: https://hitfm.ice.infomaniak.ch/hitfm-192.mp3
+    codec: MP3
+    bitrate: 160
+  - url: http://hitfm.ice.infomaniak.ch/hitfm-192.mp3
+    codec: MP3
+    bitrate: 160

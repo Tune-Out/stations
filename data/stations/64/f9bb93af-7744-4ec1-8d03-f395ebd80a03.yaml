@@ -30,18 +30,6 @@ lastchangetime: 2026-03-04 14:29:57
 clickcount: 0
 geo_lat: 19.433533832191916
 geo_long: -99.13315773010255
-curation: -0.10
-provenance:
-  - radiobrowser-f9bb93af-7744-4ec1-8d03-f395ebd80a03
-streams:
-  - url: 'https://mdstrm.com/audio/64a44d807cb6630627ab0c82/live.m3u8'
-    codec: AAC
-    bitrate: 99
-    hls: true
-  - url: 'https://mdstrm.com/audio/64a44d807cb6630627ab0c82/live.m3u8'
-    codec: AAC
-    bitrate: 98
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -51,3 +39,15 @@ research:
   format: Talk radio; news and entertainment; Spanish and English music; sports and interviews
   notes: XEDA-FM (90.5 FM) is a talk/news radio station in Mexico City operated by Grupo Imagen, one of Mexico's largest media companies. Provides "música, noticias y entretenimiento" (music, news and entertainment). Heavy tag categorization indicates talk radio focus with diverse programming.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-f9bb93af-7744-4ec1-8d03-f395ebd80a03
+streams:
+  - url: https://mdstrm.com/audio/64a44d807cb6630627ab0c82/live.m3u8
+    codec: AAC
+    bitrate: 99
+    hls: true
+  - url: https://mdstrm.com/audio/64a44d807cb6630627ab0c82/live.m3u8
+    codec: AAC
+    bitrate: 98
+    hls: true

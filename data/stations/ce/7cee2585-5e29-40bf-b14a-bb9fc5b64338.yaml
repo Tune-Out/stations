@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 03:34:17
 clickcount: 0
 geo_lat: 45.257619969449465
 geo_long: 19.847678840160373
-curation: 0.35
-provenance:
-  - radiobrowser-7cee2585-5e29-40bf-b14a-bb9fc5b64338
-streams:
-  - url: 'http://radio.eparhijabacka.info:8000/RadioBlagovesnik'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://radio.eparhijabacka.info:8000/listen.pls?sid=4'
-    url_resolved: 'http://radio.eparhijabacka.info:8000/RadioBlagovesnik'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +31,14 @@ research:
   format: Religious/spiritual programming, Orthodox Christian content
   notes: '"Blagovesnik" means "Herald" in Slavic. Radio operated by Serbian Orthodox Diocese of Bačka. Provides Orthodox Christian religious and spiritual programming in Serbian.'
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7cee2585-5e29-40bf-b14a-bb9fc5b64338
+streams:
+  - url: http://radio.eparhijabacka.info:8000/RadioBlagovesnik
+    codec: MP3
+    bitrate: 128
+  - url: http://radio.eparhijabacka.info:8000/listen.pls?sid=4
+    url_resolved: http://radio.eparhijabacka.info:8000/RadioBlagovesnik
+    codec: MP3
+    bitrate: 128

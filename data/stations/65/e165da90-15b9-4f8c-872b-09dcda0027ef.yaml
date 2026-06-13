@@ -1,7 +1,7 @@
 stationuuid: e165da90-15b9-4f8c-872b-09dcda0027ef
 name: LOS40 88.5 (Monterrey) - 88.5 FM - XHWAG-FM - Radiópolis - Monterrey, Nuevo León
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MTYAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MTYAAC.aac
+url: 'https://17573.live.streamtheworld.com:443/LOS40_MTYAAC.aac'
+url_resolved: 'https://17573.live.streamtheworld.com:443/LOS40_MTYAAC.aac'
 homepage: https://los40.com.mx/
 favicon: https://cdn-profiles.tunein.com/s298290/images/logod.png
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 03:40:06
 clickcount: 1
 geo_lat: 25.68125578135227
 geo_long: -100.314359664917
-curation: -0.05
-provenance:
-  - radiobrowser-e165da90-15b9-4f8c-872b-09dcda0027ef
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Pop music with music news, live concerts, entertainment and talk
   notes: Commercial FM station broadcasting on 88.5 FM in Monterrey, Nuevo León, Mexico. Part of LOS40 network spanning Spain, Latin America, and USA. Owned by PRISA Media conglomerate. Positioned as "La Radio de los Conciertos" emphasizing live music and concert coverage.
   sources: https://los40.com.mx/
+curation: -0.05
+provenance:
+  - radiobrowser-e165da90-15b9-4f8c-872b-09dcda0027ef

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:44:14
 clickcount: 0
 geo_lat: 25.535626369555185
 geo_long: -103.46666336059572
-curation: 0.20
-provenance:
-  - radiobrowser-e9a3a2a2-2f6b-4359-98fa-37e0b8f91d5d
-streams:
-  - url: 'http://s22.myradiostream.com:9504/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://s22.myradiostream.com:9504/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: News, talk, entertainment, Latin and Mexican music, Classic Rock, Indie Rock; 24/7 programming
   notes: Broadcasting as XHBP-FM on 90.3 FM; operates news and entertainment format covering regional, national, and international news
   sources: RadioGarden, OnlineRadioBox, TuningaRadio, AllRadio.Net
+curation: 0.2
+provenance:
+  - radiobrowser-e9a3a2a2-2f6b-4359-98fa-37e0b8f91d5d
+  - iprd-mx-adictivo-radio-90-3-xhbp-2758d3b6
+streams:
+  - url: http://s22.myradiostream.com:9504/
+    codec: MP3
+    bitrate: 192
+  - url: http://s22.myradiostream.com:9504/
+    codec: MP3
+    bitrate: 128

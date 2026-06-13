@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: -30.25709699919762
 geo_long: -54.91688042879105
-curation: 0.35
-provenance:
-  - radiobrowser-371ed326-d331-4e2e-950c-7b1bd7b37ea8
-streams:
-  - url: 'https://servidor28-1.brlogic.com:8028/live'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://servidor28-1.brlogic.com:8028/live?source=website'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -39,3 +29,13 @@ research:
   format: Community news and music; local news coverage, crime reports, traffic, and music requests
   notes: 'Station provides local news and information for Rosário do Sul: "Este site é para você ouvir e ficar por dentro das informações de Rosário do Sul" (This site is for you to listen and stay informed about Rosário do Sul news). 5.72 million recorded visits. Powered by brlogic.com web radio platform.'
   sources: https://radiomaraja.com/
+curation: 0.35
+provenance:
+  - radiobrowser-371ed326-d331-4e2e-950c-7b1bd7b37ea8
+streams:
+  - url: https://servidor28-1.brlogic.com:8028/live
+    codec: MP3
+    bitrate: 96
+  - url: https://servidor28-1.brlogic.com:8028/live?source=website
+    codec: MP3
+    bitrate: 96

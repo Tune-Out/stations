@@ -1,7 +1,7 @@
 stationuuid: a8abb4c9-b779-4ff3-9d18-66e36a0c3f7e
 name: News Talk 940
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WMACAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WMACAMAAC.aac
+url: 'https://26313.live.streamtheworld.com:443/WMACAMAAC.aac'
+url_resolved: 'https://26313.live.streamtheworld.com:443/WMACAMAAC.aac'
 homepage: https://www.wmac-am.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3268/squareIcon.png?r=95567
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-a8abb4c9-b779-4ff3-9d18-66e36a0c3f7e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: News and talk programming; local news, community information
   notes: News Talk 940 (WMAC 940 AM) is a commercial news/talk station licensed to Macon, Georgia serving central Georgia audience
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a8abb4c9-b779-4ff3-9d18-66e36a0c3f7e

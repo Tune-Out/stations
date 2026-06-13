@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-73c35500-2212-46f4-9cb8-5fd542186f99
-streams:
-  - url: 'https://crystalout.surfernetwork.com:8001/KXFC-FM_MP3'
-    codec: MP3
-  - url: 'http://crystalout.surfernetwork.com:8001/KXFC-FM_MP3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,12 @@ research:
   format: Mixed format contemporary music
   notes: American commercial radio station in Oklahoma; broadcasts on KXFC-FM 105.5; serves local community with standard commercial radio format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-73c35500-2212-46f4-9cb8-5fd542186f99
+  - iprd-us-kxfc-105-5-the-x-factor-4fa1c396
+streams:
+  - url: https://crystalout.surfernetwork.com:8001/KXFC-FM_MP3
+    codec: MP3
+  - url: http://crystalout.surfernetwork.com:8001/KXFC-FM_MP3
+    codec: MP3

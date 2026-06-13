@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:55:29
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-813ee04f-7f80-4932-96bf-712d66351f96
-streams:
-  - url: 'http://salt-light-stream-01.miriamtech.net:8000/live'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://salt-light.stream.miriamtech.net:8000/live'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Religious and inspirational programming; faith-based talk and music
   notes: Christian radio service offering evangelical and inspirational content; based in Boise, Idaho
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-813ee04f-7f80-4932-96bf-712d66351f96
+  - iprd-us-kgem-salt-light-radio-1328b468
+streams:
+  - url: http://salt-light-stream-01.miriamtech.net:8000/live
+    codec: AAC+
+    bitrate: 64
+  - url: http://salt-light.stream.miriamtech.net:8000/live
+    codec: AAC+
+    bitrate: 64

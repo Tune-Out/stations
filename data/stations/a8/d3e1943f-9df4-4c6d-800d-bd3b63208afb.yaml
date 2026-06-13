@@ -1,7 +1,7 @@
 stationuuid: d3e1943f-9df4-4c6d-800d-bd3b63208afb
 name: 4CA 846 AM Far North QLD Classic Hits
 url: http://www.surfmusic.de/m3u/4ca-864-am,18582.m3u
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC
+url_resolved: 'https://18433.live.streamtheworld.com:443/CAI_4CAAAC_SC'
 homepage: https://www.4ca.com.au/
 favicon: https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/cropped-nql_cns_4ca-512x512-favicon.png?w=180
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d3e1943f-9df4-4c6d-800d-bd3b63208afb
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,8 @@ research:
   format: Classic Hits; music-focused radio
   notes: 4CA 846 AM is a commercial radio station broadcasting classic hits format from Far North Queensland. Serves regional Queensland audience on AM 846 frequency.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d3e1943f-9df4-4c6d-800d-bd3b63208afb
+  - iprd-au-4ca-846-8ab2650a
+  - iprd-au-4ca-846-far-north-qld-classic-hits-cfae4d34

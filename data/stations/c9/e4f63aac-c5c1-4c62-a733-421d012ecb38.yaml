@@ -1,7 +1,7 @@
 stationuuid: e4f63aac-c5c1-4c62-a733-421d012ecb38
 name: Great Lakes FM - Forster & Tuncurry - 101.5 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/2GLA.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/2GLA.mp3
+url: 'http://23193.live.streamtheworld.com:80/2GLA.mp3'
+url_resolved: 'http://23193.live.streamtheworld.com:80/2GLA.mp3'
 homepage: https://greatlakesfm.org.au/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:33:22
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e4f63aac-c5c1-4c62-a733-421d012ecb38
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community FM radio (101.5, 2GLA) featuring greatest hits, local content, and miscellaneous programming.
   notes: Australian community radio station serving Forster & Tuncurry areas in New South Wales; part of Australian community broadcasting sector; emphasizes local programming and greatest hits format; operates via StreamTheWorld platform.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e4f63aac-c5c1-4c62-a733-421d012ecb38

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:07:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-964bc373-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.hopemedia.com.au/christmashope'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://stream.hopemedia.com.au/christmashope'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,15 @@ research:
   format: Christmas music and Christian talk programming; also operates Hope 103.2 with broader music and faith-based content
   notes: Community broadcaster with mission to "bring Hope for Everyone" and "continue to impact people with God's love"; offers podcasts, devotions, faith segments, and counseling resources
   sources: https://hope1032.com.au/listen/
+curation: 0.35
+provenance:
+  - radiobrowser-964bc373-0601-11e8-ae97-52543be04c81
+  - iprd-us-christmas-hope-4b6760c2
+  - iprd-us-christmas-hope-47952598
+streams:
+  - url: http://stream.hopemedia.com.au/christmashope
+    codec: AAC+
+    bitrate: 128
+  - url: https://stream.hopemedia.com.au/christmashope
+    codec: AAC+
+    bitrate: 128

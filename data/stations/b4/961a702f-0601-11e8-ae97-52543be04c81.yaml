@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 08:24:53
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-961a702f-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://ice03.fluidstream.net/mjr.aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://ice03.fluidstream.net/mjr.aac?FLID=1'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://ice16.fluidstream.net/mjr.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,17 @@ research:
   format: 24/7 jazz, blues and adjacent "musiche per l'anima" (music for the soul)
   notes: Musica Jazz Radio is the streaming arm of Musica Jazz, "la prima rivista di Jazz in Italia" (Italy's first jazz magazine), published continuously since July 1945 and the world's second-longest-running jazz magazine; the magazine has included a covermount CD since November 1981 and received the Ambrogino d'Oro civic award from the city of Milan in December 2015; the station extends the magazine's editorial line of curated jazz and blues programming.
   sources: https://www.musicajazz.it/, internal knowledge
+curation: 0.4
+provenance:
+  - radiobrowser-961a702f-0601-11e8-ae97-52543be04c81
+  - iprd-it-musica-jazz-radio-14c3abc0
+streams:
+  - url: http://ice03.fluidstream.net/mjr.aac
+    codec: AAC
+    bitrate: 128
+  - url: https://ice03.fluidstream.net/mjr.aac?FLID=1
+    codec: AAC
+    bitrate: 128
+  - url: https://ice16.fluidstream.net/mjr.mp3
+    codec: MP3
+    bitrate: 128

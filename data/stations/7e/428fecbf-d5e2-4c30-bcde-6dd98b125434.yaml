@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 00:23:35
 clickcount: 17
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-428fecbf-d5e2-4c30-bcde-6dd98b125434
-streams:
-  - url: 'https://icecast.omroep.nl/radio4-bb-mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://icecast.omroep.nl/radio4-bb-mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://icecast.omroep.nl/radio4-eigentijdsfb-mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +31,17 @@ research:
   format: Classical music — live concerts, opera, recordings, podcasts, Dutch Classical Talent Award
   notes: Formerly NPO Radio 4, rebranded as NPO Klassiek in 2023 with the tagline "Dat voel je" ("You feel that"); the Netherlands' main public classical radio service, broadcasting on FM, DAB+ and online; carries live broadcasts from the Concertgebouw, Saturday Matinee and other Dutch ensembles; notable programs include "Passaggio Late Night" and "Panorama Zondag".
   sources: https://www.npoklassiek.nl/
+curation: 0.6
+provenance:
+  - radiobrowser-428fecbf-d5e2-4c30-bcde-6dd98b125434
+  - iprd-nl-npo-radio-4-17645cfc
+streams:
+  - url: https://icecast.omroep.nl/radio4-bb-mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://icecast.omroep.nl/radio4-bb-mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://icecast.omroep.nl/radio4-eigentijdsfb-mp3
+    codec: MP3
+    bitrate: 192

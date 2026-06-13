@@ -1,6 +1,6 @@
 stationuuid: 9625fc2f-0601-11e8-ae97-52543be04c81
 name: WSDL 90.7 Delmarva Public Radio "Rhythm & News" - Ocean City, MD
-url: http://provisioning.streamtheworld.com/pls/WSDLFM.pls
+url: 'http://14843.live.streamtheworld.com:80/WSDLFM_SC'
 url_resolved: http://14843.live.streamtheworld.com/WSDLFM_SC
 homepage: http://delmarvapublicradio.net/
 favicon: https://www.delmarvapublicmedia.org/apple-touch-icon.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-14 23:40:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9625fc2f-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: '"Rhythm & News" - rhythm and blues music with news programming'
   notes: WSDL 90.7 FM is an NPR-affiliated public radio station licensed to Ocean City, Maryland. Offers variety format with news and music content serving the Delmarva Peninsula region (Delaware, Maryland, Virginia).
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9625fc2f-0601-11e8-ae97-52543be04c81

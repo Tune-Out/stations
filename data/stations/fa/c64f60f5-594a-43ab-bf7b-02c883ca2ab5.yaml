@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 06:29:04
 clickcount: 19
 geo_lat: 52.237555934842206
 geo_long: 21.036071777343754
-curation: 0.35
-provenance:
-  - radiobrowser-c64f60f5-594a-43ab-bf7b-02c883ca2ab5
-streams:
-  - url: 'https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8'
-    codec: AAC
-    bitrate: 195
-    hls: true
-  - url: 'https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8'
-    codec: AAC
-    bitrate: 194
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +32,16 @@ research:
   format: 24-hour all-news and information channel covering domestic and international news, politics, finance, sports, weather, history, science, and current affairs commentary
   notes: Polskie Radio 24 (PR24) launched in March 2014 as Polish Radio's dedicated news and information channel, succeeding the earlier Radio Parlament; broadcasts nationally on DAB+ and online (FM coverage is limited compared with Polskie Radio's other channels); during the rule of the Law and Justice (PiS) government (2015-2023) Polskie Radio was repeatedly criticised by the European Broadcasting Union, Reporters Without Borders, and Poland's Helsinki Foundation for editorial bias favouring the ruling party, and following the October 2023 election the Donald Tusk-led coalition government carried out a controversial restructuring of public media in December 2023 that placed Polskie Radio in liquidation pending reform.
   sources: https://polskieradio24.pl/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-c64f60f5-594a-43ab-bf7b-02c883ca2ab5
+  - iprd-pl-polskie-radio-24-0f1e87f4
+streams:
+  - url: https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+    codec: AAC
+    bitrate: 195
+    hls: true
+  - url: https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+    codec: AAC
+    bitrate: 194
+    hls: true

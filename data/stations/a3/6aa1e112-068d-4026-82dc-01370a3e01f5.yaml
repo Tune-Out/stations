@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6aa1e112-068d-4026-82dc-01370a3e01f5
-streams:
-  - url: 'http://s34.myradiostream.com/5066/listen.mp3?0.8989059480158139'
-    url_resolved: 'http://s34.myradiostream.com:5066/;listen.mp3'
-    codec: MP3
-    bitrate: 141
-  - url: 'http://s34.myradiostream.com/5066/listen.mp3'
-    url_resolved: 'http://s34.myradiostream.com:5066/;listen.mp3'
-    codec: MP3
-    bitrate: 141
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +31,15 @@ research:
   format: Community programming, music, local content
   notes: Community radio station serving Temora area in NSW; locally-operated volunteer-run service.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-6aa1e112-068d-4026-82dc-01370a3e01f5
+streams:
+  - url: http://s34.myradiostream.com/5066/listen.mp3?0.8989059480158139
+    url_resolved: http://s34.myradiostream.com:5066/;listen.mp3
+    codec: MP3
+    bitrate: 141
+  - url: http://s34.myradiostream.com/5066/listen.mp3
+    url_resolved: http://s34.myradiostream.com:5066/;listen.mp3
+    codec: MP3
+    bitrate: 141

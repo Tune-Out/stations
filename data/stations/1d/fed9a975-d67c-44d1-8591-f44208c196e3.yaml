@@ -28,16 +28,6 @@ lastchangetime: 2026-01-15 02:25:53
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-fed9a975-d67c-44d1-8591-f44208c196e3
-streams:
-  - url: 'https://s3.radio.co/scfd7273b2/listen'
-    codec: AAC
-    bitrate: 192
-  - url: 'https://s3.radio.co/scfd7273b2/low'
-    codec: AAC
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -47,3 +37,14 @@ research:
   format: Electronic dance music with focus on hardstyle, house, psytrance, trance, lounge; club/DJ culture
   notes: Finnish independent online radio specializing in electronic dance music and nightlife culture. Based in Finland, broadcasting in English and Finnish. Domain "doubleclap.dance" reflects electronic/nightlife brand identity. AAC streaming at 192k bitrate.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-fed9a975-d67c-44d1-8591-f44208c196e3
+  - iprd-fi-doubleclap-radio-39675329
+streams:
+  - url: https://s3.radio.co/scfd7273b2/listen
+    codec: AAC
+    bitrate: 192
+  - url: https://s3.radio.co/scfd7273b2/low
+    codec: AAC
+    bitrate: 64

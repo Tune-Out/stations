@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5b58a6df-a206-4f55-9082-33398fe70c42
-streams:
-  - url: 'http://2beregafm.ru:8100/ber_FM.ogg'
-    codec: OGG
-    bitrate: 256
-  - url: 'http://radio-connect.dline-media.com/ber_FM.mp3?1739033089436'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Pop music (поп-музыка), rock (рок), contemporary Russian hits
   notes: FM 92.6 Bereznicki (Perm Oblast); local commercial Russian radio; focuses on contemporary Russian pop and rock music; serves Ural region community; named "Two Shores" referring to geographic location on two sides of river
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5b58a6df-a206-4f55-9082-33398fe70c42
+  - iprd-ru-dva-berega-c1fc0451
+streams:
+  - url: http://2beregafm.ru:8100/ber_FM.ogg
+    codec: OGG
+    bitrate: 256
+  - url: http://radio-connect.dline-media.com/ber_FM.mp3?1739033089436
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:28:18
 clickcount: 61
 geo_lat: 46.51048829925984
 geo_long: 3.5156250000000004
-curation: 0.05
-provenance:
-  - radiobrowser-d54152c8-e9dc-42ae-8f9f-789ad01fa6b9
-streams:
-  - url: 'http://audio.bfmtv.com/bfmbusiness_128.mp3?aw_0_1st.playerId=BFMBusiness_audio_web&aggregator=BFMBusiness_audio_web'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://audio.bfmtv.com/bfmbusiness_128.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 24/7 economic and financial news — markets, corporate news, macroeconomics, interviews with CEOs and policymakers
   notes: BFM Business launched in 2010 as a re-branding of BFM Radio (1992), the leading French business-news radio station broadcasting on DAB+ in Paris and major French cities and as a TV channel. Notable programmes include "Good Morning Business" (Christophe Jakubyszyn / Sandra Gandoin), "Intégrale Bourse", "Le Grand Journal de l'Économie", and "Les Experts". Owned for many years by Alain Weill's NextRadioTV (merged with SFR/Altice Media in 2016); in June 2024 the Drahi-owned RMC-BFM unit was sold to CMA CGM, the shipping giant controlled by the Saadé family, in a major French media-ownership shift. Regulated by Arcom (French audiovisual regulator). The on-air slogan is "La radio de l'économie".
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d54152c8-e9dc-42ae-8f9f-789ad01fa6b9
+  - iprd-fr-bfm-business-b22daa92
+streams:
+  - url: http://audio.bfmtv.com/bfmbusiness_128.mp3?aw_0_1st.playerId=BFMBusiness_audio_web&aggregator=BFMBusiness_audio_web
+    codec: MP3
+    bitrate: 256
+  - url: https://audio.bfmtv.com/bfmbusiness_128.mp3
+    codec: MP3
+    bitrate: 256

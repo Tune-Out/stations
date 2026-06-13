@@ -26,16 +26,6 @@ lastchangetime: 2026-01-14 23:17:40
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-fbc3e197-536e-4ceb-8518-3dbce47821b1
-streams:
-  - url: 'https://sh.onweb.gr:7083/stream?type=http&nocache=35812'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://sh.onweb.gr:7083/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,15 @@ research:
   format: Electronic dance music (EDM), trance, house, hip-hop, and pop programming.
   notes: Greek commercial station based in Corfu island (Ionian Islands). Format specializes in dance/electronic music with DJ-focused programming. 192 kbps MP3. 97.5 FM. Serves Corfu and broader Greek audience.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-fbc3e197-536e-4ceb-8518-3dbce47821b1
+  - iprd-gr-deejay-97-5-7a67e8f7
+  - iprd-gr-deejay-97-5-aa191701
+streams:
+  - url: https://sh.onweb.gr:7083/stream?type=http&nocache=35812
+    codec: MP3
+    bitrate: 192
+  - url: https://sh.onweb.gr:7083/stream
+    codec: MP3
+    bitrate: 192

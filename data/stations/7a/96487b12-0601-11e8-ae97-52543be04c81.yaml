@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:41:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-96487b12-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://str45.streamakaci.com:8014/;*.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://str45.streamakaci.com:8014/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Relaxation and ambient music programming
   notes: French commercial radio station specialized in relaxation and ambient music. Broadcasts continuous relaxation-focused programming to help listeners unwind and de-stress. Available as online stream.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-96487b12-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://str45.streamakaci.com:8014/;*.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://str45.streamakaci.com:8014/
+    codec: MP3
+    bitrate: 128

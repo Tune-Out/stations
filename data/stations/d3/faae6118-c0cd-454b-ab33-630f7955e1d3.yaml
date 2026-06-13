@@ -22,16 +22,6 @@ lastchangetime: 2026-03-21 16:17:50
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-faae6118-c0cd-454b-ab33-630f7955e1d3
-streams:
-  - url: 'http://uk20freenew.listen2myradio.com:5382/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://uk20freenew.listen2myradio.com:5382/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: disco music and retro programming in Portuguese
   notes: porão da nau 2 is a Portuguese online radio station specializing in disco music and retro format. Independent community-oriented broadcaster serving disco enthusiasts with vintage programming.
   sources: spaceneonradio.blogspot.com, internal knowledge of Portuguese radio
+curation: 0.35
+provenance:
+  - radiobrowser-faae6118-c0cd-454b-ab33-630f7955e1d3
+streams:
+  - url: http://uk20freenew.listen2myradio.com:5382/
+    codec: MP3
+    bitrate: 128
+  - url: http://uk20freenew.listen2myradio.com:5382/;
+    codec: MP3
+    bitrate: 128

@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 08:34:02
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-9643f966-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://chanson.hostingradio.ru:8041/chanson256.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://chanson.hostingradio.ru:8041/chanson256.mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=RsBdyQmPwZBZdZRKVncpJw&e=1573674908'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=oVvCwE7WBb8Y7wl1S_2xCQ&e=1549278452'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +31,21 @@ research:
   format: Shanson radio; Russian popular songs and ballads; entertainment and music programming
   notes: '"Radio Shanson" broadcasts shanson music, a popular Russian song genre; based in Moscow; established commercial format; very high listener votes (35,890) indicating strong audience'
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9643f966-0601-11e8-ae97-52543be04c81
+  - iprd-ru-chanson-radio-556ec6d8
+  - iprd-ru-radio-shanson-1d6852ed
+streams:
+  - url: http://chanson.hostingradio.ru:8041/chanson256.mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://chanson.hostingradio.ru:8041/chanson256.mp3
+    codec: MP3
+    bitrate: 256
+  - url: http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=RsBdyQmPwZBZdZRKVncpJw&e=1573674908
+    codec: MP3
+    bitrate: 256
+  - url: http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=oVvCwE7WBb8Y7wl1S_2xCQ&e=1549278452
+    codec: MP3
+    bitrate: 256

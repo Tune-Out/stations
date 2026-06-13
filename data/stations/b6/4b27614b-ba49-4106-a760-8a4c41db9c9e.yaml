@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:38:47
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-4b27614b-ba49-4106-a760-8a4c41db9c9e
-streams:
-  - url: 'https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Rock music format ("Top of the Week" curated programming).
   notes: OUI FM TOP OF THE WEEK is a rock music show from OUI FM, a major French commercial radio station known for rock and alternative programming. Featured programming curates best of week selections.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-4b27614b-ba49-4106-a760-8a4c41db9c9e
+  - iprd-fr-oui-fm-top-of-the-week-0636da52
+streams:
+  - url: https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3
+    codec: MP3
+    bitrate: 128

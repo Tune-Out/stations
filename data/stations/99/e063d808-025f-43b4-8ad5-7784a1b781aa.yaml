@@ -22,19 +22,6 @@ lastchangetime: 2026-01-14 23:59:15
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-e063d808-025f-43b4-8ad5-7784a1b781aa
-streams:
-  - url: 'http://icecast.thisisdax.com/SmoothChill'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://icecast.thisisdax.com/SmoothChillMP3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://media-ssl.musicradio.com/ChillMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +31,17 @@ research:
   format: Chillout/easy listening spin-off of Smooth Radio with limited commercials, ambient, downtempo and laid-back pop ("Music To Chill To"); featured shows include "Late Night Chill"
   notes: Smooth Chill is one of Global's digital extension brands of the Smooth Radio network; Global is the UK's largest commercial radio operator, also owning Heart, Capital, Classic FM and LBC; the parent Smooth brand traces its lineage to Saga/GMG Radio's "Smooth FM" rebrand of Jazz FM in 2005 and was acquired by Global in 2014.
   sources: https://www.smoothradio.com/chill/, internal knowledge
+curation: 0.2
+provenance:
+  - radiobrowser-e063d808-025f-43b4-8ad5-7784a1b781aa
+  - iprd-gb-smooth-chill-27397418
+streams:
+  - url: http://icecast.thisisdax.com/SmoothChill
+    codec: AAC
+    bitrate: 48
+  - url: http://icecast.thisisdax.com/SmoothChillMP3
+    codec: MP3
+    bitrate: 128
+  - url: https://media-ssl.musicradio.com/ChillMP3
+    codec: MP3
+    bitrate: 128

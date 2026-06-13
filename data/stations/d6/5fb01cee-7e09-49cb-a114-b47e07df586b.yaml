@@ -1,7 +1,7 @@
 stationuuid: 5fb01cee-7e09-49cb-a114-b47e07df586b
 name: KIX Country (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.aac
+url: 'http://29309.live.streamtheworld.com:80/KIXCOUNTRYAAC.aac'
+url_resolved: 'http://29309.live.streamtheworld.com:80/KIXCOUNTRYAAC.aac'
 homepage: https://www.kixcountry.com.au/
 favicon: https://www.kixcountry.com.au/wp-content/uploads/sites/51/2023/06/KIX-300x150-fullcolour.jpg
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:49:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-5fb01cee-7e09-49cb-a114-b47e07df586b
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music programming; Australian and international country hits
   notes: Part of iHeartRadio Australia network; streams via StreamTheWorld platform; AAC high-quality audio
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5fb01cee-7e09-49cb-a114-b47e07df586b

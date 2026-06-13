@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:59:16
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-96074d8b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://streaming.radio.co/s774887f7b/listen'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://streaming.radio.co/s774887f7b/listen'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Jazz music with specialty programming; live shows and weekly commentary including "JazzRadio Property Minute"
   notes: Community radio station based in Berlin, historically broadcast on UKW (FM), transitioning to DAB+ Channel 7B. Features hosts including Jamie Cullum and Sil Romero. Supports listener donations and maintains newsletter. Hybrid community-commercial model with advertising and merchandise.
   sources: http://www.jazzradio.net/
+curation: 0.6
+provenance:
+  - radiobrowser-96074d8b-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://streaming.radio.co/s774887f7b/listen
+    codec: MP3
+    bitrate: 192
+  - url: http://streaming.radio.co/s774887f7b/listen
+    codec: MP3
+    bitrate: 192

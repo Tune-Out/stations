@@ -31,16 +31,6 @@ lastchangetime: 2026-01-15 06:53:43
 clickcount: 2
 geo_lat: 54.01348202834595
 geo_long: 10.573643445968628
-curation: 0.65
-provenance:
-  - radiobrowser-8d3e1e8c-7802-426e-a447-349d9205a435
-streams:
-  - url: 'https://a11.asurahosting.com:8350/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://a11.asurahosting.com:8350/radio.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -50,3 +40,13 @@ research:
   format: Comedy, erotic/adult content, jazz, health/wellness, goa and spiritual music
   notes: Independent German/Swiss internet radio station with highly specialized programming; serves niche communities across multiple genres
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-8d3e1e8c-7802-426e-a447-349d9205a435
+streams:
+  - url: https://a11.asurahosting.com:8350/
+    codec: MP3
+    bitrate: 192
+  - url: https://a11.asurahosting.com:8350/radio.mp3
+    codec: MP3
+    bitrate: 192

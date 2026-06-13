@@ -21,16 +21,6 @@ lastchangetime: 2026-03-09 07:04:33
 clickcount: 4
 geo_lat: 48.85893228504392
 geo_long: 2.2851562500000004
-curation: 0.35
-provenance:
-  - radiobrowser-71103f1e-b4df-4c10-ad42-f6ff3e5dae10
-streams:
-  - url: 'https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8?id=radiofrance'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: Children's music and spoken word programming
   notes: Public broadcaster France Inter's children's program. Educational and entertainment content for French-speaking children.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-71103f1e-b4df-4c10-ad42-f6ff3e5dae10
+streams:
+  - url: https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8?id=radiofrance
+    codec: UNKNOWN
+    hls: true

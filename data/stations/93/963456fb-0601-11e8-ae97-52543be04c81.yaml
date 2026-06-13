@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:42:04
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-963456fb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream3.polskieradio.pl:8956/;'
-    codec: AAC+
-    bitrate: 192
-  - url: 'http://stream3.polskieradio.pl:8906/;stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: Alternative/indie music network with focus on Polish and international independent music, electronic, hip-hop, rock, and youth-oriented talk; broadcasts on DAB+ and digital satellite (analog FM coverage was sharply reduced when the network was reconfigured in 2013)
   notes: Czwórka ("The Fourth") is the youth-oriented fourth channel of Polskie Radio, with a long history dating to 1976 (originally as Program IV — an educational/cultural service); relaunched 16 May 2013 as a music-driven youth alternative network after Program 4's educational format was discontinued; available primarily via DAB+, internet streaming, and a limited number of FM transmitters; like other Polskie Radio channels it underwent management turmoil during the 2023–2024 transition when the new government placed public media in liquidation to bypass PiS-appointed boards
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-963456fb-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://stream3.polskieradio.pl:8956/;
+    codec: AAC+
+    bitrate: 192
+  - url: http://stream3.polskieradio.pl:8906/;stream
+    codec: MP3
+    bitrate: 192

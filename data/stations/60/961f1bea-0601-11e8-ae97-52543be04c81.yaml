@@ -1,7 +1,7 @@
 stationuuid: 961f1bea-0601-11e8-ae97-52543be04c81
 name: Sky Radio Christmas
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3
+url: 'http://25283.live.streamtheworld.com:80/SRGSTR08.mp3'
+url_resolved: 'http://25283.live.streamtheworld.com:80/SRGSTR08.mp3'
 homepage: http://www.skyradio.nl/player/sky-radio-christmas
 favicon: http://www.skyradio.nl/favicon.ico
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 23:56:14
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961f1bea-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: 24/7 Christmas music — classic and contemporary holiday songs in English and Dutch
   notes: A seasonal spin-off of Sky Radio 101 FM, the Netherlands' largest commercial pop station; Sky Radio Christmas is typically activated as an online channel and (during the festive season) on DAB+ and pop-up FM frequencies, and is famous for its long-running "Christmas at Sky Radio" countdown each December; the parent Sky Radio Group also operates Radio Veronica and Radio 538-era brands within the Mediahuis stable.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961f1bea-0601-11e8-ae97-52543be04c81

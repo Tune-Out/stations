@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e86bd67c-14a1-4c41-8bc6-07fdead5648c
-streams:
-  - url: 'https://radiorecord.hostingradio.ru/brks96.aacp'
-    codec: AAC
-  - url: 'http://radiorecord.hostingradio.ru/brks96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -37,3 +29,13 @@ research:
   format: Electronic music, breaks, drum and bass, techno, house
   notes: Radio Record is a major Russian commercial radio station specializing in electronic music with various specialized stream channels including breaks/drum and bass format
   sources: https://radiorecord.ru/
+curation: 0.35
+provenance:
+  - radiobrowser-e86bd67c-14a1-4c41-8bc6-07fdead5648c
+  - iprd-ru-radio-record-breaks-7d749505
+  - iprd-ru-radio-rekord-breaks-4cd180e4
+streams:
+  - url: https://radiorecord.hostingradio.ru/brks96.aacp
+    codec: AAC
+  - url: http://radiorecord.hostingradio.ru/brks96.aacp
+    codec: AAC

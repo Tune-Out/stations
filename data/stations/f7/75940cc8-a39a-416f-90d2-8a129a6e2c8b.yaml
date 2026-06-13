@@ -1,7 +1,7 @@
 stationuuid: 75940cc8-a39a-416f-90d2-8a129a6e2c8b
 name: Top Retro
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3
+url: 'https://25453.live.streamtheworld.com:443/TOPRETRO.mp3'
+url_resolved: 'https://25453.live.streamtheworld.com:443/TOPRETRO.mp3'
 homepage: http://www.topradio.be/
 favicon: https://api.topradio.be/images/7249.9571f36.16-9.1000.90.jpg
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-05-21 17:10:41
 clickcount: 1
 geo_lat: 51.05357867301489
 geo_long: 3.7228202819824223
-curation: -0.05
-provenance:
-  - radiobrowser-75940cc8-a39a-416f-90d2-8a129a6e2c8b
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Retro hits, classic music, nostalgia-focused programming
   notes: Top Retro is part of Top Radio's portfolio of digital music stations operating primarily online. Focuses on heritage music and classic hits for adults.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-75940cc8-a39a-416f-90d2-8a129a6e2c8b

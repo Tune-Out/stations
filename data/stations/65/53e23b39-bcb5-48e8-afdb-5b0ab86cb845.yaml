@@ -22,14 +22,6 @@ lastchangetime: 2026-02-22 06:11:44
 clickcount: 0
 geo_lat: 45.84910832164006
 geo_long: 27.4289296513461
-curation: -0.05
-provenance:
-  - radiobrowser-53e23b39-bcb5-48e8-afdb-5b0ab86cb845
-streams:
-  - url: 'https://stream.zeno.fm/fc2tinsbwjftv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/87sktrysmuqtv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +31,11 @@ research:
   format: Dance, pop, R&B
   notes: Romanian commercial radio station Stil Mix (107 FM) providing dance, pop, and R&B programming. Coordinates place station near central Romania.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-53e23b39-bcb5-48e8-afdb-5b0ab86cb845
+streams:
+  - url: https://stream.zeno.fm/fc2tinsbwjftv
+    codec: MP3
+  - url: https://stream.zeno.fm/87sktrysmuqtv
+    codec: MP3

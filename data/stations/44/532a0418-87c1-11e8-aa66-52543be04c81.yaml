@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 07:11:47
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-532a0418-87c1-11e8-aa66-52543be04c81
-streams:
-  - url: 'https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac'
-    codec: AAC
-    bitrate: 131
-  - url: 'http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +30,17 @@ research:
   format: Community programming, local news, music, and talk radio
   notes: Community-based radio station serving the Lausanne, Switzerland region; French-language programming; independent local operator.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-532a0418-87c1-11e8-aa66-52543be04c81
+  - iprd-ch-lfm-03deba1a
+streams:
+  - url: https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac
+    codec: AAC
+    bitrate: 131
+  - url: http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
+    codec: MP3
+    bitrate: 128

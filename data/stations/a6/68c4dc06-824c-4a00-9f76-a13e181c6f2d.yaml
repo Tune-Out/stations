@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:56:44
 clickcount: 28
 geo_lat: 52.11683649275654
 geo_long: 20.676269531250004
-curation: 0.00
-provenance:
-  - radiobrowser-68c4dc06-824c-4a00-9f76-a13e181c6f2d
-streams:
-  - url: 'https://s2.radioparty.pl:8015/stream?nocache=4171'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://s2.radioparty.pl:8015/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Electronic, party, rap, and contemporary music
   notes: Polish commercial radio station focused on electronic dance music, party beats, rap, and contemporary urban music programming.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-68c4dc06-824c-4a00-9f76-a13e181c6f2d
+streams:
+  - url: https://s2.radioparty.pl:8015/stream?nocache=4171
+    codec: MP3
+    bitrate: 128
+  - url: https://s2.radioparty.pl:8015/stream
+    codec: MP3
+    bitrate: 128

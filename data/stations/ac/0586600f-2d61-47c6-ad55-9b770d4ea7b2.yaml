@@ -1,7 +1,7 @@
 stationuuid: 0586600f-2d61-47c6-ad55-9b770d4ea7b2
 name: 2EC - Bega / Batemans Bay - 94.5 FM / 105.9 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/BEG_2ECAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/BEG_2ECAAC.aac
+url: 'http://29309.live.streamtheworld.com:80/BEG_2ECAAC.aac'
+url_resolved: 'http://29309.live.streamtheworld.com:80/BEG_2ECAAC.aac'
 homepage: https://www.2ec.com.au/
 favicon: https://i.ibb.co/18xCwM6/61ea4c08ad655b10105ec39b.webp
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0586600f-2d61-47c6-ad55-9b770d4ea7b2
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Classic hits, talk, news, and current affairs.
   notes: Commercial regional radio station licensed to Bega, New South Wales, Australia. Serves the Batemans Bay/South Coast region on 94.5 FM and 105.9 FM. Focus on classic hits, talk radio, and local news/community programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-0586600f-2d61-47c6-ad55-9b770d4ea7b2

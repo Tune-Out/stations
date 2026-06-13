@@ -25,15 +25,6 @@ lastchangetime: 2026-01-15 01:08:58
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-65dc00f6-2a86-4195-a64f-91aed29bd153
-streams:
-  - url: 'https://www.powerfm.org:8443/powerfm.ogg'
-    codec: OGG
-  - url: 'https://www.powerfm.org:8443/powerfm.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +34,12 @@ research:
   format: Dance, house, drum and bass, jungle and electronic
   notes: "\"One of Dublin's longest running pirate radio stations,\" broadcasting on FM 1992-2003 and described as having \"played a major part in cultivating the emerging dance music scene\"; in 1998 it became one of the first Irish pirate stations to stream online; now distributes via direct stream, Mixcloud, TuneIn, YouTube and social media at 320 kbps MP3."
   sources: https://www.powerfm.org/
+curation: 0.4
+provenance:
+  - radiobrowser-65dc00f6-2a86-4195-a64f-91aed29bd153
+streams:
+  - url: https://www.powerfm.org:8443/powerfm.ogg
+    codec: OGG
+  - url: https://www.powerfm.org:8443/powerfm.mp3
+    codec: MP3
+    bitrate: 320

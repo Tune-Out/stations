@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 01:16:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-a96c47e5-6c15-4a34-a2ee-49bc4d3a331f
-streams:
-  - url: 'https://stream.artsound.fm/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.artsound.fm/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -45,3 +35,14 @@ research:
   format: "Fine music and arts: jazz, classical, blues, folk, world music; literature, theatre, film, spoken word, art exhibitions, local concerts."
   notes: Established 1980s as Canberra Stereo Public Radio. Volunteer run, listener funded. Broadcasts 24/7 on FM 92.7 (and 90.3 Tuggeranong Valley). Also operates ArtSound Audio Services with production/recording studios. Callsign 1ART.
   sources: https://en.wikipedia.org/wiki/ArtSound_FM
+curation: 0.8
+provenance:
+  - radiobrowser-a96c47e5-6c15-4a34-a2ee-49bc4d3a331f
+  - iprd-au-1art-artsound-fm-90-3-028b05d8
+streams:
+  - url: https://stream.artsound.fm/mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.artsound.fm/mp3
+    codec: MP3
+    bitrate: 128

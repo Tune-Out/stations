@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 134
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-96063f25-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://media-the.musicradio.com/ClassicFM'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://ice-the.musicradio.com/ClassicFMMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Classical music with accessible presentation, news, talk segments, listener-voted Hall of Fame
   notes: Launched 7 September 1992 as the UK's first and only national commercial classical music station, broadcasting on FM (100.0-102.0 MHz), DAB, satellite, and online. Famous for the annual Classic FM Hall of Fame (world's largest classical music poll). Positions itself as "The Most Relaxing Music"; operates spin-offs Classic FM Calm and Classic FM Movies via the Global Player app. Major UK classical music brand.
   sources: http://www.classicfm.com/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-96063f25-0601-11e8-ae97-52543be04c81
+  - iprd-gb-classic-fm-uk-9d2f3d2a
+  - iprd-gb-classic-fm-uk-f11cae49
+streams:
+  - url: http://media-the.musicradio.com/ClassicFM
+    codec: AAC
+    bitrate: 48
+  - url: http://ice-the.musicradio.com/ClassicFMMP3
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:25:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e4e110cd-9408-48e4-ac10-3ebb36435fe8
-streams:
-  - url: 'http://s7.viastreaming.net:8880/;'
-    codec: AAC
-    bitrate: 96
-  - url: 'http://s7.viastreaming.net:8880/;?_=0.0037967189374782384'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,13 @@ research:
   format: Community programming, local content, diverse music and talk formats.
   notes: Founded as grassroots community station at 93.5 FM. Volunteer-operated, non-profit. Serves rural NSW community with local news, music, events and cultural content.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e4e110cd-9408-48e4-ac10-3ebb36435fe8
+streams:
+  - url: http://s7.viastreaming.net:8880/;
+    codec: AAC
+    bitrate: 96
+  - url: http://s7.viastreaming.net:8880/;?_=0.0037967189374782384
+    codec: AAC
+    bitrate: 96

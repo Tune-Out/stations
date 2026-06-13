@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:58:18
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96392f40-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://radio.talksport.com/stream2'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Sports talk, live commentary, sports news, phone-in shows
   notes: talkSPORT 2 is the secondary channel of talkSPORT, the UK's leading commercial sports radio station; focuses on sports discussion, live match commentary, and sports analysis; targets UK sports audience
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96392f40-0601-11e8-ae97-52543be04c81
+  - iprd-gb-talksport-2-c168cf54
+streams:
+  - url: http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;
+    codec: MP3
+    bitrate: 128
+  - url: http://radio.talksport.com/stream2
+    codec: MP3
+    bitrate: 128

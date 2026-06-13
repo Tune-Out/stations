@@ -20,15 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-5558805d-e399-4869-9af8-926d0c100cef
-streams:
-  - url: 'http://pub0302.101.ru:8000/stream/air/aac/64/200'
-    codec: AAC
-  - url: 'http://pub0302.101.ru:8000/stream/trust/mp3/128/264'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +29,12 @@ research:
   format: Easy listening, smooth jazz, relaxation music
   notes: Relax FM 90.8 broadcasts from Moscow on 90.8 FM. Russian commercial station specializing in easy listening and smooth jazz music. Targets audiences seeking relaxing music for work and leisure.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-5558805d-e399-4869-9af8-926d0c100cef
+streams:
+  - url: http://pub0302.101.ru:8000/stream/air/aac/64/200
+    codec: AAC
+  - url: http://pub0302.101.ru:8000/stream/trust/mp3/128/264
+    codec: MP3
+    bitrate: 128

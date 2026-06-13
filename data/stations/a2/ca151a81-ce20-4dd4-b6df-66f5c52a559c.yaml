@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 01:02:30
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ca151a81-ce20-4dd4-b6df-66f5c52a559c
-streams:
-  - url: 'https://radiorecord.hostingradio.ru/goa96.aacp'
-    codec: AAC
-  - url: 'http://radiorecord.hostingradio.ru/goa96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +31,12 @@ research:
   format: Goa trance, psychedelic trance, and related electronic music 24/7
   notes: Stream hosted on RadioRecord infrastructure; homepage references Caribshebdo blog which curates French webradios including electronic and dance music stations.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ca151a81-ce20-4dd4-b6df-66f5c52a559c
+  - iprd-ru-radio-rekord-goa-psy-7366bc23
+streams:
+  - url: https://radiorecord.hostingradio.ru/goa96.aacp
+    codec: AAC
+  - url: http://radiorecord.hostingradio.ru/goa96.aacp
+    codec: AAC

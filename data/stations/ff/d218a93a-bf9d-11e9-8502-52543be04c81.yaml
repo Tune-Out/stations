@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 00:10:03
 clickcount: 6
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.05
-provenance:
-  - radiobrowser-d218a93a-bf9d-11e9-8502-52543be04c81
-streams:
-  - url: 'https://0n-schlagergold.radionetz.de/0n-schlagergold.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,15 @@ research:
   format: Schlager, 50s-60s oldies, rock and roll, and classic hits.
   notes: "\"Schlager Gold\" channel specializing in German schlager genre and vintage hits from 1950s-1960s era; part of entire media's 0N radio network (Bayern/Germany)."
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d218a93a-bf9d-11e9-8502-52543be04c81
+  - iprd-de-on-radio-schlager-gold-1d6dfd98
+  - iprd-de-on-radio-schlager-gold-54c795ff
+streams:
+  - url: https://0n-schlagergold.radionetz.de/0n-schlagergold.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
+    codec: MP3
+    bitrate: 128

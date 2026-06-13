@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-58891bcf-e1e3-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://dieneue1077.cast.addradio.de/dieneue1077/oldie/low/stream.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/low/stream.aac'
-    codec: AAC+
-    bitrate: 63
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Adult contemporary, modern hits, news
   notes: Regional German commercial radio station broadcasting at 107.7 FM from North Rhine-Westphalia region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-58891bcf-e1e3-11e9-a8ba-52543be04c81
+streams:
+  - url: http://dieneue1077.cast.addradio.de/dieneue1077/oldie/low/stream.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/low/stream.aac
+    codec: AAC+
+    bitrate: 63

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:00:57
 clickcount: 30
 geo_lat: 44.440055810542525
 geo_long: 25.978875024965053
-curation: -0.05
-provenance:
-  - radiobrowser-70d48cfd-eedd-400a-8b7a-881e7015fc3f
-streams:
-  - url: 'http://zuicast.digitalag.ro:9420/zu'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Contemporary hits, Top 40, pop music
   notes: Broadcasts from Bucharest area; primarily focuses on current chart music
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-70d48cfd-eedd-400a-8b7a-881e7015fc3f
+  - iprd-ro-radio-zu-aa04c29d
+  - iprd-ro-radio-zu-8aaa2c30
+streams:
+  - url: http://zuicast.digitalag.ro:9420/zu
+    codec: AAC+
+    bitrate: 96
+  - url: https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8
+    codec: UNKNOWN
+    hls: true

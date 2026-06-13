@@ -1,6 +1,6 @@
 stationuuid: 964655c5-0601-11e8-ae97-52543be04c81
 name: XHENO-FM "Mix 90.1" Toluca, MX
-url: http://provisioning.streamtheworld.com/pls/XHENOFMAAC.pls
+url: 'http://18073.live.streamtheworld.com:80/XHENOFMAAC_SC'
 url_resolved: http://27263.live.streamtheworld.com:3690/XHENOFMAAC_SC
 homepage: https://mixfm.mx/mix-nacional/mix-toluca/programacion-toluca/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:07:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964655c5-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary, mixed popular music, entertainment
   notes: Commercial FM station in Toluca, Mexico State (Estado de Mexico). Part of Mix FM network under Radiópolis. Adult contemporary format with mixed music programming. Targets general audience in central Mexico region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964655c5-0601-11e8-ae97-52543be04c81

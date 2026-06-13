@@ -19,20 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-a5f3e934-50d3-470a-ba18-a9bb29070b23
-streams:
-  - url: 'https://live.hunter.fm/mpb_normal'
-    codec: AAC
-  - url: 'https://live.hunter.fm/pop_normal'
-    codec: AAC
-  - url: 'https://live.hunter.fm/hitsbrasil_normal'
-    codec: AAC
-  - url: 'https://live.hunter.fm/pagode_normal'
-    codec: AAC
-  - url: 'https://live.hunter.fm/master_normal'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +28,17 @@ research:
   format: Música Popular Brasileira (MPB / Brazilian Popular Music); Brazilian music focus.
   notes: Hunter.FM "O Canal MPB" is specialized channel of Hunter.FM platform delivering Brazilian Popular Music (MPB) and related genres. Commercial internet radio service based in São Paulo. Targets MPB enthusiasts and Brazilian music audience. Part of Brazilian digital radio ecosystem.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-a5f3e934-50d3-470a-ba18-a9bb29070b23
+streams:
+  - url: https://live.hunter.fm/mpb_normal
+    codec: AAC
+  - url: https://live.hunter.fm/pop_normal
+    codec: AAC
+  - url: https://live.hunter.fm/hitsbrasil_normal
+    codec: AAC
+  - url: https://live.hunter.fm/pagode_normal
+    codec: AAC
+  - url: https://live.hunter.fm/master_normal
+    codec: AAC

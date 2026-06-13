@@ -23,19 +23,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-f6187277-4921-437f-bb6a-7ffb00a71c79
-streams:
-  - url: 'http://stream.laut.fm/greyarea'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/endzeitfm'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/shamanic_tunes'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -45,3 +32,16 @@ research:
   format: Community radio; dark ambient, industrial, noise, atonal music, dark folk, ritual, new wave, electro, minimal
   notes: Greyarea is a community-run radio stream on laut.fm, an Austrian platform dedicated to independent community radio. The channel specializes in experimental, dark, and avant-garde music including dark ambient, industrial noise, ritual ambient, atonal composition, and adjacent genres. It caters to listeners of experimental and challenging music outside mainstream formats.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-f6187277-4921-437f-bb6a-7ffb00a71c79
+streams:
+  - url: http://stream.laut.fm/greyarea
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/endzeitfm
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/shamanic_tunes
+    codec: MP3
+    bitrate: 128

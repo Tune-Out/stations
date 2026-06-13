@@ -26,14 +26,6 @@ lastchangetime: 2026-01-15 06:46:57
 clickcount: 0
 geo_lat: 1.2132548483239491
 geo_long: -77.27783203125
-curation: -0.05
-provenance:
-  - radiobrowser-0b1c2e96-d451-4901-aa95-7bda4b9e7086
-streams:
-  - url: 'http://stream.zeno.fm/kmnekh2929duv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/kmnekh2929duv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +35,11 @@ research:
   format: Tropical music, cumbia, salsa, merengue, vallenato, crossover; Colombian regional programming
   notes: Commercial FM station broadcasting to Pasto and surrounding Nariño region in southwestern Colombia. Focuses on tropical and regional Colombian music formats. Website hosted on Wix platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0b1c2e96-d451-4901-aa95-7bda4b9e7086
+streams:
+  - url: http://stream.zeno.fm/kmnekh2929duv
+    codec: MP3
+  - url: https://stream.zeno.fm/kmnekh2929duv
+    codec: MP3

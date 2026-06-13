@@ -24,17 +24,6 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 0
 geo_lat: 45.51901602381426
 geo_long: -122.61016351843595
-curation: 0.35
-provenance:
-  - radiobrowser-46f819e3-06c3-48ef-9865-b1165718a81a
-streams:
-  - url: 'http://pdxrr.com:8090/listen.pls'
-    url_resolved: 'http://pdxrr.com:8090/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://pdxrr.com:8090/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +33,15 @@ research:
   format: Christian and evangelical religious programming in Russian and Ukrainian
   notes: Non-profit evangelical Christian radio station broadcasting to Russian and Ukrainian communities in Portland, Oregon area.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-46f819e3-06c3-48ef-9865-b1165718a81a
+  - iprd-us-cde9c1c5
+streams:
+  - url: http://pdxrr.com:8090/listen.pls
+    url_resolved: http://pdxrr.com:8090/
+    codec: MP3
+    bitrate: 128
+  - url: http://pdxrr.com:8090/
+    codec: MP3
+    bitrate: 128

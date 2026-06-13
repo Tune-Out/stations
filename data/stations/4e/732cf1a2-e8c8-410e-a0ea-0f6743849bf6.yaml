@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 08:16:49
 clickcount: 17
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-732cf1a2-e8c8-410e-a0ea-0f6743849bf6
-streams:
-  - url: 'https://mediagw.e-tiger.net/stream/zc06?ver=887687'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://mediagw.e-tiger.net/stream/zc06'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: 1990s dance music — Eurodance, house and 90s club hits as a retro spin-off channel
   notes: DANCE 90'S is a digital sub-channel of Cool FM, a Hungarian commercial radio brand operated as part of the country's commercial broadcasting landscape; the station streams via the e-tiger.net media gateway commonly used by Central European commercial broadcasters and focuses on a single-decade dance retrospective.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-732cf1a2-e8c8-410e-a0ea-0f6743849bf6
+streams:
+  - url: https://mediagw.e-tiger.net/stream/zc06?ver=887687
+    codec: MP3
+    bitrate: 128
+  - url: https://mediagw.e-tiger.net/stream/zc06
+    codec: MP3
+    bitrate: 128

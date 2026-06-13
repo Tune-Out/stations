@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 08:11:44
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-650cdc72-1289-4d90-bfa8-a6028d0deb42
-streams:
-  - url: 'http://misato.ru-hoster.com:8037/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://misato.ru-hoster.com:8037/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Russian retro rock, pop and classic rock music programming
   notes: Russian internet radio channel "Вечная молодость" (Eternal Youth) on NES-Rock network. Features classic Russian and international rock/pop music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-650cdc72-1289-4d90-bfa8-a6028d0deb42
+streams:
+  - url: http://misato.ru-hoster.com:8037/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://misato.ru-hoster.com:8037/stream
+    codec: MP3
+    bitrate: 128

@@ -19,17 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f9fe49ba-0806-4d31-a478-c24bfb0b78ac
-streams:
-  - url: 'https://streaming.exclusive.radio/er/bobmarley/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/er/bobmarley/icecast.audio'
-    codec: MP3
-  - url: 'https://streaming.exclusive.radio/er/blacksabbath/icecast.audio'
-    codec: MP3
-  - url: 'http://streaming.exclusive.radio/er/bobmarley/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +28,16 @@ research:
   format: Bob Marley tribute, reggae music, classic reggae hits
   notes: Exclusive Radio – Bob Marley is a dedicated channel on the Exclusive Radio internet radio platform; streams exclusively Bob Marley and reggae music; part of Exclusive Radio's curated channel network; accessible globally via internet
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f9fe49ba-0806-4d31-a478-c24bfb0b78ac
+  - iprd-ae-black-sabbath-354497c6
+  - iprd-ae-bob-marley-8aa8ff24
+streams:
+  - url: https://streaming.exclusive.radio/er/bobmarley/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/er/bobmarley/icecast.audio
+    codec: MP3
+  - url: https://streaming.exclusive.radio/er/blacksabbath/icecast.audio
+    codec: MP3
+  - url: http://streaming.exclusive.radio/er/bobmarley/icecast.audio
+    codec: MP3

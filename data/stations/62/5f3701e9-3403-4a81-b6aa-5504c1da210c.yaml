@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 05:25:41
 clickcount: 11
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-5f3701e9-3403-4a81-b6aa-5504c1da210c
 research:
   reviewed_at: 2026-06-09
   nature: unknown
@@ -33,3 +30,6 @@ research:
   format: Hindi general-interest / news / cultural programming, presumably mirroring an AIR channel
   notes: All India Radio (AIR), branded as Akashvani, is India's national public service broadcaster founded in 1936 and operated since 1997 by Prasar Bharati, an autonomous public-broadcasting corporation. Its network covers 99% of India's population in 23 languages and 179 dialects. This particular entry has no homepage and streams from Radiomast.io rather than akashvani.gov.in or AIR's official infrastructure, so it is most likely an unofficial third-party relay catalogued via Radio Garden (the query string preserves a radio-garden listening session). Without a homepage or operator declaration, it is impossible to confirm which AIR channel (Vividh Bharati, AIR National, AIR FM Rainbow, etc.) is being mirrored, or whether the relay is sanctioned.
   sources: https://akashvani.gov.in/radio/live.php, internal knowledge of Prasar Bharati
+curation: 0.05
+provenance:
+  - radiobrowser-5f3701e9-3403-4a81-b6aa-5504c1da210c

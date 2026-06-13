@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:28:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b73821db-127a-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://cdn.pifm.ru/mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cdn.pifm.ru/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Dance and electronic music programming
   notes: Commercial internet radio station based in Moscow, Russia, specializing in dance music. Serves Russian-language audience with electronic dance music content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b73821db-127a-11e9-a80b-52543be04c81
+  - iprd-ru-pi-fm-74089653
+streams:
+  - url: http://cdn.pifm.ru/mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://cdn.pifm.ru/mp3
+    codec: MP3
+    bitrate: 128

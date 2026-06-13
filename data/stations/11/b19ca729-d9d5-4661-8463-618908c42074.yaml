@@ -19,16 +19,6 @@ lastchangetime: 2026-05-17 23:08:25
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b19ca729-d9d5-4661-8463-618908c42074
-streams:
-  - url: 'https://listen.f-group.fr/listen/fhitsclassics/fhits_classics_96.aac'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://listen.fhits.fr:8014/fhits_classics_96.aac'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Classic hits and pop/rock from 1970s-2000s era
   notes: Commercial station part of Groupe F (F-HITS network). Specializes in "classic hits" format with various time-period themed channels. F-HITS is a notable commercial radio network in France. Streams via listen.f-group.fr platform.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b19ca729-d9d5-4661-8463-618908c42074
+streams:
+  - url: https://listen.f-group.fr/listen/fhitsclassics/fhits_classics_96.aac
+    codec: AAC
+    bitrate: 96
+  - url: https://listen.fhits.fr:8014/fhits_classics_96.aac
+    codec: AAC
+    bitrate: 96

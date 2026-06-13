@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ff7d9489-d462-4e88-94b7-e28d6b66545a
-streams:
-  - url: 'https://media2.hostin.cc/mooyzo.aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://play.mooyzo.be/mooyzo.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://play.mooyzo.be/mooyzo.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +30,16 @@ research:
   format: Unknown
   notes: Belgian radio station operating in Vlaanderen (Flanders) with Dutch-language programming; appears to be independent/community-oriented.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ff7d9489-d462-4e88-94b7-e28d6b66545a
+streams:
+  - url: https://media2.hostin.cc/mooyzo.aac
+    codec: AAC
+    bitrate: 64
+  - url: http://play.mooyzo.be/mooyzo.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://play.mooyzo.be/mooyzo.mp3
+    codec: MP3
+    bitrate: 192

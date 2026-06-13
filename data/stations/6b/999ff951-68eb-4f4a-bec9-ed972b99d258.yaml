@@ -24,20 +24,6 @@ lastchangetime: 2026-01-15 06:51:37
 clickcount: 171
 geo_lat: 45.47809346079712
 geo_long: 9.167589247226717
-curation: -0.05
-provenance:
-  - radiobrowser-999ff951-68eb-4f4a-bec9-ed972b99d258
-streams:
-  - url: 'https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8'
-    codec: AAC+
-    bitrate: 122
-    hls: true
-  - url: 'http://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +33,19 @@ research:
   format: Contemporary hit / pop music with strong talk and entertainment programming (morning/afternoon shows, comedy, celebrity DJs)
   notes: Founded 1982 in Milan by Claudio Cecchetto; launched many notable Italian DJs and presenters (Linus, Nicola Savino, Fiorello, Jovanotti, Albertino). One of Italy's most listened-to commercial radio brands; flagship of GEDI's radio division. Headquartered in Milan (Via Massena).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-999ff951-68eb-4f4a-bec9-ed972b99d258
+  - iprd-it-radio-deejay-349af614
+  - iprd-it-radio-deejay-2b3c00b8
+streams:
+  - url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+    codec: AAC+
+    bitrate: 122
+    hls: true
+  - url: http://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+    codec: UNKNOWN
+    hls: true

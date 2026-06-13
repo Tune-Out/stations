@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.70
-provenance:
-  - radiobrowser-9609f585-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://cms.stream.publicradio.org/cms.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://cms.stream.publicradio.org/cms.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: Classical music exclusively; concert broadcasts, composer features, music education
   notes: KSJN 99.5 FM is the classical music station of Minnesota Public Radio, a non-profit public broadcaster serving the Twin Cities; part of American Public Media network; focuses on concert music, world premieres, and arts programming
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-9609f585-0601-11e8-ae97-52543be04c81
+  - iprd-us-ksjn-99-5-classical-minnesota-public-radio-a85405af
+  - iprd-us-mpr-classical-2ba365f5
+streams:
+  - url: http://cms.stream.publicradio.org/cms.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://cms.stream.publicradio.org/cms.mp3
+    codec: MP3
+    bitrate: 128

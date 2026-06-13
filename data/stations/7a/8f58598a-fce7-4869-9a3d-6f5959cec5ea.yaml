@@ -1,7 +1,7 @@
 stationuuid: 8f58598a-fce7-4869-9a3d-6f5959cec5ea
 name: Exa FM Fresnillo - 100.5 FM - XHFRE-FM - Grupo B15 - Fresnillo, Zacatecas
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHFREAAC.AAC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHFREAAC.AAC
+url: 'https://17993.live.streamtheworld.com:443/XHFREAAC.aac'
+url_resolved: 'https://17993.live.streamtheworld.com:443/XHFREAAC.aac'
 homepage: https://exafm.com/fresnillo/
 favicon: https://exafm.com/favicon.ico
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 02:20:39
 clickcount: 0
 geo_lat: 23.18277801848195
 geo_long: -102.87280082702638
-curation: -0.05
-provenance:
-  - radiobrowser-8f58598a-fce7-4869-9a3d-6f5959cec5ea
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: pop, pop rock, mixed music in Spanish and English; entertainment-focused
   notes: Licensed station XHFRE-FM; broadcasts on 100.5 FM; branded as "La Estación Exacta" (The Exact Station); part of major MVS Radio network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8f58598a-fce7-4869-9a3d-6f5959cec5ea

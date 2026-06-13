@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 03:36:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-2eddf009-7c24-486b-bb8e-c43bc948430f
-streams:
-  - url: 'https://stream.gensokyoradio.net/2'
-    codec: OGG
-  - url: 'https://stream.gensokyoradio.net/3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://stream.gensokyoradio.net/1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +31,17 @@ research:
   format: Anime music, Touhou Project remix, Japanese game soundtracks, electronic music
   notes: 幻想乡电台 Gensokyo Radio is a non-commercial fan-operated internet radio station dedicated to music from the Touhou Project series and related anime/game content. Based in China (Liaoning), serving global anime and gaming communities with curated Japanese and electronic music.
   sources: https://gensokyoradio.net/
+curation: 0.6
+provenance:
+  - radiobrowser-2eddf009-7c24-486b-bb8e-c43bc948430f
+  - iprd-cn-fantasy-township-radio-gensokyo-radio-a6fb0a2d
+  - iprd-cn-gensokyo-radio-8b826689
+streams:
+  - url: https://stream.gensokyoradio.net/2
+    codec: OGG
+  - url: https://stream.gensokyoradio.net/3
+    codec: MP3
+    bitrate: 256
+  - url: https://stream.gensokyoradio.net/1
+    codec: MP3
+    bitrate: 128

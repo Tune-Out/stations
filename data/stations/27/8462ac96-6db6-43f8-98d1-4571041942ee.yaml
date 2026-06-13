@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:13:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-8462ac96-6db6-43f8-98d1-4571041942ee
-streams:
-  - url: 'https://lhttp.qingting.fm/live/5022397/64k.mp3'
-    codec: MP3
-  - url: 'http://hplayer1.juyun.tv/tv/29379189.m3u8'
-    codec: UNKNOWN
-    bitrate: 2560
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -41,3 +31,14 @@ research:
   format: News and information broadcasting
   notes: State radio station in Xianyang, Shaanxi Province. Provides news and public information programming to local population.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8462ac96-6db6-43f8-98d1-4571041942ee
+  - iprd-cn-xianyang-comprehensive-broadcasting-4bc3fdb8
+streams:
+  - url: https://lhttp.qingting.fm/live/5022397/64k.mp3
+    codec: MP3
+  - url: http://hplayer1.juyun.tv/tv/29379189.m3u8
+    codec: UNKNOWN
+    bitrate: 2560
+    hls: true

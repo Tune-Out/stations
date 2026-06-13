@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96225f9e-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://audio1.meway.tv:8108/listen.pls'
-    url_resolved: 'http://audio1.meway.tv:8108/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://ssl.audio1.meway.tv/proxy/radiopuglia?mp=/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +32,15 @@ research:
   format: Pop, top 40, contemporary hits
   notes: Radio Puglia is an Italian commercial FM station based in the Puglia region (southern Italy). Broadcasts pop and top 40 contemporary music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96225f9e-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-puglia-9c786bce
+streams:
+  - url: http://audio1.meway.tv:8108/listen.pls
+    url_resolved: http://audio1.meway.tv:8108/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://ssl.audio1.meway.tv/proxy/radiopuglia?mp=/stream
+    codec: MP3
+    bitrate: 128

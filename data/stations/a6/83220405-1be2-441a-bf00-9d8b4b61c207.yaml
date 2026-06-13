@@ -25,14 +25,6 @@ lastchangetime: 2026-01-15 07:48:52
 clickcount: 0
 geo_lat: 17.989960744999344
 geo_long: -92.9359245300293
-curation: -0.05
-provenance:
-  - radiobrowser-83220405-1be2-441a-bf00-9d8b4b61c207
-streams:
-  - url: 'http://stream.radiojar.com/ft4qrfff3p8uv'
-    codec: AAC
-  - url: 'https://stream.radiojar.com/ft4qrfff3p8uv'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +34,12 @@ research:
   format: News, talk, sports talk; mixed entertainment and information programming
   notes: Radio Fórmula is part of Grupo Fórmula, a major Mexican commercial radio group. XHHGR-FM operates on 94.1 FM in Villahermosa, Tabasco, featuring talk radio, news, and sports programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-83220405-1be2-441a-bf00-9d8b4b61c207
+  - iprd-mx-radio-formula-94-1-xhhgr-05a589d8
+streams:
+  - url: http://stream.radiojar.com/ft4qrfff3p8uv
+    codec: AAC
+  - url: https://stream.radiojar.com/ft4qrfff3p8uv
+    codec: AAC

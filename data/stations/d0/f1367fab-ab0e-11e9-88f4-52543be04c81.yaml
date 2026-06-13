@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f1367fab-ab0e-11e9-88f4-52543be04c81
-duplicate_of: ce67c602-ab0e-11e9-88f4-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-koeln-128-mp3'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-koeln-128-mp3?usid=0-0-H-A-D-30'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: Music-focused with 30+ streams (current hits, rock, dance, relaxation, etc.); news, traffic, weather, sports (FC Köln), cultural events, Carnival programming
   notes: "Part of Audiotainment Südwest's multi-station network across Rhineland-Palatinate. Mission: \"wir sind dran am Puls der Region und informieren rund um die Uhr\" (finger on the region's pulse, 24/7 information)."
   sources: https://www.rpr1.de/webradio/rpr1-koelnbonn
+curation: -0.05
+provenance:
+  - radiobrowser-f1367fab-ab0e-11e9-88f4-52543be04c81
+duplicate_of: ce67c602-ab0e-11e9-88f4-52543be04c81
+streams:
+  - url: http://streams.rpr1.de/rpr-koeln-128-mp3
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-koeln-128-mp3?usid=0-0-H-A-D-30
+    codec: MP3

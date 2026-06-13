@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:38:05
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9611ccf4-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://94.228.133.3/'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://stream.radiostaddenhaag.com/stream/1/;'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Italo disco and European electronic dance music format; specialty music format targeting niche audience
   notes: Radio Stad Den Haag is a community radio station based in The Hague (Den Haag), Netherlands; specializes in italo disco format (1980s-1990s Italian electronic dance music); operates as independent community broadcaster with niche music focus; serves Dutch audience interested in italo disco and retro electronic music.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9611ccf4-0601-11e8-ae97-52543be04c81
+  - iprd-nl-radio-stad-den-haag-d62af002
+streams:
+  - url: http://94.228.133.3/
+    codec: MP3
+    bitrate: 320
+  - url: https://stream.radiostaddenhaag.com/stream/1/;
+    codec: MP3
+    bitrate: 320

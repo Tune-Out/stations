@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-f81ad802-dc88-4571-bc76-8467e6777e6b
-streams:
-  - url: 'https://favorites.stream.publicradio.org/guitar.aac'
-    codec: AAC+
-    bitrate: 47
-  - url: 'https://guitar.stream.publicradio.org/guitar.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +30,13 @@ research:
   format: Classical guitar music streaming; curated classical guitar selections
   notes: Part of YourClassical music service by Minnesota Public Radio; streaming guitar repertoire; non-commercial public radio
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-f81ad802-dc88-4571-bc76-8467e6777e6b
+streams:
+  - url: https://favorites.stream.publicradio.org/guitar.aac
+    codec: AAC+
+    bitrate: 47
+  - url: https://guitar.stream.publicradio.org/guitar.mp3
+    codec: MP3
+    bitrate: 128

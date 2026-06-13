@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-aec569c4-d2bb-424d-aa5b-947e13403cc4
-streams:
-  - url: 'http://79.120.77.11:8004/suomisaundi'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.77.11:8000/suomisaundi'
-    codec: AAC+
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,16 @@ research:
   format: Freeform psytrance, suomisaundi (Finnish-influenced psychedelic trance), spugedelic trance; specialized electronic streams
   notes: Part of Radio Caprice's diverse electronic music network; Suomisaundi channel focuses on Finnish-influenced psychedelic trance programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-aec569c4-d2bb-424d-aa5b-947e13403cc4
+  - iprd-ru-radio-caprice-suomisaundi-freeform-psytrance-spugedelic-trance-a79f1ffe
+  - iprd-ru-radio-caprice-suomisaundi-freeform-psytrance-spugedelic-trance-95849f1a
+  - iprd-ru-radio-caprice-suomisaundi-freeform-psytrance-spugedelic-trance-832acc1e
+streams:
+  - url: http://79.120.77.11:8004/suomisaundi
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.77.11:8000/suomisaundi
+    codec: AAC+
+    bitrate: 320

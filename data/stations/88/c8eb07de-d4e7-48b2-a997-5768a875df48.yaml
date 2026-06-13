@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:30:27
 clickcount: 0
 geo_lat: 56.150162773197266
 geo_long: 10.203471779823303
-curation: 0.35
-provenance:
-  - radiobrowser-c8eb07de-d4e7-48b2-a997-5768a875df48
-streams:
-  - url: 'https://netradio.radio4.dk/radio4'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://netradio.radio4.dk/radio4'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,14 @@ research:
   format: Talk radio, news, current affairs, political discussion.
   notes: Part of the DR network, operates as a public service broadcaster. Founded as a dedicated talk/news service.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c8eb07de-d4e7-48b2-a997-5768a875df48
+  - iprd-dk-radio4-87253ed0
+streams:
+  - url: https://netradio.radio4.dk/radio4
+    codec: MP3
+    bitrate: 128
+  - url: http://netradio.radio4.dk/radio4
+    codec: MP3
+    bitrate: 128

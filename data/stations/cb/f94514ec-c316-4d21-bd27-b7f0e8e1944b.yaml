@@ -1,7 +1,7 @@
 stationuuid: f94514ec-c316-4d21-bd27-b7f0e8e1944b
 name: BANDA 93.3 (Monterrey) - 93.3 FM - XHQQ-FM - Grupo Radio Centro - Monterrey, NL
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHQQ_FMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHQQ_FMAAC.aac
+url: 'https://27263.live.streamtheworld.com:443/XHQQ_FMAAC.aac'
+url_resolved: 'https://27263.live.streamtheworld.com:443/XHQQ_FMAAC.aac'
 homepage: http://www.banda933.com.mx/
 favicon: http://banda933.com.mx/wp-content/themes/radio/images/ogp.png
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 07:06:43
 clickcount: 7
 geo_lat: 25.68546898634433
 geo_long: -100.31131267547607
-curation: -0.10
-provenance:
-  - radiobrowser-f94514ec-c316-4d21-bd27-b7f0e8e1944b
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,7 @@ research:
   format: Banda norteña and regional Mexican music, AAC+ 32kbps
   notes: BANDA 93.3 broadcasts on 93.3 FM (XHQQ-FM) from Monterrey, Nuevo León, Mexico. Operated by Grupo Radio Centro. Specializes in traditional and modern banda norteña, a staple of Mexican regional music. Targets Monterrey metropolitan area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f94514ec-c316-4d21-bd27-b7f0e8e1944b
+  - iprd-mx-banda-93-3-xhqq-f77913e3

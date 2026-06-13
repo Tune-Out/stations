@@ -1,7 +1,7 @@
 stationuuid: 1f80e86a-e676-40e2-a87a-92904b61413f
 name: Viva Rimouski CJOI-FM 102,9
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CJOIFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CJOIFM.mp3
+url: 'https://14123.live.streamtheworld.com:443/CJOIFM.mp3'
+url_resolved: 'https://14123.live.streamtheworld.com:443/CJOIFM.mp3'
 homepage: https://viva1029.com/
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CJOI-FM_-_VIVA_102%2C9.png/960px-CJOI-FM_-_VIVA_102%2C9.png
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-06-04 11:38:52
 clickcount: 0
 geo_lat: 48.636538782610494
 geo_long: -68.73046875000001
-curation: -0.05
-provenance:
-  - radiobrowser-1f80e86a-e676-40e2-a87a-92904b61413f
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Contemporary hit radio; music and entertainment programming
   notes: Commercial FM station serving Rimouski, Quebec on 102.9 FM; contemporary music and entertainment focus
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1f80e86a-e676-40e2-a87a-92904b61413f

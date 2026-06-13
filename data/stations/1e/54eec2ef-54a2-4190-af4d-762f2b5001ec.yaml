@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 22
 geo_lat: 38.07901368632015
 geo_long: 23.787590414831907
-curation: -0.05
-provenance:
-  - radiobrowser-54eec2ef-54a2-4190-af4d-762f2b5001ec
-streams:
-  - url: 'http://netradio.live24.gr/dromos2'
-    codec: AAC+
-    bitrate: 160
-  - url: 'http://netradio.live24.gr/dromos2'
-    codec: AAC+
-    bitrate: 159
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Greek pop, international pop, dance music; live concert coverage
   notes: Tagline "ΠΑΝΤΑ ΤΑ ΚΑΛΥΤΕΡΑ" (Always the Best). Sponsors concerts and cultural events; hosts contests and giveaways.
   sources: https://www.dromosfm.gr/
+curation: -0.05
+provenance:
+  - radiobrowser-54eec2ef-54a2-4190-af4d-762f2b5001ec
+streams:
+  - url: http://netradio.live24.gr/dromos2
+    codec: AAC+
+    bitrate: 160
+  - url: http://netradio.live24.gr/dromos2
+    codec: AAC+
+    bitrate: 159

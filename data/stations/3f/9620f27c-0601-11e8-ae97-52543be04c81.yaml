@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 07:13:03
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9620f27c-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://newcap.leanstream.co/CHRKFM'
-    codec: AAC
-    bitrate: 134
-  - url: 'https://newcap.leanstream.co/CHRKFM'
-    codec: AAC
-    bitrate: 130
-  - url: 'http://newcap.leanstream.co/CHRKFM'
-    codec: AAC
-    bitrate: 130
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +31,17 @@ research:
   format: Hot adult contemporary, pop, rock, and contemporary hits radio
   notes: CHRK is a commercial radio station based in Sydney, Nova Scotia, known as "Giant 101.9"; operates under Canadian CRTC licensing; serves Cape Breton and surrounding communities
   sources: http://www.giant1019.com/
+curation: -0.05
+provenance:
+  - radiobrowser-9620f27c-0601-11e8-ae97-52543be04c81
+  - iprd-ca-chrk-101-9-the-giant-d5405085
+streams:
+  - url: http://newcap.leanstream.co/CHRKFM
+    codec: AAC
+    bitrate: 134
+  - url: https://newcap.leanstream.co/CHRKFM
+    codec: AAC
+    bitrate: 130
+  - url: http://newcap.leanstream.co/CHRKFM
+    codec: AAC
+    bitrate: 130

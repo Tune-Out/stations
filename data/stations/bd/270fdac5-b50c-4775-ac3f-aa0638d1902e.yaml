@@ -21,18 +21,6 @@ lastchangetime: 2026-03-12 03:13:26
 clickcount: 0
 geo_lat: -36.84685274238634
 geo_long: 174.75900650024417
-curation: -0.05
-provenance:
-  - radiobrowser-270fdac5-b50c-4775-ac3f-aa0638d1902e
-streams:
-  - url: 'https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8'
-    codec: AAC+
-    bitrate: 64
-    hls: true
-  - url: 'https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=12121006026&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=12121006026&stationid=6191&terminalId=162&territory=NZ'
-    codec: AAC+
-    bitrate: 64
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +30,16 @@ research:
   format: Rock, hits, full-service radio
   notes: Radio Hauraki is a major New Zealand commercial radio station operated by NZME; serves Auckland metropolitan area; founded 1966, relaunched as digital in recent years; focuses on rock and contemporary hits
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-270fdac5-b50c-4775-ac3f-aa0638d1902e
+  - iprd-nz-radio-hauraki-cdae238e
+streams:
+  - url: https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8
+    codec: AAC+
+    bitrate: 64
+    hls: true
+  - url: https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=12121006026&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=12121006026&stationid=6191&terminalId=162&territory=NZ
+    codec: AAC+
+    bitrate: 64
+    hls: true

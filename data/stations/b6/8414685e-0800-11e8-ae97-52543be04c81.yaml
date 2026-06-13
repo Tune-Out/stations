@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 05:31:15
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-8414685e-0800-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://azuracast.paranormalium.pl/listen/radio_paranormalium/opus8'
-    codec: OGG
-  - url: 'http://shoutcast.paranormalium.pl:8000/5'
-    codec: AAC
-    bitrate: 24
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +31,12 @@ research:
   format: Talk radio focused on paranormal phenomena, unexplained events, UFOs, and alternative topics
   notes: Polish independent talk station; online streaming; community-driven content on paranormal and anomalous subjects
   sources: https://www.paranormalium.pl/, internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-8414685e-0800-11e8-ae97-52543be04c81
+streams:
+  - url: https://azuracast.paranormalium.pl/listen/radio_paranormalium/opus8
+    codec: OGG
+  - url: http://shoutcast.paranormalium.pl:8000/5
+    codec: AAC
+    bitrate: 24

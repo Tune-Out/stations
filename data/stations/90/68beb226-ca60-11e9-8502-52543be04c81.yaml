@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-68beb226-ca60-11e9-8502-52543be04c81
-streams:
-  - url: 'http://streams.bcs-systems.de/slp/xmas/erzgebirge/mp3/web'
-    codec: AAC
-  - url: 'http://streaming.radioerzgebirge.de/radio-erzgebirge_90er_192k_mp3'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: seasonal Christmas/holiday music programming
   notes: German regional station with specialized Christmas/holiday music channel; Erzgebirge is a mountainous region between Germany and Czech Republic famous for traditional crafts and Christmas traditions; station capitalizes on regional holiday culture
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-68beb226-ca60-11e9-8502-52543be04c81
+streams:
+  - url: http://streams.bcs-systems.de/slp/xmas/erzgebirge/mp3/web
+    codec: AAC
+  - url: http://streaming.radioerzgebirge.de/radio-erzgebirge_90er_192k_mp3
+    codec: AAC

@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-a9ab4514-05e1-11e9-a3cd-52543be04c81
-duplicate_of: 96451b5b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/'
-    codec: MP3
-  - url: 'https://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -37,3 +28,12 @@ research:
   format: 30+ channels across decades and genres (60s–2000s, electronic, techno, jazz, hip-hop, chillhop, indie); includes podcasts and cultural programming
   notes: Non-profit Berlin radio station emphasizing local culture and community participation; site states "WERDET TEIL DER FLUX-COMMUNITY!" (Become part of the Flux community); hosts events, festivals, and exhibitions alongside music
   sources: https://www.fluxfm.de/
+curation: 0.5
+provenance:
+  - radiobrowser-a9ab4514-05e1-11e9-a3cd-52543be04c81
+duplicate_of: 96451b5b-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/
+    codec: MP3
+  - url: https://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/
+    codec: MP3

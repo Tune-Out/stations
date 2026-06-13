@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:15:03
 clickcount: 0
 geo_lat: 46.79723912881805
 geo_long: 11.939907073974611
-curation: -0.05
-provenance:
-  - radiobrowser-ae4a6839-328e-4719-ae25-0fd0b547a20c
-streams:
-  - url: 'https://stream.radio2000.it/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://159.69.217.78:8000/?radio=radio2000.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Oldies and Schlager (German pop/folk music) hits
   notes: Regional commercial radio station serving the German-speaking minority in northern Italy; established 1989; focused on retro hits and schlager music for mature audiences; broadcasts on FM and online streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ae4a6839-328e-4719-ae25-0fd0b547a20c
+  - iprd-it-radio-2000-3cf5c91c
+streams:
+  - url: https://stream.radio2000.it/
+    codec: MP3
+    bitrate: 128
+  - url: http://159.69.217.78:8000/?radio=radio2000.mp3
+    codec: MP3
+    bitrate: 128

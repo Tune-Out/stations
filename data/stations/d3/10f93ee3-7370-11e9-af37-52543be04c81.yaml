@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 04:47:54
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-10f93ee3-7370-11e9-af37-52543be04c81
-streams:
-  - url: 'http://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8'
-    codec: AAC
-    bitrate: 219
-    hls: true
-  - url: 'https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8'
-    codec: AAC
-    bitrate: 216
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +31,16 @@ research:
   format: 24/7 classic hits and golden oldies programming.
   notes: State-owned broadcaster of San Marino (microstate). Radio Classic channel focuses on classic rock and golden era hits. Italian language.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-10f93ee3-7370-11e9-af37-52543be04c81
+  - iprd-sm-radio-san-marino-classic-20a74c24
+streams:
+  - url: http://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8
+    codec: AAC
+    bitrate: 219
+    hls: true
+  - url: https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8
+    codec: AAC
+    bitrate: 216
+    hls: true

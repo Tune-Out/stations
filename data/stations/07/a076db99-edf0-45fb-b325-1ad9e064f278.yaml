@@ -19,19 +19,6 @@ lastchangetime: 2026-05-10 02:38:58
 clickcount: 3
 geo_lat: 37.921518877949914
 geo_long: 23.744201660156257
-curation: 0.35
-provenance:
-  - radiobrowser-a076db99-edf0-45fb-b325-1ad9e064f278
-streams:
-  - url: 'https://stream.newageradio.gr/listen/hq/radio.flac'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://stream.newageradio.gr/listen/hq/radio.aac'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://stream.newageradio.gr/listen/hq/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +28,16 @@ research:
   format: New age music, ambient, meditation, wellness content, instrumental relaxation
   notes: 1st Greek New Age FLAC Radio is a Greek non-commercial station specializing in new age music. Streams FLAC-quality audio at 128kbps MP3 accessible format. Based in Attiki region of Athens. Serves audiences interested in meditation, wellness, and new age spirituality. Offers global streaming reach.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a076db99-edf0-45fb-b325-1ad9e064f278
+streams:
+  - url: https://stream.newageradio.gr/listen/hq/radio.flac
+    codec: OGG
+    bitrate: 128
+  - url: https://stream.newageradio.gr/listen/hq/radio.aac
+    codec: AAC
+    bitrate: 320
+  - url: https://stream.newageradio.gr/listen/hq/radio.mp3
+    codec: MP3
+    bitrate: 128

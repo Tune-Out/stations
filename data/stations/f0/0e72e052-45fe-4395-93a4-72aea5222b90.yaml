@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:55:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0e72e052-45fe-4395-93a4-72aea5222b90
-streams:
-  - url: 'http://bayernwelle-live.cast.addradio.de/bayernwelle/live/mp3/high'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://bayernwelle-live.cast.addradio.de/bayernwelle/live/mp3/high?ar-distributor=f0b7'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Top 40, contemporary hit radio, pop music
   notes: Commercial radio broadcaster serving southern Bavaria region; multi-frequency network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0e72e052-45fe-4395-93a4-72aea5222b90
+streams:
+  - url: http://bayernwelle-live.cast.addradio.de/bayernwelle/live/mp3/high
+    codec: MP3
+    bitrate: 192
+  - url: https://bayernwelle-live.cast.addradio.de/bayernwelle/live/mp3/high?ar-distributor=f0b7
+    codec: MP3
+    bitrate: 192

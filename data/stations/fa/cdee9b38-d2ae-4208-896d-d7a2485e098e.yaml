@@ -19,14 +19,6 @@ lastchangetime: 2026-05-07 14:26:33
 clickcount: 4
 geo_lat: 49.74622500084091
 geo_long: 8.854980468750002
-curation: 0.50
-provenance:
-  - radiobrowser-cdee9b38-d2ae-4208-896d-d7a2485e098e
-streams:
-  - url: 'http://ondemand-mp3.dradio.de/file/dradio/nachrichten/nachrichten.mp3'
-    codec: MP3
-  - url: 'https://ondemand-mp3.dradio.de/file/dradio/nachrichten/nachrichten.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -36,3 +28,22 @@ research:
   format: '"Die Nachrichten" (The News) — news bulletins and current affairs programming'
   notes: Deutschlandfunk is Germany's major public radio broadcaster under ARD; nationwide coverage
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-cdee9b38-d2ae-4208-896d-d7a2485e098e
+  - iprd-de-deutschlandfunk-658ca6b0
+  - iprd-de-deutschlandfunk-7cdaabb7
+  - iprd-de-deutschlandfunk-b29610c8
+  - iprd-de-deutschlandfunk-e5a8d875
+  - iprd-de-deutschlandfunk-cb264bd7
+  - iprd-de-deutschlandfunk-b69e8780
+  - iprd-de-deutschlandfunk-bdf4219d
+  - iprd-de-deutschlandfunk-b0377d87
+  - iprd-de-dlf-c1cfbc27
+  - iprd-de-dlf-61ac52c3
+  - iprd-de-dlf-424e82ed
+streams:
+  - url: http://ondemand-mp3.dradio.de/file/dradio/nachrichten/nachrichten.mp3
+    codec: MP3
+  - url: https://ondemand-mp3.dradio.de/file/dradio/nachrichten/nachrichten.mp3
+    codec: MP3

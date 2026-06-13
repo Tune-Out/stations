@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 02:35:55
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-feb9cb24-46a1-487f-ac9b-fc7790b01cc0
-streams:
-  - url: 'http://185.14.203.115:8004/stream?type=http&nocache=109'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.home891.gr/stream?type=http&nocache=808'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,14 @@ research:
   format: Dance, hip-hop, pop, reggae, rock, and trance music
   notes: Home 89.1 is a Greek radio station broadcasting from Chalkida (Chios), Euboea island. Commercial operation with format emphasizing dance, electronic, hip-hop, pop, reggae, and rock music. Appeals to younger audiences with contemporary music programming.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-feb9cb24-46a1-487f-ac9b-fc7790b01cc0
+  - iprd-gr-home-89-1-381dd315
+streams:
+  - url: http://185.14.203.115:8004/stream?type=http&nocache=109
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.home891.gr/stream?type=http&nocache=808
+    codec: MP3
+    bitrate: 128

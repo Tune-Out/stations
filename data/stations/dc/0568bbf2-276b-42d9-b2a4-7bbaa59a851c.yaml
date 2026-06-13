@@ -1,7 +1,7 @@
 stationuuid: 0568bbf2-276b-42d9-b2a4-7bbaa59a851c
 name: 4BU 1332 AM Classic Hits Bundaberg
 url: http://www.surfmusic.de/m3u/4bu-1332-am,18581.m3u
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC
+url_resolved: 'https://13743.live.streamtheworld.com:443/BUN_4BUAAC_SC'
 homepage: https://www.4bu.com.au/
 favicon: https://www.4bu.com.au/wp-content/uploads/sites/24/2022/10/cropped-SQL_BDB_4BU-512x512-favicon-2.png?w=180
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-0568bbf2-276b-42d9-b2a4-7bbaa59a851c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Commercial radio with music, local content, and talk shows; "The Big Breakfast", "Jonesy & Amanda", "The Christian O'Connell Show", "Morning Glory with Matty Johns"
   notes: Founded as Bundaberg Broadcasters Pty Ltd (ACN 009 662 346). Emphasizes community connection and local engagement; operates "LOOK LOCAL Business Guide", pet recovery services, and emergency information services.
   sources: https://www.4bu.com.au/
+curation: 0.35
+provenance:
+  - radiobrowser-0568bbf2-276b-42d9-b2a4-7bbaa59a851c

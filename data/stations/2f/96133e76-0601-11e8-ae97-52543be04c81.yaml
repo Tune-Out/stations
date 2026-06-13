@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96133e76-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3?_=1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,15 @@ research:
   format: Interactive early childhood programming; educational activities designed for active participation
   notes: 'Swiss radio station uniquely designed for 0-8 year-olds. Mission: "Une radio pour les 0 à 8 ans" (A radio station for 0-8 year-olds). Emphasizes active participation and development of senses, language, listening, concentration, movement coordination, artistic expression and creativity. Broadcast partnership with Swiss public broadcaster RTS La Première.'
   sources: radioouistiti.ch
+curation: 0.35
+provenance:
+  - radiobrowser-96133e76-0601-11e8-ae97-52543be04c81
+  - iprd-ch-radio-ouistiti-1de09049
+  - iprd-ch-radio-ouistiti-7731ea7b
+streams:
+  - url: http://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3?_=1
+    codec: MP3
+    bitrate: 128

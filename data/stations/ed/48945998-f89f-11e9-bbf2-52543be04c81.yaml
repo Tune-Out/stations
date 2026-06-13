@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 00:27:30
 clickcount: 1
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.50
-provenance:
-  - radiobrowser-48945998-f89f-11e9-bbf2-52543be04c81
-streams:
-  - url: 'http://stream.radioparadise.com/eclectic-320'
-    codec: AAC
-    bitrate: 320
-  - url: 'http://stream.radioparadise.com/eclectic-128'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream.radioparadise.com/eclectic-192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +30,20 @@ research:
   format: Eclectic mix radio featuring diverse music genres across multiple playback qualities
   notes: Non-commercial, listener-supported internet radio station based in California; free ad-supported streaming (192kbps MP3); emphasizes "An eclectic musical adventure" with human curation; founded by independent operators; tagline "free radio" emphasizing accessibility and diversity.
   sources: https://radioparadise.com/
+curation: 0.5
+provenance:
+  - radiobrowser-48945998-f89f-11e9-bbf2-52543be04c81
+  - iprd-us-radio-paradise-eclectic-mix-e510e83a
+  - iprd-us-radio-paradise-eclectic-mix-c92710a2
+  - iprd-us-radio-paradise-eclectic-mix-f179a8d4
+  - iprd-us-radio-paradise-eclectic-mix-flac-8c6d3238
+streams:
+  - url: http://stream.radioparadise.com/eclectic-320
+    codec: AAC
+    bitrate: 320
+  - url: http://stream.radioparadise.com/eclectic-128
+    codec: AAC
+    bitrate: 128
+  - url: http://stream.radioparadise.com/eclectic-192
+    codec: MP3
+    bitrate: 192

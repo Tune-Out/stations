@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 04:56:18
 clickcount: 1
 geo_lat: 14.904771247181298
 geo_long: -92.25914955139162
-curation: -0.05
-provenance:
-  - radiobrowser-4daf6325-78b6-49d2-8495-e5798843055a
-streams:
-  - url: 'https://streaming.servicioswebmx.com/8248/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streaming.servicioswebmx.com/8248/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,14 @@ research:
   format: News, talk, and music radio; news, sports, entertainment and pop music
   notes: Commercial radio station (XHTAC-FM) in Tapachula serving southern Chiapas region. Part of W Radio network owned by NTR Medios.
   sources: https://wradio.com.mx/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-4daf6325-78b6-49d2-8495-e5798843055a
+  - iprd-mx-exa-91-5-1000-xhtac-xetac-0e19e196
+streams:
+  - url: https://streaming.servicioswebmx.com/8248/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://streaming.servicioswebmx.com/8248/stream
+    codec: MP3
+    bitrate: 128

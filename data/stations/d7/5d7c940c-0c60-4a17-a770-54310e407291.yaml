@@ -19,14 +19,6 @@ lastchangetime: 2026-05-17 10:51:20
 clickcount: 1
 geo_lat: 51.04707625341115
 geo_long: 3.711745177190005
-curation: 0.50
-provenance:
-  - radiobrowser-5d7c940c-0c60-4a17-a770-54310e407291
-streams:
-  - url: 'http://icecast.vrtcdn.be/ra2ovl.aac'
-    codec: AAC
-  - url: 'http://icecast.vrtcdn.be/ra2ovl-high.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -36,3 +28,12 @@ research:
   format: News, music, talk, cultural programming (public radio)
   notes: VRT Radio 2 Oost-Vlaanderen is a regional service of VRT's Radio 2 network serving East Flanders. Non-commercial public broadcaster funded by Flemish community.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-5d7c940c-0c60-4a17-a770-54310e407291
+  - iprd-be-vrt-radio-2-oost-vlaanderen-b90ddf08
+streams:
+  - url: http://icecast.vrtcdn.be/ra2ovl.aac
+    codec: AAC
+  - url: http://icecast.vrtcdn.be/ra2ovl-high.mp3
+    codec: MP3

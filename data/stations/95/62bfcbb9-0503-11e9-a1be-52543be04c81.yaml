@@ -23,17 +23,6 @@ lastchangetime: 2026-01-14 23:56:14
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-62bfcbb9-0503-11e9-a1be-52543be04c81
-streams:
-  - url: 'http://fr2.1mix.co.uk:8060/320'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://1mix.co.uk/trance/listenh.m3u'
-    url_resolved: 'http://fr2.1mix.co.uk:8000/192'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -43,3 +32,15 @@ research:
   format: 24/7 uplifting trance and EDM, including DJ mixes, artist guest shows, and continuous mix programming; the station also operates EDM and Dance sister channels
   notes: "1Mix Radio launched in 2006 and describes itself as \"Your #1 on-line station\" with \"almost 20 years of bringing only the best artists playing the best music\"; ad-supported with multiple bitrate streams (32k-320k MP3) and apps for web, mobile, and Alexa; notable shows include Veselin Tasev's \"Danse Avec Moi,\" Flux BPM, \"Dreamland Trance,\" and \"Redux Sessions with DJ Jayel\"; one of the longest-running independent trance-format internet radio brands; community ethos: \"Be part of our family\" and \"You just don't hear trance, you feel it.\""
   sources: http://www.1mix.co.uk/, internal knowledge
+curation: 0.45
+provenance:
+  - radiobrowser-62bfcbb9-0503-11e9-a1be-52543be04c81
+  - iprd-gb-1mix-radio-trance-b9f1ed0b
+streams:
+  - url: http://fr2.1mix.co.uk:8060/320
+    codec: MP3
+    bitrate: 320
+  - url: http://1mix.co.uk/trance/listenh.m3u
+    url_resolved: http://fr2.1mix.co.uk:8000/192
+    codec: MP3
+    bitrate: 192

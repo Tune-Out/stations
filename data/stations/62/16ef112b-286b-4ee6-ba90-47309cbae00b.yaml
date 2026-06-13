@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 06:26:48
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-16ef112b-286b-4ee6-ba90-47309cbae00b
-streams:
-  - url: 'http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/radio_russia/index.m3u8'
-    codec: AAC
-    bitrate: 392
-    hls: true
-  - url: 'https://vestiorel.ru/radio-rossii'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -41,3 +30,14 @@ research:
   format: Public broadcasting; news, culture, and entertainment
   notes: Radio Russia (Радио России) is a Russian state-funded public broadcaster operated through GTRK Orel regional station. Part of VGTRK, the Russian state broadcasting system covering national and local programming in Orel region.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-16ef112b-286b-4ee6-ba90-47309cbae00b
+streams:
+  - url: http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/radio_russia/index.m3u8
+    codec: AAC
+    bitrate: 392
+    hls: true
+  - url: https://vestiorel.ru/radio-rossii
+    codec: MP3
+    bitrate: 128

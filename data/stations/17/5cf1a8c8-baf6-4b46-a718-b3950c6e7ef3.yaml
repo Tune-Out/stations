@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 04:31:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5cf1a8c8-baf6-4b46-a718-b3950c6e7ef3
-streams:
-  - url: 'http://lhttp.qingting.fm/live/4967/64k.mp3'
-    codec: MP3
-  - url: 'https://lhttp.qtfm.cn/live/4967/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -39,3 +31,12 @@ research:
   format: Traffic information, news, music, public service announcements for traffic conditions
   notes: 长春交通之声 (Changchun Traffic Voice) is a public-service traffic radio station in Changchun, Jilin Province, broadcasting traffic conditions, news, and public information for the region.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5cf1a8c8-baf6-4b46-a718-b3950c6e7ef3
+  - iprd-cn-changchun-traffic-voice-96-8-2f62ddd5
+streams:
+  - url: http://lhttp.qingting.fm/live/4967/64k.mp3
+    codec: MP3
+  - url: https://lhttp.qtfm.cn/live/4967/64k.mp3
+    codec: MP3

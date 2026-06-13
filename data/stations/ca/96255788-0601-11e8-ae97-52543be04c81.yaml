@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:35:30
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.90
-provenance:
-  - radiobrowser-96255788-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://kera-ice.streamguys.us/keraliveaacplus'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://kera-ice.streamguys.us/keralive'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: News and information; weekday Think with Krys Boyd (guests, authors, political leaders); NPR programming; Texas Standard (Austin); BBC World Service overnight
   notes: Licensed to Dallas, Texas; reaches 3 translators (Tyler 100.1 FM, Wichita Falls 88.3 FM, Sherman-Denison 99.3 FM); multi-platform (KERA TV, FM, KERA WORLD, KXT); 2 million weekly reach
   sources: https://en.wikipedia.org/wiki/KERA_(FM), https://www.kera.org/
+curation: 0.9
+provenance:
+  - radiobrowser-96255788-0601-11e8-ae97-52543be04c81
+  - iprd-us-kera-90-1-0cee69cb
+  - iprd-us-kera-90-1-712815eb
+streams:
+  - url: http://kera-ice.streamguys.us/keraliveaacplus
+    codec: AAC+
+    bitrate: 64
+  - url: http://kera-ice.streamguys.us/keralive
+    codec: MP3
+    bitrate: 64

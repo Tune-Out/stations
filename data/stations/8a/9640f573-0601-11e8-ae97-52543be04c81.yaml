@@ -1,6 +1,6 @@
 stationuuid: 9640f573-0601-11e8-ae97-52543be04c81
 name: XHVAY-FM "Amor 92.7" Puerto Vallarta, JA
-url: http://provisioning.streamtheworld.com/pls/XHVAYFMAAC.pls
+url: 'http://18493.live.streamtheworld.com:80/XHVAYFMAAC_SC'
 url_resolved: http://29223.live.streamtheworld.com/XHVAYFMAAC_SC
 homepage: https://amorfm.mx/amor-nacional/amor-vallarta/programacion-amor-vallarta/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:47:54
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9640f573-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Música romántica (Spanish romantic music), ballads, love songs
   notes: Commercial FM radio station XHVAY-FM broadcasting as "Amor 92.7" in Puerto Vallarta, Jalisco, Mexico. Part of the Amor FM national network. Specializes in romantic and sentimental Spanish music targeting adult audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9640f573-0601-11e8-ae97-52543be04c81

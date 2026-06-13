@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-49d58862-1f99-4d04-9374-b3c1cfbdc092
-streams:
-  - url: 'http://79.120.39.202:8000/deephouse'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://79.120.39.202:8002/deephouse'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,13 @@ research:
   format: Deep house, chill house, electronic music
   notes: Russian-based internet radio platform with multiple genre streams. Part of Radio Caprice network offering curated electronic music channels.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-49d58862-1f99-4d04-9374-b3c1cfbdc092
+streams:
+  - url: http://79.120.39.202:8000/deephouse
+    codec: AAC+
+    bitrate: 320
+  - url: http://79.120.39.202:8002/deephouse
+    codec: AAC+
+    bitrate: 48

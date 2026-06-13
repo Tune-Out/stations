@@ -22,16 +22,6 @@ lastchangetime: 2026-02-16 18:14:43
 clickcount: 0
 geo_lat: 46.932258638542514
 geo_long: 26.369403393960724
-curation: -0.05
-provenance:
-  - radiobrowser-3d00b074-cf9f-4739-89d4-9f688ea563c5
-streams:
-  - url: 'https://terrafm.ro/playlist.m3u'
-    url_resolved: 'https://cloud.radiosonicpanel.ro/8022/stream'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream.zeno.fm/ys8npw9ccxhvv'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Dance and pop music; contemporary commercial format.
   notes: Terra FM is a Romanian commercial radio station focusing on dance and pop music genres. Operates from terrafm.ro domain with streaming infrastructure. Independent local broadcaster. Limited publicly available information; serves Romanian music audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3d00b074-cf9f-4739-89d4-9f688ea563c5
+streams:
+  - url: https://terrafm.ro/playlist.m3u
+    url_resolved: https://cloud.radiosonicpanel.ro/8022/stream
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream.zeno.fm/ys8npw9ccxhvv
+    codec: AAC

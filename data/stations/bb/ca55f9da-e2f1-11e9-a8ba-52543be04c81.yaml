@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ca55f9da-e2f1-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.regenbogen.de/rr-musical-128-mp3'
-    codec: AAC
-  - url: 'http://streams.regenbogen.de/rr-musical-64-aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Musical and film hits; entertainment and theatre music
   notes: German commercial radio network offering multiple internet stream channels; "Musical und Filmhits" specializes in music from musicals, films, and theatrical productions.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ca55f9da-e2f1-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.regenbogen.de/rr-musical-128-mp3
+    codec: AAC
+  - url: http://streams.regenbogen.de/rr-musical-64-aac
+    codec: AAC

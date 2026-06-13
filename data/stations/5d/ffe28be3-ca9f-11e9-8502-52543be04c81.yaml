@@ -19,22 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ffe28be3-ca9f-11e9-8502-52543be04c81
-streams:
-  - url: 'https://hermes.bcs-systems.de/hitradio-rtl_simulcast__dresden_192k_mp3'
-    codec: AAC
-  - url: 'http://streams.bcs-systems.de/hrrtl/90er/sachsen/mp3/web'
-    codec: AAC
-  - url: 'http://streams.bcs-systems.de/hrrtl/oldies/sachsen/mp3/web'
-    codec: AAC
-  - url: 'http://streams.bcs-systems.de/hrrtl/2000er/sachsen/mp3/web'
-    codec: AAC
-  - url: 'http://streams.bcs-systems.de/hrrtl/80er/sachsen/mp3/web'
-    codec: AAC
-  - url: 'https://hermes.bcs-systems.de/hitradio-rtl_XMAS_192k_mp3'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +28,19 @@ research:
   format: contemporary hit radio, music, entertainment, local news
   notes: Commercial FM radio station serving Saxony region in eastern Germany; part of RTL Deutschland radio group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ffe28be3-ca9f-11e9-8502-52543be04c81
+streams:
+  - url: https://hermes.bcs-systems.de/hitradio-rtl_simulcast__dresden_192k_mp3
+    codec: AAC
+  - url: http://streams.bcs-systems.de/hrrtl/90er/sachsen/mp3/web
+    codec: AAC
+  - url: http://streams.bcs-systems.de/hrrtl/oldies/sachsen/mp3/web
+    codec: AAC
+  - url: http://streams.bcs-systems.de/hrrtl/2000er/sachsen/mp3/web
+    codec: AAC
+  - url: http://streams.bcs-systems.de/hrrtl/80er/sachsen/mp3/web
+    codec: AAC
+  - url: https://hermes.bcs-systems.de/hitradio-rtl_XMAS_192k_mp3
+    codec: AAC

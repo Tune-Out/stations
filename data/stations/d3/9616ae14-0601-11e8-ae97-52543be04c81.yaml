@@ -21,22 +21,6 @@ lastchangetime: 2026-01-15 03:48:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9616ae14-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284321-0_mp3_high.m3u'
-    url_resolved: 'http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284321-0_aac_high.m3u'
-    url_resolved: 'http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284321-0_mp3_low.m3u'
-    url_resolved: 'http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +30,22 @@ research:
   format: Youth-oriented music, trends, and entertainment programming
   notes: MDR Jump is the youth music channel of Mitteldeutscher Rundfunk, a regional German public broadcaster; part of ARD federation; serves youth audience with contemporary music and trends
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9616ae14-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-jump-trend-ac0dd38b
+  - iprd-de-mdr-jump-trend-3ac7cf0f
+  - iprd-de-mdr-jump-trend-8978b57a
+streams:
+  - url: http://avw.mdr.de/streams/284321-0_mp3_high.m3u
+    url_resolved: http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284321-0_aac_high.m3u
+    url_resolved: http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284321-0_mp3_low.m3u
+    url_resolved: http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 83cafc67-c6ac-47f3-b580-e51b568ebd6d
 name: Sports Radio 740
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC.aac
+url: 'https://18153.live.streamtheworld.com:443/WMSPAMAAC.aac'
+url_resolved: 'https://18153.live.streamtheworld.com:443/WMSPAMAAC.aac'
 homepage: https://www.sportsradio740.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3278/squareIcon.png?r=92794
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:35:26
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-83cafc67-c6ac-47f3-b580-e51b568ebd6d
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports talk radio; sports news and commentary
   notes: Sports radio station serving Montgomery, Alabama; talk format focused on sports content
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-83cafc67-c6ac-47f3-b580-e51b568ebd6d

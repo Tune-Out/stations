@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:44:14
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-44045d33-5067-42d6-9e8e-614dbc9f172f
-streams:
-  - url: 'http://retro80.hostingradio.ru:8025/retro80-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://retro80.hostingradio.ru:8025/retro80-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 1980s music, retro/classic hits
   notes: Retro FM 80s specializes in 1980s music from Soviet and Western sources.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-44045d33-5067-42d6-9e8e-614dbc9f172f
+  - iprd-ru-retro-fm-80e-d5d29055
+streams:
+  - url: http://retro80.hostingradio.ru:8025/retro80-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://retro80.hostingradio.ru:8025/retro80-128.mp3
+    codec: MP3
+    bitrate: 128

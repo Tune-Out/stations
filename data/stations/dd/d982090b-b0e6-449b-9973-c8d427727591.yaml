@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-d982090b-b0e6-449b-9973-c8d427727591
-streams:
-  - url: 'https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320'
-    codec: AAC+
-    bitrate: 320
-  - url: 'https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,13 @@ research:
   format: Religious programming, Christian music, worship, evangelical teaching
   notes: Radio operated by Misión Cristiana Elim church; evangelical pentecostal denomination; 100.5 FM in El Salvador; religious and spiritual programming focus.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-d982090b-b0e6-449b-9973-c8d427727591
+streams:
+  - url: https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320
+    codec: AAC+
+    bitrate: 320
+  - url: https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64
+    codec: AAC+
+    bitrate: 64

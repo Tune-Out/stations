@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:42:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960711fd-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Contemporary music and entertainment; French commercial radio format
   notes: Regional French station in Nouvelle-Aquitaine; 128 kbps MP3 stream; contemporary pop and entertainment programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960711fd-0601-11e8-ae97-52543be04c81
+  - iprd-fr-wit-7b14a06b
+streams:
+  - url: http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 3402502d-b354-425b-b211-af932016889e
 name: K ROCK 95.5 - Geelong - 95.5 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/GEE_KROCKAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/GEE_KROCKAAC.aac
+url: 'http://29309.live.streamtheworld.com:80/GEE_KROCKAAC.aac'
+url_resolved: 'http://29309.live.streamtheworld.com:80/GEE_KROCKAAC.aac'
 homepage: https://www.krock.com.au/
 favicon: https://i.ibb.co/BsKbJwf/61ea50c2dcdc455f530c0413.jpg
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 07:10:26
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3402502d-b354-425b-b211-af932016889e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Contemporary hit radio with comedy, sports coverage, and top 40 music
   notes: K ROCK 95.5 FM broadcasts on 95.5 FM in Geelong, Victoria; commercial contemporary hit radio station serving local and regional audiences
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-3402502d-b354-425b-b211-af932016889e

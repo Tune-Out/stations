@@ -1,7 +1,7 @@
 stationuuid: 98bbb05e-69b9-4d50-8434-1fee1b3457d8
 name: 106.5 The Buzz WHBZ
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WHBZFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WHBZFM.mp3
+url: 'https://27143.live.streamtheworld.com:443/WHBZFM.mp3'
+url_resolved: 'https://27143.live.streamtheworld.com:443/WHBZFM.mp3'
 homepage: https://1065thebuzz.com/
 favicon: https://1065thebuzz.com/favicon.ico
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-98bbb05e-69b9-4d50-8434-1fee1b3457d8
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Contemporary hit radio; music and entertainment focused
   notes: Commercial FM radio station 106.5 The Buzz broadcasting in Wisconsin market. Format emphasizes contemporary hits and entertainment programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-98bbb05e-69b9-4d50-8434-1fee1b3457d8

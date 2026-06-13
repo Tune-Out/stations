@@ -25,19 +25,6 @@ lastchangetime: 2026-01-15 07:21:49
 clickcount: 4
 geo_lat: 48.793149177095145
 geo_long: 9.203737378120424
-curation: 0.70
-provenance:
-  - radiobrowser-a8993599-f98d-49f4-b64a-869fcb45e527
-streams:
-  - url: 'https://liveradio.swr.de/sw331ch/swr2/'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://liveradio.swr.de/sw282p3/swr2/'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://liveradio.swr.de/sw282p3/swr2/play.mp3'
-    codec: MP3
-    bitrate: 256
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +34,16 @@ research:
   format: classical music, jazz, culture, information programming with educational focus
   notes: SWR 2 is the culture and information channel of Südwestrundfunk; part of ARD, the German public broadcasting cooperative; funded through mandatory public broadcasting fees; broadcasts in high-quality MP3 (256kbps); based in Stuttgart, Baden-Württemberg; known for sophisticated cultural programming, live classical concerts, jazz features, and documentary journalism.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-a8993599-f98d-49f4-b64a-869fcb45e527
+streams:
+  - url: https://liveradio.swr.de/sw331ch/swr2/
+    codec: AAC
+    bitrate: 96
+  - url: https://liveradio.swr.de/sw282p3/swr2/
+    codec: MP3
+    bitrate: 256
+  - url: https://liveradio.swr.de/sw282p3/swr2/play.mp3
+    codec: MP3
+    bitrate: 256

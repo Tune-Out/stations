@@ -1,7 +1,7 @@
 stationuuid: 5ba20275-c688-4a1b-b2be-87386c050149
 name: SWR 99.9 FM - Blacktown - 99.9 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/SWRFMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/SWRFMAAC.aac
+url: 'http://28903.live.streamtheworld.com:80/SWRFMAAC.aac'
+url_resolved: 'http://28903.live.streamtheworld.com:80/SWRFMAAC.aac'
 homepage: https://www.swr999.com.au/
 favicon: ""
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:13:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-5ba20275-c688-4a1b-b2be-87386c050149
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Community radio serving Blacktown area, NSW with music and local content programming
   notes: 99.9 FM community station serving Blacktown and surrounding suburbs of Sydney
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-5ba20275-c688-4a1b-b2be-87386c050149

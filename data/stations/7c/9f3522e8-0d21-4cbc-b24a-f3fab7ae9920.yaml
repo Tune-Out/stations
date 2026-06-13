@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 08:10:11
 clickcount: 1
 geo_lat: -34.65223485371526
 geo_long: -58.67782294750214
-curation: -0.05
-provenance:
-  - radiobrowser-9f3522e8-0d21-4cbc-b24a-f3fab7ae9920
-streams:
-  - url: 'https://cdn.instream.audio/:9069/stream'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://cdn.instream.audio/:9069/stream?in_device_id=wp-0bd8ae0e-61bb-4c85-8d42-818ab95f0da2'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://cdn.instream.audio/:9069/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988'
-    codec: AAC
-    bitrate: 96
-  - url: 'https://cdn.instream.audio//:9069//stream'
-    codec: AAC
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -48,3 +32,20 @@ research:
   format: News, music, and popular culture programming
   notes: 90.3 FM; Buenos Aires-based commercial station
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9f3522e8-0d21-4cbc-b24a-f3fab7ae9920
+  - iprd-ar-delta-90-3-cc9a2101
+streams:
+  - url: https://cdn.instream.audio/:9069/stream
+    codec: AAC
+    bitrate: 96
+  - url: https://cdn.instream.audio/:9069/stream?in_device_id=wp-0bd8ae0e-61bb-4c85-8d42-818ab95f0da2
+    codec: AAC
+    bitrate: 96
+  - url: https://cdn.instream.audio/:9069/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988
+    codec: AAC
+    bitrate: 96
+  - url: https://cdn.instream.audio//:9069//stream
+    codec: AAC
+    bitrate: 96

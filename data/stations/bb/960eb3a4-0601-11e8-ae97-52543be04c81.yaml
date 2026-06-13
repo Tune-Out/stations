@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 02:15:14
 clickcount: 3
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.70
-provenance:
-  - radiobrowser-960eb3a4-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://somafm.com/dubstep130.pls'
-    url_resolved: 'https://ice6.somafm.com/dubstep-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/dubstep256.pls'
-    url_resolved: 'https://ice6.somafm.com/dubstep-256-mp3'
-    codec: MP3
-    bitrate: 256
-  - url: 'https://somafm.com/dubstep.pls'
-    url_resolved: 'https://ice2.somafm.com/dubstep-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -48,3 +32,30 @@ research:
   format: Dubstep, dub, and deep bass music; described as "more than just Skrillex-style music"
   notes: Commercial-free, listener-supported (monthly supporter program available); global internet radio with multiple streaming quality options; curated deep bass emphasis; merchandise and merchandise sales; established 2000; operating continuously since.
   sources: https://somafm.com/dubstep/
+curation: 0.7
+provenance:
+  - radiobrowser-960eb3a4-0601-11e8-ae97-52543be04c81
+  - iprd-us-somafm-dub-step-beyond-58fba2d7
+  - iprd-us-somafm-dub-step-beyond-7eda008a
+  - iprd-us-christmas-lounge-3309903a
+  - iprd-us-groove-salad-937fc351
+  - iprd-us-jolly-ol-soul-071f02d6
+  - iprd-us-n5md-radio-8b1f53da
+  - iprd-us-somafm-xmas-in-frisko-f6d3fee9
+  - iprd-us-somafm-black-rock-95cb9893
+  - iprd-us-somafm-black-rock-31803bc9
+  - iprd-us-somafm-xmas-in-friskko-0a343502
+  - iprd-us-underground-80s-7744052f
+streams:
+  - url: https://somafm.com/dubstep130.pls
+    url_resolved: https://ice6.somafm.com/dubstep-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/dubstep256.pls
+    url_resolved: https://ice6.somafm.com/dubstep-256-mp3
+    codec: MP3
+    bitrate: 256
+  - url: https://somafm.com/dubstep.pls
+    url_resolved: https://ice2.somafm.com/dubstep-128-mp3
+    codec: MP3
+    bitrate: 128

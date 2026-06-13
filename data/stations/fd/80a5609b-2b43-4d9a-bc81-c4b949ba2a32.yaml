@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:09:18
 clickcount: 1
 geo_lat: 45.77887803601733
 geo_long: -64.10230636596681
-curation: 0.35
-provenance:
-  - radiobrowser-80a5609b-2b43-4d9a-bc81-c4b949ba2a32
-streams:
-  - url: 'https://s15.myradiostream.com/:14808/stream.mp3?_=1'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://176.31.118.39:14808/;.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Community radio programming
   notes: Licensed community radio station serving Amherst and surrounding Tantramar region in Nova Scotia. Community-oriented format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-80a5609b-2b43-4d9a-bc81-c4b949ba2a32
+  - iprd-ca-cfta-107-9-tantramar-b3ae360e
+streams:
+  - url: https://s15.myradiostream.com/:14808/stream.mp3?_=1
+    codec: MP3
+    bitrate: 128
+  - url: http://176.31.118.39:14808/;.mp3
+    codec: MP3
+    bitrate: 128

@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 2
 geo_lat: 40.44674294130834
 geo_long: -79.94473099708559
-curation: 0.70
-provenance:
-  - radiobrowser-9495f879-e32c-4967-98bf-e112a29b402e
-streams:
-  - url: 'https://ice-1.streamhoster.com/lv_wqed--893'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://ice-1.streamhoster.com/lv_wqed--893'
-    codec: AAC
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +33,14 @@ research:
   format: Classical music, opera, symphonic performances, arts programming
   notes: "\"The nation's first community-supported television station\"; broadcasts WQED-TV, WQED-FM 89.3, and streaming channels including Pittsburgh Concert Channel and Pittsburgh Symphony Radio; mission \"champions communities by telling stories & creating experiences that educate, entertain & inspire neighbors\"; national syndication of Pittsburgh Symphony Radio."
   sources: https://www.wqed.org/fm
+curation: 0.7
+provenance:
+  - radiobrowser-9495f879-e32c-4967-98bf-e112a29b402e
+  - iprd-us-wqed-89-3-ae3dacdf
+streams:
+  - url: https://ice-1.streamhoster.com/lv_wqed--893
+    codec: AAC
+    bitrate: 192
+  - url: http://ice-1.streamhoster.com/lv_wqed--893
+    codec: AAC
+    bitrate: 192

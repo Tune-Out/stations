@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-ff7980fe-c099-4321-896b-ab05bb99d078
-streams:
-  - url: 'https://radioulitka.ru/mount'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://air.radioulitka.ru:8000/ulitka_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,14 @@ research:
   format: Music and cultural programming
   notes: Russian internet radio station. Name "Ulitka" means "snail" in Russian. Multiple stream options available.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-ff7980fe-c099-4321-896b-ab05bb99d078
+  - iprd-ru-radio-ulitka-warthunder-be6c9b0a
+streams:
+  - url: https://radioulitka.ru/mount
+    codec: MP3
+    bitrate: 192
+  - url: http://air.radioulitka.ru:8000/ulitka_128
+    codec: MP3
+    bitrate: 128

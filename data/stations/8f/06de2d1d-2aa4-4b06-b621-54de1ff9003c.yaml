@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:56:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-06de2d1d-2aa4-4b06-b621-54de1ff9003c
-streams:
-  - url: 'http://us1.internet-radio.com:8321/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://us1.internet-radio.com/proxy/xrds?mp=/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,13 @@ research:
   format: Blues, roots, americana music
   notes: '"Your online streaming radio station for Blues, Roots & Americana Radio from The Crossroads in Clarksdale Mississippi." Based in the historic blues region of Mississippi.'
   sources: https://www.xrds.fm/
+curation: 0.4
+provenance:
+  - radiobrowser-06de2d1d-2aa4-4b06-b621-54de1ff9003c
+streams:
+  - url: http://us1.internet-radio.com:8321/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://us1.internet-radio.com/proxy/xrds?mp=/stream
+    codec: MP3
+    bitrate: 128

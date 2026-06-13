@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 03:40:06
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-251e6b0c-2536-4a15-a948-2f6bbf5fb14b
-streams:
-  - url: 'https://radiorecord.hostingradio.ru/lofi96.aacp'
-    codec: AAC
-  - url: 'http://radiorecord.hostingradio.ru/lofi96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +32,13 @@ research:
   format: Lo-fi, chill, chill beats, chillhop, jazzhop
   notes: Russian commercial internet radio station specializing in lo-fi and chill music format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-251e6b0c-2536-4a15-a948-2f6bbf5fb14b
+  - iprd-ru-radio-record-lo-fi-971641c0
+  - iprd-ru-radio-rekord-lo-fi-56dd3700
+streams:
+  - url: https://radiorecord.hostingradio.ru/lofi96.aacp
+    codec: AAC
+  - url: http://radiorecord.hostingradio.ru/lofi96.aacp
+    codec: AAC

@@ -22,14 +22,6 @@ lastchangetime: 2026-01-14 23:26:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-53597adc-3188-43f3-93a8-c189adc29794
-streams:
-  - url: 'http://lhttp.qingting.fm/live/5022079/64k.mp3?'
-    codec: MP3
-  - url: 'http://lhttp.qingting.fm/live/5022079/64k.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -39,3 +31,13 @@ research:
   format: Traffic, transportation, and local news programming in Mandarin Chinese.
   notes: Municipal traffic and news station serving Haikou. Part of China's state broadcasting system. Focus on traffic conditions, transportation updates, and local news.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-53597adc-3188-43f3-93a8-c189adc29794
+  - iprd-cn-hainan-traffic-broadcasting-1ce01e32
+  - iprd-cn-haikou-traffic-broadcasting-b81394a1
+streams:
+  - url: http://lhttp.qingting.fm/live/5022079/64k.mp3?
+    codec: MP3
+  - url: http://lhttp.qingting.fm/live/5022079/64k.mp3
+    codec: MP3

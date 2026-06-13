@@ -22,24 +22,6 @@ lastchangetime: 2026-01-15 08:08:04
 clickcount: 60
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-960969eb-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://provisioning.streamtheworld.com/pls/VIRGIN_RADIOAAC.pls'
-    url_resolved: 'http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls'
-    url_resolved: 'http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +31,21 @@ research:
   format: Pop rock and modern rock — international and Turkish hits, alternative and indie tracks, DJ-led morning and drive-time shows.
   notes: Launched in Türkiye in 2008 after Doğuş Media Group acquired the licence to operate the Virgin Radio brand; broadcasts on FM in Istanbul (104.7) and other major Turkish cities and is one of the country's leading rock-oriented commercial stations; sister stations under Karnaval include Radyo D, Slow Türk, Kral FM and Power-related brands within the broader media holding; the station's homepage redirects to karnaval.com (Doğuş's streaming portal).
   sources: http://www.virginradioturkiye.com/, https://karnaval.com/radyolar/virginradio, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-960969eb-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC
+    codec: AAC+
+    bitrate: 64
+  - url: https://provisioning.streamtheworld.com/pls/VIRGIN_RADIOAAC.pls
+    url_resolved: http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC
+    codec: AAC+
+    bitrate: 64
+  - url: http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls
+    url_resolved: http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
+    codec: MP3
+    bitrate: 64
+  - url: http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
+    codec: MP3
+    bitrate: 64

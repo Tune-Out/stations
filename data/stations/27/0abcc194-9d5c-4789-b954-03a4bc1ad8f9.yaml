@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:42:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-0abcc194-9d5c-4789-b954-03a4bc1ad8f9
-streams:
-  - url: 'https://streaming.napocalive.ro/radio-dacia03'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radiodacia03.live.nt.ro/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +33,13 @@ research:
   format: Pop, dance, pop-rock, jazz, traditional Romanian, classical; motivational and wellness content
   notes: 'Mission: "generate a perpetual state of well-being, courage, happiness, confidence, dignity, unity, wisdom, love and peace through motivational messages and quotes from diverse fields." Claims to be among the first radios promoting alternatives for better and more prosperous living. Launched February 24, 2024.'
   sources: https://radiodacia.ro/
+curation: 0.5
+provenance:
+  - radiobrowser-0abcc194-9d5c-4789-b954-03a4bc1ad8f9
+streams:
+  - url: https://streaming.napocalive.ro/radio-dacia03
+    codec: MP3
+    bitrate: 192
+  - url: https://radiodacia03.live.nt.ro/
+    codec: MP3
+    bitrate: 192

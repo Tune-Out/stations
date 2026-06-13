@@ -1,6 +1,6 @@
 stationuuid: 9649e759-0601-11e8-ae97-52543be04c81
 name: WNTA "Sports Fan Radio 1330" Rockford, IL
-url: http://provisioning.streamtheworld.com/pls/WNTAAMAAC.pls
+url: 'http://17573.live.streamtheworld.com:80/WNTAAMAAC_SC'
 url_resolved: http://17573.live.streamtheworld.com:3690/WNTAAMAAC_SC
 homepage: http://www.sportsfanradio1330.com/
 favicon: https://sportsfanradio1330.com/favicon@2x.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 05:00:15
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9649e759-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports talk and play-by-play coverage
   notes: WNTA "Sports Fan Radio 1330" broadcasts sports programming, talk, and local sports coverage to the Rockford, Illinois area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9649e759-0601-11e8-ae97-52543be04c81

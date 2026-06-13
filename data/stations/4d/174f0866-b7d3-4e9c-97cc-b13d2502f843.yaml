@@ -22,16 +22,6 @@ lastchangetime: 2026-05-21 09:43:25
 clickcount: 0
 geo_lat: 46.769530461619155
 geo_long: 23.58980029821396
-curation: 0.50
-provenance:
-  - radiobrowser-174f0866-b7d3-4e9c-97cc-b13d2502f843
-streams:
-  - url: 'https://radiodacia02.live.nt.ro/'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streaming.napocalive.ro/radio-dacia02'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Pop, adult contemporary, dance, relaxation, motivational messaging across six themed channels
   notes: 'Launched February 24, 2024. Online radio promoting wellness through music and positive messaging. Mission: "to generate a perpetual state of well-being, courage, happiness, confidence, dignity, unity, wisdom, love and peace." Six channels: Energie (dance/electronic), Paradis (pop-rock), Relax (soft pop/jazz), Calm (meditative), Classic Mix (classical), Traditional (Romanian folk).'
   sources: internal knowledge only; https://radiodacia.ro/
+curation: 0.5
+provenance:
+  - radiobrowser-174f0866-b7d3-4e9c-97cc-b13d2502f843
+streams:
+  - url: https://radiodacia02.live.nt.ro/
+    codec: MP3
+    bitrate: 192
+  - url: https://streaming.napocalive.ro/radio-dacia02
+    codec: MP3
+    bitrate: 192

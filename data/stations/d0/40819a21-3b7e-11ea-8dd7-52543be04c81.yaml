@@ -23,14 +23,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 20
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-40819a21-3b7e-11ea-8dd7-52543be04c81
-streams:
-  - url: 'http://streams.90s90s.de/grunge/mp3-192/'
-    codec: MP3
-  - url: 'http://streams.90s90s.de/grunge/mp3-192/streams.90s90s.de/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Commercial music radio featuring decade-specific programming; Grunge specializes in 1990s rock and grunge music with tagline "Wütende Musik der 90er" (angry music of the 90s)
   notes: Operating since 1990s nostalgia revival; genre-specific stations include Grunge, Rock, Hip-Hop, House, Techno; offers podcasts ("Pop Crimes") and shows like "Rob Green Morning"; 90s Countdown interactive features
   sources: https://www.90s90s.de/radios/grunge
+curation: -0.05
+provenance:
+  - radiobrowser-40819a21-3b7e-11ea-8dd7-52543be04c81
+streams:
+  - url: http://streams.90s90s.de/grunge/mp3-192/
+    codec: MP3
+  - url: http://streams.90s90s.de/grunge/mp3-192/streams.90s90s.de/
+    codec: MP3

@@ -25,15 +25,6 @@ lastchangetime: 2026-04-16 16:41:19
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3f974c29-79be-487f-9af5-b959aab2ae3a
-streams:
-  - url: 'http://media-ice.nkpa.co.uk:8018/high'
-    codec: AAC
-    bitrate: 320
-  - url: 'http://uksoutha.streaming.broadcast.radio:11510/creation'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +34,12 @@ research:
   format: Hot adult contemporary, pop, and top 40 hits
   notes: Community radio station serving Kent in Southeast England; focuses on contemporary pop and hits music; part of UK community radio sector
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-3f974c29-79be-487f-9af5-b959aab2ae3a
+streams:
+  - url: http://media-ice.nkpa.co.uk:8018/high
+    codec: AAC
+    bitrate: 320
+  - url: http://uksoutha.streaming.broadcast.radio:11510/creation
+    codec: MP3

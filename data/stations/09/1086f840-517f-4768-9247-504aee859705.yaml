@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 02:32:41
 clickcount: 0
 geo_lat: 43.15362126088714
 geo_long: -79.53496588635684
-curation: -0.05
-provenance:
-  - radiobrowser-1086f840-517f-4768-9247-504aee859705
-streams:
-  - url: 'https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8'
-    codec: AAC+
-    bitrate: 47
-    hls: true
-  - url: 'https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8'
-    codec: AAC+
-    bitrate: 47
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +32,16 @@ research:
   format: Sports talk, news, entertainment
   notes: AM 590 CJCL "Sportsnet 590 The Fan" is a major Toronto sports radio station operated by Sportsnet. Covers Raptors, Jays, Leafs, TFC, and other sports.
   sources: https://www.sportsnet.ca/590/
+curation: -0.05
+provenance:
+  - radiobrowser-1086f840-517f-4768-9247-504aee859705
+  - iprd-ca-cjcl-sportsnet-590-the-fan-230c1aad
+streams:
+  - url: https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
+    codec: AAC+
+    bitrate: 47
+    hls: true
+  - url: https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+    codec: AAC+
+    bitrate: 47
+    hls: true

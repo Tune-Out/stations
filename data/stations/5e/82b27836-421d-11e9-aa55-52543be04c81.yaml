@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-82b27836-421d-11e9-aa55-52543be04c81
-streams:
-  - url: 'https://stream.laut.fm/cinemaitaliano'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/cinemaitaliano'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,15 @@ research:
   format: Italian cinema music, film soundtracks, Italian classic film scores
   notes: laut.fm Cinemaitaliano is a genre-specialized community radio station on the laut.fm platform. Focuses on music from Italian cinema and classical film scores. Broadcasts at 128 kbps MP3. Laut.fm is a German community radio platform allowing independent broadcasters to create niche music and themed stations.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-82b27836-421d-11e9-aa55-52543be04c81
+  - iprd-de-laut-fm-cinemaitaliano-b99dde46
+  - iprd-de-laut-fm-cinemaitaliano-a1b547bf
+streams:
+  - url: https://stream.laut.fm/cinemaitaliano
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/cinemaitaliano
+    codec: MP3
+    bitrate: 128

@@ -21,22 +21,6 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-963b6c2d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/990601-0_mp3_low.m3u'
-    url_resolved: 'http://f111.rndfnk.com/ard/mdr/990601/0/mp3/128/stream.mp3?cid=01FBQ14X84G8E7Z5ZBZT48EVDX&sid=38H9AaU0867jReGIx8xxXnH53SH&token=LKdlKK8zhOChAUuamfqA8_pIVSsf4v6bF7s24VJMAwU&tvf=B4YK93HbihhmMTExLnJuZGZuay5jb20'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/990601-0_mp3_high.m3u'
-    url_resolved: 'http://d131.rndfnk.com/ard/mdr/990601/0/mp3/128/stream.mp3?cid=01FBQ14X84G8E7Z5ZBZT48EVDX&sid=38Gpuu14bmlTG1lRko2p0eUiB54&token=M8WSfRdo3BcK05L7IqIh_LAFunk7IpwR9EonyBcusZc&tvf=5-6CUM7SihhkMTMxLnJuZGZuay5jb20'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/990601-0_aac_high.m3u'
-    url_resolved: 'http://f111.rndfnk.com/ard/mdr/990601/0/mp3/128/stream.mp3?cid=01FBQ14X84G8E7Z5ZBZT48EVDX&sid=38HXFdXM22LyqrI8jJDb43jILGV&token=NTOOhEI4RtIuBoUZ_cgW7LL36-Hzx7OXwW0n0vShcYE&tvf=I-2URUDmihhmMTExLnJuZGZuay5jb20'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -46,3 +30,19 @@ research:
   format: Schlager music speciality channel—German pop/folk music tradition
   notes: MDR Schlagerwelt Thüringen is a niche channel of the Mitteldeutscher Rundfunk (the public broadcaster for Saxony, Saxony-Anhalt, and Thuringia); Schlager represents a major German entertainment tradition of sentimental, melodic popular music
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-963b6c2d-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://avw.mdr.de/streams/990601-0_mp3_low.m3u
+    url_resolved: http://f111.rndfnk.com/ard/mdr/990601/0/mp3/128/stream.mp3?cid=01FBQ14X84G8E7Z5ZBZT48EVDX&sid=38H9AaU0867jReGIx8xxXnH53SH&token=LKdlKK8zhOChAUuamfqA8_pIVSsf4v6bF7s24VJMAwU&tvf=B4YK93HbihhmMTExLnJuZGZuay5jb20
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/990601-0_mp3_high.m3u
+    url_resolved: http://d131.rndfnk.com/ard/mdr/990601/0/mp3/128/stream.mp3?cid=01FBQ14X84G8E7Z5ZBZT48EVDX&sid=38Gpuu14bmlTG1lRko2p0eUiB54&token=M8WSfRdo3BcK05L7IqIh_LAFunk7IpwR9EonyBcusZc&tvf=5-6CUM7SihhkMTMxLnJuZGZuay5jb20
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/990601-0_aac_high.m3u
+    url_resolved: http://f111.rndfnk.com/ard/mdr/990601/0/mp3/128/stream.mp3?cid=01FBQ14X84G8E7Z5ZBZT48EVDX&sid=38HXFdXM22LyqrI8jJDb43jILGV&token=NTOOhEI4RtIuBoUZ_cgW7LL36-Hzx7OXwW0n0vShcYE&tvf=I-2URUDmihhmMTExLnJuZGZuay5jb20
+    codec: MP3
+    bitrate: 128

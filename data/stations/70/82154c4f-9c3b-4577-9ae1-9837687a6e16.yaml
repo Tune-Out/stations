@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 02:17:46
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-82154c4f-9c3b-4577-9ae1-9837687a6e16
-streams:
-  - url: 'http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8?'
-    codec: UNKNOWN
-    bitrate: 142
-    hls: true
-  - url: 'http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8'
-    codec: UNKNOWN
-    bitrate: 142
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +31,15 @@ research:
   format: Anime, gaming, voice acting, idol entertainment, and anime song artists programming
   notes: Commercial broadcaster operating as Nippon Cultural Broadcasting on 105.8 FM, specializing in content for anime and gaming fans. Notable shows include "A&G TRIBAL RADIO エジソン," "FUN MORE TUNE," and "Dear Girl ~Stories~." Operates membership platform (QloveR), podcast distribution, merchandise shop, and academy programs for aspiring radio personalities. Programming emphasizes "latest information on anime, games, voice actors, and anime song artists."
   sources: https://www.joqr.co.jp/ag/
+curation: -0.05
+provenance:
+  - radiobrowser-82154c4f-9c3b-4577-9ae1-9837687a6e16
+streams:
+  - url: http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8?
+    codec: UNKNOWN
+    bitrate: 142
+    hls: true
+  - url: http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+    codec: UNKNOWN
+    bitrate: 142
+    hls: true

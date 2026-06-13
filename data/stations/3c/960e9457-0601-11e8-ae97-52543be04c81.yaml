@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960e9457-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://rs8.stream24.net/radio-soundportal.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://rs8.stream24.net/radio-soundportal.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Diverse music programming including pop, rock, and contemporary hits.
   notes: Based in Styria (Steiermark), Austria; offers internet radio streaming via soundportal.at platform; serves local and regional Austrian audiences with 128 kbps MP3 stream.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960e9457-0601-11e8-ae97-52543be04c81
+  - iprd-at-radio-soundportal-739ed60a
+streams:
+  - url: http://rs8.stream24.net/radio-soundportal.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://rs8.stream24.net/radio-soundportal.mp3
+    codec: MP3
+    bitrate: 128

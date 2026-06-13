@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:49:44
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d113bd9a-3a23-47ca-ad06-e87eae5e5eeb
-streams:
-  - url: 'http://79.8.227.117:8008/1'
-    codec: AAC+
-    bitrate: 320
-  - url: 'http://onair11.xdevel.com:8134/;stream.mp3'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,16 @@ research:
   format: Dance and electronic music specialist
   notes: Radio Stereocittà is an Italian commercial radio station based in the Veneto region specializing in dance music. High-quality 320kbps AAC+ streaming. Homepage fetch unsuccessful; limited public information available.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d113bd9a-3a23-47ca-ad06-e87eae5e5eeb
+  - iprd-it-radio-stereocitt-89d42025
+  - iprd-it-radio-stereocitt-c2b587cc
+  - iprd-it-stereocitt-house-your-body-4e51896d
+streams:
+  - url: http://79.8.227.117:8008/1
+    codec: AAC+
+    bitrate: 320
+  - url: http://onair11.xdevel.com:8134/;stream.mp3
+    codec: AAC+
+    bitrate: 96

@@ -19,15 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-93f89dcb-de2c-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://stream.rtlradio.de/rtl-de-national/aac-64'
-    codec: AAC
-  - url: 'http://www.surfmusik.de/m3u/station/rtl-deutschlands-hit-radio,18339.m3u'
-    url_resolved: 'https://stream.rtlradio.de/rtl-de-national/mp3-128/surfmusikDE/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -37,3 +28,13 @@ research:
   format: Popular hits and contemporary music programming.
   notes: RTL is one of Germany's major private commercial broadcasters. Self-described as "Deutschlands Hit-Radio" (Germany's hit radio). Operates multiple branded stations across German-speaking regions.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-93f89dcb-de2c-11e9-a8ba-52543be04c81
+  - iprd-lu-rtl-radio-93-3-97-0-3fed7090
+streams:
+  - url: http://stream.rtlradio.de/rtl-de-national/aac-64
+    codec: AAC
+  - url: http://www.surfmusik.de/m3u/station/rtl-deutschlands-hit-radio,18339.m3u
+    url_resolved: https://stream.rtlradio.de/rtl-de-national/mp3-128/surfmusikDE/
+    codec: MP3

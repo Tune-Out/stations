@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-22d16364-dded-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-70er-64-aac'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-70er-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: 1970s music programming
   notes: 70s music specialty channel from RPR1. German commercial radio network; focuses on music from 1970-1979 era.
   sources: http://www.rpr1.de/
+curation: -0.05
+provenance:
+  - radiobrowser-22d16364-dded-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.rpr1.de/rpr-70er-64-aac
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-70er-128-mp3
+    codec: MP3

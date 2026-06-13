@@ -19,16 +19,6 @@ lastchangetime: 2026-05-24 13:31:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-47107f40-91bb-4bf3-b554-d2e4e9c29e1c
-streams:
-  - url: 'https://radio.ilyasmoerkens.nl/listen/radio_1/radio320.aac'
-    codec: AAC
-    bitrate: 264
-  - url: 'https://radio.ilyasmoerkens.nl/listen/radio_1/radio320.aac'
-    codec: AAC
-    bitrate: 144
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Web radio station
   notes: Netherlands-based internet radio; streams via ilyasmoerkens.nl infrastructure; AAC 144kbps; part of RadioReg directory ecosystem
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-47107f40-91bb-4bf3-b554-d2e4e9c29e1c
+streams:
+  - url: https://radio.ilyasmoerkens.nl/listen/radio_1/radio320.aac
+    codec: AAC
+    bitrate: 264
+  - url: https://radio.ilyasmoerkens.nl/listen/radio_1/radio320.aac
+    codec: AAC
+    bitrate: 144

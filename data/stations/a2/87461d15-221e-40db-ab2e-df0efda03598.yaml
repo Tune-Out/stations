@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-87461d15-221e-40db-ab2e-df0efda03598
-streams:
-  - url: 'http://bokanews.me:8000/source'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://bokanews.me:8000/source?1734500086794'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: News and entertainment (zabavna) programming
   notes: Montenegrin regional news and entertainment radio station serving Boka Kotorska (Bay of Kotor) area; local news focus.
   sources: https://bokanews.me/
+curation: -0.05
+provenance:
+  - radiobrowser-87461d15-221e-40db-ab2e-df0efda03598
+streams:
+  - url: http://bokanews.me:8000/source
+    codec: AAC+
+    bitrate: 48
+  - url: http://bokanews.me:8000/source?1734500086794
+    codec: AAC+
+    bitrate: 48

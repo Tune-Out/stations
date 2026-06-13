@@ -23,32 +23,6 @@ lastchangetime: 2026-01-15 00:00:02
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-64c67e33-d74b-4794-a7c1-98377783a61d
-streams:
-  - url: 'https://drive.uber.radio/uber/rtwblues/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/rtwblues/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/rtwstadium/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/rtwstadium/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/rtwpunk/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/rtwpunk/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/rtwcountry/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/rtwcountry/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/rtwalt/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/rtwprog/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/rtwprog/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/rtwheavymetal/icecast.audio'
-    url_resolved: 'https://nl4.mystreaming.net/uber/rtwheavymetal/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/rtwclassics/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -58,3 +32,29 @@ research:
   format: Blues rock, classic rock, and rock music programming
   notes: Commercial internet radio station operated through Uber Radio / You Radio platforms; provides themed rock music programming including blues rock focus; internationally distributed streaming service based in UAE with global reach.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-64c67e33-d74b-4794-a7c1-98377783a61d
+streams:
+  - url: https://drive.uber.radio/uber/rtwblues/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/rtwblues/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/rtwstadium/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/rtwstadium/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/rtwpunk/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/rtwpunk/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/rtwcountry/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/rtwcountry/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/rtwalt/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/rtwprog/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/rtwprog/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/rtwheavymetal/icecast.audio
+    url_resolved: https://nl4.mystreaming.net/uber/rtwheavymetal/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/rtwclassics/icecast.audio
+    codec: MP3

@@ -1,6 +1,6 @@
 stationuuid: 1a9e381f-2778-4644-92d9-ac8e69ef6f74
 name: CBC Radio One - Windsor, ON (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CBEWFM_CBC.pls
+url: 'https://17813.live.streamtheworld.com:443/CBEWFM_CBC_SC'
 url_resolved: https://26283.live.streamtheworld.com/CBEWFM_CBC_SC
 homepage: https://www.cbc.ca/news/canada/windsor
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:30:19
 clickcount: 1
 geo_lat: 42.31725640911788
 geo_long: -83.0488032102585
-curation: 0.50
-provenance:
-  - radiobrowser-1a9e381f-2778-4644-92d9-ac8e69ef6f74
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -35,3 +32,6 @@ research:
   format: News, current affairs, features, talk, and cultural programming
   notes: Part of CBC Radio One, Canada's national English-language public radio network. Provides local Windsor programming alongside national CBC feeds. Operates under public broadcaster mandate to inform, educate, and entertain.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-1a9e381f-2778-4644-92d9-ac8e69ef6f74

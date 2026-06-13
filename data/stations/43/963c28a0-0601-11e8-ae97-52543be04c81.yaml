@@ -27,19 +27,6 @@ lastchangetime: 2026-01-15 00:49:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-963c28a0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://s1.knixx.fm/dein_webradio_64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://s1.knixx.fm/dein_webradio_256.mp3?_=itacknkjz7lxxtpxha4mpk'
-    codec: MP3
-    bitrate: 256
-  - url: 'http://s1.knixx.fm/dein_webradio_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -49,3 +36,17 @@ research:
   format: Mixed format including country, rock, pop, oldies, and new country
   notes: Non-profit community web radio based in Berlin; volunteer-run; eclectic programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-963c28a0-0601-11e8-ae97-52543be04c81
+  - iprd-de-knixx-fm-9f864937
+streams:
+  - url: https://s1.knixx.fm/dein_webradio_64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://s1.knixx.fm/dein_webradio_256.mp3?_=itacknkjz7lxxtpxha4mpk
+    codec: MP3
+    bitrate: 256
+  - url: http://s1.knixx.fm/dein_webradio_128.mp3
+    codec: MP3
+    bitrate: 128

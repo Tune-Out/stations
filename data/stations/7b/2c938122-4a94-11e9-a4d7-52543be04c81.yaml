@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 05:46:02
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2c938122-4a94-11e9-a4d7-52543be04c81
-streams:
-  - url: 'http://server-67.stream-server.nl:8910/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://server-67.stream-server.nl:8910/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: '"Pirate hits" - classic hits from the Dutch pirate radio era of the 1960s-1980s.'
   notes: Oude Piraten Hits is a Dutch internet radio station specializing in classic hits from the era of pirate radio in the Netherlands. Focuses on nostalgia-driven programming from 1960s-1980s era when unlicensed pirate radio was prominent in Dutch culture. Celebrates iconic songs from that period.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2c938122-4a94-11e9-a4d7-52543be04c81
+  - iprd-nl-oude-piraten-hits-7b96ef94
+streams:
+  - url: http://server-67.stream-server.nl:8910/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://server-67.stream-server.nl:8910/stream
+    codec: MP3
+    bitrate: 192

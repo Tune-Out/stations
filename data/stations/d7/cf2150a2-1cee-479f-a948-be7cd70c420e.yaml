@@ -1,7 +1,7 @@
 stationuuid: cf2150a2-1cee-479f-a948-be7cd70c420e
 name: CHMP 985 fm
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
+url: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
+url_resolved: 'https://cdn.cogecolive.com/geoblock/stream_geoblocked_fr.m3u8'
 homepage: https://www.985fm.ca/
 favicon: https://www.985fm.ca/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:43:25
 clickcount: 6
 geo_lat: 45.48632446162707
 geo_long: -73.58642578125001
-curation: -0.05
-provenance:
-  - radiobrowser-cf2150a2-1cee-479f-a948-be7cd70c420e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Talk radio station in Montreal; 985 FM on the dial
   notes: Commercial talk radio serving Montreal metropolitan area; French-language programming
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-cf2150a2-1cee-479f-a948-be7cd70c420e

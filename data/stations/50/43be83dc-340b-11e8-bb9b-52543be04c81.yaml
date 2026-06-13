@@ -21,15 +21,6 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-43be83dc-340b-11e8-bb9b-52543be04c81
-streams:
-  - url: 'https://listen.moe/kpop/stream'
-    codec: OGG
-    bitrate: 256
-  - url: 'https://listen.moe/kpop/fallback'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -39,3 +30,14 @@ research:
   format: 24/7 K-pop curated playlists — Korean pop music of all eras
   notes: Listen.moe is a well-known volunteer-operated internet-radio network best known for its anime music ("SongsForAll") stream; the K-pop variant serves the global Korean pop music community with curator-selected playlists; streams at 256 kbps OGG Vorbis via listen.moe infrastructure; the project has built a significant following among anime and K-pop communities since its launch in the mid-2010s; operates entirely on donations and volunteer effort.
   sources: https://listen.moe/kpop
+curation: 0.65
+provenance:
+  - radiobrowser-43be83dc-340b-11e8-bb9b-52543be04c81
+  - iprd-kr-listen-moe-01c68af8
+  - iprd-kr-listen-moe-3cd45556
+streams:
+  - url: https://listen.moe/kpop/stream
+    codec: OGG
+    bitrate: 256
+  - url: https://listen.moe/kpop/fallback
+    codec: MP3

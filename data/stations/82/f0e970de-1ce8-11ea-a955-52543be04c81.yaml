@@ -1,7 +1,7 @@
 stationuuid: f0e970de-1ce8-11ea-a955-52543be04c81
 name: 538 Dance Departmetn
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+url: 'http://25323.live.streamtheworld.com:80/TLPSTR01.mp3'
+url_resolved: 'http://25323.live.streamtheworld.com:80/TLPSTR01.mp3'
 homepage: https://www.538.nl/dance-department
 favicon: https://www.538.nl/favicon.ico
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 03:36:10
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f0e970de-1ce8-11ea-a955-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Dance, house music programming; part of Radio 538's multi-format lineup
   notes: "538 Dance Department is a specialized music strand of Radio 538, The Netherlands' major commercial radio broadcaster. Tagline: \"Jouw hits, jouw 538!\" (Your hits, your 538!). Talpa Network is a leading Dutch broadcasting company."
   sources: https://www.538.nl/
+curation: 0.35
+provenance:
+  - radiobrowser-f0e970de-1ce8-11ea-a955-52543be04c81

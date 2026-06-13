@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 05:50:37
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-6bae1ae1-ded7-40ad-92ad-99907bd93343
-streams:
-  - url: 'https://streams.fluxfm.de/flux-hamburg/aac-64/audio/'
-    codec: AAC
-  - url: 'https://streams.fluxfm.de/flux-hamburg/mp3-320/audio/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +30,11 @@ research:
   format: Electronic music, indie, electronic experimental, DJ mixes, 320 kbps high-quality audio
   notes: FluxFM Hamburg is a non-commercial internet radio station operated by FluxFM, an independent music-focused collective. Known for high-quality 320 kbps MP3 streams and programming focused on electronic, experimental, and alternative music, serving international and German audiences interested in contemporary electronic culture.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-6bae1ae1-ded7-40ad-92ad-99907bd93343
+streams:
+  - url: https://streams.fluxfm.de/flux-hamburg/aac-64/audio/
+    codec: AAC
+  - url: https://streams.fluxfm.de/flux-hamburg/mp3-320/audio/
+    codec: MP3

@@ -1,7 +1,7 @@
 stationuuid: bae11a44-8257-4896-9a0f-7077ff899d23
 name: Alvorada FM 94,9 Mhz ZYC708 (Belo Horizonte - MG)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
+url: 'https://27373.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac'
+url_resolved: 'https://27373.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac'
 homepage: https://www.alvoradafm.com.br/
 favicon: https://i.postimg.cc/Bnyrs1H3/04008017950.png
 tags:
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 3
 geo_lat: -19.961329961227445
 geo_long: -43.9574494957924
-curation: -0.05
-provenance:
-  - radiobrowser-bae11a44-8257-4896-9a0f-7077ff899d23
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: News and music; news-oriented talk radio with national and international coverage
   notes: Commercial FM radio station broadcasting on 94.9 MHz from Belo Horizonte. Offers national, international, and local news programming alongside music content. Serves the capital of Minas Gerais state.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bae11a44-8257-4896-9a0f-7077ff899d23

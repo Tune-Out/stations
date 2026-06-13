@@ -22,23 +22,6 @@ lastchangetime: 2026-01-15 05:07:10
 clickcount: 65
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-1f3700b5-4875-4bdf-986d-1dcaa4e8dfbe
-streams:
-  - url: 'https://dispatcher.rndfnk.com/br/br2/live/mp3/mid'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streams.br.de/bayern2_2.m3u'
-    url_resolved: 'https://dispatcher.rndfnk.com/br/br2/live/mp3/mid'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://br-radio.ard-mcdn.de/br/radio/b2/hls/96/seglist.m3u8'
-    codec: UNKNOWN
-    hls: true
-  - url: 'https://br-radio.ard-mcdn.de/br/radio/b2/hls/192/seglist.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -48,3 +31,28 @@ research:
   format: Public-service "Wort und Kultur" (word and culture) channel mixing in-depth news magazines, features, radio drama (Hörspiel), classical/jazz/world music and religious programming
   notes: Bayern 2 launched in 1950 as BR's second radio programme and was modernised in 2008 into a single nationwide stream after merging the previously separate Bayern 2 Nord and Süd opt-outs; flagship strands include the early-morning current-affairs magazine "radioWelt", the long-running cultural and literary magazine "Diwan", "IQ - Wissenschaft und Forschung" (science), "Zündfunk" (alternative/youth culture, broadcast since 1974), "kulturWelt", and "Bayerisches Feuilleton"; the channel carries the Catholic-church liturgical hour and Protestant services on Sundays as part of BR's statutory religious-broadcasting remit; widely regarded as one of the most ambitious cultural radio services in German-language Europe alongside Deutschlandfunk Kultur and Ö1.
   sources: internal knowledge (br.de blocked WebFetch from Claude Code)
+curation: 0.7
+provenance:
+  - radiobrowser-1f3700b5-4875-4bdf-986d-1dcaa4e8dfbe
+  - iprd-de-bayern-2-861f1fd9
+  - iprd-de-bayern-2-nord-9b64523d
+  - iprd-de-bayern-2-nord-654c6ec9
+  - iprd-de-bayern-2-s-d-c2d4ff53
+  - iprd-de-br-puls-d8260f44
+  - iprd-de-br-verkehr-9f16b5a4
+  - iprd-de-br-24-1d9aa427
+  - iprd-de-br-24-93c47cd1
+streams:
+  - url: https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
+    codec: MP3
+    bitrate: 128
+  - url: https://streams.br.de/bayern2_2.m3u
+    url_resolved: https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
+    codec: MP3
+    bitrate: 128
+  - url: https://br-radio.ard-mcdn.de/br/radio/b2/hls/96/seglist.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: https://br-radio.ard-mcdn.de/br/radio/b2/hls/192/seglist.m3u8
+    codec: UNKNOWN
+    hls: true

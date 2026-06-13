@@ -1,6 +1,6 @@
 stationuuid: 9647cf24-0601-11e8-ae97-52543be04c81
 name: KLOK 99.5 & 99.9 "La Tricolor" Greenfield, CA
-url: http://provisioning.streamtheworld.com/pls/KLOKFMAAC.pls
+url: 'http://29309.live.streamtheworld.com:80/KLOKFMAAC_SC'
 url_resolved: http://19273.live.streamtheworld.com:3690/KLOKFMAAC_SC
 homepage: http://tricolor.entravision.com/monterey-salinas/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 01:09:32
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-9647cf24-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Regional Mexican; banda, norteño, contemporary Mexican favorites, local news, sports (especially soccer).
   notes: Licensed to Greenfield, CA; serves Santa Cruz area. FM 99.5/99.9 MHz (simulcast). Originally launched as KSUR-FM on January 1, 1994; changed to KLOK-FM on January 17, 1995. Owned and operated by Entravision Communications. Programming features energetic hosts, local updates, giveaways, news segments.
   sources: https://en.wikipedia.org/wiki/KLOK-FM, internal knowledge
+curation: 0.3
+provenance:
+  - radiobrowser-9647cf24-0601-11e8-ae97-52543be04c81

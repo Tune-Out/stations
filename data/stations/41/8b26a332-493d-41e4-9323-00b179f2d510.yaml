@@ -24,14 +24,6 @@ lastchangetime: 2026-05-23 04:09:51
 clickcount: 0
 geo_lat: 21.846981512722397
 geo_long: -102.71809101104738
-curation: 0.35
-provenance:
-  - radiobrowser-8b26a332-493d-41e4-9323-00b179f2d510
-streams:
-  - url: 'https://stream.zeno.fm/af12yk53ud0uv'
-    codec: AAC
-  - url: 'https://stream.zeno.fm/af12yk53ud0uv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +33,11 @@ research:
   format: Regional Mexican music including banda, norteño, and traditional Mexican regional music.
   notes: 101.3 FM commercial station operated by Comunicar para Ayudar A.C., a non-profit association; serves Calvillo with regional Mexican music programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-8b26a332-493d-41e4-9323-00b179f2d510
+streams:
+  - url: https://stream.zeno.fm/af12yk53ud0uv
+    codec: AAC
+  - url: https://stream.zeno.fm/af12yk53ud0uv
+    codec: MP3

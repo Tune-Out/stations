@@ -22,20 +22,6 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-46e9a651-8fc2-4d71-b64b-17fb8f9a919f
-streams:
-  - url: 'http://s2.xrad.io:8522/listen.pls?sid=1'
-    url_resolved: 'http://s2.xrad.io:8522/stream'
-    codec: MP3
-    bitrate: 96
-  - url: 'https://edge.clrmedia.co.uk/angel_hb'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://s2.xrad.io:8522/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -45,3 +31,18 @@ research:
   format: Vintage music and happy memories programming
   notes: 'Registered charity (1138441) operating as community radio in the UK. Broadcasts via DAB, FM, and internet streaming. Mission: "Vintage Music and Happy Memories for Lovers of Nostalgia." Offers record requests, videos, work experience opportunities. Volunteers-driven. Connected to Radio 60s.'
   sources: https://angelradio.co.uk/
+curation: 0.35
+provenance:
+  - radiobrowser-46e9a651-8fc2-4d71-b64b-17fb8f9a919f
+  - iprd-gb-angel-radio-101-1-b52de69d
+streams:
+  - url: http://s2.xrad.io:8522/listen.pls?sid=1
+    url_resolved: http://s2.xrad.io:8522/stream
+    codec: MP3
+    bitrate: 96
+  - url: https://edge.clrmedia.co.uk/angel_hb
+    codec: MP3
+    bitrate: 96
+  - url: http://s2.xrad.io:8522/stream
+    codec: MP3
+    bitrate: 96

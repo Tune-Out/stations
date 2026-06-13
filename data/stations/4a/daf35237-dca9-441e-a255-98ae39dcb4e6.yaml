@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 03:51:41
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-daf35237-dca9-441e-a255-98ae39dcb4e6
-duplicate_of: 9933fbb1-5cbb-40d5-93fc-a85329624b04
-streams:
-  - url: 'https://drive.uber.radio/uber/cryehudimenuin/icecast.audio'
-    codec: MP3
-  - url: 'http://drive.uber.radio/uber/cryehudimenuin/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +31,12 @@ research:
   format: Classical music
   notes: Dubai-based classical music station honoring famous conductor Yehudi Menuhin. Offers international streaming of classical music repertoire to global audience of classical music lovers.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-daf35237-dca9-441e-a255-98ae39dcb4e6
+duplicate_of: 9933fbb1-5cbb-40d5-93fc-a85329624b04
+streams:
+  - url: https://drive.uber.radio/uber/cryehudimenuin/icecast.audio
+    codec: MP3
+  - url: http://drive.uber.radio/uber/cryehudimenuin/icecast.audio
+    codec: MP3

@@ -30,16 +30,6 @@ lastchangetime: 2026-01-15 03:59:30
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-2d964e70-1462-46e3-9b33-72bd4f8a5b45
-streams:
-  - url: 'https://streaming.radio.co/s0d090ee43/listen'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://streaming.radio.co/s0d090ee43/listen'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -49,3 +39,14 @@ research:
   format: Dance, disco, electronic, experimental, hip-hop, house, metal, pop, techno, world music
   notes: Online streaming station based in New York, USA. Eclectic music programming spanning multiple genres.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-2d964e70-1462-46e3-9b33-72bd4f8a5b45
+  - iprd-us-newtown-radio-ee199b38
+streams:
+  - url: https://streaming.radio.co/s0d090ee43/listen
+    codec: MP3
+    bitrate: 192
+  - url: http://streaming.radio.co/s0d090ee43/listen
+    codec: MP3
+    bitrate: 192

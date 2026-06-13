@@ -21,15 +21,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: 51.45015584466137
 geo_long: 5.478744506835938
-curation: 0.35
-provenance:
-  - radiobrowser-b2e84af5-d103-4876-8c3c-cc1129e900ac
-streams:
-  - url: 'https://stream.glowfm.nl/glowfm.mp3'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://nlpo.stream.vip/glowfm/mp3-192/nlpo.stream.vip/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +30,13 @@ research:
   format: Local news, music, regional news programming
   notes: Glow FM is a regional Dutch radio station serving Noord-Brabant with local and regional news, music programming. Commercial operation with local community focus.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-b2e84af5-d103-4876-8c3c-cc1129e900ac
+  - iprd-nl-glow-fm-94-0-0c908164
+streams:
+  - url: https://stream.glowfm.nl/glowfm.mp3
+    codec: MP3
+    bitrate: 160
+  - url: https://nlpo.stream.vip/glowfm/mp3-192/nlpo.stream.vip/
+    codec: MP3

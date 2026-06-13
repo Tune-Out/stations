@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c31a3b69-21b6-4e2a-b5d1-a28d2e643f62
-streams:
-  - url: 'https://streams.radiopsr.de/2000er/mp3-192/www.radio-browser.info/'
-    codec: MP3
-  - url: 'https://streams.radiopsr.de/2000er/mp3-192/streams.radiopsr.de/play.m3u'
-    url_resolved: 'https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=696835p5%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1768437189'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +32,12 @@ research:
   format: contemporary hit radio with themed streams (pop, dance, relax, German pop, children's programming); shows include RADIO PSR Morningshow (Rocky & Mandy), Steffen Lukas-Feierabendshow, Karo bei der Arbeit
   notes: Founded as private Saxonian broadcaster; hosts annual Hörertag listener event; supports fire departments; includes podcasts and community engagement
   sources: https://www.radiopsr.de/
+curation: 0.35
+provenance:
+  - radiobrowser-c31a3b69-21b6-4e2a-b5d1-a28d2e643f62
+streams:
+  - url: https://streams.radiopsr.de/2000er/mp3-192/www.radio-browser.info/
+    codec: MP3
+  - url: https://streams.radiopsr.de/2000er/mp3-192/streams.radiopsr.de/play.m3u
+    url_resolved: https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=696835p5%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1768437189
+    codec: MP3

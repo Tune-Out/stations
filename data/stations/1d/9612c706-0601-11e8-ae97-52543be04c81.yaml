@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:59:14
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9612c706-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://radio.m-1.fm/m1plius/aacp64'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://radio.m-1.fm/m1plius/mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Adult contemporary / classic hits in Lithuanian and English, programmed around 1970s-2000s music with morning, mid-day and drive-time talk strands; tagline "Muzika, kuria jauti" ("Music you feel")
   notes: M-1 Plius (Pliusas) is the adult-contemporary sister station of M-1, Lithuania's first private commercial FM station; both are owned and operated by UAB M-1, part of the 15min media group around the 15min.lt news portal, which also operates M-1 Dance and the soft-AC station Lietus; M-1 Plius broadcasts on FM frequencies in Vilnius, Kaunas, Klaipėda and other major Lithuanian cities and streams online from pliusas.fm (now redirected under pliusas.15min.lt); the schedule includes long-running weekday strands "Lengvas geras rytas" (07-10), "Diena su pliusu" (10-13), "Gyvenimo spalvos" (13-16) and "Pakeliui namo" (16-19); the station is funded by commercial advertising, regulated by Lithuania's LRTK media authority, and headquartered at A. Smetonos g. 7, Vilnius.
   sources: http://www.pliusas.fm/, https://pliusas.15min.lt/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-9612c706-0601-11e8-ae97-52543be04c81
+  - iprd-lt-m-1-plius-8ade9f33
+streams:
+  - url: https://radio.m-1.fm/m1plius/aacp64
+    codec: AAC+
+    bitrate: 96
+  - url: http://radio.m-1.fm/m1plius/mp3
+    codec: MP3
+    bitrate: 192

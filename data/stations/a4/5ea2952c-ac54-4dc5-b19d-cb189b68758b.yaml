@@ -25,15 +25,6 @@ lastchangetime: 2026-05-01 08:24:02
 clickcount: 1
 geo_lat: 48.84881222563043
 geo_long: 2.3510742187500004
-curation: -0.05
-provenance:
-  - radiobrowser-5ea2952c-ac54-4dc5-b19d-cb189b68758b
-streams:
-  - url: 'http://icy-zurich.mpbnl.nl/radiofuego'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://n12a-eu.rcs.revma.com/dapwbz2befcwv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +34,12 @@ research:
   format: Dance, Latin, and urban music specialist; contemporary hits and DJ-driven programming
   notes: French commercial radio station specializing in dance, latino, and urban genres. Based in Paris area (coordinates 48.85°N, 2.35°E).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-5ea2952c-ac54-4dc5-b19d-cb189b68758b
+streams:
+  - url: http://icy-zurich.mpbnl.nl/radiofuego
+    codec: MP3
+    bitrate: 320
+  - url: https://n12a-eu.rcs.revma.com/dapwbz2befcwv
+    codec: MP3

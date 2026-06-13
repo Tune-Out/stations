@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 08:28:39
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-97767caf-6918-11e9-af37-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-kaiserslautern-128-mp3'
-    codec: AAC
-  - url: 'https://streams.rpr1.de/rpr-kaiserslautern-128-mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Popular music and entertainment radio for regional audiences
   notes: Regional commercial broadcaster serving Rheinland-Pfalz in Germany; part of broader RPR1 network
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-97767caf-6918-11e9-af37-52543be04c81
+  - iprd-de-rpr1-pfalz-63ed28e5
+streams:
+  - url: http://streams.rpr1.de/rpr-kaiserslautern-128-mp3
+    codec: AAC
+  - url: https://streams.rpr1.de/rpr-kaiserslautern-128-mp3
+    codec: MP3

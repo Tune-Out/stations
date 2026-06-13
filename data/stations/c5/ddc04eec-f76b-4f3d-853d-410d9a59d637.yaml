@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 03:08:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-ddc04eec-f76b-4f3d-853d-410d9a59d637
-streams:
-  - url: 'https://streams.egofm.de/egoFMHallOfFame-lq'
-    url_resolved: 'https://cast.egofm.de/egofmhalloffame.aac?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://streams.egofm.de/egoFMHallOfFame-hq'
-    url_resolved: 'https://cast.egofm.de/egofmhalloffame.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +31,15 @@ research:
   format: Classic hits from 1950s onward (Hall of Fame stream)
   notes: Commercial radio station based in Bavaria, Germany. The Hall of Fame [HQ] stream offers classic hits music with high-quality audio. Part of egoFM's multi-stream network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ddc04eec-f76b-4f3d-853d-410d9a59d637
+streams:
+  - url: https://streams.egofm.de/egoFMHallOfFame-lq
+    url_resolved: https://cast.egofm.de/egofmhalloffame.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: AAC+
+    bitrate: 64
+  - url: https://streams.egofm.de/egoFMHallOfFame-hq
+    url_resolved: https://cast.egofm.de/egofmhalloffame.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+    codec: MP3
+    bitrate: 128

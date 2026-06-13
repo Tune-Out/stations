@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 2
 geo_lat: 41.37632552251485
 geo_long: 2.1492004394531254
-curation: -0.05
-provenance:
-  - radiobrowser-62bf5294-65dc-4a7a-9fb1-f60550dfa15b
-streams:
-  - url: 'http://streaming2.elitecomunicacion.es:8134/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://streaming2.elitecomunicacion.es:8134/stream'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,13 @@ research:
   format: Funk, disco, 70s funk, and funky house music programming
   notes: Spanish commercial online radio based in Barcelona; specializes in funk, disco, and house music genres; serves Barcelona and Catalonia
   sources: https://www.funkytracksradio.com/, internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-62bf5294-65dc-4a7a-9fb1-f60550dfa15b
+streams:
+  - url: http://streaming2.elitecomunicacion.es:8134/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://streaming2.elitecomunicacion.es:8134/stream
+    codec: MP3
+    bitrate: 320

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:47:04
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-da421eec-35db-442c-bbdd-4d4c46d5abf5
-streams:
-  - url: 'http://play.organlive.com:7002/128'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://www.positivelybaroque.com/320eu'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: Baroque classical music on pipe organs (modern and historic); 24/7 programming featuring composers like Bach, Handel, Telemann
   notes: "Specializes in grandeur and beauty of Baroque era organ music. Based in St. Louis, Missouri. Contact: brent@organmediafoundation.org, 314-496-1278. Available on TuneIn, Streema and other platforms."
   sources: tunein.com, streema.com, onlineradiobox.com, radionomy.com
+curation: 0.55
+provenance:
+  - radiobrowser-da421eec-35db-442c-bbdd-4d4c46d5abf5
+  - iprd-us-positively-baroque-d4b01d01
+streams:
+  - url: http://play.organlive.com:7002/128
+    codec: MP3
+    bitrate: 320
+  - url: http://www.positivelybaroque.com/320eu
+    codec: MP3
+    bitrate: 320

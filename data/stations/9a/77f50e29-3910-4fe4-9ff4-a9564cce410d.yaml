@@ -27,16 +27,6 @@ lastchangetime: 2026-02-23 20:03:47
 clickcount: 0
 geo_lat: 39.62343803127247
 geo_long: 19.92518663406372
-curation: -0.05
-provenance:
-  - radiobrowser-77f50e29-3910-4fe4-9ff4-a9564cce410d
-streams:
-  - url: 'https://s3.unlimitedradiohosting.com/stream/two-thousand-on-fm'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://radio.wt5.net/radio/8000/radio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -46,3 +36,13 @@ research:
   format: Retro music (70s, 80s, 90s); disco, italo, rock, slow music
   notes: Greek commercial internet radio station based in Corfu. Specializes in retro and nostalgic music from 1970s-1990s era. Broadcasts in Greek and English. Streams disco, italo, rock, and slow music to regional and international audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-77f50e29-3910-4fe4-9ff4-a9564cce410d
+streams:
+  - url: https://s3.unlimitedradiohosting.com/stream/two-thousand-on-fm
+    codec: MP3
+    bitrate: 128
+  - url: https://radio.wt5.net/radio/8000/radio.mp3
+    codec: MP3
+    bitrate: 128

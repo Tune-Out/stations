@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 04:11:16
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0cc776bf-490c-4579-8f01-6af4112bc7e0
-streams:
-  - url: 'https://stream.radiojar.com/nk2k3a84xp8uv'
-    codec: AAC
-  - url: 'https://stream.radiojar.com/9f7h8d84xp8uv'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +31,14 @@ research:
   format: Music, news, talk and speech programming
   notes: Commercial AM 1230 radio station based in Monterrey, Mexico
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0cc776bf-490c-4579-8f01-6af4112bc7e0
+  - iprd-mx-radio-formula-1230-xedkn-d4ccf8d7
+  - iprd-mx-radio-formula-770-xeach-862be375
+  - iprd-mx-radio-formula-89-3-xhmon-1802d1fa
+streams:
+  - url: https://stream.radiojar.com/nk2k3a84xp8uv
+    codec: AAC
+  - url: https://stream.radiojar.com/9f7h8d84xp8uv
+    codec: AAC

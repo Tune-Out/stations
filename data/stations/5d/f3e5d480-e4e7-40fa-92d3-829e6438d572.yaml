@@ -1,7 +1,7 @@
 stationuuid: f3e5d480-e4e7-40fa-92d3-829e6438d572
 name: KDLM Radio
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KDLMAMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KDLMAMAAC.aac
+url: 'https://26313.live.streamtheworld.com:443/KDLMAMAAC.aac'
+url_resolved: 'https://26313.live.streamtheworld.com:443/KDLMAMAAC.aac'
 homepage: https://kdlmradio.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2085/squareIcon.png?r=64334
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:53:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f3e5d480-e4e7-40fa-92d3-829e6438d572
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,8 @@ research:
   format: News, talk; local news, sports, community information
   notes: Small-market commercial AM/AAC station in Detroit Lakes, Minnesota serving northern Minnesota
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-f3e5d480-e4e7-40fa-92d3-829e6438d572
+  - iprd-us-kdlm-1340-26f85d46
+  - iprd-us-kdlm-radio-f1305dd7

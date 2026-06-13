@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b7e0d449-d98d-45a1-9f50-19f794232854
-streams:
-  - url: 'https://uk5.internet-radio.com/proxy/joyradio?mp=/stream;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://uk5.internet-radio.com/proxy/joyradio?mp=/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   audience: Russian-speaking pop music listeners
   notes: Joy Radio is part of the 101.ru Russian digital radio platform. Focuses on pop music programming (поп-музыка).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b7e0d449-d98d-45a1-9f50-19f794232854
+streams:
+  - url: https://uk5.internet-radio.com/proxy/joyradio?mp=/stream;
+    codec: MP3
+    bitrate: 128
+  - url: http://uk5.internet-radio.com/proxy/joyradio?mp=/stream
+    codec: MP3
+    bitrate: 128

@@ -1,6 +1,6 @@
 stationuuid: 9622b2a8-0601-11e8-ae97-52543be04c81
 name: KOMA 92.5 "Oklahoma's Greatest Hits" Okahoma City, OK
-url: http://provisioning.streamtheworld.com/pls/KOMAFMAAC.pls
+url: 'http://29306.live.streamtheworld.com:80/KOMAFMAAC_SC'
 url_resolved: http://27163.live.streamtheworld.com/KOMAFMAAC_SC
 homepage: http://www.komaradio.com/
 favicon: https://komaradio.com/wp-content/uploads/2017/11/favicon-1.png
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 00:29:53
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9622b2a8-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,7 @@ research:
   format: Classic rock, oldies, rock, greatest hits
   notes: KOMA 92.5 FM is a classic Oklahoma City radio station. Tagline "Oklahoma's Greatest Hits" emphasizes classic rock and oldie programming. Long history in Oklahoma market.
   sources: http://www.komaradio.com/
+curation: -0.05
+provenance:
+  - radiobrowser-9622b2a8-0601-11e8-ae97-52543be04c81
+  - iprd-us-koma-92-5-oklahoma-s-greatest-hits-2d75d301

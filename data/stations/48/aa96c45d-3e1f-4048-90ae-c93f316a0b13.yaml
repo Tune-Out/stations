@@ -30,16 +30,6 @@ lastchangetime: 2026-01-15 01:24:48
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-aa96c45d-3e1f-4048-90ae-c93f316a0b13
-streams:
-  - url: 'https://main-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://main-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +39,13 @@ research:
   format: Pop, rock, hits, dance, charts, 80s/90s music, mainstream contemporary hits, live shows
   notes: Major German internet radio broadcaster operating multiple genre-specific streams; MAIN stream features mainstream hits format; includes live shows and DJ hosting; available internationally; significant presence in German online radio market
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-aa96c45d-3e1f-4048-90ae-c93f316a0b13
+streams:
+  - url: https://main-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://main-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

@@ -1,7 +1,7 @@
 stationuuid: 6850aa43-af97-44ac-97dc-c18e16d462f3
 name: WAMC
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/WAMCFM.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/WAMCFM.mp3
+url: 'http://26233.live.streamtheworld.com:80/WAMCFM.mp3'
+url_resolved: 'http://26233.live.streamtheworld.com:80/WAMCFM.mp3'
 homepage: https://www.wamc.org/
 favicon: https://en.m.wikipedia.org/wiki/File:Logo_wamc.png
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-6850aa43-af97-44ac-97dc-c18e16d462f3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -32,3 +29,6 @@ research:
   format: News, public affairs, arts, classical music, informational programming
   notes: Major public radio station serving the Capital Region of New York; NPR member station focused on news and cultural content.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-6850aa43-af97-44ac-97dc-c18e16d462f3

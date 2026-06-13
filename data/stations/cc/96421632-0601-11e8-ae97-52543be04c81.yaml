@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:17:36
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-96421632-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.m945.de/m945-lq.aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'http://stream.m945.de/m945-hq'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,17 @@ research:
   format: Student radio, indie, alternative rock, eclectic programming
   notes: M94.5 is Munich student radio affiliated with Ludwig Maximilian University; founded 1984
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-96421632-0601-11e8-ae97-52543be04c81
+  - iprd-de-m94-5-21770b73
+  - iprd-de-m94-5-facbea3b
+  - iprd-de-m94-5-ba49ff89
+  - iprd-de-m94-5-16b7f310
+streams:
+  - url: http://stream.m945.de/m945-lq.aac
+    codec: AAC
+    bitrate: 64
+  - url: http://stream.m945.de/m945-hq
+    codec: MP3
+    bitrate: 128

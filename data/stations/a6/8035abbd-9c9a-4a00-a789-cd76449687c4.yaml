@@ -21,16 +21,6 @@ lastchangetime: 2026-04-04 23:25:41
 clickcount: 2
 geo_lat: 42.66665845482401
 geo_long: 23.296927213668827
-curation: -0.05
-provenance:
-  - radiobrowser-8035abbd-9c9a-4a00-a789-cd76449687c4
-streams:
-  - url: 'https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://25453.live.streamtheworld.com/RADIO_NOVAAAC_L.aac'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Commercial radio station broadcasting popular music and entertainment in Bulgarian.
   notes: Radio Nova is a major commercial radio station in Bulgaria broadcasting from Sofia. Established in the 1990s, it serves as a general music and entertainment station for the Bulgarian market.
   sources: https://www.radionova.bg/
+curation: -0.05
+provenance:
+  - radiobrowser-8035abbd-9c9a-4a00-a789-cd76449687c4
+streams:
+  - url: https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac
+    codec: AAC+
+    bitrate: 128
+  - url: https://25453.live.streamtheworld.com/RADIO_NOVAAAC_L.aac
+    codec: AAC+
+    bitrate: 48

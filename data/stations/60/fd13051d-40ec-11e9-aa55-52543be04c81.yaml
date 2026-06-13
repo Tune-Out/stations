@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 00:05:08
 clickcount: 7
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.35
-provenance:
-  - radiobrowser-fd13051d-40ec-11e9-aa55-52543be04c81
-streams:
-  - url: 'https://0n-classicrock.radionetz.de/0n-classicrock.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-classicrock.radionetz.de/0n-classicrock.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,16 @@ research:
   format: Classic rock from 1980s-1990s; era-specific and genre-based channels including pop, jazz, dance, electronic, metal, country, Latin, K-pop, and curated collections
   notes: 'Commercial online radio station based in Hof, Germany (entire media GmbH). Operator: Andreas Hahn. Extensive genre-based channel offerings organized by decade and style. Tagline "Your choice, your music!" Uses audimark for targeted advertising and audience measurement. Accessible globally via streaming; real-time playlist display.'
   sources: http://www.0nradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-fd13051d-40ec-11e9-aa55-52543be04c81
+  - iprd-de-on-radio-classic-rock-0ae35352
+  - iprd-de-on-radio-classic-rock-b3e56c23
+  - iprd-de-on-classic-rock-c324a54e
+streams:
+  - url: https://0n-classicrock.radionetz.de/0n-classicrock.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-classicrock.radionetz.de/0n-classicrock.mp3
+    codec: MP3
+    bitrate: 128

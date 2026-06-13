@@ -1,7 +1,7 @@
 stationuuid: 61773c70-d0f5-11e8-a54a-52543be04c81
 name: Montana Public Radio
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3
+url: 'https://16603.live.streamtheworld.com:443/KUFMFM.mp3'
+url_resolved: 'https://16603.live.streamtheworld.com:443/KUFMFM.mp3'
 homepage: http://mtpr.org/
 favicon: https://npr.brightspotcdn.com/dims4/default/f893a26/2147483647/strip/true/crop/2000x1050+0+475/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F5c%2Ffd4ceb9c44f98e934887049b7de2%2Fgrizzly-logo-text-flat.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:27:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-61773c70-d0f5-11e8-a54a-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -34,3 +31,6 @@ research:
   format: News, classical music, jazz, public affairs, educational programming; NPR content
   notes: Montana Public Radio (KUFM) is a non-commercial public radio station operated by the University of Montana as an NPR member station. Founded 1975, MTPR serves central and western Montana with public affairs, news, and cultural programming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-61773c70-d0f5-11e8-a54a-52543be04c81

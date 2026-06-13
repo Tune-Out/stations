@@ -1,6 +1,6 @@
 stationuuid: d86e83b0-1e1c-4a9c-b018-19682c879dc3
 name: MYX Philippines
-url: http://provisioning.streamtheworld.com/pls/MYXFM.pls
+url: 'http://28093.live.streamtheworld.com:80/MYXFM_SC'
 url_resolved: http://28093.live.streamtheworld.com:3690/MYXFM_SC
 homepage: https://myx.global/
 favicon: ""
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d86e83b0-1e1c-4a9c-b018-19682c879dc3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Music and entertainment programming
   notes: Major commercial music and entertainment platform serving the Philippines.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d86e83b0-1e1c-4a9c-b018-19682c879dc3

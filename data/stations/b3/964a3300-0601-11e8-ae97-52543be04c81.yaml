@@ -1,6 +1,6 @@
 stationuuid: 964a3300-0601-11e8-ae97-52543be04c81
 name: KWIC 99.3 "The Eagle" Topeka, KS
-url: http://provisioning.streamtheworld.com/pls/KWICFMAAC.pls
+url: 'http://29312.live.streamtheworld.com:80/KWICFMAAC_SC'
 url_resolved: http://22983.live.streamtheworld.com/KWICFMAAC_SC
 homepage: http://www.eagle993.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3159/squareIcon.png?r=94597
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:20:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-964a3300-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic hits radio (oldies and familiar pop/rock)
   notes: KWIC 99.3 "The Eagle" is a commercial classic hits radio station in Topeka, Kansas; operated by iHeartRadio/StreamTheWorld platform; plays familiar pop and rock hits from 1970s-1990s.
   sources: http://www.eagle993.com/, internal knowledge
+curation: -0.1
+provenance:
+  - radiobrowser-964a3300-0601-11e8-ae97-52543be04c81

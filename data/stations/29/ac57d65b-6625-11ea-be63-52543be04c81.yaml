@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 01:13:59
 clickcount: 0
 geo_lat: 50.814357
 geo_long: 12.931109
-curation: 0.40
-provenance:
-  - radiobrowser-ac57d65b-6625-11ea-be63-52543be04c81
-streams:
-  - url: 'http://stream.bn-radio.de:8000/bn-radio.aacp'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream.radio-unicc.de:8000/bn-radio.aacp'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://stream.bn-radio.de:8000/bn-radio.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +30,18 @@ research:
   format: Electronic and electronic dance music (EDM)
   notes: German electronic music radio; hosted on laut.fm streaming platform which aggregates multiple genre-specific channels and community stations.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-ac57d65b-6625-11ea-be63-52543be04c81
+  - iprd-de-bn-radio-eeab8820
+  - iprd-de-bn-radio-0132583e
+streams:
+  - url: http://stream.bn-radio.de:8000/bn-radio.aacp
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream.radio-unicc.de:8000/bn-radio.aacp
+    codec: AAC+
+    bitrate: 64
+  - url: http://stream.bn-radio.de:8000/bn-radio.mp3
+    codec: MP3
+    bitrate: 192

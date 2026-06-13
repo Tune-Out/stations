@@ -1,7 +1,7 @@
 stationuuid: 499abb39-c338-45f1-ba39-b0890a58df73
 name: Hot 100 - Darwin - 100.1 FM
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.mp3
+url: 'http://19273.live.streamtheworld.com:80/DAR_HOT100.mp3'
+url_resolved: 'http://19273.live.streamtheworld.com:80/DAR_HOT100.mp3'
 homepage: https://www.hot100fm.com.au/
 favicon: https://www.hot100fm.com.au/wp-content/uploads/sites/13/2022/10/cropped-512x512-favicon-NQL_DRW_H10-1.png?w=180
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:01:02
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-499abb39-c338-45f1-ba39-b0890a58df73
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hot adult contemporary, contemporary hits
   notes: Hot 100 Darwin (100.1 FM) is Australian commercial radio station; adult contemporary format playing contemporary hits; serves Darwin and broader Northern Territory region.
   sources: https://www.hot100fm.com.au/
+curation: -0.05
+provenance:
+  - radiobrowser-499abb39-c338-45f1-ba39-b0890a58df73

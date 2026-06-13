@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.80
-provenance:
-  - radiobrowser-54c53b2e-2dff-43d1-b4bb-25727419aebf
-streams:
-  - url: 'http://streams.radiomast.io/radioblues-flac'
-    codec: OGG
-    bitrate: 1500
-  - url: 'https://streams.radiomast.io/radioblues-flac'
-    codec: OGG
-    bitrate: 1500
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Blues music — Chicago blues, Texas blues, West Coast blues, electric blues, blues rock, contemporary and classic blues
   notes: Radio BluesFlac is a small independent online-only blues radio station notable for streaming in lossless FLAC at very high bitrate (~1500 kbps OGG/FLAC), targeting audiophile listeners; it is part of a niche category of high-fidelity internet stations and is based on radiomast.app infrastructure; despite the Canada (CA) registration in the radio-browser database, ownership is independent and not affiliated with any broadcaster or corporate group; programming is a curated automated stream rather than live DJ-hosted shows; the station's slogan/mission is "the best Blues with the best sound."
   sources: https://bluesflac.com/
+curation: 0.7
+provenance:
+  - radiobrowser-54c53b2e-2dff-43d1-b4bb-25727419aebf
+  - iprd-ca-radio-bluesflac-f04db470
+streams:
+  - url: http://streams.radiomast.io/radioblues-flac
+    codec: OGG
+    bitrate: 1500
+  - url: https://streams.radiomast.io/radioblues-flac
+    codec: OGG
+    bitrate: 1500

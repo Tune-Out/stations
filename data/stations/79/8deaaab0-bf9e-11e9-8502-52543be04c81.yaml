@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:37:46
 clickcount: 2
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.05
-provenance:
-  - radiobrowser-8deaaab0-bf9e-11e9-8502-52543be04c81
-streams:
-  - url: 'https://0n-volksmusik.radionetz.de/0n-volksmusik.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Volksmusik (folk music), Schlager, traditional German folk music, accordion music
   notes: German online radio network 0N Radio. Volksmusik channel focuses on traditional German and Alpine folk music (Volksmusik) and Schlager. Based in Bavaria. Part of larger 0N Radio network which offers genre-specific channels including Deutsch Pop and Volksmusik options.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8deaaab0-bf9e-11e9-8502-52543be04c81
+  - iprd-de-on-radio-volksmusik-f8948760
+  - iprd-de-on-radio-volksmusik-17751993
+streams:
+  - url: https://0n-volksmusik.radionetz.de/0n-volksmusik.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
+    codec: MP3
+    bitrate: 128

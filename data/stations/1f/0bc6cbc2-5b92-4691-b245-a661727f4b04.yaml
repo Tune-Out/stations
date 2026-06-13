@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 1
 geo_lat: 49.49853131068115
 geo_long: 8.502236986544851
-curation: 0.20
-provenance:
-  - radiobrowser-0bc6cbc2-5b92-4691-b245-a661727f4b04
-streams:
-  - url: 'http://stream.regenbogen2.de/deutschrock/mp3-128/radiobrowser'
-    codec: MP3
-  - url: 'https://stream.regenbogen2.de/deutschrock/mp3-128/radiobrowser'
-    codec: MP3
-  - url: 'http://stream.regenbogen2.de/deutschrock/mp3-128'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: 24/7 German rock (Deutschrock) including Neue Deutsche Härte, punk rock, alternative, indie; artists like Rammstein, Die Toten Hosen, Die Ärzte, Silbermond, Beatsteaks, Eisbrecher
   notes: Dedicated to German rock music; features German lyrics and authentic stories; available via Regenbogen2 streaming network; broadcasts from Baden-Württemberg
   sources: https://www.rockfm.de/, https://tunein.com/
+curation: 0.2
+provenance:
+  - radiobrowser-0bc6cbc2-5b92-4691-b245-a661727f4b04
+streams:
+  - url: http://stream.regenbogen2.de/deutschrock/mp3-128/radiobrowser
+    codec: MP3
+  - url: https://stream.regenbogen2.de/deutschrock/mp3-128/radiobrowser
+    codec: MP3
+  - url: http://stream.regenbogen2.de/deutschrock/mp3-128
+    codec: MP3

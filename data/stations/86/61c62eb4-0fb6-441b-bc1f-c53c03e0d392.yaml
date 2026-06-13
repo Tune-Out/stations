@@ -1,7 +1,7 @@
 stationuuid: 61c62eb4-0fb6-441b-bc1f-c53c03e0d392
 name: WAI fm IBAN
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3
+url: 'http://22283.live.streamtheworld.com:80/WAI_FM_IBAN.mp3'
+url_resolved: 'http://22283.live.streamtheworld.com:80/WAI_FM_IBAN.mp3'
 homepage: https://rtm.gov.my/
 favicon: https://play-lh.googleusercontent.com/uxM8yNfSSSXXmrI2Jft9Md3V-SrlyBl8XYk1YrnEXykn71l3AK8g8_kjQsFk1lLi-hM=w600-h300-pc0xffffff-pd
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 00:17:33
 clickcount: 29
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-61c62eb4-0fb6-441b-bc1f-c53c03e0d392
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -36,3 +33,6 @@ research:
   format: Malay language news, talk, ethnic and local music programming
   notes: Part of Malaysia's national broadcasting system; broadcasts news, local music, and cultural programming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-61c62eb4-0fb6-441b-bc1f-c53c03e0d392

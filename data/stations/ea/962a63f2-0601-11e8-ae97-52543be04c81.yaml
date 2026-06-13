@@ -22,16 +22,6 @@ lastchangetime: 2026-01-14 23:29:03
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-962a63f2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://strm112.1.fm/acountry_mobile_mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://strmreg.1.fm/acountry_mobile_mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: 24/7 mainstream country hits — modern American country chart hits and recent classics from artists like Luke Bryan, Carrie Underwood, Tim McGraw, Blake Shelton, Florida Georgia Line and similar.
   notes: 1.FM is one of the longest-running internet-only radio networks, founded in 1997. It operates dozens of themed online channels (Absolute Country Hits, Absolute Top 40, Absolute 80s, Absolute Trance, Acid Jazz, etc.) from its Swiss base, distributed via TuneIn, iHeart, and direct streams. It is a private commercial operator funded by streaming advertising and listener support, with no government, religious or political affiliation. The country-hits channel is among its most popular streams.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-962a63f2-0601-11e8-ae97-52543be04c81
+  - iprd-ch-1-fm-absolute-country-hits-radio-84d87e19
+streams:
+  - url: http://strm112.1.fm/acountry_mobile_mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://strmreg.1.fm/acountry_mobile_mp3
+    codec: MP3
+    bitrate: 192

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:30:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-75022dde-3627-4e6c-afe6-ee73c55a8c39
-streams:
-  - url: 'https://ais-edge08-live365-dal02.cdnstream.com/a91285?listenerId=esAdblock0169955&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1629635924'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://streaming.live365.com/a91285?l'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: internet radio; Live365 platform hosted
   notes: D100 radio; US-based internet radio station; Live365-streamed
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-75022dde-3627-4e6c-afe6-ee73c55a8c39
+  - iprd-us-d100-radio-a39ebc00
+streams:
+  - url: https://ais-edge08-live365-dal02.cdnstream.com/a91285?listenerId=esAdblock0169955&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1629635924
+    codec: MP3
+    bitrate: 192
+  - url: https://streaming.live365.com/a91285?l
+    codec: MP3
+    bitrate: 192

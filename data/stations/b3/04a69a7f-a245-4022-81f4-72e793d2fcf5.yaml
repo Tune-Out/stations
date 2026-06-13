@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-04a69a7f-a245-4022-81f4-72e793d2fcf5
-streams:
-  - url: 'https://myradio24.org/5129_320.m3u'
-    url_resolved: 'http://myradio24.org/5129_320'
-    codec: AAC
-    bitrate: 320
-  - url: 'https://myradio24.org/5129'
-    codec: AAC
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -40,3 +29,14 @@ research:
   format: Electronic dance music — Deep House, Progressive House, Future House, Club House, Nu Disco and other EDM subgenres; ad-free, no on-air talk
   notes: BEST DEEP FM is an online-only Russian webradio based in Petrozavodsk specialising in deep house and related EDM subgenres; self-described as "РАДИО ПРАВИЛЬНОЙ МУЗЫКИ!" ("Radio of the right music!") with the explicit promise of "Без рекламы и разговоров в эфире" ("No ads and no talk on air"); streams at 320 kbps; community presence on VK, Telegram and MAX; supported by listener donations rather than advertising.
   sources: https://bestdeepfm.ru/
+curation: 0.6
+provenance:
+  - radiobrowser-04a69a7f-a245-4022-81f4-72e793d2fcf5
+streams:
+  - url: https://myradio24.org/5129_320.m3u
+    url_resolved: http://myradio24.org/5129_320
+    codec: AAC
+    bitrate: 320
+  - url: https://myradio24.org/5129
+    codec: AAC
+    bitrate: 128

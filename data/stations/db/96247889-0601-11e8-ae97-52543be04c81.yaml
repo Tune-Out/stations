@@ -1,6 +1,6 @@
 stationuuid: 96247889-0601-11e8-ae97-52543be04c81
 name: KRPI 1550 "Sher-E-Punjab Radio" Ferndale, WA
-url: http://provisioning.streamtheworld.com/pls/KRPIAMAAC.pls
+url: 'http://29313.live.streamtheworld.com:80/KRPIAMAAC_SC'
 url_resolved: http://27283.live.streamtheworld.com/KRPIAMAAC_SC
 homepage: http://www.krpiradio.com/
 favicon: http://www.krpiradio.com/wp-content/uploads/cropped-favicon2-180x180.png
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 05:28:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96247889-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -33,3 +30,7 @@ research:
   format: Ethnic programming, South Asian music, culture, and news
   notes: Community radio station in Ferndale, Washington serving Punjabi and broader South Asian communities. Focus on cultural programming, educational content, and music from the subcontinent.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96247889-0601-11e8-ae97-52543be04c81
+  - iprd-us-krpi-1550-sher-e-punjab-radio-dc43071c

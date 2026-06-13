@@ -24,15 +24,6 @@ lastchangetime: 2026-02-03 00:05:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-620a1ecc-3aae-47e9-bda8-63e263e9d552
-streams:
-  - url: 'https://stream.aiir.com/ubrzdpuap28vv'
-    codec: AAC
-  - url: 'https://stream-15.aiir.com/hls/8dprqqdsdskuv/hECfmBMzRuSWhDs1v_Fmzw/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +33,12 @@ research:
   format: Adult contemporary, pop, top hits, classic hits, entertainment programming
   notes: UK commercial radio station serving Lincolnshire in the East Midlands region. Broadcasts classic hits, adult contemporary music, and pop programming to local and regional audience through online streaming and traditional radio frequencies.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-620a1ecc-3aae-47e9-bda8-63e263e9d552
+streams:
+  - url: https://stream.aiir.com/ubrzdpuap28vv
+    codec: AAC
+  - url: https://stream-15.aiir.com/hls/8dprqqdsdskuv/hECfmBMzRuSWhDs1v_Fmzw/live.m3u8
+    codec: UNKNOWN
+    hls: true

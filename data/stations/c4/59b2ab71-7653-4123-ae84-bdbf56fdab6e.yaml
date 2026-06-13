@@ -23,17 +23,6 @@ lastchangetime: 2026-01-14 23:46:56
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-59b2ab71-7653-4123-ae84-bdbf56fdab6e
-duplicate_of: 45a71a03-bce2-49d8-9314-d8421223fe64
-streams:
-  - url: 'https://streams.95bfm.com/stream112'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://streams.95bfm.com/stream112'
-    codec: OGG
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +32,14 @@ research:
   audience: students, alternative-music listeners and local-music supporters in Auckland; broadcast on 95.0 FM across greater Auckland
   notes: 95bFM dates to 1969 as a closed-circuit student station, going on air as Radio Bosom for the 1969 Auckland Capping Week and becoming a full-time FM station as 95bFM in 1985; long known for breaking New Zealand artists (e.g., shows like the Wammo Show, Drive, The Breakfast Show, Freak the Sheep, 95bFM Top Ten); a registered NZ On Air-supported broadcaster of local music with a strong tradition of activist and student-affairs programming
   sources: https://95bfm.com/ (HTTP 403 on fetch), internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-59b2ab71-7653-4123-ae84-bdbf56fdab6e
+duplicate_of: 45a71a03-bce2-49d8-9314-d8421223fe64
+streams:
+  - url: https://streams.95bfm.com/stream112
+    codec: OGG
+    bitrate: 128
+  - url: https://streams.95bfm.com/stream112
+    codec: OGG
+    bitrate: 64

@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 04:06:00
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-9607cf45-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.srg-ssr.ch/m/espace-2/aacp_96'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream.srg-ssr.ch/espace-2/mp3_128.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/espace-2/mp3/128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +32,17 @@ research:
   format: Classical music, jazz, cultural programming
   notes: Part of SRG SSR, Switzerland's public broadcaster; serves French-speaking region (Suisse Romande); educational mission
   sources: http://www.rts.ch/espace-2/, internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-9607cf45-0601-11e8-ae97-52543be04c81
+  - iprd-ch-rts-espace-2-0e8c26a1
+  - iprd-ch-rts-espace-2-ca3b7a65
+  - iprd-ch-rts-espace-2-c12bd461
+streams:
+  - url: http://stream.srg-ssr.ch/m/espace-2/aacp_96
+    codec: AAC
+    bitrate: 128
+  - url: http://stream.srg-ssr.ch/espace-2/mp3_128.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/espace-2/mp3/128
+    codec: MP3
+    bitrate: 128

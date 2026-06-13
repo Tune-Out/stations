@@ -1,6 +1,6 @@
 stationuuid: 9649d801-0601-11e8-ae97-52543be04c81
 name: WMGI 100.7 "Mix FM" Terre Haute, IN
-url: http://provisioning.streamtheworld.com/pls/WMGIFMAAC.pls
+url: 'http://17813.live.streamtheworld.com:80/WMGIFMAAC_SC'
 url_resolved: http://26733.live.streamtheworld.com:3690/WMGIFMAAC_SC
 homepage: http://mymixfm.com/
 favicon: https://media.socastsrm.com/uploads/station/2109/home_screen_logo-5e343ac2acb70.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:00:09
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9649d801-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Contemporary hits (CHR); top 40 and popular music programming; mainstream radio format.
   notes: WMGI 100.7 "Mix FM" is a commercial radio station in Terre Haute, Indiana. Broadcasts contemporary hits radio (CHR) and top 40 format to central Indiana audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9649d801-0601-11e8-ae97-52543be04c81

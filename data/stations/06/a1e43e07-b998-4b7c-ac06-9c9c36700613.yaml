@@ -21,9 +21,6 @@ lastchangetime: 2026-01-14 23:52:39
 clickcount: 1
 geo_lat: 32.78023174377439
 geo_long: -96.7943572998047
-curation: 0.35
-provenance:
-  - radiobrowser-a1e43e07-b998-4b7c-ac06-9c9c36700613
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -33,3 +30,9 @@ research:
   format: 24/7 continuous weather information, emergency alerts, local weather forecasts, civil protection messaging
   notes: NOAA Weather Radio (KEC56) is a U.S. government-operated continuous weather broadcast serving the Dallas, Texas area. Provides real-time weather data, emergency alerts, and safety information as a public service.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a1e43e07-b998-4b7c-ac06-9c9c36700613
+  - iprd-us-kig79-noaa-weather-e7ecf391
+  - iprd-us-kec65-noaa-weather-radio-7edb3cc7
+  - iprd-us-wxl43-noaa-weather-radio-e2b1492e

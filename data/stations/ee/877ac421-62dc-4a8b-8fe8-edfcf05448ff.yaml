@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:58:24
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-877ac421-62dc-4a8b-8fe8-edfcf05448ff
-streams:
-  - url: 'https://stream.revma.ihrhls.com/zc53/hls.m3u8'
-    codec: AAC
-    bitrate: 24
-    hls: true
-  - url: 'https://stream.revma.ihrhls.com/zc53'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Regional Mexican music (norteño, banda, traditional); live programming with hosts Herson JR Montano, Samuel Ramirez, Sergio Robles, Adrian Martinez; podcasts ("La Clavada," "Enrique Santos En Overtime")
   notes: 'Tagline: "Pura Música Perrona para Phoenix" (Pure Perron Music for Phoenix). Community-focused programming including employment fairs, immigration alerts, safety advisories. Part of iHeartRadio ecosystem; covers Fiesta Latina events.'
   sources: https://elpatronphoenix.iheart.com/
+curation: 0.35
+provenance:
+  - radiobrowser-877ac421-62dc-4a8b-8fe8-edfcf05448ff
+streams:
+  - url: https://stream.revma.ihrhls.com/zc53/hls.m3u8
+    codec: AAC
+    bitrate: 24
+    hls: true
+  - url: https://stream.revma.ihrhls.com/zc53
+    codec: AAC

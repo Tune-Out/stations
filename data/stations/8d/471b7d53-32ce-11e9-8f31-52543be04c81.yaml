@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:18:44
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-471b7d53-32ce-11e9-8f31-52543be04c81
-streams:
-  - url: 'http://icecast.vgtrk.cdnvideo.ru/moscowfm128?v=1550419566950'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://icecast.vgtrk.cdnvideo.ru/moscowfm128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -40,3 +30,14 @@ research:
   format: General entertainment, music, news, and cultural programming; state-funded station
   notes: Moskva FM is operated by VGTRK, the major Russian state broadcaster; part of Russia's public radio network; serves Moscow and wider Russian Federation; offers diverse programming including music, news, and cultural content.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-471b7d53-32ce-11e9-8f31-52543be04c81
+  - iprd-ru-moskva-92-0-b04a7a6d
+streams:
+  - url: http://icecast.vgtrk.cdnvideo.ru/moscowfm128?v=1550419566950
+    codec: MP3
+    bitrate: 128
+  - url: http://icecast.vgtrk.cdnvideo.ru/moscowfm128
+    codec: MP3
+    bitrate: 128

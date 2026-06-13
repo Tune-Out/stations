@@ -1,7 +1,7 @@
 stationuuid: 0d77c174-34b7-423c-beda-113e23e1831a
 name: Nash FM 100.1
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KBBMFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KBBMFMAAC.aac
+url: 'https://29312.live.streamtheworld.com:443/KBBMFMAAC.aac'
+url_resolved: 'https://29312.live.streamtheworld.com:443/KBBMFMAAC.aac'
 homepage: https://www.nashfm100.com/
 favicon: https://www.nashfm100.com/favicon.ico
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:06:33
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-0d77c174-34b7-423c-beda-113e23e1831a
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: country music
   notes: KBBM 100.1 FM. Nash FM 100.1 licensed to Jefferson City, Missouri. Commercial country music station operated by Cumulus Media. Branded as "100.1 Nash FM" serving the Mid-Missouri area.
   sources: https://en.wikipedia.org/wiki/KBBM
+curation: 0.3
+provenance:
+  - radiobrowser-0d77c174-34b7-423c-beda-113e23e1831a

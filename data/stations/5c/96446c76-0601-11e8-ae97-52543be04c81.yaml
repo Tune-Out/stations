@@ -1,6 +1,6 @@
 stationuuid: 96446c76-0601-11e8-ae97-52543be04c81
 name: KSZR 97.5 "The Vibe" Oro Valley, AZ
-url: http://provisioning.streamtheworld.com/pls/KSZRFMAAC.pls
+url: 'http://29314.live.streamtheworld.com:80/KSZRFMAAC_SC'
 url_resolved: http://27163.live.streamtheworld.com:3690/KSZRFMAAC_SC
 homepage: http://www.975thevibe.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3146/squareIcon.png?r=93197
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 07:42:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96446c76-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hip-hop radio; classic hip-hop, urban contemporary, rap
   notes: KSZR 97.5 "The Vibe" is known for hip-hop and urban music format in the Tucson market
   sources: http://www.975thevibe.com/
+curation: -0.05
+provenance:
+  - radiobrowser-96446c76-0601-11e8-ae97-52543be04c81

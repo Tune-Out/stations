@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 05:11:51
 clickcount: 8
 geo_lat: 50.46100111599232
 geo_long: 7.910156250000001
-curation: 0.25
-provenance:
-  - radiobrowser-0c7c0c0c-5981-440f-bc8a-98530962c191
-streams:
-  - url: 'https://stream.0nlineradio.com/vivaldi'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://stream.0nlineradio.com/vivaldi'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: Classical music, instrumental, featuring works by Vivaldi and other classical composers
   notes: Online classical music radio station operated by 0nlineradio, specializing in Vivaldi and classical music selections. Multi-language support (English/German). Stream available via their dedicated platform.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-0c7c0c0c-5981-440f-bc8a-98530962c191
+streams:
+  - url: https://stream.0nlineradio.com/vivaldi
+    codec: MP3
+    bitrate: 192
+  - url: http://stream.0nlineradio.com/vivaldi
+    codec: MP3
+    bitrate: 192

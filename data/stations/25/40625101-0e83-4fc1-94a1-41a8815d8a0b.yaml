@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-40625101-0e83-4fc1-94a1-41a8815d8a0b
-streams:
-  - url: 'http://stream.openbroadcast.ch/16bit.flac'
-    codec: OGG
-  - url: 'https://stream.openbroadcast.ch/16bit.flac'
-    codec: OGG
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -36,3 +28,12 @@ research:
   format: Open broadcast platform supporting independent broadcasters and community radio
   notes: Open Broadcast provides community radio infrastructure and streaming for independent and non-commercial broadcasters; aligned with free/open-source ethos.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-40625101-0e83-4fc1-94a1-41a8815d8a0b
+  - iprd-ch-open-broadcast-4ef914c4
+streams:
+  - url: http://stream.openbroadcast.ch/16bit.flac
+    codec: OGG
+  - url: https://stream.openbroadcast.ch/16bit.flac
+    codec: OGG

@@ -27,16 +27,6 @@ lastchangetime: 2026-01-15 00:28:14
 clickcount: 1
 geo_lat: 50.3115
 geo_long: 11.923
-curation: -0.10
-provenance:
-  - radiobrowser-5a2b36a0-f374-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-hits.radionetz.de/1a-hits.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-hits.radionetz.de/1a-hits.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +36,15 @@ research:
   format: Hits, pop, dance, hiphop, rock, top 40 music programming
   notes: Part of 1A Radio's multi-channel streaming network; associated with radionetz.de platform; Bavaria-based
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-5a2b36a0-f374-11e8-a471-52543be04c81
+  - iprd-de-1a-hits-6efe5283
+  - iprd-de-1a-hits-5ba9101c
+streams:
+  - url: https://1a-hits.radionetz.de/1a-hits.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-hits.radionetz.de/1a-hits.mp3
+    codec: MP3
+    bitrate: 128

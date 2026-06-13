@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 02:51:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-354ff888-83d7-45a2-bef9-911dd772ec82
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/pump96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/pump96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +30,13 @@ research:
   format: Dance, electronic dance music, nostalgic hits, and remixes
   notes: 'Ranked #1 dance radio station in Russia since 1995; offers multiple themed channels including House, Trance, EDM; "Old School" channel features classic dance and nostalgic electronic music'
   sources: radiorecord.ru, KeepOne Radio, YouTube
+curation: -0.05
+provenance:
+  - radiobrowser-354ff888-83d7-45a2-bef9-911dd772ec82
+  - iprd-ru-radio-record-pump-n-klubb-a0223da0
+  - iprd-ru-radio-rekord-old-school-6b9d152f
+streams:
+  - url: http://radiorecord.hostingradio.ru/pump96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/pump96.aacp
+    codec: AAC

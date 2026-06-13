@@ -23,14 +23,6 @@ lastchangetime: 2026-01-14 23:36:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-791aa9c8-aaf0-11e9-88f4-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-top40-128-aac?usid=0-0-H-A-D-30'
-    codec: MP3
-  - url: 'http://streams.rpr1.de/rpr-top40-128-mp3?usid=0-0-H-A-D-30'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +32,13 @@ research:
   format: Top 40, pop, chart hits; genre-specific themed channels (Top 50, Country, etc.)
   notes: RPR1 began broadcasting April 30, 1986, as Germany's first nationwide private radio station. Regional radio covering Ludwigshafen and Rhineland-Palatinate region. Top50 channel focuses on current chart hits and modern pop.
   sources: streema.com, onlineradiobox.com, tunein.com
+curation: -0.05
+provenance:
+  - radiobrowser-791aa9c8-aaf0-11e9-88f4-52543be04c81
+  - iprd-de-rpr1-top-50-aa5f3933
+  - iprd-de-rpr1-top-50-7313da85
+streams:
+  - url: http://streams.rpr1.de/rpr-top40-128-aac?usid=0-0-H-A-D-30
+    codec: MP3
+  - url: http://streams.rpr1.de/rpr-top40-128-mp3?usid=0-0-H-A-D-30
+    codec: MP3

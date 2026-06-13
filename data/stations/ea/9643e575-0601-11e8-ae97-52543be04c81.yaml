@@ -1,6 +1,6 @@
 stationuuid: 9643e575-0601-11e8-ae97-52543be04c81
 name: Nova Brasil FM Recife (ZYD241, 94,3 MHz FM)
-url: http://provisioning.streamtheworld.com/pls/NOVABRASIL_RECAAC.pls
+url: 'http://27323.live.streamtheworld.com:80/NOVABRASIL_RECAAC_SC'
 url_resolved: http://24373.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC
 homepage: http://recife.novabrasilfm.com.br/
 favicon: http://recife.novabrasilfm.com.br/images/apple-touch-icon.png?1725267621
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 05:51:16
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9643e575-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Brazilian music, MPB, pop, news, local news from Recife
   notes: Commercial FM radio station (94.3 MHz, ZYD241) serving Recife, Pernambuco; part of Nova Brasil FM network.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9643e575-0601-11e8-ae97-52543be04c81

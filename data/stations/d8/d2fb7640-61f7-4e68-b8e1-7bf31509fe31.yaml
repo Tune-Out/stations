@@ -26,14 +26,6 @@ lastchangetime: 2026-01-15 01:22:50
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d2fb7640-61f7-4e68-b8e1-7bf31509fe31
-streams:
-  - url: 'https://stream.zeno.fm/pfrwo2fzcbktv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/pfrwo2fzcbktv?zt='
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +35,11 @@ research:
   format: Commercial music and talk radio; baladas, salsa, ranchera, crossover; advertising focus.
   notes: 'FM 91.4 based in Facatativá. Motto: "La Radio que te Mueve" (The Radio that Moves You). Publireportajes and commercial advertising formats. Hours: Mon-Fri 7:30 AM - 5:30 PM.'
   sources: https://vilmarfm.com/
+curation: -0.05
+provenance:
+  - radiobrowser-d2fb7640-61f7-4e68-b8e1-7bf31509fe31
+streams:
+  - url: https://stream.zeno.fm/pfrwo2fzcbktv
+    codec: MP3
+  - url: https://stream.zeno.fm/pfrwo2fzcbktv?zt=
+    codec: MP3

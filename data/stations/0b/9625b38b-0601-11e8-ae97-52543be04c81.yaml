@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 08:03:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9625b38b-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://kunrstream.com:8443/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://kunrstream.com:8443/live?uuid=wmtj4mcb'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: News, public affairs, music, classical, jazz; NPR-affiliated programming
   notes: University-operated public radio station; NPR member since 1984; serves Northern Nevada
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9625b38b-0601-11e8-ae97-52543be04c81
+  - iprd-us-kunr-88-7-reno-public-radio-c0a8ed11
+streams:
+  - url: https://kunrstream.com:8443/live
+    codec: MP3
+    bitrate: 128
+  - url: https://kunrstream.com:8443/live?uuid=wmtj4mcb
+    codec: MP3
+    bitrate: 128

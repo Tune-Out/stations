@@ -1,7 +1,7 @@
 stationuuid: 1473dc0b-23b1-4923-8892-7c467f712867
 name: Cadena Ser Guadix
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIXAAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIXAAC_SC
+url: 'https://27753.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
+url_resolved: 'https://27753.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
 homepage: https://cadenaser.com/emisora/radio_guadix/
 favicon: https://cadenaser.com/pf/resources/img/favicon.png?d=765
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 05:32:00
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1473dc0b-23b1-4923-8892-7c467f712867
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -35,3 +32,7 @@ research:
   format: Sports, news, general entertainment
   notes: Regional station part of Cadena SER, Spain's largest private radio network owned by Prisa Group. Serves Guadix area in Granada province.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1473dc0b-23b1-4923-8892-7c467f712867
+  - iprd-es-cadena-ser-guadix-82bc2250

@@ -25,16 +25,6 @@ lastchangetime: 2026-01-14 23:39:47
 clickcount: 0
 geo_lat: 42.36057345238458
 geo_long: -71.06025695800783
-curation: 0.55
-provenance:
-  - radiobrowser-fffb6846-6cb2-4d0f-a97c-63d61669e43b
-streams:
-  - url: 'https://uncertain.fm/streams/direct'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://ais-edge37-live365-dal02.cdnstream.com/a23389'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +34,13 @@ research:
   format: Independent freeform radio featuring indie, alternative, forgotten classics, hip-hop, and experimental music
   notes: Self-described as "independent freeform radio" with diverse programming format. Community-supported via Patreon and Venmo donations. Based in Boston area with active live chat and program schedule. Shows include "Maura Dot Com Slash Uncertain" and other community-hosted programming.
   sources: https://uncertain.fm/
+curation: 0.55
+provenance:
+  - radiobrowser-fffb6846-6cb2-4d0f-a97c-63d61669e43b
+streams:
+  - url: https://uncertain.fm/streams/direct
+    codec: MP3
+    bitrate: 128
+  - url: http://ais-edge37-live365-dal02.cdnstream.com/a23389
+    codec: MP3
+    bitrate: 128

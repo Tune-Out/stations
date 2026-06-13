@@ -24,17 +24,6 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 41
 geo_lat: null
 geo_long: null
-curation: 0.75
-provenance:
-  - radiobrowser-efcd88c5-cd6f-11e8-a54a-52543be04c81
-streams:
-  - url: 'https://bytefm.cast.addradio.de/bytefm/main/high/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://www.byte.fm/stream/bytefmhq.m3u'
-    url_resolved: 'http://uplink.byte.fm/bytefm-mainhq/mp3-192/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -44,3 +33,14 @@ research:
   format: Indie, rock, pop, and world music; diverse programming focused on alternative and independent artists.
   notes: Hamburg-based non-commercial community radio station; operates as membership association (e.V.); emphasizes independent and alternative music; high-quality 192 kbps streaming; part of German community radio landscape.
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-efcd88c5-cd6f-11e8-a54a-52543be04c81
+streams:
+  - url: https://bytefm.cast.addradio.de/bytefm/main/high/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://www.byte.fm/stream/bytefmhq.m3u
+    url_resolved: http://uplink.byte.fm/bytefm-mainhq/mp3-192/
+    codec: MP3
+    bitrate: 192

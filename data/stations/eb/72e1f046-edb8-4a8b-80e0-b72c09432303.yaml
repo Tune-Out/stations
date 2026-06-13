@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:42:26
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-72e1f046-edb8-4a8b-80e0-b72c09432303
-streams:
-  - url: 'https://streamingcwsradio30.com/8232/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streamingcwsradio30.com/8232/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Contemporary music, news, and talk programming
   notes: Kiuu 91.1 FM is a commercial radio station serving the city of Torreón in Coahuila state, Mexico. Broadcasts music, news, and talk formats to the local community via 91.1 FM.
   sources: https://kiuu.gremradio.com.mx/, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-72e1f046-edb8-4a8b-80e0-b72c09432303
+streams:
+  - url: https://streamingcwsradio30.com/8232/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://streamingcwsradio30.com/8232/stream
+    codec: MP3
+    bitrate: 128

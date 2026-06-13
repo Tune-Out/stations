@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:48:14
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d4a4ca27-d864-4f0c-ac3a-4dd9d273cbb9
-streams:
-  - url: 'http://hongkongstream.axr.online/'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://hongkongstream.axr.online/'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: News and sports programming
   notes: Hong Kong-based news and sports radio.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d4a4ca27-d864-4f0c-ac3a-4dd9d273cbb9
+streams:
+  - url: http://hongkongstream.axr.online/
+    codec: AAC+
+    bitrate: 64
+  - url: https://hongkongstream.axr.online/
+    codec: AAC+
+    bitrate: 64

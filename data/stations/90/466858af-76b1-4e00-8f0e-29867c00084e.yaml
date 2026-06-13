@@ -1,7 +1,7 @@
 stationuuid: 466858af-76b1-4e00-8f0e-29867c00084e
 name: Disco by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR14_s01AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR14_s01AAC.aac
+url: 'https://17843.live.streamtheworld.com:443/ACIR14_S01AAC.aac'
+url_resolved: 'https://17843.live.streamtheworld.com:443/ACIR14_S01AAC.aac'
 homepage: https://acironline.mx/
 favicon: https://i.iheart.com/v3/re/new_assets/5c76a223e7770a23546c3d81
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 00:36:25
 clickcount: 10
 geo_lat: 19.434505118290417
 geo_long: -99.1336727142334
-curation: 0.20
-provenance:
-  - radiobrowser-466858af-76b1-4e00-8f0e-29867c00084e
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: online-only themed disco channel - classic disco, euro-disco, italo-disco, disco funk and contemporary nu-disco, hosted/curated by Moi Merino
   notes: "\"Disco by Mix\" is an online-only spin-off channel of Mix FM, one of Grupo ACIR's flagship CHR brands; it is distributed through ACIR Online and the iHeartRadio Mexico platform as part of a wider catalogue of themed digital stations operated by the group; Grupo ACIR is a long-established Mexican radio company founded in 1965 and headquartered in Mexico City, operating networks such as Mix FM, Amor, La Comadre and Radio Felicidad; the station mirrors the global iHeartRadio strategy of complementing FM brands with niche curated streams."
   sources: https://acironline.mx/
+curation: 0.2
+provenance:
+  - radiobrowser-466858af-76b1-4e00-8f0e-29867c00084e

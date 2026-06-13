@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 00:08:30
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-9003fc77-3529-48b4-878f-690aeb107d1e
-duplicate_of: 39c8120e-021e-4ae3-95f3-be0afb190629
-streams:
-  - url: 'http://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +30,14 @@ research:
   format: '"Nouvo Nova" stream; music and entertainment programming'
   notes: Nova is a major French commercial radio station founded in 1981; youth-oriented format with alternative and indie music focus; "Nouvo Nova" appears to be a streaming variant or specialized channel; nationwide reach in France
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-9003fc77-3529-48b4-878f-690aeb107d1e
+duplicate_of: 39c8120e-021e-4ae3-95f3-be0afb190629
+streams:
+  - url: http://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:39:08
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962b77a9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://streaming.radiostreamlive.com/radiorockon_devices'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://streaming.radiostreamlive.com/radiorockon_devices'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Classic rock, classic hits, rock music; mainstream commercial rock radio.
   notes: Los Angeles-based classic rock station (RSL = Radio Stream Live platform). Targets classic rock listeners in Southern California market.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962b77a9-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-rock-on-99-5-f265831b
+  - iprd-us-radio-rock-on-22cf0bbd
+streams:
+  - url: https://streaming.radiostreamlive.com/radiorockon_devices
+    codec: MP3
+    bitrate: 128
+  - url: http://streaming.radiostreamlive.com/radiorockon_devices
+    codec: MP3
+    bitrate: 128

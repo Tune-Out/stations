@@ -20,24 +20,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-a034f273-96e6-4301-9c29-901a93aa4583
-streams:
-  - url: 'https://radiominor.ru:8443/radiominor_ru_jazz.mp3'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://radiominor.ru:8443/radiominor_ru_rurock.mp3'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://radiominor.ru:8443/192khz.mp3'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://radiominor.ru:8443/radiominor_ru_indie.mp3'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://radiominor.ru:8443/radiominor_ru.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -47,3 +29,21 @@ research:
   format: jazz music programming (jazz—джаз)
   notes: Radio Минор (Minor) is a Russian jazz-focused station based in Rybinsk, a city on the Volga River in Yaroslavl Oblast. Specializes in jazz music and caters to jazz listeners across the Russian Federation via online streaming.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-a034f273-96e6-4301-9c29-901a93aa4583
+streams:
+  - url: https://radiominor.ru:8443/radiominor_ru_jazz.mp3
+    codec: MP3
+    bitrate: 160
+  - url: https://radiominor.ru:8443/radiominor_ru_rurock.mp3
+    codec: MP3
+    bitrate: 160
+  - url: https://radiominor.ru:8443/192khz.mp3
+    codec: MP3
+    bitrate: 160
+  - url: https://radiominor.ru:8443/radiominor_ru_indie.mp3
+    codec: MP3
+    bitrate: 160
+  - url: https://radiominor.ru:8443/radiominor_ru.mp3
+    codec: MP3

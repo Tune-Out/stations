@@ -23,14 +23,6 @@ lastchangetime: 2026-05-30 13:16:18
 clickcount: 0
 geo_lat: 24.16265657394661
 geo_long: -110.31492233276369
-curation: 0.30
-provenance:
-  - radiobrowser-cbeb6b35-c1fa-40b1-bd1d-f3af6b5d048c
-streams:
-  - url: 'https://stream.zeno.fm/mkifybkafybtv'
-    codec: AAC
-  - url: 'https://stream.zeno.fm/zc6eqtg84c9uv'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +32,11 @@ research:
   format: Regional Mexican music (banda norteña, grupera, traditional Mexican music)
   notes: XHW-FM call sign; 90.1 FM; acquired by Promomedios California in the 1980s; programming includes personality Moi Merino.
   sources: https://en.wikipedia.org/wiki/XHW-FM, https://www.alegriamexicana.com/
+curation: 0.3
+provenance:
+  - radiobrowser-cbeb6b35-c1fa-40b1-bd1d-f3af6b5d048c
+streams:
+  - url: https://stream.zeno.fm/mkifybkafybtv
+    codec: AAC
+  - url: https://stream.zeno.fm/zc6eqtg84c9uv
+    codec: AAC

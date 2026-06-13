@@ -21,22 +21,6 @@ lastchangetime: 2026-01-15 06:57:09
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-51b2e520-417d-4c91-8bf3-f2a664289c9b
-streams:
-  - url: 'https://sverigesradio.se/topsy/direkt/216-hi-aac.pls'
-    url_resolved: 'https://live1.sr.se/p4vnrl-aac-320'
-    codec: AAC
-    bitrate: 296
-  - url: 'https://sverigesradio.se/topsy/direkt/216-hi-mp3.m3u'
-    url_resolved: 'https://live1.sr.se/p4vnrl-mp3-96'
-    codec: MP3
-    bitrate: 130
-  - url: 'https://sverigesradio.se/topsy/direkt/216-hi-mp3.pls'
-    url_resolved: 'https://live1.sr.se/p4vnrl-mp3-96'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -46,3 +30,19 @@ research:
   format: General interest radio; news, music, current affairs
   notes: P4 Västernorrland is a regional channel of Sveriges Radio (Swedish public broadcaster); P4 series covers regional stations
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-51b2e520-417d-4c91-8bf3-f2a664289c9b
+streams:
+  - url: https://sverigesradio.se/topsy/direkt/216-hi-aac.pls
+    url_resolved: https://live1.sr.se/p4vnrl-aac-320
+    codec: AAC
+    bitrate: 296
+  - url: https://sverigesradio.se/topsy/direkt/216-hi-mp3.m3u
+    url_resolved: https://live1.sr.se/p4vnrl-mp3-96
+    codec: MP3
+    bitrate: 130
+  - url: https://sverigesradio.se/topsy/direkt/216-hi-mp3.pls
+    url_resolved: https://live1.sr.se/p4vnrl-mp3-96
+    codec: MP3
+    bitrate: 128

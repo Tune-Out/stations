@@ -1,6 +1,6 @@
 stationuuid: 964afdb9-0601-11e8-ae97-52543be04c81
 name: KVMA "Magic 102.9" Shreveport, LA
-url: http://provisioning.streamtheworld.com/pls/KVMAFMAAC.pls
+url: 'http://14943.live.streamtheworld.com:80/KVMAFMAAC_SC'
 url_resolved: http://18513.live.streamtheworld.com/KVMAFMAAC_SC
 homepage: http://www.magic1029fm.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3156/squareIcon.png?r=94577
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 03:39:23
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-964afdb9-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: classic soul, R&B, and oldies music
   notes: Commercial FM radio station (102.9 MHz) branded as "Magic"; focuses on classic soul and R&B heritage for Shreveport market
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-964afdb9-0601-11e8-ae97-52543be04c81

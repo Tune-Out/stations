@@ -1,7 +1,7 @@
 stationuuid: b0542bf7-b842-489d-a424-bbbfe6b55cc3
 name: Ser Soria
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
+url: 'https://25443.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
+url_resolved: 'https://25443.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
 homepage: https://cadenaser.com/ser-soria/
 favicon: https://cadenaser.com/pf/resources/img/favicon.png?d=903
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-14 23:42:15
 clickcount: 2
 geo_lat: 41.76205468087638
 geo_long: -2.4729967117309575
-curation: -0.05
-provenance:
-  - radiobrowser-b0542bf7-b842-489d-a424-bbbfe6b55cc3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Local news, news talk, current affairs, and local/regional news coverage
   notes: Ser Soria is a regional station of the Cadena SER network, Spain's largest radio broadcaster, focused on local news and current affairs for the Soria region.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b0542bf7-b842-489d-a424-bbbfe6b55cc3

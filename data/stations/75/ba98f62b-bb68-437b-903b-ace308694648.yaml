@@ -20,16 +20,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 02:41:59
 clickcount: 0
-curation: 0.30
-provenance:
-  - radiobrowser-ba98f62b-bb68-437b-903b-ace308694648
-streams:
-  - url: 'https://ice10.securenetsystems.net/WCON'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://ice10.securenetsystems.net/WCON'
-    codec: AAC+
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,15 @@ research:
   format: Classic country; includes Atlanta Braves baseball broadcasts
   notes: 'WCON-FM 99.3 licensed to Cornelia, GA. Launched 1965 as Class A; upgraded to C2 (1989) then to 100,000W (Dec 2015). May 2019 rebranding: shifted from country/southern gospel blend to classic country as "My Country 99.3". Covers Northeast Georgia and parts of Carolinas. Studios: 540 North Main St, Cornelia.'
   sources: Wikipedia (WCON-FM article), tunein.com, mytuner-radio.com, streema.com, Facebook (@MyCountry993)
+curation: 0.3
+provenance:
+  - radiobrowser-ba98f62b-bb68-437b-903b-ace308694648
+  - iprd-us-wcon-99-3-my-country-404ef955
+  - iprd-us-wcon-my-country-99-3-0003f501
+streams:
+  - url: https://ice10.securenetsystems.net/WCON
+    codec: AAC+
+    bitrate: 32
+  - url: http://ice10.securenetsystems.net/WCON
+    codec: AAC+
+    bitrate: 32

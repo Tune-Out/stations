@@ -1,6 +1,6 @@
 stationuuid: 9648ae87-0601-11e8-ae97-52543be04c81
 name: XEH-AM 1420 "La H" Monterrey, NL
-url: http://provisioning.streamtheworld.com/pls/XEH_AMAAC.pls
+url: 'http://27263.live.streamtheworld.com:80/XEH_AMAAC_SC'
 url_resolved: http://27063.live.streamtheworld.com:3690/XEH_AMAAC_SC
 homepage: http://radiocentro.com/directorio
 favicon: http://radiocentro.com/favicon.ico
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 02:27:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648ae87-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Latin music, Mexican popular music, hits
   notes: XEH-AM 1420 operates as "La H" from Monterrey, Nuevo León. Part of Radio Centro network, a major commercial broadcaster in Mexico. Broadcasts regional and contemporary Latin music programming to northern Mexico.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648ae87-0601-11e8-ae97-52543be04c81

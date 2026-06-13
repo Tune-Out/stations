@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 06:00:57
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-7427d744-2b56-4390-b79e-30772a1ea939
-streams:
-  - url: 'https://audio.futrzak.fm/futrzakfm-320'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://audio.futrzak.fm/futrzakfm-128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +34,13 @@ research:
   format: Electronic dance music (EDM) and electronic; DJ sets, techno, house, and dance tracks.
   notes: FUTRZAK.FM is a Polish non-commercial internet radio station specializing in electronic dance music (EDM). Broadcasts high-quality 320 kbps audio with DJ sets, techno, house, and electronic music programming. Serves Polish and international electronic music audiences.
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-7427d744-2b56-4390-b79e-30772a1ea939
+streams:
+  - url: https://audio.futrzak.fm/futrzakfm-320
+    codec: MP3
+    bitrate: 320
+  - url: https://audio.futrzak.fm/futrzakfm-128
+    codec: MP3
+    bitrate: 128

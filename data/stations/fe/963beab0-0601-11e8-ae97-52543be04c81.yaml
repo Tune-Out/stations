@@ -25,15 +25,6 @@ lastchangetime: 2026-01-15 08:38:09
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-963beab0-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://edge12.stream.radioarabella.de/radioarabella-muenchen?aggregator=RDs24_live_radioarabella_de-stream-aac'
-    codec: AAC
-  - url: 'http://rs26.stream24.net/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +34,13 @@ research:
   format: Adult contemporary / oldies — pop, rock, and "Schlager-free" hits from the 1970s onward, with local news, traffic, and service content
   notes: Radio Arabella München is a Bavarian private commercial AC station founded in 1996 by Wolfgang Fischer (also founder of Radio Arabella Wien). It broadcasts on FM 105.2 MHz in Munich and via DAB+ and online. The station is licensed by Bayerische Landeszentrale für neue Medien (BLM) — Bavaria's regulatory authority for private broadcasters — but it is itself a fully commercial operator funded by advertising. Sister stations exist in Vienna, Salzburg, and elsewhere under the Arabella brand, but each is independently owned. The "public radio" tag in the source catalogue is inaccurate; the station is private commercial. Programming targets the 35–65 demographic with melodic adult hits and Bavarian regional news/lifestyle content.
   sources: https://www.radioarabella.de/, internal knowledge
+curation: 0.6
+provenance:
+  - radiobrowser-963beab0-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-arabella-m-nchen-d3699bf8
+streams:
+  - url: https://edge12.stream.radioarabella.de/radioarabella-muenchen?aggregator=RDs24_live_radioarabella_de-stream-aac
+    codec: AAC
+  - url: http://rs26.stream24.net/stream
+    codec: MP3
+    bitrate: 128

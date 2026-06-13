@@ -30,16 +30,6 @@ lastchangetime: 2026-01-15 07:20:35
 clickcount: 16
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-17028094-01a5-49f0-b35a-d792b6ea7da9
-streams:
-  - url: 'https://wackenradio-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://wackenradio-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: online-only
@@ -49,3 +39,13 @@ research:
   format: 24/7 heavy metal, hard rock, alternative rock, punk and classic rock with festival news, interviews and special W:O:A-themed programming
   notes: RauteMusik launched in 2002 as one of Germany's first multichannel internet radio platforms and now offers dozens of genre-specific channels; "Wacken Radio" is the channel dedicated to the Wacken Open Air, the world's largest heavy-metal festival held annually in Wacken, Schleswig-Holstein, and ramps up coverage during the festival week with on-site reports; the operator is a privately held commercial GmbH funded by advertising and listener support, regulated under German Rundfunkstaatsvertrag rules as a private webcaster.
   sources: https://www.rm.fm/wacken, internal knowledge
+curation: 0.05
+provenance:
+  - radiobrowser-17028094-01a5-49f0-b35a-d792b6ea7da9
+streams:
+  - url: https://wackenradio-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://wackenradio-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

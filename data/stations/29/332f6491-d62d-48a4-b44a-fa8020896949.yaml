@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 5
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-332f6491-d62d-48a4-b44a-fa8020896949
-streams:
-  - url: 'https://listen.radioking.com/radio/39218/stream/76118'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://listen.radioking.com/radio/39218/stream/76118'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,15 @@ research:
   format: Electronic dance music, house, techno, and electronic producer programming.
   notes: Equinoxe Radio appears to operate as independent online/community station streaming via RadioKing; limited public information available; unclear if tied to terrestrial broadcast or online-only operation.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-332f6491-d62d-48a4-b44a-fa8020896949
+  - iprd-cm-radio-equinoxe-93-0-36eeb62c
+  - iprd-fr-radio-equinoxe-c2decda7
+streams:
+  - url: https://listen.radioking.com/radio/39218/stream/76118
+    codec: MP3
+    bitrate: 192
+  - url: http://listen.radioking.com/radio/39218/stream/76118
+    codec: MP3
+    bitrate: 192

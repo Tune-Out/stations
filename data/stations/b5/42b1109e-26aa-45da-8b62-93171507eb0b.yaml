@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 00:20:51
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-42b1109e-26aa-45da-8b62-93171507eb0b
-streams:
-  - url: 'https://deeperlink.com:8102/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://deeperlink.com:8100/stream'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://deeperlink.com:8032/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -44,3 +31,16 @@ research:
   format: Deep house, house, soulful house programming; "Deep" channel focus
   notes: Independent internet radio station based in New York. Specializes in deep house and soulful house subgenres.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-42b1109e-26aa-45da-8b62-93171507eb0b
+streams:
+  - url: https://deeperlink.com:8102/stream
+    codec: MP3
+    bitrate: 192
+  - url: http://deeperlink.com:8100/stream
+    codec: MP3
+    bitrate: 192
+  - url: https://deeperlink.com:8032/stream
+    codec: MP3
+    bitrate: 128

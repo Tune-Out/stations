@@ -21,10 +21,6 @@ lastchangetime: 2026-01-14 23:40:27
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-90820569-1212-4a17-a61c-71280abd15a2
-duplicate_of: 707a7780-9e40-4025-bb70-d19567af3f03
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -34,3 +30,7 @@ research:
   format: News, talk and general-entertainment audio simulcast of a Syrian TV channel
   notes: The homepage URL stored in the database points directly to a logo image (logo2.png) rather than a content page, and the althania.tv domain returned HTTP 403 on fetch — research is therefore inconclusive; the station is most likely the audio simulcast of "Al-Thaniya" (Syrian TV Channel 2) or a related state-broadcasting outlet; Syrian state media has faced US, EU and UK sanctions historically for serving as a propaganda arm of the former Assad regime, and the ownership and editorial line of Syrian state broadcasters has been in flux since late 2024.
   sources: https://www.althania.tv/ (HTTP 403, no content retrieved), internal knowledge of Syrian state broadcasting
+curation: 0.35
+provenance:
+  - radiobrowser-90820569-1212-4a17-a61c-71280abd15a2
+duplicate_of: 707a7780-9e40-4025-bb70-d19567af3f03

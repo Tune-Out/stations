@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-962cfb66-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://dean.backbonebroadcast.com:8081/dean'
-    codec: AAC
-    bitrate: 56
-  - url: 'http://backbonenetworks.streamguys.com/dean.mp3'
-    codec: MP3
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -43,3 +33,14 @@ research:
   format: Alternative rock, classic rock, college radio format
   notes: WGAO 88.1 FM "Power 88" is the student-run college radio station of Dean College in Franklin, Massachusetts. Non-commercial educational station featuring student DJs and alternative/classic rock programming for the college and local community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-962cfb66-0601-11e8-ae97-52543be04c81
+  - iprd-us-wgao-88-1-power-88-dean-college-303f1e49
+streams:
+  - url: http://dean.backbonebroadcast.com:8081/dean
+    codec: AAC
+    bitrate: 56
+  - url: http://backbonenetworks.streamguys.com/dean.mp3
+    codec: MP3
+    bitrate: 56

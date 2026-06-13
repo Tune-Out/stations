@@ -19,22 +19,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-fb8fb8c0-81b6-4015-ada8-32c50b7ab7a6
-streams:
-  - url: 'https://radioscoopbourg-en-bresse.ice.infomaniak.ch/radioscoop-bourg-64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://radioscooproanne.ice.infomaniak.ch/radioscoop-roanne-64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://radioscoopclermont-ferrand.ice.infomaniak.ch/radioscoop-clermont-64.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-64.aac'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +28,19 @@ research:
   format: Generalist commercial radio with themed webradios (pop, dance, French music, jazz, decades 80s-2020s).
   notes: Multi-station network covering Rhône-Alpes, Auvergne, Burgundy; features local news (infos locales), hit music, giveaways, community events; also operates Impact FM and Max Radio brands.
   sources: https://www.radioscoop.com/
+curation: 0.5
+provenance:
+  - radiobrowser-fb8fb8c0-81b6-4015-ada8-32c50b7ab7a6
+streams:
+  - url: https://radioscoopbourg-en-bresse.ice.infomaniak.ch/radioscoop-bourg-64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://radioscooproanne.ice.infomaniak.ch/radioscoop-roanne-64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://radioscoopclermont-ferrand.ice.infomaniak.ch/radioscoop-clermont-64.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-64.aac
+    codec: AAC+
+    bitrate: 64

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:28:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-82c68413-fc62-4ce2-97d1-087f89eeb13c
-streams:
-  - url: 'http://orfeyfm.hostingradio.ru:8034/orfeyfm64.aacp'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://orfeyfm.hostingradio.ru:8034/orfeyfm64.mp3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Classic and cultural programming; classical music
   notes: Moscow-based cultural radio station specializing in classical music. Non-commercial broadcaster focused on cultural programming and classical traditions.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-82c68413-fc62-4ce2-97d1-087f89eeb13c
+streams:
+  - url: http://orfeyfm.hostingradio.ru:8034/orfeyfm64.aacp
+    codec: AAC+
+    bitrate: 64
+  - url: http://orfeyfm.hostingradio.ru:8034/orfeyfm64.mp3
+    codec: MP3
+    bitrate: 64

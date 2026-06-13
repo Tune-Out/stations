@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:56:09
 clickcount: 8
 geo_lat: 52.121230523652315
 geo_long: 10.303055141889606
-curation: -0.05
-provenance:
-  - radiobrowser-1e73d859-be59-450f-a27e-23556760519e
-streams:
-  - url: 'https://stream.antenne.com/antenne-nds/mp3-192'
-    codec: MP3
-  - url: 'https://stream.antenne.com/reg01/mp3-192/Web/'
-    codec: MP3
-  - url: 'http://stream.antenne.com/antenne-nds/mp3-192'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Pop music.
   notes: German commercial radio Antenne with pop music format serving Lower Saxony region.
   sources: https://antenne.com/
+curation: -0.05
+provenance:
+  - radiobrowser-1e73d859-be59-450f-a27e-23556760519e
+  - iprd-de-antenne-niedersachsen-9bffccdc
+streams:
+  - url: https://stream.antenne.com/antenne-nds/mp3-192
+    codec: MP3
+  - url: https://stream.antenne.com/reg01/mp3-192/Web/
+    codec: MP3
+  - url: http://stream.antenne.com/antenne-nds/mp3-192
+    codec: MP3

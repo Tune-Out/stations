@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:45:19
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-76e403ee-10b8-4ea7-9d38-8819458c218b
-streams:
-  - url: 'http://netradio.live24.gr/radiohotlips'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://netradio.live24.gr/radiohotlips'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Oldies and slow music; romantic and nostalgic programming
   notes: Greek commercial internet radio station based in Athens. Specializes in oldies and slow music programming. Part of Live24 Greek webradio portal. Targets listeners seeking classic and romantic music.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-76e403ee-10b8-4ea7-9d38-8819458c218b
+  - iprd-gr-hot-lips-0a1113f9
+streams:
+  - url: http://netradio.live24.gr/radiohotlips
+    codec: MP3
+    bitrate: 128
+  - url: https://netradio.live24.gr/radiohotlips
+    codec: MP3
+    bitrate: 128

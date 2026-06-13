@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-5431bbc4-ddef-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-country-128-mp3'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-country-64-aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Country music
   notes: RPR1.Country is a country music format stream from RPR1 (Rheinland-Pfalz Radio 1), a major regional commercial broadcaster in Germany's Rheinland-Pfalz state. Founded 1985 as a regional terrestrial broadcaster, now operates multiple specialized music channels.
   sources: http://www.rpr1.de/
+curation: 0.3
+provenance:
+  - radiobrowser-5431bbc4-ddef-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.rpr1.de/rpr-country-128-mp3
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-country-64-aac
+    codec: AAC

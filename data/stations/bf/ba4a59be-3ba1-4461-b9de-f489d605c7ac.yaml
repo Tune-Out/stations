@@ -22,18 +22,6 @@ lastchangetime: 2026-01-15 01:07:32
 clickcount: 13
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-ba4a59be-3ba1-4461-b9de-f489d605c7ac
-streams:
-  - url: 'https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR'
-    codec: AAC
-    bitrate: 174
-    hls: true
-  - url: 'https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8'
-    codec: AAC
-    bitrate: 170
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +31,15 @@ research:
   format: Alternative and independent music station with a focus on new Portuguese acts, indie rock/pop, hip-hop, and electronic, complemented by science, comedy, and cultural talk shows.
   notes: Launched in 1994 as RTP's third national radio network alongside Antena 1 (news/talk) and Antena 2 (classical), Antena 3 is regarded as a key promoter of new Portuguese music and stages the annual "Prémios Play – Prémios da Música Portuguesa" and "Festival F" partnerships; signature programmes include "Fricção Científica," "Vocês Sabem Lá," "Aleixo FM," and live session strand "Ao Vivo na Antena 3"; broadcasts on FM, DAB+, and streaming via RTP Play.
   sources: https://antena3.rtp.pt/, internal knowledge
+curation: 0.5
+provenance:
+  - radiobrowser-ba4a59be-3ba1-4461-b9de-f489d605c7ac
+streams:
+  - url: https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR
+    codec: AAC
+    bitrate: 174
+    hls: true
+  - url: https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+    codec: AAC
+    bitrate: 170
+    hls: true

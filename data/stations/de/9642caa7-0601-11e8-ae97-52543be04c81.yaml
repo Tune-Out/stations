@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:08:13
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9642caa7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://radio.ilovepecs.hu:8200/ilp.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream.ilovepecsradio.hu/ilp.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: '"Csak Magyar" (Hungarian only) - Hungarian music and local programming'
   notes: Regional radio station serving Pécs and surrounding area; emphasis on Hungarian cultural content; available via web streaming and mobile apps.
   sources: http://ilovepecsradio.hu/
+curation: -0.05
+provenance:
+  - radiobrowser-9642caa7-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://radio.ilovepecs.hu:8200/ilp.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://stream.ilovepecsradio.hu/ilp.mp3
+    codec: MP3
+    bitrate: 192

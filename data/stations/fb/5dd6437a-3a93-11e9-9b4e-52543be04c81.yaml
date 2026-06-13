@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:01:29
 clickcount: 8
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.25
-provenance:
-  - radiobrowser-5dd6437a-3a93-11e9-9b4e-52543be04c81
-streams:
-  - url: 'https://0n-country.radionetz.de/0n-country.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://0n-country.radionetz.de/0n-country.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   nature: commercial
   reviewed_at: 2026-06-09
@@ -43,3 +33,15 @@ research:
   format: Country, pop and country-rock hits from Nashville and Europe; one of 57+ themed channels under the 0N Radio umbrella
   notes: 0N Country is a sub-stream of 0N Radio, a Hof-based online radio network operated by entire media (proprietor Andreas Hahn, VAT DE218724199). The network operates 57+ niche internet stations spanning decades (50s through 2010s), genres (rock, schlager, dance, techno, jazz) and seasonal/holiday formats. The brand tagline is "Your choice, your music!" and the service is ad-supported and free to listeners. Streams are technically hosted on the radionetz.de CDN, a common German webradio platform.
   sources: http://www.0nradio.com/, internal knowledge of German webradio networks
+curation: 0.25
+provenance:
+  - radiobrowser-5dd6437a-3a93-11e9-9b4e-52543be04c81
+  - iprd-de-on-radio-country-e447141c
+  - iprd-de-on-radio-country-72814222
+streams:
+  - url: https://0n-country.radionetz.de/0n-country.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://0n-country.radionetz.de/0n-country.mp3
+    codec: MP3
+    bitrate: 128

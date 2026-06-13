@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 02:40:05
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9623b251-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live-radio01.mediahubaustralia.com/XTDW/aac/'
-    codec: AAC+
-    bitrate: 56
-  - url: 'http://live-radio01.mediahubaustralia.com/XTDW/mp3/'
-    codec: AAC+
-    bitrate: 56
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,15 @@ research:
   format: ABC Extra channel; features, information, news, cultural programming; public radio format
   notes: ABC Extra is digital radio channel of Australian Broadcasting Corporation; non-commercial public broadcasting
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9623b251-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-extra-b0a36357
+  - iprd-au-abc-extra-eb24f8f1
+streams:
+  - url: http://live-radio01.mediahubaustralia.com/XTDW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: http://live-radio01.mediahubaustralia.com/XTDW/mp3/
+    codec: AAC+
+    bitrate: 56

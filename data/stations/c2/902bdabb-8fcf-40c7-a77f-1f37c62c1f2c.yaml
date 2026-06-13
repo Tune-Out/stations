@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:47:23
 clickcount: 4
 geo_lat: 49.4981239113968
 geo_long: 8.502044677734377
-curation: -0.05
-provenance:
-  - radiobrowser-902bdabb-8fcf-40c7-a77f-1f37c62c1f2c
-streams:
-  - url: 'http://streams.regenbogen.de/rr2-bw-128-mp3'
-    codec: AAC
-  - url: 'http://streams.regenbogen.de/rr2-bw-128-mp3'
-    codec: MP3
-  - url: 'https://audiotainment-sw.streamabc.net/atsw-rockfmrheinneckar-mp3-128-9812465?sABC=69n8n66s%230%237714q36p7s5253q38p7p746223636q3r%23cevingr&aw_0_1st.playerid=private&amsparams=playerid:private;skey:1772660335'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,14 @@ research:
   format: Rock specialist with 11 streams covering 70s, 80s, 90s, classic rock, metal, alternative
   notes: ROCK FM operates from Baden-Württemberg with motto "LAUTER. ROCK. LEGENDEN." (Louder. Rock. Legends.). Commercial broadcaster with multi-era rock streams plus news, sports, comedy. Multi-platform via UKW, DAB+, app, smart speakers. Includes lifestyle content and festival partnerships.
   sources: https://www.rockfm.de/
+curation: -0.05
+provenance:
+  - radiobrowser-902bdabb-8fcf-40c7-a77f-1f37c62c1f2c
+  - iprd-de-radio-regenbogen-2-532ebf1e
+streams:
+  - url: http://streams.regenbogen.de/rr2-bw-128-mp3
+    codec: AAC
+  - url: http://streams.regenbogen.de/rr2-bw-128-mp3
+    codec: MP3
+  - url: https://audiotainment-sw.streamabc.net/atsw-rockfmrheinneckar-mp3-128-9812465?sABC=69n8n66s%230%237714q36p7s5253q38p7p746223636q3r%23cevingr&aw_0_1st.playerid=private&amsparams=playerid:private;skey:1772660335
+    codec: MP3

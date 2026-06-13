@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 06:29:43
 clickcount: 7
 geo_lat: 40.785114
 geo_long: -124.183922
-curation: 0.50
-provenance:
-  - radiobrowser-a766bfe4-e0e1-48b1-846d-270d7973e500
-duplicate_of: e828642b-336b-44b1-abec-ac3a24b0be7e
-streams:
-  - url: 'https://stream.radioparadise.com/flacm'
-    codec: OGG
-    bitrate: 1442
-  - url: 'http://stream.radioparadise.com/flacm'
-    codec: OGG
-    bitrate: 1442
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +31,14 @@ research:
   format: Eclectic mix of rock, pop, blues, reggae, world music; listener-supported internet radio
   notes: Founded in 1994 by Bill Goldsmith; community-supported (listener donations); known for high-quality FLAC streaming; operates without advertising; passionate about music discovery and artist support.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-a766bfe4-e0e1-48b1-846d-270d7973e500
+duplicate_of: e828642b-336b-44b1-abec-ac3a24b0be7e
+streams:
+  - url: https://stream.radioparadise.com/flacm
+    codec: OGG
+    bitrate: 1442
+  - url: http://stream.radioparadise.com/flacm
+    codec: OGG
+    bitrate: 1442

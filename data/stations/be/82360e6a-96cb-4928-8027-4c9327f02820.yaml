@@ -1,7 +1,7 @@
 stationuuid: 82360e6a-96cb-4928-8027-4c9327f02820
 name: Nova Throwbacks (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK_AAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK_AAC.aac
+url: 'http://23093.live.streamtheworld.com:80/NOVA_THROWBACK_AAC.aac'
+url_resolved: 'http://23093.live.streamtheworld.com:80/NOVA_THROWBACK_AAC.aac'
 homepage: https://novafm.com.au/station/novathrowbacks
 favicon: https://i.ibb.co/y6N3Lmq/Brand-Tile-TBs.png
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 05:25:40
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-82360e6a-96cb-4928-8027-4c9327f02820
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -33,3 +30,6 @@ research:
   format: Non-stop throwback hits, nostalgic music from past decades
   notes: Australian commercial streaming station part of Nova FM network; specializes in throwback and retro music
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-82360e6a-96cb-4928-8027-4c9327f02820

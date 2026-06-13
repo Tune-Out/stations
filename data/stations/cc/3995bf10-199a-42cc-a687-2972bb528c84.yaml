@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 07:47:33
 clickcount: 1
 geo_lat: 37.96965983548304
 geo_long: -87.57538084639236
-curation: 0.70
-provenance:
-  - radiobrowser-3995bf10-199a-42cc-a687-2972bb528c84
-streams:
-  - url: 'https://wnin.streamguys1.com/live'
-    codec: MP3
-    bitrate: 96
-  - url: 'http://wnin.streamguys1.com/live'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +32,13 @@ research:
   format: Classical music, public radio programming
   notes: WNIN is a public radio station serving the tri-state area (Evansville, Indiana region including Kentucky and Illinois). Non-commercial, publicly-supported. Classical music focus. Part of public broadcasting system. Streams online via StreamGuys platform.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-3995bf10-199a-42cc-a687-2972bb528c84
+streams:
+  - url: https://wnin.streamguys1.com/live
+    codec: MP3
+    bitrate: 96
+  - url: http://wnin.streamguys1.com/live
+    codec: MP3
+    bitrate: 96

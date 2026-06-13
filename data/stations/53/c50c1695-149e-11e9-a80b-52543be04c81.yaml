@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 00:10:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c50c1695-149e-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://lhttp.qingting.fm/live/5026/64k.mp3'
-    codec: MP3
-  - url: 'http://live.zohi.tv/audio/s10001-FM876/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: state media
@@ -40,3 +31,14 @@ research:
   format: Traffic information, road conditions, travel-oriented programming
   notes: 福州交通之声 (Fuzhou Traffic Voice) is a state-operated station specializing in traffic and transportation information for Fuzhou, capital of Fujian Province.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c50c1695-149e-11e9-a80b-52543be04c81
+  - iprd-cn-fuzhou-traffic-voice-87-6-f54b4f09
+  - iprd-cn-fuzhou-traffic-voice-87-6-2a658868
+streams:
+  - url: http://lhttp.qingting.fm/live/5026/64k.mp3
+    codec: MP3
+  - url: http://live.zohi.tv/audio/s10001-FM876/index.m3u8
+    codec: UNKNOWN
+    hls: true

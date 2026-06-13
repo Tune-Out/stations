@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:49:53
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96136634-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Jazz music and cinema soundtracks; French-language programming; 128 kbit/s MP3
   notes: Jazz Radio is a French thematic commercial internet radio station offering specialized programming of jazz music, cinema scores, and related sophisticated listening. Part of larger thematic radio network in France focused on cultural/artistic programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96136634-0601-11e8-ae97-52543be04c81
+  - iprd-fr-jazz-radio-jazz-cinema-e42c2b81
+streams:
+  - url: http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
+    codec: MP3
+    bitrate: 128

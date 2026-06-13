@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 08:47:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-85014495-cf49-4f63-a15e-071a9508c286
-streams:
-  - url: 'https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: Classic hits and golden oldies station; part of Deejay WFM network
   notes: Italian radio station; Linetti is a show/station block on the Deejay network featuring classic hits from past decades
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-85014495-cf49-4f63-a15e-071a9508c286
+streams:
+  - url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/live.m3u8
+    codec: UNKNOWN
+    hls: true

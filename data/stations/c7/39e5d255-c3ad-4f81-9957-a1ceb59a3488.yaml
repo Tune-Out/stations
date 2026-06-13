@@ -23,14 +23,6 @@ lastchangetime: 2026-04-21 20:36:43
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-39e5d255-c3ad-4f81-9957-a1ceb59a3488
-streams:
-  - url: 'https://uksoutha.streaming.broadcast.radio/celtic'
-    codec: MP3
-  - url: 'http://stream.celticmusicradio.net:8000/celticmusic.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -40,3 +32,12 @@ research:
   format: Celtic music, traditional folk, contemporary folk, americana, roots music programming; community-supported format
   notes: UK-based community internet radio from Glasgow area; listener-supported non-commercial station; dedicated to Celtic music heritage and traditional/contemporary folk; operates on broadcast.radio CDN
   sources: https://www.celticmusicradio.net/
+curation: 0.55
+provenance:
+  - radiobrowser-39e5d255-c3ad-4f81-9957-a1ceb59a3488
+  - iprd-gb-celtic-music-radio-95-0-be6eaeec
+streams:
+  - url: https://uksoutha.streaming.broadcast.radio/celtic
+    codec: MP3
+  - url: http://stream.celticmusicradio.net:8000/celticmusic.mp3
+    codec: MP3

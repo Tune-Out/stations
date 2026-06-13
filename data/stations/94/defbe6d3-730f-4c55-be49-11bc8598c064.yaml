@@ -19,16 +19,6 @@ lastchangetime: 2026-02-22 14:25:18
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-defbe6d3-730f-4c55-be49-11bc8598c064
-streams:
-  - url: 'https://cebustream.brigadanews.ph/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://18.141.67.248:8026/stream/1/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: News, current events, and information programming; news radio format
   notes: Brigada News FM operates news and information programming for Cebu and Visayas regions of the Philippines. Focuses on local news and community information.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-defbe6d3-730f-4c55-be49-11bc8598c064
+streams:
+  - url: https://cebustream.brigadanews.ph/
+    codec: MP3
+    bitrate: 128
+  - url: http://18.141.67.248:8026/stream/1/
+    codec: MP3
+    bitrate: 128

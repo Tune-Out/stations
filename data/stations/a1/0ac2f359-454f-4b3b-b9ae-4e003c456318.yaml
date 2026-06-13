@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:54:13
 clickcount: 0
 geo_lat: 18.087117238881305
 geo_long: -96.12024307250977
-curation: -0.05
-provenance:
-  - radiobrowser-0ac2f359-454f-4b3b-b9ae-4e003c456318
-streams:
-  - url: 'https://stream5.mexiserver.com:1007/exa'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream5.mexiserver.com:1007/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Contemporary hits, pop music, entertainment programming in Spanish
   notes: FM 101.3 local commercial radio serving Tuxtepec city; part of Exa FM network operated by Grupo Rojaz
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-0ac2f359-454f-4b3b-b9ae-4e003c456318
+  - iprd-mx-exa-101-3-xhptux-5674238a
+  - iprd-mx-exa-101-3-xhptux-f015d745
+streams:
+  - url: https://stream5.mexiserver.com:1007/exa
+    codec: MP3
+    bitrate: 128
+  - url: https://stream5.mexiserver.com:1007/stream
+    codec: MP3
+    bitrate: 128

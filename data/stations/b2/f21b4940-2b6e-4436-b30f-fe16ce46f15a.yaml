@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:48:00
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-f21b4940-2b6e-4436-b30f-fe16ce46f15a
-streams:
-  - url: 'https://stream.xradio.com.tr:8770/stream'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://yayin.radyomadyo.com:8770/'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Turkish rap and hip-hop music; urban music programming
   notes: Commercial internet radio station specializing in Turkish rap and hip-hop music. Targets younger urban demographics interested in contemporary Turkish hip-hop and rap artists. Part of Turkey's commercial music streaming ecosystem.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f21b4940-2b6e-4436-b30f-fe16ce46f15a
+streams:
+  - url: https://stream.xradio.com.tr:8770/stream
+    codec: AAC+
+    bitrate: 128
+  - url: http://yayin.radyomadyo.com:8770/
+    codec: AAC+
+    bitrate: 128

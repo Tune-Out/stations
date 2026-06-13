@@ -23,22 +23,6 @@ lastchangetime: 2026-01-15 04:56:19
 clickcount: 0
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.65
-provenance:
-  - radiobrowser-3387f4be-bb4d-11e9-acb2-52543be04c81
-streams:
-  - url: 'https://somafm.com/folkfwd130.pls'
-    url_resolved: 'https://ice5.somafm.com/folkfwd-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/folkfwd64.pls'
-    url_resolved: 'https://ice2.somafm.com/folkfwd-64-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://somafm.com/folkfwd.pls'
-    url_resolved: 'https://ice1.somafm.com/folkfwd-128-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -48,3 +32,23 @@ research:
   format: Indie folk, alt-folk, and occasional folk classics; described as "A modern take on classic folk music, with occasional appearances by the classic masters"
   notes: SomaFM listener-supported network channel. Commercial-free programming curated specifically for contemporary indie folk. Part of larger SomaFM ecosystem offering multiple channels, varying bitrates, and supporter membership options. Bay Area-based (Hayward, CA coordinates).
   sources: https://somafm.com/folkfwd/
+curation: 0.65
+provenance:
+  - radiobrowser-3387f4be-bb4d-11e9-acb2-52543be04c81
+  - iprd-us-somafm-folk-forward-1a63e494
+  - iprd-us-somafm-folk-forward-013f7940
+  - iprd-us-somafm-folk-forward-90880ce4
+  - iprd-us-somafm-folk-forward-ee5791f3
+streams:
+  - url: https://somafm.com/folkfwd130.pls
+    url_resolved: https://ice5.somafm.com/folkfwd-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/folkfwd64.pls
+    url_resolved: https://ice2.somafm.com/folkfwd-64-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://somafm.com/folkfwd.pls
+    url_resolved: https://ice1.somafm.com/folkfwd-128-mp3
+    codec: MP3
+    bitrate: 128

@@ -21,15 +21,6 @@ lastchangetime: 2026-01-15 00:38:37
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-fa7390a8-97f2-4fb9-bcc3-11ffda584a8e
-streams:
-  - url: 'https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI'
-    codec: OGG
-    bitrate: 2000
-  - url: 'https://edge11.streamonkey.net/aidaradio-meergefuehl?aggregator=website&aw_0_req.gdpr=false'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +30,12 @@ research:
   format: Holiday and relaxation music; high-fidelity streaming (FLAC); ambient and calming music programming
   notes: German internet radio station (AIDa = Ambient in the Digital Age); specializes in FLAC lossless audio format (2000 kbps); holiday and relaxation music focus
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-fa7390a8-97f2-4fb9-bcc3-11ffda584a8e
+streams:
+  - url: https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
+    codec: OGG
+    bitrate: 2000
+  - url: https://edge11.streamonkey.net/aidaradio-meergefuehl?aggregator=website&aw_0_req.gdpr=false
+    codec: AAC

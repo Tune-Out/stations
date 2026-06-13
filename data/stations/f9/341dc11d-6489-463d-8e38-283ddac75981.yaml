@@ -1,7 +1,7 @@
 stationuuid: 341dc11d-6489-463d-8e38-283ddac75981
 name: Mix 106.3 Canberra - 106.3 FM
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063.mp3
+url: 'http://28793.live.streamtheworld.com:80/ARN_MIX1063.mp3'
+url_resolved: 'http://28793.live.streamtheworld.com:80/ARN_MIX1063.mp3'
 homepage: https://www.mix106.com.au/
 favicon: https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Mix_106.3_logo_2020.svg/206px-Mix_106.3_logo_2020.svg.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:40:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-341dc11d-6489-463d-8e38-283ddac75981
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hits, pop, adult contemporary music
   notes: Mix 106.3 Canberra is an Australian Radio Network station under iHeartRadio, serving Canberra with mainstream adult contemporary music and entertainment programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-341dc11d-6489-463d-8e38-283ddac75981

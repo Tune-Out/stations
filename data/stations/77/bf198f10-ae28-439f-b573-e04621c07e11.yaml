@@ -1,7 +1,7 @@
 stationuuid: bf198f10-ae28-439f-b573-e04621c07e11
 name: LOS 40
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3
+url: 'http://28503.live.streamtheworld.com:80/LOS40.mp3'
+url_resolved: 'http://28503.live.streamtheworld.com:80/LOS40.mp3'
 homepage: https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4c/ce/10732/1/c175.png
 favicon: https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4c/ce/10732/1/c175.png
 tags: []
@@ -21,9 +21,6 @@ lastchangetime: 2026-01-15 02:07:14
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-bf198f10-ae28-439f-b573-e04621c07e11
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -33,3 +30,18 @@ research:
   format: Pop, contemporary hits, Latin pop, entertainment
   notes: Spanish-language commercial station. "LOS 40" brand is famous across Latin America. Country metadata missing but Spanish-language tag and stream indicate Latin American operation. Top 40 / contemporary pop format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bf198f10-ae28-439f-b573-e04621c07e11
+  - iprd-be-mnm-90s-00s-a85953a3
+  - iprd-cv-rcv-94-1-845dbbaa
+  - iprd-fr-zen-2e178777
+  - iprd-mx-los40-89-9-xhhn-70b3be33
+  - iprd-mx-los40-97-1-xhhll-26c04cfe
+  - iprd-nl-classics-fm-5d363735
+  - iprd-pt-radio-campanario-2b1327bf
+  - iprd-pt-the-vibe-dancefloor-radio-f1ace1fe
+  - iprd-us-kkcr-hanalei-hawaii-1a4a60e8
+  - iprd-us-proton-radio-692dccdd
+  - iprd-us-the-jazz-groove-east-806fdf72
+  - iprd-us-wxhc-101-5-fd70a88b

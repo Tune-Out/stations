@@ -21,18 +21,6 @@ lastchangetime: 2026-01-15 03:17:37
 clickcount: 29
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-50bfa5fb-da60-4498-b3ef-a680f1e17e62
-streams:
-  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8'
-    codec: AAC
-    bitrate: 93
-    hls: true
-  - url: 'http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8'
-    codec: AAC
-    bitrate: 92
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +30,16 @@ research:
   format: Malayalam-language programming, news, music, talk, cultural content
   notes: part of All India Radio network; serves Kerala region in Malayalam language
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-50bfa5fb-da60-4498-b3ef-a680f1e17e62
+  - iprd-in-air-malayalam-ea4541ca
+streams:
+  - url: https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
+    codec: AAC
+    bitrate: 93
+    hls: true
+  - url: http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
+    codec: AAC
+    bitrate: 92
+    hls: true

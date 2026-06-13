@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-928017b5-ca6a-4545-94d2-19059adb7ec7
-streams:
-  - url: 'https://rockfolk.ice.infomaniak.ch/rockfolk.mp3?t=1641651522250'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://rockfolk.ice.infomaniak.ch/rockfolk.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -39,3 +29,14 @@ research:
   format: Rock music (classic rock, indie rock, alternative rock)
   notes: French internet radio station dedicated to rock music; hosted on Infomaniak Swiss infrastructure; MP3 192 kbps stream
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-928017b5-ca6a-4545-94d2-19059adb7ec7
+  - iprd-fr-rock-folk-850de780
+streams:
+  - url: https://rockfolk.ice.infomaniak.ch/rockfolk.mp3?t=1641651522250
+    codec: MP3
+    bitrate: 192
+  - url: https://rockfolk.ice.infomaniak.ch/rockfolk.mp3
+    codec: MP3
+    bitrate: 192

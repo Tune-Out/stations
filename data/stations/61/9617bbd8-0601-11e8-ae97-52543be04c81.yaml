@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 02:56:10
 clickcount: 38
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-9617bbd8-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://media-the.musicradio.com/RadioXUK'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://icecast.thisisdax.com/RadioXUKMP3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://media-ssl.musicradio.com/RadioXLondonMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +32,18 @@ research:
   format: Indie pop, indie rock, alternative music, classic hits
   notes: London-based commercial independent station; formerly known as XFM; operates via Music Radio platform; focuses on indie and alternative music; established brand in UK commercial radio since 1997
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-9617bbd8-0601-11e8-ae97-52543be04c81
+  - iprd-gb-radio-x-uk-f0655566
+  - iprd-gb-radio-x-104-9-20df60c2
+streams:
+  - url: http://media-the.musicradio.com/RadioXUK
+    codec: AAC
+    bitrate: 48
+  - url: http://icecast.thisisdax.com/RadioXUKMP3
+    codec: MP3
+    bitrate: 128
+  - url: https://media-ssl.musicradio.com/RadioXLondonMP3
+    codec: MP3
+    bitrate: 128

@@ -1,6 +1,6 @@
 stationuuid: 962095a3-0601-11e8-ae97-52543be04c81
 name: WJXB "B 97.5" Knoxville, TN
-url: http://provisioning.streamtheworld.com/pls/WJXBFMAAC.pls
+url: 'http://15723.live.streamtheworld.com:80/WJXBFMAAC_SC'
 url_resolved: http://19263.live.streamtheworld.com:3690/WJXBFMAAC_SC
 homepage: http://b975.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/2208/squareIcon.png?r=78420
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 08:26:33
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-962095a3-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,7 @@ research:
   format: adult contemporary music, morning show, community contests, news, weather, entertainment
   notes: WJXB "B 97.5" is a commercial adult contemporary radio station in Knoxville, Tennessee (97.5 FM). Operated by Midwest Communications. Tagline "Your Life. Your Music." Emphasizes local community engagement through contests, giveaways, and interactive programming. Includes daily devotional and worship content alongside mainstream entertainment.
   sources: http://b975.com/
+curation: 0.35
+provenance:
+  - radiobrowser-962095a3-0601-11e8-ae97-52543be04c81
+  - iprd-us-wjxb-b-97-5-da588ae2

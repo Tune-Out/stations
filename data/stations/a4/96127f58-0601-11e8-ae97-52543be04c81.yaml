@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 06:27:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-96127f58-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.srg-ssr.ch/retedue/aacp_32.m3u'
-    url_resolved: 'http://stream.srg-ssr.ch/srgssr/retedue/aac/48'
-    codec: AAC
-    bitrate: 128
-  - url: 'http://stream.srg-ssr.ch/m/retedue/mp3_128'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -43,3 +32,15 @@ research:
   format: Cultural and educational programming, classical and jazz music, literature, arts, science, radio dramas
   notes: Part of Switzerland's public broadcasting system serving Italian-language communities. Rete Due offers arts-focused cultural programming distinct from other SRG SSR channels. Notable shows include Voi che sapete, Bourbon Street, La Recensione, Laser.
   sources: http://www.rsi.ch/rete-due/
+curation: 0.55
+provenance:
+  - radiobrowser-96127f58-0601-11e8-ae97-52543be04c81
+  - iprd-ch-rsi-rete-due-1eff3d16
+streams:
+  - url: http://stream.srg-ssr.ch/retedue/aacp_32.m3u
+    url_resolved: http://stream.srg-ssr.ch/srgssr/retedue/aac/48
+    codec: AAC
+    bitrate: 128
+  - url: http://stream.srg-ssr.ch/m/retedue/mp3_128
+    codec: MP3
+    bitrate: 128

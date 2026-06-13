@@ -19,21 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e8663d99-bc60-4ee4-a260-be6aa3c71219
-streams:
-  - url: 'https://radiowoking.radioca.st/wokinglow.m3u?rp_source=1&=&'
-    url_resolved: 'http://hyades.shoutca.st:8034/wokinglow'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://radiowoking.radioca.st/stream?rp_source=1&=&&___cb=821829812672569'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://radiowoking.radioca.st/stream.m3u?rp_source=1&=&'
-    url_resolved: 'http://hyades.shoutca.st:8034/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -43,3 +28,18 @@ research:
   format: Local news, sport, travel, features, and music 24/7; "Bringing News, Views & Music From Around The Town."
   notes: Community radio station with mission "Radio Woking For Of By The People"; based at The Winston Churchill School, Hermitage Road, Woking; Station Director is Justin Coll; catchup content available on Mixcloud; "working with and for the people of the borough."
   sources: http://www.radiowoking.co.uk/
+curation: 0.35
+provenance:
+  - radiobrowser-e8663d99-bc60-4ee4-a260-be6aa3c71219
+streams:
+  - url: https://radiowoking.radioca.st/wokinglow.m3u?rp_source=1&=&
+    url_resolved: http://hyades.shoutca.st:8034/wokinglow
+    codec: AAC+
+    bitrate: 48
+  - url: https://radiowoking.radioca.st/stream?rp_source=1&=&&___cb=821829812672569
+    codec: MP3
+    bitrate: 192
+  - url: https://radiowoking.radioca.st/stream.m3u?rp_source=1&=&
+    url_resolved: http://hyades.shoutca.st:8034/stream
+    codec: MP3
+    bitrate: 192

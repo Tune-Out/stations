@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-3be05f55-f76e-4388-a769-c3c202910338
-streams:
-  - url: 'https://gece.radioca.st/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://gece.radioca.st/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Independent music, experimental, indie, post-rock, electronic, jazz
   notes: Independent Turkish music platform and radio station focusing on contemporary/alternative music discovery and artist dialogue. Offers curated shows and music journalism.
   sources: https://kiyimuzik.com/
+curation: 0.6
+provenance:
+  - radiobrowser-3be05f55-f76e-4388-a769-c3c202910338
+streams:
+  - url: https://gece.radioca.st/
+    codec: MP3
+    bitrate: 128
+  - url: https://gece.radioca.st/stream
+    codec: MP3
+    bitrate: 128

@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 01:03:21
 clickcount: 60
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-ae0354a3-a57c-477d-8dc9-8bd4464aedbd
-streams:
-  - url: 'https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8'
-    codec: AAC
-    bitrate: 128
-    hls: true
-  - url: 'https://streamcdnr3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/live.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: All-1980s music — Italian and international pop, rock, dance and hits of the decade, presented as a curated playlist webradio.
   notes: Web/DAB-only spin-off of Radio Deejay, Italy's leading commercial music brand founded in 1982 by Claudio Cecchetto and now headquartered in Milan; the "Deejay 80" thematic stream complements the main Radio Deejay frequency and sister thematic stations (Deejay Beats, Deejay Xmasradio, etc.) operated by Elemedia under the GEDI umbrella; GEDI also operates Radio Capital and m2o on the same platform; the brand is widely associated with personalities like Linus, Nicola Savino, Fabio Volo and Albertino who built Radio Deejay's national pop-culture footprint.
   sources: internal knowledge (homepage blocked WebFetch)
+curation: 0.3
+provenance:
+  - radiobrowser-ae0354a3-a57c-477d-8dc9-8bd4464aedbd
+streams:
+  - url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: https://streamcdnr3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/live.m3u8
+    codec: UNKNOWN
+    hls: true

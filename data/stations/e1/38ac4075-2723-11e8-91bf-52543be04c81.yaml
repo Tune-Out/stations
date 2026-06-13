@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-38ac4075-2723-11e8-91bf-52543be04c81
-streams:
-  - url: 'http://www.nightline-radio.de:8000/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.nightline-radio.de/listen.pls'
-    url_resolved: 'http://www.nightline-radio.de:8000/stream/1/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +29,15 @@ research:
   format: 24/7 electronic and ambient music
   notes: German internet radio station specializing in electronic, synthwave and ambient music; broadcast as continuous high-quality stream
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-38ac4075-2723-11e8-91bf-52543be04c81
+  - iprd-de-nightline-radio-d1f3854c
+streams:
+  - url: http://www.nightline-radio.de:8000/
+    codec: MP3
+    bitrate: 128
+  - url: http://www.nightline-radio.de/listen.pls
+    url_resolved: http://www.nightline-radio.de:8000/stream/1/
+    codec: MP3
+    bitrate: 128

@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 08:46:38
 clickcount: 1
 geo_lat: -32.8838262
 geo_long: -71.2536219
-curation: 0.35
-provenance:
-  - radiobrowser-02878bc4-3a03-4674-a0d8-4e0f41d1f981
-streams:
-  - url: 'https://stream.picados.beer/radio/live'
-    url_resolved: 'https://a10.asurahosting.com:7630/radio.mp3'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://stream.picados.beer/radio/live'
-    url_resolved: 'https://a10.asurahosting.com:7630/radio.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -41,3 +30,14 @@ research:
   format: Independent radio programming; hosted on Picados beer community platform.
   notes: Chilean community/independent radio station based in Valparaíso region, broadcasting in Spanish. Associated with the Picados beer brand/community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-02878bc4-3a03-4674-a0d8-4e0f41d1f981
+streams:
+  - url: https://stream.picados.beer/radio/live
+    url_resolved: https://a10.asurahosting.com:7630/radio.mp3
+    codec: AAC
+    bitrate: 128
+  - url: https://stream.picados.beer/radio/live
+    url_resolved: https://a10.asurahosting.com:7630/radio.mp3
+    codec: MP3

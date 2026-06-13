@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 04:09:15
 clickcount: 18
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1e11d73a-7eed-40ac-90a2-2ac0c4205007
-streams:
-  - url: 'https://club-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://club-high.rautemusik.fm/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,13 @@ research:
   format: Non-stop 140 BPM handsup, hardstyle and rave sub-channel of the RauteMusik Club stream, DJ-mix oriented
   notes: RauteMusik.FM is one of Germany's largest internet radio operators, founded around 2003 in Aachen; began as a hobby/community project that grew into a commercial multi-stream network with dozens of genre channels (Club, Trance, Mainstream, Rock, Schlager, etc.); the "100% HANDSUP" channel targets the German handsup scene (a melodic hard-dance offshoot of trance/hardstyle popular in the late 2000s); streamed via club-high.rautemusik.fm.
   sources: https://rm.fm/club, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-1e11d73a-7eed-40ac-90a2-2ac0c4205007
+streams:
+  - url: https://club-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192
+  - url: http://club-high.rautemusik.fm/
+    codec: MP3
+    bitrate: 192

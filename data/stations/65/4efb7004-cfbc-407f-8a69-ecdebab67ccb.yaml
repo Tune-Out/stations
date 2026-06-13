@@ -26,16 +26,6 @@ lastchangetime: 2026-01-15 04:06:36
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-4efb7004-cfbc-407f-8a69-ecdebab67ccb
-streams:
-  - url: 'https://stream.laut.fm/furryradio'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.laut.fm/furryradio'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: "Eclectic mix: electronic, trance, electro-swing, classic rock, blues, pop, charts, soundtrack (OST) music"
   notes: '"Furry Radio" is a specialty station on Laut.FM, a major German digital radio platform offering numerous themed music stations. Curated for the furry fandom community, it combines electronic music genres (trance, electro-swing), rock, and pop, appealing to a niche international audience.'
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-4efb7004-cfbc-407f-8a69-ecdebab67ccb
+streams:
+  - url: https://stream.laut.fm/furryradio
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.laut.fm/furryradio
+    codec: MP3
+    bitrate: 128

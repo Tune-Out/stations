@@ -1,6 +1,6 @@
 stationuuid: a214dd51-1724-4053-a034-73bfcdb06a9b
 name: Classical California KDFC AAC
-url: https://playerservices.streamtheworld.com/pls/KDFCFMAAC96.pls
+url: 'https://14923.live.streamtheworld.com:443/KDFCFMAAC96_SC'
 url_resolved: https://14923.live.streamtheworld.com/KDFCFMAAC96_SC
 homepage: https://www.kdfc.com/
 favicon: https://www.classicalcalifornia.org/icons/cc/apple-touch-icon.png
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 05:09:14
 clickcount: 4
 geo_lat: 37.777258378285445
 geo_long: -122.41962969303133
-curation: 0.35
-provenance:
-  - radiobrowser-a214dd51-1724-4053-a034-73bfcdb06a9b
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,6 @@ research:
   format: Classical music and opera programming; curated classical collections
   notes: Commercial FM classical radio station KDFC broadcasting from San Francisco Bay Area, California; provides 24/7 classical music and opera programming; one of the few commercial classical stations in the United States; serves sophisticated music audiences in Northern California
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-a214dd51-1724-4053-a034-73bfcdb06a9b

@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 01:37:59
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-962adee9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://91.121.38.216:8060/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://www.shoutcastitalia.com/proxy/studioradio?mp=/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://91.121.38.216:8060/'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -45,3 +32,17 @@ research:
   format: Adult contemporary, classic hits, vintage music
   notes: Commercial radio station based in Lombardia, Italy; focuses on classic hits and adult contemporary music; operates at 320 kbps MP3 quality
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-962adee9-0601-11e8-ae97-52543be04c81
+  - iprd-it-studioradio-510a3fc8
+streams:
+  - url: http://91.121.38.216:8060/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://www.shoutcastitalia.com/proxy/studioradio?mp=/stream
+    codec: MP3
+    bitrate: 320
+  - url: http://91.121.38.216:8060/
+    codec: MP3
+    bitrate: 320

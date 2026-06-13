@@ -19,17 +19,6 @@ lastchangetime: 2026-06-05 21:22:08
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-4854aca0-76e3-4ce7-a6ad-78a661ea882d
-streams:
-  - url: 'https://foundtreasures.online/FoundTreasuresRadio.pls'
-    url_resolved: 'https://radio.foundtreasures.online/listen/found_treasures/radio.mp3'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://radio.foundtreasures.online/listen/found_treasures/radio.mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: independent online radio
@@ -39,3 +28,14 @@ research:
   format: Music programming (specific genre unspecified)
   notes: Netherlands-based online radio station in Noord-Holland region; high-quality 320kbps streaming; community-oriented
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4854aca0-76e3-4ce7-a6ad-78a661ea882d
+streams:
+  - url: https://foundtreasures.online/FoundTreasuresRadio.pls
+    url_resolved: https://radio.foundtreasures.online/listen/found_treasures/radio.mp3
+    codec: MP3
+    bitrate: 320
+  - url: https://radio.foundtreasures.online/listen/found_treasures/radio.mp3
+    codec: MP3
+    bitrate: 320

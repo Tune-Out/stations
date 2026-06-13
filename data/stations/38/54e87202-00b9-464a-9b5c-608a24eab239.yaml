@@ -23,18 +23,6 @@ lastchangetime: 2026-01-15 07:59:53
 clickcount: 0
 geo_lat: 32.93670435587968
 geo_long: -96.82319641113284
-curation: -0.05
-provenance:
-  - radiobrowser-54e87202-00b9-464a-9b5c-608a24eab239
-streams:
-  - url: 'https://stream.revma.ihrhls.com/zc2241/hls.m3u8?streamid=2241&zip=&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9747599860&clientType=web&companionAds=false&deviceName=web-mobile&dist=iheart&host=webapp.US&listenerId=efa9ad7cea5441af04bcbcf49f787061&playedFrom=157&pname=live_profile&profileId=9747599860&stationid=2241&terminalId=159&territory=US'
-    codec: AAC
-    bitrate: 24
-    hls: true
-  - url: 'https://stream.revma.ihrhls.com/zc2241/hls.m3u8'
-    codec: AAC
-    bitrate: 24
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +32,15 @@ research:
   format: Classic rock radio format featuring 1970s-1980s rock hits.
   notes: 97.1 The Eagle is a commercial classic rock station serving the Dallas area, part of iHeartMedia's large portfolio of radio stations across the US.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-54e87202-00b9-464a-9b5c-608a24eab239
+streams:
+  - url: https://stream.revma.ihrhls.com/zc2241/hls.m3u8?streamid=2241&zip=&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9747599860&clientType=web&companionAds=false&deviceName=web-mobile&dist=iheart&host=webapp.US&listenerId=efa9ad7cea5441af04bcbcf49f787061&playedFrom=157&pname=live_profile&profileId=9747599860&stationid=2241&terminalId=159&territory=US
+    codec: AAC
+    bitrate: 24
+    hls: true
+  - url: https://stream.revma.ihrhls.com/zc2241/hls.m3u8
+    codec: AAC
+    bitrate: 24
+    hls: true

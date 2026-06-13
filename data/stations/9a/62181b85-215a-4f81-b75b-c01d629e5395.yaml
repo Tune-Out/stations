@@ -21,15 +21,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-62181b85-215a-4f81-b75b-c01d629e5395
-duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
-streams:
-  - url: 'http://drive.uber.radio/uber/crcalm/icecast.audio'
-    codec: MP3
-  - url: 'https://drive.uber.radio/uber/crcalm/icecast.audio'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -39,3 +30,12 @@ research:
   format: Classical music curated for calm, relaxation, meditation, and focus
   notes: Themed classical music station dedicated to calm and relaxing classical compositions. Operates via Classical Radio platform specializing in thematic classical music streaming. Curated programming designed to provide serene musical environment suitable for relaxation, meditation, studying, or ambient listening.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-62181b85-215a-4f81-b75b-c01d629e5395
+duplicate_of: 91bd2aaa-ff1f-4c54-bd71-06ac697dca15
+streams:
+  - url: http://drive.uber.radio/uber/crcalm/icecast.audio
+    codec: MP3
+  - url: https://drive.uber.radio/uber/crcalm/icecast.audio
+    codec: MP3

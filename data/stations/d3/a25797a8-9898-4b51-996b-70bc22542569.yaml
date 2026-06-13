@@ -1,7 +1,7 @@
 stationuuid: a25797a8-9898-4b51-996b-70bc22542569
 name: 92.9 Peak FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/KKPKFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/KKPKFMAAC.aac
+url: 'https://14103.live.streamtheworld.com:443/KKPKFMAAC.aac'
+url_resolved: 'https://14103.live.streamtheworld.com:443/KKPKFMAAC.aac'
 homepage: https://www.929peakfm.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3103/squareIcon.png?r=94187
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:36:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a25797a8-9898-4b51-996b-70bc22542569
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Adult contemporary music programming
   notes: Peak FM 92.9 operates as a commercial station in Colorado Springs. Adult contemporary format targeting general audiences with pop and rock music. Uses StreamTheWorld distribution infrastructure.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a25797a8-9898-4b51-996b-70bc22542569

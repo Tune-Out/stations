@@ -1,7 +1,7 @@
 stationuuid: 4de83f70-0ac9-4630-9786-cab9d4804540
 name: 531pi - AAC
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC
+url: 'https://27283.live.streamtheworld.com:443/531PIAAC_SC'
+url_resolved: 'https://27283.live.streamtheworld.com:443/531PIAAC_SC'
 homepage: https://pmn.co.nz/radio-stations/531-pi
 favicon: https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e
 tags:
@@ -26,9 +26,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 02:11:33
 clickcount: 1
-curation: 0.35
-provenance:
-  - radiobrowser-4de83f70-0ac9-4630-9786-cab9d4804540
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +35,6 @@ research:
   format: Community radio serving Pacific cultures; music, news, and cultural programming
   notes: 531pi part of Pacific Media Network (PMN) in Auckland; serves Polynesian and Melanesian communities
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-4de83f70-0ac9-4630-9786-cab9d4804540

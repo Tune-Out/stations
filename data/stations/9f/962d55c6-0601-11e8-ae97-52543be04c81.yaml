@@ -1,6 +1,6 @@
 stationuuid: 962d55c6-0601-11e8-ae97-52543be04c81
 name: KSKS 93.7 "Kiss Country" Fresno, CA
-url: http://provisioning.streamtheworld.com/pls/KSKSFMAAC.pls
+url: 'http://14013.live.streamtheworld.com:80/KSKSFMAAC_SC'
 url_resolved: http://14013.live.streamtheworld.com:3690/KSKSFMAAC_SC
 homepage: http://www.ksks.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3144/squareIcon.png?r=92945
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:56:27
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962d55c6-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music
   notes: KSKS 93.7 FM "Kiss Country" is a commercial country music radio station serving Fresno, California. Operates as part of the broader Fresno radio market with focus on contemporary country music.
   sources: http://www.ksks.com/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-962d55c6-0601-11e8-ae97-52543be04c81

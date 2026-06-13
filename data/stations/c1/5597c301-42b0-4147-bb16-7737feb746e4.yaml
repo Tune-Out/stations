@@ -20,17 +20,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 2
 geo_lat: 40.44694705960048
 geo_long: -3.71337890625
-curation: -0.05
-provenance:
-  - radiobrowser-5597c301-42b0-4147-bb16-7737feb746e4
-streams:
-  - url: 'https://rockfm-cope.flumotion.com/playlist.m3u8'
-    codec: AAC
-    bitrate: 64
-    hls: true
-  - url: 'https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +29,15 @@ research:
   format: Rock music format; classic rock, alternative rock, modern rock
   notes: Based in Madrid, Spain. Part of COPE's network, operated by Atresmedia. Rock-focused format serving Spanish audience. Broadcasts via web stream and terrestrial FM.
   sources: https://www.rockfm.fm/, internal knowledge
+curation: -0.05
+provenance:
+  - radiobrowser-5597c301-42b0-4147-bb16-7737feb746e4
+  - iprd-es-rock-fm-35618025
+streams:
+  - url: https://rockfm-cope.flumotion.com/playlist.m3u8
+    codec: AAC
+    bitrate: 64
+    hls: true
+  - url: https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3
+    codec: MP3
+    bitrate: 128

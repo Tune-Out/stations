@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 00:29:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-dde8432b-3cec-11e8-b74d-52543be04c81
-streams:
-  - url: 'http://5.9.2.139:8000/any-anime.ru'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://radionami.com/play_radio.m3u?11822'
-    url_resolved: 'http://5.9.2.139:8000/any-anime.ru'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -42,3 +31,15 @@ research:
   format: Anime music, soundtracks, related programming
   notes: Radio Nami is a Russian-language internet radio station dedicated to anime culture and music. Broadcasts anime soundtracks, opening/closing themes, and related content for anime fans in Russia and Russian-speaking regions.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-dde8432b-3cec-11e8-b74d-52543be04c81
+  - iprd-ru-radio-nami-76be760a
+streams:
+  - url: http://5.9.2.139:8000/any-anime.ru
+    codec: MP3
+    bitrate: 320
+  - url: https://radionami.com/play_radio.m3u?11822
+    url_resolved: http://5.9.2.139:8000/any-anime.ru
+    codec: MP3
+    bitrate: 320

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:27:42
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-9f382ade-7823-11ea-b1cf-52543be04c81
-streams:
-  - url: 'http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,14 @@ research:
   format: Reshet Moreshet (Heritage Network) - cultural, literary, and classical music programming; religious and Jewish heritage content
   notes: Reshet Moreshet is one of Israel's national radio networks operated by KAN, the state-funded public broadcasting authority. Focuses on cultural heritage, Jewish traditions, and classical music. 92.5 FM frequency in Israel.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-9f382ade-7823-11ea-b1cf-52543be04c81
+  - iprd-il-kan-moreshet-92-5-1e60bdb2
+streams:
+  - url: http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3
+    codec: MP3
+    bitrate: 128

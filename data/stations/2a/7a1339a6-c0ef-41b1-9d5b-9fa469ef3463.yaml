@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-7a1339a6-c0ef-41b1-9d5b-9fa469ef3463
-streams:
-  - url: 'https://whmsonic.radio.gov.pk:8034/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: state media
@@ -38,3 +28,13 @@ research:
   format: News, talk, public service, religious, cultural, agricultural and entertainment programming on medium wave (AM)
   notes: Radio Pakistan Multan is a regional station of the Pakistan Broadcasting Corporation (PBC), the state broadcaster founded in 1947 from the assets of the All India Radio stations that fell within Pakistan at partition; the Multan station serves South Punjab including the Multan, Bahawalpur and Dera Ghazi Khan divisions, broadcasting in Urdu, Saraiki and Punjabi; PBC operates under the Ministry of Information and Broadcasting and carries the official news bulletins; medium-wave (AM) signal historically had wide rural coverage across the Punjab plains.
   sources: internal knowledge only
+curation: 0.45
+provenance:
+  - radiobrowser-7a1339a6-c0ef-41b1-9d5b-9fa469ef3463
+streams:
+  - url: https://whmsonic.radio.gov.pk:8034/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12
+    codec: MP3
+    bitrate: 128

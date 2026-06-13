@@ -1,7 +1,7 @@
 stationuuid: ef5b93e8-5c46-4f0b-a5cc-9e417ff53685
 name: Blu Radio - Musica
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/MUSICABLU.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/MUSICABLU.mp3
+url: 'https://27423.live.streamtheworld.com:443/MUSICABLU.mp3'
+url_resolved: 'https://27423.live.streamtheworld.com:443/MUSICABLU.mp3'
 homepage: https://www.bluradio.com/
 favicon: https://caracoltv.brightspotcdn.com/dims4/default/be3d3b3/2147483647/strip/true/crop/315x314+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fbf%2F7e%2F3970272b49a4b5fa943fc505a9d1%2Fblu-radio-logo-2019-rgb.png
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 01:55:39
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-ef5b93e8-5c46-4f0b-a5cc-9e417ff53685
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Music-focused station; classic hits, 80s, 90s, and 2000s music rotation
   notes: BluRadio is a major Colombian commercial radio brand operated by Caracol Media (one of Colombia's largest media conglomerates). Música channel specializes in classic hits and 70s-2000s music. Significant listenership across Colombia.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-ef5b93e8-5c46-4f0b-a5cc-9e417ff53685

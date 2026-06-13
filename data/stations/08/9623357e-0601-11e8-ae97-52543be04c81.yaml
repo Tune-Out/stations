@@ -24,15 +24,6 @@ lastchangetime: 2026-01-15 07:48:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9623357e-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/'
-    codec: MP3
-  - url: 'http://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/streams.rsa-sachsen.de/play.m3u'
-    url_resolved: 'http://rsa.streamabc.net/regc-rsasachsenostrock7923745-mp3-192-1162842?sABC=6968707n%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768452218'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +33,12 @@ research:
   format: Oldies; East German (DDR) era rock and pop; nostalgia programming for 70s-80s music
   notes: Commercial radio specializing in Ostrock (East Rock) - rock and pop music from the former East Germany (DDR) era. Based in Saxony, serving listeners nostalgic for 1970s-1980s East German music culture and heritage.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9623357e-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/
+    codec: MP3
+  - url: http://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/streams.rsa-sachsen.de/play.m3u
+    url_resolved: http://rsa.streamabc.net/regc-rsasachsenostrock7923745-mp3-192-1162842?sABC=6968707n%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768452218
+    codec: MP3

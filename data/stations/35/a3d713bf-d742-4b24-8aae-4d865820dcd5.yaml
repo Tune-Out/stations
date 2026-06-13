@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 05:58:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a3d713bf-d742-4b24-8aae-4d865820dcd5
-streams:
-  - url: 'https://stream.rockantenne.de/80er-rock/stream/aacp'
-    codec: AAC
-  - url: 'https://stream.rockantenne.de/80er-rock/stream/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +32,13 @@ research:
   format: 1980s rock and classic rock music dedicated channel.
   notes: German commercial rock station with strong focus on 1980s rock era. ROCK ANTENNE is a well-established rock radio brand in Germany.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a3d713bf-d742-4b24-8aae-4d865820dcd5
+  - iprd-de-rock-antenne-80er-rock-0374b56b
+streams:
+  - url: https://stream.rockantenne.de/80er-rock/stream/aacp
+    codec: AAC
+  - url: https://stream.rockantenne.de/80er-rock/stream/mp3
+    codec: MP3
+    bitrate: 128

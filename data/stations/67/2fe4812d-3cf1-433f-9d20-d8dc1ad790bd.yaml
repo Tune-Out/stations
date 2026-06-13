@@ -22,21 +22,6 @@ lastchangetime: 2026-01-15 03:54:34
 clickcount: 0
 geo_lat: 50.56401154715542
 geo_long: 8.471306852627809
-curation: 0.35
-provenance:
-  - radiobrowser-2fe4812d-3cf1-433f-9d20-d8dc1ad790bd
-streams:
-  - url: 'http://stream.erf.de/erfpop_s.m3u'
-    url_resolved: 'http://stream.erfjess.de/erf-1068/aac-64?ar-distributor=ffa5'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://stream.erf.de/erfjess.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.erf.de/erfpop.m3u'
-    url_resolved: 'http://stream.erfjess.de/erf-1068/mp3-128?ar-distributor=ffa5'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -46,3 +31,18 @@ research:
   format: Christian music, teaching, news, talk programming for evangelical audience
   notes: ERF (Evangelische Rundfunk Freizeit) is a major German evangelical Christian broadcaster with radio stations across Germany; ERF Jess is one of their stations; founded to serve Protestant Christian communities; nonprofit educational broadcaster
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-2fe4812d-3cf1-433f-9d20-d8dc1ad790bd
+streams:
+  - url: http://stream.erf.de/erfpop_s.m3u
+    url_resolved: http://stream.erfjess.de/erf-1068/aac-64?ar-distributor=ffa5
+    codec: AAC+
+    bitrate: 64
+  - url: https://stream.erf.de/erfjess.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.erf.de/erfpop.m3u
+    url_resolved: http://stream.erfjess.de/erf-1068/mp3-128?ar-distributor=ffa5
+    codec: MP3
+    bitrate: 128

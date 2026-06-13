@@ -23,100 +23,6 @@ lastchangetime: 2026-01-15 00:25:41
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-962b5166-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=113442&m=sc&rid=195031'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=69819&m=sc&rid=155682'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://samcloud.spacial.com/api/listen?sid=127816&rid=268244&f=aac,any&br=64000,any&m=sc&t=ssl'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://samcloud.spacial.com/api/listen?sid=133262&m=sc&rid=280411&t=ssl'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://samcloud.spacial.com/api/listen?sid=104138&rid=181424&f=aac,any&br=64000,any'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://samcloud.spacial.com/api/listen?sid=137873&rid=292677&f=aac,any&br=64000'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://samcloud.spacial.com/api/listen?sid=74303&rid=130744&f=aac,any&br=64000,any&m=pls'
-    url_resolved: 'http://15113.live.streamtheworld.com/SAM07AAC007_SC'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://samcloud.spacial.com/api/listen?sid=72075&rid=124159&f=aac,any&br=32000,any&m=m3u'
-    url_resolved: 'http://15113.live.streamtheworld.com/SAM02AAC50_SC'
-    codec: AAC+
-    bitrate: 32
-  - url: 'https://samcloud.spacial.com/api/listen?sid=104945&rid=182729&f=mp3,any&br=128000,any&m=m3u&t=ssl'
-    url_resolved: 'https://26343.live.streamtheworld.com/SAM04AAC335_SC'
-    codec: MP3
-    bitrate: 320
-  - url: 'http://samcloud.spacial.com/api/listen?sid=78384&rid=140033&f=mp3,any&br=128000,any&m=pls'
-    url_resolved: 'http://15113.live.streamtheworld.com/SAM01AAC23_SC'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://samcloud.spacial.com/api/listen?sid=110690&m=sc&rid=190799'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://samcloud.spacial.com/api/listen?sid=98569&m=sc&rid=174384'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://samcloud.spacial.com/api/listen?sid=131111'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://samcloud.spacial.com/api/listen?sid=98586&m=sc&rid=174409'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://samcloud.spacial.com/api/listen?sid=98570&m=sc&rid=174387'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://samcloud.spacial.com/api/listen?sid=71281'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://samcloud.spacial.com/api/listen?sid=98587&m=sc&rid=174412'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://samcloud.spacial.com/api/listen?sid=118908&rid=238881&f=mp3,any&br=128000,any&m=m3u&t=ssl'
-    url_resolved: 'https://26343.live.streamtheworld.com/SAM03AAC392_SC'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=86004&rid=158905&f=mp3,any&br=128000,any&m=sc'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80sradio128mp3stereo44'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=100053&rid=176479&f=mp3,any&br=128000,any&m=sc'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=130157&m=sc&rid=273285'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=104853&rid=182288&f=mp3,any&br=128000,any&m=sc'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=67046&rid=155533&f=mp3,any&br=128000,any&m=sc&t=ssl'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=107886&rid=186750&f=mp3,any&br=128000,any&m=pls&t=ssl'
-    url_resolved: 'https://18093.live.streamtheworld.com/SP_R2925215_SC'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://samcloud.spacial.com/api/listen?sid=82883&m=sc&rid=156829&t=ssl'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -126,3 +32,99 @@ research:
   format: Indie, alternative music; commercial-free online radio
   notes: Online-only community radio station; indie and alternative music focus; serves Waterloo, Iowa
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-962b5166-0601-11e8-ae97-52543be04c81
+  - iprd-au-2arm-92-1-281b27e0
+  - iprd-ca-dm-pulse-a1f55ee9
+streams:
+  - url: https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl
+    codec: AAC+
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=113442&m=sc&rid=195031
+    codec: AAC+
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=69819&m=sc&rid=155682
+    codec: AAC+
+    bitrate: 96
+  - url: https://samcloud.spacial.com/api/listen?sid=127816&rid=268244&f=aac,any&br=64000,any&m=sc&t=ssl
+    codec: AAC+
+    bitrate: 64
+  - url: https://samcloud.spacial.com/api/listen?sid=133262&m=sc&rid=280411&t=ssl
+    codec: AAC+
+    bitrate: 64
+  - url: https://samcloud.spacial.com/api/listen?sid=104138&rid=181424&f=aac,any&br=64000,any
+    codec: AAC+
+    bitrate: 64
+  - url: https://samcloud.spacial.com/api/listen?sid=137873&rid=292677&f=aac,any&br=64000
+    codec: AAC+
+    bitrate: 64
+  - url: http://samcloud.spacial.com/api/listen?sid=74303&rid=130744&f=aac,any&br=64000,any&m=pls
+    url_resolved: http://15113.live.streamtheworld.com/SAM07AAC007_SC
+    codec: AAC+
+    bitrate: 64
+  - url: http://samcloud.spacial.com/api/listen?sid=72075&rid=124159&f=aac,any&br=32000,any&m=m3u
+    url_resolved: http://15113.live.streamtheworld.com/SAM02AAC50_SC
+    codec: AAC+
+    bitrate: 32
+  - url: https://samcloud.spacial.com/api/listen?sid=104945&rid=182729&f=mp3,any&br=128000,any&m=m3u&t=ssl
+    url_resolved: https://26343.live.streamtheworld.com/SAM04AAC335_SC
+    codec: MP3
+    bitrate: 320
+  - url: http://samcloud.spacial.com/api/listen?sid=78384&rid=140033&f=mp3,any&br=128000,any&m=pls
+    url_resolved: http://15113.live.streamtheworld.com/SAM01AAC23_SC
+    codec: MP3
+    bitrate: 192
+  - url: https://samcloud.spacial.com/api/listen?sid=110690&m=sc&rid=190799
+    codec: MP3
+    bitrate: 192
+  - url: https://samcloud.spacial.com/api/listen?sid=98569&m=sc&rid=174384
+    codec: MP3
+    bitrate: 192
+  - url: https://samcloud.spacial.com/api/listen?sid=131111
+    codec: MP3
+    bitrate: 192
+  - url: https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006
+    codec: MP3
+    bitrate: 192
+  - url: https://samcloud.spacial.com/api/listen?sid=98586&m=sc&rid=174409
+    codec: MP3
+    bitrate: 192
+  - url: https://samcloud.spacial.com/api/listen?sid=98570&m=sc&rid=174387
+    codec: MP3
+    bitrate: 192
+  - url: https://samcloud.spacial.com/api/listen?sid=71281
+    codec: MP3
+    bitrate: 192
+  - url: https://samcloud.spacial.com/api/listen?sid=98587&m=sc&rid=174412
+    codec: MP3
+    bitrate: 192
+  - url: http://samcloud.spacial.com/api/listen?sid=118908&rid=238881&f=mp3,any&br=128000,any&m=m3u&t=ssl
+    url_resolved: https://26343.live.streamtheworld.com/SAM03AAC392_SC
+    codec: MP3
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=86004&rid=158905&f=mp3,any&br=128000,any&m=sc
+    codec: MP3
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80sradio128mp3stereo44
+    codec: MP3
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=100053&rid=176479&f=mp3,any&br=128000,any&m=sc
+    codec: MP3
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=130157&m=sc&rid=273285
+    codec: MP3
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=104853&rid=182288&f=mp3,any&br=128000,any&m=sc
+    codec: MP3
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=67046&rid=155533&f=mp3,any&br=128000,any&m=sc&t=ssl
+    codec: MP3
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=107886&rid=186750&f=mp3,any&br=128000,any&m=pls&t=ssl
+    url_resolved: https://18093.live.streamtheworld.com/SP_R2925215_SC
+    codec: MP3
+    bitrate: 128
+  - url: https://samcloud.spacial.com/api/listen?sid=82883&m=sc&rid=156829&t=ssl
+    codec: MP3
+    bitrate: 64

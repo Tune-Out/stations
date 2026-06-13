@@ -21,22 +21,6 @@ lastchangetime: 2026-02-20 14:53:50
 clickcount: 0
 geo_lat: 44.43551351220439
 geo_long: 26.10248874718922
-curation: -0.05
-provenance:
-  - radiobrowser-6a4f40d2-95e5-454f-887e-a207dadfa8d1
-streams:
-  - url: 'http://live.radiotaraf.ro:8200/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live.radiotaraf.ro:9000/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://colinde.radiotaraf.ro:7100/;'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live.radiotaraf.ro:8181/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +30,19 @@ research:
   format: Dance and electronic music radio (DJ-driven format)
   notes: Radio Taraf is a Romanian commercial station with multiple channels. Radio Dance channel specializes in dance, house, and electronic music programming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6a4f40d2-95e5-454f-887e-a207dadfa8d1
+streams:
+  - url: http://live.radiotaraf.ro:8200/
+    codec: MP3
+    bitrate: 128
+  - url: http://live.radiotaraf.ro:9000/
+    codec: MP3
+    bitrate: 128
+  - url: http://colinde.radiotaraf.ro:7100/;
+    codec: MP3
+    bitrate: 128
+  - url: http://live.radiotaraf.ro:8181/
+    codec: MP3
+    bitrate: 128

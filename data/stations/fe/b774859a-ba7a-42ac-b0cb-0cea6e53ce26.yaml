@@ -1,7 +1,7 @@
 stationuuid: b774859a-ba7a-42ac-b0cb-0cea6e53ce26
 name: Azul 99.9 FM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac
+url: 'https://23263.live.streamtheworld.com:443/CRC_999AAC.aac'
+url_resolved: 'https://23263.live.streamtheworld.com:443/CRC_999AAC.aac'
 homepage: https://www.crc.cr/crc999/
 favicon: https://mmo.aiircdn.com/943/63d062c6d0e2c.png
 tags:
@@ -23,9 +23,6 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b774859a-ba7a-42ac-b0cb-0cea6e53ce26
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -35,3 +32,9 @@ research:
   format: Spanish-language commercial radio featuring romantic ballads, pop en español, and entertainment programming
   notes: Azul 99.9 FM is part of CRC's broadcast network in Costa Rica; focus on baladas románticas and contemporary Spanish pop
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b774859a-ba7a-42ac-b0cb-0cea6e53ce26
+  - iprd-cr-nueve-cinco-nueve-95-9-7f4ea406
+  - iprd-cr-azul-99-9-85d9618b
+  - iprd-cr-radio-94-7-59f592eb

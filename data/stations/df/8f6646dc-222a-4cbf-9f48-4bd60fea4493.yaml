@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 08:02:56
 clickcount: 34
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-8f6646dc-222a-4cbf-9f48-4bd60fea4493
-streams:
-  - url: 'http://stream.revma.ihrhls.com/zc6043'
-    codec: AAC
-  - url: 'https://stream.revma.ihrhls.com/zc6043'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: All-news radio format; NBC News Radio programming, hourly news updates, national and international news coverage.
   notes: NBC News Radio is a 24-hour all-news radio network operated by NBCUniversal. Distributed primarily through iHeartRadio platform. Delivers continuous news coverage, business news, weather, and information programming. Part of NBC's broader media distribution ecosystem.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-8f6646dc-222a-4cbf-9f48-4bd60fea4493
+  - iprd-us-nbc-news-radio-71eb6f00
+streams:
+  - url: http://stream.revma.ihrhls.com/zc6043
+    codec: AAC
+  - url: https://stream.revma.ihrhls.com/zc6043
+    codec: AAC

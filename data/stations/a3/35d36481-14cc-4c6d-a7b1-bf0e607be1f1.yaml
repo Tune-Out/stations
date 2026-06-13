@@ -25,15 +25,6 @@ lastchangetime: 2026-01-14 23:51:16
 clickcount: 6
 geo_lat: 40.74839219193443
 geo_long: -73.98566722869874
-curation: -0.10
-provenance:
-  - radiobrowser-35d36481-14cc-4c6d-a7b1-bf0e607be1f1
-duplicate_of: 56df9f1a-ed8b-4393-890a-2c0e6a0133a1
-streams:
-  - url: 'http://stream.revma.ihrhls.com/zc1469'
-    codec: AAC
-  - url: 'https://stream.revma.ihrhls.com/zc1469'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +34,12 @@ research:
   format: Hit music radio with talk shows; Elvis Duran and the Morning Show; Ryan Seacrest.
   notes: "Flagship New York station of iHeartMedia. Launched 1983. #1 hit music station in NYC market. Multi-platform presence across podcasts and social media."
   sources: https://z100.iheart.com/
+curation: -0.1
+provenance:
+  - radiobrowser-35d36481-14cc-4c6d-a7b1-bf0e607be1f1
+duplicate_of: 56df9f1a-ed8b-4393-890a-2c0e6a0133a1
+streams:
+  - url: http://stream.revma.ihrhls.com/zc1469
+    codec: AAC
+  - url: https://stream.revma.ihrhls.com/zc1469
+    codec: AAC

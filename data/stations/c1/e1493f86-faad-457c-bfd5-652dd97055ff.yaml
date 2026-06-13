@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 04:11:54
 clickcount: 3
 geo_lat: 21.88141192519194
 geo_long: -102.29516029357912
-curation: -0.05
-provenance:
-  - radiobrowser-e1493f86-faad-457c-bfd5-652dd97055ff
-streams:
-  - url: 'http://201.159.48.105:2871/'
-    codec: MP3
-  - url: 'https://secure.radiorama.mx:2001/'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +31,13 @@ research:
   format: Regional Mexican music (música regional mexicana), tradicional mexicana, grupera/grupero
   notes: La Poderosa (XHYZ-FM) 107.7 FM is a commercial station in Aguascalientes, Mexico, operated by Radiogrupo; specializes in regional Mexican music and tradicional music; serves Aguascalientes metropolitan and surrounding regions
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-e1493f86-faad-457c-bfd5-652dd97055ff
+  - iprd-mx-la-poderosa-107-7-xhyz-8e4db9e1
+  - iprd-mx-la-poderosa-107-7-xhyz-78b24139
+streams:
+  - url: http://201.159.48.105:2871/
+    codec: MP3
+  - url: https://secure.radiorama.mx:2001/
+    codec: MP3

@@ -26,16 +26,6 @@ lastchangetime: 2026-01-14 23:42:14
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-010a3aaf-3a27-4dba-8b84-de693a514f35
-streams:
-  - url: 'http://streaming.novaentertainment.com.au/fiveaa'
-    codec: AAC+
-    bitrate: 48
-  - url: 'http://streaming.novaentertainment.com.au/fiveaa?type=.mp3'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +35,13 @@ research:
   format: talkback, news, sports, current affairs, talk radio
   notes: FIVEAA (5AA) operates on 1395 AM. Adelaide's only commercial talkback radio station since 1976. Owned by Nova Entertainment. Programs include news, sports, current affairs, talkback on social issues, cars, travel, health, and lifestyle topics.
   sources: https://en.wikipedia.org/wiki/FIVEaa
+curation: 0.3
+provenance:
+  - radiobrowser-010a3aaf-3a27-4dba-8b84-de693a514f35
+streams:
+  - url: http://streaming.novaentertainment.com.au/fiveaa
+    codec: AAC+
+    bitrate: 48
+  - url: http://streaming.novaentertainment.com.au/fiveaa?type=.mp3
+    codec: AAC+
+    bitrate: 48

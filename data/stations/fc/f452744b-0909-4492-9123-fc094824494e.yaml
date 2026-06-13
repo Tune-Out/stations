@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-f452744b-0909-4492-9123-fc094824494e
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -31,3 +28,6 @@ research:
   format: All-hazards weather radio with continuous weather information, alerts, watches and warnings
   notes: Non-commercial service; site explicitly warns "you should NOT rely on this Internet audio to receive watches or warnings. Instead, you should have your own dedicated NOAA or Environment Canada Weather Radio receiver."; aggregates multiple regional NOAA/EC weather radio streams
   sources: https://stillwaterweather.com/wxradio
+curation: 0.35
+provenance:
+  - radiobrowser-f452744b-0909-4492-9123-fc094824494e

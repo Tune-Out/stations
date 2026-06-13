@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:11:29
 clickcount: 4
 geo_lat: 46.81354792159187
 geo_long: -71.20822906494142
-curation: 0.25
-provenance:
-  - radiobrowser-4dcb69d2-1b10-4831-9d4f-363133b9b022
-streams:
-  - url: 'https://listen.radioking.com/radio/256885/stream/301510'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://listen.radioking.com/radio/256885/stream/301504'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Classical music
   notes: CJSQ-FM operates as "Radio Classique" in Quebec City; independent station dedicated to classical and symphonic music broadcast in French
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-4dcb69d2-1b10-4831-9d4f-363133b9b022
+  - iprd-ca-cjsq-92-7-radio-classique-06203f99
+streams:
+  - url: https://listen.radioking.com/radio/256885/stream/301510
+    codec: MP3
+    bitrate: 320
+  - url: https://listen.radioking.com/radio/256885/stream/301504
+    codec: MP3
+    bitrate: 128

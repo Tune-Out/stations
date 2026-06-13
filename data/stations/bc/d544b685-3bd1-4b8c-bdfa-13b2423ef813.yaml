@@ -1,7 +1,7 @@
 stationuuid: d544b685-3bd1-4b8c-bdfa-13b2423ef813
 name: Grandprix Radio - BE
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE.mp3
+url: 'https://20043.live.streamtheworld.com:443/GPRDANCE.mp3'
+url_resolved: 'https://20043.live.streamtheworld.com:443/GPRDANCE.mp3'
 homepage: https://grandprixradio.be/
 favicon: https://grandprixradio.be/themes/flixi/favicons/apple-touch-icon.png?v=2
 tags:
@@ -24,9 +24,6 @@ lastchangetime: 2026-01-15 08:22:40
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-d544b685-3bd1-4b8c-bdfa-13b2423ef813
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +33,6 @@ research:
   format: Pop music, classic hits, and sports news programming
   notes: Grandprix Radio - BE is commercial Belgian station with mixed format including pop music, classic hits, and sports news; serves Benelux audiences with entertainment and information programming
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-d544b685-3bd1-4b8c-bdfa-13b2423ef813

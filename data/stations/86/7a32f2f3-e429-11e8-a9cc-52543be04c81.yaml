@@ -21,34 +21,6 @@ lastchangetime: 2026-01-15 04:58:11
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-7a32f2f3-e429-11e8-a9cc-52543be04c81
-streams:
-  - url: 'http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8'
-    codec: AAC
-    bitrate: 1151
-    hls: true
-  - url: 'http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8'
-    codec: AAC
-    bitrate: 1151
-    hls: true
-  - url: 'http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8'
-    codec: AAC
-    bitrate: 1150
-    hls: true
-  - url: 'http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8'
-    codec: AAC
-    bitrate: 1148
-    hls: true
-  - url: 'http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8'
-    codec: AAC
-    bitrate: 1146
-    hls: true
-  - url: 'http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8'
-    codec: AAC
-    bitrate: 1140
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -58,3 +30,31 @@ research:
   format: Children's and family programming; educational content; kids' TV and media content.
   notes: EBS TV-Kids is part of the Korean public educational broadcasting system. Streams via HLS at 1151 kbps AAC. Serves educational mission for families and youth in Seoul and nationally.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-7a32f2f3-e429-11e8-a9cc-52543be04c81
+streams:
+  - url: http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+    codec: AAC
+    bitrate: 1151
+    hls: true
+  - url: http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+    codec: AAC
+    bitrate: 1151
+    hls: true
+  - url: http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+    codec: AAC
+    bitrate: 1150
+    hls: true
+  - url: http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+    codec: AAC
+    bitrate: 1148
+    hls: true
+  - url: http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+    codec: AAC
+    bitrate: 1146
+    hls: true
+  - url: http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+    codec: AAC
+    bitrate: 1140
+    hls: true

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 00:10:47
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-42df389c-af7d-11e8-afe1-52543be04c81
-streams:
-  - url: 'https://s09.hstbr.net:8238/live?1514038524061'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://s09.hstbr.net:8238/live'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,14 @@ research:
   format: News, interviews, commentary; investigative reporting; activist journalism and social advocacy programming
   notes: Brasil de Fato ("Brazil in Fact") is a left-wing news media organization and activist platform; focused on grassroots reporting and social movement advocacy; independent non-commercial media; 320 kbps MP3; covers labor, indigenous rights, environmental justice
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-42df389c-af7d-11e8-afe1-52543be04c81
+  - iprd-br-brasil-de-fato-3ad1d756
+streams:
+  - url: https://s09.hstbr.net:8238/live?1514038524061
+    codec: MP3
+    bitrate: 320
+  - url: https://s09.hstbr.net:8238/live
+    codec: MP3
+    bitrate: 320

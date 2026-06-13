@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-578215f4-47c1-4a6c-a043-8972b3b0e6ed
-streams:
-  - url: 'https://stream.radio-cafezimmermann.de/klassik/aac-48/'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://stream.radio-cafezimmermann.de/klassik/mp3-192/'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,14 @@ research:
   format: Classical music focus (Klassik)
   notes: Germany-based; streams classical/classical music programming; minimal information available
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-578215f4-47c1-4a6c-a043-8972b3b0e6ed
+  - iprd-de-radio-caf-zimmermann-5c408144
+streams:
+  - url: https://stream.radio-cafezimmermann.de/klassik/aac-48/
+    codec: AAC+
+    bitrate: 48
+  - url: https://stream.radio-cafezimmermann.de/klassik/mp3-192/
+    codec: MP3
+    bitrate: 192

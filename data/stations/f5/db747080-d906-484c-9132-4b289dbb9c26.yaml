@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 04:14:02
 clickcount: 15
 geo_lat: 53.12040528310657
 geo_long: -8.613281250000002
-curation: 0.00
-provenance:
-  - radiobrowser-db747080-d906-484c-9132-4b289dbb9c26
-streams:
-  - url: 'http://solid24.streamupsolutions.com:8026/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://solid24.streamupsolutions.com:8026/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://solid24.streamupsolutions.com:2199/tunein/vbkiacud.pls'
-    url_resolved: 'http://173.208.54.18:8026/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +31,18 @@ research:
   format: Traditional Irish folk, ballads, celtic music, Irish drinking songs, and Irish pub favourites
   notes: Irish Pub Radio is an internet-only radio station broadcasting traditional Irish music, ballads, and celtic folk songs evocative of the Irish pub atmosphere; it caters to the global Irish diaspora and fans of Celtic music, programming acts such as The Dubliners, The Clancy Brothers, The Pogues, Christy Moore, and contemporary Irish folk performers; the station appears to be a small independent operation without affiliation to a major broadcasting group, distributed online via streamupsolutions.com infrastructure.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-db747080-d906-484c-9132-4b289dbb9c26
+  - iprd-ie-irish-pub-radio-55e21656
+streams:
+  - url: http://solid24.streamupsolutions.com:8026/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://solid24.streamupsolutions.com:8026/live
+    codec: MP3
+    bitrate: 128
+  - url: https://solid24.streamupsolutions.com:2199/tunein/vbkiacud.pls
+    url_resolved: http://173.208.54.18:8026/stream
+    codec: MP3
+    bitrate: 128

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-1ad467e4-442f-4be0-bf82-cecc4edb1799
-streams:
-  - url: 'https://s6.onweb.gr/8034/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://s6.onweb.gr:8034/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -38,3 +28,14 @@ research:
   format: 24-hour mixed programming with news broadcasts, Cretan music, pop/rock, instrumental, Greek and international music, dance; one-minute news bulletins every two hours
   notes: 'Operating since 1992 continuously. Station emphasizes "Quality music, Reliable news, Local tradition." Notable shows: "Mousiki Kalimera," "Mia allo mera ston aera." Claims "one of the biggest vinyl and cd collections on the island of Crete." Recognizes for informative character and serves as public forum for political developments.'
   sources: WebFetch of https://www.radiomires.gr/
+curation: 0.35
+provenance:
+  - radiobrowser-1ad467e4-442f-4be0-bf82-cecc4edb1799
+  - iprd-gr-radio-mires-97-1-f98329a9
+streams:
+  - url: https://s6.onweb.gr/8034/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://s6.onweb.gr:8034/
+    codec: MP3
+    bitrate: 128

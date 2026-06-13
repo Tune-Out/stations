@@ -21,16 +21,6 @@ lastchangetime: 2026-03-12 20:46:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-fe0469b6-73a0-4892-bf47-f1bcfc416797
-streams:
-  - url: 'https://fire.doscast.com/8084/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://fire.doscast.com:8084/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Variety music programming; community-focused with dedications, chat, social engagement
   notes: Polish commercial internet radio station based in Siedlce. Community-oriented with tagline "GRAMY Z PASJĄ" (We Play with Passion). Features song dedications, horoscopes, and support for Polish artists. Active on Facebook and TikTok.
   sources: https://radiozodiak.pl/
+curation: 0.35
+provenance:
+  - radiobrowser-fe0469b6-73a0-4892-bf47-f1bcfc416797
+streams:
+  - url: https://fire.doscast.com/8084/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://fire.doscast.com:8084/stream
+    codec: MP3
+    bitrate: 128

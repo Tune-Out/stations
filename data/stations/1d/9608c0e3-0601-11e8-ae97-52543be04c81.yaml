@@ -22,22 +22,6 @@ lastchangetime: 2026-01-15 07:17:43
 clickcount: 43
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-9608c0e3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284340-0_mp3_high.m3u'
-    url_resolved: 'http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284340-0_aac_high.m3u'
-    url_resolved: 'http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284340-0_mp3_low.m3u'
-    url_resolved: 'http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -47,3 +31,22 @@ research:
   format: News and information programming; continuous news bulletins, current affairs; MP3 128kbps
   notes: Part of ARD public broadcasting system; MDR Aktuell is news and information channel for central German region
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-9608c0e3-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-aktuell-3decb612
+  - iprd-de-mdr-aktuell-c8ad49c6
+  - iprd-de-mdr-aktuell-a7e83e1d
+streams:
+  - url: http://avw.mdr.de/streams/284340-0_mp3_high.m3u
+    url_resolved: http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284340-0_aac_high.m3u
+    url_resolved: http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284340-0_mp3_low.m3u
+    url_resolved: http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

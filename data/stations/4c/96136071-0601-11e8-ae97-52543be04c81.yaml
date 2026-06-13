@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 00:45:39
 clickcount: 66
 geo_lat: null
 geo_long: null
-curation: 0.45
-provenance:
-  - radiobrowser-96136071-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Classic Jazz thematic webradio (one of ~40 specialised channels) playing canonical jazz from the 1920s-1960s era non-stop, presented as "Radio Non Stop"
   notes: Jazz Radio was launched as a thematic French jazz network and operates a flagship terrestrial signal (FM/DAB+) in Lyon, Paris, Marseille, Nice/Monaco and other cities plus a large family of jazz sub-genre web streams; Classic Jazz is one of these thematic web channels focused on traditional, swing and bebop-era recordings; streamed in 128 kbps MP3 from Infomaniak's Swiss CDN
   sources: http://www.jazzradio.fr/radio/webradio/7/classic-jazz, internal knowledge
+curation: 0.35
+provenance:
+  - radiobrowser-96136071-0601-11e8-ae97-52543be04c81
+  - iprd-fr-jazz-radio-classic-jazz-1f09eedc
+streams:
+  - url: http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
+    codec: MP3
+    bitrate: 128

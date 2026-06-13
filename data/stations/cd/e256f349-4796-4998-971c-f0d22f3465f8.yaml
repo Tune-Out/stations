@@ -26,14 +26,6 @@ lastchangetime: 2026-01-15 01:02:30
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-e256f349-4796-4998-971c-f0d22f3465f8
-streams:
-  - url: 'http://stream.zeno.fm/vbyq86vnsp8uv'
-    codec: MP3
-  - url: 'https://stream.zeno.fm/vbyq86vnsp8uv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +35,11 @@ research:
   format: Heavy metal, hard rock, classic rock, metal core, and rock music
   notes: Indonesian-based heavy metal and rock music station based in Bali. Operates via zeno.fm platform. Focuses on hard rock, heavy metal, and metalcore genres with bilingual (Indonesian/English) content. Name suggests focus on headbanger community in Bali.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e256f349-4796-4998-971c-f0d22f3465f8
+streams:
+  - url: http://stream.zeno.fm/vbyq86vnsp8uv
+    codec: MP3
+  - url: https://stream.zeno.fm/vbyq86vnsp8uv
+    codec: MP3

@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:34:05
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-92e53e83-db76-4aee-a6bf-b37175d4aa13
-streams:
-  - url: 'https://shoutcast.christianrock.net/stream/7/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://shoutcast.christianrock.net/stream/8/'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -42,3 +32,15 @@ research:
   format: Christian praise and worship music
   notes: CRnet Power Praise is a Christian radio network channel specializing in contemporary Christian music, praise, and worship programming. Part of the Christian Rock Network, a faith-based broadcasting platform.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-92e53e83-db76-4aee-a6bf-b37175d4aa13
+  - iprd-us-crnet-power-praise-08d77588
+  - iprd-us-crnet-power-praise-9f4de1f2
+streams:
+  - url: https://shoutcast.christianrock.net/stream/7/
+    codec: MP3
+    bitrate: 128
+  - url: https://shoutcast.christianrock.net/stream/8/
+    codec: MP3
+    bitrate: 32

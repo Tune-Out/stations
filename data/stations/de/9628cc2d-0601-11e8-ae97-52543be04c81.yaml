@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 05:12:26
 clickcount: 43
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-9628cc2d-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://wma01.fluidstream.net/piterpan'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://ice02.fluidstream.net/piterpan.mp3?FLID=1&type=.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -43,3 +33,15 @@ research:
   format: Pop, electronica, top 40; contemporary music programming; AAC+ 64kbps streaming via fluidstream
   notes: Independent Italian radio station based in Veneto; online streaming primary distribution; electronica and pop music focus
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-9628cc2d-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-piterpan-d8314b15
+  - iprd-it-radio-piterpan-1f70ddb2
+streams:
+  - url: http://wma01.fluidstream.net/piterpan
+    codec: AAC+
+    bitrate: 64
+  - url: https://ice02.fluidstream.net/piterpan.mp3?FLID=1&type=.mp3
+    codec: MP3
+    bitrate: 128

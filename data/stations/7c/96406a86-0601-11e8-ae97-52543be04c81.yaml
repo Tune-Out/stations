@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:39:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-96406a86-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://mbsradio.leanstream.co/CJCBAM-MP3'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://mbsradio.leanstream.co/CJCBAM-MP3'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Country music, local community programming
   notes: Commercial AM radio station at 1270 kHz in Sydney, Nova Scotia, Canada serving Cape Breton Island with country music format.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-96406a86-0601-11e8-ae97-52543be04c81
+  - iprd-ca-cjcb-1270-3d36db1f
+streams:
+  - url: http://mbsradio.leanstream.co/CJCBAM-MP3
+    codec: MP3
+    bitrate: 64
+  - url: https://mbsradio.leanstream.co/CJCBAM-MP3
+    codec: MP3
+    bitrate: 64

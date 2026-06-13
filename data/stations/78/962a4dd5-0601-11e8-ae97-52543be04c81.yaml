@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 01:14:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-962a4dd5-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://wma07.fluidstream.net:7600/;stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://rh.fluidstream.eu/lovefm.mp3?FLID=1'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Love songs, soft adult contemporary, romantic music; regional Italian programming
   notes: Commercial regional radio station based in Canosa di Puglia, Puglia region of southern Italy. Specializes in love songs and soft adult contemporary music format with romantic theme. Serves local and regional audience in Puglia.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-962a4dd5-0601-11e8-ae97-52543be04c81
+  - iprd-it-love-fm-641ca732
+streams:
+  - url: http://wma07.fluidstream.net:7600/;stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://rh.fluidstream.eu/lovefm.mp3?FLID=1
+    codec: MP3
+    bitrate: 128

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 07:20:35
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-4aac39a7-83d2-413a-913b-f6fb25114590
-streams:
-  - url: 'https://wdr-sportschau-liga1spiel7.icecastssl.wdr.de/wdr/sportschau/liga1spiel7/mp3/high?file=.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://wdr-sportschau-liga1spiel7.icecastssl.wdr.de/wdr/sportschau/liga1spiel7/mp3/high'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,13 @@ research:
   format: Live sports radio broadcasts, primarily Bundesliga football matches and sports news
   notes: Sportschau is ARD's flagship sports program launched in 1961, famous for Saturday Bundesliga summaries and comprehensive sports coverage (football, Formula 1, handball, cycling, etc.); WDR provides the streaming infrastructure
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-4aac39a7-83d2-413a-913b-f6fb25114590
+streams:
+  - url: https://wdr-sportschau-liga1spiel7.icecastssl.wdr.de/wdr/sportschau/liga1spiel7/mp3/high?file=.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://wdr-sportschau-liga1spiel7.icecastssl.wdr.de/wdr/sportschau/liga1spiel7/mp3/high
+    codec: MP3
+    bitrate: 128

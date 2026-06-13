@@ -23,15 +23,6 @@ lastchangetime: 2026-01-15 04:28:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-e778bbe0-149e-11e9-a80b-52543be04c81
-streams:
-  - url: 'http://lhttp.qingting.fm/live/5025/64k.mp3'
-    codec: MP3
-  - url: 'http://live.zohi.tv/audio/s10001-FM944/index.m3u8'
-    codec: UNKNOWN
-    hls: true
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +32,14 @@ research:
   format: News, current affairs, public affairs programming
   notes: Fuzhou News Radio (福州新闻广播) is a public radio station operated by Fuzhou Radio and Television Group, a state-owned enterprise. Focuses on news and current affairs serving Fuzhou area.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-e778bbe0-149e-11e9-a80b-52543be04c81
+  - iprd-cn-fuzhou-news-broadcasting-94-4-30539e2e
+  - iprd-cn-fuzhou-news-broadcasting-94-4-09a78d52
+streams:
+  - url: http://lhttp.qingting.fm/live/5025/64k.mp3
+    codec: MP3
+  - url: http://live.zohi.tv/audio/s10001-FM944/index.m3u8
+    codec: UNKNOWN
+    hls: true

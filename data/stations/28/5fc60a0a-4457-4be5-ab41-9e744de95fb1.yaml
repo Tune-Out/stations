@@ -20,18 +20,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 10
 geo_lat: 53.57032876781959
 geo_long: 9.93370056152344
-curation: 0.65
-provenance:
-  - radiobrowser-5fc60a0a-4457-4be5-ab41-9e744de95fb1
-streams:
-  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +29,20 @@ research:
   format: rolling news, current-affairs talk, business and political analysis, sports updates and documentary features
   notes: NDR Info is NDR's news-and-information radio network, with this Hamburg feed serving the city-state of Hamburg with regional opt-outs alongside the shared NDR Info programme; NDR is jointly responsible to the states of Hamburg, Lower Saxony, Schleswig-Holstein and Mecklenburg-Vorpommern, and NDR Info is one of Germany's leading public-radio news brands, also producing flagship podcasts such as the long-running coronavirus update with virologist Christian Drosten.
   sources: https://www.ndr.de/info, internal knowledge
+curation: 0.65
+provenance:
+  - radiobrowser-5fc60a0a-4457-4be5-ab41-9e744de95fb1
+  - iprd-de-ndr-info-hamburg-60d087c2
+  - iprd-de-ndr-info-hamburg-59b7a7f1
+  - iprd-de-ndr-info-hamburg-298d4c7b
+  - iprd-de-ndr-info-hamburg-93a91a0e
+  - iprd-de-ndr-info-hamburg-dca982b9
+streams:
+  - url: https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_hh.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

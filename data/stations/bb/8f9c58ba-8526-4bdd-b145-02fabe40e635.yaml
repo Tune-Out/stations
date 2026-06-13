@@ -1,7 +1,7 @@
 stationuuid: 8f9c58ba-8526-4bdd-b145-02fabe40e635
 name: ZM Wellington (new)
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8
+url: 'https://23093.live.streamtheworld.com:443/NZME_33AAC/HLS/playlist.m3u8'
+url_resolved: 'https://23093.live.streamtheworld.com:443/NZME_33AAC/HLS/playlist.m3u8'
 homepage: https://www.zmonline.com/
 favicon: https://i.iheart.com/v3/re/assets.streams/66cd032848755edc76e696f3
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 19
 geo_lat: -41.27278259499812
 geo_long: 174.7760226743494
-curation: -0.05
-provenance:
-  - radiobrowser-8f9c58ba-8526-4bdd-b145-02fabe40e635
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Contemporary hit radio (CHR/Top 40) with comedy-led breakfast and drive shows, current pop/dance music, and celebrity entertainment content
   notes: ZM is one of NZME's flagship music brands alongside Newstalk ZB, The Hits, Coast and Hauraki; the station traces its roots to ZM-FM Auckland (launched in 1970 as the Radio New Zealand youth network) and was privatised when The Radio Network spun off from RNZ in 1996, later becoming part of NZME after the 2014 demerger from APN News & Media; broadcasts on 30+ frequencies across New Zealand including Wellington 90.9 FM; flagship breakfast show Fletch, Vaughan & Hayley is a long-running national show simulcast across the network
   sources: https://www.zmonline.com/
+curation: -0.05
+provenance:
+  - radiobrowser-8f9c58ba-8526-4bdd-b145-02fabe40e635

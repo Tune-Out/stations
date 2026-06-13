@@ -19,16 +19,6 @@ lastchangetime: 2026-03-27 16:12:57
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-3521e06d-4265-4415-8882-3aacad9b80e9
-streams:
-  - url: 'https://discoclassicradio.nl/stream?1774627917867'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://discoclassicradio.nl/stream?1778855762213'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Disco, classic disco, funk, dance music from 1970s-1980s era
   notes: Dutch online radio station Disco Classic Radio specializing in classic disco and funk music. Commercial format at 192kbps quality. Targets niche audience of disco and funk enthusiasts in Netherlands and beyond.
   sources: https://www.discoclassicradio.nl/
+curation: -0.05
+provenance:
+  - radiobrowser-3521e06d-4265-4415-8882-3aacad9b80e9
+streams:
+  - url: https://discoclassicradio.nl/stream?1774627917867
+    codec: MP3
+    bitrate: 192
+  - url: https://discoclassicradio.nl/stream?1778855762213
+    codec: MP3
+    bitrate: 192

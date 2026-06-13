@@ -1,6 +1,6 @@
 stationuuid: 8836a162-be80-4082-81fc-cf0acb3608da
 name: JB.FM
-url: http://provisioning.streamtheworld.com/pls/JBFMAAC.pls
+url: 'http://27393.live.streamtheworld.com:80/JBFMAAC_SC'
 url_resolved: http://26593.live.streamtheworld.com:3690/JBFMAAC_SC
 homepage: https://jb.fm/player/index.php
 favicon: https://jb.fm/player/assets/img/logo-jb_180x180.png
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:08
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-8836a162-be80-4082-81fc-cf0acb3608da
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -32,3 +29,7 @@ research:
   format: Classical music
   notes: JB.FM; dedicated classical music streaming station serving Brazilian and Portuguese-speaking audiences
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-8836a162-be80-4082-81fc-cf0acb3608da
+  - iprd-br-radio-jb-99-9-81a37448

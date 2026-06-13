@@ -23,18 +23,6 @@ lastchangetime: 2026-01-14 23:18:26
 clickcount: 6
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.70
-provenance:
-  - radiobrowser-e6fa9a8a-02a8-11e9-a1be-52543be04c81
-streams:
-  - url: 'https://somafm.com/gsclassic64.pls'
-    url_resolved: 'https://ice2.somafm.com/gsclassic-64-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://somafm.com/gsclassic.pls'
-    url_resolved: 'https://ice2.somafm.com/gsclassic-128-mp3'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +32,17 @@ research:
   format: Downtempo ambient and early-2000s chill music; 24/7 curated streaming
   notes: SomaFM operates as listener-supported, commercial-free internet radio since 1999. Groove Salad is signature channel featuring ambient downtempo classics. Based in California. All SomaFM channels are non-profit, donations and grants supported.
   sources: internal knowledge only
+curation: 0.7
+provenance:
+  - radiobrowser-e6fa9a8a-02a8-11e9-a1be-52543be04c81
+  - iprd-us-somafm-groove-salad-classic-1e642b52
+  - iprd-us-somafm-groove-salad-classic-7f7655ad
+streams:
+  - url: https://somafm.com/gsclassic64.pls
+    url_resolved: https://ice2.somafm.com/gsclassic-64-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://somafm.com/gsclassic.pls
+    url_resolved: https://ice2.somafm.com/gsclassic-128-mp3
+    codec: MP3
+    bitrate: 160

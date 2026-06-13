@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 06:14:42
 clickcount: 20
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-8914355a-6111-4fd4-a2a9-1e44f2e59e44
-streams:
-  - url: 'https://edge9.pink.rs/pinkstream'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://edge1.pink.rs:1935/radiopinkfta/pink61.smil/playlist.m3u8'
-    codec: UNKNOWN
-    bitrate: 964
-    hls: true
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Folk music programming specializing in Serbian and Balkan traditional and contemporary folk music
   notes: Commercial radio station based in Serbia; HLS streaming; part of Pink media group in Serbia
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-8914355a-6111-4fd4-a2a9-1e44f2e59e44
+  - iprd-ro-pink-radio-31bc9b9c
+streams:
+  - url: https://edge9.pink.rs/pinkstream
+    codec: MP3
+    bitrate: 192
+  - url: http://edge1.pink.rs:1935/radiopinkfta/pink61.smil/playlist.m3u8
+    codec: UNKNOWN
+    bitrate: 964
+    hls: true

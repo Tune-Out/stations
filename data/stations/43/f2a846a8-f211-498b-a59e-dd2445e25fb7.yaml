@@ -17,9 +17,6 @@ bitrate: 192
 hls: false
 lastcheckok: true
 lastchangetime: 2026-01-14 22:54:03
-curation: 0.25
-provenance:
-  - radiobrowser-f2a846a8-f211-498b-a59e-dd2445e25fb7
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -29,3 +26,7 @@ research:
   format: Classical music programming (based on tags; name suggests disco content, tags show classical focus - possible metadata inconsistency).
   notes: Hungarian internet radio station. Station name "disco diamond" conflicts with tags showing "classical" music focus, suggesting potential data entry error or station rebranding. No homepage available in database.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-f2a846a8-f211-498b-a59e-dd2445e25fb7
+  - iprd-hu-disco-diamond-radio-2be05ba7

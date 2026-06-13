@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:45
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-1d1a55c8-1821-413b-987d-3f448223990a
-streams:
-  - url: 'https://umnoe.amgradio.ru/Umnoe'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://umnoe.amgradio.ru/Umnoe'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Talk radio, conversation, and spoken word programming (разговорное radio)
   notes: Russian commercial talk radio station broadcasting from Moscow. Part of Top Radio Group. Specializes in talk programming and conversation content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-1d1a55c8-1821-413b-987d-3f448223990a
+streams:
+  - url: https://umnoe.amgradio.ru/Umnoe
+    codec: MP3
+    bitrate: 128
+  - url: http://umnoe.amgradio.ru/Umnoe
+    codec: MP3
+    bitrate: 128

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:12:02
 clickcount: 34
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-a570f67d-3740-4e4a-a4c5-5b99b0d8abed
-streams:
-  - url: 'http://alouette.ice.infomaniak.ch/alouette-high.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://alouette.ice.infomaniak.ch/alouette-high.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: General/variety format with music and talk programming
   notes: French commercial radio station with long history in French broadcasting
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-a570f67d-3740-4e4a-a4c5-5b99b0d8abed
+  - iprd-fr-alouette-736dc5cd
+streams:
+  - url: http://alouette.ice.infomaniak.ch/alouette-high.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://alouette.ice.infomaniak.ch/alouette-high.mp3
+    codec: MP3
+    bitrate: 128

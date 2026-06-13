@@ -1,6 +1,6 @@
 stationuuid: 960df206-0601-11e8-ae97-52543be04c81
 name: Sky Radio Lovesongs
-url: http://provisioning.streamtheworld.com/pls/SRGSTR03AAC.pls
+url: 'http://25333.live.streamtheworld.com:80/SRGSTR03AAC_SC'
 url_resolved: http://22323.live.streamtheworld.com:3690/SRGSTR03AAC_SC
 homepage: http://www.skyradio.nl/
 favicon: http://www.skyradio.nl/favicon.ico
@@ -22,20 +22,6 @@ lastchangetime: 2026-01-15 05:14:22
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-960df206-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://provisioning.streamtheworld.com/pls/SRGSTR03AAC.pls'
-    url_resolved: 'http://22323.live.streamtheworld.com:3690/SRGSTR03AAC_SC'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://25233.live.streamtheworld.com/SRGSTR03AAC.aac?dist=onlineradiobox'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://25293.live.streamtheworld.com/SRGSTR03.mp3?dist=skyradio_webx&ttag=talpa_consent%3A1&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&gdpr=1&gdpr_consent=CQj-YQAQj-YQAAcABBNLCeFwAP_gAAAAAChQGMwGAAKgAgABlAEwATgAxABuAD8AIAAQYAjABxgDvAItARwBHQCXAE7AKyAZwA_gCJgEUgLzAXsAxkAAAAwSAOABUAEAAMgAmAB-AI4AvMdAJAAqACAAGQATAAxAB-AItARwBHQF5kIAQAYgCOEoAgATAAxAEcAXmUgFAAVABAADIAJgAYgA_ADvAItARwBHQF5loAIBHAAA.f_wAAAAAAAAA.IGMwGAAKgAgABlAEwATgAxABuAD8AIAAQYAjABxgDvAItARwBHQCXAE7AKyAZwA_gCJgEUgLzAXsAxkA&burst-time=15&sbmid=c139607e-7e47-43d8-9059-08a045ad2c05'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +31,17 @@ research:
   format: Love songs and romantic music
   notes: Specialized channel of Sky Radio (major commercial station in the Netherlands); focuses on sentimental and romantic ballads; streams via StreamTheWorld infrastructure
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-960df206-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://25333.live.streamtheworld.com:80/SRGSTR03AAC_SC'
+    url_resolved: http://22323.live.streamtheworld.com:3690/SRGSTR03AAC_SC
+    codec: AAC+
+    bitrate: 64
+  - url: https://25233.live.streamtheworld.com/SRGSTR03AAC.aac?dist=onlineradiobox
+    codec: AAC+
+    bitrate: 64
+  - url: https://25293.live.streamtheworld.com/SRGSTR03.mp3?dist=skyradio_webx&ttag=talpa_consent%3A1&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&gdpr=1&gdpr_consent=CQj-YQAQj-YQAAcABBNLCeFwAP_gAAAAAChQGMwGAAKgAgABlAEwATgAxABuAD8AIAAQYAjABxgDvAItARwBHQCXAE7AKyAZwA_gCJgEUgLzAXsAxkAAAAwSAOABUAEAAMgAmAB-AI4AvMdAJAAqACAAGQATAAxAB-AItARwBHQF5kIAQAYgCOEoAgATAAxAEcAXmUgFAAVABAADIAJgAYgA_ADvAItARwBHQF5loAIBHAAA.f_wAAAAAAAAA.IGMwGAAKgAgABlAEwATgAxABuAD8AIAAQYAjABxgDvAItARwBHQCXAE7AKyAZwA_gCJgEUgLzAXsAxkA&burst-time=15&sbmid=c139607e-7e47-43d8-9059-08a045ad2c05
+    codec: MP3
+    bitrate: 128

@@ -19,18 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-278b072f-d128-4654-9cb7-09c3ba609074
-streams:
-  - url: 'https://yesfmcdo.radioca.st/listen.pls?sid=1'
-    url_resolved: 'http://yesfmcdo.radioca.st:8040/stream'
-    codec: MP3
-    bitrate: 64
-  - url: 'http://yesfmcdo.radioca.st/listen.pls?sid=1'
-    url_resolved: 'http://yesfmcdo.radioca.st:8040/stream'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +28,16 @@ research:
   format: Contemporary music and entertainment; "The Best" network emphasis on hit music and lifestyle programming
   notes: Local affiliate of the Yes The Best national radio network in the Philippines; based in Cagayan de Oro, a major city in Mindanao; commercial music and entertainment programming targeting young adult audiences
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-278b072f-d128-4654-9cb7-09c3ba609074
+  - iprd-ph-dxht-yes-fm-102-7-0a215bb0
+streams:
+  - url: https://yesfmcdo.radioca.st/listen.pls?sid=1
+    url_resolved: http://yesfmcdo.radioca.st:8040/stream
+    codec: MP3
+    bitrate: 64
+  - url: http://yesfmcdo.radioca.st/listen.pls?sid=1
+    url_resolved: http://yesfmcdo.radioca.st:8040/stream
+    codec: MP3
+    bitrate: 64

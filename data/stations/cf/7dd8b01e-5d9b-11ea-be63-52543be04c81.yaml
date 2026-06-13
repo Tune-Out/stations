@@ -25,17 +25,6 @@ lastchangetime: 2026-01-15 03:38:47
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.25
-provenance:
-  - radiobrowser-7dd8b01e-5d9b-11ea-be63-52543be04c81
-streams:
-  - url: 'http://radioradio.es:8000/listen.pls'
-    url_resolved: 'http://radioradio.es:8000/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.radioradio.es:4020/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -45,3 +34,14 @@ research:
   format: Jazz, bossa nova, smooth jazz, chillout, pop
   notes: Radio Radio Network is a Spanish commercial internet radio offering specialty jazz and relaxation channels; known for smooth jazz and world music programming.
   sources: internal knowledge only
+curation: 0.25
+provenance:
+  - radiobrowser-7dd8b01e-5d9b-11ea-be63-52543be04c81
+streams:
+  - url: http://radioradio.es:8000/listen.pls
+    url_resolved: http://radioradio.es:8000/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.radioradio.es:4020/stream
+    codec: MP3
+    bitrate: 128

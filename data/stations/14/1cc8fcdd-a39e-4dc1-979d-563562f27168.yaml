@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:07:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-1cc8fcdd-a39e-4dc1-979d-563562f27168
-streams:
-  - url: 'https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Rock music with emphasis on female vocalists and artists.
   notes: OUI FM is an independent French rock radio station, now part of Lagardère Audio. The "Girls Rock" stream specifically features rock music by and with female artists. Positions itself as a curator of alternative and indie rock for French listeners.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-1cc8fcdd-a39e-4dc1-979d-563562f27168
+  - iprd-fr-o-i-fm-girls-rock-70e2f17f
+streams:
+  - url: https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.mp3
+    codec: MP3
+    bitrate: 128

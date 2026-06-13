@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 03:00:48
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-962e3e63-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://web.stream.euroherz.de/radio-euroherz?aggregator=websiteplayer'
-    codec: AAC
-  - url: 'http://webstream.euroherz.de/radio-euroherz.aac'
-    codec: AAC
-  - url: 'http://webstream.euroherz.de/radio-euroherz.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +30,16 @@ research:
   format: General programming; regional community radio format; tagline "Hier schlägt unser Herz" (Here our heart beats).
   notes: Community radio station in Bavaria, Germany. Streams at 128 kbps MP3. Limited public online presence; community-oriented operation.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-962e3e63-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-euroherz-88-0-e3e7de71
+  - iprd-de-radio-euroherz-88-0-dca3f008
+streams:
+  - url: https://web.stream.euroherz.de/radio-euroherz?aggregator=websiteplayer
+    codec: AAC
+  - url: http://webstream.euroherz.de/radio-euroherz.aac
+    codec: AAC
+  - url: http://webstream.euroherz.de/radio-euroherz.mp3
+    codec: MP3
+    bitrate: 128

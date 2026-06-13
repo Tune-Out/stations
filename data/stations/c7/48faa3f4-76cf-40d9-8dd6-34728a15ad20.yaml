@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 2
 geo_lat: 40.636761002335504
 geo_long: 22.95146942138672
-curation: -0.05
-provenance:
-  - radiobrowser-48faa3f4-76cf-40d9-8dd6-34728a15ad20
-streams:
-  - url: 'https://imagine2.radioca.st/;stream.nsv'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://imagine2.radioca.st/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,14 @@ research:
   format: Deep house, electronic dance music programming
   notes: Commercial radio station based in Greece (104 FM), serving the Athens region. Focuses on deep house and electronic music format.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-48faa3f4-76cf-40d9-8dd6-34728a15ad20
+  - iprd-gr-fly-104-a9be7b7a
+streams:
+  - url: https://imagine2.radioca.st/;stream.nsv
+    codec: MP3
+    bitrate: 128
+  - url: https://imagine2.radioca.st/;
+    codec: MP3
+    bitrate: 128

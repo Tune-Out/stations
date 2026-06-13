@@ -23,16 +23,6 @@ lastchangetime: 2026-01-20 16:56:31
 clickcount: 0
 geo_lat: 27.923672824365305
 geo_long: -110.89719772338869
-curation: -0.05
-provenance:
-  - radiobrowser-ecb8db23-7440-4349-9855-c76e43997250
-streams:
-  - url: 'https://sp5.servidorrprivado.com/8066/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://sp5.servidorrprivado.com/8066/stream'
-    codec: MP3
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,13 @@ research:
   format: Contemporary hits radio (CHR), pop, entertainment music
   notes: Commercial station XHDR-FM operating at 99.5 FM in Guaymas, part of Grupo Radio Guaymas broadcast group.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-ecb8db23-7440-4349-9855-c76e43997250
+streams:
+  - url: https://sp5.servidorrprivado.com/8066/stream
+    codec: MP3
+    bitrate: 128
+  - url: https://sp5.servidorrprivado.com/8066/stream
+    codec: MP3
+    bitrate: 96

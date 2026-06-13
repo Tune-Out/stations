@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-cfdd3af7-131d-44c1-a5a8-4e26fdaef284
-streams:
-  - url: 'https://streams.kut.org/4426_56?aw_0_1st.playerid=kut-free'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://streams.kut.org/4426_128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Music discovery, live sessions, interviews, and eclectic programming
   notes: KUT (KUTX) is a non-commercial listener-supported radio station operated by the University of Texas at Austin. NPR member station known for music discovery, local content, and community engagement. Broadcasts eclectic music including indie rock, world music, and jazz.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-cfdd3af7-131d-44c1-a5a8-4e26fdaef284
+streams:
+  - url: https://streams.kut.org/4426_56?aw_0_1st.playerid=kut-free
+    codec: AAC+
+    bitrate: 64
+  - url: https://streams.kut.org/4426_128.mp3
+    codec: MP3
+    bitrate: 128

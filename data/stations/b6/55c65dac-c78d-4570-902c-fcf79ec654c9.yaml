@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 03:49:38
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-55c65dac-c78d-4570-902c-fcf79ec654c9
-streams:
-  - url: 'https://italiavera.radioca.st/stream'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://italiavera.radioca.st/stream?type=http&nocache=296'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Adult contemporary, local programming
   notes: Local radio station serving the Assisi region in Umbria, central Italy. Community-focused programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-55c65dac-c78d-4570-902c-fcf79ec654c9
+  - iprd-it-antenna-web-assisi-ad68d875
+  - iprd-it-antenna-radio-petrignano-c86afe82
+streams:
+  - url: https://italiavera.radioca.st/stream
+    codec: MP3
+    bitrate: 320
+  - url: https://italiavera.radioca.st/stream?type=http&nocache=296
+    codec: MP3
+    bitrate: 320

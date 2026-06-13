@@ -20,16 +20,6 @@ lastchangetime: 2026-02-08 09:42:44
 clickcount: 0
 geo_lat: 44.435566371811966
 geo_long: 26.10247536929375
-curation: -0.05
-provenance:
-  - radiobrowser-bbfa7a05-bc27-411b-9e37-375184fec3be
-streams:
-  - url: 'https://ssl.omegahost.ro/8000/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live.radiovaloare.ro:7777/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Commercial radio specializing in manele and manele vechi (old/classic manele); folk-influenced dance music
   notes: Valoare Radio is a Romanian commercial radio station dedicated to manele music — a Balkan-influenced folk-pop and dance genre with deep roots in Romanian culture. "Manele Vechi" (Old Manele) focuses on classic manele hits, often from the 1980s-2000s. Manele remains culturally significant and popular across Romania and the diaspora, though sometimes controversial in mainstream media.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-bbfa7a05-bc27-411b-9e37-375184fec3be
+streams:
+  - url: https://ssl.omegahost.ro/8000/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://live.radiovaloare.ro:7777/stream
+    codec: MP3
+    bitrate: 128

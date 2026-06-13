@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:54:30
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-962ebf02-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://s6.mediastreaming.it:9096/;stream.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://s.streampunk.cc/ciroma.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Community music, news, and cultural programming; mixed format
   notes: Community radio station based in Cosenza, Calabria; serves local audience with Italian-language programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-962ebf02-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-ciroma-105-7-6d25169a
+streams:
+  - url: http://s6.mediastreaming.it:9096/;stream.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://s.streampunk.cc/ciroma.mp3
+    codec: MP3
+    bitrate: 192

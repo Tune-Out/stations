@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:56:33
 clickcount: 9
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9610a8e7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Non-stop "electro swing" — a fusion genre blending 1920s/30s swing and jazz samples with modern electronic beats (artists such as Parov Stelar, Caravan Palace, Caro Emerald, Tape Five, Gramatik).
   notes: Jazz Radio Electro Swing is one of 40+ themed web channels in the Jazz Radio family, a French digital radio brand based in Lyon. The parent Jazz Radio holds an FM license in several French cities and is owned by Espace Group, a privately held French radio group founded by Christian and Pascal Chamberlin. The Electro Swing channel highlights "Le meilleur du jazz et de l'électro swing" in a non-stop format with no live DJ shows. Distribution includes the web, mobile apps (iOS/Android), and connected devices, with song-history tracking and curated video/podcast content.
   sources: http://www.jazzradio.fr/radio/webradio/17/electro-swing, internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9610a8e7-0601-11e8-ae97-52543be04c81
+  - iprd-fr-jazz-radio-electro-swing-e5f70ae0
+streams:
+  - url: https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090
+    codec: AAC+
+    bitrate: 64
+  - url: http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
+    codec: MP3
+    bitrate: 128

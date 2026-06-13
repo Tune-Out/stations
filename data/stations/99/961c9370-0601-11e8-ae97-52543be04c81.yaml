@@ -1,6 +1,6 @@
 stationuuid: 961c9370-0601-11e8-ae97-52543be04c81
 name: WGRF 96.9 "97 Rock" Buffalo, NY
-url: http://provisioning.streamtheworld.com/pls/WGRFFM.pls
+url: 'http://17813.live.streamtheworld.com:80/WGRFFM_SC'
 url_resolved: http://29243.live.streamtheworld.com:3690/WGRFFM_SC
 homepage: http://www.97rock.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3212/squareIcon.png?r=95077
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 04:44:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961c9370-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Commercial rock radio, active rock hits and classic rock
   notes: Commercial FM rock station at 96.9 MHz in Buffalo, NY, branded as "97 Rock" despite lower frequency.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961c9370-0601-11e8-ae97-52543be04c81

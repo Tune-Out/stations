@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 06:17:50
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-c7bba75d-0284-4deb-84fa-ad60318076f9
-streams:
-  - url: 'https://shoutcast.christianrock.net/stream/9/'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://shoutcast.christianrock.net/stream/10/'
-    codec: MP3
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -43,3 +33,16 @@ research:
   format: Classic rock music with Christian themes and messaging
   notes: Non-commercial Christian internet radio network based in Missouri, USA. Specializes in classic rock music within a Christian faith context, serving evangelical Protestant audiences globally.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-c7bba75d-0284-4deb-84fa-ad60318076f9
+  - iprd-us-christian-classic-rock-net-73fe7753
+  - iprd-us-crnet-classic-rock-e7c02621
+  - iprd-us-crnet-classic-rock-3f7c2a84
+streams:
+  - url: https://shoutcast.christianrock.net/stream/9/
+    codec: MP3
+    bitrate: 128
+  - url: https://shoutcast.christianrock.net/stream/10/
+    codec: MP3
+    bitrate: 32

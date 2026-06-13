@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:09:17
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-7e3e50e0-f32f-4ce9-81e5-a32aebb489da
-streams:
-  - url: 'https://st02.sslstream.dlf.de/dlf/02/low/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://st02.sslstream.dlf.de/dlf/02/low/aac/stream.aac?aggregator=web'
-    codec: AAC
-    bitrate: 48
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -40,3 +30,19 @@ research:
   format: Cultural programming, arts, literature, music, discussion, documentary content.
   notes: Deutschlandfunk Kultur is a national German public radio channel operated by Deutschlandfunk, the principal German public broadcasting organization. It emphasizes culture, the arts, and intellectual discourse. The station broadcasts terrestrially and via internet from Berlin. Part of the ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten) public broadcasting system funded by mandatory listener contributions.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-7e3e50e0-f32f-4ce9-81e5-a32aebb489da
+  - iprd-de-deutschlandfunk-kultur-7069acb6
+  - iprd-de-deutschlandfunk-kultur-e1fa2e69
+  - iprd-de-deutschlandfunk-kultur-8fa8ee82
+  - iprd-de-deutschlandfunk-kultur-aac83d67
+  - iprd-de-dlf-kultur-cf5715fc
+  - iprd-de-dlf-kultur-9c1f6139
+streams:
+  - url: https://st02.sslstream.dlf.de/dlf/02/low/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 64
+  - url: https://st02.sslstream.dlf.de/dlf/02/low/aac/stream.aac?aggregator=web
+    codec: AAC
+    bitrate: 48

@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 02:50:58
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-960648f3-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://live7.avf.ch:8000/ipmusicslowaacp128'
-    codec: AAC+
-    bitrate: 128
-  - url: 'http://live7.avf.ch:8000/ipmusicslowaacp96'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,15 @@ research:
   format: Slower-tempo popular music; easy listening pop
   notes: IP music slow is a Swiss internet radio station serving the French-speaking regions of Switzerland. Focuses on slower-paced pop music suitable for relaxation and background listening.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-960648f3-0601-11e8-ae97-52543be04c81
+  - iprd-ch-ip-music-slow-20dbec32
+  - iprd-ch-ip-music-slow-9daf7b1f
+streams:
+  - url: http://live7.avf.ch:8000/ipmusicslowaacp128
+    codec: AAC+
+    bitrate: 128
+  - url: http://live7.avf.ch:8000/ipmusicslowaacp96
+    codec: AAC+
+    bitrate: 96

@@ -23,19 +23,6 @@ lastchangetime: 2026-01-15 05:54:35
 clickcount: 1
 geo_lat: 30.289448359897246
 geo_long: -97.74119049310686
-curation: 0.65
-provenance:
-  - radiobrowser-96652982-5b37-459f-b664-ea46abe8ce5e
-streams:
-  - url: 'https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-web'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-free'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-free'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -45,3 +32,16 @@ research:
   format: 'Music-focused with eclectic coverage: indie, funk, soul, electronic, Latin, jazz, hip-hop, local Austin music; notable shows include "The Breaks," "Spare the Rock, Spoil the Child," "Horizontes," "Sunday Morning Jazz," and Studio 1A sessions'
   notes: "\"The Austin Music Experience\"; emphasizes local artist support with sessions, interviews, and community events; part of UT's Moody College; serves as incubator for Austin music scene."
   sources: https://kutx.org/
+curation: 0.65
+provenance:
+  - radiobrowser-96652982-5b37-459f-b664-ea46abe8ce5e
+streams:
+  - url: https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-web
+    codec: AAC+
+    bitrate: 64
+  - url: https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-free
+    codec: AAC+
+    bitrate: 64
+  - url: https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-free
+    codec: AAC+
+    bitrate: 48

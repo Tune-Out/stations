@@ -1,6 +1,6 @@
 stationuuid: e330ee1c-9a29-4cc7-a998-000cd12e1cd4
 name: CBC Radio One - Nord Quebec (MP3 stream)
-url: https://playerservices.streamtheworld.com/pls/CBMPFM_CBC.pls
+url: 'https://22983.live.streamtheworld.com:443/CBMPFM_CBC_SC'
 url_resolved: https://18303.live.streamtheworld.com/CBMPFM_CBC_SC
 homepage: https://www.cbc.ca/listen/live-radio
 favicon: https://www.cbc.ca/favicon.ico
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 05:11:51
 clickcount: 1
 geo_lat: 53.78599340900607
 geo_long: -78.89518260955812
-curation: 0.35
-provenance:
-  - radiobrowser-e330ee1c-9a29-4cc7-a998-000cd12e1cd4
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -37,3 +34,6 @@ research:
   format: News, public affairs, indigenous programming, features, current events programming in English and Cree languages
   notes: CBC Radio One - Nord Quebec serves northern Quebec with news, public affairs, and programming of interest to indigenous communities. Broadcasts in English and Cree from automated transmitter network. Part of Canada's national public broadcaster.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-e330ee1c-9a29-4cc7-a998-000cd12e1cd4

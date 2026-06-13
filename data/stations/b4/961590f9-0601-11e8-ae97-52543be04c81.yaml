@@ -23,16 +23,6 @@ lastchangetime: 2026-01-15 03:34:17
 clickcount: 12
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-961590f9-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://mp3channels.webradio.antenne.de/oldies-but-goldies'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://stream.oldie-antenne.de/oldie-antenne/stream/mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,17 @@ research:
   format: Oldies webstream — 60s, 70s, and early 80s pop and rock classics
   notes: Antenne Bayern's "Oldies but Goldies" is one of the private broadcaster's many digital sub-channels, launched in the 2000s as the FM main channel diversified into themed online streams; parent Antenne Bayern began terrestrial broadcasting on 1 December 1988 from Ismaning, Bavaria, and grew into one of Germany's largest commercial stations; ownership remains a consortium of regional publishers under the pluralism rules of the Bavarian regulator BLM; the oldies stream operates ad-supported and is not on FM.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-961590f9-0601-11e8-ae97-52543be04c81
+  - iprd-de-antenne-bayern-oldies-but-goldies-f8f6503d
+  - iprd-de-antenne-bayern-oldies-but-goldies-2f9dff5a
+  - iprd-de-antenne-bayern-oldies-but-goldies-6929e557
+  - iprd-de-oldie-antenne-3f94ac04
+streams:
+  - url: http://mp3channels.webradio.antenne.de/oldies-but-goldies
+    codec: MP3
+    bitrate: 128
+  - url: https://stream.oldie-antenne.de/oldie-antenne/stream/mp3
+    codec: MP3
+    bitrate: 128

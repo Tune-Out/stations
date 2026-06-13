@@ -27,21 +27,6 @@ lastchangetime: 2026-01-15 07:22:38
 clickcount: 28
 geo_lat: 18.812717856407776
 geo_long: -38.92186400853982
-curation: -0.05
-provenance:
-  - radiobrowser-65f5549e-a554-4386-9249-7f9651fd40f6
-streams:
-  - url: 'https://frontend.streamonkey.net/fho-schwarzwaldradiohifi'
-    codec: AAC
-  - url: 'https://frontend.streamonkey.net/fho-schwarzwaldradiolive/stream/aacp?minvbr=6&maxvbr=6'
-    codec: AAC
-  - url: 'https://frontend.streamonkey.net/fho-schwarzwaldradiolive/mp3-stream.m3u'
-    url_resolved: 'https://edge80.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://frontend.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=radioplayer.de&rp_source=1&&aw_0_1st.playerid=schwarzwaldradio_web&aw_0_req.userConsentV2=CQHDLsAQHDLsAAFADBDEBNFsAP_gAAAAAAYgHNQIQACAAMAAqABcADIAHgAQAAkgBOAFEALAAtABkAEIAIgARwAogBcAC-AGEAVwA1QB3AETALqAcAA_YCKgE4gLeAXmAvYBjIDLAHNAAAALDQAYAAgc0IgAwABA5oFABgACBzQSADAAEDmhUAGAAIHNDIAMAAQOaHQAYAAgc0SgAwABA5ohABgACBzRSADAAEDmi0AGAAIHNAAA.YAAAAAAAAAAA&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&=&&___cb=57098077515902'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -51,3 +36,19 @@ research:
   format: Oldies, classic hits from 1960s-1990s
   notes: Regional German radio station serving the Black Forest (Schwarzwald) region in Baden-Württemberg. Focuses on classic music from the 1960s through 1990s (60er, 70er, 80er, 90er).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-65f5549e-a554-4386-9249-7f9651fd40f6
+  - iprd-de-schwarzwaldradio-d93b6716
+streams:
+  - url: https://frontend.streamonkey.net/fho-schwarzwaldradiohifi
+    codec: AAC
+  - url: https://frontend.streamonkey.net/fho-schwarzwaldradiolive/stream/aacp?minvbr=6&maxvbr=6
+    codec: AAC
+  - url: https://frontend.streamonkey.net/fho-schwarzwaldradiolive/mp3-stream.m3u
+    url_resolved: https://edge80.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://frontend.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=radioplayer.de&rp_source=1&&aw_0_1st.playerid=schwarzwaldradio_web&aw_0_req.userConsentV2=CQHDLsAQHDLsAAFADBDEBNFsAP_gAAAAAAYgHNQIQACAAMAAqABcADIAHgAQAAkgBOAFEALAAtABkAEIAIgARwAogBcAC-AGEAVwA1QB3AETALqAcAA_YCKgE4gLeAXmAvYBjIDLAHNAAAALDQAYAAgc0IgAwABA5oFABgACBzQSADAAEDmhUAGAAIHNDIAMAAQOaHQAYAAgc0SgAwABA5ohABgACBzRSADAAEDmi0AGAAIHNAAA.YAAAAAAAAAAA&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&=&&___cb=57098077515902
+    codec: MP3
+    bitrate: 128

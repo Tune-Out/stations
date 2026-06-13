@@ -22,17 +22,6 @@ lastchangetime: 2026-01-15 06:13:09
 clickcount: 2
 geo_lat: 49.194822572491674
 geo_long: 16.602083262822486
-curation: 0.35
-provenance:
-  - radiobrowser-d4482e6e-7a01-45b3-addb-a88224d39026
-streams:
-  - url: 'https://api.play.cz/radio/radio7-32aac.m3u'
-    url_resolved: 'http://icecast8.play.cz/radio7-32aac'
-    codec: AAC+
-    bitrate: 32
-  - url: 'http://icecast8.play.cz/radio7-128.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -42,3 +31,15 @@ research:
   format: Christian programming, gospel, worship music, seasonal holiday content
   notes: Czech Christian radio station; operates as non-commercial religious broadcaster
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d4482e6e-7a01-45b3-addb-a88224d39026
+  - iprd-cz-radio-7-1096b8e3
+streams:
+  - url: https://api.play.cz/radio/radio7-32aac.m3u
+    url_resolved: http://icecast8.play.cz/radio7-32aac
+    codec: AAC+
+    bitrate: 32
+  - url: http://icecast8.play.cz/radio7-128.mp3
+    codec: MP3
+    bitrate: 128

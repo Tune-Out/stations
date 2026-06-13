@@ -20,14 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d04248fb-040c-11e9-a1be-52543be04c81
-streams:
-  - url: 'https://kohina.duckdns.org/icecast/stream.ogg'
-    codec: OGG
-  - url: 'https://player.kohina.com/icecast/stream.aac'
-    codec: AAC
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -37,3 +29,12 @@ research:
   format: Chiptune and video game music streaming, community-oriented specialty channel
   notes: Kohina specializes in retro gaming soundtracks and chiptunes; operates via community-run streaming infrastructure (DuckDNS); OGG format streaming
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d04248fb-040c-11e9-a1be-52543be04c81
+  - iprd-fr-kohina-747d6d98
+streams:
+  - url: https://kohina.duckdns.org/icecast/stream.ogg
+    codec: OGG
+  - url: https://player.kohina.com/icecast/stream.aac
+    codec: AAC

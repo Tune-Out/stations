@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:38:30
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.40
-provenance:
-  - radiobrowser-9622c787-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://94.23.66.155:9196/rgwlow'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://94.23.66.155:9196/rgwhigh'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,15 @@ research:
   format: German-language programming featuring folk music, traditional Alpine culture, and community content
   notes: Radio Grüne Welle (Green Wave Radio) is a community/cultural broadcaster based in Bolzano, South Tyrol. Serves the German-speaking population of the autonomous region with folk music, Alpine traditions, and cultural preservation focus. Church-affiliated programming component (Kirchensender).
   sources: internal knowledge only
+curation: 0.4
+provenance:
+  - radiobrowser-9622c787-0601-11e8-ae97-52543be04c81
+  - iprd-it-radio-gr-ne-welle-f2f0eda7
+  - iprd-it-radio-gr-ne-welle-c5ee00dd
+streams:
+  - url: http://94.23.66.155:9196/rgwlow
+    codec: AAC+
+    bitrate: 64
+  - url: http://94.23.66.155:9196/rgwhigh
+    codec: MP3
+    bitrate: 128

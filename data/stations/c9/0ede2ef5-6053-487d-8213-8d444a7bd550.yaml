@@ -1,7 +1,7 @@
 stationuuid: 0ede2ef5-6053-487d-8213-8d444a7bd550
 name: Triple H - Horsham - 96.5 FM (MP3)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/3HHH.mp3
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/3HHH.mp3
+url: 'http://28863.live.streamtheworld.com:80/3HHH.mp3'
+url_resolved: 'http://28863.live.streamtheworld.com:80/3HHH.mp3'
 homepage: https://www.tripleh965fm.org.au/
 favicon: https://i.ibb.co/pX3NxKf/2020-3-9-3-HHH-1500px.webp
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 06:04:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-0ede2ef5-6053-487d-8213-8d444a7bd550
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -34,3 +31,6 @@ research:
   format: Diverse music (easy listening, adult contemporary), local news, talk shows, community programming; Ofcom-licensed community radio
   notes: Community radio on 96.5 FM serving approximately 12,000 population in Horsham; runs 7am-10pm daily; membership $10/year; studios at Old Police Station; founded 2019
   sources: https://www.tripleh965fm.org.au/, https://en.wikipedia.org/wiki/Triple_H_(Horsham)
+curation: 0.6
+provenance:
+  - radiobrowser-0ede2ef5-6053-487d-8213-8d444a7bd550

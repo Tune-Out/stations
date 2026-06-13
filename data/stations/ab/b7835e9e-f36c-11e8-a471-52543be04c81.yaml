@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 01:19:59
 clickcount: 3
 geo_lat: 50.3115
 geo_long: 11.923
-curation: 0.30
-provenance:
-  - radiobrowser-b7835e9e-f36c-11e8-a471-52543be04c81
-streams:
-  - url: 'https://1a-schlagergold.radionetz.de/1a-schlagergold.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,15 @@ research:
   format: Hits-based music with 25 specialized channels spanning 1950s-2000s, rock, pop, schlager, jazz, rap; tagline "Alle Hits – jederzeit, jeden Tag!" (All hits—anytime, every day)
   notes: German commercial online radio operated by entire media GmbH (VAT DE218724199) based in Hof, Bavaria. Multichannel format covering classic hits, schlager, and era-specific music. Real-time playlist display. Works with audimark GmbH for advertising and audience analytics. Established streaming service for German hits market.
   sources: https://www.1aradio.com/
+curation: 0.3
+provenance:
+  - radiobrowser-b7835e9e-f36c-11e8-a471-52543be04c81
+  - iprd-de-1a-schlager-gold-3f7bcaa4
+  - iprd-de-1a-schlager-gold-ac40cf22
+streams:
+  - url: https://1a-schlagergold.radionetz.de/1a-schlagergold.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3
+    codec: MP3
+    bitrate: 128

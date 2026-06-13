@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 06:03:28
 clickcount: 30
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-02a0222a-f54f-11e8-a471-52543be04c81
-streams:
-  - url: 'http://streams.extrafm.hr:8110/;'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://streams.extrafm.hr:8110/stream?2701'
-    codec: AAC+
-    bitrate: 96
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,14 @@ research:
   format: Croatian folk music
   notes: Zagreb-based radio station; streams via extrafm.hr infrastructure; focuses on traditional Croatian and Balkan folk traditions
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-02a0222a-f54f-11e8-a471-52543be04c81
+  - iprd-hr-extra-fm-cd062a8f
+streams:
+  - url: http://streams.extrafm.hr:8110/;
+    codec: AAC+
+    bitrate: 96
+  - url: http://streams.extrafm.hr:8110/stream?2701
+    codec: AAC+
+    bitrate: 96

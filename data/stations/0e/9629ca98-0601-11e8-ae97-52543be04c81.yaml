@@ -24,16 +24,6 @@ lastchangetime: 2026-01-15 03:47:10
 clickcount: 7
 geo_lat: null
 geo_long: null
-curation: 0.55
-provenance:
-  - radiobrowser-9629ca98-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://wkcr.streamguys1.com/live'
-    codec: MP3
-    bitrate: 160
-  - url: 'https://wkcr.streamguys1.com/live'
-    codec: MP3
-    bitrate: 160
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +33,14 @@ research:
   format: jazz, alternative, art music, spoken word, eclectic programming; student-hosted shows
   notes: Student-run volunteer station founded 1948; operates independently within Columbia University framework; known for jazz, free-form programming, community engagement; broadcast on 89.9 FM (terrestrial) and online
   sources: https://www.cc-seas.columbia.edu/wkcr/
+curation: 0.55
+provenance:
+  - radiobrowser-9629ca98-0601-11e8-ae97-52543be04c81
+  - iprd-us-wkcr-89-9-columbia-university-ade1eba5
+streams:
+  - url: http://wkcr.streamguys1.com/live
+    codec: MP3
+    bitrate: 160
+  - url: https://wkcr.streamguys1.com/live
+    codec: MP3
+    bitrate: 160

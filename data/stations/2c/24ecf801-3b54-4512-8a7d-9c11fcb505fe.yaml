@@ -25,14 +25,6 @@ lastchangetime: 2026-01-15 06:09:02
 clickcount: 4
 geo_lat: 39.93700787745963
 geo_long: -75.16159057617189
-curation: 0.35
-provenance:
-  - radiobrowser-24ecf801-3b54-4512-8a7d-9c11fcb505fe
-streams:
-  - url: 'http://stream.revma.ihrhls.com/zc1997'
-    codec: AAC
-  - url: 'https://stream.revma.ihrhls.com/zc1997'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +34,11 @@ research:
   format: Top 40 hit music and hot adult contemporary
   notes: "Philadelphia-based commercial radio (call letters WIOQ) on 102.1 FM. Branded as \"Philly's #1 Hit Music Station.\" Notable shows: Elvis Duran & The Morning Show, Rach on the Radio, Buster, The New Hit List. Community events include Q102 Beach Tour and Q102 Jingle Ball. Part of iHeartMedia network. Related Philly stations: ALT 104.5, Power 99, WDAS FM, Rumba 106.1."
   sources: https://q102.iheart.com/
+curation: 0.35
+provenance:
+  - radiobrowser-24ecf801-3b54-4512-8a7d-9c11fcb505fe
+streams:
+  - url: http://stream.revma.ihrhls.com/zc1997
+    codec: AAC
+  - url: https://stream.revma.ihrhls.com/zc1997
+    codec: AAC

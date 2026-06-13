@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 01:38:48
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-252859a8-1ed5-41cf-aa7c-9a8ab6892e8a
-streams:
-  - url: 'https://www.radioking.com/play/abc-dance/374263'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://listen.radionomy.com/abc-dance.m3u'
-    url_resolved: 'http://streamingp.shoutcast.com/JamendoLounge'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +30,15 @@ research:
   format: Electronic dance music specialization; House, Soulful, Electro, Deep Dance, Deep House, Nu Disco, Soul, Pop Dance, and Electro Pop
   notes: 'French web radio station operated by StellarMedia. Offers HD audio without advertisements. Notable shows include "WARM Global Dance Radio Chart" (Saturdays 6 PM) featuring weekly top 20, and "DJ PAPA T Drive Time Beatz" (Saturdays 7 PM). Resident DJs include Sebastien Adonis, Laurent Schark, and DJ-E Flau. Accessible via website, Android app, Amazon Alexa, Sonos, TuneIn, Freebox, Orange, Radio.fr, and Radio Garden. Tagline: "LA webradio à écouter."'
   sources: https://www.abcdanceradio.com/
+curation: 0.35
+provenance:
+  - radiobrowser-252859a8-1ed5-41cf-aa7c-9a8ab6892e8a
+  - iprd-fr-abc-dance-bd2cb867
+streams:
+  - url: https://www.radioking.com/play/abc-dance/374263
+    codec: MP3
+    bitrate: 192
+  - url: http://listen.radionomy.com/abc-dance.m3u
+    url_resolved: http://streamingp.shoutcast.com/JamendoLounge
+    codec: MP3
+    bitrate: 128

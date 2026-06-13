@@ -1,7 +1,7 @@
 stationuuid: 6e9b824e-d81e-4b87-b58b-a57454079455
 name: KIIS 97.3 - Brisbane - 97.3 FM (AAC)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FMAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FMAAC.aac
+url: 'http://28793.live.streamtheworld.com:80/ARN_973FMAAC.aac'
+url_resolved: 'http://28793.live.streamtheworld.com:80/ARN_973FMAAC.aac'
 homepage: https://www.973fm.com.au/
 favicon: https://www.973fm.com.au/wp-content/uploads/sites/6/2022/12/cropped-kiis973-logo-512x512-1-1.png?w=180
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 03:52:28
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6e9b824e-d81e-4b87-b58b-a57454079455
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Hot adult contemporary music with talk-driven breakfast and drive shows
   notes: Brisbane FM station on 97.3 MHz, rebranded from "97.3 FM" to "KIIS 97.3" as ARN extended its KIIS Network nationally in the early 2020s; ARN acquired the station as part of its growth from the 2000s onward, alongside the legacy DMG-derived 4BH and 97.3 FM brand; the station's Brisbane breakfast show has featured high-profile hosts (historically Robin, Terry & Bob; later Bianca, Mike & Bob) and competes locally with Nova 106.9 and Triple M; ARN is one of Australia's two dominant commercial radio operators (along with SCA / Nova Entertainment).
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6e9b824e-d81e-4b87-b58b-a57454079455

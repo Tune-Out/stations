@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 01:49:53
 clickcount: 8
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-678cb641-f43d-456b-8980-cba70cb7c414
-streams:
-  - url: 'https://stream.dbmedia.se/gk80tal96'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://stream.dbmedia.se/gk90tal96'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: 1980s hits and retro music programming; part of themed decade-based station network
   notes: Web-based commercial radio offering era-specific music channels (60s-90s), regional variations, and specialty formats like country and dansband (Swedish folk dance band) music. No original programming or news content identified.
   sources: https://playnow.se/guldkanalen-webbradio/
+curation: -0.05
+provenance:
+  - radiobrowser-678cb641-f43d-456b-8980-cba70cb7c414
+streams:
+  - url: https://stream.dbmedia.se/gk80tal96
+    codec: AAC+
+    bitrate: 128
+  - url: https://stream.dbmedia.se/gk90tal96
+    codec: AAC+
+    bitrate: 128

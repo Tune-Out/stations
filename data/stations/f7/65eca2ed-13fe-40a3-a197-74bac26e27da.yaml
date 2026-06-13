@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: -20.91273222577446
 geo_long: -46.9838047027588
-curation: -0.05
-provenance:
-  - radiobrowser-65eca2ed-13fe-40a3-a197-74bac26e27da
-streams:
-  - url: 'https://str02.kfmidia.com.br:8084/stream'
-    codec: AAC+
-    bitrate: 320
-  - url: 'https://str02.kfmidia.com.br:8084/stream?1771932832560'
-    codec: AAC+
-    bitrate: 104
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Pop music, contemporary hits
   notes: Commercial FM radio station broadcasting on 89.7 MHz in Minas Gerais. Focused on pop music and contemporary hits.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-65eca2ed-13fe-40a3-a197-74bac26e27da
+streams:
+  - url: https://str02.kfmidia.com.br:8084/stream
+    codec: AAC+
+    bitrate: 320
+  - url: https://str02.kfmidia.com.br:8084/stream?1771932832560
+    codec: AAC+
+    bitrate: 104

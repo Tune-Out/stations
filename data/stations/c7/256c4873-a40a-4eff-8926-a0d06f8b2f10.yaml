@@ -21,14 +21,6 @@ lastchangetime: 2026-01-15 00:34:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-256c4873-a40a-4eff-8926-a0d06f8b2f10
-streams:
-  - url: 'http://radiorecord.hostingradio.ru/mf96.aacp'
-    codec: AAC
-  - url: 'https://radiorecord.hostingradio.ru/mf96.aacp'
-    codec: AAC
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +30,12 @@ research:
   format: Electronic and dance music streaming; 100+ channels including Trancemission, House Hits, Techno, Trap, Reggae, Rock (Foucault's Pendulum channel is a dance/electronic specialty stream)
   notes: Major Russian streaming platform offering premium ad-free subscription. Multiple genre-specific channels, DJs, music charts (Superchart, Club chart). Mobile apps on Google Play, Apple App Store, Huawei AppGallery. Social presence on VK, OK.ru, YouTube, Telegram.
   sources: http://radiorecord.ru/
+curation: 0.2
+provenance:
+  - radiobrowser-256c4873-a40a-4eff-8926-a0d06f8b2f10
+  - iprd-ru-radio-rekord-mayatnik-fuko-594056b3
+streams:
+  - url: http://radiorecord.hostingradio.ru/mf96.aacp
+    codec: AAC
+  - url: https://radiorecord.hostingradio.ru/mf96.aacp
+    codec: AAC

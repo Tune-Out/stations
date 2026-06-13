@@ -21,17 +21,6 @@ lastchangetime: 2026-01-15 00:06:32
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-7b5f8a6e-8795-11e9-aa30-52543be04c81
-streams:
-  - url: 'http://eco.onestreaming.com:8203/stream'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://live3.istoikona.net:8203/stream.m3u'
-    url_resolved: 'http://live3.istoikona.net:8203/stream'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -41,3 +30,15 @@ research:
   format: 24/7 bilingual (Greek/English) — unique in Europe; live programming 7am-10pm weekdays, 7am-5pm weekends; hourly news with local provision
   notes: Founded as pirate station 1983; licensed November 13, 1989 — first-ever British ethnic minority radio station; mission to preserve Greek/Cypriot culture and heritage; broadcasts on 103.3 FM London, DAB in Birmingham/Manchester
   sources: https://en.wikipedia.org/wiki/London_Greek_Radio, https://lgr.co.uk/
+curation: 0.6
+provenance:
+  - radiobrowser-7b5f8a6e-8795-11e9-aa30-52543be04c81
+  - iprd-gb-london-greek-radio-103-3-27b13297
+streams:
+  - url: http://eco.onestreaming.com:8203/stream
+    codec: MP3
+    bitrate: 128
+  - url: http://live3.istoikona.net:8203/stream.m3u
+    url_resolved: http://live3.istoikona.net:8203/stream
+    codec: MP3
+    bitrate: 128

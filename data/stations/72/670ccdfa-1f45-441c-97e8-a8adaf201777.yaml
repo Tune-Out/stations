@@ -1,7 +1,7 @@
 stationuuid: 670ccdfa-1f45-441c-97e8-a8adaf201777
 name: LOS40 Veracruz - 98.9 FM - XHWB-FM - Radiópolis - Veracruz, Veracruz
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
+url: 'https://15723.live.streamtheworld.com:443/LOS40_VERAAC.aac'
+url_resolved: 'https://15723.live.streamtheworld.com:443/LOS40_VERAAC.aac'
 homepage: https://los40.com.mx/
 favicon: https://cdn-profiles.tunein.com/s185135/images/logod.jpg
 tags:
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 01:06:06
 clickcount: 1
 geo_lat: 19.16582172444077
 geo_long: -96.13091021776202
-curation: -0.05
-provenance:
-  - radiobrowser-670ccdfa-1f45-441c-97e8-a8adaf201777
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,6 @@ research:
   format: Contemporary hits radio (CHR/Top 40) with Spanish and English pop music; entertainment and talk programming
   notes: Mexican commercial station part of Los40 international network; broadcasts pop music, contemporary hits, and entertainment content in Veracruz
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-670ccdfa-1f45-441c-97e8-a8adaf201777

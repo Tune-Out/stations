@@ -19,16 +19,6 @@ lastchangetime: 2026-02-05 05:09:04
 clickcount: 1
 geo_lat: 47.60315376826435
 geo_long: -122.3280419626876
-curation: 0.65
-provenance:
-  - radiobrowser-81696bc0-c341-4533-a67f-4342ba73db8c
-streams:
-  - url: 'https://knkx-live-a.edge.audiocdn.com/6285_128k?aw_0_1st.playerid=knkx.org'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://knkx-live-a.edge.audiocdn.com/6285_128k?aw_0_1st.playerid=jazz24.org&uuid=2kjxxims'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -38,3 +28,13 @@ research:
   format: Jazz, blues, public radio programming
   notes: KNKX Seattle public radio station (formerly KPLU); NPR-affiliated non-profit public radio broadcaster in Pacific Northwest; serves Seattle-Tacoma region with jazz and public radio programming.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-81696bc0-c341-4533-a67f-4342ba73db8c
+streams:
+  - url: https://knkx-live-a.edge.audiocdn.com/6285_128k?aw_0_1st.playerid=knkx.org
+    codec: MP3
+    bitrate: 128
+  - url: https://knkx-live-a.edge.audiocdn.com/6285_128k?aw_0_1st.playerid=jazz24.org&uuid=2kjxxims
+    codec: MP3
+    bitrate: 128

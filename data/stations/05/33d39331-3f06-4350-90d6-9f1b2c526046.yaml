@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 06:20:33
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-33d39331-3f06-4350-90d6-9f1b2c526046
-streams:
-  - url: 'http://radio.el-stacja.pl:8000/elstacjaap320.ogg'
-    codec: OGG
-  - url: 'http://radio.el-stacja.pl:8000/elstacja320.ogg'
-    codec: OGG
-  - url: 'http://radio.el-stacja.pl:8000/elstacja320mp3'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +32,15 @@ research:
   format: Electronic, chillout, and electronica music.
   notes: Polish online radio station specializing in electronic and electronic dance music; high-quality 320 kbps stream.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-33d39331-3f06-4350-90d6-9f1b2c526046
+  - iprd-pl-radio-el-stacja-c1d52d47
+streams:
+  - url: http://radio.el-stacja.pl:8000/elstacjaap320.ogg
+    codec: OGG
+  - url: http://radio.el-stacja.pl:8000/elstacja320.ogg
+    codec: OGG
+  - url: http://radio.el-stacja.pl:8000/elstacja320mp3
+    codec: MP3
+    bitrate: 320

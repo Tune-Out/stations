@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:02:43
 clickcount: 10
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-3aada0cb-3d7e-48e0-8794-a3c1f8cea18a
-streams:
-  - url: 'https://psrlive2.listenon.in/arr?ah=0e81749e37789e5fb8c290926ce87e3f'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://psrweb1.listenon.in/arr?station=arrahmanradio'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: 24/7 curated music dedicated to film composer A.R. Rahman; soundtrack selections from Tamil, Hindi, Telugu, and Malayalam cinema spanning his career from 1992's Roja to present
   notes: Part of the SouthRadios.com bouquet of artist- and language-specific Indian internet radio stations (sister channels include K J Yesudas, Yuvan Shankar Raja, D Imman, Harris Jayaraj, and Anirudh dedicated stations); A.R. Rahman is the two-time Academy Award winning, two-time Grammy winning composer behind Slumdog Millionaire, Roja, Bombay, Dil Se, Lagaan, Rang De Basanti, and 127 Hours soundtracks; SouthRadios operates as an ad-supported internet broadcaster with Android and iOS apps and Chromecast support
   sources: https://southradios.com/, internal knowledge of A.R. Rahman and Indian music streaming services
+curation: 0.35
+provenance:
+  - radiobrowser-3aada0cb-3d7e-48e0-8794-a3c1f8cea18a
+streams:
+  - url: https://psrlive2.listenon.in/arr?ah=0e81749e37789e5fb8c290926ce87e3f
+    codec: AAC+
+    bitrate: 64
+  - url: http://psrweb1.listenon.in/arr?station=arrahmanradio
+    codec: AAC+
+    bitrate: 64

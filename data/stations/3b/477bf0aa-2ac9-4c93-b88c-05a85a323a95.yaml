@@ -22,17 +22,6 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 05:53:55
 clickcount: 1
-curation: 0.55
-provenance:
-  - radiobrowser-477bf0aa-2ac9-4c93-b88c-05a85a323a95
-streams:
-  - url: 'https://eu2.fastcast4u.com/proxy/radiox?mp=/1'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://eu1.fastcast4u.com:2014/listen.pls'
-    url_resolved: 'http://eu1.fastcast4u.com:2014/stream'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +31,15 @@ research:
   format: Mixed hip-hop, jazz, news and talk programming; social radio format
   notes: Community radio station based in Cagliari, Sardinia on 96.8 FM since 1995; early European web broadcaster
   sources: https://www.radiox.it/
+curation: 0.55
+provenance:
+  - radiobrowser-477bf0aa-2ac9-4c93-b88c-05a85a323a95
+  - iprd-it-radio-x-0e9f3a4f
+streams:
+  - url: https://eu2.fastcast4u.com/proxy/radiox?mp=/1
+    codec: MP3
+    bitrate: 192
+  - url: http://eu1.fastcast4u.com:2014/listen.pls
+    url_resolved: http://eu1.fastcast4u.com:2014/stream
+    codec: MP3
+    bitrate: 192

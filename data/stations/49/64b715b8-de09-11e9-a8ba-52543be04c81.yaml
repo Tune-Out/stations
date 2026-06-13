@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-64b715b8-de09-11e9-a8ba-52543be04c81
-streams:
-  - url: 'http://streams.rpr1.de/rpr-pappnasen-128-mp3'
-    codec: AAC
-  - url: 'http://streams.rpr1.de/rpr-pappnasen-64-aac'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Commercial radio with music and entertainment programming; specific Pappnasen playlist channel.
   notes: German commercial radio station RPR1 (Rheinland-Pfalz); Pappnasen-Playlist variant; country metadata unknown but associated with German broadcaster.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-64b715b8-de09-11e9-a8ba-52543be04c81
+streams:
+  - url: http://streams.rpr1.de/rpr-pappnasen-128-mp3
+    codec: AAC
+  - url: http://streams.rpr1.de/rpr-pappnasen-64-aac
+    codec: MP3

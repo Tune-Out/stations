@@ -19,14 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-d5d72aca-447b-4d52-94dd-5d3fa817e3ea
-streams:
-  - url: 'https://stream.zeno.fm/1uphwerxpnquv'
-    codec: AAC
-  - url: 'https://stream.zeno.fm/vzrt2visttbvv'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -36,3 +28,11 @@ research:
   format: Local commercial radio; contemporary hits and entertainment
   notes: Win Radio 97.7 FM operates in Valencia City, Bukidnon province in northern Mindanao, Philippines. Community-focused commercial station serving the Bukidnon region. Presence maintained via social media and streaming platforms.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-d5d72aca-447b-4d52-94dd-5d3fa817e3ea
+streams:
+  - url: https://stream.zeno.fm/1uphwerxpnquv
+    codec: AAC
+  - url: https://stream.zeno.fm/vzrt2visttbvv
+    codec: MP3

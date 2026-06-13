@@ -21,28 +21,6 @@ lastchangetime: 2026-01-15 04:35:18
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9624489a-9323-11e8-a767-52543be04c81
-streams:
-  - url: 'http://tx.sharp-stream.com/http_live.php?i=midwestfmie2.aac&device=website'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs21.aac&device=bfbs_rewind'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://tx.sharp-stream.com/http_live.php?i=1458.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://tx.sharp-stream.com/http_live.php?i=svenskpop_se_mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://tx.sharp-stream.com/http_live.php?i=thamesradio.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -52,3 +30,26 @@ research:
   format: Swedish popular music; curated pop music programming
   notes: Swedish commercial radio station part of the RadioPlay platform (MTG subsidiary). Serves Stockholm with 128 kbps MP3 streaming. RadioPlay operates a network of music format stations across Sweden including pop, rock, dance, and other genres on terrestrial and digital platforms.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9624489a-9323-11e8-a767-52543be04c81
+  - iprd-se-svensk-pop-5ca68b5d
+streams:
+  - url: http://tx.sharp-stream.com/http_live.php?i=midwestfmie2.aac&device=website
+    codec: AAC
+    bitrate: 192
+  - url: http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac
+    codec: AAC+
+    bitrate: 96
+  - url: http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs21.aac&device=bfbs_rewind
+    codec: AAC+
+    bitrate: 64
+  - url: https://tx.sharp-stream.com/http_live.php?i=1458.mp3
+    codec: MP3
+    bitrate: 192
+  - url: http://tx.sharp-stream.com/http_live.php?i=svenskpop_se_mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://tx.sharp-stream.com/http_live.php?i=thamesradio.mp3
+    codec: MP3
+    bitrate: 128

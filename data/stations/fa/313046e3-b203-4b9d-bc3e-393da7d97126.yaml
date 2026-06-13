@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 04:13:13
 clickcount: 214
 geo_lat: 40.75166
 geo_long: -73.97538
-curation: 0.85
-provenance:
-  - radiobrowser-313046e3-b203-4b9d-bc3e-393da7d97126
-streams:
-  - url: 'https://icecast.walmradio.com:8443/walm'
-    codec: MP3
-    bitrate: 320
-  - url: 'https://icecast.walmradio.com:8443/otr'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -41,3 +31,13 @@ research:
   format: Old Time Radio (OTR) — classic 1920s–1950s American radio programs including drama, comedy, mystery, sci-fi, musicals, and V-Disc/78-rpm vintage recordings
   notes: internet-only station emphasizing curated commercial-free streaming; describes its service as "premium online radio streaming with crystal-clear audio quality"; runs sibling streams under the WALM brand at walmradio.com
   sources: https://walmradio.com/otr, internal knowledge
+curation: 0.7
+provenance:
+  - radiobrowser-313046e3-b203-4b9d-bc3e-393da7d97126
+streams:
+  - url: https://icecast.walmradio.com:8443/walm
+    codec: MP3
+    bitrate: 320
+  - url: https://icecast.walmradio.com:8443/otr
+    codec: MP3
+    bitrate: 64

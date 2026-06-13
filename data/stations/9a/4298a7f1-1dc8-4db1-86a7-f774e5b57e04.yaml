@@ -21,16 +21,6 @@ lastchangetime: 2026-01-14 23:53:14
 clickcount: 6
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-4298a7f1-1dc8-4db1-86a7-f774e5b57e04
-streams:
-  - url: 'https://usa1.fastcast4u.com/proxy/qrekthei?mp=/'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://usa1.fastcast4u.com/proxy/qrekthei?mp=/1'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,13 @@ research:
   format: Hindi music and entertainment programming
   notes: FnF (Fun and Friends) brand operating Hindi radio service accessible via fnf.fm domain. Part of commercial streaming ecosystem serving Indian Hindi-language audiences. Broadcasts contemporary Hindi music and entertainment content.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-4298a7f1-1dc8-4db1-86a7-f774e5b57e04
+streams:
+  - url: https://usa1.fastcast4u.com/proxy/qrekthei?mp=/
+    codec: MP3
+    bitrate: 64
+  - url: https://usa1.fastcast4u.com/proxy/qrekthei?mp=/1
+    codec: MP3
+    bitrate: 64

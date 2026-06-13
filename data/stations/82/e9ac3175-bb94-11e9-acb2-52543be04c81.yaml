@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 01:12:36
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-e9ac3175-bb94-11e9-acb2-52543be04c81
-streams:
-  - url: 'http://media.rtvnoord.nl/icecast/rtvnoord/radio'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://media.rtvnoord.nl/icecast/rtvnoord/radio?.pls'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -41,3 +31,15 @@ research:
   format: Local public radio with news, culture, information, and music
   notes: Regional public broadcaster serving Groningen area; part of Dutch public broadcasting system; focuses on local regional content
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-e9ac3175-bb94-11e9-acb2-52543be04c81
+  - iprd-nl-rtv-noord-cd9a977b
+  - iprd-nl-rtv-noord-97-5-11b98b9e
+streams:
+  - url: http://media.rtvnoord.nl/icecast/rtvnoord/radio
+    codec: MP3
+    bitrate: 192
+  - url: https://media.rtvnoord.nl/icecast/rtvnoord/radio?.pls
+    codec: MP3
+    bitrate: 192

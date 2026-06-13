@@ -1,6 +1,6 @@
 stationuuid: d37e53ae-a111-4d22-a43b-05b47e0fd334
 name: CFRA "News Talk Radio 580" Ottawa, ON
-url: http://provisioning.streamtheworld.com/pls/CFRAAMAAC.pls
+url: 'http://14543.live.streamtheworld.com:80/CFRAAMAAC_SC'
 url_resolved: http://18063.live.streamtheworld.com/CFRAAMAAC_SC
 homepage: https://www.iheartradio.ca/580-cfra/
 favicon: ""
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:11:33
 clickcount: 3
 geo_lat: 45.41710584618171
 geo_long: -75.68773269653322
-curation: -0.05
-provenance:
-  - radiobrowser-d37e53ae-a111-4d22-a43b-05b47e0fd334
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: News/talk with conservative-leaning hosts, traffic, weather, Ottawa Senators NHL play-by-play and Ottawa REDBLACKS CFL coverage
   notes: CFRA signed on in 1947 on 580 kHz AM; long-running flagship news/talk station for Ottawa; previously owned by CHUM Limited and Standard Broadcasting before passing to Astral Media and then Bell Media (2013); broadcasts at 50,000 watts day/night; notable hosts have included Lowell Green, Steve Madely, Bill Carroll and Evan Solomon.
   sources: internal knowledge (Bell Media / iHeartRadio Canada / CFRA history)
+curation: -0.05
+provenance:
+  - radiobrowser-d37e53ae-a111-4d22-a43b-05b47e0fd334

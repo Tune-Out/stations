@@ -1,6 +1,6 @@
 stationuuid: 9648ec03-0601-11e8-ae97-52543be04c81
 name: WSOX "96.1 SOX" Red Lion, PA
-url: http://provisioning.streamtheworld.com/pls/WSOXFMAAC.pls
+url: 'http://26443.live.streamtheworld.com:80/WSOXFMAAC_SC'
 url_resolved: http://26233.live.streamtheworld.com/WSOXFMAAC_SC
 homepage: http://www.961sox.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/3329/squareIcon.png?r=96057
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:32:41
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-9648ec03-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Classic hits format, branded as "96.1 SOX"
   notes: Commercial FM radio station at 96.1 serving the Red Lion and Susquehanna Valley area of Pennsylvania.
   sources: internal knowledge only
+curation: -0.1
+provenance:
+  - radiobrowser-9648ec03-0601-11e8-ae97-52543be04c81

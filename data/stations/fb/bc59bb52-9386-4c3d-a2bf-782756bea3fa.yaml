@@ -20,16 +20,6 @@ lastchangetime: 2026-06-08 12:10:56
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.30
-provenance:
-  - radiobrowser-bc59bb52-9386-4c3d-a2bf-782756bea3fa
-streams:
-  - url: 'https://streaming.hotmixradio.com/hotmix-metal-en-mp3?provider=radiobrowser'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://streaming.hotmixradio.com/hotmix-metal-en-mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Heavy metal, death metal, black metal, metalcore, thrash metal, nu metal
   notes: Specialized metal music stream from Hotmix Radio. Curates extensive heavy music catalog across multiple metal subgenres.
   sources: internal knowledge only
+curation: 0.3
+provenance:
+  - radiobrowser-bc59bb52-9386-4c3d-a2bf-782756bea3fa
+streams:
+  - url: https://streaming.hotmixradio.com/hotmix-metal-en-mp3?provider=radiobrowser
+    codec: MP3
+    bitrate: 128
+  - url: https://streaming.hotmixradio.com/hotmix-metal-en-mp3
+    codec: MP3
+    bitrate: 128

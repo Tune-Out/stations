@@ -19,16 +19,6 @@ lastchangetime: 2026-02-22 13:56:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-94e1f743-9035-4c18-8e9c-1488ef2baf4c
-streams:
-  - url: 'https://nagastream.brigadanews.ph/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://18.141.67.248:8052/stream/1/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: News, talk, and entertainment programming
   notes: Brigada News FM Naga is part of the Brigada News network serving Naga in Camarines Sur province. Focus on news, current affairs and local community programming.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-94e1f743-9035-4c18-8e9c-1488ef2baf4c
+streams:
+  - url: https://nagastream.brigadanews.ph/
+    codec: MP3
+    bitrate: 128
+  - url: http://18.141.67.248:8052/stream/1/
+    codec: MP3
+    bitrate: 128

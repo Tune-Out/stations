@@ -24,19 +24,6 @@ lastchangetime: 2026-04-29 10:48:34
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.60
-provenance:
-  - radiobrowser-ead63749-c64b-43f2-b3da-fe4a454c781d
-streams:
-  - url: 'https://media2.hostin.cc/psb.aac'
-    codec: AAC+
-    bitrate: 96
-  - url: 'https://media2.hostin.cc/psb.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://a11.asurahosting.com:7110/radio.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: community
@@ -46,3 +33,16 @@ research:
   format: 24/7 ambient and chillout music curated by station staff; meditation and relaxation focus
   notes: Non-commercial internet station with Buddhist-inspired ethos; tagline "Quiet is the new loud"; mission to provide handpicked ambient music promoting soul connection and tranquility; WhatsApp and email contact available; Dutch/English broadcast
   sources: https://powerstationbuddha.com/
+curation: 0.6
+provenance:
+  - radiobrowser-ead63749-c64b-43f2-b3da-fe4a454c781d
+streams:
+  - url: https://media2.hostin.cc/psb.aac
+    codec: AAC+
+    bitrate: 96
+  - url: https://media2.hostin.cc/psb.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://a11.asurahosting.com:7110/radio.mp3
+    codec: MP3
+    bitrate: 192

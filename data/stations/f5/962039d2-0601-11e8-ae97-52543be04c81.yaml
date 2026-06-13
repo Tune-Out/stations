@@ -22,15 +22,6 @@ lastchangetime: 2026-01-15 03:45:08
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: 0.50
-provenance:
-  - radiobrowser-962039d2-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.err.ee/raadio2.mp3'
-    codec: MP3
-  - url: 'http://icecast.err.ee/raadio2korge.mp3.m3u'
-    url_resolved: 'http://icecast.err.ee/raadio2korge.mp3'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -40,3 +31,13 @@ research:
   format: General public radio programming with music and talk
   notes: Raadio 2 is one of main channels of ERR, Estonia's public broadcasting corporation. Located in Tallinn, Harjumaa. Provides general interest programming for Estonian audience.
   sources: internal knowledge only
+curation: 0.5
+provenance:
+  - radiobrowser-962039d2-0601-11e8-ae97-52543be04c81
+  - iprd-ee-err-raadio-2-101-6-110c9768
+streams:
+  - url: http://icecast.err.ee/raadio2.mp3
+    codec: MP3
+  - url: http://icecast.err.ee/raadio2korge.mp3.m3u
+    url_resolved: http://icecast.err.ee/raadio2korge.mp3
+    codec: MP3

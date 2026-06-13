@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 1
 geo_lat: 44.63720190331109
 geo_long: 0.7432079315185547
-curation: -0.05
-provenance:
-  - radiobrowser-f41406ed-de66-4bad-ae3b-3f524b5ec47e
-streams:
-  - url: 'http://direct.radio4.fr:8000/radio4.mp3'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://direct.radio4.fr/radio4.mp3'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Regional commercial radio; mixed format with local emphasis
   notes: Regional commercial radio station serving Dordogne and Lot-et-Garonne departments in southwest France. Provides local news, entertainment, and music programming for rural Aquitaine communities.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-f41406ed-de66-4bad-ae3b-3f524b5ec47e
+streams:
+  - url: http://direct.radio4.fr:8000/radio4.mp3
+    codec: MP3
+    bitrate: 192
+  - url: https://direct.radio4.fr/radio4.mp3
+    codec: MP3
+    bitrate: 192

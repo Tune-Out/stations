@@ -22,16 +22,6 @@ lastchangetime: 2026-02-24 12:04:34
 clickcount: 0
 geo_lat: -29.673437122428915
 geo_long: -53.14086914062501
-curation: 0.20
-provenance:
-  - radiobrowser-8914d51f-6458-4dee-9fe8-c2993fe1ec0e
-streams:
-  - url: 'https://grenal.audiostream.com.br:20000/aac?1771934582309'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://grenal.audiostream.com.br:20000/aac'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -41,3 +31,13 @@ research:
   format: Sports, football (futebol), news and journalism; all-news format with sports emphasis
   notes: Commercial FM station (95.9); specialized in sports and football coverage for Grenal (local football clubs) region
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-8914d51f-6458-4dee-9fe8-c2993fe1ec0e
+streams:
+  - url: https://grenal.audiostream.com.br:20000/aac?1771934582309
+    codec: AAC+
+    bitrate: 48
+  - url: https://grenal.audiostream.com.br:20000/aac
+    codec: AAC+
+    bitrate: 48

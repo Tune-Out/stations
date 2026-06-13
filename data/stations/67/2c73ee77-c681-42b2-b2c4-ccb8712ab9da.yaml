@@ -1,6 +1,6 @@
 stationuuid: 2c73ee77-c681-42b2-b2c4-ccb8712ab9da
 name: CBC Music Atlantic (Halifax) MP3 Stream
-url: https://playerservices.streamtheworld.com/pls/CBH_CBC.pls
+url: 'https://26733.live.streamtheworld.com:443/CBH_CBC_SC'
 url_resolved: https://26283.live.streamtheworld.com/CBH_CBC_SC
 homepage: https://www.cbc.ca/music
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 00:05:08
 clickcount: 2
 geo_lat: 44.644426569228315
 geo_long: -63.58509063720704
-curation: 0.55
-provenance:
-  - radiobrowser-2c73ee77-c681-42b2-b2c4-ccb8712ab9da
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -37,3 +34,6 @@ research:
   format: Eclectic music station featuring blues, classical, folk, jazz, and world music
   notes: CBC Music is a digital and broadcast service of the CBC, Canada's national public broadcaster founded in 1936. Atlantic (Halifax) is one of the regional Music services. Public-funded through Canadian taxpayers and parliamentary appropriations.
   sources: internal knowledge only
+curation: 0.55
+provenance:
+  - radiobrowser-2c73ee77-c681-42b2-b2c4-ccb8712ab9da

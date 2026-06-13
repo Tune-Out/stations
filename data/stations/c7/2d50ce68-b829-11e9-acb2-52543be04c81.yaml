@@ -23,23 +23,6 @@ lastchangetime: 2026-01-15 00:34:09
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-2d50ce68-b829-11e9-acb2-52543be04c81
-duplicate_of: 960d04bf-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'https://stream.antennethueringen.de/live/mp3-128/'
-    url_resolved: 'https://edge17.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.antennethueringen.de/live/mp3-128'
-    url_resolved: 'https://edge18.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://stream.antennethueringen.de/live/mp3-128/'
-    url_resolved: 'https://edge07.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite/'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -49,3 +32,20 @@ research:
   format: Pop music and contemporary hits with regional news and local information
   notes: Regional commercial radio station serving central Thuringia with multiple transmitter zones. The "Mitte" (middle) variant serves the Jena/Erfurt/Weimar area.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-2d50ce68-b829-11e9-acb2-52543be04c81
+duplicate_of: 960d04bf-0601-11e8-ae97-52543be04c81
+streams:
+  - url: https://stream.antennethueringen.de/live/mp3-128/
+    url_resolved: https://edge17.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite/
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.antennethueringen.de/live/mp3-128
+    url_resolved: https://edge18.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite
+    codec: MP3
+    bitrate: 128
+  - url: http://stream.antennethueringen.de/live/mp3-128/
+    url_resolved: https://edge07.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite/
+    codec: MP3
+    bitrate: 128

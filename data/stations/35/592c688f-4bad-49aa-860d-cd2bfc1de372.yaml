@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 06:27:38
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-592c688f-4bad-49aa-860d-cd2bfc1de372
-streams:
-  - url: 'http://live9.avf.ch:8000/ipmusicaacplus96'
-    codec: AAC+
-    bitrate: 96
-  - url: 'http://live7.avf.ch:8000/ipmusic320'
-    codec: MP3
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Music streaming format
   notes: Swiss online radio station broadcasting music content to French-speaking Swiss audience. Streams at high bitrate (320 kbps) via AVF infrastructure.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-592c688f-4bad-49aa-860d-cd2bfc1de372
+  - iprd-ch-ip-music-4f2317c3
+  - iprd-ch-ip-music-c69d7f27
+streams:
+  - url: http://live9.avf.ch:8000/ipmusicaacplus96
+    codec: AAC+
+    bitrate: 96
+  - url: http://live7.avf.ch:8000/ipmusic320
+    codec: MP3
+    bitrate: 320

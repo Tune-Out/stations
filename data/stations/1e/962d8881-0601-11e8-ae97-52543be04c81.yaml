@@ -23,16 +23,6 @@ lastchangetime: 2026-01-14 23:42:51
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.00
-provenance:
-  - radiobrowser-962d8881-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icy.unitedradio.it/Zucchero.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://icy.unitedradio.it/Zucchero.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -42,3 +32,14 @@ research:
   format: Blues and soul music programming; dedicated Zucchero artist channel
   notes: Italian commercial radio network operating genre-specific stations. Zucchero channel focuses on blues and soul music, named after Italian rock/blues artist Zucchero Fornaciari. Part of broader Mediaset commercial radio portfolio. Operates from Lombardy region.
   sources: internal knowledge only
+curation: 0
+provenance:
+  - radiobrowser-962d8881-0601-11e8-ae97-52543be04c81
+  - iprd-it-music-star-zucchero-9b602a3f
+streams:
+  - url: http://icy.unitedradio.it/Zucchero.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://icy.unitedradio.it/Zucchero.mp3
+    codec: MP3
+    bitrate: 128

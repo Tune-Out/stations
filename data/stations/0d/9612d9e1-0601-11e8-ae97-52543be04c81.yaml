@@ -21,22 +21,6 @@ lastchangetime: 2026-01-15 01:19:21
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-9612d9e1-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://avw.mdr.de/streams/284331-6_mp3_high.m3u'
-    url_resolved: 'http://mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284331-6_mp3_low.m3u'
-    url_resolved: 'http://mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://avw.mdr.de/streams/284331-6_aac_high.m3u'
-    url_resolved: 'http://mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: public broadcaster
@@ -46,3 +30,22 @@ research:
   format: Soundcheck is a specialty show featuring new and alternative music
   notes: MDR Sputnik is a public radio station run by Mitteldeutscher Rundfunk; "Sputnik Soundcheck" is one of its specialty music programs promoting contemporary artists
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-9612d9e1-0601-11e8-ae97-52543be04c81
+  - iprd-de-mdr-sputnik-soundcheck-34e8291e
+  - iprd-de-mdr-sputnik-soundcheck-ee212e48
+  - iprd-de-mdr-sputnik-soundcheck-09af32cf
+streams:
+  - url: http://avw.mdr.de/streams/284331-6_mp3_high.m3u
+    url_resolved: http://mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284331-6_mp3_low.m3u
+    url_resolved: http://mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://avw.mdr.de/streams/284331-6_aac_high.m3u
+    url_resolved: http://mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3
+    codec: MP3
+    bitrate: 128

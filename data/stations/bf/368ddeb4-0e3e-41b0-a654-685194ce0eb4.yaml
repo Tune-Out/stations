@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 02:27:53
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-368ddeb4-0e3e-41b0-a654-685194ce0eb4
-duplicate_of: 409374c0-8343-486f-bd4d-c35fedf8b9d6
-streams:
-  - url: 'http://likeradiostream.com/dancelandanthems'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://likeradiostream.com/dancelandanthems'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: Dance anthems and pop music; 128 kbps MP3.
   notes: Like Radio operates multiple branded channels including DanceLand Anthems. Online streaming service with UK base. Targets dance music and anthem-driven pop audiences.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-368ddeb4-0e3e-41b0-a654-685194ce0eb4
+duplicate_of: 409374c0-8343-486f-bd4d-c35fedf8b9d6
+streams:
+  - url: http://likeradiostream.com/dancelandanthems
+    codec: MP3
+    bitrate: 128
+  - url: https://likeradiostream.com/dancelandanthems
+    codec: MP3
+    bitrate: 128

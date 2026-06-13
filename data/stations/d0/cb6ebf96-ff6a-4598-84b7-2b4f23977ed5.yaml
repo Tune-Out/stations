@@ -22,17 +22,6 @@ lastchangetime: 2026-04-28 09:13:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-cb6ebf96-ff6a-4598-84b7-2b4f23977ed5
-streams:
-  - url: 'https://frontend.streamonkey.net/hh2-950?aggregator=linkhamburgzweide'
-    codec: AAC
-  - url: 'https://stream.hamburg-zwei.de/live/mp3-192/tunein/play.m3u'
-    url_resolved: 'https://rhh.streamabc.net/rhh-hh2live-mp3-192-3422200?sABC=69s07n1r%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1777367582'
-    codec: MP3
-  - url: 'https://stream.hamburg-zwei.de/live/mp3-192/webplayer/?sabcsid=75591876&context=fHA6LTE=&aw_0_1st.playerId=web&aw_0_1st.skey=1777416205982&aw_0_1st.playerId=web&aw_0_1st.skey=1777416209753'
-    codec: MP3
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -42,3 +31,14 @@ research:
   format: Adult contemporary, 80s and 90s music nostalgia
   notes: Hamburg zwei is a public radio channel operated by NDR (Norddeutscher Rundfunk), part of the German ARD public broadcasting association, specializing in 80s music and nostalgia.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-cb6ebf96-ff6a-4598-84b7-2b4f23977ed5
+streams:
+  - url: https://frontend.streamonkey.net/hh2-950?aggregator=linkhamburgzweide
+    codec: AAC
+  - url: https://stream.hamburg-zwei.de/live/mp3-192/tunein/play.m3u
+    url_resolved: https://rhh.streamabc.net/rhh-hh2live-mp3-192-3422200?sABC=69s07n1r%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1777367582
+    codec: MP3
+  - url: https://stream.hamburg-zwei.de/live/mp3-192/webplayer/?sabcsid=75591876&context=fHA6LTE=&aw_0_1st.playerId=web&aw_0_1st.skey=1777416205982&aw_0_1st.playerId=web&aw_0_1st.skey=1777416209753
+    codec: MP3

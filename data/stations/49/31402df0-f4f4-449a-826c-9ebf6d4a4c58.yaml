@@ -21,9 +21,6 @@ lastchangetime: 2026-03-16 00:19:34
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.05
-provenance:
-  - radiobrowser-31402df0-f4f4-449a-826c-9ebf6d4a4c58
 research:
   reviewed_at: 2026-06-10
   nature: private
@@ -33,3 +30,6 @@ research:
   format: Test stream, experimental, 128kbps MP3.
   notes: Private radio test stream operated by Ednil in Germany. Serves as technical testing stream rather than public broadcast. Limited listener engagement.
   sources: https://radio.ednil.de/ (test stream documentation)
+curation: 0.05
+provenance:
+  - radiobrowser-31402df0-f4f4-449a-826c-9ebf6d4a4c58

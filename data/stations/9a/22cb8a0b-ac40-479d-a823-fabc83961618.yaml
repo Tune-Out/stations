@@ -1,7 +1,7 @@
 stationuuid: 22cb8a0b-ac40-479d-a823-fabc83961618
 name: 99.9 Gator Country
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/WGNEAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WGNEAAC.aac
+url: 'https://17803.live.streamtheworld.com:443/WGNEAAC.aac'
+url_resolved: 'https://17803.live.streamtheworld.com:443/WGNEAAC.aac'
 homepage: https://www.999gatorcountry.com/
 favicon: https://media-cdn.socastsrm.com/uploads/station/1823/home_screen_logo-6776160899d35.png
 tags:
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 00:23:35
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-22cb8a0b-ac40-479d-a823-fabc83961618
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Country music programming; local morning show (Amadeus & Steve, 5:30-10:00 AM); live concerts and community events
   notes: FM 99.9 Gator Country based in Middleburg, FL; emphasis on local Jacksonville community connection; operates podcasts and live concert programming
   sources: https://www.999gatorcountry.com/
+curation: 0.35
+provenance:
+  - radiobrowser-22cb8a0b-ac40-479d-a823-fabc83961618

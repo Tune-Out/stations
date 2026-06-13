@@ -19,19 +19,6 @@ lastchangetime: 2026-01-14 22:54:07
 clickcount: 6
 geo_lat: 55.32758195350942
 geo_long: 10.3436279296875
-curation: 0.20
-provenance:
-  - radiobrowser-7feafe93-aa70-4661-80e3-f3d3f370ec3d
-streams:
-  - url: 'https://netradio.classicfm.dk/cla12a'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://netradio.classicfm.dk/cla8d'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://webradio.classicfm.dk/classichorsens'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -41,3 +28,17 @@ research:
   format: Classical music and cultural programming
   notes: Classic FM Fyn is a commercial radio station broadcasting classical music to the Funen region of Denmark.
   sources: internal knowledge only
+curation: 0.2
+provenance:
+  - radiobrowser-7feafe93-aa70-4661-80e3-f3d3f370ec3d
+  - iprd-dk-classic-fm-60a8567b
+streams:
+  - url: https://netradio.classicfm.dk/cla12a
+    codec: MP3
+    bitrate: 192
+  - url: http://netradio.classicfm.dk/cla8d
+    codec: MP3
+    bitrate: 192
+  - url: http://webradio.classicfm.dk/classichorsens
+    codec: MP3
+    bitrate: 192

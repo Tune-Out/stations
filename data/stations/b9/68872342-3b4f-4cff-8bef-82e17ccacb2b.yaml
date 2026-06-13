@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:04
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-68872342-3b4f-4cff-8bef-82e17ccacb2b
-streams:
-  - url: 'https://stream1.themediasite.co.uk:8026/;?_=215164'
-    codec: MP3
-    bitrate: 192
-  - url: 'https://stream1.themediasite.co.uk:8026/;?_=54350'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Contemporary music radio; "The Most Music" format; breakfast shows, daytime, overnight programming
   notes: 'Commercial local radio station for York and North Yorkshire. Tagline: "YO1 is with you 24/7." Notable shows include YO1 Breakfast Show and YO1 Nightshift. Community initiatives include YO1 Radio Sports Awards, Race to the Altar, work experience/volunteering, and multi-platform presence (podcasts, social media, deals platform).'
   sources: https://www.yo1radio.co.uk/
+curation: 0.35
+provenance:
+  - radiobrowser-68872342-3b4f-4cff-8bef-82e17ccacb2b
+streams:
+  - url: https://stream1.themediasite.co.uk:8026/;?_=215164
+    codec: MP3
+    bitrate: 192
+  - url: https://stream1.themediasite.co.uk:8026/;?_=54350
+    codec: MP3
+    bitrate: 192

@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 00:18:06
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-7dfc847f-bf1b-11e8-aaf2-52543be04c81
-streams:
-  - url: 'http://vis.media-ice.musicradio.com/CapitalUK'
-    codec: AAC
-    bitrate: 48
-  - url: 'http://icecast.thisisdax.com/CapitalUKMP3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,14 @@ research:
   format: Hit music radio; contemporary pop, current music hits; shows include "Capital Breakfast with Jordan North, Chris Stark and Siân Welby"
   notes: "\"Capital UK\" is part of Global Media & Entertainment's commercial radio group; branded as \"The UK's No.1 Hit Music Station\"; UK-wide broadcaster; produces podcasts, curated playlists (Capital Buzz, K-Pop, Workout Hits); sister brands include Capital Dance, Capital Anthems, Capital Chill; entertainment news and music focus; good listener base (5,011 votes)"
   sources: http://www.capitalfm.com/
+curation: 0.4
+provenance:
+  - radiobrowser-7dfc847f-bf1b-11e8-aaf2-52543be04c81
+  - iprd-gb-capital-uk-95-8-c3eeb2ea
+streams:
+  - url: http://vis.media-ice.musicradio.com/CapitalUK
+    codec: AAC
+    bitrate: 48
+  - url: http://icecast.thisisdax.com/CapitalUKMP3
+    codec: MP3
+    bitrate: 128

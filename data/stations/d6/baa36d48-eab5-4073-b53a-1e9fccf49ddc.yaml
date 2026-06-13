@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 01:08:14
 clickcount: 0
 geo_lat: 51.04553840498824
 geo_long: -1.7954137340867795
-curation: 0.35
-provenance:
-  - radiobrowser-baa36d48-eab5-4073-b53a-1e9fccf49ddc
-streams:
-  - url: 'http://mscp3.live-streams.nl:8250/class-flac.flac'
-    codec: OGG
-    bitrate: 128
-  - url: 'https://mscp3.live-streams.nl:8252/class-flac.flac'
-    codec: OGG
-    bitrate: 128
-  - url: 'http://mscp3.live-streams.nl:8250/class-high.aac'
-    codec: AAC
-    bitrate: 320
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -44,3 +31,18 @@ research:
   format: Classical and orchestral music, curated for high-fidelity playback
   notes: Specialist classical streaming service run by Naim Audio, a UK high-fidelity audio equipment manufacturer. Stream in FLAC format for lossless audio quality.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-baa36d48-eab5-4073-b53a-1e9fccf49ddc
+  - iprd-gb-naim-classical-e0f75a7b
+  - iprd-gb-naim-classical-2dd3bc60
+streams:
+  - url: http://mscp3.live-streams.nl:8250/class-flac.flac
+    codec: OGG
+    bitrate: 128
+  - url: https://mscp3.live-streams.nl:8252/class-flac.flac
+    codec: OGG
+    bitrate: 128
+  - url: http://mscp3.live-streams.nl:8250/class-high.aac
+    codec: AAC
+    bitrate: 320

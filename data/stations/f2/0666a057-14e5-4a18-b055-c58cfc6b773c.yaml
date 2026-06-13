@@ -1,7 +1,7 @@
 stationuuid: 0666a057-14e5-4a18-b055-c58cfc6b773c
 name: MIX Toluca - 90.1 FM - XHENO-FM Grupo ACIR - Toluca, EM
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/XHENOFMAAC.aac
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/XHENOFMAAC.aac
+url: 'https://24153.live.streamtheworld.com:443/XHENOFMAAC.aac'
+url_resolved: 'https://24153.live.streamtheworld.com:443/XHENOFMAAC.aac'
 homepage: https://www.iheart.com/live/mix-901-toluca-6566/
 favicon: https://www.iheart.com/favicon.ico
 tags:
@@ -26,9 +26,6 @@ lastchangetime: 2026-01-15 05:54:35
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-0666a057-14e5-4a18-b055-c58cfc6b773c
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +35,6 @@ research:
   format: Retrospective hits programming from 1980s-1990s era (Queen, Metallica, Bon Jovi, INXS); current music news
   notes: Licensed as XHENO-FM (90.1 FM) in Toluca, Mexico; broadcast via iHeart digital platform; covers concert announcements, album releases
   sources: https://www.iheart.com/live/mix-901-toluca-6566/
+curation: -0.05
+provenance:
+  - radiobrowser-0666a057-14e5-4a18-b055-c58cfc6b773c

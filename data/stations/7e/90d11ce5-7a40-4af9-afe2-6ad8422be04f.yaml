@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:12
 clickcount: 0
 geo_lat: -6.07241640288977
 geo_long: -49.87586975097657
-curation: -0.05
-provenance:
-  - radiobrowser-90d11ce5-7a40-4af9-afe2-6ad8422be04f
-streams:
-  - url: 'https://azura.ez1fm.com/listen/arara_azul/radio.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://azura.ez1fm.com/listen/arara_azul/radio.mp3?ver=642094'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -39,3 +29,13 @@ research:
   format: Local pop and contemporary music
   notes: Arara Azul FM ("Blue Macaw FM") broadcasts from Pará in the Brazilian Amazon. Operates at 128 kbps with local focus.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-90d11ce5-7a40-4af9-afe2-6ad8422be04f
+streams:
+  - url: https://azura.ez1fm.com/listen/arara_azul/radio.mp3
+    codec: MP3
+    bitrate: 128
+  - url: https://azura.ez1fm.com/listen/arara_azul/radio.mp3?ver=642094
+    codec: MP3
+    bitrate: 128

@@ -1,7 +1,7 @@
 stationuuid: 932195b1-f3fd-49a6-8cdb-1c11c8501cf9
 name: 3ZZZ - Melbourne - 92.3 FM (AAC+)
-url: http://playerservices.streamtheworld.com/api/livestream-redirect/3ZZZAAC.aac
-url_resolved: http://playerservices.streamtheworld.com/api/livestream-redirect/3ZZZAAC.aac
+url: 'http://28863.live.streamtheworld.com:80/3ZZZAAC.aac'
+url_resolved: 'http://28863.live.streamtheworld.com:80/3ZZZAAC.aac'
 homepage: https://www.3zzz.com.au/
 favicon: https://i.ibb.co/7tmPDJt/627bb4981799f5e4dd566a82.webp
 tags:
@@ -20,9 +20,6 @@ lastchangetime: 2026-01-14 22:54:11
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-932195b1-f3fd-49a6-8cdb-1c11c8501cf9
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -32,3 +29,6 @@ research:
   format: Multilingual programming, talk, community affairs, and ethnic music shows
   notes: 3ZZZ is a community radio station on 92.3 FM in Melbourne serving diverse migrant and ethnic communities with programming in multiple languages.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-932195b1-f3fd-49a6-8cdb-1c11c8501cf9

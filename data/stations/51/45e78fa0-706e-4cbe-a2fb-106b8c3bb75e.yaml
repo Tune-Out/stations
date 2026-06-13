@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 08:14:13
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-45e78fa0-706e-4cbe-a2fb-106b8c3bb75e
-streams:
-  - url: 'https://us1.amfmph.com/ssl/tapsradioilagan?mp=/stream'
-    codec: AAC+
-    bitrate: 48
-  - url: 'https://us1.amfmph.com:2199/tunein/tapsradioilagan-stream.pls'
-    url_resolved: 'http://209.126.124.126:8608/stream'
-    codec: AAC+
-    bitrate: 48
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -43,3 +32,14 @@ research:
   format: College radio station with student programming, music, and educational content in English and Filipino.
   notes: Philippine college radio station operated by or affiliated with an educational institution in Ilagan, Isabela. Serves student body and local community with bilingual (English/Filipino) programming. Non-commercial educational broadcaster.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-45e78fa0-706e-4cbe-a2fb-106b8c3bb75e
+streams:
+  - url: https://us1.amfmph.com/ssl/tapsradioilagan?mp=/stream
+    codec: AAC+
+    bitrate: 48
+  - url: https://us1.amfmph.com:2199/tunein/tapsradioilagan-stream.pls
+    url_resolved: http://209.126.124.126:8608/stream
+    codec: AAC+
+    bitrate: 48

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:06
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-b00e7798-4956-4845-a3ea-f73e83f3790f
-streams:
-  - url: 'https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1711892652042l1lq6akqk'
-    codec: AAC+
-    bitrate: 128
-  - url: 'https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1'
-    codec: AAC+
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,14 @@ research:
   format: Dance music; contemporary dance format
   notes: Grand Prix Radio Dance (grandprixradio.nl); Netherlands-based commercial station; dance music specialist; serves Benelux and European dance audience; operates via StreamTheWorld platform
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-b00e7798-4956-4845-a3ea-f73e83f3790f
+  - iprd-nl-grand-prix-radio-36c1b877
+streams:
+  - url: https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1711892652042l1lq6akqk
+    codec: AAC+
+    bitrate: 128
+  - url: https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1
+    codec: AAC+
+    bitrate: 128

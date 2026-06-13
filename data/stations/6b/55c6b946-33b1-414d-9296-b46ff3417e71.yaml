@@ -1,7 +1,7 @@
 stationuuid: 55c6b946-33b1-414d-9296-b46ff3417e71
 name: JOY TÜRK fm
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3
+url: 'https://22593.live.streamtheworld.com:443/JOY_TURK_ITUNES.mp3'
+url_resolved: 'https://22593.live.streamtheworld.com:443/JOY_TURK_ITUNES.mp3'
 homepage: https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-03-25 06:43:48
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-55c6b946-33b1-414d-9296-b46ff3417e71
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Music-oriented Turkish commercial radio
   notes: Turkish commercial FM radio station; streams via SHOUTcast/StreamTheWorld platform
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-55c6b946-33b1-414d-9296-b46ff3417e71

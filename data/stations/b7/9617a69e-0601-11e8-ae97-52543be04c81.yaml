@@ -23,17 +23,6 @@ lastchangetime: 2026-01-15 05:42:32
 clickcount: 2
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9617a69e-0601-11e8-ae97-52543be04c81
-duplicate_of: 960c17c6-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://generationfm.ice.infomaniak.ch/generationfm-high.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://generationfm.ice.infomaniak.ch/generationfm-high.aac?i=70138'
-    codec: AAC+
-    bitrate: 64
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -43,3 +32,14 @@ research:
   format: Hip-hop, soul, R&B, urban music programming with French and international artists
   notes: Générations FM is a major French commercial radio station based in Île-de-France (Paris region), founded 1990s, specializing in hip-hop, soul, and urban music. One of France's leading youth-oriented radio stations with strong Paris metropolitan reach. Operates via Infomaniak Swiss CDN.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9617a69e-0601-11e8-ae97-52543be04c81
+duplicate_of: 960c17c6-0601-11e8-ae97-52543be04c81
+streams:
+  - url: http://generationfm.ice.infomaniak.ch/generationfm-high.aac
+    codec: AAC+
+    bitrate: 64
+  - url: https://generationfm.ice.infomaniak.ch/generationfm-high.aac?i=70138
+    codec: AAC+
+    bitrate: 64

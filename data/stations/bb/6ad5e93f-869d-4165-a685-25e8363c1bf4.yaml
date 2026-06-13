@@ -25,16 +25,6 @@ lastchangetime: 2026-01-15 02:12:25
 clickcount: 15
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-6ad5e93f-869d-4165-a685-25e8363c1bf4
-streams:
-  - url: 'https://radioplaneta.emitironline.com/radio'
-    codec: MP3
-    bitrate: 192
-  - url: 'http://radioplaneta.emitironline.com/radio'
-    codec: MP3
-    bitrate: 192
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -44,3 +34,14 @@ research:
   format: dance, house, pop and R&B contemporary hit music with dance/club-oriented programming
   notes: Radio Planeta Costa del Sol is a local commercial/independent music radio station serving the Málaga / Costa del Sol region of Andalusia, southern Spain; it programs a contemporary dance and pop music format aimed at the tourist-heavy coastal market with mixed Spanish and international hits; the station distributes through FM and online streaming.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-6ad5e93f-869d-4165-a685-25e8363c1bf4
+  - iprd-es-radio-planeta-92-8-1f45ccd3
+streams:
+  - url: https://radioplaneta.emitironline.com/radio
+    codec: MP3
+    bitrate: 192
+  - url: http://radioplaneta.emitironline.com/radio
+    codec: MP3
+    bitrate: 192

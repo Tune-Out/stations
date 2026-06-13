@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 08:15:25
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: 0.20
-provenance:
-  - radiobrowser-9613ec70-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://gene-wr11.ice.infomaniak.ch/gene-wr11.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://gene-wr11.ice.infomaniak.ch/gene-wr11.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: Specialized streams (Rap FR/US, Soul, Funk, Afrobeat, Drill & Trap, Reggaeton, Dancehall, R&B); artist channels (Booba, Jul, Ninho); news, lifestyle, sports
   notes: French commercial broadcaster; multiple regional variants (Generations 101.5 Lyon); SlowJam channel focuses on soul/slow R&B; 484 votes on directory listing
   sources: http://generations.fr/
+curation: 0.2
+provenance:
+  - radiobrowser-9613ec70-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-slowjam-af8ea4d0
+  - iprd-fr-generations-slowjam-65a24e07
+streams:
+  - url: http://gene-wr11.ice.infomaniak.ch/gene-wr11.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://gene-wr11.ice.infomaniak.ch/gene-wr11.mp3
+    codec: MP3
+    bitrate: 128

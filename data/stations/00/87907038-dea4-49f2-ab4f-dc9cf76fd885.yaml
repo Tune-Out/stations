@@ -21,19 +21,6 @@ lastchangetime: 2026-01-15 07:41:05
 clickcount: 37
 geo_lat: null
 geo_long: null
-curation: 0.65
-provenance:
-  - radiobrowser-87907038-dea4-49f2-ab4f-dc9cf76fd885
-duplicate_of: 9e3b0f8e-95d3-11e9-a605-52543be04c81
-streams:
-  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u'
-    url_resolved: 'http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -43,3 +30,16 @@ research:
   format: General interest public radio with news, information, talk, current affairs, and music programming; regional news and cultural content for Niedersachsen
   notes: NDR founded 1945 as part of post-WWII reconstruction and ARD (public broadcasting federation). NDR 2 is one of their main stations serving Lower Saxony and northern Germany. Public funding model through German radio/TV license fees.
   sources: internal knowledge only
+curation: 0.65
+provenance:
+  - radiobrowser-87907038-dea4-49f2-ab4f-dc9cf76fd885
+duplicate_of: 9e3b0f8e-95d3-11e9-a605-52543be04c81
+streams:
+  - url: https://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u
+    url_resolved: http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128

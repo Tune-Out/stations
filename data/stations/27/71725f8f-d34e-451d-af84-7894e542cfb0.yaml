@@ -24,19 +24,6 @@ lastchangetime: 2026-01-15 01:28:23
 clickcount: 3
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-71725f8f-d34e-451d-af84-7894e542cfb0
-streams:
-  - url: 'https://liveaudio.lamusica.com/NY_WPAT_icy'
-    codec: AAC
-    bitrate: 127
-  - url: 'https://liveaudio.lamusica.com/NY_WPAT_icy?listenerid=60f3f84317574cb3d1c5209e6291b271&awparams=companionAds:true&aw_0_1st.version=1.1.12:html5&aw_0_1st.playerid=lamusica.web.mobile&aw_0_1st.skey=1697376267&sw_bp=1'
-    codec: AAC
-    bitrate: 127
-  - url: 'http://liveaudio.lamusica.com/NY_WPAT_icy'
-    codec: AAC
-    bitrate: 127
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -46,3 +33,16 @@ research:
   format: Bachata music, Latin music, Latino urbano, Top 40 Latin
   notes: Commercial radio station WPAT at 93.1 FM in New York. Specializes in bachata and Latin music targeting Spanish-language audience.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-71725f8f-d34e-451d-af84-7894e542cfb0
+streams:
+  - url: https://liveaudio.lamusica.com/NY_WPAT_icy
+    codec: AAC
+    bitrate: 127
+  - url: https://liveaudio.lamusica.com/NY_WPAT_icy?listenerid=60f3f84317574cb3d1c5209e6291b271&awparams=companionAds:true&aw_0_1st.version=1.1.12:html5&aw_0_1st.playerid=lamusica.web.mobile&aw_0_1st.skey=1697376267&sw_bp=1
+    codec: AAC
+    bitrate: 127
+  - url: http://liveaudio.lamusica.com/NY_WPAT_icy
+    codec: AAC
+    bitrate: 127

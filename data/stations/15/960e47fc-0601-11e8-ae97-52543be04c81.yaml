@@ -22,14 +22,6 @@ lastchangetime: 2026-01-15 04:12:35
 clickcount: 47
 geo_lat: null
 geo_long: null
-curation: -0.10
-provenance:
-  - radiobrowser-960e47fc-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://stream.104.6rtl.com/rtl-live/mp3-192/radio-browser.info/'
-    codec: MP3
-  - url: 'http://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-192-4947175'
-    codec: MP3
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -39,3 +31,12 @@ research:
   format: Contemporary hit radio (CHR) with music, comedy, and entertainment; morning show "Arno und die Morgencrew"
   notes: Based in Berlin; comedy and entertainment focus alongside music programming; partnerships with Eurowings, HateAid
   sources: http://www.104.6rtl.com/
+curation: -0.1
+provenance:
+  - radiobrowser-960e47fc-0601-11e8-ae97-52543be04c81
+  - iprd-de-rtl-104-6-14b225ce
+streams:
+  - url: http://stream.104.6rtl.com/rtl-live/mp3-192/radio-browser.info/
+    codec: MP3
+  - url: http://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-192-4947175
+    codec: MP3

@@ -1,6 +1,6 @@
 stationuuid: 9648e3bd-0601-11e8-ae97-52543be04c81
 name: KDUS "NBC Sports 1060" Tempe, AZ
-url: http://provisioning.streamtheworld.com/pls/KDUSAMAAC.pls
+url: 'http://16643.live.streamtheworld.com:80/KDUSAMAAC_SC'
 url_resolved: http://17843.live.streamtheworld.com:3690/KDUSAMAAC_SC
 homepage: http://nbcsports1060.com/
 favicon: https://kdus1060.com/wp-content/uploads/2020/08/cropped-FAVICON_KDUS-180x180.png
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-14 23:17:02
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9648e3bd-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Sports radio; NBC Sports 1060 format, talk radio for sports enthusiasts
   notes: Arizona sports radio affiliate of NBC Sports. KDUS 1060 AM operates out of Tempe serving Phoenix metropolitan area with live sports coverage and analysis.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9648e3bd-0601-11e8-ae97-52543be04c81

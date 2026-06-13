@@ -22,16 +22,6 @@ lastchangetime: 2026-01-15 05:51:16
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9f4e21c3-3e9f-11e9-aa55-52543be04c81
-streams:
-  - url: 'http://s3.onweb.gr:8462/'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://s3.onweb.gr:8462/;'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -41,3 +31,14 @@ research:
   format: Orthodox Christian religious programming, ecclesiastical content, liturgical services
   notes: Άγιος Σπυρίδων (Saint Spyridon) 91.1 is a religious radio station operated by the Greek Orthodox Metropolis of Corfu, broadcasting Orthodox Christian content, liturgical services, and religious instruction to the Orthodox Christian community.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9f4e21c3-3e9f-11e9-aa55-52543be04c81
+  - iprd-gr-agios-spyridon-91-1-03b1f34d
+streams:
+  - url: http://s3.onweb.gr:8462/
+    codec: MP3
+    bitrate: 128
+  - url: http://s3.onweb.gr:8462/;
+    codec: MP3
+    bitrate: 128

@@ -19,16 +19,6 @@ lastchangetime: 2026-01-14 22:54:09
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-9ba34fca-3e00-4481-a670-5b0337a824a9
-streams:
-  - url: 'https://happyfuerteventura.streaming-pro.com:6003/live'
-    codec: MP3
-    bitrate: 128
-  - url: 'https://control.streaming-pro.com:6003/live'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -38,3 +28,13 @@ research:
   format: Contemporary hit music and entertainment radio for island community.
   notes: HappyFM-Fuerteventura is a commercial radio station serving Fuerteventura in the Canary Islands, Spain. Part of HappyFM radio network operating multiple regional stations across Spain.
   sources: internal knowledge only
+curation: 0.35
+provenance:
+  - radiobrowser-9ba34fca-3e00-4481-a670-5b0337a824a9
+streams:
+  - url: https://happyfuerteventura.streaming-pro.com:6003/live
+    codec: MP3
+    bitrate: 128
+  - url: https://control.streaming-pro.com:6003/live
+    codec: MP3
+    bitrate: 128

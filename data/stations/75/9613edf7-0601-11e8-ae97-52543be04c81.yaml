@@ -21,16 +21,6 @@ lastchangetime: 2026-01-15 04:30:45
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9613edf7-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://generations-njs.ice.infomaniak.ch/generations-njs.aac'
-    codec: AAC+
-    bitrate: 64
-  - url: 'http://generations-njs.ice.infomaniak.ch/generations-njs.mp3'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -40,3 +30,15 @@ research:
   format: New Jack Swing and R&B music format.
   notes: French commercial radio station with music programming. Generations operates multiple format channels. NewJack channel focuses on New Jack Swing and R&B genres popular in 1990s.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9613edf7-0601-11e8-ae97-52543be04c81
+  - iprd-fr-generations-newjack-61c8650d
+  - iprd-fr-generations-newjack-eb286b66
+streams:
+  - url: http://generations-njs.ice.infomaniak.ch/generations-njs.aac
+    codec: AAC+
+    bitrate: 64
+  - url: http://generations-njs.ice.infomaniak.ch/generations-njs.mp3
+    codec: MP3
+    bitrate: 128

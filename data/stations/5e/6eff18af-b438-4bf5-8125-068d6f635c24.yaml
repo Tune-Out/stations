@@ -20,16 +20,6 @@ lastchangetime: 2026-01-14 22:54:10
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-6eff18af-b438-4bf5-8125-068d6f635c24
-streams:
-  - url: 'https://sonic.portalfoxmix.cl:7046/;'
-    codec: AAC+
-    bitrate: 64
-  - url: 'https://sonic.portalfoxmix.cl:7045/;'
-    codec: AAC+
-    bitrate: 36
 research:
   reviewed_at: 2026-06-10
   nature: community
@@ -39,3 +29,13 @@ research:
   format: 'Ranchera music and cumbias, specializing in Latin American genres. Tagline: "LOS MAESTROS DE LA MUSICA RANCHERA Y CUMBIAS" (masters of ranchera and cumbia music)'
   notes: Community radio serving rural Los Ríos Region of Chile; emphasis on traditional Latin American musical genres
   sources: https://radiopicaronachile.cl/
+curation: 0.35
+provenance:
+  - radiobrowser-6eff18af-b438-4bf5-8125-068d6f635c24
+streams:
+  - url: https://sonic.portalfoxmix.cl:7046/;
+    codec: AAC+
+    bitrate: 64
+  - url: https://sonic.portalfoxmix.cl:7045/;
+    codec: AAC+
+    bitrate: 36

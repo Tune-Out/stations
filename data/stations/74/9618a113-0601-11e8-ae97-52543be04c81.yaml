@@ -22,19 +22,6 @@ lastchangetime: 2026-01-15 01:50:53
 clickcount: 4
 geo_lat: null
 geo_long: null
-curation: 1.00
-provenance:
-  - radiobrowser-9618a113-0601-11e8-ae97-52543be04c81
-streams:
-  - url: 'http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac'
-    codec: AAC
-    bitrate: 192
-  - url: 'http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3'
-    codec: MP3
-    bitrate: 128
-  - url: 'http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3?ID=f9fbk29m84'
-    codec: MP3
-    bitrate: 128
 research:
   reviewed_at: 2026-06-09
   nature: public broadcaster
@@ -44,3 +31,18 @@ research:
   format: Jazz music and jazz-related programming
   notes: Part of Radio France's multi-channel webradio offering; national French cultural broadcaster
   sources: https://www.francemusique.fr/webradio-la-jazz/, internal knowledge
+curation: 1
+provenance:
+  - radiobrowser-9618a113-0601-11e8-ae97-52543be04c81
+  - iprd-fr-france-musique-la-jazz-1f13e790
+  - iprd-fr-france-musique-la-jazz-18476961
+streams:
+  - url: http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3
+    codec: MP3
+    bitrate: 128
+  - url: http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3?ID=f9fbk29m84
+    codec: MP3
+    bitrate: 128

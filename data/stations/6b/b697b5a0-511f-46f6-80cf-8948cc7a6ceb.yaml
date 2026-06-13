@@ -21,22 +21,6 @@ lastchangetime: 2026-01-15 00:04:28
 clickcount: 0
 geo_lat: 37.809784
 geo_long: -121.286316
-curation: 0.60
-provenance:
-  - radiobrowser-b697b5a0-511f-46f6-80cf-8948cc7a6ceb
-streams:
-  - url: 'https://somafm.com/suburbsofgoa130.pls'
-    url_resolved: 'https://ice4.somafm.com/suburbsofgoa-128-aac'
-    codec: AAC
-    bitrate: 128
-  - url: 'https://somafm.com/suburbsofgoa64.pls'
-    url_resolved: 'https://ice5.somafm.com/suburbsofgoa-64-aac'
-    codec: AAC
-    bitrate: 64
-  - url: 'https://somafm.com/suburbsofgoa32.pls'
-    url_resolved: 'https://ice4.somafm.com/suburbsofgoa-32-aac'
-    codec: AAC
-    bitrate: 32
 research:
   reviewed_at: 2026-06-10
   nature: non-commercial
@@ -46,3 +30,23 @@ research:
   format: '"Suburbs of Goa" — desi-influenced Asian music, Indian film music, Bollywood remixes, world beats, fusion electronica'
   notes: SomaFM is non-commercial, listener-supported independent radio collective based in San Francisco (California); Suburbs of Goa is curated channel mixing Indian/South Asian sounds with electronic production; 32k AAC stream
   sources: internal knowledge only
+curation: 0.6
+provenance:
+  - radiobrowser-b697b5a0-511f-46f6-80cf-8948cc7a6ceb
+  - iprd-us-somafm-suburbs-of-goa-2cf7cda8
+  - iprd-us-somafm-suburbs-of-goa-11990b20
+  - iprd-us-somafm-suburbs-of-goa-934813f5
+  - iprd-us-somafm-suburbs-of-goa-2aff4bd8
+streams:
+  - url: https://somafm.com/suburbsofgoa130.pls
+    url_resolved: https://ice4.somafm.com/suburbsofgoa-128-aac
+    codec: AAC
+    bitrate: 128
+  - url: https://somafm.com/suburbsofgoa64.pls
+    url_resolved: https://ice5.somafm.com/suburbsofgoa-64-aac
+    codec: AAC
+    bitrate: 64
+  - url: https://somafm.com/suburbsofgoa32.pls
+    url_resolved: https://ice4.somafm.com/suburbsofgoa-32-aac
+    codec: AAC
+    bitrate: 32

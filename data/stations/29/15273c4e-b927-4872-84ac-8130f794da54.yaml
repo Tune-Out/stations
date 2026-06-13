@@ -19,16 +19,6 @@ lastchangetime: 2026-06-06 16:54:20
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: 0.35
-provenance:
-  - radiobrowser-15273c4e-b927-4872-84ac-8130f794da54
-streams:
-  - url: 'https://s3.slotex.pl/shoutcast/7008/stream?sid=1'
-    codec: MP3
-    bitrate: 64
-  - url: 'https://s3.slotex.pl:7008/stream/1/'
-    codec: MP3
-    bitrate: 64
 research:
   reviewed_at: 2026-06-09
   nature: non-commercial
@@ -38,3 +28,13 @@ research:
   format: Multi-genre internet radio ("music is too beautiful to limit oneself to just one genre"); includes Top Hits compilations and AI DJ presenter
   notes: One-person operation by DJ Cris; music-focused with eclectic genre mix; available via Android app and web platform; positioning as "best music on the internet"
   sources: https://mixedplay3.wixsite.com/mastermxmusic
+curation: 0.35
+provenance:
+  - radiobrowser-15273c4e-b927-4872-84ac-8130f794da54
+streams:
+  - url: https://s3.slotex.pl/shoutcast/7008/stream?sid=1
+    codec: MP3
+    bitrate: 64
+  - url: https://s3.slotex.pl:7008/stream/1/
+    codec: MP3
+    bitrate: 64

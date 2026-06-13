@@ -1,7 +1,7 @@
 stationuuid: d56f0262-8e94-11ea-8564-52543be04c81
 name: Radio 10 Love Songs
-url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3?dist=tunein
-url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3?dist=tunein
+url: 'https://28983.live.streamtheworld.com:443/TLPSTR04.mp3?dist=tunein'
+url_resolved: 'https://28983.live.streamtheworld.com:443/TLPSTR04.mp3?dist=tunein'
 homepage: ""
 favicon: ""
 tags: []
@@ -19,9 +19,6 @@ lastchangetime: 2026-01-14 22:54:03
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-d56f0262-8e94-11ea-8564-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -31,3 +28,6 @@ research:
   format: Love songs, adult contemporary, romantic music programming
   notes: Part of StreamTheWorld's extensive catalog of branded streams. Limited metadata in catalog (no homepage/country info). Accessible via multiple platforms.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-d56f0262-8e94-11ea-8564-52543be04c81

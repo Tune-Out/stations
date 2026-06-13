@@ -1,6 +1,6 @@
 stationuuid: 9647a60a-0601-11e8-ae97-52543be04c81
 name: CP24 Audio Channel - Toronto, ON
-url: http://provisioning.streamtheworld.com/pls/TV_CP24AAC.pls
+url: 'http://29324.live.streamtheworld.com:80/TV_CP24AAC_SC'
 url_resolved: http://22113.live.streamtheworld.com/TV_CP24AAC_SC
 homepage: http://www.cp24.com/
 favicon: https://www.cp24.com/pf/resources/images/cp24/favicon.ico?d=216
@@ -22,9 +22,6 @@ lastchangetime: 2026-01-15 02:03:07
 clickcount: 1
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-9647a60a-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-10
   nature: commercial
@@ -34,3 +31,6 @@ research:
   format: Local news, traffic, weather, and current affairs 24/7
   notes: CP24 is a flagship Canadian news channel and radio service; audio stream complements its television news service; operates as commercial broadcaster in Toronto
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-9647a60a-0601-11e8-ae97-52543be04c81

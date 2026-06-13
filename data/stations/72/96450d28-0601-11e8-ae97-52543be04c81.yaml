@@ -1,6 +1,6 @@
 stationuuid: 96450d28-0601-11e8-ae97-52543be04c81
 name: Stereo Ceiba 99.9 - La Ceiba
-url: http://provisioning.streamtheworld.com/pls/RADIO_CEIBAAAC.pls
+url: 'http://27323.live.streamtheworld.com:80/RADIO_CEIBAAAC_SC'
 url_resolved: http://27383.live.streamtheworld.com/RADIO_CEIBAAAC_SC
 homepage: http://www.stereoceiba.net/
 favicon: ""
@@ -25,9 +25,6 @@ lastchangetime: 2026-01-15 06:45:25
 clickcount: 0
 geo_lat: null
 geo_long: null
-curation: -0.05
-provenance:
-  - radiobrowser-96450d28-0601-11e8-ae97-52543be04c81
 research:
   reviewed_at: 2026-06-09
   nature: commercial
@@ -37,3 +34,7 @@ research:
   format: 80s and 90s hits, Latin music, sports news, contemporary pop
   notes: Honduran commercial FM station based in La Ceiba (99.9 MHz). Emphasizes retro hits (80s/90s) and sports coverage. Serves local and broader Latin American market. 2,620 votes. AAC+ 64 kbps streaming via StreamTheWorld.
   sources: internal knowledge only
+curation: -0.05
+provenance:
+  - radiobrowser-96450d28-0601-11e8-ae97-52543be04c81
+  - iprd-hn-stereo-ceiba-99-9-491ab373
