@@ -45,6 +45,11 @@
 
   /* Layout */
   --topbar-h: 56px;
+  /* iOS standalone PWAs use `apple-mobile-web-app-status-bar-style:
+     black-translucent`, so the web view extends under the status bar. This is
+     the status-bar height on notched devices (0 everywhere it doesn't apply),
+     used to pad the sticky topbar down and to grow its grid row to match. */
+  --safe-top: env(safe-area-inset-top, 0px);
   --sidebar-w: 248px;
   --player-h: 84px;
   --container-w: 1400px;
@@ -162,7 +167,7 @@ img { display: block; max-width: 100%; height: auto; }
 .shell {
   display: grid;
   grid-template-columns: var(--sidebar-w) minmax(0, 1fr);
-  grid-template-rows: var(--topbar-h) minmax(0, 1fr) auto;
+  grid-template-rows: calc(var(--topbar-h) + var(--safe-top)) minmax(0, 1fr) auto;
   /* Belt-and-suspenders: keep the shell from ever poking past the viewport.
      The intrinsic-overflow guard on `html`/`body` (the page-level `overflow-x:
      clip` near the top of this file) is the visual safety net; this is what
@@ -207,6 +212,10 @@ img { display: block; max-width: 100%; height: auto; }
   align-items: center;
   gap: 0.75rem;
   padding-inline: clamp(0.75rem, 2vw, 1.5rem);
+  /* Push the bar's content below the iOS status bar; the (border-box) row was
+     grown by the same amount, so the visible controls keep their full height
+     while the blurred background still fills the status-bar strip. */
+  padding-block-start: var(--safe-top);
   background: color-mix(in oklab, var(--bg) 78%, transparent);
   backdrop-filter: saturate(140%) blur(14px);
   -webkit-backdrop-filter: saturate(140%) blur(14px);
@@ -578,8 +587,8 @@ img { display: block; max-width: 100%; height: auto; }
   padding: 1rem 0.75rem 1.5rem;
   overflow-y: auto;
   position: sticky;
-  inset-block-start: var(--topbar-h);
-  block-size: calc(100dvh - var(--topbar-h) - var(--player-h));
+  inset-block-start: calc(var(--topbar-h) + var(--safe-top));
+  block-size: calc(100dvh - var(--topbar-h) - var(--safe-top) - var(--player-h));
 }
 .sidebar-nav { display: flex; flex-direction: column; gap: 0.15rem; }
 .sidebar-nav a {
@@ -849,6 +858,89 @@ img { display: block; max-width: 100%; height: auto; }
 .scard-art img { width: 100%; height: 100%; object-fit: cover; }
 .scard-art-fb { position: absolute; inset: 0; display: grid; place-items: center; font-size: 1.3rem; opacity: 0; }
 .scard-art.no-art .scard-art-fb { opacity: 0.55; }
+
+/* Quick-play overlay layered over the card art. Hidden until the card is
+   hovered/focused on pointer devices; always visible on touch and for the
+   station that's currently playing (where it doubles as a pause control). The
+   button is nested inside the card's <a>, so its click handler calls
+   preventDefault() to stop the navigation. */
+.scard-art::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: color-mix(in oklab, #000 36%, transparent);
+  opacity: 0;
+  transition: opacity 120ms ease;
+  pointer-events: none;
+}
+.scard-play {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  margin: auto; /* with inset:0 + fixed size, centres the button in the art */
+  width: 34px; height: 34px;
+  display: grid; place-items: center;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--accent-fg);
+  box-shadow: 0 6px 16px -6px rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+  opacity: 0;
+  transform: scale(0.82);
+  transition: opacity 120ms ease, transform 120ms ease, background 120ms ease;
+}
+.scard-play:hover { background: color-mix(in oklab, var(--accent) 88%, white); }
+.scard-play:active { transform: scale(0.96); }
+.scard-play svg { display: block; }
+
+/* Icon slots: exactly one is visible at a time. Default = play; the active
+   station swaps to pause (playing) or a spinner (connecting). The inner
+   iconEl span carries an inline display style, so we toggle these wrappers
+   (which don't) instead. */
+.scard-play-i { display: none; align-items: center; justify-content: center; }
+.scard-play .pi-play { display: inline-flex; margin-inline-start: 2px; } /* optical-centre the triangle */
+.scard.is-playing .scard-play .pi-play { display: none; }
+.scard.is-playing .scard-play .pi-pause { display: inline-flex; }
+.scard.is-connecting .scard-play .pi-play { display: none; }
+.scard.is-connecting .scard-play .pi-spin { display: inline-flex; }
+.scard-play .pi-spin {
+  width: 16px; height: 16px;
+  border-radius: 999px;
+  border: 2px solid color-mix(in oklab, var(--accent-fg) 35%, transparent);
+  border-top-color: var(--accent-fg);
+  animation: spinner-rotate 0.85s linear infinite;
+  box-sizing: border-box;
+}
+
+/* Reveal on hover/focus (pointer devices) — gated to the art itself, so the
+   control only shows when the station icon is hovered, not the whole card.
+   :focus-within keeps it reachable by keyboard once the button takes focus. */
+@media (hover: hover) {
+  .scard-art:hover::after,
+  .scard-art:focus-within::after { opacity: 1; }
+  .scard-art:hover .scard-play,
+  .scard-art:focus-within .scard-play { opacity: 1; transform: scale(1); }
+}
+/* Touch devices have no hover state, so keep the control visible. */
+@media (hover: none) {
+  .scard-art::after { opacity: 1; }
+  .scard-play { opacity: 1; transform: scale(1); }
+}
+/* The currently-playing station keeps its control (and scrim) visible so it
+   can be paused without hovering. */
+.scard.is-active .scard-art::after { opacity: 1; }
+.scard.is-active .scard-play { opacity: 1; transform: scale(1); }
+@media (prefers-reduced-motion: reduce) {
+  .scard-play { transition: opacity 120ms ease; transform: none; }
+  .scard-art:hover .scard-play,
+  .scard-art:focus-within .scard-play,
+  .scard.is-active .scard-play { transform: none; }
+  .scard-play .pi-spin { animation: none; }
+}
+
 .scard-body { min-width: 0; }
 .scard-title {
   font-weight: 600;
