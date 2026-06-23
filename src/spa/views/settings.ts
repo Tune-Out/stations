@@ -25,6 +25,7 @@ import {
   RECENTS_MAX_FLOOR,
 } from '../store.js';
 import { skinList } from '../components/skin-list.js';
+import { themeSegments } from '../components/theme-picker.js';
 import { exportPls } from '../playlist.js';
 import type { Route } from '../router.js';
 
@@ -36,13 +37,15 @@ export async function renderSettings(_route: Route, mount: HTMLElement): Promise
   root.appendChild(el('p', { class: 'lede', text: t('settings.lede') }));
 
   // ── Appearance ─────────────────────────────────────────────────────────
-  // Only the SKIN ("Theme") picker lives here; the light/system/dark
-  // segmented control is in the topbar so a one-tap mode switch is
-  // always reachable.
+  // The light/system/dark segmented control also lives in the topbar, but
+  // that copy is hidden in the narrow (mobile) layout — so we render it here
+  // too, ensuring color mode is always changeable. The SKIN picker follows.
   {
     const card = el('article', { class: 'panel settings-panel' });
     card.appendChild(el('h2', { text: t('settings.appearance.title') }));
     card.appendChild(el('p', { class: 'muted', text: t('settings.appearance.body') }));
+    card.appendChild(el('p', { class: 'settings-section-label', text: t('theme.label') }));
+    card.appendChild(themeSegments());
     card.appendChild(el('p', { class: 'settings-section-label', text: t('theme.skin.label') }));
     card.appendChild(skinList());
     root.appendChild(card);

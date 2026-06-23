@@ -571,7 +571,10 @@ img { display: block; max-width: 100%; height: auto; }
 /* Hide some elements on small screens to keep topbar tight */
 @media (max-width: 720px) {
   .topbar-search { max-width: none; }
-  .theme-picker { display: none; }
+  /* Scoped to the topbar: the narrow layout drops this copy, but the same
+     control rendered on the Settings page stays visible so color mode is
+     always changeable on mobile. */
+  .topbar .theme-picker { display: none; }
   .lmenu-trigger-label { display: none; }
 }
 /* At phone widths the brand wordmark + search input + locale + github icons
