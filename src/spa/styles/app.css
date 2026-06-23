@@ -924,10 +924,13 @@ img { display: block; max-width: 100%; height: auto; }
   .scard-art:hover .scard-play,
   .scard-art:focus-within .scard-play { opacity: 1; transform: scale(1); }
 }
-/* Touch devices have no hover state, so keep the control visible. */
+/* Touch / mobile devices have no hover affordance, so the quick-play overlay
+   is removed entirely. display:none (rather than opacity:0) also lets taps fall
+   through to the card link instead of being caught by an invisible button —
+   on mobile, playback starts from the station page or the bottom player bar. */
 @media (hover: none) {
-  .scard-art::after { opacity: 1; }
-  .scard-play { opacity: 1; transform: scale(1); }
+  .scard-art::after,
+  .scard-play { display: none; }
 }
 /* The currently-playing station keeps its control (and scrim) visible so it
    can be paused without hovering. */
