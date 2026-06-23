@@ -35,6 +35,10 @@ export function playerBar(): HTMLElement {
   btnPrev.appendChild(iconEl('skip_previous', 22));
   const btnPlay = el('button', { class: 'player-ctl player-ctl-primary', attrs: { 'aria-label': t('station.play') } });
   const iconPlay = iconEl('play_arrow', 26);
+  // The play triangle's visual mass sits left of its geometric centre, so it
+  // reads as off-centre inside the circular button. Nudge it right to
+  // optically centre it. (The symmetric pause/spinner stay untouched.)
+  iconPlay.style.transform = 'translateX(2px)';
   const iconPause = iconEl('pause', 26);
   const spinner = el('span', { class: 'player-spinner', attrs: { 'aria-hidden': 'true' } });
   iconPause.style.display = 'none';

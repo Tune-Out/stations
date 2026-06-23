@@ -50,6 +50,9 @@
      the status-bar height on notched devices (0 everywhere it doesn't apply),
      used to pad the sticky topbar down and to grow its grid row to match. */
   --safe-top: env(safe-area-inset-top, 0px);
+  /* Bottom inset (iOS home indicator / Android gesture bar); 0 where it
+     doesn't apply. Used to lift the sticky player off the screen edge. */
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
   --sidebar-w: 248px;
   --player-h: 84px;
   --container-w: 1400px;
@@ -1661,19 +1664,32 @@ img { display: block; max-width: 100%; height: auto; }
 .player-fav[aria-pressed="true"] { color: var(--accent); }
 
 /* Mobile overrides — placed AFTER every base .player-* rule so the cascade
-   resolves in their favour. Hiding `.player-meta-right` is the load-bearing
-   line here: at desktop the player is a three-column grid (now / controls /
-   meta-right), and without this rule the right column forces the shell
-   wider than the viewport on a 375px screen. */
+   resolves in their favour. The player collapses to a compact two-row
+   mini-player: now-playing + a favorite toggle on the top row, transport
+   controls below. The right column is `auto`-width (just the heart), so it
+   no longer forces the shell past a 375px viewport the way the full
+   now/controls/meta three-column desktop grid did. The volume slider and
+   open-station link are dropped — volume is a hardware control on phones and
+   the link is redundant. */
 @media (max-width: 720px) {
   .player {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas:
+      "now fav"
+      "ctl ctl";
     height: auto;
+    column-gap: 0.5rem;
+    row-gap: 0.35rem;
     padding-block: 0.55rem;
+    /* Keep the controls clear of the iOS home indicator / Android gesture bar. */
+    padding-block-end: calc(0.55rem + var(--safe-bottom));
   }
-  .player-controls { justify-content: center; }
-  .player-meta-right { display: none; }
+  .player-now        { grid-area: now; }
+  .player-controls   { grid-area: ctl; justify-content: center; }
+  .player-meta-right { grid-area: fav; display: flex; justify-content: end; align-self: center; }
+  /* Keep only the favorite toggle in the right cluster on mobile. */
+  .player-meta-right .player-vol,
+  .player-meta-right > a { display: none; }
 }
 
 /* ─── Spinners + error states ──────────────────────── */
