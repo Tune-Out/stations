@@ -75,6 +75,18 @@ export function topbar(): HTMLElement {
   // cog + locale menu + github link. The SKIN ("Theme") picker lives in
   // the /settings page only — see src/spa/views/settings.ts.
   const right = el('div', { class: 'topbar-right' });
+  // Library (Recents + Favorites). Mobile-only — desktop reaches it via the
+  // sidebar nav, which also lists the collections inline. CSS hides this >720px.
+  const libraryLink = el('a', {
+    class: 'topbar-icon-link topbar-lib',
+    attrs: {
+      href: url('library'),
+      'aria-label': t('nav.library'),
+      title: t('nav.library'),
+    },
+    html: iconHtml('favorite_border', 20),
+  });
+  right.appendChild(libraryLink);
   right.appendChild(installButton());
   right.appendChild(themeSegments());
   const settingsLink = el('a', {
@@ -103,6 +115,9 @@ export function topbar(): HTMLElement {
     settingsLink.setAttribute('aria-label', t('settings.title'));
     settingsLink.setAttribute('title', t('settings.title'));
     settingsLink.setAttribute('href', url('settings'));
+    libraryLink.setAttribute('aria-label', t('nav.library'));
+    libraryLink.setAttribute('title', t('nav.library'));
+    libraryLink.setAttribute('href', url('library'));
   });
 
   return root;

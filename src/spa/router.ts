@@ -13,7 +13,7 @@ import { locale } from './store.js';
 import { setLocale, isSupportedLocale } from './i18n.js';
 import type { Locale } from './types.js';
 
-export type ViewName = 'home' | 'browse' | 'search' | 'station' | 'downloads' | 'about' | 'settings';
+export type ViewName = 'home' | 'browse' | 'search' | 'station' | 'downloads' | 'about' | 'settings' | 'library';
 
 export interface Route {
   locale: Locale;
@@ -49,6 +49,7 @@ export function parseLocation(): Route {
     case 'browse': view = 'browse'; break;
     case 'search': view = 'search'; break;
     case 'downloads': view = 'downloads'; break;
+    case 'library': view = 'library'; break;
     case 'about': view = 'about'; break;
     case 'settings': view = 'settings'; break;
     // /faq is folded into /about; redirect lazily by treating it as 'about'
@@ -192,6 +193,7 @@ export function url(
     case 'search':    return `/${l}/search${searchQs(opts)}`;
     case 'station':   return `/${l}/station/${opts.uuid}`;
     case 'downloads': return `/${l}/downloads`;
+    case 'library':   return `/${l}/library`;
     case 'about':     return `/${l}/about`;
     case 'settings':  return `/${l}/settings`;
   }

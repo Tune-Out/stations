@@ -519,6 +519,10 @@ img { display: block; max-width: 100%; height: auto; }
 .install-btn:active { transform: translateY(0); }
 @media (min-width: 721px) { .install-btn { display: none !important; } }
 
+/* Library shortcut in the topbar is mobile-only — on desktop the sidebar nav
+   carries the Library entry and lists Recents/Favorites inline. */
+@media (min-width: 721px) { .topbar-lib { display: none !important; } }
+
 /* ─── Install instructions modal (iOS + Android-non-Chromium fallback) ─── */
 .install-overlay {
   position: fixed; inset: 0; z-index: 1000;

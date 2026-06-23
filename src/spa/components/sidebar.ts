@@ -13,13 +13,14 @@ import { parseLocation, url, go } from '../router.js';
 import { play } from '../audio.js';
 import type { StationRef } from '../types.js';
 
-const NAV: { view: 'home' | 'browse' | 'search' | 'downloads' | 'settings' | 'about'; icon: IconName; key: string }[] = [
-  { view: 'home',      icon: 'home',     key: 'nav.home' },
-  { view: 'browse',    icon: 'explore',  key: 'nav.browse' },
-  { view: 'search',    icon: 'search',   key: 'nav.search' },
-  { view: 'downloads', icon: 'download', key: 'nav.downloads' },
-  { view: 'settings',  icon: 'settings', key: 'nav.settings' },
-  { view: 'about',     icon: 'info',     key: 'nav.about' },
+const NAV: { view: 'home' | 'browse' | 'search' | 'library' | 'downloads' | 'settings' | 'about'; icon: IconName; key: string }[] = [
+  { view: 'home',      icon: 'home',            key: 'nav.home' },
+  { view: 'browse',    icon: 'explore',         key: 'nav.browse' },
+  { view: 'search',    icon: 'search',          key: 'nav.search' },
+  { view: 'library',   icon: 'favorite_border', key: 'nav.library' },
+  { view: 'downloads', icon: 'download',        key: 'nav.downloads' },
+  { view: 'settings',  icon: 'settings',        key: 'nav.settings' },
+  { view: 'about',     icon: 'info',            key: 'nav.about' },
 ];
 
 export function sidebar(): HTMLElement {
