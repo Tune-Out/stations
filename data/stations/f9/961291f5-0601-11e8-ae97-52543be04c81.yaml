@@ -23,17 +23,19 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: non-commercial
-  operator: Association La Grosse Radio (French loi 1901 non-profit association)
-  affiliations: independent music advocacy; self-described "militant" for independent and self-produced artists
-  audience: French-speaking metal, rock and reggae fans
-  format: Webradio dedicated to metal music, with album reviews, festival coverage and interviews.
-  notes: La Grosse Radio is a French non-profit association founded in 2003 that operates three webradios (Rock, Metal, Reggae) and three associated webzines, all free, independent and ad-light. The site declares itself "3 webradios et 3 webzines gratuits, militants et 100% indépendants" and says the association "milite pour la cause des artistes indés et autoproduits sur ses radios en ligne et ses webzines." It covers major French and European festivals (Hellfest, Wacken, etc.) and is run by volunteer journalists and music enthusiasts.
-  sources: http://www.lagrosseradio.com/
-curation: 0.45
+  operator: Association La Grosse Radio (French loi 1901 non-profit)
+  affiliations: independent-artist advocacy; sister channels La Grosse Radio Rock and Reggae
+  audience: French-speaking metal fans
+  format: Metal web radio with reviews, interviews and festival coverage
+  notes: La Grosse Radio is a French loi-1901 non-profit association founded in 2003 that runs three free web radios — Rock, Métal and Reggae — alongside three matching webzines. The Métal channel is a 192 kbps stream devoted to metal in its many forms, programmed by volunteer journalists and music writers rather than by playlist software. The association describes itself as 'militant and 100% independent' and campaigns for independent and self-produced artists, giving unsigned bands airplay alongside established acts. Its editorial side covers album reviews, interviews and reporting from major French and European festivals including Hellfest and Wacken. The stream on hd.lagrosseradio.info is live.
+  sources: http://www.lagrosseradio.com/; http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
+curation: 0.52
 provenance:
   - radiobrowser-961291f5-0601-11e8-ae97-52543be04c81
+  - radiobrowser-5dd0641a-5592-414e-9cba-a76341f7bca0
+  - iprd-fr-la-grosse-radio-m-tal-934af1ed
 streams:
   - url: http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
     codec: MP3

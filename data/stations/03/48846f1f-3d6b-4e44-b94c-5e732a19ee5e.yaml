@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ua/ua.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Ukrainian public broadcasting system (Suspilne/NRCU)
+  affiliations: UA:Radio / Suspilne
+  audience: Kharkiv region, Ukraine
+  format: News/talk
+  notes: Radio Kharkiv is a regional channel of Ukraine's public broadcaster (Suspilne/UA:Radio system) serving Kharkiv, a frontline city during the Russian invasion. It carries news and talk programming, providing an important information source for the region amid ongoing wartime conditions.
+  sources: 'IPRD: streams/ua/ua.m3u; https://ukrtvr.org'
+curation: 0.30
 provenance:
   - iprd-ua-radio-kharkiv-50d568c1

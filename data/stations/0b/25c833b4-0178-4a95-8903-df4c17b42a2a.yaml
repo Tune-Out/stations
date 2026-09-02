@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pt/pt.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Terra Nova (Rádio Terra Nova) is a Portuguese commercial pop/top-40 radio station.
+  sources: no additional web sources found beyond YAML metadata
+curation: 0.10
+duplicate_of: 96192def-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-pt-terra-nova-105-0-d4a2b6a0

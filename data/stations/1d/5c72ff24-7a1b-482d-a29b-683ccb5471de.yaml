@@ -36,11 +36,15 @@ curation: 0.35
 provenance:
   - radiobrowser-5c72ff24-7a1b-482d-a29b-683ccb5471de
   - iprd-au-harman-radio-australia-dfdde89a
+  - radiobrowser-95e9ceac-e651-4f6f-ac1d-bee28b741841
 streams:
   - url: http://harmanradio.net:8000/main_48.mp3
     codec: MP3
     bitrate: 48
   - url: https://radio.sanbroz.com/public/harman_radio_australia/playlist.pls
     url_resolved: https://radio.sanbroz.com/listen/harman_radio_australia/radio.mp3
+    codec: MP3
+    bitrate: 48
+  - url: 'http://harmanradio.net:8000/channel1_HQ.mp3'
     codec: MP3
     bitrate: 48

@@ -33,10 +33,19 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-d6a5c066-62c8-4f88-bd72-2b9b03330f2a
+  - radiobrowser-505a72f4-2a15-4672-a857-945f7cdd9b51
+  - radiobrowser-99dde3a3-de23-4705-8b34-d98689f17ccf
+  - iprd-pl-radio-plus-ec7defbe
 streams:
   - url: http://waw.ic.smcdn.pl/4990-1.aac
     codec: AAC+
     bitrate: 64
   - url: https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02
+    codec: MP3
+    bitrate: 128
+  - url: 'http://plus-warszawa-01.eurozet.pl:8500/listen.pls'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ic1.smcdn.pl/4990-1.mp3'
     codec: MP3
     bitrate: 128

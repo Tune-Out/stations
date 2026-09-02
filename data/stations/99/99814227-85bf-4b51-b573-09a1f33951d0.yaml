@@ -31,3 +31,10 @@ research:
 curation: 0.3
 provenance:
   - radiobrowser-99814227-85bf-4b51-b573-09a1f33951d0
+  - radiobrowser-4baa69c1-e1d8-48dc-8c41-0399eab1f52a
+streams:
+  - url: 'https://stream.antenne.de/coffee/stream/mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.antenne.de/coffee/stream/aacp'
+    codec: AAC

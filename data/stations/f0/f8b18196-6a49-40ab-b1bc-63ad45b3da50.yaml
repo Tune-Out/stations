@@ -31,3 +31,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-f8b18196-6a49-40ab-b1bc-63ad45b3da50
+  - radiobrowser-413f8cb1-81d9-46b2-a329-18c97075d705
+streams:
+  - url: 'https://live.easyradio.bg/aac?type=.mp3'
+    codec: AAC
+    bitrate: 320
+  - url: 'https://live.easyradio.bg/flac'
+    codec: OGG
+    bitrate: 16

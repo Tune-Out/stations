@@ -36,3 +36,11 @@ curation: 0.35
 provenance:
   - radiobrowser-96199adc-0601-11e8-ae97-52543be04c81
   - iprd-it-rai-gr-parlamento-5b975c8b
+  - radiobrowser-9bf7fa5c-2531-49f1-b0a1-2ecd67faf191
+streams:
+  - url: 'http://icestreaming.rai.it/7.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S32576004/GxPKuXIdZBcL/icecast'
+    codec: MP3
+    bitrate: 256

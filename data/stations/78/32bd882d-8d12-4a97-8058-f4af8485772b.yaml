@@ -31,3 +31,10 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-32bd882d-8d12-4a97-8058-f4af8485772b
+  - radiobrowser-a9af0a68-f9bb-4c75-9012-77ce804b85cc
+  - iprd-de-absolut-top-02838a19
+streams:
+  - url: 'https://frontend.streamonkey.net/absolut-top?aggregator=radioplayer'
+    codec: AAC
+  - url: 'http://absolut-top.live-sm.absolutradio.de/absolut-top'
+    codec: AAC

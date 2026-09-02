@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Cumulus Media
+  affiliations: Nash Icon network
+  audience: Kingsport, Tennessee
+  format: country
+  notes: WKOS 104.9 'Nash Icon' is a commercial country-music station licensed to Kingsport, Tennessee, carrying Cumulus Media's Nash Icon classic-country branded format.
+  sources: https://15693.live.streamtheworld.com:443/WKOSFMAAC_SC
 curation: 0
+duplicate_of: 964b22d0-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-wkos-104-9-nash-icon-20c9803e

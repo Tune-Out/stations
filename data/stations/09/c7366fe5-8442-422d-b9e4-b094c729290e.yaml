@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/gr/gr.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Krete 98.4 (Radio 98.4) is a Greek regional station based in Heraklion, Crete, mixing news, pop music and talk shows under the motto 'Music without discrimination, News without exaggeration.' The radio.co relay tested here returned an access-denied error, though the station's own web presence (radio984.gr) appears active per third-party listings.
+  sources: https://radiofona.com.gr/98-4/; https://radiomap.eu/gr/iraklio
+curation: 0.03
 provenance:
   - iprd-gr-krete-98-4-cce0e514

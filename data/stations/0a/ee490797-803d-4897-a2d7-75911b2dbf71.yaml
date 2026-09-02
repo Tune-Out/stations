@@ -2,7 +2,7 @@ stationuuid: ee490797-803d-4897-a2d7-75911b2dbf71
 name: WUWF 88.1
 url: https://playerservices.streamtheworld.com/api/livestream-redirect/WUWFFM_SC
 url_resolved: https://playerservices.streamtheworld.com/api/livestream-redirect/WUWFFM_SC
-homepage: http://mediad.publicbroadcasting.net
+homepage: https://www.wuwf.org
 favicon: http://mediad.publicbroadcasting.net/p/wuwf/files/201508/ico15_0.ico
 tags: []
 country: United States
@@ -20,14 +20,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: University of West Florida
+  affiliations: NPR, Florida Public Media, PRX
+  audience: ''
+  format: ''
+  notes: WUWF 88.1 is an NPR-member public radio station licensed to the University of West Florida, broadcasting from Pensacola since 1981 with 100,000 watts of power, offering NPR news/talk plus locally produced programs and an HD2 classical subchannel.
+  sources: https://en.wikipedia.org/wiki/WUWF; https://www.wuwf.org
+curation: 0.65
 provenance:
   - iprd-us-wuwf-88-1-53c9b54c

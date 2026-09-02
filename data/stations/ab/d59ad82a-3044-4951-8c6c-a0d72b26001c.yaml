@@ -34,3 +34,12 @@ curation: -0.05
 provenance:
   - radiobrowser-d59ad82a-3044-4951-8c6c-a0d72b26001c
   - iprd-cz-frekvence-1-102-5-9f63eabd
+  - radiobrowser-927edba2-7db7-40f2-96bd-8a9316de90f4
+streams:
+  - url: 'http://ice.actve.net/fm-frekvence1-aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3'
+    url_resolved: 'https://23623.live.streamtheworld.com:443/FREKVENCE1.mp3'
+    codec: MP3
+    bitrate: 96

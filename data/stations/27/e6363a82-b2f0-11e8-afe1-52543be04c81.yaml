@@ -21,15 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Radio Caprice (Russian internet radio broadcaster)
-  affiliations: none known
-  audience: Russian-speaking jazz enthusiasts; internet-based global reach
-  format: Specialty jazz stream focusing on stride piano, ragtime, and traditional jazz piano styles
-  notes: Radio Caprice operates as a network of genre-specific Internet radio streams from Russia. Hosts multiple specialized channels including lo-fi, folk, and various jazz subgenres. Non-commercial community radio service focused on niche music curation.
-  sources: internal knowledge only
-curation: 0.65
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio Caprice (RADCAP), Russia
+  affiliations: one of several hundred Radio Caprice genre channels
+  audience: Fans of early jazz piano styles
+  format: Stride, ragtime and solo piano jazz, automated 24/7
+  notes: Radio Caprice (radcap.ru) is an independent Russian internet-radio project running several hundred narrowly defined, ad-free genre channels. This channel plays piano jazz, stride and ragtime from an automated library without presenters. It is a niche specialist stream rather than a commercial broadcaster, so the previous "commercial" nature was wrong.
+  sources: http://radcap.ru/pianojazz.html; http://radcap.ru/
+curation: 0.37
 provenance:
   - radiobrowser-e6363a82-b2f0-11e8-afe1-52543be04c81
   - iprd-ru-radio-caprice-piano-jazz-stride-ragtime-e44e9e87

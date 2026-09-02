@@ -34,3 +34,10 @@ provenance:
   - iprd-de-absolut-hot-08c6b7cc
   - iprd-de-absolut-hot-a3c0c9a3
   - iprd-de-absolut-hot-dd17f3bd
+  - radiobrowser-d3f1c1d7-b5d7-47a8-a4b2-18787e0d50c9
+streams:
+  - url: 'http://absolut-hot.live-sm.absolutradio.de/absolut-hot'
+    codec: AAC
+  - url: 'https://absolut-hot.live-sm.absolutradio.de/absolut-hot/aac-stream.m3u'
+    url_resolved: 'https://edge05.live-sm.absolutradio.de/absolut-hot/stream/aacp?aggregator=smk-m3u-aac'
+    codec: AAC

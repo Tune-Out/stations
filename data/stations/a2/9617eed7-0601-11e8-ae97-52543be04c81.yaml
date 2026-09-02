@@ -36,10 +36,14 @@ provenance:
   - radiobrowser-9617eed7-0601-11e8-ae97-52543be04c81
   - iprd-de-radio-hbr-a37f801c
   - iprd-de-radio-hbr-31250e42
+  - radiobrowser-58a44dad-7a56-444e-a10d-31f7e0f8b62b
 streams:
   - url: http://stream2.radiohbr.de:8080/stream.aac
     codec: AAC+
     bitrate: 48
   - url: http://stream1.radiohbr.de/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: 'http://segenswelle.de:8000/hbr.mp3'
     codec: MP3
     bitrate: 128

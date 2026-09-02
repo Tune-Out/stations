@@ -36,3 +36,11 @@ curation: -0.05
 provenance:
   - radiobrowser-960c2ab1-0601-11e8-ae97-52543be04c81
   - iprd-cz-hitradio-devadesatka-1cd98f72
+  - radiobrowser-a86c3cb7-e0ae-4f12-afa7-264696e79d55
+streams:
+  - url: 'http://ice.abradio.cz/hit90128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ice2.radia.cz/hit90128.aac'
+    codec: AAC
+    bitrate: 128

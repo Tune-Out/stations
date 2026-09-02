@@ -22,7 +22,7 @@ clickcount: 11
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
   operator: China National Radio (CNR / 中央人民广播电台), the national state-run radio broadcaster of the People's Republic of China; CNR is part of China Media Group (中央广播电视总台, also known as Voice of China), formed in 2018 by merging CNR, CCTV, and China Radio International
   affiliations: directly administered by the Publicity Department of the Chinese Communist Party (CCP) Central Committee and supervised by the National Radio and Television Administration; functions as an official mouthpiece of the Chinese state
@@ -30,10 +30,11 @@ research:
   format: CNR-3 ("Music Radio" / 音乐之声) is China's flagship national music network, broadcasting Mandopop, international pop, charts, and DJ shows 24 hours a day
   notes: CNR-3 Music Radio launched 1 December 2002 as China National Radio's third channel, dedicated to popular music; it pioneered the "Music Radio" format in China and is the country's most-listened-to music radio brand, running flagship countdown shows such as "China Top Charts" (中国TOP排行榜); like all CNR channels it operates under the Party's editorial direction, but the channel itself is musically programmed and considered entertainment-focused
   sources: internal knowledge
-curation: 0.35
+curation: 0.30
 provenance:
   - radiobrowser-a09db942-832d-4932-8c05-494e17dc37e0
   - iprd-cn-cnr-3-sound-of-music-66d7e7f6
+  - radiobrowser-764588ab-2f5b-4733-b32d-c16592010a43
 streams:
   - url: https://ngcdn001.cnr.cn/live/yyzs/index.m3u8
     codec: UNKNOWN
@@ -41,3 +42,6 @@ streams:
   - url: https://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908117055114&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
     codec: UNKNOWN
     hls: true
+  - url: 'http://antiserver.kuwo.cn/anti.s?rid=MUSIC_190038250&response=res&format=mp3|aac&type=convert_url&br=128kmp3&agent=iPhone&callback=getlink&jpcallback=getlink.mp3'
+    url_resolved: 'http://lx.sycdn.kuwo.cn/ea989c21a2f7078a16757fda0233bba1/696881c4/resource/n3/88/69/563182854.mp3'
+    codec: MP3

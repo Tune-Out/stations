@@ -31,3 +31,10 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-d1b0080c-506b-49bc-bb25-9a302cbb3eb7
+  - iprd-ar-radio-provincia-de-santa-cruz-lu14-830-31be1d09
+streams:
+  - url: 'https://transmision-lu14.santacruz.gob.ar/lu14.mp3'
+    codec: OGG
+  - url: 'http://200.5.203.82:8000/lu14.ogg'
+    codec: OGG
+    bitrate: 200

@@ -20,15 +20,15 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: community
-  operator: DKFM / Decay FM (Canadian community broadcaster)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: DKFM / Decay FM (independent)
   affiliations: none known
-  audience: Canadian shoegaze and dream pop enthusiasts; Toronto and Canada
-  format: Shoegaze, dream pop, indie rock, noise rock; 24/7 alternative rock programming
-  notes: DKFM (Decay FM) operates as Canadian community internet radio specializing in shoegaze and dream pop subgenres. Based at decayfm.com with focus on 1990s-era shoegaze and contemporary alternative rock. Non-commercial community broadcaster serving niche indie rock audience.
-  sources: internal knowledge only
-curation: 0.55
+  audience: Shoegaze and dream-pop fans worldwide
+  format: Shoegaze, dream pop, noise pop and related indie, with genre shows
+  notes: DKFM Shoegaze Radio is an independent internet station operating since the early 2010s and branded as 'the worldwide leader for shoegaze and dream pop'. It streams shoegaze, dream pop, noise pop and adjacent indie rock around the clock, mixing new releases with 1990s classics, and has since spun off sister channels DKFM Classic and DKFM Edge. It is a specialist enthusiast-run web station hosted on TorontoCast rather than a licensed community broadcaster; the decayfm.com site is currently behind a Cloudflare challenge, so founding and funding details could not be verified.
+  sources: https://decayfm.com/ (403 via Cloudflare); stream ICY metadata; https://de1.api.radio-browser.info/json/stations/search?name=DKFM
+curation: 0.44
 provenance:
   - radiobrowser-7c84ac30-1a0f-42f7-8b0d-40b5c6548abf
 streams:

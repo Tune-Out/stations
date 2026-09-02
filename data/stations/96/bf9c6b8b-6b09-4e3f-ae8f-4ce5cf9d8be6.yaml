@@ -31,3 +31,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-bf9c6b8b-6b09-4e3f-ae8f-4ce5cf9d8be6
+  - radiobrowser-cc2ed2e9-26d7-493c-a8f1-9453e88b25f6
+streams:
+  - url: 'https://loveradionaga.radioca.st:2199/tunein/loveradionaga-stream.pls'
+    url_resolved: 'http://138.201.52.248:8070/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://loveradionaga.radioca.st:8070/stream'
+    codec: MP3
+    bitrate: 64

@@ -2,7 +2,7 @@ stationuuid: 58dd6836-fea3-40bb-8e4b-e04b5347e0ce
 name: WVIA 89.9
 url: 'https://playerservices.streamtheworld.com/pls/WVIAFM.pls'
 url_resolved: 'https://26423.live.streamtheworld.com:443/WVIAFM_SC'
-homepage: http://pbs.bento.storage.s3.amazonaws.com
+homepage: https://www.wvia.org
 favicon: http://pbs.bento.storage.s3.amazonaws.com/hostedbento-prod/filer_public/Site%20Graphics/WVIA%20Logos/WVIA%20Fav%20Icon%20Large.ico
 tags:
   - classical
@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Northeastern Pennsylvania Educational Television Association
+  affiliations: NPR, PBS
+  audience: Northeastern Pennsylvania
+  format: news/classical/jazz
+  notes: WVIA-FM (89.9) is the NPR/PBS member public radio station for Northeastern Pennsylvania, licensed to Scranton and operated by the Northeastern Pennsylvania Educational Television Association. It mixes NPR news/talk, midday classical, evening jazz, and overnight BBC World Service.
+  sources: https://en.wikipedia.org/wiki/WVIA-FM; stream check
+curation: 0.60
+duplicate_of: 96256326-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-wvia-89-9-249ccf6b

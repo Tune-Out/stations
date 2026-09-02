@@ -37,3 +37,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-38a33fc0-be05-4c98-8c6a-ba3869575bc1
+  - radiobrowser-6e36299b-6a91-4022-9db4-f72a2c8e9fef
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3'
+    url_resolved: 'https://28563.live.streamtheworld.com:443/RAC_1.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3'
+    url_resolved: 'https://25443.live.streamtheworld.com:443/RAC_MES_1.mp3'
+    codec: MP3
+    bitrate: 96

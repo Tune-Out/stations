@@ -37,6 +37,7 @@ provenance:
   - radiobrowser-9623b33d-0601-11e8-ae97-52543be04c81
   - iprd-au-abc-jazz-80bd8900
   - iprd-au-abc-jazz-4efdead5
+  - radiobrowser-44161d8e-73a9-42f9-b6e6-bf6a31da81c1
 streams:
   - url: http://live-radio01.mediahubaustralia.com/JAZW/mp3/
     codec: AAC+
@@ -44,3 +45,7 @@ streams:
   - url: http://live-radio01.mediahubaustralia.com/JAZW/aac/
     codec: AAC+
     bitrate: 56
+  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8'
+    codec: AAC
+    bitrate: 238
+    hls: true

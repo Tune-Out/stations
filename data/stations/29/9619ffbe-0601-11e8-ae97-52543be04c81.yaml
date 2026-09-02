@@ -1,8 +1,8 @@
 stationuuid: 9619ffbe-0601-11e8-ae97-52543be04c81
-name: ABC Local Radio 774 Melbourne (MP3)
+name: ABC Radio Melbourne
 url: http://live-radio01.mediahubaustralia.com/3LRW/mp3/
 url_resolved: http://live-radio01.mediahubaustralia.com/3LRW/mp3/
-homepage: http://www.abc.net.au/melbourne/
+homepage: https://www.abc.net.au/melbourne
 favicon: http://www.abc.net.au/core-assets/local/favicon-32x32.png
 tags:
   - news
@@ -24,23 +24,27 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: ABC (Australian Broadcasting Corporation)
-  affiliations: Government public broadcasting (Australia)
-  audience: Melbourne and Victoria region; Australian English speakers; general audience
-  format: Local news, current affairs, information, and public radio programming for Melbourne market
-  notes: ABC Local Radio station 774 Melbourne (3LRW); Australian public broadcasting service; serves Melbourne and Victoria region with news and local content
-  sources: http://www.abc.net.au/melbourne/, internal knowledge only
-curation: 0.8
+  operator: Australian Broadcasting Corporation (ABC)
+  affiliations: ABC Local Radio network; Australian public broadcaster
+  audience: Melbourne and Victoria general audience; English speakers
+  format: Local talk, news, talkback, current affairs and sport
+  notes: ABC Radio Melbourne (callsign 3LO, historically branded 774 ABC Melbourne) is the Australian Broadcasting Corporation's local talk station for Melbourne and Victoria, on 774 kHz AM and DAB+ since its first broadcast in October 1924. It carries local news, talkback, current affairs and sport, with flagship shows such as Mornings with Rafael Epstein, Drive with Charlie Pickering and the Sunday network programme Australia All Over. Licence-fee-free, government-funded public broadcasting.
+  sources: https://en.wikipedia.org/wiki/ABC_Radio_Melbourne; https://www.abc.net.au/listen/live/melbourne
+curation: 0.65
 provenance:
   - radiobrowser-9619ffbe-0601-11e8-ae97-52543be04c81
   - iprd-au-abc-local-radio-774-melbourne-a036c923
   - iprd-au-abc-local-radio-774-melbourne-4677e8a7
+  - radiobrowser-4c73ec22-ba19-41e4-abe2-daf875d59dd0
 streams:
   - url: http://live-radio01.mediahubaustralia.com/3LRW/mp3/
     codec: AAC+
     bitrate: 56
   - url: http://live-radio01.mediahubaustralia.com/3LRW/aac/
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://live-radio01.mediahubaustralia.com/3LRW/mp3/;'
     codec: AAC+
     bitrate: 56

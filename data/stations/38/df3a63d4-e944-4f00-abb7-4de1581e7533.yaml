@@ -1,5 +1,5 @@
 stationuuid: df3a63d4-e944-4f00-abb7-4de1581e7533
-name: Rai Radio 1 +Calcio
+name: Rai Radio 1
 url: http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
 url_resolved: http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
 homepage: https://www.raiplaysound.it/radio1
@@ -20,14 +20,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radiotelevisione Italiana (RAI)
-  affiliations: none known
-  audience: Italian-speaking listeners across Italy
-  format: Mixed news, current affairs, music, entertainment, sports programming including football/soccer analysis and commentary
-  notes: RAI Radio 1 is Italy's primary national public radio channel under RAI Group. The "+Calcio" variant includes dedicated football/calcio (soccer) coverage and commentary. Part of Italy's state-funded public broadcasting service.
-  sources: internal knowledge only
-curation: 0.55
+  operator: RAI - Radiotelevisione Italiana
+  affiliations: Italian public service broadcaster, licence-fee funded
+  audience: Italian news, talk and football listeners nationwide
+  format: News, current affairs, talk, sport including Tutto il calcio minuto per minuto
+  notes: 'This entry is a third-party CDN relay of Rai Radio 1, the flagship news and talk channel of Italy''s public broadcaster RAI, broadcasting from Rome''s Saxa Rubra centre since 1924. The ''+Calcio'' suffix is a directory user''s label, not a RAI brand: the stream identifies itself simply as ''Radio1'' and RAI operates no such channel, its football coverage being the historic ''Tutto il calcio minuto per minuto'' on Radio 1 itself and the separate Rai Radio 1 Sport. The catalog already has a canonical Rai Radio 1 entry with far more votes.'
+  sources: https://it.wikipedia.org/wiki/Rai_Radio_1; stream ICY metadata
+curation: 0.38
+duplicate_of: 96185693-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-df3a63d4-e944-4f00-abb7-4de1581e7533

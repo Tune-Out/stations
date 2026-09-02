@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/se/se.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: ericade.radio
+  affiliations: ''
+  audience: Sweden, electronic music listeners
+  format: electronic/talk
+  notes: This is the 'Best of' compilation channel of ericade.radio, a Swedish online radio network mixing electronic music and talk segments.
+  sources: http://legacy.ericade.net:8000/stream/2/
+curation: 0.10
 provenance:
   - iprd-se-the-best-of-ericade-radio-dbff46a1

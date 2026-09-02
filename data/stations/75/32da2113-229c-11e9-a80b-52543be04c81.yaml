@@ -23,22 +23,28 @@ clickcount: 15
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Global (Global Media & Entertainment Ltd), the UK's largest commercial radio group, owned by Ashley Tabor-King
-  affiliations: none known (private commercial company)
-  audience: UK-wide adult audience for accessible classical music; reaches approximately 4-5 million weekly listeners (RAJAR), the largest classical audience of any UK station
-  format: Mainstream popular classical music — film scores, opera highlights, choral, light classical and orchestral favourites, presenter-led with relaxing presentation. Notable shows include Classic FM Drive, Classic FM at the Movies, More Music Breakfast and Smooth Classics at Seven.
-  notes: Classic FM launched on 7 September 1992 as the UK's first national commercial radio station, founded by GWR Group and then-owner Sir Peter Michael, ending the BBC's national-radio monopoly. It revolutionised classical broadcasting by adopting a chart-style, three-minute-attention-span format. Now owned by Global, alongside Heart, Capital, Smooth, LBC and Radio X. It broadcasts on FM (100-102 MHz), DAB, satellite, online and via the Global Player app. Famous presenters have included John Suchet, Aled Jones, Margherita Taylor, Alexander Armstrong, Myleene Klass, and Bill Turnbull. It is fully advertising-funded with no state or religious affiliation.
-  sources: internal knowledge only
-curation: 0.35
+  operator: Global Media & Entertainment (Global)
+  affiliations: sister to Heart, Capital, Smooth, LBC and Radio X; carried on the Global Player app
+  audience: UK-wide adult classical audience, about 4.7 million weekly listeners (RAJAR, May 2025) — the largest classical radio audience in Britain
+  format: Accessible mainstream classical music, plus film, television and video-game scores, presenter-led throughout the day
+  notes: Classic FM launched on 7 September 1992 as the UK's first national commercial radio station, breaking the BBC's monopoly on national radio and pioneering a short-form, presenter-led approach to classical programming. It is owned by Global and broadcasts on FM between 99.9 and 101.9 MHz, on DAB+ since January 2024, on Freeview, Freesat, Sky and Virgin Media, and worldwide online; studios have been in Leicester Square, London, since 2006. RAJAR put it at about 4.7 million weekly listeners in May 2025. Its schedule mixes orchestral and choral favourites with film, TV and video-game scores, and its presenters include Alexander Armstrong, Aled Jones, Myleene Klass, John Humphrys, Jonathan Ross, Alan Titchmarsh and Dan Walker. Two spin-off streams, Classic FM Calm and Classic FM Movies, launched in September 2024.
+  sources: https://en.wikipedia.org/wiki/Classic_FM_(UK); https://www.classicfm.com/
+curation: 0.50
+duplicate_of: 96063f25-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-32da2113-229c-11e9-a80b-52543be04c81
   - iprd-gb-classic-fm-876b03f5
+  - radiobrowser-526ea18b-b932-11e8-aaf2-52543be04c81
+  - iprd-gb-classic-fm-ba84ef9f
 streams:
   - url: https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80
     codec: AAC
     bitrate: 192
   - url: http://media-ice.musicradio.com/ClassicFMMP3
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ice-sov.musicradio.com/ClassicFMMP3'
     codec: MP3
     bitrate: 128

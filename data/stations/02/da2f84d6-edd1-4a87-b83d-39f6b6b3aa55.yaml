@@ -36,6 +36,7 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-da2f84d6-edd1-4a87-b83d-39f6b6b3aa55
+  - radiobrowser-9e1377e3-623c-4b8f-a162-4da9c1fcdbf1
 streams:
   - url: http://streams.electronicmusicradiogroup.org:9050/
     codec: AAC+
@@ -56,5 +57,8 @@ streams:
     codec: AAC+
     bitrate: 64
   - url: http://server1.chilltrax.com:9000/
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streamssl.chilltrax.com/'
     codec: MP3
     bitrate: 128

@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: iHeartMedia
+  affiliations: ''
+  audience: ''
+  format: Spanish-language sports talk
+  notes: WKY 930 is an Oklahoma City AM station simulcasting ESPN Deportes, a Spanish-language sports-talk format distributed via iHeartMedia's StreamTheWorld network.
+  sources: 'IPRD: streams/us/us.m3u'
+curation: 0.10
+duplicate_of: 96425c43-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-wky-930-espn-deportes-521a896e

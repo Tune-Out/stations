@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/tr/tr.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Karnaval.com
+  affiliations: ''
+  audience: 80s-pop listeners, Türkiye
+  format: 80s hits
+  notes: Karnaval 80'ler is (or was) an 80s-hits digital channel on Karnaval.com, a large Turkish online radio aggregator platform hosting many themed streams. The listed StreamTheWorld feed is dead.
+  sources: stream check; karnaval.com is a known Turkish streaming aggregator (general knowledge)
+curation: -0.15
 provenance:
   - iprd-tr-karnaval-80-ler-c6530cf3

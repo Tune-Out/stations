@@ -1,5 +1,5 @@
 stationuuid: 96419ee9-0601-11e8-ae97-52543be04c81
-name: Laut.FM The Jazz of Wiesbaden
+name: The Jazz of Wiesbaden
 url: http://stream.laut.fm/thejazzofwiesbaden
 url_resolved: http://stream.laut.fm/thejazzofwiesbaden
 homepage: https://laut.fm/thejazzofwiesbaden
@@ -25,15 +25,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: community
-  operator: laut.fm (German community radio platform)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: laut.fm user channel; platform operated by Laut AG, Konstanz
   affiliations: none known
   audience: German and international listeners; jazz and soul music enthusiasts
-  format: Jazz, blues, soul specialization; jazz standards, blues classics, soul music, live jazz performances
-  notes: Laut.fm is a German community radio platform offering user-created and curated stations. The Jazz of Wiesbaden channel focuses on jazz, blues, and soul music. Community-driven platform allowing diverse music programming. Accessible globally via internet streaming.
-  sources: internal knowledge only
-curation: 0.65
+  format: Automated jazz, blues and soul playlist
+  notes: The Jazz of Wiesbaden is a user-programmed channel on laut.fm, the German webcasting platform run by Laut AG in Konstanz, where hobby curators schedule their own stations under GEMA licensing. Its blurb promises "Musik für die Seele" and "straight ahead music" mixing jazz, blues and soul, with artists such as Barbara Dennerlein, The Brand New Heavies, Cécile Verny Quartet, Lou Donaldson and Trijntje Oosterhuis. It is an automated playlist stream without presenters or a broadcast licence.
+  sources: https://laut.fm/thejazzofwiesbaden
+curation: 0.33
 provenance:
   - radiobrowser-96419ee9-0601-11e8-ae97-52543be04c81
   - iprd-de-laut-fm-the-jazz-of-wiesbaden-2ace4d67

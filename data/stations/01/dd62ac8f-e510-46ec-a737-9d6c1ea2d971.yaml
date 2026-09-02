@@ -24,14 +24,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ar/ar.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Government of Santa Cruz Province
+  affiliations: Argentine provincial public broadcasting
+  audience: Santa Cruz Province, Argentina
+  format: news/talk/community
+  notes: LU14 Radio Provincia de Santa Cruz is the provincial government broadcaster of Santa Cruz Province, Argentina, based in Río Gallegos on 830 AM, carrying general news, talk, and community programming for the province.
+  sources: http://lu14.santacruz.gob.ar
+curation: 0.30
+duplicate_of: d1b0080c-506b-49bc-bb25-9a302cbb3eb7
 provenance:
   - iprd-ar-radio-provincia-de-santa-cruz-lu14-830-31be1d09

@@ -32,3 +32,12 @@ curation: 0.35
 provenance:
   - radiobrowser-1b940a08-3b03-4209-867e-6886e973084f
   - iprd-co-radio-nacional-de-colombia-c6a55cc2
+  - radiobrowser-88d3ec23-d0a1-43e0-af2a-d01893bf2936
+streams:
+  - url: 'http://shoutcast.rtvc.gov.co:8000/;'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://streaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 64
+    hls: true

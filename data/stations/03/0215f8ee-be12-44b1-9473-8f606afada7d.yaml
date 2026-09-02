@@ -1,5 +1,5 @@
 stationuuid: 0215f8ee-be12-44b1-9473-8f606afada7d
-name: RPR1 90er Black
+name: RPR1.90er Black
 url: https://streams.rpr1.de/rpr-90erblack-128-mp3?usid=0-0-H-M-D-60
 url_resolved: https://streams.rpr1.de/rpr-90erblack-128-mp3?usid=0-0-H-M-D-60
 homepage: https://cdn.rpr1.de
@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/de/de.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: RPR1 (RPR1.Vermarktung GmbH / Regie Rheinland-Pfalz)
+  affiliations: RPR1 network
+  audience: 90s R&B/soul fans, Germany
+  format: 1990s R&B/soul
+  notes: RPR1.90er Black is an online sub-channel of RPR1, a major commercial radio broadcaster in Rhineland-Palatinate, Germany, focused specifically on 1990s R&B/soul/'black music' hits as part of RPR1's family of decade- and genre-specific digital streams.
+  sources: 'IPRD: streams/de/de.m3u; https://www.rpr1.de'
+curation: 0.05
 provenance:
   - iprd-de-rpr1-90er-black-4f0a157b

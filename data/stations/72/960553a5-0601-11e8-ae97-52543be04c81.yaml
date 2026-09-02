@@ -1,5 +1,5 @@
 stationuuid: 960553a5-0601-11e8-ae97-52543be04c81
-name: Radio Eins
+name: radioeins
 url: http://radioeins.de/stream
 url_resolved: http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38HoeEhwMU9ZjQaArYLcNuLu9LN&token=VXH8C52tOJ6o_G5uLXexxjt84DXyHGfH0RABfQljedk&tvf=8PpblQ7uihhmMTIxLnJuZGZuay5jb20
 homepage: http://www.radioeins.de/
@@ -29,15 +29,34 @@ clickcount: 76
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Rundfunk Berlin-Brandenburg (rbb) — regional public-law broadcaster, member of the ARD network
-  affiliations: ARD (German public broadcasting consortium); funded by the German Rundfunkbeitrag household licence fee; politically independent under public-broadcasting statute
-  audience: adults in Berlin and Brandenburg; German-language
-  format: adult contemporary / alternative / pop / rock music with substantial talk, culture, satire, film, literature, and current-affairs content
-  notes: Launched 1997 (as part of SFB, then rbb after 2003 merger). Tagline historically "Das Berliner Radio — für die Erwachsenen." Operates "studioeins" live broadcast venue in Bikini Berlin. Known for in-depth music programming, the annual Lounge concerts, and political/cultural commentary; sister stations include Antenne Brandenburg, Inforadio, Fritz, and rbb 88.8.
-  sources: http://www.radioeins.de/, internal knowledge
-curation: 0.6
+  operator: Rundfunk Berlin-Brandenburg (rbb), ARD member broadcaster
+  affiliations: ARD; funded by the German Rundfunkbeitrag licence fee
+  audience: Adults 25+ in Berlin and Brandenburg; German-language
+  format: Adult alternative and non-mainstream pop/rock with substantial culture, satire, film and current-affairs talk
+  notes: radioeins is the adult cultural-music network of Rundfunk Berlin-Brandenburg (rbb), the ARD member broadcaster for Berlin and Brandenburg, and is funded by the German household broadcasting fee. It launched on 27 August 1997 from the merger of SFB's Radio B Zwei and ORB's Radio Brandenburg, and broadcasts on 95.8 MHz in Berlin and Potsdam plus regional FM frequencies and DAB+. It positions itself as "nur für Erwachsene", programming music deliberately beyond the commercial mainstream alongside heavy talk, culture, satire, film and current affairs. Signature output includes the award-winning morning show Der schöne Morgen, the Saturday science magazine Die Profis, listener-voted thematic Top 100 countdowns, and the Soundcheck album award run with the Tagesspiegel; Fest & Flauschig began here before moving to Spotify. It reported roughly 444,000 listeners in MA II/2026.
+  sources: https://de.wikipedia.org/wiki/Radioeins; https://en.wikipedia.org/wiki/Radioeins; http://www.radioeins.de/
+curation: 0.75
 provenance:
   - radiobrowser-960553a5-0601-11e8-ae97-52543be04c81
   - iprd-de-radioeins-5e75a442
+  - radiobrowser-036b5a3c-5418-4c26-ba35-25995cb872a8
+  - iprd-de-rbb-radio-eins-18d4acb8
+  - iprd-de-rbb-radio-eins-832d3231
+  - iprd-de-radioeins-e1aeff3d
+  - radiobrowser-52e18f3e-1d9e-4035-b93c-3922f1c7601c
+  - iprd-de-radioeins-1f8e91c6
+streams:
+  - url: 'http://radioeins.de/stream'
+    url_resolved: 'http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38HoeEhwMU9ZjQaArYLcNuLu9LN&token=VXH8C52tOJ6o_G5uLXexxjt84DXyHGfH0RABfQljedk&tvf=8PpblQ7uihhmMTIxLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.radioeins.de/livemp3'
+    url_resolved: 'http://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38H1s1qafSFJkhMksogFZr2DHcQ&token=S42VfMzqzOHT9HycR_DPel3uYF5TY9QXvrgMjOKHwfM&tvf=FO_-kivYihhkMTMxLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.radioeins.de/livemp3_s'
+    url_resolved: 'http://d141.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38HDc8wZndAE5yaveGk66V2rvv7&token=TiM1KAq5914hWWMbBvM4CYvZRbL1apzfRrLUYIfPlbc&tvf=rXHpvXDdihhkMTQxLnJuZGZuay5jb20'
+    codec: MP3
+    bitrate: 64

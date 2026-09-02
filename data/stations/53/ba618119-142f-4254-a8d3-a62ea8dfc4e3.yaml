@@ -33,3 +33,12 @@ curation: 0.3
 provenance:
   - radiobrowser-ba618119-142f-4254-a8d3-a62ea8dfc4e3
   - iprd-de-ffh-rock-469870b7
+  - radiobrowser-012881ac-136f-43ad-9c7f-2c653d7bbed3
+  - iprd-de-ffh-rock-ce2dde34
+streams:
+  - url: 'https://mp3.ffh.de/ffhchannels/hqrock.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://mp3.ffh.de/ffhplus/rock.aac'
+    codec: AAC+
+    bitrate: 48

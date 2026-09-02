@@ -36,3 +36,11 @@ provenance:
   - radiobrowser-9612dd56-0601-11e8-ae97-52543be04c81
   - iprd-de-rock-antenne-soft-rock-4f79e0ae
   - iprd-de-rock-antenne-soft-rock-dc35c811
+  - radiobrowser-30ce1b5a-d783-441d-9875-fa2fbe75b113
+streams:
+  - url: 'http://www.rockantenne.de/webradio/channels/soft-rock.m3u'
+    url_resolved: 'http://stream.rockantenne.de/soft-rock'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://mp3channels.webradio.rockantenne.de/soft-rock.aac'
+    codec: AAC

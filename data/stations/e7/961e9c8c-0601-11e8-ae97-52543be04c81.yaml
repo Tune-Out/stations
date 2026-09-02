@@ -33,3 +33,13 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-961e9c8c-0601-11e8-ae97-52543be04c81
+  - radiobrowser-f3872ca2-f642-4e02-8d61-f3f4fcc3093c
+streams:
+  - url: 'http://playerservices.streamtheworld.com/m3u/SLJEMEAAC.m3u'
+    url_resolved: 'http://27873.live.streamtheworld.com/SLJEMEAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3'
+    url_resolved: 'https://29083.live.streamtheworld.com:443/SLJEME.mp3'
+    codec: MP3
+    bitrate: 64

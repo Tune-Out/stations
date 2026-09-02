@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/cz/cz.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Český rozhlas (Czech Radio)
+  affiliations: Czech public broadcasting
+  audience: News/current-affairs listeners, Czechia
+  format: News and talk
+  notes: Český rozhlas Plus is the all-news and current-affairs talk channel of Český rozhlas, the Czech public-service broadcaster, offering in-depth news analysis, discussion and documentary programming comparable to other European public-radio news/talk services.
+  sources: 'IPRD: streams/cz/cz.m3u; https://www.rozhlas.cz'
+curation: 0.55
 provenance:
   - iprd-cz-cesky-rozhlas-plus-db048801

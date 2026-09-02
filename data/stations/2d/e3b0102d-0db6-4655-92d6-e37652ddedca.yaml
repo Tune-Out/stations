@@ -32,3 +32,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-e3b0102d-0db6-4655-92d6-e37652ddedca
+  - radiobrowser-bba5c9d6-cfbb-483d-99a8-f63d404a7b75
+streams:
+  - url: 'http://listen13.vdfm.ru:8000/dacha'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://217.19.211.252:8022/RadioDacha'
+    codec: MP3
+    bitrate: 192

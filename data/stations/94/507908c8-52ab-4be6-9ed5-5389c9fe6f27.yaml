@@ -1,0 +1,33 @@
+stationuuid: 507908c8-52ab-4be6-9ed5-5389c9fe6f27
+name: 97.1 RDI FM - Jakarta
+url: http://8.215.206.157:8004/;
+url_resolved: http://8.215.206.157:8004/;
+homepage: https://radiostream.novawap.com/
+favicon: https://static-roov.rctiplus.id/images/radio/rdi-jakarta-1759819149.jpg
+tags: []
+country: Indonesia
+countrycode: ID
+state: ""
+language: []
+languagecodes: []
+votes: 17
+codec: MP3
+bitrate: 256
+hls: false
+lastcheckok: true
+lastchangetime: 2026-06-17 19:18:43
+clickcount: 1
+geo_lat: null
+geo_long: null
+research:
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: MNC Group
+  affiliations: RCTI+ / MNC radio network
+  audience: Jakarta and Indonesian dangdut listeners
+  format: Dangdut music
+  notes: RDI 97.1 FM (Radio Dangdut Indonesia) is a Jakarta commercial station built around the dangdut genre and part of the MNC Group's radio portfolio. This row carries a bare IP stream endpoint and a third-party aggregator page (radiostream.novawap.com) instead of the station's own site, so the metadata is misleading. The catalog already holds the same broadcast under uuid 962fdcaf with far more votes, plus a second copy at 7f6abc6a.
+  sources: http://8.215.206.157:8004/; https://www.rdifm.co.id/; catalog entries 962fdcaf (RDI 97.1 FM, 9996 votes) and 7f6abc6a
+curation: 0.10
+provenance:
+  - radiobrowser-507908c8-52ab-4be6-9ed5-5389c9fe6f27

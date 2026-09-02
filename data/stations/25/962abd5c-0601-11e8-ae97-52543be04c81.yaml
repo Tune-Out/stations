@@ -38,3 +38,13 @@ research:
 curation: 0.3
 provenance:
   - radiobrowser-962abd5c-0601-11e8-ae97-52543be04c81
+  - radiobrowser-7f2a4fbf-c9c4-415a-abab-c41d2cc40d3a
+  - iprd-de-ultra-dark-radio-c685cb28
+  - iprd-de-ultra-dark-radio-edb1ff22
+streams:
+  - url: 'http://stream.laut.fm/ultradarkradio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ultradarkradio.stream.laut.fm/ultradarkradio'
+    codec: MP3
+    bitrate: 128

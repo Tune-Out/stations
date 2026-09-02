@@ -34,3 +34,12 @@ curation: -0.05
 provenance:
   - radiobrowser-9c9d2509-6724-11e9-af37-52543be04c81
   - iprd-be-bel-rtl-aa9ec218
+  - radiobrowser-a220c9ad-aeec-4840-8f85-25d846bf8f6e
+  - iprd-be-bel-rtl-b03ad852
+streams:
+  - url: 'http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://broadcast.infomaniak.ch/belrtl-mp3-192.mp3'
+    codec: MP3
+    bitrate: 192

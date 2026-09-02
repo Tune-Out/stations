@@ -35,6 +35,7 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-53379674-3ea4-446c-be0b-637294bbc08b
+  - radiobrowser-e14f50fb-d845-4e26-8b51-69b8d9b459d4
 streams:
   - url: https://giss.tv:666/r90.mp3
     codec: MP3
@@ -42,3 +43,6 @@ streams:
   - url: https://giss.tv:666/r90-128.mp3
     codec: MP3
     bitrate: 128
+  - url: 'http://giss.tv:8000/r90.mp3'
+    codec: MP3
+    bitrate: 320

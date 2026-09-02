@@ -1,8 +1,8 @@
 stationuuid: 960c1a4f-0601-11e8-ae97-52543be04c81
-name: Radio Berlin 88,8
+name: rbb 88.8
 url: http://www.radioberlin.de/live.m3u
 url_resolved: http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
-homepage: http://www.radioberlin.de/
+homepage: https://www.rbb888.de/
 favicon: http://www.radioberlin.de/content/dam/rbb/rbb/logos/touch/ach-128.png
 tags:
   - public-radio
@@ -23,15 +23,16 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: rbb (Rundfunk Berlin-Brandenburg, German public broadcaster)
+  operator: Rundfunk Berlin-Brandenburg (rbb), ARD member
   affiliations: ARD (German public broadcasting network)
-  audience: Berlin and Brandenburg region, German speakers
-  format: News, current affairs, music, and general interest programming
-  notes: Public radio station operated by rbb, part of ARD network; 88.8 FM broadcasts contemporary and classic music mixed with news and current affairs to Berlin metropolitan area
-  sources: internal knowledge only
-curation: 0.7
+  audience: Berlin adults; ~335,000 listeners (MA 2026)
+  format: Current-based adult contemporary hits with Berlin news
+  notes: rbb 88.8 is Rundfunk Berlin-Brandenburg's Berlin city station, tracing back to SFB 1 (1954), relaunched as 'Radio Berlin 88,8' on 7 November 2005 and renamed rbb 88.8 on 4 February 2019. It runs a current-based adult-contemporary hits format under the slogan 'Deine Hits. Dein Berlin' with Berlin news, reaching about 335,000 listeners on 88.8 FM, DAB+, cable and online. The catalog's 'RBB 88.8 Radio Berlin' entry with more votes carries the same rndfnk feed, and this entry still uses the pre-2019 name and domain.
+  sources: https://de.wikipedia.org/wiki/Rbb_88.8; https://www.rbb888.de/
+curation: 0.45
+duplicate_of: 961eff93-c30c-4571-bed2-57d47f70ce75
 provenance:
   - radiobrowser-960c1a4f-0601-11e8-ae97-52543be04c81
   - iprd-de-radio-berlin-88-8-91b51600

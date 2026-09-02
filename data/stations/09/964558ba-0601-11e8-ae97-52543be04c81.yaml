@@ -34,10 +34,14 @@ research:
 curation: 0.6
 provenance:
   - radiobrowser-964558ba-0601-11e8-ae97-52543be04c81
+  - radiobrowser-05094fb8-9fd1-491c-9f02-ca4d52a2f488
 streams:
   - url: http://stream3.polskieradio.pl:8950/;.mp3
     codec: AAC+
     bitrate: 192
   - url: http://mp3.polskieradio.pl:8900/;.mp3
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream3.polskieradio.pl:8900/;'
     codec: MP3
     bitrate: 192

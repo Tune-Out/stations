@@ -35,3 +35,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-961ac73d-771d-47bd-b3d1-413d69a2b892
+  - radiobrowser-e6a59f89-ef16-40a7-96fc-f1c33912677e
+streams:
+  - url: 'https://stream2.datacenter.by:2199/tunein/trkbres1.pls'
+    url_resolved: 'http://178.124.131.35:8012/trkbrest'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream2.datacenter.by/trkbrest'
+    codec: MP3
+    bitrate: 128

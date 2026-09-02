@@ -30,3 +30,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-f65738f3-ddd7-49fc-bf72-15a1ad472338
+  - radiobrowser-298d3e94-dd4b-4dbd-b336-2d7b631b1d79
+  - iprd-cz-radio-cas-rock-383a8c50
+streams:
+  - url: 'https://icecast9.play.cz/casrock192.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://icecast6.play.cz/casrock128.mp3'
+    codec: MP3
+    bitrate: 128

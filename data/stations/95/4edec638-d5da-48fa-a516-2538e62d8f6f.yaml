@@ -31,3 +31,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-4edec638-d5da-48fa-a516-2538e62d8f6f
+  - radiobrowser-72138d52-9a69-489b-b6fd-c62b1306f87c
+streams:
+  - url: 'https://loveradiopalawan.radioca.st:2199/tunein/loveradiopalawan-stream.pls'
+    url_resolved: 'http://138.201.198.218:8256/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://loveradiopalawan.radioca.st/listen.pls'
+    url_resolved: 'http://loveradiopalawan.radioca.st:8256/stream'
+    codec: MP3
+    bitrate: 128

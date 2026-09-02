@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: Zeno.fm
+  audience: holiday-music listeners
+  format: Christmas/holiday music
+  notes: Xmas Tunes Radio is a seasonal/holiday-music internet aggregator stream distributed via Zeno.fm and listed on directories like Radioline. The listed stream endpoint failed to authenticate.
+  sources: stream check
+curation: -0.05
 provenance:
   - iprd-us-xmas-tunes-radio-e9200396

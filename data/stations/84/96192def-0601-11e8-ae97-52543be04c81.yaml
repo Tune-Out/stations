@@ -35,3 +35,9 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-96192def-0601-11e8-ae97-52543be04c81
+  - iprd-pt-terra-nova-105-0-d4a2b6a0
+streams:
+  - url: 'http://centova.radio.com.pt:9404/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://centova.radio.com.pt:9404/listen.pls'

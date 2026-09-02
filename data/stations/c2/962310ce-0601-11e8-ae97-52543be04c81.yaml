@@ -33,3 +33,12 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-962310ce-0601-11e8-ae97-52543be04c81
+  - radiobrowser-96443c16-bb54-4437-964d-eef2d6f65239
+  - iprd-uy-del-sol-99-5-dd150f7c
+streams:
+  - url: 'http://radio.dl.uy:9950/radio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://delsol-1.nty.uy/?type=http&nocache=2780&dbl=0'
+    codec: MP3
+    bitrate: 128

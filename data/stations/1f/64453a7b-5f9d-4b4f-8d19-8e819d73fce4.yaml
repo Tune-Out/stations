@@ -36,3 +36,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-64453a7b-5f9d-4b4f-8d19-8e819d73fce4
+  - radiobrowser-afc9d0db-d909-43f7-a5fc-9f803c0ecf08
+streams:
+  - url: 'https://ranchito.b-cdn.net/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://streamingcwsradio30.com:7005/stream.mp3'
+    codec: MP3
+    bitrate: 128

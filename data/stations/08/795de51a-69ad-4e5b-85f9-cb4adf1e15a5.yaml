@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ae/ae_exclusiveradio.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Beyonce - Hits is a single-artist genre relay channel on the Exclusive Radio / uber.radio internet-radio network, an automated Beyoncé-catalog playlist stream with no original programming. The catalog already carries a more established, higher-vote 'Exclusively Beyonce' entry on the same exclusive.radio stream infrastructure.
+  sources: https://manager.uber.radio
+curation: -0.05
+duplicate_of: 41ff1cdf-5d52-43e4-ae6e-2841fe4c4493
 provenance:
   - iprd-ae-beyonce-hits-ad18d4b2

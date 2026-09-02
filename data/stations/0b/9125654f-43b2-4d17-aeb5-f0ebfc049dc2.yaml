@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: KWBY 98.5 is a small US commercial classic-hits/rock radio station; its homepage domain is active but the listed stream server appears unreachable.
+  sources: no additional web sources found beyond YAML metadata
+curation: -0.03
 provenance:
   - iprd-us-kwby-98-5-64456d67

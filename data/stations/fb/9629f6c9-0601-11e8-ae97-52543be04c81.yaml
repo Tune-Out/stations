@@ -25,14 +25,21 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: JAM FM (German commercial radio network)
   affiliations: none known
   audience: Germany, Berlin region; German-speaking; hip-hop, rap, R&B, and urban music listeners
   format: Hip-hop, rap, R&B, urban, Black music, contemporary and classic urban hits
   notes: Jam FM - Black Label is a specialized channel of JAM FM (Germany's major music radio network) dedicated to hip-hop, rap, and R&B music.
-  sources: internal knowledge only
+  sources: http://webradio.jam.fm/blk; stream verified 200 audio/mpeg (after redirect)
 curation: 0.35
 provenance:
   - radiobrowser-9629f6c9-0601-11e8-ae97-52543be04c81
+  - radiobrowser-f40006f2-cd9e-4855-91b2-179ceedc25a5
+  - iprd-de-jam-fm-black-label-e1c5a439
+streams:
+  - url: 'http://stream.jam.fm/jamfm-bl/mp3-128/radio-browser.info/'
+    codec: MP3
+  - url: 'https://stream.jam.fm/jamfm-bl/mp3-128'
+    codec: MP3

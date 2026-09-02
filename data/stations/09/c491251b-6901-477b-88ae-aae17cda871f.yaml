@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ae/ae_exclusiveradio.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Coldplay - Hits is a single-artist genre relay channel on the Exclusive Radio / uber.radio internet-radio network, an automated Coldplay-catalog playlist with no original programming. A higher-vote duplicate 'Exclusively Coldplay' already exists in the catalog on the same exclusive.radio stream infrastructure.
+  sources: https://manager.uber.radio
+curation: -0.05
+duplicate_of: b577d001-7e85-434d-bd32-0fd998d606d8
 provenance:
   - iprd-ae-coldplay-hits-83f1282c

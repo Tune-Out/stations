@@ -35,3 +35,13 @@ curation: -0.05
 provenance:
   - radiobrowser-e3c5702d-2441-11e8-91bf-52543be04c81
   - iprd-dk-rockkanalen-90b19b98
+  - radiobrowser-77a0b079-8fe7-4811-9c03-56e25be84475
+streams:
+  - url: 'http://www.kanalplus.fm/rockkanalen/kp96.pls'
+    url_resolved: 'http://stream.kanalplus.fm/kp96'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://www.kanalplus.fm/rockkanalen/kp128.pls'
+    url_resolved: 'http://stream.kanalplus.fm/kp128'
+    codec: MP3
+    bitrate: 192

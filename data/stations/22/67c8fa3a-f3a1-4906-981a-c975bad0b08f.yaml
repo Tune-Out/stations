@@ -31,3 +31,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-67c8fa3a-f3a1-4906-981a-c975bad0b08f
+  - radiobrowser-3f006a1e-172c-4e3e-a6f7-cb9ab9df21ca
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac'
+    url_resolved: 'http://28093.live.streamtheworld.com/UFM_1003AAC.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/pls/UFM_1003.pls'
+    url_resolved: 'https://22283.live.streamtheworld.com:443/UFM_1003_SC'
+    codec: MP3
+    bitrate: 96

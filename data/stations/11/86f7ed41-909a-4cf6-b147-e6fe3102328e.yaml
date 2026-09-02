@@ -22,14 +22,14 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Rewmi FM
   affiliations: none known
   audience: French-speaking listeners in Senegal, Dakar region
   format: General format; news, music, talk
   notes: Senegalese commercial FM radio station based in Dakar broadcasting in French.
-  sources: internal knowledge only
-curation: -0.05
+  sources: https://www.rewmi.com/; stream verified 200 audio/mpeg (required non-default user agent to bypass Zeno.fm bot-blocking)
+curation: 0.02
 provenance:
   - radiobrowser-86f7ed41-909a-4cf6-b147-e6fe3102328e

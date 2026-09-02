@@ -32,3 +32,14 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-706def0c-7017-4601-8305-db1cdb2e9420
+  - radiobrowser-159e4625-43d8-4cda-b98c-819edfad8667
+  - iprd-tr-super-fm-c3e30e83
+streams:
+  - url: 'https://playerservices.streamtheworld.com/pls/SUPER_FM.pls'
+    url_resolved: 'https://27913.live.streamtheworld.com:443/SUPER_FM_SC'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://playerservices.streamtheworld.com/pls/SUPER_FMAAC.pls'
+    url_resolved: 'http://22663.live.streamtheworld.com:80/SUPER_FMAAC_SC'
+    codec: AAC+
+    bitrate: 64

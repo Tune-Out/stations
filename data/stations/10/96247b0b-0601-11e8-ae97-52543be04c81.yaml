@@ -36,3 +36,9 @@ provenance:
   - radiobrowser-96247b0b-0601-11e8-ae97-52543be04c81
   - iprd-de-rockland-sachsen-anhalt-61de1bd8
   - iprd-de-rockland-sachsen-anhalt-daddad5b
+  - radiobrowser-90613b8c-5828-11e8-b0ce-52543be04c81
+streams:
+  - url: 'http://stream.rockland-digital.de/rockland/mp3-128/radio-browser/stream.mp3'
+    codec: MP3
+  - url: 'http://stream.1a-webradio.de/rockland/aac-48/radiosure-1a/stream.mp3'
+    codec: AAC

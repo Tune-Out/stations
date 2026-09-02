@@ -33,3 +33,9 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-96393fe9-0601-11e8-ae97-52543be04c81
+  - iprd-rs-szabadkai-magyar-radio-107-1-910269f5
+streams:
+  - url: 'http://breddstream.unrealhosting.hu:4110/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://breddstream.unrealhosting.hu:4110/listen.pls'

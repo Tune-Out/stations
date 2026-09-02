@@ -23,15 +23,15 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Mediaset (Italy)
-  affiliations: none known
+  operator: RadioMediaset, part of MFE - MediaForEurope
+  affiliations: MFE - MediaForEurope (the former Mediaset group)
   audience: Italian listeners nostalgic for 1980s music
-  format: 1980s music hits, MP3 128kbps
-  notes: RMC 80 is a web radio channel operated by Radio Monte Carlo, part of Mediaset's commercial radio portfolio. Specializes in 1980s music programming. Streams from Rome/Lombardia region in Italy.
-  sources: internal knowledge only
-curation: -0.05
+  format: 1980s pop and rock, automated and stream-only
+  notes: RMC 80 is one of roughly two dozen web channels spun off from Radio Monte Carlo, the Italian adult-contemporary station that trades on the slogan "Musica di Gran Classe" and is operated by RadioMediaset within MFE - MediaForEurope, the group formerly known as Mediaset. The channel plays a continuous automated 1980s playlist with no presenters. Its siblings on the same platform include RMC 90, RMC Jazz, RMC Italia, RMC Love Songs, RMC Disco Funk and RMC Buddha Bar. It is an ordinary themed spin-off rather than a station with its own editorial identity.
+  sources: https://www.radiomontecarlo.net/; stream header check on http://edge.radiomontecarlo.net/rmcweb008
+curation: 0.02
 provenance:
   - radiobrowser-96286b1d-0601-11e8-ae97-52543be04c81
   - iprd-it-rmc-80-83687a8b

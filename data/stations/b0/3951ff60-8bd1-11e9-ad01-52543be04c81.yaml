@@ -26,15 +26,15 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: public broadcaster
-  operator: Unknown (public radio indicated in tags)
-  affiliations: Turkish public broadcaster.
-  audience: Turkish listeners in Antalya region and southern Turkey; indie/electronic music enthusiasts.
-  format: Downtempo, electronica, indie, and alternative music with public radio mission focus.
-  notes: Public radio station serving Antalya region in Turkey. Specializes in downtempo, electronic, and indie music with independent, alternative programming. Turkish-language service.
-  sources: internal knowledge only
-curation: 0.55
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio Antalya (Umut, Can and Onur), Antalya
+  affiliations: none known; independent
+  audience: Alternative-music listeners in Antalya and Turkey
+  format: Indie, rock and electronica with curated playlists and guest mixes
+  notes: Radio Antalya is an independent online-only station founded in 2019 by three friends, Umut, Can and Onur, and billed as Antalya's "most free and original digital radio". Onur curates the indie, rock and electronica playlists around the city's mood, while Can and Umut contribute special mixes; the project was largely dormant through the pandemic and was relaunched with new playlists and site in 2025. It has no FM licence and no link to Turkey's public broadcaster TRT, so the previous "public broadcaster" classification was wrong.
+  sources: https://radioantalya.com/; https://streema.com/radios/Radio_Antalya
+curation: 0.30
 provenance:
   - radiobrowser-3951ff60-8bd1-11e9-ad01-52543be04c81
   - iprd-tr-radio-antalya-641cf04c

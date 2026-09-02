@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/tw/tw.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 'Relayed through China National Radio''s (CNR) satellitepull infrastructure and hosted on cnvod.cnr.cn, confirming this is a PRC state broadcaster rather than a Taiwanese station. Format is news/talk aimed at cross-strait audiences. Editorial flag: South East Broadcasting Corporation (东南广播公司) is a Fujian-based mainland Chinese state broadcaster whose programming is explicitly aimed at Taiwan Strait audiences as part of PRC united-front messaging; the catalog mislabels its country as Taiwan when it is actually mainland Chinese state media relayed via CNR''s satellite network.'
+  sources: http://cnvod.cnr.cn
+curation: -0.30
 provenance:
   - iprd-tw-south-east-broadcasting-corporation-16c2c0a0

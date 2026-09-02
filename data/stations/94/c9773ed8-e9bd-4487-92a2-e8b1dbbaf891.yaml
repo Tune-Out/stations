@@ -33,3 +33,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-c9773ed8-e9bd-4487-92a2-e8b1dbbaf891
+  - radiobrowser-4cd636d5-3068-43d6-8d90-c471ef02c461
+streams:
+  - url: 'https://stream.cassiopeia-station.ru:1095/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.cassiopeia-station.ru:5125/stream'
+    codec: MP3
+    bitrate: 256

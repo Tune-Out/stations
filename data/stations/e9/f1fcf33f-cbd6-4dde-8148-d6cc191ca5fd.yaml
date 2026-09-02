@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ir/ir.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 'Imported from IPRD catalog. Editorial flag: Radio Farhang is IRIB''s culture/arts/literature channel rather than a political news channel, but the operator IRIB is itself a designated entity (US OFAC 2013; EU listing Dec 2022 for its role in repression and forced confessions). Content on this channel is mostly cultural; flagged for the operator, not the programming.'
+  sources: 'IPRD: streams/ir/ir.m3u'
+curation: -0.50
 provenance:
   - iprd-ir-irib-radio-farhang-c5934f13

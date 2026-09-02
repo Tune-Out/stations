@@ -2,7 +2,7 @@ stationuuid: 964fc166-0601-11e8-ae97-52543be04c81
 name: Radio Nacional del Paraguay 920 AM
 url: http://audio.radionacional.gov.py:8085/920
 url_resolved: http://audio.radionacional.gov.py:8085/920
-homepage: http://www.radionacional.gov.py/
+homepage: https://www.radionacional.gov.py/
 favicon: https://www.radionacional.gov.py/wp-content/uploads/2024/11/cropped-favicon-radio-web-180x180.png
 tags:
   - public-radio
@@ -25,15 +25,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: public broadcaster
-  operator: Ente Público Radio Nacional del Paraguay (Paraguay state-owned public broadcaster)
-  affiliations: Paraguayan government, public media
-  audience: Paraguay; Spanish and Guaraní-language listeners
-  format: Full-service public radio with mixed programming including news, music, and cultural content
-  notes: Radio Nacional del Paraguay 920 AM is Paraguay's national public broadcasting station. Broadcasts on 920 AM throughout Paraguay, including Asunción. As a state-owned public broadcaster, it provides comprehensive coverage of national news, music programming, and cultural content. Serves bilingual audience in Spanish and Guaraní, reflecting Paraguay's official languages. Operates as fundamental service in Paraguay's public broadcasting landscape.
-  sources: internal knowledge only
-curation: 0.5
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: Ministry of Information and Communication Technologies (MITIC), Government of Paraguay
+  affiliations: Paraguayan state broadcaster
+  audience: Spanish and Guaraní speakers across Paraguay
+  format: News, government information, Paraguayan folk music and cultural programming
+  notes: Radio Nacional del Paraguay is the state radio of Paraguay, founded on 2 September 1942 and today run by the Ministry of Information and Communication Technologies (MITIC). Its flagship ZP1 transmits with 100 kW on 920 AM from Asunción, with a separate 95.1 FM service and regional outlets in Pilar (700 AM) and San Pedro (105.9 FM), broadcasting news, cultural programming and music in Spanish and Guaraní. It served as a propaganda organ during the Stroessner dictatorship but now operates as a conventional government public broadcaster.
+  sources: https://en.wikipedia.org/wiki/Radio_Nacional_del_Paraguay; https://www.radionacional.gov.py/; https://mitic.gov.py/radio-nacional-del-paraguay-82-anos-de-servicio-a-la-ciudadania/
+curation: 0.40
 provenance:
   - radiobrowser-964fc166-0601-11e8-ae97-52543be04c81
   - iprd-py-radio-nacional-de-paraguay-95-1-2d2bd638

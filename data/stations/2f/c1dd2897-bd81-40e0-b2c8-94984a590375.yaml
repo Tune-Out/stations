@@ -37,8 +37,16 @@ provenance:
   - iprd-cn-dlr-3-dalian-sports-broadcasting-105-7-cba8fec4
   - iprd-cn-dlr-7-dalian-xinchengrural-broadcasting-95-6-e570e059
   - iprd-cn-dalian-sports-broadcasting-105-7-ba99a339
+  - radiobrowser-13102d7a-2e08-40c0-b73a-718676e36eb8
+  - radiobrowser-cfacdc69-16c6-4ca4-91ba-f0089dfaccf0
 streams:
   - url: http://lhttp.qingting.fm/live/1085/64k.mp3
     codec: MP3
   - url: https://lhttp.qingting.fm/live/1085/64k.mp3
     codec: MP3
+  - url: 'http://ls.qingting.fm/live/1085.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://livepull.dlrm.cn/dlrm/86f877fd-e5d0-4823-b11f-c5d2e5575360.m3u8'
+    codec: UNKNOWN
+    hls: true

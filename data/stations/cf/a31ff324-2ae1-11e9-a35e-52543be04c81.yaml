@@ -33,6 +33,7 @@ curation: 0.4
 provenance:
   - radiobrowser-a31ff324-2ae1-11e9-a35e-52543be04c81
   - iprd-tr-radyo-voyage-107-4-3c32b22f
+  - radiobrowser-fa9d480d-3db9-49c6-a801-c0f5301b9072
 streams:
   - url: http://voyagewmp.radyotvonline.com/;stream.mp3
     codec: MP3
@@ -44,3 +45,6 @@ streams:
     codec: UNKNOWN
     bitrate: 128
     hls: true
+  - url: 'http://voyagewmp.radyotvonline.com/;'
+    codec: MP3
+    bitrate: 224

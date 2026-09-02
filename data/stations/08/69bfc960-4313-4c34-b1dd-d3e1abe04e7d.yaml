@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ae/ae_exclusiveradio.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Cars is a themed single-artist/genre relay channel on the Exclusive Radio / uber.radio internet-radio network based in the UAE, offering rock/pop music associated with cars/driving playlists. It is an automated genre-relay stream with no distinct editorial identity of its own.
+  sources: https://manager.uber.radio
+curation: -0.05
 provenance:
   - iprd-ae-cars-1cbd4a43

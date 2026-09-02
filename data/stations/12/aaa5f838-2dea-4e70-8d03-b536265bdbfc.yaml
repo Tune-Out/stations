@@ -34,3 +34,11 @@ curation: 0.25
 provenance:
   - radiobrowser-aaa5f838-2dea-4e70-8d03-b536265bdbfc
   - iprd-sn-dakar-musique-e0f6633f
+  - radiobrowser-95b1f36c-6a28-4c0e-bbfb-9b3e9ebe9cf4
+streams:
+  - url: 'http://listen.senemultimedia.net:8090/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.dakarmusique.com/'
+    codec: MP3
+    bitrate: 128

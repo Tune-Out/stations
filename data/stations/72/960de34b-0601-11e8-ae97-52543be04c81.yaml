@@ -36,3 +36,10 @@ curation: -0.1
 provenance:
   - radiobrowser-960de34b-0601-11e8-ae97-52543be04c81
   - iprd-gr-play-radio-680e8572
+  - radiobrowser-7dfaa6c2-dc6d-40b3-b8af-513a50583b80
+streams:
+  - url: 'http://eco.onestreaming.com:8222/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://n12.radiojar.com/0zs50dbr274tv?rj-ttl=5&rj-tok=AAABhP2aZowAREeJDqq73dSjNA'
+    codec: MP3

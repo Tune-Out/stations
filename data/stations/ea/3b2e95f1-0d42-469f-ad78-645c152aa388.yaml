@@ -33,3 +33,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-3b2e95f1-0d42-469f-ad78-645c152aa388
+  - radiobrowser-2d753761-45f6-45ae-b474-7ec773165ab5
+  - iprd-hr-hit-radio-62d5a679
+streams:
+  - url: 'http://s8.iqstreaming.com:8012/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://s8.iqstreaming.com:8012/;stream.mp3'
+    codec: MP3
+    bitrate: 128

@@ -31,3 +31,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-e843dbaf-4021-4594-ba0d-c3e85024954c
+  - radiobrowser-962b436c-0601-11e8-ae97-52543be04c81
+  - iprd-cz-radio-proglas-5328ba8b
+streams:
+  - url: 'http://icecast1.play.cz/proglas96aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://icecast2.play.cz/proglas128'
+    codec: MP3
+    bitrate: 128

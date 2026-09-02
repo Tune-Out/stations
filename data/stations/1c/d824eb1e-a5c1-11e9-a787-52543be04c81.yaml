@@ -39,3 +39,10 @@ provenance:
   - iprd-de-antenne-bayern-80er-kulthits-abdbf195
   - iprd-de-antenne-bayern-80er-kulthits-9b0ed543
   - iprd-de-antenne-bayern-80er-kulthits-ab7a37e9
+  - radiobrowser-79fef462-ba12-418e-ae79-374247c5be63
+streams:
+  - url: 'http://www.antenne.de/webradio/channels/80er-kulthits.aac.pls'
+    url_resolved: 'http://stream.antenne.de/80er-kulthits.aac'
+    codec: AAC
+  - url: 'http://stream.antenne.de/80er-kulthits/stream/aacp'
+    codec: AAC

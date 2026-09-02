@@ -33,3 +33,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-b178fbf8-1b56-4b22-8e10-1611fb38619f
+  - radiobrowser-d153e18b-8b8e-4313-ba88-dea315814efa
+streams:
+  - url: 'http://hemnos.cdnstream.com/1665_32'
+    codec: MP3
+    bitrate: 32
+  - url: 'http://kea.cdnstream.com/1893_128'
+    codec: MP3
+    bitrate: 128

@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Cumulus Media
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: KMCK 'The Power' 105.7 is a Cumulus Media top-40/pop commercial radio station licensed to Prairie Grove, Arkansas, serving the Fayetteville/Fort Smith market.
+  sources: no additional web sources found beyond YAML metadata
 curation: 0
+duplicate_of: 962a0cfe-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-kmck-the-power-105-7-685cc3f5

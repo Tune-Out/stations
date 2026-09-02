@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Digital 102.9 XHMG is a commercial hit-music station licensed to Monterrey, Nuevo León (XHMG-FM) and operated by Grupo Radio Alegría. A higher-vote duplicate of this exact station is already in the catalog under a fuller station-branded name.
+  sources: catalog cross-reference (Digital 102-9 Monterrey, digital1029.fm)
+curation: 0.05
+duplicate_of: 50c851be-f613-4ae9-a49f-db1fa7a4a7ff
 provenance:
   - iprd-mx-digital-102-9-xhmg-0e6c7b79

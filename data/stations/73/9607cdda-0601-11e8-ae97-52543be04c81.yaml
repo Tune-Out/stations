@@ -37,3 +37,12 @@ provenance:
   - radiobrowser-9607cdda-0601-11e8-ae97-52543be04c81
   - iprd-ch-rts-couleur-3-4c84ae3d
   - iprd-ch-rts-couleur-3-4c891ff2
+  - radiobrowser-78ffd9e4-5ff7-11e8-b15b-52543be04c81
+  - iprd-ch-couleur3-16ff9ff1
+streams:
+  - url: 'http://stream.srg-ssr.ch/m/couleur3/mp3_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.srg-ssr.ch/m/couleur3/aacp_96'
+    codec: AAC
+    bitrate: 96

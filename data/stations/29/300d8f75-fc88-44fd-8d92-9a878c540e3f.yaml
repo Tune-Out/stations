@@ -34,3 +34,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-300d8f75-fc88-44fd-8d92-9a878c540e3f
+  - radiobrowser-599ff9c0-a3ef-48e7-a5da-494c44642c68
+streams:
+  - url: 'http://primastream1.primareclame.nl:11231/'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://stream.christelijkeomroep.nl/192?_gl=1*tymsna*_ga*MTEwODM5OTM1MC4xNjgxMDcyNjUx*_ga_1717X15JX8*MTY4MTEwMjQ5OC4yLjAuMTY4MTEwMjQ5OC4wLjAuMA..'
+    codec: MP3
+    bitrate: 192

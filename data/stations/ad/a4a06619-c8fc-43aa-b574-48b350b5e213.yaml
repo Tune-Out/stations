@@ -23,14 +23,14 @@ clickcount: 16
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Unknown (small private operator; stream hosted on radyohizmeti.com infrastructure)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Havin FM (small private operator)
   affiliations: cultural/linguistic — focused on Kurdish identity through music; no known political party ties
   audience: Kurdish-speaking listeners in Türkiye and the diaspora; Kurmanji/Kurdish-language audience
-  format: Kurdish folk music ("Kurdî" folk songs and traditional repertoire), nonstop music format
-  notes: A small Turkey-based internet station dedicated to Kurdish folk music; "Havîn" means "summer" in Kurdish. Kurdish-language broadcasting in Türkiye has historically been restricted (banned outright until 1991 and on radio/TV until the 2000s reforms), so Kurdish-language internet streams like Havin FM occupy a culturally significant niche serving the Kurmanji-speaking community. No major commercial sponsor or public broadcasting tie identified.
-  sources: internal knowledge only (homepage fetch ECONNREFUSED)
-curation: 0.55
+  format: Kurdish folk music, nonstop
+  notes: Havin FM ('havîn' means summer in Kurdish) is a small Turkey-based internet radio station devoted to Kurdish folk music and culture, broadcasting nonstop Kurmanji-language songs to Kurdish listeners in Türkiye and the diaspora. Given the historical restrictions on Kurdish-language broadcasting in Türkiye, it fills a cultural niche. Its own domain havinfm.com is currently offline; the station maintains a Zeno.FM page and the stream runs on radyohizmeti.com hosting.
+  sources: https://zeno.fm/radio/havin-fm/; https://radio.menu/stations/havinfm-com-havin-fm/; https://keepone.net/radio/k2265/havin-fm
+curation: 0.30
 provenance:
   - radiobrowser-a4a06619-c8fc-43aa-b574-48b350b5e213

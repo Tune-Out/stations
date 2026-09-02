@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/gb/gb.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Bauer Media Group
+  affiliations: Bauer Hits Radio Network
+  audience: Local Cumbria listeners
+  format: Hits/pop/top-40
+  notes: CFM is a Bauer Media local commercial radio brand serving Carlisle and Cumbria in northwest England, part of Bauer's Hits Radio Network family of city/regional stations. It plays a mainstream hits/pop/top-40 format aimed at a broad local audience with local news inserts. The catalog homepage points to a Bauer asset-CDN image URL rather than the real station site.
+  sources: https://planetradio.co.uk/cfm/ (general knowledge of Bauer Media UK local radio network)
+curation: 0.00
 provenance:
   - iprd-gb-cfm-cumbria-uk-f5b10ac6

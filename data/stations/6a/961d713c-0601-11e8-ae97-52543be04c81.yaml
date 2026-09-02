@@ -33,3 +33,13 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-961d713c-0601-11e8-ae97-52543be04c81
+  - radiobrowser-964939e3-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://playerservices.streamtheworld.com/m3u/PROGRAM1AAC.m3u'
+    url_resolved: 'http://27863.live.streamtheworld.com/PROGRAM1AAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://playerservices.streamtheworld.com/pls/PROGRAM1.pls'
+    url_resolved: 'http://25643.live.streamtheworld.com:80/PROGRAM1_SC'
+    codec: MP3
+    bitrate: 64

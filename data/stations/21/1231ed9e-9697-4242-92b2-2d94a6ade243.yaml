@@ -33,6 +33,7 @@ research:
 curation: 0.6
 provenance:
   - radiobrowser-1231ed9e-9697-4242-92b2-2d94a6ade243
+  - radiobrowser-0fc4d4ba-2f4c-45a1-a0ad-5231acdd408d
 streams:
   - url: https://stream.radiofrance.fr/fipcultes/fipcultes.m3u8?id=radiofranceBose
     codec: AAC
@@ -41,3 +42,6 @@ streams:
   - url: https://stream.radiofrance.fr/fipcultes/fipcultes_hifi.m3u8
     codec: UNKNOWN
     hls: true
+  - url: 'http://radio-metadata.fr:8000/fipcultes'
+    codec: AAC
+    bitrate: 192

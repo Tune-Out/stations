@@ -1,8 +1,8 @@
 stationuuid: 96128e69-0601-11e8-ae97-52543be04c81
-name: FIP autour du reggae
+name: FIP Reggae
 url: http://direct.fipradio.fr/live/fip-webradio6.mp3
 url_resolved: http://direct.fipradio.fr/live/fip-webradio6.mp3
-homepage: http://www.fipradio.fr/
+homepage: https://www.radiofrance.fr/fip/radio-reggae
 favicon: http://www.fipradio.fr/dist/favicons/logo-120.png
 tags:
   - reggae
@@ -23,14 +23,15 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio France (France Musiques)
-  affiliations: none known
-  audience: French listeners; reggae and world music enthusiasts
-  format: Specialised webradio focusing on reggae, reggae-adjacent, and world music
-  notes: Part of FIP's multi-format subchannel lineup; public service French broadcaster
-  sources: internal knowledge only
+  operator: Radio France
+  affiliations: French public broadcasting; Radio France
+  audience: Reggae and dub listeners in France and worldwide
+  format: Curated reggae, dub and ska webradio
+  notes: FIP Reggae is one of the themed webradios of FIP, Radio France's commercial-free eclectic music station founded in 1971, whose selections are made by human music programmers rather than an algorithm. The channel plays roots reggae, dub, ska and related Caribbean and world sounds around the clock. This legacy direct.fipradio.fr URL now redirects to the current Radio France icecast stream; the catalog already holds the same channel as FIP Reggae with more votes.
+  sources: https://fr.wikipedia.org/wiki/FIP_(radio); https://en.wikipedia.org/wiki/FIP_(radio_station); https://icecast.radiofrance.fr/fipreggae-midfi.mp3
 curation: 0.6
+duplicate_of: 84764bda-eb7e-11e9-a96c-52543be04c81
 provenance:
   - radiobrowser-96128e69-0601-11e8-ae97-52543be04c81

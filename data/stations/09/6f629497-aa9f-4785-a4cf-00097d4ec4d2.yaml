@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/it/it.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Radio Bologna Uno (branded 'Nettuno Bologna Uno, Sportivamente Classica') is an Italian local commercial radio station dedicated to sports coverage, giving extensive commentary on Bologna FC 1909, Virtus Bologna and Fortitudo Bologna basketball, plus daily talk shows. The catalog's stream domain (web.bolognauno.it) no longer resolves, but the station's actual website (radiobolognauno.it) is confirmed live.
+  sources: https://www.radiobolognauno.it/PrimoFlusso.html; https://ascoltareradio.com/uno-bologna/
+curation: 0.10
 provenance:
   - iprd-it-radio-bologna-uno-f378227b

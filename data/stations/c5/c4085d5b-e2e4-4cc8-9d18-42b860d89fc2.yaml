@@ -32,3 +32,13 @@ research:
 curation: 0.25
 provenance:
   - radiobrowser-c4085d5b-e2e4-4cc8-9d18-42b860d89fc2
+  - radiobrowser-791129b2-3489-4bec-a959-1fa71f718cb9
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3'
+    url_resolved: 'https://25323.live.streamtheworld.com:443/CREAM.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/CREAMAAC.aac?sbmid=21e76c32-09dd-4c0e-b256-71aa1107916d'
+    url_resolved: 'https://28973.live.streamtheworld.com:443/CREAMAAC.aac?sbmid=21e76c32-09dd-4c0e-b256-71aa1107916d'
+    codec: AAC+
+    bitrate: 160

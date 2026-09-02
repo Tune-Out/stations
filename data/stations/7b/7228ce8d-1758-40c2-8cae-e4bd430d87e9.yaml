@@ -1,5 +1,5 @@
 stationuuid: 7228ce8d-1758-40c2-8cae-e4bd430d87e9
-name: Nation fm
+name: Nation FM
 url: http://stream.radiojar.com/3by7s8eg65quv
 url_resolved: http://stream.radiojar.com/3by7s8eg65quv
 homepage: http://stream.radiojar.com/3by7s8eg65quv
@@ -21,14 +21,14 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: NATION FM (Kenya)
-  affiliations: Kenyan broadcaster
-  audience: Kenya and East Africa, classical music audiences
-  format: Classical music and related fine arts programming.
-  notes: NATION FM is a Kenyan radio station specializing in classical music and fine art audio programming. The station serves Kenyan audiences seeking classical music content, including symphony, opera, chamber music, and related repertoire. NATION FM operates as a classical music-focused station in the East African media landscape.
-  sources: internal knowledge only
-curation: 0.55
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Nation Media Group, Nairobi
+  affiliations: Nation Media Group (Aga Khan Fund for Economic Development); sister to NTV Kenya and Daily Nation
+  audience: English-speaking adults in Nairobi and Kenya's major towns
+  format: English news, talk, business and lifestyle with adult contemporary music
+  notes: Nation FM is an English-language commercial station owned by Nation Media Group, broadcasting on 96.3 FM in Nairobi with relays in Meru, Nakuru, Nyeri, Eldoret and Mombasa. It launched in 1998 as Easy FM and was rebranded Nation FM, mixing news, politics, business, sport and lifestyle talk with music. The catalog's "classical" tag and public-radio notes are wrong; the current homepage field is just the RadioJar stream URL.
+  sources: https://en.wikipedia.org/wiki/Nation_FM_(Kenya); https://radio.ke/341-nation-fm.html
+curation: 0.27
 provenance:
   - radiobrowser-7228ce8d-1758-40c2-8cae-e4bd430d87e9

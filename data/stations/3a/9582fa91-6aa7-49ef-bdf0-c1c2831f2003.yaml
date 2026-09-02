@@ -35,6 +35,7 @@ curation: 0.55
 provenance:
   - radiobrowser-9582fa91-6aa7-49ef-bdf0-c1c2831f2003
   - iprd-us-hd-radio-classic-rock-8a80fc1c
+  - radiobrowser-7c5041a5-5572-4973-8625-b8c3cc179a94
 streams:
   - url: http://rosetta.shoutca.st:8352/stream
     codec: MP3
@@ -46,5 +47,8 @@ streams:
     codec: MP3
     bitrate: 128
   - url: https://haradioblues-rfritschka.radioca.st/
+    codec: MP3
+    bitrate: 128
+  - url: 'http://hdradioclassicrock-rfritschka.radioca.st/;'
     codec: MP3
     bitrate: 128

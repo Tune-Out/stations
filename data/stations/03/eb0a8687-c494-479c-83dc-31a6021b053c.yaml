@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ec/ec.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: Unknown
+  affiliations: Zeno.FM hosting platform
+  audience: Ecuador, ballad/cumbia listeners
+  format: Ballad, cumbia
+  notes: Ecuanonima appears to be a small independent Ecuadorian online radio stream focused on ballad and cumbia music, hosted via the Zeno.FM platform. No independent corroborating sources were found beyond the IPRD listing.
+  sources: 'IPRD: streams/ec/ec.m3u'
+curation: -0.03
 provenance:
   - iprd-ec-ecuanonima-23f16e7f

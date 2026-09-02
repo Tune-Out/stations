@@ -34,3 +34,11 @@ curation: 0.35
 provenance:
   - radiobrowser-9645fc2b-0601-11e8-ae97-52543be04c81
   - iprd-gb-solid-gold-gem-am-a466aacc
+  - radiobrowser-db953766-d86a-493f-8906-fedd26ca5df1
+streams:
+  - url: 'http://4483.cloudrad.io:8130/;'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://4483.cloudrad.io:8130/;stream.mp3#40#4'
+    codec: MP3
+    bitrate: 192

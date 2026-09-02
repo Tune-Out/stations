@@ -34,10 +34,14 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-3963a7f3-d1cc-4fe1-831b-36499ca21b6f
+  - radiobrowser-04602093-2633-4f1a-9e22-c0007e9436af
 streams:
   - url: https://rozhlas.stream/wave_mp3_256.mp3
     codec: MP3
     bitrate: 128
   - url: http://rozhlas.stream/wave_mp3_256.mp3
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rozhlas.stream/wave_mp3_128.mp3'
     codec: MP3
     bitrate: 128

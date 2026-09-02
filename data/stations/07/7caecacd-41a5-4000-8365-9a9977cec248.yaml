@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: regional Mexican-format network affiliate
+  affiliations: ''
+  audience: ''
+  format: regional Mexican music
+  notes: La Comadre 100.3 XHPP is a regional Mexican-format commercial station, a local affiliate distinct from the flagship CDMX 'La Comadre' (XEL-AM, ACIR Group) already in the catalog under a different frequency/city.
+  sources: 'IPRD: streams/mx/mx.m3u'
+curation: 0.10
 provenance:
   - iprd-mx-la-comadre-100-3-xhpp-773051b2

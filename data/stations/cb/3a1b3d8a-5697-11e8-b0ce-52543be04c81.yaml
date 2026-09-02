@@ -34,3 +34,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-3a1b3d8a-5697-11e8-b0ce-52543be04c81
+  - radiobrowser-002a5739-01b9-466e-9fed-eff9d980dd69
+streams:
+  - url: 'http://mp3.antenneac.c.nmdn.net/ps-antenneac/livestream.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://antenneac--di--nacs-ais-lgc--06--cdn.cast.addradio.de/antenneac/live/mp3/high'
+    codec: MP3
+    bitrate: 192

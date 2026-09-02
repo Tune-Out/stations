@@ -23,14 +23,28 @@ clickcount: 6
 geo_lat: 37.57941251343841
 geo_long: 126.98021835886352
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: KBS (Korean Broadcasting System)
-  affiliations: Government of South Korea; public service media; national broadcaster
-  audience: Korean speakers; South Korea national audience; classical music enthusiasts
-  format: Classical music, symphonies, opera; 24/7 classical music programming
-  notes: KBS Classic FM (1FM) is public radio station operated by Korean Broadcasting System, South Korea's primary public broadcaster. Launched as dedicated classical music service. Provides comprehensive classical music coverage, international and Korean classical compositions. Public service funded model.
-  sources: internal knowledge only
-curation: 0.6
+  operator: Korean Broadcasting System (KBS)
+  affiliations: South Korean public broadcaster
+  audience: Classical and traditional music listeners in Korea
+  format: Classical music, opera and gugak
+  notes: KBS Classic FM (KBS 1FM, 93.1 MHz Seoul) is the classical-music channel of the Korean Broadcasting System, South Korea's licence-fee-funded public broadcaster, on air since 1979. It broadcasts classical music, opera and Korean traditional music (gugak) around the clock with presenter-hosted programmes and live concerts featuring the KBS Symphony Orchestra. The catalogue URL is a third-party duckdns .pls proxy that resolves to KBS's own signed HLS stream on gscdn.kbs.co.kr.
+  sources: https://www.kbs.co.kr/; http://serpent0.duckdns.org:8088/kbsfm.pls
+curation: 0.67
 provenance:
   - radiobrowser-e3d4515f-eb35-40e2-aeb9-dc48e9ba910c
+  - radiobrowser-4be766ba-038c-4795-87b0-04be87b1e712
+  - radiobrowser-bd8fb526-2493-4849-a686-88fbcaa2f144
+streams:
+  - url: 'http://serpent0.duckdns.org:8088/kbsfm.pls'
+    url_resolved: 'https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njg2MjQ3NDR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=krM8oWvSggo3sLhJl6-svmsv4EXDXPaHDav4~lMJqkdCwEllfjb~XAYmu15oAzUctd8RkamM143pPUMHG6XOTwN9I2ZS1ryFGkEyAEJzQobvJK7mjvoS1nOmrCmTs05pTuelkrlQKtWKZhnYVYjM9ezo5QyVxkhW5wzarCGseOI-pv37HOqyAWuhcRTAzwSHPS8ddV5trO0Q7cPt0IkcfHTWn8Bc7vOn0zyx85MmSk3pw5LJySIWQVNf6yUVeIC-p1bwV~Vq4p-Ad5rHU0KIluwGnHFhMmF~iGdqSiMjDoQxR-KzURPNBJxeXfzUrO1vElm~c2tU9wL7d7ujWe8gbg__'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://serpent0.duckdns.org:8088/kbs1fm.pls'
+    url_resolved: 'https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njg2MzkxNTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=NR~53BlUlI9QCtULTlCFvtegIg9mGCKpWVFbEvwuTEHiAPccXUuN9HhyFT3PP4HeQYvJfEsAoQfikcAxbhM8vyffEqself1VGch2wXVdbbOPnOiwEvG9iyK~z~rAnKvmZS4IAsEECGEQVj0ewYfWjXvUz~~x7zLNgWAa22e4etK4WzZT28koh6FTverP74oRAaavsAJU~ZIin9HWbkvxiGzMrNNH5Nkib1ZiNyr4qfY~Z4vMd1H5Dg2C2~NFl2lyt6yaPGWvDkNzAVnf-T4lzhrVn-1BbwBKrqpzxzxukqdYLsnUOq9BBZtc9-7C3kSR4SL3dA5nO~NCjCbP0T6lnw__'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://radio.bsod.kr/stream/?stn=kbs&ch=1fm'
+    codec: UNKNOWN
+    hls: true

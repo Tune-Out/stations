@@ -32,3 +32,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-9b916475-2a74-42fd-aa45-86b88d8b5de5
+  - radiobrowser-4bb149bc-0bed-4b8d-8956-2487c6caea9f
+streams:
+  - url: 'https://cf9a5872ebf6f9a.cmccloud.com.vn/ANTV/antv1.m3u8'
+    codec: UNKNOWN
+    bitrate: 496
+    hls: true
+  - url: 'https://lives.antv.gov.vn/channel/antv/channel/antv_480p/chunks.m3u8'
+    codec: UNKNOWN
+    hls: true

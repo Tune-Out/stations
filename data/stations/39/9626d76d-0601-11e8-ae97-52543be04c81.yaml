@@ -36,3 +36,12 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-9626d76d-0601-11e8-ae97-52543be04c81
+  - radiobrowser-9bf91181-8cad-4384-bc85-3dc59d760130
+  - iprd-de-dreampop-radio-c07bb7e8
+streams:
+  - url: 'http://stream.laut.fm/dreampopradio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dreampopradio.stream.laut.fm/dreampopradio'
+    codec: MP3
+    bitrate: 128

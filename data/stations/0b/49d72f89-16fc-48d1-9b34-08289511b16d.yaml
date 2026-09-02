@@ -22,14 +22,14 @@ clickcount: 21
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
-  nature: non-commercial
-  operator: U7Radio.org
-  affiliations: none known; paranormal interest community
-  audience: Paranormal and unexplained phenomena enthusiasts; Art Bell fans globally
-  format: Archival "Coast to Coast AM with Art Bell" episodes; paranormal, UFO, and extraterrestrial information programming; listener-supported internet radio
-  notes: 'Non-commercial listener-supported internet radio station. Mission statement: "U7 Radio provides 3 streams of 24/7 internet radio — including the Very Best of Art Bell. We are 100% listener supported and have been on the air for over 18 years. All donations go directly to server and bandwidth costs." Features archival content from Coast to Coast AM with Art Bell, UFO discussions, and paranormal topics. Includes 1997 Artbell.com website archive and AI-generated Art Bell episodes from 2023. Three 24/7 streaming channels with multiple port options for global accessibility.'
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: U7 Radio (independent, listener-supported)
+  affiliations: none known
+  audience: Art Bell and paranormal talk enthusiasts
+  format: Archival Art Bell paranormal talk radio episodes
+  notes: U7 Radio is a US internet station that has run for over 18 years and is best known for "The Very Best of Art Bell", a 24/7 rotation of archival Coast to Coast AM and Dreamland episodes hosted by the late Art Bell on paranormal, UFO and fringe-science topics. It is 100% listener-supported with donations covering server and bandwidth costs, offers three parallel streams, and migrated to a new server in 2026. The catalog URL on port 8000 now returns the SHOUTcast admin page; the working feed is https://u7radio.org/stream (24 kbps MP3).
   sources: http://u7radio.org/
-curation: 0.5
+curation: 0.36
 provenance:
   - radiobrowser-49d72f89-16fc-48d1-9b34-08289511b16d

@@ -20,14 +20,15 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: RBA (Rwanda Broadcasting Agency or private operator)
   affiliations: none known
   audience: Rwandan listeners; Kigali and surrounding regions
   format: Music and general entertainment programming
-  notes: 90.7 Magic FM broadcasts on 90.7 FM from Rwanda, offering music and entertainment programming. Commercial station serving Rwandan audiences. Limited publicly available information about specific programming or corporate structure.
-  sources: internal knowledge only
-curation: -0.05
+  notes: 90.7 Magic FM is a commercial pop and dance-music station broadcasting from Kigali, Rwanda, streamed via the Rwanda Broadcasting Agency's (RBA) infrastructure. It duplicates the higher-voted catalog entry "Magic FM" (RW), which shares the identical stream and homepage.
+  sources: http://listen.rba.co.rw/radios/radiomagic.html
+curation: -0.07
+duplicate_of: f2f65d44-2101-4742-9c93-314f124dedbf
 provenance:
   - radiobrowser-78602731-7afd-4e17-b418-b38f2f222add

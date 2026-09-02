@@ -1,5 +1,5 @@
 stationuuid: 961f5a7a-0601-11e8-ae97-52543be04c81
-name: Blu Radio, señal nacional (HJCK, 89.9 MHz FM, Bogotá / HJN42, 96.3 MHz, San Martín, Meta / HJH87, 103.1 MHz, Paipa, Boyacá / HJOM, 1090 KHz, Cartagena de Indias / HJM47 103.1 MHz, Algeciras, Huila / HJQ43, 94.1 MHz, Bugalagrande, Valle del Cauca)
+name: Blu Radio
 url: http://playerservices.streamtheworld.com/m3u/BLURADIO.m3u
 url_resolved: http://27433.live.streamtheworld.com:3690/BLURADIO_SC
 homepage: http://www.bluradio.com/
@@ -27,14 +27,26 @@ clickcount: 22
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Grupo Blu (Colombian broadcaster)
-  affiliations: Colombian commercial media
-  audience: Colombia (national, with Bogotá flagship); Spanish language; news/talk/sports
-  format: News, talk radio, live sports commentary
-  notes: '"Blu Radio" national signal with multiple regional frequencies (HJCK Bogotá 89.9 FM, HJN42 San Martín 96.3 FM, HJH87 Paipa 103.1 FM, HJOM Cartagena 1090 AM, HJM47 Algeciras 103.1 FM, HJQ43 Bugalagrande 94.1 FM). Established Colombian news/sports network with strong sports journalism tradition.'
-  sources: internal knowledge only
-curation: -0.05
+  operator: Valorem and Caracol Televisión (Grupo Santo Domingo companies)
+  affiliations: Caracol Televisión; Valorem; sister brand La Kalle
+  audience: Colombian adults nationwide seeking news, opinion and sports
+  format: 'news/talk generalista: Mañanas Blu, Meridiano Blu, Blog Deportivo, Voz Populi, live sports'
+  notes: Blu Radio is a Colombian national news and talk network launched on 6 September 2012 by Valorem and Caracol Televisión, with its flagship on 89.9 FM in Bogotá and outlets including 97.9 FM Medellín, 100.1 FM Barranquilla and 91.5 FM Cali plus regional affiliates. Its schedule centres on the morning news programme Mañanas Blu, the midday Meridiano Blu, the sports show Blog Deportivo and the evening opinion programme Voz Populi, with live football coverage. It has become one of Colombia's leading news radio brands and one of the main competitors to Caracol Radio and RCN. The catalog name carries a long list of call signs and frequencies that should be trimmed to 'Blu Radio'.
+  sources: https://es.wikipedia.org/wiki/Blu_Radio; https://www.bluradio.com/
+curation: 0.35
 provenance:
   - radiobrowser-961f5a7a-0601-11e8-ae97-52543be04c81
+  - radiobrowser-ddc250bf-e91d-4a39-9774-8026854d1119
+  - iprd-co-hjh27-blu-radio-barranquilla-100-1-edaeb733
+  - iprd-co-hjck-blu-radio-se-al-nacional-a918b657
+streams:
+  - url: 'http://playerservices.streamtheworld.com/m3u/BLURADIO.m3u'
+    url_resolved: 'http://27433.live.streamtheworld.com:3690/BLURADIO_SC'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_ADP.aac'
+    url_resolved: 'https://24373.live.streamtheworld.com:443/BLURADIO_ADP.aac'
+    codec: AAC+
+    bitrate: 128

@@ -38,3 +38,11 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-7e6c707f-70a5-497d-b679-d2a9513223b0
+  - iprd-us-krvs-88-7-radio-acadie-58023ec0
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFMAAC.aac'
+    url_resolved: 'https://18863.live.streamtheworld.com:443/KRVSFMAAC.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/pls/KRVSFM.pls'
+    url_resolved: 'https://27033.live.streamtheworld.com:443/KRVSFM_SC'

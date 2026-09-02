@@ -1,8 +1,8 @@
 stationuuid: 6be26492-2d96-444d-afa6-91fd5b374bed
-name: 臺北電台AM
+name: 臺北廣播電臺 AM1134
 url: https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
 url_resolved: https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
-homepage: http://www.radio.gov.taipei/
+homepage: https://www.radio.gov.taipei/
 favicon: http://www.radio.gov.taipei/images/favicon.ico
 tags:
   - public-radio
@@ -23,14 +23,14 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Taipei City Government Department of Information (臺北市政府)
-  affiliations: Government public broadcasting (Taiwan)
-  audience: Taipei and Taiwan Mandarin Chinese speakers
-  format: Public radio with news, current affairs, and cultural programming
-  notes: Public radio station operated by Taipei City government; provides news, culture, and public information programming; serves Taipei region
-  sources: http://www.radio.gov.taipei/, internal knowledge only
-curation: 0.55
+  operator: Taipei City Government, Department of Information and Tourism
+  affiliations: Municipal government-owned public station
+  audience: Taiwanese indigenous communities and Taipei-area listeners; Mandarin and indigenous languages
+  format: 'Indigenous-peoples channel (AM 1134 ''喔!海洋''): news, culture, music'
+  notes: Taipei Broadcasting Station (臺北廣播電臺) is the municipal public radio station of the Taipei City Government, run by its Department of Information and Tourism from the Yuanshan complex in Zhongshan District; it began as a civil-defence broadcaster in 1959, went on air in July 1961 and took its current name in 1977. This entry is its AM 1134 channel, which since 2005 has been branded '喔!海洋' as Taiwan's dedicated indigenous-peoples channel with news, culture and music for Taiwan's Austronesian communities, distinct from the FM 93.1 general city-information service that the catalog lists separately. Coverage extends across Taipei, New Taipei, Keelung, Taoyuan, Hsinchu and Yilan.
+  sources: https://zh.wikipedia.org/wiki/臺北廣播電臺; https://en.wikipedia.org/wiki/Taipei_Broadcasting_Station; https://www.radio.gov.taipei/
+curation: 0.45
 provenance:
   - radiobrowser-6be26492-2d96-444d-afa6-91fd5b374bed

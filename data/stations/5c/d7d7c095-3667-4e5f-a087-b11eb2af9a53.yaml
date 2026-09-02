@@ -35,3 +35,9 @@ research:
 curation: 0.65
 provenance:
   - radiobrowser-d7d7c095-3667-4e5f-a087-b11eb2af9a53
+  - iprd-us-kbia-91-3-a961673c
+streams:
+  - url: 'https://das-sa43.cdnstream1.com/6062_256k.aac'
+    codec: AAC
+    bitrate: 256
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAFM_SC'

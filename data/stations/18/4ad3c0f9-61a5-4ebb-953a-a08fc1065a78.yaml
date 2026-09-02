@@ -31,3 +31,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-4ad3c0f9-61a5-4ebb-953a-a08fc1065a78
+  - radiobrowser-757beb48-9451-4e2a-93dc-1fcc8574fe05
+streams:
+  - url: 'http://s39.myradiostream.com/5458/listen.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s14.myradiostream.com/30454/listen.mp3'
+    codec: MP3
+    bitrate: 192

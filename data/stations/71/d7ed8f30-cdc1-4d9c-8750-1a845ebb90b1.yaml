@@ -1,5 +1,5 @@
 stationuuid: d7ed8f30-cdc1-4d9c-8750-1a845ebb90b1
-name: Nasional FM 88,5 MHz
+name: Nasional FM
 url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3'
 url_resolved: 'http://22243.live.streamtheworld.com:80/NASIONAL_FM.mp3'
 homepage: https://nasionalfm.rtm.gov.my/
@@ -22,14 +22,14 @@ clickcount: 19
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
-  operator: Radio Televisyen Malaysia (RTM) under the Malaysian Ministry of Communications (Kementerian Komunikasi)
-  affiliations: Government of Malaysia; broadcasts in line with state media policy and serves as an official information channel
-  audience: Malay-language Malaysian listeners nationwide; targets a general adult audience with emphasis on national identity, civic affairs, and Malay culture
-  format: Malay-language full-service public radio — news, current affairs, talk, religious (Islamic) programmes, Malay music, and cultural content
-  notes: Nasional FM (originally "Radio 1" and earlier "Radio Malaysia") is the flagship national Malay-language radio service of RTM, with origins dating to 1946 broadcasting under British colonial rule. RTM was formed in 1969 by merging Radio Malaysia and Televisyen Malaysia. As the state broadcaster, Nasional FM carries official announcements, Friday sermon broadcasts, the Quran recitation programmes, and major national addresses. It broadcasts on FM nationwide (88.5 MHz in the Klang Valley) and via DAB, satellite, and online via myKlik.
-  sources: https://nasionalfm.rtm.gov.my/, internal knowledge
-curation: 0.55
+  operator: Radio Televisyen Malaysia (RTM)
+  affiliations: Government of Malaysia (Ministry of Communications)
+  audience: Malay-speaking listeners across Malaysia
+  format: 'Malay full-service public radio: news, talk, religious programmes, Malay music'
+  notes: Nasional FM is the flagship Malay-language national radio service of Radio Televisyen Malaysia (RTM), a department of the Malaysian government. It launched on 20 June 1975 as Malaysia's first FM stereo station, was known as Radio Muzik, Radio 1 and Radio 2, and took its current name on 1 January 2012 after the demerger of Klasik Nasional FM. It broadcasts nationwide on FM (88.5 MHz in the Klang Valley), via Astro/MYTV and online, with a full-service mix of news, talk, Islamic religious programmes and Malay music under the motto "Sentiasa di Hati".
+  sources: https://en.wikipedia.org/wiki/Nasional_FM; https://nasionalfm.rtm.gov.my/
+curation: 0.45
 provenance:
   - radiobrowser-d7ed8f30-cdc1-4d9c-8750-1a845ebb90b1

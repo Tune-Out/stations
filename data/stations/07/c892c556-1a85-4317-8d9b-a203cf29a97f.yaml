@@ -2,7 +2,7 @@ stationuuid: c892c556-1a85-4317-8d9b-a203cf29a97f
 name: KFBK News Radio 93.1/1530
 url: http://n34b-e2.revma.ihrhls.com/zc217?rj-ttl=5&rj-tok=AAABfdreqUQA1tTaHAkJ8DHsVA
 url_resolved: http://n34b-e2.revma.ihrhls.com/zc217?rj-ttl=5&rj-tok=AAABfdreqUQA1tTaHAkJ8DHsVA
-homepage: https://i.iheart.com
+homepage: https://kfbk.iheart.com
 favicon: https://i.iheart.com/v3/re/assets.brands/acc89b33c9780124e0fc60982283130f
 tags:
   - news
@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: iHeartMedia
+  affiliations: ''
+  audience: ''
+  format: news/talk
+  notes: KFBK is a heritage 50,000-watt clear-channel news/talk station in Sacramento, California, broadcasting since 1922 and owned today by iHeartMedia; it is historically notable as the station where Rush Limbaugh first rose to prominence before national syndication.
+  sources: https://en.wikipedia.org/wiki/KFBK_(AM)
+curation: 0.30
+duplicate_of: e5505903-9fe8-4e60-9f36-5170fbf2d638
 provenance:
   - iprd-us-kfbk-news-radio-93-1-1530-d6eb32c3

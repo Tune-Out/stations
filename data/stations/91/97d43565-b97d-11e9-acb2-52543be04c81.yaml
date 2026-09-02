@@ -36,10 +36,13 @@ curation: 0.35
 provenance:
   - radiobrowser-97d43565-b97d-11e9-acb2-52543be04c81
   - iprd-de-radio-nordseewelle-ostfriesland-35fe9e59
+  - radiobrowser-ffd627be-b006-4158-85b3-1550f7530819
 streams:
   - url: http://stream.radio-nordseewelle.de/whv/mp3-192/
     codec: MP3
   - url: https://stream.radio-nordseewelle.de/live/mp3-192/
     codec: MP3
   - url: https://nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115?sABC=6553rs55%230%23761n8r0r980r33n36p5n8or875p093oq%23enqvbcynlre&rp_source=1&___cb=985703115692634&aw_0_1st.playerid=radioplayer&amsparams=playerid:radioplayer;skey:1699999573
+    codec: MP3
+  - url: 'https://stream.radio-nordseewelle.de/live/mp3-192/stream.radio-nordseewelle.de/'
     codec: MP3

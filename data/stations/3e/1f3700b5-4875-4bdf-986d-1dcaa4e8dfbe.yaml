@@ -2,7 +2,7 @@ stationuuid: 1f3700b5-4875-4bdf-986d-1dcaa4e8dfbe
 name: Bayern 2
 url: https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
 url_resolved: https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
-homepage: https://www.br.de/radio/bayern2/index.html
+homepage: https://www.br.de/radio/bayern2/
 favicon: https://api.ardmediathek.de/image-service/images/urn:ard:image:5d72d15e88d309ec?w=512
 tags:
   - news
@@ -23,15 +23,15 @@ clickcount: 65
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Bayerischer Rundfunk (BR), the Bavarian member of the ARD public broadcasting consortium
+  operator: Bayerischer Rundfunk (BR), ARD member
   affiliations: ARD; financed via the German Rundfunkbeitrag licence fee and chartered under the Bayerisches Rundfunkgesetz
   audience: Educated German-speaking adults across Bavaria with an interest in culture, politics, current affairs, science and literature; secondary national reach via DAB+ and streaming
   format: Public-service "Wort und Kultur" (word and culture) channel mixing in-depth news magazines, features, radio drama (Hörspiel), classical/jazz/world music and religious programming
-  notes: Bayern 2 launched in 1950 as BR's second radio programme and was modernised in 2008 into a single nationwide stream after merging the previously separate Bayern 2 Nord and Süd opt-outs; flagship strands include the early-morning current-affairs magazine "radioWelt", the long-running cultural and literary magazine "Diwan", "IQ - Wissenschaft und Forschung" (science), "Zündfunk" (alternative/youth culture, broadcast since 1974), "kulturWelt", and "Bayerisches Feuilleton"; the channel carries the Catholic-church liturgical hour and Protestant services on Sundays as part of BR's statutory religious-broadcasting remit; widely regarded as one of the most ambitious cultural radio services in German-language Europe alongside Deutschlandfunk Kultur and Ö1.
-  sources: internal knowledge (br.de blocked WebFetch from Claude Code)
-curation: 0.7
+  notes: Bayern 2 is Bayerischer Rundfunk's culture and information channel, on air since 18 August 1950 and broadcast across Bavaria and South Tyrol on 41 FM frequencies, DAB+ and online. It is a word-and-culture service mixing in-depth news magazines such as 'radioWelt', the science strand 'IQ', the literary and cultural magazine 'Diwan', the youth-culture programme 'Zündfunk' (since 1974), radio drama and a broad music selection from classical to world music, plus statutory religious broadcasts. Licence-fee funded as part of ARD, it is regarded as one of the most ambitious cultural radio services in German-speaking Europe.
+  sources: https://en.wikipedia.org/wiki/Bayern_2; https://www.br.de/radio/bayern2/
+curation: 0.80
 provenance:
   - radiobrowser-1f3700b5-4875-4bdf-986d-1dcaa4e8dfbe
   - iprd-de-bayern-2-861f1fd9

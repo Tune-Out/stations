@@ -34,3 +34,11 @@ curation: 0
 provenance:
   - radiobrowser-bdc58fc8-e71a-4081-8d50-e7f18e044923
   - iprd-us-ukulele-island-b683bef3
+  - radiobrowser-15e8b9ea-9e48-4f99-b57b-40fb172fcb2b
+streams:
+  - url: 'http://s3.voscast.com:8662/'
+    codec: MP3
+    bitrate: 24
+  - url: 'http://s3.voscast.com:8662/stream'
+    codec: MP3
+    bitrate: 24

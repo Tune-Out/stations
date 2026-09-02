@@ -23,15 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: unknown
+  reviewed_at: 2026-09-02
+  nature: commercial
   operator: Unknown
   affiliations: none known
   audience: Azerbaijan; Azerbaijani-speaking; folk music listeners
   format: Folk music.
-  notes: Small independent streaming station focused on Azerbaijani folk traditions. Minimal online presence.
-  sources: internal knowledge only
-curation: 0.1
+  notes: 'bakuretrofm was a small Azerbaijani folk-music stream hosted on a shared Icecast server (5.191.241.101) alongside several commercial Baku stations (Araz Market, AvtoFM, DalgaFM, PlanetFM, etc.). The "/bakuretrofm" mount point no longer exists on that server, though the server itself and its sibling stations are still running. Editorial note: appears to be defunct as of 2026-09-02.'
+  sources: http://5.191.241.101:8000/ (Icecast status page)
+curation: -0.30
 provenance:
   - radiobrowser-4884f8f5-87e8-4874-9ef0-a8ebe51c69c5
   - iprd-az-baku-retro-93-3-cc410273

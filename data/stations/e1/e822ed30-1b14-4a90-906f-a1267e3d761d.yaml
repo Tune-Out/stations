@@ -34,3 +34,14 @@ curation: -0.05
 provenance:
   - radiobrowser-e822ed30-1b14-4a90-906f-a1267e3d761d
   - iprd-pt-radio-observador-70689b87
+  - radiobrowser-c0682eee-a97d-4fbe-b970-dea2ffb18ef0
+  - iprd-pt-radio-observador-98-7-afb9b053
+streams:
+  - url: 'http://195.23.85.126:8455/listen.pls?sid=1'
+    url_resolved: 'http://195.23.85.126:8455/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac?dist=web-popup&devicename=aac'
+    url_resolved: 'https://22193.live.streamtheworld.com:443/OBSERVADORAAC.aac?dist=web-popup&devicename=aac'
+    codec: AAC+
+    bitrate: 96

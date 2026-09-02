@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: Fogartyville Community Media and Arts Center
+  affiliations: community radio (LPFM)
+  audience: Sarasota, FL community
+  format: community talk/music, social-justice programming
+  notes: WSLR-LP 96.5 is a low-power community radio station in Sarasota, Florida, describing itself as amplifying diverse community voices and promoting peace, sustainability, democracy and social justice, with programming including a 'Peace & Justice Report.' The station's own site is active, but the catalog's Pacifica-hosted stream URL is dead.
+  sources: https://wslr.org; stream check
+curation: 0.20
 provenance:
   - iprd-us-wslr-lp-96-5-ee0bff49

@@ -24,14 +24,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/tr/tr.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: Türkiye Radyo ve Televizyon Kurumu (TRT)
+  affiliations: TRT / Voice of Turkey
+  audience: international, Turkish-diaspora and foreign listeners
+  format: international news/hits/pop
+  notes: TRT VOT East is an eastward-facing channel of Voice of Turkey (Türkiye'nin Sesi Radyosu), the international shortwave/online broadcasting service of TRT, Turkey's state broadcaster, carrying news, hits and pop programming for international audiences. The listed master_128.m3u8 endpoint currently returns an error.
+  sources: stream check; TRT (Türkiye Radyo Televizyon Kurumu) is Turkey's known public/state broadcaster (general knowledge)
+curation: -0.15
 provenance:
   - iprd-tr-trt-vot-east-be79d7c8

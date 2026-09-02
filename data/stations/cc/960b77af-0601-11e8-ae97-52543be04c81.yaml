@@ -1,5 +1,5 @@
 stationuuid: 960b77af-0601-11e8-ae97-52543be04c81
-name: Inforadio
+name: rbb24 Inforadio
 url: http://www.inforadio.de/live.m3u
 url_resolved: http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
 homepage: http://www.inforadio.de/
@@ -24,17 +24,30 @@ clickcount: 73
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Rundfunk Berlin-Brandenburg (rbb) - public broadcaster for Berlin and Brandenburg states
-  affiliations: ARD (Arbeitsgemeinschaft der oeffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland - German public broadcasting consortium); EBU member
-  audience: Berlin/Brandenburg region listeners interested in news and current affairs; German language
-  format: All-news / talk - continuous news, political analysis, interviews, business, sports, and current affairs programming
-  notes: Inforadio is rbb's 24/7 news and information channel, broadcast on FM (93.1 MHz Berlin), DAB+, cable, and online. Founded 1995 by then-SFB (Sender Freies Berlin, an rbb predecessor). Funded by the German broadcasting license fee (Rundfunkbeitrag) and governed under public-law statute. Part of the ARD news-radio family alongside other regional state broadcasters' info channels. Editorial independence is constitutionally protected.
-  sources: internal knowledge only (homepage fetch blocked)
-curation: 0.6
+  operator: Rundfunk Berlin-Brandenburg (rbb), ARD member broadcaster
+  affiliations: ARD; funded by the German Rundfunkbeitrag licence fee
+  audience: Information-minded adults roughly 20-59 in Berlin and Brandenburg; German-language
+  format: Rolling news and current affairs — bulletins every 20 minutes, interviews, analysis, sport and podcasts
+  notes: rbb24 Inforadio is the rolling-news and current-affairs channel of Rundfunk Berlin-Brandenburg, launched on 28 August 1995 as a joint ORB/SFB service and renamed from Inforadio to rbb24 Inforadio on 28 March 2022 under the broadcaster's unified news brand, with the tagline "Wir lieben das Warum". It carries live news every 20 minutes with weather and traffic, plus interviews, background reports, commentary, Bundesliga coverage and the ARD-Infonacht overnight feed. Distinctive output includes the Polittalk aus der Hauptstadt discussion series co-produced with the Süddeutsche Zeitung and the Bertelsmann Stiftung, and a large podcast catalogue on the ARD Audiothek. It broadcasts on 93.1 MHz in Berlin and Havelland plus regional FM, DAB+, cable and online, and reported about 290,000 listeners in MA II/2026. It is licence-fee funded with constitutionally protected editorial independence.
+  sources: https://de.wikipedia.org/wiki/Rbb24_Inforadio; http://www.inforadio.de/
+curation: 0.70
 provenance:
   - radiobrowser-960b77af-0601-11e8-ae97-52543be04c81
   - iprd-de-inforadio-35123692
   - iprd-de-inforadio-651a5dd1
   - iprd-hu-infor-di-ef548a15
+  - radiobrowser-23a4e727-bfcc-42ae-901e-53b003ccf66f
+  - iprd-ba-radio-bir-76a76db7
+  - iprd-ca-chsr-97-9-73fee1b9
+  - iprd-us-wmpg-90-9-38ade12a
+streams:
+  - url: 'http://www.inforadio.de/live.m3u'
+    url_resolved: 'http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://opml.radiotime.com/Tune.ashx?id=s9176&partnerId=16'
+    url_resolved: 'http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/low?aggregator=tunein'
+    codec: MP3
+    bitrate: 64

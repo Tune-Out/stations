@@ -22,14 +22,22 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: community
+  reviewed_at: 2026-09-02
+  nature: religious
   operator: Unknown
   affiliations: Islamic religious organization
   audience: Indonesian Muslims; Malang region; Indonesian language
   format: Islamic programming and music
   notes: Indonesian Islamic radio station based in Malang; community-focused; 490 votes on directory listing
   sources: internal knowledge only
-curation: 0.35
+curation: 0.21
 provenance:
   - radiobrowser-7d390034-928b-4c7b-a5cb-966471ea12da
+  - radiobrowser-cafdc879-71bc-4a92-9eea-e6016503749d
+streams:
+  - url: 'http://siaran.radioislam.my.id:11132/'
+    codec: MP3
+    bitrate: 24
+  - url: 'http://malang.radioislam.my.id:11132/'
+    codec: MP3
+    bitrate: 24

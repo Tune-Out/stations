@@ -35,3 +35,9 @@ curation: -0.05
 provenance:
   - radiobrowser-43a8be97-05d7-11e9-a3cd-52543be04c81
   - iprd-de-hitradio-antenne-1-7ff75967
+  - radiobrowser-95f0f827-fa7c-4a85-95ff-2476f9c53f88
+streams:
+  - url: 'http://stream.antenne1.de/a1stg/livestream2.mp3'
+    codec: MP3
+  - url: 'https://konsolelabs.streamabc.net/94-a1stg-mp3-192-7580453'
+    codec: MP3

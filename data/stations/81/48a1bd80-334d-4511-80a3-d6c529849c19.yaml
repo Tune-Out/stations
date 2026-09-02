@@ -33,6 +33,7 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-48a1bd80-334d-4511-80a3-d6c529849c19
+  - radiobrowser-b6b678c7-5a8a-45aa-a33d-9a6cfbaccfaa
 streams:
   - url: http://s3.we4stream.com:8045/liv
     codec: MP3
@@ -40,3 +41,6 @@ streams:
   - url: http://s47.myradiostream.com:13914/;
     codec: MP3
     bitrate: 128
+  - url: 'http://s3.we4stream.com:8045/live'
+    codec: MP3
+    bitrate: 160

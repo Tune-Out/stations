@@ -36,6 +36,7 @@ curation: 0.45
 provenance:
   - radiobrowser-62bfcbb9-0503-11e9-a1be-52543be04c81
   - iprd-gb-1mix-radio-trance-b9f1ed0b
+  - radiobrowser-e6a37934-c787-4a10-b18f-b8a68feab730
 streams:
   - url: http://fr2.1mix.co.uk:8060/320
     codec: MP3
@@ -44,3 +45,6 @@ streams:
     url_resolved: http://fr2.1mix.co.uk:8000/192
     codec: MP3
     bitrate: 192
+  - url: 'http://fr2.1mix.co.uk:9000/aacb'
+    codec: AAC+
+    bitrate: 32

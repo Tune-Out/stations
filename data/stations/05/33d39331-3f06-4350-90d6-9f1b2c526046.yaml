@@ -36,6 +36,7 @@ curation: 0
 provenance:
   - radiobrowser-33d39331-3f06-4350-90d6-9f1b2c526046
   - iprd-pl-radio-el-stacja-c1d52d47
+  - radiobrowser-0fbc5ce7-6a4c-4cd0-bb9f-ac8408cf6d6c
 streams:
   - url: http://radio.el-stacja.pl:8000/elstacjaap320.ogg
     codec: OGG
@@ -44,3 +45,5 @@ streams:
   - url: http://radio.el-stacja.pl:8000/elstacja320mp3
     codec: MP3
     bitrate: 320
+  - url: 'http://radio.el-stacja.pl:8000/elstacja.ogg'
+    codec: OGG

@@ -34,3 +34,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-fe31d0ea-106a-4fb0-bffc-def04df7310c
+  - iprd-ca-chwk-89-5-4e9907f5
+streams:
+  - url: 'https://stream.jpbgdigital.com/CHWK.m3u8'
+    codec: AAC+
+    bitrate: 48
+    hls: true
+  - url: 'https://stream.jpbgdigital.com/CHWK/HEAAC/48k/playlist.m3u8'
+    codec: AAC
+    bitrate: 48

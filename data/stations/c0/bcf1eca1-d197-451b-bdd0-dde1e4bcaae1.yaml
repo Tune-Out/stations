@@ -34,3 +34,11 @@ curation: -0.05
 provenance:
   - radiobrowser-bcf1eca1-d197-451b-bdd0-dde1e4bcaae1
   - iprd-tr-radyo-d-104-0-19e761fe
+  - radiobrowser-e5e4f77a-3821-45b3-9d59-14f5d8b83ab4
+streams:
+  - url: 'https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8'
+    codec: AAC
+    bitrate: 130
+    hls: true
+  - url: 'https://radyo.duhnet.tv/radyod'
+    codec: AAC

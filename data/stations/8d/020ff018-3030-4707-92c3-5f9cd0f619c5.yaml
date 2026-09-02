@@ -22,15 +22,15 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: online-only
   operator: 101.ru (Russian online radio aggregator / operator)
   affiliations: none known
   audience: Russian-speaking listeners nostalgic for Soviet-era pop and rock music from 1950s-1970s
   format: 24/7 stream of Russian and Soviet pop/rock hits from the 1950s, 1960s, and 1970s
-  notes: 101.ru is a major Russian internet radio platform offering dozens of niche music channels; this channel specializes in "СССР 50-70" (USSR 1950-1970) archival music, featuring classic Russian pop/rock artists from the Soviet era; low bitrate AAC (64 kbps) typical of internet radio economics
-  sources: internal knowledge only
-curation: 0.05
+  notes: 101.ru is a major Russian internet-radio platform hosting dozens of niche music channels; this channel streams Soviet-era pop/rock hits from the 1950s-1970s ("СССР 50-70"). The specific streaming port used by this entry is currently refusing connections, though the 101.ru platform itself remains active.
+  sources: https://101.ru/radio/channel/47
+curation: -0.05
 provenance:
   - radiobrowser-020ff018-3030-4707-92c3-5f9cd0f619c5
   - iprd-ru-101-ru-50-70-61c8e191

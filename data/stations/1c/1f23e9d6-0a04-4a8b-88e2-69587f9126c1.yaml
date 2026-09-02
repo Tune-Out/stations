@@ -20,14 +20,14 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: All India Radio (AIR), part of Prasar Bharati (Broadcasting Corporation of India)
-  affiliations: Government of India statutory broadcaster
-  audience: Urdu-speaking listeners in India, Pakistan, the Gulf region, and the global Urdu diaspora
-  format: Urdu-language news, talk, drama, ghazals, qawwali, classical music, and educational programming
-  notes: All India Radio's Urdu service ("AIR Urdu" / Akashvani Urdu) was historically broadcast on medium wave and shortwave as part of India's external services and is now also available as an HLS stream via prasarbharati.gov.in; All India Radio was nationalized in 1936 and Prasar Bharati was established by Act of Parliament in 1997 as an autonomous statutory body owning AIR and Doordarshan; the Urdu service plays a significant role in India's cultural diplomacy and serves India's large Urdu-speaking population.
-  sources: internal knowledge only
-curation: 0.55
+  operator: All India Radio (Akashvani), Prasar Bharati
+  affiliations: Government of India statutory public broadcaster; AIR External Services Division
+  audience: Urdu speakers in India, Pakistan, the Gulf and the diaspora
+  format: Urdu-language news, commentary, talk, drama, ghazals, qawwali and film music
+  notes: AIR Urdu is the Urdu Service of All India Radio's External Services Division, run by Prasar Bharati, India's statutory public broadcaster. It is the longest daily broadcast among AIR's external services, running around the clock on DTH satellite and for about 12 hours a day on short- and medium-wave, and is aimed primarily at listeners in Pakistan and the wider Urdu-speaking world. Output mixes news, commentary and press reviews with ghazals, qawwali, film songs and drama; special Urdu broadcasts are beamed to Saudi Arabia during the Hajj season. The catalog carries Prasar Bharati's HLS stream.
+  sources: https://en.wikipedia.org/wiki/All_India_Radio; https://prasarbharati.gov.in/homepage-air/
+curation: 0.52
 provenance:
   - radiobrowser-1f23e9d6-0a04-4a8b-88e2-69587f9126c1

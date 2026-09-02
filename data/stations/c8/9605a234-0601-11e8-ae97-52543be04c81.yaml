@@ -36,3 +36,19 @@ curation: 0.4
 provenance:
   - radiobrowser-9605a234-0601-11e8-ae97-52543be04c81
   - iprd-gb-radio-caroline-7810cf19
+  - radiobrowser-83a33803-487d-426e-89f1-27a749c3902c
+  - radiobrowser-b672eb95-f96e-4fcd-809e-0bb7d690c286
+  - iprd-gb-radio-caroline-0c8faf6a
+  - iprd-gb-radio-caroline-3a1eceaf
+  - iprd-gb-radio-caroline-526dc583
+streams:
+  - url: 'http://sc6.radiocaroline.net:8040/;stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://sc5.radiocaroline.net:8010/listen.pls'
+    url_resolved: 'http://78.129.202.10:8010/;'
+    codec: AAC+
+    bitrate: 52
+  - url: 'http://sc5.radiocaroline.net:8010/'
+    codec: AAC+
+    bitrate: 52

@@ -36,3 +36,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-6da49b19-2a1e-451f-a325-e518437cc948
+  - radiobrowser-8e549881-e0c9-46e6-9c3e-930d757223b3
+streams:
+  - url: 'https://stream.radios.rs:9014/stream'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://53a7ed211fc32.streamlock.net/asmedia/radio_s_energy/playlist.m3u8'
+    codec: AAC
+    bitrate: 43
+    hls: true

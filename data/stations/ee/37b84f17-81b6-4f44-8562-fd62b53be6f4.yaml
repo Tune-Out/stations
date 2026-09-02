@@ -35,3 +35,11 @@ curation: 0
 provenance:
   - radiobrowser-37b84f17-81b6-4f44-8562-fd62b53be6f4
   - iprd-fr-o-i-fm-blues-n-rock-238320fc
+  - radiobrowser-a13c3a56-1aaa-4883-9a23-4a984eb5ca26
+streams:
+  - url: 'https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-64.aac'
+    codec: AAC+
+    bitrate: 64

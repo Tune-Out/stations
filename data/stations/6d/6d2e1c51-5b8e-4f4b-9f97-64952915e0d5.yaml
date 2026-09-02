@@ -35,3 +35,12 @@ research:
 curation: 0.2
 provenance:
   - radiobrowser-6d2e1c51-5b8e-4f4b-9f97-64952915e0d5
+  - radiobrowser-f97d612c-792b-44b2-8737-aecfd567a064
+streams:
+  - url: 'https://stream.radios.rs:9030/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://53a7ed211fc32.streamlock.net/asmedia/radio_s_mchits/playlist.m3u8'
+    codec: AAC
+    bitrate: 42
+    hls: true

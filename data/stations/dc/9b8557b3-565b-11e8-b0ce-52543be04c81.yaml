@@ -35,3 +35,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-9b8557b3-565b-11e8-b0ce-52543be04c81
+  - radiobrowser-f7ee9649-bff9-4b66-a7c8-2bdc8298971f
+  - iprd-br-overrock-radio-88a82359
+streams:
+  - url: 'http://streaming06.hstbr.net:8008/live.m3u'
+    url_resolved: 'http://streaming06.hstbr.net:8008/live'
+    codec: AAC
+    bitrate: 128
+  - url: 'http://streaming06.hstbr.net:8008/live'
+    codec: AAC
+    bitrate: 128

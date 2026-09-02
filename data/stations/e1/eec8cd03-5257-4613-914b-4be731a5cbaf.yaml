@@ -35,3 +35,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-eec8cd03-5257-4613-914b-4be731a5cbaf
+  - iprd-mx-grupo-radio-centro-1030-xeqr-434fb9a0
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac'
+    url_resolved: 'https://27063.live.streamtheworld.com:443/XEQR_AMAAC.aac'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://playerservices.streamtheworld.com/pls/XEQR_AM.pls'
+    url_resolved: 'https://22963.live.streamtheworld.com:443/XEQR_AM_SC'

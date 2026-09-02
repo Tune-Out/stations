@@ -25,14 +25,15 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Kommersant Publishing House (independent Russian media company)
   affiliations: none known; editorial independence
   audience: Russian professionals; Moscow metropolitan region and national Russian audience
   format: Talk radio focused on economics, finance, news, information; Moscow-based programming
-  notes: Kommersant FM 93.6 operates as commercial talk radio from Moscow. Kommersant is established Russian independent media publisher. Station provides economic and financial news coverage. Editorial independence maintained despite geopolitical context.
-  sources: internal knowledge only
-curation: -0.05
+  notes: Kommersant FM 93.6 is the radio arm of Kommersant, one of Russia's most established business/financial newspapers, broadcasting news and talk on economics and finance from Moscow. Kommersant has been owned since 2006 by USM Holdings (Alisher Usmanov); editorial independence has narrowed under state pressure in recent years but the outlet remains a mainstream business-news brand rather than an overt propaganda channel.
+  sources: https://www.kommersant.ru/fm
+curation: 0.20
+duplicate_of: 96163b46-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-756183e3-cc68-4195-b2c7-531a6cbc2f5a

@@ -35,3 +35,12 @@ curation: -0.05
 provenance:
   - radiobrowser-96163d8b-0601-11e8-ae97-52543be04c81
   - iprd-bg-bg-estrada-9fb99b65
+  - radiobrowser-8a6a10ac-1a60-4c18-a91b-0573d086d798
+streams:
+  - url: 'https://play.global.audio/bgestrada'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac?dist=onlineradiobox'
+    url_resolved: 'https://29083.live.streamtheworld.com:443/BG_ESTRADAAAC_L.aac?dist=onlineradiobox'
+    codec: AAC+
+    bitrate: 48

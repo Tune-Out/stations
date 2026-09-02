@@ -49,6 +49,7 @@ provenance:
   - iprd-pl-eska-warszawa-d349bcf7
   - iprd-pl-eska-zary-41de4359
   - iprd-pl-eska-zielona-gora-24e53f87
+  - radiobrowser-95e926b1-144d-429c-85b5-429e9aa8c3c8
 streams:
   - url: http://waw.ic.smcdn.pl/2380-2.aac
     codec: AAC+
@@ -60,5 +61,8 @@ streams:
     codec: MP3
     bitrate: 128
   - url: https://radio.stream.smcdn.pl/timeradio-p/2980-1.aac/playlist.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://radio.stream.smcdn.pl/icradio-p/2380-1.aac/playlist.m3u8'
     codec: UNKNOWN
     hls: true

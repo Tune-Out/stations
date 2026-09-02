@@ -1,8 +1,8 @@
 stationuuid: 9622c937-0601-11e8-ae97-52543be04c81
-name: ABC Local Radio 612 Brisbane (AAC)
+name: ABC Radio Brisbane
 url: http://live-radio01.mediahubaustralia.com/4LRW/aac/
 url_resolved: http://live-radio01.mediahubaustralia.com/4LRW/aac/
-homepage: http://www.abc.net.au/radio/brisbane/
+homepage: https://www.abc.net.au/brisbane
 favicon: http://www.abc.net.au/core-assets/local/favicon-32x32.png
 tags:
   - news
@@ -25,15 +25,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: ABC (Australian Broadcasting Corporation)
-  affiliations: Australian government
+  operator: Australian Broadcasting Corporation
+  affiliations: ABC Local Radio network; government-funded public broadcaster
   audience: Brisbane and Queensland, Australia, English-language
-  format: Local news, current affairs, information, and community programming
-  notes: ABC Local Radio 612 Brisbane is a flagship public radio station; part of the Australian public broadcasting network; serves local and national news and current affairs
-  sources: internal knowledge only
-curation: 0.5
+  format: local news, talkback and current affairs
+  notes: ABC Radio Brisbane (callsign 4QR, 612 kHz AM) is the Australian Broadcasting Corporation's local radio station for Brisbane and Ipswich and the base for much of the ABC's Queensland programming. The ABC launched 4QR on 7 January 1938 (its predecessor 4QG dates to 1925, Queensland's first station); it moved to 612 kHz in 1978 and was rebranded from 612 ABC Brisbane to ABC Radio Brisbane in 2017. It broadcasts at 50 kW with local news, talkback, current affairs and emergency information, and is funded by the Australian government.
+  sources: https://en.wikipedia.org/wiki/ABC_Radio_Brisbane; https://www.abc.net.au/news/2025-07-25/abc-radio-brisbane-celebrates-100-years-of-local-radio/105566652
+curation: 0.65
 provenance:
   - radiobrowser-9622c937-0601-11e8-ae97-52543be04c81
   - iprd-au-abc-local-radio-612-brisbane-564823ff

@@ -32,3 +32,18 @@ curation: -0.05
 provenance:
   - radiobrowser-4a656a75-2754-4939-8b42-17e01f5abfd5
   - iprd-fr-fr-quence-plus-71756a63
+  - radiobrowser-0d17982c-290b-4346-bf58-485ebd16b161
+  - radiobrowser-96418b24-0601-11e8-ae97-52543be04c81
+  - iprd-fr-fr-quence-plus-4083cb44
+  - iprd-fr-fr-quence-plus-da087113
+streams:
+  - url: 'http://frequenceplus71.ice.infomaniak.ch/frequenceplus71-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://freqplus.ice.infomaniak.ch/freqplus-high.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://statslive.infomaniak.ch/playlist/freqplus/freqplus-high.aac/playlist.pls'
+    url_resolved: 'https://freqplus.ice.infomaniak.ch/freqplus-high.aac'
+    codec: AAC+
+    bitrate: 64

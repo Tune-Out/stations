@@ -1,8 +1,8 @@
 stationuuid: a4ffabec-a162-4320-8cf2-049b8055b17a
-name: AIR Fm Gold Delhi
+name: Akashvani FM Gold Delhi
 url: https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
 url_resolved: https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
-homepage: https://liveradios.in/fm-gold-delhi.html
+homepage: https://prasarbharati.gov.in/
 favicon: https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png
 tags: []
 country: India
@@ -20,14 +20,23 @@ clickcount: 92
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: state media
-  operator: All India Radio (AIR / Akashvani), Prasar Bharati — India's autonomous public service broadcaster under the Ministry of Information & Broadcasting, Government of India
-  affiliations: Government of India (Prasar Bharati statutory autonomous body); no religious or partisan political affiliation, though carries official government news
-  audience: Hindi-speaking listeners in the National Capital Region (Delhi NCR); nostalgia / classic Hindi film music fans, primarily 35+ demographic
-  format: Classic Bollywood / vintage Hindi film songs (pre-1990s/2000s golden-era retro music) interspersed with AIR News Service Division news bulletins and current affairs
-  notes: AIR FM Gold launched 1 September 2001 as a 24-hour entertainment channel; Delhi service broadcasts on 100.1 MHz. Tagline "Khara Sona" (pure gold) reflects classic-music focus. Part of AIR's metro FM network (also in Mumbai, Kolkata, Chennai). The liveradios.in homepage is a third-party aggregator, not an official AIR site.
-  sources: https://liveradios.in/fm-gold-delhi.html, internal knowledge of All India Radio / Prasar Bharati
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Prasar Bharati, India's statutory autonomous public service broadcaster, through All India Radio / Akashvani
+  affiliations: Prasar Bharati; carries AIR News Service Division bulletins
+  audience: Hindi-speaking listeners across Delhi NCR, skewing older; nostalgia and classic film-music audience
+  format: Adult contemporary built on classic Hindi film songs, with AIR news bulletins and current affairs
+  notes: 'AIR FM Gold is All India Radio''s classic-entertainment FM service, launched on 1 September 2001 and broadcasting in Delhi on 100.1 MHz under the branding "Akashvani FM Gold — Khara Sona" (pure gold). It runs an adult contemporary format anchored on golden-era Hindi film music, punctuated by news bulletins from the AIR News Service Division, and operates in four metros: Delhi, Mumbai, Kolkata and Chennai, each mixing Hindi and English with the local language. The service is run by Prasar Bharati, the statutory autonomous body that has been India''s public service broadcaster since 1997; All India Radio has carried the on-air name Akashvani since 1956, and Prasar Bharati made that branding exclusive across its radio services in 2023. Note that the catalogued homepage, liveradios.in, is a third-party aggregator rather than an official Prasar Bharati page.'
+  sources: https://en.wikipedia.org/wiki/AIR_FM_Gold; https://en.wikipedia.org/wiki/Akashvani_(radio_broadcaster); https://prasarbharati.gov.in/
+curation: 0.60
 provenance:
   - radiobrowser-a4ffabec-a162-4320-8cf2-049b8055b17a
+  - radiobrowser-300556e2-faf8-4b2e-b24d-7525185430c1
+streams:
+  - url: 'https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8'
+    codec: AAC+
+    bitrate: 32
+    hls: true

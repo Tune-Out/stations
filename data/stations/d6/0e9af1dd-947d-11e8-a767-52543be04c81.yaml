@@ -36,3 +36,11 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-0e9af1dd-947d-11e8-a767-52543be04c81
+  - radiobrowser-148531bd-d12e-4c16-a2b4-579fea921edd
+streams:
+  - url: 'http://hazzardstream.de:7777/listen1'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://hazzardstream.de:7777/stream/1/;202686764294902stream.nsv'
+    codec: MP3
+    bitrate: 192

@@ -37,6 +37,7 @@ provenance:
   - iprd-de-89-0-rtl-in-the-mix-3b4d7814
   - iprd-de-89-0-rtl-love-d7c9d9bc
   - iprd-de-89-0-rtl-trending-now-99388db3
+  - radiobrowser-1c1aeba9-58ea-4037-9fac-f06df4782f79
 streams:
   - url: http://stream.89.0rtl.de/mix/mp3-128/direktlinkHP/play.m3u
     url_resolved: http://fhhalle.streamabc.net/fhhal-rtlinthemix-mp3-128-9206825?sABC=69686qnq%230%23r30o443r1929r059s085628511796n57%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1768451501
@@ -53,4 +54,6 @@ streams:
   - url: https://fhhalle.streamabc.net/fhhal_890rtltre_3wru-mp3-128-3489339?sABC=5nn63465%231%23s0115pq7r125o1o27s344rnqnqrnrors%23enqvbcynlreUC&listenerid=a953ab66ebd3a12b38f20e85fb7a7306&awparams=companionAds:true&amsparams=playerid:radioplayerHP;skey:1520841829
     codec: MP3
   - url: https://fhhalle.streamabc.net/890rtl-mostwanted-mp3-128-41?sABC=5nn6320r%231%23s0115pq7r125o1o27s344rnqnqrnrors%23enqvbcynlreUC&listenerid=a953ab66ebd3a12b38f20e85fb7a7306&awparams=companionAds:true&amsparams=playerid:radioplayerHP;skey:1520841230
+    codec: MP3
+  - url: 'https://stream.89.0rtl.de/mix/mp3-256'
     codec: MP3

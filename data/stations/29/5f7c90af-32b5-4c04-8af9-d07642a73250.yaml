@@ -33,3 +33,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-5f7c90af-32b5-4c04-8af9-d07642a73250
+  - radiobrowser-eac6a047-c06e-42bf-a504-09ace8f810a3
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3'
+    url_resolved: 'https://22733.live.streamtheworld.com:443/RADIO_BLANIK_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac?gdpr=0'
+    url_resolved: 'https://25443.live.streamtheworld.com:443/RADIO_BLANIK.aac?gdpr=0'
+    codec: AAC+
+    bitrate: 128

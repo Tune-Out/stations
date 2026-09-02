@@ -34,10 +34,22 @@ research:
 curation: 1
 provenance:
   - radiobrowser-c454908c-eb81-11e9-a96c-52543be04c81
+  - radiobrowser-9612a35e-0601-11e8-ae97-52543be04c81
+  - iprd-fr-fip-nouveaut-s-e7d9bf7b
+  - iprd-fr-fip-nouveaut-s-05525be6
+  - radiobrowser-e8e2dbc6-0ff3-44d2-b478-219d4ba62d3c
+  - iprd-fr-fip-groove-8952dbe0
+  - iprd-fr-fip-groove-cf5c9d65
 streams:
   - url: http://icecast.radiofrance.fr/fipgroove-hifi.aac
     codec: AAC
     bitrate: 192
   - url: https://icecast.radiofrance.fr/fipgroove-hifi.aac
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.fipradio.fr/live/fip-webradio3.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://direct.fipradio.fr/live/fipgroove-hifi.aac'
     codec: AAC
     bitrate: 192

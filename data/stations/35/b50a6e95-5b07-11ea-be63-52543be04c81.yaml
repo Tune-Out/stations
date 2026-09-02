@@ -35,3 +35,9 @@ curation: -0.05
 provenance:
   - radiobrowser-b50a6e95-5b07-11ea-be63-52543be04c81
   - iprd-rs-radio-uzice-99-2-1dbdda76
+  - radiobrowser-647fbc68-32e3-421a-b109-b91a51aba3aa
+streams:
+  - url: 'http://uzice.yunethosting.net:8000/stream'
+    codec: MP3
+  - url: 'https://uzice.yunethosting.net/stream'
+    codec: MP3

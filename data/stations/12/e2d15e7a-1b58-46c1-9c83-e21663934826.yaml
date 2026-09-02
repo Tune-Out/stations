@@ -34,3 +34,10 @@ curation: -0.05
 provenance:
   - radiobrowser-e2d15e7a-1b58-46c1-9c83-e21663934826
   - iprd-ae-genesis-77502932
+  - radiobrowser-e91f0c88-ab95-4278-9b8a-71ea66f8755e
+streams:
+  - url: 'https://streaming.exclusive.radio/er/genesis/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/er/genesis/icecast.audio'
+    codec: MP3
+  - url: 'https://2.mystreaming.net/er/genesis/icecast.audio'
+    codec: MP3

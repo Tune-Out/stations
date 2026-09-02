@@ -35,6 +35,7 @@ provenance:
   - radiobrowser-96223bbd-0601-11e8-ae97-52543be04c81
   - iprd-de-radio-regenbogen-just-black-366f8cb6
   - iprd-de-radio-regenbogen-kinderlieder-cd88067d
+  - radiobrowser-c860e4f1-6368-4122-9515-3beae17f4c97
 streams:
   - url: http://streams.regenbogen.de/rr-kinderlieder-128-mp3
     codec: AAC
@@ -55,4 +56,6 @@ streams:
   - url: http://streams.regenbogen.de/rr-justblack-128-mp3
     codec: MP3
   - url: https://stream.regenbogen.de/80erpoprock/mp3-128/radiobrowser
+    codec: MP3
+  - url: 'https://stream.regenbogen.de/kinderlieder/mp3-128/radiobrowser'
     codec: MP3

@@ -40,3 +40,9 @@ curation: -0.05
 provenance:
   - radiobrowser-d52a564e-5117-4b65-a8ea-a84405ab7e86
   - iprd-ae-shakira-755d7062
+  - iprd-ae-shakira-hits-e5f11725
+streams:
+  - url: 'https://streaming.exclusive.radio/er/shakira/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.exclusive.radio/er/shakirahits/icecast.audio'
+    bitrate: 128

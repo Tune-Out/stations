@@ -26,15 +26,15 @@ clickcount: 173
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Westdeutscher Rundfunk (WDR), the public broadcaster for North Rhine-Westphalia and a member of the ARD consortium
-  affiliations: ARD (federal public-broadcasting consortium); EBU member; publicly funded via the Rundfunkbeitrag household levy; supervised by the WDR Rundfunkrat (public oversight body)
-  audience: German-speaking adults in North Rhine-Westphalia and nationwide via internet; intellectually engaged listeners interested in current affairs and culture
-  format: news, talk, politics, culture, science and information - the spoken-word/talk channel within the WDR radio family
-  notes: WDR 5 is WDR's information- and talk-oriented station (Informationsradio), comparable in role to BBC Radio 4. Programming includes the daily news magazine "Morgenecho", consumer/service show "Servicezeit", and a long tradition of documentaries and political commentary. Operates under state treaty (Rundfunkstaatsvertrag) requiring impartiality and editorial independence from government. WDR is one of Germany's largest public broadcasters by budget and staff.
-  sources: https://www1.wdr.de/radio/wdr5/ (fetch blocked), internal knowledge
-curation: 0.6
+  operator: Westdeutscher Rundfunk (WDR), Cologne
+  affiliations: ARD; EBU; funded by the Rundfunkbeitrag licence fee
+  audience: adults in North Rhine-Westphalia and German speakers online interested in news, culture and science
+  format: 'ad-free spoken-word: news, current affairs, culture, science, features, children''s programming'
+  notes: WDR 5 is the ad-free spoken-word channel of Westdeutscher Rundfunk, the ARD public broadcaster for North Rhine-Westphalia, launched on 7 October 1991 as 'Nordrhein-Westfalen-Welle' on the former WDR 1 frequencies. It broadcasts news, culture, science and current affairs with flagship programmes such as Morgenecho, ZeitZeichen, Neugier genügt, Quarks and Scala, plus children's content (MausLive) and weekend features like Tischgespräch. Overnights carry the ARD-Infonacht from NDR. It reached about 737,000 listeners per hour-average in the MA II/2026 audience survey.
+  sources: https://de.wikipedia.org/wiki/WDR_5; https://www1.wdr.de/radio/wdr5/
+curation: 0.85
 provenance:
   - radiobrowser-9605edb3-0601-11e8-ae97-52543be04c81
   - iprd-de-wdr-5-198af55f

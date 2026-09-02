@@ -1,5 +1,5 @@
 stationuuid: 1fbda80a-41a7-11ea-a95e-52543be04c81
-name: Comedy Radio new link
+name: Comedy Radio
 url: http://ic6.101.ru:8000/stream/air/aac/64/202
 url_resolved: http://ic6.101.ru:8000/stream/air/aac/64/202
 homepage: https://comedy-radio.ru/
@@ -24,15 +24,15 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Comedy Radio (Russian media company)
-  affiliations: none known
-  audience: Russian-speaking audiences seeking comedy, humor, and entertainment
-  format: Comedy sketches, humorous shows, pop music, entertainment programming
-  notes: Comedy Radio is a Russian commercial radio station specializing in comedy content, humorous sketches, and entertainment. Part of the Russian radio broadcasting landscape, targeting younger demographics interested in comedy and entertainment.
-  sources: internal knowledge only
-curation: -0.05
+  operator: GPM Radio / Gazprom-Media Holding
+  affiliations: Gazprom-Media (state-linked via Gazprombank/Gazprom)
+  audience: Russian adults 20-45 nationwide
+  format: comedy talk shows, sketches and CHR pop music
+  notes: Comedy Radio is a Russian national talk-and-humour station launched on 15 October 2012 by Gazprom-Media Holding, replacing Pervoe Populyarnoe Radio on 102.5 FM in Moscow; it also airs in St Petersburg (95.9), Kazan (104.0) and over 3,000 localities in Russia and Belarus. Part of GPM Radio alongside Avtoradio, Energy and Humor FM, it builds its schedule around live talk shows such as 'Guten Morgen Freeman', 'Happy People' and the 'Kazibota Show', with sketches from TNT's Comedy Club, Comedy Woman and Nasha Russia between CHR pop music. The catalog stream on ic6.101.ru no longer responds; a working feed is https://pub0101.101.ru/stream/air/aac/64/202 (resolves to gpm.hostingradio.ru/gpm-comedyradio495.aacp). The catalog name carries the junk suffix 'new link'.
+  sources: https://ru.wikipedia.org/wiki/Comedy_Radio; https://www.gpmradio.ru/station/branch/36/radio/13/asset/1; https://comedy-radio.ru/
+curation: 0.10
 provenance:
   - radiobrowser-1fbda80a-41a7-11ea-a95e-52543be04c81
   - iprd-ru-comedy-radio-fe4442c6

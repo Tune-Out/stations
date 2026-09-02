@@ -20,14 +20,22 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Roki Radio (UK-based streaming platform)
   affiliations: none known
   audience: British and English-speaking comedy enthusiasts; UK-based listeners
   format: British comedy specialization; stand-up comedy, comedy sketches, comedians and humorous content
-  notes: Independent UK comedy streaming platform operating via Roki Radio. Part of British comedy audio content distribution ecosystem. Web and mobile streaming.
-  sources: internal knowledge only
-curation: -0.05
+  notes: British Comedy 1 is a niche channel on ROKit Radio, a UK-based streaming platform, dedicated to stand-up comedy, sketches and other British comedic audio content.
+  sources: https://rokitradio.com/; stream verified live
+curation: 0.09
 provenance:
   - radiobrowser-1fad9bad-0100-4785-a114-61df3de6d088
+  - radiobrowser-da52663e-bf3e-40aa-b863-28c1d12d6464
+streams:
+  - url: 'http://streaming04.liveboxstream.uk:8077/stream'
+    codec: MP3
+    bitrate: 48
+  - url: 'https://streaming04.liveboxstream.uk/proxy/roksta14/stream'
+    codec: MP3
+    bitrate: 48

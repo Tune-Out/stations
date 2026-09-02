@@ -36,6 +36,7 @@ provenance:
   - radiobrowser-9795a396-52ea-4f5a-9177-f3c3bcf0d74f
   - iprd-de-radio-saw-8070d850
   - iprd-de-radio-saw-e5d57c49
+  - radiobrowser-ccab21a0-5826-11e8-b0ce-52543be04c81
 streams:
   - url: https://stream.saw-musikwelt.de/saw-schlagerparty/aac-48
     codec: AAC
@@ -83,3 +84,5 @@ streams:
     codec: MP3
   - url: https://stream.radiosaw.de/saw-synthie-pop/mp3-192/radio-browser/
     codec: MP3
+  - url: 'http://stream.1a-webradio.de/saw/aac-48/radiosure-1a/stream.mp3'
+    codec: AAC

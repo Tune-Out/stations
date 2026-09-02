@@ -24,14 +24,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/br/br.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: ElectroMix Zone appears to be a low-effort Brazilian online electronic/pop aggregator stream with no real dedicated homepage (the listed URL is a Streema cache image), suggesting thin or automated programming.
+  sources: 'IPRD: streams/br/br.m3u'
+curation: -0.05
 provenance:
   - iprd-br-electromix-zone-f9a9facd

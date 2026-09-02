@@ -23,14 +23,14 @@ clickcount: 43
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Saudade FM (Santos, São Paulo, Brazil)
+  operator: Saudade FM, Santos, São Paulo
   affiliations: none known
-  audience: Baixada Santista (Santos region), São Paulo; nationwide and international via internet; Portuguese-speaking; nostalgic listeners across all ages
-  format: Flashback/classic hits radio; 1960s-1990s music; nostalgia-focused programming with shows like "Nos Embalos da Saudade FM" and "Conexão Saudade"; AAC+ 64kbps
-  notes: "\"A MAIOR RÁDIO FLASHBACK DO BRASIL\" (Brazil's biggest flashback radio); 99.7 FM; tagline \"Se toca você, toca aqui\" (If it touches you, it plays here); available on 99.7 FM, internet, apps, satellite TV, and streaming platforms"
-  sources: https://www.saudadefm.com.br/
-curation: -0.1
+  audience: Baixada Santista and greater São Paulo, plus a national and diaspora audience online
+  format: Flashback/oldies - Brazilian and international hits of the 1960s through 1990s, with live presenters
+  notes: Saudade FM broadcasts on 99.7 MHz from Santos in the Baixada Santista region of São Paulo state and calls itself Brazil's biggest flashback station. It has run since around 2007 on a nostalgia format of Brazilian and international hits from the 1960s to the 1990s, with named presenters including Thiago Ferraz, Adriana Lima and David Rangel. Signature programmes are Conexão Saudade in afternoon drive, Embalos da Saudade on Saturday nights and the sertanejo spin-off Saudade Sertaneja. Beyond FM it distributes through its own apps, smart TVs, voice assistants and Claro Net TV channel 300.
+  sources: https://www.saudadefm.com.br/; stream header check on https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac
+curation: 0.11
 provenance:
   - radiobrowser-5dcbb03d-423a-4f97-8af5-b95981094c69

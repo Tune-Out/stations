@@ -1,5 +1,5 @@
 stationuuid: 8c99195e-0c7e-4fe8-aa47-9a14f39178e7
-name: Dance Attack FM (danceattack.fm) 128k MP3
+name: Dance Attack FM
 url: http://streaming04.liveboxstream.uk:8045/1
 url_resolved: http://streaming04.liveboxstream.uk:8045/1
 homepage: http://www.danceattack.fm/
@@ -23,14 +23,14 @@ hls: false
 lastcheckok: true
 lastchangetime: 2026-01-15 02:03:43
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Unknown
-  affiliations: none known
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Dance Attack FM (independent, Gloucester UK)
+  affiliations: none known; donation-funded
   audience: English-speaking electronic dance music (EDM) and progressive house listeners; club and dance music enthusiasts; younger demographic
-  format: Electronic dance music (EDM), house, progressive, trance, and electro programming; dance music specialist channel; advertised as ad-free.
-  notes: UK-based internet radio station specializing in dance and electronic music. Branding emphasizes "no ads" (listener-supported model). Stream hosted on LiveBoxStream UK infrastructure. Targets global dance music audience.
-  sources: internal knowledge only
-curation: 0.5
+  format: EDM, trance, house, progressive, psytrance; syndicated DJ shows
+  notes: Dance Attack FM is a donation-funded internet radio station from Gloucester, England, founded in 2013. It plays EDM, trance, house, progressive and psytrance during weekdays and relays international DJ shows such as A State of Trance and Global DJ Broadcast in the evenings and at weekends, with no advertising and licensing paid to PPL/PRS. The catalogued liveboxstream.uk stream currently returns 401 Unauthorized; the station is otherwise reachable via its website, apps and Mixcloud.
+  sources: https://www.danceattack.fm/; https://tunein.com/radio/Dance-Attack-FM---The-Best-EDM-s193076/; https://www.mixcloud.com/live/DanceAttackFM/
+curation: 0.15
 provenance:
   - radiobrowser-8c99195e-0c7e-4fe8-aa47-9a14f39178e7

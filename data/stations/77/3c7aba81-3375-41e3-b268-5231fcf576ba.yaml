@@ -21,14 +21,14 @@ clickcount: 19
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Unknown
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: 90s FM (Nineties FM), Egypt
   affiliations: none known
-  audience: Arabic-speaking listeners, particularly Egyptian audiences nostalgic for 1990s Arabic pop
-  format: 1990s Arabic pop nostalgia — Egyptian and pan-Arab hits of the decade (the name "Tes3enat" / تسعينات translates literally as "Nineties")
-  notes: Internet-only nostalgia station whose name "Tes3enat" (Egyptian Arabic colloquial transliteration of تسعينات = "the Nineties") signals its focus on classic 1990s Arabic / Egyptian pop hits from artists of that era such as Amr Diab, Mohamed Mounir, Hakim, Hisham Abbas, and Sherine; distributed through TuneIn (URL params indicate TuneIn partner integration); no official homepage, parent company, or mission statement publicly identifiable; the "classical" tag in the catalog appears to be a misclassification (the station is pop nostalgia, not classical music).
-  sources: internal knowledge only (Arabic-language radio nomenclature and Egyptian streaming-radio landscape)
-curation: 0.35
+  audience: Egyptian and pan-Arab listeners nostalgic for 1990s Arabic pop
+  format: 1990s Arabic pop - Amr Diab, Mohamed Mounir, Hakim, Hisham Abbas, Angham and their contemporaries
+  notes: 'Tes3enat FM is the Egyptian online station that brands itself 90s FM: its Icecast metadata reports the mount as "90sFM Stream" in the "90s" genre with the station URL news.ninetiesfm.com. The name is the colloquial Egyptian transliteration of تسعينات, "the nineties", and the format is a continuous run of Arabic and Egyptian pop from that decade. It is web-only with no terrestrial licence, distributed through TuneIn and other aggregators, and the catalog entry carries no homepage of its own. The "classical" tag in the catalog is a misclassification. Two lower-vote "90s FM" rows in this catalog are the same broadcaster on a different host.'
+  sources: 'Icecast header check on http://178.33.135.244:20095/ (icy-name: 90sFM Stream, icy-url: https://news.ninetiesfm.com); https://www.ninetiesfm.com/'
+curation: 0.28
 provenance:
   - radiobrowser-3c7aba81-3375-41e3-b268-5231fcf576ba

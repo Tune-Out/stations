@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ACIR Online / iHeartRadio
+  affiliations: ACIR Grupo Radio Centro; iHeartRadio
+  audience: Spanish/English bilingual oldies listeners, Mexico
+  format: Oldies/classic pop hits
+  notes: Sounds of Yesterday is an oldies/classics music channel distributed by ACIR Online in partnership with iHeartRadio, playing English-language pop standards to a Mexican audience online. It is an automated hit-rotation relay with no distinctive local programming or DJs. The catalog already has a much more popular canonical entry for the same channel.
+  sources: 'IPRD: streams/mx/mx.m3u; https://i.iheart.com'
 curation: -0.05
+duplicate_of: 4d32b846-af49-4353-945c-cce305e41eb1
 provenance:
   - iprd-mx-sounds-of-yesterday-7be861a7

@@ -29,15 +29,15 @@ clickcount: 12
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: online-only
-  operator: Digital Retroland Group (Mexico-based independent operator)
-  affiliations: none known
-  audience: Global English-speaking and Mexican listeners of US classic-hits music; primarily older demographic and nostalgia fans
-  format: Classic hits from 1970s–80s US Billboard charts — classic rock, soft rock, love songs, "new oldies"
-  notes: Online-only station operating since 2013 from Mexico (Mexico City); part of the "Digital Retroland Group" of retro-themed digital stations; "A free service that is maintained through voluntary donations" via PayPal; distributed via OnlineRadioBox, MyTuner, Raddios and its own Android app; no political, religious or governmental affiliations.
-  sources: https://oldiesinternetradio.com/
-curation: 0
+  operator: Grupo Digital Retroland, Monterrey, Nuevo León
+  affiliations: none known; donation-supported independent
+  audience: Nostalgia listeners in Mexico and abroad, skewing older; English-language classic hits
+  format: Classic hits from the 1970s and 1980s - classic rock, soft rock and ballads from the US charts
+  notes: Oldies Internet Radio is a web-only station run since about 2013 by Grupo Digital Retroland, a small operator based in Monterrey, Nuevo León rather than Mexico City as previously recorded. It plays US classic hits of the 1970s and 1980s, mixing classic rock, soft rock and ballads, and describes itself as a free service kept going by voluntary donations. It reaches listeners through its own Android app and through aggregators such as OnlineRadioBox and myTuner, and it carries no political, religious or governmental affiliation. Sibling rows in this catalog point at the group's own panel.retrolandigital.com host.
+  sources: 'https://oldiesinternetradio.com/; Icecast header check on http://162.244.81.98:8140/listen (icy-name: Oldies Internet Radio, icy-url: https://oldiesinternetradio.com)'
+curation: 0.10
 provenance:
   - radiobrowser-09669200-2711-4c54-87e7-205ec84f929c
   - iprd-mx-oldies-internet-radio-1b12a73a

@@ -34,3 +34,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-9633635f-0601-11e8-ae97-52543be04c81
+  - radiobrowser-05f8b3ea-b1b5-4b59-8760-e1177bb4d8f7
+  - iprd-de-svr-hanse-radio-c4358096
+  - iprd-de-svr-hanse-radio-41e60c5b
+streams:
+  - url: 'http://stream.laut.fm/hanseradio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://hanseradio.stream.laut.fm/hanseradio'
+    codec: MP3
+    bitrate: 128

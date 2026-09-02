@@ -33,6 +33,10 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-963b6c2d-0601-11e8-ae97-52543be04c81
+  - radiobrowser-d4906d0a-2efb-4287-b6ba-6e5f5c2a7446
+  - iprd-de-mdr-schlagerwelt-th-ringen-c234627e
+  - iprd-de-mdr-schlagerwelt-th-ringen-ab138a27
+  - iprd-de-mdr-schlagerwelt-th-ringen-29e66d15
 streams:
   - url: http://avw.mdr.de/streams/990601-0_mp3_low.m3u
     url_resolved: http://f111.rndfnk.com/ard/mdr/990601/0/mp3/128/stream.mp3?cid=01FBQ14X84G8E7Z5ZBZT48EVDX&sid=38H9AaU0867jReGIx8xxXnH53SH&token=LKdlKK8zhOChAUuamfqA8_pIVSsf4v6bF7s24VJMAwU&tvf=B4YK93HbihhmMTExLnJuZGZuay5jb20
@@ -46,3 +50,7 @@ streams:
     url_resolved: http://f111.rndfnk.com/ard/mdr/990601/0/mp3/128/stream.mp3?cid=01FBQ14X84G8E7Z5ZBZT48EVDX&sid=38HXFdXM22LyqrI8jJDb43jILGV&token=NTOOhEI4RtIuBoUZ_cgW7LL36-Hzx7OXwW0n0vShcYE&tvf=I-2URUDmihhmMTExLnJuZGZuay5jb20
     codec: MP3
     bitrate: 128
+  - url: 'https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8'
+    codec: AAC
+    bitrate: 102
+    hls: true

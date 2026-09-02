@@ -35,3 +35,10 @@ curation: -0.05
 provenance:
   - radiobrowser-9479da9d-8253-47c9-925c-46fe2e101757
   - iprd-ae-abba-cf84cec8
+  - radiobrowser-13a10fcb-2a7c-4e94-8dcb-a18f9b5e54bd
+streams:
+  - url: 'https://streaming.exclusive.radio/er/abba/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/er/abba/icecast.audio'
+    codec: MP3
+  - url: 'https://2.mystreaming.net/er/abba/icecast.audio'
+    codec: MP3

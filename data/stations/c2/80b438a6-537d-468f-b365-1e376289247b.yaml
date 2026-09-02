@@ -21,15 +21,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: state media
-  operator: Prensa Latina (Cuban state news agency)
-  affiliations: Cuban state, socialist editorial stance
-  audience: Cuba Spanish-speaking listeners; international Spanish-language audience
-  format: Classical music, news, cultural programming from Cuban state perspective
-  notes: Prensa Latina is Cuba's official state news agency (founded 1959) with radio service. Operates as state media with socialist editorial position. Serves Cuban audience and international Spanish-speaking communities. Hosts news, classical music programming, and cultural content from Cuban state perspective.
-  sources: internal knowledge only
-curation: 0.55
+  operator: Prensa Latina, Agencia Informativa Latinoamericana (Cuban state)
+  affiliations: Cuban government news agency
+  audience: Spanish-speaking audiences in Cuba and Latin America
+  format: news bulletins and current-affairs audio from a state perspective
+  notes: 'Prensa Latina is Cuba''s official state news agency, founded in Havana in March 1959. Its radio division at radio.prensa-latina.cu produces Spanish-language news bulletins, correspondent reports and podcasts about Cuba and Latin America, distributed to client stations rather than as a general music service; the ''classical'' tag is wrong. The catalogued onstream.audio live stream no longer responds and the radio site offers on-demand audio only. Editorial flag: Prensa Latina is the official news agency of the Cuban state, founded in 1959 at Che Guevara''s initiative; it operates as a government organ in a one-party system with no independent press, so its output reflects official positions.'
+  sources: https://en.wikipedia.org/wiki/Prensa_Latina; https://radio.prensa-latina.cu/
+curation: -0.30
 provenance:
   - radiobrowser-80b438a6-537d-468f-b365-1e376289247b
 streams:

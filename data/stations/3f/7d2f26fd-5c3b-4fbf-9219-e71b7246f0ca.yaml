@@ -23,15 +23,16 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: state media
   operator: VGTRK (All-Russia State Television and Radio Company)
   affiliations: Russian federal government, state broadcaster
   audience: Kemerovo Oblast (Kuzbass region), Russia; Russian speakers
   format: News, current affairs, state broadcaster
-  notes: Regional feed of Vesti FM, part of Russian state broadcaster VGTRK; serves Kemerovo Oblast in Siberia
+  notes: 'Regional feed of Vesti FM, part of Russian state broadcaster VGTRK; serves Kemerovo Oblast in Siberia Editorial flag: Vesti FM is VGTRK''s Kremlin-aligned 24h news/talk channel (Solovyov-style hosts); the stream URL is the national Vesti FM feed on icecast.vgtrk.cdnvideo.ru, not a local music service. VGTRK is sanctioned by the UK/Canada/Australia and is a core Russian state-propaganda organ.'
   sources: internal knowledge only
-curation: 0.35
+curation: -0.70
+duplicate_of: 960b9e98-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-7d2f26fd-5c3b-4fbf-9219-e71b7246f0ca
   - iprd-ru-vesti-fm-uzbass-43830966

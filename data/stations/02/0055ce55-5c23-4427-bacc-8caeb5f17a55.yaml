@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: non-commercial
+  operator: BYU Broadcasting
+  affiliations: Brigham Young University / Church of Jesus Christ of Latter-day Saints
+  audience: national US talk-radio audience
+  format: talk/entertainment
+  notes: BYU Radio is a national US talk and entertainment network operated by BYU Broadcasting at Brigham Young University (Church of Jesus Christ of Latter-day Saints-affiliated), also carried on SiriusXM. It produces original talk, comedy, and interview programming distinct from typical commercial talk radio, including shows like 'Top of Mind' and 'BYU Radio's The Y.'
+  sources: https://cdn.byub.org/byuradio/byuradio_mp3; https://en.wikipedia.org/wiki/BYUradio
+curation: 0.50
 provenance:
   - iprd-us-byu-radio-4352f9b0

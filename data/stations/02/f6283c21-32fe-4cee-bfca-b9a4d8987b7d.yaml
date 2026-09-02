@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Margaritaville Holdings / Sirius XM Radio
+  affiliations: Jimmy Buffett brand
+  audience: Trop-rock / beach-music fans
+  format: Trop rock, reggae, island rock
+  notes: Radio Margaritaville is the Jimmy Buffett-branded 'Trop Rock' music channel, mixing Buffett, reggae and island-themed rock; it is best known today as a SiriusXM channel but has also been distributed via independent web streams like this one. The specific CDN relay tested here did not respond, and the YAML's 'homepage' field is actually a Wikimedia image URL rather than a real site.
+  sources: 'IPRD: streams/us/us.m3u; https://en.wikipedia.org/wiki/Radio_Margaritaville'
+curation: 0.25
 provenance:
   - iprd-us-radio-margaritaville-8b3ea5af

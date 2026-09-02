@@ -34,3 +34,11 @@ research:
 curation: 0.65
 provenance:
   - radiobrowser-960a4fb3-0601-11e8-ae97-52543be04c81
+  - iprd-us-knch-90-1-texas-tech-university-public-media-98bf2a66
+streams:
+  - url: 'http://playerservices.streamtheworld.com/m3u/KNCHFM.m3u'
+    url_resolved: 'http://18233.live.streamtheworld.com/KNCHFM_SC'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://playerservices.streamtheworld.com/pls/KNCHFM.pls'
+    url_resolved: 'https://29325.live.streamtheworld.com:443/KNCHFM_SC'

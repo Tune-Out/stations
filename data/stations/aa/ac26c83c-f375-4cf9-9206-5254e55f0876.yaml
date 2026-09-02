@@ -41,3 +41,14 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-ac26c83c-f375-4cf9-9206-5254e55f0876
+  - radiobrowser-5531b766-6519-4d63-80ba-a3ce795ca88e
+  - iprd-ru-radiotower-04637e6c
+streams:
+  - url: 'https://stream.radiogoose.ru/listen/radiogoose/play'
+    url_resolved: 'https://stream4.radiogoose.ru/listen/radiogoose/play'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://stream.radiogoose.ru:8000/play'
+    url_resolved: 'https://stream4.radiogoose.ru/listen/radiogoose/play'
+    codec: MP3
+    bitrate: 320

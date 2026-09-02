@@ -31,3 +31,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-4aac8516-6177-4eb6-afc1-a53ea41a5958
+  - radiobrowser-33b927aa-e4f3-4084-9f50-c74eedfba446
+streams:
+  - url: 'http://79.98.108.170:8332/;stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://79.98.108.170:8332/;'
+    codec: MP3
+    bitrate: 128

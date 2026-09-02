@@ -23,14 +23,14 @@ clickcount: 92
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: public broadcaster
+  reviewed_at: 2026-09-02
+  nature: state media
   operator: Stream delivered via Qingting FM (蜻蜓FM, qtfm.cn) infrastructure; homepage points to Ajmide (阿基米德FM / 阿基米德（上海）传媒有限公司, Archimedes Shanghai Media Co., Ltd.), a Shanghai-based commercial audio platform. The "国际新闻" (International News) feed is a news-aggregation channel rebroadcasting Chinese state media / CRI / CNR international news segments.
   affiliations: Chinese-government-regulated media space; news content originates from PRC state broadcasters (CNR / CRI / CCTV affiliates) and is subject to PRC content regulation. No religious or independent political affiliation.
   audience: Mandarin-speaking listeners in China interested in international news and current affairs
   format: 24/7 international news / current affairs in Mandarin Chinese; talk and news bulletins compiled from state-media sources
-  notes: Ajmide (Archimedes FM) is a major Chinese audio/podcast platform spun out of Shanghai Media Group (SMG)'s radio division, with over 2 million downloads. Qingting FM (qtfm.cn) hosts the actual stream URL. Channel ID 20500172 indicates a curated stream rather than a single licensed broadcast station.
+  notes: 'Ajmide (Archimedes FM) is a major Chinese audio/podcast platform spun out of Shanghai Media Group (SMG)''s radio division, with over 2 million downloads. Qingting FM (qtfm.cn) hosts the actual stream URL. Channel ID 20500172 indicates a curated stream rather than a single licensed broadcast station. Editorial flag: An opaque aggregator feed (Qingting FM channel 20500172, homepage pointing at Ajmide) whose entire content is PRC state-media international news — the CRI/CNR political output the brief flags. Marked true at medium confidence because the channel identity is unverified; if a human confirms it is a general licensed news relay rather than state international-news rebroadcast, it should be revisited.'
   sources: http://www.ajmide.com/, https://lhttp.qtfm.cn/live/20500172/64k.mp3, internal knowledge of Chinese radio platforms
-curation: 0.6
+curation: -0.45
 provenance:
   - radiobrowser-ab0cc7f6-df03-4923-ac83-f4a7d8c55916

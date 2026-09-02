@@ -23,15 +23,15 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RTS (Radiotélévision Suisse Romande), part of SRG SSR (Swiss public broadcaster)
-  affiliations: Swiss state; publicly funded via licence fee (Gebühren/Taxe Radio-Télévision)
-  format: Musical documentaries, world music, jazz, folk, contemporary compositions and cultural programming
-  audience: French-speaking Switzerland; music and culture enthusiasts
-  notes: RTS Option Musique is one of the four radio networks operated by RTS, the French-language division of SRG SSR (Société Suisse de Radiodiffusion et Télévision). SRG SSR is Switzerland's state-owned public broadcaster, established in 1983 through a merger of the three language-community broadcasters. RTS operates under a unique Swiss federalist model where Italian-language RTSI and Romansh-language RTR are peers to RTS and the German-language SRF. The network is funded through mandatory licence fees collected nationally. Option Musique is specifically curated for sophisticated music programming rather than chart-driven hits, featuring documentaries, world music, jazz and cultural/musical analysis. Broadcast in French language for the Romandy (French-speaking) region of Switzerland.
-  sources: http://www.rts.ch/option-musique/, internal knowledge of SRG SSR structure
-curation: 0.65
+  operator: RTS (Radio Télévision Suisse), part of SRG SSR
+  affiliations: SRG SSR Swiss public broadcaster, licence-fee funded
+  audience: French-speaking Switzerland, adult francophone-music listeners
+  format: Francophone variety and pop hits of yesterday and today, Swiss artists, hourly RTS news
+  notes: RTS Option Musique is the music channel of Radio Télévision Suisse, the French-language arm of the licence-fee-funded public broadcaster SRG SSR. Launched in 1994 as a medium-wave complement to La Première, it now broadcasts on DAB+, cable, satellite and online with a programme built mainly on francophone variety and pop hits from past decades to today, a strong emphasis on promoting Swiss artists since a 2021 refresh, and hourly RTS news bulletins. It adopted the RTS Option Musique name on 26 August 2024. The earlier catalog notes describing world music, jazz and musical documentaries were inaccurate.
+  sources: https://fr.wikipedia.org/wiki/Option_Musique; http://www.rts.ch/option-musique/
+curation: 0.60
 provenance:
   - radiobrowser-9607cc5d-0601-11e8-ae97-52543be04c81
   - iprd-ch-rts-option-musique-e486f2a8

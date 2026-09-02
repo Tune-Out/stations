@@ -21,15 +21,15 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Multimedia Holding (101.ru), Moscow-based Russian internet-radio multiplex
-  affiliations: none known beyond Russian commercial broadcasting; not state media
-  audience: Russian-speaking adults nostalgic for 1980s disco; CIS diaspora
-  format: 1980s disco and synth-pop, Italo-disco, eurodance forerunners, and Russian/Soviet estrada from the decade
-  notes: Discoteca 80 is a curated genre channel on the 101.ru online radio platform (one of Russia's largest webradio aggregators, launched by Multimedia Holding in 2006), playing classics from Modern Talking, Ottawan, Boney M, Pugacheva-era Soviet pop, and other 1980s dance staples; the channel was branded "Discoteca 80" as channel number 1 (the platform's flagship oldies stream) until ownership / branding reshuffles in the 2020s.
-  sources: internal knowledge only
-curation: 0.5
+  operator: 101.ru (Gazprom-Media Radio), Moscow
+  affiliations: 101.ru webradio platform of Gazprom-Media holding
+  audience: Russian-speaking listeners nostalgic for 1980s disco and Soviet estrada
+  format: Automated 1980s disco, Italo-disco, synth-pop and Soviet/Russian 80s pop
+  notes: Discoteca 80 (Дискотека 80-х) is channel number 1 on 101.ru, a Moscow-based internet-radio platform with hundreds of automated genre channels that belongs to the Gazprom-Media radio group. The stream plays 1980s dance hits from Modern Talking, Boney M, Ottawan and Soviet estrada stars around the clock with no presenters. The pub0302 stream host in the catalog no longer answers, but the same channel is served from other 101.ru hosts (e.g. pub0101.101.ru/stream/pro/aac/64/1).
+  sources: https://101.ru/radio/channel/1; https://onlineradiobox.com/ru/101rudisco80/; https://vsefm.com/radio/101-ru-diskoteka-80-h/
+curation: 0.18
 provenance:
   - radiobrowser-e7312e4b-444e-45d8-afc9-c11c24aeef13
   - iprd-ru-discoteca-80-3f1503f6

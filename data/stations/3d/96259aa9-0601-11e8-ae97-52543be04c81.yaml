@@ -35,3 +35,13 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-96259aa9-0601-11e8-ae97-52543be04c81
+  - radiobrowser-9624dda4-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFMAAC.aac'
+    url_resolved: 'http://26423.live.streamtheworld.com:80/WXXIFMAAC.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3'
+    url_resolved: 'http://26223.live.streamtheworld.com:80/WXXIFM.mp3'
+    codec: MP3
+    bitrate: 64

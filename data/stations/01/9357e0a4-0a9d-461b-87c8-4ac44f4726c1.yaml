@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: Christmas-music listeners, US
+  format: Christmas music
+  notes: Christmas Radio Live is a small online-only US stream playing seasonal Christmas music year-round, hosted on generic Shoutcast infrastructure. It has no distinctive editorial identity beyond its theme, and the listed stream endpoint is currently unreachable.
+  sources: 'IPRD: streams/us/us.m3u'
+curation: -0.03
 provenance:
   - iprd-us-christmas-radio-live-41d47ceb

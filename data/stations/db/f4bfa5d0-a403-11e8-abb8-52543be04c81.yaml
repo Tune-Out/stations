@@ -23,15 +23,15 @@ clickcount: 48
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: The Big 80s Station (independent operator)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: The Big 80s Station (independent US operator; identity not disclosed)
   affiliations: none known
-  audience: Global internet; 1980s nostalgia listeners
-  format: 1980s hits exclusively; retrospective music programming
-  notes: The Big 80s Station is a US-based (New York) internet radio station dedicated entirely to 1980s music hits. Online streaming only, powered by WordPress. No FM broadcast. Features programming by former radio professionals from that era. Targets 1980s nostalgia and retro enthusiasts. Minimal organizational transparency; appears to be independent or small operator.
-  sources: https://www.thebig80sstation.com/
-curation: -0.05
+  audience: US and international 1980s nostalgia listeners
+  format: 1980s pop/rock hits programmed by former radio personalities of the decade; 128 kbps stereo
+  notes: The Big 80s Station is a US internet-only radio channel streaming 1980s hits 24/7, with the tagline 'Playing the Big Hits from the Big City' and the claim that it is 'programmed by the people who were on your radio back in the day'. The WordPress site gives no ownership, location or founding details; directories list it as New York-based. It streams at 128 kbps via an OVH-hosted server (158.69.114.190) and is carried on TuneIn, myTuner and Online Radio Box. It is a modest independent nostalgia stream with no terrestrial presence.
+  sources: https://thebig80sstation.com/; https://tunein.com/radio/The-Big-80s-Station-s279812/; https://onlineradiobox.com/us/big80s/
+curation: 0.05
 provenance:
   - radiobrowser-f4bfa5d0-a403-11e8-abb8-52543be04c81
   - iprd-us-the-big-80s-station-9d9a6fed

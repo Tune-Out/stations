@@ -32,3 +32,13 @@ curation: 0.2
 provenance:
   - radiobrowser-858aab2b-0717-4deb-b44f-61bd4ec12a6b
   - iprd-cl-concierto-88-5-74e17c34
+  - radiobrowser-44add06a-c58f-4617-8c56-30b8bf72aeec
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac'
+    url_resolved: 'https://29326.live.streamtheworld.com:443/CONCIERTOAAC.aac'
+    codec: AAC+
+    bitrate: 56
+  - url: 'https://playerservices.streamtheworld.com/pls/CONCIERTOAAC.pls'
+    url_resolved: 'https://27323.live.streamtheworld.com:443/CONCIERTOAAC_SC'
+    codec: AAC+
+    bitrate: 56

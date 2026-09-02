@@ -27,15 +27,15 @@ clickcount: 143
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Deep House Lounge LLC (independent Philadelphia-based internet radio operator)
-  affiliations: none known (independent; supported via Google AdSense and Amazon affiliate revenue; no religious/political/governmental ties)
-  audience: Global English-speaking house/electronic music enthusiasts; underground dance music fans
-  format: 24/7 internet-only stream of deep house, disco, tech house, funky/jazzy house, lounge and related electronica with live DJ broadcasts
-  notes: Self-described mission is "focused on providing quality, original house music from all over the world" with emphasis on "Quality over quantity" and community connection rather than commercial success. Distributed via iTunes, Spotify, SoundCloud, TuneIn and own iOS/Android apps. Based in Philadelphia, PA.
-  sources: http://www.deephouselounge.com/, internal knowledge
-curation: 0.5
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Deep House Lounge LLC, Philadelphia, PA
+  affiliations: none known; ad/affiliate supported
+  audience: Global underground house music fans
+  format: Deep house, disco, tech house, funky/jazzy house with DJ mixes and a podcast
+  notes: Deep House Lounge is an internet radio station, podcast and community run by Deep House Lounge LLC from Philadelphia, describing itself as "focused on providing quality, original house music from all over the world" — deep house, disco, tech, funky and jazzy house — with DJ shows distributed via its apps, TuneIn, SoundCloud and iTunes. The website is still online, but all three Shoutcast streams it links (198.15.94.34 ports 8006, 8024 and 8030) refuse connections and RadioBrowser also marks the stream as failing, so the station appears to be off-air as of September 2026 with no replacement stream published.
+  sources: http://www.deephouselounge.com/; http://www.deephouselounge.com/Listen_Links/listen.pls; https://de1.api.radio-browser.info/json/stations/byname/deep%20house%20lounge
+curation: 0.01
 provenance:
   - radiobrowser-96156a3e-0601-11e8-ae97-52543be04c81
   - iprd-us-deep-house-lounge-3fc6a895

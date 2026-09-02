@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: religious
+  operator: Abiding Radio
+  affiliations: ''
+  audience: Christian families with young children, US
+  format: religious/kids
+  notes: This is the Kids channel of Abiding Radio, a US Christian listener-supported streaming network, playing children's songs and Bible stories for a young audience.
+  sources: http://streams.abidingradio.org:7810/1
+curation: 0.15
 provenance:
   - iprd-us-abiding-radio-kids-songs-and-bible-stories-c688b2bd

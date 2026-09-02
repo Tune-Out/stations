@@ -35,3 +35,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-1b9c4361-ad06-44a7-8d05-f569dda1f706
+  - radiobrowser-4c320b13-cc39-480a-8ccc-03d1feee52b6
+streams:
+  - url: 'http://uk2.internet-radio.com:8066/stream?listening-from-radio-garden=1657423901'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://uk2.internet-radio.com/proxy/radiosdapp?mp=/stream'
+    codec: MP3
+    bitrate: 96

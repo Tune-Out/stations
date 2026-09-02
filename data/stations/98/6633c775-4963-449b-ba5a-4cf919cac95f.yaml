@@ -31,3 +31,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-6633c775-4963-449b-ba5a-4cf919cac95f
+  - radiobrowser-aaa9c996-f06e-4237-a66c-4db36c522795
+streams:
+  - url: 'http://s5.reliastream.com:7134/stream/1/'
+    codec: MP3
+    bitrate: 54
+  - url: 'http://s5.reliastream.com:7134/stream'
+    codec: MP3
+    bitrate: 54

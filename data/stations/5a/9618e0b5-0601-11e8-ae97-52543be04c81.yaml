@@ -1,5 +1,5 @@
 stationuuid: 9618e0b5-0601-11e8-ae97-52543be04c81
-name: DIGI fm
+name: Digi FM
 url: http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 url_resolved: http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 homepage: http://www.digi-fm.ro/
@@ -23,15 +23,21 @@ clickcount: 27
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: DIGI FM Romania (affiliated with RDS network)
-  affiliations: none known
-  audience: Romanian-speaking listeners
-  format: Music and news programming
-  notes: DIGI FM is a Romanian commercial radio station providing music and news content to Romanian audiences via the RDS network infrastructure.
-  sources: internal knowledge only
-curation: -0.05
+  operator: Digi (RCS & RDS)
+  affiliations: Digi media group; sister station Pro FM
+  audience: Romanian-speaking adults nationwide
+  format: Hot adult contemporary with half-hourly news bulletins
+  notes: Digi FM is a Romanian commercial network launched on 11 November 2015 by Digi (RCS & RDS), the telecoms group that had acquired Pro FM and related radio assets earlier that year and put Digi FM on frequencies formerly used by the news station Info Pro. It runs a hot adult contemporary format built on music from the last two decades, with news bulletins every half hour on weekdays and hourly at weekends — a mix reflected in its current slogan 'Newsic Radio', after earlier lines 'Puterea Radioului' and 'Ca să știi'. The network covers 41 regional and local frequencies between 88.4 and 107.9 MHz, including Bucharest 97.9, Cluj-Napoca 104.5, Timișoara 91.3, Brașov 100.7 and Craiova 105.5. The stream on the RDS edge servers is live.
+  sources: https://ro.wikipedia.org/wiki/Digi_FM; http://www.digi-fm.ro/
+curation: 0.20
 provenance:
   - radiobrowser-9618e0b5-0601-11e8-ae97-52543be04c81
   - iprd-ro-digi-fm-8d6bdd08
+  - radiobrowser-ea2bd72b-71e2-42f3-8a56-aa2b3d445ea3
+streams:
+  - url: 'http://edge76.rdsnet.ro:84/digifm/digifm.mp3'
+    codec: MP3
+  - url: 'https://edge76.rcs-rds.ro/digifm/digifm.mp3'
+    codec: MP3

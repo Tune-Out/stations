@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/au/au.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Australian Radio Network (ARN)
+  affiliations: Smooth FM network
+  audience: Melbourne adult-contemporary listeners
+  format: smooth/adult contemporary
+  notes: Smooth 95.3 is an ARN (Australian Radio Network) commercial adult-contemporary station broadcasting to Melbourne, part of the national 'Smooth FM' network alongside sister stations in Sydney and Brisbane.
+  sources: stream check; ARN Smooth FM is a well-known Australian commercial network (general knowledge)
+curation: 0.10
 provenance:
   - iprd-au-smooth-95-3-5efaa10a

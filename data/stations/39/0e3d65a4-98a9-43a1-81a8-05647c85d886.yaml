@@ -33,3 +33,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-0e3d65a4-98a9-43a1-81a8-05647c85d886
+  - radiobrowser-f84197c1-a62b-42d7-8dd0-8a01180a628d
+streams:
+  - url: 'https://listen.senemultimedia.net:8112/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.radiothiossane.com/'
+    codec: MP3
+    bitrate: 128

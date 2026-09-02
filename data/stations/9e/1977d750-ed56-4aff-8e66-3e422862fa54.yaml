@@ -35,3 +35,9 @@ curation: 0.35
 provenance:
   - radiobrowser-1977d750-ed56-4aff-8e66-3e422862fa54
   - iprd-ru-mds-station-fa73df1a
+  - radiobrowser-d05adc71-7bd3-4d5f-9d76-b981f190545a
+streams:
+  - url: 'http://mds-station.com:8000/mds'
+    codec: MP3
+  - url: 'https://5.restream.one/1465_1'
+    codec: MP3

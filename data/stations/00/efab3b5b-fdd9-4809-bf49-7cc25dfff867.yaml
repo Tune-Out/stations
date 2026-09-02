@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ca/ca.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: religious
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: CJSI "Shine FM" 88.9 is a contemporary Christian music station operated by Golden West Broadcasting as part of its Shine FM network across western Canada. The catalog's specific stream endpoint is currently dead, though the network's other feeds remain active.
+  sources: https://www.cjsi.ca
+curation: 0.15
 provenance:
   - iprd-ca-cjsi-shine-88-9-f4738a7c

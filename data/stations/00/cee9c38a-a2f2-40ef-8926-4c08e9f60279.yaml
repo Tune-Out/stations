@@ -33,3 +33,11 @@ curation: 0.5
 provenance:
   - radiobrowser-cee9c38a-a2f2-40ef-8926-4c08e9f60279
   - iprd-at-orf-radio-salzburg-9b35d3d5
+  - radiobrowser-50890eab-41ac-4f6b-8839-022f0c20444b
+streams:
+  - url: 'https://orf-live.ors-shoutcast.at/sbg-q2a'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://orf-live.ors-shoutcast.at/sbg-q1a'
+    codec: MP3
+    bitrate: 128

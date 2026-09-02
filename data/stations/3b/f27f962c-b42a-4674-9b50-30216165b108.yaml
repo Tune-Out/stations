@@ -25,15 +25,25 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
   operator: RTHK (Radio Television Hong Kong); Hong Kong government agency
   affiliations: Hong Kong government; public service broadcasting
   audience: Hong Kong residents; Cantonese speakers; students and educators
-  format: Educational programming; current affairs; news; discussion programmes
-  notes: Public broadcaster funded by Hong Kong government; Radio 5 targets education and intellectual content
-  sources: internal knowledge only
-curation: 0.4
+  format: Classic hits/oldies (Cantonese and English), Cantonese opera, elderly, cultural, education and children's programmes
+  notes: 'RTHK Radio 5 is a channel of Radio Television Hong Kong, the territory''s government-funded public broadcaster, focused on Cantonese content for elderly listeners and families: Cantonese opera, classic hits and oldies, plus cultural, educational and children''s programming.'
+  sources: https://en.wikipedia.org/wiki/Radio_Television_Hong_Kong; https://news.rthk.hk/rthk/en/
+curation: 0.55
 provenance:
   - radiobrowser-f27f962c-b42a-4674-9b50-30216165b108
   - iprd-hk-rthk-radio-5-eb04cd9f
+  - radiobrowser-140cbc06-7365-40c8-b81e-564f55e7f290
+streams:
+  - url: 'https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true
+  - url: 'https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true

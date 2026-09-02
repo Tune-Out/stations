@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Cumulus Media / Toledo radio group
+  affiliations: ''
+  audience: Toledo, Ohio
+  format: news/talk
+  notes: WQQO HD2 'Talk 100.7' is the HD2 subchannel news/talk simulcast of commercial station WQQO, licensed to Sylvania, Ohio (Toledo market). It carries syndicated talk programming typical of an AM/FM HD2 simulcast with no distinct local identity.
+  sources: https://27153.live.streamtheworld.com:443/WQQOHD2AAC_SC
 curation: 0
+duplicate_of: 964b0870-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-wqqo-hd2-talk-100-7-0aac03d0

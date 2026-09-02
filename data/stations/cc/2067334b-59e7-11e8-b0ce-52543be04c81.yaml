@@ -1,5 +1,5 @@
 stationuuid: 2067334b-59e7-11e8-b0ce-52543be04c81
-name: Radio BollyFm
+name: Radio BollyFM
 url: http://stream.radiobollyfm.in:8201/hd?t=1526570335
 url_resolved: http://stream.radiobollyfm.in:8201/hd?t=1526570335
 homepage: http://www.radiobollyfm.in/
@@ -22,15 +22,15 @@ clickcount: 89
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Unknown private operator based in West Bengal, India (per station metadata)
-  affiliations: none known (no religious / governmental / political affiliations identified)
-  audience: Hindi-speaking Bollywood music fans worldwide; Indian diaspora and India-based listeners
-  format: 24/7 Bollywood Hindi film music streaming; self-described as "Online Bollywood Radio"
-  notes: Internet-only station (no terrestrial FM); operates its own streaming infrastructure at stream.radiobollyfm.in. Has accumulated over 26,000 votes on Radio Browser, making it one of the more popular Indian-origin online Bollywood streams. Minimal website content; commercial nature inferred from typical operating model of this category of online radio.
-  sources: http://www.radiobollyfm.in/, internal knowledge
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio BollyFM (private operator, Kelomal, Tamluk, West Bengal, India)
+  affiliations: none known
+  audience: Hindi-speaking Bollywood fans in India and the Indian diaspora (claims listeners in 140+ countries)
+  format: 24/7 Bollywood Hindi film music with listener requests and a Bollywood/lifestyle blog
+  notes: Radio BollyFM is an internet-only Bollywood music station launched in 2010 from West Bengal, India (registered address Kelomal, Tamluk), streaming 128 kbps Hindi film music around the clock from its own server at stream.radiobollyfm.in. It positions itself as reuniting the dispersed Indian diaspora and pairs the stream with a blog covering Bollywood, fashion and lifestyle news, plus a listener-participation slogan 'We promote your voice, we promote your skills'. There is no terrestrial licence or known corporate parent; it is a small independent web radio. The homepage returns HTTP 406 to automated clients but is live in browsers.
+  sources: https://tunein.com/radio/radioBollyFM-s121492/; https://liveradios.in/radio-bolly-fm.html; https://hindiradios.com/radiobolly-fm; http://www.radiobollyfm.in/
+curation: 0.05
 provenance:
   - radiobrowser-2067334b-59e7-11e8-b0ce-52543be04c81
   - iprd-in-bollyfm-55b86ea9

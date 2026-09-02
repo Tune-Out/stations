@@ -2,8 +2,8 @@ stationuuid: 960de706-0601-11e8-ae97-52543be04c81
 name: Шансон Радио
 url: http://chanson.hostingradio.ru:8041/chanson128.mp3
 url_resolved: http://chanson.hostingradio.ru:8041/chanson128.mp3
-homepage: http://radioshanson.fm/
-favicon: ""
+homepage: https://radioshanson.ru/
+favicon: https://radioshanson.ru/apple-touch-icon.png
 tags: []
 country: The Russian Federation
 countrycode: RU
@@ -22,19 +22,22 @@ clickcount: 16
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Radio Chanson (Радио Шансон), operated in Russia by Media Holding "Krutoy Media" / ZAO Radio Chanson / Multimedia Holding (the station has historically been controlled by Multimedia Holding, founded by businessman Vitaly Bogdanov and later associated with Russia's Multimedia Holding group); broadcasts on a national network of FM affiliates anchored in Moscow.
-  affiliations: Operates within Russia's tightly regulated broadcast environment under Roskomnadzor; not state-owned but generally aligned with mainstream Russian cultural establishment; no overt political party ties but the genre and listenership skew patriotic / pro-establishment.
-  audience: Russian-speaking adult listeners (typically 35-65), heavily working-class, ex-military, blue-collar and post-Soviet nostalgic demographics across Russia and the Russian-speaking diaspora.
-  format: Russian "shanson" - a genre fusing chanson, urban romance, prison/criminal songs (blatnaya pesnya), bard music, soldier songs and adult-contemporary Russian pop ballads; non-stop music with some host segments.
-  notes: One of Russia's most-listened-to radio brands, founded in 2000 and a flagship of the shanson genre's popularization; presents the Shanson Year (Шансон года) annual awards at the Kremlin; the genre is closely associated with Russian working-class identity and has, since 2014 and especially after the 2022 invasion of Ukraine, increasingly featured patriotic and pro-military themes (including songs from the Donbas conflict). The station has not been individually sanctioned, but its parent ecosystem operates inside Russia's wartime media regime.
-  sources: internal knowledge only
-curation: 0.45
+  operator: Krutoy Media (owner Mikhail Gutseriev)
+  affiliations: none formal; operates within Russia's regulated media environment
+  audience: Russian-speaking adults 35+ across Russia and the diaspora
+  format: Russian chanson, urban romance, bard and adult-contemporary ballads
+  notes: 'Radio Shanson (Радио Шансон) is a Russian national commercial music network launched on 15 August 2000, broadcasting in Moscow on 103.0 FM since 2001 and relayed to over 1,700 cities and towns in Russia, Belarus, Armenia and Transnistria. It has been owned by businessman Mikhail Gutseriev since April 2015 and operates within his Krutoy Media holding. The format is adult-contemporary built around Russian chanson: urban romance, bard songs, film music, popular ballads and some folk and rock. The station stages the annual ''Shanson of the Year'' awards (held for over 20 years at the State Kremlin Palace, since 2023 at Live Arena). The catalog homepage radioshanson.fm now redirects to a survey-spam page; the official site is radioshanson.ru.'
+  sources: https://ru.wikipedia.org/wiki/Шансон_(радиостанция); https://radioshanson.ru/
+curation: 0.30
 provenance:
   - radiobrowser-960de706-0601-11e8-ae97-52543be04c81
   - iprd-ru-chanson-radio-09ed5263
   - iprd-ru-shanson-radyo-12a7b295
+  - radiobrowser-9643f966-0601-11e8-ae97-52543be04c81
+  - iprd-ru-chanson-radio-556ec6d8
+  - iprd-ru-radio-shanson-1d6852ed
 streams:
   - url: http://chanson.hostingradio.ru:8041/chanson128.mp3
     codec: MP3
@@ -42,3 +45,6 @@ streams:
     codec: MP3
   - url: https://chanson.hostingradio.ru:8041/chanson128.mp3
     codec: MP3
+  - url: 'http://chanson.hostingradio.ru:8041/chanson256.mp3'
+    codec: MP3
+    bitrate: 256

@@ -34,3 +34,12 @@ curation: -0.05
 provenance:
   - radiobrowser-9615b6c8-0601-11e8-ae97-52543be04c81
   - iprd-bg-bg-radio-bf0ae5af
+  - radiobrowser-eae5ec5b-bf87-48fb-b21c-dcf0658efa38
+  - iprd-bg-bg-radio-2aff010e
+streams:
+  - url: 'http://stream.radioreklama.bg/bgradio128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.metacast.eu/bgradio128'
+    codec: MP3
+    bitrate: 128

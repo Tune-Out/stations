@@ -31,3 +31,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-ab6a8302-cf1c-48c9-b26a-1deb5b7b36b1
+  - radiobrowser-896b0eda-d623-48e6-b55d-eaf067648465
+streams:
+  - url: 'http://198.178.123.8:7082/;'
+    codec: MP3
+    bitrate: 24
+  - url: 'http://198.178.123.8:7082/listen.pls'
+    url_resolved: 'http://198.178.123.8:7082/'
+    codec: MP3
+    bitrate: 24

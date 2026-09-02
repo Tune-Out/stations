@@ -1,5 +1,5 @@
 stationuuid: dff6fd72-58fe-4eb5-8bf7-c3f76f5375ca
-name: TRT NAĞME
+name: TRT Nağme
 url: https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 url_resolved: https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 homepage: https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
@@ -20,14 +20,14 @@ clickcount: 11
 geo_lat: 39.83437735683739
 geo_long: 32.89306640625001
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Türkiye Radyo ve Televizyon Kurumu (TRT) — Turkey's state public broadcaster
-  affiliations: Turkish state; TRT is a public corporation funded by household electricity-bill licence fees and government subsidies, governed by a board appointed in coordination with the Turkish government
-  audience: adult Turkish-speaking listeners with an interest in classical Turkish art music (Türk sanat müziği) and Turkish folk music
-  format: 24/7 classical Turkish art music (Türk Sanat Müziği) and traditional Turkish music with periodic concerts and archival recordings
-  notes: TRT Nağme launched in 2009 as part of TRT's themed-channel expansion, dedicated to Turkish classical (Ottoman / Türk Sanat) and folk music; it sits alongside TRT Müzik (TV) and other TRT Radio channels (Radyo 1, Radyo 3, TRT FM, Radyo Haber, Türkü, etc.); TRT is the country's sole public-service broadcaster, established by law in 1964 and operating under the principles of impartiality enshrined in its founding act, though critics (RSF, Freedom House) have repeatedly accused it of pro-government bias under the AKP era; the m3u8 URL listed here is the live stream of the affiliated TRT Müzik TV simulcast.
-  sources: internal knowledge only
-curation: 0.55
+  operator: Türkiye Radyo ve Televizyon Kurumu (TRT)
+  affiliations: Turkish state public broadcaster
+  audience: Turkish listeners of classical Turkish art music
+  format: Turkish art music (Türk sanat müziği) 24/7
+  notes: TRT Nağme is a Turkish art music (Türk sanat müziği) radio channel of Turkey's state public broadcaster TRT, launched on 6 May 2009 and broadcast 24 hours on FM (102.8 MHz Ankara, 101.6 Istanbul, 94.5 Izmir) and online. It plays classical Turkish art music from historical recordings to the present. Note that the URL on this entry is the 720p HLS master of the TRT Müzik television simulcast rather than the Nağme radio stream, and the homepage field points at the same m3u8; TRT itself is publicly funded but widely criticised for pro-government bias.
+  sources: https://tr.wikipedia.org/wiki/TRT_Nağme; https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+curation: 0.34
 provenance:
   - radiobrowser-dff6fd72-58fe-4eb5-8bf7-c3f76f5375ca

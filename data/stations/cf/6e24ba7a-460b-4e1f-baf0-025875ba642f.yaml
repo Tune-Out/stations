@@ -32,3 +32,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-6e24ba7a-460b-4e1f-baf0-025875ba642f
+  - radiobrowser-f9fae8a0-17a5-4779-8172-6b276dc2ea92
+streams:
+  - url: 'http://173.249.50.205:8004/'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://mediagh.us:2000/stream/uniiqfm'
+    codec: MP3
+    bitrate: 96

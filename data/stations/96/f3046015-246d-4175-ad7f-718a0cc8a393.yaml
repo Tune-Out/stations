@@ -38,3 +38,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-f3046015-246d-4175-ad7f-718a0cc8a393
+  - radiobrowser-793e4bf5-c133-4a2d-bca6-abb78de48e16
+  - iprd-au-triple-j-99-3-b3eacc40
+streams:
+  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8'
+    codec: AAC
+    bitrate: 238
+    hls: true
+  - url: 'http://live-radio01.mediahubaustralia.com/4TJW/mp3/'
+    codec: AAC+
+    bitrate: 56

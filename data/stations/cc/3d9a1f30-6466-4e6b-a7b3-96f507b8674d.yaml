@@ -33,3 +33,16 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-3d9a1f30-6466-4e6b-a7b3-96f507b8674d
+  - radiobrowser-47751242-203e-49a0-9755-0a2aef69c581
+  - radiobrowser-db6473f0-1700-4867-9680-e61b5176ddad
+  - iprd-sk-info-vojna-a022b3d6
+streams:
+  - url: 'https://stream1.infovojna.com:8000/live'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream3.infovojna.com:8000/live'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://159.69.219.5:8010/aac'
+    codec: AAC
+    bitrate: 320

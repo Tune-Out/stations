@@ -3,7 +3,7 @@ name: Радио Маяк (Radio Mayak)
 url: http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 url_resolved: http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 homepage: http://www.radiomayak.ru/
-favicon: ""
+favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Radio_Mayak_logo.svg/250px-Radio_Mayak_logo.svg.png
 tags:
   - news
   - talk
@@ -24,15 +24,23 @@ clickcount: 21
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: state media
-  operator: VGTRK (Vserossisskaya Gosudarstvennaya Teleradioveshshatel'naya Kompaniya) - All-Russian State Television and Radio Company
-  affiliations: Russian government
-  audience: Russian speakers across Russian Federation
-  format: Music, news, talk; comprehensive national service
-  notes: Radio Mayak is Russia's oldest and largest radio station; state-controlled broadcast media; established 1964; popular national service with high listener engagement (41,488 votes)
-  sources: internal knowledge only
-curation: 0.45
+  operator: VGTRK (All-Russia State Television and Radio Broadcasting Company), Russian state
+  affiliations: Russian government; VGTRK holding (Rossiya 1, Rossiya 24, Vesti FM)
+  audience: Russian-speaking general audience across Russia, roughly 4 million daily listeners in major cities (2014 figures)
+  format: News, talk shows, phone-ins and popular music; 'Moscow Nights' interval signal every half hour
+  notes: 'Radio Mayak (''Lighthouse'') is a Russian national state radio station that first aired on 1 August 1964 as the All-Union Radio news-and-light-music service, modelled loosely on the BBC Light Programme. It is owned and run by VGTRK, the All-Russia State Television and Radio Broadcasting Company, and broadcasts from Moscow on 103.4 FM and across Russia through regional VGTRK affiliates, having dropped long- and medium-wave transmission in 2013. The format mixes news, talk shows and pop music, and its ''Moscow Nights'' tuning signal still plays every 30 minutes. VGTRK is a designated strategic state enterprise and has been sanctioned by the EU, UK, US, Canada and others since 2022 for spreading war propaganda; the station''s web presence now lives on VGTRK''s smotrim.ru platform. Editorial flag: Owned by VGTRK, the Russian state broadcasting holding sanctioned by the EU, UK, US, Canada, Switzerland, Australia, New Zealand and Japan for its role in disseminating Kremlin propaganda supporting the war against Ukraine. Editorial flag: Radio Mayak is named in the brief as a Kremlin news channel. Mixed music/talk format tempers the score relative to Vesti FM, but the news and current-affairs output follows the state line.'
+  sources: https://en.wikipedia.org/wiki/Radio_Mayak; https://smotrim.ru/channel/81; https://www.opensanctions.org/entities/NK-oDoHg7bvNya7MzmaPZnf4L/; https://sanctionschecklist.com/entity/UK_RUS1418
+curation: -0.55
 provenance:
   - radiobrowser-9614aa8d-0601-11e8-ae97-52543be04c81
   - iprd-ru-radio-mayak-75f366ba
+  - radiobrowser-edefa7e1-4ec7-444a-973f-4aab360d5bda
+streams:
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://icecast-vgtrk.cdnvideo.ru/mayakfm'
+    codec: MP3
+    bitrate: 320

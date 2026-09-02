@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: VEVO / Pluto TV (Paramount)
+  affiliations: Pluto TV
+  audience: Latin pop listeners
+  format: Latin pop/reggaeton video jukebox
+  notes: VEVO Latino is a linear music-video channel operated by VEVO and distributed via Pluto TV, playing a rotation of Latin pop/reggaeton music videos with no live hosts or original programming. It functions as an automated aggregator playlist channel rather than an editorially curated radio station.
+  sources: no web sources found beyond YAML metadata
+curation: -0.05
 provenance:
   - iprd-us-vevo-latino-dbbdc77b

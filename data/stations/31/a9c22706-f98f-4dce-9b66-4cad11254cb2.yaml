@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ru/ru.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 'Imported from IPRD catalog. Editorial flag: Vesti FM is VGTRK''s all-news talk channel and a primary vehicle for Kremlin messaging (Solovyov and similar hosts); it is a named example in the rubric of a Kremlin news channel.'
+  sources: 'IPRD: streams/ru/ru.m3u'
+curation: -0.70
 provenance:
   - iprd-ru-vesti-fm-61977d79

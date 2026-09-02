@@ -20,14 +20,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: University of Missouri School of Journalism / KBIA
+  affiliations: NPR
+  audience: Mid-Missouri
+  format: News/talk, NPR programming
+  notes: KBIA 91.3 FM is the NPR member station operated out of the University of Missouri's School of Journalism in Columbia, Missouri, a nationally respected training ground for public-radio journalists that produces original local and regional news alongside NPR programming.
+  sources: 'IPRD: streams/us/us.m3u; http://mediad.publicbroadcasting.net'
+curation: 0.60
+duplicate_of: d7d7c095-3667-4e5f-a087-b11eb2af9a53
 provenance:
   - iprd-us-kbia-91-3-a961673c

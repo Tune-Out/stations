@@ -36,3 +36,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-92ddce78-0f9c-46f8-a534-48bc4f3ade9c
+  - radiobrowser-077df30d-4715-4419-b1e4-3f0a34ac65dc
+streams:
+  - url: 'http://streamingcwsradio10.com:9316/stream'
+    codec: MP3
+    bitrate: 40
+  - url: 'http://streamingcwsradio10.com:9316/;'
+    codec: MP3
+    bitrate: 40

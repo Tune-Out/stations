@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fr/fr_nrjgroup.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: NRJ Group
+  affiliations: ''
+  audience: ''
+  format: automated pop hits playlist
+  notes: NRJ Happy Hits is a web-only automated playlist channel of the French commercial network NRJ Group, offering feel-good pop hits with no distinct editorial identity beyond genre filtering.
+  sources: https://streaming.nrjaudio.fm/ousgsfm4z85f
+curation: -0.05
 provenance:
   - iprd-fr-nrj-happy-hits-9c51f1f9

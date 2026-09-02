@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ca/ca.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: CHOQ 105.1 is a campus/community radio station broadcasting from Trois-Rivières, Quebec, associated with Université du Québec à Trois-Rivières and offering multiple genre-specific side-channels (Rock, Electro, Franco, etc.).
+  sources: http://choqfm.ca
+curation: 0.35
 provenance:
   - iprd-ca-choq-105-1-5a64e710

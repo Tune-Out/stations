@@ -35,3 +35,13 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-9c3f1676-9445-4d72-b4da-d3a1c4847b91
+  - radiobrowser-4a55035c-d166-40bb-9208-2e925bc6c18d
+  - iprd-de-deutschrap-dfc969e6
+streams:
+  - url: 'http://stream.laut.fm/deutschrap'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/deutschrap.m3u'
+    url_resolved: 'http://deutschrap.stream.laut.fm/deutschrap?pl=m3u&t302=2026-01-15_06-15-11&uuid=886e7bfa-763c-4e91-8901-d1d78327feb9'
+    codec: MP3
+    bitrate: 128

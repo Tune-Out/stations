@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ug/ug.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: Uganda, talk-radio listeners
+  format: talk
+  notes: 93.3 KFM is a Ugandan talk-format station. Catalog metadata contains an evident language-tag error ('uighur'). No independent corroborating source found beyond the working stream and a Twitter/X profile image.
+  sources: stream check; no independent web sources found
+curation: 0.03
 provenance:
   - iprd-ug-93-3-kfm-27d41417

@@ -2,7 +2,7 @@ stationuuid: 960f5bcd-0601-11e8-ae97-52543be04c81
 name: DR P3
 url: http://live-icy.gss.dr.dk/A/A05H.mp3.m3u
 url_resolved: http://live-icy.gslb01.dr.dk/A/A05H.mp3
-homepage: http://www.dr.dk/p3
+homepage: https://www.dr.dk/lyd/p3
 favicon: http://www.dr.dk/favicon.ico
 tags:
   - pop
@@ -24,15 +24,15 @@ clickcount: 46
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: DR (Danmarks Radio - Danish Radio)
-  affiliations: Danish public broadcaster, funded by licence fees
-  audience: Danish-speaking; Denmark
-  format: Pop, rock, contemporary hits, youth-oriented entertainment
-  notes: DR P3 is a public radio station operated by Danmarks Radio (DR), Denmark's public broadcasting corporation. Funded through Danish licence fees with editorial independence. Targets younger audiences with contemporary pop and rock music programming, established as popular youth-focused station.
-  sources: internal knowledge only
-curation: 0.55
+  operator: DR (Danmarks Radio)
+  affiliations: Danish public broadcaster; EBU member
+  audience: Young adults in Denmark
+  format: Contemporary pop and rock with talk and satire
+  notes: DR P3 is the youth-oriented channel of DR (Danmarks Radio), Denmark's licence-funded public broadcaster, on air since 1963 and heard nationally on FM and DAB+. It combines contemporary pop, rock, hip-hop and Danish new music with hosted talk, satire and comedy shows, and is known for championing Danish artists through the P3 Guld awards. The stream is DR's own icy feed.
+  sources: https://www.dr.dk/lyd/p3; http://live-icy.gslb01.dr.dk/A/A05H.mp3
+curation: 0.60
 provenance:
   - radiobrowser-960f5bcd-0601-11e8-ae97-52543be04c81
   - iprd-dk-dr-p3-52239b61

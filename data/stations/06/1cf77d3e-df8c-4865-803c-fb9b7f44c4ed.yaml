@@ -33,3 +33,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-1cf77d3e-df8c-4865-803c-fb9b7f44c4ed
+  - radiobrowser-a55da593-a551-4e92-8ecc-adff22adebe5
+streams:
+  - url: 'https://dxks-rpnradio.radioca.st/listen.pls'
+    url_resolved: 'http://dxks-rpnradio.radioca.st:8448/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dxks-rpnradio.radioca.st/stream?1729944678085'
+    codec: MP3
+    bitrate: 128

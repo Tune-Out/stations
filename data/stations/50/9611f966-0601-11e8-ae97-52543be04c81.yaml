@@ -34,3 +34,12 @@ curation: 0.5
 provenance:
   - radiobrowser-9611f966-0601-11e8-ae97-52543be04c81
   - iprd-nl-lx-classics-f08e2cd1
+  - radiobrowser-108d684c-a1d5-47d6-a91b-6b0374791e3f
+streams:
+  - url: 'http://www.lxclassics.com/playlist/LXClassics.m3u'
+    url_resolved: 'https://mcp-1.streampanel.nl:8020/lxclassics_mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://mcp-1.streampanel.nl:8020/lxclassics_mp3'
+    codec: MP3
+    bitrate: 192

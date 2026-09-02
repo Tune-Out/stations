@@ -35,3 +35,11 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-94b627b7-7b61-4478-b797-bcb21973c4bf
+  - radiobrowser-9f746b61-16e5-4d0b-b9b9-5ff985ff85b1
+  - iprd-cn-asiafm-asia-sky-ee05be1d
+streams:
+  - url: 'http://goldfm.cn:8000/goldfm'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://lhttp.qingting.fm/live/5021912/64k.mp3'
+    codec: MP3

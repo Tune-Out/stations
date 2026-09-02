@@ -31,3 +31,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-39874081-8a87-45ca-a67f-52bae3372ae8
+  - radiobrowser-e173b0bb-cefd-45ab-9b3b-7b4a14c78d85
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/TLPSTR18.pls'
+    url_resolved: 'http://25253.live.streamtheworld.com:80/TLPSTR18_SC'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3'
+    url_resolved: 'https://25293.live.streamtheworld.com:443/TLPSTR18.mp3'
+    codec: MP3
+    bitrate: 128

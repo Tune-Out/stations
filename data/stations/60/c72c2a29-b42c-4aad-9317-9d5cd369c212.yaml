@@ -33,3 +33,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-c72c2a29-b42c-4aad-9317-9d5cd369c212
+  - radiobrowser-e4ee83ed-ff4a-40fc-bd87-68b926aec4e8
+streams:
+  - url: 'http://stm25.srvaudio.com.br:11358/'
+    codec: AAC+
+    bitrate: 72
+  - url: 'https://stm25.srvaudio.com.br:11358/;'
+    codec: AAC+
+    bitrate: 72

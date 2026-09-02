@@ -34,3 +34,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-f22493b5-65ab-4a2c-be10-344a6124c410
+  - radiobrowser-2aff623c-91f2-422f-b337-9345687950a3
+streams:
+  - url: 'https://casseta-disco.ru:6270/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://discobonus.fvds.ru:6275/stream'
+    codec: MP3
+    bitrate: 128

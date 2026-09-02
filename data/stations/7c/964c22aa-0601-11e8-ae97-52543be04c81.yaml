@@ -33,3 +33,12 @@ curation: -0.05
 provenance:
   - radiobrowser-964c22aa-0601-11e8-ae97-52543be04c81
   - iprd-hu-bithang-yoo-r-di-c2aa3329
+  - radiobrowser-950b5eec-c618-4c0a-8569-087b7580994a
+streams:
+  - url: 'http://stream.diazol.hu:35160/live.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://s03.diazol.hu:35162/mobil'
+    url_resolved: 'http://s03.diazol.hu:35160/mobil'
+    codec: MP3
+    bitrate: 96

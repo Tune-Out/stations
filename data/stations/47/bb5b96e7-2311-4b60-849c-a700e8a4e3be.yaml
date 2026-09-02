@@ -33,3 +33,12 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-bb5b96e7-2311-4b60-849c-a700e8a4e3be
+  - radiobrowser-08d3ddf5-b3a4-40c0-bceb-8d4211b5e389
+streams:
+  - url: 'https://streams.byte.fm/live/mp3-128/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.byte.fm/stream/bytefm.m3u'
+    url_resolved: 'http://uplink.byte.fm/bytefm-main/mp3-128/'
+    codec: MP3
+    bitrate: 128

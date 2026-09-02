@@ -1,5 +1,5 @@
 stationuuid: 963c00ab-0601-11e8-ae97-52543be04c81
-name: Intense Radio - We love Dance 256k
+name: Intense Radio - We love Dance
 url: https://intenseradio.live-streams.nl:18000/main
 url_resolved: http://intenseradio.live-streams.nl:8000/main
 homepage: https://www.intenseradio.net/
@@ -26,17 +26,20 @@ clickcount: 14
 geo_lat: 51.992489
 geo_long: 4.20763
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Independent online station hosted on the Live-streams.nl streaming network in the Netherlands
-  affiliations: none political or religious
-  audience: International electronic-dance-music listeners 24/7 online; English-language presentation
-  format: Dance, house, trance and club/tech-house with strong 1990s classic selections
-  notes: Self-described as "an online radio dance music station focused on quality and energy. We stream the best dance, house classics, club, and trance classics. No clutter, no noise just music that moves you, 24/7"; programming split between "Night Sessions" (21:00-05:00, "progressive House, melodic techno and house tracks") and "Just Dance" (05:00-20:00, "90's dance classics to tomorrow's hottest tracks"); offers multiple quality streams up to lossless FLAC 1411 kbps.
-  sources: https://www.intenseradio.net/
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Intense Radio (independent volunteer team, Netherlands)
+  affiliations: none known
+  audience: international dance and house listeners online
+  format: dance, house classics, trance, tech-house, 24/7 non-stop
+  notes: 'Intense Radio (''We Love Dance'') is an independent Dutch online dance station launched in March 2012 and run by a team of eight volunteer DJs from The Hague and Westland, with streaming servers hosted by Live-streams.nl in Amsterdam. It streams 24/7 without talk or filler: ''Just Dance'' (06:00-20:00 CET) plays dance and house classics from the 1990s to today with hourly Dutch news, and ''Night Sessions'' (20:00-06:00) plays newer tech-house, melodic techno and trance. Streams are offered in MP3, AAC+ and lossless FLAC; this entry is the 256/320 kbps MP3 feed.'
+  sources: https://www.intenseradio.net/about-intense-dance-radio/; https://www.intenseradio.net/; https://www.live-streams.nl/radiosite/site-2/
+curation: 0.31
 provenance:
   - radiobrowser-963c00ab-0601-11e8-ae97-52543be04c81
+  - radiobrowser-a7adb0c0-0a1a-4560-b275-d260f94aac25
+  - iprd-nl-intense-radio-170adccc
+  - iprd-nl-intense-radio-8a1c613a
 streams:
   - url: https://intenseradio.live-streams.nl:18000/main
     url_resolved: http://intenseradio.live-streams.nl:8000/main
@@ -46,3 +49,6 @@ streams:
     url_resolved: https://secure.live-streams.nl/main
     codec: MP3
     bitrate: 256
+  - url: 'http://secure.live-streams.nl/flac.ogg'
+    codec: OGG
+    bitrate: 1411

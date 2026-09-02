@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pt/pt.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Local Portuguese commercial broadcaster
+  affiliations: ''
+  audience: Torres Novas local listeners
+  format: Local Portuguese radio
+  notes: This is a local commercial radio stream serving Torres Novas, Portugal, sharing the same Centova streaming host as the catalog's existing "Torres Novas FM" entry, which has substantially more community votes and is likely the same station.
+  sources: no web sources found beyond YAML metadata
+curation: 0.05
+duplicate_of: 9618efdc-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-pt-torres-novas-100-8-993c255e

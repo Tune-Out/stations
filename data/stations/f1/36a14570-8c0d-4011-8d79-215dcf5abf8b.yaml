@@ -34,3 +34,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-36a14570-8c0d-4011-8d79-215dcf5abf8b
+  - radiobrowser-f36d78ce-98a7-43f1-8537-a36539ff7c04
+streams:
+  - url: 'https://usa1-vn.mixstream.net/8084/listen.mp3'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://cc6.beheerstream.com/proxy/ramfm?mp=/stream'
+    codec: MP3
+    bitrate: 320

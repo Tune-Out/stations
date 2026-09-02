@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: KKPS 99.5 is a Regional Mexican commercial station licensed to Brownsville, Texas serving the McAllen-Brownsville-Harlingen market, owned by Entravision; it previously branded as 'La Nueva' before rebranding to 'La Tricolor' in 2018. A higher-vote duplicate under the older 'La Nueva' branding already exists in the catalog.
+  sources: https://en.wikipedia.org/wiki/KKPS
+curation: 0.05
+duplicate_of: 964919a0-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-kkps-99-5-la-nueva-41db128c

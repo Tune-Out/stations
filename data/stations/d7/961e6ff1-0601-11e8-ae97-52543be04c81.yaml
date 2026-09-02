@@ -3,7 +3,7 @@ name: 977 Oldies
 url: 'http://playerservices.streamtheworld.com/pls/977_OLDIES.pls'
 url_resolved: 'http://17573.live.streamtheworld.com:80/977_OLDIES_SC'
 homepage: http://www.977music.com/
-favicon: ""
+favicon: https://hitsradio.com/favicon.ico
 tags:
   - oldies
 country: The United States Of America
@@ -23,14 +23,14 @@ clickcount: 14
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: 977music.com, an internet radio network distributed via Triton Digital's StreamTheWorld
-  affiliations: None known (secular commercial music network)
-  audience: English-speaking adult international listeners nostalgic for 1950s–1970s pop, rock, and soul
-  format: Classic oldies — 1950s, 60s, and 70s rock 'n' roll, Motown, doo-wop, and early pop hits
-  notes: One of multiple themed channels within the 977music.com / .977 The Hits network that launched in the early 2000s; sibling channels include .977 Smooth Jazz, .977 Hitz, .977 The 80s Channel, and .977 Country; ad-supported online-only and aimed at the global oldies/classic-hits streaming audience; no terrestrial FM broadcast
-  sources: internal knowledge only
-curation: 0.3
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: .977 / HitsRadio internet radio network, distributed via Triton Digital StreamTheWorld
+  affiliations: none known; secular commercial online network
+  audience: English-speaking international listeners nostalgic for 1950s-70s pop, rock and soul
+  format: Automated classic oldies rotation — 1950s, 60s and 70s hits
+  notes: 977 Oldies is the classic-oldies channel of the long-running .977 internet radio network, an ad-supported online-only service distributed through Triton Digital's StreamTheWorld. Its playlist covers 1950s-1970s rock 'n' roll, Motown, doo-wop and early pop, programmed as an automated rotation without presenters. The network's original address, 977music.com, no longer resolves and now redirects to hitsradio.com, which carries the same family of themed channels alongside .977 Hitz, The 80s, The Mix, Smooth Jazz, Country, Comedy and Jamz. The audio stream remains live at 128 kbps MP3.
+  sources: http://playerservices.streamtheworld.com/pls/977_OLDIES.pls; https://hitsradio.com/
+curation: 0.20
 provenance:
   - radiobrowser-961e6ff1-0601-11e8-ae97-52543be04c81

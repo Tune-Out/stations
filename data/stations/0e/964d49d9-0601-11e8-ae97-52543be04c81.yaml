@@ -37,3 +37,9 @@ provenance:
   - radiobrowser-964d49d9-0601-11e8-ae97-52543be04c81
   - iprd-it-radio-mitology-02bef9d8
   - iprd-it-radio-mitology-085352a2
+  - radiobrowser-af473ac5-1059-11e9-a80b-52543be04c81
+streams:
+  - url: 'http://onair15.xdevel.com:9120/;stream.mp3'
+    codec: MP3
+  - url: 'http://onair15.xdevel.com:9120/;'
+    codec: MP3

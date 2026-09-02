@@ -34,3 +34,16 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-2c151880-db7e-4568-a9f1-267609deb45a
+  - radiobrowser-68209977-7ef0-49ff-86dc-10ea19c54620
+  - iprd-fr-la-grosse-tambouille-b9464659
+  - radiobrowser-9b634fb4-1119-473c-a882-a22a4e322b9c
+streams:
+  - url: 'https://flux.lagrossetambouille.fr/main'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://lagrossetambouille.com//flux'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://lagrossetambouille.com:8000/main'
+    codec: MP3
+    bitrate: 192

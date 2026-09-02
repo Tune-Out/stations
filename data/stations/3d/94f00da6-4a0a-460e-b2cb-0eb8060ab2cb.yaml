@@ -34,3 +34,11 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-94f00da6-4a0a-460e-b2cb-0eb8060ab2cb
+  - radiobrowser-fdd518db-f5ac-408b-a262-5e41155f6c8d
+streams:
+  - url: 'http://onair15.xdevel.com:9248/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://onair15.xdevel.com:9248/;stream.mp3'
+    codec: MP3
+    bitrate: 128

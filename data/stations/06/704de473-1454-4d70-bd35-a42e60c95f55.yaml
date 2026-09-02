@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/au/au.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: Mackay, QLD, Australia
+  format: hits/oldies
+  notes: 4MK 1026 is a commercial regional AM station serving Mackay, Queensland, Australia, playing a hits/oldies format. A catalog canonical duplicate with more votes exists under the fuller station name.
+  sources: catalog-names.tsv cross-check; stream check
+curation: 0.10
+duplicate_of: cffaa527-a90a-4042-984f-68c8444f132e
 provenance:
   - iprd-au-4mk-1026-13146278

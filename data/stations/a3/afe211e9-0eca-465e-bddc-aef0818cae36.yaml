@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 'Imported from IPRD catalog. Editorial flag: Infowars / The Alex Jones Show, a conspiracy and disinformation outlet (Sandy Hook defamation judgments, repeated false claims). Named explicitly in the rubric.'
+  sources: 'IPRD: streams/us/us.m3u'
+curation: -1.00
 provenance:
   - iprd-us-infowars-5a35ac6e

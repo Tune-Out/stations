@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: University of Louisiana at Lafayette
+  affiliations: NPR
+  audience: Acadiana / South Louisiana
+  format: Cajun & Zydeco music, blues, NPR news
+  notes: KRVS 88.7 FM, branded 'Radio Acadie,' is the NPR/public-radio member station licensed to the University of Louisiana at Lafayette. It is known for distinctive regional programming spotlighting Cajun and Zydeco music alongside blues, jazz and NPR news, serving as a key cultural institution for South Louisiana's Acadiana region.
+  sources: 'IPRD: streams/us/us.m3u; http://mediad.publicbroadcasting.net'
+curation: 0.60
+duplicate_of: 7e6c707f-70a5-497d-b679-d2a9513223b0
 provenance:
   - iprd-us-krvs-88-7-radio-acadie-58023ec0

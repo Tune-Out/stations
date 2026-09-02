@@ -37,6 +37,8 @@ curation: 0.55
 provenance:
   - radiobrowser-2a1b8168-ec14-4ad4-aeb9-ac14d0d54080
   - iprd-ch-radio-srf-2-kultur-fa155f0d
+  - radiobrowser-c8ae73b1-d8c0-40af-97ed-e58f603d7036
+  - iprd-ch-radio-srf-2-8fb2bb36
 streams:
   - url: https://stream.srg-ssr.ch/m/drs2/aacp_96
     codec: AAC
@@ -48,3 +50,6 @@ streams:
   - url: https://stream.srg-ssr.ch/m/drs2/aacp_32
     codec: AAC
     bitrate: 40
+  - url: 'http://stream.srg-ssr.ch/m/drs2/mp3_128'
+    codec: MP3
+    bitrate: 128

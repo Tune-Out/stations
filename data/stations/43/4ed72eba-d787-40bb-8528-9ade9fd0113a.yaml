@@ -38,3 +38,12 @@ curation: -0.05
 provenance:
   - radiobrowser-4ed72eba-d787-40bb-8528-9ade9fd0113a
   - iprd-fr-fr-quence3-gold-a3d8c7a2
+  - radiobrowser-35815119-ff80-4700-8d81-bd359fb7ce03
+  - iprd-fr-fr-quence3-gold-6c714fa6
+streams:
+  - url: 'https://frequence3.net-radio.fr/frequence3gold.flac'
+    codec: OGG
+    bitrate: 128
+  - url: 'https://frequence3.net-radio.fr/frequence3gold.mp3'
+    codec: MP3
+    bitrate: 160

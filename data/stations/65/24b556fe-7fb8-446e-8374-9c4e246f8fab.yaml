@@ -31,3 +31,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-24b556fe-7fb8-446e-8374-9c4e246f8fab
+  - radiobrowser-e0512ccb-a80f-4446-ad25-5014fb526fbc
+streams:
+  - url: 'https://de3.amfmph.com:2199/tunein/fmrcamiguin-stream.pls'
+    url_resolved: 'http://62.138.18.102:8673/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://us2.amfmph.com:2199/tunein/fmrcamiguin-stream.pls'
+    url_resolved: 'http://148.72.153.65:9204/stream'
+    codec: AAC+
+    bitrate: 56

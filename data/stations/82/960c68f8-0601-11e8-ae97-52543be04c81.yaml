@@ -23,17 +23,29 @@ clickcount: 48
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RFI (Radio France Internationale) / France Médias Monde
-  affiliations: French state media
-  audience: Global; international listeners, world music and news
-  format: News, current affairs, world music programming; international broadcast
-  notes: RFI Monde is France's international radio service broadcasting globally. Founded 1975. State-funded French broadcaster providing news in French and other languages. Emphasis on world music, cultural programming, and international journalism. Reaches listeners across Africa, Asia, Europe. Non-commercial public service mission.
-  sources: internal knowledge only
-curation: 0.6
+  operator: France Médias Monde (Radio France Internationale)
+  affiliations: French public international broadcasting; sister of France 24 and Monte Carlo Doualiya
+  audience: Francophone listeners worldwide
+  format: International news and current affairs, world music
+  notes: RFI Monde is the worldwide French-language service of Radio France Internationale, France's public international broadcaster founded in 1975 and now part of the state-owned France Médias Monde group. It is funded mainly by the audiovisual public levy and the Ministry for Europe and Foreign Affairs, and airs 24-hour news and current affairs from Paris with major morning, midday and evening news blocks plus culture, science, sport and world-music programmes. RFI reached about 59.5 million weekly listeners in 2022 across FM relays, shortwave, satellite and digital platforms in more than 150 countries, broadcasting in French and 16 other languages. Its African coverage has drawn suspensions from juntas in Mali, Burkina Faso, Niger and Togo between 2022 and 2025.
+  sources: https://en.wikipedia.org/wiki/Radio_France_Internationale; https://fr.wikipedia.org/wiki/Radio_France_internationale; https://www.rfi.fr/
+curation: 0.75
 provenance:
   - radiobrowser-960c68f8-0601-11e8-ae97-52543be04c81
   - iprd-fr-rfi-hausa-2e1126ac
   - iprd-fr-rfi-monde-00259504
   - iprd-fr-rfi-vietnamese-936956f2
+  - radiobrowser-2ec55b10-859d-11e9-aa30-52543be04c81
+  - radiobrowser-cbca0f46-ced9-4154-8157-c87039765207
+streams:
+  - url: 'http://live02.rfi.fr/rfimonde-64.mp3'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://live02.rfi.fr/rfimonde-32.mp3'
+    codec: MP3
+    bitrate: 32
+  - url: 'https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3'
+    codec: MP3
+    bitrate: 64

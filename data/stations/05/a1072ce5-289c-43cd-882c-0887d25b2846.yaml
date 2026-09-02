@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Salisbury University
+  affiliations: NPR
+  audience: Delmarva peninsula classical listeners
+  format: classical
+  notes: WSCL 89.5 is the NPR member classical-music station licensed to Salisbury University, serving the Delmarva peninsula (Maryland/Delaware/Virginia) as 'Classical Delmarva.' Part of Delmarva Public Media alongside sister news/talk station WSDL.
+  sources: https://en.wikipedia.org/wiki/WSCL; stream check
+curation: 0.60
+duplicate_of: 9625fab7-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-wscl-89-5-delmarva-public-radio-561aea78

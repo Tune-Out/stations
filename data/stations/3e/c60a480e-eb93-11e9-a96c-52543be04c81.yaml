@@ -2,7 +2,7 @@ stationuuid: c60a480e-eb93-11e9-a96c-52543be04c81
 name: France Musique Classique Plus
 url: http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
 url_resolved: http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
-homepage: https://www.francemusique.fr/webradio-classique-plus
+homepage: https://www.radiofrance.fr/francemusique/radio-classique-plus
 favicon: https://www.radiofrance.fr/external/favicons/francemusique/favicon.png
 tags:
   - classical
@@ -24,15 +24,15 @@ clickcount: 17
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio France — France Musique webradio
-  affiliations: French public broadcasting system; funded by state allocation following the 2022 abolition of the licence fee (redevance audiovisuelle)
-  audience: French-speaking classical music listeners worldwide via web/DAB+
-  format: Curated stream of long-form classical works — symphonies, operas, concertos and chamber music played in their entirety
-  notes: France Musique Classique Plus is one of seven thematic webradios operated by Radio France's France Musique channel, alongside Classique Easy, Concerts Radio France, La Jazz, La Baroque, Ocora Musiques du monde and Cinéma; programmed without presenters as a continuous flow of complete classical works drawn from Radio France's archives and live recordings; the parent France Musique was founded in 1954 and is France's flagship public classical music network.
-  sources: internal knowledge only
-curation: 0.7
+  operator: Radio France - France Musique
+  affiliations: French public service broadcasting
+  audience: Classical-music listeners in France and worldwide
+  format: 'Continuous complete classical works: symphonies, concertos, opera and chamber music, no presenters'
+  notes: Classique Plus is one of the thematic webradios of France Musique, Radio France's public classical channel founded in 1954. It streams complete classical works, from symphonies and concertos to opera and chamber music, as a continuous presenter-free flow drawn from Radio France's own concert recordings and its archives, sitting alongside sister webradios such as Classique Easy, Concerts Radio France, La Jazz, La Baroque, Ocora Musiques du Monde and Musiques de Films. Radio France is publicly funded (via an earmarked share of VAT since the 2022 abolition of the licence fee) and the stream is offered in high-quality 192 kbps AAC.
+  sources: https://www.radiofrance.fr/francemusique/radio-classique-plus; https://www.francemusique.fr/webradio-classique-plus
+curation: 0.75
 provenance:
   - radiobrowser-c60a480e-eb93-11e9-a96c-52543be04c81
   - iprd-fr-france-musique-classique-plus-c3701e49

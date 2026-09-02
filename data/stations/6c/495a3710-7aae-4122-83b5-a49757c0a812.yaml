@@ -37,6 +37,8 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-495a3710-7aae-4122-83b5-a49757c0a812
+  - radiobrowser-9626c282-0601-11e8-ae97-52543be04c81
+  - iprd-ch-radio-z-risee-b96d940a
 streams:
   - url: https://mp3.radio.ch/radiozuerisee256k
     codec: MP3
@@ -44,3 +46,6 @@ streams:
   - url: http://mp3.radio.ch/radiozuerisee256k
     codec: MP3
     bitrate: 256
+  - url: 'http://mp3.radio.ch/radiozuerisee128k'
+    codec: MP3
+    bitrate: 128

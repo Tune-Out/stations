@@ -22,14 +22,15 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Polskie Radio S.A. (Polish Radio), a state-owned public broadcaster
+  operator: Polskie Radio S.A. (Polish public radio)
   affiliations: Polish state (state-funded public service broadcaster under Polish media law)
   audience: Polish-speaking listeners in Poland and abroad; general audience with programming diversity
-  format: Program 2 (Dwójka) focuses on music, culture, documentary programming, and light entertainment; variety format with jazz, classical, pop, and world music emphasis
-  notes: Radio Dwójka (Program 2) is one of the three main channels of Polskie Radio, Poland's principal public radio broadcaster founded in 1926; it emphasizes cultural programming, music diversity, and alternative content; the AAC+ stream variant provides high-quality audio streaming; Polskie Radio operates under Polish public broadcasting law as a public-service mission.
-  sources: http://www.polskieradio.pl/8,Dwojka, internal knowledge
-curation: 0.55
+  format: Classical music, culture, literature, radio drama
+  notes: Polskie Radio Program II (Dwójka) is Polish public radio's classical-music, culture and arts channel, on air since 21 March 1937 and broadcast nationally on FM, DAB+ and online from Warsaw; it is considered the most elite-targeted Polish radio channel and cooperates with EBU broadcasters on concert relays. The station itself is active, but this catalog entry's legacy Shoutcast stream (mp3.polskieradio.pl:8952) now returns only a Shoutcast administrator HTML page, so the entry is effectively dead and duplicates the 'Polskie Radio Program 2' entry.
+  sources: https://en.wikipedia.org/wiki/Polskie_Radio_Program_II; https://www.polskieradio.pl/8,Dwojka
+curation: 0.03
+duplicate_of: 96117d6c-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-96242f88-0601-11e8-ae97-52543be04c81

@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/dz/dz.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: Entreprise Publique de Radiodiffusion Sonore (EPRS)
+  affiliations: Algerian state broadcasting
+  audience: international, Algeria-focused
+  format: news/talk
+  notes: Radio Algérienne Internationale is the international news/talk service of Radio Algérienne (EPRS), Algeria's state radio broadcaster. The listed Infomaniak-hosted AAC stream is no longer live.
+  sources: stream check; Radio Algérienne is Algeria's known state broadcaster (general knowledge)
+curation: -0.15
 provenance:
   - iprd-dz-radio-alg-rienne-internationale-337d17b5

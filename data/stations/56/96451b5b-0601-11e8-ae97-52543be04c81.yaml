@@ -1,8 +1,8 @@
 stationuuid: 96451b5b-0601-11e8-ae97-52543be04c81
-name: FluxFM - FluxLounge
+name: FluxFM FluxLounge
 url: http://streams.fluxfm.de/lounge/mp3-320/audio/play.m3u
 url_resolved: http://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851?sABC=6968476q%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768441709
-homepage: http://www.fluxfm.de/
+homepage: https://www.fluxfm.de/
 favicon: http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png
 tags:
   - lounge
@@ -23,15 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: FluxFM / FluxRC (Berlin-based independent broadcaster)
-  affiliations: none known
-  audience: German-speaking listeners in Berlin; lounge, chillout, and ambient music enthusiasts
-  format: Lounge music, chillout, ambient, relaxation; curated instrumental and electronic lounge
-  notes: 'Non-commercial community/independent radio station based in Berlin, Germany. FluxLounge channel specializes in lounge, chillout, and ambient music for relaxation and background listening. High-quality audio available. Part of larger FluxFM network with 30+ channels across multiple genres. Community-oriented mission: "Become part of the Flux community."'
-  sources: http://www.fluxfm.de/
-curation: 0.65
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: FluxFM / Plattform für regionale Musikwirtschaft GmbH (Berlin)
+  affiliations: Licensed by Medienanstalt Berlin-Brandenburg; privately owned
+  audience: Lounge and chill-out listeners in Germany and online
+  format: Lounge, chill-out, downtempo web channel
+  notes: FluxLounge is one of the themed web channels of FluxFM, a privately owned commercial alternative-music station in Berlin (FM in Berlin and parts of Brandenburg, plus Bremen and Stuttgart), operated by Plattform für regionale Musikwirtschaft GmbH. Formerly Motor FM, it was renamed FluxFM in August 2011 and focuses on new music, young artists and Berlin's club scene. FluxLounge itself is an automated 320 kbps stream of lounge, chill-out and downtempo tracks drawn from FluxFM's curation.
+  sources: https://de.wikipedia.org/wiki/Flux_FM; https://www.mabb.de/regulierung/veranstalter/radio-sender/details/item/id-1006-fluxfm; https://www.fluxfm.de/
+curation: 0.30
 provenance:
   - radiobrowser-96451b5b-0601-11e8-ae97-52543be04c81
   - iprd-de-flux-kompensator-dcff5c10

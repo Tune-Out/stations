@@ -31,3 +31,13 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-cacf5deb-bbd0-4f98-84db-7206d42acde5
+  - radiobrowser-34089334-2941-436b-9831-e6580363df2f
+streams:
+  - url: 'https://playerservices.streamtheworld.com/pls/AI_FMAAC.pls'
+    url_resolved: 'https://22243.live.streamtheworld.com:443/AI_FMAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac'
+    url_resolved: 'https://28153.live.streamtheworld.com/AI_FMAAC.aac'
+    codec: AAC+
+    bitrate: 64

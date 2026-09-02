@@ -35,3 +35,11 @@ curation: 0.35
 provenance:
   - radiobrowser-96420a70-0601-11e8-ae97-52543be04c81
   - iprd-at-erf-plus-oesterreich-c81ff4b1
+  - radiobrowser-6d6f6bb6-9f71-4f1d-846f-8371678f7a4b
+streams:
+  - url: 'http://stream.erf.at/erfplus_192'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.erf.at:8000/erfplus_320'
+    codec: MP3
+    bitrate: 320

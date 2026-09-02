@@ -1,8 +1,8 @@
 stationuuid: 9623a97d-0601-11e8-ae97-52543be04c81
-name: ABC Classic 2 Stream (AAC)
+name: ABC Classic 2
 url: http://live-radio01.mediahubaustralia.com/FM2W/aac/
 url_resolved: http://live-radio01.mediahubaustralia.com/FM2W/aac/
-homepage: https://radio.abc.net.au/stations/classic2/live
+homepage: https://www.abc.net.au/listen/live/classic2
 favicon: https://www.abc.net.au/core-assets/classic/touchicon-classic.png
 tags:
   - classical
@@ -24,19 +24,20 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: ABC (Australian Broadcasting Corporation)
-  affiliations: Australia's national public broadcaster
-  audience: Australian listeners interested in classical music
-  format: Classical music, interviews, and music education programming
-  notes: ABC Classic 2 (FM2) is part of ABC's radio network serving Australia since inception of ABC radio. Focuses on full-length classical works and related content.
-  sources: internal knowledge only
+  operator: Australian Broadcasting Corporation (ABC Classic)
+  affiliations: Australian national public broadcaster
+  audience: Australian classical listeners
+  format: Popular classical music performed by Australian orchestras, ensembles and soloists; complete works overnight
+  notes: ABC Classic 2 is the digital-only sister station of ABC Classic, run by the Australian Broadcasting Corporation, Australia's national public broadcaster. Launched on 1 June 2014, it plays popular classical repertoire performed exclusively by Australian orchestras, ensembles and soloists, favouring short movements and excerpts by day and complete longer works overnight (midnight to 6 am), a block also simulcast on ABC Classic. It is presenter-light, carries no advertising and is available through ABC listen and DAB+ in some markets.
+  sources: https://en.wikipedia.org/wiki/ABC_Classic_2; https://www.abc.net.au/listen/live/classic2
 curation: 0.6
 provenance:
   - radiobrowser-9623a97d-0601-11e8-ae97-52543be04c81
   - iprd-au-abc-classic-2-e32822c8
   - iprd-au-abc-classic-2-49828c5a
+  - radiobrowser-5ca4267a-2783-4b77-b521-a4936f00191e
 streams:
   - url: http://live-radio01.mediahubaustralia.com/FM2W/aac/
     codec: AAC+
@@ -44,3 +45,7 @@ streams:
   - url: http://live-radio01.mediahubaustralia.com/FM2W/mp3/
     codec: AAC+
     bitrate: 56
+  - url: 'https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/index.m3u8'
+    codec: AAC
+    bitrate: 238
+    hls: true

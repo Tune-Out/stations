@@ -32,11 +32,16 @@ curation: 0.2
 provenance:
   - radiobrowser-871a586b-4aa2-47ae-94dc-32e03f2f1bc7
   - iprd-rs-radio-s4-102-2-a32494ad
+  - radiobrowser-16844f50-34b8-46b5-b95e-ea26fa448714
 streams:
   - url: https://stream.radios.rs:9006/;
     codec: AAC+
     bitrate: 64
   - url: https://53a7ed211fc32.streamlock.net/asmedia/gradski/playlist.m3u8
+    codec: AAC
+    bitrate: 43
+    hls: true
+  - url: 'https://53be5ef2d13aa.streamlock.net/asmedia/gradski/playlist.m3u8'
     codec: AAC
     bitrate: 43
     hls: true

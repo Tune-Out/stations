@@ -1,5 +1,5 @@
 stationuuid: 103f450b-e578-414c-ab14-f44a222ecd74
-name: Air Tamil
+name: AIR Tamil
 url: https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
 url_resolved: https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
 homepage: https://newsonair.com/live/
@@ -21,15 +21,15 @@ clickcount: 13
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
-  operator: All India Radio (Akashvani), a division of Prasar Bharati under the Government of India's Ministry of Information and Broadcasting
-  affiliations: Government of India / Prasar Bharati public service broadcaster
-  audience: Tamil-speaking listeners in Tamil Nadu, Puducherry, and the wider South Indian and global Tamil diaspora
-  format: Tamil-language national/regional public radio mixing news, classical and film music, cultural and educational programming; the "classical" tag reflects AIR's strong Carnatic and traditional music output
-  notes: All India Radio (founded 1936, renamed Akashvani in 1957) is one of the world's largest radio networks, operating ~420 domestic stations covering 99% of India's population in 23 languages and 179 dialects; the Tamil stream is part of AIR's regional-language live offering via newsonair.com and the NewsOnAir mobile app; AIR Tamil services include AIR Chennai, AIR Tiruchirappalli, AIR Madurai, AIR Coimbatore, and the Vividh Bharati national entertainment channel localised for Tamil audiences.
-  sources: https://en.wikipedia.org/wiki/All_India_Radio, https://newsonair.com/live/, internal knowledge of Prasar Bharati/AIR
-curation: 0.85
+  operator: All India Radio (Akashvani), Prasar Bharati
+  affiliations: Government of India / Prasar Bharati
+  audience: Tamil speakers in Tamil Nadu, Puducherry and the diaspora
+  format: 'Tamil-language public radio: news, Carnatic and film music, cultural programming'
+  notes: AIR Tamil is a Tamil-language live stream from All India Radio (Akashvani), the state-owned national broadcaster operated by Prasar Bharati under India's Ministry of Information and Broadcasting. AIR was founded in 1936 and runs about 420 stations in 23 languages, reaching over 99% of India's population. The stream carries Tamil news bulletins, Carnatic and film music and regional cultural programming via the NewsOnAir platform; the specific originating station (pbaudio025) is not identified in the metadata.
+  sources: https://en.wikipedia.org/wiki/All_India_Radio; https://newsonair.com/live/
+curation: 0.60
 provenance:
   - radiobrowser-103f450b-e578-414c-ab14-f44a222ecd74
   - iprd-in-air-tamil-000c2162

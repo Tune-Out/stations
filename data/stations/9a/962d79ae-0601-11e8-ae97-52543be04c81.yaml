@@ -37,3 +37,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-962d79ae-0601-11e8-ae97-52543be04c81
+  - iprd-mx-radio-latina-104-5-xhltn-7b294a52
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/XLTNFMAAC.pls'
+    url_resolved: 'http://26143.live.streamtheworld.com:3690/XLTNFMAAC_SC'
+    codec: AAC+
+    bitrate: 40
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFMAAC.aac'
+    url_resolved: 'https://23243.live.streamtheworld.com:443/XLTNFMAAC.aac'
+    codec: AAC
+    bitrate: 128

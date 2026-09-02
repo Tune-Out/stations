@@ -36,3 +36,12 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-96269fad-0601-11e8-ae97-52543be04c81
+  - iprd-us-knau-88-7-arizona-public-radio-872f50b5
+streams:
+  - url: 'http://playerservices.streamtheworld.com/m3u/KNAUFM_128.m3u'
+    url_resolved: 'http://18233.live.streamtheworld.com:3690/KNAUFM_128_SC'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/pls/KNAUFM_128.pls'
+    url_resolved: 'https://29325.live.streamtheworld.com:443/KNAUFM_128_SC'
+    bitrate: 128

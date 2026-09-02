@@ -35,6 +35,7 @@ curation: 0.5
 provenance:
   - radiobrowser-960f5428-0601-11e8-ae97-52543be04c81
   - iprd-dk-dr-p4-midt-vest-b3f50b6b
+  - radiobrowser-49b20332-4ee4-440a-b874-3d4b3edf0adf
 streams:
   - url: http://live-icy.gss.dr.dk/A/A09H.mp3.m3u
     url_resolved: http://live-icy.gslb01.dr.dk/A/A09H.mp3
@@ -43,3 +44,7 @@ streams:
   - url: http://live-icy.gss.dr.dk/A/A09H.mp3
     codec: MP3
     bitrate: 128
+  - url: 'https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8'
+    codec: AAC
+    bitrate: 324
+    hls: true

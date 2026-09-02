@@ -1,5 +1,5 @@
 stationuuid: 37acc36e-e070-4225-9d9f-d3c3610470fd
-name: Iran International (HTTPS stream)
+name: Iran International
 url: https://stream.radiojar.com/iintl_c
 url_resolved: https://stream.radiojar.com/iintl_c
 homepage: https://www.iranintl.com/
@@ -22,14 +22,15 @@ clickcount: 188
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Volant Media UK Ltd (privately held; headquartered in London, with significant operations relocated to Washington, D.C.)
-  affiliations: Persian-language opposition/diaspora news outlet critical of the Islamic Republic of Iran; designated a terrorist organisation by the Iranian government in 2022; reporting has linked principal funding to Saudi sources, which the channel disputes; no formal religious affiliation
-  audience: Persian-speaking audiences inside Iran and in the worldwide Iranian diaspora; primary language Persian (Farsi), with English and Arabic services
-  format: 24/7 international news, current affairs, investigative journalism, talk and opposition political commentary; television-led brand with simulcast radio/audio stream
-  notes: Launched May 2017 from London; relocated significant operations to Washington, D.C. in 2023 after UK police warned of credible Iranian state threats against staff; rose to prominence covering the 2022 Mahsa Amini protests; staff have faced surveillance, harassment, and assassination plots attributed to the IRGC; broadcasts via satellite (Hotbird, Yahsat), digital, and streaming
-  sources: https://www.iranintl.com/, internal knowledge
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Volant Media UK Ltd, London
+  affiliations: privately owned by a Saudi-British businessman; reported Saudi funding (denied by management); designated a terrorist organisation by Iran in November 2022
+  audience: Persian speakers inside Iran and in the diaspora; also English and Arabic services
+  format: 24-hour news and current affairs television with simulcast audio/radio stream; also shortwave
+  notes: Iran International is a Persian-language 24-hour news channel launched in London on 18 May 2017 and owned by Volant Media UK Ltd. It is strongly critical of the Islamic Republic and rose to prominence during the 2022 Mahsa Amini protests; Iran declared it a terrorist organisation in November 2022, and after police warnings of credible threats it temporarily moved operations to Washington, D.C. in 2023 before returning to a new London base. The Guardian and Wall Street Journal have reported substantial Saudi funding, which management denies, and critics accuse it of a pro-Saudi editorial line. Journalist Pouria Zeraati was stabbed outside his London home in March 2024, and Iranian-linked hackers leaked internal data in 2025. The radio stream simulcasts the channel's audio and is also carried on shortwave into Iran. This 'HTTPS stream' entry duplicates the higher-voted canonical Iran International entry.
+  sources: https://en.wikipedia.org/wiki/Iran_International; https://www.iranintl.com/
+curation: 0.35
+duplicate_of: 5c6c092b-2b8b-4ac1-a8d0-090f87037fd9
 provenance:
   - radiobrowser-37acc36e-e070-4225-9d9f-d3c3610470fd

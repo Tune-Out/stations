@@ -31,3 +31,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-d43144c1-68f2-41f8-8525-b13baedc1c26
+  - radiobrowser-039b20ae-2409-449b-92b5-748d8d474e53
+  - iprd-de-antenne-bayern-herbst-hits-0849fd80
+streams:
+  - url: 'https://stream.antenne.de/herbst-hits/stream/mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.antenne.de/herbst-hits/stream/aacp'
+    codec: AAC

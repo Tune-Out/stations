@@ -1,5 +1,5 @@
 stationuuid: 960cf833-0601-11e8-ae97-52543be04c81
-name: SomaFM Groove Salad (128k MP3)
+name: SomaFM Groove Salad
 url: https://somafm.com/groovesalad.pls
 url_resolved: https://ice5.somafm.com/groovesalad-128-mp3
 homepage: https://somafm.com/groovesalad/
@@ -27,21 +27,22 @@ clickcount: 96
 geo_lat: 37.809784
 geo_long: -121.286316
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: non-commercial
-  operator: SomaFM.com, LLC (independent, listener-supported; founded 2000 by Rusty Hodge in San Francisco, California)
-  affiliations: none known (independent; no religious, governmental, or political ties; survives via listener donations and merchandise)
-  audience: global internet audience of ambient / downtempo / chillout electronica fans; English-language presentation
-  format: '"A nicely chilled plate of ambient/downtempo beats and grooves" — curated ambient, downtempo, chillout, lounge electronica (Kruder & Dorfmeister, Fila Brazillia, Groove Armada, Nightmares On Wax, etc.)'
-  notes: "Groove Salad is SomaFM's flagship and most popular channel. SomaFM is one of the longest-running independent commercial-free internet radio operations (25+ years as of 2026). It runs 30+ themed channels, is entirely listener-supported, and was an early advocate against SoundExchange royalty rules that nearly killed small webcasters in the mid-2000s. Mission phrasing used on site: \"Commercial-free, Listener-supported Radio.\""
-  sources: https://somafm.com/groovesalad/, internal knowledge
-curation: 0.65
+  operator: SomaFM.com LLC (Rusty Hodge), San Francisco
+  affiliations: none known; independent and donation-funded
+  audience: global ambient/downtempo listeners
+  format: curated ambient, downtempo, chillout and lounge electronica
+  notes: Groove Salad is the flagship channel of SomaFM, the listener-supported, commercial-free internet radio broadcaster founded by Rusty Hodge in San Francisco in February 2000 after a micropower broadcast at Burning Man in 1999. Described as 'a nicely chilled plate of ambient/downtempo beats and grooves', it is programmed by Hodge himself and is SomaFM's most listened-to stream. SomaFM runs more than 30 hand-curated channels funded entirely by donations and merchandise, and was a prominent voice for small webcasters during the 2000s SoundExchange royalty disputes. This entry is the 128 kbps MP3 feed; AAC, 256 kbps and FLAC HLS variants also exist.
+  sources: https://somafm.com/groovesalad/; https://somafm.com/about/history.html; https://en.wikipedia.org/wiki/SomaFM
+curation: 0.90
 provenance:
   - radiobrowser-960cf833-0601-11e8-ae97-52543be04c81
   - iprd-us-somafm-groove-salad-42582427
   - iprd-us-somafm-groove-salad-253d9d46
   - iprd-us-somafm-groove-salad-13a61e62
   - iprd-us-somafm-groove-salad-147d6975
+  - radiobrowser-608bc971-3ec5-4c05-8143-de96c3bdb030
 streams:
   - url: https://somafm.com/groovesalad130.pls
     url_resolved: https://ice5.somafm.com/groovesalad-128-aac
@@ -65,4 +66,8 @@ streams:
     bitrate: 128
   - url: https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
     codec: MP4
+    hls: true
+  - url: 'https://hls.somafm.com/hls/groovesalad/320k/program.m3u8'
+    codec: MP4
+    bitrate: 320000
     hls: true

@@ -1,5 +1,5 @@
 stationuuid: ad7f5a16-d660-4587-ba38-871e89419e2a
-name: Sana’a Radio راديو صنعاء
+name: Sana'a Radio (إذاعة صنعاء)
 url: https://dc5.serverse.com/proxy/pbmhbvxs/stream
 url_resolved: https://dc5.serverse.com/proxy/pbmhbvxs/stream
 homepage: http://www.sanaaradio.net/Programs.aspx
@@ -22,15 +22,15 @@ clickcount: 58
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
-  operator: Radio Sana'a (إذاعة صنعاء), operated by the Yemen Media Corporation (or successor state authority) based in Sana'a.
-  affiliations: Historically aligned with successive Yemeni state governments; since 2014-2015 affiliated with the Houthis (Ansar Allah) who control Sana'a and northern Yemen; broadcasts in Arabic.
-  audience: Arabic-speaking audiences in Yemen and the wider Arab diaspora; domestic listening in Sana'a and other Houthi-controlled areas.
-  format: Full-service state radio with news bulletins, political programming, religious content, music and cultural features.
-  notes: Sana'a Radio is Yemen's domestic state broadcaster based in the capital Sana'a; since the 2014-2015 Houthi takeover of Sana'a and the outbreak of the Yemeni civil war it has operated under Houthi control; like other state media in Yemen it carries government/movement messaging alongside news and entertainment; the homepage (sanaaradio.net) is intermittently accessible but provides limited modern web presence; streaming infrastructure suggests continuation of broadcast operations.
-  sources: internal knowledge only (homepage returned HTTP 404)
-curation: 0.45
+  operator: Yemen General Corporation for Radio and Television (Sana'a), under Houthi-controlled authorities
+  affiliations: Houthi (Ansar Allah) de facto government in Sana'a; historically Yemen's official state radio
+  audience: Arabic speakers in northern Yemen and the diaspora
+  format: 'state general-service radio: news bulletins, political and religious programming, cultural shows and music'
+  notes: 'Sana''a Radio is Yemen''s oldest broadcaster, first on air in 1947 (briefly closed after the failed 1948 revolt and restored in 1955), and the flagship general-programme station of the state Yemen General Corporation for Radio and Television. It broadcasts around the clock on shortwave, medium wave and FM with five main news bulletins plus religious, cultural, children''s and music programmes. Since the Houthi takeover of the capital in 2014-15 it has been run by the Houthi-controlled authorities in Sana''a, and its content is reported to consist largely of pro-Houthi and anti-coalition messaging. The sanaaradio.net homepage now redirects to sanaaradio.ye, which does not currently respond, though the audio stream remains live. Editorial flag: Sana''a Radio has been under Houthi (Ansar Allah) control since the 2014-15 seizure of Sana''a; monitoring reports describe its output as pro-Houthi propaganda, military recruitment appeals and messages of support for Hezbollah and Iran. The Houthi movement is designated a terrorist organisation by the United States.'
+  sources: https://ar.wikipedia.org/wiki/إذاعة_صنعاء; https://medialandscapes.org/static/country/yemen/media/radio.html; https://www.wikidata.org/wiki/Q6833046
+curation: -0.30
 provenance:
   - radiobrowser-ad7f5a16-d660-4587-ba38-871e89419e2a
   - iprd-ye-radio-sana-a-91-1-3bf443a2

@@ -39,6 +39,7 @@ provenance:
   - iprd-de-antenne-bayern-oldies-but-goldies-2f9dff5a
   - iprd-de-antenne-bayern-oldies-but-goldies-6929e557
   - iprd-de-oldie-antenne-3f94ac04
+  - radiobrowser-d7db29fa-b03d-40b6-8088-631ad79914cd
 streams:
   - url: http://mp3channels.webradio.antenne.de/oldies-but-goldies
     codec: MP3
@@ -46,3 +47,5 @@ streams:
   - url: https://stream.oldie-antenne.de/oldie-antenne/stream/mp3
     codec: MP3
     bitrate: 128
+  - url: 'http://stream.antenne.de/oldies-but-goldies/stream/aacp'
+    codec: AAC

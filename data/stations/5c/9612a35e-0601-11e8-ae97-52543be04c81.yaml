@@ -1,8 +1,8 @@
 stationuuid: 9612a35e-0601-11e8-ae97-52543be04c81
-name: FIP autour du groove
+name: FIP Groove
 url: http://direct.fipradio.fr/live/fip-webradio3.mp3
 url_resolved: http://direct.fipradio.fr/live/fip-webradio3.mp3
-homepage: http://www.fipradio.fr/
+homepage: https://www.radiofrance.fr/fip/radio-groove
 favicon: http://www.fipradio.fr/dist/favicons/logo-120.png
 tags:
   - jazz
@@ -24,15 +24,16 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio France (public broadcasting authority)
-  affiliations: French state broadcaster; France Télévisions subsidiary
-  audience: French listeners; funk, groove, jazz, and lounge music enthusiasts
-  format: Funk, groove, soul, jazz, and lounge music; curated editorial playlists
-  notes: FIP is a state-funded public radio network in France part of Radio France; "autour du groove" focuses on groove and funk; operates under French public broadcasting remit
-  sources: internal knowledge only
-curation: 0.7
+  operator: Radio France
+  affiliations: French public broadcasting; Radio France
+  audience: Funk, soul and groove listeners in France and worldwide
+  format: Curated funk, soul, R&B and groove webradio
+  notes: FIP Groove (launched 5 January 2016 as "FIP autour du groove") is one of the themed webradios of FIP, Radio France's commercial-free eclectic music station founded in 1971. The channel focuses on funk, soul, R&B and groove, with selections chosen by FIP's human music programmers rather than an algorithm. This legacy direct.fipradio.fr URL now redirects to the current Radio France icecast stream; the catalog already holds the same channel as FIP Groove with more votes.
+  sources: https://fr.wikipedia.org/wiki/FIP_(radio); https://en.wikipedia.org/wiki/FIP_(radio_station); https://icecast.radiofrance.fr/fipgroove-midfi.mp3
+curation: 0.60
+duplicate_of: c454908c-eb81-11e9-a96c-52543be04c81
 provenance:
   - radiobrowser-9612a35e-0601-11e8-ae97-52543be04c81
   - iprd-fr-fip-nouveaut-s-e7d9bf7b

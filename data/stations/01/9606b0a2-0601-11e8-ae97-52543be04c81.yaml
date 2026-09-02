@@ -22,7 +22,7 @@ clickcount: 19
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
   operator: Mitteldeutscher Rundfunk (MDR), the regional public-service broadcaster for Saxony, Saxony-Anhalt and Thuringia; member of ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland)
   affiliations: ARD network; funded by the German Rundfunkbeitrag licence fee; independent of party politics by statute (overseen by the MDR Rundfunkrat with civil-society representation)
@@ -30,9 +30,13 @@ research:
   format: Youth-oriented contemporary hit and electronic music, hip-hop, indie, club, and dance, mixed with youth culture features, lifestyle topics, and news targeted at younger listeners
   notes: Launched in 1993 as the youth-targeted radio service of the newly founded MDR (which itself began broadcasting on 1 January 1992 covering the former East German Länder). The station was rebranded several times — initially as "Jump", which split off as MDR Jump, while "Sputnik" became the more alternative/club-focused youth station. As of 2024 MDR announced restructuring of its youth offerings under public-broadcaster reform; the brand has historically been distributed via DAB+ and online (FM coverage limited).
   sources: https://www.mdr.de/sputnik, internal knowledge
-curation: 0.7
+curation: 0.75
 provenance:
   - radiobrowser-9606b0a2-0601-11e8-ae97-52543be04c81
+  - radiobrowser-b45bb2b7-20eb-48b6-b76d-f4a2442627f9
+  - iprd-de-mdr-sputnik-4beb4cb3
+  - iprd-de-mdr-sputnik-7bac4f88
+  - iprd-de-mdr-sputnik-fd575f70
 streams:
   - url: http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
     codec: MP3
@@ -45,3 +49,7 @@ streams:
     url_resolved: http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
     codec: MP3
     bitrate: 128
+  - url: 'https://radio-hls.mdr.de/hls/live/2112905/mdr-284330-0-hls/index.m3u8'
+    codec: AAC
+    bitrate: 102
+    hls: true

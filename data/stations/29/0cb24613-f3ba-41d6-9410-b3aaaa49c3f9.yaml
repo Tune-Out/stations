@@ -33,3 +33,11 @@ curation: -0.05
 provenance:
   - radiobrowser-0cb24613-f3ba-41d6-9410-b3aaaa49c3f9
   - iprd-iq-al-rasheed-91-5-d5a14d59
+  - radiobrowser-b0d990d7-167a-44a1-830e-35dedaa2982d
+streams:
+  - url: 'https://streaming.shoutcast.com/alrasheed-fm?1719771692024'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://streaming.shoutcast.com/alrasheed-kirkuk'
+    codec: MP3
+    bitrate: 128

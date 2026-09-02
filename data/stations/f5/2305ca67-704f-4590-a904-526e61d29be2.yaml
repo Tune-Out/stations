@@ -34,6 +34,7 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-2305ca67-704f-4590-a904-526e61d29be2
+  - radiobrowser-442987f0-ed18-4e1d-8ea4-7b3d3b91bb82
 streams:
   - url: http://s2.audiostream.hu/juventus_192k
     codec: MP3
@@ -45,3 +46,5 @@ streams:
     url_resolved: http://s2.audiostream.hu/juventus_96k
     codec: MP3
     bitrate: 96
+  - url: 'http://s2.audiostream.hu:8090/juventus_FLAC'
+    codec: OGG

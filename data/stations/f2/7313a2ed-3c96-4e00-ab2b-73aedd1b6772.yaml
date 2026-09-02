@@ -34,3 +34,11 @@ provenance:
   - radiobrowser-7313a2ed-3c96-4e00-ab2b-73aedd1b6772
   - iprd-de-eurodance-cdd86309
   - iprd-de-laut-fm-eurodance-720e2a7e
+  - radiobrowser-8e73775d-d5f6-4a72-b343-3a697f789b19
+streams:
+  - url: 'https://eurodance.stream.laut.fm/eurodance'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://laut.fm/eurodance'
+    codec: MP3
+    bitrate: 128

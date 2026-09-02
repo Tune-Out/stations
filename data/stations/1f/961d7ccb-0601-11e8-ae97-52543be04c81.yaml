@@ -37,8 +37,12 @@ curation: -0.05
 provenance:
   - radiobrowser-961d7ccb-0601-11e8-ae97-52543be04c81
   - iprd-cz-radio-beat-95-3-a6c65d3f
+  - radiobrowser-c80ec3dc-15ca-4b52-8dcd-c03efa77c95c
+  - iprd-cz-radio-beat-95-3-a212442d
 streams:
   - url: http://icecast2.play.cz/radiobeat128.mp3
     codec: MP3
   - url: http://icecast1.play.cz/beat64.mp3
     codec: MP3
+  - url: 'https://icecast2.play.cz/beat128aac'
+    codec: AAC

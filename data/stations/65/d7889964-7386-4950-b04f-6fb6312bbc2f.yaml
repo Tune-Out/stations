@@ -34,3 +34,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-d7889964-7386-4950-b04f-6fb6312bbc2f
+  - radiobrowser-f84f8e06-88a9-434e-8f49-eb5df8e0b4b1
+streams:
+  - url: 'https://mp3.harmonyfm.de/hrmplus/hq70er.aac?context=fHA6LTE=&amsparams=playerid:harmonyPopup;skey:1631618108&rtffh=ef12279c-76fc-410a-9bd8-4e7cafc7308f&listenerid=ef12279c-76fc-410a-9bd8-4e7cafc7308f'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://streams.harmonyfm.de/hrmplus/mp3/hq70er.m3u'
+    url_resolved: 'http://mp3.harmonyfm.de/hrmplus/hq70er.mp3'
+    codec: MP3
+    bitrate: 128

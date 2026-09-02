@@ -34,3 +34,11 @@ curation: 0.35
 provenance:
   - radiobrowser-cb98e9c7-ddd3-4559-9dcf-f3e64ba73a41
   - iprd-ar-radio-grafica-89-3-ba9d4305
+  - radiobrowser-25044f96-81d1-44fb-87a2-650333a932b5
+streams:
+  - url: 'http://radio13.servidorderadio.net:8110/api/v3/widgetsview?id=100&option=big&ssl=1&auto=0'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://radio13.servidorderadio.net:8110/'
+    codec: MP3
+    bitrate: 96

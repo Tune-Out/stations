@@ -2,7 +2,7 @@ stationuuid: 960f5358-0601-11e8-ae97-52543be04c81
 name: DR P4 København
 url: http://live-icy.gss.dr.dk/A/A08H.mp3.m3u
 url_resolved: http://live-icy.gslb01.dr.dk/A/A08H.mp3
-homepage: http://www.dr.dk/p4kbh
+homepage: https://www.dr.dk/lyd/p4kbh
 favicon: http://www.dr.dk/favicon.ico
 tags:
   - regional-mexican
@@ -23,14 +23,14 @@ clickcount: 15
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: DR (Danmarks Radio), the Danish national public service broadcaster
-  affiliations: DR is funded by the Danish state through the public service contribution collected via income tax (replacing the older licence fee in 2022); independent of government control by law but politically supervised via the Folketing's media agreements
-  audience: Greater Copenhagen / Capital Region listeners (Hovedstaden), adult Danish-speaking audience
-  format: regional public service radio for the Copenhagen area — local news, traffic, weather, regional culture and current affairs, with shared P4 national music programming (Danish and international adult contemporary hits) outside regional windows
-  notes: DR P4 København is the Copenhagen-area regional station within DR's P4 network, which is the most-listened-to radio network in Denmark and consists of 11 regional editorial offices producing local news and programming that is interleaved with national P4 content; the Copenhagen edition serves the Hovedstaden region and was originally founded as DR Regionalen København when DR's regional radio structure was created; programming follows DR's public service obligations including a strong news and culture remit and adherence to the political-balance requirements in DR's public service contract with the Danish Ministry of Culture.
-  sources: internal knowledge only
+  operator: DR (Danmarks Radio)
+  affiliations: Danish public service broadcaster
+  audience: Adults in Greater Copenhagen / Capital Region
+  format: 'Regional public radio: local news, traffic, adult contemporary music'
+  notes: DR P4 København is the Copenhagen-area edition of P4, the regional network of Danish public broadcaster DR and Denmark's most-listened-to radio network. Regional radio for Copenhagen started in 1962 and P4 was relaunched nationally on 1 September 2001 when DR won the fourth FM channel; today ten regional outlets produce local news, traffic and weather interleaved with shared national P4 programming of Danish and international adult-contemporary music. DR is funded through the public-service contribution collected via income tax. The catalog's "regional-mexican" tag is wrong.
+  sources: https://en.wikipedia.org/wiki/DR_P4; https://www.dr.dk/p4kbh
 curation: 0.55
 provenance:
   - radiobrowser-960f5358-0601-11e8-ae97-52543be04c81

@@ -37,3 +37,11 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-e5589411-82e8-46b2-b90d-e95b159afcf3
+  - radiobrowser-dce3238f-e9d3-4e0f-8c13-501e584e60fb
+streams:
+  - url: 'https://listen.reyfm.de/original_192kbps.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://listen.reyfm.de/original_64kbps.mp3'
+    codec: AAC+
+    bitrate: 64

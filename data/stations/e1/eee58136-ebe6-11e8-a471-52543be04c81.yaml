@@ -1,5 +1,5 @@
 stationuuid: eee58136-ebe6-11e8-a471-52543be04c81
-name: Radio Freedom
+name: Radio Free Dom
 url: http://freedomice.streamakaci.com/freedom.mp3
 url_resolved: http://freedomice.streamakaci.com/freedom.mp3
 homepage: http://freedom.fr/free-dom-1/
@@ -20,15 +20,15 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Radio Freedom (France)
-  affiliations: none known
-  audience: French and European listeners interested in freedom-oriented content
-  format: Diverse music and cultural programming, MP3 96kbps
-  notes: Radio Freedom broadcasts from France on FM streaming platform. Appears to be a community or independent radio operation focused on alternative content and freedom of expression themes. Operates online streaming.
-  sources: internal knowledge only
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Radio Free Dom (owned by Margie Sudre), Saint-Denis, La Réunion
+  affiliations: Founders Camille and Margie Sudre were also behind the Free Dom political movement in Réunion; the station itself is a private commercial broadcaster
+  audience: General public of Réunion (French overseas department), Creole and French speakers; also diaspora online
+  format: 'Generalist local radio: news, phone-in and listener-participation shows, legal advice (Droit de parole), local music, games'
+  notes: Radio Free Dom (usually written Freedom) is the leading radio station of the French Indian Ocean island of La Réunion, founded on 14 July 1981 by Camille and Margie Sudre during France's free-radio boom and now owned by Margie Sudre. It broadcasts on 17 FM frequencies (88.2-107.1 MHz) across the island from Saint-Denis, with a generalist format built on live phone-ins, local news, legal-advice and community-help shows and Creole music. Médiamétrie (Sept-Nov 2025) gives it about 33.5% audience share, far ahead of Exo and Réunion la 1ère. A second channel, Freedom 2, launched in 2011 with a music-based schedule. This entry is the main 'Free Dom 1' stream; the catalog country should be France / Réunion rather than blank.
+  sources: https://fr.wikipedia.org/wiki/Radio_Free_Dom; https://en.wikipedia.org/wiki/Free_Dom; https://freedom.fr/; https://www.reunionnaisdumonde.com/magazine/actualites/reportages/une-histoire-de-radio-freedom-analyse-d-un-succes/
+curation: 0.40
 provenance:
   - radiobrowser-eee58136-ebe6-11e8-a471-52543be04c81
   - iprd-re-free-dom-1-7e9b1e28

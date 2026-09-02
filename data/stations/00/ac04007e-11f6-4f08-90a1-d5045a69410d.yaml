@@ -40,3 +40,11 @@ provenance:
   - iprd-fi-yle-radio-suomi-tampere-99-9-10b01edc
   - iprd-fi-yle-radio-suomi-turku-94-3-42f62244
   - iprd-fi-yle-radio-suomi-lappeenranta-98-5-12794681
+  - radiobrowser-f6d91cef-82e6-4bd7-92ea-1c98e99cf3d0
+streams:
+  - url: 'https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8'
+    codec: AAC
+    bitrate: 256
+    hls: true
+  - url: 'http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio'
+    codec: AAC+

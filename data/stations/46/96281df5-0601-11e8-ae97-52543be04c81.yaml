@@ -33,3 +33,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-96281df5-0601-11e8-ae97-52543be04c81
+  - radiobrowser-6c43b4ff-d205-48d8-a1a7-afbccd59498d
+  - iprd-hu-forr-s-radio-97-8-7b053d90
+streams:
+  - url: 'http://91.82.85.44:9000/;stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://91.82.85.44:1630/forrasradio.mp3'
+    codec: MP3
+    bitrate: 128

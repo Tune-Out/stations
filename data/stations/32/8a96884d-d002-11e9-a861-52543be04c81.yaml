@@ -2,7 +2,7 @@ stationuuid: 8a96884d-d002-11e9-a861-52543be04c81
 name: NDR 90,3
 url: http://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u
 url_resolved: http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
-homepage: http://www.ndr903.de/
+homepage: https://www.ndr.de/903/
 favicon: https://www.ndr.de:443/resources/assets/resources/images/favicon/favicon.ico
 tags: []
 country: Germany
@@ -22,15 +22,36 @@ clickcount: 11
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
   operator: Norddeutscher Rundfunk (NDR), a state-broadcasting corporation and ARD member
   affiliations: ARD network; financed by the German household licence fee (Rundfunkbeitrag); operates under public-law oversight with statutory political independence
   audience: German-speaking adult listeners in the Free and Hanseatic City of Hamburg and its metropolitan area; skews older mainstream
   format: Hamburg-focused regional public-service radio with city and regional news, traffic, weather, service journalism, local culture and a Schlager/oldies/AC music mix
   notes: NDR 90,3 is the dedicated Hamburg city programme of Norddeutscher Rundfunk (NDR), the public broadcaster for the four northern German states of Schleswig-Holstein, Lower Saxony, Hamburg and Mecklenburg-Vorpommern; it broadcasts on 90.3 MHz FM in Hamburg and via DAB+ and live stream; the station carries flagship local shows such as "Hamburg Journal am Morgen" and provides extensive coverage of HSV/FC St. Pauli football and Hamburg politics
-  sources: internal knowledge only
-curation: 0.55
+  sources: https://www.ndr.de/903/; http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
+curation: 0.60
 provenance:
   - radiobrowser-8a96884d-d002-11e9-a861-52543be04c81
   - iprd-de-ndr-90-3-6f9fb435
+  - radiobrowser-c0cb1e13-0eed-405d-ac34-fffbd8bb835b
+  - iprd-de-ndr-1-os-0b3eb8b0
+  - iprd-de-ndr-1-radio-mv-greifswald-6c4ae12f
+  - iprd-de-ndr-1-radio-mv-greifswald-2a7bd13a
+  - iprd-de-ndr-1-radio-mv-rostock-d14a4178
+  - iprd-de-ndr-2-niedersachsen-35cdda26
+  - iprd-de-ndr-2-mecklenburg-vorpommern-0d103c93
+  - iprd-de-ndr-2-die-h-chste-eisenbahn-df603ed2
+  - iprd-de-ndr-2-rock-6549069d
+  - iprd-de-ndr-2-soundcheck-neue-musik-a7b83871
+  - iprd-de-ndr-info-mecklenburg-vorpommern-4c56fd54
+  - iprd-de-ndr-info-mecklenburg-vorpommern-80ba3603
+  - iprd-de-ndr-info-niedersachsen-9283af67
+streams:
+  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3?1728425642817&aggregator=web'
+    codec: MP3
+    bitrate: 128

@@ -35,10 +35,15 @@ curation: -0.05
 provenance:
   - radiobrowser-a2353b31-3ace-11ea-8dd7-52543be04c81
   - iprd-de-radio-bollerwagen-94127d36
+  - radiobrowser-62ee0f9a-5ad0-42cd-9c37-d16de34043ea
+  - iprd-de-radio-bollerwagen-e04a0c9a
 streams:
   - url: http://player.ffn.de/radiobollerwagen.m3u
     codec: MP3
     bitrate: 192
   - url: https://ffn-stream19.radiohost.de/radiobollerwagen_mp3-192?listenerid=31363233323633323031-323030333a64653a343731363a3730313a623731343a346664383a313761363a39386165-3537373636-4d6f7a696c6c612f352e3020285831313b205562
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream.ffn.de/radiobollerwagen/mp3-192/stream.mp3'
     codec: MP3
     bitrate: 192

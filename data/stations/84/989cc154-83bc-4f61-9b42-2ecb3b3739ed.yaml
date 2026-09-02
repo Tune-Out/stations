@@ -32,6 +32,7 @@ curation: -0.05
 provenance:
   - radiobrowser-989cc154-83bc-4f61-9b42-2ecb3b3739ed
   - iprd-tr-radyo-viva-90-0-74d9f24a
+  - radiobrowser-5c2e0bf5-9635-49e7-80aa-9dbc9793bea3
 streams:
   - url: https://edge1.radyotvonline.net/shoutcast/play/radyoviva
     codec: AAC
@@ -39,3 +40,6 @@ streams:
   - url: https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8
     codec: UNKNOWN
     hls: true
+  - url: 'https://radyoviva.radyotvonline.net/radyovivaaac'
+    codec: AAC
+    bitrate: 128

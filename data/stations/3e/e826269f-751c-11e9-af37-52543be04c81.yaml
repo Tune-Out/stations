@@ -35,3 +35,10 @@ curation: 0.5
 provenance:
   - radiobrowser-e826269f-751c-11e9-af37-52543be04c81
   - iprd-cn-qingdao-music-sports-radio-91-5-306865c3
+  - radiobrowser-2efffdb2-abb5-477e-979b-529f31bd7d9e
+streams:
+  - url: 'http://lhttp.qingting.fm/live/1677/64k.mp3'
+    codec: MP3
+  - url: 'http://video10.qtv.com.cn/zhiboytgb/manifest.m3u8'
+    codec: UNKNOWN
+    hls: true

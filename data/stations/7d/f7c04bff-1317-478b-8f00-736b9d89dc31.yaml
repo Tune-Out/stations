@@ -33,3 +33,18 @@ research:
 curation: 0.2
 provenance:
   - radiobrowser-f7c04bff-1317-478b-8f00-736b9d89dc31
+  - radiobrowser-100cc2cd-c3d2-4781-9cf3-65d05cb9f839
+  - radiobrowser-8a4b7e33-4a86-457e-aed5-a2e781689240
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320.aac'
+    url_resolved: 'http://28893.live.streamtheworld.com:80/SMOOTH953_AAC320.aac'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128.aac'
+    url_resolved: 'http://23093.live.streamtheworld.com:80/SMOOTH953_AAC128.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953.mp3'
+    url_resolved: 'http://28893.live.streamtheworld.com:80/SMOOTH953.mp3'
+    codec: MP3
+    bitrate: 96

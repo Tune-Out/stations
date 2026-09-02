@@ -2,7 +2,7 @@ stationuuid: 96262522-0601-11e8-ae97-52543be04c81
 name: Rai Radio Techetè
 url: http://icestreaming.rai.it/9.mp3
 url_resolved: http://icestreaming.rai.it/9.mp3
-homepage: http://www.wr6.rai.it/
+homepage: https://www.raiplaysound.it/radiotechete
 favicon: http://www.wr6.rai.it/apple-touch-icon.png
 tags:
   - public-radio
@@ -23,15 +23,15 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RAI (Radiotelevisione Italiana), Italy's state-owned public broadcaster
-  affiliations: Italian state; publicly funded via licence fee (canone RAI)
-  audience: Italians of all demographics; Italian language
-  format: Arts, culture, jazz, world music and niche programming; "Techetè" archives classic broadcasts
-  notes: RAI Radio 6 Techetè is one of the seven networks operated by RAI (Radiotelevisione Italiana), the Italian public broadcasting corporation established in 1944. "Techetè" (from Greek "techne" and "thi" — art and perception) is RAI's archives and heritage radio service, broadcasting classic recordings from RAI's rich broadcast history since the 1930s. The station serves as both a living archive and a cultural preserve, with programming spanning jazz, world music, folk traditions and historical broadcasts. RAI is funded through the mandatory television licence fee (canone RAI) paid by Italian households and is subject to governance by the Italian Parliament and independent regulatory oversight. The station streams via RAI's own CDN infrastructure (icestreaming.rai.it) at professional bitrate (256 kbps MP3).
-  sources: http://www.wr6.rai.it/, internal knowledge of Italian public broadcasting
-curation: 0.95
+  operator: RAI (Radiotelevisione Italiana)
+  affiliations: Italian public broadcaster; Rai Teche archives
+  audience: Italian listeners interested in radio history and archive programming
+  format: 'Historical archive radio: vintage drama, music, documentaries'
+  notes: Rai Radio Techetè is RAI's archive channel, dedicated to the history of radio and of Italy through material from the Rai Teche archives and specially produced programmes. It started as the web-only Rai Web Radio 6 ('Il Passato Presente'), became Rai Radio 6 Teca on all platforms on 7 September 2015, and took its current name on 11 June 2017; it is available on DAB+, digital TV and RaiPlay Sound. RAI is Italy's licence-fee-funded public broadcaster.
+  sources: https://it.wikipedia.org/wiki/Rai_Radio_Techete'; https://www.raiplaysound.it/radiotechete
+curation: 0.60
 provenance:
   - radiobrowser-96262522-0601-11e8-ae97-52543be04c81
   - iprd-it-rai-radio-techet-d4e77753

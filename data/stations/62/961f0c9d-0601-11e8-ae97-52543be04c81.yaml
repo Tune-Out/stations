@@ -35,3 +35,12 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-961f0c9d-0601-11e8-ae97-52543be04c81
+  - radiobrowser-5a0b9ad6-d9ff-44dc-8b4c-08988b07a5be
+  - iprd-cz-cro-radio-wave-0585ac25
+  - iprd-cz-cro-radio-wave-5e7d85ec
+  - radiobrowser-bdb4026e-62a0-44f8-a5d2-0164aa4938f5
+streams:
+  - url: 'http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg'
+    codec: OGG
+  - url: 'http://amp.cesnet.cz:8000/cro-radio-wave.flac'
+    codec: OGG

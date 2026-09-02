@@ -37,3 +37,12 @@ curation: 0.4
 provenance:
   - radiobrowser-9636b03f-0601-11e8-ae97-52543be04c81
   - iprd-es-talk-radio-europe-238fcef8
+  - radiobrowser-569250a0-b6ed-4ad9-bfc4-ad9dd65dc917
+streams:
+  - url: 'http://s3.yesstreaming.net:7014/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3'
+    url_resolved: 'https://22733.live.streamtheworld.com:443/TALK_RADIO_EUROPE.mp3'
+    codec: MP3
+    bitrate: 96

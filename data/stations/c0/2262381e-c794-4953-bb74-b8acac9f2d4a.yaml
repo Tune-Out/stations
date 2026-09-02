@@ -35,3 +35,11 @@ curation: -0.05
 provenance:
   - radiobrowser-2262381e-c794-4953-bb74-b8acac9f2d4a
   - iprd-pl-rock-radio-909f7a49
+  - radiobrowser-6e38d67e-b33a-4079-9346-2392cdab375d
+streams:
+  - url: 'https://radiostream.pl/tuba8-1.mp3?cache=1650763965'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radiostream.pl/tuba8-1.aac'
+    codec: AAC+
+    bitrate: 64

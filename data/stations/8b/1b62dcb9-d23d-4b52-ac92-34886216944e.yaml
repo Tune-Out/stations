@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ru/ru.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 'Imported from IPRD catalog. Editorial flag: Vesti FM is VGTRK''s Kremlin-aligned 24h news/talk channel, known for aggressive pro-government and pro-war commentary. Duplicate (MP3 variant) of the GTRK Chita relay.'
+  sources: 'IPRD: streams/ru/ru.m3u'
+curation: -0.70
 provenance:
   - iprd-ru-vesti-fm-7969baa7

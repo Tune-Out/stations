@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ru/ru.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Ekho Moskvy 91.2 is the Yekaterinburg affiliate of the once-national Echo of Moscow talk/news brand; after Russian authorities forced the original Moscow station off air in March 2022, this regional Yekaterinburg station (91.4 FM, since 1998) continued broadcasting independently under the Echo name. The online.echoekb.ru stream domain no longer resolves, though the station's main echoekb.ru web presence is still live.
+  sources: https://en.wikipedia.org/wiki/Echo_of_Moscow; https://ekaterinburg.spravka.ru/radio-i-radiokompanii/eho-moskvy-ekaterinburg-293610770
+curation: 0.10
 provenance:
   - iprd-ru-ekho-moskvy-91-2-88cad369

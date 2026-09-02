@@ -1,8 +1,8 @@
 stationuuid: 960b9e98-0601-11e8-ae97-52543be04c81
-name: Вести ФМ (Vesti FM)
+name: Вести FM
 url: http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 url_resolved: http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-homepage: http://radiovesti.ru/
+homepage: https://smotrim.ru/channel/199
 favicon: https://cdn.smotrim.ru/static/front/favicon/apple-touch-icon.png
 tags:
   - news
@@ -23,23 +23,32 @@ clickcount: 63
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
-  operator: VGTRK (All-Russia State Television and Radio Broadcasting Company / Всероссийская государственная телевизионная и радиовещательная компания), a federal state unitary enterprise of the Russian Federation
-  affiliations: Russian state broadcaster directly controlled by the government of the Russian Federation; subject to EU, UK, US, Canadian and Australian sanctions since 2022 over its role in pro-Kremlin propaganda following Russia's invasion of Ukraine
-  audience: Russian-language adult audience focused on news/current-affairs listeners across Russia and Russian speakers abroad; broadcast on FM in Moscow (97.6) and 25+ Russian cities, plus DAB, satellite, online via Smotrim and the Vesti.ru portal
-  format: 24-hour news/talk radio with bulletins, expert commentary, political analysis, sport and economic reporting
-  notes: Launched 5 February 2008 as Russia's first round-the-clock news radio station, Vesti FM is part of the Vesti news brand that includes Rossiya 24 television and Vesti.ru; its schedule is built around hourly news, "Полный контакт" hosted by Vladimir Solovyov, "Железная логика" with Sergey Mikheyev, "Война и мир", and other talk strands; the station and its hosts (notably Solovyov) have been individually sanctioned by Western governments and the channel has been characterised in independent media monitoring (e.g. EU vs Disinfo, RSF) as a leading vehicle of Kremlin messaging
-  sources: https://radiovesti.ru/, https://smotrim.ru/channel/199, internal knowledge
-curation: 0.45
+  operator: VGTRK (All-Russia State Television and Radio Broadcasting Company)
+  affiliations: Russian federal state broadcaster; sanctioned by EU/UK
+  audience: Russian-speaking news and political-talk listeners
+  format: State news/talk radio
+  notes: 'Vesti FM is Russia''s state-owned 24-hour news/talk radio station, launched on 5 February 2008 by VGTRK (the All-Russia State Television and Radio Broadcasting Company) under the Vesti news brand shared with Rossiya 24. It airs on 97.6 FM in Moscow and 89.3 FM in Saint Petersburg and in more than 60 Russian cities, with hourly bulletins and analytical talk shows including Polny Kontakt with Vladimir Solovyov and programmes by Dmitry Kulikov and Yevgeny Satanovsky; its slogan is Pervye o glavnom. VGTRK is subject to EU, UK and allied sanctions since 2022 for propaganda supporting Russia''s war against Ukraine, and Solovyov is individually sanctioned. The station''s website now lives on VGTRK''s Smotrim platform. Editorial flag: Vesti FM is owned by VGTRK, a Russian state broadcaster sanctioned by the EU, UK and others for spreading war propaganda and disinformation about the invasion of Ukraine; its flagship host Vladimir Solovyov is personally sanctioned by the EU and UK and named by the US State Department as a leading face of Kremlin propaganda. Editorial flag: Flagship Kremlin news/talk channel, explicitly named in the review brief. VGTRK is a federal state unitary enterprise; the channel and its hosts are under EU/UK/US/CA/AU sanctions for pro-war messaging.'
+  sources: https://ru.wikipedia.org/wiki/Вести_FM; https://2021-2025.state.gov/disarming-disinformation/faces-of-kremlin-propaganda/vladimir-solovyov/; https://finance.ec.europa.eu/news/eu-adopts-sanctions-against-russias-disinformation-and-war-propaganda-2024-05-17_en; https://smotrim.ru/channel/199
+curation: -0.90
 provenance:
   - radiobrowser-960b9e98-0601-11e8-ae97-52543be04c81
   - iprd-ru-vesti-fm-d95ffe06
   - iprd-ru-vesti-fm-062e7a4e
+  - radiobrowser-7d2f26fd-5c3b-4fbf-9219-e71b7246f0ca
+  - iprd-ru-vesti-fm-uzbass-43830966
+  - radiobrowser-e7fa0b65-8f5e-41dc-ad7e-b0697166475d
 streams:
   - url: http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
     codec: MP3
     bitrate: 192
   - url: http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
+    codec: MP3
+    bitrate: 64
+  - url: 'http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_64kbps'
     codec: MP3
     bitrate: 64

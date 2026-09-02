@@ -24,14 +24,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/de/de.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: RauteMusik.fm
+  affiliations: ''
+  audience: oldies listeners, Germany
+  format: 60s/70s/80s oldies
+  notes: RauteMusik Goldies is an oldies (60s/70s/80s) channel on RauteMusik.fm, a long-established German internet radio network founded in the early 2000s with numerous genre-specific streams.
+  sources: stream check; RauteMusik is a well-known German webradio network (general knowledge)
+curation: 0.15
 provenance:
   - iprd-de-rautemusik-goldies-085be233

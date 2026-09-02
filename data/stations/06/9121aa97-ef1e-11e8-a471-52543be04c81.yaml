@@ -22,14 +22,14 @@ clickcount: 13
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Sky News Arabia FZ-LLC — a 50/50 joint venture between Abu Dhabi Media Investment Corporation (ADMIC, controlled by Sheikh Mansour bin Zayed Al Nahyan) and Sky Group (then BSkyB, now Sky Limited / Comcast)
-  affiliations: Effectively aligned with UAE government interests via ADMIC's ownership; no religious or party-political programming, though editorial line reflects Gulf/UAE foreign-policy perspectives
-  audience: Pan-Arab Arabic-speaking viewers and listeners across the Middle East and North Africa region
-  format: 24-hour Arabic-language news and current affairs television (this stream is the audio feed of the TV channel) — breaking news, talk shows, business, sports, and regional analysis
-  notes: Sky News Arabia launched on 6 May 2012 from twofour54 in Abu Dhabi; it is a joint venture between Abu Dhabi Media Investment Corporation (the personal investment vehicle of UAE Deputy Prime Minister Sheikh Mansour bin Zayed Al Nahyan, a member of the ruling Al Nahyan family) and the UK's Sky Group, giving the channel access to Sky News content and editorial expertise; the channel positions itself as a regional rival to Al Jazeera and Al Arabiya and is widely regarded as reflecting Abu Dhabi's editorial perspective on regional affairs (including coverage of Qatar, Iran, the Muslim Brotherhood, and Gulf politics); operates a major newsroom with bureaux across MENA and Europe.
-  sources: internal knowledge only
-curation: -0.05
+  operator: Sky News Arabia FZ-LLC, Abu Dhabi
+  affiliations: 50/50 joint venture between Abu Dhabi Media Investment Corporation and the UK's Sky Group
+  audience: Arabic-speaking viewers across the Middle East and North Africa
+  format: 24-hour Arabic news and current affairs - breaking news, business, sport and regional analysis (audio of the TV feed)
+  notes: Sky News Arabia launched on 6 May 2012 from twofour54 in Abu Dhabi as a fifty-fifty joint venture between Abu Dhabi Media Investment Corporation, the investment vehicle of Sheikh Mansour bin Zayed Al Nahyan, and the UK's Sky Group. That partnership gives it access to Sky News content and editorial practice while its ownership ties it closely to Abu Dhabi, and its coverage of Gulf politics is generally read as reflecting a UAE perspective. It positions itself as a regional rival to Al Jazeera and Al Arabiya, with bureaux across the region and in Europe. This catalog entry is the audio of the television HLS feed rather than a separate radio service, and the catalog name is a garbled form of the channel's actual name.
+  sources: http://www.skynewsarabia.com/; stream header check on http://stream.skynewsarabia.com/hls/sna_720.m3u8
+curation: 0.20
 provenance:
   - radiobrowser-9121aa97-ef1e-11e8-a471-52543be04c81

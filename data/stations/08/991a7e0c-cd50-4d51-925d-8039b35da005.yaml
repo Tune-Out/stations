@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/it/it.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Sky TG24 is Italy's all-news TV channel owned by Sky Italia, launched in 2003, providing rolling news, weather, and sports coverage via TV, DTT channel 50, and web streaming; this entry is its audio simulcast. The Akamai HLS endpoint returned a 400 error, suggesting the specific playlist URL has expired even though Sky TG24 remains a major, actively broadcasting news outlet.
+  sources: https://en.wikipedia.org/wiki/Sky_TG24; https://tg24.sky.it
+curation: 0.15
 provenance:
   - iprd-it-sky-tg24-30a49b56

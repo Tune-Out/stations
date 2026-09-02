@@ -33,3 +33,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-24a3740f-4a8e-46e5-8b39-c8b4a2730ded
+  - radiobrowser-e8274b3d-4ee9-4cda-8bcb-60ea92e2db37
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/RETROTURKAAC.pls'
+    url_resolved: 'http://23543.live.streamtheworld.com:80/RETROTURKAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;'
+    url_resolved: 'https://23623.live.streamtheworld.com:443/RETROTURK_SC?/;'
+    codec: MP3
+    bitrate: 64

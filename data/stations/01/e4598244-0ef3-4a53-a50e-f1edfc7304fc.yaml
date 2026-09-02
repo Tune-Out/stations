@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/gr/gr.m3u"
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: Greece
+  format: news/talk
+  notes: Crash Radio is a Greek online radio station with a news/talk tag in the catalog metadata. The listed Radiojar stream endpoint returned a not-found error at time of check.
+  sources: 'IPRD: streams/gr/gr.m3u'
 curation: 0
 provenance:
   - iprd-gr-crash-radio-7bac67f2

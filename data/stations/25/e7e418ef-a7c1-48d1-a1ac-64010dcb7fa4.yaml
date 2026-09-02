@@ -21,14 +21,14 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Unknown
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Seba Media Network (شبكة صبا الإعلامية)
   affiliations: none known
-  audience: Palestinian and classical music enthusiasts
-  format: Classical music programming
-  notes: Seba is a Palestinian internet radio station specializing in classical music; non-commercial operation with limited information available; based in Palestine serving local and diaspora audiences
-  sources: internal knowledge only
-curation: 0.6
+  audience: Arabic-speaking listeners in the northern West Bank
+  format: Local news, talk and mixed Arabic popular music
+  notes: Seba FM (راديو صبا اف ام) is an Arabic-language Palestinian local radio station in the northern West Bank, run by the Seba Media Network with a companion Seba TV video service; directories list it under Jenin and Ramallah. Its output is a general mix of news reports, interviews, cultural, sports and economic segments, university and community news and popular music, not the classical music the catalog tag suggests. The Icecast source identifies itself simply as SEBAFM at 128 kbps.
+  sources: https://www.sebafm.net/; https://www.surfmusic.de/radio-station/seba-fm,15984.html; https://arabic-media.com/station/radio/palestine/seba-fm.htm; http://213.6.93.254:8000/status-json.xsl
+curation: 0.25
 provenance:
   - radiobrowser-e7e418ef-a7c1-48d1-a1ac-64010dcb7fa4

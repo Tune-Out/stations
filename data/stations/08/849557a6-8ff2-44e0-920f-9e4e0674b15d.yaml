@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/cn/cn.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Yangzhou Traffic Broadcasting 103.5 is a Chinese municipal traffic/news radio channel serving Yangzhou, Jiangsu, operated under the state broadcasting system and relayed via Ximalaya's xmcdn CDN. It carries traffic updates, local news, and light talk typical of Chinese city traffic stations.
+  sources: 'catalog metadata (IPRD: streams/cn/cn.m3u); http://live.xmcdn.com'
+curation: -0.10
 provenance:
   - iprd-cn-yangzhou-traffic-broadcasting-103-5-5b31aa7f

@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/es/es.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Ràdio 010 is a small Catalan-language, Barcelona-focused online news/talk outlet run via WordPress and Shoutcast. The shoutcast relay returned an authentication error rather than an audio stream, and no independent coverage of the station was found beyond its own blog.
+  sources: https://radio010.files.wordpress.com
+curation: -0.10
 provenance:
   - iprd-es-r-dio-010-5a95a339

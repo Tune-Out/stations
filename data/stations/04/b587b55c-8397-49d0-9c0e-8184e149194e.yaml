@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/cn/cn.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: China Radio International (CRI)
+  affiliations: CRI Hit FM network
+  audience: Younger Chinese pop-music listeners
+  format: Pop hits
+  notes: CRI Hit FM is a pop-music entertainment channel of China Radio International aimed at younger listeners, playing Chinese and international hits rather than political content; this entry is a regional relay branded "Jinqu FM".
+  sources: no web sources found beyond YAML metadata
+curation: 0.00
 provenance:
   - iprd-cn-cri-jinqu-fm-hit-88-7-9cfa9f6e

@@ -2,7 +2,7 @@ stationuuid: 81440088-0a76-11e8-ae97-52543be04c81
 name: France Musique
 url: http://direct.francemusique.fr/live/francemusique-midfi.mp3
 url_resolved: http://direct.francemusique.fr/live/francemusique-midfi.mp3
-homepage: https://www.francemusique.fr/
+homepage: https://www.radiofrance.fr/francemusique
 favicon: https://www.radiofrance.fr/external/favicons/francemusique/favicon.png
 tags:
   - classical
@@ -25,18 +25,20 @@ clickcount: 59
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio France (French national public radio broadcaster)
-  affiliations: French state-funded public service broadcasting; member of the European Broadcasting Union (EBU); supervised by ARCOM regulator; no religious or partisan political affiliation.
-  audience: French-speaking listeners across France and worldwide via streaming; targets classical music, jazz, and cultural-music enthusiasts of all ages.
-  format: Classical music, jazz, world music, opera, contemporary composition, with concerts, documentaries and music-focused magazine programming.
-  notes: Founded in 1954 as "France IV Haute-Fidelite" and renamed France Musique in 1963 (becoming France Musique permanently in 2005 after the "France Musiques" rebrand was reversed); one of seven Radio France networks alongside France Inter, France Culture, France Bleu, FIP, Mouv' and franceinfo. Operates the Orchestre National de France, Orchestre Philharmonique de Radio France, Choeur de Radio France and Maitrise de Radio France. Broadcast on FM nationwide, DAB+, satellite and at 128 kbps MP3 online. Funded historically by the redevance audiovisuelle (TV licence fee), since abolished in 2022 and replaced by a share of VAT receipts. Long-running notable programmes include "Le Matin des musiciens", "Carrefour de Lodeon" and "Open jazz". Direction is appointed by Radio France's PDG with ARCOM oversight to ensure editorial independence.
-  sources: internal knowledge only
-curation: 0.65
+  operator: Radio France
+  affiliations: French public service broadcaster; EBU; regulated by ARCOM; funded from a share of VAT since the 2022 abolition of the licence fee
+  audience: French-speaking classical, jazz and world music listeners in France and online
+  format: classical music, opera, jazz, contemporary and world music, concerts, documentaries and music magazines
+  notes: France Musique is Radio France's national classical and jazz station, begun in 1954 as an experimental FM music programme and named France Musique in 1963. It broadcasts the concerts of the Orchestre National de France, Orchestre Philharmonique de Radio France and Radio France choirs, alongside programmes such as Samedi à l'opéra, Carrefour de la création and La Tribune des critiques de disques, the network's oldest show (1946). Stéphane Grant became director in 2026 after Marc Voinchet (2015-2026). In 2026 Radio France cut France Musique's FM coverage from about 93% to 70% of French territory, transferring high-power transmitters to franceinfo in July 2026 and pushing listeners toward DAB+ and streaming; it also runs nine themed web radios such as Classique Easy and La Baroque.
+  sources: https://fr.wikipedia.org/wiki/France_Musique; https://www.radiofrance.fr/francemusique
+curation: 0.90
 provenance:
   - radiobrowser-81440088-0a76-11e8-ae97-52543be04c81
   - iprd-fr-france-musique-6ffae83e
+  - radiobrowser-7fdf8122-e85d-4f4e-9f88-11e8664eee2b
+  - iprd-fr-france-musique-e6375388
 streams:
   - url: http://direct.francemusique.fr/live/francemusique-hifi.aac?ID=radiofrance
     codec: AAC
@@ -47,3 +49,7 @@ streams:
   - url: http://direct.francemusique.fr/live/francemusique-midfi.mp3
     codec: MP3
     bitrate: 128
+  - url: 'https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance'
+    codec: AAC
+    bitrate: 107
+    hls: true

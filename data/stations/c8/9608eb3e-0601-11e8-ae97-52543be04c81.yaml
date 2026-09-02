@@ -2,7 +2,7 @@ stationuuid: 9608eb3e-0601-11e8-ae97-52543be04c81
 name: Rai Radio 3
 url: http://icestreaming.rai.it/3.mp3
 url_resolved: http://icestreaming.rai.it/3.mp3
-homepage: http://www.radio3.rai.it/
+homepage: https://www.raiplaysound.it/radio3
 favicon: https://www.raiplaysound.it/assets/img/icons/apple/apple-touch-icon.png
 tags:
   - classical
@@ -25,15 +25,23 @@ clickcount: 84
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RAI - Radiotelevisione italiana S.p.A. (Italian state-owned public broadcasting company)
-  affiliations: RAI; EBU member; Italian Ministry of Economy and Finance is principal shareholder; governance under RAI service contract with the Italian state
-  audience: Italian cultured/highbrow audience; intellectuals, classical music and literature enthusiasts; Italian-language
-  format: "Cultural radio: classical music, jazz, opera, literature, philosophy, theatre, science, in-depth current affairs and arts programming"
-  notes: Founded 1 October 1950 as the "Terzo Programma" (Third Programme), modelled on the BBC Third Programme. One of RAI's three flagship national radio networks alongside Radio 1 (news/talk) and Radio 2 (entertainment/pop). Famous for cultural programmes such as "Fahrenheit", "Radio3 Suite", "Tre Soldi" and live broadcasts from major opera houses and the Quirinale Sunday concerts. Funded by the Italian TV licence fee (canone RAI) and limited advertising.
-  sources: internal knowledge (homepage fetch unavailable)
-curation: 0.8
+  operator: RAI - Radiotelevisione italiana
+  affiliations: RAI (Italian public service broadcaster); EBU; funded by the canone RAI licence fee
+  audience: Italian listeners interested in culture, classical music, literature and science
+  format: 'cultural radio: classical music, opera, literature, philosophy, science, in-depth current affairs'
+  notes: Rai Radio 3 is RAI's national cultural channel, launched on 1 October 1950 as the 'Terzo Programma' on the model of the BBC Third Programme and renamed in 1975. It broadcasts classical music and opera, literature, history, philosophy, art, cinema and science, with signature programmes including Fahrenheit, Ad alta voce, Radio3 Scienza, Uomini e profeti and Wikiradio. Simona Sala became director in 2025, succeeding Andrea Montanari. It reached about 1.2 million listeners in Q3 2025 and is carried on FM, DAB+ and RaiPlay Sound, to which the old radio3.rai.it URL now redirects.
+  sources: https://it.wikipedia.org/wiki/Rai_Radio_3; https://www.raiplaysound.it/radio3
+curation: 0.90
 provenance:
   - radiobrowser-9608eb3e-0601-11e8-ae97-52543be04c81
   - iprd-it-rai-radio-3-50b88d06
+  - radiobrowser-df869e82-4446-475e-85fe-ca5b11a2b81e
+streams:
+  - url: 'http://icestreaming.rai.it/3.mp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast'
+    codec: MP3
+    bitrate: 320

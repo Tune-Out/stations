@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/br/br.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: EBC (Empresa Brasil de Comunicação)
+  affiliations: ''
+  audience: ''
+  format: classical, cultural
+  notes: Rádio MEC FM is a historic Brazilian public/cultural radio station based in Rio de Janeiro, founded in 1923 and now operated by EBC (Empresa Brasil de Comunicação), specializing in classical music and cultural programming.
+  sources: https://radios.ebc.com.br
+curation: 0.50
+duplicate_of: 4404b2f3-c18b-411a-9c74-90cf1e9465e7
 provenance:
   - iprd-br-mec-fm-99-3-1e181902

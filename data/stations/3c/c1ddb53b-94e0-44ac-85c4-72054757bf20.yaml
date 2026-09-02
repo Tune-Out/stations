@@ -33,3 +33,11 @@ research:
 curation: 0.2
 provenance:
   - radiobrowser-c1ddb53b-94e0-44ac-85c4-72054757bf20
+  - radiobrowser-bacc4b76-3632-41f3-bd50-454f6ae09bc6
+streams:
+  - url: 'https://stream.tunerplay.com/radio/8020/jazzradiospain.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://server5.mediasector.es:8020/jazzradiospain.mp3'
+    codec: MP3
+    bitrate: 256

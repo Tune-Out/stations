@@ -36,3 +36,16 @@ curation: 0.4
 provenance:
   - radiobrowser-961f6420-0601-11e8-ae97-52543be04c81
   - iprd-cz-cro-plus-954-b6fdda3c
+  - radiobrowser-50c08114-84d3-41ac-9f40-02b09e4913fe
+  - iprd-cz-cesky-rozhlas-plus-32926942
+  - radiobrowser-917790a4-3209-4d61-84b7-b2356ae78b61
+streams:
+  - url: 'http://amp.cesnet.cz:8000/cro-plus-256.ogg.m3u'
+    url_resolved: 'http://amp.cesnet.cz:8000/cro-plus-256.ogg'
+    codec: OGG
+  - url: 'https://rozhlas.stream/plus_mp3_128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rozhlas.stream/plus_low.aac'
+    codec: AAC+
+    bitrate: 64

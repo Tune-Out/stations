@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Grupo Radio Centro
+  affiliations: Exa FM network / iHeartRadio
+  audience: General Mexican pop-music listeners
+  format: Pop hits
+  notes: XHMRA-FM "Exa 99.3" is a commercial pop-hits station in Mexico, part of the nationwide Exa FM network (Grupo Radio Centro), distributed via iHeartRadio's StreamTheWorld CDN.
+  sources: no web sources found beyond YAML metadata
+curation: 0.05
 provenance:
   - iprd-mx-exa-99-3-xhmra-68975f8b

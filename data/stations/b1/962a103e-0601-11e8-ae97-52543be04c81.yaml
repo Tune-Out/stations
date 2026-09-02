@@ -34,3 +34,10 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-962a103e-0601-11e8-ae97-52543be04c81
+  - iprd-de-spreeradio-love-105-5-de649ed1
+streams:
+  - url: 'http://stream.spreeradio.de/spree-love/mp3-128/radio-browser.info/'
+    codec: MP3
+  - url: 'http://rtlberlin.streamabc.net/rtlb-spreeradio80slove-mp3-128-2264136?sABC=61p1r862%230%23480403531qsn3q883o6q243r435924np%23enqvb-oebjfre.vasb&amsparams=playerid:radio-browser.info;skey:1640097890'
+    codec: MP3
+    bitrate: 128

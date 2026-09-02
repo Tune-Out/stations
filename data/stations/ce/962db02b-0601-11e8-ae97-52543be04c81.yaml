@@ -34,3 +34,11 @@ curation: -0.05
 provenance:
   - radiobrowser-962db02b-0601-11e8-ae97-52543be04c81
   - iprd-cl-radio-carnaval-vi-a-del-mar-98-1-181cd454
+  - radiobrowser-834c8c21-342f-490a-966b-3a15c1f0e0db
+streams:
+  - url: 'http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac'
+    codec: MP3
+    bitrate: 128

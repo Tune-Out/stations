@@ -1,8 +1,8 @@
 stationuuid: 05268b3b-2f57-4061-a619-5fd35e0f6971
-name: Polskie Radio Program 3
+name: Polskie Radio Trójka
 url: http://stream3.polskieradio.pl:8954/;.mp3
 url_resolved: http://stream3.polskieradio.pl:8954/;.mp3
-homepage: https://www.polskieradio.pl/9,Trojka
+homepage: https://trojka.polskieradio.pl/
 favicon: https://trojka.polskieradio.pl/assets/favicon-32x32.png
 tags: []
 country: Poland
@@ -22,15 +22,16 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Polskie Radio (Polish public radio company)
+  operator: Polskie Radio S.A.
   affiliations: Polish public broadcaster
-  audience: Polish-speaking listeners; national reach
-  format: Program 3 (Trojka) is the cultural/alternative program station; general music, arts, cultural programming
-  notes: Part of Polskie Radio network; "Trojka" is the artistic/alternative channel
-  sources: https://www.polskieradio.pl/9,Trojka
-curation: 0.55
+  audience: Polish listeners nationwide
+  format: 'Music and culture: rock, alternative, jazz, talk'
+  notes: Polskie Radio Program III (Trójka) is the music and culture channel of Polish public broadcaster Polskie Radio, on air since 1 April 1962 and long known for rock, alternative and jazz programming and its Lista Przebojów chart. In 2020 a chart-manipulation scandal triggered the resignation of almost all of its journalists, many of whom founded Radio 357 and Radio Nowy Świat, and Trójka's audience fell from around 8% to under 2%. The stream on this entry (stream3.polskieradio.pl:8954) no longer responds; the catalog's higher-voted Trojka entry covers the same channel.
+  sources: https://en.wikipedia.org/wiki/Polskie_Radio_Program_III; https://www.polskieradio.pl/9,Trojka
+curation: 0.20
+duplicate_of: 964aa3f1-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-05268b3b-2f57-4061-a619-5fd35e0f6971
   - iprd-pl-polskie-radio-program-3-8f83bd67

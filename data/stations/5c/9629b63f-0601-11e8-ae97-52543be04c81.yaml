@@ -35,3 +35,10 @@ curation: -0.05
 provenance:
   - radiobrowser-9629b63f-0601-11e8-ae97-52543be04c81
   - iprd-it-radio-gamma-92-5-5a56c284
+  - radiobrowser-99c2131e-abfc-4e87-9205-9e7278a5f424
+  - iprd-it-radio-gamma-840132f7
+streams:
+  - url: 'http://onair18.xdevel.com:8210/;stream.aac'
+    codec: MP3
+  - url: 'http://onair18.xdevel.com:8210/'
+    codec: MP3

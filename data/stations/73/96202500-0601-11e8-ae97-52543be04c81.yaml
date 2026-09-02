@@ -24,15 +24,15 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: News UK (a subsidiary of News Corp, owned by the Murdoch family)
-  affiliations: Brand-licensed from Virgin Group; no political/religious affiliation, though parent News Corp owns The Times, The Sun and TalkSport
-  audience: UK-wide adults 25-44, music and entertainment listeners
-  format: Contemporary hit radio / hot adult contemporary with personality-led breakfast and drive shows
-  notes: Virgin Radio UK was originally launched in 1993 by Richard Branson's Virgin Group as the UK's first national commercial rock music station; it was sold to SMG (Scottish Media Group) in 2000 and then renamed Absolute Radio in 2008 after being sold to Times of India group, with the Virgin brand returning in 2016 when News UK relaunched Virgin Radio as a digital-only national station; flagship programme is "The Chris Evans Breakfast Show with Sky", which Evans brought from BBC Radio 2 in 2019. Broadcasts on DAB+, online, and via Sky/Freesat.
-  sources: internal knowledge only
-curation: -0.05
+  operator: News Broadcasting (News Corp / Wireless Group)
+  affiliations: Virgin Group brand licence; sister to talkSPORT, Times Radio and Talk
+  audience: UK adults 25-54, nationwide via DAB+ and online (UK-only stream)
+  format: Hot adult contemporary with personality-led breakfast (Chris Evans) and daytime shows
+  notes: 'Virgin Radio UK is a national commercial station launched on 30 March 2016 by Wireless Group, now News Broadcasting, a subsidiary of News Corp, under licence of the Virgin brand; the original Virgin Radio (1993-2008) became Absolute Radio. Its hot-AC format is fronted by The Chris Evans Breakfast Show, which moved from BBC Radio 2 in January 2019, and it reaches about 1.9 million weekly listeners (RAJAR, April 2026). It broadcasts on DAB+ via the Sound Digital multiplex, on Sky and Freesat, and online through the Virgin Radio app, with spin-offs Virgin Radio 80s, 90s (launched March 2026), Chilled and Legends. The live stream is geo-restricted: listeners outside the UK receive a barker message instead of programming, and the plain http stream URL in the catalog now returns 404.'
+  sources: https://en.wikipedia.org/wiki/Virgin_Radio_UK; https://virginradio.co.uk/
+curation: 0.15
 provenance:
   - radiobrowser-96202500-0601-11e8-ae97-52543be04c81
   - iprd-gb-virgin-radio-b99a7333

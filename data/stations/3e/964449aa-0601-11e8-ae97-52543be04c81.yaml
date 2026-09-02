@@ -37,3 +37,11 @@ provenance:
   - radiobrowser-964449aa-0601-11e8-ae97-52543be04c81
   - iprd-de-landeswelle-deutsch-11714ac2
   - iprd-de-landeswelle-deutsch-e55a93cc
+  - radiobrowser-900ea13d-ee64-48f0-b442-08b20430c599
+streams:
+  - url: 'http://stream.landeswelle.de/lwde/mp3-192/rin/'
+    url_resolved: 'https://edge19.streamonkey.net/landeswelle-deutsch?aggregator=rewrite/mp3-192/rin/'
+    codec: AAC
+  - url: 'http://stream.landeswelle.de/lwde/mp3-192'
+    url_resolved: 'https://edge83.streamonkey.net/landeswelle-deutsch?aggregator=rewrite/mp3-192'
+    codec: AAC

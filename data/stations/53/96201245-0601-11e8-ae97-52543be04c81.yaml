@@ -24,15 +24,15 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: non-commercial
-  operator: Independent — site powered by Left Edge Media; specific ownership not publicly disclosed
+  operator: Independent London operation (now closed)
   affiliations: none known
-  audience: London-based and global soul/funk/disco music enthusiasts; English-language adults
-  format: Curated soul, funk, disco, and jazz programming with named presenter shows including "Friday Floor Fillers" (Don Watson), "The Soul Sessions" (Martin Shaw), "The Retro Soul & Funk Show" (Neil Winter), "The Soul Lounge" (Andy Heavens), and "The Jump Up Session" (Ray Saber)
-  notes: Online-only station based in London; self-describes as "The best Soul Music radio station in London, UK" broadcasting "24 hours a day across London, the UK, Europe and the rest of the world"; commercial-free model relies on listener support to "keep Retro Soul Radio on the air... SOUNDING the way it has always been intended"; weekend-led schedule rather than 24/7 live programming.
-  sources: http://www.retrosoulradio.co.uk/, internal knowledge
-curation: 0.75
+  audience: Former UK and international soul, funk and disco listeners
+  format: Soul, funk, disco and jazz with presenter-led shows (ceased)
+  notes: 'Retro Soul Radio has closed. Its homepage now carries only a farewell notice: ''After 16 incredible years on the air, it is with great sadness that we announce the closure of our radio station Retro Soul Radio,'' thanking presenters and listeners. The station was a London-based, commercial-free online soul, funk, disco and jazz service supported by listener contributions, with a weekend-led schedule of named presenter shows such as ''Friday Floor Fillers'' and ''The Soul Sessions''. Both catalogued streams are dead: the direct Icecast feed on 46.28.49.164 does not connect and the Galaxy Web Solutions mirror returns HTTP 502. Schedule and player pages have been removed from the site.'
+  sources: http://www.retrosoulradio.co.uk/; http://46.28.49.164:7504/stream; https://streaming.galaxywebsolutions.com/stream/retrosoul
+curation: -0.30
 provenance:
   - radiobrowser-96201245-0601-11e8-ae97-52543be04c81
   - iprd-gb-retro-soul-radio-e9914dae

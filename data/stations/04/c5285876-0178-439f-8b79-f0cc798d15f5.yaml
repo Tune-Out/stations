@@ -24,14 +24,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pl/pl.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: formerly independent Polish broadcaster
+  affiliations: ''
+  audience: Polish alternative/electronic music fans (formerly)
+  format: Alternative/electronic/rock
+  notes: 'Radiospacja was an independent Polish internet radio station playing alternative, electronic and rock music. Its former domain radiospacja.pl now redirects to an unrelated generic content/blog site rather than the radio station, and its listed Airtime.pro stream did not respond, both indicating the station has gone offline. Editorial note: appears to be defunct as of 2026-09-02.'
+  sources: https://radiospacja.pl
+curation: -0.30
 provenance:
   - iprd-pl-radiospacja-3fa84d41

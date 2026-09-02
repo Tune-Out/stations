@@ -35,3 +35,10 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-5c721e6a-abe9-40db-ac03-a18d81b62d70
+  - radiobrowser-858a91a9-0a0d-4bb8-bdc8-53a220c0bb4f
+streams:
+  - url: 'https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://stream.rcs.revma.com/488kt4sbv4uvv'
+    codec: AAC

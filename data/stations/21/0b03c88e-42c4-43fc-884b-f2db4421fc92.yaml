@@ -35,3 +35,12 @@ curation: -0.05
 provenance:
   - radiobrowser-0b03c88e-42c4-43fc-884b-f2db4421fc92
   - iprd-cz-radio-bonton-104-9-26a7e700
+  - radiobrowser-1bbe1a17-ce95-431f-a113-e8887ebb5326
+streams:
+  - url: 'http://ice.actve.net/fm-bonton-128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182'
+    url_resolved: 'https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182'
+    codec: AAC+
+    bitrate: 64

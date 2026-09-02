@@ -34,3 +34,9 @@ curation: 0.35
 provenance:
   - radiobrowser-a4078a11-4b8b-44be-affd-a04ca0319559
   - iprd-it-radio-spore-543e0fc6
+  - radiobrowser-fcac861e-1980-41ae-a2f3-fdf939bac532
+streams:
+  - url: 'https://stream.radiospore.oziosi.org:8003/spore.ogg'
+    codec: OGG
+  - url: 'http://upstream.radiospore.oziosi.org:8000/spore_LQ.ogg'
+    codec: OGG

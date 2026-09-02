@@ -24,15 +24,23 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Luminous Radio (Roman Catholic media ministry, India)
-  affiliations: Roman Catholic Church; partnership with Vatican Media
+  reviewed_at: 2026-09-02
+  nature: religious
+  operator: Luminous Radio, Kerala
+  affiliations: Roman Catholic; carries Vatican Media content
   audience: Indian Catholics, particularly Malayalam-speaking communities in Kerala and the global Indian Catholic diaspora
   format: Catholic devotional and talk programming — daily gospel reflections, Catholic news, prayer, liturgy, Vatican/papal coverage; multilingual (Malayalam, English, Hindi, Tamil, Urdu) streams
-  notes: Internet-based Catholic radio established around 2005, headquartered in Kerala; tagline "A Beacon In The Darkness"; emphasises "Daily nourishment from the Word of God to guide your life and deepen your faith"; carries Vatican Media content including papal audiences, Medjugorje pilgrimage coverage, and missionary news; accepts listener prayer intentions and offers multiple language-specific streams.
+  notes: Luminous Radio is an internet Catholic broadcaster headquartered in Kerala, India, on air since roughly 2005 under the tagline "A Beacon In The Darkness". It runs devotional and talk programming — daily gospel reflections, prayer, liturgy, Catholic news and Vatican Media content including papal audiences — across separate Malayalam, English, Hindi, Tamil and Urdu streams. Its audience is Malayali Catholics in Kerala and the Indian Catholic diaspora.
   sources: http://www.luminousradio.com/
-curation: 0.5
+curation: 0.29
 provenance:
   - radiobrowser-96249384-0601-11e8-ae97-52543be04c81
   - iprd-in-luminous-radio-24fc0425
+  - radiobrowser-82e7ab5e-fcc7-42e6-b81c-cc514f1a5b75
+streams:
+  - url: 'http://192.111.140.6:8546/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://patmos.cdnstream.com/proxy/luminous/?mp=/stream'
+    codec: MP3
+    bitrate: 128

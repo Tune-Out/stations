@@ -35,10 +35,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-a88893f7-62c7-4748-b43c-2cf03c56e399
+  - radiobrowser-bb7f1079-8d43-49f1-b15a-f68c1e4896ad
 streams:
   - url: http://icast.connectmedia.hu/5116/live.mp3/;
     codec: MP3
   - url: http://icast.connectmedia.hu/5111/live.mp3/;
     codec: MP3
   - url: http://icast.connectmedia.hu/5112/live.mp3/;
+    codec: MP3
+  - url: 'https://icast.connectmedia.hu/5116/live.mp3'
     codec: MP3

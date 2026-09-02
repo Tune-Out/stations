@@ -33,3 +33,11 @@ curation: -0.05
 provenance:
   - radiobrowser-1447d520-cc3f-4ba5-a843-480bd17105fa
   - iprd-pl-eska-bydgoszcz-7bc1b3c1
+  - radiobrowser-b4cb99ec-d1f0-4778-aba9-86e2edc45942
+streams:
+  - url: 'https://radio.stream.smcdn.pl/icradio-p/2030-2.aac/playlist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://ic2.smcdn.pl/2030-1.mp3'
+    codec: MP3
+    bitrate: 128

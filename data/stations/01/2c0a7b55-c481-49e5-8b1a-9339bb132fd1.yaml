@@ -31,3 +31,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-2c0a7b55-c481-49e5-8b1a-9339bb132fd1
+  - radiobrowser-bf106bfa-4b34-4b50-9955-f7a36d76c0da
+streams:
+  - url: 'https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8'
+    codec: AAC
+    bitrate: 150
+    hls: true
+  - url: 'https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio'
+    codec: MP3
+    bitrate: 250

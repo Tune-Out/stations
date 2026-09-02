@@ -20,15 +20,22 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: YouRadio / Exclusive Radio (artist-specific internet radio service)
   affiliations: none known
   audience: Global internet audience; Pet Shop Boys fans
   format: Exclusively Pet Shop Boys — dedicated station featuring all Pet Shop Boys music
-  notes: Exclusive Radio is an internet radio service that offers dedicated channels for specific artists. The Pet Shop Boys channel streams Pet Shop Boys music exclusively. Service operates from various hosting locations (Netherlands-based infrastructure visible).
-  sources: internal knowledge only
-curation: -0.05
+  notes: Exclusively Pet Shop Boys is a single-artist channel from the Exclusive Radio / YouRadio network, streaming only Pet Shop Boys music continuously.
+  sources: https://exclusive.radio/
+curation: 0.02
 provenance:
   - radiobrowser-c374fc26-5b40-4384-ae0e-1e5ebf038edc
   - iprd-ae-pet-shop-boys-168d30e9
+  - iprd-ae-pet-shop-boys-hits-59605e18
+streams:
+  - url: 'https://streaming.exclusive.radio/er/petshopboys/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/er/petshopboys/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.exclusive.radio/er/petshopboyshits/icecast.audio'
+    bitrate: 128

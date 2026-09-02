@@ -24,15 +24,15 @@ clickcount: 41
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: 101.ru (Russian online radio platform)
-  affiliations: none known
-  audience: Russian speakers, nostalgia listeners, 1980s-1990s music enthusiasts
-  format: 1980s and 1990s era music, disco, dance, pop; Russian and international hits from Soviet and post-Soviet era.
-  notes: Russian online radio channel on 101.ru platform; specializes in 1980s-1990s nostalgia programming; named after Soviet-era disco culture; serves Russian-speaking audiences with retro music.
-  sources: internal knowledge only
-curation: -0.05
+  operator: OOO GPM Radio (Gazprom-Media) via 101.ru
+  affiliations: Gazprom-Media Holding
+  audience: Russian Soviet-era pop nostalgia listeners
+  format: Automated Soviet 1980s pop and dance
+  notes: Diskoteka SSSR is an automated nostalgia channel on 101.ru, the online radio platform of OOO GPM Radio, the radio arm of Gazprom-Media (owner of Avtoradio, Comedy Radio, Yumor FM and Relax FM). The channel plays Soviet-era pop and synth-pop dance hits by acts such as Laskovy May, Roman Zhukov and Igor Talkov. It has no presenters or original programming. The catalog's stream URL on pub0302.101.ru carries an expired JWT token and no longer resolves; the channel is still live via other 101.ru edge hosts (for example http://ic4.101.ru:8000/stream/pro/aac/64/144).
+  sources: https://101.ru/radio/channel/144
+curation: -0.01
 provenance:
   - radiobrowser-f796d445-4314-4eb6-a09d-bcac5d474661
   - iprd-ru-diskoteka-sssr-81d71920

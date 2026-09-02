@@ -34,3 +34,12 @@ curation: -0.05
 provenance:
   - radiobrowser-835c47a0-2326-410c-8782-6a2c453a7497
   - iprd-sa-mbc-fm-102-0-1fc7115c
+  - radiobrowser-e65cfca0-dfe3-4378-a602-b1416158669d
+streams:
+  - url: 'https://mbcfm-radio.mbc.net/mbcfm-radio.m3u8'
+    codec: AAC+
+    bitrate: 70
+    hls: true
+  - url: 'https://mbcfm-radio.mbc.net/mbcfm-radio_1.m3u8'
+    codec: UNKNOWN
+    hls: true

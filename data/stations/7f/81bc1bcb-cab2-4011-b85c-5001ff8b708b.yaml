@@ -35,3 +35,11 @@ curation: 0.2
 provenance:
   - radiobrowser-81bc1bcb-cab2-4011-b85c-5001ff8b708b
   - iprd-fr-o-i-fm-alternatif-09d43b41
+  - radiobrowser-608f5b56-8591-42d1-9b6b-e6c4a09784e4
+streams:
+  - url: 'https://ouifm2.ice.infomaniak.ch/ouifm2.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ouifm2.ice.infomaniak.ch/ouifm2.aac'
+    codec: AAC+
+    bitrate: 64

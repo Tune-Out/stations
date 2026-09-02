@@ -34,3 +34,13 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-960c1970-0601-11e8-ae97-52543be04c81
+  - radiobrowser-fe271ac5-e0dc-47c2-869d-a394eae468d9
+  - iprd-de-radio-fritz-2945a9d7
+streams:
+  - url: 'http://www.fritz.de/live.m3u'
+    url_resolved: 'http://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid'
+    codec: MP3
+    bitrate: 128

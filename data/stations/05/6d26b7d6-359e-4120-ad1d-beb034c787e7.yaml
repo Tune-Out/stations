@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/au/au.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Nova Entertainment (for Coles supermarkets)
+  affiliations: Coles Group
+  audience: Coles in-store shoppers
+  format: Background/retail music
+  notes: Coles Radio is an in-store background-music audio service for Coles supermarkets in Australia, operated by Nova Entertainment on behalf of the retailer for the Western Australia region; it is branded corporate background music rather than an editorially curated public radio station. A matching, higher-voted catalog entry for the same feed already exists.
+  sources: https://www.coles.com.au
+curation: -0.10
 provenance:
   - iprd-au-coles-radio-wa-9cbeca00

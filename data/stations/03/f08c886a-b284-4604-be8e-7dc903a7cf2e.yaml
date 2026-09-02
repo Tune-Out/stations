@@ -1,5 +1,5 @@
 stationuuid: f08c886a-b284-4604-be8e-7dc903a7cf2e
-name: WOAI 1200 Talk Radio
+name: 1200 WOAI Talk Radio
 url: https://n11b-e2.revma.ihrhls.com/zc2361/hls.m3u8?rj-ttl=5&rj-tok=AAABfdqAEHwAAzIYcLihziCcIA
 url_resolved: https://n11b-e2.revma.ihrhls.com/zc2361/hls.m3u8?rj-ttl=5&rj-tok=AAABfdqAEHwAAzIYcLihziCcIA
 homepage: https://i.ytimg.com
@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: iHeartMedia
+  affiliations: iHeartRadio
+  audience: San Antonio, South Texas
+  format: News/talk
+  notes: WOAI (1200 AM) is a historic clear-channel news/talk station in San Antonio, Texas, on air since 1922 and long affiliated with NBC radio before shifting to talk; now owned by iHeartMedia, it remains a heritage news/talk voice for South Texas with strong local identity beyond generic hit-rotation formats.
+  sources: 'IPRD: streams/us/us.m3u; https://i.iheart.com'
+curation: 0.25
+duplicate_of: dcf182c8-2c72-412d-9fab-e19f8dca379f
 provenance:
   - iprd-us-woai-1200-talk-radio-70840041

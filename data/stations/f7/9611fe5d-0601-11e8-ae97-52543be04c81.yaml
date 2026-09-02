@@ -35,3 +35,12 @@ curation: -0.05
 provenance:
   - radiobrowser-9611fe5d-0601-11e8-ae97-52543be04c81
   - iprd-it-lolli-radio-soft-be824cbf
+  - radiobrowser-aa49dda8-472b-419c-8359-ab36ce29d7b2
+streams:
+  - url: 'http://www.lolliradio.net/streaming/soft.asx'
+    url_resolved: 'https://stream.lolliradio.net/lolli_soft.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://soft.lolliradio.net:8040/'
+    codec: MP3
+    bitrate: 128

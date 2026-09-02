@@ -36,3 +36,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-193170ab-85e5-11e8-aa66-52543be04c81
+  - radiobrowser-9e18c1d8-d3a5-4343-b885-a6638179eb7b
+  - iprd-us-cathedral-xiii-0d575a48
+streams:
+  - url: 'http://listen.shoutcast.com/cathedralxiii'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://usa15.fastcast4u.com/proxy/tstamate?mp=/stream&DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzI1MDk4NywiaXNzIjoidGlzcnYif'
+    codec: MP3
+    bitrate: 192

@@ -21,14 +21,14 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: AIR (All India Radio), India's state-owned national broadcasting corporation
-  affiliations: Ministry of Information and Broadcasting (Government of India); public broadcaster
-  audience: Hyderabad metro and surrounding Telangana region; Hindi and English language
-  format: Vividh Bharati (diverse music, entertainment, cultural programming); popular film songs, folk, classical and light music
-  notes: Vividh Bharati is one of All India Radio's (AIR) main national channels, delivering popular entertainment programming including Bollywood film music, Indian classical music, folk traditions and light entertainment. This particular listing is the 102.8 MHz FM transmission for Hyderabad, a major metro in Telangana state in southern India. AIR is India's national public broadcaster, established in 1936 and currently operated under the Ministry of Information and Broadcasting, Government of India. Vividh Bharati (meaning "Diverse India") launched nationally in 1957 and is one of AIR's most popular channels, reaching tens of millions of listeners across India. Streams via Akamai CDN (bitgravity.com) at HLS format (95 kbps AAC). AIR is funded through government budget and radio licence fees.
-  sources: Internal knowledge of All India Radio network; air.pc.cdn.bitgravity.com CDN
-curation: 0.5
+  operator: All India Radio (Prasar Bharati)
+  affiliations: Prasar Bharati, statutory autonomous public broadcaster of India
+  audience: Hyderabad and Telangana listeners; Hindi/Telugu film-music audiences
+  format: Film music, retro song programmes, radio plays and light entertainment
+  notes: Vividh Bharati is the popular-entertainment service of All India Radio (Prasar Bharati, India's autonomous public broadcaster), launched 3 October 1957 and carried by around 40 regional stations; this entry is the AIR Hyderabad Vividh Bharati feed on 102.8 MHz FM. Programming is Hindi and Telugu film music, retro song shows such as Bhule Bisre Geet and Sangeet Sarita, radio plays, skits and interactive programmes for roughly 15-17 hours a day. The stream is AIR's official HLS feed on the Bitgravity CDN.
+  sources: https://en.wikipedia.org/wiki/Vividh_Bharati
+curation: 0.43
 provenance:
   - radiobrowser-c13f96f9-1b60-4da2-816c-8af0c933ada4

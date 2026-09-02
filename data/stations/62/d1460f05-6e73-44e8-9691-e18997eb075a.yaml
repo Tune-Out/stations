@@ -34,3 +34,10 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-d1460f05-6e73-44e8-9691-e18997eb075a
+  - iprd-ca-chqx-101-5-09211216
+streams:
+  - url: 'https://stream.jpbgdigital.com/CHQX/HEAAC/48k/playlist.m3u8'
+    codec: AAC+
+    bitrate: 48
+    hls: true
+  - url: 'https://stream.jpbgdigital.com/CHQX.m3u8'

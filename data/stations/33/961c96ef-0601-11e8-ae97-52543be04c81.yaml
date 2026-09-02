@@ -1,5 +1,5 @@
 stationuuid: 961c96ef-0601-11e8-ae97-52543be04c81
-name: ROCK fm
+name: ROCK FM
 url: http://nashe1.hostingradio.ru/rock-128.mp3
 url_resolved: http://nashe1.hostingradio.ru/rock-128.mp3
 homepage: http://www.rockfm.ru/
@@ -25,21 +25,29 @@ clickcount: 51
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Multimedia Holding (ЗАО «Мультимедиа Холдинг»)
-  affiliations: none known
-  audience: Russian rock and alternative music fans; ages 12 and up
-  format: Rock music radio with genre-specific channels for prog, heavy, 70s, 80s, 90s, and 2000s rock eras.
-  notes: Moscow-based commercial rock radio station on FM 95.2. Registered with Russian Federal Service for Supervision of Communications (ФС77-45878, 2011). Part of Multimedia Holding portfolio alongside companion stations НАШЕ (variety), Jazz FM, and ULTRA. Features rock-focused programming including news, interviews, podcasts (Hero of the Week, Rock Encyclopedia), live sessions (Квартирник ROCK FM), themed artist weeks, and music releases coverage. Interactive features include Telegram bot, listener messaging, contests, social media on VK, YouTube, Telegram, Dzen, Twitter.
-  sources: http://www.rockfm.ru/
+  operator: ZAO Multimedia Holding (Мультимедиа Холдинг)
+  affiliations: sister of Nashe Radio, Radio Jazz, Radio Ultra
+  audience: Russian classic-rock fans, Moscow and online
+  format: Classic and contemporary Western rock, information-music
+  notes: ROCK FM is a Moscow commercial rock station on 95.2 FM, owned by ZAO Multimedia Holding alongside Nashe Radio, Radio Jazz and Radio Ultra. It launched on 27 April 2007 as Klassicheskoye Radio, became Radio 95.2 FM in 2008 and took the Rock FM name in March 2010. The playlist is almost exclusively Western rock from the 1960s to today, roughly 80-85% classic rock of the 1970s-1990s, with programmes such as Rock Calendar, Rock City and Boris Grebenshchikov's Aeronaut, plus Kvartirnik ROCK FM live sessions. It relays to a handful of other Russian cities and via Tricolor satellite, and runs themed online sub-streams (70s, 80s, 90s, 00s, heavy, progressive).
+  sources: https://cyclowiki.org/wiki/Rock_FM; https://multimediaholding.ru/rock-95-2-fm/; https://www.rockfm.ru/
 curation: 0.3
 provenance:
   - radiobrowser-961c96ef-0601-11e8-ae97-52543be04c81
   - iprd-ru-rock-95-2-327cc62c
   - iprd-ru-rock-fm-95-2-eebe4ed9
+  - radiobrowser-243c8986-c0d6-11e8-aaf2-52543be04c81
+  - iprd-ru-rock-95-2-6974be7c
+  - radiobrowser-fd524810-7c9b-11e8-b68b-52543be04c81
+  - iprd-ru-rock-95-2-25ddca31
 streams:
   - url: http://nashe1.hostingradio.ru/rock-128.mp3
     codec: MP3
   - url: https://nashe1.hostingradio.ru:80/rock-128.mp3
+    codec: MP3
+  - url: 'http://nashe.streamr.ru/rock-128.mp3'
+    codec: MP3
+  - url: 'http://nashe2.hostingradio.ru/rock-128.mp3'
     codec: MP3

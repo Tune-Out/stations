@@ -36,3 +36,10 @@ curation: 0.35
 provenance:
   - radiobrowser-0696cc0c-114f-490c-9418-55f1593ddee1
   - iprd-de-rpr1-yoga-sounds-b9f7bc8b
+  - radiobrowser-efe250ae-3720-11e8-bb9b-52543be04c81
+  - iprd-de-rpr1-yoga-sounds-f9655117
+streams:
+  - url: 'http://streams.rpr1.de/rpr-entspannung-128-mp3'
+    codec: MP3
+  - url: 'http://streams.rpr1.de/rpr-entspannung-128-aac?usid=0-0-H-A-D-20'
+    codec: AAC

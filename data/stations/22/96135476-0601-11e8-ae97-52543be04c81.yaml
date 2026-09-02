@@ -34,3 +34,12 @@ curation: 0.4
 provenance:
   - radiobrowser-96135476-0601-11e8-ae97-52543be04c81
   - iprd-fr-generations-rap-us-20c2cc2a
+  - radiobrowser-cb484fe2-de97-4718-8c4e-171abc92b8a0
+  - iprd-fr-generations-rap-us-62b5fa53
+streams:
+  - url: 'http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac'
+    codec: AAC+
+    bitrate: 64

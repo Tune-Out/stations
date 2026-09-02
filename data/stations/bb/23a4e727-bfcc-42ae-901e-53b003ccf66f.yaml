@@ -1,5 +1,5 @@
 stationuuid: 23a4e727-bfcc-42ae-901e-53b003ccf66f
-name: Inforadio vom rbb
+name: rbb Inforadio
 url: http://opml.radiotime.com/Tune.ashx?id=s9176&partnerId=16
 url_resolved: http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/low?aggregator=tunein
 homepage: https://www.inforadio.de/livestream/index.htm
@@ -22,15 +22,16 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RBB (Rundfunk Berlin-Brandenburg) / German public broadcasting
-  affiliations: ARD (German public broadcasting consortium); public service media
-  audience: German speakers; Berlin and Brandenburg region; national German audience
-  format: News, information, current affairs, talk radio; 24/7 news programming
-  notes: Inforadio vom rbb is German public information radio operated by RBB public broadcaster (Berlin-Brandenburg). Part of ARD public broadcasting network. Provides comprehensive news and current affairs coverage. Free stream indicates public service model. Inforadio dedicated to news and information programming.
-  sources: internal knowledge only
-curation: 0.55
+  operator: Rundfunk Berlin-Brandenburg (rbb)
+  affiliations: ARD; funded by Rundfunkbeitrag
+  audience: Berlin and Brandenburg news listeners
+  format: 24-hour rolling news and information
+  notes: Inforadio is the 24-hour news and information channel of Rundfunk Berlin-Brandenburg (rbb), the ARD public broadcaster for Berlin and Brandenburg, on air since 1995 on 93.1 MHz in Berlin plus DAB+ and streaming. It runs a rolling 20-minute news wheel with headlines, regional and national reports, interviews, business, culture and sport, funded by the German licence fee. This entry's resolved URL is rbb's own low-bitrate feed via a TuneIn aggregator link; the attached stream list is polluted with unrelated third-party streams, and the higher-voted Inforadio entry is canonical.
+  sources: https://www.inforadio.de/; http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/low
+curation: 0.60
+duplicate_of: 960b77af-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-23a4e727-bfcc-42ae-901e-53b003ccf66f
   - iprd-ba-radio-bir-76a76db7

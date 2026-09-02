@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ca/ca.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: CHME-FM (community radio)
+  affiliations: ''
+  audience: Les Escoumins, Côte-Nord, Quebec
+  format: community/general
+  notes: CHME-FM 94.9 is a community radio station serving Les Escoumins on Quebec's Côte-Nord, Canada, run largely by local volunteers with news and music for the surrounding communities.
+  sources: https://centova.radioservers.biz/proxy/chmeclau/stream;audio.mp3
+curation: 0.20
 provenance:
   - iprd-ca-chme-94-9-d6a4afef

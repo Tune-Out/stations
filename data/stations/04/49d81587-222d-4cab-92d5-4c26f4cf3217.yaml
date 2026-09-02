@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/bo/bo.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: Galcom International (missionary radio)
+  affiliations: Galcom International
+  audience: Indigenous Bolivian Christian listeners
+  format: Religious/evangelical
+  notes: Radio Mosoj Chaski ("New Messenger") is a Christian evangelical radio outreach stream serving indigenous communities in Bolivia, distributed via Galcom International's shortwave/streaming missionary radio infrastructure. It is a narrow-audience religious broadcaster rather than a general-interest station.
+  sources: no web sources found beyond YAML metadata
+curation: -0.03
 provenance:
   - iprd-bo-radio-mosoj-chaski-7a65aef4

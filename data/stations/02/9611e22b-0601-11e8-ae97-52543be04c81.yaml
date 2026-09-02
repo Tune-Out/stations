@@ -34,6 +34,7 @@ curation: -0.05
 provenance:
   - radiobrowser-9611e22b-0601-11e8-ae97-52543be04c81
   - iprd-pl-trendy-radio-d1051076
+  - radiobrowser-857bb58b-61a8-4192-8426-afaeb9bb2a23
 streams:
   - url: http://stream.trendyradio.pl:8000/h
     codec: MP3
@@ -42,3 +43,6 @@ streams:
     url_resolved: http://stream.trendyradio.pl:8000/h
     codec: MP3
     bitrate: 256
+  - url: 'https://stream.trendyradio.pl/m'
+    codec: OGG
+    bitrate: 96

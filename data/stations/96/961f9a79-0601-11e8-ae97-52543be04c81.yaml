@@ -24,15 +24,15 @@ clickcount: 29
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Real FM (Athens-based private broadcaster)
-  affiliations: none known
-  audience: Greek speakers, Athens metropolitan area
-  format: news, talk, contemporary music programming
-  notes: FM 97.8 MHz Athens; established Greek commercial radio station; focus on news and conversation
-  sources: internal knowledge only
-curation: -0.05
+  operator: Real Media group, Athens
+  affiliations: Sister outlets include the Realnews weekly and the real.gr news portal
+  audience: Greek-speaking adults in Athens and nationwide online
+  format: News and talk - morning current affairs, political interviews and commentary, with some music programming
+  notes: Real FM broadcasts on 97.8 MHz in Athens and is the radio arm of the Real Media group, which also publishes the Sunday weekly Realnews and runs the real.gr news portal. Its Icecast metadata describes it plainly as "Talk Radio", and the schedule is built on morning current affairs, political interviews and commentary rather than music. It is one of the more prominent private news-talk voices in the Athens market and its programming feeds the group's print and online titles. Ownership sits with the group's publishing side rather than any broadcasting network.
+  sources: 'https://www.real.gr/ (returns 200; page body blocked to automated fetch); Icecast header check on http://netradio.live24.gr/realfm (icy-name: Real FM 97.8, icy-genre: Talk Radio, icy-url: Real.gr)'
+curation: 0.16
 provenance:
   - radiobrowser-961f9a79-0601-11e8-ae97-52543be04c81
   - iprd-gr-real-97-8-bb195a1d

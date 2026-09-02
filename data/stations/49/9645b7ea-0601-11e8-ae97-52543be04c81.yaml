@@ -35,3 +35,11 @@ curation: 0.4
 provenance:
   - radiobrowser-9645b7ea-0601-11e8-ae97-52543be04c81
   - iprd-de-monacensis-dab24d08
+  - radiobrowser-01688f4c-57e4-4063-ad9c-f55ceab9491b
+streams:
+  - url: 'http://stream.laut.fm/monacensis'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://laut.fm/monacensis'
+    codec: MP3
+    bitrate: 128

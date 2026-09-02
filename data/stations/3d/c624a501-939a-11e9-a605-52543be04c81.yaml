@@ -1,8 +1,8 @@
 stationuuid: c624a501-939a-11e9-a605-52543be04c81
-name: KUSC 91.5 Los Angeles, CA (96kbps AAC)
+name: Classical KUSC
 url: http://96.aac.pls.kusc.live/
 url_resolved: https://16603.live.streamtheworld.com/KUSCAAC96_SC
-homepage: http://www.kusc.org/
+homepage: https://www.kusc.org/
 favicon: https://upload.wikimedia.org/wikipedia/commons/e/e2/KUSC_Logo.jpg
 tags:
   - classical
@@ -24,14 +24,24 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: University of Southern California (USC) / KUSC
-  affiliations: USC (University of Southern California), public radio network
-  audience: Los Angeles and Southern California, classical music enthusiasts
-  format: Classical music, opera, chamber music, and related fine arts programming.
-  notes: KUSC 91.5 FM is a non-commercial classical music radio station operated by the University of Southern California in Los Angeles. Established to serve the Los Angeles community with fine art music programming including symphony, opera, chamber music, and related classical repertoire. KUSC maintains strong ties to USC's music school and the broader classical music community in Southern California.
-  sources: internal knowledge only
-curation: 0.55
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: University of Southern California (Classical California)
+  affiliations: Classical California network with KDFC San Francisco; founding member of American Public Radio
+  audience: Classical listeners across Los Angeles and Southern California
+  format: Classical music with hosted daytime programming, opera and concert broadcasts
+  notes: KUSC 91.5 FM is a non-commercial classical public radio station owned by the University of Southern California, on the air since 1946 and full-time classical since 1973. It is one of the most-listened-to classical stations in the United States and relays across Southern California via KDSC, KDB, KPSC and KESC. Since February 2026 it shares unified programming with San Francisco sister station KDFC under the Classical California brand.
+  sources: https://en.wikipedia.org/wiki/KUSC; https://www.kusc.org/
+curation: 0.75
 provenance:
   - radiobrowser-c624a501-939a-11e9-a605-52543be04c81
+  - radiobrowser-19e862e9-6e08-432a-b680-12556221d72b
+streams:
+  - url: 'http://96.aac.pls.kusc.live/'
+    url_resolved: 'https://16603.live.streamtheworld.com/KUSCAAC96_SC'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3'
+    url_resolved: 'https://16603.live.streamtheworld.com:443/KUSCMP256.mp3'
+    codec: MP3
+    bitrate: 256

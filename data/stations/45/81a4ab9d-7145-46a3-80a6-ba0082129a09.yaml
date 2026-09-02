@@ -33,3 +33,12 @@ curation: 0.55
 provenance:
   - radiobrowser-81a4ab9d-7145-46a3-80a6-ba0082129a09
   - iprd-in-air-coimbatore-999-81fb114d
+  - radiobrowser-a18a9640-24dd-43c1-99c8-f1a4ce30467e
+streams:
+  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8'
+    codec: AAC
+    bitrate: 119
+    hls: true
+  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true

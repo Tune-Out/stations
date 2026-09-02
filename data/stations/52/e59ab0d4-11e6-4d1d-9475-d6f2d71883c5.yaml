@@ -35,3 +35,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-e59ab0d4-11e6-4d1d-9475-d6f2d71883c5
+  - radiobrowser-28343ff5-b885-4a71-8b55-b4545686b500
+streams:
+  - url: 'http://200.3.249.91:8000/abcradio/fm.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://media.streambrothers.com:8350/stream'
+    codec: MP3
+    bitrate: 128

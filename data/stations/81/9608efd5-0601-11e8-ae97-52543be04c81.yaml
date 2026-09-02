@@ -35,6 +35,7 @@ curation: 0.4
 provenance:
   - radiobrowser-9608efd5-0601-11e8-ae97-52543be04c81
   - iprd-ch-rts-premi-re-f74837b8
+  - radiobrowser-2b9f1cb3-508a-11e8-a4d1-52543be04c81
 streams:
   - url: https://stream.srg-ssr.ch/m/la-1ere/aacp_96
     codec: AAC
@@ -42,3 +43,7 @@ streams:
   - url: http://stream.srg-ssr.ch/m/la-1ere/mp3_128
     codec: MP3
     bitrate: 128
+  - url: 'http://stream.srg-ssr.ch/la-1ere/aacp_32.m3u'
+    url_resolved: 'http://stream.srg-ssr.ch/srgssr/la-1ere/aac/48'
+    codec: AAC
+    bitrate: 48

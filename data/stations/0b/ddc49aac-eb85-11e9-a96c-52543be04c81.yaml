@@ -36,3 +36,12 @@ curation: 0.55
 provenance:
   - radiobrowser-ddc49aac-eb85-11e9-a96c-52543be04c81
   - iprd-fr-fip-rock-a27aa976
+  - radiobrowser-772e7995-965f-4d52-81bc-0a77af640a6a
+  - iprd-fr-fip-rock-6695b79b
+streams:
+  - url: 'http://icecast.radiofrance.fr/fiprock-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://radio-metadata.fr:8000/fiprock'
+    codec: AAC
+    bitrate: 192

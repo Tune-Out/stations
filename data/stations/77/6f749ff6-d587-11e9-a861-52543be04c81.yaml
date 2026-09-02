@@ -33,3 +33,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-6f749ff6-d587-11e9-a861-52543be04c81
+  - radiobrowser-0281ef6c-6f42-11e8-83fa-52543be04c81
+streams:
+  - url: 'http://netcast.kfjc.org/kfjc-128k-mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://aac.kfjc.org/listen.pls'
+    codec: AAC+
+    bitrate: 192

@@ -34,3 +34,19 @@ research:
 curation: 0.45
 provenance:
   - radiobrowser-9618e7a0-0601-11e8-ae97-52543be04c81
+  - radiobrowser-31691688-2a1a-4fea-b67c-ac94980c4c74
+  - iprd-pt-radio-renascenca-9f0c0633
+  - radiobrowser-981f822f-198c-490f-a635-5489d9708765
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/RADIO_RENASCENCA.pls'
+    url_resolved: 'http://25633.live.streamtheworld.com:80/RADIO_RENASCENCA_SC'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC.aac'
+    url_resolved: 'https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3'
+    url_resolved: 'http://27783.live.streamtheworld.com:80/RADIO_RENASCENCA.mp3'
+    codec: MP3
+    bitrate: 64

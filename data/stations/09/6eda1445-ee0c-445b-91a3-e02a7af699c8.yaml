@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/at/at.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Radio Echo Plus 95.7 is a small Austrian commercial station playing hits, oldies and rock. Its stream24.net relay refused connection and its own echo-plus.at homepage was also unreachable during checks, though the station's branded domain and logo assets exist.
+  sources: 'catalog metadata (IPRD: streams/at/at.m3u)'
+curation: 0.03
 provenance:
   - iprd-at-radio-echo-plus-95-7-ea2b82fc

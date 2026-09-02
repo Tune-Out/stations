@@ -22,22 +22,27 @@ clickcount: 12
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Vyberi Radio (Выбери Радио) group, a major Russian private radio holding (formerly part of Krutoy Media / European Media Group prior to 2022 restructuring)
-  affiliations: Commercial Russian broadcaster operating under Roskomnadzor licence; no overt political party ties but subject to Russian state media regulation
-  audience: Adult Russian listeners 30–55 in Moscow and 50+ regional cities; AC/soft-rock pop format
-  format: Adult contemporary — Russian and Western pop/rock hits of the 1980s–2000s with light talk; tagline "Радио для тех, кто думает" ("radio for those who think")
-  notes: Founded 7 June 1999 by Steve Edwards and others, "Радио 7 на семи холмах" (Radio 7 on Seven Hills) was an early Western/Russian AC station broadcasting on 104.7 FM Moscow and many regional frequencies; ownership passed through Mediahold (Mostelekom), then Russian Media Group, and as of the early 2020s sits with the Vyberi Radio holding; the seven hills nod refers to Moscow's "Seven Hills" geography paralleling Rome; programming centred on western and Russian adult pop/rock plus the long-running "На семи холмах" morning show; the station has not engaged in opposition political coverage and operates within Russian media-control constraints.
-  sources: internal knowledge only
-curation: 0.45
+  operator: European Media Group (Европейская медиагруппа, EMG)
+  affiliations: EMG radio holding; Russian commercial broadcaster under Roskomnadzor licence
+  audience: adults 30-55 in Moscow and 60+ Russian cities
+  format: 'soft adult contemporary: Russian and Western hits from the 1960s to today; slogan ''Музыка на все времена'''
+  notes: Radio 7 na semi kholmakh (Radio 7 on Seven Hills) launched on 7 June 1992 as the English-language 'Radio 7 Moscow' for expatriates, moving to 104.7 FM in 1993 and rebranding with all-Russian programming in 1995. Since 2006 it has belonged to European Media Group (EMG), which paid about EUR 43 million for it and sister stations. It broadcasts a soft AC format of Russian and Western pop from the 1960s onward under the slogan 'Music for all times', with morning and evening shows, travel features and a film-club segment, and relays in more than 60 Russian cities plus Moldova. The earlier note attributing ownership to Vyberi Radio was incorrect.
+  sources: https://ru.wikipedia.org/wiki/Радио_7_на_семи_холмах; https://radio7.ru/
+curation: 0.15
 provenance:
   - radiobrowser-e4a7e1e4-263c-11e9-a80b-52543be04c81
   - iprd-ru-radio7-104-7-34d7389f
   - iprd-ru-radio-7-na-semi-kholmakh-104-7-992eb0fc
+  - radiobrowser-6ef3c28c-0684-11e9-a80b-52543be04c81
+  - iprd-ru-radio-7-94e3677a
 streams:
   - url: http://radio7server.streamr.ru:8040/radio7256.mp3
     codec: MP3
     bitrate: 256
   - url: https://radio7server.streamr.ru:8040/radio7256.mp3
     codec: MP3
+  - url: 'http://europaplus.hostingradio.ru:8014/radiosept320.mp3'
+    codec: MP3
+    bitrate: 128

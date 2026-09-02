@@ -38,3 +38,11 @@ curation: -0.1
 provenance:
   - radiobrowser-f6c35cd5-1764-11ea-a620-52543be04c81
   - iprd-us-krushnation-09eeee20
+  - radiobrowser-4078dc4c-085a-4262-8b60-6195efa6e025
+streams:
+  - url: 'http://s2.yesstreaming.net:7183/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.live365.com/a77618'
+    codec: MP3
+    bitrate: 128

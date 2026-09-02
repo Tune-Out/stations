@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/si/si.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: Primorski val
+  affiliations: ''
+  audience: Slovenian coastal region (Koper/Primorska)
+  format: adult contemporary/pop
+  notes: Primorski val 97.2 is a regional commercial FM station serving Slovenia's coastal Primorska region around Koper. It plays adult-contemporary and pop hits with local news. The homepage is live but the listed stream endpoint is unreachable, suggesting a stale relay URL.
+  sources: http://www.primorskival.si
+curation: 0.03
 provenance:
   - iprd-si-primorski-val-97-2-bf4343a7

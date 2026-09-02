@@ -1,9 +1,9 @@
 stationuuid: 1a8e42b8-9039-48c6-b137-6650dd983392
-name: WDR2 - Ruhrgebiet
+name: WDR 2 Ruhrgebiet
 url: http://wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
 url_resolved: http://wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
-homepage: ""
-favicon: ""
+homepage: https://www1.wdr.de/radio/wdr2/
+favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WDR_2_logo_2012.svg/250px-WDR_2_logo_2012.svg.png
 tags: []
 country: Germany
 countrycode: DE
@@ -22,15 +22,15 @@ clickcount: 25
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: WDR (Westdeutscher Rundfunk)
-  affiliations: German state media (ARD member)
-  audience: Ruhr Valley region (Ruhrgebiet), western Germany, German speakers
-  format: contemporary popular music (pop, rock, urban), with entertainment and talk programming
-  notes: WDR 2 is a regional radio service operated by WDR (Westdeutscher Rundfunk), the public broadcaster for North Rhine-Westphalia. The Ruhrgebiet (Ruhr Valley) variant serves the major industrial region. Part of ARD public broadcasting network. Focuses on contemporary hit music and entertainment.
-  sources: internal knowledge only
-curation: 0.55
+  operator: Westdeutscher Rundfunk (WDR), Cologne
+  affiliations: ARD public broadcasting federation
+  audience: Adults in the Ruhr region and North Rhine-Westphalia
+  format: Adult contemporary pop/rock with regional news, information and sport
+  notes: WDR 2 is the adult-contemporary and information channel of Westdeutscher Rundfunk, the ARD public broadcaster for North Rhine-Westphalia, tracing its origins to NWDR UKW West on 30 April 1950. It reaches about 3.4 million listeners a day and is WDR's sports channel, producing live Bundesliga coverage carried by up to 20 ARD stations. The Ruhrgebiet edition (99.2 MHz Rhine-Ruhr) inserts regional news and traffic for the Ruhr conurbation into the shared statewide programme; the stream now redirects to ARD's rndfnk CDN.
+  sources: https://en.wikipedia.org/wiki/WDR_2; https://www1.wdr.de/radio/wdr2/
+curation: 0.50
 provenance:
   - radiobrowser-1a8e42b8-9039-48c6-b137-6650dd983392
   - iprd-de-wdr2-ruhrgebiet-97c97de1

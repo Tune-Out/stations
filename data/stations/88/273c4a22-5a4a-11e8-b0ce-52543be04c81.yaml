@@ -23,15 +23,15 @@ clickcount: 216
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: FnF.FM (independent online radio network; operator identity not publicly disclosed)
-  affiliations: none known (no religious, governmental, or political ties)
-  audience: Hindi-speaking listeners worldwide, particularly Indian diaspora and Bollywood film music fans
-  format: Bollywood/Hindi film music — mix of contemporary hits and classic playback songs
-  notes: part of a multi-stream FnF.FM network that also offers Bangla, Marathi, and other South Asian language channels; offers paid song promotion and submission services for artists; internet-only station
-  sources: http://hi.fnf.fm/?m=1, internal knowledge
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: FnF.FM (independent online radio network; operator undisclosed)
+  affiliations: none known
+  audience: Hindi-speaking Bollywood fans in India and the diaspora
+  format: Bollywood / Hindi film music, current hits and classics, 24/7 automated
+  notes: FnF.FM Hindi is the Hindi/Bollywood channel of FnF.FM, an independent internet-only radio network that also runs a widely listened Bangla channel and other South Asian language streams. It plays Bollywood film music around the clock, blending current chart hits with older playback classics, mostly automated with occasional talk segments. The operator is not publicly identified; the network's site sells song-promotion slots to artists and the stream is hosted on a low-bitrate (64 kbps) server on OVH infrastructure. There is no terrestrial licence.
+  sources: https://hi.fnf.fm/; https://www.radioindia.in/fnffm; https://radiosindia.com/fnffmbollywood.html
+curation: 0.02
 provenance:
   - radiobrowser-273c4a22-5a4a-11e8-b0ce-52543be04c81
   - iprd-in-fnf-fm-hindi-05d92d72

@@ -34,10 +34,14 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-5fb9439d-36b1-40a4-934b-539e831fd04d
+  - radiobrowser-841c8462-9647-4cb3-a97b-4236e23eab69
 streams:
   - url: https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683305161
     codec: MP3
     bitrate: 128
   - url: https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683302387
+    codec: MP3
+    bitrate: 128
+  - url: 'http://usa10.fastcast4u.com:1680/'
     codec: MP3
     bitrate: 128

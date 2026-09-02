@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ua/ua.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Suspilne / UA:Ukrainian Radio (UR-1)
+  affiliations: Ukrainian public broadcasting (Suspilne)
+  audience: Kropyvnytskyi region, Ukraine
+  format: news/talk
+  notes: This is a regional relay of Ukrainian public radio (Suspilne/UR-1) for Kropyvnytskyi, carrying national news and talk programming. The radio.ukr.radio stream domain is part of Ukraine's public broadcasting infrastructure. It serves as a wartime and civic-information source for the region.
+  sources: http://radio.ukr.radio:8000/ur1-kr-mp3-m
+curation: 0.40
 provenance:
   - iprd-ua-kropyvnytskyi-91-2-e7d83591

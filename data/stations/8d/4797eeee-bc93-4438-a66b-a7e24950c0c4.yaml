@@ -35,3 +35,10 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-4797eeee-bc93-4438-a66b-a7e24950c0c4
+  - radiobrowser-9237b8ae-2611-11e9-a80b-52543be04c81
+  - iprd-de-radio-regenbogen-80er-6c650846
+streams:
+  - url: 'https://stream.regenbogen.de/80er/mp3-128/radiobrowser'
+    codec: MP3
+  - url: 'http://streams.regenbogen.de/rr-80er-128-mp3'
+    codec: MP3

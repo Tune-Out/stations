@@ -33,3 +33,12 @@ curation: -0.05
 provenance:
   - radiobrowser-ad8ac8fa-3b99-41cd-901b-2271c32365f1
   - iprd-pl-radio-manhattan-fbffd460
+  - radiobrowser-fff2bc0d-2615-11e8-91bf-52543be04c81
+  - iprd-pl-radio-manhattan-bf445cdc
+streams:
+  - url: 'http://s1.slotex.pl:7780/stream'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://s1.slotex.pl:7780/'
+    codec: AAC+
+    bitrate: 96

@@ -31,3 +31,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-493d12e3-89f7-4ca8-8057-d34cfec2d615
+  - radiobrowser-d9a6c6e6-3a50-4b26-9852-79f32c549ab0
+streams:
+  - url: 'https://de3.amfmph.com:2199/tunein/fmrtacloban-stream.pls'
+    url_resolved: 'http://62.138.18.102:8676/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://us2.amfmph.com:2199/tunein/fmrtacloban-stream.pls'
+    url_resolved: 'http://148.72.153.65:9192/stream'
+    codec: AAC+
+    bitrate: 64

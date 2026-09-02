@@ -33,3 +33,11 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-bf8d199f-e158-4205-bd1d-7cec0b8158aa
+  - radiobrowser-b2bcbf16-b180-45a8-afd4-ab77edfc284e
+streams:
+  - url: 'https://dc4.serverse.com/proxy/pearlfm/stream/1/'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://dc4.serverse.com/proxy/pearlfm/stream'
+    codec: MP3
+    bitrate: 96

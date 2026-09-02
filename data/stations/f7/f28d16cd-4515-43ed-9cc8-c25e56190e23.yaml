@@ -23,20 +23,25 @@ clickcount: 29
 geo_lat: 37.977113045155235
 geo_long: 23.733215332031257
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Pepper 96.6 (Athens-based)
   affiliations: none known
   audience: Greek speakers, Athens metropolitan area
   format: easy listening, smooth music, contemporary hits
-  notes: "\"Ένα ραδιόφωνο που αφουγκράζεται τον παλμό της πόλης\" (A radio that listens to the city's pulse); Athens-focused contemporary music and easy listening station on FM 96.6"
+  notes: Athens-based commercial FM station on 96.6 broadcasting smooth/easy-listening and contemporary hits with the slogan "a radio that listens to the city's pulse." Serves the Attica metropolitan audience.
   sources: https://www.pepper966.gr/
-curation: 0
+curation: 0.03
 provenance:
   - radiobrowser-f28d16cd-4515-43ed-9cc8-c25e56190e23
+  - radiobrowser-b0907d78-8536-4327-9a26-d1a2c70d464f
+  - iprd-gr-pepper-96-6-6946c201
 streams:
   - url: https://netradio.live24.gr/pepper9660?1702833223
     codec: MP3
     bitrate: 192
   - url: https://stream.radiojar.com/pepper
     codec: MP3
+  - url: 'http://pepper966.live24.gr/pepper9660'
+    codec: MP3
+    bitrate: 192

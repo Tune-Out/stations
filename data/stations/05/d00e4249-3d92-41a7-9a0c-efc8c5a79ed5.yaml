@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/gr/gr.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: Sto Kokkino network (apparent)
+  audience: Crete/regional Greece
+  format: news/talk/pop
+  notes: Mesogeios sto Kokkino 105.4 is a Cretan/regional Greek affiliate carrying programming associated with the 'Sto Kokkino' talk-radio brand (news/talk with left-leaning political commentary), alongside pop music. The RadioJar stream endpoint failed to load on repeated checks.
+  sources: https://mesogiosstokokkino.gr; stream check
+curation: 0.05
 provenance:
   - iprd-gr-mesogeios-sto-kokkino-105-4-6b7427d2

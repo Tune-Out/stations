@@ -34,6 +34,8 @@ research:
 curation: 0.6
 provenance:
   - radiobrowser-963456fb-0601-11e8-ae97-52543be04c81
+  - radiobrowser-3f965c9b-8f1e-47a8-b0c9-b51b00b711f7
+  - iprd-pl-polskie-radio-czworka-c25c05db
 streams:
   - url: http://stream3.polskieradio.pl:8956/;
     codec: AAC+
@@ -41,3 +43,7 @@ streams:
   - url: http://stream3.polskieradio.pl:8906/;stream
     codec: MP3
     bitrate: 192
+  - url: 'https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8'
+    codec: AAC
+    bitrate: 194
+    hls: true

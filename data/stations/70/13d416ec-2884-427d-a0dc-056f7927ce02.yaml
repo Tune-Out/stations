@@ -22,14 +22,14 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: MUZ.UZ (online music portal with radio)
+  operator: Unclear - stream is hosted on jethost.uz and currently identifies as Hit FM Tashkent
   affiliations: none known
-  audience: Uzbekistan, Uzbek language, music enthusiasts
-  format: Uzbek contemporary music, pop, traditional music
-  notes: Yoshlar Ovozi ("Youth Voice") is streaming from muz.uz, an Uzbek music portal offering MP3 collections, music news, artist biographies, and online radio/TV; popular platform for Uzbek music
-  sources: http://muz.uz/
-curation: -0.05
+  audience: Uzbek-speaking listeners in Tashkent and online
+  format: Uzbek and international pop music
+  notes: This entry no longer matches what it plays. The mount ns10.jethost.uz:8000/yoshlarovoziaac is live and returns audio, but its Icecast metadata identifies it as "HIT FM", described as "FM 90.8 - HIT FM (Tashkent)" with icy-url hitfm.uz - a commercial Tashkent FM station, not the Yoshlar Ovozi service the catalog names. The listed homepage muz.uz is a separate Uzbek MP3 and music-news portal that carries several web radio feeds, and it is still online. Until the name, homepage and audio are reconciled the entry is misleading, so it should not be surfaced prominently.
+  sources: 'http://muz.uz/; Icecast header check on http://ns10.jethost.uz:8000/yoshlarovoziaac (icy-name: HIT FM, icy-description: FM 90.8 - HIT FM (Tashkent), icy-url: http://hitfm.uz)'
+curation: -0.12
 provenance:
   - radiobrowser-13d416ec-2884-427d-a0dc-056f7927ce02

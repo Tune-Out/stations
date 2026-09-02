@@ -32,10 +32,14 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-75d4a047-57f6-4717-bb36-600c9f2d1ac3
+  - radiobrowser-5a2a4794-fbbc-4226-90af-39c80dd3c29b
 streams:
   - url: https://stm10.voxhd.com.br:7846/
     codec: AAC+
     bitrate: 64
   - url: https://stm10.voxhd.com.br:7846/
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stm10.voxhd.com.br:7846/;'
     codec: MP3
     bitrate: 128

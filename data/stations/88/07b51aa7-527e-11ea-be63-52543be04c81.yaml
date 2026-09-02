@@ -1,5 +1,5 @@
 stationuuid: 07b51aa7-527e-11ea-be63-52543be04c81
-name: Radio Studio Più - HQ
+name: Radio Studio Più
 url: http://77.241.4.100:8020/;
 url_resolved: http://77.241.4.100:8020/;
 homepage: https://studiopiu.net/
@@ -23,15 +23,15 @@ clickcount: 19
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Radio Studio Più S.r.l. (Italian limited-liability company)
-  affiliations: none known (independent commercial broadcaster; sister brands Studio Più Ibiza, Radio 607080, and DTM '90)
-  audience: Italian-speaking dance-music listeners, primarily in Lombardia and northern Italy; second audience among club/DJ culture
-  format: Dance music ("La Dance Station D'Italia") — house, EDM, dance-pop with DJ-led shows, club events, and podcast archive
-  notes: Long-running Italian commercial dance station headquartered in Lombardy; broadcasts on FM across multiple northern Italian provinces and via internet stream worldwide; operates spin-off brands including Studio Più Ibiza (summer/seasonal dance programming tied to the Balearic club scene) and Radio 607080 (oldies sister station); promotes live external broadcasts, club events, and listener interaction via WhatsApp; no political or religious affiliation evident.
-  sources: https://studiopiu.net/, http://studiopiu.net/studiopiu/, internal knowledge of Italian commercial radio
-curation: -0.05
+  operator: Radio Studio Più S.r.l., Lombardy, Italy
+  affiliations: sister brands Studio Più Ibiza and Radio 607080; advertising-funded
+  audience: Italian dance-music listeners, mainly in Lombardy and northern Italy
+  format: Dance — house, EDM and dance-pop with DJ shows, club events and podcasts
+  notes: Radio Studio Più is an Italian commercial dance station operated by Radio Studio Più S.r.l., branded "La Dance Station d'Italia". It broadcasts on FM across Lombardy and neighbouring northern Italian provinces and streams online with region-selectable feeds. The format is house, EDM and dance-pop with DJ-led shows, club tie-ins, live outside broadcasts and an on-demand podcast archive, and it is funded by advertising. The operator also runs the seasonal Studio Più Ibiza stream tied to the Balearic club scene and the oldies sister brand Radio 607080. The website was live and actively updated at review time, but the Shoutcast mount recorded for this entry (77.241.4.100:8020) did not serve audio, so the specific stream URL in the catalog appears stale even though the station itself is on air.
+  sources: https://studiopiu.net/; http://studiopiu.net/studiopiu/
+curation: 0.12
 provenance:
   - radiobrowser-07b51aa7-527e-11ea-be63-52543be04c81
   - iprd-it-radio-studio-pi-93-0-1e4f9b4a

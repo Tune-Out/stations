@@ -31,3 +31,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-f75cc3d3-10eb-40e3-926a-a9030eae3bba
+  - radiobrowser-1c05a63e-76a3-45ad-be21-13b1ec74bf6b
+streams:
+  - url: 'https://stream.bauermedia.sk/melody-hi.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile'
+    codec: MP3
+    bitrate: 64

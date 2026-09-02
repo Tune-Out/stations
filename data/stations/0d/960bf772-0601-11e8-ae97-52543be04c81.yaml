@@ -36,3 +36,10 @@ curation: 0.6
 provenance:
   - radiobrowser-960bf772-0601-11e8-ae97-52543be04c81
   - iprd-cz-cro-vltava-98-2-dacfbe3e
+  - radiobrowser-55e08718-a4de-49c3-958a-e8a8f4de21f6
+streams:
+  - url: 'http://icecast5.play.cz/cro3-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://amp.cesnet.cz:8443/cro3.flac'
+    codec: OGG

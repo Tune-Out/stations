@@ -1,5 +1,5 @@
 stationuuid: 962c3268-0601-11e8-ae97-52543be04c81
-name: SRo2 Rádio Regina Stred
+name: Rádio Regina Stred
 url: http://icecast.stv.livebox.sk/regina-bb_128.mp3
 url_resolved: http://icecast.stv.livebox.sk/regina-bb_128.mp3
 homepage: https://reginastred.rtvs.sk/
@@ -24,15 +24,15 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RTVS (Rozhlas a televízia Slovenska / Slovak Radio and Television)
-  affiliations: Government of Slovakia
-  audience: Central Slovakia (Banská Bystrica region); Slovak-language listeners
-  format: Regional public radio programming
-  notes: SRo2 Rádio Regina Stred is a regional station operated by RTVS, Slovakia's national public broadcaster. Serves the central Slovakia region from Banská Bystrica. Part of the RTVS network of regional public radio stations.
-  sources: internal knowledge only
-curation: 0.55
+  operator: Slovenská televízia a rozhlas (STVR), formerly RTVS
+  affiliations: Slovak public broadcaster
+  audience: Slovak listeners in the Banská Bystrica and central Slovakia regions
+  format: 'Regional public radio: news, magazines, folk and popular music'
+  notes: Rádio Regina Stred is the central-Slovakia edition of Rádio Regina, the regional network of Slovakia's public broadcaster, produced from the Banská Bystrica studio alongside sister editions in Bratislava (Západ) and Košice (Východ). It carries regional news, magazine programmes, folk and popular music for the Banská Bystrica and Žilina regions. On 1 July 2024 RTVS was replaced by the new public entity Slovenská televízia a rozhlas (STVR), and the station's homepage has moved to reginastred.stvr.sk. The catalog's "regional-mexican" tag is wrong.
+  sources: https://en.wikipedia.org/wiki/Rádio_Regina; https://reginastred.stvr.sk/
+curation: 0.52
 provenance:
   - radiobrowser-962c3268-0601-11e8-ae97-52543be04c81
   - iprd-sk-sro2-radio-regina-stred-92234a23

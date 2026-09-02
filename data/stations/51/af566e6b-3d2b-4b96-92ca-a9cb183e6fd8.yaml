@@ -27,15 +27,15 @@ clickcount: 29
 geo_lat: 35.37225482334387
 geo_long: 139.79003906250003
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Free FM (Tokyo)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Free FM World (Spain-based online network)
   affiliations: none known
-  audience: Tokyo residents and Japanese music fans
-  format: Japanese music, contemporary hits, multilingual programming
-  notes: Free FM Tokyo specializes in Japanese music; broadcasts in Japanese, English, and Spanish; Internet-based community radio
-  sources: internal knowledge only
-curation: 0.55
+  audience: Generic international 80s/90s pop listeners
+  format: Automated 80s/90s hits playlist
+  notes: '"Free FM Tokyo" is one of many country-branded clones of the Spanish-run Free FM / Free FM World online network, which lists near-identical streams as Free FM Rock Bombay, Free FM 80s Mexico, Free FM Classics and so on. The Shoutcast server behind this entry (rocafmadrid.radioca.st) identifies itself as "Free FM World", genre 80s/90s, with a freefmworld.com server URL, and was playing Desireless "Voyage Voyage" when checked; there is no Tokyo studio or Japanese programming. The freefmradio.net homepage returns 403. Directory descriptions of Tokyo news, weather and traffic are boilerplate.'
+  sources: https://rocafmadrid.radioca.st/stats?sid=1; https://radio.menu/stations/freefmradio-net-free-fm-tokyo/; https://onlineradiobox.com/jp/free/
+curation: 0.03
 provenance:
   - radiobrowser-af566e6b-3d2b-4b96-92ca-a9cb183e6fd8
   - iprd-es-free-fm-0fd0b367

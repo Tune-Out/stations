@@ -31,3 +31,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-3118034f-3149-47c3-a7e2-59618a9c9d17
+  - radiobrowser-eda5f188-318e-4246-8c83-031ace70827a
+streams:
+  - url: 'https://stream.and-stuff.nl:8443/riversideMp3'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://stream.and-stuff.nl:8443/riverside'
+    codec: OGG
+    bitrate: 2000

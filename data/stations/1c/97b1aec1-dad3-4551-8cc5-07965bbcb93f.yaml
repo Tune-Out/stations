@@ -32,3 +32,12 @@ research:
 curation: 0
 provenance:
   - radiobrowser-97b1aec1-dad3-4551-8cc5-07965bbcb93f
+  - radiobrowser-2081e30b-0ae2-4194-8c86-46f0ca7c1321
+streams:
+  - url: 'http://www.rmfon.pl/n/rmffm.pls'
+    url_resolved: 'https://rs202-krk.rmfstream.pl/rmf_fm'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://195.150.20.7/rmf_fm'
+    codec: MP3
+    bitrate: 128

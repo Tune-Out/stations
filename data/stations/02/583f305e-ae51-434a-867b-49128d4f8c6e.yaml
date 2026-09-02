@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ca/ca.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: CJUJ-FM community radio
+  affiliations: ''
+  audience: Bathurst, New Brunswick
+  format: community/general
+  notes: CJUJ-FM, branded 'Phantom 103.3,' is a licensed community radio station in Bathurst, New Brunswick, Canada. The listed relay stream via listen2myradio failed to serve audio at time of check, though the station itself is a genuine local community broadcaster.
+  sources: https://static.wikia.nocookie.net (CJUJ-FM Phantom 103.3 logo, Logopedia)
+curation: 0.15
 provenance:
   - iprd-ca-cjuj-103-3-66808925

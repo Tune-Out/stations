@@ -32,3 +32,10 @@ research:
 curation: 0
 provenance:
   - radiobrowser-392993a8-7601-4d2f-bda7-c6798406db1b
+  - radiobrowser-8cdd871a-24c3-4902-8708-071580f9763b
+  - iprd-ae-frank-sinatra-0248d230
+streams:
+  - url: 'https://2.mystreaming.net/er/franksinatra/icecast.audio'
+    codec: MP3
+  - url: 'http://streaming.exclusive.radio/er/franksinatra/icecast.audio'
+    codec: MP3

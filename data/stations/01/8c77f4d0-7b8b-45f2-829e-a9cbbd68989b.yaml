@@ -24,14 +24,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ar/ar.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Radio y Televisión Argentina (RTA) / Radio Nacional
+  affiliations: Argentine national public radio network (LRA)
+  audience: Rosario, Argentina
+  format: news/culture/sports
+  notes: Radio Nacional Rosario (LRA5) is a regional station of Argentina's national public broadcaster, Radio Nacional (Radio y Televisión Argentina), on 1300 AM in Rosario. It carries culture, news, and sports programming as part of the LRA public radio network.
+  sources: http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad5; http://cdn-sp.radionacional.com.ar
+curation: 0.45
 provenance:
   - iprd-ar-nacional-rosario-lra5-1300-938cf833

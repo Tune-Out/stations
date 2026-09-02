@@ -32,3 +32,13 @@ curation: -0.05
 provenance:
   - radiobrowser-99eab096-d331-4a4f-9f8f-5e864710d853
   - iprd-rs-radio-s3-bef3fdfc
+  - radiobrowser-8c407085-64df-11e8-b15b-52543be04c81
+  - iprd-rs-radio-s3-72db5ff0
+streams:
+  - url: 'https://53be5ef2d13aa.streamlock.net/asmedia/pingvin/playlist.m3u8'
+    codec: AAC
+    bitrate: 43
+    hls: true
+  - url: 'http://edge-rs-01.maksnet.tv/asmedia/pingvin/chunklist_w12686921.m3u8'
+    codec: UNKNOWN
+    hls: true

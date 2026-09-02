@@ -24,15 +24,15 @@ clickcount: 14
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: 181.FM, an internet radio network founded and operated by Chris Stevens, based in Waynesboro, Virginia
-  affiliations: None known (secular commercial music network)
-  audience: English-speaking adult country music fans, particularly North American listeners nostalgic for 1980s country
-  format: 1980s country music — classic country and Western artists of the decade such as George Strait, Reba McEntire, Alabama, Hank Williams Jr., Dolly Parton, Randy Travis, and the Judds
-  notes: 181.FM launched in 2003 from a basement in Waynesboro, Virginia and grew into one of the largest independent internet radio networks in the United States, offering over 70 genre-specific channels including multiple country formats (80s Country, 90s Country, Classic Country, Real Country), rock, pop, holiday, and Christian channels; ad-supported with paid commercial-free premium tier; not affiliated with any terrestrial FM broadcaster despite the "FM" in the name
-  sources: internal knowledge only
-curation: 0.3
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: 181.FM, Waynesboro, Virginia
+  affiliations: none known; independent internet radio network
+  audience: English-speaking country fans, mainly in North America
+  format: 1980s country - George Strait, Reba McEntire, Alabama, Randy Travis, the Judds and their contemporaries
+  notes: 181.FM - 80's Country is one channel of 181.FM, an independent American internet radio network run from Waynesboro, Virginia that has operated since the early 2000s and now carries well over a hundred genre streams. Despite the "FM" in the name it holds no terrestrial licence; the network is stream-only, ad-supported, and offers a paid commercial-free tier. This channel is a tight decade format built around the 1980s country canon, and it sits alongside sibling country streams such as 90's Country, Classic Country and Real Country. It is a competently programmed but automated playlist rather than a presenter-led station.
+  sources: http://www.181.fm/; stream header check on http://listen.181fm.com/181-80scountry_128k.mp3
+curation: 0.23
 provenance:
   - radiobrowser-96389fbf-0601-11e8-ae97-52543be04c81
   - iprd-us-181-fm-80-s-country-69355ca1

@@ -34,3 +34,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-cffaa527-a90a-4042-984f-68c8444f132e
+  - iprd-au-4mk-1026-13146278
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac'
+    url_resolved: 'http://14013.live.streamtheworld.com:80/MAC_4MKAAC.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac'
+    url_resolved: 'https://18433.live.streamtheworld.com:443/MAC_4MKAAC.aac'
+    codec: AAC
+    bitrate: 128

@@ -34,3 +34,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-9a91be3c-a87e-46f7-aabd-28aa49074013
+  - radiobrowser-eaaa2597-050f-4990-ac07-ca1494ea7ff2
+streams:
+  - url: 'https://audio1.energia1025.com/radio/8000/stream.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://audio1.energia1025.com:8000/;'
+    codec: MP3
+    bitrate: 96

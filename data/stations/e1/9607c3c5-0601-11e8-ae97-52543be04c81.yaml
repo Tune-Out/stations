@@ -34,10 +34,14 @@ curation: 0.5
 provenance:
   - radiobrowser-9607c3c5-0601-11e8-ae97-52543be04c81
   - iprd-fr-fr-quence-k-7af282fd
+  - radiobrowser-1d8fa3c4-d66f-4303-8979-7638c1e89643
 streams:
   - url: http://frequencek.ice.infomaniak.ch/frequencek-64.aac
     codec: AAC
     bitrate: 64
   - url: http://frequencek.ice.infomaniak.ch/frequencek-128.mp3
+    codec: MP3
+    bitrate: 192
+  - url: 'http://frequencek.ice.infomaniak.ch/frequencek-128'
     codec: MP3
     bitrate: 192

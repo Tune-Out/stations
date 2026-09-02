@@ -24,14 +24,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/de/de.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: laut.fm
+  affiliations: laut.fm platform
+  audience: 80s-pop listeners, Germany
+  format: 80s pop
+  notes: Laut.FM 80er Pop is an 80s-pop channel on the laut.fm German user-generated webradio platform. A same-format canonical entry with substantially more votes exists on the platform under a related name.
+  sources: catalog-names.tsv cross-check; stream check
+curation: 0.05
 provenance:
   - iprd-de-laut-fm-80er-pop-fc068a4d

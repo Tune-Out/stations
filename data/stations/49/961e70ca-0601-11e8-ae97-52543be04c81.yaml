@@ -1,8 +1,8 @@
 stationuuid: 961e70ca-0601-11e8-ae97-52543be04c81
-name: WRVO-3 BBC World Service Stream - Oswego, NY
+name: WRVO HD3 BBC World Service
 url: http://playerservices.streamtheworld.com/m3u/WRVOHD3.m3u
 url_resolved: http://26423.live.streamtheworld.com:3690/WRVOHD3_SC
-homepage: http://wrvo.org/
+homepage: https://www.wrvo.org/
 favicon: http://wrvo.org/apple-touch-icon.png
 tags:
   - news
@@ -23,14 +23,14 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: WRVO Public Media, a licensee of the State University of New York College at Oswego (SUNY Oswego); content originating from BBC World Service (BBC, UK public broadcaster)
-  affiliations: NPR (National Public Radio) member station; PBS Remix; BBC World Service distribution partner; State University of New York / SUNY Oswego university licensee
-  audience: Listeners in Central and Northern New York (Oswego, Syracuse, Watertown, Utica, the North Country and surrounding counties) seeking international news
-  format: 24/7 BBC World Service simulcast - global news, current-affairs documentaries, magazine programs (Newshour, World Business Report, Outlook, From Our Own Correspondent, Witness History, etc.) at low-bitrate 24 kbps for bandwidth-constrained listeners
-  notes: "WRVO-FM (89.9 MHz, Oswego/Syracuse) is the flagship of WRVO Public Media, the SUNY Oswego university public-radio network covering Central and Northern New York. It operates three HD Radio sub-channels: HD1 (NPR news/talk main service), HD2 (PRX Remix), and HD3 - this stream - which carries the BBC World Service 24/7. The BBC World Service is a part of the BBC, the UK's public-service broadcaster, funded by the UK Foreign, Commonwealth and Development Office for international audiences."
-  sources: http://wrvo.org/, internal knowledge
-curation: 0.7
+  operator: WRVO Public Media (SUNY Oswego)
+  affiliations: NPR member; BBC World Service distribution partner
+  audience: Central and Northern New York listeners seeking international news
+  format: 24/7 BBC World Service relay
+  notes: 'WRVO (89.9 FM, Oswego, New York) is the NPR member station licensed to the State University of New York at Oswego, on air since 1969 and serving Central and Northern New York. Its third HD sub-channel, offered here as a StreamTheWorld web stream, relays the BBC World Service around the clock: Newshour, World Business Report, Outlook and other BBC news and documentary programming. This is a low-bitrate US relay of the BBC service rather than original WRVO output.'
+  sources: https://en.wikipedia.org/wiki/WRVO; https://www.wrvo.org/
+curation: 0.50
 provenance:
   - radiobrowser-961e70ca-0601-11e8-ae97-52543be04c81

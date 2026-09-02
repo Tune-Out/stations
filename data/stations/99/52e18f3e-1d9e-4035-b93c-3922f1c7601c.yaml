@@ -22,15 +22,16 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: rbb (Rundfunk Berlin-Brandenburg)
-  affiliations: German public broadcasting; ARD
+  operator: Rundfunk Berlin-Brandenburg (rbb)
+  affiliations: ARD; funded by the German Rundfunkbeitrag
   audience: Berlin and Brandenburg; German speakers
-  format: Diverse; music, news, talk, cultural programming; public radio
-  notes: Radio eins is part of rbb's digital and analog broadcast portfolio; serves Berlin-Brandenburg region with eclectic programming.
-  sources: internal knowledge only
-curation: 0.65
+  format: Adult-alternative pop and rock with extensive talk and cultural programming
+  notes: radioeins is the adult-alternative station of Rundfunk Berlin-Brandenburg, the ARD member broadcaster for Berlin and Brandenburg, funded by the German broadcasting licence fee. It mixes an eclectic pop, rock and singer-songwriter playlist with strong talk, media-criticism and cultural strands, and has a distinct presenter-led identity within German public radio. This entry is the low-bitrate 64 kbit/s MP3 relay of the main service.
+  sources: https://www.radioeins.de/
+curation: 0.68
+duplicate_of: 960553a5-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-52e18f3e-1d9e-4035-b93c-3922f1c7601c
   - iprd-de-radioeins-1f8e91c6

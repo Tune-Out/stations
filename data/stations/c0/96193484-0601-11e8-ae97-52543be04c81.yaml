@@ -35,3 +35,9 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-96193484-0601-11e8-ae97-52543be04c81
+  - iprd-pt-rtp-antena-minho-d731a0cf
+streams:
+  - url: 'http://centova.radio.com.pt:9464/;'
+    codec: MP3
+    bitrate: 160
+  - url: 'http://centova.radio.com.pt:9464/listen.pls'

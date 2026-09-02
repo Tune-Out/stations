@@ -33,3 +33,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-eb80d934-0983-4e13-ae40-c49058120b48
+  - radiobrowser-1e8e48ce-5bd1-460c-8a23-64c61e03a9d6
+streams:
+  - url: 'https://online.radiobayraktar.ua/RadioBayraktar_HD'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://online.radiobayraktar.ua/RadioBayraktar'
+    codec: MP3
+    bitrate: 128

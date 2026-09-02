@@ -31,3 +31,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-e8a74777-8277-428a-867c-7e0229336a5c
+  - radiobrowser-1ea84dcc-cd86-463b-b5f0-6ac72186c189
+  - iprd-pl-radio-swinoujscie-b7cf8db3
+streams:
+  - url: 'https://stream.rcast.net/62853'
+    codec: AAC+
+    bitrate: 192
+  - url: 'http://185.243.52.116:8010/stream'
+    codec: AAC

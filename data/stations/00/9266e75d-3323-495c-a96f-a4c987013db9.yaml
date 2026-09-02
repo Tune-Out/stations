@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pl/pl.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: OpenFM Nauka ("Science") is a themed science/talk channel on the Polish OpenFM online-radio aggregator platform. The specific legacy numbered stream endpoint used here appears retired, though the OpenFM platform itself remains active.
+  sources: https://open.fm
+curation: 0.10
 provenance:
   - iprd-pl-openfm-nauka-d7055d38

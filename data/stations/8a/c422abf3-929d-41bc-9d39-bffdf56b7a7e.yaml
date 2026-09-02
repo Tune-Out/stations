@@ -35,3 +35,11 @@ curation: 0
 provenance:
   - radiobrowser-c422abf3-929d-41bc-9d39-bffdf56b7a7e
   - iprd-ie-christmas-fm-classical-carols-45404366
+  - radiobrowser-17b6bf00-b9e6-42ee-99d0-13fbbec2c99e
+streams:
+  - url: 'https://christmasfm.cdnstream1.com/2549_64.aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://christmasfm.cdnstream1.com/2549_128.mp3?'
+    codec: MP3
+    bitrate: 128

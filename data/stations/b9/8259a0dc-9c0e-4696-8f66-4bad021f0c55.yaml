@@ -31,3 +31,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-8259a0dc-9c0e-4696-8f66-4bad021f0c55
+  - radiobrowser-82504e4e-d90f-4502-805b-defcb28ced02
+streams:
+  - url: 'https://shoutcast.rtl.lu/rtlgold'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8'
+    codec: AAC
+    bitrate: 256
+    hls: true

@@ -25,15 +25,15 @@ clickcount: 10
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: User-curated webcast on the laut.fm platform (laut.fm is operated by Laut AG, Konstanz, Germany)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Anonymous laut.fm user; platform operated by Laut AG, Konstanz
   affiliations: none political/religious/governmental
   audience: German and international techno/electronic music fans listening online
-  format: 24/7 minimal, deep, and dub techno along with classic 2000s electronic music; genre channels include techno, minimal, electro, electronica, and dub techno
-  notes: laut.fm is one of Germany's largest user-curated internet radio networks (operating since 2007 as part of Laut AG's family of music services, alongside the Laut.de music magazine); the platform allows individual curators to program their own non-commercial stations using a licensed music catalog under GEMA (German collecting society) agreements; "Best Of Techno" is one of thousands of such channels and is operated by an anonymous community member with no broadcast FM license; no notable hosts or programming personalities, this is a fully automated playlist-driven webcast
-  sources: https://laut.fm/best-of-techno, internal knowledge of laut.fm platform model
-curation: 0.5
+  format: Automated 2000s and current techno/electronic club music playlist
+  notes: Best Of Techno is a user-programmed channel on laut.fm, the Konstanz-based German webcasting platform (Laut AG) where individual curators run automated stations under GEMA licensing. Its blurb reads "Best of 2000s and latest Electronic Club Music", rotating artists such as E-Dancer, Johannes Heil, Jancen, Ingo Boss and Minilogue. It is a fully automated playlist stream with no presenters or editorial programming, one of thousands of similar laut.fm channels.
+  sources: https://laut.fm/best-of-techno
+curation: 0.22
 provenance:
   - radiobrowser-2f7cead0-b1fa-4400-a6dd-8ccfc1be3e03
   - iprd-de-best-of-techno-a728583f

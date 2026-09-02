@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pl/pl.m3u"
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: RMF FM Group (OpenFM)
+  affiliations: RMF FM
+  audience: Poland
+  format: hit-rotation playlist
+  notes: OpenFM Weekend Hits is one of dozens of automated, genre-bucketed channels on OpenFM, the online radio brand of Poland's RMF FM group. It is a generic hit-rotation playlist stream with no distinct editorial voice beyond its 'weekend hits' theme.
+  sources: http://open.fm
 curation: -0.05
 provenance:
   - iprd-pl-openfm-weekend-hits-2c902587

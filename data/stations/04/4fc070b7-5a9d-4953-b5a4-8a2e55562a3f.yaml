@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pt/pt.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Global Media Group
+  affiliations: TSF Rádio Notícias national network
+  audience: Portuguese news/talk listeners (Madeira)
+  format: News/talk
+  notes: TSF is one of Portugal's three main news radio networks (alongside Antena 1 and Rádio Renascença), founded in 1989 (with roots as a 1984 pirate broadcast) and owned by Global Media Group. This is its regional Madeira relay at 100.0 FM, carrying TSF's national news, talk and political-commentary programming with local inserts.
+  sources: https://en.wikipedia.org/wiki/TSF_(radio_station)
+curation: 0.30
 provenance:
   - iprd-pt-tsf-madeira-100-0-ef964302

@@ -38,3 +38,10 @@ research:
 curation: 0.3
 provenance:
   - radiobrowser-960a37a2-0601-11e8-ae97-52543be04c81
+  - radiobrowser-c1dfaf5c-4fee-4a8e-8e1a-1af16fc46225
+  - iprd-de-the-wave-relaxing-radio-6dbdcb59
+streams:
+  - url: 'http://stream.thewaveradio.de/wave-live/mp3-128/radio-browser.info/'
+    codec: MP3
+  - url: 'http://stream.thewaveradio.de/wave-live/aac-64/'
+    codec: AAC

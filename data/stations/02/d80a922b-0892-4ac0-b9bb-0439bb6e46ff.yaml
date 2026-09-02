@@ -31,3 +31,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-d80a922b-0892-4ac0-b9bb-0439bb6e46ff
+  - radiobrowser-5b815344-58ec-49cd-844a-45c30058759a
+streams:
+  - url: 'https://stream.radioidola.com/listen/idolafm/live'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://livestreaming.radioidola.com/live.mp3'
+    codec: MP3
+    bitrate: 128

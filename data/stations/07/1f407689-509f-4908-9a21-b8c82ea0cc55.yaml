@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pl/pl.m3u"
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: Ringier Axel Springer Polska (open.fm)
+  affiliations: ''
+  audience: ''
+  format: automated party/hits playlist
+  notes: OpenFM is a Polish internet radio platform (part of Ringier Axel Springer Polska's open.fm) offering many automated genre/mood playlist channels; 'Top 20 Impreza' is one such generic party-hits automated stream with no distinct editorial identity.
+  sources: 'IPRD: streams/pl/pl.m3u'
 curation: -0.05
 provenance:
   - iprd-pl-openfm-top-20-impreza-ecfaa624

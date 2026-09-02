@@ -33,3 +33,12 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-12ced942-05bd-4cab-bbe0-afbd16936388
+  - radiobrowser-577c0241-1921-4fb5-a636-84eb589556ea
+  - iprd-br-amigos-de-cristo-web-r-dio-7561d1c3
+streams:
+  - url: 'https://server06.srvsh.com.br:6856/stream'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://sv14.hdradios.net:6860/;?type=http&nocache=38'
+    codec: AAC+
+    bitrate: 64

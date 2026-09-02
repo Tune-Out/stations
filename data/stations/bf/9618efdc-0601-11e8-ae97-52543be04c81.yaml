@@ -34,3 +34,9 @@ research:
 curation: 0.2
 provenance:
   - radiobrowser-9618efdc-0601-11e8-ae97-52543be04c81
+  - iprd-pt-torres-novas-100-8-993c255e
+streams:
+  - url: 'http://centova.radio.com.pt:8475/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://centova.radio.com.pt:8475/listen.pls'

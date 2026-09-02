@@ -23,14 +23,23 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Tok FM (Polish commercial radio broadcaster)
   affiliations: none known
   audience: Polish speakers; news and current affairs enthusiasts; adult demographic
   format: Talk radio, policy discussion, social commentary; news and current affairs programming
-  notes: Major Polish commercial talk radio station; Poznan-based broadcasting; focuses on public policy, society, and current events discussion
-  sources: internal knowledge only
-curation: -0.05
+  notes: TOK FM is a major Polish commercial talk-radio network (part of Agora S.A.) known for public-affairs, political and social-commentary programming aimed at an educated urban audience; it is one of Poland's most-cited opinion/news talk stations.
+  sources: https://www.tokfm.pl/Tokfm/0,0.html (redirects to https://www.tokfm.pl); stream verified 200 audio/mpeg
+curation: 0.35
 provenance:
   - radiobrowser-79db3924-8962-11ea-8a3b-52543be04c81
+  - radiobrowser-0f2c2b91-a0d2-11e8-a9f3-52543be04c81
+streams:
+  - url: 'http://poznan5-4.radio.pionier.net.pl:8000/tuba10-1.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.surfmusik.de/m3u/tok-fm,5940.m3u'
+    url_resolved: 'https://radiostream.pl/tuba10-1.mp3'
+    codec: MP3
+    bitrate: 128

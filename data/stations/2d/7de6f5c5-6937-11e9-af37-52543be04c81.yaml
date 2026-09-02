@@ -40,3 +40,11 @@ curation: -0.05
 provenance:
   - radiobrowser-7de6f5c5-6937-11e9-af37-52543be04c81
   - iprd-nl-dance-radio-amsterdam-de039420
+  - radiobrowser-ba89d58f-7555-42cd-8775-91a6cb3945ee
+streams:
+  - url: 'http://stream.danceradio.nl:9920/'
+    codec: MP3
+    bitrate: 185
+  - url: 'https://icecast.bytesheep.net/danceradio.mp3'
+    codec: MP3
+    bitrate: 185

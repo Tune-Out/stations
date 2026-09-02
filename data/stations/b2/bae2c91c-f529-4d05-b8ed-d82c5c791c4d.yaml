@@ -21,14 +21,14 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: NORA Media (German/European streaming service)
   affiliations: none known
   audience: Classical music listeners; international audience
   format: Classical and oldies music programming; music streaming
-  notes: RADIO NORA OLDIES is a web radio service offering classical music and oldies content; operates through German streaming infrastructure; metadata indicates Afghanistan country but likely misclassified geolocation
-  sources: internal knowledge only
-curation: 0.3
+  notes: RADIO NORA Oldies is a themed oldies channel from the German commercial streaming network NORA (Regiocast); the listed "Afghanistan" country is a geolocation artifact of the stream server, not the actual audience.
+  sources: https://streams.norawebstreams.de/
+curation: 0.20
 provenance:
   - radiobrowser-bae2c91c-f529-4d05-b8ed-d82c5c791c4d

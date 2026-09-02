@@ -33,10 +33,15 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-887a41f5-94dc-4aa3-aa59-8028ce184486
+  - radiobrowser-bfad48c2-86c5-4361-a495-ed88b2598412
+  - iprd-de-radio-schwarze-welle-74d051a9
 streams:
   - url: http://schwarze-welle.de:7500/
     codec: MP3
     bitrate: 128
   - url: https://schwarze-welle.de:7500/
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.schwarze-welle.de:7500/'
     codec: MP3
     bitrate: 128

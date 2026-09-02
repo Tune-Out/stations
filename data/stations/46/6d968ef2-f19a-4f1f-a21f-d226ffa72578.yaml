@@ -35,3 +35,16 @@ curation: -0.05
 provenance:
   - radiobrowser-6d968ef2-f19a-4f1f-a21f-d226ffa72578
   - iprd-hu-super-dj-radio-55bfed9e
+  - radiobrowser-585636e2-c446-4805-9ad3-e59389fc96f7
+  - radiobrowser-a5a51617-f726-4521-b2e7-8891e16d02ef
+  - iprd-hu-super-dj-radio-96dd2775
+streams:
+  - url: 'http://stream.diazol.hu:35150/autodj'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://s03.diazol.hu:35152/stream'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://stream.diazol.hu:35150/stream'
+    codec: MP3
+    bitrate: 256

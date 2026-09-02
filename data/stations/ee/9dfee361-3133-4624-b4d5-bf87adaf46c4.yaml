@@ -34,6 +34,12 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-9dfee361-3133-4624-b4d5-bf87adaf46c4
+  - radiobrowser-726d2fdb-1089-4942-b4ad-667aacf08f62
+  - iprd-de-br-klassik-c873a71b
+  - iprd-de-br-klassik-399187fb
+  - iprd-de-br-klassik-4c1ca53e
+  - iprd-de-br-klassik-03371056
+  - iprd-de-br-klassik-b88d2957
 streams:
   - url: https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
     codec: MP3
@@ -41,3 +47,6 @@ streams:
   - url: https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
     codec: MP3
     bitrate: 128
+  - url: 'https://br-radio.ard-mcdn.de/br/radio/brklassik/hls/192/seglist.m3u8'
+    codec: UNKNOWN
+    hls: true

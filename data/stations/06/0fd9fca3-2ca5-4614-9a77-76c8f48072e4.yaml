@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Salem Media Group
+  affiliations: Salem Radio Network, co-owned with WMCA 570
+  audience: New York metro conservative-talk listeners
+  format: conservative talk
+  notes: WNYM (970 AM, 'AM 970 The Answer') is a commercial conservative talk station licensed to Hackensack, NJ, serving the New York metro area, owned by Salem Media Group. Hosts include Joe Piscopo, John Catsimatidis and Rita Cosby alongside syndicated Salem Radio Network programming.
+  sources: https://en.wikipedia.org/wiki/WNYM; stream check
+curation: 0.10
 provenance:
   - iprd-us-wnym-the-answer-970-a0fde5ff

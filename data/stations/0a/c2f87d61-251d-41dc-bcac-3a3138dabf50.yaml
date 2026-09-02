@@ -34,3 +34,11 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-c2f87d61-251d-41dc-bcac-3a3138dabf50
+  - radiobrowser-6b988509-7230-42fa-aa16-4a048dae2ef4
+streams:
+  - url: 'http://mp3.polskieradio.pl:8066/;'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://mpantusa-danidi01.radioca.st/id1'
+    codec: AAC+
+    bitrate: 96

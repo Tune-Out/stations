@@ -2,7 +2,7 @@ stationuuid: 96159a34-0601-11e8-ae97-52543be04c81
 name: Ska World
 url: http://skaworld.stream.laut.fm/skaworld
 url_resolved: http://skaworld.stream.laut.fm/skaworld
-homepage: http://lautfm-skaworld.radio.de/
+homepage: https://laut.fm/skaworld
 favicon: http://lautfm-skaworld.radio.de/assets/fav/apple-touch-icon.png
 tags:
   - 60s
@@ -28,15 +28,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: laut.fm (German internet radio platform operator)
-  affiliations: none known
-  audience: Ska music fans; English and German-language listeners; global internet reach
-  format: Specialty ska radio stream featuring classic and contemporary ska, 2 Tone, and ska-punk music from the 1960s onwards
-  notes: Ska World is hosted on laut.fm, a German internet radio platform that hosts thousands of community and fan-created stations. The station specializes in ska, reggae-influenced two-tone, and related punk-ska subgenres. Features hits from bands like The Specials, Madness, and modern ska artists. Community-curated format with international listener base.
-  sources: internal knowledge only
-curation: 0.6
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Skaworld (user station on laut.fm)
+  affiliations: laut.fm user-generated radio platform
+  audience: Ska fans in Germany and worldwide
+  format: Ska, ska-punk, rocksteady and reggae, 24 hours from an 8,000-title pool
+  notes: Skaworld is a fan-run station on the German laut.fm user-generated radio platform, broadcasting "Ska, Ska, immer nur Ska" around the clock since 1 March 2009. Its library of more than 8,000 titles spans 2 Tone, ska-punk, rocksteady and reggae, and it maintains a companion site at skaworld.de. laut.fm carries the platform's advertising; the station itself is a hobby project. The old radio.de mirror homepage returns 404.
+  sources: https://laut.fm/skaworld; http://skaworld.de/index.php/skaworld-radio; https://www.radio.de/s/lautfm-skaworld
+curation: 0.30
 provenance:
   - radiobrowser-96159a34-0601-11e8-ae97-52543be04c81
   - iprd-de-ska-world-0bd8fba5

@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/al/al.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Play Radio is presented as an Albanian news-tagged FM station (91.1) but its stream endpoint is unreachable and the homepage field is a generic CDN asset link rather than an official site, so current operating status could not be confirmed.
+  sources: 'IPRD: streams/al/al.m3u'
+curation: -0.05
 provenance:
   - iprd-al-play-radio-albania-91-1-0cc15940

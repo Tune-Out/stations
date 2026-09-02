@@ -28,15 +28,25 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Radio Seefunk (Germany)
   affiliations: none known
   audience: German-speaking listeners; Lake Constance region (Baden-Württemberg, Bavaria, Austria border); classic hits and oldies fans
   format: Classic hits and oldies specialization covering 1970s-2000s music; pop and rock music from recent decades; regional German music programming
-  notes: Regional German radio broadcasting from Lake Constance area. Emphasizes music from 70s, 80s, 90s, and 2000s. DAB+ and web streaming. Community-focused regional programming.
-  sources: internal knowledge only
-curation: 0.4
+  notes: Radio Seefunk is a regional commercial German station broadcasting from the Lake Constance (Bodensee) area, playing classic hits and oldies spanning the 1970s-2000s across DAB+ and web streaming. It is an ordinary regional oldies format station rather than a distinguished editorial outlet.
+  sources: https://www.dasneueradioseefunk.de/; stream verified live
+curation: 0.19
 provenance:
   - radiobrowser-213abeab-b8d2-4057-b570-5a6143607b2c
   - iprd-de-radio-seefunk-1108bca3
+  - radiobrowser-960e7751-0601-11e8-ae97-52543be04c81
+  - iprd-de-radio-seefunk-d5ab4876
+streams:
+  - url: 'https://webradio.radio-seefunk.de/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://webradio.radio-seefunk.de:8000/listen.pls'
+    url_resolved: 'http://webradio.radio-seefunk.de:8000/'
+    codec: MP3
+    bitrate: 128

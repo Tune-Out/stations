@@ -31,3 +31,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-20dac323-a85f-4c06-912b-5497543342c8
+  - radiobrowser-d0d6d2ba-bff0-4376-b215-48f046889cad
+streams:
+  - url: 'https://loveradioroxas.radioca.st:2199/tunein/loveradioroxas-stream.pls'
+    url_resolved: 'http://pollux.shoutca.st:8216/stream'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://loveradioroxas.radioca.st:8216/stream'
+    codec: MP3
+    bitrate: 96

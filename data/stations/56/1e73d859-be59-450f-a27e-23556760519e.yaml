@@ -35,6 +35,7 @@ curation: -0.05
 provenance:
   - radiobrowser-1e73d859-be59-450f-a27e-23556760519e
   - iprd-de-antenne-niedersachsen-9bffccdc
+  - radiobrowser-961345a7-0601-11e8-ae97-52543be04c81
 streams:
   - url: https://stream.antenne.com/antenne-nds/mp3-192
     codec: MP3
@@ -42,3 +43,5 @@ streams:
     codec: MP3
   - url: http://stream.antenne.com/antenne-nds/mp3-192
     codec: MP3
+  - url: 'http://stream.antenne.com/antenne-nds/aac-64/stream.antenne.com/'
+    codec: AAC

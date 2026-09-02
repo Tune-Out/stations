@@ -23,15 +23,16 @@ clickcount: 76
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Bayerischer Rundfunk (BR) — public-law broadcasting institution (Anstalt des oeffentlichen Rechts) of the Free State of Bavaria; member of ARD (Arbeitsgemeinschaft der oeffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland)
-  affiliations: ARD federation; funded by German broadcasting fee (Rundfunkbeitrag); editorially independent under state media treaty (Rundfunkstaatsvertrag); no party-political or religious affiliation
-  audience: German-speaking residents of Bavaria and across Germany; news-interested adult listeners; primary language German
-  format: 24/7 news and information radio — hourly bulletins, in-depth news magazines, interviews, political analysis, weather, traffic; integrated with the BR24 digital news brand (TV, app, web)
-  notes: BR24 (formerly B5 aktuell, rebranded in 2018) is one of the few full-time German-language news radio channels. Distributed on DAB+ across Bavaria and via the joint nationwide DAB+ multiplex; also streamed online. Part of BR's broader BR24 news service that integrates radio, TV (BR24 channel), and digital. Bayerischer Rundfunk is one of Germany's largest ARD member broadcasters, headquartered in Munich.
-  sources: internal knowledge only
-curation: 0.55
+  operator: Bayerischer Rundfunk (BR), Munich
+  affiliations: ARD public broadcasting federation; funded by the Rundfunkbeitrag
+  audience: News-interested German speakers in Bavaria and nationwide
+  format: 24/7 news and information radio
+  notes: BR24 is the 24-hour news and information radio channel of Bayerischer Rundfunk, the ARD public broadcaster for Bavaria, headquartered in Munich. It launched on 6 May 1991 as B5 aktuell, the first all-news programme in German-language radio, and was renamed BR24 on 1 July 2021 to align with BR's cross-platform news brand. It reaches roughly 700,000 listeners a day via FM and DAB+ in Bavaria, satellite, cable and online, with hourly bulletins, news magazines, interviews and political analysis. The catalog's higher-voted B5 aktuell entry is the same channel.
+  sources: https://de.wikipedia.org/wiki/B5_aktuell; https://www.br.de/radio/br24/index.html
+curation: 0.50
+duplicate_of: 962e5ddc-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-787eda99-1532-4ee0-b14e-fdb88ec71530
 streams:

@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ba/ba.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: local Bosnian broadcaster (zenit.ba)
+  affiliations: ''
+  audience: ''
+  format: news/talk
+  notes: Radio Zenit is a local commercial news/talk station based in the Zenica area of Bosnia and Herzegovina, broadcasting on 100.7 FM. It appears to be part of a small local network that also runs a 'Zenit Caffe' variant.
+  sources: https://uzivo.zenit.ba/stream/
+curation: 0.05
 provenance:
   - iprd-ba-radio-zenit-100-7-9c91a122

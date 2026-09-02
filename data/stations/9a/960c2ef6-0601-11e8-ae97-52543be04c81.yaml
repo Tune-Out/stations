@@ -36,3 +36,10 @@ curation: 0.55
 provenance:
   - radiobrowser-960c2ef6-0601-11e8-ae97-52543be04c81
   - iprd-cz-cro-dvojka-100-7-a56e0ecb
+  - radiobrowser-8fc59db6-d356-429a-98a0-4e284fa8d50e
+streams:
+  - url: 'http://icecast6.play.cz/cro2-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://amp1.cesnet.cz:8000/cro2-256.ogg'
+    codec: OGG

@@ -37,3 +37,13 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-e3cebe3a-feaf-4f15-955f-3efbf9b8e6e0
+  - radiobrowser-7bd49802-0b1f-48cd-8f9b-d98a4d627c0b
+streams:
+  - url: 'https://playerservices.streamtheworld.com/pls/CBUFM_CBC.pls'
+    url_resolved: 'https://26283.live.streamtheworld.com:443/CBUFM_CBC_SC'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8'
+    codec: AAC
+    bitrate: 48
+    hls: true

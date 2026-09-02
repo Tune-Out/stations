@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/br/br.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Jovem Pan (Grupo Jovem Pan)
+  affiliations: Jovem Pan national network
+  audience: Curitiba, Paraná
+  format: News/talk
+  notes: Jovem Pan 103.9 Curitiba is the Curitiba, Paraná affiliate of Jovem Pan, one of Brazil's largest and most prominent all-news/talk commercial radio networks, known for round-the-clock news, sports and opinion programming.
+  sources: 'IPRD: streams/br/br.m3u; https://jpimg.com.br'
+curation: 0.15
 provenance:
   - iprd-br-jovem-pan-103-9-curitiba-cf002fb3

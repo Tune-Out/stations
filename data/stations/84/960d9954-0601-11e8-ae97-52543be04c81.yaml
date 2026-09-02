@@ -34,3 +34,9 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-960d9954-0601-11e8-ae97-52543be04c81
+  - iprd-pl-radio-jasna-gora-100-6-2ef427a3
+streams:
+  - url: 'http://online.radiojasnagora.pl:8000/rjg'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://online.radiojasnagora.pl:9000/rjg'

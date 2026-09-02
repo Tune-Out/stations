@@ -20,14 +20,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: KNCH 90.1 is a public radio station in San Angelo, TX, part of the Texas Tech Public Media network (Texas Tech University), an NPR/PBS-affiliated system offering news and classical/variety public radio programming.
+  sources: http://kttzeducation.org; http://kttz.org
+curation: 0.55
+duplicate_of: 960a4fb3-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-knch-90-1-texas-tech-university-public-media-98bf2a66

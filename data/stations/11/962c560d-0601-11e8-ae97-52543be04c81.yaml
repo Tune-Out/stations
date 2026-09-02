@@ -37,3 +37,19 @@ provenance:
   - radiobrowser-962c560d-0601-11e8-ae97-52543be04c81
   - iprd-ch-radio-suisse-classique-631832eb
   - iprd-ch-radio-suisse-classique-a40f7e2e
+  - radiobrowser-209340db-4929-11e8-b1b0-52543be04c81
+  - iprd-ch-radio-srf1-93195147
+  - iprd-ch-radio-srf1-aargau-solothurn-9bf66638
+  - radiobrowser-4d21fda1-cc6b-4b09-a0e3-6dc2e8d8eb29
+streams:
+  - url: 'http://stream.srg-ssr.ch/m/rsc_fr/mp3_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.surfmusik.de/m3u/station/radio-suisse-classique,16403.m3u'
+    url_resolved: 'https://stream.srg-ssr.ch/m/rsc_fr/mp3_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.srg-ssr.ch/rsc_fr/aacp_96.asx'
+    url_resolved: 'http://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96'
+    codec: AAC
+    bitrate: 104

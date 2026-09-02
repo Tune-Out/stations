@@ -31,3 +31,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-f9a75cc9-aa3f-47f6-aa25-b6e0d9533c6f
+  - radiobrowser-2da7d113-21ee-47c5-ace1-0dde304fb136
+streams:
+  - url: 'https://stream.rsg.rs/live/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.rsg.rs:8043/;stream.nsv'
+    codec: MP3
+    bitrate: 128

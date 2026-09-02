@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ru/ru.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 'Imported from IPRD catalog. Editorial flag: Sputnik Türkiye is the Turkish-language service of Rossiya Segodnya''s Sputnik; stream is served from nfw.ria.ru (RIA Novosti infrastructure).'
+  sources: 'IPRD: streams/ru/ru.m3u'
+curation: -0.80
 provenance:
   - iprd-ru-sputnik-turkiye-106-4-25bb422e

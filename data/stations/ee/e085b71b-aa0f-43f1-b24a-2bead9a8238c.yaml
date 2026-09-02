@@ -31,3 +31,13 @@ research:
 curation: 0.45
 provenance:
   - radiobrowser-e085b71b-aa0f-43f1-b24a-2bead9a8238c
+  - radiobrowser-6cee259f-5aa9-42eb-92f0-fc61bdf4e0ec
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA.mp3'
+    url_resolved: 'https://27403.live.streamtheworld.com:443/RIVADAVIA.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets'
+    url_resolved: 'https://24253.live.streamtheworld.com:443/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets'
+    codec: AAC+
+    bitrate: 64

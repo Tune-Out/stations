@@ -2,7 +2,7 @@ stationuuid: 692a3b69-0f68-11ea-a87e-52543be04c81
 name: Cadena SER España
 url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3'
 url_resolved: 'http://27743.live.streamtheworld.com:80/CADENASER_ALT2.mp3'
-homepage: http://play.cadenaser.com/
+homepage: https://cadenaser.com/
 favicon: https://cadenaser00.epimg.net/favicon.png
 tags:
   - news
@@ -25,15 +25,15 @@ clickcount: 190
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: PRISA Radio / Sociedad Española de Radiodifusión, S.L. — division of Grupo PRISA (publicly listed Spanish media group, also owner of El País and Cinco Días)
-  affiliations: Spain's largest commercial radio network; editorial line widely characterised as centre-left / progressive, aligned historically with PSOE-leaning readership; no religious, governmental or party affiliation but PRISA is a major centre-left media voice
-  audience: Spanish-speaking adults across Spain (and globally via stream); generalist informative and entertainment audience
-  format: News-talk generalist ("radio hablada generalista") — news bulletins, magazine shows, political analysis, live sports (especially football via "Carrusel Deportivo"), interviews and entertainment
-  notes: "Founded 1924, making it one of Spain's oldest broadcasters; the SER (Sociedad Española de Radiodifusión) brand dates from 1940. Spain's #1 commercial radio by audience for decades according to EGM (Estudio General de Medios), competing with COPE and Onda Cero. Flagship programmes include \"Hoy por Hoy\" (morning magazine, historically presented by Iñaki Gabilondo, Carles Francino, Àngels Barceló), \"Hora 25\" (evening news), \"El Larguero\" and \"Carrusel Deportivo\" (sports). Operates regional stations under Cadena SER and sister music networks Los 40, Cadena Dial, M80, Máxima FM under PRISA Radio."
-  sources: internal knowledge (play.cadenaser.com fetch blocked)
-curation: -0.05
+  operator: Sociedad Española de Radiodifusión (PRISA Radio / Grupo PRISA)
+  affiliations: Grupo PRISA (also El País); editorial line generally centre-left
+  audience: Spanish-speaking general adult audience across Spain and worldwide online
+  format: 'Generalist news-talk: news bulletins, morning magazine, political analysis, live football and sports'
+  notes: Cadena SER is Spain's oldest and most-listened-to radio network, tracing its origins to EAJ-1 Radio Barcelona in November 1924 and operated by PRISA Radio, part of Grupo PRISA. It is a generalist news-talk network broadcasting nationwide on FM/AM via dozens of local stations, with programming in Spanish plus regional windows in Catalan, Galician and Basque. Flagship shows include the morning magazine Hoy por Hoy (Àngels Barceló), the evening news Hora 25, and the sports staples Carrusel Deportivo and El Larguero. According to the EGM it has led Spanish radio for 35 consecutive years, with about 4.4-4.6 million daily listeners in the 2026 waves, ahead of COPE and Onda Cero. This entry is the national feed streamed via StreamTheWorld; play.cadenaser.com now redirects to cadenaser.com.
+  sources: https://en.wikipedia.org/wiki/Cadena_SER; https://www.sercomunicacion.com/ser-lider-egm-2-ola-2026-resultados/; https://www.elplural.com/extratele/egm-angels-barcelo-cadena-ser-indestronables-primera-ola-2026_387043102; https://cadenaser.com/
+curation: 0.50
 provenance:
   - radiobrowser-692a3b69-0f68-11ea-a87e-52543be04c81
   - iprd-es-cadena-ser-espa-a-bd1cb809

@@ -1,5 +1,5 @@
 stationuuid: 313046e3-b203-4b9d-bc3e-393da7d97126
-name: WALM - Old Time Radio
+name: WALM Old Time Radio
 url: https://icecast.walmradio.com:8443/otr
 url_resolved: https://icecast.walmradio.com:8443/otr
 homepage: https://walmradio.com/otr
@@ -23,17 +23,18 @@ clickcount: 214
 geo_lat: 40.75166
 geo_long: -73.97538
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: WALM Radio (independent operator based in New York City)
-  affiliations: WALM's broader network of streams (Classical, Classic Vinyl, Jazz, Christmas, Christian Contemporary/Traditional) includes Christian music channels, but the OTR stream itself is secular; no party-political or governmental ties
-  audience: English-speaking listeners worldwide interested in vintage American radio drama, comedy, and music; nostalgia and classic-radio enthusiasts
-  format: Old Time Radio (OTR) — classic 1920s–1950s American radio programs including drama, comedy, mystery, sci-fi, musicals, and V-Disc/78-rpm vintage recordings
-  notes: internet-only station emphasizing curated commercial-free streaming; describes its service as "premium online radio streaming with crystal-clear audio quality"; runs sibling streams under the WALM brand at walmradio.com
-  sources: https://walmradio.com/otr, internal knowledge
-curation: 0.7
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: WALM Radio ("We All Love Music"), independent US online radio service
+  affiliations: Sister channels include Christian music streams; the OTR channel is secular
+  audience: Classic-radio and nostalgia enthusiasts worldwide; English-language
+  format: Old Time Radio — 1930s-1950s American drama, comedy, mystery and variety shows plus vintage 78-rpm music
+  notes: WALM Old Time Radio is the OTR channel of WALM Radio ("We All Love Music"), an internet-only US service geo-tagged to New York that also runs Classic Vinyl, Christmas Vinyl, Jazz and two Christian music channels. It streams classic American radio programmes from the 1930s-1950s — drama, comedy, mystery, science fiction and variety — along with vintage recordings, 24/7 without ads. The main OTR feed is a 64 kbps MP3 (a separate Opus feed is catalogued under its own entry). The site discloses no owner or funding model.
+  sources: https://walmradio.com/otr; https://walmradio.com/
+curation: 0.45
 provenance:
   - radiobrowser-313046e3-b203-4b9d-bc3e-393da7d97126
+  - radiobrowser-64b357e7-d9e9-4cb6-99b5-4cb6cef785cc
 streams:
   - url: https://icecast.walmradio.com:8443/walm
     codec: MP3
@@ -41,3 +42,6 @@ streams:
   - url: https://icecast.walmradio.com:8443/otr
     codec: MP3
     bitrate: 64
+  - url: 'https://icecast.walmradio.com:8443/otr_opus'
+    codec: OGG
+    bitrate: 32

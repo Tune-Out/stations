@@ -36,3 +36,12 @@ research:
 curation: 0.2
 provenance:
   - radiobrowser-72e2c8e3-3d74-41e3-855c-d44812d5023e
+  - radiobrowser-f5f6ae79-b919-497b-a10f-720ea7cdc7bc
+  - iprd-de-cuterdio-4-73e2d42f
+streams:
+  - url: 'https://s6-webradio.rockantenne.de/gothic/stream/mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s3-webradio.rockantenne.de/gothic'
+    codec: MP3
+    bitrate: 128

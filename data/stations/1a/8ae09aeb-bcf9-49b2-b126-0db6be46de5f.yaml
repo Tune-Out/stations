@@ -32,3 +32,12 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-8ae09aeb-bcf9-49b2-b126-0db6be46de5f
+  - radiobrowser-718119eb-299f-4bd4-92cc-ce73726221ea
+streams:
+  - url: 'https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio141/hlspbaudio14164kbps.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio141/hlspbaudio141_Auto.m3u8'
+    codec: AAC+
+    bitrate: 32
+    hls: true

@@ -1,5 +1,5 @@
 stationuuid: 2bd4cf82-d195-11e9-a861-52543be04c81
-name: Guyane 1ère
+name: Guyane La 1ère
 url: https://guyane.ice.infomaniak.ch/guyane-128.mp3
 url_resolved: https://guyane.ice.infomaniak.ch/guyane-128.mp3
 homepage: https://la1ere.francetvinfo.fr/guyane/
@@ -23,15 +23,15 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: France Télévisions (Outre-mer La 1ère network)
-  affiliations: French state public broadcaster; part of France Télévisions group; member of European Broadcasting Union (EBU)
-  audience: French and French Guianese Creole speakers in French Guiana (~300,000 population)
-  format: General-interest regional public radio with news, talk, music (Caribbean/Latin), culture, and local affairs
-  notes: Public radio service of French Guiana, the French overseas department in South America; part of the Outre-mer La 1ère network (the rebranded RFO, Réseau France Outre-mer) which operates public TV and radio across France's overseas territories; broadcasts in French and Guianese Creole; programming covers local Guianese affairs, music (zouk, kompa, biguine, Brazilian and Latin influences), Carnaval coverage, and rebroadcasts of France Inter news; funded through the French public-broadcasting fee/state budget.
-  sources: https://la1ere.francetvinfo.fr/guyane/, internal knowledge
-curation: 0.55
+  operator: France Télévisions (Outre-mer La 1ère)
+  affiliations: French public broadcasting; EBU via France Télévisions
+  audience: French and Creole speakers in French Guiana
+  format: 'Generalist regional public radio: news, talk, Caribbean/Latin music'
+  notes: Guyane La 1ère is the public radio service of French Guiana, run by France Télévisions' Outre-mer La 1ère network (the former RFO). It began as Radio-Cayenne on 9 June 1951, became RFO Guyane in 1982, Guyane 1ère in 2010 and Guyane La Première in 2018, and broadcasts on FM via 27 TDF transmitters across the department. Generalist programming in French and Guianese Creole mixes local news, Carnaval coverage and Caribbean/Latin music with content from Radio France; it is the most-listened-to station in French Guiana (about 44% audience reach).
+  sources: https://fr.wikipedia.org/wiki/Guyane_La_Première_(radio); https://la1ere.francetvinfo.fr/guyane/
+curation: 0.60
 provenance:
   - radiobrowser-2bd4cf82-d195-11e9-a861-52543be04c81
   - iprd-gf-guyane-1-re-820ed3d5

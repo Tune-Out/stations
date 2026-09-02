@@ -34,3 +34,12 @@ curation: 0.35
 provenance:
   - radiobrowser-960959e6-0601-11e8-ae97-52543be04c81
   - iprd-fr-impact-fm-8510e51d
+  - radiobrowser-f9707558-d42c-4a0c-8f01-3a07ed3dbb8f
+  - iprd-be-impact-106-9-f2a0c4f5
+streams:
+  - url: 'http://impactfm.ice.infomaniak.ch/impactfm-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://impactfm.ice.infomaniak.ch/impactfm-64.aac'
+    codec: AAC+
+    bitrate: 64

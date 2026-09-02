@@ -22,14 +22,14 @@ clickcount: 28
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Unknown (named after Egyptian Islamic reciter Mishary al-Afasi)
-  affiliations: Islamic religious faith
-  audience: Arabic-speaking Muslim audiences; Egypt and Arab world
-  format: Islamic religious programming featuring Quranic recitation
-  notes: Radio dedicated to Islamic Quranic recitation and Islamic teachings; named after prominent Egyptian Quranic reciter
-  sources: internal knowledge only
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: religious
+  operator: Qurango, an Arabic Quran-streaming network
+  affiliations: Sunni Islamic recitation; no state or party affiliation
+  audience: Arabic-speaking Muslim listeners worldwide
+  format: Continuous Quranic recitation by a single reciter, Mishary Rashid Alafasy
+  notes: 'This is a single-reciter Quran stream carrying the recitations of Mishary Rashid Alafasy, who is Kuwaiti rather than Egyptian as the previous notes stated: born in Kuwait City in 1976, he is a qari, imam and nasheed artist who studied at the Islamic University of Madinah and is among the most widely heard reciters online, with more than eleven million YouTube subscribers. The audio is delivered by Qurango, an Arabic network that runs one continuous stream per reciter alongside tafsir and sira channels, and several dozen Qurango feeds appear elsewhere in this catalog. The homepage recorded here, phantomsw.com, is unrelated: it now presents a trading-software and mobile-app company and carries no Quran radio content.'
+  sources: https://en.wikipedia.org/wiki/Mishary_Rashid_Alafasy; https://www.phantomsw.com/; stream header check on https://qurango.net/radio/mishary_alafasi
+curation: 0.09
 provenance:
   - radiobrowser-0b14ae20-92b3-4db7-834f-ee6ba39ad080

@@ -35,3 +35,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-52994d67-31ea-448f-b6bc-7eaeb6a3504b
+  - radiobrowser-c4335568-5976-4275-8f21-b9bae8adae78
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac'
+    url_resolved: 'https://27323.live.streamtheworld.com:443/CBN_SPAAC.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/pls/CBN_SPAAC.pls'
+    url_resolved: 'https://26683.live.streamtheworld.com:443/CBN_SPAAC_SC'
+    codec: AAC+
+    bitrate: 128

@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fr/fr_nrjgroup.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: NRJ Group
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: NRJ Techno Story is a specialist electronic/techno music web channel operated by the major French commercial network NRJ Group.
+  sources: https://players.nrjaudio.fm
+curation: 0.15
 provenance:
   - iprd-fr-nrj-techno-story-c977bc43

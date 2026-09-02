@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fr/fr_frequence3.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Fréquence 3 Touraine is a French local commercial radio station broadcasting on 99.0 FM in the Touraine region around Château-Renault, offering local news, weather and popular music (originally launched in 1984 as Radio Bulle, rebranded Fréquence 3 in 2020). It is a small regional station with modest local programming.
+  sources: https://www.frequence3.com/fm/; https://en.wikipedia.org/wiki/Ici_Touraine
+curation: 0.10
 provenance:
   - iprd-fr-fr-quence3-touraine-99-0-5e5e7414

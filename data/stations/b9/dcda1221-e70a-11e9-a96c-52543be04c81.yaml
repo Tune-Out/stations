@@ -34,3 +34,13 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-dcda1221-e70a-11e9-a96c-52543be04c81
+  - radiobrowser-960730df-0601-11e8-ae97-52543be04c81
+  - iprd-fr-rfi-musique-0f61f51c
+  - iprd-fr-rfi-musique-13201a08
+streams:
+  - url: 'http://live02.rfi.fr/rfimusiquemonde-96k.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://live02.rfi.fr/rfimusiquemonde-64k.mp3'
+    codec: MP3
+    bitrate: 64

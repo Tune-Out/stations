@@ -22,17 +22,26 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Generations Network / Infomaniak
-  affiliations: none known
-  audience: France; French speakers
-  format: R&B and slow jam music specialization
-  notes: Part of Generations network offering genre-specific music channels; part of large French radio group
-  sources: internal knowledge only
-curation: -0.05
+  operator: Espace Group (Lyon) — Générations
+  affiliations: Member of Les Indés Radios and the Syndicat des radios indépendantes
+  audience: French-speaking urban-music listeners, mainly Paris and Lyon plus national DAB+ and online
+  format: R&B and slow jams — thematic web channel of a hip-hop/soul station
+  notes: Générations R&B is one of roughly thirty thematic web streams of Générations, the French hip-hop and soul station authorised by the CSA on 15 June 1992 and owned by the Lyon-based Espace Group. The parent station broadcasts on 88.2 FM in Paris, 101.5 FM in Lyon and nationwide on DAB+ from studios in Paris's 20th arrondissement, describes itself as "hip-hop soul radio" and belongs to Les Indés Radios. Its web verticals split the catalogue into rap français, rap français gold, rap US, R&B, reggae, funk and soul; this channel (streamed as generationfm-slowjam) carries R&B and slow jams. The station is a category-B private broadcaster directed by Christophe Mahé.
+  sources: https://fr.wikipedia.org/wiki/Générations_(radio); http://generations.fr/
+curation: 0.15
 provenance:
   - radiobrowser-9612ee33-0601-11e8-ae97-52543be04c81
   - iprd-fr-generations-r-b-0021a14e
   - iprd-fr-generations-wati-b-e06be7c3
   - iprd-fr-generations-wati-b-d7171e1c
+  - radiobrowser-9ed1d3b7-a394-4a28-a5da-617b59f04b54
+  - iprd-fr-generations-r-b-1d738d1d
+streams:
+  - url: 'http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac'
+    codec: AAC+
+    bitrate: 64

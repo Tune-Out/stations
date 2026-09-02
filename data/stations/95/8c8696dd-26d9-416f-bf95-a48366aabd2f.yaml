@@ -33,3 +33,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-8c8696dd-26d9-416f-bf95-a48366aabd2f
+  - radiobrowser-600a7112-9b72-4979-9774-3aa989a6e7ff
+streams:
+  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8'
+    codec: AAC
+    bitrate: 92
+    hls: true
+  - url: 'https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true

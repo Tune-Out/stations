@@ -1,5 +1,5 @@
 stationuuid: 6e36299b-6a91-4022-9db4-f72a2c8e9fef
-name: RAC1 +1
+name: RAC+1
 url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3'
 url_resolved: 'https://25443.live.streamtheworld.com:443/RAC_MES_1.mp3'
 homepage: https://www.rac1.cat/rac-mes-1/directe
@@ -26,14 +26,15 @@ clickcount: 34
 geo_lat: 41.392553003933905
 geo_long: 2.145788669586182
 research:
-  reviewed_at: 2026-06-09
-  nature: public broadcaster
-  operator: Corporació Catalana de Mitjans Audiovisuals (CCMA); Catalan public broadcasting
-  affiliations: Catalan regional government media
-  audience: Catalonia, Spain; Catalan-speaking; general audience
-  format: News, sports, cultural programming, live sports coverage; +1 simulcast channel
-  notes: RAC1 is a major Catalan public radio station with news, sports, and cultural content; RAC1 +1 is a simulcast/additional channel
-  sources: internal knowledge only
-curation: 0.55
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Grupo Godó (Radiocat XXI), Barcelona
+  affiliations: Private commercial media group Godó (La Vanguardia); no public funding
+  audience: Catalan-speaking general audience in Catalonia
+  format: News-talk, sport and current affairs; +1 hour delayed relay of RAC1
+  notes: RAC1 is a private commercial Catalan-language talk station owned by Grupo Godó, launched 1 May 2000 in Barcelona; its morning magazine 'El món a RAC1' is the most-listened radio programme in Catalonia and the station leads the Catalan radio market. It is not a public broadcaster (Catalonia's public stations are CCMA's Catalunya Ràdio family). 'RAC+1' is RAC1's one-hour time-shifted rebroadcast feed on StreamTheWorld, so this entry duplicates the main RAC1 stream with a delay.
+  sources: https://en.wikipedia.org/wiki/RAC_1; https://www.rac1.cat/rac-mes-1/directe
+curation: 0.25
+duplicate_of: 38a33fc0-be05-4c98-8c6a-ba3869575bc1
 provenance:
   - radiobrowser-6e36299b-6a91-4022-9db4-f72a2c8e9fef

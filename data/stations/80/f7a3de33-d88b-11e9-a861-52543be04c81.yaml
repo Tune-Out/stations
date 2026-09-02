@@ -31,3 +31,13 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-f7a3de33-d88b-11e9-a861-52543be04c81
+  - radiobrowser-a6d33374-442b-45d1-aab8-f4f1acda1c03
+  - iprd-hr-radio-brac-fe481304
+streams:
+  - url: 'http://s8.iqstreaming.com:8066/listen.pls'
+    url_resolved: 'http://s8.iqstreaming.com:8066/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://s8.iqstreaming.com:8066/stream'
+    codec: MP3
+    bitrate: 192

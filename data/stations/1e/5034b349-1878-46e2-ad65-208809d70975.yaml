@@ -33,3 +33,10 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-5034b349-1878-46e2-ad65-208809d70975
+  - radiobrowser-f77cc04a-16fc-4748-ab6a-77c9699a9407
+streams:
+  - url: 'https://stream.bbrtv.com:10443/hls/scGbVLJGR/scGbVLJGR_live.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://lhttp-hw.qtfm.cn/live/1758/64k.mp3'
+    codec: MP3

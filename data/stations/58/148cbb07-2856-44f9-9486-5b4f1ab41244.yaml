@@ -32,6 +32,7 @@ curation: 0.3
 provenance:
   - radiobrowser-148cbb07-2856-44f9-9486-5b4f1ab41244
   - iprd-fr-allzic-zouk-5684ac6a
+  - radiobrowser-7dbd477b-2f11-4e32-864c-a138aa383cf6
 streams:
   - url: https://allzic28.ice.infomaniak.ch/allzic28.mp3
     codec: MP3
@@ -39,3 +40,6 @@ streams:
   - url: http://allzic28.ice.infomaniak.ch/allzic28.mp3
     codec: MP3
     bitrate: 128
+  - url: 'https://allzic28.ice.infomaniak.ch/allzic28.aac'
+    codec: AAC+
+    bitrate: 64

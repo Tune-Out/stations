@@ -34,3 +34,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-74103241-3f88-11ea-a9fa-52543be04c81
+  - radiobrowser-b48754a3-598c-44a5-ab26-55432a298392
+  - iprd-de-electrozombies-e1edafeb
+  - iprd-de-electrozombies-c01fbb7f
+streams:
+  - url: 'http://stream.laut.fm/electrozombies'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://electrozombies.stream.laut.fm/electrozombies'
+    codec: MP3
+    bitrate: 128

@@ -34,3 +34,13 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-9605ced9-0601-11e8-ae97-52543be04c81
+  - radiobrowser-11ca14a9-f6a2-49cf-befb-2d0cc84c730a
+  - iprd-de-wdr-cosmo-50440aaf
+  - iprd-de-wdr-cosmo-live-76fbc1a1
+streams:
+  - url: 'http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128

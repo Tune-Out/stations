@@ -23,15 +23,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
-  nature: community
-  operator: Radio Caprice (Russian independent internet radio network)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio Caprice (radcap.ru), Russia
   affiliations: none known
   audience: International metal and rock enthusiasts; English-language programming
-  format: Melodic death metal, heavy metal, and related subgenres; 320 kbit/s AAC+ stream
-  notes: Radio Caprice is a Russian-based independent internet radio network offering specialized music streams across various metal subgenres. Focuses on melodic death metal with high-quality audio.
-  sources: internal knowledge only
-curation: 0.6
+  format: Automated melodic death metal playlist, 320 kbit/s AAC+
+  notes: Radio Caprice (radcap.ru) is a Russian web-only radio network that runs several hundred narrowly genre-defined automated channels, of which Melodic Death Metal is one. There are no presenters or editorial programming — each channel is an unattended genre playlist, and the site is funded by Yandex display advertising rather than by listeners. The channel streams at 320 kbit/s AAC+ with a 48 kbit/s fallback and is still online.
+  sources: http://radcap.ru/
+curation: 0.28
 provenance:
   - radiobrowser-34aed61f-f87f-4e99-87d4-2d8a11491805
   - iprd-ru-radio-caprice-melodic-death-metal-a8066b5d

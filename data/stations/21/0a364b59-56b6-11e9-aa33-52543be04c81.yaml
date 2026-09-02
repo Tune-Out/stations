@@ -22,15 +22,24 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Media Holding (Russian media company)
-  affiliations: none known
-  audience: Russian drivers and commuters; regional focus on Saint-Petersburg
-  format: Music, traffic/travel news, entertainment, hit songs
-  notes: Dorozhnoye Radio (Road Radio) is a commercial music station launched in Russia targeting drivers. Broadcasts news, traffic information, and contemporary pop music. Based in Saint-Petersburg with regional service areas.
-  sources: internal knowledge only
-curation: -0.05
+  operator: European Media Group (Европейская медиагруппа, EMG)
+  affiliations: EMG (Europa Plus, Retro FM, Novoye Radio)
+  audience: Russian drivers and adult mainstream listeners nationwide
+  format: Russian pop, chanson and retro hits with traffic news
+  notes: Dorozhnoye Radio (Road Radio) is a Russian commercial network launched in Saint Petersburg on 24 July 2003, on FM 87.5 there since 2005 and in Moscow on 96.0 FM since 30 September 2010. Founded by Sergey Yamshchikov and Andrey Danilov, it was sold in 2014 to European Media Group (EMG), which moved headquarters to Moscow in 2015-2016. The format is urban romance, popular chanson and Russian and Western pop hits of the 1980s-2000s at about 85% Russian content, aimed at drivers with regular traffic news; it broadcasts 24/7 in more than 600 cities in Russia, Finland and Transnistria and was ranked the most-listened FM station in Russia in 2015 and 2023. Since 2012 it presents the annual Stars of Dorozhnoye Radio award and runs themed web streams (Nostalgia, Dancefloor, Rock Club).
+  sources: https://ru.wikipedia.org/wiki/Дорожное_радио; https://emg.fm/office/drpeterburg; https://dorognoe.ru/
+curation: 0.15
 provenance:
   - radiobrowser-0a364b59-56b6-11e9-aa33-52543be04c81
   - iprd-ru-dorozhnoye-radio-87-5-b8777e66
+  - radiobrowser-f19c561c-4107-40e2-9709-fd1b3ca80111
+  - iprd-ru-dorozhnoye-radio-8e7609ca
+streams:
+  - url: 'http://dorognoe.hostingradio.ru:8000/radio'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://dorognoe.hostingradio.ru/dorognoe_acc'
+    codec: AAC+
+    bitrate: 64

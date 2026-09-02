@@ -38,3 +38,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-8304481d-776b-4bc7-86ed-3776d4a996e5
+  - radiobrowser-533dc341-1dbb-46bb-b2d3-d43f9752bccd
+streams:
+  - url: 'https://stream.tunerplay.com/radio/8050/rocksateliteradio.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://server5.mediasector.es:8050/rocksatelite.mp3'
+    codec: MP3
+    bitrate: 256

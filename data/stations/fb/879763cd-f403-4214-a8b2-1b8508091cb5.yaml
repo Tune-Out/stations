@@ -26,14 +26,14 @@ clickcount: 6
 geo_lat: 9.007079512852473
 geo_long: 38.79272460937501
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Sheger Radio (Ethiopian commercial broadcaster)
   affiliations: none known
   audience: Ethiopian listeners in Addis Ababa and across Ethiopia, multilingual (Amharic, English, Oromo speakers)
   format: Music and local content - contemporary and traditional Ethiopian music
-  notes: Ethiopian radio station based in Addis Ababa, serving local audience with music and cultural programming in Amharic, English, and Oromo languages. Commercial operation utilizing zeno.fm streaming platform.
-  sources: internal knowledge only
-curation: -0.05
+  notes: Sheger365 was an Addis Ababa, Ethiopia multilingual (Amharic/English/Oromo) entertainment station streamed via Zeno.fm. Its homepage no longer resolves and its Zeno stream endpoint now returns 401 Unauthorized, suggesting the station has gone offline or been removed from the platform; distinct from the still-active "Sheger FM" brand (shegerfm.com).
+  sources: https://sheger365.com/ (DNS failure); stream endpoint tested
+curation: -0.12
 provenance:
   - radiobrowser-879763cd-f403-4214-a8b2-1b8508091cb5

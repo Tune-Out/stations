@@ -23,14 +23,15 @@ clickcount: 129
 geo_lat: 40.75166
 geo_long: -73.97538
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: WALM Radio (independent, listener-supported online project based in New York)
-  affiliations: none known politically/governmentally; sister stations include Christian-themed channels but this stream is secular old-time-radio content
-  audience: global English-speaking enthusiasts of vintage US radio programming and 78-rpm-era recordings
-  format: 24/7 old-time radio (OTR) — classic American radio drama, comedy, mystery, sci-fi, and musicals from the 1920s-1950s, plus V-Disc and 78-rpm material; broadcast in Opus codec for low-bitrate high quality
-  notes: WALM operates a small family of internet streams dedicated to preserving vintage US audio heritage, including Old Time Radio, Classic Vinyl (78-rpm era), and Christian/Classical channels. Self-describes as "premium online radio streaming with crystal-clear audio quality." Known among the OTR hobbyist community for high-fidelity restoration and curation. Listener-supported / donation-funded rather than ad-supported.
-  sources: https://walmradio.com/otr, internal knowledge
-curation: 0.6
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: WALM Radio, an independent internet-only streaming operation
+  affiliations: none known; sister channels include Christian and classical streams, but this one is secular
+  audience: English-speaking enthusiasts of vintage American radio drama worldwide
+  format: 24/7 old-time radio - American drama, comedy, mystery and science fiction from the 1920s to 1950s
+  notes: WALM Old Time Radio is one of six channels run by WALM Radio, an internet-only streaming service with no broadcast licence behind its callsign-style name. The channel plays vintage American radio programming around the clock - drama, comedy, mystery and science fiction from the 1920s through the 1950s - and this entry carries it in the Opus codec at low bitrate. WALM's other streams are WALM1 contemporary Christian, WALM2 traditional Christian and classical, Christmas Vinyl, Classic Vinyl and Adroit Jazz Underground. The service markets itself on audio quality, offering HD streams with live track information, and is well regarded in old-time-radio hobbyist circles.
+  sources: https://walmradio.com/otr
+curation: 0.53
+duplicate_of: 313046e3-b203-4b9d-bc3e-393da7d97126
 provenance:
   - radiobrowser-64b357e7-d9e9-4cb6-99b5-4cb6cef785cc

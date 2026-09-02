@@ -34,6 +34,8 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-0430d20a-f978-4351-8d06-f7bf8b86f41e
+  - radiobrowser-7507303b-e55d-4f92-8cbe-dcf8f110cb81
+  - radiobrowser-96b913af-06ca-48ae-ae1f-3fba096bb43b
 streams:
   - url: http://stream2.ruhit.fm:9000/19_ruhit_128_reg_1
     codec: AAC
@@ -41,3 +43,9 @@ streams:
   - url: https://stream2.n340.com/19_ruhit_24_reg_1?type=.aac&UID=CF32CF867382134A8C278C56C3CC282E
     codec: MP3
     bitrate: 28
+  - url: 'https://air2.volna.top/RusHit-MSK'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_19_ruhit_64_reg_1'
+    codec: AAC
+    bitrate: 64

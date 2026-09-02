@@ -35,3 +35,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-8e448432-0e90-462c-bb2d-adf87f0193e2
+  - radiobrowser-fd490f13-4a55-40af-ab91-ab4accfb9b42
+streams:
+  - url: 'https://stream.radios.rs:9012/stream'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_cafe/playlist.m3u8'
+    codec: AAC
+    bitrate: 43
+    hls: true

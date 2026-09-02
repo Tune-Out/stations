@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Grupo Radio Centro
+  affiliations: ''
+  audience: Mexico City
+  format: Sports / Latin pop / talk
+  notes: XEQR-AM 1030 in Mexico City is a heritage commercial station operated by Grupo Radio Centro, historically branded 'Radio Centro' and more recently as a sports-talk outlet ('Radio Centro Deportes'). It carries sports, Latin pop and general-interest commercial programming.
+  sources: 'IPRD: streams/mx/mx.m3u'
+curation: 0.05
+duplicate_of: eec8cd03-5257-4613-914b-4be731a5cbaf
 provenance:
   - iprd-mx-grupo-radio-centro-1030-xeqr-434fb9a0

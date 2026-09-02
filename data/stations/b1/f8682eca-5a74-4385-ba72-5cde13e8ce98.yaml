@@ -34,3 +34,11 @@ curation: 0.5
 provenance:
   - radiobrowser-f8682eca-5a74-4385-ba72-5cde13e8ce98
   - iprd-fi-yle-x3m-f7b6c0fe
+  - radiobrowser-0ac6572e-848c-4099-8bc9-3e768c0e7a87
+streams:
+  - url: 'http://icecast.live.yle.fi/radio/YleX3M/icecast.audio'
+    codec: AAC+
+  - url: 'https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8'
+    codec: AAC
+    bitrate: 256
+    hls: true

@@ -33,3 +33,11 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-f2f65d44-2101-4742-9c93-314f124dedbf
+  - radiobrowser-78602731-7afd-4e17-b418-b38f2f222add
+streams:
+  - url: 'http://listen.rba.co.rw:8080/'
+    codec: MP3
+    bitrate: 80
+  - url: 'http://listen.rba.co.rw:8080/;'
+    codec: MP3
+    bitrate: 80

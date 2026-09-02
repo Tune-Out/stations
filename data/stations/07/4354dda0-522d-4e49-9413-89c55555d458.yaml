@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ve/ve.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: oldies/classic rock
+  notes: RockNet Radio appears to be a small independent online oldies/rock stream operating from a low-cost .ml domain, a pattern often associated with short-lived hobbyist stations. Country attribution (Venezuela) is uncertain given the generic freenom-style domain.
+  sources: 'IPRD: streams/ve/ve.m3u'
+curation: -0.03
 provenance:
   - iprd-ve-rocknet-radio-7aca97f8

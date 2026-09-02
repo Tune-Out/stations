@@ -22,15 +22,15 @@ clickcount: 14
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Unknown — distributed/aggregated via the liveonlineradio.net directory; original Bangladeshi religious-content operator not publicly identified
-  affiliations: Islamic (Sunni); Quranic recitation and Bengali-language Islamic content
-  audience: Bengali-speaking Muslim listeners in Bangladesh, West Bengal (India), and the worldwide Bangladeshi diaspora
-  format: 24/7 Quran recitation (tilawat) with Bangla translation/tafsir, Islamic naat, and religious lectures
-  notes: One of many small Bangladeshi-Islamic internet-only streams that proliferated in the 2010s alongside mainstream broadcasters such as Bangladesh Betar; commonly carried via streaming aggregators including liveonlineradio.net which lists numerous Bangla Islamic streams; no known terrestrial FM presence
-  sources: internal knowledge only
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: religious
+  operator: Radio Quraan (radioquraan.com), operator not publicly named
+  affiliations: Islamic devotional broadcasting
+  audience: Muslim listeners worldwide seeking continuous Quran recitation; popular with Bangladeshi directory users
+  format: 24/7 Quran recitation (tilawah) by various reciters, in Arabic
+  notes: The stream catalogued as 'Al-quran Bangla' is actually Radio Quraan (راديو القرآن), a 24/7 Quran-recitation internet station whose Shoutcast server identifies itself with the homepage radioquraan.com and the genre Islamic religious talk. The audio consists of continuous Arabic Quran recitation by well-known qaris (Muhammad Al Faqih was playing at check time), not Bengali-language content; the 'Bangla' label comes from the liveonlineradio.net directory page under which it was listed. The operator is not publicly identified beyond the site, which presents itself as a non-profit devotional broadcast with no terrestrial presence. The server shows a healthy audience (peak over 1,200 listeners).
+  sources: https://radioquraan.com/; http://66.45.232.131:9994/stats?sid=1; https://www.liveonlineradio.net/bangla/bangla-al-quran.htm
+curation: 0.28
 provenance:
   - radiobrowser-c6428c62-75d9-11ea-b1cf-52543be04c81
   - iprd-af-ariana-fm-93-5-f89edcce

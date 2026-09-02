@@ -20,14 +20,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: New England Public Media
+  affiliations: NPR
+  audience: ''
+  format: public radio simulcast
+  notes: WNNZ 640 AM is an outlet of New England Public Media (formerly New England Public Radio/WFCR), the NPR member organization serving western Massachusetts from Amherst/Springfield. The listed stream endpoint appears stale even though the parent organization remains active under its current nepm.org branding.
+  sources: https://en.wikipedia.org/wiki/New_England_Public_Media
+curation: 0.45
 provenance:
   - iprd-us-wnnz-640-new-england-public-radio-1cb7a527

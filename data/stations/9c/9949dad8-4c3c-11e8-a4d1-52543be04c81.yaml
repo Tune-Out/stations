@@ -37,3 +37,12 @@ curation: 0.4
 provenance:
   - radiobrowser-9949dad8-4c3c-11e8-a4d1-52543be04c81
   - iprd-de-narrenwut-f6a02b1d
+  - radiobrowser-e2a730ce-9dea-4a14-8c4e-730c7f2421df
+streams:
+  - url: 'http://stream.laut.fm/mittelalter-net.m3u'
+    url_resolved: 'http://mittelalter-net.stream.laut.fm/mittelalter-net?pl=m3u&t302=2026-01-15_08-11-57&uuid=fc48be08-8be2-477f-b57b-5f18dfc2d136'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/mittelalter-net'
+    codec: MP3
+    bitrate: 128

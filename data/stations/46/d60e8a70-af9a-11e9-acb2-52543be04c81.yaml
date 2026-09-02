@@ -20,15 +20,15 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: KAN (Israeli public broadcaster)
-  affiliations: Israeli state public broadcaster.
-  audience: Israeli Hebrew-speaking listeners; national audience.
-  format: Public radio with news, current affairs, culture, and music programming.
-  notes: KAN (Kan Tekuna — Israeli Public Broadcasting) is Israel's public broadcaster. KAN 88 is one of main radio services. Provides news, culture, and general interest programming in Hebrew.
-  sources: internal knowledge only
-curation: 0.5
+  operator: Israeli Public Broadcasting Corporation (Kan)
+  affiliations: Kan public broadcaster radio network
+  audience: Israeli adults seeking alternative, rock and jazz music
+  format: Classic rock, alternative, indie, jazz, world and blues with presenter-curated shows
+  notes: Kan 88 is the music station of the Israeli Public Broadcasting Corporation, launched on 15 May 2017 as the successor to Israel Radio's 88FM and broadcasting on 88.0 FM in the Tel Aviv area with relays on 87.6, 88.2 and 88.5. It is known for curated alternative, indie, classic rock, jazz, world and blues programming by named presenters, and moved its studios from Tel Aviv to Jerusalem. The old kanliveicy host in the catalog no longer resolves, so the stream URL needs updating.
+  sources: https://en.wikipedia.org/wiki/Kan_88; https://www.kan.org.il/
+curation: 0.70
 provenance:
   - radiobrowser-d60e8a70-af9a-11e9-acb2-52543be04c81
   - iprd-il-kan-88-5a79479e

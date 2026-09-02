@@ -32,3 +32,10 @@ curation: -0.05
 provenance:
   - radiobrowser-380e0b5c-a0b5-11e8-a9f3-52543be04c81
   - iprd-co-la-pachanguera-95-1-2e171efb
+  - radiobrowser-372de57e-319d-492a-972a-eccfe1001633
+streams:
+  - url: 'http://radiolatina.info:8772/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.zeno.fm/cc6vqgx4kv8uv'
+    codec: MP3

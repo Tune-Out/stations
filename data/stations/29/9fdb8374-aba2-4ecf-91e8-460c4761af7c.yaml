@@ -36,3 +36,11 @@ curation: -0.05
 provenance:
   - radiobrowser-9fdb8374-aba2-4ecf-91e8-460c4761af7c
   - iprd-sk-radio-viva-935c8110
+  - radiobrowser-4bbf64b0-ab2f-4da7-96bb-0529b1f21331
+streams:
+  - url: 'http://stream.sepia.sk:8000/viva128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.sepia.sk/viva128.mp3'
+    codec: MP3
+    bitrate: 128

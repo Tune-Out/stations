@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 'Imported from IPRD catalog. Editorial flag: Infowars is Alex Jones''s conspiracy/disinformation outlet (Sandy Hook defamation judgments, repeated platform bans for false claims). Named explicitly in the rubric as a disinformation outlet.'
+  sources: 'IPRD: streams/us/us.m3u'
+curation: -1.00
 provenance:
   - iprd-us-infowars-5fc7b8e6

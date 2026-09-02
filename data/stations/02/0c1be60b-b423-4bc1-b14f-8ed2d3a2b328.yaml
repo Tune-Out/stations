@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: NBC Sports Radio
+  audience: Phoenix/Tempe, Arizona
+  format: sports talk
+  notes: KDUS 1060, branded 'NBC Sports 1060,' is a commercial sports-talk AM station licensed to Tempe, Arizona, carrying NBC Sports Radio network programming alongside local sports talk.
+  sources: https://19273.live.streamtheworld.com:443/KDUSAMAAC_SC
 curation: 0
+duplicate_of: 9648e3bd-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-kdus-1060-de2bb680

@@ -24,14 +24,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/es/es.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: Artà, Mallorca
+  format: pop/dance/top-40
+  notes: Ràdio Artà 107.9 is a small local/community radio station serving Artà, a town in Mallorca, Balearic Islands, Spain, with a pop/dance/top-40 format. The catalog homepage field is a broken thumbnail image link rather than a genuine site, and the listed stream did not respond.
+  sources: 'IPRD: streams/es/es.m3u'
+curation: 0.03
 provenance:
   - iprd-es-r-dio-art-107-9-06c7eb28

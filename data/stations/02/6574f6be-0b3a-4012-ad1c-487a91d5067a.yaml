@@ -20,14 +20,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: LGBTQ+ online community
+  format: community/niche
+  notes: Queercraft Radio appears to be a small niche internet radio stream tied to an LGBTQ+-oriented online gaming/community server ('queercraft.net'). The listed stream endpoint redirected to a web page rather than audio at time of check.
+  sources: 'IPRD: streams/us/us.m3u'
+curation: 0.03
 provenance:
   - iprd-us-queercraft-radio-bb7c5796

@@ -35,3 +35,11 @@ curation: 0.35
 provenance:
   - radiobrowser-4bd1c5b9-f994-44bc-802c-68bc040b122c
   - iprd-cn-xuzhou-news-comprehensive-broadcasting-2f2acb47
+  - radiobrowser-4ca00934-0a38-4119-ae2b-16980bf3e415
+streams:
+  - url: 'https://lhttp.qingting.fm/live/4922/64k.mp3'
+    codec: MP3
+  - url: 'http://stream3.huaihai.tv/aac_gbfm93/playlist.m3u8'
+    codec: UNKNOWN
+    bitrate: 64
+    hls: true

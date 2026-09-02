@@ -34,3 +34,9 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-7de5000d-0e23-4e39-b911-7fab122bc87e
+  - iprd-ca-cjem-92-7-3e3c9431
+streams:
+  - url: 'https://stream2.statsradio.com:8096/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream2.statsradio.com/8096/stream'

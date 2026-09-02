@@ -2,7 +2,7 @@ stationuuid: 735cc131-d099-43bc-bbe4-5d9c0bfed5a6
 name: RSG
 url: http://albert.antfarm.co.za/rsg/rsg.stream/playlist.m3u8
 url_resolved: http://albert.antfarm.co.za/rsg/rsg.stream/playlist.m3u8
-homepage: https://encrypted-tbn0.gstatic.com
+homepage: https://www.rsg.co.za
 favicon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwAjVp4WTcKzitXDQxhNsf2OLGzfnD2fbNGQ&s
 tags: []
 country: South Africa
@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/za/za.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: South African Broadcasting Corporation (SABC)
+  affiliations: ''
+  audience: Afrikaans-speaking South Africans
+  format: Afrikaans full-service (news, talk, music)
+  notes: RSG (Radio Sonder Grense, 'Radio Without Borders') is the Afrikaans-language full-service national radio channel of the South African Broadcasting Corporation, launched in 1937 as the SABC's 'B' service and mandated as one of South Africa's official-language public services.
+  sources: https://en.wikipedia.org/wiki/Radio_Sonder_Grense
+curation: 0.50
+duplicate_of: 1680e92f-c3b2-451c-9d76-f1a9708daecb
 provenance:
   - iprd-za-rsg-fecfd1e2

@@ -1,5 +1,5 @@
 stationuuid: 961662de-0601-11e8-ae97-52543be04c81
-name: Ретро ФМ
+name: Ретро FM
 url: http://retroserver.streamr.ru:8043/retro128
 url_resolved: http://retroserver.streamr.ru:8043/retro128
 homepage: http://retrofm.ru/
@@ -22,15 +22,16 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Retro FM (Russian independent radio)
-  affiliations: none known
-  audience: Russia and Russian-speaking regions; Russian language; nostalgia and retro music enthusiasts
-  format: Retro and classic music; 1960s-1990s hits, nostalgic Russian and international pop
-  notes: Major Russian commercial radio station with 31,039 votes indicating substantial audience. Focus on retro/classic music catalog. Popular in post-Soviet states.
-  sources: internal knowledge only
-curation: -0.05
+  operator: European Media Group (ЕМГ)
+  affiliations: Part of EMG (Europa Plus, Dorozhnoe Radio, Novoe Radio); no religious or governmental affiliation
+  audience: Russian-speaking adults 35-65 across Russia and the CIS
+  format: 'Gold retro: Soviet/Russian and international hits of the 1960s-2000s'
+  notes: 'Ретро FM (Retro FM) is one of Russia''s largest commercial radio networks, headquartered in Moscow (88.3 FM) and St Petersburg (88.0 FM) and owned by European Media Group (EMG). It started as Radio Retro on 14 February 1996 and took its current name on 29 May 2003 after absorbing Radio Nostalgie. The format is "gold retro": Soviet, Russian and international hits from the 1960s to the 2000s in a roughly 65/35 foreign-to-Russian mix, aimed at listeners aged 35-65. Around 280 transmitters reach more than 1,800 Russian towns plus 40 transmitters in ten other countries, giving nearly 9 million daily listeners. This 128 kbps entry duplicates the higher-voted Ретро FM entry served from the same server.'
+  sources: https://ru.wikipedia.org/wiki/Ретро_FM; https://retrofm.ru/
+curation: 0.00
+duplicate_of: 964fade0-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-961662de-0601-11e8-ae97-52543be04c81
   - iprd-ru-retro-fm-e198adc1

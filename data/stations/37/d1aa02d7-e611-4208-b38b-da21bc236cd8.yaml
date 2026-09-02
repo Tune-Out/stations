@@ -33,3 +33,12 @@ provenance:
   - radiobrowser-d1aa02d7-e611-4208-b38b-da21bc236cd8
   - iprd-fr-radio-classique-ba7664ed
   - iprd-fr-radio-classique-826c3a8a
+  - radiobrowser-8890f793-36f4-4218-8f53-3d34a75db66a
+  - iprd-fr-radio-classique-995ad08a
+streams:
+  - url: 'https://str0.creacast.com/classique1'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3'
+    codec: MP3
+    bitrate: 128

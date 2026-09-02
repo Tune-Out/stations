@@ -36,6 +36,8 @@ research:
 curation: 0.9
 provenance:
   - radiobrowser-9610cad0-0601-11e8-ae97-52543be04c81
+  - radiobrowser-8d05693c-5f63-413c-8866-7d87a6fbd3a2
+  - iprd-de-rautemusik-lounge-e41daa59
 streams:
   - url: http://lounge-high.rautemusik.fm/
     codec: MP3
@@ -43,3 +45,6 @@ streams:
   - url: https://lounge-high.rautemusik.fm/
     codec: MP3
     bitrate: 192
+  - url: 'http://lounge-aacp.rautemusik.fm/'
+    codec: AAC+
+    bitrate: 48

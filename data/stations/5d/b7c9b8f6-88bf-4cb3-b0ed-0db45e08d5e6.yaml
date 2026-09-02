@@ -35,3 +35,13 @@ curation: 0.7
 provenance:
   - radiobrowser-b7c9b8f6-88bf-4cb3-b0ed-0db45e08d5e6
   - iprd-us-kdfc-89-9-77f171ed
+  - radiobrowser-a214dd51-1724-4053-a034-73bfcdb06a9b
+streams:
+  - url: 'https://128.mp3.pls.kdfc.live/'
+    url_resolved: 'https://14093.live.streamtheworld.com/KDFCFM_SC'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/pls/KDFCFMAAC96.pls'
+    url_resolved: 'https://14923.live.streamtheworld.com:443/KDFCFMAAC96_SC'
+    codec: AAC+
+    bitrate: 96

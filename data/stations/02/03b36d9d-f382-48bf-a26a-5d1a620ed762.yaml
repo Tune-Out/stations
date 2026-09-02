@@ -34,10 +34,14 @@ curation: 0.35
 provenance:
   - radiobrowser-03b36d9d-f382-48bf-a26a-5d1a620ed762
   - iprd-us-that-christmas-channel-1e0a1e80
+  - radiobrowser-23cc264c-7d22-4d05-a8d2-f33fead87396
 streams:
   - url: http://ais-edge105-live365-dal02.cdnstream.com/a37180
     codec: MP3
     bitrate: 128
   - url: http://streaming.live365.com/b55667_128mp3
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.live365.com/a37180?listenerId=Live365-AdBlock'
     codec: MP3
     bitrate: 128

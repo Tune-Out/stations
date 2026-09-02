@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ca/ca.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Jim Pattison Broadcast Group
+  affiliations: ''
+  audience: Prince Albert, Saskatchewan
+  format: hits/oldies
+  notes: CHQX-FM, branded 'Beach Radio 101.5,' is a commercial hits/oldies station licensed to Prince Albert, Saskatchewan, Canada, part of the Jim Pattison Broadcast Group. It plays classic hits with local Prince Albert news and community content.
+  sources: https://stream.jpbgdigital.com/CHQX.m3u8
+curation: 0.05
+duplicate_of: d1460f05-6e73-44e8-9691-e18997eb075a
 provenance:
   - iprd-ca-chqx-101-5-09211216

@@ -23,18 +23,19 @@ clickcount: 24
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Dance Wave Retro (community/volunteer)
-  affiliations: none known
-  audience: global internet audience, 90s dance/electronic music enthusiasts, English-speaking
-  format: 100% 1990s dance and electronic music; house, techno, trance, eurodance from 1990s era
-  notes: Dance Wave Retro! is an internet-based radio stream hosted in Hungary specializing exclusively in 1990s dance and electronic music. Non-commercial web radio with global reach targeting nostalgia-oriented audience and electronic music enthusiasts. Focuses on house, techno, trance, eurodance, and other electronic genres from the 1990s dance music golden era. Volunteer-operated online community radio station.
-  sources: internal knowledge only
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Dance Wave (independent Hungarian web radio)
+  affiliations: sister channel Dance Wave!
+  audience: Global 1990s dance music fans
+  format: 1990s dance, eurodance, house, trance
+  notes: Dance Wave Retro! is the companion channel of Dance Wave!, an independent Hungarian internet radio started in September 2015 and modelled on international dance web stations. While the main channel plays dance and club music from 2000 onward, Retro! is dedicated to 1990s dance, eurodance, house and trance. The station streams in MP3, AAC+, Ogg, Opus and FLAC, is listed on Hungarian radio portals such as MyOnlineRadio.hu and Online-Radio.hu, and has a large following on community directories (its sister channel is among the most-voted stations on Radio Browser). The operator is not named publicly; the catalog homepage URL contains a typo (dacemwave) and the working site is dancewave.online.
+  sources: https://dancewave.online/; https://myonlineradio.hu/dance-wave; https://onlineradiobox.com/hu/dancewaveretro/
+curation: 0.38
 provenance:
   - radiobrowser-964be8b7-0601-11e8-ae97-52543be04c81
   - iprd-hu-dance-wave-retro-6feb68ae
+  - radiobrowser-a6692d00-d0ae-4573-88d6-7fbcf11bd860
 streams:
   - url: https://retro.dancewave.online/retrodance.ogg
     codec: OGG
@@ -50,3 +51,7 @@ streams:
   - url: https://retro.dancewave.online/retrodance.mp3
     codec: MP3
     bitrate: 128
+  - url: 'https://dancewave.online/retrodance.opus'
+    url_resolved: 'https://stream1.dancewave.online:8082/retrodance.opus'
+    codec: OGG
+    bitrate: 96

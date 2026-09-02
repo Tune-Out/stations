@@ -23,15 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
   operator: Bulgarian National Radio (BNR)
-  affiliations: Bulgarian state media (statutory broadcasting organization)
-  audience: Sofia and surrounding region, Bulgaria; general audience; Bulgarian-speaking
-  format: 'Mixed-format public radio: news, music, culture, lifestyle; shows include "Събуди се, София" (Wake Up Sofia), "Радиокафе" (Radio Café), "Добър вечер, София" (Good Evening Sofia).'
-  notes: BNR Sofia is Bulgaria's flagship public radio station; part of national broadcast network. Operates mobile reporting unit ("Car of Radio Sofia"), active podcasting, social media engagement. News, health, culture, and entertainment focus.
-  sources: https://bnrnews.bg/sofia
-curation: 0.55
+  affiliations: Bulgarian public broadcaster; EBU member
+  audience: Sofia and surrounding region
+  format: Regional news, talk and music hits
+  notes: BNR Radio Sofia is the Bulgarian National Radio's regional station for the capital, broadcasting 24 hours on 94.5 MHz FM since 2007 as 'the voice of the capital and region'. It mixes information and discussion programmes about everyday life in Sofia with music hits, with flagship shows Събуди се, София (Wake Up, Sofia) and Радиокафе. The catalogue's stream.bnr.bg AAC URL is dead; the station's current live feed is the HLS playlist at https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8 linked from bnrnews.bg/sofia.
+  sources: https://bnrnews.bg/sofia; https://onlineradiobox.com/bg/sofialive/; https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8
+curation: 0.52
 provenance:
   - radiobrowser-961634ec-0601-11e8-ae97-52543be04c81
   - iprd-bg-bnr-radio-sofia-94-5-cbbdcde9

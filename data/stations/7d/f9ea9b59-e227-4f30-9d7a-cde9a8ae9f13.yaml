@@ -35,3 +35,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-f9ea9b59-e227-4f30-9d7a-cde9a8ae9f13
+  - radiobrowser-5b59f175-b633-4861-a17d-de155de0e8bf
+streams:
+  - url: 'https://live.radiovibefm.eu/8052/stream'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://radiotrucker.com/en/play/vibe-fm-romania'
+    codec: MP3
+    bitrate: 320

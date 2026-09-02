@@ -37,3 +37,9 @@ curation: 0.3
 provenance:
   - radiobrowser-41ff1cdf-5d52-43e4-ae6e-2841fe4c4493
   - iprd-ae-beyonce-ef84f0c6
+  - iprd-ae-beyonce-hits-ad18d4b2
+streams:
+  - url: 'https://streaming.exclusive.radio/er/beyonce/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.exclusive.radio/er/beyoncehits/icecast.audio'
+    bitrate: 128

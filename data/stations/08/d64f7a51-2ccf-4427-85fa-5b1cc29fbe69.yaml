@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fr/fr_nrjgroup.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: NRJ Afro Hits is a themed digital-only spin-off channel of NRJ Group, France's major commercial radio network, playing Afrobeats/African hit music via the NRJ streaming platform (players.nrjaudio.fm). It has a specific genre identity but is otherwise a standard commercial hit-music relay.
+  sources: https://players.nrjaudio.fm
+curation: 0.05
 provenance:
   - iprd-fr-nrj-afro-hits-ffd02424

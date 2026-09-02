@@ -36,3 +36,11 @@ provenance:
   - radiobrowser-99fa7130-e705-11e9-a96c-52543be04c81
   - iprd-fr-france-musique-ocora-c81091a3
   - iprd-fr-france-musique-ocora-08c2c395
+  - radiobrowser-18c9ab24-a043-4a9a-9db6-7bb8dcb4e55a
+streams:
+  - url: 'http://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://icecast.radiofrance.fr/francemusiqueocoramonde-midfi.mp3'
+    codec: MP3
+    bitrate: 128

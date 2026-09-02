@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pl/pl.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Grupa Eurozet (ESKA network)
+  affiliations: ESKA national network
+  audience: Bełchatów, Poland
+  format: Top 40 / pop hits
+  notes: ESKA Bełchatów is a local relay of ESKA, one of Poland's largest national commercial hit-music radio networks, carrying automated current-hits/pop programming with minimal distinct local editorial identity.
+  sources: 'IPRD: streams/pl/pl.m3u'
+curation: -0.05
 provenance:
   - iprd-pl-eska-belchatow-58c3ce49

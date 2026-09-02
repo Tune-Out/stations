@@ -35,3 +35,29 @@ research:
 curation: 0.65
 provenance:
   - radiobrowser-f7f14f0d-9631-4395-8695-84c448e4bf06
+  - radiobrowser-be24d794-23ca-11e9-a80b-52543be04c81
+  - radiobrowser-ce1e9521-8ad2-4e1a-a092-b3e08e6268c5
+  - radiobrowser-f2c1d30b-8a7d-416c-950a-1afff194337f
+  - iprd-nl-kink-8657a186
+  - iprd-nl-kink-48965409
+  - iprd-nl-kink-classics-6f103993
+  - iprd-nl-kink-distortion-35ddd0f9
+  - iprd-nl-kink-dna-8cf6156e
+  - iprd-nl-kink-indie-a86d0034
+streams:
+  - url: 'https://playerservices.streamtheworld.com/pls/KINKAAC.pls'
+    url_resolved: 'https://25253.live.streamtheworld.com:443/KINKAAC_SC'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://playerservices.streamtheworld.com/pls/KINK.pls'
+    url_resolved: 'http://22663.live.streamtheworld.com:80/KINK_SC'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://playerservices.streamtheworld.com/pls/KINKAAC2.pls'
+    url_resolved: 'https://22723.live.streamtheworld.com:443/KINKAAC2_SC'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC2.aac?sbmid=860963b4-6223-4be2-908c-1933bde320e6'
+    url_resolved: 'https://28973.live.streamtheworld.com:443/KINKAAC2.aac?sbmid=860963b4-6223-4be2-908c-1933bde320e6'
+    codec: AAC+
+    bitrate: 96

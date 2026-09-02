@@ -1,5 +1,5 @@
 stationuuid: 96147d8c-0601-11e8-ae97-52543be04c81
-name: WBUR 90.9 FM Boston [MP3]
+name: WBUR 90.9 FM Boston
 url: http://wbur-sc.streamguys.com/wbur
 url_resolved: http://wbur-sc.streamguys.com/wbur
 homepage: http://www.wbur.org/
@@ -24,15 +24,15 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: WBUR Boston (member of Boston University)
-  affiliations: NPR; public radio; Boston University
+  operator: Trustees of Boston University
+  affiliations: NPR member station
   audience: New England; news and talk radio listeners; public radio
-  format: News, talk, journalism, current affairs, arts, culture; NPR programming
-  notes: Founded 1983; major NPR-affiliated station serving Boston and New England; known for in-depth journalism and public affairs programming.
-  sources: internal knowledge only
-curation: 0.65
+  format: News and talk; NPR programming
+  notes: WBUR-FM 90.9 is Boston's largest NPR news station, licensed to the Trustees of Boston University and on the air since 1 March 1950. It runs a full news and talk format and is a significant national NPR producer, originating On Point and Here & Now (carried by 400-plus stations) as well as the local Radio Boston; Car Talk and Only a Game also came from its studios. It remains one of the most consequential public-radio newsrooms in the United States.
+  sources: https://en.wikipedia.org/wiki/WBUR-FM; https://www.wbur.org/
+curation: 0.80
 provenance:
   - radiobrowser-96147d8c-0601-11e8-ae97-52543be04c81
   - iprd-us-wbur-90-9-6fb47011

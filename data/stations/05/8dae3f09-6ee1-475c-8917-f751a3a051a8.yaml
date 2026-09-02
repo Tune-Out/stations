@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ke/ke.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: Kamba-language listeners, Kenya
+  format: news/talk, vernacular
+  notes: Kenyan station branded for the Akamba (Kamba) ethnic-language audience, carrying a news-talk format. No independent corroborating source was found beyond the catalog metadata and a working stream.
+  sources: stream check; no independent web sources found
+curation: 0.03
 provenance:
   - iprd-ke-akamba-100-8-d8b0f34e

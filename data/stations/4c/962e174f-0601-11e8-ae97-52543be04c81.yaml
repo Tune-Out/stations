@@ -35,6 +35,7 @@ research:
 curation: 0.2
 provenance:
   - radiobrowser-962e174f-0601-11e8-ae97-52543be04c81
+  - iprd-us-wqkl-107-1-e8b8169a
 streams:
   - url: 'http://26443.live.streamtheworld.com:80/WQKLFMAAC_SC'
     url_resolved: http://26233.live.streamtheworld.com:3690/WQKLFMAAC_SC
@@ -44,3 +45,5 @@ streams:
     url_resolved: http://22203.live.streamtheworld.com:3690/WQKLFM_SC
     codec: MP3
     bitrate: 80
+  - url: 'https://playerservices.streamtheworld.com/pls/WQKLFM.pls'
+    url_resolved: 'https://18323.live.streamtheworld.com:443/WQKLFM_SC'

@@ -2,7 +2,7 @@ stationuuid: 9606baf5-0601-11e8-ae97-52543be04c81
 name: MDR Sputnik Club
 url: http://avw.mdr.de/streams/284331-2_mp3_high.m3u
 url_resolved: http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
-homepage: http://sputnik.de/musik
+homepage: https://www.sputnik.de/
 favicon: https://www.mdr.de/resources/assets/resources/images/favicon/apple-touch-icon.png
 tags:
   - dance
@@ -23,15 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: state media
-  operator: MDR (Mitteldeutscher Rundfunk) - German public broadcaster
-  affiliations: ARD (public broadcasting alliance); German public television/radio system
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Mitteldeutscher Rundfunk (MDR), ARD
+  affiliations: ARD public broadcasting
   audience: German speakers; eastern Germany focus (MDR coverage area); youth and young adults for Sputnik
-  format: Dance and club music specialization; house, techno, electro, club hits, DJ mixes
-  notes: MDR (Mitteldeutscher Rundfunk) is a public broadcasting company serving eastern Germany (Saxony, Saxony-Anhalt, Thuringia). Sputnik Club is one of its specialty channels focused on dance/electronic music. Part of the ARD public broadcasting system. Youth-oriented dance music format.
-  sources: internal knowledge only
-curation: 0.5
+  format: 'Club music web channel: house, techno, electro, DJ mixes from Sputnik evening shows'
+  notes: MDR Sputnik is the youth radio of Mitteldeutscher Rundfunk (MDR), the ARD public broadcaster for Saxony, Saxony-Anhalt and Thuringia, launched 1 May 1993 as successor to the East German DT64. Sputnik Club is one of its genre web channels, looping current episodes of the station's evening club-music shows (house, techno, electro, DJ mixes) in continuous rotation alongside sister streams for rock and electronic. It is licence-fee funded and ad-free; MDR plans to end Sputnik's FM transmission in 2026 while keeping DAB+ and online.
+  sources: https://de.wikipedia.org/wiki/MDR_Sputnik; https://www.sputnik.de/
+curation: 0.60
 provenance:
   - radiobrowser-9606baf5-0601-11e8-ae97-52543be04c81
   - iprd-de-mdr-sputnik-club-da67f43b

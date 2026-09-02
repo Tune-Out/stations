@@ -33,3 +33,12 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-058e4027-1821-11e8-ae97-52543be04c81
+  - radiobrowser-c671f4a6-802b-472e-b8bd-a18f6e8d47f7
+  - iprd-fr-fr-quence3-d863a777
+streams:
+  - url: 'http://hd.stream.frequence3.net/frequence3-256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://hd.stream.frequence3.net/frequence3.flac'
+    codec: OGG
+    bitrate: 128

@@ -21,15 +21,16 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: SRF (Schweizer Radio und Fernsehen / Swiss Radio and Television)
-  affiliations: Swiss public broadcasting (SSR/SRG)
+  operator: SRG SSR (Radio Swiss Classic)
+  affiliations: Swiss public broadcaster; licence-fee funded, advertising-free
   audience: French-speaking classical music enthusiasts in Switzerland
-  format: Classical music and related programming
-  notes: Radio Suisse Classique (formerly Espace 2/RSR 2) is part of SRF, the French-speaking division of Swiss public broadcasting. Dedicated to classical music programming. Funded through Swiss licence fees.
-  sources: internal knowledge only
-curation: 0.55
+  format: Continuous automated classical music
+  notes: Radio Suisse Classique is the French-language feed of Radio Swiss Classic, the advertising-free classical service run by Swiss public broadcaster SRG SSR alongside Radio Swiss Pop and Radio Swiss Jazz. It plays a continuous automated classical rotation with short spoken announcements, distributed on DAB+ and stream across Switzerland; there are parallel German and Italian feeds. It is a companion service to, not a channel of, the presenter-led Espace 2.
+  sources: https://www.radioswissclassic.ch/fr; http://www.srf.ch/
+curation: 0.44
+duplicate_of: 962c560d-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-209340db-4929-11e8-b1b0-52543be04c81
   - iprd-ch-radio-srf1-93195147

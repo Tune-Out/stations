@@ -36,3 +36,9 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-0e37ece1-7969-42d9-ac04-13bfdd3e8c10
+  - radiobrowser-961b6e1e-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/'
+    codec: MP3
+  - url: 'http://streams.radiobob.de/bob-wacken/aac-64/radiosure/'
+    codec: AAC

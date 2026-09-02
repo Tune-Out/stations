@@ -31,3 +31,12 @@ research:
 curation: 0.3
 provenance:
   - radiobrowser-9e976484-1768-4ab3-b6f0-1edbf7b3f7a7
+  - radiobrowser-4d00b27c-ee39-4b00-b4b2-8ae6c7ae23ab
+  - iprd-de-ffh-eurodance-9cb8a8c3
+streams:
+  - url: 'http://mp3.ffh.de/ffhchannels/hqeurodance.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://mp3.ffh.de/ffhchannels/hqeurodance.aac'
+    codec: AAC+
+    bitrate: 128

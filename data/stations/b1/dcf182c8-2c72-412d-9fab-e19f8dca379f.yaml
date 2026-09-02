@@ -33,3 +33,10 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-dcf182c8-2c72-412d-9fab-e19f8dca379f
+  - iprd-us-woai-1200-talk-radio-70840041
+streams:
+  - url: 'https://stream.revma.ihrhls.com/zc2361/hls.m3u8'
+    codec: AAC
+    bitrate: 24
+    hls: true
+  - url: 'https://n11b-e2.revma.ihrhls.com/zc2361/hls.m3u8?rj-ttl=5&rj-tok=AAABfdqAEHwAAzIYcLihziCcIA'

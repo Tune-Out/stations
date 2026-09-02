@@ -22,15 +22,15 @@ clickcount: 35
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: community
-  operator: Independent / religious community
-  affiliations: Islamic; Quranic recitation focused
-  audience: Egypt and Arabic-speaking diaspora; Islamic religious listeners
-  format: Quranic recitations, Islamic teachings, educational religious content.
-  notes: Named after the famous Egyptian Qur'an reciter Mahmoud Khalil Al-Hussary (1917-1994). Station specializes in Quranic recitation and Islamic content. Appeals to Muslim audiences seeking spiritual and educational religious programming.
-  sources: internal knowledge only
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: religious
+  operator: MP3Quran.net Quran audio service (streams hosted on qurango.net)
+  affiliations: Islamic religious content; free/charitable Quran audio distribution
+  audience: Arabic-speaking Muslim listeners in Egypt, the Gulf and the diaspora
+  format: Continuous Quran recitation by Mahmoud Khalil Al-Hussary, Warsh 'an Nafi' narration
+  notes: This is a single-reciter Quran radio channel carrying Mahmoud Khalil Al-Hussary's complete recitation in the Warsh 'an Nafi' narration, which he recorded in 1964. Al-Hussary (1917-1980), born in Tanta and a winner of Egyptian Radio's recitation competition in 1944, was the first qari to record and broadcast the entire Quran in the measured murattal style, and his readings remain a standard reference for memorisation across the Muslim world. The stream is served from qurango.net, the streaming host behind the free Saudi Quran-audio service MP3Quran.net, which runs dozens of similar per-reciter and tafsir channels. The homepage recorded in the catalogue, phantomsw.com, is unrelated — it belongs to a trading-software company — and qurango.net has no website of its own at its root.
+  sources: https://en.wikipedia.org/wiki/Mahmoud_Khalil_Al-Hussary; https://www.phantomsw.com/; https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
+curation: 0.34
 provenance:
   - radiobrowser-3f5d8a52-dea9-4201-9575-a58adc8e9263
   - iprd-eg-mahmoud-khalil-al-hasr-radio-cfae4ac1

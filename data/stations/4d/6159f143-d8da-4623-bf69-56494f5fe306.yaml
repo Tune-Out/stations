@@ -34,3 +34,21 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-6159f143-d8da-4623-bf69-56494f5fe306
+  - radiobrowser-199cecdb-187d-4386-b78d-adeee8d4d5a4
+  - iprd-de-rock-antenne-modern-rock-ffe9dd2f
+  - iprd-de-rock-antenne-modern-rock-27a14ee3
+  - radiobrowser-312b6581-c25e-40a6-8b64-e52aebf3f61c
+  - iprd-de-rock-antenne-modern-rock-18c49406
+  - radiobrowser-b42c3237-e994-4dac-be3b-390d346d4ca5
+streams:
+  - url: 'http://stream.rockantenne.de/modern-rock/stream/aacp'
+    codec: AAC
+  - url: 'http://stream.rockantenne.de/modern-rock/stream/mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s4-webradio.rockantenne.de/modern-rock/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s6-webradio.rockantenne.de/modern-rock/stream'
+    codec: MP3
+    bitrate: 128

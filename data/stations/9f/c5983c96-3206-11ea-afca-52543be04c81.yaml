@@ -36,3 +36,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-c5983c96-3206-11ea-afca-52543be04c81
+  - radiobrowser-8bd983bb-80a0-48cf-a1d4-4bc7484719d7
+  - iprd-us-chill-lounge-florida-48b0e932
+streams:
+  - url: 'https://fastcast4u.com/player/chillfla-airspectrum/?pl=vlc&c=Chill%20Lounge%20Florida'
+    url_resolved: 'https://vip2.fastcast4u.com/proxy/chillfla?mp=/1'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://vip2.fastcast4u.com/proxy/chillfla?mp=/1'
+    codec: MP3
+    bitrate: 128

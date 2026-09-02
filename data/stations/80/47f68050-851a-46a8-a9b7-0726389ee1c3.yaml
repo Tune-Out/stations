@@ -37,3 +37,12 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-47f68050-851a-46a8-a9b7-0726389ee1c3
+  - radiobrowser-04ea1c27-92c8-4858-9b32-ae651449196f
+streams:
+  - url: 'https://stream.laut.fm/southern-rock_radio'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/southern-rock_radio.pls'
+    url_resolved: 'http://southern-rockradio.stream.laut.fm/southern-rock_radio?pl=pls&t302=2026-01-15_02-15-00&uuid=fb2fe6d1-55fa-488b-bfe1-ba8a49811cf7'
+    codec: MP3
+    bitrate: 128

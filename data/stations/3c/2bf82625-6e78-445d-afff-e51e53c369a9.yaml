@@ -22,14 +22,14 @@ clickcount: 165
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
-  operator: China Central Television (CCTV / 中国中央电视台), state broadcaster owned and operated by the Government of the People's Republic of China under the National Radio and Television Administration / Central Propaganda Department
-  affiliations: Chinese Communist Party (CCP) / PRC government; official state broadcaster
-  audience: Chinese-speaking national audience in mainland China; Mandarin (Putonghua); a primary news source for hundreds of millions of viewers/listeners
-  format: Audio simulcast ("伴音" = companion audio) of CCTV-13 (CCTV News / 新闻频道), China's 24-hour national news television channel — newscasts, current affairs, official government announcements
-  notes: CCTV-13 is the flagship 24-hour news channel of CCTV, launched 2003 (as CCTV News Channel). This stream is the audio feed of the TV channel. Editorial line follows official CCP/PRC government positions; widely regarded by Western press-freedom organizations as a state propaganda outlet. CCTV is one of the world's largest broadcasters.
-  sources: internal knowledge only
-curation: 0.45
+  operator: China Central Television (CCTV), part of China Media Group
+  affiliations: Chinese Communist Party Publicity Department; PRC state broadcasting
+  audience: Mandarin-speaking national audience in mainland China
+  format: Audio simulcast of a 24-hour national television news channel
+  notes: 'CCTV-13 (新闻频道) is China Central Television''s 24-hour Mandarin news channel, launched on 1 May 2003 and described as the largest news channel in mainland China. This entry is its audio simulcast (伴音), carrying hourly live news bulletins through the day and current-affairs programming in the evening. CCTV is owned by China Media Group, the state broadcasting conglomerate supervised by the Chinese Communist Party''s Publicity Department, so editorial line follows official government positions. The HLS stream is served from an Alibaba CDN and is live. Editorial flag: CCTV is the television arm of China Media Group, controlled by the Chinese Communist Party''s Publicity Department; CCTV-13 is the party-state''s flagship domestic news channel and its output follows official CCP editorial direction, so it functions as state messaging rather than independent journalism.'
+  sources: https://en.wikipedia.org/wiki/CCTV-13; https://www.cctv.com/
+curation: -0.55
 provenance:
   - radiobrowser-2bf82625-6e78-445d-afff-e51e53c369a9

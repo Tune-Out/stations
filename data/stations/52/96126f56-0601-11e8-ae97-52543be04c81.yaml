@@ -35,6 +35,8 @@ curation: 0.6
 provenance:
   - radiobrowser-96126f56-0601-11e8-ae97-52543be04c81
   - iprd-nl-npo-radio-1-e0044b25
+  - radiobrowser-41537cc5-896b-4e5c-abf6-82449b6be5bd
+  - iprd-nl-npo-radio-1-e1553070
 streams:
   - url: http://icecast.omroep.nl/radio1-bb-mp3
     codec: MP3
@@ -42,3 +44,6 @@ streams:
   - url: https://icecast.omroep.nl/radio1-bb-mp3
     codec: MP3
     bitrate: 192
+  - url: 'https://icecast.omroep.nl/radio1-sb-aac'
+    codec: AAC
+    bitrate: 32

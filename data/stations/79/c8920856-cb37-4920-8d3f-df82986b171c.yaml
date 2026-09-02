@@ -31,6 +31,7 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-c8920856-cb37-4920-8d3f-df82986b171c
+  - radiobrowser-7c33df77-eb9c-46e5-9d66-c53891e2e842
 streams:
   - url: https://de3.amfmph.com:2199/tunein/retrocebu-stream.pls
     url_resolved: http://62.138.18.102:8128/stream
@@ -38,5 +39,9 @@ streams:
     bitrate: 64
   - url: http://de3.amfmph.com:2199/tunein/-stream/retrocebu.pls
     url_resolved: http://62.138.18.102:8128/stream
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://us2.amfmph.com:2199/tunein/retrocebu-stream.pls'
+    url_resolved: 'http://148.72.153.65:9232/stream'
     codec: AAC+
     bitrate: 64

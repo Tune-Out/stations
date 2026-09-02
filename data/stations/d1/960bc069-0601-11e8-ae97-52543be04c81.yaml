@@ -37,3 +37,12 @@ curation: -0.05
 provenance:
   - radiobrowser-960bc069-0601-11e8-ae97-52543be04c81
   - iprd-de-memoryradio-1-6e1bc9c5
+  - radiobrowser-dbcb1c65-c877-4674-b007-709cbb0fb9d2
+  - iprd-de-memoryradio-1-8d739c7a
+streams:
+  - url: 'http://www.memoryradio.de:4000/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://www.memoryradio.de/radio1'
+    codec: MP3
+    bitrate: 192

@@ -21,14 +21,14 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
-  operator: ENTV / Algerian state broadcasting
-  affiliations: Islamic, religious (Qur'anic)
-  audience: Arabic-speaking listeners in Algeria and North Africa
-  format: Qur'anic and Islamic classical music and religious content
-  notes: إذاعة القرآن الكريم (Qur'an Radio) is an Algerian radio station focused on Qur'anic recitation and Islamic classical content. Part of state broadcasting in Algeria. Name translates to "Holy Qur'an Radio."
-  sources: internal knowledge only
-curation: 0.65
+  operator: Saudi Broadcasting Authority (SBA), via its Al Oula platform
+  affiliations: Saudi government broadcaster; Sunni Islamic religious programming
+  audience: Arabic-speaking Muslim listeners across the Arab world
+  format: Continuous Quranic recitation, tafsir and religious lectures
+  notes: Despite being filed under Algeria, this entry carries the Saudi Quran Radio feed. Its stream is radiojar mount 0tpy1h0kxtzuv, the same mount served under the canonical catalog row "Saudi Quran", whose homepage is the Saudi Broadcasting Authority's Al Oula live page for Idha'at al-Qur'an al-Karim. That service, broadcast from Mecca and run by the Saudi state broadcaster, carries recitation of the Quran, tafsir and religious lectures and is among the most widely relayed religious stations in the Arab world. The Icecast metadata on this particular edge host is generic ("Mini2's Broadcast"), so this is an unbranded relay rather than an official endpoint. Algeria has its own separate Radio Coran under Radio Algérienne, which is not what plays here.
+  sources: Icecast header check on https://n0a.radiojar.com/0tpy1h0kxtzuv; catalog cross-reference to https://www.aloula.sa/ar/live/quranradio (canonical row 6dd3dc65-0a00-4474-a220-902b398b09d5, same radiojar mount id); https://my.radioalgerie.dz/ar/coran (the separate Algerian Radio Coran)
+curation: 0.44
 provenance:
   - radiobrowser-73c4c047-8155-4e9f-b2ee-7518ce8de164

@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/de/de.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: vorleser.net
+  affiliations: ''
+  audience: German-speaking audiobook listeners
+  format: spoken word / audiobooks (thriller)
+  notes: vorleser.net is a German online platform of narrated audiobooks and audio stories; 'Radio Spannung' is its thriller/suspense-themed continuous stream. It is a non-commercial, listener-oriented spoken-word service distinct from music radio. The specific stream URL uses a short-lived signed token, which is likely why this snapshot failed to resolve.
+  sources: https://media.streamabc.com; vorleser.net
+curation: 0.20
 provenance:
   - iprd-de-vorleser-net-radio-spannung-9a6f6573

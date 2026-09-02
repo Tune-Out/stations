@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/il/il.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: Jerusalem, Israel
+  format: news/talk
+  notes: Radio Yerushalaim is an Israeli talk/religious-leaning radio station associated with Jerusalem, historically carrying Haredi and general-interest talk programming on the 101 FM dial position. Both the stream and homepage endpoints returned errors at time of check, so current operating status is unclear.
+  sources: 'IPRD: streams/il/il.m3u'
+curation: 0.03
 provenance:
   - iprd-il-radio-yerushalaim-101-0-2bbfcb16

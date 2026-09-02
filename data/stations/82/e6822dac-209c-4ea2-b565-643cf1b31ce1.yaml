@@ -2,7 +2,7 @@ stationuuid: e6822dac-209c-4ea2-b565-643cf1b31ce1
 name: Bremen Eins
 url: http://www.surfmusik.de/m3u/station/bremen-eins,8566.m3u
 url_resolved: https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=surfmusik-de
-homepage: http://www.radiobremen.de/bremeneins/
+homepage: https://www.radiobremen.de/bremeneins/
 favicon: http://www.radiobremen.de/static/img/favicons/apple-touch-icon-180.png?v=4
 tags: []
 country: Germany
@@ -20,14 +20,26 @@ clickcount: 23
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio Bremen — ARD member broadcaster
-  affiliations: ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland)
-  audience: German-speaking listeners in Bremen and surrounding region
-  format: Music, news, information, local programming
-  notes: Public broadcaster serving Free Hanseatic City of Bremen; funded by license fees; ARD member
-  sources: internal knowledge only
+  operator: Radio Bremen, ARD member
+  affiliations: ARD; licence-fee funded
+  audience: Bremen/Bremerhaven adults 45+; ~350,000 daily listeners
+  format: Adult contemporary oldies (1970s-1990s) with regional news
+  notes: Bremen Eins is the main popular-music channel of Radio Bremen, the ARD public broadcaster for the city-state of Bremen, launched 23 April 2001 as the successor to Hansawelle and Radio Bremen Melodie. It targets listeners aged 45 and over with adult-contemporary hits from the 1970s to 1990s plus regional news, reaching over 350,000 daily listeners on 93.8 MHz (Bremen), 89.3 MHz (Bremerhaven), DAB+ and online. Funded by the Rundfunkbeitrag licence fee.
+  sources: https://en.wikipedia.org/wiki/Bremen_Eins; https://www.radiobremen.de/bremeneins/
 curation: 0.55
 provenance:
   - radiobrowser-e6822dac-209c-4ea2-b565-643cf1b31ce1
+  - radiobrowser-0aa252ff-612a-48e9-841b-b3f561dc1c47
+  - iprd-de-bremen-eins-da050c90
+  - iprd-de-bremen-eins-b5c0ca2d
+  - iprd-de-bremen-eins-21e01ee0
+streams:
+  - url: 'http://www.surfmusik.de/m3u/station/bremen-eins,8566.m3u'
+    url_resolved: 'https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=surfmusik-de'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128

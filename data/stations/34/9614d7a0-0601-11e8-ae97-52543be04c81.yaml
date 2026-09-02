@@ -23,15 +23,23 @@ clickcount: 11
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: religious
-  operator: Radio Mojdeh ministry (Persian-language Christian media organisation operating from outside Iran, despite the IR country code in the catalog)
-  affiliations: Christian — Persian-language evangelical/Protestant Christian outreach, with content suggestive of Seventh-day Adventist roots (the "adventista" tag in the catalog supports this); not affiliated with the Iranian state, which restricts Christian broadcasting domestically
-  audience: Persian (Farsi) speakers inside Iran, Afghanistan and the Iranian diaspora worldwide; targeted at non-believers, seekers and existing Christians
-  format: Christian teaching, sermons, Bible studies, personal testimonies, prayers, Christian music in Persian, spiritual reflections and Q&A programming; distributed via satellite (Yahsat 52.5° East), online stream, podcasts and social media
-  notes: '"Mojdeh" (مژده) is Persian for "good news" or "Gospel"; the station is part of the broader landscape of diaspora-run Persian-language Christian broadcasters (alongside SAT-7 PARS, Mohabat TV, Nejat TV and others) that target Iran via satellite and internet because evangelism and conversion from Islam are illegal under Iranian law; the operation is therefore based outside Iran (despite Tehran being listed in the catalog metadata) and is a non-commercial mission-supported ministry rather than a state or commercial broadcaster.'
-  sources: http://www.radiomojdeh.com/, internal knowledge of Persian-language Christian satellite broadcasting and Iranian media restrictions
-curation: 0.45
+  operator: Voice of Christ Media Ministries, Beaverton, Oregon, USA
+  affiliations: evangelical Christian mission ministry; no connection to the Iranian state
+  audience: Persian speakers in Iran, Afghanistan and the diaspora; seekers and Iranian Christians
+  format: 24/7 Persian-language Christian teaching, Scripture readings, testimonies, sermons and Christian music
+  notes: Radio Mojdeh ('Good News Radio') is a 24/7 Persian-language Christian internet radio station and website run by Voice of Christ Media Ministries, an evangelical mission based in Beaverton, Oregon, with a Canadian office in Surrey, British Columbia. It streams Bible teaching, Scripture readings, testimonies, discipleship material and Persian Christian music, and offers the full Persian Bible online plus Android and iOS apps. Although catalogued under Iran, it operates from the United States because Christian evangelism is restricted inside Iran; the earlier suggestion of Seventh-day Adventist roots is not supported by the ministry's own material.
+  sources: https://voiceofchristmedia.org/index.php/about-us/radio-mojdeh-website/; https://radiomojdeh.com/; https://tunein.com/radio/Radio-Mojdeh-s156150/
+curation: 0.24
 provenance:
   - radiobrowser-9614d7a0-0601-11e8-ae97-52543be04c81
   - iprd-ir-radio-mojdeh-8bc9a2d1
+  - radiobrowser-7460fe1a-700e-4925-9990-72df7e00e1a3
+streams:
+  - url: 'http://ic2326.c1261.fast-serv.com/rm128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ic2326.c1261.fastserv.com/rm128'
+    codec: MP3
+    bitrate: 128

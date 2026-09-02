@@ -1,5 +1,5 @@
 stationuuid: 1c3e8be2-5b14-4933-bad3-87cbc227cba4
-name: Deutschlandfunk | DLF | MP3 128k
+name: Deutschlandfunk
 url: https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
 url_resolved: https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
 homepage: https://www.deutschlandfunk.de/
@@ -24,15 +24,15 @@ clickcount: 400
 geo_lat: 52.4802578
 geo_long: 13.3347639
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Deutschlandradio (national public radio corporation under German public-law broadcasting, jointly funded via the Rundfunkbeitrag household licence fee)
-  affiliations: ARD/ZDF/Deutschlandradio public broadcasting system; independent of government and political parties by constitutional design (Rundfunkfreiheit); no religious, political-party, or commercial affiliations
-  audience: nationwide German-speaking adult audience interested in news, politics, culture and current affairs
-  format: 24/7 spoken-word news, information, politics, science, culture and background reporting; one of Germany's two main national news/information radio channels (alongside Deutschlandfunk Kultur and Deutschlandfunk Nova)
-  notes: Founded 1962 in Cologne; became part of Deutschlandradio in 1994 following German reunification merger of West and East German national broadcasters. Headquartered in Cologne with major studio in Berlin. Regarded as a flagship news radio in the German-speaking world. Operates under inter-state treaty (Deutschlandradio-Staatsvertrag) ensuring editorial independence.
-  sources: internal knowledge only (homepage fetch blocked)
-curation: 0.75
+  operator: Deutschlandradio, the German national public radio corporation
+  affiliations: ARD/ZDF/Deutschlandradio public system; funded by the Rundfunkbeitrag household levy; EBU member
+  audience: Nationwide German-speaking adults following news, politics, science and culture
+  format: 24-hour spoken-word news and information - politics, background reporting, science, culture and long-form features
+  notes: Deutschlandfunk is Germany's national spoken-word news and information channel, one of three services run by Deutschlandradio alongside Deutschlandfunk Kultur and Deutschlandfunk Nova. It began broadcasting from Cologne in 1962 and was folded into Deutschlandradio in 1994 when the West and East German national broadcasters were merged after reunification; it is headquartered in Cologne with a major studio in Berlin. Funding comes from the Rundfunkbeitrag household levy rather than advertising, and the Deutschlandradio state treaty guarantees editorial independence from government and parties. Its schedule of hourly news, Informationen am Morgen, Interviews der Woche, science strands such as Forschung aktuell and cultural features makes it one of the reference news services of the German-speaking world. The catalog name carries codec junk that should be trimmed.
+  sources: https://www.deutschlandfunk.de/; stream header check on https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
+curation: 0.90
 provenance:
   - radiobrowser-1c3e8be2-5b14-4933-bad3-87cbc227cba4
   - iprd-de-deutschlandfunk-658ca6b0

@@ -31,3 +31,10 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-bed86ed9-8c1c-4b90-a6f1-af2e3e267482
+  - radiobrowser-aaf78cc6-4ffd-47c6-8ea6-c5294d7322e2
+  - iprd-it-s-dtirol-1-7a24bb2c
+streams:
+  - url: 'https://stream.suedtirol1.it/live/aac-64/app/'
+    codec: AAC
+  - url: 'https://funkhaus-st.streamabc.net/106-suedtirol1-mp3-192-7572619'
+    codec: MP3

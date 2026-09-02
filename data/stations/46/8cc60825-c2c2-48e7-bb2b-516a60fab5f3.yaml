@@ -36,3 +36,11 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-8cc60825-c2c2-48e7-bb2b-516a60fab5f3
+  - radiobrowser-3142a8db-2cb8-4519-af9a-16ec63ec6f66
+streams:
+  - url: 'https://server.radioimeldafm.co.id:8030/imeldafm'
+    codec: MP3
+    bitrate: 160
+  - url: 'https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm'
+    codec: MP3
+    bitrate: 160

@@ -35,3 +35,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-38b81da5-2a3b-43c0-b444-ee0f7ad1c18d
+  - radiobrowser-9670b906-4038-4a64-97af-617f7b6196cc
+  - iprd-ba-radio-otvorena-mreza-98-4-284adabe
+streams:
+  - url: 'https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://s8.iqstreaming.com:8050/stream'
+    codec: AAC+
+    bitrate: 64

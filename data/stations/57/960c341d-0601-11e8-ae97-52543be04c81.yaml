@@ -35,3 +35,11 @@ curation: 0.4
 provenance:
   - radiobrowser-960c341d-0601-11e8-ae97-52543be04c81
   - iprd-tr-ntv-radyo-a801d444
+  - radiobrowser-ad09398c-3f3d-4311-9344-c76395e46805
+streams:
+  - url: 'http://46.20.3.207/listen.pls'
+    codec: AAC+
+    bitrate: 127
+  - url: 'http://ntvrdwmp.radyotvonline.com/'
+    codec: MP3
+    bitrate: 128

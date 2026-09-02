@@ -34,3 +34,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-be1e97e2-064a-4710-9ce9-d792d8beb1ca
+  - radiobrowser-958681a9-4e22-400a-8cd1-3ed44ad2ec97
+  - iprd-fr-europe-2-3bd0159f
+streams:
+  - url: 'http://europe2.lmn.fm/europe2.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://europe2.lmn.fm/europe2.aac'
+    codec: AAC
+    bitrate: 128

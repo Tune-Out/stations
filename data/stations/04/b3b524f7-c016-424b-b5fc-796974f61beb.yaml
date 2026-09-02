@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/gr/gr.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Independent Greek laiko-music broadcaster
+  affiliations: Zeno.fm
+  audience: Greek laiko/folk music fans
+  format: Laiko/folk, oldies
+  notes: Laiko Radio 107.0 is a Greek internet/FM stream dedicated to laiko (popular Greek folk) and oldies music, distributed via the Zeno.fm platform. It appears to be the same "Laiko 107" outlet already present in the catalog under a different Zeno.fm relay ID with a larger listener base.
+  sources: no web sources found beyond YAML metadata
+curation: 0.10
+duplicate_of: 7f9d40d0-5e4c-4165-94be-d5dbd662fd20
 provenance:
   - iprd-gr-laiko-radio-107-0-d10d248e

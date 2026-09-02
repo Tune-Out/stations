@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/sg/sg.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Jia 883 (88.3 FM) is a well-known Mandarin Chinese pop-music radio station in Singapore operated by Mediacorp, with a large, loyal listenership and recognizable on-air personalities. This entry is a lower-quality duplicate of the main catalog listing.
+  sources: https://www.mediacorp.sg
+curation: 0.15
+duplicate_of: 8a9c4662-0b7c-11e9-a80b-52543be04c81
 provenance:
   - iprd-sg-jia-883-88-3-1a11fd44

@@ -24,14 +24,20 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Sunshine Live
   affiliations: none known
   audience: Dance/electronic music fans across German-speaking Europe
   format: Electronic dance music; trance, dance, electro channels
   notes: German commercial online radio station specializing in electronic dance music with multiple genre streams (trance, dance, electro). Based in Baden-Württemberg.
-  sources: internal knowledge only
-curation: -0.05
+  sources: http://www.sunshine-live.de/; stream verified 200 audio/aac (after redirect)
+curation: 0.09
 provenance:
   - radiobrowser-3e225e5d-bc1e-11e8-aaf2-52543be04c81
+  - radiobrowser-e39eeaf6-25f0-4d54-a4fe-c3d0a0f7bbce
+streams:
+  - url: 'http://stream.sunshine-live.de/trance/aac-64/stream.sunshine-live.de/'
+    codec: AAC
+  - url: 'https://sunsl.streamabc.net/sunsl-trance-mp3-192-6936250?sABC=67s589q6%230%234313or3p195706q13n90589o7061s597%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1744144854'
+    codec: MP3

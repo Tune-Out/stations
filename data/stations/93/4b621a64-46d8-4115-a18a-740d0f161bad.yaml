@@ -31,3 +31,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-4b621a64-46d8-4115-a18a-740d0f161bad
+  - radiobrowser-fa9609ad-1f6f-41a1-8e81-1000d9458dcf
+  - iprd-sg-radio-melody-7daf429f
+streams:
+  - url: 'https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ssl.geckohost.nz:9191/autodj'
+    codec: MP3
+    bitrate: 128

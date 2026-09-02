@@ -34,3 +34,11 @@ curation: -0.05
 provenance:
   - radiobrowser-96281bc6-0601-11e8-ae97-52543be04c81
   - iprd-hu-koronafm100-100-0-6d07fde5
+  - radiobrowser-70758d73-80b3-4d7c-82e8-45369b1a636d
+streams:
+  - url: 'http://82.141.165.6:8000/;stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.koronafm100.hu/live.mp3'
+    codec: MP3
+    bitrate: 192

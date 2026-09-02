@@ -33,10 +33,14 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-d280c2ad-1156-4e6d-b76d-109ccd26dc0c
+  - radiobrowser-1068b32e-99c8-4179-acbb-554673984163
 streams:
   - url: https://stream.lokalradio.nrw/44542bb
     codec: MP3
     bitrate: 192
   - url: http://radiomk--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiomk/live/mp3/high?ar-distributor=ffa0&_art=dj0yJmlwPTk1LjE3OS4xMzkuMTA2JmlkPWljc2N4bC1icW1xNGF0cDcmdD0xNjkzMjMyMTQ5JnM9Nzg2NmYyOWMjYmRmZDAwMTllZTFiZWI4Yjk0YTc5ZDIzOTVhODA2Y2U
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream.lokalradio.nrw/44542h2'
     codec: MP3
     bitrate: 192

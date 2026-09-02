@@ -33,3 +33,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-87c44288-3030-4e9f-b5af-62fc254fa3f9
+  - radiobrowser-e536f750-a343-41ec-abec-620d8285a1b5
+  - iprd-tr-radyo-gol-92-2-954fc4d3
+streams:
+  - url: 'https://edge1.radyotvonline.net/shoutcast/play/radyogol'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8'
+    codec: UNKNOWN
+    hls: true

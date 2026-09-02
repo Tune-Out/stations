@@ -33,6 +33,7 @@ curation: -0.05
 provenance:
   - radiobrowser-5c1055ea-bdbd-4a67-96d4-c6f52886b158
   - iprd-tr-show-radyo-04447e5d
+  - radiobrowser-7f1ef327-ff1c-4027-b679-59e5cf2739c6
 streams:
   - url: https://edge1.radyotvonline.net/shoutcast/play/showradyo
     codec: AAC
@@ -40,3 +41,6 @@ streams:
   - url: https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
     codec: UNKNOWN
     hls: true
+  - url: 'http://showradyo.radyotvonline.net/showradyoaac/'
+    codec: AAC
+    bitrate: 128

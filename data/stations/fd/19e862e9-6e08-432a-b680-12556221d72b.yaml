@@ -1,5 +1,5 @@
 stationuuid: 19e862e9-6e08-432a-b680-12556221d72b
-name: Classical KUSC MP3 256
+name: Classical KUSC
 url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3'
 url_resolved: 'https://16603.live.streamtheworld.com:443/KUSCMP256.mp3'
 homepage: https://www.kusc.org/
@@ -23,14 +23,15 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: KUSC (University of Southern California)
-  affiliations: University of Southern California; public radio; classical music
+  operator: University of Southern California
+  affiliations: Classical California (with KDFC); public radio
   audience: Los Angeles area; classical music listeners; California
-  format: Classical music, opera, performing arts; 24/7 classical programming
-  notes: Founded 1961; operates from USC; flagship classical music station serving Southern California; known for extensive classical music coverage.
-  sources: internal knowledge only
-curation: 0.55
+  format: 24-hour classical music
+  notes: Classical KUSC broadcasts on 91.5 FM from the University of Southern California and went on the air on 24 October 1946 as the first station in the United States owned by a privately endowed university. It moved to a full classical format in 1973 and is now the anchor of Classical California, the statewide service it shares with KDFC in San Francisco, reaching Los Angeles plus repeaters in Santa Barbara, Thousand Oaks, Palm Springs and San Luis Obispo. Its programming was integrated with KDFC's in February 2026.
+  sources: https://en.wikipedia.org/wiki/KUSC; https://www.kusc.org/
+curation: 0.70
+duplicate_of: c624a501-939a-11e9-a605-52543be04c81
 provenance:
   - radiobrowser-19e862e9-6e08-432a-b680-12556221d72b

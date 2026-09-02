@@ -34,3 +34,16 @@ research:
 curation: 0.85
 provenance:
   - radiobrowser-264b5883-9a02-4d5d-99bf-060a1666e902
+  - radiobrowser-35eab5f7-4e43-4667-b6db-ef135bb9d33b
+  - radiobrowser-6f15c119-166e-422d-8818-e77205fb4b55
+streams:
+  - url: 'http://icecast.radiofrance.fr/fiphiphop-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'https://stream.radiofrance.fr/fiphiphop/fiphiphop.m3u8'
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: 'https://stream.radiofrance.fr/fiphiphop/fiphiphop_hifi.m3u8'
+    codec: UNKNOWN
+    hls: true

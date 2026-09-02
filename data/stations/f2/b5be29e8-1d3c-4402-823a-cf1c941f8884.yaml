@@ -35,3 +35,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-b5be29e8-1d3c-4402-823a-cf1c941f8884
+  - radiobrowser-53d584e7-c657-49a1-bd66-bc2b2069ac7f
+streams:
+  - url: 'https://playerservices.streamtheworld.com/pls/NIUFMAAC.pls'
+    url_resolved: 'https://22973.live.streamtheworld.com:443/NIUFMAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/pls/NIUFM.pls'
+    url_resolved: 'https://14993.live.streamtheworld.com:443/NIUFM_SC'
+    codec: MP3
+    bitrate: 96

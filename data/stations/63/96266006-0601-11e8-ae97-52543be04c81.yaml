@@ -25,15 +25,15 @@ clickcount: 15
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: GPM Radio (Газпром-медиа Радио, part of Gazprom-Media Holding)
-  affiliations: ultimately owned by Gazprom (Russian state-controlled energy giant) via Gazprom-Media; thus indirectly state-connected
-  audience: Russian-speaking adult listeners interested in literature, audiobooks and the spoken word
-  format: 24/7 spoken-word audiobook and literature station broadcasting full readings of classic and contemporary Russian and world literature, radio plays, and literary programs.
-  notes: Radio Kniga (literally "Radio Book") launched in 2009 and broadcasts on 105.0 FM in Moscow. It is operated as part of GPM Radio, the radio division of Gazprom-Media Holding, which also owns Echo of Moscow's former frequencies, Comedy Radio, Avtoradio, Energy and others. The station is unusual in the Russian market for its all-spoken-word format and has positioned itself as an intelligent alternative to music radio.
-  sources: internal knowledge only
-curation: -0.05
+  operator: Radio Kniga, managed by the company Dom Muzyki (co-owned by singer Nikolai Rastorguev)
+  affiliations: none confirmed; the earlier attribution to Gazprom-Media's GPM Radio is not supported by available sources
+  audience: Russian-speaking adults interested in literature and the spoken word
+  format: 'literary spoken-word: short stories, audiobook excerpts, essays, historical and literary anecdotes, interviews'
+  notes: 'Radio Kniga (''Radio Book'') is Russia''s first literary FM station, begun in Volgograd in 2013 (106.4 FM) and on air in Moscow on 105.0 FM since 2015. Rather than full audiobooks it broadcasts more than 300 short pieces a day: stories, fragments, essays, feuilletons and anecdotes drawn partly from the Gosteleradiofond archive, plus interviews with writers, with the stated aim of drawing a new generation to reading. Management is attributed to the company Dom Muzyki, one of whose owners is Lyube frontman Nikolai Rastorguev. It is a rare all-spoken-word alternative to music radio in the Russian market.'
+  sources: https://www.radiobells.com/talk/radiokniga/moskva/; https://radiomap.eu/ru/play/kniga_msk; https://radiokniga.com/
+curation: 0.26
 provenance:
   - radiobrowser-96266006-0601-11e8-ae97-52543be04c81
   - iprd-ru-radio-kniga-657df06c

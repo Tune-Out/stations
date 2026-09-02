@@ -35,3 +35,12 @@ curation: -0.05
 provenance:
   - radiobrowser-961cf04b-0601-11e8-ae97-52543be04c81
   - iprd-cz-hitradio-osmdesatka-89641a0b
+  - radiobrowser-638c4a10-d179-46d5-86bc-d8cb1f35013f
+streams:
+  - url: 'http://ice.abradio.cz/hit80128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_OSMDESATKA.aac'
+    url_resolved: 'https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac'
+    codec: AAC+
+    bitrate: 128

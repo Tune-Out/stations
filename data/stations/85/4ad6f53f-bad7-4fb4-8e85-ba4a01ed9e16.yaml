@@ -38,3 +38,9 @@ curation: -0.05
 provenance:
   - radiobrowser-4ad6f53f-bad7-4fb4-8e85-ba4a01ed9e16
   - iprd-ae-whitney-houston-cfb8b935
+  - iprd-ae-whitney-houston-hits-c1429434
+streams:
+  - url: 'https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.exclusive.radio/er/whitneyhoustonhits/icecast.audio'
+    bitrate: 128

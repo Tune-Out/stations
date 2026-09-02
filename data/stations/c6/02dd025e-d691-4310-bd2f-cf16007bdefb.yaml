@@ -35,3 +35,14 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-02dd025e-d691-4310-bd2f-cf16007bdefb
+  - radiobrowser-bccbc87b-3ecf-489a-aacd-cd60249450c9
+  - iprd-ie-rt-radio-1-3fbe789d
+  - iprd-ie-rt-radio-1-a2fc33a2
+streams:
+  - url: 'https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: 'http://icecast.rte.ie/ieradio1'
+    codec: MP3
+    bitrate: 160

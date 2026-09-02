@@ -32,3 +32,13 @@ curation: -0.05
 provenance:
   - radiobrowser-ac2012c9-d4f9-4671-a8bb-e8fec7abcf07
   - iprd-it-stereocitt-house-your-body-4e51896d
+  - radiobrowser-d113bd9a-3a23-47ca-ad06-e87eae5e5eeb
+  - iprd-it-radio-stereocitt-89d42025
+  - iprd-it-radio-stereocitt-c2b587cc
+streams:
+  - url: 'http://host-79-8-227-117.business.telecomitalia.it:8008/1'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://79.8.227.117:8008/1'
+    codec: AAC+
+    bitrate: 320

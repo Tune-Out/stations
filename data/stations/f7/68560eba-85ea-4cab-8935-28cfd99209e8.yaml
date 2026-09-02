@@ -33,3 +33,12 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-68560eba-85ea-4cab-8935-28cfd99209e8
+  - radiobrowser-12232fb3-1cae-416b-9b1e-9f906c7f7fa5
+  - iprd-de-swr1-rheinland-pfalz-16972b95
+streams:
+  - url: 'https://liveradio.swr.de/sw890cl/swr1rp/'
+    codec: AAC
+    bitrate: 96
+  - url: 'https://liveradio.swr.de/sw331ch/swr1rp/'
+    codec: AAC
+    bitrate: 96

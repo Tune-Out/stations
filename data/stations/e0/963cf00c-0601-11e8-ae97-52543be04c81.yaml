@@ -33,3 +33,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-963cf00c-0601-11e8-ae97-52543be04c81
+  - radiobrowser-5797bdd2-2b25-4131-93ef-15a0be9b822f
+  - iprd-de-antenne-bayern-schlagersahne-be6da370
+  - iprd-de-antenne-bayern-schlagersahne-33863086
+  - iprd-de-antenne-bayern-schlagersahne-637005b5
+streams:
+  - url: 'http://mp3channels.webradio.antenne.de/das-schlager-karussell'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.antenne.de/das-schlager-karussell/stream/aacp'
+    codec: AAC

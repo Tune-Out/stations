@@ -1,5 +1,5 @@
 stationuuid: f34ae431-42cd-4ef1-8a24-f4eca8a70cc1
-name: WNYC 93.9 fm
+name: WNYC 93.9 FM
 url: http://fm939.wnyc.org/wnycfm.aac
 url_resolved: http://fm939.wnyc.org/wnycfm.aac
 homepage: https://www.wnyc.org/
@@ -23,14 +23,15 @@ clickcount: 11
 geo_lat: 40.64730356252251
 geo_long: -73.98742675781251
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
   operator: New York Public Radio (legally New York Public Radio, formerly the WNYC Foundation), a 501(c)(3) non-profit
   affiliations: NPR member station; PRX and APM distributor; PBS-aligned public-media ecosystem; non-partisan; funded by listener membership, foundation grants, corporate underwriting and a small share of public funding
   audience: English-speaking adult listeners in the New York City metropolitan area; college-educated, news-oriented demographic
   format: News-talk public radio carrying NPR programming (Morning Edition, All Things Considered, Fresh Air) plus local journalism, public-affairs talk and signature WNYC shows
   notes: WNYC 93.9 FM is the FM service of New York Public Radio, broadcast from the Empire State Building and reaching one of the largest public-radio audiences in the United States; the station was founded by the City of New York in 1924, became municipally operated, and was spun off into the independent non-profit WNYC Foundation in 1997; flagship local productions include "The Brian Lehrer Show," "On the Media," "Radiolab," "Death, Sex & Money" and "The Takeaway," and the organisation also owns WQXR-FM (classical) and Gothamist
-  sources: internal knowledge only
-curation: 0.7
+  sources: https://www.wnyc.org/; http://fm939.wnyc.org/wnycfm.aac
+curation: 0.85
+duplicate_of: 960985b2-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-f34ae431-42cd-4ef1-8a24-f4eca8a70cc1

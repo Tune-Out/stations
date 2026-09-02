@@ -33,3 +33,11 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-29cd4b62-14e2-11e9-a80b-52543be04c81
+  - radiobrowser-8407749b-aa65-4aee-b503-bd6e196bea9d
+streams:
+  - url: 'https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://glzicylv01.bynetcdn.com/glglz_mp3'
+    codec: MP3
+    bitrate: 128

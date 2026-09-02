@@ -1,5 +1,5 @@
 stationuuid: 4ffc79a5-2de9-4eb5-b2e8-86a7a4d4bcbb
-name: UnserDing Zukunft
+name: UnserDing - Zukunft
 url: https://sr.audiostream.io/sr/1012/mp3/128/udc2
 url_resolved: https://sr.audiostream.io/sr/1012/mp3/128/udc2
 homepage: http://db.radioline.fr
@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/de/de.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Saarländischer Rundfunk (SR)
+  affiliations: ARD
+  audience: Young listeners, Saarland/Germany
+  format: Youth-oriented public radio sub-channel
+  notes: UnserDing Zukunft is a digital sub-channel of UnserDing, the youth-oriented radio brand of Saarländischer Rundfunk (SR), a public-service broadcaster within Germany's ARD network. It offers a genre/theme-specific stream ('Zukunft') supplementing SR's main youth station.
+  sources: 'IPRD: streams/de/de.m3u; https://www.unserding.de'
+curation: 0.30
 provenance:
   - iprd-de-unserding-zukunft-01838178

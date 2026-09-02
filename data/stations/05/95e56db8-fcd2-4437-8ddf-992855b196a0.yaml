@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fr/fr_nrjgroup.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: NRJ Group
+  affiliations: NRJ
+  audience: club/dance listeners, France
+  format: dance/club hits
+  notes: NRJ Clubbin is a club/dance sub-brand digital stream of NRJ Group, the major French commercial radio network. Automated dance-hits rotation with no distinct editorial voice beyond the NRJ brand.
+  sources: https://players.nrjaudio.fm; stream check
+curation: 0.05
 provenance:
   - iprd-fr-nrj-clubbin-cffd8b1b

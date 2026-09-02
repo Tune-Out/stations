@@ -2,7 +2,7 @@ stationuuid: 961a56e9-0601-11e8-ae97-52543be04c81
 name: Polskie Radio 24
 url: http://stream3.polskieradio.pl:8080/;.mp3
 url_resolved: http://stream3.polskieradio.pl:8080/;.mp3
-homepage: http://www.polskieradio.pl/130,PR24
+homepage: https://polskieradio24.pl/
 favicon: https://polskieradio24.pl/favicon.ico
 tags:
   - news
@@ -24,14 +24,24 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Polskie Radio (Polish National Public Radio)
-  affiliations: Polish state media; public broadcaster funded by license fees
-  audience: Polish-speaking audience nationwide; news and information listeners
-  format: News, current affairs, interviews, analysis, and cultural programming 24/7
-  notes: Channel 24 is Polskie Radio's flagship news and information service; established 1925 as state broadcaster; high public service value (17,722 votes); multilingual operations
-  sources: internal knowledge only
-curation: 0.6
+  operator: Polskie Radio S.A. (Polish public radio)
+  affiliations: Polish public service media; funded by licence fee and state subsidy
+  audience: Polish news and politics listeners nationwide
+  format: 24-hour news, current affairs, political interviews, business (SALDO) and culture programming
+  notes: Polskie Radio 24 (PR24) is the news and information channel of Polskie Radio S.A., Poland's public radio broadcaster founded in 1925. It began in December 2010 as an internet station produced by the Informacyjna Agencja Radiowa newsroom, joined DAB+ on 1 October 2013 and moved onto FM on 1 September 2016 using frequencies previously held by Czwórka, reaching roughly 15 million people. Under the 2015-2023 PiS government it was widely criticised as pro-government; after the December 2023 public-media crisis the new administration placed Polskie Radio into liquidation as a legal manoeuvre while it continued operating, Grzegorz Frątczak became acting director, and the schedule was broadened in 2024-2025 with new shows on the economy, climate, technology and culture. The catalog's legacy Shoutcast URL on stream3.polskieradio.pl is dead; the station now streams via HLS from stream15.polskieradio.pl.
+  sources: https://pl.wikipedia.org/wiki/Polskie_Radio_24; https://prsa.pl/artykul/204633,NOWA-RAM%C3%93WKA-POLSKIEGO-RADIA-24; https://www.wirtualnemedia.pl/artykul/polskie-radio-nowy-prezes-likwidacja-praca-zwolnienia; https://polskieradio24.pl/
+curation: 0.55
 provenance:
   - radiobrowser-961a56e9-0601-11e8-ae97-52543be04c81
+  - radiobrowser-c64f60f5-594a-43ab-bf7b-02c883ca2ab5
+  - iprd-pl-polskie-radio-24-0f1e87f4
+streams:
+  - url: 'http://stream3.polskieradio.pl:8080/;.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8'
+    codec: AAC
+    bitrate: 194
+    hls: true

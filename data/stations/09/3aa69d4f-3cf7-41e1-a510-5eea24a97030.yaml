@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ae/ae_exclusiveradio.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Joni Mitchell - Hits is a single-artist genre relay channel on the Exclusive Radio / uber.radio internet-radio network, an automated playlist of Joni Mitchell tracks. The catalog already carries an 'Exclusively Joni Mitchell' entry with substantially more votes, appearing to be the same artist-channel concept from the same network family.
+  sources: https://manager.uber.radio
+curation: -0.05
 provenance:
   - iprd-ae-joni-mitchell-hits-33a14a21

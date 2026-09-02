@@ -1,5 +1,5 @@
 stationuuid: 8070272f-99fd-4ba0-8540-defb2d087398
-name: SR3 Saarlandwelle 128k
+name: SR 3 Saarlandwelle
 url: http://streaming01.sr-online.de/sr3_2.m3u
 url_resolved: http://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3?aggregator=custom1
 homepage: https://sr3.de/
@@ -20,14 +20,14 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Saarländischer Rundfunk (SR), part of ARD
-  affiliations: ARD — German public broadcasting consortium funded by household licence fees (Rundfunkbeitrag)
-  audience: Adults 50+ in the Saarland region of Germany and listeners along the German-French border
-  format: Schlager (German light pop), Schlager oldies, evergreens, and German hits, with regional news and information
-  notes: SR 3 Saarlandwelle is the flagship regional service of Saarländischer Rundfunk, the smallest member of Germany's ARD public broadcasting consortium, serving the federal state of Saarland; SR was founded in 1957 when Saarland joined the Federal Republic of Germany; SR 3 emphasizes regional identity through Saarland-themed programming, schlager music, and Mundart (local dialect) features; funded by the German broadcasting licence fee.
-  sources: internal knowledge only
-curation: 0.55
+  operator: Saarländischer Rundfunk (SR), ARD
+  affiliations: ARD public broadcasting consortium, Rundfunkbeitrag-funded
+  audience: Adults in Saarland and the German-French border region
+  format: Regional news and information, international oldies and soft pop, Saarland dialect and sport
+  notes: SR 3 Saarlandwelle is the regional service of Saarländischer Rundfunk, the smallest ARD member, launched on 7 January 1980 and one of the most-listened-to radio programmes in Saarland with about 176,000 daily listeners (2026). It pairs a music mix of international oldies, evergreens and soft pop with strong regional journalism, including the daily 'Region am Mittag' and 'Region am Nachmittag' magazines, three daily news round-ups, weekend sport and Saarland dialect features. Funded by the German household broadcasting fee, it is available on FM, DAB+, cable, satellite and online.
+  sources: https://de.wikipedia.org/wiki/SR_3_Saarlandwelle; https://sr3.de/
+curation: 0.60
 provenance:
   - radiobrowser-8070272f-99fd-4ba0-8540-defb2d087398

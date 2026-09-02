@@ -33,3 +33,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-f117e4cc-6ae6-4093-817e-ce4c526158c4
+  - radiobrowser-e6738a6d-977d-46b6-a2a6-11dff5f6109f
+streams:
+  - url: 'https://gbw.ynradio.cn/radio/yygb.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true
+  - url: 'https://lhttp.qtfm.cn/live/1929/64k.mp3'
+    codec: MP3

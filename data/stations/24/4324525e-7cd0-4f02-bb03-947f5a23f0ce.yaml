@@ -32,3 +32,11 @@ curation: 0.35
 provenance:
   - radiobrowser-4324525e-7cd0-4f02-bb03-947f5a23f0ce
   - iprd-ve-alba-ciudad-93-6-b2ad2c97
+  - radiobrowser-b75a5dcc-b4e2-470b-965b-2fdfb5240bc0
+streams:
+  - url: 'https://envivo.albaciudad.org/alba16.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://envivo.albaciudad.org/albaciudad.mp3'
+    codec: MP3
+    bitrate: 128

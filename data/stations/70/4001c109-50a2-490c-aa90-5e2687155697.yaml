@@ -36,3 +36,12 @@ curation: -0.05
 provenance:
   - radiobrowser-4001c109-50a2-490c-aa90-5e2687155697
   - iprd-sg-axr-singapore-14ce4001
+  - radiobrowser-4859de0e-6ddc-4e85-8a32-70c392d80439
+streams:
+  - url: 'http://singaporestream.axr.online/'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://playerservices.streamtheworld.com/pls/AXR_SINGAPORE.pls'
+    url_resolved: 'http://22273.live.streamtheworld.com:80/AXR_SINGAPORE_SC'
+    codec: MP3
+    bitrate: 96

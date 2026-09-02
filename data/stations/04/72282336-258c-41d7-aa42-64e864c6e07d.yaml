@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/it/it.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: Independent (laut.fm-hosted)
+  affiliations: laut.fm platform
+  audience: Italian dance/disco fans
+  format: Dance/disco
+  notes: Radio Studio Dance is a small independent Italian internet radio stream focused on dance and disco music, hosted on the laut.fm streaming platform. It is a niche, low-profile online broadcaster without notable independent press coverage.
+  sources: no web sources found beyond YAML metadata
+curation: 0.03
 provenance:
   - iprd-it-radio-studio-dance-f277d527

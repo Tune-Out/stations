@@ -37,3 +37,11 @@ curation: -0.05
 provenance:
   - radiobrowser-96478a9c-0601-11e8-ae97-52543be04c81
   - iprd-pt-radio-nova-98-9-f4a08489
+  - radiobrowser-668bc1d4-f8a3-4555-81b8-337185338ea0
+streams:
+  - url: 'http://centova.radios.pt:9528/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://centova.radios.pt:9528/;'
+    codec: MP3
+    bitrate: 128

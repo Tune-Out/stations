@@ -31,3 +31,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-f4b4718c-aca0-45dd-bdce-b104dbc0b657
+  - radiobrowser-9aab2dd5-ec19-469a-a048-e3f7c63f8585
+  - iprd-tr-radyo-ekin-94-3-e365a10c
+streams:
+  - url: 'https://yayin.turkhosted.com/6006/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://yayin.turkhosted.com:6006/'
+    codec: MP3
+    bitrate: 128

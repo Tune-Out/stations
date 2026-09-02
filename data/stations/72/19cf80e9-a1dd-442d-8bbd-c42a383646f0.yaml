@@ -2,7 +2,7 @@ stationuuid: 19cf80e9-a1dd-442d-8bbd-c42a383646f0
 name: Tilos Rádió FM 90.3
 url: http://stream.tilos.hu:8000/tilos
 url_resolved: http://stream.tilos.hu:8000/tilos
-homepage: http://tilos.hu/
+homepage: https://tilos.hu/
 favicon: http://tilos.hu/favicon.ico
 tags: []
 country: Hungary
@@ -22,15 +22,16 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: community
-  operator: Tilos Radio (Hungarian independent community broadcaster)
-  affiliations: none known; independent non-commercial broadcaster
+  operator: Tilos Kulturális Alapítvány (Tilos Rádió), Budapest
+  affiliations: Independent non-profit community broadcaster
   audience: Hungarian speakers; Budapest and central Hungary; alternative and independent culture listeners
   format: Alternative/independent format; alternative rock, world music, experimental, spoken word, community programming
-  notes: Tilos Radio is a Hungarian independent and community-supported FM radio station broadcasting on 90.3 MHz from Budapest. Non-commercial operation focused on alternative culture, independent music, and community programming. Known for supporting local artists and counter-cultural content. One of Hungary's notable independent stations.
-  sources: internal knowledge only
-curation: 0.5
+  notes: Tilos Rádió ("Forbidden Radio") is Hungary's first community radio station, founded in Budapest on 21 August 1991 as a pirate broadcaster to campaign for independent media law and licensed since 1995; it holds a community licence on 90.3 MHz (500 W) renewed in 2022 for ten years. It is a non-profit, listener- and donation-funded station run largely by volunteers, with Hungarian- and English-language programmes on social issues, minority communities, alternative and experimental music and spoken word. This entry uses the same 256 kbps stream as the higher-voted canonical Tilos Rádió entry.
+  sources: https://en.wikipedia.org/wiki/Tilos_R%C3%A1di%C3%B3
+curation: 0.55
+duplicate_of: 960bec79-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-19cf80e9-a1dd-442d-8bbd-c42a383646f0
   - iprd-hu-tilos-r-di-90-3-0d4bafb2

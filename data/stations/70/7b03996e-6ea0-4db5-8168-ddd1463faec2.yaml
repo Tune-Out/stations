@@ -35,3 +35,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-7b03996e-6ea0-4db5-8168-ddd1463faec2
+  - iprd-ar-la-100-99-9-2310cf86
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3'
+    url_resolved: 'https://27413.live.streamtheworld.com:443/FM999_56.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://buecrplb01.cienradios.com.ar/la100.aac'
+    codec: AAC
+    bitrate: 128

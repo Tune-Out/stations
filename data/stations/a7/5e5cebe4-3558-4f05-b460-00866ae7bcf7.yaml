@@ -33,3 +33,11 @@ curation: -0.05
 provenance:
   - radiobrowser-5e5cebe4-3558-4f05-b460-00866ae7bcf7
   - iprd-at-welle-1-106-2-a58f1490
+  - radiobrowser-4afd638b-9f4d-4a55-b4f1-b53214ae717e
+streams:
+  - url: 'https://live.welle1.at:18256/stream'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://live.welle1.at:18128/stream'
+    codec: MP3
+    bitrate: 128

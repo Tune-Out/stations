@@ -24,15 +24,15 @@ clickcount: 18
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Grupa Eurozet Sp. z o.o., owned by Czech Media Invest (CMI) via its Polish vehicle Czech News Center; Eurozet is one of Poland's three largest commercial radio groups alongside RMF and Time
-  affiliations: none known direct, but parent group CMI is controlled by Czech billionaire Daniel Křetínský; in 2020 Polish state-controlled Orlen attempted to acquire Eurozet through PKN Orlen / Agora and the deal was blocked by the antimonopoly regulator UOKiK after concerns about media pluralism
-  audience: Polish-speaking adult rock and metal fans (roughly 18-44), with a male-leaning audience; nationwide via FM/DAB+/online
-  format: Rock and metal music format covering classic rock, hard rock, alternative, metal, grunge and modern Polish rock, with specialist evening shows on subgenres (metal, indie, blues), rock news and concert coverage
-  notes: Antyradio launched on 26 March 2007 in Warsaw on 94.0 MHz as a rock alternative to mainstream pop CHR stations; the brand was created by Eurozet (then Polish-French ownership) to fill a gap left after Radio Wawa's reformatting; the network has since expanded to FM transmitters in Warsaw, Kraków, Łódź, Poznań, Wrocław and other cities plus nationwide reach via DAB+, the antyradio.pl player and mobile apps; signature slogan "Antyradio. Tu jest rock"; in 2019 Eurozet (including Antyradio, Radio Zet, Radio Plus and Meloradio) was sold by Lagardère Active to Czech Media Invest; the network is known for irreverent, edgy on-air branding and for hosting Polish rock concerts and festivals.
-  sources: internal knowledge only (homepage fetch blocked)
-curation: 0.3
+  operator: Eurozet Sp. z o.o., wholly owned by Agora S.A. since June 2024
+  affiliations: Agora S.A. (Gazeta Wyborcza publisher); sister stations Radio ZET, Meloradio, Chillizet
+  audience: Polish adult rock and metal fans, male-leaning, nationwide via FM, DAB+ and online
+  format: 'Rock in all its forms: classic, hard rock, alternative, metal and Polish rock; specialist evening shows, rock news, concert coverage'
+  notes: Antyradio is a Polish rock radio network that began broadcasting on 1 June 2005 and is operated by Eurozet, which Agora S.A. took over in full in June 2024 after a court overturned the competition regulator's 2021 block. It broadcasts on FM in Warsaw (106.8), Kraków (101.0), Wrocław (106.9), Gdańsk (92.0), Poznań (101.6), Łódź (89.6) and further cities including Opole since 2025, plus DAB+ and online. Programming mixes contemporary and classic rock with specialist shows from Jerzy Owsiak (Zaraz Będzie Ciemno), Wiesław Weiss (Teraz Rock w Antyradiu) and Leszek Gnoiński (Rockolekcje), and the station is a fixture of the Polish rock-festival scene. The primary redcdn.pl stream in this entry currently times out (HTTP 408) while the alternate an02.cdn.eurozet.pl/ant-web.mp3 stream plays fine.
+  sources: https://en.wikipedia.org/wiki/Antyradio; https://pl.wikipedia.org/wiki/Eurozet; https://www.antyradio.pl/
+curation: 0.35
 provenance:
   - radiobrowser-9617d67b-0601-11e8-ae97-52543be04c81
   - iprd-pl-antyradio-6ed6dcaa

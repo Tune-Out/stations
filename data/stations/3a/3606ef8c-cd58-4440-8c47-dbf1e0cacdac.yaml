@@ -35,6 +35,7 @@ curation: 0.7
 provenance:
   - radiobrowser-3606ef8c-cd58-4440-8c47-dbf1e0cacdac
   - iprd-gb-bbc-radio-2-9593a5aa
+  - radiobrowser-f6d52348-70db-4197-bb17-bf12d5b1b58d
 streams:
   - url: http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_two.m3u8
     codec: AAC+
@@ -47,5 +48,8 @@ streams:
     codec: UNKNOWN
     hls: true
   - url: http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.norewind.m3u8
+    codec: UNKNOWN
+    hls: true
+  - url: 'http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8'
     codec: UNKNOWN
     hls: true

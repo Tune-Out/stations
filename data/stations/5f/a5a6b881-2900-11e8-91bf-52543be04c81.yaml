@@ -24,15 +24,15 @@ clickcount: 52
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: RTL Group
+  operator: Groupe M6 (RTL Group / Bertelsmann)
   affiliations: none known
-  audience: French listeners interested in pop and rock music
-  format: Pop and rock music radio with contemporary hits and classic rock programming.
-  notes: French commercial radio station. Part of RTL Group broadcasting operations. Formats include pop and rock music targeting mainstream French audience. Long-established station in French commercial radio landscape.
-  sources: internal knowledge only
-curation: -0.05
+  audience: French adults 25-49; about 2 million daily listeners
+  format: 'Pop-rock hits (''Le Son Pop-Rock''): current pop/rock plus 1980s-2000s classics, live sessions, breakfast show'
+  notes: RTL2 is a French national commercial music station created on 6 January 1992 from the merger of Maxximum and Radio Métropolys, and is owned by Groupe M6 (part of RTL Group) alongside RTL and Fun Radio. Branded 'Le Son Pop-Rock', it broadcasts from Paris on 105.9 FM and nationwide on FM and DAB+, with about 2 million daily listeners in 2026 and a positioning as the leading music station for 25-49 year-olds. Programming mixes contemporary pop-rock with 1980s-2000s classics, plus live acoustic sessions and a morning show. The station's primary catalog stream URL is dead; the icecast.rtl2.fr feed now redirects to an Audiomeans server that works.
+  sources: https://en.wikipedia.org/wiki/RTL2_(France); https://m6unlimited.fr/marque/rtl2/; https://www.lalettre.pro/RTL-RTL2-Fun-Radio-et-M6-Unlimited-audiences-offres-publicitaires-radio-et-audio-tarifs-et-contacts-2026_a41795.html
+curation: 0.20
 provenance:
   - radiobrowser-a5a6b881-2900-11e8-91bf-52543be04c81
   - iprd-fr-rtl2-2e6f6683

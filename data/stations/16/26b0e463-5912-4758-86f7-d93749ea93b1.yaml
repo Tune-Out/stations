@@ -34,3 +34,12 @@ curation: 0.5
 provenance:
   - radiobrowser-26b0e463-5912-4758-86f7-d93749ea93b1
   - iprd-de-you-fm-0094e0c8
+  - radiobrowser-0715ba1d-88a0-4e6f-a679-c2fc5da66ed5
+streams:
+  - url: 'https://dispatcher.rndfnk.com/hr/youfm/live/mp3/high'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://hlsyoufm.akamaized.net/hls/live/2016538/youfm/master.m3u8'
+    codec: AAC
+    bitrate: 200
+    hls: true

@@ -36,3 +36,11 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-96256326-0601-11e8-ae97-52543be04c81
+  - iprd-us-wvia-89-9-249ccf6b
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/WVIAFM.pls'
+    url_resolved: 'http://26423.live.streamtheworld.com:80/WVIAFM_SC'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/pls/WVIAFM.pls'
+    url_resolved: 'https://26423.live.streamtheworld.com:443/WVIAFM_SC'

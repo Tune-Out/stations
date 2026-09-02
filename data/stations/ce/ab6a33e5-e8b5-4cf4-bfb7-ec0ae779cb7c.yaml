@@ -1,5 +1,5 @@
 stationuuid: ab6a33e5-e8b5-4cf4-bfb7-ec0ae779cb7c
-name: France Info
+name: franceinfo
 url: https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
 url_resolved: https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
 homepage: https://www.radiofrance.fr/franceinfo
@@ -24,18 +24,22 @@ clickcount: 200
 geo_lat: 48.85273757048368
 geo_long: 2.2784185409545903
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio France (French state-owned public radio service company, established 1975; funded since 2022 by a share of VAT after abolition of the redevance audiovisuelle/license fee)
+  operator: Radio France
   affiliations: Part of the French public service audiovisual sector; editorial independence guaranteed by law and regulated by ARCOM (Autorite de regulation de la communication audiovisuelle et numerique). Cooperates with France Televisions and INA for the "franceinfo:" multimedia brand. No religious or party-political affiliations.
   audience: French-speaking adults seeking news and current affairs; national coverage in France via FM, DAB+, satellite, cable, and online streaming; also widely listened to across the Francophone world
-  format: Continuous news / all-news talk radio - rolling headlines every 15 minutes, longer features, expert interviews, business and sports updates, debates, and political analysis
-  notes: "Launched 1 June 1987 as France's first 24-hour rolling-news station (modeled on the all-news format pioneered in North America). Sister stations under Radio France include France Inter, France Culture, France Musique, France Bleu (regional network), Mouv', and FIP. In 2016 the \"franceinfo:\" multimedia brand expanded to include a dedicated TV channel (channel 27) co-produced with France Televisions. One of the most-listened news radios in France with several million daily listeners. Mission: public-service information, independent and pluralist news coverage."
-  sources: internal knowledge only (homepage fetch blocked)
-curation: 0.5
+  format: rolling news / all-news talk
+  notes: 'franceinfo is Radio France''s rolling-news station, launched 1 June 1987 as France''s first 24-hour all-news radio. It carries headlines every 15 minutes, live coverage, interviews, business and sports updates and political analysis, and since 2016 shares the franceinfo: brand with a TV channel co-produced with France Télévisions. Radio France is publicly funded and its editorial independence is regulated by ARCOM.'
+  sources: https://www.radiofrance.fr/franceinfo; https://fr.wikipedia.org/wiki/Franceinfo
+curation: 0.70
 provenance:
   - radiobrowser-ab6a33e5-e8b5-4cf4-bfb7-ec0ae779cb7c
   - iprd-fr-france-info-d211ae58
+  - radiobrowser-f2c327d2-619d-48cd-a5d3-2fa705625c6a
+  - iprd-fr-france-info-daec272f
+  - iprd-fr-france-info-95b5bde5
+  - radiobrowser-c603e84e-47b8-44cb-bd23-f0f007e8d812
 streams:
   - url: https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
     codec: UNKNOWN
@@ -43,3 +47,6 @@ streams:
   - url: https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8?id=radiofrance
     codec: UNKNOWN
     hls: true
+  - url: 'http://direct.franceinfo.fr/live/franceinfo-midfi.aac'
+    codec: AAC
+    bitrate: 96

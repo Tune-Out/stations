@@ -33,3 +33,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-62f65de5-57cd-4ec9-82dc-34ee4400e070
+  - radiobrowser-9bbbb75f-91a7-4054-a447-40171c986ac9
+streams:
+  - url: 'http://stream.laut.fm/erzgebirgs-weihnacht.m3u'
+    url_resolved: 'http://erzgebirgs-weihnacht.stream.laut.fm/erzgebirgs-weihnacht?pl=m3u&t302=2026-01-15_08-14-29&uuid=6b284e7e-f06e-4846-a39b-d00ea0a8c9a1'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/erzgebirgs-weihnacht'
+    codec: MP3
+    bitrate: 128

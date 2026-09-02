@@ -34,3 +34,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-963f9796-0601-11e8-ae97-52543be04c81
+  - radiobrowser-401ff3a0-3de8-43e8-94d8-2f5ec29be4e5
+  - iprd-es-radio-marca-m-laga-96-9-77e282f2
+streams:
+  - url: 'http://malagafm.streaming-pro.com:8130/malagafmmobile'
+    codec: MP3
+    bitrate: 170
+  - url: 'https://malagafm.streaming-pro.com:8131/malagafmmobile'
+    codec: MP3
+    bitrate: 170

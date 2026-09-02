@@ -41,3 +41,12 @@ curation: 0.55
 provenance:
   - radiobrowser-0a0bb091-69c0-11e9-af37-52543be04c81
   - iprd-fr-c-lab-bc1632c3
+  - radiobrowser-2708758d-a5ef-41e2-b100-126b63313967
+  - iprd-fr-c-lab-6f24467e
+streams:
+  - url: 'http://stream.c-lab.fr:8001/c-lab'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://www.c-lab.fr/stream/'
+    codec: MP3
+    bitrate: 320

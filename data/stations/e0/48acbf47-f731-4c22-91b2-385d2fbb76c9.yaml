@@ -1,5 +1,5 @@
 stationuuid: 48acbf47-f731-4c22-91b2-385d2fbb76c9
-name: MR1 - Kossuth Rádió
+name: Kossuth Rádió
 url: https://mr-stream.connectmedia.hu/4736/mr1.mp3
 url_resolved: https://mr-stream.connectmedia.hu/4736/mr1.mp3
 homepage: https://mediaklikk.hu/kossuth/
@@ -25,14 +25,14 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: MTVA (Médiaszolgáltatás-támogató és Vagyonkezelő Alap)
-  affiliations: Hungarian state
+  operator: Hungarian public media (Magyar Rádió, formerly MTVA/Duna Média)
+  affiliations: Hungarian public-service media
   audience: Hungary, Hungarian-language, general listeners
-  format: News, talk, current affairs, information programming
-  notes: Hungary's flagship public radio channel (Kossuth Rádió); operates under state management; known for news and public service programming
-  sources: internal knowledge only
-curation: 0.5
+  format: news, talk and current affairs
+  notes: Kossuth Rádió is Hungary's main public news and talk radio channel, founded in 1925 as Rádió Budapest and named after Lajos Kossuth in 1949; the MR1 prefix was dropped in 2012. It broadcasts nationwide on 47 FM transmitters (107.8 MHz in Budapest) and on 540 kHz AM from Solt, Europe's most powerful medium-wave transmitter. After years of criticism that public media served as a government mouthpiece, the station suspended its schedule on 7 July 2026 with an on-air apology for having 'lied for so many years', and relaunched on 24 August 2026 under the slogan 'Újra mindenkié' (everyone's radio again) with a refreshed news and current-affairs programme.
+  sources: https://en.wikipedia.org/wiki/Kossuth_R%C3%A1di%C3%B3; https://mediaklikk.hu/kossuth/; https://dailynewshungary.com/kossuth-radio-relaunches-everyones/
+curation: 0.55
 provenance:
   - radiobrowser-48acbf47-f731-4c22-91b2-385d2fbb76c9

@@ -24,15 +24,15 @@ clickcount: 11
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: RadioMediaset (Mediaset S.p.A. radio division), Italy
-  affiliations: Mediaset/MFE — MediaForEurope (Berlusconi family-controlled media conglomerate)
-  audience: Italian rock fans, mainly adult Gen X listeners who came of age in the 1980s
-  format: Themed digital sub-brand of Virgin Radio Italia focusing exclusively on 1980s rock — U2, Bon Jovi, Guns N' Roses, Van Halen, Dire Straits, etc.
-  notes: Virgin Radio Rock '80 is a web-only spin-off channel of Virgin Radio Italia, which is operated by RadioMediaset under license from Virgin Enterprises (Richard Branson's Virgin Group); RadioMediaset also runs R101, Radio 105 Network, and Radio Monte Carlo, all part of the broader Mediaset group founded by Silvio Berlusconi and now controlled by the Berlusconi family's Fininvest holding via MFE; funded entirely by advertising.
-  sources: http://www.virginradio.it/, internal knowledge
-curation: -0.05
+  operator: RadioMediaset (Mediaset / MFE-MediaForEurope), Italy, under licence from Virgin Enterprises Ltd
+  affiliations: RadioMediaset network (R101, Radio 105, Radio Monte Carlo); advertising-funded
+  audience: Italian rock listeners, mainly Gen X fans of 1980s rock
+  format: Automated 1980s rock rotation, web-only channel of Virgin Radio Italia
+  notes: Virgin Radio Rock '80 is a themed web-radio channel of Virgin Radio Italia, operated by RadioMediaset, the radio division of Mediaset/MFE-MediaForEurope, under licence from Virgin Enterprises Limited. It runs an automated rotation of 1980s rock — U2, Bon Jovi, Guns N' Roses, Van Halen, Dire Straits and similar — with no presenters, alongside sibling decade and artist channels such as Rock '70, Rock '90, Rock Ballads and the Rockstar series. RadioMediaset also operates R101, Radio 105 and Radio Monte Carlo. The channel is advertising-funded and streams via unitedradio.it. The catalog's stored homepage path now returns HTTP 404; the channel is reachable through the Virgin Radio Italia web-radio index instead.
+  sources: https://www.virginradio.it/; https://www.virginradio.it/web-radio/; http://icy.unitedradio.it/VirginRock80.mp3
+curation: 0.02
 provenance:
   - radiobrowser-9619ed04-0601-11e8-ae97-52543be04c81
   - iprd-it-virgin-radio-rock-80-3237e4bd

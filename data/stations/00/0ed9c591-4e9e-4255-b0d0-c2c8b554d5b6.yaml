@@ -20,14 +20,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: WUAL-HD2 is an HD Radio subchannel of Alabama Public Radio (University of Alabama, an NPR member network) carrying WXPN's nationally distributed XPoNential Radio format of curated adult-album-alternative music. Based in Tuscaloosa, AL.
+  sources: http://mediad.publicbroadcasting.net; https://xpn.org
+curation: 0.50
+duplicate_of: 962626a4-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-wual-hd2-alabama-public-radio-xponential-radio-99a67634

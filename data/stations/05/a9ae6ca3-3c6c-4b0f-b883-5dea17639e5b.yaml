@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ba/ba.m3u"
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: regional Bosnia and Herzegovina
+  format: news/talk
+  notes: Small Bosnian regional station (91.6 FM) carrying news and talk programming. Catalog metadata contains an evident language-tag error ('bashkir' for a Bosnian station). No independent corroborating source found.
+  sources: stream check; no independent web sources found
 curation: 0
 provenance:
   - iprd-ba-trend-radio-91-6-fb5123fd

@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Infowars / Free Speech Systems
+  affiliations: Alex Jones, Infowars
+  audience: Far-right conspiracy/talk audience, US
+  format: News/politics talk
+  notes: '''War Room with Owen Shroyer'' was a daily talk program on the Infowars network hosted by Owen Shroyer, covering politics and news from a conspiratorial, far-right perspective. The stream tested did not connect, and it is unclear whether this exact program name is still current given Shroyer''s on-and-off status at Infowars. Editorial flag: Affiliated with Alex Jones'' Infowars, a network widely documented for spreading conspiracy theories and disinformation (e.g. Sandy Hook denial); host Owen Shroyer has separately faced legal action tied to the January 6, 2021 Capitol riot. Editorial flag: ''War Room with Owen Shroyer'' is an Infowars programme; Infowars/Alex Jones is a prototypical conspiracy-disinformation outlet (Sandy Hook defamation judgments, repeated deplatforming), and Shroyer was convicted for his role on 6 January 2021.'
+  sources: 'IPRD: streams/us/us.m3u'
+curation: -0.90
 provenance:
   - iprd-us-war-room-with-owen-shroyer-infowars-01b8df09

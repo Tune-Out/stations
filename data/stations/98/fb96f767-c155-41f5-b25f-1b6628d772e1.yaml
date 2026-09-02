@@ -37,3 +37,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-fb96f767-c155-41f5-b25f-1b6628d772e1
+  - radiobrowser-dce2b2aa-263e-466f-9d83-d25d4516151e
+streams:
+  - url: 'https://host.gometri.com/proxy/lanoventera/stream/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming.gometri.com/stream/8043/stream'
+    codec: MP3
+    bitrate: 128

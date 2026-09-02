@@ -34,3 +34,11 @@ curation: -0.05
 provenance:
   - radiobrowser-e3645baf-5e7d-11e8-b715-52543be04c81
   - iprd-ru-megapolis-89-5-71894584
+  - radiobrowser-fe7328f5-d7bb-4963-8ed1-600ae0e8b6eb
+streams:
+  - url: 'http://online.radio-megapolis.ru:8000/megapolis'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://online.radio-megapolis.ru:8000/megapolis_mp3'
+    codec: MP3
+    bitrate: 128

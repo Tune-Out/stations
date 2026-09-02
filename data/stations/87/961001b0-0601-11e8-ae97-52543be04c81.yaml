@@ -35,3 +35,10 @@ curation: -0.05
 provenance:
   - radiobrowser-961001b0-0601-11e8-ae97-52543be04c81
   - iprd-cz-radio-1-91-9-81e96a61
+  - radiobrowser-bfed09a5-8ea4-45f9-916f-e3e5b8f6e4b4
+  - iprd-cz-radio-1-91-9-e6c265e9
+streams:
+  - url: 'http://icecast2.play.cz/radio1.mp3'
+    codec: MP3
+  - url: 'http://icecast6.play.cz/radio1-128.mp3'
+    codec: MP3

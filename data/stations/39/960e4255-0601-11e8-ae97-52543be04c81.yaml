@@ -2,7 +2,7 @@ stationuuid: 960e4255-0601-11e8-ae97-52543be04c81
 name: NDR Blue
 url: http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u
 url_resolved: http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
-homepage: http://www.ndr.de/ndrblue/
+homepage: https://www.ndr.de/ndrblue/
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/250px-NDR_Blue_Logo.svg.png
 tags:
   - jazz
@@ -26,15 +26,15 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: NDR (Norddeutscher Rundfunk - North German Broadcasting)
-  affiliations: German public broadcasting system (ARD)
-  audience: German listeners; Northern Germany regional focus
-  format: Jazz, pop, rock, soul, and live concert programming
-  notes: NDR Blue is a channel of NDR (Norddeutscher Rundfunk), Germany's public broadcaster for northern states. Specializes in jazz, world music, soul, and live concert programming. Part of ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten). Broadcasts high-quality curated music programming with emphasis on jazz and soul genres.
-  sources: internal knowledge only
-curation: 0.85
+  operator: Norddeutscher Rundfunk (NDR)
+  affiliations: ARD public broadcasting federation
+  audience: Music listeners in northern Germany and online
+  format: Pop, rock, jazz, hip-hop and alternative music blocks with NDR show repeats
+  notes: NDR Blue is a digital-only music channel of Norddeutscher Rundfunk, the ARD public broadcaster for northern Germany, launched on 2 May 2008 as NDR Musik Plus and distributed on DAB+, cable, satellite and online. It plays largely unhosted blocks of pop, rock, jazz, hip-hop and alternative music (NDR Blue Morning, NDR Blue After Work) together with repeats of NDR shows such as Nachtclub and ESC Update. In June 2025 NDR announced that the channel will be discontinued on 1 January 2027 as a cost-saving measure.
+  sources: https://de.wikipedia.org/wiki/NDR_Blue; http://f131.rndfnk.com/ard/ndr/ndrblue/live/mp3/128/stream.mp3
+curation: 0.60
 provenance:
   - radiobrowser-960e4255-0601-11e8-ae97-52543be04c81
   - iprd-de-ndr-blue-bf329f9e

@@ -23,15 +23,23 @@ clickcount: 6
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio France
-  affiliations: French public broadcasting (France Médias Monde)
-  audience: French-speaking, France and international listeners, music enthusiasts
-  format: Contemporary and new music programming; "Tout nouveau, tout FIP" specializes in new releases and emerging artists
-  notes: FIP (Fréquence Inter Paris) is a legendary French radio station founded in 1963, non-commercial public radio operated by state-owned Radio France. Known for eclectic music programming and cultural journalism.
-  sources: internal knowledge only
-curation: 0.5
+  operator: Radio France (FIP)
+  affiliations: FIP webradio family (FIP Nouveautés)
+  audience: Curious music listeners in France and worldwide
+  format: New releases across all genres selected by FIP's programmers, ad-free
+  notes: Tout nouveau, tout FIP (FIP Nouveautés) is one of the themed webradios launched in 2016 by FIP, the advertising-free eclectic music station Radio France created in 1971. It plays only recent releases, hand-picked by FIP's programmers across rock, jazz, electronic, world and classical music with the same seamless sequencing as the main channel. Streams are served in AAC from Radio France's icecast servers.
+  sources: https://fr.wikipedia.org/wiki/FIP_(radio); https://www.fip.fr/tout-nouveau-tout-fip/webradio
+curation: 0.80
 provenance:
   - radiobrowser-a9464601-eaa5-11e9-a96c-52543be04c81
   - iprd-fr-tout-nouveau-tout-fip-9568d20d
+  - radiobrowser-f6e9c165-3aee-4ba9-a0d2-59c66d57f748
+streams:
+  - url: 'http://icecast.radiofrance.fr/fipnouveautes-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.fipradio.fr/live/fipnouveautes-hifi.aac'
+    codec: AAC
+    bitrate: 192

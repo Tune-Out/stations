@@ -35,3 +35,11 @@ curation: -0.05
 provenance:
   - radiobrowser-962878f4-0601-11e8-ae97-52543be04c81
   - iprd-it-radio-kiss-kiss-napoli-eca25e82
+  - radiobrowser-f582f9ce-a4e9-43a6-bd41-2e94e94a9898
+streams:
+  - url: 'http://wma08.fluidstream.net:3612/;listen.pls'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ice07.fluidstream.net/KKNapoli.mp3'
+    codec: MP3
+    bitrate: 128

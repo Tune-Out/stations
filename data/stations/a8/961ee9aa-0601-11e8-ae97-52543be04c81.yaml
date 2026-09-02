@@ -22,15 +22,23 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Jawhara FM (Tunisian radio operator)
+  operator: Jawhara FM (private Tunisian company), Sousse
   affiliations: none known
-  audience: Arabic-speaking audiences in Tunisia, primarily Sousse region
-  format: Mixed music and entertainment format serving Tunisian audiences
-  notes: Jawhara FM is a commercial radio station based in Sousse, Tunisia broadcasting in Arabic. Serves local Tunisian audiences with music and entertainment programming.
-  sources: internal knowledge only
-curation: -0.05
+  audience: Arabic- and French-speaking listeners in Sousse and the Tunisian Sahel
+  format: Arabic and French music, news, talk and entertainment for the Tunisian Sahel
+  notes: Jawhara FM is a private commercial radio station based in Sousse, Tunisia, launched on 25 July 2005 and named after the city's nickname 'pearl of the Sahel'. It broadcasts on 102.5 FM in Sousse plus 89.4, 90.7, 103.2, 104.4 and 107.3 MHz across the Sahel region, in Tunisian Arabic and French, with a mix of Arabic and Western music, news bulletins, talk and sports. It was one of the first privately licensed stations in Tunisia and remains among the most listened regional broadcasters in the country.
+  sources: https://en.wikipedia.org/wiki/Jawhara_FM; https://tunisia.mom-gmr.org/en/media/detail/outlet/jawhara-fm/; https://www.jawharafm.net/
+curation: 0.15
 provenance:
   - radiobrowser-961ee9aa-0601-11e8-ae97-52543be04c81
   - iprd-tn-jawhara-102-5-504a911b
+  - radiobrowser-8d92ff8d-7149-4431-9306-a960e67c09e7
+streams:
+  - url: 'http://streaming2.toutech.net:8000/jawharafm'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://streaming2.toutech.net/jawharafm'
+    codec: MP3
+    bitrate: 128

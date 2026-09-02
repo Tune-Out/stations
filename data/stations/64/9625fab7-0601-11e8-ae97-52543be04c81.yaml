@@ -35,3 +35,11 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-9625fab7-0601-11e8-ae97-52543be04c81
+  - iprd-us-wscl-89-5-delmarva-public-radio-561aea78
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/WSCLFM.pls'
+    url_resolved: 'http://26423.live.streamtheworld.com:80/WSCLFM_SC'
+    codec: MP3
+    bitrate: 56
+  - url: 'https://playerservices.streamtheworld.com/pls/WSCLFM.pls'
+    url_resolved: 'https://26423.live.streamtheworld.com:443/WSCLFM_SC'

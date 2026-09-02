@@ -1,5 +1,5 @@
 stationuuid: 500bc504-c47f-46bc-9c9a-16e15bee2353
-name: KnOOz FM
+name: Knooz FM
 url: http://streaming.knoozfm.net:8000/knoozfm
 url_resolved: http://streaming.knoozfm.net:8000/knoozfm
 homepage: http://knoozfm.net/
@@ -22,15 +22,15 @@ clickcount: 27
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: KnOOz FM (independent Tunisian broadcaster)
+  operator: Independent Tunisian broadcaster (ownership not disclosed)
   affiliations: none known
-  audience: Arabic-speaking listeners in Tunisia
-  format: Music programming for Tunisian audience
-  notes: KnOOz FM is a Tunisian radio station broadcasting in Arabic to the North African audience.
-  sources: internal knowledge only
-curation: -0.05
+  audience: Arabic- and French-speaking listeners in Tunisia
+  format: News, sport, talk and Arabic/Western chart music
+  notes: KnOOz FM is a Tunisian private radio station broadcasting in Arabic with some French-language content, on FM in Tunisia and streaming online. Its schedule mixes news bulletins and a sports news strand with talk segments on politics, international affairs, technology, economy and travel, plus music charts branded 'Top orientale' and 'Top occidentale'. The station publishes podcasts of its shows and maintains an active presence on Facebook, Instagram, LinkedIn and YouTube. No founding date or ownership details are disclosed on the official site. The 128 kbps Icecast stream identifies as 'Knooz' and is live.
+  sources: https://knoozfm.net/; http://streaming.knoozfm.net:8000/knoozfm
+curation: 0.09
 provenance:
   - radiobrowser-500bc504-c47f-46bc-9c9a-16e15bee2353
   - iprd-tn-knooz-fm-d6a48db4

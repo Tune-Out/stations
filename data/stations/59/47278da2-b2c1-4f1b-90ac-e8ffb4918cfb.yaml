@@ -23,14 +23,23 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: non-commercial
-  operator: Unknown independent webcast operator
-  affiliations: none known; oriented toward extreme metal / black metal subculture
-  audience: international black metal fans, English-language presentation
-  format: 24/7 black metal stream (true / second-wave black metal and related subgenres)
+  operator: Unknown independent webcaster
+  affiliations: none known
+  audience: Black metal fans worldwide
+  format: Automated 24/7 black metal stream
   notes: Online-only webcaster dedicated exclusively to black metal, primarily the Scandinavian "true" / second-wave underground tradition; runs on a vanity port (:666) as a stylistic nod to the genre; no public ownership disclosure on the homepage.
-  sources: internal knowledge only
+  sources: http://trueblackmetalradio.com/ (Cloudflare-gated); stream ICY metadata
 curation: 0.55
 provenance:
   - radiobrowser-47278da2-b2c1-4f1b-90ac-e8ffb4918cfb
+  - radiobrowser-a6e7696f-e9bb-4b0e-9bba-728a6e92a150
+streams:
+  - url: 'http://trueblackmetalradio.com:666/radio.m3u'
+    url_resolved: 'http://trueblackmetalradio.com:666/radio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://trueblackmetalradio.com:8000/radio'
+    codec: MP3
+    bitrate: 128

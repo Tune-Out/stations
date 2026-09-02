@@ -35,3 +35,11 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-5ce4eba4-aed2-42a1-8e84-542fdd96d836
+  - radiobrowser-00dd325c-275d-4272-b577-dd7a2cc026b9
+streams:
+  - url: 'https://radio11.pro-fhi.net/flux-aryfnfye2/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio11.pro-fhi.net:19095/stream'
+    codec: MP3
+    bitrate: 192

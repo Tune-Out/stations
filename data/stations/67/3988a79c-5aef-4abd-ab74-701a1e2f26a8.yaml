@@ -38,3 +38,11 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-3988a79c-5aef-4abd-ab74-701a1e2f26a8
+  - radiobrowser-f33431f6-fbe9-44ea-8103-964ceb6f0d72
+streams:
+  - url: 'https://amorfm_192.streampartner.nl/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://media155.streampartner.nl:8068/live'
+    codec: MP3
+    bitrate: 128

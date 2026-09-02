@@ -33,3 +33,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-7c4653df-6d49-466f-896f-db2de5a19608
+  - radiobrowser-4a4760a9-da09-4a12-9962-d9d7b545099c
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac'
+    url_resolved: 'https://28393.live.streamtheworld.com:443/938NOW_PREM.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8'
+    codec: AAC+
+    bitrate: 64
+    hls: true

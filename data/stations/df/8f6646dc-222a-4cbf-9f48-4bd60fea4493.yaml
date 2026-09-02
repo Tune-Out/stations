@@ -1,8 +1,8 @@
 stationuuid: 8f6646dc-222a-4cbf-9f48-4bd60fea4493
-name: NBC News Radio
+name: 24/7 News
 url: http://stream.revma.ihrhls.com/zc6043
 url_resolved: http://stream.revma.ihrhls.com/zc6043
-homepage: https://www.iheart.com/live/nbc-news-radio-6043/
+homepage: https://www.iheart.com/live/iheartradio-247-news-6043/
 favicon: https://iscale.iheart.com/catalog/live/6043
 tags:
   - news
@@ -23,15 +23,15 @@ clickcount: 34
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: NBCUniversal (distributed via iHeartRadio)
-  affiliations: NBC, Comcast/NBCUniversal
-  audience: United States (national); English-speaking; news and current events audiences.
-  format: All-news radio format; NBC News Radio programming, hourly news updates, national and international news coverage.
-  notes: NBC News Radio is a 24-hour all-news radio network operated by NBCUniversal. Distributed primarily through iHeartRadio platform. Delivers continuous news coverage, business news, weather, and information programming. Part of NBC's broader media distribution ecosystem.
-  sources: internal knowledge only
-curation: -0.05
+  operator: iHeartMedia (Total Traffic and Weather Network division)
+  affiliations: iHeartMedia; news content sourced from NBC News; formerly branded NBC News Radio under licence from NBCUniversal (2016-2024)
+  audience: US general audience seeking rolling headline news
+  format: '24-hour all-news: hourly newscasts, breaking news, business and weather'
+  notes: This stream is iHeartMedia's 24/7 News network, which began in 1999 as an audio news wire, started webcasting on iHeartRadio in 2008 and became a full network in 2012. From July 2016 it was branded 'NBC News Radio' under a licence from NBCUniversal, supplying hourly newscasts to roughly 850-1,000 stations. In 2024 the webcast and podcast reverted to the 24/7 News brand while still using NBC News reports; the iHeart page for this stream now redirects to 'iHeartRadio 24/7 News'. It is an automated rolling newscast with no local identity, owned by iHeartMedia rather than NBCUniversal.
+  sources: https://en.wikipedia.org/wiki/24/7_News; https://www.iheart.com/live/iheartradio-247-news-6043/; https://radioinsight.com/headlines/107201/nbc-news-partners-with-iheartmedia/
+curation: 0.20
 provenance:
   - radiobrowser-8f6646dc-222a-4cbf-9f48-4bd60fea4493
   - iprd-us-nbc-news-radio-71eb6f00

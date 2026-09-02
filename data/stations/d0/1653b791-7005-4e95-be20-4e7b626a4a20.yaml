@@ -36,3 +36,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-1653b791-7005-4e95-be20-4e7b626a4a20
+  - radiobrowser-01cf3664-81d5-4511-a65c-c72d990e12d9
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac'
+    url_resolved: 'https://22283.live.streamtheworld.com:443/NOVA_SKYNEWSAAC.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWS.mp3'
+    url_resolved: 'http://28153.live.streamtheworld.com:80/NOVA_SKYNEWS.mp3'
+    codec: MP3
+    bitrate: 128

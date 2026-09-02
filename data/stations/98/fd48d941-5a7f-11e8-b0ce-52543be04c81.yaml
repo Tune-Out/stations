@@ -21,14 +21,27 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Cinemix (film soundtrack and cinema music internet radio)
   affiliations: none known
   audience: International cinema and film score enthusiasts; soundtrack music listeners
   format: Film soundtracks, classical cinema music, movie scores; exclusively instrumental and orchestral cinema-focused programming
   notes: International internet radio specializing in film soundtracks and cinema music; non-commercial in spirit but commercial operation; serves global audience of film score fans; streaming infrastructure hosted in France
-  sources: internal knowledge only
+  sources: https://www.cinemix.us/
 curation: 0.4
 provenance:
   - radiobrowser-fd48d941-5a7f-11e8-b0ce-52543be04c81
+  - radiobrowser-a5331ae6-1196-46c4-b8d6-6a013018bbfe
+  - radiobrowser-bb6fd5e1-d0e4-4bb8-ba34-e3411685b6dd
+streams:
+  - url: 'http://listen.cinemix.fr/'
+    url_resolved: 'http://94.23.51.96:8001'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://kathy.torontocast.com:1825/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://94.23.51.96:8107/'
+    codec: MP3
+    bitrate: 256

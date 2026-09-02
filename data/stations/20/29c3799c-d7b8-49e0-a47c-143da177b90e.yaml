@@ -31,3 +31,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-29c3799c-d7b8-49e0-a47c-143da177b90e
+  - radiobrowser-961872d1-0601-11e8-ae97-52543be04c81
+  - iprd-be-radio-minerva-98-0-7c1b65f7
+streams:
+  - url: 'http://streaming.radiominerva.be/minerva'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://91.121.219.80/minerva'
+    codec: MP3
+    bitrate: 256

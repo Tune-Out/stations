@@ -1,8 +1,8 @@
 stationuuid: 4c73ec22-ba19-41e4-abe2-daf875d59dd0
-name: 774 ABC Melbourne
+name: ABC Radio Melbourne
 url: http://live-radio01.mediahubaustralia.com/3LRW/mp3/;
 url_resolved: http://live-radio01.mediahubaustralia.com/3LRW/mp3/;
-homepage: https://abc.net.au/radio/melbourne/
+homepage: https://www.abc.net.au/melbourne
 favicon: https://abc.net.au/favicon.ico
 tags: []
 country: Australia
@@ -20,14 +20,15 @@ clickcount: 13
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Australian Broadcasting Corporation (ABC), statutory authority of the Australian Government
-  affiliations: ABC Local Radio network; publicly funded by federal appropriation; editorially independent under the ABC Act 1983
+  operator: Australian Broadcasting Corporation
+  affiliations: ABC Local Radio; Victoria's emergency broadcaster
   audience: Melbourne and Victoria — general adult audience, skewing older; English-language
   format: Talk and speech — news, current affairs, interviews, sport, weather, traffic, and community discussion; local programming with networked national overnights and weekends
-  notes: Broadcasts on 774 AM (now branded ABC Radio Melbourne after a 2017 rebrand dropping the "774" frequency from on-air branding); originated as 3LO in 1924, taken over by the ABC at its formation in 1932; one of the ABC's flagship metropolitan capital-city stations alongside 702 Sydney (now ABC Radio Sydney), 612 Brisbane, etc.; long history of leading Melbourne talk radio with hosts such as Jon Faine (Mornings, 1996–2019), Red Symons, Virginia Trioli, and Raf Epstein; serves as the official emergency broadcaster for Victoria during bushfires and other emergencies.
-  sources: internal knowledge only (homepage fetch blocked)
-curation: 0.5
+  notes: ABC Radio Melbourne, still identified by its 774 kHz AM frequency and the historic call sign 3LO, is the Australian Broadcasting Corporation's metropolitan talk station for Melbourne. It first went to air on 13 October 1924 with an outside broadcast of La Bohème featuring Dame Nellie Melba and passed to the ABC on its formation in 1932. Programming is local news, talkback, current affairs and sport from the ABC Southbank Centre, and the station is Victoria's designated emergency broadcaster; the "774" branding was retired in the 2017 network rename.
+  sources: https://en.wikipedia.org/wiki/ABC_Radio_Melbourne; https://www.abc.net.au/melbourne
+curation: 0.65
+duplicate_of: 9619ffbe-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-4c73ec22-ba19-41e4-abe2-daf875d59dd0

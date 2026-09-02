@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fr/fr.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: France, pop-hits listeners
+  format: pop hits, automated rotation
+  notes: 100 Pour Cent France is a generic French pop-hits internet radio stream distributed via Shoutcast, with no evident editorial identity beyond continuous chart/pop rotation.
+  sources: stream check; no independent web sources found
+curation: -0.03
 provenance:
   - iprd-fr-100-pour-cent-france-689fb3fa

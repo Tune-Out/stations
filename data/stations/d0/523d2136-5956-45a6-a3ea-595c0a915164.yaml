@@ -34,3 +34,12 @@ research:
 curation: 0.2
 provenance:
   - radiobrowser-523d2136-5956-45a6-a3ea-595c0a915164
+  - radiobrowser-a9da6dc3-32a9-4686-bebd-f2669eeff04c
+streams:
+  - url: 'https://myradio24.org/rockataka'
+    url_resolved: 'https://listen7.myradio24.com/rockataka'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://listen7.myradio24.com/rockataka'
+    codec: MP3
+    bitrate: 128

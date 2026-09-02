@@ -35,3 +35,13 @@ research:
 curation: 0.75
 provenance:
   - radiobrowser-96154a1e-0601-11e8-ae97-52543be04c81
+  - radiobrowser-961ff680-0601-11e8-ae97-52543be04c81
+  - iprd-de-total-instrumental-bb15fdec
+  - iprd-de-total-instrumental-41663d56
+streams:
+  - url: 'http://stream.laut.fm/total-instrumental'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://total-instrumental.stream.laut.fm/total-instrumental?t302=2017-12-26_08-17-27&uuid=40fa8593-96cd-4494-8f8d-845f3356b4ca'
+    codec: MP3
+    bitrate: 128

@@ -31,3 +31,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-f61d112a-9e72-4b24-ace8-ad8b0f9fc2a9
+  - radiobrowser-cf415bb4-e8ed-4cec-9e79-81972b8c3ccc
+streams:
+  - url: 'http://de3.amfmph.com:2199/tunein/fmrtagum-stream.pls'
+    url_resolved: 'http://62.138.18.102:8679/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://us2.amfmph.com:2199/tunein/fmrtagum-stream.pls'
+    url_resolved: 'http://148.72.153.65:9226/stream'
+    codec: AAC+
+    bitrate: 64

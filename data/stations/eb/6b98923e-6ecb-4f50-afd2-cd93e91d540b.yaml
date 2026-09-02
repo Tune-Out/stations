@@ -33,3 +33,10 @@ curation: -0.05
 provenance:
   - radiobrowser-6b98923e-6ecb-4f50-afd2-cd93e91d540b
   - iprd-ae-cat-stevens-2b79151d
+  - radiobrowser-7e8b4822-eb14-4144-9f5a-f41c5ae1bbb1
+streams:
+  - url: 'https://streaming.exclusive.radio/er/catstevens/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/er/catstevens/icecast.audio'
+    codec: MP3
+  - url: 'http://2.mystreaming.net/er/catstevens/icecast.audio'
+    codec: MP3

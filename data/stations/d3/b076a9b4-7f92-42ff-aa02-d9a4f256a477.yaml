@@ -35,3 +35,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-b076a9b4-7f92-42ff-aa02-d9a4f256a477
+  - radiobrowser-441f9d37-3b6f-4b67-81ee-86f15c72c9cf
+streams:
+  - url: 'http://5.2.184.92:3390/radiodreams.g1.ro?icy=https'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://radiodreams.g1.ro:3390/listen.pls'
+    url_resolved: 'http://radiodreams.g1.ro:3390/radiodreams.g1.ro'
+    codec: AAC+
+    bitrate: 128

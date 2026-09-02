@@ -32,3 +32,12 @@ curation: -0.05
 provenance:
   - radiobrowser-398e354d-303a-421a-953e-4e0a415b17ae
   - iprd-hr-club-music-radio-tambura-771fc851
+  - radiobrowser-120f5847-68d7-41d1-8b28-51614984d1f3
+  - iprd-hr-club-music-radio-tambura-26180b40
+streams:
+  - url: 'http://cmr-hosting.com:8070/stream?type=http&nocache=646624'
+    codec: MP3
+    bitrate: 320
+  - url: 'http://cmr-hosting.com:8070/'
+    codec: MP3
+    bitrate: 320

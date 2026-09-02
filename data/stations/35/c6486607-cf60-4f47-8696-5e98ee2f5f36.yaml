@@ -34,3 +34,11 @@ curation: -0.05
 provenance:
   - radiobrowser-c6486607-cf60-4f47-8696-5e98ee2f5f36
   - iprd-gb-heart-xmas-81f6061d
+  - radiobrowser-6beb8be7-c4ec-40fb-99be-b27d03f43d24
+streams:
+  - url: 'http://icecast.thisisdax.com/HeartXmasMP3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://media-ice.musicradio.com/HeartXmasMP3'
+    codec: MP3
+    bitrate: 128

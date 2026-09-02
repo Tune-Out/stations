@@ -23,17 +23,24 @@ clickcount: 13
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: ROCK ANTENNE GmbH & Co. KG, a joint venture of Studio Gong (Müller Medien group) and Antenne Bayern Group
-  affiliations: none known; secular commercial broadcaster
-  audience: German-speaking rock fans aged 30-60; nationwide DAB+ and online listeners
-  format: Classic rock "pearls" / deep cuts — focuses on lesser-played classic rock gems, B-sides, album tracks, and rarities rather than the most-spun hits
-  notes: ROCK ANTENNE is one of Germany's most successful rock-format brands, launched in 2000 from Ismaning (near Munich) and best known for its hard-rock/classic-rock playlist; it has expanded into a multi-channel digital network with thematic sub-stations including ROCK ANTENNE Heavy Metal, Alternative, 80er Rock, 90er Rock, and Classic Perlen; the Classic Perlen ("Classic Pearls") channel targets connoisseurs by playing classic rock deep cuts and less-mainstream tracks; the main station holds a Bavarian terrestrial licence and broadcasts nationwide via DAB+ and internet, and is a frequent winner of German radio industry awards.
-  sources: internal knowledge only
-curation: -0.05
+  operator: ROCK ANTENNE GmbH & Co. KG, Ismaning near Munich
+  affiliations: Joint venture of Studio Gong (Müller Medien) and the Antenne Bayern group
+  audience: German-speaking classic-rock listeners, roughly 30-60
+  format: Classic-rock deep cuts - album tracks, B-sides and lesser-played catalogue rather than the most-spun hits
+  notes: Classic Perlen ("classic pearls") is one of the thematic web channels of ROCK ANTENNE, the Bavarian rock network launched in 2000 from Ismaning near Munich and owned jointly by Studio Gong and the Antenne Bayern group. Where the main service plays the familiar rock canon, Classic Perlen is programmed for listeners who want album tracks and overlooked catalogue from the same era. It sits in a family of around twenty ROCK ANTENNE sub-channels including Heavy Metal, Alternative, Hair Metal, Punk Rock and 80er Rock. The channel is stream-only and ad-supported; the parent station holds a Bavarian terrestrial licence and carries nationally on DAB+.
+  sources: http://www.rockantenne.de/; stream header check on http://mp3channels.webradio.rockantenne.de/classic-perlen
+curation: 0.09
 provenance:
   - radiobrowser-960c3f9b-0601-11e8-ae97-52543be04c81
   - iprd-de-rock-antenne-classic-perlen-c66020b7
   - iprd-de-rock-antenne-classic-perlen-4028b843
   - iprd-de-rock-antenne-classic-perlen-1bc059aa
+  - radiobrowser-ff4e7a72-5a9a-414e-9bc0-7d3f0cfe4c6e
+streams:
+  - url: 'http://mp3channels.webradio.rockantenne.de/classic-perlen'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.rockantenne.de/classic-perlen/stream/aacp'
+    codec: AAC

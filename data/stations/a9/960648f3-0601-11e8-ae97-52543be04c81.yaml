@@ -36,6 +36,7 @@ provenance:
   - radiobrowser-960648f3-0601-11e8-ae97-52543be04c81
   - iprd-ch-ip-music-slow-20dbec32
   - iprd-ch-ip-music-slow-9daf7b1f
+  - radiobrowser-633c90f2-d3d2-4c08-b755-94820bc7d6e1
 streams:
   - url: http://live7.avf.ch:8000/ipmusicslowaacp128
     codec: AAC+
@@ -43,3 +44,6 @@ streams:
   - url: http://live7.avf.ch:8000/ipmusicslowaacp96
     codec: AAC+
     bitrate: 96
+  - url: 'http://live7.avf.ch:8000/ipmusicslow256'
+    codec: MP3
+    bitrate: 256

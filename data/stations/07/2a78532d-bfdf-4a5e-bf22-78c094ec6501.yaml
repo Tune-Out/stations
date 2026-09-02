@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: romantic ballads
+  notes: XHQS-FM 'Romántica 90.3' is a Mexican commercial station playing romantic ballads, distributed via the SecureNetSystems relay network. The stream returned an access-denied response, which may reflect bot-blocking rather than an actually dead stream.
+  sources: 'IPRD: streams/mx/mx.m3u'
+curation: 0.03
 provenance:
   - iprd-mx-romantica-90-3-xhqs-78568fe4

@@ -32,3 +32,13 @@ curation: 0.2
 provenance:
   - radiobrowser-6e933dcf-b88a-44cc-8334-00bff2198993
   - iprd-de-radio-endstation-11ca22e4
+  - radiobrowser-6208aaaa-7aea-4300-ac6b-b99b1cf6bd19
+streams:
+  - url: 'https://funkturm.radio-endstation.de/listen/radio-endstation/radio.mp3?606343196'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://funkturm.radio-endstation.de/public/radio-endstation/playlist.pls'
+    url_resolved: 'https://funkturm.radio-endstation.de/hls/radio-endstation/live.m3u8'
+    codec: AAC
+    bitrate: 52
+    hls: true

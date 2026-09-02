@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/cr/cr.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: Costa Rica
+  format: Latin music
+  notes: Zeta 95.1 is a commercial Latin-format FM station in Costa Rica. The listed CloudFront stream endpoint could not be reached and the homepage field only points to a media-cache thumbnail image, so current operating status could not be confirmed.
+  sources: 'IPRD: streams/cr/cr.m3u'
+curation: 0.00
 provenance:
   - iprd-cr-zeta-95-1-af9f2f70

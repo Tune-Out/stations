@@ -33,3 +33,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-018935b5-88de-46da-a323-f35b4178503b
+  - radiobrowser-3043d560-4358-4583-9e29-9fce6777a09c
+streams:
+  - url: 'https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/chunklist.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://zstream.win/radio/cbs/musicfm'
+    url_resolved: 'https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8'
+    codec: AAC+
+    bitrate: 107
+    hls: true

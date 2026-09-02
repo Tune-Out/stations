@@ -31,3 +31,10 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-42e1768d-50ad-4cf2-bae3-add8a5c4df7f
+  - radiobrowser-69054dc2-740f-40b8-9617-b02680ce991f
+streams:
+  - url: 'https://takeoff.jetstre.am/?account=bbm&file=trigger128SD&type=live&service=icecast&protocol=https&port=8000&output=pls'
+    codec: MP3
+  - url: 'https://hd-radio.triggerfm.de/'
+    codec: MP3
+    bitrate: 256

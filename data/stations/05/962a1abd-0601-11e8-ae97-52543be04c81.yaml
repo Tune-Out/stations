@@ -24,15 +24,15 @@ clickcount: 55
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: state media
-  operator: Komsomolskaya Pravda (Russian news organization and media group)
-  affiliations: Russian state-affiliated media; state media characteristics evident
-  audience: Russian-speaking audience across Russia, based in Moscow
-  format: News, talk, music, commentary, and entertainment programming integrated with digital content
-  notes: Radio service operated as digital extension of Komsomolskaya Pravda news brand; features sections on Russian government initiatives ("Национальные проекты России" / National Projects of Russia) and state social support ("Соцподдержка"); includes regular commentary segments on current events and politics; integrated multimedia news distribution model combining radio with web content; reaches national Russian audience with Moscow as base of operations
-  sources: https://www.kp.ru/radio, internal knowledge
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Publishing House Komsomolskaya Pravda
+  affiliations: pro-Kremlin editorial line; privately owned but state-aligned
+  audience: Russian-speaking news and talk listeners nationwide
+  format: news, political talk, commentary and entertainment
+  notes: 'Radio Komsomolskaya Pravda is the news-talk radio station of the Komsomolskaya Pravda publishing house, on air since 2009 in Moscow on 97.2 FM and relayed in dozens of Russian cities; this stream is the national ''KP Russia'' feed. It runs 24/7 news bulletins, political commentary, phone-ins and entertainment under the slogan ''radio for those with a head on their shoulders'', drawing on KP''s journalists. The parent newspaper is privately owned (largest shareholder Sergei Rudnov of Baltic Media Group) but is firmly pro-Kremlin, was led for 25 years by Vladimir Sungorkin until his death in 2022, and has deleted anti-war reporting; its output since 2022 amplifies official narratives on the war in Ukraine. Listeners should treat its news coverage as state-aligned. Editorial flag: Radio arm of Komsomolskaya Pravda, a pro-Kremlin tabloid described by the European Commission as Putin''s favourite newspaper; the outlet promotes state narratives and conspiracy theories and has suppressed anti-war reporting since the 2022 invasion of Ukraine.'
+  sources: https://en.wikipedia.org/wiki/Komsomolskaya_Pravda; https://www.kp.ru/radio/; https://radiopotok.ru/radio/1021
+curation: -0.30
 provenance:
   - radiobrowser-962a1abd-0601-11e8-ae97-52543be04c81
   - iprd-ru-radio-komsomolskaya-pravda-e9231f83

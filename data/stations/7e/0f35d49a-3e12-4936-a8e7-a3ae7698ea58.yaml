@@ -31,3 +31,16 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-0f35d49a-3e12-4936-a8e7-a3ae7698ea58
+  - radiobrowser-86d9ef87-db88-4158-a50e-a91ab7b4d93e
+  - radiobrowser-c3153d80-729e-4e48-9629-dc3def79c7d2
+streams:
+  - url: 'http://82.201.132.237:8000/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://82.201.132.237:8000/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://online-radio.eu/export/winamp/9080-el-gouna-radio'
+    url_resolved: 'http://82.201.132.237:8000/;stream.mp3'
+    codec: MP3
+    bitrate: 128

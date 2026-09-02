@@ -23,15 +23,15 @@ clickcount: 31
 geo_lat: 14.069502065722656
 geo_long: 91.2162021851706
 research:
-  reviewed_at: 2026-06-09
-  nature: community
-  operator: Radio Aashiqanaa / community radio in Kanpur
-  affiliations: none known
-  audience: Hindi speakers in Kanpur, Uttar Pradesh; Bollywood music enthusiasts
-  format: Bollywood music, Hindi songs, popular Indian cinema music
-  notes: Community internet radio station based in Kanpur, Uttar Pradesh. Focuses on Bollywood and Hindi popular music.
-  sources: internal knowledge only
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Unknown; no operator-controlled website remains
+  affiliations: none verifiable
+  audience: Hindi-speaking Bollywood listeners, nominally in Kanpur, Uttar Pradesh
+  format: Bollywood and Hindi film music (as previously described; currently nothing is playing)
+  notes: 'Radio Aashiqanaa was an online-only Hindi/Bollywood music stream associated with Kanpur, Uttar Pradesh, distributed through the Radio Garden directory and a Sonic Panel hosting account. As of September 2026 the feed is dark: the stream endpoint returns an HTML page reading "Stream is Offline — There is no sound on the radio. Start AutoDJ or stream music to the radio," meaning the hosting account exists but nothing is being broadcast. The station''s own domain, radioaashiqanaa.com, no longer resolves (NXDOMAIN), and the catalogued homepage is only a radio.garden aggregator link rather than an operator page. There is no evidence of a successor service, and the earlier description of it as a community station was never substantiated. Recommend delisting unless the stream returns.'
+  sources: https://sonic.onlineaudience.co.uk/8114/stream; http://radio.garden/visit/kanpur/oiLkMelg
+curation: -0.07
 provenance:
   - radiobrowser-dd10c8a8-c9b3-4e00-b0b5-7e7a9926e88f
 streams:

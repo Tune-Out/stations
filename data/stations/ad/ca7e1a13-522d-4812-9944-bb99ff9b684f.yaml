@@ -31,3 +31,10 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-ca7e1a13-522d-4812-9944-bb99ff9b684f
+  - radiobrowser-ac784548-2762-4c85-a284-36dd5cec50be
+streams:
+  - url: 'http://streaming.latina101.com.ar:8080/RadioLatina'
+    codec: MP3
+  - url: 'https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8'
+    codec: UNKNOWN
+    hls: true

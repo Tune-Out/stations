@@ -23,14 +23,14 @@ clickcount: 14
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: CNN (Cable News Network), a division of CNN Worldwide under Warner Bros. Discovery
   affiliations: none religious or political; corporate (Warner Bros. Discovery); historically Time Warner/AT&T/WarnerMedia
   audience: global English-speaking news consumers
   format: 24-hour international news, breaking news, business, politics, and feature reporting (audio simulcast of CNN International TV)
-  notes: Founded 1980 by Ted Turner as the first 24-hour cable news network; CNN International launched 1985 and reaches over 200 countries; headquartered in Atlanta, GA with major bureaus in London, Hong Kong, and elsewhere; has faced criticism from both left and right and accusations of perceived bias, particularly during the Trump administration; merged into Warner Bros. Discovery in 2022; this stream carries the audio of CNN International's TV feed.
-  sources: internal knowledge only (homepage returned HTTP 451)
-curation: -0.05
+  notes: CNN International Audio simulcasts the audio feed of CNN International, the global 24-hour English-language news channel launched in 1985 by Ted Turner as a sister to CNN, now owned by Warner Bros. Discovery. Headquartered in Atlanta with bureaus worldwide, it delivers rolling breaking news, business and politics coverage to over 200 countries. This particular relay mount (tunein.cdnstream1.com) returned HTTP 404 on stream check even though the network itself remains fully active.
+  sources: https://www.cnn.com/; https://en.wikipedia.org/wiki/CNN_International
+curation: 0.15
 provenance:
   - radiobrowser-7094b698-b1ac-4f08-a6cd-ac35f906765d

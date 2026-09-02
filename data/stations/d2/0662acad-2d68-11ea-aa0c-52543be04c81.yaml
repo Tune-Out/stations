@@ -35,6 +35,8 @@ curation: 0.5
 provenance:
   - radiobrowser-0662acad-2d68-11ea-aa0c-52543be04c81
   - iprd-fr-magic-radio-2a9c7580
+  - radiobrowser-bfdf3bab-6086-4f8a-bca8-edf60b1ec1b8
+  - iprd-fr-magic-radio-4868e9f9
 streams:
   - url: http://mp3.magic-radio.net/flac.m3u
     url_resolved: http://mp3.magic-radio.net/flac
@@ -49,3 +51,6 @@ streams:
   - url: https://mp3.magic-radio.net/prox192
     codec: MP3
     bitrate: 192
+  - url: 'http://mp3.magic-radio.net/flac'
+    codec: OGG
+    bitrate: 1500

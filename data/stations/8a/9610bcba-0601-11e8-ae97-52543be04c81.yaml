@@ -2,7 +2,7 @@ stationuuid: 9610bcba-0601-11e8-ae97-52543be04c81
 name: DR P5
 url: http://live-icy.gss.dr.dk/A/A25H.mp3.m3u
 url_resolved: http://live-icy.gslb01.dr.dk/A/A25H.mp3
-homepage: http://www.dr.dk/p5
+homepage: https://www.dr.dk/lyd/p5
 favicon: http://www.dr.dk/favicon.ico
 tags:
   - public-radio
@@ -23,15 +23,15 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Danmarks Radio (DR), the Danish state-owned public broadcaster
-  affiliations: State-funded and license-fee supported; part of Denmark's public broadcasting system
-  audience: Danish-speaking listeners across Denmark; general audience
-  format: P5's "alternative radio" format — word-driven programming with news, documentaries, discussions, cultural analysis, independent music discovery and literary content
-  notes: DR P5 is one of five main broadcast networks of Danmarks Radio, the Danish state public broadcaster founded in 1925 and today the country's largest media company by reach; P5 was created in 2003 as Denmark's "alternative" and "word-driven" public radio channel, programming independent music discovery, long-form journalism, podcasts, cultural criticism and human-interest stories alongside classical and world music; P5 serves as a counterweight to mainstream commercial radio in Denmark and is known for high editorial standards and cultural contributions.
-  sources: internal knowledge only
-curation: 0.5
+  operator: DR (Danmarks Radio)
+  affiliations: Danish licence-funded public broadcaster
+  audience: Danish listeners aged 60 and over
+  format: Danish and international hits from the 1950s-80s, dansktop, presenter-led entertainment and regional windows
+  notes: DR P5 is DR's digital radio channel aimed at listeners over 60, launched on 2 November 2009 as the successor to P4 Danmark. It broadcasts nationally on DAB (MUX1) and online, mixing familiar Danish and international songs with presenter-led shows from personalities such as Jørgen de Mylius, and it carries regional editions (P5 København, Fyn, etc.). The earlier catalog notes describing P5 as an "alternative, word-driven" channel from 2003 were incorrect.
+  sources: https://en.wikipedia.org/wiki/DR_P5; https://www.dr.dk/lyd/p5
+curation: 0.55
 provenance:
   - radiobrowser-9610bcba-0601-11e8-ae97-52543be04c81
   - iprd-dk-dr-p5-368cc137

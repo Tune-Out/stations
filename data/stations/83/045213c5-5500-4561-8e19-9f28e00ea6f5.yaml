@@ -31,3 +31,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-045213c5-5500-4561-8e19-9f28e00ea6f5
+  - radiobrowser-8134038e-9484-42eb-95c7-cf6eb63f8ae9
+streams:
+  - url: 'https://hello.citrus3.com:2020/stream/radiokasih'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://onlineradiobox.com/json/id/kasih/play'
+    codec: AAC
+    bitrate: 128

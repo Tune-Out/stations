@@ -1,8 +1,8 @@
 stationuuid: e6fa9a8a-02a8-11e9-a1be-52543be04c81
-name: SomaFM Groove Salad Classic (128k MP3)
+name: SomaFM Groove Salad Classic
 url: https://somafm.com/gsclassic.pls
 url_resolved: https://ice2.somafm.com/gsclassic-128-mp3
-homepage: https://somafm.com/groovesalad/
+homepage: https://somafm.com/gsclassic/
 favicon: https://somafm.com/img3/gsclassic400.jpg
 tags:
   - ambient
@@ -24,15 +24,15 @@ clickcount: 6
 geo_lat: 37.809784
 geo_long: -121.286316
 research:
-  reviewed_at: 2026-06-09
-  nature: public broadcaster
-  operator: SomaFM (independent listener-supported internet radio network)
+  reviewed_at: 2026-09-02
+  nature: non-commercial
+  operator: SomaFM (San Francisco, listener-supported)
   affiliations: none known
   audience: Global listeners seeking ambient, downtempo, and chill music; creative professionals
-  format: Downtempo ambient and early-2000s chill music; 24/7 curated streaming
-  notes: SomaFM operates as listener-supported, commercial-free internet radio since 1999. Groove Salad is signature channel featuring ambient downtempo classics. Based in California. All SomaFM channels are non-profit, donations and grants supported.
-  sources: internal knowledge only
-curation: 0.7
+  format: Early-2000s ambient/downtempo chill (Groove Salad Classic)
+  notes: Groove Salad Classic is a SomaFM channel that recreates the early-2000s incarnation of Groove Salad, SomaFM's signature ambient/downtempo station, with artists such as Kruder & Dorfmeister, Fila Brazillia, Zero 7 and Nightmares on Wax. SomaFM is an independent, listener-supported, commercial-free internet radio network founded in San Francisco in 2000 by Rusty Hodge; it is funded by donations and merchandise and offers each channel in several bitrates. This is a distinct channel from the current Groove Salad feed, not a quality variant.
+  sources: https://somafm.com/gsclassic/; https://somafm.com/groovesalad/
+curation: 0.80
 provenance:
   - radiobrowser-e6fa9a8a-02a8-11e9-a1be-52543be04c81
   - iprd-us-somafm-groove-salad-classic-1e642b52

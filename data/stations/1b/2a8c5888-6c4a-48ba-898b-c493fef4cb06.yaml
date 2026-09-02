@@ -34,3 +34,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-2a8c5888-6c4a-48ba-898b-c493fef4cb06
+  - radiobrowser-fd1645c1-501a-4c04-b4af-4501ec71f735
+streams:
+  - url: 'https://ewtn-sgrewind.streamguys1.com/sgrewind/philippines/playlist.m3u8'
+    codec: AAC
+    bitrate: 64
+    hls: true
+  - url: 'https://ewtn-ice.streamguys1.com/philippines-aac'
+    codec: AAC

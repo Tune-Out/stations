@@ -21,15 +21,16 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Unknown
   affiliations: none known
   audience: Russian-speaking listeners
   format: Pop music format; "Dorozhnoye Radio" (Road Radio) brand
-  notes: Russian road/driving radio with pop music format; NН designation refers to regional variation
+  notes: Дорожное радио НН streams the same generic AAC feed (dorognoe.hostingradio.ru) as the flagship Дорожное радио (Road Radio) network, with a Nizhny Novgorod ('NN') regional label rather than distinct local content; the much larger canonical entry for this network carries over 50,000 votes.
   sources: internal knowledge only
-curation: -0.05
+curation: -0.15
+duplicate_of: 0a364b59-56b6-11e9-aa33-52543be04c81
 provenance:
   - radiobrowser-f19c561c-4107-40e2-9709-fd1b3ca80111
   - iprd-ru-dorozhnoye-radio-8e7609ca

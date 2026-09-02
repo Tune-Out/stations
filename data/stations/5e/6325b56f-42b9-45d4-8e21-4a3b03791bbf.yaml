@@ -1,5 +1,5 @@
 stationuuid: 6325b56f-42b9-45d4-8e21-4a3b03791bbf
-name: WEOW fm 92.7
+name: WEOW 92.7 FM
 url: http://ice42.securenetsystems.net/WEOW
 url_resolved: http://ice42.securenetsystems.net/WEOW
 homepage: http://www.weow927.com/
@@ -23,15 +23,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: WEOW FM 92.7 (licensed broadcaster)
-  affiliations: none known
-  audience: Key West, Florida, USA
-  format: Rock music programming; 92.7 FM licensed local station.
-  notes: Commercial radio station licensed in Key West, Florida serving the Keys community.
-  sources: internal knowledge only
-curation: 0.45
+  operator: Fiorini Keys Media, LLC
+  affiliations: Independently owned; carried on iHeartRadio but not owned by iHeartMedia
+  audience: Key West and the Florida Keys, plus visitors and online listeners
+  format: Top 40 / contemporary hit radio
+  notes: WEOW is a Top 40 station on 92.7 MHz licensed to Key West, Florida, branded on air as "92.7 WEOW" and pronounced "wow". It signed on as WFYN-FM on 20 February 1967 and took the WEOW calls in the mid-1980s. Its 100,000-watt signal reaches from Key Largo to within range of Havana, which makes it the southernmost CHR station in the continental United States. Fiorini Keys Media bought the station in July 2024 and kept the existing line-up; it is distributed on iHeartRadio but has no ownership connection to iHeartMedia. The previous catalog notes described it as a rock station, which is wrong.
+  sources: https://en.wikipedia.org/wiki/WEOW; stream header check on http://ice42.securenetsystems.net/WEOW
+curation: 0.15
 provenance:
   - radiobrowser-6325b56f-42b9-45d4-8e21-4a3b03791bbf
   - iprd-us-weow-92-7-adfef3fc

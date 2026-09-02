@@ -25,8 +25,8 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
+  reviewed_at: 2026-09-02
+  nature: religious
   operator: Radio Maria
   affiliations: Roman Catholic Church
   audience: Italian Catholic listeners
@@ -37,3 +37,11 @@ curation: 0.35
 provenance:
   - radiobrowser-b6aecc0a-7709-11e9-8b97-52543be04c81
   - iprd-it-radio-maria-b70a15f4
+  - radiobrowser-e76db104-6f04-4b90-92a1-cbdfe3e35180
+streams:
+  - url: 'http://dreamsiteradiocp2.com:8016/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://dreamsiteradiocp4.com/proxy/rmitaliamontecarlo?mp=/stream'
+    codec: AAC+
+    bitrate: 64

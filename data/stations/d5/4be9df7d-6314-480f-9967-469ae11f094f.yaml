@@ -21,15 +21,15 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Radio Rodja (Indonesian Islamic radio station)
-  affiliations: Islamic; Islamic education and Quranic recitation focus
-  audience: Indonesian Muslim audiences; Islamic content seekers
-  format: Quranic recitation, Islamic education, classical Islamic studies programming
-  notes: Radio Rodja is a prominent Indonesian Islamic radio station broadcasting Quranic recitation and Islamic educational content. Serves Indonesia's Muslim majority with religious programming and classical Islamic scholarship. Based in Indonesia but reaches diaspora communities. Despite being tagged "classical," focuses primarily on Islamic classical learning rather than classical music.
-  sources: internal knowledge only
-curation: 0.6
+  reviewed_at: 2026-09-02
+  nature: religious
+  operator: Yayasan Cahaya Sunnah, Cileungsi, Bogor
+  affiliations: Salafi Islamic dawah network
+  audience: Indonesian Muslim listeners nationwide and diaspora
+  format: Qur'an recitation and Islamic lectures
+  notes: Radio Rodja (originally "Radio Dakwah Ahlussunnah wal Jamaah") is an Indonesian Islamic dawah station run by Yayasan Cahaya Sunnah in Cileungsi, Bogor Regency, West Java, founded by Abu Yahya Badrusalam in 2005 after his return from the Islamic University of Madinah. It broadcasts on 756 AM (since 2007) and 100.1 FM, and its programming is Qur'anic recitation and religious lectures in the Salafi tradition. Rodja has grown into a network of FM affiliates in more than 15 Indonesian cities including Bandung, Surabaya and Makassar. The catalog's "classical" tag is wrong.
+  sources: https://id.wikipedia.org/wiki/Radio_Rodja; https://www.radiorodja.com/
+curation: 0.15
 provenance:
   - radiobrowser-4be9df7d-6314-480f-9967-469ae11f094f
   - iprd-id-radio-rodja-756-e5909450

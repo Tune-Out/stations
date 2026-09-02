@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ir/ir.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 'Imported from IPRD catalog. Editorial flag: Radio Iran is IRIB''s flagship national news/talk network; IRIB is the Iranian state broadcaster named in the rubric and is EU/US-sanctioned for propaganda and broadcasting forced confessions.'
+  sources: 'IPRD: streams/ir/ir.m3u'
+curation: -0.60
 provenance:
   - iprd-ir-irib-radio-iran-b4dc92ed

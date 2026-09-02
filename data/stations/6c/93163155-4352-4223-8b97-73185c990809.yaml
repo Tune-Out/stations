@@ -31,3 +31,11 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-93163155-4352-4223-8b97-73185c990809
+  - iprd-au-5lcm-lofty-88-9-02cbf0ca
+streams:
+  - url: 'https://stream01.sigile.net/lofty-24-aac'
+    codec: AAC
+    bitrate: 24
+  - url: 'https://stream.sigile.net/lofty-24-aac'
+    codec: AAC
+    bitrate: 128

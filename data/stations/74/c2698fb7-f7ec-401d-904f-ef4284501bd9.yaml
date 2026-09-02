@@ -1,5 +1,5 @@
 stationuuid: c2698fb7-f7ec-401d-904f-ef4284501bd9
-name: RFI-Afrique
+name: RFI Afrique
 url: http://live02.rfi.fr/rfiafrique-96k.mp3
 url_resolved: http://live02.rfi.fr/rfiafrique-96k.mp3
 homepage: http://www.rfi.fr/fr/
@@ -24,15 +24,16 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: France Médias Monde (French government-owned)
-  affiliations: French state broadcaster
-  audience: Francophone audiences across Africa and globally; focuses on African news and affairs
-  format: News, current affairs, documentaries, and programs focused on Africa and international topics
-  notes: RFI-Afrique is the African service of Radio France International, part of France Médias Monde. Founded 1975. Provides in-depth coverage of African political, social, and cultural issues in French. Part of France's public broadcasting mission globally.
-  sources: internal knowledge only
-curation: 0.45
+  operator: France Médias Monde (Radio France Internationale)
+  affiliations: French public international broadcasting
+  audience: Francophone Africa and diaspora
+  format: News and current affairs focused on Africa
+  notes: RFI Afrique is the Africa-targeted French-language service of Radio France Internationale, the public international broadcaster founded in 1975 and operated by the state-owned France Médias Monde. It shares RFI's Paris newsroom but carries ten Africa-specific daily news editions plus programmes on African politics, economy, culture and sport, and is relayed on FM in dozens of African cities. Africa accounts for around 60% of RFI's roughly 59.5 million weekly listeners; the service has been suspended by military governments in Mali (2022), Burkina Faso (2022), Niger (2023) and Togo (2025). Funding comes from the French audiovisual levy and the foreign ministry.
+  sources: https://fr.wikipedia.org/wiki/Radio_France_internationale; https://en.wikipedia.org/wiki/Radio_France_Internationale; https://www.rfi.fr/fr/
+curation: 0.70
+duplicate_of: 960c2914-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-c2698fb7-f7ec-401d-904f-ef4284501bd9
   - iprd-fr-rfi-afrique-f68f5775

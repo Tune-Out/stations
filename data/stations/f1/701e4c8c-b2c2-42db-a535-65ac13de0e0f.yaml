@@ -23,15 +23,16 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
   operator: CNR (China National Radio)
   affiliations: Chinese state broadcaster
   audience: Chinese-speaking news listeners; primarily China
   format: News, current affairs, and national broadcasting
-  notes: CNR-1 中国之声 (Voice of China) is the flagship news channel of China National Radio; operates under Chinese Communist Party; provides official news and information programming to mainland China
+  notes: 'CNR-1 中国之声 (Voice of China) is the flagship news channel of China National Radio; operates under Chinese Communist Party; provides official news and information programming to mainland China Editorial flag: CNR-1 中国之声 (Voice of China) is the flagship news/political channel of China National Radio under China Media Group and the CCP Central Propaganda Department, carrying official news bulletins and Party messaging. It is a CNR political channel per the rubric, not a music/culture service like CNR Music.'
   sources: internal knowledge only
-curation: 0.35
+curation: -0.30
+duplicate_of: f0a47ae7-b935-42ea-87f9-a97873fb584a
 provenance:
   - radiobrowser-701e4c8c-b2c2-42db-a535-65ac13de0e0f
 streams:

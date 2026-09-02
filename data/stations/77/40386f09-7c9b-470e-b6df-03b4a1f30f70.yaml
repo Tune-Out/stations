@@ -37,3 +37,9 @@ provenance:
   - radiobrowser-40386f09-7c9b-470e-b6df-03b4a1f30f70
   - iprd-be-studio-brussel-5bfa24e2
   - iprd-be-studio-brussel-de-tijdloze-fe2db2db
+  - radiobrowser-80dddede-2e88-4862-b8d7-5b7073112b27
+streams:
+  - url: 'http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3'
+    codec: MP3
+  - url: 'http://icecast.vrtcdn.be/stubru_tijdloze.aac'
+    codec: AAC

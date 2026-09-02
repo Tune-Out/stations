@@ -37,3 +37,15 @@ provenance:
   - radiobrowser-84764bda-eb7e-11e9-a96c-52543be04c81
   - iprd-fr-fip-reggae-4a989768
   - iprd-fr-fip-reggae-da3033b1
+  - radiobrowser-96128e69-0601-11e8-ae97-52543be04c81
+  - radiobrowser-a155dd83-7cc3-416b-8da3-bd5f5d09050c
+streams:
+  - url: 'http://icecast.radiofrance.fr/fipreggae-hifi.aac'
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.fipradio.fr/live/fip-webradio6.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radio-metadata.fr:8000/fipreggae'
+    codec: AAC
+    bitrate: 192

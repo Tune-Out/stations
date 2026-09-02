@@ -24,16 +24,26 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
   operator: RTP (Rádio e Televisão de Portugal)
   affiliations: Portuguese government; public service broadcasting
   audience: Portuguese speakers; mainstream audiences
   format: Alternative and pop music; mainstream entertainment
-  notes: Part of Portugal's national public broadcaster RTP; Antena 3 is alternative/pop channel
-  sources: internal knowledge only
-curation: 0.4
+  notes: Antena 3 is the alternative/indie-pop channel of RTP, Portugal's public broadcaster, aimed at younger audiences with a distinctive, editorially curated alternative-music format rather than mainstream pop.
+  sources: https://media.rtp.pt/antena3/
+curation: 0.55
 provenance:
   - radiobrowser-6ee0cdcf-5d4c-4c29-9372-94a853110dec
   - iprd-pt-rtp-antena-2-opera-3ec54c55
   - iprd-pt-rtp-antena-3-8376f42a
+  - radiobrowser-ba4a59be-3ba1-4461-b9de-f489d605c7ac
+streams:
+  - url: 'http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8'
+    codec: AAC
+    bitrate: 167
+    hls: true
+  - url: 'https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR'
+    codec: AAC
+    bitrate: 174
+    hls: true

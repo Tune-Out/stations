@@ -35,3 +35,12 @@ curation: 0.25
 provenance:
   - radiobrowser-bf88a6e6-5706-4561-982e-15b9444af495
   - iprd-be-la-classica-7c32eb8d
+  - radiobrowser-91f9e16d-e48e-4b4f-8492-353645a07ee5
+  - iprd-be-la-classica-01b7e06c
+streams:
+  - url: 'http://stream.laclassica.be:8023/stream2'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://stream.laclassica.be:8023/stream'
+    codec: MP3
+    bitrate: 192

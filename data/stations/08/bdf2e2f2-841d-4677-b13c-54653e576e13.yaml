@@ -20,14 +20,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: WCBE 90.5 FM is Columbus, Ohio's public radio station, operated by Columbus City Schools and a charter member station of NPR since 1970, broadcasting news/talk and, since a 2024 rebrand, more locally curated music programming to roughly 120,000 weekly listeners. A higher-vote duplicate of this exact station already exists in the catalog.
+  sources: https://www.wcbe.org/about-us; https://en.wikipedia.org/wiki/WCBE
+curation: 0.55
+duplicate_of: 96257dd4-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-wcbe-90-5-9d8e7597

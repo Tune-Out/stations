@@ -38,9 +38,12 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-963f9e3d-0601-11e8-ae97-52543be04c81
+  - radiobrowser-26ec7cd1-e7cc-46af-866a-035f360a7d38
 streams:
   - url: http://streams.rsh.de/rsh-live/mp3-192/mediaplayer
     codec: MP3
   - url: http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de/play.m3u
     url_resolved: http://rsh.streamabc.net/regc-rshlive-mp3-128-7643923?sABC=6968417s%230%23r30o443r1929r059s085628511796n57%23fgernzf.efu.qr&aw_0_1st.playerid=streams.rsh.de&amsparams=playerid:streams.rsh.de;skey:1768440191
     codec: MP3
+  - url: 'https://streams.rsh.de/rsh-live/aac-64/streams.rsh.de/'
+    codec: AAC

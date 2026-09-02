@@ -21,14 +21,14 @@ clickcount: 14
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: PT Trans News Corpora (CT Corp / Trans Media), Indonesian media conglomerate owned by Chairul Tanjung; operated under licence/franchise agreement with Warner Bros. Discovery's CNN brand
-  affiliations: Branded CNN franchise; corporate parent CT Corp has historically been linked to Indonesian political figures (Chairul Tanjung served as a coordinating minister under President Susilo Bambang Yudhoyono); editorially aligned with mainstream Indonesian news standards
-  audience: Indonesian Bahasa-speaking general news audience nationwide, urban-skewing
-  format: 24-hour news television simulcast — breaking news, political coverage, business, international news, and talk programmes
-  notes: Launched 17 August 2015 as the Indonesian-language CNN-branded news channel under licence from Turner Broadcasting (now Warner Bros. Discovery); operates alongside CNNIndonesia.com (online) and is part of the Trans Media family which also runs Trans TV, Trans7, CNBC Indonesia, and Detik.com; the audio stream cataloged here is the audio track of the live CNN Indonesia TV HLS feed
-  sources: internal knowledge only
-curation: -0.05
+  operator: PT Trans News Corpora (Trans Media, CT Corp) under licence from Warner Bros. Discovery
+  affiliations: Licensed CNN brand franchise; sister outlets Trans TV, Trans7, CNBC Indonesia and Detik.com
+  audience: Indonesian-language general news viewers nationwide
+  format: 24-hour Indonesian television news - breaking coverage, politics, business and talk (audio of the TV feed)
+  notes: CNN Indonesia is the Indonesian-language CNN-branded news channel, launched on 17 August 2015 by Trans Media, the broadcasting arm of Chairul Tanjung's CT Corp, under a licence from the CNN brand owner now held by Warner Bros. Discovery. It runs alongside CNNIndonesia.com and sits in a group that also includes Trans TV, Trans7, CNBC Indonesia and Detik.com. This catalog entry is not a radio service but the audio of a television HLS feed, and that specific chunklist URL no longer resolves, while cnnindonesia.com itself remains live. The entry needs a working stream before it is worth surfacing.
+  sources: https://www.cnnindonesia.com/; stream check on http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w275412545_b384000_sleng.m3u8
+curation: -0.12
 provenance:
   - radiobrowser-aa3cee2f-df72-11e8-a9cc-52543be04c81

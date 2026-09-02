@@ -33,6 +33,7 @@ provenance:
   - radiobrowser-b3b6862d-0b2b-4e52-b839-4871a8635f52
   - iprd-ua-hit-fm-6fa1c376
   - iprd-ua-khit-fm-5a39883a
+  - radiobrowser-e75c8795-d8e6-456e-a0b2-6f5992966969
 streams:
   - url: http://online.hitfm.ua/HitFM_Best
     codec: MP3
@@ -43,3 +44,6 @@ streams:
   - url: http://195.95.206.17/HitFM
     codec: MP3
     bitrate: 128
+  - url: 'https://online.hitfm.ua/HitFM_HD'
+    codec: MP3
+    bitrate: 320

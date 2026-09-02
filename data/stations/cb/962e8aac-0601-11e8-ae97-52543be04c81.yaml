@@ -43,6 +43,8 @@ provenance:
   - iprd-nl-pinguin-groove-3556a57b
   - iprd-nl-pinguin-showcase-026aebcd
   - iprd-nl-pinguin-ska-world-f2871404
+  - radiobrowser-e25dbef6-533c-4d49-8c2f-b425eda28764
+  - iprd-nl-pinguin-indie-e3c7f5c2
 streams:
   - url: http://pr320.pinguinradio.com/
     codec: MP3
@@ -50,3 +52,6 @@ streams:
   - url: http://streams.pinguinradio.com/PinguinRadio320.mp3
     codec: MP3
     bitrate: 320
+  - url: 'http://streams.pinguinradio.com/PinguinRadio192.mp3'
+    codec: MP3
+    bitrate: 192

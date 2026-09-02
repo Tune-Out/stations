@@ -39,3 +39,13 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-9914ac84-e58d-430c-9fd2-32c64c1cd6f1
+  - iprd-mx-back-100-9-xhvm-469c4e99
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/XHVMFMAAC.aac'
+    url_resolved: 'https://14103.live.streamtheworld.com:443/XHVMFMAAC.aac'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://playerservices.streamtheworld.com/pls/XHVMFMAAC.pls'
+    url_resolved: 'https://14103.live.streamtheworld.com:443/XHVMFMAAC_SC'
+    codec: AAC
+    bitrate: 128

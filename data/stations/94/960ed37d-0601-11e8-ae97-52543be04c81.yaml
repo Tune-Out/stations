@@ -2,7 +2,7 @@ stationuuid: 960ed37d-0601-11e8-ae97-52543be04c81
 name: Kiss 98 FM
 url: http://icecast2.play.cz:8000/kiss128aac
 url_resolved: http://icecast2.play.cz:8000/kiss128aac
-homepage: http://www.kiss98.cz/
+homepage: https://www.kiss.cz/
 favicon: ""
 tags:
   - pop
@@ -23,15 +23,15 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Kiss Hády / Active Radio group (Czech regional commercial radio operator)
-  affiliations: none known
-  audience: Czech adults 25–45 in South Moravia and surrounding regions
-  format: Adult contemporary / hot AC pop hits, mainstream Czech and international chart music.
-  notes: Kiss 98 FM (often branded Kiss Hády after the Hády hill near Brno where its main transmitter is located) is a Czech regional commercial radio station broadcasting on 98 FM out of Brno, South Moravia. It is part of the Active Radio / Radio United-style commercial portfolio that historically grouped together regional "Kiss" franchises (Kiss Hády in Brno, Kiss Proton in West Bohemia, Kiss Jižní Čechy in South Bohemia, etc.) — these are not centrally networked but share branding and similar adult-contemporary pop formats targeting listeners 25–45.
-  sources: internal knowledge only (homepage fetch timed out)
-curation: -0.05
+  operator: Radio United Broadcasting s.r.o.
+  affiliations: one of seven regional Kiss brands merged into the national Radio Kiss
+  audience: Czech adults 25-40
+  format: Adult contemporary, heavy on 1990s hits, slogan "Be happy!"
+  notes: Kiss 98 FM is the legacy brand of one of the Czech regional Kiss stations, which trace back to 1990 and were consolidated in May 2017 into a single national service, Radio Kiss, run by Radio United Broadcasting. The stream still carried in this entry now identifies itself as RADIO KISS and delivers the national adult contemporary format aimed at 25-40 year-olds, promoted as "To nejlepší od 90. let". The network transmits from Prague on 98.1 MHz at Strahov and from Brno on 88.3 MHz at Hády, with more than 60 further FM transmitters, and joined the nationwide DAB+ network on 4 February 2025. The old kiss98.cz domain no longer serves a website; the current official site is kiss.cz.
+  sources: https://cs.wikipedia.org/wiki/Radio_Kiss; https://www.kiss.cz/
+curation: 0.10
 provenance:
   - radiobrowser-960ed37d-0601-11e8-ae97-52543be04c81
   - iprd-cz-kiss-98fm-3b9944e1

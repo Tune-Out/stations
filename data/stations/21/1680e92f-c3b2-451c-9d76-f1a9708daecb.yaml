@@ -31,3 +31,10 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-1680e92f-c3b2-451c-9d76-f1a9708daecb
+  - iprd-za-rsg-fecfd1e2
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574'
+    url_resolved: 'http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://albert.antfarm.co.za/rsg/rsg.stream/playlist.m3u8'

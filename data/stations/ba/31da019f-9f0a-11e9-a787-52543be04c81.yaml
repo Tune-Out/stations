@@ -36,6 +36,7 @@ curation: 0.05
 provenance:
   - radiobrowser-31da019f-9f0a-11e9-a787-52543be04c81
   - iprd-tr-radyo-altin-sarkilar-f985b3df
+  - radiobrowser-dcdcc68c-5116-48f3-a70b-7c923233d27c
 streams:
   - url: http://37.247.98.8/listen.pls?sid=25
     url_resolved: http://37.247.98.8/stream/25/;
@@ -49,3 +50,7 @@ streams:
     url_resolved: http://37.247.98.8/stream/30/;
     codec: MP3
     bitrate: 128
+  - url: 'https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true

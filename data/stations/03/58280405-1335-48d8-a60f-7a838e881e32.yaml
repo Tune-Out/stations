@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/de/de.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: Independent laut.fm channel operator
+  affiliations: laut.fm platform
+  audience: Bass/hardcore dance music fans
+  format: Bass, hardcore, dance
+  notes: BassNurBass is a genre-specific online radio channel ('bass music only') hosted on laut.fm, a German platform where independent operators run individually branded internet stations. The specific stream endpoint tested has expired.
+  sources: 'IPRD: streams/de/de.m3u'
+curation: -0.05
 provenance:
   - iprd-de-laut-fm-bassnurbass-d0a9f150

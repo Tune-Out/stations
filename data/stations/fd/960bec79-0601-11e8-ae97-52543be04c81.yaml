@@ -36,3 +36,19 @@ curation: 0.6
 provenance:
   - radiobrowser-960bec79-0601-11e8-ae97-52543be04c81
   - iprd-hu-tilos-r-di-90-3-beb25a43
+  - radiobrowser-19cf80e9-a1dd-442d-8bbd-c42a383646f0
+  - iprd-hu-tilos-r-di-90-3-0d4bafb2
+  - iprd-hu-tilos-r-di-mes-k-c809d0c5
+  - iprd-hu-tilos-r-di-okosodj-261905fb
+  - radiobrowser-8849bc40-8492-443a-85cc-d51391e07be7
+  - iprd-hu-tilos-r-di-90-3-1df5896f
+streams:
+  - url: 'http://stream.tilos.hu/tilos'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://stream.tilos.hu:8000/tilos'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://stream.tilos.hu/tilos_128.mp3'
+    codec: MP3
+    bitrate: 128

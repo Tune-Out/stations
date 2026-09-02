@@ -35,3 +35,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-962a0cfe-0601-11e8-ae97-52543be04c81
+  - iprd-us-kmck-the-power-105-7-685cc3f5
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/KMCKFMAAC.pls'
+    url_resolved: 'http://14943.live.streamtheworld.com:80/KMCKFMAAC_SC'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://playerservices.streamtheworld.com/pls/KMCKFMAAC.pls'
+    url_resolved: 'https://18373.live.streamtheworld.com:443/KMCKFMAAC_SC'
+    codec: AAC
+    bitrate: 128

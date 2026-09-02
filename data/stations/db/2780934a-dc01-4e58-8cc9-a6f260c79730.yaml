@@ -31,3 +31,18 @@ research:
 curation: 0.3
 provenance:
   - radiobrowser-2780934a-dc01-4e58-8cc9-a6f260c79730
+  - radiobrowser-be2059d0-805c-4e7c-b314-82f2ecfb8318
+  - radiobrowser-c83f4b9c-5fb4-4830-bd80-f72fa27a1897
+streams:
+  - url: 'http://de3.amfmph.com:2199/tunein/wildbutuan-stream.pls'
+    url_resolved: 'http://62.138.18.102:8136/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://us2.amfmph.com:2199/tunein/wildbutuan-stream.pls'
+    url_resolved: 'http://148.72.153.65:9238/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://fr1.amfmph.com:2199/tunein/wildbutuan-stream.pls'
+    url_resolved: 'http://62.138.18.102:8136/stream'
+    codec: AAC+
+    bitrate: 64

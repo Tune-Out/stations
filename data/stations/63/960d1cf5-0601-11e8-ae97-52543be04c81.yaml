@@ -35,3 +35,10 @@ curation: 0.5
 provenance:
   - radiobrowser-960d1cf5-0601-11e8-ae97-52543be04c81
   - iprd-be-radio-air-libre-87-7-877bf6de
+  - radiobrowser-7dcdbd3f-d867-47a4-bbd6-f8b1331233eb
+streams:
+  - url: 'http://streaming.domainepublic.net:8000/radioairlibre.ogg.m3u'
+    url_resolved: 'http://streaming.domainepublic.net:8000/radioairlibre.ogg'
+    codec: OGG
+  - url: 'https://streaming.domainepublic.net/radioairlibre.ogg'
+    codec: OGG

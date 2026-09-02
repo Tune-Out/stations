@@ -33,3 +33,17 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-40cf6cba-2dde-11ea-aa0c-52543be04c81
+  - radiobrowser-162203ff-03dc-46ce-8fa3-ba16019fc7cb
+  - iprd-ec-la-dura-763bd297
+  - iprd-gb-soul-connexion-2bd6c02a
+  - iprd-pe-andina-stereo-95-1-dc3b8f76
+  - radiobrowser-ed4b6b4c-f0b3-4db2-a023-0a7744878c36
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/RADIOLEAAC.pls'
+    url_resolved: 'http://25643.live.streamtheworld.com:80/RADIOLEAAC_SC'
+    codec: AAC+
+    bitrate: 56
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3'
+    url_resolved: 'https://20043.live.streamtheworld.com/RADIOLE.mp3'
+    codec: MP3
+    bitrate: 128

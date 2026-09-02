@@ -32,3 +32,13 @@ curation: -0.05
 provenance:
   - radiobrowser-d220e7fc-cfc3-48c0-895a-ec109709936d
   - iprd-tr-lig-radyo-cd6e2aed
+  - radiobrowser-55fe98c9-1ae8-4fd7-8d30-443ff052b3f0
+  - iprd-tr-lig-radyo-553f17e4
+streams:
+  - url: 'https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 141
+    hls: true
+  - url: 'https://ligradyo.radyotvonline.net/ligradyo'
+    codec: AAC+
+    bitrate: 125

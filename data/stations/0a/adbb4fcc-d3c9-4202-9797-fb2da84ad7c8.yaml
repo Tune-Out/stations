@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fr/fr_frequence3.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Fréquence3 is a French regional commercial radio network broadcasting mainstream pop; this entry is the Loir-et-Cher (89.9) local relay. The network itself remains active, though this specific FLAC stream endpoint failed to connect.
+  sources: https://api2.frequence3.net
+curation: 0.00
 provenance:
   - iprd-fr-fr-quence3-loir-cher-89-9-4aa1b624

@@ -1,5 +1,5 @@
 stationuuid: d6928d5e-a981-4247-8188-06e6c6966034
-name: Alpha 101.7
+name: Alpha FM 101.7
 url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm'
 url_resolved: 'https://27573.live.streamtheworld.com:443/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm'
 homepage: https://cdn.webrad.io
@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/br/br.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Grupo Estado / Rádio Eldorado group
+  affiliations: Alpha FM network (São Paulo, Goiânia, Curitiba)
+  audience: Adult-contemporary listeners, São Paulo
+  format: Soft AC / adult contemporary
+  notes: Alpha FM 101.7 is a long-running commercial adult-contemporary/soft-pop station broadcasting from São Paulo, Brazil, part of the Grupo Estado (O Estado de S. Paulo) radio group alongside Rádio Eldorado. It has an established soft-AC identity distinct from typical hit-rotation stations.
+  sources: 'IPRD: streams/br/br.m3u; https://cdn.webrad.io'
+curation: 0.05
+duplicate_of: 447a1a5f-aee6-4b21-b85f-10ceb1896ad3
 provenance:
   - iprd-br-alpha-101-7-a7342468

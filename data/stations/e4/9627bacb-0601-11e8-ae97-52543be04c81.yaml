@@ -37,3 +37,13 @@ research:
 curation: 0
 provenance:
   - radiobrowser-9627bacb-0601-11e8-ae97-52543be04c81
+  - iprd-mx-exa-91-7-xhglx-c6ab1af4
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/XHGLX.pls'
+    url_resolved: 'http://18213.live.streamtheworld.com:80/XHGLX_SC'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac'
+    url_resolved: 'https://13693.live.streamtheworld.com:443/XHGLXAAC.aac'
+    codec: AAC
+    bitrate: 128

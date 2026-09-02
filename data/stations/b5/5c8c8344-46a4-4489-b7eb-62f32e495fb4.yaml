@@ -36,3 +36,11 @@ curation: -0.05
 provenance:
   - radiobrowser-5c8c8344-46a4-4489-b7eb-62f32e495fb4
   - iprd-gr-kiss-98-e40b7742
+  - radiobrowser-d6ccc66a-6e96-4397-bcb1-d1d4f89b1d96
+streams:
+  - url: 'https://s6.onweb.gr:7029/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://s6.onweb.gr:7029/stream.mp3'
+    codec: MP3
+    bitrate: 128

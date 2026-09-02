@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/eg/eg.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: religious
+  operator: mp3quran.net network
+  affiliations: ''
+  audience: Arabic-speaking Muslim listeners
+  format: Quran recitation
+  notes: This is a continuous Quran-recitation stream served from the mp3quran.net network's infrastructure, an Egypt-based relay of Islamic recitation content. The catalog name conflates 'Saudi Arabia' and 'Egypt', which is IPRD import noise rather than the station's real identity. It is a niche religious audio stream with no music or talk programming.
+  sources: http://live.mp3quran.net:9992/
+curation: 0.10
 provenance:
   - iprd-eg-for-saudi-arabia-the-holy-quran-egypt-8060e474

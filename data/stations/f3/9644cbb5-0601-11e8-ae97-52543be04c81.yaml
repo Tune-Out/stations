@@ -23,15 +23,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
-  nature: non-commercial
-  operator: Radio Caprice (Russian streaming network)
-  affiliations: none known
-  audience: international metal fans; black metal and dark music listeners
-  format: specialized 24/7 stream of depressive black metal subgenre
-  notes: One of dozens of genre-specific channels operated by Radio Caprice; depressive black metal features introspective, melancholic compositions; operates since early 2000s
-  sources: internal knowledge only
-curation: 0.5
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio Caprice (RADCAP), Russia
+  affiliations: one of several hundred Radio Caprice genre channels
+  audience: Black-metal listeners worldwide
+  format: Depressive/suicidal black metal (DSBM), automated 24/7
+  notes: Radio Caprice (radcap.ru) is an independent Russian internet-radio project running several hundred narrowly defined, ad-free genre channels. This channel streams depressive black metal continuously from an automated library with no presenters. The primary SHOUTcast v1 stream answers players with ICY 200, and a 48k fallback at 79.111.119.111:8002/dsbm also works.
+  sources: https://radcap.ru/; https://radio.menu/stations/radcap-ru-radcap/
+curation: 0.29
 provenance:
   - radiobrowser-9644cbb5-0601-11e8-ae97-52543be04c81
   - iprd-ru-radio-caprice-depressive-black-metal-8e135722

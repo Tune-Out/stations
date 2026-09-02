@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/py/py.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: America Clasicos is a small Paraguayan classical-music internet stream delivered via Zeno.fm. The catalog homepage (radioink.com) is a mismatched US radio-industry trade site, not the station's actual site, so no independent verification of ownership or programming was possible.
+  sources: 'IPRD: streams/py/py.m3u; no other web sources found'
+curation: 0.03
 provenance:
   - iprd-py-america-clasicos-bb2e2a86

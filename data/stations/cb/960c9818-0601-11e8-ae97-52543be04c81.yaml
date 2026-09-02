@@ -35,3 +35,11 @@ curation: 0.35
 provenance:
   - radiobrowser-960c9818-0601-11e8-ae97-52543be04c81
   - iprd-hu-civil-r-di-d06b8d1a
+  - radiobrowser-e13bbfcb-4101-4cfb-8f93-63d946294f8c
+streams:
+  - url: 'http://civilradio.hu:8000/;stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://civilradio.hu:8000/listen.mp3'
+    codec: MP3
+    bitrate: 128

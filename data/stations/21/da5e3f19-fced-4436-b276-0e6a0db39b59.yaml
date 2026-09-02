@@ -32,3 +32,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-da5e3f19-fced-4436-b276-0e6a0db39b59
+  - radiobrowser-e29cbc01-1bcd-4182-8791-42775b6b5e73
+streams:
+  - url: 'https://hotfmuk.radioca.st/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://chandra.shoutca.st:8009/;'
+    codec: MP3
+    bitrate: 128

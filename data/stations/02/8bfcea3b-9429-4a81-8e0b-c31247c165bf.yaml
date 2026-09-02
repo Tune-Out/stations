@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ae/ae_exclusiveradio.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Exclusive.Radio / Uber.Radio network
+  affiliations: Exclusive.Radio
+  audience: Pet Shop Boys fans
+  format: Single-artist automated rotation
+  notes: Pet Shop Boys - Hits is a single-artist online tribute stream on the Exclusive.Radio / Uber.Radio network (based in the UAE), playing an automated rotation of Pet Shop Boys tracks. It has no live hosts or original editorial content, and the same network already runs a much more popular 'Exclusively Pet Shop Boys' channel.
+  sources: 'IPRD: streams/ae/ae_exclusiveradio.m3u; https://exclusive.radio'
+curation: -0.10
+duplicate_of: c374fc26-5b40-4384-ae0e-1e5ebf038edc
 provenance:
   - iprd-ae-pet-shop-boys-hits-59605e18

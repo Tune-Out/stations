@@ -2,7 +2,7 @@ stationuuid: 76b129aa-45cc-46cf-b6b2-1fde08a2c8f9
 name: FIP Pop
 url: https://icecast.radiofrance.fr/fippop-hifi.aac
 url_resolved: https://icecast.radiofrance.fr/fippop-hifi.aac
-homepage: https://www.fip.fr/pop/webradio
+homepage: https://www.radiofrance.fr/fip/radio-pop
 favicon: https://www.fip.fr/dist/favicons/logo-120.png
 tags:
   - pop
@@ -24,14 +24,14 @@ clickcount: 10
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio France (French national public broadcasting company)
+  operator: Radio France
   affiliations: Radio France group; funded by French state contribution audiovisuelle and public budget allocation since the 2022 licence-fee abolition
   audience: Adult pop/rock music lovers, French-language; international web audience
   format: Curated pop, rock and indie webradio — one of seven thematic FIP webradios spun off from the main FIP eclectic-music station
-  notes: FIP (originally "France Inter Paris") was founded in 1971 as a Parisian companion station to France Inter, evolving into Radio France's celebrated eclectic music network broadcast on FM in major French cities; the FIP Pop webradio is part of the digital expansion of the FIP brand alongside FIP Rock, FIP Jazz, FIP Groove, FIP Monde, FIP Electro and FIP Reggae; commercial-free, with the distinctive FIP "voix" (whispered female announcers) tradition.
-  sources: internal knowledge of Radio France and FIP
+  notes: FIP Pop is one of Radio France's thematic FIP webradios, spun off from FIP, the commercial-free eclectic music station launched on 5 January 1971 as France Inter Paris. A small team of programmers hand-selects the playlist, with no song repeated within 48 hours; the Pop webradio concentrates on pop, rock and indie tracks alongside sister streams FIP Rock, Jazz, Groove, Monde, Electro, Reggae and others. Delivered ad-free as a 192 kbps AAC stream from Radio France's icecast servers.
+  sources: https://en.wikipedia.org/wiki/FIP_(radio_station); https://www.radiofrance.fr/fip
 curation: 0.8
 provenance:
   - radiobrowser-76b129aa-45cc-46cf-b6b2-1fde08a2c8f9

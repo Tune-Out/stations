@@ -35,3 +35,11 @@ curation: 0.35
 provenance:
   - radiobrowser-960ffa4b-0601-11e8-ae97-52543be04c81
   - iprd-pl-radio-fara-98-2-2d281b41
+  - radiobrowser-762e86e2-6e38-4ea0-95b4-321ff0fd4fb1
+streams:
+  - url: 'http://62.133.128.22:8000/'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://62.133.128.22:8000/relay'
+    codec: AAC+
+    bitrate: 128

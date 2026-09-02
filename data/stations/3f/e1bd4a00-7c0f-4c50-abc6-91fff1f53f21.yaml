@@ -36,3 +36,11 @@ curation: 0.55
 provenance:
   - radiobrowser-e1bd4a00-7c0f-4c50-abc6-91fff1f53f21
   - iprd-nz-wandering-sheep-radio-jazz-cafe-66df6e90
+  - radiobrowser-6b0dee5f-2288-4b49-a1e2-497959078190
+streams:
+  - url: 'http://radio.wanderingsheep.tv:8000/jazzcafe'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio.wanderingsheep.net:8000/jazzcafe'
+    codec: MP3
+    bitrate: 128

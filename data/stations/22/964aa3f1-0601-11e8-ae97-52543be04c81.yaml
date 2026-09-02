@@ -1,8 +1,8 @@
 stationuuid: 964aa3f1-0601-11e8-ae97-52543be04c81
-name: Trojka
+name: Trójka
 url: http://stream3.polskieradio.pl:8904/
 url_resolved: http://stream3.polskieradio.pl:8904/
-homepage: http://moje.polskieradio.pl/OtherChannels/Trojka.aspx
+homepage: https://trojka.polskieradio.pl/
 favicon: http://moje.polskieradio.pl/favicon.ico
 tags: []
 country: Poland
@@ -22,14 +22,27 @@ clickcount: 10
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Polskie Radio S.A. (Polish Radio, the Polish national public-service radio broadcaster)
-  affiliations: State-owned public broadcaster funded by licence fee and state subsidy; member of the European Broadcasting Union (EBU)
-  audience: Polish-speaking adults, particularly an educated and culturally engaged audience; nationwide reach
-  format: '"Program Trzeci" (Programme 3, "Trojka") - rock, alternative, jazz, indie music with cultural talk, literary programmes, and the iconic Lista Przebojow Programu Trzeciego (Programme 3 Hit List)'
-  notes: Trojka launched 1 April 1962 and became one of the most influential and beloved Polish radio brands, known for cultivated music selection, independent rock/alt programming, and prestigious presenters; the LP3 Lista Przebojow chart, hosted by Marek Niedzwiecki for decades, was a Polish cultural institution; faced a major political crisis in 2020 when management led by Tomasz Kowalczewski (appointed under the PiS-aligned management of Polish Radio) censored a song critical of Jaroslaw Kaczynski ("Twoj bol jest lepszy niz moj" by Kazik) from the chart, triggering mass resignations of star presenters including Niedzwiecki, Piotr Stelmach, Hanna Kowalewska, and Anna Gacek - widely seen as the destruction of Trojka's editorial independence; following the 2023 change of government, efforts began to restore the station's heritage; broadcasts nationwide on FM (Warsaw 99.0) and via polskieradio.pl/trojka.
-  sources: internal knowledge (homepage URL returned 404)
-curation: 0.6
+  operator: Polskie Radio S.A., the Polish national public broadcaster
+  affiliations: State-owned public service broadcaster; EBU member
+  audience: Polish-speaking adults with cultural and music interests, nationwide
+  format: Rock, alternative, jazz and singer-songwriter music with cultural talk, literary features and the long-running Lista Przebojów Programu Trzeciego chart
+  notes: Trójka is Program III of Polskie Radio, on air since 1 April 1962 and long regarded as the most culturally influential of Poland's national networks for its rock and alternative programming and its weekly Lista Przebojów Programu Trzeciego chart. In May 2020 the station admitted rigging the chart to remove a Kazik song critical of Jarosław Kaczyński; the scandal triggered mass resignations of presenters including Marek Niedźwiecki and cut the station's audience share from around eight percent to under two. It has since rebuilt its team with journalists recruited from other outlets but still runs well below its former reach. The catalog homepage moje.polskieradio.pl returns 404 and the current site is trojka.polskieradio.pl; the recorded stream endpoint answers with a SHOUTcast administrator page rather than audio and then stops responding, so it needs replacing.
+  sources: https://en.wikipedia.org/wiki/Polskie_Radio_Program_III; https://trojka.polskieradio.pl/ (200); http://moje.polskieradio.pl/OtherChannels/Trojka.aspx (404); stream check on http://stream3.polskieradio.pl:8904/
+curation: 0.55
 provenance:
   - radiobrowser-964aa3f1-0601-11e8-ae97-52543be04c81
+  - radiobrowser-05268b3b-2f57-4061-a619-5fd35e0f6971
+  - iprd-pl-polskie-radio-program-3-8f83bd67
+  - radiobrowser-dce3aaa4-dad0-4eb1-bf9d-079d7813bf83
+streams:
+  - url: 'http://stream3.polskieradio.pl:8904/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://stream3.polskieradio.pl:8954/;.mp3'
+    codec: AAC+
+    bitrate: 192
+  - url: 'http://mp3.polskieradio.pl:8904/'
+    codec: MP3
+    bitrate: 192

@@ -31,3 +31,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-e72e2694-3228-4bc1-9d50-2cdaba62176e
+  - radiobrowser-3d3d6806-34c0-48e0-bb3f-d29f30392e55
+streams:
+  - url: 'https://loveradiolaoag.radioca.st:2199/tunein/loveradiolaoag-stream.pls'
+    url_resolved: 'http://88.99.195.180:8027/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://loveradiolaoag.radioca.st:8027/stream'
+    codec: MP3
+    bitrate: 64

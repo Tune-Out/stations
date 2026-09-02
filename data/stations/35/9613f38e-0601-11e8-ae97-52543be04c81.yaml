@@ -35,3 +35,12 @@ curation: 0.4
 provenance:
   - radiobrowser-9613f38e-0601-11e8-ae97-52543be04c81
   - iprd-fr-generations-reggae-63ee0560
+  - radiobrowser-4fcc46a6-51a7-4e4d-aa3c-e695c5a956b2
+  - iprd-fr-generations-reggae-6a825c18
+streams:
+  - url: 'http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.aac'
+    codec: AAC+
+    bitrate: 64

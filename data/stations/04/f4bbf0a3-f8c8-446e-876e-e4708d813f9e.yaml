@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/bd/bd.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Bangladeshi commercial broadcaster
+  affiliations: ''
+  audience: General Bangladeshi listeners
+  format: Pop/talk
+  notes: Peoples Radio 91.6 is a commercial FM station in Bangladesh airing pop music and talk programming; the catalog already contains a well-established, far more popular entry for the same station.
+  sources: no web sources found beyond YAML metadata
+curation: 0.05
+duplicate_of: e52e5607-4d6f-4efd-a5bc-29a815f8d066
 provenance:
   - iprd-bd-peoples-radio-91-6-f37e951f

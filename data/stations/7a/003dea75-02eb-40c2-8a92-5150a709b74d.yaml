@@ -34,3 +34,13 @@ research:
 curation: 0.5
 provenance:
   - radiobrowser-003dea75-02eb-40c2-8a92-5150a709b74d
+  - radiobrowser-87da5b20-53e4-483f-92fe-96a28c8c8b18
+  - iprd-se-sveriges-radio-p4-g-teborg-cdc1d38d
+streams:
+  - url: 'https://www.sverigesradio.se/topsy/direkt/212-hi-aac.m3u'
+    url_resolved: 'https://live1.sr.se/p4gbg-aac-320'
+    codec: AAC
+    bitrate: 128
+  - url: 'https://http-live.sr.se/p4goteborg-mp3-192'
+    codec: MP3
+    bitrate: 192

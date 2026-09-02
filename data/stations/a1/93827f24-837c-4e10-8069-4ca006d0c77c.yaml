@@ -25,14 +25,14 @@ clickcount: 66
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Independent web radio operator (HitsOfBollywood.com); streamed via Zeno.FM hosting platform
-  affiliations: none known
-  audience: Hindi-speaking and South Asian diaspora fans of classic Bollywood playback singing, particularly the work of Mohammed Rafi (1924-1980)
-  format: 24/7 single-artist tribute web radio playing songs sung by legendary playback singer Mohammed Rafi from Hindi/Urdu film soundtracks (primarily 1950s-1970s)
+  operator: Independent web publisher (HitsOfBollywood.com), hosted on Zeno.FM
+  affiliations: none known; no broadcast licence
+  audience: Hindi- and Urdu-speaking listeners and South Asian diaspora fans of golden-era Bollywood playback singing
+  format: Automated single-artist rotation of Mohammed Rafi film songs, chiefly 1950s-1970s
   notes: Part of the HitsOfBollywood family of single-artist Bollywood tribute streams (similar channels exist for Kishore Kumar, Lata Mangeshkar, Asha Bhosle and other golden-era playback singers); Mohammed Rafi recorded an estimated 25,000+ songs and is considered one of the most influential voices in Indian film music; the station is a small independent Zeno.FM-hosted webcast with no broadcast licence, listed from Gujarat; homepage was inaccessible (HTTP 403) during research so ownership details could not be verified
-  sources: internal knowledge (homepage returned HTTP 403)
+  sources: https://www.hitsofbollywood.com/ (HTTP 200 in browser fetch, 403 to automated retrieval); https://stream.zeno.fm/0zkr7x8ztm0uv
 curation: -0.05
 provenance:
   - radiobrowser-93827f24-837c-4e10-8069-4ca006d0c77c

@@ -1,5 +1,5 @@
 stationuuid: 96163b46-0601-11e8-ae97-52543be04c81
-name: комерсант (Kommersant FM) 93.6 Moscow
+name: Коммерсантъ FM 93.6
 url: http://kommersant77.hostingradio.ru:8016/kommersant64.mp3
 url_resolved: http://kommersant77.hostingradio.ru:8016/kommersant64.mp3
 homepage: http://www.kommersant.ru/fm
@@ -23,15 +23,23 @@ clickcount: 16
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: АО «Коммерсантъ» (Kommersant Publishing House)
-  affiliations: no formal political/religious ties; Kommersant has been majority-owned by Russian businessman Alisher Usmanov's USM Holdings since 2006
-  audience: Russian-speaking business, political and professional class in Moscow and across Russia
-  format: 24-hour news and business-talk radio with expert commentary on politics, economics, finance, technology and culture
-  notes: Launched 9 April 2010 on 93.6 FM in Moscow as the radio arm of the influential daily newspaper Kommersant (founded 1909/relaunched 1989); operates on a "news-and-talk" format covering politics, business, markets and current affairs; broadcasts from Moscow with online streaming; Kommersant publishing house has been part of Alisher Usmanov's USM Holdings since Vladimir Yakovlev sold it in 2006, raising long-running debates about editorial independence under wealthy Kremlin-adjacent ownership.
-  sources: http://www.kommersant.ru/fm, internal knowledge
-curation: -0.05
+  operator: АО «Коммерсантъ» (Kommersant Publishing House), Moscow
+  affiliations: Kommersant has been part of Alisher Usmanov's USM Holdings since 2006
+  audience: Russian-speaking business, professional and political audience in Moscow and nationally
+  format: Rolling all-news and business talk with commentary and expert interviews
+  notes: Kommersant FM is the all-news radio arm of the Moscow business publishing house Kommersant, broadcasting on 93.6 FM in Moscow. Test transmissions began on 14 February 2010 and regular broadcasting on 15 March 2010, replacing NewTone FM on the frequency. The format is rolling news with headlines roughly every ten minutes and analysis, interviews and themed segments in between, covering politics, economics, markets, technology and culture; slogans have run from "News without censorship" through "News with character" to "Think differently". Its Nizhny Novgorod relay closed on 31 March 2021, and on 8 June 2022 hackers briefly took over the stream to play the Ukrainian anthem and anti-war songs. Kommersant has belonged to Alisher Usmanov's USM Holdings since 2006, which has fuelled long-running debate about its editorial independence.
+  sources: https://ru.wikipedia.org/wiki/Коммерсантъ_FM; http://www.kommersant.ru/fm
+curation: 0.25
 provenance:
   - radiobrowser-96163b46-0601-11e8-ae97-52543be04c81
   - iprd-ru-kommersant-93-6-b22acadc
+  - radiobrowser-756183e3-cc68-4195-b2c7-531a6cbc2f5a
+streams:
+  - url: 'http://kommersant77.hostingradio.ru:8016/kommersant64.mp3'
+    codec: MP3
+    bitrate: 64
+  - url: 'https://kommersant77.hostingradio.ru:8085/kommersant128.mp3'
+    codec: MP3
+    bitrate: 128

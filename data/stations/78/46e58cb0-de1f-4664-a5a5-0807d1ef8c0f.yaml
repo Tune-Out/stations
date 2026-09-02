@@ -20,15 +20,15 @@ clickcount: 11
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: community
-  operator: Unknown (independent Bangladeshi online operation)
-  affiliations: none known
-  audience: Bengali-speaking listeners in Bangladesh and the Bangladeshi diaspora
-  format: Bengali music and entertainment internet radio with the tagline "Music For Spirit"
-  notes: Radio Ullash is a small independent Bangladeshi internet radio station streaming via Zeno.fm; "Ullash" means "joy" or "delight" in Bengali; the homepage at radioullash.com currently appears compromised or repurposed, displaying gambling and casino-related content in multiple languages rather than its stated music focus, suggesting either domain hijacking or SEO-spam injection on a poorly maintained WordPress site.
-  sources: https://radioullash.com/, internal knowledge
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Unknown independent Bangladeshi operator; audio hosted on Zeno.FM
+  affiliations: none verifiable
+  audience: Bengali-speaking listeners in Bangladesh and the diaspora
+  format: Automated Bengali music stream
+  notes: 'Radio Ullash presents itself as a small Bangladeshi internet radio station streaming Bengali music under the tagline "Music For Spirit"; "ullash" means joy in Bengali. Its Zeno.FM audio mount is still live and returns audio to normal media players. However, the stated homepage at radioullash.com is no longer a radio site: it is a broken WordPress installation filled with automatically generated gambling and casino affiliate spam (1xbet, Mostbet, Pin-Up, Aviator and hundreds of regional variants), with no player, schedule or station information anywhere on the page. No operator, founding date or editorial identity could be verified from any source, and the catalog entry''s homepage now points at spam rather than at the station.'
+  sources: https://radioullash.com/; https://stream.zeno.fm/gpgkgp9mp18uv
+curation: -0.07
 provenance:
   - radiobrowser-46e58cb0-de1f-4664-a5a5-0807d1ef8c0f
   - iprd-bd-radio-ullash-f2b925ca

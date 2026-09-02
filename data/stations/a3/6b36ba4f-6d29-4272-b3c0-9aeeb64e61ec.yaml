@@ -24,14 +24,14 @@ clickcount: 147
 geo_lat: 19.030443953814757
 geo_long: 72.86956787109376
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Entertainment Network India Ltd (ENIL), a subsidiary of Bennett, Coleman & Co. Ltd / The Times Group
-  affiliations: none known (private corporate ownership; no religious/political/governmental affiliation)
-  audience: Hindi-speaking Indian listeners (and Indian diaspora); urban youth and Bollywood music fans
-  format: Contemporary Hindi/Bollywood pop hits countdown ("Mirchi Top 20"); part of the 98.3 Mirchi network
-  notes: Radio Mirchi launched in 1993 (Indore); flagship private FM radio brand in India operating a ~76-station domestic network across 63 cities plus international feeds in UAE, Qatar, Bahrain. Tagline "It's Hot!"; "Mirchi" means chilli in Hindi. The Mirchi Top 20 is the network's signature Bollywood music countdown.
-  sources: https://en.wikipedia.org/wiki/Radio_Mirchi, internal knowledge
-curation: 0.4
+  operator: Entertainment Network India Ltd (ENIL), a subsidiary of The Times Group
+  affiliations: Radio Mirchi / Mirchi Play network; stream delivered on the uber.radio platform
+  audience: Hindi-speaking Bollywood listeners in India and the diaspora; urban, youth-skewing
+  format: Contemporary Bollywood hits; the Mirchi Top 20 is the network's weekly Hindi film-music countdown
+  notes: 'Mirchi (formerly Radio Mirchi) is India''s leading private FM brand, owned by Entertainment Network India Ltd, a subsidiary of The Times Group. It began in 1993 in Indore as Times FM, the country''s first privately owned station, and now runs a 76-station FM network across 63 cities plus online and international feeds in the UAE, Qatar, Bahrain and the United States, with a 2017 IRS reach of roughly 52% of Delhi and 44% of Mumbai listeners. Mirchi Top 20 is the group''s signature weekly Bollywood countdown, published alongside its Indie Pop 10 chart in The Times of India. One caveat on this entry: the stream is an uber.radio mount whose ICY name is "uber/bollywoodnow", a generic Bollywood feed rather than a chart show, so what plays is a continuous Hindi film-music rotation rather than the branded countdown.'
+  sources: https://en.wikipedia.org/wiki/Radio_Mirchi; https://drive.uber.radio/uber/bollywoodnow/icecast.audio (ICY headers)
+curation: 0.26
 provenance:
   - radiobrowser-6b36ba4f-6d29-4272-b3c0-9aeeb64e61ec

@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/gb/gb.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: non-commercial
+  operator: Royal National Institute of Blind People (RNIB)
+  affiliations: RNIB charity
+  audience: blind and partially sighted listeners, UK
+  format: talk
+  notes: RNIB Connect Radio is a UK talk station run by the Royal National Institute of Blind People (RNIB), a charity supporting blind and partially sighted people. It broadcasts news, entertainment, and accessibility-focused talk programming aimed at that audience. Founded as Insight Radio, it rebranded under RNIB.
+  sources: https://n13.rcs.revma.com/yv4znr4xcg0uv (stream verified)
+curation: 0.35
+duplicate_of: 352c5063-904f-4cef-9c94-8e04052e3d63
 provenance:
   - iprd-gb-rnib-connect-radio-c8ebd0d5

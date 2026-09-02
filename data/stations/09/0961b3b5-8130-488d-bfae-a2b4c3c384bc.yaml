@@ -20,14 +20,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/gp/gp.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Chérie FM Guadeloupe is a regional simulcast/affiliate of Chérie FM, the French NRJ Group-owned adult-contemporary/love-songs network, serving Guadeloupe via a dyndns-hosted relay. The relay stream returned an access error rather than audio, though other Chérie FM regional feeds (Martinique, Guyane) remain active in the catalog.
+  sources: 'catalog metadata (IPRD: streams/gp/gp.m3u); https://en.wikipedia.org/wiki/Ch%C3%A9rie_FM'
+curation: 0.03
 provenance:
   - iprd-gp-ch-rie-fm-guadeloupe-392837f6

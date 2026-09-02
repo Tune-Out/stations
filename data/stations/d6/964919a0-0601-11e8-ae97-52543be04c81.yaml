@@ -34,3 +34,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-964919a0-0601-11e8-ae97-52543be04c81
+  - iprd-us-kkps-99-5-la-nueva-41db128c
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/KKPSFMAAC.pls'
+    url_resolved: 'http://26733.live.streamtheworld.com:80/KKPSFMAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/pls/KKPSFMAAC.pls'
+    url_resolved: 'https://17813.live.streamtheworld.com:443/KKPSFMAAC_SC'
+    codec: AAC
+    bitrate: 128

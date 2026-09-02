@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Radio Caprice (independent internet radio from Russia)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio Caprice (radcap.ru), Russia
   affiliations: none known
   audience: Classical music enthusiasts; international audience
-  format: Specialized streaming of classical organ music; part of Radio Caprice's themed channel network.
-  notes: Radio Caprice is a Russian non-commercial internet radio station operating multiple genre-specific channels. Independent operator with high-bitrate streams.
-  sources: internal knowledge only
-curation: 0.65
+  format: Automated classical organ playlist
+  notes: 'This is the classical-organ channel of Radio Caprice (radcap.ru), the Russian web-only network of several hundred automated genre streams funded by Yandex display advertising. Like the network''s other channels it is an unattended playlist with no presenters or scheduling. The catalogued mount no longer serves audio: port 9051 returns the SHOUTcast administrator page rather than a stream, so the entry is broken even though radcap.ru itself is still running.'
+  sources: http://radcap.ru/
+curation: 0.20
 provenance:
   - radiobrowser-a050faa8-a0e6-47a9-a654-ee4e3607ff99

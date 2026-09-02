@@ -33,3 +33,12 @@ curation: 0.35
 provenance:
   - radiobrowser-fc2b3444-4a56-4dfc-bbbe-327c913d269b
   - iprd-lt-neringa-89-8-ad9ab17c
+  - radiobrowser-ae468d13-3b90-4f8f-8a8d-deda87fb91e7
+  - iprd-lt-neringa-89-8-7f73c8c1
+streams:
+  - url: 'http://radio.15min.lt:8000/neringafm'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://185.11.24.72:8000/neringafm'
+    codec: AAC+
+    bitrate: 96

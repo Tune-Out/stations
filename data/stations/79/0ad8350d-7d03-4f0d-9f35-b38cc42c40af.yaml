@@ -1,5 +1,5 @@
 stationuuid: 0ad8350d-7d03-4f0d-9f35-b38cc42c40af
-name: Asan Radio
+name: ASAN Radio
 url: http://94.20.74.206:4448/stream1
 url_resolved: http://94.20.74.206:4448/stream1
 homepage: http://www.asanradio.az/
@@ -22,15 +22,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
-  operator: Asan Radio
-  affiliations: none known
-  audience: Azerbaijan; language Azerbaijani
-  format: General music and entertainment programming.
-  notes: Commercial radio station operating in Azerbaijan with significant listener base (11,728 votes).
-  sources: internal knowledge only
-curation: 0.45
+  operator: State Agency for Public Service and Social Innovations (ASAN xidmət) under the President of Azerbaijan
+  affiliations: Government of Azerbaijan; state-funded
+  audience: Azerbaijani-speaking listeners nationwide, especially users of state e-government services
+  format: Public-service information, news, interviews and current affairs with music
+  notes: ASAN Radio is a government-run Azerbaijani station created by presidential directive and operated by the State Agency for Public Service and Social Innovations (ASAN xidmət), which reports directly to the President of Azerbaijan. It was licensed on 8 September 2015 and began broadcasting on 24 December 2015, describing itself as the first and only radio service specialising in public-service and e-government information. It is carried on 100 MHz in Baku and on 96.5, 95.6 and 92.7 MHz regionally, plus an online stream. Output mixes announcements and explainers about state services with domestic and international news, interviews, current-affairs discussion and music. As a state agency outlet its editorial line follows the government, though its remit is civic-service information rather than political messaging.
+  sources: http://www.asanradio.az/; https://play.asanradio.az/
+curation: 0.15
 provenance:
   - radiobrowser-0ad8350d-7d03-4f0d-9f35-b38cc42c40af
   - iprd-az-asan-radio-100-c049978b

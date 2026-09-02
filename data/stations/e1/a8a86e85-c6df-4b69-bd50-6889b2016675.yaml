@@ -36,3 +36,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-a8a86e85-c6df-4b69-bd50-6889b2016675
+  - radiobrowser-188e49f0-298f-4170-b6c9-5924796f310b
+streams:
+  - url: 'https://playerservices.streamtheworld.com/pls/XEN_AM.pls'
+    url_resolved: 'https://18163.live.streamtheworld.com:443/XEN_AM_SC'
+    codec: MP3
+    bitrate: 48
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC.aac'
+    url_resolved: 'https://14843.live.streamtheworld.com:443/XEN_AMAAC.aac'
+    codec: AAC+
+    bitrate: 32

@@ -23,14 +23,14 @@ clickcount: 8
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Unknown (hobbyist/fan-run internet stream, hosted via Yes Streaming)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Unknown hobbyist (Yes Streaming host)
   affiliations: none known
   audience: Old-time radio (OTR) enthusiasts and horror fiction fans worldwide, English language
-  format: 24/7 stream of classic horror, mystery, and suspense old-time radio dramas
-  notes: Internet-only station presenting "Scary Tales Radio over the internet, worldwide" featuring vintage American radio horror anthologies such as Lights Out, Inner Sanctum Mysteries, The Witch's Tale, Quiet Please, and Suspense, which fall under the OTR niche of public-domain or hobbyist-curated programming. The site uses a frameset redirecting to AWS S3-hosted content, typical of small enthusiast OTR streams.
-  sources: http://horror-theatre.com/, internal knowledge of OTR streaming subculture
-curation: 0.55
+  format: Old-time radio horror, mystery and suspense drama 24/7
+  notes: 'Horror Theatre is a hobbyist internet station billed as ''Scary Tales Radio over the internet, worldwide'' and ''Internet Radio Featuring: Ghost Stories, Weird Stories, and Murders, too!'', streaming classic horror, mystery and suspense old-time radio dramas around the clock. Its site, hosted on AWS S3 behind a frameset, wraps the stream in a ''Station Keeper'' ghost-story persona, links a Facebook page and asks listeners to help support the broadcast; the operator is not named. The 32 kbps MP3 stream on Yes Streaming suits spoken-word OTR content.'
+  sources: http://horror-theatre.com/; http://horror-theatre.com.s3-website-us-east-1.amazonaws.com/
+curation: 0.38
 provenance:
   - radiobrowser-37d99ea9-8c41-4d75-bbce-fc2f3e60f2dd

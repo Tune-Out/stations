@@ -37,6 +37,8 @@ curation: 0.35
 provenance:
   - radiobrowser-96243040-0601-11e8-ae97-52543be04c81
   - iprd-gb-radio-jackie-107-8-96586d75
+  - radiobrowser-809ce43f-60fc-11e8-b15b-52543be04c81
+  - iprd-gb-radio-jackie-107-8-ee20bec2
 streams:
   - url: http://media.radiojackie.com:5873/
     codec: AAC+
@@ -53,3 +55,7 @@ streams:
   - url: http://media.radiojackie.com:12614/
     codec: MP3
     bitrate: 128
+  - url: 'http://media.radiojackie.com/redirector/frontend.m3u8'
+    codec: AAC
+    bitrate: 128
+    hls: true

@@ -1,8 +1,8 @@
 stationuuid: 5c6c092b-2b8b-4ac1-a8d0-090f87037fd9
-name: iraninternational
+name: Iran International
 url: https://radio.iraninternational.app/iintl_c
 url_resolved: https://radio.iraninternational.app/iintl_c
-homepage: https://iranintl.com/
+homepage: https://www.iranintl.com/
 favicon: https://iranintl.com/favicon.ico
 tags:
   - news
@@ -23,14 +23,20 @@ clickcount: 101
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Volant Media UK Limited (London-based)
-  affiliations: Persian-language opposition / diaspora news outlet critical of the Islamic Republic of Iran; widely reported to receive Saudi-linked funding (denied by station); not state media of Iran (banned/labelled "terrorist" by Tehran since 2022)
-  audience: Persian (Farsi) speakers worldwide, especially Iranians inside Iran and in diaspora
-  format: 24/7 news, current affairs, talk and political analysis in Persian; simulcast of TV channel audio
-  notes: Launched 2017 in London (originally as "International Wave Media"). Gained prominence covering 2022-2023 Mahsa Amini "Woman, Life, Freedom" protests; staff relocated to Washington DC in 2023 after UK police warned of Iranian regime threats. Positions itself as independent journalism against Iranian government censorship; Iranian authorities label it a hostile / "terrorist" outlet. Despite being IR-tagged in source data, it is headquartered outside Iran.
-  sources: https://iranintl.com/, internal knowledge
-curation: 0.45
+  operator: Volant Media UK Ltd, London
+  affiliations: Persian-language opposition news outlet; reported Saudi-linked launch funding (denied by management); designated a terrorist organisation by Iran's Intelligence Ministry in 2022
+  audience: Persian speakers inside Iran and in the diaspora
+  format: 24/7 Persian news, current affairs and political talk; audio simulcast of the satellite TV channel
+  notes: Iran International is a Persian-language satellite news channel launched in London on 18 May 2017 and owned by Volant Media UK Ltd; this entry is its radio/audio feed, which also goes out on shortwave into Iran. It is an opposition outlet strongly critical of the Islamic Republic and gained prominence covering the 2022 Mahsa Amini protests; Iran designated it a terrorist organisation in November 2022, staff were temporarily relocated to Washington in 2023 after police warnings, and a journalist was stabbed in London in 2024. Reporting by The Guardian and Wall Street Journal has tied its launch funding to Saudi Arabia, which management denies. Despite the IR country code it is based in the UK, not Iran.
+  sources: https://en.wikipedia.org/wiki/Iran_International; https://iranintl.com/
+curation: 0.35
 provenance:
   - radiobrowser-5c6c092b-2b8b-4ac1-a8d0-090f87037fd9
+  - radiobrowser-37acc36e-e070-4225-9d9f-d3c3610470fd
+streams:
+  - url: 'https://radio.iraninternational.app/iintl_c'
+    codec: MP3
+  - url: 'https://stream.radiojar.com/iintl_c'
+    codec: MP3

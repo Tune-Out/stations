@@ -36,3 +36,14 @@ curation: 0.5
 provenance:
   - radiobrowser-3fb37778-628e-4799-bb76-cd2813a85464
   - iprd-hk-rthk-radio-3-59d26ecb
+  - radiobrowser-df485b29-376b-446e-9427-e88c4aefe364
+  - iprd-hk-rthk-radio-3-7ad0c6c0
+streams:
+  - url: 'https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true
+  - url: 'https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true

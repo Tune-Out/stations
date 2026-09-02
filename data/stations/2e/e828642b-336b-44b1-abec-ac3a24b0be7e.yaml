@@ -23,15 +23,16 @@ clickcount: 3
 geo_lat: 40.785114
 geo_long: -124.183922
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: non-commercial
-  operator: Radio Paradise (independent non-profit operator)
-  affiliations: none known (listener-supported)
-  audience: Global internet audience; music enthusiasts and audiophiles interested in eclectic programming.
-  format: Eclectic mix of music across genres (rock, indie, electronic, world, jazz, folk, hip-hop); listener-curated and DJ-selected.
-  notes: Founded 1994 in Mendocino County, California. Independent non-commercial internet radio station providing free streaming to global audience. Known for high-quality audio and eclectic programming curated by founder Bill Goldsmith. Fully listener-supported.
-  sources: internal knowledge only
-curation: 0.65
+  operator: Radio Paradise (Bill and Rebecca Goldsmith)
+  affiliations: none; listener-supported
+  audience: Global adult music enthusiasts and audiophiles
+  format: Eclectic hand-curated rock, pop, electronic and world music
+  notes: Radio Paradise is a listener-supported, commercial-free internet radio station founded in 2000 by Bill and Rebecca Goldsmith, now based in Eureka, California. Its Main Mix blends adult rock, pop, electronic, world, classic hits and more, hand-curated with detailed track information; it also pioneered lossless FLAC streaming. This entry is the FLAC-with-metadata feed from the station's UK/EU server and duplicates the far more popular Main Mix (EU) 320k AAC entry.
+  sources: https://en.wikipedia.org/wiki/Radio_Paradise; https://radioparadise.com/
+curation: 0.70
+duplicate_of: 9617a958-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-e828642b-336b-44b1-abec-ac3a24b0be7e
 streams:

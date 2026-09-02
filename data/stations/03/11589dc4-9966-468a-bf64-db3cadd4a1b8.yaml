@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ca/ca.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Fraser Valley radio ownership (JPBG/Jim Pattison Broadcast Group)
+  affiliations: ''
+  audience: Chilliwack / Fraser Valley, BC
+  format: Country music
+  notes: CHWK-FM 89.5, branded 'JR Country,' is a commercial country-music station licensed to Chilliwack, British Columbia, serving the Fraser Valley with mainstream country hits and local content.
+  sources: 'IPRD: streams/ca/ca.m3u'
+curation: 0.05
+duplicate_of: fe31d0ea-106a-4fb0-bffc-def04df7310c
 provenance:
   - iprd-ca-chwk-89-5-4e9907f5

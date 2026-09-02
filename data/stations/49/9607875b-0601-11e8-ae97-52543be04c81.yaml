@@ -35,3 +35,12 @@ curation: -0.05
 provenance:
   - radiobrowser-9607875b-0601-11e8-ae97-52543be04c81
   - iprd-de-memoryradio-2-4b3c2f16
+  - radiobrowser-b8e1ea4d-2c80-4264-a393-bc987a49ebd5
+  - iprd-de-memoryradio-2-55584092
+streams:
+  - url: 'http://www.memoryradio.de:5000/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://www.memoryradio.de/radio2'
+    codec: MP3
+    bitrate: 128

@@ -25,15 +25,24 @@ clickcount: 53
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: EMG (Enterocommunications Media Group)
-  affiliations: none known
-  audience: Russian listeners nostalgic for 1970s-1990s music; focused on Moscow region
-  format: 'Retro music station featuring hits from 1970s, 1980s, and 1990s with mixed genres. Station motto: "Best music of the 70s, 80s, and 90s for several generations."'
-  notes: Moscow-based commercial radio station specializing in classic retro music. Registered with Russian Federal Service for Supervision of Communications (Registration ФС77-59973, 2014). Notable shows include "Первая Смена" (Morning show), "Программа Ю" (artist biography series), "Дорогие Гости" (celebrity interviews), and adaptation of Russian quiz show "Что? Где? Когда?". High listener base with 53,784 votes on radio-browser.info.
-  sources: http://retrofm.ru/
-curation: -0.1
+  operator: European Media Group (Европейская медиагруппа, EMG)
+  affiliations: EMG (Europa Plus, Dorozhnoye Radio, Novoye Radio)
+  audience: Russian adults 35-65 nostalgic for 70s-90s hits
+  format: Gold retro hits 1970s-1990s
+  notes: Retro FM is a national Russian commercial station owned by European Media Group (EMG), launched on 14 February 1996 as Radio Retro and rebranded on 29 May 2003. It broadcasts on 88.3 FM in Moscow and 88.0 FM in Saint Petersburg and through about 280 transmitters reaching more than 1,800 Russian localities plus relays in ten other countries. The gold format mixes 1970s-1990s hits at roughly 65% Western to 35% Russian for a 35-65 audience, with about 9 million daily and 20 million weekly listeners, ranking around fifth nationally. Signature shows include the morning Pervaya Smena, the request programme Felichita and Vecherinka Retro FM; the station stages the annual Legendy Retro FM arena festival.
+  sources: https://ru.wikipedia.org/wiki/Ретро_FM; https://retrofm.ru/
+curation: 0.20
 provenance:
   - radiobrowser-964fade0-0601-11e8-ae97-52543be04c81
   - iprd-ru-retro-fm-e1c9b27d
+  - radiobrowser-961662de-0601-11e8-ae97-52543be04c81
+  - iprd-ru-retro-fm-e198adc1
+streams:
+  - url: 'http://retroserver.streamr.ru:8043/retro256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://retroserver.streamr.ru:8043/retro128'
+    codec: MP3
+    bitrate: 128

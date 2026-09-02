@@ -2,7 +2,7 @@ stationuuid: 0ab0056c-6b80-11ea-b1cf-52543be04c81
 name: Pátria Rádió
 url: https://icecast.stv.livebox.sk/patria_128.mp3
 url_resolved: https://icecast.stv.livebox.sk/patria_128.mp3
-homepage: https://patria.rtvs.sk/
+homepage: https://patria.stvr.sk/
 favicon: https://www.stvr.sk/media/images/stvr-og.jpg
 tags:
   - public-radio
@@ -26,15 +26,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RTVS (Slovak Television and Radio public broadcaster)
-  affiliations: state-funded public broadcaster
-  audience: Hungarian and Slovak minority/majority language speakers in Slovakia
-  format: Talk, news, cultural and educational programming in Hungarian and Slovak
-  notes: Public radio station by Slovak public broadcaster RTVS serving minority language communities in Slovakia. Part of state-funded public broadcasting system. Broadcasts in both Hungarian and Slovak languages. Focus on minority rights and cultural programming.
-  sources: internal knowledge only
-curation: 0.55
+  operator: STVR (Slovenská televízia a rozhlas), Slovak public broadcaster
+  affiliations: Licence-fee/state-funded Slovak public-service broadcaster
+  audience: Hungarian, Ruthenian/Ukrainian and other national minorities in Slovakia
+  format: Minority-language news, talk, culture and music (Hungarian afternoons, Ruthenian/Ukrainian mornings)
+  notes: Rádio Patria (Pátria Rádió) is the national-minority channel of Slovakia's public broadcaster, now named STVR (Slovenská televízia a rozhlas, formerly RTVS). Launched in 2000, though minority broadcasts date to 1928, it airs Hungarian-language programming in the afternoons and Ukrainian/Ruthenian in the mornings, with rotating Romani, Czech, German and Polish slots, on FM, DAB+ and online from 06:00 to 18:00. Hungarian-language strands include the morning show 'Reggeli', 'Nappali', 'Napzárta' and cultural discussion programmes; its website moved to patria.stvr.sk after the 2024 rebrand.
+  sources: https://sk.wikipedia.org/wiki/Rádio_Patria; https://patria.stvr.sk/
+curation: 0.60
 provenance:
   - radiobrowser-0ab0056c-6b80-11ea-b1cf-52543be04c81
   - iprd-sk-patria-radio-1098-7395da5f

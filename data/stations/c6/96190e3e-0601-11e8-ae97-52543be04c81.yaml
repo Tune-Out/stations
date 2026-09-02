@@ -34,3 +34,17 @@ research:
 curation: 0
 provenance:
   - radiobrowser-96190e3e-0601-11e8-ae97-52543be04c81
+  - radiobrowser-1b7e5f98-48e2-45f6-b641-c2145719fb77
+  - iprd-pt-radio-clube-de-grandola-91-3-d0a87eba
+  - iprd-pt-radio-elmo-99-1-fcf0f425
+  - iprd-pt-radio-granada-100-1-70e0f65d
+  - iprd-pt-radio-vida-97-1-0676060f
+  - iprd-pt-radio-vidigueira-90-0-4aebb924
+  - iprd-pt-tejo-102-9-e619c234
+streams:
+  - url: 'http://centova.radio.com.pt:9496/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://centova.radios.pt:9496/stream'
+    codec: MP3
+    bitrate: 128

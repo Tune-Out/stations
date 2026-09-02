@@ -22,15 +22,15 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: FBC (Fiji Broadcasting Corporation)
-  affiliations: Government public broadcasting (Fiji)
-  audience: Fijian-speaking population; Fiji and Pacific islands
-  format: Pacific Island music and national public radio programming
-  notes: Radio Fiji One is the flagship station of Fiji Broadcasting Corporation; public broadcaster serving Fiji; features Pacific island music and news
-  sources: http://rf1.fbc.com.fj/, internal knowledge only
-curation: 0.55
+  operator: Fiji Broadcasting Corporation (FBC)
+  affiliations: Fiji government-funded public-service broadcaster
+  audience: iTaukei (Fijian) speakers in Fiji
+  format: Fijian-language talk, news, religious and community programming
+  notes: Radio Fiji One (Na Domoiviti) is the Fiji Broadcasting Corporation's iTaukei-language public-service station, first aired 1 July 1954 and broadcasting on 93.0/92.8/93.2/93.4 MHz FM and 558 kHz AM across Fiji. Programming mixes morning religious music, news bulletins, community messages, talkback and interviews under a government public-service broadcast contract. The catalogue's StreamGuys URL returns 404 and the rf1.fbc.com.fj site returns 503, so no working stream could be confirmed.
+  sources: https://en.wikipedia.org/wiki/Radio_Fiji_One; https://www.fbc.com.fj/
+curation: 0.06
 provenance:
   - radiobrowser-96449e3e-0601-11e8-ae97-52543be04c81
   - iprd-fj-radio-fiji-one-93-0-2fc623b1

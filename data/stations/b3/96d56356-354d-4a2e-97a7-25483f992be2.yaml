@@ -32,3 +32,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-96d56356-354d-4a2e-97a7-25483f992be2
+  - radiobrowser-57de316c-b492-4bfe-97ee-8bf1b533bf16
+streams:
+  - url: 'https://stream-37.zeno.fm/26ea0anpms8uv'
+    codec: AAC
+  - url: 'http://playerservices.streamtheworld.com/pls/MORFM_S01AAC.pls'
+    url_resolved: 'http://22243.live.streamtheworld.com:80/MORFM_S01AAC_SC'
+    codec: AAC+
+    bitrate: 64

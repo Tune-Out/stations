@@ -25,15 +25,15 @@ clickcount: 23
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Sunshine Live
-  affiliations: none known
-  audience: German-speaking listeners in Germany, Switzerland, Austria; European electronic music community
-  format: "Electronic music specialization with multiple themed channels (BOUNCE, FESTIVAL, HARDSTYLE, IBIZA, 90s); shows include BPM - Beats per Morning (morning quiz), Twenty Five (listener voting, Saturdays 15-17 UTC), Checkst du (trivia game, Wednesdays); podcasts: Electronic Music Weekly, Bassgeflüster, We Are the Night, SUNSHINE LIVE x Sleek Magazine"
-  notes: Self-described as "HOME OF THE DJs." 24/7 electronic music radio with positioning as curator of electronic dance music culture. Emphasizes community engagement through voting, gaming, and event curation across European festivals.
-  sources: http://www.sunshine-live.de/
-curation: 0.5
+  operator: sunshine live (Regiocast group), Mannheim with studios in Berlin
+  affiliations: Regiocast (90s90s, 80s80s, R.SH, Radio BOB!)
+  audience: German club-oriented listeners aged roughly 14-49; Eurodance nostalgia fans
+  format: Automated sub-channel of 1990s Eurodance, techno and electronic hits; parent station is presenter-led EDM/house/techno radio
+  notes: Sunshine Live - Die 90er is the 1990s Eurodance and electronic sub-channel of sunshine live, Germany's national electronic dance music station, which went on air in 1997 from Mannheim as part of the Regiocast group and now also produces from Berlin. The parent station brands itself 'Home of the DJs', broadcasts nationwide on DAB+ and online, and hosts the annual 'Die 90er - Live on Stage' concert at Mannheim's Maimarkthalle, from which this channel draws its identity. The 90er feed is an unmoderated 192 kbps MP3 playlist of Eurodance-era hits; sunshine live is ad-financed and commercial. The catalog's Baden-Württemberg location is correct.
+  sources: https://de.wikipedia.org/wiki/Sunshine_live; https://de.wikipedia.org/wiki/Sunshine_live_%E2%80%9EDie_90er_%E2%80%93_Live_on_Stage%E2%80%9C; https://www.sunshine-live.de/
+curation: 0.30
 provenance:
   - radiobrowser-962c0376-0601-11e8-ae97-52543be04c81
   - iprd-de-sunshine-live-ibiza-0b09a0f7
@@ -42,6 +42,7 @@ provenance:
   - iprd-de-sunshine-live-summer-beats-6d3db48c
   - iprd-de-sunshine-live-vocal-trance-544afe35
   - iprd-de-sunshine-live-workout-319f027f
+  - radiobrowser-adbe953f-d857-4858-83ff-d7cf3ed22f6f
 streams:
   - url: http://stream.sunshine-live.de/live/aac-64/radiosure/
     codec: AAC
@@ -135,4 +136,6 @@ streams:
   - url: http://stream.sunshine-live.de/house/mp3-192/stream.sunshine-live.de/
     codec: MP3
   - url: http://stream.sunshine-live.de/natureone/mp3-192/stream.sunshine-live.de/
+    codec: MP3
+  - url: 'http://stream.sunshine-live.de/90er/mp3-192'
     codec: MP3

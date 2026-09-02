@@ -34,3 +34,11 @@ curation: -0.05
 provenance:
   - radiobrowser-30c38245-b3f4-4481-abe4-79b8f07a5a7c
   - iprd-ru-shanson-bez-tsenzury-c45eb8f4
+  - radiobrowser-644f021d-19b2-4320-9354-94d449df2b73
+  - iprd-ru-shanson-bez-tsenzury-8124d6a9
+streams:
+  - url: 'http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3'
+    codec: MP3

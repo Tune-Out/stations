@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pe/pe.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Peruvian commercial broadcaster
+  affiliations: ''
+  audience: General Peruvian listeners
+  format: Hits/mainstream
+  notes: This is a commercial hits-format FM station in Peru, apparently related to "Frecuencia 100" given its frecuencia100fm.com homepage, playing a generic mainstream hits format.
+  sources: no web sources found beyond YAML metadata
+curation: 0.00
 provenance:
   - iprd-pe-radio-frecuencia-101-9-1093de79

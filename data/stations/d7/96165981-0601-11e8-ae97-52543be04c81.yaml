@@ -33,3 +33,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-96165981-0601-11e8-ae97-52543be04c81
+  - radiobrowser-46f0d102-59a6-11e8-b0ce-52543be04c81
+streams:
+  - url: 'http://83.97.65.98:9000/Title1=Radio'
+    codec: AAC+
+    bitrate: 192
+  - url: 'http://83.97.65.98:9000/listen.pls'
+    url_resolved: 'http://83.97.65.98:9000/'
+    codec: AAC+
+    bitrate: 192

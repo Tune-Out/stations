@@ -24,15 +24,15 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: public broadcaster
+  reviewed_at: 2026-09-02
+  nature: state media
   operator: VGTRK (All-Russia State Television and Radio Broadcasting Company)
-  affiliations: government; Russian Federation
-  audience: Moscow and Russia; Russian-speaking
-  format: Classical music, folk, jazz, contemporary Russian music, cultural programming
-  notes: State-controlled public broadcaster operated by VGTRK. Focus on classical and folk traditions.
-  sources: internal knowledge only
-curation: 0.6
+  affiliations: Russian federal government; VGTRK (sanctioned by EU/UK/Canada)
+  audience: Russian-speaking classical-music and arts listeners in Moscow and online
+  format: Classical music, radio drama, jazz/ethnic/rock selections, arts and literature talk
+  notes: 'Radio Kultura (Радио Культура) is the culture and arts radio channel of VGTRK, the Russian federal state broadcaster, transmitting on 91.6 FM in Moscow and the Moscow region and streaming via the Smotrim platform. Programming centres on classical music alongside jazz, blues, ethnic and rock selections, radio dramas performed by professional actors, hourly cultural news and interviews with cultural figures. The former cultradio.ru site now redirects to smotrim.ru/cultradio. As a VGTRK channel it belongs to a sanctioned state media group, although its own output is cultural rather than political. Editorial flag: Operated by VGTRK, the Russian federal state broadcasting company, which is subject to EU/UK/Canadian sanctions since 2022; the channel itself is largely cultural (classical music, radio drama, arts talk) but carries VGTRK''s hourly news bulletins.'
+  sources: https://smotrim.ru/cultradio; http://www.cultradio.ru/ (redirects to smotrim.ru)
+curation: -0.30
 provenance:
   - radiobrowser-961acb20-0601-11e8-ae97-52543be04c81
   - iprd-ru-radio-kultura-80edd9f3

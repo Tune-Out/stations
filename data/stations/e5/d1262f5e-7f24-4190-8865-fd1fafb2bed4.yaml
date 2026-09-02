@@ -37,3 +37,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-d1262f5e-7f24-4190-8865-fd1fafb2bed4
+  - iprd-au-power100-100-7-3419ad23
+streams:
+  - url: 'https://playerservices.streamtheworld.com/pls/TOW_POWER100AAC.pls'
+    url_resolved: 'https://13743.live.streamtheworld.com:443/TOW_POWER100AAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC.aac'
+    url_resolved: 'https://14023.live.streamtheworld.com:443/TOW_POWER100AAC.aac'
+    codec: AAC
+    bitrate: 128

@@ -1,5 +1,5 @@
 stationuuid: 7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d
-name: RMC FR
+name: RMC
 url: https://audio.bfmtv.com/rmcradio_128.mp3
 url_resolved: https://audio.bfmtv.com/rmcradio_128.mp3
 homepage: https://rmc.bfmtv.com/
@@ -24,15 +24,15 @@ clickcount: 252
 geo_lat: 43.577207144257144
 geo_long: 5.745849609375
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: RMC (Radio Monte Carlo), part of CMA Media (formerly NextRadioTV / Altice Media), owned by French telecom magnate Patrick Drahi
-  affiliations: none known (private commercial talk-radio; no religious or political party affiliations, though editorial line is right-leaning/populist)
-  audience: French-language adults (35+) across France; news, sports and opinion listeners
-  format: Talk radio (généraliste) focused on news, current affairs, sports and listener call-ins; flagship programs include "Les Grandes Gueules", "Bourdin Direct" (historically), and extensive football coverage
-  notes: Originally founded in 1943 as Radio Monte Carlo, a Monaco-based broadcaster. Repositioned to a French talk/sports format in 2002 under the "RMC Info Talk Sport" banner. Holds extensive rights to French Ligue 1 and UEFA football broadcasts. Acquired by Patrick Drahi's Altice in 2014-2016 (NextRadioTV group), now under CMA Media umbrella with BFMTV.
-  sources: internal knowledge only (homepage fetch blocked)
-curation: -0.05
+  operator: RMC BFM (99.9%), owned since 2024 by CMA CGM (Rodolphe Saadé); Principality of Monaco holds 0.1%
+  affiliations: Private commercial broadcaster; no party or religious ties, though its opinion shows are populist in tone
+  audience: French adults nationwide; news, sport and opinion listeners; 4.8% audience share (Médiamétrie April-June 2026)
+  format: 'Talk radio: news, current affairs, sport (Ligue 1, rugby) and listener call-ins; flagship shows Apolline Matin, Les Grandes Gueules, After Foot'
+  notes: RMC (Radio Monte-Carlo) is a French-Monégasque commercial talk radio founded on 1 July 1943 and a founding member of the EBU; its studios are in Paris and it airs on 103.1 FM in Paris and nationwide FM/DAB+. Repositioned in 2002 as an "info, talk, sport" station, it is known for opinion-driven shows such as Les Grandes Gueules and Apolline Matin and for extensive football coverage (After Foot). Formerly part of Patrick Drahi's Altice Media, the RMC BFM group was sold to the shipping company CMA CGM for about €1.55 billion in 2024 (Arcom approval June 2024). RMC posted a 4.8% audience share in the April-June 2026 Médiamétrie wave, ahead of Europe 1, and remains the group's most profitable asset. The catalog favicon points to a third-party blog image.
+  sources: https://en.wikipedia.org/wiki/RMC_(France); https://www.cbnews.fr/medias/altice-media-bfm-rmc-cede-cma-cgm-155-milliard-euros; https://www.linforme.com/medias-culture/article/rmc-reste-la-machine-a-cash-du-groupe-bfm_6038.html; https://rmc.bfmtv.com/
+curation: 0.30
 provenance:
   - radiobrowser-7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d
   - iprd-fr-rmc-d6692818

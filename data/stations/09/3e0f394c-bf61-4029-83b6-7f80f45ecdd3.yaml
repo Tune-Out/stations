@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: KNAU 88.7 'Arizona Public Radio' is the NPR News and Talk service of Arizona Public Radio, owned by Northern Arizona University and licensed to Flagstaff since 1983, serving northern Arizona (with a parallel classical-music service on other frequencies). The catalog already lists this same station under several other entries with higher votes.
+  sources: https://en.wikipedia.org/wiki/KNAU; https://www.knau.org
+curation: 0.55
+duplicate_of: 96269fad-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-us-knau-88-7-arizona-public-radio-872f50b5

@@ -22,15 +22,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
-  nature: non-commercial
-  operator: Radio Caprice (Russian streaming network)
-  affiliations: none known
-  audience: hip-hop producers, beat listeners, lofi/chillhop enthusiasts
-  format: 24/7 stream of instrumental hip-hop and beat music
-  notes: Radio Caprice genre channel dedicated to instrumental hip-hop; includes jazz rap, lo-fi beats, and producer-focused compositions; appeals to background music and study listeners
-  sources: internal knowledge only
-curation: 0.5
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio Caprice (RADCAP), Russia
+  affiliations: one of several hundred Radio Caprice genre channels
+  audience: Beat and lo-fi listeners, producers, study-music audiences
+  format: Instrumental hip-hop and beats, automated 24/7
+  notes: Radio Caprice (radcap.ru) is an independent Russian internet-radio project running several hundred narrowly defined, ad-free genre channels. This channel streams instrumental hip-hop, jazz-rap beats and producer instrumentals continuously from an automated library with no presenters. It is the canonical entry for several duplicate listings of the same stream.
+  sources: http://radcap.ru/instrumentalhiphop.html; http://radcap.ru/
+curation: 0.32
 provenance:
   - radiobrowser-e5a8aea3-4050-11e9-aa55-52543be04c81
   - iprd-ru-radio-caprice-instrumental-hip-hop-2f74772a

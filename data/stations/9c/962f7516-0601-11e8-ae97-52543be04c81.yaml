@@ -1,8 +1,8 @@
 stationuuid: 962f7516-0601-11e8-ae97-52543be04c81
-name: Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá) [AAC]
+name: Caracol Radio
 url: http://playerservices.streamtheworld.com/m3u/CARACOL_RADIOAAC.m3u
 url_resolved: http://27323.live.streamtheworld.com:3690/CARACOL_RADIOAAC_SC
-homepage: http://www.caracol.com.co/
+homepage: https://caracol.com.co/
 favicon: http://www.caracol.com.co/pf/resources/caracol-colombia/touch-icon-ipad.png?d=323
 tags:
   - news
@@ -24,14 +24,14 @@ clickcount: 28
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Caracol / Grupo Caracol (Colombian media conglomerate)
-  affiliations: none known
-  audience: Spanish-speaking; Bogotá and nationwide Colombia
-  format: News and talk radio programming; national news network
-  notes: Major Colombian commercial radio broadcaster; flagship news station operating on AM 810 and FM 100.9 in Bogotá
-  sources: internal knowledge only
-curation: -0.05
+  operator: Prisa Media / Caracol S.A. (Grupo PRISA)
+  affiliations: PRISA group (Cadena SER, W Radio, Los 40)
+  audience: Spanish-speaking adults nationwide in Colombia; Bogotá flagship
+  format: National news, talk and sport; flagship 6AM Hoy por Hoy morning news
+  notes: Caracol Radio is Colombia's oldest national radio network, founded in Bogotá on 2 September 1948 as Cadena Radial Colombiana and owned since 2003 by Spain's Grupo PRISA (Prisa Media). Its flagship news station broadcasts from Chapinero, Bogotá on 810 AM (HJCY) and 100.9 FM (HJGL) with relays across the country, anchored by the morning programme 6AM Hoy por Hoy. On 13 January 2026 Prisa merged its two news networks, integrating W Radio into Caracol Radio under Julio Sánchez Cristo's direction to cut costs amid falling advertising revenue, creating a single national news service. The wider group also runs music brands such as Tropicana, Los 40 and Radioacktiva. The catalog name carries call-sign and codec junk.
+  sources: https://es.wikipedia.org/wiki/Caracol_Radio; https://www.publimetro.co/noticias/2026/01/13/se-acabo-la-espera-confirman-que-caracol-radio-y-la-w-se-unieron-para-siempre-y-asi-sera-su-nuevo-programa/; https://latamjournalismreview.org/es/news/caracol-radio-y-w-radio-se-fusionan-en-medio-de-crisis-que-redefine-la-radio-en-colombia/; https://caracol.com.co/
+curation: 0.40
 provenance:
   - radiobrowser-962f7516-0601-11e8-ae97-52543be04c81

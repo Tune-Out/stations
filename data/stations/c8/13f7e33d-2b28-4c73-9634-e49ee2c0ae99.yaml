@@ -32,3 +32,11 @@ curation: 0.2
 provenance:
   - radiobrowser-13f7e33d-2b28-4c73-9634-e49ee2c0ae99
   - iprd-ma-radio-azawan-d59e38d5
+  - radiobrowser-49545fc3-653c-4e36-b250-359024629b45
+streams:
+  - url: 'https://az-maroc.ice.infomaniak.ch/az-maroc-64.aac'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3'
+    codec: MP3
+    bitrate: 192

@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Grupo Radio Centro
+  affiliations: ''
+  audience: ''
+  format: sports talk
+  notes: La Octava Sports is the sports-talk HD2 subchannel of XEQR-FM (107.3) in Mexico City, operated by Grupo Radio Centro.
+  sources: https://laoctava.com
+curation: 0.10
+duplicate_of: 8a92fa5b-01b5-47ba-8932-06c0f788a702
 provenance:
   - iprd-mx-la-octava-sports-107-3-xeqr-98f0676b

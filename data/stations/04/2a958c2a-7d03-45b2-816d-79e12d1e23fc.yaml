@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: University of Scranton
+  affiliations: University of Scranton Communication Dept.
+  audience: Campus and local Scranton-area listeners
+  format: Alternative/college radio
+  notes: WUSR is the student-run college radio station of the University of Scranton in Pennsylvania, broadcasting an alternative/eclectic format with educational programming. It is operated by the university's Communication department and streams live from its own campus server.
+  sources: http://www.scranton.edu (station stream/homepage verified live)
+curation: 0.35
 provenance:
   - iprd-us-wusr-99-5-university-of-scranton-8f43dcfd

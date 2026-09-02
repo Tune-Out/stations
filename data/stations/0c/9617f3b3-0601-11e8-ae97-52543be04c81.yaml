@@ -35,10 +35,14 @@ research:
 curation: 0.6
 provenance:
   - radiobrowser-9617f3b3-0601-11e8-ae97-52543be04c81
+  - radiobrowser-1ae629f1-c507-4d39-9043-569b3b989b16
 streams:
   - url: http://tess.fast-serv.com:8570/
     codec: AAC+
     bitrate: 48
   - url: http://tess.fast-serv.com:8570/;
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://209.9.238.5:8570/'
     codec: AAC+
     bitrate: 48

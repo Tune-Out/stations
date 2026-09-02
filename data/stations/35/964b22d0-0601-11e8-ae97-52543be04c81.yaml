@@ -34,3 +34,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-964b22d0-0601-11e8-ae97-52543be04c81
+  - iprd-us-wkos-104-9-nash-icon-20c9803e
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/WKOSFMAAC.pls'
+    url_resolved: 'http://18063.live.streamtheworld.com:80/WKOSFMAAC_SC'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://playerservices.streamtheworld.com/pls/WKOSFMAAC.pls'
+    url_resolved: 'https://15693.live.streamtheworld.com:443/WKOSFMAAC_SC'
+    codec: AAC
+    bitrate: 128

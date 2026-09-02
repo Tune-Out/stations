@@ -34,6 +34,11 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-9e3b0f8e-95d3-11e9-a605-52543be04c81
+  - radiobrowser-cb1893b5-70a6-4cf7-a520-b91afdaa3a0a
+  - iprd-de-ndr-2-094cb900
+  - iprd-de-ndr-2-81f67f97
+  - iprd-de-ndr-2-f71934e3
+  - iprd-de-ndr-2-09b48f46
 streams:
   - url: https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u
     url_resolved: https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
@@ -49,5 +54,8 @@ streams:
     bitrate: 128
   - url: http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_mv.m3u
     url_resolved: http://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3
+    codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3?aggregator=airable'
     codec: MP3
     bitrate: 128

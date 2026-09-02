@@ -1,5 +1,5 @@
 stationuuid: d7dd5204-1b9a-4f67-8ed3-9d0078460a44
-name: NDR Plus
+name: NDR Schlager
 url: http://f121.rndfnk.com/ard/ndr/ndrplus/live/mp3/128/stream.mp3?sid=22bRNQfaVMJ9hrbU5z9K6mXty2F&token=Dkwo4kVxxSmYn9F3dwsHYPktszekiREdt5bl4KoVrF8&tvf=4ZWhfcflwhZmMTIxLnJuZGZuay5jb20
 url_resolved: http://f121.rndfnk.com/ard/ndr/ndrplus/live/mp3/128/stream.mp3?sid=22bRNQfaVMJ9hrbU5z9K6mXty2F&token=Dkwo4kVxxSmYn9F3dwsHYPktszekiREdt5bl4KoVrF8&tvf=4ZWhfcflwhZmMTIxLnJuZGZuay5jb20
 homepage: https://upload.wikimedia.org
@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/de/de.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: Norddeutscher Rundfunk (NDR/ARD)
+  affiliations: ARD public broadcasting network
+  audience: Northern German schlager/easy-listening fans
+  format: Schlager/easy listening
+  notes: This channel launched in 2016 as "NDR Plus", a digital-only schlager/easy-listening station from NDR (Norddeutscher Rundfunk), Germany's public ARD broadcaster for the north. It was renamed "NDR Schlager" in November 2021 and is currently scheduled to close on 1 January 2027 as part of ARD cost cuts, but remains on air today.
+  sources: https://de.wikipedia.org/wiki/NDR_Plus
+curation: 0.50
 provenance:
   - iprd-de-ndr-plus-d6d0aed4

@@ -23,19 +23,23 @@ clickcount: 45
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Antenne Bayern (German commercial broadcaster)
-  affiliations: none known
-  audience: German-speaking; Bavaria region, Germany
-  format: Chillout, ambient, relaxation music, easy listening
-  notes: Chillout channel operated by Antenne Bayern, a commercial radio station in Bavaria. Specializes in relaxation and ambient music programming as specialized stream. Part of Germany's commercial radio landscape.
-  sources: internal knowledge only
-curation: 0.4
+  operator: Antenne Bayern GmbH & Co. KG, Ismaning
+  affiliations: Shareholders include Bavarian newspaper publishers (24.9%), RTL Group, Axel Springer and Hubert Burda Media
+  audience: German-speaking listeners in Bavaria and online seeking relaxation music
+  format: Automated chillout, ambient and easy-listening web channel
+  notes: Antenne Bayern Chillout is one of more than forty niche web channels run by Antenne Bayern, the private Bavarian broadcaster launched on 5 September 1988 and based in Ismaning. The parent station reaches about 3.84 million listeners a day (2024) across Bavaria via 43 FM transmitters plus cable, Astra satellite and streaming, playing a "current-based AC" mix for 14-59 year olds with news, weather and traffic. Its shareholders include the Bavarian daily-newspaper media company (24.9%), RTL Group, Axel Springer and Hubert Burda Media (16% each), and the group also runs Rock Antenne and Oldie Antenne on DAB+. The Chillout stream itself is an automated, presenter-free rotation of ambient, downtempo and easy-listening tracks at 128 kbps MP3.
+  sources: https://de.wikipedia.org/wiki/Antenne_Bayern; http://www.antenne.de/
+curation: 0.15
 provenance:
   - radiobrowser-9610c454-0601-11e8-ae97-52543be04c81
   - iprd-de-antenne-bayern-2000er-hits-0af3089d
   - iprd-de-antenne-bayern-2010er-hits-bbd482bc
+  - radiobrowser-f4b667e8-459a-44fd-b75e-326a8aba7908
+  - iprd-de-antenne-bayern-chillout-6a057904
+  - iprd-de-antenne-bayern-chillout-be25b7ec
+  - iprd-de-antenne-bayern-chillout-229e6abf
 streams:
   - url: http://stream.antenne.de/nur-die-musik/stream/aacp
     codec: AAC
@@ -108,3 +112,5 @@ streams:
   - url: https://stream.antenne.de/antenne/stream/mp3
     codec: MP3
     bitrate: 128
+  - url: 'http://stream.antenne.de/chillout/stream/aacp'
+    codec: AAC

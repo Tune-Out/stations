@@ -34,3 +34,10 @@ curation: 0.35
 provenance:
   - radiobrowser-9610945e-0601-11e8-ae97-52543be04c81
   - iprd-de-nectarine-demoscene-radio-701494a9
+  - radiobrowser-b7e65ebb-3673-48db-96d5-2d754e32a2d2
+streams:
+  - url: 'http://nectarine.from-de.com/necta192'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://scenestream.io/opus'
+    codec: OGG

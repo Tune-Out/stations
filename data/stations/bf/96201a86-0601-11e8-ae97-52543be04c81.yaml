@@ -35,3 +35,13 @@ curation: 0
 provenance:
   - radiobrowser-96201a86-0601-11e8-ae97-52543be04c81
   - iprd-ru-verdure-station-d618ae5c
+  - radiobrowser-11e9cb05-3700-4ca6-a3cc-dbb28b87373b
+  - iprd-ru-verdure-station-f74c94ab
+streams:
+  - url: 'http://air.verdure.net:8881/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://verdure.net/verdure.pls'
+    url_resolved: 'http://air.verdure.net:8881/stream/192/'
+    codec: MP3
+    bitrate: 192

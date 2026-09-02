@@ -33,3 +33,13 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-8a9c4662-0b7c-11e9-a80b-52543be04c81
+  - iprd-sg-jia-883-88-3-1a11fd44
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac'
+    url_resolved: 'http://28153.live.streamtheworld.com:80/883JIAAAC.aac'
+    codec: AAC+
+    bitrate: 96
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac'
+    url_resolved: 'https://22243.live.streamtheworld.com:443/883JIAAAC.aac'
+    codec: AAC
+    bitrate: 128

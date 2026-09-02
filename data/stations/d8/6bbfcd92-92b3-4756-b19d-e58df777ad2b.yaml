@@ -35,3 +35,12 @@ research:
 curation: 0.25
 provenance:
   - radiobrowser-6bbfcd92-92b3-4756-b19d-e58df777ad2b
+  - radiobrowser-f862efd0-95bd-11e9-a605-52543be04c81
+  - iprd-co-zonasalsa-57f26ba6
+streams:
+  - url: 'https://cast6.asurahosting.com/proxy/salsafou/stream'
+    codec: AAC+
+    bitrate: 96
+  - url: 'http://s40.myradiostream.com:8520/listen.mp3?1507069161743'
+    codec: AAC+
+    bitrate: 96

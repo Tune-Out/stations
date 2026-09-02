@@ -33,3 +33,12 @@ curation: -0.05
 provenance:
   - radiobrowser-e2a91620-815e-11e9-aa30-52543be04c81
   - iprd-hu-magic-disco-r-di-591b7d0c
+  - radiobrowser-bdfc73e0-1091-45a1-a5ee-a8fe309e8021
+  - iprd-hu-magic-disco-radio-bc3b4b14
+streams:
+  - url: 'http://live2.magicdiscoradio.com:4420/live.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://free.rcast.net/66407'
+    codec: MP3
+    bitrate: 256

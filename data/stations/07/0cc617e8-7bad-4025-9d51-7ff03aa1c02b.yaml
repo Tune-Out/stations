@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/cn/cn.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: Hubei Radio and Television (provincial state broadcaster)
+  affiliations: China National Radio distribution network
+  audience: Hubei province, classical-music listeners
+  format: classical music
+  notes: Hubei Classic Music Radio (103.8) is a provincial classical-music channel operated by Hubei's state broadcasting network, distributed via China National Radio's satellite-pull infrastructure. Benign classical-music programming typical of Chinese provincial public/state broadcasters.
+  sources: stream check; distribution via satellitepull.cnr.cn (China National Radio) indicates state-broadcaster affiliation
+curation: 0.30
 provenance:
   - iprd-cn-hubei-classic-music-radio-103-8-2e2cc717

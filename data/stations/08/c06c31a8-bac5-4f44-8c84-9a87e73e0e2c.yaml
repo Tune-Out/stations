@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/au/au.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 3NRG is a community radio station broadcasting on 99.3 FM from Sunbury, in outer northwest metropolitan Melbourne, Victoria, providing local news, music and community-access programming since 1988 (originally as 99.4 Bulla FM). The IP-based relay stream tested here refused connection, though the station itself is a licensed, long-running community broadcaster.
+  sources: https://en.wikipedia.org/wiki/3NRG; https://tunein.com/radio/Sunbury-Radio-993-s194446/
+curation: 0.35
 provenance:
   - iprd-au-3nrg-99-3-d9ad7d93

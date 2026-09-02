@@ -2,7 +2,7 @@ stationuuid: 722a334d-c491-4145-ab90-29777df925fc
 name: Exa 91.7 XHGLX
 url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac'
 url_resolved: 'https://13693.live.streamtheworld.com:443/XHGLXAAC.aac'
-homepage: https://i.iheart.com
+homepage: https://exafm.com
 favicon: https://i.iheart.com/v3/re/new_assets/5f9856a08c6781b794265f76
 tags:
   - latin
@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: MVS Radio
+  affiliations: ''
+  audience: ''
+  format: pop hits
+  notes: XHGLX-FM 'Exa FM' 91.7 is the Tijuana affiliate of MVS Radio's Exa FM pop-hits network, a major commercial chain distributed nationally in Mexico and via iHeart/StreamTheWorld internationally.
+  sources: https://exafm.com
+curation: 0.10
+duplicate_of: 9627bacb-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-mx-exa-91-7-xhglx-c6ab1af4

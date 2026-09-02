@@ -35,3 +35,11 @@ curation: 0.25
 provenance:
   - radiobrowser-961ec9d2-0601-11e8-ae97-52543be04c81
   - iprd-fr-allzic-classic-012bda59
+  - radiobrowser-3ce7722d-c81f-4e8c-b4f0-4c75f2b7f160
+streams:
+  - url: 'http://allzic06.ice.infomaniak.ch/allzic06.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://allzic06.ice.infomaniak.ch/allzic06'
+    codec: MP3
+    bitrate: 128

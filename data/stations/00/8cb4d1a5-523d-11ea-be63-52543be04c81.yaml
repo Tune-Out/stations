@@ -35,3 +35,11 @@ curation: 0.55
 provenance:
   - radiobrowser-8cb4d1a5-523d-11ea-be63-52543be04c81
   - iprd-es-catalunya-m-sica-8b64a0da
+  - radiobrowser-6956f051-51f0-4b7f-8474-5ea87429bf0d
+streams:
+  - url: 'https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3'
+    codec: AAC
+    bitrate: 56
+  - url: 'https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/bitrate_1.m3u8'
+    codec: UNKNOWN
+    hls: true

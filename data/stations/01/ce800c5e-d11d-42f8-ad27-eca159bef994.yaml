@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/co/co.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Caracol Radio (Grupo PRISA)
+  affiliations: Caracol Radio network
+  audience: Colombia, national news/talk
+  format: news/talk
+  notes: W Radio is Caracol Radio's flagship national news/talk network in Colombia, broadcast from Bogotá on 690 AM / 99.9 FM (HJCZ/HJLN). It is one of Colombia's most listened-to talk networks, part of the Grupo PRISA/Caracol media group.
+  sources: https://27583.live.streamtheworld.com:443/WRADIOAAC; https://emisorasenvivo.com.co
+curation: 0.30
+duplicate_of: 961af0bd-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-co-hjcz-w-radio-690-99-9-5cf7e435

@@ -33,3 +33,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-86d361d0-1f51-4f99-a6a7-cc4d5821ad02
+  - radiobrowser-bed29a95-e782-44ce-ac83-1b176670053e
+streams:
+  - url: 'http://s3.voscast.com:9966/'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://s3.voscast.com:9966/;stream1686938227998'
+    codec: MP3
+    bitrate: 192

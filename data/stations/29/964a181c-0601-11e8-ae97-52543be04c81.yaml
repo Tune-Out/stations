@@ -35,6 +35,7 @@ curation: 0.7
 provenance:
   - radiobrowser-964a181c-0601-11e8-ae97-52543be04c81
   - iprd-ch-radio-swiss-classic-german-f76da6a1
+  - radiobrowser-8e026737-4219-4681-aba8-77db205024da
 streams:
   - url: http://www.radioswissclassic.ch/de/live/aacp32.m3u
     url_resolved: http://stream.srg-ssr.ch/srgssr/rsc_de/aac/48
@@ -42,4 +43,7 @@ streams:
     bitrate: 48
   - url: http://stream.srg-ssr.ch/m/rsc_de/mp3_128
     codec: MP3
+    bitrate: 128
+  - url: 'https://stream.srg-ssr.ch/srgssr/rsc_de/aac/192'
+    codec: AAC
     bitrate: 128

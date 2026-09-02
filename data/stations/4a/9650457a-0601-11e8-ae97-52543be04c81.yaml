@@ -23,7 +23,7 @@ clickcount: 41
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Talpa Network
   affiliations: none known
@@ -43,3 +43,13 @@ provenance:
   - iprd-nl-sky-radio-lounge-362e5b79
   - iprd-nl-sky-radio-lovesongs-fb4b436f
   - iprd-nl-sky-radio-smooth-hits-aba00494
+  - radiobrowser-960d7b8c-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3'
+    url_resolved: 'http://28993.live.streamtheworld.com:80/SKYRADIO.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac'
+    url_resolved: 'http://19993.live.streamtheworld.com:80/SKYRADIOAAC.aac'
+    codec: AAC+
+    bitrate: 64

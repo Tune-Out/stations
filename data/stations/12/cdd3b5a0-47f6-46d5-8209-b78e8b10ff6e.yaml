@@ -22,14 +22,14 @@ clickcount: 170
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Entertainment Network India Ltd (ENIL), a subsidiary of The Times Group (Bennett, Coleman & Co. Ltd) — assuming this is the official Mirchi Hindi web stream; the stream is hosted on a third-party CDN (fastcast4u) so may be a rebroadcast/aggregator feed rather than ENIL's primary stream
-  affiliations: none known (no religious, governmental, or political party affiliation; corporate parent is India's largest media conglomerate)
-  audience: Hindi-speaking Indian listeners (domestic FM 98.3 MHz network and diaspora online); Bollywood music fans
-  format: Hindi-language Bollywood film music, contemporary Hindi pop, entertainment talk and celebrity content ("It's Hot!" tagline)
-  notes: "Radio Mirchi 98.3 launched 2001, India's first private FM brand and largest network (~76 stations across 63+ cities). Owner ENIL is publicly listed on BSE/NSE. Known for the annual Mirchi Music Awards honouring Bollywood film music. Brand tagline: \"Mirchi Sunne Wale Always Khush!\""
-  sources: https://en.wikipedia.org/wiki/Radio_Mirchi, https://en.wikipedia.org/wiki/Entertainment_Network_India_Limited
-curation: 0.4
+  operator: Unclear — stream self-identifies as SUNO FM (suno1024.com), not ENIL/Radio Mirchi
+  affiliations: none verified
+  audience: Hindi-speaking listeners
+  format: Hindi film and pop music (stream identity does not match catalogued name)
+  notes: 'This entry is mislabelled. The catalogued feed is not an Entertainment Network India (Radio Mirchi) stream: the live Shoutcast headers on eu8.fastcast4u.com identify the mount as ''SUNO FM'' with icy-url suno1024.com, an unrelated South Asian broadcaster, and the entry carries no homepage at all. Radio Mirchi itself is a genuine and large network — ENIL launched Mirchi 98.3 FM in 2001 as India''s first private FM brand, it now runs dozens of stations for The Times Group and hosts the Mirchi Music Awards — but its official streams live on mirchi.in and Gaana, not on a third-party fastcast4u proxy. As catalogued, the station name and the audio being served do not match, so the record should be renamed to the station actually streaming or retired in favour of an official Mirchi feed.'
+  sources: https://eu8.fastcast4u.com/proxy/clyedupq/stream; https://mirchi.in/; https://en.wikipedia.org/wiki/Radio_Mirchi
+curation: 0.01
 provenance:
   - radiobrowser-cdd3b5a0-47f6-46d5-8209-b78e8b10ff6e

@@ -24,18 +24,20 @@ clickcount: 10
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Private LLC "Govorit Moskva" (ООО "Говорит Москва"); revived in 2013 by journalist Sergei Dorenko and businessman Vladimir Pozhidayev under owners including Yury Fedutinov
-  affiliations: politically aligned with the Russian establishment / pro-Kremlin patriotic discourse; not formally state-owned but content is closely aligned with state messaging on domestic and foreign policy; operates under Roskomnadzor licensing
-  audience: Moscow-area and national Russian-speaking adults interested in political talk, news and current affairs
-  format: News-talk radio — hourly bulletins, phone-ins, political and social commentary, expert interviews, with flagship shows historically associated with Sergei Dorenko ("Подъём", "Доренко") and Roman Babayan
-  notes: The name revives the historic Soviet-era radio call sign "Говорит Москва" first used in 1922 by Moscow's Sokolniki station; the current commercial station relaunched on FM 94.8 MHz in Moscow on 2 September 2013 under chief editor Sergei Dorenko (1959-2019), the prominent "TV killer" of the 1990s; after Dorenko's death the station continued under editors Roman Babayan and Sergei Doroganev with a strongly pro-government, anti-Western editorial line that intensified after Russia's 2022 invasion of Ukraine; presenters including Babayan have been sanctioned by the EU, UK and Ukraine for propaganda activities.
-  sources: internal knowledge only
-curation: 0.45
+  operator: ООО «Говорит Москва», part of Mikhail Gutseriev's media holdings
+  affiliations: Pro-Kremlin editorial line; editor-in-chief Roman Babayan is under EU and Ukrainian sanctions as a propagandist
+  audience: Moscow-area and national Russian-speaking listeners of political talk radio
+  format: News-talk — bulletins, phone-ins, political commentary and expert interviews
+  notes: 'Govorit Moskva is a Moscow news-and-talk station launched on 10 February 2014 on 94.8 FM, replacing RU.FM, and owned by businessman Mikhail Gutseriev''s media holdings. Its name revives the historic Soviet call sign first used by Moscow radio in the 1920s. Sergei Dorenko, the combative television presenter of the 1990s, was founding editor-in-chief until his death in 2019; since 24 June 2019 the post has been held by Roman Babayan, with Aleksey Gudoshnikov among the regular presenters. Output is rolling news, phone-ins, political and social commentary and expert interviews under the slogan "listen, think, know", aimed particularly at Moscow drivers. The station''s editorial line is firmly pro-government and hardened further after Russia''s 2022 invasion of Ukraine; Babayan has been designated by the EU and Ukraine over his propaganda work. Editorial flag: Pro-Kremlin political talk station whose editor-in-chief, Roman Babayan, has been sanctioned by the EU and Ukraine for propaganda activity; its wartime commentary tracks Russian state messaging on Ukraine and the West.'
+  sources: https://ru.wikipedia.org/wiki/Говорит_Москва_(радиостанция,_2014); http://govoritmoskva.ru/
+curation: -0.30
 provenance:
   - radiobrowser-961a35ee-0601-11e8-ae97-52543be04c81
   - iprd-ru-govorit-moskva-fd3bf7e3
+  - radiobrowser-750df04f-9bc0-11e8-a767-52543be04c81
+  - iprd-ru-govorit-moskva-2092d2c5
 streams:
   - url: http://media.govoritmoskva.ru:8880/ru64.mp3
     codec: MP3
@@ -44,4 +46,6 @@ streams:
   - url: https://media.govoritmoskva.ru/radio/ru64.mp3
     codec: MP3
   - url: http://media.govoritmoskva.ru:8880/ru32.mp3
+    codec: MP3
+  - url: 'http://media.govoritmoskva.ru:8880/rufm_m.mp3'
     codec: MP3

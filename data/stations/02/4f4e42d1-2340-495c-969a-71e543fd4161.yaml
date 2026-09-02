@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/nl/nl.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: non-commercial
+  operator: Royal Concertgebouw Orchestra
+  affiliations: ''
+  audience: classical music listeners worldwide
+  format: classical
+  notes: This is the official webradio of the Royal Concertgebouw Orchestra (Koninklijk Concertgebouworkest), one of the world's most acclaimed classical orchestras, based in Amsterdam. The channel streams recordings of the orchestra's own concerts and performances, run directly by the orchestra as a cultural service rather than a commercial venture.
+  sources: https://en.wikipedia.org/wiki/Royal_Concertgebouw_Orchestra; http://ice.cr6.streamzilla.xlcdn.com
+curation: 0.55
 provenance:
   - iprd-nl-rco-concertgebouworkest-b3150369

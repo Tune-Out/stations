@@ -23,15 +23,24 @@ clickcount: 29
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Generations (French radio network)
   affiliations: none known
   audience: French-speaking funk and music enthusiasts
   format: funk music programming
-  notes: Generations Funk is part of the French Generations radio network; specializes in funk genre
-  sources: internal knowledge only
-curation: -0.05
+  notes: Generations Funk is the funk-genre channel of Générations, a well-established French commercial radio network built on Black-music and urban formats; the channel is a dedicated funk specialist stream distinct from the network's terrestrial main frequency.
+  sources: http://generations.fr/
+curation: 0.12
 provenance:
   - radiobrowser-9613f1f2-0601-11e8-ae97-52543be04c81
   - iprd-fr-generations-funk-619f7e96
+  - radiobrowser-d20048b4-7058-452a-be7b-39f5e688acf8
+  - iprd-fr-generations-funk-4cfb1b90
+streams:
+  - url: 'http://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://gene-wr05.ice.infomaniak.ch/gene-wr05.aac'
+    codec: AAC+
+    bitrate: 64

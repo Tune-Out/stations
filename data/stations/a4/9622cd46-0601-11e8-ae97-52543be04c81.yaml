@@ -2,7 +2,7 @@ stationuuid: 9622cd46-0601-11e8-ae97-52543be04c81
 name: Europa Plus
 url: http://ep256.hostingradio.ru:8052/europaplus256.mp3
 url_resolved: http://ep256.hostingradio.ru:8052/europaplus256.mp3
-homepage: http://www.europaplus.ru/
+homepage: https://europaplus.ru/
 favicon: http://liveam.tv/img/2494.jpg
 tags:
   - dance
@@ -25,19 +25,21 @@ clickcount: 83
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Europe Plus Group (Европейская медиагруппа / European Media Group, EMG) — a major Russian private commercial radio holding
-  affiliations: Commercial broadcaster; EMG is a private company, no formal governmental, religious or political affiliations, though as a major Russian media outlet it operates under Russian state media regulations and licensing
-  audience: Russian-speaking adults 14-45, broad mainstream audience across Russia and the CIS
-  format: Top-40 / contemporary hit radio (CHR) — mainstream Western and Russian pop, dance, house; flagship hit-music station
-  notes: Founded in 1990 as a Soviet-French joint venture (with Europe 1 of France), Europa Plus was the first commercial / Western-style music radio station in the USSR and remains one of the most popular and highest-rated commercial radio networks in Russia. Broadcasts on FM in hundreds of Russian cities and across several CIS countries. Headquartered in Moscow. Runs the annual Europa Plus Live festival in Moscow.
-  sources: internal knowledge only (homepage fetch timed out)
-curation: 0.45
+  operator: European Media Group (EMG / Европейская медиагруппа), Moscow, historically controlled by the SDS holding
+  affiliations: Private commercial network operating under Russian state licensing; apolitical music format
+  audience: Russian-speaking mainstream listeners aged roughly 14-45 across Russia and the CIS
+  format: Hot AC / Top 40 hit radio with charts such as EuroHit Top 40 and Top Club Chart
+  notes: Europa Plus is a Russian commercial hit-music network launched in Moscow on 30 April 1990 as the first non-state commercial radio station in the USSR, conceived by French entrepreneur Georges Polinski with Europe 1. It broadcasts on 106.2 FM in Moscow and in hundreds of cities across Russia and former Soviet states and is owned by European Media Group (EMG), Russia's largest radio holding, which also runs Dorozhnoe Radio and Retro FM. The format is mainstream Western and Russian pop, dance and house with flagship charts EuroHit Top 40 and Top Club Chart and the annual Europa Plus Live festival. It is a purely music-oriented station with no news or political programming.
+  sources: https://en.wikipedia.org/wiki/Europa_Plus; https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0; https://europaplus.ru/
+curation: 0.10
 provenance:
   - radiobrowser-9622cd46-0601-11e8-ae97-52543be04c81
   - iprd-ru-europa-plus-6b610080
   - iprd-ru-europa-plus-8658399f
+  - radiobrowser-e23a948f-b571-49be-85a2-4f6df822fc00
+  - iprd-ru-uropa-plus-5894a629
 streams:
   - url: http://ep256.hostingradio.ru:8052/europaplus256.mp3
     codec: MP3
@@ -46,5 +48,8 @@ streams:
     codec: MP3
     bitrate: 128
   - url: http://europaplus.hostingradio.ru:8014/europaplus320f.mp3
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ep128server.streamr.ru:8030/ep128'
     codec: MP3
     bitrate: 128

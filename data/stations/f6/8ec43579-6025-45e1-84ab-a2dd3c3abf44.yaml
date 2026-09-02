@@ -33,3 +33,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-8ec43579-6025-45e1-84ab-a2dd3c3abf44
+  - radiobrowser-84bb80d4-2a06-4048-9a9d-7642ba40ce28
+streams:
+  - url: 'https://listen.vdfm.ru:8000/marusya'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://radio-holding.ru:9433/marusya_default'
+    codec: MP3
+    bitrate: 128

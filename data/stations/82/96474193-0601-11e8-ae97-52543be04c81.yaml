@@ -34,3 +34,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-96474193-0601-11e8-ae97-52543be04c81
+  - iprd-mx-amor-95-3-xhnb-eb3bce04
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/XHNBFMAAC.pls'
+    url_resolved: 'http://16603.live.streamtheworld.com:80/XHNBFMAAC_SC'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/XHNBFMAAC_SC'
+    codec: AAC
+    bitrate: 128

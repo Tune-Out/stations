@@ -31,6 +31,7 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-a076db99-edf0-45fb-b325-1ad9e064f278
+  - radiobrowser-476542e6-43b7-4468-9bad-1ed5322b3d3d
 streams:
   - url: https://stream.newageradio.gr/listen/hq/radio.flac
     codec: OGG
@@ -41,3 +42,5 @@ streams:
   - url: https://stream.newageradio.gr/listen/hq/radio.mp3
     codec: MP3
     bitrate: 128
+  - url: 'https://stream-156.zeno.fm/9yu82xwmdc9uv?zs=kfRTbEsBT1S-LI24kc6lVg'
+    codec: MP3

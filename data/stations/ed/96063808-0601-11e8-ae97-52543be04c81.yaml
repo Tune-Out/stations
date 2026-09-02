@@ -2,7 +2,7 @@ stationuuid: 96063808-0601-11e8-ae97-52543be04c81
 name: Antenne Brandenburg
 url: http://www.antennebrandenburg.de/live.m3u
 url_resolved: http://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
-homepage: http://www.antennebrandenburg.de/
+homepage: https://www.antennebrandenburg.de/
 favicon: http://www.antennebrandenburg.de/content/dam/rbb/rbb/logos/touch/ant-128.png
 tags:
   - news
@@ -25,15 +25,15 @@ clickcount: 20
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: rbb (Rundfunk Berlin-Brandenburg), part of ARD public broadcasting consortium
+  operator: Rundfunk Berlin-Brandenburg (rbb), ARD member
   affiliations: German public radio network (ARD and rbb); German public service broadcaster
-  audience: Brandenburg region listeners; German-language; Berlin-Brandenburg metropolitan area
-  format: Pop, Schlager (German popular music), information radio
-  notes: rbb is state-funded public broadcaster serving Berlin-Brandenburg; Antenne Brandenburg is flagship pop/information station; 128 kbps MP3; part of ARD public broadcasting network
-  sources: internal knowledge only
-curation: 0.7
+  audience: Adults in Brandenburg; ~500,000 daily listeners
+  format: Adult contemporary (70s/80s-leaning) with regional news
+  notes: Antenne Brandenburg is rbb's regional service for the state of Brandenburg, launched 6 May 1990 by Ostdeutscher Rundfunk Brandenburg (ORB) and run by Rundfunk Berlin-Brandenburg since the 2003 merger. It airs adult-contemporary music weighted to the 1970s-80s with hourly regional news and opt-outs from studios in Cottbus, Frankfurt (Oder), Perleberg and Prenzlau, reaching about 500,000 daily listeners on eight FM frequencies, DAB+ and online. Funded by the German Rundfunkbeitrag licence fee as part of ARD.
+  sources: https://en.wikipedia.org/wiki/Antenne_Brandenburg; https://www.antennebrandenburg.de/
+curation: 0.55
 provenance:
   - radiobrowser-96063808-0601-11e8-ae97-52543be04c81
   - iprd-de-antenne-brandenburg-eea49140

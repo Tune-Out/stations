@@ -33,3 +33,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-129b3663-0543-443a-886e-b2c101cf326b
+  - radiobrowser-8552af34-2284-41bd-9a0e-2c534fcc59b0
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2.mp3'
+    url_resolved: 'https://25503.live.streamtheworld.com:443/EVROPA2.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac'
+    url_resolved: 'https://27913.live.streamtheworld.com:443/EVROPA2AAC.aac'
+    codec: AAC+
+    bitrate: 64

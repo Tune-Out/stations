@@ -35,3 +35,9 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-cf52ecbb-e4e4-4e8a-8de6-c4948215226b
+  - radiobrowser-dd992c1f-50f0-417b-af12-ccb886a9d399
+streams:
+  - url: 'http://stream.arhivaradiodobrogea.ro:7000/dobrogea'
+    codec: MP3
+  - url: 'http://stream.arhivaradiodobrogea.ro:7000/dobrogea.m3u'
+    codec: MP3

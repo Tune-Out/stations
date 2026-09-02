@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ae/ae_exclusiveradio.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Exclusive.Radio / Uber.Radio network
+  affiliations: Exclusive.Radio
+  audience: Gordon Lightfoot fans
+  format: Single-artist automated rotation
+  notes: Gordon Lightfoot is a single-artist automated tribute stream on the Exclusive.Radio network, playing a rotation of the Canadian folk singer-songwriter's catalog. No live hosts or original content; duplicates an existing higher-profile channel on the same network.
+  sources: 'IPRD: streams/ae/ae_exclusiveradio.m3u; https://exclusive.radio'
+curation: -0.10
 provenance:
   - iprd-ae-gordon-lightfoot-4581eea3

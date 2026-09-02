@@ -2,7 +2,7 @@ stationuuid: b7e7bb7b-b41a-11e8-afe1-52543be04c81
 name: 90s90s Dance HQ
 url: http://streams.90s90s.de/eurodance/mp3-192/radiode/
 url_resolved: http://streams.90s90s.de/eurodance/mp3-192/radiode/
-homepage: ""
+homepage: https://www.90s90s.de/
 favicon: https://www.90s90s.de/favicon.ico
 tags:
   - 90s
@@ -21,14 +21,20 @@ clickcount: 13
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Regiocast GmbH & Co. KG (German private broadcasting group)
-  affiliations: none known; secular commercial broadcaster
-  audience: German adult listeners (broadly 30-50) nostalgic for 1990s dance and Eurodance music; web/DAB+ streaming
-  format: 1990s Eurodance, house, techno, and club music — a sub-channel of the 90s90s family focused exclusively on dance hits of the decade
-  notes: 90s90s is a Hamburg-based German web/DAB+ radio brand operated by Regiocast (which also runs 80s80s, R.SH, delta radio, and other regional stations); the network specialises in decade-themed channels with multiple sub-streams; 90s90s Dance is the dance-focused offshoot featuring Eurodance acts like Snap!, 2 Unlimited, Haddaway, Dr. Alban, Culture Beat, and similar 1990s club artists; the parent 90s90s station is one of Germany's most popular online radio brands.
-  sources: internal knowledge only
-curation: -0.05
+  operator: Regiocast GmbH & Co. KG
+  affiliations: 90s90s network (Regiocast; also 80s80s, R.SH, delta radio)
+  audience: German adults nostalgic for 1990s club music
+  format: Automated 1990s Eurodance playlist channel
+  notes: '90s90s is a German decade-themed radio brand launched on 29 November 2016 by the private broadcaster Regiocast and funded by advertising. Its main service, 90er Hits, has been carried nationally on the private DAB+ multiplex since 2 January 2023 as well as by livestream, digital cable and locally on DAB+ in Leipzig. Around it sits a large family of channels: a few, such as 90s90s DanceRadio and 90s00s Millennium Radio, are presenter-moderated, while most — including this Eurodance mount — are unmoderated playlist streams covering hip-hop, techno, grunge, house and Britpop. This channel is an automated Eurodance rotation of 1990s club hits by acts such as Snap!, 2 Unlimited, Haddaway and Culture Beat. The 192 kbps MP3 stream is live and the catalogue entry has no homepage set.'
+  sources: https://de.wikipedia.org/wiki/90s90s; https://www.90s90s.de/
+curation: 0.05
 provenance:
   - radiobrowser-b7e7bb7b-b41a-11e8-afe1-52543be04c81
+  - radiobrowser-3be3c4dc-b41b-11e8-afe1-52543be04c81
+streams:
+  - url: 'http://streams.90s90s.de/eurodance/mp3-192/radiode/'
+    codec: MP3
+  - url: 'http://streams.90s90s.de/eurodance/mp3-128/radiode/'
+    codec: MP3

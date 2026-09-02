@@ -23,22 +23,26 @@ clickcount: 256
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Orbus SA (Skyrock SA), founded by Pierre Bellanger
-  affiliations: none known (no religious, governmental, or political affiliations; advertising-funded private broadcaster)
-  audience: French-speaking youth and young adults (12-34 demographic) across France
-  format: Rap, hip-hop, R&B and urban music with talk shows; flagship programs include "Difool le Morning" and "Planète Rap"
-  notes: Launched in 1986 as a generalist FM station, repositioned to a rap/hip-hop format in 1996 with the slogan "Premiere sur le Rap & RnB". One of France's most-listened-to music networks among under-25s. Had notable conflicts with French regulator CSA over editorial line. Operates Skred messaging app and Skyrock Blogs platform.
-  sources: https://skyrock.fm/, internal knowledge only
-curation: -0.05
+  operator: Orbus / Skyrock SA (Pierre Bellanger)
+  affiliations: none known
+  audience: French youth and young adults 13-34, nationwide
+  format: rap, hip-hop, R&B, urban hits with talk shows
+  notes: Skyrock is a French national commercial FM network founded in 1986 by Pierre Bellanger (Orbus SA) and repositioned in 1996 as France's first rap and R&B station ('Premier sur le Rap'). It broadcasts nationwide on FM and DAB+ and is the number-one radio in France among 13-34 year-olds, with around 3 million daily listeners in 2025 Médiamétrie surveys and the leading music station in Île-de-France. Flagship programmes include the morning show 'Difool' / 'Radio Libre' and the long-running 'Planète Rap' artist residency. The station has clashed with the regulator (CSA/Arcom) over content in the past but remains a mainstream, advertising-funded broadcaster; Skyrock also runs the Skyrock.com blog platform.
+  sources: https://skyrock.fm/; https://www.lalettre.pro/Skyrock-est-la-premiere-radio-musicale-en-Ile-de-France_a39536.html; https://musicbiz.media/radio-les-audiences-de-nrj-skyrock-et-fun-radio-en-hausse-au-premier-trimestre-2025; https://en.wikipedia.org/wiki/Pierre_Bellanger
+curation: 0.35
 provenance:
   - radiobrowser-01b61e49-18bd-486d-b0e1-cb51cbaf9a6d
   - iprd-fr-skyrock-61322cdf
+  - radiobrowser-5fab9ea3-fdf8-4803-9026-dc190e736d26
 streams:
   - url: http://icecast.skyrock.net/s/natio_mp3_128k
     codec: MP3
     bitrate: 128
   - url: https://icecast.skyrock.net/s/natio_mp3_128k
     codec: MP3
+    bitrate: 128
+  - url: 'http://icecast.skyrock.net/s/natio_aac_128k'
+    codec: AAC
     bitrate: 128

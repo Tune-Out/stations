@@ -22,15 +22,15 @@ clickcount: 41
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: community
-  operator: Aswat Collective (community-based)
-  affiliations: Moroccan community radio network
-  audience: Morocco and Maghreb region, Arabic-speaking community
-  format: Community-oriented programming, diverse content serving local audiences.
-  notes: Casablanca-based Moroccan community radio station; Arabic-language programming; operates as non-commercial community broadcasting; part of broader Moroccan community radio landscape.
-  sources: internal knowledge only
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: La Marocaine de Radio et de Broadcast
+  affiliations: licensed by the Moroccan regulator HACA; privately owned
+  audience: Moroccan general audience, roughly 2.5 million listeners, in Darija and French
+  format: Generalist commercial radio - news, service programming, entertainment and education
+  notes: Radio Aswat is a private Moroccan generalist station headquartered at the Ghandi Mall in Casablanca. It received its HACA licence in 2006 and put out its first programmes on 13 February 2007, operated by the company La Marocaine de Radio et de Broadcast. Broadcasting mainly in Moroccan Arabic with some French, it carries news, service, entertainment and educational programming rather than a single music format. With around 2.5 million listeners it ranks among Morocco's three largest generalist networks, and it distributes on FM, DAB+, satellite, IPTV, streaming and podcast under the RDS identifier ASWAT.
+  sources: https://fr.wikipedia.org/wiki/Aswat; http://radioaswat.ma/
+curation: 0.20
 provenance:
   - radiobrowser-96414555-0601-11e8-ae97-52543be04c81
   - iprd-ma-aswat-radio-aba3f36e

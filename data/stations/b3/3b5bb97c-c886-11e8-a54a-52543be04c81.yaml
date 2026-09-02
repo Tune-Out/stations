@@ -31,3 +31,11 @@ research:
 curation: 0.2
 provenance:
   - radiobrowser-3b5bb97c-c886-11e8-a54a-52543be04c81
+  - radiobrowser-137b71bc-add6-11ea-b5d3-52543be04c81
+streams:
+  - url: 'http://worldwidefm.out.airtime.pro:8000/worldwidefm_b'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://worldwidefm.out.airtime.pro:8000/worldwidefm_c'
+    codec: AAC
+    bitrate: 192

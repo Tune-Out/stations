@@ -22,14 +22,15 @@ clickcount: 16
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: non-commercial
-  operator: Independent internet radio project — Cinemix is curated by French film-music enthusiast(s); listed as based in France though uses Toronto-based streaming infrastructure (TorontoCast).
-  affiliations: None known — independent passion project, no broadcaster, label, or commercial group affiliation.
-  audience: Global film-score and soundtrack enthusiasts, cinephiles, library-music aficionados; multilingual audience (no spoken content, just music).
-  format: 24/7 instrumental film music — original motion picture soundtracks, film scores, library music, and TV/cinema themes across all eras and genres; no vocals, no DJ talk.
-  notes: Cinemix bills itself as a "soundtrack/film score" station and curates an extensive library of cinema music ranging from classic Hollywood scores to contemporary composers (Williams, Morricone, Hisaishi, Desplat, etc.); the homepage at cinemix.us suggests the operation may have moved or rebranded over time; popular within the niche film-score listening community and frequently listed in internet radio directories under "soundtrack" and "instrumental" categories; no commercial advertising; funded informally / by donations or volunteer operation.
-  sources: internal knowledge only
-curation: 0.65
+  operator: Cinemix (independent, France)
+  affiliations: none known; listener-supported, SACEM/SPRE licensed
+  audience: Film-score and soundtrack enthusiasts worldwide
+  format: 24/7 film scores and soundtracks, no talk; Cinemix Extras side channel with themed playlists
+  notes: Cinemix is a long-running French-run internet radio station dedicated to film music, streaming original scores and soundtracks from classic Hollywood to contemporary composers around the clock with no presenters. It is licensed by the French rights societies SACEM and SPRE and stays online through listener donations (the site notes more than 1,000 fans have donated); donors become VIP members with access to HD audio, song requests, library browsing and the secondary 'Cinemix Extras' channel of themed playlists. It also offers Android and iOS apps. The TorontoCast stream carried here is the same main Cinemix broadcast as the higher-voted canonical entry, whose own listen.cinemix.fr stream is currently down, so this working stream should be kept on merge.
+  sources: https://www.cinemix.us/; stream ICY metadata
+curation: 0.47
+duplicate_of: fd48d941-5a7f-11e8-b0ce-52543be04c81
 provenance:
   - radiobrowser-a5331ae6-1196-46c4-b8d6-6a013018bbfe

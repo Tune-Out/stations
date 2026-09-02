@@ -37,6 +37,7 @@ provenance:
   - iprd-de-mdr-aktuell-3decb612
   - iprd-de-mdr-aktuell-c8ad49c6
   - iprd-de-mdr-aktuell-a7e83e1d
+  - radiobrowser-ecb3dcc6-a8a5-4638-b29a-a0f8a033cf45
 streams:
   - url: http://avw.mdr.de/streams/284340-0_mp3_high.m3u
     url_resolved: http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
@@ -50,3 +51,7 @@ streams:
     url_resolved: http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
     codec: MP3
     bitrate: 128
+  - url: 'https://radio-hls.mdr.de/hls/live/2112901/mdr-284340-0-hls/index.m3u8'
+    codec: AAC
+    bitrate: 102
+    hls: true

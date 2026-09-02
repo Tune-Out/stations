@@ -36,3 +36,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-d95ad5e2-417c-4969-a533-c2d9c696d58c
+  - radiobrowser-c18ca205-f8fe-4dac-b765-5858a3db1623
+streams:
+  - url: 'https://playerservices.streamtheworld.com/pls/XEJP_AM.pls'
+    url_resolved: 'https://14553.live.streamtheworld.com:443/XEJP_AM_SC'
+    codec: MP3
+    bitrate: 48
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC.aac'
+    url_resolved: 'https://26443.live.streamtheworld.com:443/XEJP_AMAAC.aac'
+    codec: AAC+
+    bitrate: 32

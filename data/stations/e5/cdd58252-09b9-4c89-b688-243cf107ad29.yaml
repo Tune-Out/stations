@@ -33,3 +33,10 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-cdd58252-09b9-4c89-b688-243cf107ad29
+  - radiobrowser-3c71fe54-9bd4-43dc-85d2-cff2d2269a5e
+streams:
+  - url: 'http://s1.cloudmu.id:8030/radio.mp3'
+    codec: AAC+
+    bitrate: 32
+  - url: 'https://stream.rcs.revma.com/k02rmq48kxcwv'
+    codec: AAC

@@ -22,15 +22,15 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Dark Edge Media / Dark Edge Radio Ltd
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Dark Edge Radio (independent, Romania)
   affiliations: none known
-  audience: English-speaking rock and metal enthusiasts in Romania and Europe
-  format: Metal, rock, and hard rock music formats; deathcore, extreme metal, djent focus
-  notes: Bucharest-based internet radio station specializing in harder rock and metal subgenres. Community-driven listener-supported model with multiple theme channels.
-  sources: internal knowledge only
-curation: 0.55
+  audience: English-language indie/alternative and lounge listeners, mainly Romania and Europe
+  format: Soft alternative, indie, lounge and acid jazz
+  notes: Dark Edge Radio is a small Romanian internet radio station operating since 2018 that describes itself as a soft alternative and indie music channel; its stream metadata lists indie/alternative, lounge and acid jazz. The existing catalog notes describing a metal/deathcore format are wrong. The site is a bare landing page with MP3 and AAC+ streams at 32-192 kbps and TuneIn links, with no about-us, ownership or funding information. The listed primary URL (Icecast root on port 8000) returns the server status page; the working mount is https://stream.darkedge.ro:8002/stream/1/.
+  sources: http://darkedge.ro/; https://stream.darkedge.ro:8002/stream/1/ (ICY metadata)
+curation: 0.27
 provenance:
   - radiobrowser-ecc988d8-94ff-11e8-a767-52543be04c81
   - iprd-ro-dark-edge-radio-99d7644d

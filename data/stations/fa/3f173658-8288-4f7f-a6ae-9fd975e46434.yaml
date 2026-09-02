@@ -31,3 +31,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-3f173658-8288-4f7f-a6ae-9fd975e46434
+  - radiobrowser-a27b8341-5b0f-4b8c-a061-e37b083c3236
+streams:
+  - url: 'https://de3.amfmph.com:2199/tunein/wilddavao-stream.pls'
+    url_resolved: 'http://62.138.18.102:8130/stream'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://us2.amfmph.com:2199/tunein/wilddavao-stream.pls'
+    url_resolved: 'http://148.72.153.65:9244/stream'
+    codec: AAC+
+    bitrate: 64

@@ -37,10 +37,14 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-140c9452-873f-4449-8d30-69ccd5a06943
+  - radiobrowser-c0f6499f-1a00-40a9-b728-c01392173724
 streams:
   - url: https://az10.yesstreaming.net:8210/radiokoko.mp3
     codec: MP3
     bitrate: 128
   - url: https://radiokoko.ro/live
+    codec: MP3
+    bitrate: 128
+  - url: 'https://az10.yesstreaming.net:8210/radiokoko'
     codec: MP3
     bitrate: 128

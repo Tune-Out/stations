@@ -35,3 +35,12 @@ curation: 0.45
 provenance:
   - radiobrowser-96262c07-0601-11e8-ae97-52543be04c81
   - iprd-it-rai-isoradio-3199d38a
+  - radiobrowser-edbfa8f0-73b3-44e9-97cc-f687e2893aa8
+  - iprd-it-rai-isoradio-742edde8
+streams:
+  - url: 'http://icestreaming.rai.it/6.mp3'
+    codec: MP3
+    bitrate: 256
+  - url: 'https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast'
+    codec: MP3
+    bitrate: 256

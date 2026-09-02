@@ -36,3 +36,11 @@ curation: 0.45
 provenance:
   - radiobrowser-960c2e1f-0601-11e8-ae97-52543be04c81
   - iprd-cz-cro-radiozurnal-94-6-82df201c
+  - radiobrowser-ffc0040e-5e9c-4e08-8c57-94db090c9e7a
+streams:
+  - url: 'http://icecast8.play.cz/cro1-128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://rozhlas.stream/radiozurnal_aac_128.aac'
+    codec: AAC
+    bitrate: 192

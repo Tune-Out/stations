@@ -36,6 +36,7 @@ provenance:
   - iprd-de-mdr-jump-002e5170
   - iprd-de-mdr-jump-9f88440f
   - iprd-de-mdr-jump-56c8e381
+  - radiobrowser-e343beb4-b151-415a-81ee-cb85823bd569
 streams:
   - url: http://avw.mdr.de/streams/284320-0_mp3_high.m3u
     url_resolved: http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
@@ -49,3 +50,7 @@ streams:
     url_resolved: http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
     codec: MP3
     bitrate: 128
+  - url: 'https://radio-hls.mdr.de/hls/live/2112904/mdr-284320-0-hls/index.m3u8'
+    codec: AAC
+    bitrate: 102
+    hls: true

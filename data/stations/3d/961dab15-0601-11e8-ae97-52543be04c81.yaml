@@ -2,7 +2,7 @@ stationuuid: 961dab15-0601-11e8-ae97-52543be04c81
 name: WHYY 90.9 Philadelphia, PA
 url: http://whyy.streamguys1.com/whyy-mp3
 url_resolved: http://whyy.streamguys1.com/whyy-mp3
-homepage: http://www.whyy.org/91FM/live.php
+homepage: https://whyy.org/
 favicon: https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand.png
 tags:
   - news
@@ -23,15 +23,15 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: WHYY, Inc. (a 501(c)(3) non-profit corporation licensed by the FCC; member of NPR, PBS, APM and PRX)
-  affiliations: NPR / PBS / American Public Media / PRX member station; recipient of CPB (Corporation for Public Broadcasting) funding; non-partisan and non-sectarian
-  audience: General adult news-and-public-affairs listeners across the Greater Philadelphia/Delaware Valley including southeastern Pennsylvania, southern New Jersey and northern Delaware
-  format: News, information and talk - NPR national programming plus local news, public affairs, and the nationally-distributed Terry Gross show "Fresh Air"
-  notes: WHYY-FM 90.9 MHz is Philadelphia's primary NPR member station, operated by the non-profit WHYY, Inc., which also runs WHYY-TV (PBS) and the digital newsroom WHYY News; the station famously produces and originates "Fresh Air with Terry Gross," one of NPR's flagship interview programmes, on the air since 1975 and nationally distributed since 1987; WHYY also produces "The Pulse" (a health-and-science magazine) and a range of regional civic-affairs programming; founded in 1954 as a public-television operation, the FM service launched in 1972; the station's main transmitter sits at the Roxborough antenna farm in Philadelphia and serves an estimated 6+ million people across PA, NJ and DE; "WHYY" originated as a nod to the question "Why Y? - Whyy not?" but is now a non-acronym call sign.
-  sources: internal knowledge only
-curation: 0.5
+  operator: WHYY, Inc., Philadelphia
+  affiliations: NPR, PBS, APM and PRX member; CPB-funded
+  audience: Greater Philadelphia, South Jersey and Delaware news and public-affairs listeners
+  format: NPR news and talk; produces Fresh Air and The Pulse
+  notes: WHYY-FM 90.9 is Philadelphia's NPR news station, run by non-profit WHYY, Inc., which also operates PBS station WHYY-TV and the WHYY News digital newsroom. The FM service launched in 1972 and is best known as the home of Fresh Air with Terry Gross, distributed nationally by NPR since 1987, alongside the health and science magazine The Pulse and regional public-affairs programming. The old live.php homepage now redirects to whyy.org's streaming page.
+  sources: https://whyy.org/; https://en.wikipedia.org/wiki/WHYY-FM
+curation: 0.75
 provenance:
   - radiobrowser-961dab15-0601-11e8-ae97-52543be04c81
   - iprd-us-whyy-90-9-cffca687

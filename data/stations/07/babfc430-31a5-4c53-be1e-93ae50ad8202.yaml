@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Grupo Radio Centro
+  affiliations: ''
+  audience: ''
+  format: hits/CHR
+  notes: XERC-FM 'Radio Centro' 97.7 is a Grupo Radio Centro commercial hits station in Mexico, distributed via iHeart's StreamTheWorld network.
+  sources: 'IPRD: streams/mx/mx.m3u'
+curation: 0.05
 provenance:
   - iprd-mx-radio-centro-97-7-xerc-ee0b966b

@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fr/fr_nrjgroup.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Cherie Happy is a themed digital-only spin-off of Chérie FM, the French NRJ Group adult-contemporary network, focused on upbeat 'feel-good' music via NRJ's players.nrjaudio.fm platform. The specific session-token stream URL returned a 404, likely reflecting an expired token rather than the channel being discontinued (sibling NRJ channels tested were live).
+  sources: https://players.nrjaudio.fm
+curation: 0.03
 provenance:
   - iprd-fr-cherie-happy-55bc0912

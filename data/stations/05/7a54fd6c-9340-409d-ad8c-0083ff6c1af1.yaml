@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Grupo Radio Centro / Exa FM network
+  affiliations: iHeartRadio/StreamTheWorld
+  audience: General Mexican pop/regional-Mexican listeners
+  format: Pop/regional Mexican
+  notes: XHPNS-FM "Exa 107.1" is a commercial station in Mexico, part of the nationwide Exa FM network playing pop and regional Mexican music, distributed via iHeartRadio's StreamTheWorld CDN.
+  sources: no web sources found beyond YAML metadata
+curation: 0.05
 provenance:
   - iprd-mx-exa-107-1-xhpns-d472608d

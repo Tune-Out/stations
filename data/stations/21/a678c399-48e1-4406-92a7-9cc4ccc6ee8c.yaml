@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/kg/kg.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 'Imported from IPRD catalog. Editorial flag: Sputnik Kyrgyzstan is the Kyrgyz-language/regional service of Sputnik, the international brand of Rossiya Segodnya, the Russian state media agency; Sputnik is banned in the EU and widely documented as a Kremlin propaganda outlet.'
+  sources: 'IPRD: streams/kg/kg.m3u'
+curation: -0.80
 provenance:
   - iprd-kg-sputnik-kyrgyzstan-ea94021e

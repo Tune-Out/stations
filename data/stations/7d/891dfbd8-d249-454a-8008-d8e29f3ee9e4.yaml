@@ -1,5 +1,5 @@
 stationuuid: 891dfbd8-d249-454a-8008-d8e29f3ee9e4
-name: Sfliny Classic Rock
+name: SFLINY Classic Rock
 url: http://ec4.yesstreaming.net:3770/
 url_resolved: http://ec4.yesstreaming.net:3770/
 homepage: https://www.sfliny.com/
@@ -24,15 +24,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
-  nature: non-commercial
-  operator: SFLINY Radio
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: SFLINY Radio (independent, Long Island NY)
   affiliations: none known
   audience: Global English-speaking classic rock and music enthusiasts; Long Island/New York based listener community
-  format: 24/7 commercial-free music; classic rock, alternative, country, pop music with decade-specific programming (1950s-present)
-  notes: Non-commercial internet radio dedicated to "providing high-quality music entertainment to listeners worldwide." Operates multiple genre-specific stations emphasizing "24/7 all commercial free" broadcasting. Based in Long Island, New York region serving global audience via internet streaming.
-  sources: https://www.sfliny.com/
-curation: 0.5
+  format: automated classic rock playlist
+  notes: SFLINY Radio is a hobbyist internet radio network from Long Island, New York, run by a single operator, that streams a family of commercial-free genre channels (classic alternative, 70s and 80s hits, dance, country, pop and this Classic Rock channel). Programming is automated playlist rotation with no hosted shows, streamed at 320 kbps via yesstreaming.net.
+  sources: https://www.sfliny.com/; https://www.sfliny.com/about
+curation: 0.26
 provenance:
   - radiobrowser-891dfbd8-d249-454a-8008-d8e29f3ee9e4
 streams:

@@ -36,3 +36,12 @@ curation: 0.4
 provenance:
   - radiobrowser-9623b030-0601-11e8-ae97-52543be04c81
   - iprd-au-abc-grandstand-ded3bca1
+  - radiobrowser-961a05dc-0601-11e8-ae97-52543be04c81
+  - iprd-au-abc-grandstand-a6b26adf
+streams:
+  - url: 'http://live-radio02.mediahubaustralia.com/GSDW/aac/;'
+    codec: AAC+
+    bitrate: 56
+  - url: 'http://live-radio02.mediahubaustralia.com/GSDW/mp3/;'
+    codec: AAC+
+    bitrate: 56

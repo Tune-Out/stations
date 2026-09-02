@@ -36,6 +36,7 @@ research:
 curation: 0.65
 provenance:
   - radiobrowser-960d3701-0601-11e8-ae97-52543be04c81
+  - radiobrowser-b7a7ddb5-bfef-11e9-8502-52543be04c81
 streams:
   - url: http://radio.bigblueswing.com:8002/;64bit.mp3
     codec: MP3
@@ -43,3 +44,6 @@ streams:
   - url: http://radio.bigblueswing.com:8004/;32bit.mp3
     codec: MP3
     bitrate: 32
+  - url: 'http://radio.bigblueswing.com:8002/'
+    codec: MP3
+    bitrate: 64

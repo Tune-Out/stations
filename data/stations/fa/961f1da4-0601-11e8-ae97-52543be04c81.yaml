@@ -36,3 +36,11 @@ curation: 0.45
 provenance:
   - radiobrowser-961f1da4-0601-11e8-ae97-52543be04c81
   - iprd-ch-radio-srf-3-a42404b6
+  - radiobrowser-22fae9ab-81e4-4788-aeef-5a077ac0b9b0
+streams:
+  - url: 'http://stream.srg-ssr.ch/m/drs3/mp3_128'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.srg-ssr.ch/srgssr/srf3/aac/192'
+    codec: AAC
+    bitrate: 192

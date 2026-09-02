@@ -34,3 +34,18 @@ research:
 curation: 0.3
 provenance:
   - radiobrowser-a7749ad0-0361-462c-9f63-1734959e5f80
+  - radiobrowser-2c68cf21-7d4f-4fd8-babb-6dc7dde02464
+  - radiobrowser-d53dcd1b-2cac-4858-aa26-e3477da4124e
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320.aac'
+    url_resolved: 'http://23163.live.streamtheworld.com:80/SMOOTHRELAX_SYD_AAC320.aac'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128.aac'
+    url_resolved: 'http://14533.live.streamtheworld.com:80/SMOOTHRELAX_SYD_AAC128.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD.mp3'
+    url_resolved: 'http://23193.live.streamtheworld.com:80/SMOOTHRELAX_SYD.mp3'
+    codec: MP3
+    bitrate: 96

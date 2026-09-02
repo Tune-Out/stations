@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fi/fi.m3u"
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Bauer Media Finland
+  affiliations: ''
+  audience: Helsinki hits/pop listeners
+  format: Hits/pop
+  notes: Radio Helsinki 98.5 is a Finnish commercial hits/pop station (part of the Bauer Media Finland network of local stations), and appears to duplicate an existing, more-voted catalog entry with the same name and country.
+  sources: no web sources found beyond YAML metadata
+curation: 0.05
 provenance:
   - iprd-fi-radio-helsinki-98-5-78b1522b

@@ -21,15 +21,15 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Radio Caprice (Russian streaming platform)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio Caprice (radcap.ru, Russia)
   affiliations: none known
-  audience: nu metal / metal enthusiasts, primarily Russian-speaking
-  format: 24/7 nu metal music stream
-  notes: Founded early 2000s as Russian internet radio platform; curated by community; operates multiple genre-specific channels including Metal, Electronic, Rock, Jazz, and more; non-profit model with listener support.
-  sources: internal knowledge only
-curation: 0.65
+  audience: Nu metal fans, mainly Russian-speaking and international online
+  format: Automated nu metal playlist
+  notes: Radio Caprice is a long-running Russian internet radio project (radcap.ru) that runs well over a hundred narrowly themed, automated genre streams from its own servers, of which this Nu Metal channel is one. There is no presenter or editorial programming; each channel rotates a fixed genre library at up to 320 kbps. The project is independent and relies on listener support.
+  sources: http://www.radcap.ru/; http://79.111.14.76:8002/numetal
+curation: 0.23
 provenance:
   - radiobrowser-44cbb6d8-3217-11ea-afca-52543be04c81
 streams:

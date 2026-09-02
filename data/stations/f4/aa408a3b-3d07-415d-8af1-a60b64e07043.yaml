@@ -23,14 +23,14 @@ clickcount: 105
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Navahang.com — a US-based (Los Angeles area) Persian-language music and entertainment website / web radio operator; privately owned
-  affiliations: none known (independent diaspora media; not affiliated with the Iranian government or any religious/political movement — operates outside Iran and would not be permitted to broadcast inside the Islamic Republic in its current form)
-  audience: Persian-speaking listeners worldwide, particularly the Iranian diaspora in North America, Europe and Australia; Persian (Farsi) language
-  notes: One of the larger and longest-running Persian-language online music platforms. Despite the "IR" countrycode in the Radio Browser metadata, the operation is based outside Iran (commonly Los Angeles / "Tehrangeles"), which is where most Persian-language pop music production has been centred since 1979. The site also distributes downloads, music videos and news; the live stream plays contemporary and classic Persian pop.
-  format: Persian / Iranian pop music (contemporary and classic), some Middle Eastern music
-  sources: internal knowledge only (homepage returned HTTP 403)
-curation: -0.05
+  operator: Navahang.com (Persian music media company, US-based diaspora operator)
+  affiliations: none known; not affiliated with the Iranian state
+  audience: Persian-speaking diaspora worldwide
+  format: contemporary and classic Persian pop music, non-stop
+  notes: Radio Navahang is the 24/7 Persian-music web radio of Navahang.com, a long-running Persian pop music portal and media company that also operates a satellite TV channel, a record label (Navahang Records) and an online music archive with downloads, videos and playlists. The stream plays contemporary and classic Iranian pop for the global diaspora; directory listings place the operation in the United States (Los Angeles area), consistent with the exile Persian pop industry, so the catalog's 'IR' country code is misleading. The stream is served from navairan.com; the homepage blocks automated fetches (403) but is live.
+  sources: https://streema.com/radios/Radio_Navahang; https://tunein.com/radio/Radio-Navahang-s148674/; https://www.navahang.com/radio-navahang/
+curation: 0.09
 provenance:
   - radiobrowser-aa408a3b-3d07-415d-8af1-a60b64e07043

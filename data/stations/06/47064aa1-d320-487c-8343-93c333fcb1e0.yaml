@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/de/de.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: laut.fm
+  affiliations: laut.fm platform
+  audience: Ahaus, Germany, oldies listeners
+  format: oldies
+  notes: Laut.FM Radio-Ahaus is a hobbyist/community internet radio channel on the laut.fm platform, a well-known German user-generated webradio hosting service, focused on oldies for the town of Ahaus.
+  sources: stream check; laut.fm is a known German webradio platform (general knowledge)
+curation: 0.05
 provenance:
   - iprd-de-laut-fm-radio-ahaus-9edc470c

@@ -2,7 +2,7 @@ stationuuid: cdda2de8-e33a-4544-847b-fd00e71dea8e
 name: Radio ARA 102.9-105.2
 url: http://stream.ara.lu/stream.mp3
 url_resolved: http://stream.ara.lu/stream.mp3
-homepage: https://www.ara.lu
+homepage: https://www.radioara.org/
 favicon: https://www.ara.lu/wp-content/themes/ara/dist/images/favicon/apple-touch-icon_8046ad73.png
 tags:
   - community-radio
@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/lu/lu.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: Radio ARA a.s.b.l.
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Radio ARA is a non-profit, volunteer-run multilingual community radio station operating in Luxembourg since 1992, broadcasting news and cultural programming in numerous languages (English, French, Arabic, Russian, Ukrainian and more) and actively encouraging community participation.
+  sources: https://www.radioara.org/
+curation: 0.50
 provenance:
   - iprd-lu-radio-ara-102-9-105-2-f97fb687

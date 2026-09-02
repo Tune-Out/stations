@@ -37,3 +37,11 @@ curation: -0.05
 provenance:
   - radiobrowser-8d542cbc-bb73-4a4c-ac37-a9573db41868
   - iprd-hu-danubius-r-di-382c976a
+  - radiobrowser-b3369216-651c-486c-a472-1561485238cf
+streams:
+  - url: 'https://danubiusradio.hu/danubius_HiFi.m3u'
+    url_resolved: 'http://stream.danubiusradio.hu:8091/danubius_HiFi'
+    codec: OGG
+  - url: 'https://stream.danubiusradio.hu/danubius_192k'
+    codec: MP3
+    bitrate: 192

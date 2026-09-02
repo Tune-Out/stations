@@ -34,3 +34,12 @@ curation: -0.05
 provenance:
   - radiobrowser-ff3b8372-1f59-4b18-a4fc-2240b8ab5417
   - iprd-tr-tgrt-fm-93-2-19606be6
+  - radiobrowser-59385050-a0b5-4be9-bbf9-aa7a07c0f8e6
+streams:
+  - url: 'https://icecasttgrt.ihlasdigitalassets.com/tgrtfm'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8'
+    codec: UNKNOWN
+    bitrate: 200
+    hls: true

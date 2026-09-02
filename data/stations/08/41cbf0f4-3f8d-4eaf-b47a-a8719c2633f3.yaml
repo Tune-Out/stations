@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/it/it.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: RAI (Radiotelevisione Italiana)
+  affiliations: ''
+  audience: ''
+  format: regional news/talk
+  notes: Rai Friuli Venezia Giulia is RAI's regional radio service for the Friuli-Venezia Giulia region of Italy, part of Italy's public broadcaster carrying regional news and talk in Italian.
+  sources: 'IPRD: streams/it/it.m3u'
+curation: 0.30
 provenance:
   - iprd-it-rai-friuli-venezia-giulia-79b9a192

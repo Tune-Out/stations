@@ -2,7 +2,7 @@ stationuuid: 9643f966-0601-11e8-ae97-52543be04c81
 name: Радио Шансон - Radio Shanson
 url: http://chanson.hostingradio.ru:8041/chanson256.mp3
 url_resolved: http://chanson.hostingradio.ru:8041/chanson256.mp3
-homepage: http://radioshanson.fm/
+homepage: https://radioshanson.ru/
 favicon: https://radioshanson.fm/favicon.ico
 tags:
   - pop
@@ -23,15 +23,16 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Private broadcaster
-  affiliations: none known
-  audience: Russian-speaking listeners interested in shanson (Russian popular song genre) and pop
-  format: Shanson radio; Russian popular songs and ballads; entertainment and music programming
-  notes: '"Radio Shanson" broadcasts shanson music, a popular Russian song genre; based in Moscow; established commercial format; very high listener votes (35,890) indicating strong audience'
-  sources: internal knowledge only
-curation: -0.05
+  operator: Krutoy Media holding (Mikhail Gutseriev structures)
+  affiliations: none formal; owner is a sanctioned Russian businessman
+  audience: Russian-speaking adults 35+ across Russia and CIS; about 5.6 million daily
+  format: Russian chanson plus pop, bard song, urban romance, folk and film music, with news and entertainment segments
+  notes: Radio Shanson is a Russian national commercial station devoted to the chanson genre, launched in Moscow on 15 August 2000 by former Russkoye Radio executives and broadcasting on 103.0 FM in Moscow since April 2001. It reaches more than 1,700 towns in Russia, Belarus, Armenia and Transnistria with about 5.6 million daily listeners (2024), mixing chanson, pop, bard songs, urban romance and film music with news and entertainment. Since April 2015 it has belonged to structures of businessman Mikhail Gutseriev within the Krutoy Media holding; Gutseriev has been under EU and UK sanctions since 2021 over Belarus, though the station itself is not designated. The old radioshanson.fm domain has lapsed and now redirects to a spam survey page.
+  sources: https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD%D1%81%D0%BE%D0%BD_(%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F); https://radioshanson.ru/
+curation: 0.15
+duplicate_of: 960de706-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-9643f966-0601-11e8-ae97-52543be04c81
   - iprd-ru-chanson-radio-556ec6d8

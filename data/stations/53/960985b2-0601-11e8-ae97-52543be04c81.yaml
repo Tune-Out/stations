@@ -36,3 +36,12 @@ curation: 0.75
 provenance:
   - radiobrowser-960985b2-0601-11e8-ae97-52543be04c81
   - iprd-us-wnyc-93-9-new-york-public-radio-0cb7b445
+  - radiobrowser-f34ae431-42cd-4ef1-8a24-f4eca8a70cc1
+streams:
+  - url: 'http://www.wnyc.org/stream/wnyc-fm939/mp3.pls'
+    url_resolved: 'https://fm939.wnyc.org/wnycfm'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://fm939.wnyc.org/wnycfm.aac'
+    codec: AAC+
+    bitrate: 31

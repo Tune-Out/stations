@@ -34,8 +34,12 @@ curation: 0.35
 provenance:
   - radiobrowser-9614b499-0601-11e8-ae97-52543be04c81
   - iprd-at-radio-helsinki-92-6-4f6ebaff
+  - radiobrowser-96072598-0601-11e8-ae97-52543be04c81
+  - iprd-at-radio-helsinki-92-6-f48e2c3a
 streams:
   - url: http://live.helsinki.at:8088/live160.mp3
     codec: MP3
   - url: https://live.helsinki.at:8088/live160.mp3
+    codec: MP3
+  - url: 'http://live.helsinki.at:8088/live128.mp3'
     codec: MP3

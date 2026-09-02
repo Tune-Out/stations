@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Commercial Mexican broadcast group (iHeart-distributed)
+  affiliations: iHeartRadio/StreamTheWorld
+  audience: General Mexican pop-music listeners
+  format: Pop/retro hits
+  notes: XHVM-FM "Back FM" 100.9 is a commercial pop/retro-format station in Mexico distributed via iHeartRadio's StreamTheWorld network, aimed at a general adult pop-music audience.
+  sources: no web sources found beyond YAML metadata
+curation: 0.05
 provenance:
   - iprd-mx-back-fm-100-9-xhvm-8c242397

@@ -38,3 +38,12 @@ curation: 0.4
 provenance:
   - radiobrowser-9669f12c-97de-11e8-a767-52543be04c81
   - iprd-ru-promodj-too-nu-e99f361b
+  - radiobrowser-906797b4-97c7-11e8-a767-52543be04c81
+  - iprd-ru-promodj-too-nu-c582f229
+streams:
+  - url: 'http://radio.promodj.com/toonu-192'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://radio.promodj.com/nu-192'
+    codec: MP3
+    bitrate: 192

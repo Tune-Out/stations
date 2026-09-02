@@ -40,3 +40,13 @@ provenance:
   - iprd-de-ndr-1-niedersachsen-ac600efe
   - iprd-de-ndr-1-niedersachsen-0cca5c1f
   - iprd-de-ndr-1-niedersachsen-6bf29711
+  - radiobrowser-9c123508-2881-4c12-87eb-87f0b95dffe1
+streams:
+  - url: 'http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_os.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndr1niedersachsen/osnabrueck/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_bs.m3u'
+    url_resolved: 'http://icecast.ndr.de/ndr/ndr1niedersachsen/braunschweig/mp3/128/stream.mp3'
+    codec: MP3
+    bitrate: 128

@@ -24,15 +24,15 @@ clickcount: 448
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: BBC (British Broadcasting Corporation), the UK public service broadcaster established by Royal Charter
-  affiliations: UK public service broadcaster; editorial independence guaranteed by the BBC Royal Charter and overseen by Ofcom. BBC World Service was historically funded by a grant-in-aid from the UK Foreign and Commonwealth Office (now FCDO) and since 2014 primarily from the UK TV licence fee, supplemented by FCDO grants. No party-political, religious, or commercial advertising affiliations on the domestic-rules service.
-  audience: Global English-speaking audience (and 40+ other language services on sister streams); aimed at international listeners seeking impartial news and analysis
-  format: 24-hour international news, current affairs, analysis, documentaries, business and culture programming in English
-  notes: Founded 1932 as the BBC Empire Service; renamed BBC World Service in 1965. Broadcasts to an estimated 300+ million weekly listeners worldwide across all languages, making it the largest international broadcaster. Distributed via shortwave (historically), FM relays, partner stations, satellite and online. Known for flagship programs such as "Newshour", "World Business Report" and "The Documentary".
-  sources: internal knowledge only (homepage fetch blocked)
-curation: 0.6
+  operator: BBC (British Broadcasting Corporation), London
+  affiliations: UK public service broadcaster under Royal Charter; funded by the TV licence fee plus FCDO grant-in-aid and limited commercial income
+  audience: Global English-speaking audience seeking international news; 450 million weekly reach across all World Service languages
+  format: 24-hour international news, current affairs, documentaries, business, science and sport in English
+  notes: BBC World Service is the BBC's international broadcaster, launched on 19 December 1932 as the Empire Service and based at Broadcasting House in London since 2012. It broadcasts in English and 27 other languages, reaching around 450 million people weekly in 2024 across radio, TV and online, making it the world's largest international broadcaster. Funding moved from Foreign Office grant-in-aid to the licence fee in 2014, now supplemented by about £254 million a year from the FCDO; in 2025 the government agreed an 8% increase over three years after cut proposals. Flagship programmes include Newsday, Newshour, World Business Report and The Documentary. This entry is the English-language international stream.
+  sources: https://en.wikipedia.org/wiki/BBC_World_Service; https://www.bbc.co.uk/programmes/w172xzjgf6lxp7y
+curation: 0.95
 provenance:
   - radiobrowser-98adecf7-2683-4408-9be7-02d3f9098eb8
   - iprd-gb-bbc-world-service-2ca27772

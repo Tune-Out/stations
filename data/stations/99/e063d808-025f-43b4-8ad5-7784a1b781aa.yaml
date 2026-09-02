@@ -35,6 +35,7 @@ curation: 0.2
 provenance:
   - radiobrowser-e063d808-025f-43b4-8ad5-7784a1b781aa
   - iprd-gb-smooth-chill-27397418
+  - radiobrowser-f4233c30-3f03-4ed4-9408-642f79725352
 streams:
   - url: http://icecast.thisisdax.com/SmoothChill
     codec: AAC
@@ -43,5 +44,8 @@ streams:
     codec: MP3
     bitrate: 128
   - url: https://media-ssl.musicradio.com/ChillMP3
+    codec: MP3
+    bitrate: 128
+  - url: 'http://media-ice.musicradio.com/ChillMP3'
     codec: MP3
     bitrate: 128

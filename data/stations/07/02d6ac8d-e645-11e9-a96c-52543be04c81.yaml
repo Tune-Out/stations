@@ -33,3 +33,11 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-02d6ac8d-e645-11e9-a96c-52543be04c81
+  - radiobrowser-7be383ff-95c1-11e9-a605-52543be04c81
+streams:
+  - url: 'http://cast.mgtradio.net:8010//stream//1//%22'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://cast.mgtradio.net:8010/;'
+    codec: AAC+
+    bitrate: 64

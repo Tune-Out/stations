@@ -1,8 +1,8 @@
 stationuuid: 960c1c0e-0601-11e8-ae97-52543be04c81
-name: Kulturradio
+name: radio3 (rbb)
 url: http://kulturradio.de/live.m3u
 url_resolved: http://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high
-homepage: http://www.kulturradio.de/
+homepage: https://www.radiodrei.de/
 favicon: http://www.kulturradio.de/content/dam/rbb/rbb/logos/touch/radio3-128.png
 tags:
   - classical
@@ -26,14 +26,14 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RBB (Rundfunk Berlin-Brandenburg), part of ARD
-  affiliations: ARD (public broadcasting); German public radio
-  audience: Classical music and culture enthusiasts; Berlin; German-speaking
-  format: Classical music, cultural programming, features, information
-  notes: Kulturradio is the cultural channel of RBB (Rundfunk Berlin-Brandenburg), the public broadcaster for Berlin and Brandenburg. Part of ARD (Associated Broadcasting Companies). Focuses on classical music and cultural affairs.
-  sources: internal knowledge only
+  operator: Rundfunk Berlin-Brandenburg (rbb), ARD
+  affiliations: ARD
+  audience: Culture and classical listeners in Berlin and Brandenburg
+  format: Culture, classical music, features, literature, arts news
+  notes: radio3 is the culture channel of Rundfunk Berlin-Brandenburg (rbb), the ARD public broadcaster for Berlin and Brandenburg. It launched on 1 December 2003 as Kulturradio, was renamed rbbKultur on 6 May 2019 and rebranded as radio3 on 2 April 2024 with a programme reform that introduced a topical, classical-free morning show while keeping classical music, features, literature and arts coverage through the rest of the day. It is available on FM, DAB+, cable, satellite and online, and funded by the German household broadcasting fee.
+  sources: https://de.wikipedia.org/wiki/RbbKultur; https://www.radiodrei.de/
 curation: 0.75
 provenance:
   - radiobrowser-960c1c0e-0601-11e8-ae97-52543be04c81

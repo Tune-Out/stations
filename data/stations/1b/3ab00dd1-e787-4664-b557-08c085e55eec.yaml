@@ -36,6 +36,7 @@ provenance:
   - radiobrowser-3ab00dd1-e787-4664-b557-08c085e55eec
   - iprd-ro-radio-romania-muzical-a88e95e2
   - iprd-ro-radio-romania-muzical-24430b60
+  - radiobrowser-afa2c57c-5159-4029-8dce-177697dd2957
 streams:
   - url: http://stream2.srr.ro:8026/
     codec: AAC+
@@ -43,3 +44,7 @@ streams:
   - url: http://stream2.srr.ro:8022/
     codec: MP3
     bitrate: 256
+  - url: 'http://stream2.srr.ro:8020/listen.pls'
+    url_resolved: 'http://stream2.srr.ro:8020/'
+    codec: MP3
+    bitrate: 128

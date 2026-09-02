@@ -41,3 +41,12 @@ research:
 curation: 0.25
 provenance:
   - radiobrowser-7f055de2-ac1e-43b9-905e-a0352946d012
+  - radiobrowser-2834cdca-19c7-420c-914c-21b241ad8ca0
+  - iprd-us-rockradio-f036369c
+streams:
+  - url: 'http://listen.mrg.fm:8080/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://62.149.196.16:8080/stream'
+    codec: MP3
+    bitrate: 128

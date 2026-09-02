@@ -31,10 +31,15 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-5a4eb5bc-7fbd-43fb-a6a4-cc4517ce6ac4
+  - radiobrowser-3c5dc353-b1ce-43be-a361-ae555535a2b0
+  - iprd-jp-j1-hits-6c2d897f
 streams:
   - url: https://jenny.torontocast.com:2000/stream/J1HITS?_=184325
     codec: MP3
     bitrate: 128
   - url: https://jenny.torontocast.com:2000/stream/J1HITS?_=538100
+    codec: MP3
+    bitrate: 128
+  - url: 'http://jenny.torontocast.com:8056/'
     codec: MP3
     bitrate: 128

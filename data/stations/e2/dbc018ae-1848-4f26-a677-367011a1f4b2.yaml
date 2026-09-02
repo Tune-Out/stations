@@ -23,15 +23,15 @@ clickcount: 36
 geo_lat: 38.75880988912455
 geo_long: -9.117994196712973
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RTP (Rádio e Televisão de Portugal — Portuguese public broadcasting company)
-  affiliations: Portuguese government; publicly funded through license fees
-  audience: Portuguese-speaking audiences in Portugal; general population; news and sports listeners
-  format: General interest public radio with news, current affairs, information, talk, sports programming, and entertainment
-  notes: RTP is Portugal's public broadcaster founded 1957. Antena 1 is their flagship general interest radio channel. Publicly funded model providing comprehensive news and information coverage. Major radio network with nationwide reach in Portugal. Sports coverage emphasis.
-  sources: internal knowledge only
-curation: 0.6
+  operator: RTP – Rádio e Televisão de Portugal
+  affiliations: Portuguese public service broadcasting; EBU member
+  audience: General Portuguese-speaking audience in Portugal and Lusophone territories
+  format: 'Generalist public radio: news, current affairs, sport, culture, Portuguese music'
+  notes: Antena 1 is the flagship generalist channel of RTP, Portugal's public service broadcaster, and traces its lineage to Emissora Nacional, which began broadcasting on 4 August 1935. It carries national news and current affairs, live sport, cultural strands and a music policy weighted toward Portuguese and Lusophone artists, with signature programmes such as 'Alma Lusa' and 'Vozes da Lusofonia'. The service is carried on FM across the country, including 95.7 MHz in Lisbon, on medium wave in mainland Portugal and the Azores, and on 103.1 MHz in Timor-Leste. It is funded through RTP as a state-owned public broadcaster. The HLS stream from rtp.pt is live.
+  sources: https://pt.wikipedia.org/wiki/Antena_1_(Portugal); https://www.rtp.pt/play/direto/antena1
+curation: 0.85
 provenance:
   - radiobrowser-dbc018ae-1848-4f26-a677-367011a1f4b2
   - iprd-pt-rtp-antena-1-36f95a51

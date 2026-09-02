@@ -22,15 +22,16 @@ clickcount: 14
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Pinguin Radio B.V. (independent Dutch broadcaster, Amsterdam)
-  affiliations: none known
-  audience: Dutch and international adults who follow alternative, indie pop and indie rock music
-  format: Alternative / indie pop / indie rock automated music channel within the Pinguin Radio multi-stream network
-  notes: Pinguin Radio is a long-running Amsterdam-based independent online radio operator that started as a hobby project around 2007 and grew into a portfolio of more than thirty themed channels (Pinguin Classics, Pinguin Indie, Pinguin Jazz, Pinguin Soul, etc.), positioning itself as a curator-driven "discover new artists and their music" service distinct from the public broadcaster NPO and commercial Talpa/DPG networks. The Indie channel focuses on guitar-led alternative and indie pop/rock from Dutch, British and American acts.
-  sources: https://pinguinradio.com/, internal knowledge
-curation: 0.6
+  reviewed_at: 2026-09-02
+  nature: non-commercial
+  operator: Stichting Pinguin Radio (non-profit, Netherlands)
+  affiliations: none known; successor community of Kink FM
+  audience: Dutch and international alternative/indie listeners
+  format: Alternative and indie rock/pop, new-artist discovery, presenter-curated
+  notes: 'Pinguin Indie is the flagship alternative/indie channel of Pinguin Radio, a Dutch non-profit online station founded on 1 October 2011 by former staff and listeners of the defunct Kink FM. Run largely by volunteers, with unpaid board members and income from listener donations, merchandise, web advertising and venue and festival sponsorships reinvested in the station, it grew to more than 400,000 monthly listeners by 2018 and now offers a dozen themed channels (Classics, On The Rocks, Pop, Aardschok, Pluche, Blues, Grooves, Fiesta, Vintage, World, Showcase). The Indie stream mixes guitar-led alternative and indie pop/rock from Dutch, British and American acts with an emphasis on new-artist discovery. The ''commercial'' classification in the earlier notes is wrong: it is a non-profit foundation. This 192 kbps feed appears to be a bitrate variant of the main Pinguin Radio stream already in the catalog.'
+  sources: https://nl.wikipedia.org/wiki/Pinguin_Radio; https://pinguinradio.com/; stream ICY metadata
+curation: 0.49
+duplicate_of: 962e8aac-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-e25dbef6-533c-4d49-8c2f-b425eda28764
   - iprd-nl-pinguin-indie-e3c7f5c2

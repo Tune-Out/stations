@@ -43,3 +43,12 @@ curation: 0.2
 provenance:
   - radiobrowser-a5fb052e-59ff-11e9-a622-52543be04c81
   - iprd-ru-radio-passazh-1151365f
+  - radiobrowser-a46a98c5-ee12-44ff-9a5b-01eb503007eb
+  - iprd-ru-radio-passazh-493ce182
+streams:
+  - url: 'http://listen.radiopassazh.ru/aac-48'
+    codec: AAC
+    bitrate: 64
+  - url: 'http://listen.radiopassazh.ru/aac-64'
+    codec: AAC
+    bitrate: 64

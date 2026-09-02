@@ -1,5 +1,5 @@
 stationuuid: d00d02b5-16cc-11e9-a80b-52543be04c81
-name: Chocolate FM [calidad móvil-low bandwidth]
+name: Chocolate FM
 url: http://streaming5.elitecomunicacion.es:8082/live32.aac
 url_resolved: http://streaming5.elitecomunicacion.es:8082/live32.aac
 homepage: https://www.chocolatefm.com/
@@ -28,15 +28,15 @@ clickcount: 9
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Chocolate FM (independent station, Málaga, Andalusia, Spain)
-  affiliations: none known
-  audience: Spanish-speaking youth and young adults across Andalusia and Spanish-speaking Latin America
-  format: CHR / Top 40 with a heavy focus on Latin urban music — reggaeton, pop latino, trap, dance and dembow hits.
-  notes: Chocolate FM is an independent Spanish music station broadcasting from Málaga in Andalusia and streaming worldwide via multiple bitrates (HD, normal and mobile/low-bandwidth, as in this 32 kbps AAC+ feed). Its programming tagline "¡Y dime que te gusta!" ("And tell me what you like!") emphasises listener interactivity, and the station is recognisable for its tightly looped reggaeton, Latin trap and contemporary pop hits aimed at a younger demographic. Streaming infrastructure is provided by Elite Comunicación.
-  sources: https://www.chocolatefm.com/, internal knowledge
-curation: -0.05
+  operator: Chocolate FM (independent broadcaster, Málaga, Andalusia); streaming by Elite Comunicación
+  affiliations: none known; advertising-funded
+  audience: Young Spanish-speaking listeners in Andalusia and internationally
+  format: Latin urban CHR — reggaeton, Latin pop and trap, dembow and dance hits
+  notes: 'Chocolate FM is an independent Spanish commercial music station based in Málaga, Andalusia, streaming worldwide alongside its local FM signal. The format is Latin-leaning CHR: reggaeton, Latin pop and trap, dembow, dance and international chart hits aimed at a young audience, under the slogan "¡Y dime que te gusta!". Streaming is delivered through Elite Comunicación at several bitrates — a 320k and 192k MP3 feed plus this 32k AAC+ mobile/low-bandwidth variant — and it is funded by advertising. This catalog entry is the canonical record for the Chocolate FM cluster, which also carries HD and standard-quality duplicate entries. The station''s website was live at the time of review.'
+  sources: https://www.chocolatefm.com/
+curation: 0.05
 provenance:
   - radiobrowser-d00d02b5-16cc-11e9-a80b-52543be04c81
   - iprd-es-chocolate-fm-eeaf8339

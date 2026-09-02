@@ -1,5 +1,5 @@
 stationuuid: 6528b83c-2bb7-4e91-8743-946f7b717e46
-name: 5LCM Lofty 88.9
+name: Lofty 88.9
 url: https://stream.sigile.net/lofty-24-aac
 url_resolved: https://stream.sigile.net/lofty-24-aac
 homepage: https://encrypted-tbn0.gstatic.com
@@ -22,14 +22,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/au/au.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: Lofty FM community broadcasting association
+  affiliations: Australian community radio sector
+  audience: Adelaide Hills, South Australia
+  format: Alternative music, community programming
+  notes: 5LCM Lofty 88.9 is a community radio station based in the Adelaide Hills/Mount Lofty area of South Australia, airing an alternative-music format alongside local community content typical of Australian licensed community broadcasters.
+  sources: 'IPRD: streams/au/au.m3u'
+curation: 0.20
+duplicate_of: 93163155-4352-4223-8b97-73185c990809
 provenance:
   - iprd-au-5lcm-lofty-88-9-02cbf0ca

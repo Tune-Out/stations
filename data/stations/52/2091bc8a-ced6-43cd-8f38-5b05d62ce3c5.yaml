@@ -24,15 +24,15 @@ clickcount: 5
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
+  reviewed_at: 2026-09-02
+  nature: online-only
   operator: Bad Rock Radio (independent Bulgarian internet station, streamed via jump.bg infrastructure)
   affiliations: none known
   audience: International hard rock and heavy metal fans (English-language playlist; Bulgarian operator)
   format: Hard rock, heavy metal, power metal, hardcore and heavy power metal at 320 kbps MP3
-  notes: Bad Rock Radio (badrockradio.net) is a Bulgaria-based internet-only specialty rock/metal stream operated as part of the Bad Rock Radio Network (which also runs themed sub-streams); high-bitrate (320 kbps) signals a fan-/audiophile-oriented operation rather than a licensed FM service; homepage returned HTTP 403 to automated fetchers but is reachable to standard browsers.
-  sources: internal knowledge only
-curation: 0.4
+  notes: BadRock Hard & Heavy is a Bulgaria-based internet-only rock/metal stream, part of the multi-channel Bad Rock Radio Network (badrockradio.net) hosted on jump.bg infrastructure. It runs a dedicated 320 kbps hard-rock/heavy-metal/hardcore playlist alongside the network's other themed sub-streams, an independent, listener-oriented specialist format rather than a licensed FM broadcaster.
+  sources: https://badrockradio.net/
+curation: 0.36
 provenance:
   - radiobrowser-2091bc8a-ced6-43cd-8f38-5b05d62ce3c5
 streams:

@@ -39,3 +39,10 @@ curation: 0.5
 provenance:
   - radiobrowser-b11e885d-e303-44ae-9db6-5ed3d6ec2947
   - iprd-es-radio-malva-104-9-ddbba2bf
+  - radiobrowser-7752b865-b3af-4555-8600-4d63904c2290
+streams:
+  - url: 'http://radiomalva.ddns.net:8000/rmbc.ogg'
+    codec: OGG
+  - url: 'http://radiomalva.ddns.net:8000/rmbc.mp3'
+    codec: MP3
+    bitrate: 128

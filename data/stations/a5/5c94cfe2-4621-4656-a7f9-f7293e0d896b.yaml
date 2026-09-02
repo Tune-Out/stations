@@ -25,15 +25,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
-  nature: public broadcaster
-  operator: Belarusian National State Broadcasting Company
-  affiliations: state-funded cultural broadcaster
-  audience: Belarus Belarusian-speaking listeners interested in classical and cultural programming
-  format: Classical music, Belarusian folklore, cultural programming, educational content
-  notes: State-funded public broadcasting channel of Belarus ("Культура" = Culture channel). Focuses on classical music, national folklore, cultural preservation, and educational programming for Belarusian audience.
-  sources: internal knowledge only
-curation: 0.55
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: Belteleradiocompany (Belarusian State TV and Radio Company)
+  affiliations: Belarusian state broadcaster; EU-sanctioned entity since 2022
+  audience: Belarusian-speaking listeners interested in arts and classical music
+  format: classical and jazz music, radio drama, literature, arts talk
+  notes: 'Kanal Kultura is the cultural channel of Belarusian Radio, run by the state Belteleradiocompany. Launched 1 January 2002 as Belarus''s first specialised station, it broadcasts in Belarusian on 102.9 FM in Minsk and regional FM frequencies covering over 99.5% of the population. Programming centres on classical and jazz music, radio drama, literary readings, children''s tales and arts discussion under the motto ''we choose eternal values''. The datacenter.by stream currently returns a 502 error. Editorial flag: Operated by Belteleradiocompany (BTRC), the Belarusian state broadcaster placed on EU, Canadian, Swiss and Ukrainian sanctions lists in 2022 for its role in the Lukashenko regime''s propaganda; this particular channel is cultural rather than political.'
+  sources: https://radiokultura.by/; https://www.radiokultura.by/ru/content/chastoty-kanal; https://vkl-radio.com/kanal-kultura-belradio; https://en.wikipedia.org/wiki/Belarusian_Television_and_Radio_Company
+curation: -0.30
 provenance:
   - radiobrowser-5c94cfe2-4621-4656-a7f9-f7293e0d896b
   - iprd-by-br-channel-culture-70-43-402511a4

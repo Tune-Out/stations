@@ -34,3 +34,11 @@ research:
 curation: 0.3
 provenance:
   - radiobrowser-96425c43-0601-11e8-ae97-52543be04c81
+  - iprd-us-wky-930-espn-deportes-521a896e
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/WKYAM.pls'
+    url_resolved: 'http://24153.live.streamtheworld.com:80/WKYAM_SC'
+    codec: MP3
+    bitrate: 80
+  - url: 'https://playerservices.streamtheworld.com/pls/WKYAM.pls'
+    url_resolved: 'https://14933.live.streamtheworld.com:443/WKYAM_SC'

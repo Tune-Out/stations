@@ -3,7 +3,7 @@ name: Goldy Evergreen
 url: https://stream.zeno.fm/n2fd0edh9k8uv
 url_resolved: https://stream.zeno.fm/n2fd0edh9k8uv
 homepage: https://zeno.fm/goldy-fm/
-favicon: ""
+favicon: https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ16Ll_QkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ18OexAgMogEEemVubw/image/?u=1694850552000
 tags: []
 country: India
 countrycode: IN
@@ -20,15 +20,15 @@ clickcount: 124
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Independent broadcaster operating via Zeno.FM streaming platform (Zeno Media LLC, New York); Zeno is a free user-generated streaming host so the station is operator-curated, not a licensed terrestrial FM
-  affiliations: none known (no religious, governmental, or political ties identified)
-  audience: Indian / South Asian diaspora audiences; primarily Hindi-speaking listeners who enjoy classic Hindi film songs ("evergreen" Bollywood golden-era music from 1950s-1980s)
-  format: Hindi golden-oldies / evergreen Bollywood film music - classic playback singers (Lata Mangeshkar, Mohammed Rafi, Kishore Kumar, Asha Bhosle, Mukesh) and vintage filmi gaane
-  notes: '"Goldy FM" / "Goldy Evergreen" is one of many small independent Indian internet radio brands distributed through Zeno.FM; Zeno.FM listing returned 404 at fetch time suggesting the specific page slug may have changed; high vote count (25k+) likely reflects automated voting common on Zeno listings; no terrestrial license known'
-  sources: internal knowledge (Zeno.FM page returned 404)
-curation: 0.4
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Goldy FM Network (Dholera, Ahmedabad district, Gujarat, India) via Zeno.FM
+  affiliations: none known; sister Zeno streams Goldy Cool, Goldy Mukesh, Goldy Classic, Goldy Blast
+  audience: Hindi and Gujarati speakers in India and the diaspora who like golden-era film songs
+  format: Non-stop evergreen Hindi film songs (1950s-1980s), 90s hits and old Gujarati songs; music-only, donation-supported
+  notes: GOLDY Evergreen is an Indian internet-only station on the Zeno.FM platform, run by the small Goldy FM Network from Sangasar village near Dholera in Gujarat's Ahmedabad district. It plays non-stop evergreen Hindi film music from the golden era of Lata Mangeshkar, Mohammed Rafi, Kishore Kumar and Mukesh, with some 1990s hits and old Gujarati songs, and has no talk programming. The Zeno listing (zeno.fm/radio/goldy-fm) is live and carries PayPal donation links; the catalog's homepage path zeno.fm/goldy-fm/ returns 404. The Zeno stream URL returned HTTP 401 to automated checks, which may reflect Zeno's token requirements rather than a dead station. The very high vote count is out of proportion to a small hobby stream.
+  sources: https://zeno.fm/radio/goldy-fm/; https://www.radioindia.in/goldy-evergreen; https://indiaradio.in/goldy-evergreen-fm-radio/
+curation: 0.19
 provenance:
   - radiobrowser-33fcdf94-5605-49bb-8e34-206f38c335dc
   - iprd-in-goldy-evergreen-28f8c7a8

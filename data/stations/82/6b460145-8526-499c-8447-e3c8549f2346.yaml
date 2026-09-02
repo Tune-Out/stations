@@ -36,10 +36,15 @@ provenance:
   - radiobrowser-6b460145-8526-499c-8447-e3c8549f2346
   - iprd-hr-laganini-fm-9fe614f3
   - iprd-hr-laganini-fm-967260dd
+  - radiobrowser-50678df9-1924-4eca-9629-bc760deae91a
+  - iprd-hr-laganini-fm-e1512850
 streams:
   - url: http://194.145.208.251:8000/start/lfmzg
     codec: MP3
     bitrate: 128
   - url: http://194.145.208.251:8004/stream?type=http&nocache=149
+    codec: MP3
+    bitrate: 128
+  - url: 'http://194.145.208.251:8004/start/lfmri'
     codec: MP3
     bitrate: 128

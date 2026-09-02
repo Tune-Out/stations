@@ -38,3 +38,11 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-0f790e00-fd3b-431f-9b7e-047fac185cdb
+  - radiobrowser-6678d986-771c-493d-b578-6e1afedc12a2
+streams:
+  - url: 'https://s7.yesstreaming.net/stream/8000'
+    codec: MP3
+    bitrate: 160
+  - url: 'http://s3.yesstreaming.net:7062/stream'
+    codec: MP3
+    bitrate: 160

@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/hn/hn.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: unknown local operator
+  affiliations: ''
+  audience: General Honduran local listeners
+  format: Latin/reggaeton
+  notes: Radio W107 is a small commercial FM station in Honduras playing latin and reggaeton music for a local/regional audience. Little independent documentation exists beyond its own homepage and stream aggregator listings.
+  sources: no web sources found beyond YAML metadata
+curation: -0.03
 provenance:
   - iprd-hn-radio-w107-107-3-ba0fbc76

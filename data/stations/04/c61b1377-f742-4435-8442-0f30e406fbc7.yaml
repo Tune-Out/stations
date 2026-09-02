@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/bf/bf.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: Independent Burkinabé commercial broadcaster
+  affiliations: Zeno.fm
+  audience: General Burkina Faso news/talk listeners
+  format: News/talk
+  notes: Savane FM is a private commercial news/talk radio station broadcasting from Ouagadougou, Burkina Faso, distributed online via the Zeno.fm platform.
+  sources: no web sources found beyond YAML metadata
+curation: 0.05
 provenance:
   - iprd-bf-savane-103-4-a190e45d

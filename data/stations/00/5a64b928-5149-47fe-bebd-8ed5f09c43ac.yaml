@@ -34,3 +34,12 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-5a64b928-5149-47fe-bebd-8ed5f09c43ac
+  - radiobrowser-7da05526-9313-438b-bac5-9a2859caef23
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3'
+    url_resolved: 'https://23163.live.streamtheworld.com:443/3MBS.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/3MBS_DAB'
+    url_resolved: 'http://23203.live.streamtheworld.com:80/3MBS_DAB'
+    codec: FLV

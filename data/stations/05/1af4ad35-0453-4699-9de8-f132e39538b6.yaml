@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/es/es.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: PRISA (Cadena SER)
+  affiliations: Cadena SER national network
+  audience: Castellón, Spain news/talk listeners
+  format: News/talk
+  notes: SER Castellón is the local Castellón, Spain affiliate of Cadena SER, Spain's leading commercial news/talk radio network owned by PRISA, carrying a mix of national SER programming and local news/talk inserts.
+  sources: no web sources found beyond YAML metadata (Cadena SER homepage could not be fetched)
+curation: 0.30
 provenance:
   - iprd-es-ser-castell-n-d76aa2fa

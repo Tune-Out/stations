@@ -2,7 +2,7 @@ stationuuid: edc133eb-0736-4056-a955-2f02fdc8c0e2
 name: الجزيرة صوت
 url: https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
 url_resolved: https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
-homepage: ""
+homepage: https://www.aljazeera.net/
 favicon: https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/250px-Aljazeera.svg.png
 tags:
   - news
@@ -21,15 +21,15 @@ clickcount: 55
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: state broadcaster
-  operator: Al Jazeera Media Network (based in Qatar, state-funded international broadcaster)
-  affiliations: Government of Qatar; state broadcaster funded by Qatari government
-  audience: Arabic-speaking listeners across Middle East and worldwide; news-focused audience
-  format: News, current affairs, and commentary radio programming in Arabic
-  notes: Arabic-language audio service operated by Al Jazeera (الجزيرة), the Qatari state-funded international news network; streams via HLS from getaj.net infrastructure; focuses on news and current affairs coverage; accessible to Arabic-speaking audience globally; state-owned and state-funded broadcaster with international reach
-  sources: internal knowledge only
-curation: 0.45
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: Al Jazeera Media Network
+  affiliations: Funded by the Government of Qatar
+  audience: Arabic-speaking news audiences in the Middle East, North Africa and the diaspora
+  format: 24-hour Arabic news and current affairs (audio simulcast of the Al Jazeera Arabic TV channel)
+  notes: 'الجزيرة صوت is the audio-only HLS feed ("VOICE-AJA") of Al Jazeera Arabic, the flagship Arabic-language news channel of the Al Jazeera Media Network based in Doha, Qatar. The channel launched on 1 November 1996 with funding from the Emir of Qatar and remains state-funded while asserting editorial independence; it broadcasts 24-hour news, current affairs and debate shows such as The Opposite Direction to Arabic speakers across the Middle East and worldwide. Al Jazeera Arabic is influential but contested: it has been banned in Egypt since 2013 and in Israel since April 2024, was dropped by major Swiss providers in January 2026 over alleged Hamas propaganda, and is often described as more partisan than its English sister channel. The stream lets listeners follow the TV channel as radio.'
+  sources: https://en.wikipedia.org/wiki/Al_Jazeera_Arabic; https://www.aljazeera.net/
+curation: 0.35
 provenance:
   - radiobrowser-edc133eb-0736-4056-a955-2f02fdc8c0e2
   - iprd-qa-al-jazeera-876248e7

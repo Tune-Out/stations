@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pl/pl.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: religious
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Radio Jasna Góra is a Polish Catholic station operated by the Pauline order at the Jasna Góra monastery in Częstochowa, mixing prayer, religious talk, and popular/sacred music for a national Catholic audience.
+  sources: https://radiojasnagora.pl
+curation: 0.15
+duplicate_of: 960d9954-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-pl-radio-jasna-gora-100-6-2ef427a3

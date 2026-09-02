@@ -20,15 +20,15 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: ABC (Australian Broadcasting Corporation)
-  affiliations: Government public broadcasting (Australia)
-  audience: Australian sports fans and audiences interested in sports commentary
-  format: Sports programming, news, and sports talk content
-  notes: ABC Sport is a programming stream from Australian Broadcasting Corporation; provides sports coverage, analysis, and commentary; part of public broadcasting
-  sources: http://www.abc.net.au/sport/, internal knowledge only
-curation: 0.65
+  operator: Australian Broadcasting Corporation (ABC)
+  affiliations: ABC digital radio network; Australian public broadcaster
+  audience: Australian sport fans nationwide
+  format: Live sport commentary, sport news and talk
+  notes: ABC Sport is the Australian Broadcasting Corporation's national sport radio service (formerly ABC Grandstand Digital), carried on DAB+ and as a live stream. It offers live commentary of cricket, AFL, NRL, football and Olympic events together with sport news and talk, drawing on the ABC's Grandstand commentary teams. The mediahubaustralia GSDW stream is the ABC's own distribution feed.
+  sources: https://www.abc.net.au/news/sport; https://www.abc.net.au/listen
+curation: 0.54
 provenance:
   - radiobrowser-697fa261-f056-492a-b7a2-333295d5b9ab
   - iprd-au-abc-sport-61ddbcb4

@@ -37,3 +37,11 @@ curation: 0.35
 provenance:
   - radiobrowser-9629351f-0601-11e8-ae97-52543be04c81
   - iprd-it-radio-latina-033a225d
+  - radiobrowser-ce0a1889-569b-422f-accb-d33a4744f83b
+streams:
+  - url: 'http://nr8.newradio.it:9097/;'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://media.velcom.it:8014/radiolatina'
+    codec: MP3
+    bitrate: 256

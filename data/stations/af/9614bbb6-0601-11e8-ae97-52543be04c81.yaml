@@ -23,15 +23,23 @@ clickcount: 21
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Global / Wireless Group (part of larger UK radio conglomerate)
+  operator: Global Media & Entertainment
   affiliations: none known
-  audience: UK listeners; political talk audience
-  format: Political talk, current affairs, news and discussion programming
-  notes: LBC (London Broadcasting Company) operates as commercial UK talk radio; historically serves London and southeast; long-established station with high vote count (51,538)
-  sources: internal knowledge only
-curation: -0.05
+  audience: UK news and opinion listeners, London and national
+  format: news, current affairs and phone-in talk
+  notes: LBC ('Leading Britain's Conversation', originally London Broadcasting Company) is the UK's first licensed commercial radio station, launched on 8 October 1973, and is now owned by Global Media & Entertainment. It broadcasts on 97.3 FM in London and nationally on DAB, TV platforms and online, with a phone-in and talk format built around news and current affairs. Presenters include Nick Ferrari, James O'Brien, Iain Dale, Vanessa Feltz and Andrew Marr; past hosts included Nigel Farage. RAJAR reported a record 3.6 million weekly listeners in Q1 2026, and a sister rolling-news service LBC News operates alongside it. This catalog stream is the low-bitrate 48 kbps feed.
+  sources: https://en.wikipedia.org/wiki/LBC; https://global.com/radio/lbc/; https://www.atvtoday.co.uk/285004-global-radio/; https://www.lbc.co.uk/
+curation: 0.45
 provenance:
   - radiobrowser-9614bbb6-0601-11e8-ae97-52543be04c81
   - iprd-gb-lbc-radio-307a5b6e
+  - radiobrowser-961917f2-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://media-sov.musicradio.com/LBC973MP3Low'
+    codec: MP3
+    bitrate: 48
+  - url: 'http://media-sov.musicradio.com/LBCLondon'
+    codec: AAC
+    bitrate: 48

@@ -34,3 +34,11 @@ research:
 curation: 0.1
 provenance:
   - radiobrowser-4a1a7199-a7ec-435d-9835-7387b4941750
+  - radiobrowser-af31308a-5407-4f53-9986-50b01b8ce933
+streams:
+  - url: 'https://90116.web.hosting-russia.ru/listen/space_beat/mobile.aac'
+    codec: AAC
+    bitrate: 64
+  - url: 'https://90116.web.hosting-russia.ru/listen/space_beat/radio.mp3'
+    codec: MP3
+    bitrate: 128

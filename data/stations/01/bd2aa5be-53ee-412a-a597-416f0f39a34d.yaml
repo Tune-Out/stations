@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/au/au.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Power100 Townsville
+  affiliations: ''
+  audience: Townsville, Queensland
+  format: rock/local news
+  notes: Power100 is a commercial FM station in Townsville, Queensland, Australia, billing itself as 'first in local news and music' for the region. It is an independent regional commercial broadcaster with a rock-leaning playlist.
+  sources: https://14023.live.streamtheworld.com:443/TOW_POWER100AAC.aac
+curation: 0.10
+duplicate_of: d1262f5e-7f24-4190-8865-fd1fafb2bed4
 provenance:
   - iprd-au-power100-100-7-3419ad23

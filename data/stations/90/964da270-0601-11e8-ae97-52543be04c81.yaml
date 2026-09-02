@@ -23,18 +23,19 @@ clickcount: 17
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Unknown — independent Russian-language webradio operated under the "rusongs.ru" / "Radio Russian Songs" brand
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: rusongs.ru (undisclosed Moscow internet radio project)
   affiliations: none known
-  audience: Russian-speaking diaspora and domestic listeners nostalgic for traditional and popular Russian songs; primarily adults
-  format: 24/7 stream of Russian-language popular music ("русские песни") — Soviet estrada, classic Russian pop, romances and contemporary Russian pop hits; non-stop, largely DJ-less programming
-  notes: Radio Russkie Pesni ("Russian Songs Radio") is a long-running internet-only Russian-language music station accessible at rusongs.ru, part of a wider family of niche genre-focused Russian webradios; programming centres on the Russian-language popular song tradition rather than Western or rap content; no notable government, religious or political affiliation identified, and the operator is not publicly disclosed; popular among the Russian-speaking diaspora worldwide as reflected by the very high vote count on community directories.
-  sources: internal knowledge only
-curation: 0.45
+  audience: Russian-speaking pop listeners in Russia and diaspora
+  format: Contemporary Russian pop hits, automated
+  notes: Radio Russkie Pesni (Russian Songs Radio, rusongs.ru) is a Moscow-based internet-only station that has streamed since 14 July 2014 and holds Russian mass-media registration FS77-58549. It plays contemporary Russian-language pop, rock and dance hits around the clock with no presenters, offering 64, 128 and 160 kbps streams, and is distributed through aggregators such as OnlineRadioBox, myTuner, TuneIn and Radiopotok. The operating company is not disclosed on the site beyond a contact email and Moscow phone number; the earlier description of Soviet estrada and romances is inaccurate, as the station positions itself as modern Russian popular music.
+  sources: https://rusongs.ru/; https://radio.pp.ru/russian-songs/; https://mytuner-radio.com/radio/radio-russkie-pesni-russian-songs-radio-rusongs-438689/
+curation: 0.21
 provenance:
   - radiobrowser-964da270-0601-11e8-ae97-52543be04c81
   - iprd-ru-radio-russkiye-pesni-798a4eda
+  - radiobrowser-67868e42-bc30-4d97-8db7-f214c38166c5
 streams:
   - url: http://listen.rusongs.ru/ru-mp3-128
     codec: MP3
@@ -42,3 +43,6 @@ streams:
   - url: https://listen.rusongs.ru/ru-mp3-128
     codec: MP3
     bitrate: 128
+  - url: 'https://listen.rusongs.ru/ru-aac-64'
+    codec: AAC
+    bitrate: 64

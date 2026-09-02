@@ -36,6 +36,7 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-40532b34-f6a4-4009-b023-4110b8e7393f
+  - radiobrowser-23882169-5798-4f1d-b225-1b56c08a445e
 streams:
   - url: https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3
     codec: MP3
@@ -43,3 +44,6 @@ streams:
   - url: http://s5.radio.co/sca4082ebb/listen
     codec: MP3
     bitrate: 128
+  - url: 'https://icecast.multhielemedia.de/listen/kontrafunk/mobil'
+    codec: AAC
+    bitrate: 64

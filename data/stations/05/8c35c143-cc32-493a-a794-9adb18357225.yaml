@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/nl/nl.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: Omroep Heemskerk (likely)
+  affiliations: ''
+  audience: local Heemskerk, NL
+  format: folk/pop, local
+  notes: Catalog entry for a Dutch local station in Heemskerk whose listed stream (stream.rodney.it) is dead; the actual active Heemskerk local broadcaster is Omroep Heemskerk, a Dutch municipal/community broadcaster already in the catalog with its own working stream.
+  sources: catalog-names.tsv cross-check; stream check
+curation: -0.10
 provenance:
   - iprd-nl-radio-heemskerk-e359f9da

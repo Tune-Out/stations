@@ -21,14 +21,14 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
-  nature: non-commercial
-  operator: Radio Caprice (independent Russian streaming platform)
-  affiliations: none known
-  audience: English-speaking death metal and doom metal enthusiasts worldwide
-  format: Death metal and doom metal music; specialized extreme metal genres
-  notes: Radio Caprice operates extensive genre-specific channels including death doom metal; comprehensive metal music archive; no advertising model
-  sources: internal knowledge only
-curation: 0.6
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio Caprice (RADCAP), Russia
+  affiliations: one of several hundred Radio Caprice genre channels
+  audience: Extreme-metal fans worldwide
+  format: Death-doom metal, automated 24/7 playlist
+  notes: Radio Caprice (radcap.ru) is an independent Russian internet-radio project that runs several hundred narrowly defined genre channels without advertising, from EBM and K-pop to Slavonic folk. This channel plays death-doom metal continuously from an automated library; there are no presenters or live programming. The stream runs on a legacy SHOUTcast v1 server that answers browsers with an admin page but serves ICY audio to players.
+  sources: http://radcap.ru/; https://radio.menu/stations/radcap-ru-radcap/
+curation: 0.35
 provenance:
   - radiobrowser-962cabc8-0601-11e8-ae97-52543be04c81

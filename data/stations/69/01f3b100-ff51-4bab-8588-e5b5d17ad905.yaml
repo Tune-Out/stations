@@ -1,5 +1,5 @@
 stationuuid: 01f3b100-ff51-4bab-8588-e5b5d17ad905
-name: ZBS Zodiak FM
+name: Zodiak FM
 url: https://ice31.securenetsystems.net/0079
 url_resolved: https://ice31.securenetsystems.net/0079
 homepage: https://zodiakmalawi.com/live-radio
@@ -24,15 +24,15 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: ZBS / Malawi Broadcasting Corporation subsidiary
-  affiliations: none known
-  audience: English-speaking listeners in Malawi
-  format: Mixed entertainment, local music, news, and sport programming
-  notes: ZBS Zodiak FM is a Malawian commercial radio station focusing on entertainment, local music, news, and sports coverage. Serves the local Malawi market with AAC+ streaming. Community-oriented programming with emphasis on local content.
-  sources: internal knowledge only
-curation: 0.45
+  operator: Zodiak Broadcasting Station, owned by Gospel Kazako
+  affiliations: Privately owned; independent of the state broadcaster MBC
+  audience: Malawians nationwide, in Chichewa, Chitumbuka and English
+  format: News, current affairs and phone-in talk with local music and sport
+  notes: Zodiak Broadcasting Station is Malawi's leading private broadcaster, founded in 2005 by journalist Gospel Kazako and headquartered at ArtBridge House in Lilongwe. It is not a subsidiary of the state-owned Malawi Broadcasting Corporation, as the previous notes claimed. More than twenty-five transmitter sites give it national coverage, and roughly sixty percent of output is in Chichewa with further programming in Chitumbuka and English. Its reputation rests on news and current affairs, including the phone-in Tiuzeni Zoona and election reporting, alongside local music and sport, and it now runs television and online news services under the same brand with the slogan "Zikachitika, Mumvera Kwa Ife".
+  sources: https://en.wikipedia.org/wiki/Zodiak_Broadcasting_Station; https://zodiakmalawi.com/live-radio; stream header check on https://ice31.securenetsystems.net/0079
+curation: 0.35
 provenance:
   - radiobrowser-01f3b100-ff51-4bab-8588-e5b5d17ad905
   - iprd-mw-zbs-zodiak-fm-97-0-b89d2bb5

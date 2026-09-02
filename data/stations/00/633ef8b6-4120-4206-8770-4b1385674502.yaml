@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/rs/rs.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Szabadkai Magyar Rádió (Radio Subotica) is a Hungarian-language public radio service for the Hungarian minority community in Vojvodina, Serbia, part of the Pannon RTV/Vajdaság public broadcasting network. This particular stream endpoint is currently unreachable.
+  sources: https://pannonrtv.com
+curation: 0.30
+duplicate_of: 96393fe9-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-rs-szabadkai-magyar-radio-107-1-910269f5

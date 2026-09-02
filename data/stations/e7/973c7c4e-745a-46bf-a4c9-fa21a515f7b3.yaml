@@ -31,3 +31,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-973c7c4e-745a-46bf-a4c9-fa21a515f7b3
+  - radiobrowser-d7348196-a6ad-4881-9c7a-8393306b2bed
+streams:
+  - url: 'https://streamx.rph.ro:8100/relay;'
+    codec: MP3
+    bitrate: 320
+  - url: 'https://streamx.rph.ro:8100/relay'
+    codec: MP3
+    bitrate: 320

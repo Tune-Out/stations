@@ -1,5 +1,5 @@
 stationuuid: 960faea3-0601-11e8-ae97-52543be04c81
-name: Radio Szczecin (64K AAC)
+name: Radio Szczecin
 url: http://stream4.nadaje.com:11986/prs.aac
 url_resolved: http://stream4.nadaje.com:11986/prs.aac
 homepage: http://www.radio.szczecin.pl/
@@ -22,15 +22,16 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Polskie Radio (Polish public broadcasting)
-  affiliations: Polish state public broadcaster
-  audience: Szczecin, Poland; Polish-speaking; national public radio audience
-  format: Variety programming; news, music, entertainment, cultural content; public service format
-  notes: Radio Szczecin is operated by Polskie Radio (Polish Public Radio) and broadcasts from the city of Szczecin; offers general/variety format with news, music, and cultural content; part of Poland's public radio network; serves regional and national audiences.
-  sources: internal knowledge only
-curation: 0.5
+  operator: Polskie Radio Szczecin S.A. (Polish regional public radio)
+  affiliations: Polskie Radio regional network
+  audience: Szczecin and West Pomerania; Polish-speaking
+  format: Regional news, current affairs, culture, sport and music
+  notes: Polskie Radio Szczecin is the regional public broadcaster for West Pomerania, one of the seventeen regional companies of Poland's public radio system, broadcasting from Szczecin on 92.0 MHz and other regional frequencies. It carries regional news and current affairs, investigative and cultural journalism, sport and music for the Szczecin area, and also runs the Radio Szczecin Extra side service. This entry is the 64 kbit/s AAC relay of the main programme.
+  sources: http://www.radioszczecin.pl/
+curation: 0.54
+duplicate_of: 961b5bb7-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-960faea3-0601-11e8-ae97-52543be04c81
   - iprd-pl-radio-szczecin-92-0-88200d52

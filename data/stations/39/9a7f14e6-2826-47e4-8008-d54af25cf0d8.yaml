@@ -23,14 +23,28 @@ clickcount: 10
 geo_lat: 39.7240885773337
 geo_long: 32.86010742187501
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Hat Medya Yayıncılık Sanayi Ve Tic. A.ş. (Best MEDYA group)
   affiliations: none known
   audience: Turkish-speaking nostalgia listeners worldwide; primarily adults 35+
   format: Turkish nostalgia / classic hits with "geçmişten günümüze uzanan EN BABA şarkıları"
-  notes: Istanbul-based commercial nostalgia station founded May 4, 2011, broadcasting on 105.6 FM in Istanbul and via satellite (Digitürk Eutelsat 7C at 11513.00 MHz) plus mobile apps, with the slogan "BABANI DİNLE" (Listen to Your Father); known for Turkish classics interpreted by established artists.
-  sources: http://babaradyo.com/
-curation: -0.1
+  notes: Baba Radyo is an Istanbul-based commercial nostalgia station (founded 2011) broadcasting on 105.6 FM plus satellite and streaming, under the slogan "Babani Dinle" (Listen to Your Father). It specializes in Turkish classic songs reinterpreted or remembered from earlier decades, giving it a more specific identity than a generic top-40 outlet.
+  sources: http://babaradyo.com/; stream verified live
+curation: 0.07
 provenance:
   - radiobrowser-9a7f14e6-2826-47e4-8008-d54af25cf0d8
+  - radiobrowser-5af02e0b-d62e-4349-b315-107f51d6f1c8
+  - radiobrowser-c735707a-895b-4317-a173-f09a90f218ab
+  - iprd-tr-baba-radyo-105-6-aa0744c6
+streams:
+  - url: 'http://officialbabaradyo.radyotvonline.net/babaofficial'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8'
+    codec: AAC
+    bitrate: 64
+    hls: true
+  - url: 'http://46.20.7.116/'
+    codec: AAC+
+    bitrate: 64

@@ -34,3 +34,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-964b0870-0601-11e8-ae97-52543be04c81
+  - iprd-us-wqqo-hd2-talk-100-7-0aac03d0
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/WQQOHD2AAC.pls'
+    url_resolved: 'http://18153.live.streamtheworld.com:80/WQQOHD2AAC_SC'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://playerservices.streamtheworld.com/pls/WQQOHD2AAC.pls'
+    url_resolved: 'https://27153.live.streamtheworld.com:443/WQQOHD2AAC_SC'
+    codec: AAC
+    bitrate: 128

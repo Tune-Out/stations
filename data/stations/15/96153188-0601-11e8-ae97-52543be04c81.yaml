@@ -1,8 +1,8 @@
 stationuuid: 96153188-0601-11e8-ae97-52543be04c81
-name: WQXR New York Public Radio "Operavore" Stream
+name: WQXR Operavore
 url: http://opera-stream.wqxr.org/operavore-tunein
 url_resolved: http://opera-stream.wqxr.org/operavore-tunein
-homepage: http://www.wqxr.org/#!/blogs/operavore/
+homepage: https://www.wqxr.org/shows/operavorestream/
 favicon: https://media.wnyc.org/static/img/favicon_wqxr.ico
 tags:
   - classical
@@ -25,15 +25,15 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: The New York Public Library / WQXR
-  affiliations: The New York Public Library (non-profit)
-  audience: New York and northeastern United States, classical music and opera enthusiasts
-  format: Opera, classical music, and related programming
-  notes: WQXR is an iconic classical music station operated by NYPL; Operavore is a specialized blog and podcast series focused on opera; part of significant cultural institutions
-  sources: internal knowledge only
-curation: 0.65
+  operator: New York Public Radio (WQXR)
+  affiliations: New York Public Radio; member-supported public radio
+  audience: opera and classical listeners in New York and worldwide
+  format: 24-hour opera
+  notes: Operavore is WQXR's 24-hour all-opera internet stream, offering complete opera recordings around the clock plus a weekly interview show hosted by mezzo-soprano Marilyn Horne. WQXR (105.9 FM) is New York's classical music station and, since 2009, part of the member-supported New York Public Radio family alongside WNYC; it is not connected to the New York Public Library. Sister streams include New Sounds and WQXR's American Standards.
+  sources: https://www.wqxr.org/shows/operavorestream/; https://www.wqxr.org/streams/; https://en.wikipedia.org/wiki/WQXR-FM
+curation: 0.70
 provenance:
   - radiobrowser-96153188-0601-11e8-ae97-52543be04c81
   - iprd-us-wqxr-new-york-public-radio-operavore-stream-cccf694b

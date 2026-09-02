@@ -33,3 +33,12 @@ research:
 curation: 0.6
 provenance:
   - radiobrowser-961b5bb7-0601-11e8-ae97-52543be04c81
+  - radiobrowser-960faea3-0601-11e8-ae97-52543be04c81
+  - iprd-pl-radio-szczecin-92-0-88200d52
+streams:
+  - url: 'http://stream4.nadaje.com:11986/prs'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream4.nadaje.com:11986/prs.aac'
+    codec: AAC+
+    bitrate: 128

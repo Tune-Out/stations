@@ -24,22 +24,30 @@ clickcount: 104
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: RAI - Radiotelevisione Italiana S.p.A. (Italian public broadcaster, majority-owned by the Italian Ministry of Economy and Finance)
-  affiliations: Italian state (public service broadcaster under government concession); EBU (European Broadcasting Union) member
-  audience: General Italian-speaking national audience; news and current affairs listeners across Italy
-  format: News, talk, current affairs, sports, cultural programming and live information; RAI's flagship news/speech radio
-  notes: Founded 1924 as URI/EIAR, RAI Radio 1 is the oldest and most-listened Italian public radio news network. Broadcasts 24/7 nationally on FM, DAB+, satellite and online. Funded by license fee (canone RAI) plus limited advertising. Subject to RAI's public service contract with the Italian state.
-  sources: internal knowledge only
-curation: 0.6
+  operator: RAI - Radiotelevisione Italiana S.p.A.
+  affiliations: Italian public service broadcaster; EBU member
+  audience: General Italian national audience seeking news, sport and current affairs
+  format: News, current affairs, sport (including football commentary), talk and some popular music; hourly GR1 news bulletins
+  notes: Rai Radio 1 is the flagship news and talk channel of RAI, Italy's state-owned public broadcaster, and the direct descendant of the country's first radio service, which began transmitting from Rome on 6 October 1924 under URI and was nationalised as EIAR in 1927. It broadcasts nationally on FM, DAB+, satellite and RaiPlay Sound, carrying the GR1 news bulletins, current-affairs programmes, live sport such as 'Tutto il calcio minuto per minuto', and talk with some popular music. RAI is funded by the licence fee plus limited advertising under a public-service contract with the Italian state and is an EBU member. The station has carried the names Programma Nazionale and Radio Uno before its current branding.
+  sources: https://en.wikipedia.org/wiki/Rai_Radio_1; https://www.raiplaysound.it/radio1
+curation: 0.70
 provenance:
   - radiobrowser-96185693-0601-11e8-ae97-52543be04c81
   - iprd-it-rai-radio-1-a24fa14b
+  - radiobrowser-7bd0a378-7d60-4363-8699-764af50f30c7
+  - radiobrowser-df3a63d4-e944-4f00-abb7-4de1581e7533
 streams:
   - url: http://icestreaming.rai.it/1.mp3
     codec: MP3
     bitrate: 256
   - url: https://icestreaming.rai.it/1.mp3
+    codec: MP3
+    bitrate: 256
+  - url: 'https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast'
+    codec: MP3
+    bitrate: 256
+  - url: 'http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast'
     codec: MP3
     bitrate: 256

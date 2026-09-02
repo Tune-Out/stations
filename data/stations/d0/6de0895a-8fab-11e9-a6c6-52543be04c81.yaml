@@ -32,3 +32,12 @@ curation: 0.05
 provenance:
   - radiobrowser-6de0895a-8fab-11e9-a6c6-52543be04c81
   - iprd-nl-happy-radio-caroline-319-gold-2b797334
+  - radiobrowser-aecb50b6-1095-45f5-af05-79e68b2a83ac
+streams:
+  - url: 'http://www.rmgoldserver.eu:8313/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radiocaroline319.nl/winamp_RM_64.pls'
+    url_resolved: 'https://happy.radiomonique.nl/listen/happy_oldies/radio64.mp3'
+    codec: MP3
+    bitrate: 64

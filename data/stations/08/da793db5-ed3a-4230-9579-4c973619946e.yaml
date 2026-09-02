@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Llegó El Mariachi is a mariachi/regional-Mexican digital-only channel from Mexico's Grupo ACIR, distributed via iHeartRadio Mexico's streaming platform. It is a genre-relay stream, and the catalog already carries the same ACIR channel under its official iHeartRadio branding with substantially more votes.
+  sources: https://www.iheartmedia.com/press/clear-channel-expands-its-iheartradio-hispanic-network-adding-mexicos-grupo-acir-stations-its
+curation: -0.05
+duplicate_of: b442256e-5791-4d29-a2ab-575cd6dc340b
 provenance:
   - iprd-mx-lleg-el-mariachi-b1af9e9f

@@ -34,3 +34,11 @@ research:
 curation: 0.65
 provenance:
   - radiobrowser-962626a4-0601-11e8-ae97-52543be04c81
+  - iprd-us-wual-hd2-alabama-public-radio-xponential-radio-99a67634
+streams:
+  - url: 'http://playerservices.streamtheworld.com/m3u/WUAL_HD2.m3u'
+    url_resolved: 'http://18183.live.streamtheworld.com/WUAL_HD2_SC'
+    codec: MP3
+    bitrate: 96
+  - url: 'https://playerservices.streamtheworld.com/pls/WUAL_HD2.pls'
+    url_resolved: 'https://26313.live.streamtheworld.com:443/WUAL_HD2_SC'

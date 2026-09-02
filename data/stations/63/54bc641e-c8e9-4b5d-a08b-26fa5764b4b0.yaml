@@ -31,3 +31,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-54bc641e-c8e9-4b5d-a08b-26fa5764b4b0
+  - radiobrowser-cbb34413-6b7a-4c3c-bfb4-57a5e33ab8cc
+streams:
+  - url: 'https://usa9.fastcast4u.com:2199/tunein/arnifm-stream.pls'
+    url_resolved: 'http://192.95.39.65:5018/stream'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://usa9.fastcast4u.com/proxy/arnifm?mp=/1'
+    codec: AAC+
+    bitrate: 64

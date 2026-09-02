@@ -36,3 +36,11 @@ curation: -0.05
 provenance:
   - radiobrowser-96202df9-0601-11e8-ae97-52543be04c81
   - iprd-ru-core-radio-5e409b8d
+  - radiobrowser-7dfd0aed-245d-4506-bfe4-c5a9d8b4eaf7
+streams:
+  - url: 'http://194.58.97.117:8000/coreradio'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://coreradio.ru/radio'
+    codec: MP3
+    bitrate: 128

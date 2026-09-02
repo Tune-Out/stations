@@ -33,3 +33,12 @@ curation: 0.4
 provenance:
   - radiobrowser-bfce025c-fb60-44a4-885e-011ec39d8f57
   - iprd-tr-trt-haber-radyo-6d7270db
+  - radiobrowser-9ed85a92-9fb4-4ae8-baca-59347adc782c
+streams:
+  - url: 'https://radio-trtradyohaber.live.trt.com.tr/master.m3u8'
+    codec: AAC
+    bitrate: 140
+    hls: true
+  - url: 'https://trt.radyotvonline.net/trthaber'
+    codec: AAC+
+    bitrate: 135

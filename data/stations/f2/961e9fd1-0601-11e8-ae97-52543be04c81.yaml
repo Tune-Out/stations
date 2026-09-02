@@ -36,3 +36,12 @@ curation: 0.35
 provenance:
   - radiobrowser-961e9fd1-0601-11e8-ae97-52543be04c81
   - iprd-us-xwave-radio-9adc9b08
+  - radiobrowser-64039cf5-d820-456c-9c12-7b5bdefc76ac
+streams:
+  - url: 'http://xwaveradio.org/wp-content/plugins/shoutcast/listen.pls'
+    url_resolved: 'http://vps-260b74e9.vps.ovh.net:8000/'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3'
+    codec: MP3
+    bitrate: 128

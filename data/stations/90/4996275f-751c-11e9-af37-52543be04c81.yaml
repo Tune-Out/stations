@@ -34,3 +34,10 @@ curation: 0.35
 provenance:
   - radiobrowser-4996275f-751c-11e9-af37-52543be04c81
   - iprd-cn-qingdao-literature-and-art-broadcasting-96-4-c84867bf
+  - radiobrowser-0a1cce8d-a860-475a-b5df-492d05dc98ed
+streams:
+  - url: 'http://lhttp.qingting.fm/live/1675/64k.mp3'
+    codec: MP3
+  - url: 'http://video10.qtv.com.cn/zhibosjcgb/manifest.m3u8'
+    codec: UNKNOWN
+    hls: true

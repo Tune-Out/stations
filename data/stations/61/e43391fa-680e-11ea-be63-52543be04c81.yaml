@@ -23,14 +23,14 @@ clickcount: 4
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
   operator: VGTRK (Vserossiyskaya Gosudarstvennaya Teleradiokompaniya / All-Russia State Television and Radio Broadcasting Company)
   affiliations: government
   audience: Russia; Russian-speaking; news and talk programming listeners
   format: News, talk shows, current affairs, political and business news
-  notes: Vesti FM (Вести ФМ, "News FM") is a state-controlled Russian news radio channel operated by VGTRK, the national state broadcaster. Focuses on news and commentary.
-  sources: internal knowledge only
-curation: 0.4
+  notes: 'Vesti FM (Вести ФМ, "News FM") is a state-controlled Russian news radio channel operated by VGTRK, the national state broadcaster. Focuses on news and commentary. Editorial flag: Vesti FM is VGTRK''s state news/talk channel, the radio home of Kremlin-line commentators such as Vladimir Solovyov; explicitly named in the rubric as a Kremlin news channel. Stream is on icecast-vgtrk.cdnvideo.ru (VGTRK infrastructure). Editorial flag: Vesti FM is operated by VGTRK, Russia''s state television and radio company, and functions as a Kremlin-aligned rolling news/talk channel; its news and commentary programming reflects Russian government messaging, notably regarding the war in Ukraine. Editorial flag: Vesti FM is VGTRK''s flagship Kremlin news-and-talk channel — named explicitly as an in-scope propaganda outlet.'
+  sources: https://radiovesti.ru/; stream verified 200 audio/mpeg
+curation: -0.75
 provenance:
   - radiobrowser-e43391fa-680e-11ea-be63-52543be04c81

@@ -34,3 +34,11 @@ curation: 0.2
 provenance:
   - radiobrowser-8f5caf82-56b6-11e9-aa33-52543be04c81
   - iprd-ru-keks-91-1-97e1613e
+  - radiobrowser-f045c029-c883-460a-854c-dedc80e78e8f
+streams:
+  - url: 'http://emg02.hostingradio.ru/keksfm64.aac'
+    codec: AAC+
+    bitrate: 64000
+  - url: 'https://dorognoe.hostingradio.ru/keksfm64.aac'
+    codec: AAC+
+    bitrate: 64000

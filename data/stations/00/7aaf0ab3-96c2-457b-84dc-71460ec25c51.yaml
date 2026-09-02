@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pl/pl.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: OpenFM Polskie Reggae is a niche reggae/reggaeton themed channel on OpenFM, a Polish online-radio aggregator platform (part of Agora/RMF group). The specific legacy numbered stream endpoint used here appears retired, though the OpenFM platform itself is still active.
+  sources: https://open.fm
+curation: 0.15
 provenance:
   - iprd-pl-openfm-polskie-reggae-9139c884

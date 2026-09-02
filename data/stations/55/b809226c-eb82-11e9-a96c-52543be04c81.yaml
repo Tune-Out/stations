@@ -34,10 +34,16 @@ research:
 curation: 0.65
 provenance:
   - radiobrowser-b809226c-eb82-11e9-a96c-52543be04c81
+  - radiobrowser-74d3525b-578d-4652-b157-e869da1897a6
+  - iprd-fr-fip-electro-15d7f401
+  - iprd-fr-fip-electro-cf290f03
 streams:
   - url: http://icecast.radiofrance.fr/fipelectro-hifi.aac
     codec: AAC
     bitrate: 192
   - url: http://icecast.radiofrance.fr/fipelectro-hifi.aac?id=radiofrance
+    codec: AAC
+    bitrate: 192
+  - url: 'http://direct.fipradio.fr/live/fipelectro-hifi.aac'
     codec: AAC
     bitrate: 192

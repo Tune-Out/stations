@@ -31,3 +31,12 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-f449e44e-dc52-4c38-b401-476567e15b35
+  - radiobrowser-d5014288-41d7-4e75-9d44-835e41244830
+streams:
+  - url: 'http://us1.amfmph.com:8696/live'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://us1.amfmph.com:2199/tunein/xfmiloilo-stream.pls'
+    url_resolved: 'http://209.126.124.126:8696/stream'
+    codec: AAC+
+    bitrate: 64

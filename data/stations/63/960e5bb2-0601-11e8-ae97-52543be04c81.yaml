@@ -34,3 +34,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-960e5bb2-0601-11e8-ae97-52543be04c81
+  - radiobrowser-c1e42f7b-b285-477f-b225-0b070b561822
+  - iprd-tr-radyo-spor-107-2-537ce638
+streams:
+  - url: 'http://46.20.4.5:8170/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8'
+    codec: AAC+
+    bitrate: 63
+    hls: true

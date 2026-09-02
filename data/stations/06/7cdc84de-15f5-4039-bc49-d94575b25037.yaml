@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ar/ar.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: Tigre, Buenos Aires Province, Argentina
+  format: news/sports
+  notes: Radio Frecuencia Tigre is a local Argentine station for the Tigre area (Buenos Aires Province) covering news and sports. The listed proxy stream is currently dead.
+  sources: https://radiofrecuenciatigre.com; stream check
+curation: -0.03
 provenance:
   - iprd-ar-radio-frecuencia-tigre-c4b8fb7d

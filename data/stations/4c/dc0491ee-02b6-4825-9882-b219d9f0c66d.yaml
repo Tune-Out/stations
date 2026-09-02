@@ -1,0 +1,35 @@
+stationuuid: dc0491ee-02b6-4825-9882-b219d9f0c66d
+name: foxnews
+url: https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+url_resolved: https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+homepage: http://www.foxnews.com/
+favicon: "null"
+tags: []
+country: The United States Of America
+countrycode: US
+state: ""
+language:
+  - en
+languagecodes:
+  - en
+votes: 128
+codec: AAC,H.264
+bitrate: 985
+hls: true
+lastcheckok: true
+lastchangetime: 2026-01-15 02:35:55
+clickcount: 0
+geo_lat: null
+geo_long: null
+research:
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Fox News Media (Fox Corporation)
+  affiliations: Fox Corporation; distributed via Amagi to Samsung TV Plus
+  audience: United States news viewers
+  format: Ad-supported cable-news video simulcast
+  notes: 'This entry is not a radio station: it is the Fox News Now free ad-supported streaming television (FAST) channel, delivered as an 985 kbps H.264 video HLS playlist from Amagi''s Samsung TV Plus origin. Fox News Media, part of Fox Corporation, is a mainstream US cable-news operation whose opinion programming is strongly partisan but which is an ordinary commercial broadcaster rather than a state or disinformation outlet. As catalogued it is a relayed video feed with a lowercase junk name and a ''null'' favicon string, offering nothing radio-specific.'
+  sources: http://www.foxnews.com/; stream headers from https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+curation: 0.0
+provenance:
+  - radiobrowser-dc0491ee-02b6-4825-9882-b219d9f0c66d

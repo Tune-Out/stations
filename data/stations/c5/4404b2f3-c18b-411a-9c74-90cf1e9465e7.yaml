@@ -33,3 +33,9 @@ research:
 curation: 0.55
 provenance:
   - radiobrowser-4404b2f3-c18b-411a-9c74-90cf1e9465e7
+  - iprd-br-mec-fm-99-3-1e181902
+streams:
+  - url: 'https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_277200_eng=20000.m3u8'
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_114000_eng=1.m3u8'

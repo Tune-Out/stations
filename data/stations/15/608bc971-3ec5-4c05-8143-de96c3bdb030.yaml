@@ -1,8 +1,8 @@
 stationuuid: 608bc971-3ec5-4c05-8143-de96c3bdb030
-name: Soma FM Groove Salad 320K AAC HLS
+name: SomaFM Groove Salad
 url: https://hls.somafm.com/hls/groovesalad/320k/program.m3u8
 url_resolved: https://hls.somafm.com/hls/groovesalad/320k/program.m3u8
-homepage: https://www.somafm.com/
+homepage: https://somafm.com/groovesalad/
 favicon: https://somafm.com/img3/groovesalad-400.png
 tags: []
 country: The United States Of America
@@ -20,14 +20,15 @@ clickcount: 25
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: non-commercial
-  operator: Soma FM
+  operator: SomaFM (San Francisco, listener-supported)
   affiliations: none known
   audience: global internet audience, emphasis on ambient/lounge aesthetic listeners
-  format: electronic/lounge/chillout/downtempo music, featuring Groove Salad channel specializing in smooth jazz, electronic, and urban lounge
-  notes: Soma FM is a non-commercial independent internet radio station founded in 1999 based in San Francisco. Operated by volunteers and supported by listener donations. Groove Salad is one of their signature channels known for sophisticated downtempo, nu-jazz, and electronic music. Offers multiple genre channels without advertisements or commercial interruption.
-  sources: internal knowledge only
-curation: 0.55
+  format: Ambient/downtempo chill (Groove Salad)
+  notes: This is SomaFM's 320 kbps AAC HLS feed of Groove Salad, the network's signature 'nicely chilled plate of ambient/downtempo beats and grooves' featuring artists like Kruder & Dorfmeister, Zero 7 and Nightmares on Wax. SomaFM is an independent, commercial-free, listener-supported internet radio network founded in San Francisco in 2000 by Rusty Hodge and funded by donations and merchandise. The catalog's main 'SomaFM Groove Salad (128k MP3)' entry with vastly more votes is the same channel; this is a high-bitrate quality variant.
+  sources: https://somafm.com/groovesalad/
+curation: 0.60
+duplicate_of: 960cf833-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-608bc971-3ec5-4c05-8143-de96c3bdb030

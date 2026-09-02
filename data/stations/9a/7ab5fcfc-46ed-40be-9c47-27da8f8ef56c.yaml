@@ -26,15 +26,15 @@ clickcount: 27
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Independent online broadcaster
-  affiliations: none known
-  audience: English-speaking listeners in the United States; nostalgic music fans
-  format: Love songs, romantic ballads, hits from the 1970s, 1980s, and 1990s
-  notes: Love Radio is an online radio station specializing in romantic and love-themed music from the 70s, 80s, and 90s era. Targets listeners seeking easy-listening, romantic ballads and nostalgic content.
-  sources: internal knowledge only
-curation: -0.05
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Radio Format / StreamingMedia.it (Italian web-radio operator behind the Radio Format thematic app)
+  affiliations: none known; sister web radios Classic Hits 70s 80s 90s, Italian Radio, Radio Relax, Funky Radio, Soul Radio Classics
+  audience: International easy-listening audience; multilingual love-song fans
+  format: Non-stop romantic ballads and love songs from the 1970s-1990s, mostly English with Arabic, Chinese, French, Italian, Portuguese, Russian and Spanish tracks every 30 minutes; no commercials
+  notes: LOVE RADIO (love.radio) is an internet-only web radio playing romantic songs of the 1970s, 80s and 90s without commercial breaks, with international-language love songs rotated every half hour. It is one of the thematic streams distributed through the Italian Radio Format app (developer streamingmedia.it) and is hosted on shoutcast3.streamingmedia.it, so the catalog's United States / New York location is doubtful; the operation appears Italian-run. The website love.radio currently shows a geo-restriction notice (not available in this country) rather than station information. It is an automated playlist stream with a clear theme but no presenters or editorial programming.
+  sources: https://www.getmeradio.com/stations/loveradio-1148/; https://play.google.com/store/apps/details?id=it.streamingmedia.radioformat; https://apps.apple.com/us/app/radio-format-thematic-radios/id6443781494; https://love.radio/
+curation: 0.02
 provenance:
   - radiobrowser-7ab5fcfc-46ed-40be-9c47-27da8f8ef56c
   - iprd-us-love-radio-only-love-songs-70s-80s-90s-1f10cd13

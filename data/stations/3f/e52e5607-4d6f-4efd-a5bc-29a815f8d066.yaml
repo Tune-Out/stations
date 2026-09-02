@@ -31,3 +31,11 @@ research:
 curation: 0.4
 provenance:
   - radiobrowser-e52e5607-4d6f-4efd-a5bc-29a815f8d066
+  - iprd-bd-peoples-radio-91-6-f37e951f
+streams:
+  - url: 'https://s3.myradiostream.com:14498/listen.mp3'
+    codec: MP3
+    bitrate: 96
+  - url: 'http://s3.myradiostream.com:14498/;listen.mp3'
+    codec: MP3
+    bitrate: 128

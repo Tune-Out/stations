@@ -1,0 +1,33 @@
+stationuuid: 39e4f088-3af2-4e7f-8276-9fdbb4ae63ca
+name: VRT NWS
+url: http://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3
+url_resolved: http://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3
+homepage: https://www.vrt.be/nl
+favicon: https://www.vrt.be/favicon.ico
+tags: []
+country: Belgium
+countrycode: BE
+state: ""
+language: []
+languagecodes: []
+votes: 346
+codec: MP3
+bitrate: 0
+hls: false
+lastcheckok: true
+lastchangetime: 2026-01-14 22:54:45
+clickcount: 13
+geo_lat: 50.61312650549797
+geo_long: 4.885653033314093
+research:
+  reviewed_at: 2026-09-02
+  nature: public broadcaster
+  operator: VRT (Vlaamse Radio- en Televisieomroeporganisatie)
+  affiliations: VRT, EBU
+  audience: Dutch-speaking Belgium (Flanders)
+  format: Dutch-language news bulletin
+  notes: 'VRT NWS is the news service of VRT, the public broadcaster for Flanders in Belgium. This entry is not a continuous channel but the bulletin file VRT publishes on its progressive-audio CDN: a roughly three-minute MP3 (2.8 MB) that is regenerated on the hour, with the copy fetched today carrying a Last-Modified stamp from the same hour. It plays the latest Dutch-language headlines and then ends rather than looping, which is a limitation for a radio player, but the source is authoritative public-service journalism.'
+  sources: https://www.vrt.be/nl; HTTP headers from http://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3
+curation: 0.32
+provenance:
+  - radiobrowser-39e4f088-3af2-4e7f-8276-9fdbb4ae63ca

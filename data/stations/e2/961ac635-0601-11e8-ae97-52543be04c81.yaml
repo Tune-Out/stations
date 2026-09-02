@@ -36,6 +36,7 @@ provenance:
   - iprd-ch-radio-swiss-pop-116e5ff3
   - iprd-ch-radio-swiss-pop-98e21ea2
   - iprd-ch-radio-swiss-pop-29e0d7c0
+  - radiobrowser-ac676dcb-934d-44c1-ad0d-f06d0222208a
 streams:
   - url: https://stream.srg-ssr.ch/rsp/aacp_96.m3u
     url_resolved: http://stream.srg-ssr.ch/srgssr/rsp/aac/96
@@ -61,3 +62,6 @@ streams:
   - url: https://stream.srg-ssr.ch/m/rsp/mp3_128
     codec: MP3
     bitrate: 128
+  - url: 'https://stream.srg-ssr.ch/srgssr/rsp/aac/192'
+    codec: AAC
+    bitrate: 176

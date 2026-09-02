@@ -41,6 +41,7 @@ provenance:
   - radiobrowser-9fbd9687-3ed2-40b1-ab56-fdd078b1fbee
   - iprd-de-dance-wave-radio-44008f67
   - iprd-de-dance-wave-radio-9f19b8cc
+  - radiobrowser-df2f556f-92f8-491d-9ef3-25f11a6e5e7d
 streams:
   - url: http://stream.laut.fm/dance-wave-radio
     url_resolved: http://dance-wave-radio.stream.laut.fm/dance-wave-radio?t302=2026-01-15_07-31-55&uuid=6ad0e967-da12-4bcc-a2dd-8d371453d795
@@ -48,5 +49,9 @@ streams:
     bitrate: 128
   - url: https://stream.laut.fm/dance-wave-radio
     url_resolved: https://dance-wave-radio.stream.laut.fm/dance-wave-radio?t302=2026-01-15_08-33-45&uuid=aa3ae436-1525-4e4d-9fd5-a785d1b084d3
+    codec: MP3
+    bitrate: 128
+  - url: 'http://stream.laut.fm/dance-wave-radio.m3u'
+    url_resolved: 'http://dance-wave-radio.stream.laut.fm/dance-wave-radio?pl=m3u&t302=2026-01-15_03-11-37&uuid=c5f24bf6-45f5-440b-a877-f15e69344115'
     codec: MP3
     bitrate: 128

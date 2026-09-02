@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ca/ca.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: educational/campus, Canada
+  format: education/campus radio
+  notes: CKVI 91.9 appears to be a Canadian educational/campus station whose stream was hosted on Mixlr, a live-audio platform that discontinued its radio-streaming service; the listed stream link is now dead.
+  sources: stream check
+curation: -0.07
 provenance:
   - iprd-ca-ckvi-91-9-b3223ced

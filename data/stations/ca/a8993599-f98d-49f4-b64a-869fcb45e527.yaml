@@ -37,6 +37,7 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-a8993599-f98d-49f4-b64a-869fcb45e527
+  - radiobrowser-ad6f4746-32d1-4301-98ee-6bd3d6fb4902
 streams:
   - url: https://liveradio.swr.de/sw331ch/swr2/
     codec: AAC
@@ -47,3 +48,6 @@ streams:
   - url: https://liveradio.swr.de/sw282p3/swr2/play.mp3
     codec: MP3
     bitrate: 256
+  - url: 'https://liveradio.swr.de/sw331ch/swr2/play.aac'
+    codec: AAC
+    bitrate: 128

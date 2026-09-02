@@ -38,3 +38,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-ac2a47c0-c249-480c-8406-1943277bb764
+  - radiobrowser-5cfdb353-f87e-11e8-a237-52543be04c81
+  - iprd-us-progressive-radio-network-a927d9a6
+streams:
+  - url: 'http://216.55.165.146:8000/listen.pls'
+    url_resolved: 'http://216.55.165.146:8000/;'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://216.55.165.146:8000/'
+    codec: MP3
+    bitrate: 128

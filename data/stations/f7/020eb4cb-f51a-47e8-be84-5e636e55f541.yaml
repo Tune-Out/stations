@@ -35,3 +35,13 @@ curation: -0.05
 provenance:
   - radiobrowser-020eb4cb-f51a-47e8-be84-5e636e55f541
   - iprd-mx-la-ke-buena-97-1-xeba-3034e0cd
+  - radiobrowser-c503687e-49cb-4640-8c0c-1bc4011bc6df
+streams:
+  - url: 'https://playerservices.streamtheworld.com/pls/KEBUENA_GDL.pls'
+    url_resolved: 'https://18103.live.streamtheworld.com:443/KEBUENA_GDL_SC'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_GDLAAC.aac'
+    url_resolved: 'https://27143.live.streamtheworld.com:443/KEBUENA_GDLAAC.aac'
+    codec: AAC+
+    bitrate: 56

@@ -20,15 +20,15 @@ clickcount: 2
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
-  nature: unknown
+  reviewed_at: 2026-09-02
+  nature: online-only
   operator: Request Radio String
   affiliations: none known
   audience: Thai listeners
   format: Unknown; request-based format presumed
-  notes: Thai-based online radio station. Limited public information available. Name suggests listener request-based format.
-  sources: internal knowledge only
-curation: 0.05
+  notes: 'Appears to be a genre sub-channel ("String", a Thai pop/string genre) of the requestradio.in.th Thai internet-radio network. The domain no longer resolves and the fallback IP stream also fails to connect, indicating this stream is dead even though sibling requestradio channels remain active elsewhere in the catalog. Editorial note: appears to be defunct as of 2026-09-02.'
+  sources: no working sources found; domain cast.requestradio.in.th fails to resolve
+curation: -0.30
 provenance:
   - radiobrowser-489b1e34-a6ac-11e8-abb8-52543be04c81
   - iprd-th-requestradio-string-4881aba6

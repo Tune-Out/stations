@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/as/as.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: WVUV-FM ('V103', 103.1 FM) is a commercial radio station licensed to Fagaitua, American Samoa, in the Pago Pago market, airing a Samoan/Polynesian music format 24 hours a day since 2008; it is owned by South Seas Broadcasting. Note the YAML's 'assamese' language tag is a metadata error — the station broadcasts primarily in Samoan/English, not Assamese.
+  sources: https://en.wikipedia.org/wiki/WVUV-FM
+curation: 0.10
 provenance:
   - iprd-as-wvuv-103-1-cde7b402

@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/gb/gb.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: community
+  operator: ''
+  affiliations: community radio (UK Ofcom licence, apparent)
+  audience: Surrey/Hampshire Wey Valley area, UK
+  format: community, adult contemporary
+  notes: Wey Valley Radio is a UK community radio station serving the Wey Valley area of Surrey/Hampshire. A catalog canonical duplicate with more votes already exists under the shorter name.
+  sources: catalog-names.tsv cross-check; https://weyvalleyradio.uk
+curation: 0.20
 provenance:
   - iprd-gb-wey-valley-101-1-d3536969

@@ -32,3 +32,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-e468ad2c-3c18-4e33-989e-3dbdb490995f
+  - radiobrowser-20bb4939-3d15-4b16-911b-73445c898d4c
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3'
+    url_resolved: 'http://28573.live.streamtheworld.com:80/CADENASER_ALT2.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3'
+    url_resolved: 'https://22193.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
+    codec: MP3
+    bitrate: 96

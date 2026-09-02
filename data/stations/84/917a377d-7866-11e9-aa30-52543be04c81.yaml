@@ -38,3 +38,11 @@ curation: 0
 provenance:
   - radiobrowser-917a377d-7866-11e9-aa30-52543be04c81
   - iprd-nl-all-oldies-channel-0d9412d8
+  - radiobrowser-eefccb6d-3ef0-4f5c-989d-1f2de5e3259e
+streams:
+  - url: 'http://radio.alloldieschannel.com:8000/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://radio.alloldieschannel.com/listen/all_oldies_channel/stream'
+    codec: MP3
+    bitrate: 192

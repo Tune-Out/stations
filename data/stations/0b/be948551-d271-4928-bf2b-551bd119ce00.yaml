@@ -35,3 +35,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-be948551-d271-4928-bf2b-551bd119ce00
+  - radiobrowser-11d100aa-4cd7-4fa8-b2cb-f8f7af2bfea7
+  - iprd-pl-radio-pogoda-poznan-52d05c71
+streams:
+  - url: 'http://stream10.radioagora.pl/tuba138-1.mp3.m3u'
+    url_resolved: 'http://stream30.radiostream.pl/tuba138-1.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://radiostream.pl/tuba138-1.mp3'
+    codec: MP3
+    bitrate: 128

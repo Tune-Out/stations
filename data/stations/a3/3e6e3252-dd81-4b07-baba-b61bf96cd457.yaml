@@ -1,5 +1,5 @@
 stationuuid: 3e6e3252-dd81-4b07-baba-b61bf96cd457
-name: BFM radio
+name: BFM Radio
 url: https://audio.bfmtv.com/bfmradio_128.mp3
 url_resolved: https://audio.bfmtv.com/bfmradio_128.mp3
 homepage: https://www.bfmtv.com/en-direct/bfm-radio/
@@ -23,15 +23,15 @@ clickcount: 54
 geo_lat: 48.836382892654385
 geo_long: 2.273617386817933
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: BFM Business Développement (owned by Vivendi group)
-  affiliations: none known
-  audience: French-speaking news and business listeners
-  format: News and information-focused broadcasting with business news, current affairs, and information programming.
-  notes: French commercial radio station owned by Vivendi Media Services Group. Broadcasts news and business information. Part of the Vivendi entertainment conglomerate that operates both television (BFM TV) and radio services. Available in French.
-  sources: internal knowledge only
-curation: -0.05
+  operator: RMC BFM (CMA Média / CMA CGM group, since July 2024)
+  affiliations: Sister of BFM TV, RMC, BFM Business; no political or religious affiliation
+  audience: French-speaking news listeners nationwide, mainly Paris-Lyon-Marseille DAB+ and online
+  format: Rolling news and information; audio simulcast of BFM TV with radio-only bulletins, traffic, weather and business updates during TV ad breaks
+  notes: BFM Radio is a French private rolling-news radio station operated by RMC BFM, the group that also runs RMC, BFM Business and RMC Gold. It started as an online audio simulcast of BFM TV in November 2018, received Arcom authorisation in 2019 and launched on DAB+ (multiplex M2 along the Paris-Lyon-Marseille corridor) on 12 October 2021. Programming is mostly the BFM TV feed with dedicated radio content such as hourly Flashs info, La Question info and La Question éco. RMC BFM was owned by Altice Média until 2 July 2024, when CMA CGM's media arm CMA Média (Rodolphe Saadé) completed its 1.55 billion euro acquisition. The station set digital audience records of 1.5 million listeners in July 2024 and 1.8 million in March 2026.
+  sources: https://fr.wikipedia.org/wiki/BFM_Radio; https://fr.wikipedia.org/wiki/RMC_BFM_(entreprise); https://www.bfmtv.com/en-direct/bfm-radio/
+curation: 0.30
 provenance:
   - radiobrowser-3e6e3252-dd81-4b07-baba-b61bf96cd457
   - iprd-fr-bfm-dc65336b

@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/ba/ba.m3u"
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: Radio Gradačac (radiogradacac.ba)
+  affiliations: ''
+  audience: ''
+  format: news/talk
+  notes: Radio Gradačac is a local commercial news/talk station serving Gradačac, Bosnia and Herzegovina. This specific IPRD-supplied relay stream is unreachable, but the station itself operates under radiogradacac.ba with an existing, better-established catalog entry.
+  sources: 'IPRD: streams/ba/ba.m3u'
 curation: 0
 provenance:
   - iprd-ba-radio-gradacac-98-3-011749a5

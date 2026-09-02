@@ -23,22 +23,26 @@ clickcount: 28
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: state media
   operator: CNR (China National Radio)
   affiliations: CNR, Chinese state broadcasting
   audience: China; Chinese language; international Chinese-speaking diaspora
   format: News, information, and current affairs programming
-  notes: CNR-1 (中国之声) is the flagship national news channel of China National Radio, the largest broadcasting network in China. Provides 24-hour news and information programming nationwide.
+  notes: 'CNR-1 (中国之声) is the flagship national news channel of China National Radio, the largest broadcasting network in China. Provides 24-hour news and information programming nationwide. Editorial flag: CNR-1 Voice of China is China National Radio''s flagship news/political channel, run under the CCP Central Propaganda Department via China Media Group; its news and current-affairs output is official Party messaging.'
   sources: internal knowledge only
-curation: 0.35
+curation: -0.50
 provenance:
   - radiobrowser-f0a47ae7-b935-42ea-87f9-a97873fb584a
   - iprd-cn-cnr-1-voice-of-china-aa0f5a51
+  - radiobrowser-701e4c8c-b2c2-42db-a535-65ac13de0e0f
 streams:
   - url: http://ngcdn002.cnr.cn/live/zgzs/index.m3u8
     codec: UNKNOWN
     hls: true
   - url: https://satellitepull.cnr.cn/live/wxzgzs/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908087306150&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+    codec: UNKNOWN
+    hls: true
+  - url: 'https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8?'
     codec: UNKNOWN
     hls: true

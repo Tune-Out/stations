@@ -1,5 +1,5 @@
 stationuuid: d0cad744-b631-49db-94e8-f8469f798cb1
-name: 100hitz - Indie Rock
+name: 100hitz - Indie
 url: http://pureplay.cdnstream1.com/6056_64.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODAzMywiaXNzIjoidGlzcnYifQ.iRK4czQtolWgtNsj8Uy5lioP0EoZu1wCuvj2VwsCs3o
 url_resolved: http://pureplay.cdnstream1.com/6056_64.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODAzMywiaXNzIjoidGlzcnYifQ.iRK4czQtolWgtNsj8Uy5lioP0EoZu1wCuvj2VwsCs3o
 homepage: https://100hitz.com/
@@ -23,15 +23,15 @@ clickcount: 3
 geo_lat: 37.31775185163688
 geo_long: -120.355224609375
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: 100Hitz.com (independent internet radio platform)
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: 100hitz.com (US internet radio brand)
   affiliations: none known
-  audience: global internet listeners, English-speaking
-  format: Indie rock; part of multi-genre platform (alternative, country, hip hop, rock, pop)
-  notes: Free internet music streaming service; global reach via online platform; multiple genre-specific stations; emphasizes "best alternative channel on the web" positioning; social media integration (Facebook, Twitter, Instagram); ownership structure not publicly disclosed.
-  sources: https://100hitz.com/
-curation: 0.6
+  audience: Indie rock listeners, mainly US
+  format: Automated indie rock / indie pop rotation
+  notes: 100hitz is a US free internet radio brand that runs a dozen automated genre channels (Top 40, Hot Hitz, The Mix, Alternative, 90's Alternative, Classic Rock, Country, Hip Hop, Rock, Throwback) distributed through TuneIn and CDNstream. This stream identifies itself as '100Hitz - Indie', a continuous indie rock/pop rotation with no presenters or editorial content; the channel is no longer promoted on the 100hitz.com homepage but the stream still runs. It is the same channel as the higher-voted canonical '100hitz - Indie' entry, whose listed stream is currently dead, so this working stream should be retained when merging. Ownership is not disclosed.
+  sources: https://100hitz.com/; stream ICY metadata
+curation: 0.21
 provenance:
   - radiobrowser-d0cad744-b631-49db-94e8-f8469f798cb1
   - iprd-us-100hitz-alternative-992dd2c5

@@ -2,7 +2,7 @@ stationuuid: 5b9ceedf-eb85-11e9-a96c-52543be04c81
 name: FIP Jazz
 url: http://icecast.radiofrance.fr/fipjazz-hifi.aac
 url_resolved: http://icecast.radiofrance.fr/fipjazz-hifi.aac
-homepage: https://www.fip.fr/jazz/webradio
+homepage: https://www.radiofrance.fr/fip/radio-jazz
 favicon: https://www.fip.fr/dist/favicons/logo-120.png
 tags:
   - jazz
@@ -24,19 +24,20 @@ clickcount: 43
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio France / FIP (Fédération Internationale de la Presse)
-  affiliations: French public radio broadcaster; state-funded via licence fees
-  audience: France and international; French-speaking jazz enthusiasts
-  format: Jazz music exclusively; high-fidelity AAC 192kbps streaming from icecast.radiofrance.fr
-  notes: Part of Radio France public broadcasting network; FIP Jazz is dedicated jazz channel; streaming webradio available alongside terrestrial FM; emphasis on eclectic jazz programming
-  sources: internal knowledge only
-curation: 0.65
+  operator: Radio France
+  affiliations: French public service broadcasting; licence-fee funded; EBU member
+  audience: French and international jazz listeners
+  format: Continuous jazz drawn from FIP's library - standards, contemporary, spiritual and European jazz, without advertising
+  notes: 'FIP Jazz is one of the thematic webradios of FIP, the Radio France music service whose name stands for France Inter Paris. FIP launched on 5 January 1971 under Roland Dhordain, Jean Garetto and Pierre Codou, and built its reputation on human-programmed, near-uninterrupted music: its programmers assemble three-hour blocks, avoid repeats within 48 hours, and put roughly 44,000 tracks by 16,000 artists on air each year, around 85 percent of them from independent labels. The jazz stream applies that same curation to a single genre, running from classic standards through contemporary and European jazz with no advertising. It is funded as part of French public radio and streams worldwide from Radio France''s Icecast servers. The earlier note glossing FIP as "Fédération Internationale de la Presse" was wrong.'
+  sources: https://en.wikipedia.org/wiki/FIP_(radio_station); https://www.fip.fr/jazz/webradio (redirects to https://www.radiofrance.fr/fip/radio-jazz); stream header check on http://icecast.radiofrance.fr/fipjazz-hifi.aac
+curation: 0.85
 provenance:
   - radiobrowser-5b9ceedf-eb85-11e9-a96c-52543be04c81
   - iprd-fr-fip-jazz-d0a3a775
   - iprd-fr-fip-jazz-4c7e1884
+  - radiobrowser-f1aad29c-8013-45a8-8d94-9bb63eb90320
 streams:
   - url: http://icecast.radiofrance.fr/fipjazz-hifi.aac
     codec: AAC
@@ -44,3 +45,6 @@ streams:
   - url: https://icecast.radiofrance.fr/fipjazz-hifi.aac
     codec: AAC
     bitrate: 192
+  - url: 'https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance'
+    codec: UNKNOWN
+    hls: true

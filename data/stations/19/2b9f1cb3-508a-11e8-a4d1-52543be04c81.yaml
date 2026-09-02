@@ -1,8 +1,8 @@
 stationuuid: 2b9f1cb3-508a-11e8-a4d1-52543be04c81
-name: RSR La Premiere
+name: RTS La Première
 url: http://stream.srg-ssr.ch/la-1ere/aacp_32.m3u
 url_resolved: http://stream.srg-ssr.ch/srgssr/la-1ere/aac/48
-homepage: http://programmesradio.rts.ch/la-1ere/
+homepage: https://www.rts.ch/la-1ere/
 favicon: https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png
 tags: []
 country: Switzerland
@@ -20,14 +20,15 @@ clickcount: 11
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio Television Suisse (RTS), the French-language unit of SRG SSR (Swiss Broadcasting Corporation), the Swiss public service broadcaster.
+  operator: Radio Télévision Suisse (RTS), SRG SSR
   affiliations: SRG SSR is Switzerland's federally-mandated public broadcaster funded primarily by the Serafe household licence fee and supplementary advertising; politically independent under federal media law (Loi sur la radio et la television, LRTV).
-  audience: "French-speaking Switzerland (Suisse romande): Geneva, Vaud, Neuchatel, Fribourg, Valais, Jura, plus French-speaking expats; French-language"
+  audience: 'French-speaking Switzerland (Suisse romande): Geneva, Vaud, Neuchatel, Fribourg, Valais, Jura, plus French-speaking expats; French-language'
   format: 'Generalist talk-and-music public radio: news, current affairs, interviews, cultural magazines, entertainment, sport and music ("La radio generaliste de la Suisse romande").'
-  notes: La 1ere (formerly La Premiere) is RTS's flagship generalist station, the successor to the historic RSR (Radio Suisse Romande) "Premier Programme" launched in 1922 making it among the oldest French-language radio services in the world. Renamed La 1ere in 2012 as part of RTS's brand consolidation when SSR-SRG merged Television Suisse Romande and RSR. Notable programmes include "Forum" (current-affairs debate), "On en parle" (consumer affairs), "La Matinale" (morning news) and live sports coverage. Broadcasts on FM and DAB+ across Romandy with the studios at the Maison de la Radio in Lausanne and Geneva.
-  sources: http://programmesradio.rts.ch/la-1ere/, internal knowledge of SRG SSR
-curation: 0.5
+  notes: RTS La Première is the flagship generalist channel of Radio Télévision Suisse, the French-language arm of Swiss public broadcaster SRG SSR, funded by the Serafe household licence fee. It descends directly from Radio Suisse Romande's Premier Programme, on air since 1922, and was renamed from La Première to La 1ère in the 2012 RTS brand consolidation. Output is news, current affairs, interviews, cultural magazines and sport, with signature programmes including La Matinale, Forum and On en parle, broadcast on FM and DAB+ across Romandy.
+  sources: http://programmesradio.rts.ch/la-1ere/; https://www.rts.ch/
+curation: 0.70
+duplicate_of: 9608efd5-0601-11e8-ae97-52543be04c81
 provenance:
   - radiobrowser-2b9f1cb3-508a-11e8-a4d1-52543be04c81

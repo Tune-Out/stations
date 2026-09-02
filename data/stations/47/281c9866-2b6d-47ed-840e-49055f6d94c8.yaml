@@ -33,3 +33,11 @@ curation: -0.05
 provenance:
   - radiobrowser-281c9866-2b6d-47ed-840e-49055f6d94c8
   - iprd-cz-radio-jih-88-9-87650721
+  - radiobrowser-308030ee-8c31-4ce7-99f4-88179811cbb9
+streams:
+  - url: 'http://icecast6.play.cz/jih128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://icecast6.play.cz/jih32.mp3'
+    codec: MP3
+    bitrate: 32

@@ -24,14 +24,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/br/br.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: Zeno.fm
+  audience: Brazil, oldies/flashback listeners
+  format: 50s/60s international oldies
+  notes: Flashback Internacional is a Brazilian online 'flashback' station playing 1950s-60s international oldies, streamed via Zeno.fm. The listed stream endpoint is currently dead.
+  sources: stream check
+curation: -0.05
 provenance:
   - iprd-br-flashback-internacional-6c1ddc04

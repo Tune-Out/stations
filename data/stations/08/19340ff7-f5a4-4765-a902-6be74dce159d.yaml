@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/fr/fr_nrjgroup.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: NRJ Group
+  affiliations: ''
+  audience: ''
+  format: seasonal automated hits playlist
+  notes: NRJ Les Hits de Septembre is a seasonal, auto-generated web playlist channel from the French commercial network NRJ Group, refreshed monthly with current hit songs and offering no distinct editorial curation.
+  sources: https://streaming.nrjaudio.fm/ouwgbmsk6j4d
+curation: -0.05
 provenance:
   - iprd-fr-nrj-les-hits-de-septembre-a4452ac0

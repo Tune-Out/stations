@@ -25,14 +25,14 @@ clickcount: 51
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: commercial
-  operator: Cumulus Media / SiriusXM
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: 977Music.com (independent US internet radio network)
   affiliations: none known
-  audience: American listeners nostalgic for 1980s and 1990s music; hits-focused audience
-  format: 24/7 hits radio featuring 80s, 90s, and contemporary hit music with personality-driven programming.
-  notes: 'Commercial U.S. radio station part of SiriusXM satellite radio network. Based in Florida. Tagline: "24/7 Non Stop Hits!" with programming emphasis on 1980s and 1990s music alongside contemporary hits. Operates on satellite radio platform with global reach. High listener engagement with 43,518 votes on radio-browser.info. Available via SiriusXM subscription and online streaming.'
-  sources: internal knowledge only
-curation: -0.1
+  audience: US/global listeners of mainstream pop hits
+  format: automated 80s/90s/current adult hits rotation
+  notes: 977 The Mix is one of eleven channels of 977Music.com, a free US internet radio network (80s, 90s, Alternative, Classic Rock, Comedy, Country, Hitz, Jamz, Mix, Oldies, Smooth Jazz) whose streams are delivered by Triton's StreamTheWorld platform. The Mix channel is an automated adult-hits rotation of 1980s, 1990s and current pop under the tagline '24/7 Non Stop Hits' with no live presenters. 977Music is an independent web-only operation with an iOS app published by Appify Media; it is not affiliated with Cumulus or SiriusXM, and the Florida location is unverified. The stream is live but the 977music.com website currently fails to load (connection refused/405), so the network's identity is thin.
+  sources: http://www.977music.com/channels.php; https://apps.apple.com/us/app/977music-com-internet-radio/id1137417717; https://radio.orange.com/radios/977_the_mix_channel
+curation: -0.03
 provenance:
   - radiobrowser-961dbb40-0601-11e8-ae97-52543be04c81

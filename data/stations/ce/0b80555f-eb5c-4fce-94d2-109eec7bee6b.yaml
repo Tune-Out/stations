@@ -35,6 +35,9 @@ curation: 0.8
 provenance:
   - radiobrowser-0b80555f-eb5c-4fce-94d2-109eec7bee6b
   - iprd-fr-france-inter-94f3efb2
+  - radiobrowser-1effdc77-5f84-4629-bb29-7d242287928e
+  - iprd-fr-france-inter-858653bb
+  - radiobrowser-71ab8906-a508-4f98-a498-8840b41b79d5
 streams:
   - url: https://icecast.radiofrance.fr/franceinter-hifi.aac
     codec: AAC
@@ -51,3 +54,10 @@ streams:
   - url: http://direct.franceinter.fr/live/franceinter-lofi.mp3
     codec: MP3
     bitrate: 32
+  - url: 'https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance'
+    codec: AAC
+    bitrate: 107
+    hls: true
+  - url: 'http://direct.franceinter.fr/live/franceinter-midfi.mp3'
+    codec: MP3
+    bitrate: 128

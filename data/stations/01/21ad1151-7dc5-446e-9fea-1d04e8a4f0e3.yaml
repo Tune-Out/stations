@@ -34,3 +34,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-21ad1151-7dc5-446e-9fea-1d04e8a4f0e3
+  - radiobrowser-4488f95b-00be-4c7c-814c-565cae7941c2
+streams:
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065AAC.aac'
+    url_resolved: 'http://23203.live.streamtheworld.com:80/ARN_KIIS1065AAC.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1065.mp3'
+    url_resolved: 'http://28893.live.streamtheworld.com:80/ARN_KIIS1065.mp3'
+    codec: MP3
+    bitrate: 128

@@ -22,15 +22,15 @@ clickcount: 17
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Gazprom-Media Holding (Газпром-медиа) via subsidiary Vyacheslav Soloviev Group / Gazprom-Media Radio (formerly Газпром-Медиа Развлекательное Телевидение)
-  affiliations: Ultimately owned through Gazprom-Media by Gazprombank / state-controlled Gazprom; broadly aligned with the Russian state media ecosystem; no formal religious or party ties
-  audience: Russian motorists and broad adult audience (25-55); flagship on 90.3 FM in Moscow, networked nationwide and in CIS countries
-  format: Adult contemporary hit radio for drivers; mix of Russian and international pop/rock from the 1980s-2000s with traffic, news and entertainment shows
-  notes: Avtoradio ("Auto Radio") launched on 5 April 1993 as Russia's first radio station specifically targeted at drivers; programming centres on traffic reports, road safety and motoring topics combined with broad-appeal popular music; founder of the "Discoteka 80-h" ("80s Disco") brand and large-scale concerts that became one of the biggest pop-music franchises in Russia; part of the Gazprom-Media Radio division (alongside Energy, Humor FM, Like FM, Comedy Radio and others), which in turn is part of Gazprom-Media, the largest Russian media holding, controlled through Gazprombank — a financial institution majority-owned by state-controlled gas giant Gazprom; networked across Russia, broadcasting on Moscow's 90.3 FM and in hundreds of cities including across the post-Soviet space.
-  sources: internal knowledge only
-curation: 0.45
+  operator: GPM Radio / Gazprom-Media Holding
+  affiliations: Gazprom-Media (state-linked via Gazprombank/Gazprom)
+  audience: Russian motorists and adults 25-55 nationwide
+  format: Russian and international hits 1980s-today, traffic and news for drivers
+  notes: Avtoradio (Авторадио) is a Russian national commercial music network launched on 5 April 1993, broadcasting in Moscow on 90.3 FM and relayed to more than 1,300 cities in Russia and neighbouring countries. It belongs to GPM Radio, the radio division of Gazprom-Media Holding, which acquired it with ProfMedia in 2014; Gazprom-Media is ultimately controlled via Gazprombank by state-owned Gazprom. The format is about 70% Russian and 30% foreign hits from the 1980s to today with drive-time traffic and news; its signature brand is the annual 'Diskoteka 80-kh' retro festival. It has ranked first in Moscow by weekly reach for many years. The catalog stream ic4.101.ru returns 404; a working feed is https://pub0101.101.ru:8443/stream/air/aac/64/100 (resolves to gpm.hostingradio.ru/gpm-avtoradio495.aacp).
+  sources: https://ru.wikipedia.org/wiki/Авторадио; https://www.gpmradio.ru/; https://www.avtoradio.ru/
+curation: 0.05
 provenance:
   - radiobrowser-1daf83f3-6b68-11ea-b1cf-52543be04c81
   - iprd-ru-autoradio-90-3-03729c8f

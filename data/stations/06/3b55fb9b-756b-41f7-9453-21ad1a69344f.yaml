@@ -1,9 +1,9 @@
 stationuuid: 3b55fb9b-756b-41f7-9453-21ad1a69344f
-name: Raadio 2 HQ
+name: Raadio 2
 url: http://icecast.err.ee/raadio2korge.mp3
 url_resolved: http://icecast.err.ee/raadio2korge.mp3
-homepage: ""
-favicon: ""
+homepage: https://r2.err.ee/
+favicon: https://s.err.ee/www/images/favicon/R2Favicon@3x.png
 tags: []
 country: Estonia
 countrycode: EE
@@ -20,14 +20,14 @@ clickcount: 1
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-10
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: ERR (Eesti Rahvusringhääling - Estonian Public Broadcasting)
-  affiliations: Estonian state public broadcaster
-  audience: Estonia; Estonian-speaking; national audience
-  format: Miscellaneous/variety; diverse programming including music, news, entertainment
-  notes: Raadio 2 is operated by ERR, Estonia's public broadcaster; "HQ" designation indicates high-quality stream; serves national audience with cultural and entertainment content; part of Estonia's public radio network.
-  sources: internal knowledge only
-curation: 0.5
+  operator: Eesti Rahvusringhääling (ERR)
+  affiliations: Estonian public broadcaster; EBU member
+  audience: Younger Estonian-speaking listeners
+  format: Contemporary hit and alternative music, Estonian-language
+  notes: Raadio 2 is the youth and contemporary-music channel of Eesti Rahvusringhääling, Estonia's public broadcaster, on air since 1 May 1993 as part of the post-independence restructuring of Estonian Radio. It broadcasts entirely in Estonian with a contemporary hit and alternative music format aimed at younger listeners, and was an early adopter of internet streaming, going online on 18 June 1997. It sits alongside ERR's Vikerraadio, Klassikaraadio, Raadio 4 and Raadio Tallinn.
+  sources: https://en.wikipedia.org/wiki/Raadio_2; https://r2.err.ee/
+curation: 0.60
 provenance:
   - radiobrowser-3b55fb9b-756b-41f7-9453-21ad1a69344f

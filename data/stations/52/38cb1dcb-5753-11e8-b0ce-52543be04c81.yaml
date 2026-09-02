@@ -23,15 +23,15 @@ clickcount: 31
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Fun Radio / NRJ Group
-  affiliations: none known
-  audience: French speakers, particularly younger demographics interested in dance and electronic music
-  format: Dance music, electronic, contemporary pop, dance hits
-  notes: French commercial radio station part of NRJ Group. Focuses on dance music and contemporary hits, popular with younger French audiences.
-  sources: internal knowledge only
-curation: -0.05
+  operator: Groupe M6 (RTL Group), Paris
+  affiliations: Groupe M6 radio division with RTL and RTL2; formerly RTL Group/Ediradio
+  audience: French 13-34 year olds into dance and electro; about 3.4 million monthly active digital listening sessions (ACPM May 2026)
+  format: Dance, electro, house and pop hits; shows include Bruno dans la radio (morning), Party Fun (weekend mixes), Lovin'Fun
+  notes: Fun Radio is a French national music station founded on 2 October 1985 in southern France and owned since 2002 by Groupe M6 (part of RTL Group), which also runs RTL and RTL2. It broadcasts on around 250 FM frequencies (101.9 in Paris, 93.3 Lyon, 99.7 Marseille) plus DAB+ and online, with a dance/electro-pop format aimed at young adults, the Bruno dans la radio morning show, weekend DJ mixes and the long-running Lovin'Fun late-night call-in. ACPM ranked it at a record 3.4 million active digital listening sessions in May 2026. The catalog note attributing it to NRJ Group is wrong. The legacy streaming.radio.funradio.fr URL in this entry now 404s; the icecast.funradio.fr alternate redirects to a working Audiomeans stream.
+  sources: https://en.wikipedia.org/wiki/Fun_Radio_(France); https://www.redtech.pro/m6-group-france-private-digital-radio-rankings/amp/; https://www.lalettre.pro/RTL-RTL2-Fun-Radio-et-M6-Unlimited-audiences-offres-publicitaires-radio-et-audio-tarifs-et-contacts-2026_a41795.html; https://www.funradio.fr/
+curation: 0.15
 provenance:
   - radiobrowser-38cb1dcb-5753-11e8-b0ce-52543be04c81
   - iprd-fr-fun-radio-3a686662

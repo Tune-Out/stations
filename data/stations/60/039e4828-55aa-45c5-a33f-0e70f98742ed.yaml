@@ -23,15 +23,23 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Akaboozi Media (Uganda-based)
   affiliations: none known
   audience: English-speaking Ugandan listeners, particularly sports enthusiasts
-  format: Sports commentary, variety programming, music
-  notes: Commercial community radio station serving Uganda, broadcast on 87.9 FM. Focus on sports commentary and variety entertainment programming. Provides news, talk, and music content to Ugandan audiences. Accessible online via internet streaming.
-  sources: internal knowledge only
-curation: 0.4
+  format: Sports commentary, variety and talk
+  notes: 87.9 Kaboozi FM is a commercial radio station in Uganda broadcast on 87.9 FM, offering sports commentary, variety entertainment, news and talk programming to English-speaking Ugandan audiences.
+  sources: https://www.akaboozi.com/
+curation: 0.22
 provenance:
   - radiobrowser-039e4828-55aa-45c5-a33f-0e70f98742ed
   - iprd-ug-akaboozi-87-9-c524694e
+  - radiobrowser-c1c1d249-e2a8-4fd9-8967-f124f9dff21e
+streams:
+  - url: 'http://162.244.80.52:8732/stream.mp3'
+    codec: MP3
+    bitrate: 64
+  - url: 'http://162.244.80.52:8732/;stream.mp3'
+    codec: MP3
+    bitrate: 64

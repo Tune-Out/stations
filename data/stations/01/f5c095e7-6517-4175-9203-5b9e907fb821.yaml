@@ -2,7 +2,7 @@ stationuuid: f5c095e7-6517-4175-9203-5b9e907fb821
 name: AIR News 24/7
 url: https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
 url_resolved: https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
-homepage: https://liveradios.in/all-india-radio-news-24x7.html
+homepage: https://akashvani.gov.in/radio/live.php
 favicon: https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png
 tags:
   - news-talk
@@ -23,14 +23,14 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
-  nature: public broadcaster
-  operator: Prasar Bharati (All India Radio)
-  affiliations: Government of India, Ministry of Information & Broadcasting
-  audience: India, Hindi-language news audience
-  format: 24/7 news and talk programming in Hindi.
-  notes: All India Radio (AIR) is India's national public radio broadcaster, established in 1936. AIR News 24/7 is a dedicated news service providing continuous coverage of national and international news. AIR operates as part of Prasar Bharati, India's autonomous public broadcasting corporation, funded by the government.
-  sources: internal knowledge only
-curation: 0.55
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: Prasar Bharati (Akashvani / All India Radio)
+  affiliations: Government of India, Ministry of Information and Broadcasting
+  audience: Hindi and English news listeners in India and diaspora
+  format: 24-hour news and current affairs
+  notes: AIR News 24x7 is the continuous news channel of Akashvani (All India Radio), India's state-owned national broadcaster run by Prasar Bharati under the Ministry of Information and Broadcasting. Launched as a digital and DTH service, it carries hourly bulletins, current-affairs programmes and live coverage of Parliament and government events in Hindi and English. The stream is Prasar Bharati's own HLS feed on the BitGravity CDN; the catalogue homepage is a third-party directory page.
+  sources: https://prasarbharati.gov.in/air-news/; https://akashvani.gov.in/radio/live.php; https://en.wikipedia.org/wiki/All_India_Radio
+curation: 0.45
 provenance:
   - radiobrowser-f5c095e7-6517-4175-9203-5b9e907fb821

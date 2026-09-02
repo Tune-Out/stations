@@ -35,6 +35,7 @@ curation: 0.35
 provenance:
   - radiobrowser-cb67b277-3a66-11e9-9b4e-52543be04c81
   - iprd-de-radio-lohro-90-2-35e06ad6
+  - radiobrowser-960dffa2-0601-11e8-ae97-52543be04c81
 streams:
   - url: http://stream.lohro.de:8000/lohro_opus.ogg.m3u
     url_resolved: http://stream.lohro.de:8000/lohro_opus.ogg
@@ -42,3 +43,7 @@ streams:
   - url: http://stream.lohro.de:8000/lohro
     codec: MP3
     bitrate: 128
+  - url: 'http://stream.lohro.de:8000/lohro128.mp3.m3u'
+    url_resolved: 'http://stream.lohro.de:8000/lohro128.mp3'
+    codec: MP3
+    bitrate: 256

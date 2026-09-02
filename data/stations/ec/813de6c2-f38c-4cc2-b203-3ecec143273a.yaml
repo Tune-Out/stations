@@ -31,3 +31,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-813de6c2-f38c-4cc2-b203-3ecec143273a
+  - radiobrowser-e639966a-ca97-41d0-a2fd-de4f1f910c55
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3'
+    url_resolved: 'https://29023.live.streamtheworld.com:443/TLPSTR16.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16AAC.aac'
+    url_resolved: 'https://22673.live.streamtheworld.com:443/TLPSTR16AAC.aac'
+    codec: AAC+
+    bitrate: 96

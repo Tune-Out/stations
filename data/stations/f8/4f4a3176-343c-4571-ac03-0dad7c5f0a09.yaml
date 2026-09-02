@@ -24,14 +24,14 @@ clickcount: 5
 geo_lat: 48.85328602773742
 geo_long: 2.349289942067117
 research:
-  reviewed_at: 2026-06-09
-  nature: non-commercial
-  operator: Independently operated (hosted via dez.ovh domain — likely a small French independent operator)
-  affiliations: none known
-  audience: Global online listeners who enjoy lo-fi / chillhop background music for study, work, and relaxation
-  format: Continuous lo-fi hip-hop, chillhop, and chillout music (24/7 instrumental beats)
-  notes: A small independent internet radio station broadcasting from France focusing on the lo-fi hip-hop genre popularized by YouTube channels like Lofi Girl; uses common indie-radio hosting (Icecast on OVH); minimal public information beyond the genre focus.
-  sources: internal knowledge only
-curation: 0.55
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: Dezodev (Kalizo Radio), France
+  affiliations: Kalizo Radio network
+  audience: Study/work background-music listeners worldwide
+  format: 24/7 lo-fi hip-hop, slowed jazz samples and ambient beats, no hosts or ads
+  notes: Chillofi Radio has been rebranded as Kalizo Radio Lo-Fi, a French independent web stream created by the developer Dezodev and now part of a small Kalizo Radio network alongside 24infos Radio. It plays a continuous, host-free and ad-free mix of lo-fi hip-hop, dusty boom-bap, slowed jazz samples, ambient layers and field recordings intended as background sound for working, studying and relaxing. The old chillofi-radio.dez.ovh address and stream URL both redirect to the new Kalizo endpoints.
+  sources: https://kalizoradio.com/radio/lofi/; https://chillofi-radio.dez.ovh/ (redirect)
+curation: 0.27
 provenance:
   - radiobrowser-4f4a3176-343c-4571-ac03-0dad7c5f0a09

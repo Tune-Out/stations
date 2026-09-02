@@ -2,7 +2,7 @@ stationuuid: 428fecbf-d5e2-4c30-bcde-6dd98b125434
 name: NPO Klassiek
 url: https://icecast.omroep.nl/radio4-bb-mp3
 url_resolved: https://icecast.omroep.nl/radio4-bb-mp3
-homepage: https://www.nporadio4.nl/
+homepage: https://www.npoklassiek.nl/
 favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NPO_Klassiek_logo.svg/250px-NPO_Klassiek_logo.svg.png
 tags:
   - classical
@@ -23,15 +23,15 @@ clickcount: 17
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Nederlandse Publieke Omroep (NPO) — programming produced by AVROTROS, KRO-NCRV and NTR
-  affiliations: Dutch public broadcasting system, funded via media tax and state contribution
-  audience: Dutch-speaking classical music enthusiasts across the Netherlands
-  format: Classical music — live concerts, opera, recordings, podcasts, Dutch Classical Talent Award
-  notes: Formerly NPO Radio 4, rebranded as NPO Klassiek in 2023 with the tagline "Dat voel je" ("You feel that"); the Netherlands' main public classical radio service, broadcasting on FM, DAB+ and online; carries live broadcasts from the Concertgebouw, Saturday Matinee and other Dutch ensembles; notable programs include "Passaggio Late Night" and "Panorama Zondag".
-  sources: https://www.npoklassiek.nl/
-curation: 0.6
+  operator: Nederlandse Publieke Omroep (NPO); AVROTROS, KRO-NCRV, NTR
+  affiliations: Dutch public broadcasting system
+  audience: Dutch classical music listeners
+  format: Classical music, live concerts and opera
+  notes: NPO Klassiek, known as NPO Radio 4 until its 2023 rebrand, is the classical music channel of the Dutch public broadcasting system NPO, with programming produced by AVROTROS, KRO-NCRV and NTR. It broadcasts on FM, DAB+ and online, carrying live concerts from the Concertgebouw and the NTR ZaterdagMatinee, opera, recordings and programmes such as Passaggio Late Night and Panorama Zondag, and runs the Dutch Classical Talent award. The old nporadio4.nl homepage now redirects to npoklassiek.nl.
+  sources: https://www.npoklassiek.nl/; https://icecast.omroep.nl/radio4-bb-mp3
+curation: 0.80
 provenance:
   - radiobrowser-428fecbf-d5e2-4c30-bcde-6dd98b125434
   - iprd-nl-npo-radio-4-17645cfc

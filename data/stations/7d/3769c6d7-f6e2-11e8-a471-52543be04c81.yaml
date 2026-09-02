@@ -34,3 +34,11 @@ curation: 0.55
 provenance:
   - radiobrowser-3769c6d7-f6e2-11e8-a471-52543be04c81
   - iprd-sk-radio-maria-slovensko-e28ca344
+  - radiobrowser-d05ad985-7193-4de8-80ca-225052e6b1d6
+streams:
+  - url: 'http://dreamsiteradiocp5.com:8012/streaming.mp3'
+    codec: AAC+
+    bitrate: 40
+  - url: 'https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3'
+    codec: MP3
+    bitrate: 40

@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0.05
+  reviewed_at: 2026-09-02
+  nature: non-commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: WBGO HD2 Jazz 88 (branded 'The Jazz Bee') is the HD2 digital subchannel of WBGO 88.3 FM, the acclaimed listener-supported jazz station licensed to Newark Public Radio, broadcasting all-jazz programming distinct from WBGO's main NPR/jazz mix. The streamguys.net relay for this specific HD2 stream returned a 404, suggesting this particular URL is stale even though WBGO itself remains fully active.
+  sources: https://www.wbgo.org; https://en.wikipedia.org/wiki/WBGO
+curation: 0.15
 provenance:
   - iprd-us-wbgo-hd2-jazz-88-07c3cad8

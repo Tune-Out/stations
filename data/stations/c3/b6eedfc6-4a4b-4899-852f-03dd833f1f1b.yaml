@@ -1,5 +1,5 @@
 stationuuid: b6eedfc6-4a4b-4899-852f-03dd833f1f1b
-name: ایران‎ Radio Liberty (Iran) (official stream)
+name: Radio Farda
 url: https://stream.radiojar.com/cp13r2cpn3quv
 url_resolved: https://stream.radiojar.com/cp13r2cpn3quv
 homepage: https://www.radiofarda.com/
@@ -22,15 +22,15 @@ clickcount: 84
 geo_lat: 35.69522525087309
 geo_long: 51.384429931640625
 research:
-  reviewed_at: 2026-06-09
-  nature: state media
-  operator: Radio Farda - joint operation of Radio Free Europe/Radio Liberty (RFE/RL) and Voice of America (VOA), funded by the U.S. Agency for Global Media (USAGM)
-  affiliations: U.S. federal government (USAGM); RFE/RL; VOA; editorially independent under congressional charter; not affiliated with Iranian government (broadcasts into Iran, not from Iran)
-  audience: Persian/Farsi-speaking audience inside Iran and the Iranian diaspora
-  format: 24/7 Persian-language news, current affairs, talk and Persian/Western music targeting Iranian listeners; mix of journalism on Iran politics, human rights, and culture
-  notes: Launched 18 December 2002, headquartered in Prague, Czech Republic (not Tehran as YAML state field suggests). Name "Farda" means "Tomorrow" in Persian. Blocked/jammed by the Islamic Republic of Iran. Listed as designated stream is geographically tagged to Tehran for audience reasons. Provides alternative news source to Iranian state media; reporters have faced harassment and family detentions in Iran.
-  sources: internal knowledge (homepage returned HTTP 403)
-curation: 0.6
+  reviewed_at: 2026-09-02
+  nature: non-commercial
+  operator: Radio Free Europe/Radio Liberty (RFE/RL), Prague
+  affiliations: US-government-funded via USAGM; editorially independent; banned and jammed by Iran
+  audience: Persian speakers inside Iran and in the diaspora
+  format: 24/7 Persian-language news, current affairs, culture and music
+  notes: This entry is the Radiojar stream (cp13r2cpn3quv) of Radio Farda, RFE/RL's Persian-language service launched in December 2002 and headquartered in Prague — not in Tehran as the catalog's state and geo fields suggest. Radio Farda is funded by the US Agency for Global Media and broadcasts news, analysis and culture into Iran by satellite, shortwave and online; it continues operating in 2026 with a reduced staff after the 2025 USAGM cuts. The catalog's separate "RFE/RL Radio Farda" entry (96494925) now redirects to this exact same Radiojar mount, so the two entries are the same broadcast.
+  sources: https://en.wikipedia.org/wiki/Radio_Farda; https://about.rferl.org/service/radio-farda/; https://www.radiofarda.com/
+curation: 0.45
 provenance:
   - radiobrowser-b6eedfc6-4a4b-4899-852f-03dd833f1f1b
   - iprd-cz-radio-farda-b09c004a

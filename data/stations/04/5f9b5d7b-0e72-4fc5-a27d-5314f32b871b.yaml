@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/cn/cn.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: Tibet Autonomous Region broadcasting authority
+  affiliations: China National Radio (CNR) relay network
+  audience: Travelers/residents in Tibet
+  format: Traffic/travel information
+  notes: This is a Chinese state-run traffic/travel information channel for the Tibet Autonomous Region, relayed through China National Radio's (CNR) satellite network alongside other provincial CNR affiliates. Content is nominally traffic and travel news, though it operates under China's tightly state-controlled Tibet media apparatus.
+  sources: no web sources found beyond YAML metadata
+curation: -0.03
 provenance:
   - iprd-cn-tibet-external-traffic-broadcasting-0bcfd825

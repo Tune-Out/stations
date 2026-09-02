@@ -37,3 +37,12 @@ provenance:
   - radiobrowser-960d5540-0601-11e8-ae97-52543be04c81
   - iprd-de-rock-antenne-alternative-1e514c1a
   - iprd-de-rock-antenne-alternative-2dbd527d
+  - radiobrowser-d608bb74-0740-47e3-a1e2-c11edfeec91f
+streams:
+  - url: 'http://www.rockantenne.de/webradio/channels/alternative.m3u'
+    url_resolved: 'http://stream.rockantenne.de/alternative'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://stream.rockantenne.de/alternative/stream/mp3'
+    codec: MP3
+    bitrate: 128

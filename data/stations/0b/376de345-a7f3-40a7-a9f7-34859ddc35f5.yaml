@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/hu/hu.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Hír FM is a Hungarian news/talk commercial radio station; it is part of Hungary's pro-government-aligned commercial media landscape but its output is standard news/talk rather than overt propaganda.
+  sources: no additional web sources found beyond YAML metadata
+curation: 0.05
 provenance:
   - iprd-hu-hir-fm-95-3-435e987b

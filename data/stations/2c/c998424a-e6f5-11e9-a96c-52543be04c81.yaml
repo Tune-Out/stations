@@ -23,15 +23,15 @@ clickcount: 34
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Radio France (French public radio group)
-  affiliations: French state broadcaster; government-owned
-  audience: France; French-speaking; young audience, music lovers
-  format: Contemporary music, hip-hop, rap, electronic, pop, youth-oriented programming
-  notes: Mouv' is a France-based public radio station operated by Radio France; focused on contemporary music and youth culture; AAC streaming available
-  sources: internal knowledge only
-curation: 0.5
+  operator: Radio France
+  affiliations: Radio France public radio group
+  audience: French 18-30 year olds into hip-hop and urban culture
+  format: Hip-hop, rap, R&B and urban music with youth-culture talk; slogan "Hip Hop never stop"
+  notes: Mouv' is Radio France's youth station, launched on 17 June 1997 in Toulouse as Le Mouv' and relaunched as a hip-hop-focused network in February 2015. It targets 18-30 year olds with rap, R&B and urban culture programming and is Radio France's smallest network, with audience below 1% nationally. Radio France has repeatedly considered moving it to digital-only distribution (DAB+ and web); it continues to stream in AAC via Radio France's icecast servers.
+  sources: https://en.wikipedia.org/wiki/Mouv%27; https://www.mouv.fr/
+curation: 0.60
 provenance:
   - radiobrowser-c998424a-e6f5-11e9-a96c-52543be04c81
   - iprd-fr-mouv-1685f542

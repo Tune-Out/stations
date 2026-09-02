@@ -49,3 +49,17 @@ provenance:
   - iprd-tr-radyo-dem-19145f6d
   - iprd-us-100-hip-hop-and-rnb-fm-c3b25b32
   - iprd-us-kxpr-capital-public-radio-jazz-55818800
+  - radiobrowser-26ae5761-26fb-4506-a52f-ee5972778328
+  - iprd-us-rnb-and-hip-hop-radio-a2c1dfde
+  - radiobrowser-7eb9e8ed-47f6-4cae-889a-774f6462db5f
+  - iprd-us-100-hip-hop-and-rnb-fm-fee9e6fb
+streams:
+  - url: 'https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://192.99.41.102:5429/'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://ice64.securenetsystems.net/LFTM'
+    codec: AAC+
+    bitrate: 32

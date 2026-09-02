@@ -31,9 +31,13 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-79916e83-d0f4-48fa-8949-7c7beee8aaf2
+  - radiobrowser-b70e5fbc-6ca9-4668-a6cc-05ae0378ee39
 streams:
   - url: https://stream.tbmp.nl:8000/haarlemshuffle.flac
     codec: OGG
   - url: https://stream.tbmp.nl:8000/haarlemshufflelow.aac
     codec: AAC
     bitrate: 64
+  - url: 'https://stream.tbmp.nl:8000/haarlemshufflehigh.mp3'
+    codec: MP3
+    bitrate: 320

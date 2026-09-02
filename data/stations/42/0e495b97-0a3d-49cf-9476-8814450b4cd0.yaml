@@ -34,3 +34,12 @@ curation: 0.6
 provenance:
   - radiobrowser-0e495b97-0a3d-49cf-9476-8814450b4cd0
   - iprd-hk-rthk-radio-1-feef493e
+  - radiobrowser-b52583a4-0da1-4c32-b917-a229f9d3a122
+  - iprd-hk-rthk-radio-1-087e355f
+streams:
+  - url: 'http://stm1.rthk.hk/radio1'
+    codec: MP3
+  - url: 'https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8'
+    codec: AAC
+    bitrate: 70
+    hls: true

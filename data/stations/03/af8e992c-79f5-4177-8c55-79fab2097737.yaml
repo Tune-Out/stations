@@ -21,14 +21,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/us/us.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: Central Carolina Skywarn amateur radio net
+  affiliations: National Weather Service Skywarn program; Broadcastify
+  audience: Amateur radio operators and weather spotters, central North Carolina
+  format: Ham radio net / weather spotting
+  notes: WB4TQD 146.880 is an amateur (ham) radio repeater net relay for Central Carolina Skywarn, a volunteer severe-weather spotter network, streamed publicly via Broadcastify. It functions as a public-safety/volunteer utility feed rather than a conventional music or talk radio station.
+  sources: 'IPRD: streams/us/us.m3u; https://www.broadcastify.com'
+curation: -0.05
 provenance:
   - iprd-us-wb4tqd-146-8800-central-carolina-skywarn-5e862ed2

@@ -31,3 +31,12 @@ research:
 curation: 0.35
 provenance:
   - radiobrowser-dae9feeb-8565-4c50-b2d1-5781081fccb8
+  - radiobrowser-e97c36e7-6510-46ac-b1ad-10069efad77d
+streams:
+  - url: 'https://cast3.my-control-panel.com/stream/ronald/stream.pls'
+    url_resolved: 'https://cast3.my-control-panel.com/proxy/ronald/stream'
+    codec: MP3
+    bitrate: 192
+  - url: 'http://cast3.my-control-panel.com:9364/autodj'
+    codec: MP3
+    bitrate: 192

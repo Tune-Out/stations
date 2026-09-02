@@ -1,5 +1,5 @@
 stationuuid: 96063f25-0601-11e8-ae97-52543be04c81
-name: Classic FM UK
+name: Classic FM
 url: http://ice-the.musicradio.com/ClassicFMMP3
 url_resolved: http://ice-the.musicradio.com/ClassicFMMP3
 homepage: http://www.classicfm.com/
@@ -23,23 +23,33 @@ clickcount: 134
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Global (Global Media & Entertainment Ltd), the UK's largest commercial radio group
-  affiliations: none known (religiously and politically independent commercial broadcaster)
-  audience: UK national, English-speaking, mainstream classical music listeners
-  format: Classical music with accessible presentation, news, talk segments, listener-voted Hall of Fame
-  notes: Launched 7 September 1992 as the UK's first and only national commercial classical music station, broadcasting on FM (100.0-102.0 MHz), DAB, satellite, and online. Famous for the annual Classic FM Hall of Fame (world's largest classical music poll). Positions itself as "The Most Relaxing Music"; operates spin-offs Classic FM Calm and Classic FM Movies via the Global Player app. Major UK classical music brand.
-  sources: http://www.classicfm.com/, internal knowledge
-curation: 0.35
+  operator: Global Media & Entertainment
+  affiliations: Global radio group (Capital, Heart, LBC)
+  audience: UK mainstream classical listeners
+  format: Accessible classical music, film and game scores
+  notes: Classic FM is the UK's national commercial classical music station, launched on 7 September 1992 and owned by Global Media & Entertainment. It broadcasts on FM 99.9-101.9, DAB+ (switched from 128k DAB to 64k DAB+ in January 2024), Freeview, satellite and Global Player, reaching about 4.7 million weekly listeners (RAJAR, May 2025). Programming is accessible classical music with film, television and video-game scores, presented by names such as Alexander Armstrong, Myleene Klass, Jonathan Ross, Alan Titchmarsh and John Humphrys, with the annual Easter Hall of Fame listener poll and the video-game series High Score. Automated spin-offs Classic FM Calm and Classic FM Movies launched in September 2024.
+  sources: https://en.wikipedia.org/wiki/Classic_FM_(UK); https://www.classicfm.com/
+curation: 0.50
 provenance:
   - radiobrowser-96063f25-0601-11e8-ae97-52543be04c81
   - iprd-gb-classic-fm-uk-9d2f3d2a
   - iprd-gb-classic-fm-uk-f11cae49
+  - radiobrowser-32da2113-229c-11e9-a80b-52543be04c81
+  - iprd-gb-classic-fm-876b03f5
+  - radiobrowser-526ea18b-b932-11e8-aaf2-52543be04c81
+  - iprd-gb-classic-fm-ba84ef9f
 streams:
   - url: http://media-the.musicradio.com/ClassicFM
     codec: AAC
     bitrate: 48
   - url: http://ice-the.musicradio.com/ClassicFMMP3
+    codec: MP3
+    bitrate: 128
+  - url: 'http://media-ice.musicradio.com/ClassicFMMP3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://ice-sov.musicradio.com/ClassicFMMP3'
     codec: MP3
     bitrate: 128

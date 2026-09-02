@@ -32,3 +32,12 @@ curation: 0.35
 provenance:
   - radiobrowser-fd23d4ea-4bc3-4398-aa71-050cee899d1e
   - iprd-cz-radio-dechovka-1233-65a864cd
+  - radiobrowser-90762bd0-8a7f-4015-b00a-111c305699b2
+streams:
+  - url: 'http://icecast5.play.cz/dechovka128.mp3'
+    codec: MP3
+    bitrate: 128
+  - url: 'http://37.46.208.57:8000/stream_cra_256.mp3.m3u'
+    url_resolved: 'http://37.46.208.57:8000/stream_cra_256.mp3'
+    codec: MP3
+    bitrate: 256

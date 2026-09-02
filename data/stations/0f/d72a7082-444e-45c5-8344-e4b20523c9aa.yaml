@@ -35,8 +35,13 @@ provenance:
   - radiobrowser-d72a7082-444e-45c5-8344-e4b20523c9aa
   - iprd-cn-xuzhou-news-radio-1269-93-0-b52fa63e
   - iprd-cn-xuzhou-music-broadcasting-91-9-784b18f1
+  - radiobrowser-f053017d-a7ea-44b8-98c8-547039348c20
 streams:
   - url: https://lhttp.qingting.fm/live/4923/64k.mp3
     codec: MP3
   - url: http://lhttp.qingting.fm/live/4923/64k.mp3
     codec: MP3
+  - url: 'http://stream3.huaihai.tv/aac_gbFM916/playlist.m3u8'
+    codec: UNKNOWN
+    bitrate: 64
+    hls: true

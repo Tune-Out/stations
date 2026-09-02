@@ -24,15 +24,15 @@ clickcount: 64
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: 1.FM Inc. (Swiss-registered internet radio network, Zug/Switzerland)
-  affiliations: none known; SUISA-licensed; ad-supported with optional premium subscription
-  audience: International chillout/downtempo/lounge music fans, primarily English-speaking
-  format: Curated chillout, ambient and lounge music; mellow electronica and downtempo, 24/7 automated rotation
-  notes: 1.FM is one of the oldest internet radio operations, launched in 1998 from Switzerland by Roger Schaer and now operating dozens of genre-specific streams including Chillout Lounge, Absolute Top 40, Bossa Nova, Reggae Trade, Otto's Opera House, and many others; commercial network supported by advertising and premium ad-free subscriptions; programmed entirely as automated music streams without live DJs on most channels; one of the most listened-to internet radio brands on aggregators such as TuneIn, iHeart, and SHOUTcast directories with millions of monthly listeners worldwide.
-  sources: https://www.1.fm/ (redirected to https://radio.1cloud.fm/), internal knowledge
-curation: 0.4
+  operator: 1.FM (Swiss-registered internet radio network)
+  affiliations: none; ad-supported with an optional ad-free premium tier
+  audience: International chillout, downtempo and lounge listeners
+  format: Automated chillout, ambient and lounge rotation, no live presenters
+  notes: 1.FM is one of the longest-running internet radio operations, broadcasting from Switzerland since 1998 and now running dozens of genre channels under the radio.1cloud.fm platform. Chillout Lounge is its downtempo and ambient stream, programmed as a continuous automated rotation rather than a presenter-led service. The network is commercial, funded by advertising with a paid ad-free tier, and its channels are widely carried on TuneIn, iHeart and SHOUTcast directories. The old 1.fm domain now redirects permanently to radio.1cloud.fm.
+  sources: https://www.1.fm/; https://radio.1cloud.fm/
+curation: 0.33
 provenance:
   - radiobrowser-961fb4b2-0601-11e8-ae97-52543be04c81
   - iprd-ch-1-fm-chillout-lounge-radio-860154eb

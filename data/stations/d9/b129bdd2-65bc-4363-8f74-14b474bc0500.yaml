@@ -2,7 +2,7 @@ stationuuid: b129bdd2-65bc-4363-8f74-14b474bc0500
 name: Radio Marca
 url: https://sonic.mediatelekom.net/9316/stream
 url_resolved: https://sonic.mediatelekom.net/9316/stream
-homepage: ""
+homepage: https://www.marca.com/radio.html
 favicon: ""
 tags:
   - classical
@@ -21,15 +21,23 @@ clickcount: 3
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
-  operator: Private broadcaster (España, Spain)
-  affiliations: none known
-  audience: Spanish-speaking listeners interested in classical music
-  format: Classical music programming
-  notes: '"Radio Marca" is Spanish commercial station; classical music focus; limited homepage information available; significant listener base (11,601 votes)'
-  sources: internal knowledge only
-curation: 0.35
+  operator: Unidad Editorial, S.A. (RCS MediaGroup), publisher of the daily Marca
+  affiliations: Unidad Editorial / RCS MediaGroup; advertising-funded
+  audience: Spanish-speaking sports fans nationwide
+  format: Sports talk — live football and multi-sport commentary, results and debate
+  notes: 'Radio Marca is Spain''s national sports talk network, launched on 1 February 2001 and owned by Unidad Editorial, the publisher of the sports daily Marca and part of Italy''s RCS MediaGroup. Its slogan is "La radio que hace afición" and its output is almost entirely sport: football above all, plus basketball, handball, motorsport and tennis. Flagship programmes include Marcador, the rolling live-results show, the morning panel show A diario, Marcador Internacional and El Futbolín. The network runs more than 50 local stations across Spain with regional opt-outs in Barcelona (since 2004), Madrid, Valencia, Seville and elsewhere, and is carried on FM nationwide, on DAB in Madrid and Barcelona, on DTT and online. Earlier catalog metadata describing it as a classical-music station was wrong, and its homepage field was empty.'
+  sources: https://es.wikipedia.org/wiki/Radio_Marca; https://www.marca.com/radio.html
+curation: 0.30
 provenance:
   - radiobrowser-b129bdd2-65bc-4363-8f74-14b474bc0500
   - iprd-es-radio-marca-f396aeca
+  - radiobrowser-03c2c0cb-0f42-411c-bfd3-51d74da92609
+streams:
+  - url: 'https://sonic.mediatelekom.net/9316/stream'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://www.marca.com/radio/geoblock/getSrcApp.php?dial=Nacional&dist=radiomarcaweb'
+    codec: MP3
+    bitrate: 128

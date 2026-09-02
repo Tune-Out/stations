@@ -23,14 +23,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/mx/mx.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: Mix 106.5 (XHGV-FM) is a Spanish-language commercial hits/pop station in Querétaro, Mexico, operated by Grupo ACIR and distributed via iHeartRadio.
+  sources: https://i.iheart.com
+curation: 0.10
+duplicate_of: 034cd3e8-2866-4267-b200-c638ea2aa9ed
 provenance:
   - iprd-mx-mix-106-5-xhgv-4e877b81

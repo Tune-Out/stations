@@ -22,7 +22,7 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: commercial
   operator: Rock Antenne (German rock radio network)
   affiliations: none known
@@ -30,6 +30,15 @@ research:
   format: Hair metal rock specialization; part of Rock Antenne's genre-specific channel network
   notes: German rock radio specializing in 1980s hair metal subgenre; part of larger Rock Antenne network
   sources: https://www.rockantenne.de/
-curation: -0.05
+curation: 0.09
 provenance:
   - radiobrowser-2ed4195c-73a1-46ab-b6cb-e1afe68ea82a
+  - radiobrowser-05da52cf-0e21-4af7-8aab-1dde7175d611
+  - iprd-de-rock-antenne-hair-metal-412d2c6b
+  - iprd-de-rock-antenne-hair-metal-d872f0b2
+streams:
+  - url: 'https://stream.rockantenne.de/hair-metal/stream/aacp'
+    codec: AAC
+  - url: 'https://s9-webradio.rockantenne.de/hair-metal/stream'
+    codec: MP3
+    bitrate: 128

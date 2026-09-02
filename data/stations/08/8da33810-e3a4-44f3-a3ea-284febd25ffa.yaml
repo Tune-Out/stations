@@ -23,14 +23,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/pl/pl.m3u"
+  reviewed_at: 2026-09-02
+  nature: online-only
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: OpenFM House is a house/electronic-music channel on Open.fm (formerly Gadu Radio), the Wirtualna Polska-owned Polish internet radio platform with over 120 curated genre channels. The legacy stream.open.fm CDN endpoint for this channel is unreachable, though the Open.fm platform itself remains actively operated.
+  sources: https://pl.wikipedia.org/wiki/Open.fm; http://open.fm
 curation: 0.05
 provenance:
   - iprd-pl-openfm-house-9a39d16e

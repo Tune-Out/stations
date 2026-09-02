@@ -33,3 +33,10 @@ research:
 curation: 0.3
 provenance:
   - radiobrowser-101b8086-a767-453d-a614-59b5be6be14c
+  - radiobrowser-b907e678-48a6-4b39-9883-9e1bbabfcda5
+streams:
+  - url: 'http://streams.90s90s.de/inthemix/aac-64/streams.90s90s.de/'
+    codec: AAC
+  - url: 'http://streams.90s90s.de/inthemix/mp3-192/streams.90s90s.de/play.m3u'
+    url_resolved: 'http://regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440?sABC=69684186%230%23r30o443r1929r059s085628511796n57%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1768440198'
+    codec: MP3

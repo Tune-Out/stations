@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/gt/gt.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: ''
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: RadioDJ Guatemala 101.1 appears to be a small commercial Latin/pop station in Guatemala distributed via the Zeno.fm hosting platform, with no independent web presence found beyond aggregator listings (TuneIn logo hosting). The zeno.fm relay returned an authentication error rather than serving audio.
+  sources: 'catalog metadata (IPRD: streams/gt/gt.m3u)'
+curation: -0.03
 provenance:
   - iprd-gt-radiodj-guatemala-101-1-6acbce0a

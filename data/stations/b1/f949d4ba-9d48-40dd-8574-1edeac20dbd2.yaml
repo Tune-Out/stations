@@ -31,11 +31,16 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-f949d4ba-9d48-40dd-8574-1edeac20dbd2
+  - radiobrowser-1dfb2bc8-093f-40b3-8462-cc7aa48e9236
+  - radiobrowser-f6937fa3-65b3-4411-b715-132bd060cc9a
 streams:
   - url: https://lovesantiago.radioca.st/stream.m3u
     codec: MP3
     bitrate: 64
   - url: https://lovesantiago.radioca.st:2199/tunein/lovesantiago-stream.pls
     url_resolved: http://148.251.43.149:8832/stream
+    codec: MP3
+    bitrate: 64
+  - url: 'http://lovesantiago.radioca.st:8832/stream'
     codec: MP3
     bitrate: 64

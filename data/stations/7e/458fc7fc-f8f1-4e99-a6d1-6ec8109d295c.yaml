@@ -37,3 +37,10 @@ curation: 0.3
 provenance:
   - radiobrowser-458fc7fc-f8f1-4e99-a6d1-6ec8109d295c
   - iprd-ae-lionel-richie-02c985f9
+  - iprd-ae-lionel-richie-hits-0294c33e
+streams:
+  - url: 'https://streaming.exclusive.radio/er/lionelrichie/icecast.audio'
+    url_resolved: 'https://nl4.mystreaming.net/er/lionelrichie/icecast.audio'
+    codec: MP3
+  - url: 'https://streaming.exclusive.radio/er/lionelrichiehits/icecast.audio'
+    bitrate: 128

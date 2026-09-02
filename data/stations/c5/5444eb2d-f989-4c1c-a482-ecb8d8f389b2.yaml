@@ -1,8 +1,8 @@
 stationuuid: 5444eb2d-f989-4c1c-a482-ecb8d8f389b2
-name: SWR2
+name: SWR Kultur
 url: https://f111.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&sid=28ew6Usq6cch83eglcsXwLlNRS3&token=Ip5bwQ_T81Lq_mqKc3HUjnxrk94ek2bDcfNyNHuqRGk&tvf=XFsRgyq06xZmMTExLnJuZGZuay5jb20
 url_resolved: https://f111.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&sid=28ew6Usq6cch83eglcsXwLlNRS3&token=Ip5bwQ_T81Lq_mqKc3HUjnxrk94ek2bDcfNyNHuqRGk&tvf=XFsRgyq06xZmMTExLnJuZGZuay5jb20
-homepage: https://www.swr.de/swr2/index.html
+homepage: https://www.swr.de/swrkultur/index.html
 favicon: https://www.swr.de/assets/swr/swrkultur/apple-touch-icon.png
 tags:
   - classical
@@ -21,15 +21,15 @@ clickcount: 15
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Sudwestrundfunk (SWR), a regional ARD public broadcaster serving Baden-Wurttemberg and Rhineland-Palatinate
-  affiliations: ARD (Arbeitsgemeinschaft der offentlichen-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland); funded by Rundfunkbeitrag household licence fee; politically independent under German public-broadcasting law
+  operator: Südwestrundfunk (SWR), ARD
+  affiliations: ARD
   audience: German-speaking adult listeners interested in classical music, culture, arts, and current affairs in southwest Germany and nationally via DAB+/web
   format: Cultural and classical music network featuring symphonic works, opera, jazz, literature, radio drama, features, and in-depth cultural journalism
-  notes: SWR2 is the cultural channel of Sudwestrundfunk, formed in 1998 from the merger of SDR and SWF; rebranded as SWR Kultur in 2024 though the SWR2 stream identity persists; home of long-form features ("Aula", "SWR2 Wissen"), Horspiel radio drama, and live concerts from the SWR Symphonieorchester and SWR Vokalensemble; broadcasts via FM, DAB+, satellite, and online; one of Germany's most respected cultural networks
-  sources: internal knowledge only
-curation: 0.7
+  notes: 'SWR Kultur, known as SWR2 until 15 April 2024, is the culture channel of Südwestrundfunk (SWR), the ARD public broadcaster for Baden-Württemberg and Rhineland-Palatinate, based in Baden-Baden. It alternates long-form word and music blocks: classical music dominates, joined by jazz, world and experimental music, features (Das Wissen), radio drama, the daily SWR Kultur Forum discussion and live broadcasts from festivals such as the Donaueschinger Musiktage and the SWR Symphonieorchester. It is licence-fee funded and available on FM, DAB+, satellite and online.'
+  sources: https://de.wikipedia.org/wiki/SWR_Kultur; https://www.swr.de/swrkultur/index.html
+curation: 0.80
 provenance:
   - radiobrowser-5444eb2d-f989-4c1c-a482-ecb8d8f389b2
   - iprd-de-swr2-0ee437b9

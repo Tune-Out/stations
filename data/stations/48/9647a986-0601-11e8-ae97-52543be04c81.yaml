@@ -1,8 +1,8 @@
 stationuuid: 9647a986-0601-11e8-ae97-52543be04c81
-name: Polskie Radio - Chopin (Radio Chopin) (AAC+)
+name: Polskie Radio Chopin
 url: http://stream3.polskieradio.pl:8960/;
 url_resolved: http://stream3.polskieradio.pl:8960/;
-homepage: http://chopin.polskieradio.pl/
+homepage: https://chopin.polskieradio.pl/
 favicon: http://chopin.polskieradio.pl/images/favicon-32x32.png
 tags:
   - classical
@@ -23,15 +23,23 @@ clickcount: 7
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: public broadcaster
-  operator: Polskie Radio (Polish Radio)
-  affiliations: Polish public radio corporation
-  audience: Poland, Polish speakers, classical music listeners
-  format: Classical music programming, with emphasis on Chopin and Polish composers.
-  notes: Radio Chopin (Polskie Radio - Chopin) is a dedicated channel of Polskie Radio, Poland's national public radio broadcaster. Launched in 2002, it focuses exclusively on classical music with a special emphasis on the works of Frédéric Chopin and other Polish composers. It serves as Poland's cultural institution dedicated to classical music appreciation.
-  sources: internal knowledge only
-curation: 0.6
+  operator: Polskie Radio S.A.
+  affiliations: Polish public radio; EBU
+  audience: Classical music listeners in Poland and Polish diaspora
+  format: 24/7 classical music with emphasis on Chopin and Polish composers
+  notes: Polskie Radio Chopin is the thematic classical-music channel of Polskie Radio, Poland's national public broadcaster, launched 11 November 2017 on DAB+ (MUX-R3) and online from Warsaw. It broadcasts classical music around the clock with a strong emphasis on Chopin, Polish composers and the International Chopin Competition, plus essays, discography features and podcasts. Editor-in-chief is Piotr Matwiejczuk (since 2024, succeeding Marcin Gmys). The catalog stream on port 8960 is dead; the live 192 kbps MP3 feed is on http://stream3.polskieradio.pl:8910/ (used by the sibling entry 964a72fd).
+  sources: https://pl.wikipedia.org/wiki/Polskie_Radio_Chopin; https://chopin.polskieradio.pl/
+curation: 0.70
 provenance:
   - radiobrowser-9647a986-0601-11e8-ae97-52543be04c81
   - iprd-pl-polskie-radio-chopin-a8b8c0f8
+  - radiobrowser-964a72fd-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://stream3.polskieradio.pl:8960/;'
+    codec: AAC+
+    bitrate: 320
+  - url: 'http://stream3.polskieradio.pl:8910/'
+    codec: MP3
+    bitrate: 192

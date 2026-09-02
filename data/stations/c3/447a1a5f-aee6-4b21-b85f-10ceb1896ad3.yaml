@@ -32,3 +32,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-447a1a5f-aee6-4b21-b85f-10ceb1896ad3
+  - iprd-br-alpha-101-7-a7342468
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac'
+    url_resolved: 'https://26653.live.streamtheworld.com:443/RADIO_ALPHAFM_ADP.aac'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm'
+    url_resolved: 'https://27573.live.streamtheworld.com:443/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm'
+    codec: AAC
+    bitrate: 128

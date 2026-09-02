@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/cn/cn.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: state media
+  operator: China National Radio (CNR)
+  affiliations: CNR-15 traffic broadcasting network
+  audience: Hebei province drivers/commuters
+  format: Traffic/local news
+  notes: CNR-15 is China National Radio's dedicated traffic-broadcasting channel; this is its Hebei provincial relay edition, delivering traffic and local news for Hebei listeners as part of China's state broadcasting system.
+  sources: no web sources found beyond YAML metadata
+curation: 0.21
 provenance:
   - iprd-cn-cnr-15-china-traffic-broadcasting-hebei-edition-56a2c861

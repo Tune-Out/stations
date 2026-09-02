@@ -22,14 +22,14 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/au/au.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ARN (Australian Radio Network) — Smooth network
+  affiliations: ''
+  audience: Australia, adult-contemporary/oldies listeners
+  format: soft AC/oldies
+  notes: Smooth is a national Australian commercial adult-contemporary/easy-listening radio network operated via ARN, with this stream a regional 'Smooth' affiliate carrying 50s/60s-leaning soft favorites. The specific stream endpoint returned an access-restricted response, though the network itself is well established and active.
+  sources: https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac
+curation: 0.15
 provenance:
   - iprd-au-smooth-91-5-fm-32d6349a

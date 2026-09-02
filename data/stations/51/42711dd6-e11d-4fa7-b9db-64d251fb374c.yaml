@@ -31,3 +31,11 @@ research:
 curation: 0.3
 provenance:
   - radiobrowser-42711dd6-e11d-4fa7-b9db-64d251fb374c
+  - radiobrowser-5cea306e-7cc0-4a14-9ac1-d2e47133fdf1
+streams:
+  - url: 'https://server.mixify.in/listen/evergreen/radio.mp3'
+    codec: MP3
+    bitrate: 192
+  - url: 'https://server.mixify.in:8010/'
+    codec: MP3
+    bitrate: 192

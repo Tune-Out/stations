@@ -1,5 +1,5 @@
 stationuuid: 9614eb15-0601-11e8-ae97-52543be04c81
-name: SomaFM Mission Control (128k MP3)
+name: SomaFM Mission Control
 url: https://somafm.com/missioncontrol.pls
 url_resolved: https://ice4.somafm.com/missioncontrol-128-mp3
 homepage: https://somafm.com/missioncontrol/
@@ -24,15 +24,15 @@ clickcount: 3
 geo_lat: 37.809784
 geo_long: -121.286316
 research:
-  reviewed_at: 2026-06-09
+  reviewed_at: 2026-09-02
   nature: non-commercial
   operator: SomaFM
-  affiliations: none known
+  affiliations: none; listener-supported
   audience: Global internet radio audience interested in ambient, experimental, and space-themed music
-  format: Ambient and experimental electronic music with space program theme; curated DJ programming; mission control/space exploration conceptual branding.
-  notes: SomaFM is a listener-supported, non-commercial internet radio station based in California. Mission Control is a flagship channel featuring ambient and space-themed experimental music. Founded in the 1990s; pioneering commercial-free streaming internet radio model.
-  sources: internal knowledge only
-curation: 0.65
+  format: ambient/downtempo mixed with NASA mission audio
+  notes: Mission Control is SomaFM's space-themed channel, mixing ambient and downtempo electronic music with live and archival NASA mission audio, launch commentary and astronaut communications. SomaFM is a San Francisco listener-supported, commercial-free internet radio network founded in 1999/2000 that runs more than 30 hand-curated channels and is one of the longest-running independent internet broadcasters.
+  sources: https://somafm.com/missioncontrol/; https://en.wikipedia.org/wiki/SomaFM
+curation: 0.70
 provenance:
   - radiobrowser-9614eb15-0601-11e8-ae97-52543be04c81
   - iprd-us-somafm-mission-control-c407efda

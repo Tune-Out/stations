@@ -21,14 +21,15 @@ clickcount: 0
 geo_lat: null
 geo_long: null
 research:
-  reviewed_at: ""
-  nature: ""
-  operator: ""
-  affiliations: ""
-  audience: ""
-  format: ""
-  notes: Imported from IPRD catalog.
-  sources: "IPRD: streams/de/de.m3u"
-curation: 0
+  reviewed_at: 2026-09-02
+  nature: commercial
+  operator: ''
+  affiliations: ''
+  audience: ''
+  format: ''
+  notes: 105'5 Spreeradio Love is a soft/love-songs specialty stream of Berlin's 105'5 Spreeradio, part of the RTL Radio Deutschland/Regiocast commercial network. The catalog's specific token-based stream URL is dead, though the parent station remains active under other stream endpoints.
+  sources: https://www.spreeradio.de
+curation: 0.10
+duplicate_of: 962a103e-0601-11e8-ae97-52543be04c81
 provenance:
   - iprd-de-spreeradio-love-105-5-de649ed1

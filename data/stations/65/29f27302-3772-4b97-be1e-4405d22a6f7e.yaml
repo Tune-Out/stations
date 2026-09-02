@@ -30,3 +30,11 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-29f27302-3772-4b97-be1e-4405d22a6f7e
+  - radiobrowser-cff8e384-a8d7-4b76-aa97-51870a499e07
+streams:
+  - url: 'https://laradiossl.online:9226/;'
+    codec: AAC+
+    bitrate: 128
+  - url: 'https://radio.mipanel.stream:7000/stream'
+    codec: AAC+
+    bitrate: 128

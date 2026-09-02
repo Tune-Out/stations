@@ -35,3 +35,13 @@ research:
 curation: 0.7
 provenance:
   - radiobrowser-96269570-0601-11e8-ae97-52543be04c81
+  - radiobrowser-9614470e-0601-11e8-ae97-52543be04c81
+streams:
+  - url: 'http://playerservices.streamtheworld.com/m3u/KVPRFMAAC.m3u'
+    url_resolved: 'http://27033.live.streamtheworld.com/KVPRFMAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'http://playerservices.streamtheworld.com/m3u/KVPRFM.m3u'
+    url_resolved: 'http://27033.live.streamtheworld.com/KVPRFM_SC'
+    codec: MP3
+    bitrate: 64

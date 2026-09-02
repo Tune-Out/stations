@@ -33,3 +33,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-9628e3c0-0601-11e8-ae97-52543be04c81
+  - radiobrowser-b00c6882-3a7c-4ac0-8696-75acc3755ef3
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/SER_MALLORCA.pls'
+    url_resolved: 'http://25443.live.streamtheworld.com:80/SER_MALLORCA_SC'
+    codec: MP3
+    bitrate: 128
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3'
+    url_resolved: 'https://25593.live.streamtheworld.com:443/CADENASER_ALT2.mp3'
+    codec: MP3
+    bitrate: 128

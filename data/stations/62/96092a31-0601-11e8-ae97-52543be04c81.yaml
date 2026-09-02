@@ -37,6 +37,7 @@ provenance:
   - iprd-de-radio-heimatmelodie-a6b90bfa
   - iprd-de-radio-heimatmelodie-c3c39144
   - iprd-de-radio-heimatmelodie-34bb0bf5
+  - radiobrowser-180fe0f5-eb6c-4b73-b4d5-d4924dcd2a92
 streams:
   - url: http://212.77.178.166:8010/;
     codec: AAC+
@@ -46,4 +47,7 @@ streams:
     bitrate: 24
   - url: http://play.radio-heimatmelodie.de/;
     codec: MP3
+    bitrate: 128
+  - url: 'https://rhm1.de/hiquality.aac?t=1778248220394'
+    codec: AAC
     bitrate: 128

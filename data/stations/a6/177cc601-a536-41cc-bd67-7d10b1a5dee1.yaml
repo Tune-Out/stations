@@ -44,3 +44,13 @@ research:
 curation: -0.1
 provenance:
   - radiobrowser-177cc601-a536-41cc-bd67-7d10b1a5dee1
+  - radiobrowser-c64bac21-8894-4683-b61e-a06a2ff82ba0
+streams:
+  - url: 'https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac'
+    url_resolved: 'https://29314.live.streamtheworld.com:443/XEFRAMAAC.aac'
+    codec: AAC+
+    bitrate: 48
+  - url: 'https://playerservices.streamtheworld.com/pls/XEFRAMAAC.pls'
+    url_resolved: 'https://22963.live.streamtheworld.com:443/XEFRAMAAC_SC'
+    codec: AAC+
+    bitrate: 48

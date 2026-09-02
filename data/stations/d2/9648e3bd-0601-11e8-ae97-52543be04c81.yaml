@@ -34,3 +34,13 @@ research:
 curation: -0.05
 provenance:
   - radiobrowser-9648e3bd-0601-11e8-ae97-52543be04c81
+  - iprd-us-kdus-1060-de2bb680
+streams:
+  - url: 'http://playerservices.streamtheworld.com/pls/KDUSAMAAC.pls'
+    url_resolved: 'http://16643.live.streamtheworld.com:80/KDUSAMAAC_SC'
+    codec: AAC+
+    bitrate: 64
+  - url: 'https://playerservices.streamtheworld.com/pls/KDUSAMAAC.pls'
+    url_resolved: 'https://19273.live.streamtheworld.com:443/KDUSAMAAC_SC'
+    codec: AAC
+    bitrate: 128
